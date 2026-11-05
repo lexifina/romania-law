@@ -603,6 +603,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-10-2011",
+   "path": "ue/regulament/2011/10",
+   "short": "Regulamentul (UE) nr. 10/2011",
+   "title": "Regulamentul (UE) nr. 10/2011 al Comisiei din 14 ianuarie 2011 privind materialele și obiectele din plastic destinate să vină în contact cu produsele alimentare Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0010",
+   "versions": [
+    {
+     "from": "2011-02-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/84665a0a-f9e5-4eae-aac5-af4fd4c8ac94.0019.03/DOC_1",
+     "sha256": "d9b83d5006971ae3dac907de96092e64a9925fe6a8bdeae36537c1a05c9ccb9f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1007-2011",
    "path": "ue/regulament/2011/1007",
    "short": "Regulamentul (UE) nr. 1007/2011",
@@ -614,6 +629,81 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/85f446fd-05a5-47d7-b0d3-96418710a1e0.0002.03/DOC_1",
      "sha256": "5ec35b4c6c01dea7d29a3f11cc49893bd8ef8e8f9e37f24c7c8cb124185f9203"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-106-2011",
+   "path": "ue/regulament/2011/106",
+   "short": "Regulamentul (UE) nr. 106/2011",
+   "title": "Regulamentul (UE) nr. 106/2011 al Comisiei din 7 februarie 2011 de aprobare a unor modificări care nu sunt minore din caietul de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Cerezas de la Montaña de Alicante (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0106",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9ae713e2-2585-4f9b-a177-01d93c942d73.0013.03/DOC_1",
+     "sha256": "84deb78d5db5f354926e084c1af3dd65370ea31ceca0d00677fcc0e435b58be7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-111-2011",
+   "path": "ue/regulament/2011/111",
+   "short": "Regulamentul (UE) nr. 111/2011",
+   "title": "Regulamentul (UE) nr. 111/2011 al Comisiei din 7 februarie 2011 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0111",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6ba0c8cf-acf4-4553-8bac-580bdd9f84b2.0016.03/DOC_1",
+     "sha256": "424d295396230d939609468e6c9df797e41cfe6833ea0fb7915cbecec8e99bce"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1129-2011",
+   "path": "ue/regulament/2011/1129",
+   "short": "Regulamentul (UE) nr. 1129/2011",
+   "title": "Regulamentul (UE) nr. 1129/2011 al Comisiei din 11 noiembrie 2011 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului prin stabilirea unei liste a Uniunii a aditivilor alimentari Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R1129",
+   "versions": [
+    {
+     "from": "2011-12-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d825de4c-0061-429c-8e72-60b800cf41b3.0017.03/DOC_1",
+     "sha256": "bc228ad3db694d11a355b10012769910cdde28cfb54b7f921af4a20a6ac78579"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-113-2011",
+   "path": "ue/regulament/2011/113",
+   "short": "Regulamentul (UE) nr. 113/2011",
+   "title": "Regulamentul (UE) nr. 113/2011 al Comisiei din 7 februarie 2011 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0113",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/20796665-ee11-4f64-aa5f-953d3cb5e50b.0019.03/DOC_1",
+     "sha256": "69e9474fc2f14680f42179a9c835c2685815ee151841a087cc3d60ecdcb2b0a3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1164-2011",
+   "path": "ue/regulament/2011/1164",
+   "short": "Regulamentul (UE) nr. 1164/2011",
+   "title": "Regulamentul (UE) nr. 1164/2011 al Comisiei din 15 noiembrie 2011 de deschidere a unei reexaminări a Regulamentului de punere în aplicare (UE) nr. 723/2011 al Consiliului [de extindere a taxei antidumping definitive instituite prin Regulamentul (CE) nr. 91/2009 al Consiliului privind importurile de anumite elemente de fixare din fier sau oțel originare din Republica Populară Chineză la importurile de anumite elemente de fixare din fier sau oțel expediate din Malaysia, indiferent dacă produsul este sau nu declarat ca provenind din Malaysia] pentru a stabili posibilitatea de a acorda o scutire de la aceste măsuri unui producător-exportator malaysian, de abrogare a taxei antidumping cu privire la importurile provenite de la acest producător-exportator și de înregistrare a acestor importuri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R1164",
+   "versions": [
+    {
+     "from": "2011-11-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dbac36f5-5244-4f7e-9f08-a1e331f01407.0009.03/DOC_1",
+     "sha256": "b863ef54e1621ca1cff2645595e96c43ef336ca0f965d7fea8d4c34db5402aba"
     }
    ]
   },
@@ -633,6 +723,321 @@
    ]
   },
   {
+   "slug": "ue-regulament-1170-2011",
+   "path": "ue/regulament/2011/1170",
+   "short": "Regulamentul (UE) nr. 1170/2011",
+   "title": "Regulamentul (UE) nr. 1170/2011 al Comisiei din 16 noiembrie 2011 de refuzare a autorizării anumitor mențiuni de sănătate înscrise pe produsele alimentare și care se referă la reducerea riscului de îmbolnăvire Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R1170",
+   "versions": [
+    {
+     "from": "2011-12-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b3584d6d-ac6f-41d8-a752-1700c2fd5816.0010.03/DOC_1",
+     "sha256": "7f6bc1b6ced35fa26c914146d51b1a32d6561293c95ca4e56876b570f5c7c0a0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1171-2011",
+   "path": "ue/regulament/2011/1171",
+   "short": "Regulamentul (UE) nr. 1171/2011",
+   "title": "Regulamentul (UE) nr. 1171/2011 al Comisiei din 16 noiembrie 2011 de refuzare a autorizării anumitor mențiuni de sănătate înscrise pe produsele alimentare, altele decât cele care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R1171",
+   "versions": [
+    {
+     "from": "2011-12-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e1c5cb5d-6125-40e5-b2ab-43ce9415827e.0004.03/DOC_1",
+     "sha256": "7d0fffe9cc1a30e8e20f4087d8a94b19a9903772a814506ce8dfa1c9b48bc187"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1173-2011",
+   "path": "ue/regulament/2011/1173",
+   "short": "Regulamentul (UE) nr. 1173/2011",
+   "title": "Regulamentul (UE) nr. 1173/2011 al Parlamentului European și al Consiliului din 16 noiembrie 2011 privind aplicarea eficientă a supravegherii bugetare în zona euro",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R1173",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1e01fc71-0fa2-4fa6-8e00-83dc15a9d87d.0005.03/DOC_1",
+     "sha256": "38fda72ff52ed11acc4b59efc6a26d90202567df7f6f784870ab4cc2e9c2f8f7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1229-2011",
+   "path": "ue/regulament/2011/1229",
+   "short": "Regulamentul (UE) nr. 1229/2011",
+   "title": "Regulamentul (UE) nr. 1229/2011 al Parlamentului European și al Consiliului din 16 noiembrie 2011 de abrogare a unor acte caduce ale Consiliului în domeniul politicii agricole comune",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R1229",
+   "versions": [
+    {
+     "from": "2011-12-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/075e7d53-c60b-41ab-97f0-7091d8fe420e.0003.03/DOC_1",
+     "sha256": "89d148ac7cc956f3a497c75f35f426278867d74e1953380f316be72de2c45054"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1230-2011",
+   "path": "ue/regulament/2011/1230",
+   "short": "Regulamentul (UE) nr. 1230/2011",
+   "title": "Regulamentul (UE) nr. 1230/2011 al Parlamentului European și al Consiliului din 16 noiembrie 2011 de abrogare a anumitor acte caduce ale Consiliului în domeniul politicii comerciale comune",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R1230",
+   "versions": [
+    {
+     "from": "2011-12-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2eedf9b2-f3ac-459b-a25b-2b3e8ffd7d4b.0001.03/DOC_1",
+     "sha256": "c6fa317ab78afd5346e25efd2e5220f5e6c73e1dadfb3a834ee2478a2909c0de"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1276-2011",
+   "path": "ue/regulament/2011/1276",
+   "short": "Regulamentul (UE) nr. 1276/2011",
+   "title": "Regulamentul (UE) nr. 1276/2011 al Comisiei din 8 decembrie 2011 de modificare a anexei III la Regulamentul (CE) nr. 853/2004 al Parlamentului European și al Consiliului în ceea ce privește tratamentul în scopul distrugerii paraziților viabili din produsele pescărești destinate consumului uman Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R1276",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d32807a9-4bbf-4610-84e0-1cc8fb70feef.0013.03/DOC_1",
+     "sha256": "bbd9abb22b2c47215529adb1011e84ec54e24541971f701bc85f6d507fdbf021"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-131-2011",
+   "path": "ue/regulament/2011/131",
+   "short": "Regulamentul (UE) nr. 131/2011",
+   "title": "Regulamentul (UE) nr. 131/2011 al Consiliului din 14 februarie 2011 de modificare a Regulamentului (CE) nr. 1210/2003 privind anumite restricții specifice în relațiile economice și financiare cu Irak",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0131",
+   "versions": [
+    {
+     "from": "2011-02-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/41371395-d527-42b1-9e64-9ae73d5ef2fc.0009.03/DOC_1",
+     "sha256": "90756a0534bc517492413a42243e083305ff72fd6f81361ac1c029690f0701fa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1385-2011",
+   "path": "ue/regulament/2011/1385",
+   "short": "Regulamentul (UE) nr. 1385/2011",
+   "title": "Regulamentul (UE) nr. 1385/2011 al Consiliului din 14 noiembrie 2011 privind alocarea posibilităților de pescuit în temeiul Protocolului convenit între Uniunea Europeană și Republica Guineea-Bissau de stabilire a posibilităților de pescuit și a contribuției financiare prevăzute de Acordul de parteneriat în domeniul pescuitului în vigoare între cele două părți",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R1385",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/35bdddb9-f70b-43ea-9c4e-5ccf66379a8b.0021.03/DOC_1",
+     "sha256": "bc5f535aadfc2558fc2e82659d63bd341f0b9a5d979b33146f31ffe7ca27bf01"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-143-2011",
+   "path": "ue/regulament/2011/143",
+   "short": "Regulamentul (UE) nr. 143/2011",
+   "title": "Regulamentul (UE) nr. 143/2011 al Comisiei din 17 februarie 2011 de modificare a anexei XIV la Regulamentul (CE) nr. 1907/2006 al Parlamentului European și al Consiliului privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice (REACH) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0143",
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3bb94e27-32ca-4cce-9270-9137c3aa3dc3.0020.03/DOC_1",
+     "sha256": "e47d35d6a50bd0738ab3fa1655a284e8a3bd446fa76455bb4f382085f481be00"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-15-2011",
+   "path": "ue/regulament/2011/15",
+   "short": "Regulamentul (UE) nr. 15/2011",
+   "title": "Regulamentul (UE) nr. 15/2011 al Comisiei din 10 ianuarie 2011 de modificare a Regulamentului (CE) nr. 2074/2005 în ceea ce privește metodele de analiză recunoscute pentru detectarea biotoxinelor marine la moluștele bivalve vii Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0015",
+   "versions": [
+    {
+     "from": "2011-01-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e740969d-3a19-48db-b14a-978c2431b63c.0015.03/DOC_1",
+     "sha256": "a8f271b3ac0a7d6d9ab47abbcda5dc12d5c9a006f0226e393c8801d194c47c77"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-150-2011",
+   "path": "ue/regulament/2011/150",
+   "short": "Regulamentul CELEX 32011R0150",
+   "title": "REGULAMENTUL (UE) NR. 150/2011 AL COMISIEI din 18 februarie 2011 de modificare a anexei III la Regulamentul (CE) nr. 853/2004 al Parlamentului European și al Consiliului în ceea ce privește vânatul de crescătorie și vânatul sălbatic și carnea de vânat de crescătorie și de vânat sălbatic (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0150",
+   "versions": [
+    {
+     "from": "2011-03-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b5c98bdd-2a5e-442e-98ce-a34cf6651154.0020.03/DOC_1",
+     "sha256": "0dcfb3f3b432cf18a08780ae62ca4b3a2b4fcd56e4c4613a1de444fb1244e8f9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-158-2011",
+   "path": "ue/regulament/2011/158",
+   "short": "Regulamentul (UE) nr. 158/2011",
+   "title": "Regulamentul (UE) nr. 158/2011 al Comisiei din 21 februarie 2011 de înregistrare a unei denumiri în Registrul de specialități tradiționale garantate [ „Špekáčky” / „Špekačky” (STG)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0158",
+   "versions": [
+    {
+     "from": "2011-03-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3ce48606-96ad-4c13-9313-b83f9d1b4fa3.0012.03/DOC_1",
+     "sha256": "4e2e3354c7e973dddc90a60489364a2782eb2ebb64316d27d3ba41e5218e6ceb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-159-2011",
+   "path": "ue/regulament/2011/159",
+   "short": "Regulamentul (UE) nr. 159/2011",
+   "title": "Regulamentul (UE) nr. 159/2011 al Comisiei din 21 februarie 2011 de înregistrare a unei denumiri în Registrul de specialități tradiționale garantate [Spišské párky (STG)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0159",
+   "versions": [
+    {
+     "from": "2011-03-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e42c8127-37d9-4ee4-8f62-adda3e4e7fd0.0006.03/DOC_1",
+     "sha256": "8671404bd83aada47d912cf30658fdc6410048656b8662b9723e87fc2c2348bd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-161-2011",
+   "path": "ue/regulament/2011/161",
+   "short": "Regulamentul (UE) nr. 161/2011",
+   "title": "Regulamentul (UE) nr. 161/2011 al Comisiei din 21 februarie 2011 de înregistrare a unei denumiri în Registrul de specialități tradiționale garantate [ „Liptovská saláma” / „Liptovský salám” (STG)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0161",
+   "versions": [
+    {
+     "from": "2011-03-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eebecc8b-1324-4d2a-9d3e-ab6a9ec7aaa4.0002.03/DOC_1",
+     "sha256": "7fc3ffac78b013b2dba70b4a10c8fef71f0a0d04d0b73d15c0ef4ed48370a5b3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-169-2011",
+   "path": "ue/regulament/2011/169",
+   "short": "Regulamentul (UE) nr. 169/2011",
+   "title": "Regulamentul (UE) nr. 169/2011 al Comisiei din 23 februarie 2011 privind autorizarea diclazurilului ca aditiv pentru hrana bibilicilor (titularul autorizației: Janssen Pharmaceutica N.V.) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0169",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/098119ad-88c4-4694-9c8d-564b695fb12b.0003.03/DOC_1",
+     "sha256": "7ba366daff8efe2a05be25ed53acdddef2f34e9c54e70ac6bb9043f9aac7baa9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-171-2011",
+   "path": "ue/regulament/2011/171",
+   "short": "Regulamentul (UE) nr. 171/2011",
+   "title": "Regulamentul (UE) nr. 171/2011 al Comisiei din 23 februarie 2011 privind autorizarea preparatului 6-fitază (EC 3.1.3.26) produs din Aspergillus oryzae DSM 14223 ca aditiv pentru hrana păsărilor și a speciei porcine și de modificare a Regulamentului (CE) nr. 255/2005 (titular al autorizației DSM Nutritional Products Ltd reprezentat de DSM Nutritional products Sp. z o.o.) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0171",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/55bf1da7-7136-4cf9-8153-092798f19822.0002.03/DOC_1",
+     "sha256": "9b6d9ac5218a612b439c5ad83b631ae4747ae8dddfba10ae4ffd52b4effa5a50"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-173-2011",
+   "path": "ue/regulament/2011/173",
+   "short": "Regulamentul (UE) nr. 173/2011",
+   "title": "Regulamentul (UE) nr. 173/2011 al Comisiei din 23 februarie 2011 de modificare a Regulamentelor (CE) nr. 2095/2005, (CE) nr. 1557/2006, (CE) nr. 1741/2006, (CE) nr. 1850/2006, (CE) nr. 1359/2007, (CE) nr. 382/2008, (CE) nr. 436/2009, (CE) nr. 612/2009, (CE) nr. 1122/2009, (CE) nr. 1187/2009 și (UE) nr. 479/2010 în ceea ce privește obligațiile de notificare în cadrul organizării comune a piețelor agricole și sistemele de sprijin direct pentru fermieri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0173",
+   "versions": [
+    {
+     "from": "2011-02-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b30c6eb7-751e-487f-9cdb-f61f98fd528b.0001.03/DOC_1",
+     "sha256": "1d7d1e83a1e6ec80f17f81f1f335d9a09f74dfcaa1f4c821e6bf8c594da258e7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-182-2011",
+   "path": "ue/regulament/2011/182",
+   "short": "Regulamentul (UE) nr. 182/2011",
+   "title": "Regulamentul (UE) nr. 182/2011 al Parlamentului European și al Consiliului din 16 februarie 2011 de stabilire a normelor și principiilor generale privind mecanismele de control de către statele membre al exercitării competențelor de executare de către Comisie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0182",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cccf5222-feb3-4dc3-a4ca-9a5ec75e49af.0022.02/DOC_1",
+     "sha256": "48adddd8591a106a2ede416dfc7f2e33df9e5fbea83dc51b1a62983f9f5dd22c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-188-2011",
+   "path": "ue/regulament/2011/188",
+   "short": "Regulamentul (UE) nr. 188/2011",
+   "title": "Regulamentul (UE) nr. 188/2011 al Comisiei din 25 februarie 2011 de stabilire a normelor detaliate de punere în aplicare a Directivei 91/414/CEE a Consiliului în ceea ce privește procedura de evaluare a substanțelor active care nu existau pe piață la doi ani de la data notificării directivei menționate Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0188",
+   "versions": [
+    {
+     "from": "2011-03-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ab597dd4-e421-4412-ae83-56e66f9c9576.0022.03/DOC_1",
+     "sha256": "83ecaa47d5301d0e05fa5b99a5c83247fd71079ced3f834d86f51f44a0de657c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-193-2011",
+   "path": "ue/regulament/2011/193",
+   "short": "Regulamentul (UE) nr. 193/2011",
+   "title": "Regulamentul (UE) nr. 193/2011 al Comisiei din 28 februarie 2011 de punere în aplicare a Regulamentului (CE) nr. 1445/2007 al Parlamentului European și al Consiliului în ceea ce privește sistemul de control al calității folosit pentru paritățile puterii de cumpărare Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0193",
+   "versions": [
+    {
+     "from": "2011-03-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a4cb264c-cc81-45bb-bc75-8523e66b50db.0020.03/DOC_1",
+     "sha256": "86e35bfd7689c35483f48263e5aac018632afdd9d0d68beeded87e5a8422c9bd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-208-2011",
+   "path": "ue/regulament/2011/208",
+   "short": "Regulamentul (UE) nr. 208/2011",
+   "title": "Regulamentul (UE) nr. 208/2011 al Comisiei din 2 martie 2011 de modificare a anexei VII la Regulamentul (CE) nr. 882/2004 al Parlamentului European și al Consiliului și a Regulamentelor (CE) nr. 180/2008 și (CE) nr. 737/2008 ale Comisiei în ceea ce privește listele și denumirile laboratoarelor de referință ale UE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0208",
+   "versions": [
+    {
+     "from": "2011-03-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b384e4cc-425c-418e-b028-435a3c1bb717.0001.03/DOC_1",
+     "sha256": "941b705cc27cc057354694c45b7be31c66c7f0a69a18d7374dc87e297c436028"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-211-2011",
    "path": "ue/regulament/2011/211",
    "short": "Regulamentul (UE) nr. 211/2011",
@@ -648,6 +1053,81 @@
    ]
   },
   {
+   "slug": "ue-regulament-217-2011",
+   "path": "ue/regulament/2011/217",
+   "short": "Regulamentul (UE) nr. 217/2011",
+   "title": "Regulamentul (UE) nr. 217/2011 al Comisiei din 1 martie 2011 de aprobare a unor modificări care nu sunt minore din caietul de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Robiola di Roccaverano (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0217",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f0d4395c-1ebb-4973-bc88-ed568f22d1a9.0013.03/DOC_1",
+     "sha256": "d0327c17e60468cf08727a27de4f812b1a2e5b7493da197a847d598bb54c9291"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-249-2011",
+   "path": "ue/regulament/2011/249",
+   "short": "Regulamentul (UE) nr. 249/2011",
+   "title": "Regulamentul (UE) nr. 249/2011 al Comisiei din 14 martie 2011 de adoptare a specificațiilor modulului ad hoc din 2012 privind tranziția de la viața profesională la pensionare conform prevederilor Regulamentului (CE) nr. 577/98 al Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0249",
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2e7532d1-21ea-48c2-a3eb-6a84f3197e04.0003.03/DOC_1",
+     "sha256": "edc69f67a3b97709a95684cc85d54868214396f0d984f9ae8eeb5bc0ebdd80d0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-260-2011",
+   "path": "ue/regulament/2011/260",
+   "short": "Regulamentul (UE) nr. 260/2011",
+   "title": "Regulamentul (UE) nr. 260/2011 din 16 martie 2011",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0260",
+   "versions": [
+    {
+     "from": "2011-03-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7975a534-b2f9-40b7-9baf-ec6b6759f58b.0011.03/DOC_1",
+     "sha256": "95e34f2a36d3bee2eb82d07cc8aecc2f4002dcca54e126dd4723421d5ec3cfd6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-263-2011",
+   "path": "ue/regulament/2011/263",
+   "short": "Regulamentul (UE) nr. 263/2011",
+   "title": "Regulamentul (UE) nr. 263/2011 al Comisiei din 17 martie 2011 de punere în aplicare a Regulamentului (CE) nr. 458/2007 al Parlamentului European și al Consiliului privind Sistemul european de statistici integrate privind protecția socială (SESPROS) cu privire la lansarea colectării complete a datelor pentru modulul SESPROS privind prestațiile nete de protecție socială Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0263",
+   "versions": [
+    {
+     "from": "2011-04-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c910e95d-b0fe-4d8d-accd-44964040d297.0011.03/DOC_1",
+     "sha256": "550f04d9bb4fa3375012b5c149b869e3c87107c4d460635f529db52305cce378"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-284-2011",
+   "path": "ue/regulament/2011/284",
+   "short": "Regulamentul (UE) nr. 284/2011",
+   "title": "Regulamentul (UE) nr. 284/2011 al Comisiei din 22 martie 2011 de stabilire a condițiilor specifice și a procedurilor detaliate pentru importul de articole de bucătărie din material plastic pe bază de poliamidă și melamină originare sau expediate din Republica Populară Chineză și din Regiunea Administrativă Specială Hong Kong a Republicii Populare Chineze",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0284",
+   "versions": [
+    {
+     "from": "2011-04-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/766a6b5f-64ea-4aca-a72a-1b2e32a220bb.0013.03/DOC_1",
+     "sha256": "ad49e0b8f9545d26335c2fcc19622edd84564dae66cbfb943a08b04c16b329f2"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-305-2011",
    "path": "ue/regulament/2011/305",
    "short": "Regulamentul (UE) nr. 305/2011",
@@ -659,6 +1139,486 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/d9dc2b2a-47b7-4fb3-b055-9b55731a48a5.0015.03/DOC_1",
      "sha256": "03114def07877583fbab9f012090b753ab04d2d9338dc86b38b11a2233e130e1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-31-2011",
+   "path": "ue/regulament/2011/31",
+   "short": "Regulamentul (UE) nr. 31/2011",
+   "title": "Regulamentul (UE) nr. 31/2011 al Comisiei din 17 ianuarie 2011 de modificare a anexelor la Regulamentul (CE) nr. 1059/2003 al Parlamentului European și al Consiliului privind instituirea unui nomenclator comun al unităților teritoriale de statistică (NUTS)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0031",
+   "versions": [
+    {
+     "from": "2011-02-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b7bd2a50-a620-4e60-acab-a37b579bdc20.0019.03/DOC_1",
+     "sha256": "7174402e3787ccfe3154423f36e22b6598e512e9973ca2fe7175bea5fd165820"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-313-2011",
+   "path": "ue/regulament/2011/313",
+   "short": "Regulamentul (UE) nr. 313/2011",
+   "title": "Regulamentul (UE) nr. 313/2011 al Comisiei din 30 martie 2011 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0313",
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/521c8245-5742-4eb7-9d9c-79410649aadd.0009.03/DOC_1",
+     "sha256": "7f69c5a8f0aec631a546d8b664cecd5272f4b95dcfc9972a464594f3986bd557"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-314-2011",
+   "path": "ue/regulament/2011/314",
+   "short": "Regulamentul (UE) nr. 314/2011",
+   "title": "Regulamentul (UE) nr. 314/2011 al Comisiei din 30 martie 2011 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0314",
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b801d00c-f8c7-4ce3-a22e-c7a2aa78f6b0.0008.03/DOC_1",
+     "sha256": "52d014c4725d7d1db053479a217027289a3c74080cfc0a3029de3229a3ddd6f5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-327-2011",
+   "path": "ue/regulament/2011/327",
+   "short": "Regulamentul (UE) nr. 327/2011",
+   "title": "Regulamentul (UE) nr. 327/2011 al Comisiei din 30 martie 2011 de implementare a Directivei 2009/125/CE a Parlamentului European și a Consiliului în ceea ce privește cerințele de proiectare ecologică pentru ventilatoarele acționate de motoare cu o putere la intrare între 125 W și 500 kW Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0327",
+   "versions": [
+    {
+     "from": "2011-04-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c765ffb6-5f03-4a3f-ac61-08fc3f3874b7.0004.03/DOC_1",
+     "sha256": "a9ebd9bb835f910da29c0a6c53871b480d93ea44ad69bbe12b725c972ff501de"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-36-2011",
+   "path": "ue/regulament/2011/36",
+   "short": "Regulamentul (UE) nr. 36/2011",
+   "title": "Regulamentul (UE) nr. 36/2011 din 18 ianuarie 2011",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0036",
+   "versions": [
+    {
+     "from": "2011-01-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9cf47633-2672-4f74-af02-b0d812e81e73.0003.03/DOC_1",
+     "sha256": "223f01d2f5fb3c247e48d9e53325a3884cb505d7fb661331ba3b25b0b947254a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-366-2011",
+   "path": "ue/regulament/2011/366",
+   "short": "Regulamentul (UE) nr. 366/2011",
+   "title": "Regulamentul (UE) nr. 366/2011 al Comisiei din 14 aprilie 2011 de modificare a Regulamentului (CE) nr. 1907/2006 al Parlamentului European și al Consiliului privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice (REACH) în ceea ce privește anexa XVII (Acrilamidă) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0366",
+   "versions": [
+    {
+     "from": "2011-05-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c4e4ce53-60ff-4ca7-8ff3-57b7287b48d0.0003.03/DOC_1",
+     "sha256": "bf4e20b4771900164810e92011caa11da4bf2962a78b027056dd238ee88d0a25"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-370-2011",
+   "path": "ue/regulament/2011/370",
+   "short": "Regulamentul (UE) nr. 370/2011",
+   "title": "Regulamentul (UE) nr. 370/2011 al Consiliului din 11 aprilie 2011 de modificare a Regulamentului (CE) nr. 215/2008 privind regulamentul financiar aplicabil celui de-al zecelea Fond European de Dezvoltare, în ceea ce privește Serviciul European de Acțiune Externă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0370",
+   "versions": [
+    {
+     "from": "2011-04-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1c9310aa-426e-483e-a098-d1c4c84debbc.0001.03/DOC_1",
+     "sha256": "26b9c964c5ad14db2a9a46702a38a533874f3d3677c068cff750be976c87e9cd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-432-2011",
+   "path": "ue/regulament/2011/432",
+   "short": "Regulamentul (UE) nr. 432/2011",
+   "title": "Regulamentul (UE) nr. 432/2011 al Comisiei din 4 mai 2011 de refuzare a autorizării anumitor mențiuni de sănătate înscrise pe produsele alimentare, altele decât cele care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0432",
+   "versions": [
+    {
+     "from": "2011-05-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9aeb8ecf-b0e8-49e4-b1d2-c8ffe470343d.0022.03/DOC_1",
+     "sha256": "e75b4f7ce522e74c916c5cf70d0e18d88f2ac80b3d55613f8faa20934206333a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-492-2011",
+   "path": "ue/regulament/2011/492",
+   "short": "Regulamentul (UE) nr. 492/2011",
+   "title": "Regulamentul (UE) nr. 492/2011 al Parlamentului European și al Consiliului din 5 aprilie 2011 privind libera circulație a lucrătorilor în cadrul Uniunii Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0492",
+   "versions": [
+    {
+     "from": "2011-06-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/41e24e15-dbd6-44b6-935b-950b289d7664.0004.03/DOC_1",
+     "sha256": "56f7270798677ccbf13c0a3e1f01c7dbd982acf65d2d599aa940256d709349b7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-494-2011",
+   "path": "ue/regulament/2011/494",
+   "short": "Regulamentul (UE) nr. 494/2011",
+   "title": "Regulamentul (UE) nr. 494/2011 al Comisiei din 20 mai 2011 de modificare a Regulamentului (CE) nr. 1907/2006 al Parlamentului European și al Consiliului privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice (REACH) în ceea ce privește anexa XVII (Cadmiu) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0494",
+   "versions": [
+    {
+     "from": "2011-06-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a27ae97b-3e15-43ab-a999-bd0899cf01ad.0005.03/DOC_1",
+     "sha256": "596b321a41e4bd12ae963a2bf8580080537a842b3c73ce2bd267c5568db0e442"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-501-2011",
+   "path": "ue/regulament/2011/501",
+   "short": "Regulamentul (UE) nr. 501/2011",
+   "title": "Regulamentul (UE) nr. 501/2011 al Consiliului din 24 februarie 2011 privind alocarea posibilităților de pescuit în temeiul protocolului la Acordul de parteneriat în sectorul pescuitului încheiat între Uniunea Europeană și Republica Democratică São Tomé și Principe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0501",
+   "versions": [
+    {
+     "from": "2011-05-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/566ce645-1ecb-46b5-a666-733e3c433f90.0006.03/DOC_1",
+     "sha256": "212dd7348f7826e9d3616ba2d5d5093abdf9e0e634dfae4a793fe65bc9281175"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-508-2011",
+   "path": "ue/regulament/2011/508",
+   "short": "Regulamentul (UE) nr. 508/2011",
+   "title": "Regulamentul (UE) nr. 508/2011 al Comisiei din 24 mai 2011 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru abamectin, acetamiprid, ciprodinil, difenoconazol, dimetomorf, fenhexamid, proquinazid, protioconazol, piraclostrobin, spirotetramat, tiacloprid, tiametoxam și trifloxistrobin din sau de pe anumite produse Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0508",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4aea5acf-4d4f-4b6d-bfb1-dbbe77d18840.0009.03/DOC_1",
+     "sha256": "04b7662c86028bc27f34e97007917b4287d8e1a8cd75efb6eb521cccd5db7ede"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-520-2011",
+   "path": "ue/regulament/2011/520",
+   "short": "Regulamentul (UE) nr. 520/2011",
+   "title": "Regulamentul (UE) nr. 520/2011 al Comisiei din 25 mai 2011 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește conținuturile maxime aplicabile reziduurilor de benalaxil, boscalid, buprofezin, carbofuran, carbosulfan, cipermetrin, fluopicolid, hexitiazox, indoxacarb, metaflumizonă, metoxifenozid, paraquat, procloraz, spirodiclofen, protioconazol și zoxamid din sau de pe anumite produse Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0520",
+   "versions": [
+    {
+     "from": "2011-05-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8603c324-1b0a-498c-86d6-e272a2257904.0018.03/DOC_1",
+     "sha256": "b23808124844248efc942ecbc83690b8907184ff094b1a35ed4f3c6eff1140ce"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-550-2011",
+   "path": "ue/regulament/2011/550",
+   "short": "Regulamentul (UE) nr. 550/2011",
+   "title": "Regulamentul (UE) nr. 550/2011 al Comisiei din 7 iunie 2011 privind stabilirea, în temeiul Directivei 2003/87/CE a Parlamentului European și a Consiliului, a anumitor restricții aplicabile utilizării de credite internaționale rezultate din proiecte ce implică utilizarea de gaze industriale Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0550",
+   "versions": [
+    {
+     "from": "2011-06-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/af21ddf3-e503-4139-96e8-9098c7b0cb8b.0005.03/DOC_1",
+     "sha256": "b903ad2efad6ef934694084bedc42987bbeb82ae3689332d88cd280fab094881"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-555-2011",
+   "path": "ue/regulament/2011/555",
+   "short": "Regulamentul (UE) nr. 555/2011",
+   "title": "Regulamentul (UE) nr. 555/2011 al Consiliului din 6 iunie 2011 de modificare a anexei I la Regulamentul (CEE) nr. 2658/87 privind Nomenclatura tarifară și statistică și Tariful vamal comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0555",
+   "versions": [
+    {
+     "from": "2011-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/36fa2e37-3a42-45f3-a0f2-793c04bb7395.0016.03/DOC_1",
+     "sha256": "c566966fa015d1bbc1f2865f853b45a07bbf4c33bf14c95ed1c1f386f9d91625"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-588-2011",
+   "path": "ue/regulament/2011/588",
+   "short": "Regulamentul (UE) nr. 588/2011",
+   "title": "Regulamentul (UE) nr. 588/2011 al Consiliului din 20 iunie 2011 de modificare a Regulamentului (CE) nr. 765/2006 al Consiliului privind măsurile restrictive împotriva președintelui Lukașenko și anumitor funcționari din Belarus",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0588",
+   "versions": [
+    {
+     "from": "2011-06-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c64f8f92-2048-43ea-8076-55965e9ad586.0016.03/DOC_1",
+     "sha256": "d51a7c2e0230cf4edce5594f39456f3cf734277deb0d8c24d4b709e45550ccc1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-660-2011",
+   "path": "ue/regulament/2011/660",
+   "short": "Regulamentul (UE) nr. 660/2011",
+   "title": "Regulamentul (UE) nr. 660/2011 al Consiliului din 9 iunie 2011 privind alocarea posibilităților de pescuit în conformitate cu Protocolul încheiat între Comunitatea Europeană și Republica Capului Verde de stabilire a posibilităților de pescuit și a contribuției financiare prevăzute în Acordul de parteneriat în sectorul pescuitului în vigoare între cele două părți",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0660",
+   "versions": [
+    {
+     "from": "2011-07-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/747d2709-caa8-4ad6-8321-54874b0bc6c5.0021.03/DOC_1",
+     "sha256": "e2d9e37348669fd6b2e33baabdde056c21ecc9b6589efe0f4b82557a5845e008"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-683-2011",
+   "path": "ue/regulament/2011/683",
+   "short": "Regulamentul (UE) nr. 683/2011",
+   "title": "Regulamentul (UE) nr. 683/2011 al Consiliului din 17 iunie 2011 de modificare a Regulamentului (UE) nr. 57/2011 în ceea ce privește posibilitățile de pescuit pentru anumite stocuri de pește",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0683",
+   "versions": [
+    {
+     "from": "2011-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a086d0c1-4cf0-442b-8ee2-6a7696fda214.0019.03/DOC_1",
+     "sha256": "7a5bf1e92c89fdacead4e6f485d856e414ae2e1071e40d2911de6dd79cf71f99"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-692-2011",
+   "path": "ue/regulament/2011/692",
+   "short": "Regulamentul (UE) nr. 692/2011",
+   "title": "Regulamentul (UE) nr. 692/2011 al Parlamentului European și al Consiliului din 6 iulie 2011 privind statisticile europene referitoare la turism și de abrogare a Directivei 95/57/CE a Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0692",
+   "versions": [
+    {
+     "from": "2011-08-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e6514106-0d6d-4975-8dc0-254f9c4ae21b.0019.03/DOC_1",
+     "sha256": "9c152e01e2be4250241d669830250caed32f33ae7e341ee9ffab6061acaf6f0e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-699-2011",
+   "path": "ue/regulament/2011/699",
+   "short": "Regulamentul (UE, Euratom) nr. 699/2011",
+   "title": "Regulamentul (UE, Euratom) nr. 699/2011 al Consiliului din 18 iulie 2011 de ajustare a coeficienților corectori aplicabili remunerațiilor și pensiilor funcționarilor și celorlalți agenți ai Uniunii Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0699",
+   "versions": [
+    {
+     "from": "2011-07-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/98f21a71-4973-43de-9477-702c81ed91b7.0012.03/DOC_1",
+     "sha256": "69ac65a19f5535d07479804126d8381868401193a23d4818974fbf4962db9ce0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-749-2011",
+   "path": "ue/regulament/2011/749",
+   "short": "Regulamentul (UE) nr. 749/2011",
+   "title": "Regulamentul (UE) nr. 749/2011 al Comisiei din 29 iulie 2011 de modificare a Regulamentului (UE) nr. 142/2011 de punere în aplicare a Regulamentului (CE) nr. 1069/2009 al Parlamentului European și al Consiliului de stabilire a unor norme sanitare privind subprodusele de origine animală și produsele derivate care nu sunt destinate consumului uman și de punere în aplicare a Directivei 97/78/CE a Consiliului în ceea ce privește anumite probe și produse care sunt scutite de la controalele sanitar-veterinare la frontieră în conformitate cu directiva menționată Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0749",
+   "versions": [
+    {
+     "from": "2011-08-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/01c03476-e21c-4da9-9578-b0e1ac6f2a65.0011.03/DOC_1",
+     "sha256": "4766a2b79a4c49b41c1d7266b34b6f1b8f2d9cbd56bdabdaa20eabf2be3da658"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-753-2011",
+   "path": "ue/regulament/2011/753",
+   "short": "Regulamentul (UE) nr. 753/2011",
+   "title": "Regulamentul (UE) nr. 753/2011 din 1 august 2011",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0753",
+   "versions": [
+    {
+     "from": "2011-08-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7b5f9a59-ecdb-493b-9b60-9b3bb019df58.0020.03/DOC_1",
+     "sha256": "8e12f1a720742ef759f15f1b5bb7aca8be65c95246284978811205ef27bf5042"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-812-2011",
+   "path": "ue/regulament/2011/812",
+   "short": "Regulamentul (UE) nr. 812/2011",
+   "title": "Regulamentul (UE) nr. 812/2011 al Comisiei din 10 august 2011 de modificare a anexei III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru dimetomorf, fluopicolid, mandipropamid, metrafenonă, nicotină și spirotetramat din sau de pe anumite produse Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0812",
+   "versions": [
+    {
+     "from": "2011-08-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b19cc7d4-3dcf-4906-b217-2a8601fe771b.0021.03/DOC_1",
+     "sha256": "3900c749b930e9368f554e6ea211bb2aeb9e0df4ea11e7b4003051a144c09544"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-830-2011",
+   "path": "ue/regulament/2011/830",
+   "short": "Regulamentul (UE) nr. 830/2011",
+   "title": "Regulamentul (UE) nr. 830/2011 al Comisiei din 27 iulie 2011 de stabilire, pentru anul 2011, a „listei Prodcom” de produse industriale prevăzută de Regulamentul (CEE) nr. 3924/91 al Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0830",
+   "versions": [
+    {
+     "from": "2011-09-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7c4136dd-7106-4738-8745-2ae2f02b1a86.0011.03/DOC_1",
+     "sha256": "1be543a90493896f3638272696d4e2f47ad8bf1cb167b94020d3a707c28fb742"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-836-2011",
+   "path": "ue/regulament/2011/836",
+   "short": "Regulamentul (UE) nr. 836/2011",
+   "title": "Regulamentul (UE) nr. 836/2011 al Comisiei din 19 august 2011 de modificare a Regulamentului (CE) nr. 333/2007 de stabilire a metodelor de prelevare a probelor și de analiză pentru controlul oficial al nivelurilor de plumb, cadmiu, mercur, staniu anorganic, 3-MCPD și benzo(a)piren din produsele alimentare Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0836",
+   "versions": [
+    {
+     "from": "2011-09-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9662c1c9-bf25-43d6-8056-d4a88fe8e11e.0007.03/DOC_1",
+     "sha256": "9c5f04fb16d1f07d3894a956136347fa5f388abaa30efeab2957ec6d42452eb5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-880-2011",
+   "path": "ue/regulament/2011/880",
+   "short": "Regulamentul (UE) nr. 880/2011",
+   "title": "Regulamentul (UE) nr. 880/2011 al Comisiei din 2 septembrie 2011 de rectificare a Regulamentului (UE) nr. 208/2011 de modificare a anexei VII la Regulamentul (CE) nr. 882/2004 al Parlamentului European și al Consiliului și a Regulamentelor (CE) nr. 180/2008 și (CE) nr. 737/2008 ale Comisiei în ceea ce privește listele și denumirile laboratoarelor de referință ale UE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0880",
+   "versions": [
+    {
+     "from": "2011-09-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/73e472f8-2756-4a41-bdb3-5e60023f4e21.0004.03/DOC_1",
+     "sha256": "cbfb933e001e21775453e2ca8f7499c085ab0dff0bf03b2e3fbe15e3c6e422fa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-94-2011",
+   "path": "ue/regulament/2011/94",
+   "short": "Regulamentul (UE) nr. 94/2011",
+   "title": "Regulamentul (UE) nr. 94/2011 al Comisiei din 3 februarie 2011 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Carciofo Spinoso di Sardegna (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0094",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4912f3d9-43ec-47f5-aa20-78141ed044e1.0013.03/DOC_1",
+     "sha256": "c4d9b51c0dbf70c4622ff328f234f5f61923298b00b3050f5c74c94824a27783"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-95-2011",
+   "path": "ue/regulament/2011/95",
+   "short": "Regulamentul (UE) nr. 95/2011",
+   "title": "Regulamentul (UE) nr. 95/2011 al Comisiei din 3 februarie 2011 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Arancia di Ribera (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0095",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/45b58dc8-8199-4ff5-bf01-00814fdea4b2.0016.03/DOC_1",
+     "sha256": "4bcc812261c468472c6387d1c26db2c73c911c238ee990e9acd6f0d4e0e90a46"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-969-2011",
+   "path": "ue/regulament/2011/969",
+   "short": "Regulamentul (UE) nr. 969/2011",
+   "title": "Regulamentul (UE) nr. 969/2011 al Comisiei din 29 septembrie 2011 de deschidere a unei reexaminări a Regulamentului de punere în aplicare (UE) nr. 400/2010 al Consiliului [de extindere a taxei antidumping definitive instituite prin Regulamentul (CE) nr. 1858/2005 privind importurile de cabluri și parâme din oțel originare, printre altele, din Republica Populară Chineză la importurile de cabluri și parâme din oțel expediate din Republica Coreea, indiferent dacă produsul este sau nu declarat ca provenind din Republica Coreea] pentru a stabili posibilitatea de a acorda o scutire de la aceste măsuri unui exportator coreean, de abrogarea taxei antidumping cu privire la importurile provenite de la acest exportator și de supunere a acestor importuri înregistrării",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0969",
+   "versions": [
+    {
+     "from": "2011-10-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5f1640af-eff7-4191-9ddf-eaffb93d23ea.0007.03/DOC_1",
+     "sha256": "45732cae5f772d798dcf42dc428a11a3b605dffb9df6c43b837251292fc39491"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-97-2011",
+   "path": "ue/regulament/2011/97",
+   "short": "Regulamentul (UE) nr. 97/2011",
+   "title": "Regulamentul (UE) nr. 97/2011 al Comisiei din 3 februarie 2011 de aprobare a unor modificări care nu sunt minore din caietul de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Welsh Beef (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0097",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7a8f1616-e0e6-4bb3-b9cc-011e108ee2ec.0009.03/DOC_1",
+     "sha256": "501b4a16926fb55a1b90bcb7d0d4f05339da20e76f9b54b01331654be1db7a38"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-977-2011",
+   "path": "ue/regulament/2011/977",
+   "short": "Regulamentul (UE) nr. 977/2011",
+   "title": "Regulamentul (UE) nr. 977/2011 al Comisiei din 3 octombrie 2011 de modificare a Regulamentului (CE) nr. 810/2009 al Parlamentului European și al Consiliului privind instituirea unui Cod comunitar de vize (Codul de vize)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0977",
+   "versions": [
+    {
+     "from": "2011-10-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4b47f47d-8cc4-48a1-a74b-5a2746bdccb3.0010.03/DOC_1",
+     "sha256": "da583d5c13447c17f20728184cd47d2aa5c7cd47f4944a205fb1f9487394504f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-98-2011",
+   "path": "ue/regulament/2011/98",
+   "short": "Regulamentul (UE) nr. 98/2011",
+   "title": "Regulamentul (UE) nr. 98/2011 din 3 februarie 2011",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011R0098",
+   "versions": [
+    {
+     "from": "2011-02-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b92d73b5-caee-4c2d-a72b-d6ced0630fa5.0018.03/DOC_1",
+     "sha256": "90c5e0c469ad128406df96d3400129b44234f50905eb8ae28630045e4246ae97"
     }
    ]
   }

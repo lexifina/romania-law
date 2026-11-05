@@ -10616,23 +10616,23 @@
   {
    "shard": "ue/2011",
    "kind": "ue",
-   "count": 44,
+   "count": 108,
    "acts": "data/acts/ue/2011.json",
    "list": "data/acts/ue/2011.md",
    "versions": "data/versions/ue/2011.json",
    "laws": "data/laws/ue/2011.csv",
-   "laws_count": 44,
+   "laws_count": 108,
    "sources": "data/sources/ue/2011.csv"
   },
   {
    "shard": "ue/2012",
    "kind": "ue",
-   "count": 77,
+   "count": 179,
    "acts": "data/acts/ue/2012.json",
    "list": "data/acts/ue/2012.md",
    "versions": "data/versions/ue/2012.json",
    "laws": "data/laws/ue/2012.csv",
-   "laws_count": 77,
+   "laws_count": 179,
    "sources": "data/sources/ue/2012.csv"
   },
   {
