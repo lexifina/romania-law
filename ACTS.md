@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12461 acts, 23,976 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12466 acts, 23,981 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8351, of which 3137 amending acts)
+## Laws (legi) (8356, of which 3140 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -589,10 +589,15 @@
 | Legea nr. 248/1998 pentru aprobarea Ordonanţei Guvernului nr. 18/1996 privind angajarea de împrumuturi guvernamentale prin emisiunea de obligaţiuni de stat în valută de pe piaţa internă | [`lege/1998/248/`](lege/1998/248/) | amended, not consolidated | 1 | 1998-12-30 | 1998-12-30 |
 | Legea nr. 249/1998 privind aprobarea Ordonanţei Guvernului nr. 40/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 70/1994 privind impozitul pe profit | [`lege/1998/249/`](lege/1998/249/) | amended, not consolidated | 1 | 1999-01-01 | 1999-01-01 |
 | Legea nr. 252/1998 pentru aprobarea Ordonanţei Guvernului nr. 26/1998 privind activitatea de confecţionare a plăcilor cu numere de înmatriculare pentru vehicule rutiere, în atelierele Inspectoratului General al Poliţiei | [`lege/1998/252/`](lege/1998/252/) | amended, not consolidated | 1 | 1998-12-30 | 1998-12-30 |
+| Legea nr. 253/1998 pentru ratificarea Convenţiei dintre Guvernul României şi Guvernul Republicii Ungare privind recunoaşterea reciprocă a diplomelor, certificatelor de studii şi a titlurilor ştiinţifice, acordate de instituţii de învăţământ acreditate în România şi Republica Ungara, semnată la Bucureşti la 6 iunie 1997 | [`lege/1998/253/`](lege/1998/253/) | in force | 1 | 1998-12-31 | 1998-12-31 |
 | Legea nr. 254/1998 privind aprobarea Ordonanţei Guvernului nr. 104/1998 pentru modificarea Legii sanitare veterinare nr. 60/1974 | [`lege/1998/254/`](lege/1998/254/) | amended, not consolidated | 1 | 1998-12-30 | 1998-12-30 |
 | Legea nr. 255/1998 | [`lege/1998/255/`](lege/1998/255/) | in force | 8 | 1999-03-31 | 2014-04-01 |
+| Legea nr. 256/1998 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 2/1998 privind finanţarea unor obiective de investiţii din programul "Reţea de transmisiuni permanenta din sistemul de transmisiuni al armatei" | [`lege/1998/256/`](lege/1998/256/) | amending act | 1 | 1998-12-30 | 1998-12-30 |
+| Legea nr. 257/1998 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Federale Germania privind protecţia reciprocă a informaţiilor clasificate, semnat la Bucureşti la 24 noiembrie 1997 | [`lege/1998/257/`](lege/1998/257/) | in force | 1 | 1998-12-31 | 1998-12-31 |
 | Legea nr. 258/1998 privind aprobarea Ordonanţei Guvernului nr. 53/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 11/1996 privind executarea creanţelor bugetare, aprobată şi modificată prin Legea nr. 108/1996 | [`lege/1998/258/`](lege/1998/258/) | amended, not consolidated | 1 | 1998-12-30 | 1998-12-30 |
 | Legea nr. 259/1998 privind abilitarea Guvernului de a emite ordonanţe | [`lege/1998/259/`](lege/1998/259/) | amended, not consolidated | 1 | 1998-12-31 | 1998-12-31 |
+| Legea nr. 260/1998 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 23/1998 privind alocarea unei sume din bugetul Ministerului Muncii şi Protecţiei Sociale pentru finanţarea activităţilor ocazionate de sărbătorirea în România a Zilei internaţionale a vârstnicilor | [`lege/1998/260/`](lege/1998/260/) | amending act | 1 | 1998-12-31 | 1998-12-31 |
+| Legea nr. 261/1998 pentru modificarea şi completarea Legii nr. 61/1993 privind alocaţia de stat pentru copii | [`lege/1998/261/`](lege/1998/261/) | amending act | 1 | 1998-12-31 | 1998-12-31 |
 | Legea nr. 1/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 26/1998 privind unele măsuri de protecţie socială a personalului din sectorul producţiei de apărare | [`lege/1999/1/`](lege/1999/1/) | amended, not consolidated | 1 | 1999-01-13 | 1999-01-13 |
 | Legea nr. 2/1999 privind aprobarea Ordonanţei Guvernului nr. 75/1998 pentru aderarea României la Acordul cu privire la transporturile internaţionale de produse perisabile şi cu privire la mijloacele de transport speciale care trebuie folosite pentru aceste transporturi (ATP), adoptat la Geneva la 1 septembrie 1970 | [`lege/1999/2/`](lege/1999/2/) | amended, not consolidated | 1 | 1999-01-13 | 1999-01-13 |
 | Legea nr. 5/1999 pentru ratificarea Convenţiei privind compensaţiile suplimentare pentru daune nucleare, adoptată la Viena la 12 septembrie 1997 | [`lege/1999/5/`](lege/1999/5/) | amended, not consolidated | 1 | 1999-01-18 | 1999-01-18 |
@@ -12527,7 +12532,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28541 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28551 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

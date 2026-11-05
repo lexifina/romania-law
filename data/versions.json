@@ -134303,6 +134303,21 @@
    ]
   },
   {
+   "slug": "legea-253-1998",
+   "path": "lege/1998/253",
+   "short": "Legea nr. 253/1998",
+   "title": "Legea nr. 253/1998 pentru ratificarea Convenţiei dintre Guvernul României şi Guvernul Republicii Ungare privind recunoaşterea reciprocă a diplomelor, certificatelor de studii şi a titlurilor ştiinţifice, acordate de instituţii de învăţământ acreditate în România şi Republica Ungara, semnată la Bucureşti la 6 iunie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16641",
+   "versions": [
+    {
+     "from": "1998-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16641",
+     "sha256": "fb95df3f070a772f78cea08766838231e2b3f7f5894b7904c462d7e13d38727f"
+    }
+   ]
+  },
+  {
    "slug": "legea-253-2002",
    "path": "lege/2002/253",
    "short": "Legea nr. 253/2002",
@@ -135023,6 +135038,21 @@
    ]
   },
   {
+   "slug": "legea-256-1998",
+   "path": "lege/1998/256",
+   "short": "Legea nr. 256/1998",
+   "title": "Legea nr. 256/1998 pentru respingerea Ordonanţei de urgenţă a Guvernului nr. 2/1998 privind finanţarea unor obiective de investiţii din programul \"Reţea de transmisiuni permanenta din sistemul de transmisiuni al armatei\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16572",
+   "versions": [
+    {
+     "from": "1998-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16572",
+     "sha256": "cc4a444492040b891d62db4e0a0b121eafd02ce9ece0ab3c3f5bf6c70fbb8c21"
+    }
+   ]
+  },
+  {
    "slug": "legea-256-2001",
    "path": "lege/2001/256",
    "short": "Legea nr. 256/2001",
@@ -135274,6 +135304,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289222",
      "sha256": "2ba86f664749c8fa175cd78eaae344f9a656f1c0586c6a8d79a7ff18423bfcde"
+    }
+   ]
+  },
+  {
+   "slug": "legea-257-1998",
+   "path": "lege/1998/257",
+   "short": "Legea nr. 257/1998",
+   "title": "Legea nr. 257/1998 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Federale Germania privind protecţia reciprocă a informaţiilor clasificate, semnat la Bucureşti la 24 noiembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16643",
+   "versions": [
+    {
+     "from": "1998-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16643",
+     "sha256": "5ba1cb48951861659cd6235c04c3687675eb0c7639c8cf6b1d9bd20ac72cf024"
     }
    ]
   },
@@ -136484,6 +136529,21 @@
    ]
   },
   {
+   "slug": "legea-260-1998",
+   "path": "lege/1998/260",
+   "short": "Legea nr. 260/1998",
+   "title": "Legea nr. 260/1998 pentru aprobarea Ordonanţei de urgenta a Guvernului nr. 23/1998 privind alocarea unei sume din bugetul Ministerului Muncii şi Protecţiei Sociale pentru finanţarea activităţilor ocazionate de sărbătorirea în România a Zilei internaţionale a vârstnicilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16597",
+   "versions": [
+    {
+     "from": "1998-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16597",
+     "sha256": "859f773c0b0a2883f80ed24de7f8b10fa74e3e4af03048337310951a382259d7"
+    }
+   ]
+  },
+  {
    "slug": "legea-260-2001",
    "path": "lege/2001/260",
    "short": "Legea nr. 260/2001",
@@ -136720,6 +136780,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289777",
      "sha256": "b99d6195275878950d9053f2312ad9a7cbe2043c3372d25c7cadc19e67eca155"
+    }
+   ]
+  },
+  {
+   "slug": "legea-261-1998",
+   "path": "lege/1998/261",
+   "short": "Legea nr. 261/1998",
+   "title": "Legea nr. 261/1998 pentru modificarea şi completarea Legii nr. 61/1993 privind alocaţia de stat pentru copii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16615",
+   "versions": [
+    {
+     "from": "1998-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16615",
+     "sha256": "8cddc27aa76911df5c19f0b56055fcbaddc24584edd5ca831964522a842157e5"
     }
    ]
   },

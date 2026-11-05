@@ -37,6 +37,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16786"
 },
 {
+"slug": "hg-10-1999",
+"path": "hg/1999/10",
+"kind": "hg",
+"year": "1999",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 10/1999 privind aprobarea rectificării bugetelor de venituri şi cheltuieli ale institutelor naţionale de cercetare-dezvoltare din coordonarea Ministerului Lucrărilor Publice şi Amenajării Teritoriului",
+"short": "HG nr. 10/1999",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1999-01-21",
+"latest": "1999-01-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/16730"
+},
+{
 "slug": "hg-13-1999",
 "path": "hg/1999/13",
 "kind": "hg",
