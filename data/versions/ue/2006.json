@@ -708,6 +708,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1010-2006",
+   "path": "ue/regulament/2006/1010",
+   "short": "Regulamentul (CE) nr. 1010/2006",
+   "title": "Regulamentul (CE) nr. 1010/2006 al Comisiei din 3 iulie 2006 privind unele măsuri excepționale de sprijinire a pieței în sectorul ouălor și păsărilor în unele state membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1010",
+   "versions": [
+    {
+     "from": "2006-07-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f9ca40f4-56a1-45d8-84b9-9a8c3809bfbf.0022.04/DOC_1",
+     "sha256": "bbe7f2d52f3cbd8cfe478de7494c56be3bf7bdc2bc2c842d2c4348367ccc89e5"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1013-2006",
    "path": "ue/regulament/2006/1013",
    "short": "Regulamentul (CE) nr. 1013/2006",
@@ -719,6 +734,111 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/1784c89a-69e5-43eb-9c40-1157f6895e85.0022.04/DOC_9",
      "sha256": "c8aa79f1aa38e320af821930dfd417fe671adc179accdf8211acaa317309a2f8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1031-2006",
+   "path": "ue/regulament/2006/1031",
+   "short": "Regulamentul (CE) nr. 1031/2006",
+   "title": "Regulamentul (CE) nr. 1031/2006 al Comisiei din 4 iulie 2006 de punere în aplicare a Regulamentului (CE) nr. 808/2004 al Parlamentului European și al Consiliului privind statisticile comunitare referitoare la societatea informaționalăText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1031",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bda50ee9-6428-42e4-a16f-523a58b78cf7.0022.04/DOC_1",
+     "sha256": "d80ceef652a1639bbf0c6870d6a1733f8bc67ee9c46a6322a763730671acd1a9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1039-2006",
+   "path": "ue/regulament/2006/1039",
+   "short": "Regulamentul (CE) nr. 1039/2006",
+   "title": "Regulamentul (CE) nr. 1039/2006 al Comisiei din 7 iulie 2006 privind deschiderea unei licitații permanente pentru revânzarea pe piața comunitară a zahărului deținut de agențiile de intervenție belgiană, cehă, germană, spaniolă, irlandeză, italiană, ungară, poloneză, slovenă, slovacă și suedeză",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1039",
+   "versions": [
+    {
+     "from": "2006-07-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9fe87a22-9de6-4258-9b48-78795e748577.0022.04/DOC_4",
+     "sha256": "6ac2a8c1c95bfcc47c0ecda2c9d7d59d0b537a9b9e47ac69f7759fa5c6ab9af4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1041-2006",
+   "path": "ue/regulament/2006/1041",
+   "short": "Regulamentul (CE) nr. 1041/2006",
+   "title": "Regulamentul (CE) nr. 1041/2006 al Comisiei din 7 iulie 2006 de modificare a anexei III la Regulamentul (CE) nr. 999/2001 al Parlamentului European și al Consiliului cu privire la supravegherea formelor transmisibile de encefalopatie spongiformă la ovineText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1041",
+   "versions": [
+    {
+     "from": "2006-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c5900bbb-e110-4147-a1b4-624f88dfd581.0022.04/DOC_2",
+     "sha256": "c573389d6495fd40956c2fcf5ad3bf3b47a87e91f01edad167058c20734c95ca"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1049-2006",
+   "path": "ue/regulament/2006/1049",
+   "short": "Regulamentul (CE) nr. 1049/2006",
+   "title": "Regulamentul (CE) nr. 1049/2006 al Comisiei din 10 iulie 2006 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1049",
+   "versions": [
+    {
+     "from": "2006-07-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dba3017f-8f3a-4390-a60c-95f2cfa7ae72.0022.04/DOC_1",
+     "sha256": "96e309e401641804703ec7cbc6b81827c46a3cfda3896db54b24f534f9182060"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1056-2006",
+   "path": "ue/regulament/2006/1056",
+   "short": "Regulamentul (CE) nr. 1056/2006",
+   "title": "Regulamentul (CE) nr. 1056/2006 al Comisiei din 12 iulie 2006 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1056",
+   "versions": [
+    {
+     "from": "2006-08-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/05ac408c-77b9-40a9-8221-191528935ccc.0022.04/DOC_1",
+     "sha256": "57280aa1daac2b338e3f5b2cd951abfb7b995ef98b63aefb7ba2172304ef6bde"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1066-2006",
+   "path": "ue/regulament/2006/1066",
+   "short": "Regulamentul (CE, Euratom) nr. 1066/2006",
+   "title": "Regulamentul (CE, Euratom) nr. 1066/2006 al Consiliului din 27 iunie 2006 de ajustare, începând cu 1 iulie 2006, a baremului aplicabil misiunilor funcționarilor și celorlalți agenți ai Comunităților Europene în statele membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1066",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/60d3ed31-f8de-442b-b82b-4950c033cc83.0022.03/DOC_3",
+     "sha256": "225d937d01ddd1b2b60d799bd5d3b821adf30a62c57a5251521a66b16d90f19d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1067-2006",
+   "path": "ue/regulament/2006/1067",
+   "short": "Regulamentul (CE, Euratom) nr. 1067/2006",
+   "title": "Regulamentul (CE, Euratom) nr. 1067/2006 al Consiliului din 27 iunie 2006 de ajustare a coeficienților corectori aplicabili remunerațiilor și pensiilor funcționarilor și celorlalți agenți ai Comunităților Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1067",
+   "versions": [
+    {
+     "from": "2006-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2811800f-a966-433c-97ab-60c71d5153d2.0022.03/DOC_4",
+     "sha256": "8d8f3d4eb4ec37483c0d4825342ede4f1d7d120ee2611d7f4edee3bd04ca1d24"
     }
    ]
   },
@@ -738,6 +858,831 @@
    ]
   },
   {
+   "slug": "ue-regulament-1086-2006",
+   "path": "ue/regulament/2006/1086",
+   "short": "Regulamentul (CE) nr. 1086/2006",
+   "title": "Regulamentul (CE) nr. 1086/2006 al Consiliului din 11 iulie 2006 de modificare a Regulamentului (CE) nr. 2866/98 privind ratele de conversie dintre moneda euro și monedele statelor membre care adoptă moneda euro",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1086",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/755c3c52-3bbc-40a0-a5d7-44318cf3521f.0022.04/DOC_1",
+     "sha256": "c8a2c53b8daec00f2e0b9e3b8b2166529627bf3b2194ebd136a962ed1ea4dbe8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1107-2006",
+   "path": "ue/regulament/2006/1107",
+   "short": "Regulamentul (CE) nr. 1107/2006",
+   "title": "Regulamentul (CE) nr. 1107/2006 al Parlamentului European și al Consiliului din 5 iulie 2006 privind drepturile persoanelor cu handicap și ale persoanelor cu mobilitate redusă pe durata călătoriei pe calea aeruluiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1107",
+   "versions": [
+    {
+     "from": "2006-08-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/398c5d9c-5c74-44e0-8419-9cb1b326a47b.0022.04/DOC_1",
+     "sha256": "069999d4a282ab5e5053da9b68e0e7b4754cd1be26b099711e66892ac75f65d1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1114-2006",
+   "path": "ue/regulament/2006/1114",
+   "short": "Regulamentul (CE) nr. 1114/2006",
+   "title": "Regulamentul (CE) nr. 1114/2006 al Comisiei din 20 iulie 2006 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1114",
+   "versions": [
+    {
+     "from": "2006-08-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8b539231-ebfd-48a2-9c4c-772df2e65901.0022.04/DOC_1",
+     "sha256": "1171815b404d009cbe2823177d794afd261f1fa5a3e8175ff8f1406fb4ed3c0b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1115-2006",
+   "path": "ue/regulament/2006/1115",
+   "short": "Regulamentul (CE) nr. 1115/2006",
+   "title": "Regulamentul (CE) nr. 1115/2006 al Comisiei din 20 iulie 2006 de modificare a Regulamentului (CEE) nr. 3703/85 de stabilire a modalității de aplicare a normelor comune de comercializare pentru anumiți pești proaspeți sau refrigerați",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1115",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/beab2f2d-bb2e-464f-b0c2-b2fa995ab696.0022.04/DOC_1",
+     "sha256": "6ea61efacffb7ff3c2cdf72bfa3900033d1deb5bd783c62965cf1a361e727bc5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1125-2006",
+   "path": "ue/regulament/2006/1125",
+   "short": "Regulamentul (CE) nr. 1125/2006",
+   "title": "Regulamentul (CE) nr. 1125/2006 al Comisiei din 21 iulie 2006 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1125",
+   "versions": [
+    {
+     "from": "2006-08-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/17ef3d99-2b12-41bb-bb37-4ad28a7fccf5.0022.04/DOC_1",
+     "sha256": "00335475c62fadbdf76898c76ba7fb0429d74fd2855c78bc5126483642c8a8ba"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1177-2006",
+   "path": "ue/regulament/2006/1177",
+   "short": "Regulamentul (CE) nr. 1177/2006",
+   "title": "Regulamentul (CE) nr. 1177/2006 al Comisiei din 1 august 2006 de punere în aplicare a Regulamentului (CE) nr. 2160/2003 al Parlamentului European și al Consiliului privind cerințele în vederea utilizării de metode de control specifice în cadrul programelor naționale de control al salmonelei la păsările de curteText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1177",
+   "versions": [
+    {
+     "from": "2006-08-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7abc306f-b065-4a82-8942-faf35f9171f2.0022.04/DOC_6",
+     "sha256": "bff539d3d409b53ef45185ee16522b07703ffd2db75eb18277c3ae9885ebc1db"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1184-2006",
+   "path": "ue/regulament/2006/1184",
+   "short": "Regulamentul (CE) nr. 1184/2006",
+   "title": "Regulamentul (CE) nr. 1184/2006 al Consiliului din 24 iulie 2006 de aplicare a anumitor norme de concurență în domeniul producției și comerțului cu produse agricole (versiune codificată)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1184",
+   "versions": [
+    {
+     "from": "2006-08-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5de960ff-f154-4a0d-97db-b1bc4ca614d0.0022.04/DOC_1",
+     "sha256": "ed4db27167f82cd4beafb37098f15d5dcbcf55116ed30e698c10b723386f059c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1189-2006",
+   "path": "ue/regulament/2006/1189",
+   "short": "Regulamentul (CE) nr. 1189/2006",
+   "title": "Regulamentul (CE) nr. 1189/2006 din 3 august 2006",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1189",
+   "versions": [
+    {
+     "from": "2006-08-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b46ba55d-253f-4b23-98c0-e171d90890e9.0021.04/DOC_1",
+     "sha256": "04d82e80f353325bbd87fe3a78b9eb26cb17c89d933eb1384c4b705f7f27fef0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1203-2006",
+   "path": "ue/regulament/2006/1203",
+   "short": "Regulamentul (CE) nr. 1203/2006",
+   "title": "Regulamentul (CE) nr. 1203/2006 al Comisiei din 9 august 2006 de modificare a anexei V la Regulamentul (CE) nr. 1440/2005 al Consiliului privind limitele cantitative aplicabile anumitor produse siderurgice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1203",
+   "versions": [
+    {
+     "from": "2006-08-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a95c6211-0a69-43b8-9783-7b80f85ca114.0022.04/DOC_1",
+     "sha256": "16dcffcfd759a8b85bba89de8c68754e04970252ce424add1a2dd6278b47c3c9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1204-2006",
+   "path": "ue/regulament/2006/1204",
+   "short": "Regulamentul (CE) nr. 1204/2006",
+   "title": "Regulamentul (CE) nr. 1204/2006 al Comisiei din 9 august 2006 de modificare a anexei V la Regulamentul (CE) nr. 1899/2005 al Consiliului privind limitele cantitative aplicabile anumitor produse siderurgice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1204",
+   "versions": [
+    {
+     "from": "2006-08-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9a5df314-c20c-4b93-bb0b-51255725330a.0022.04/DOC_1",
+     "sha256": "f61694751e425faa8e8f4263e815b87927a33214683906822c1e3aaf71a8c81b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1210-2006",
+   "path": "ue/regulament/2006/1210",
+   "short": "Regulamentul (CE) nr. 1210/2006",
+   "title": "Regulamentul (CE) nr. 1210/2006 din 9 august 2006",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1210",
+   "versions": [
+    {
+     "from": "2006-08-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a93a81e2-d00a-442f-bb04-321f46932074.0021.04/DOC_1",
+     "sha256": "de1109911b00000e8d36b528c1e7c51f570d81274cf5f0899d4ff818c02c779c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1217-2006",
+   "path": "ue/regulament/2006/1217",
+   "short": "Regulamentul (CE) nr. 1217/2006",
+   "title": "Regulamentul (CE) nr. 1217/2006 din 10 august 2006",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1217",
+   "versions": [
+    {
+     "from": "2006-08-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/30843811-cdd0-411e-9759-37824dbb4f7c.0021.04/DOC_1",
+     "sha256": "f7254031d6f400cf50f0bc113a01bfed901a8225e83ce3755d11b0756e1696c9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1228-2006",
+   "path": "ue/regulament/2006/1228",
+   "short": "Regulamentul (CE) nr. 1228/2006",
+   "title": "Regulamentul (CE) nr. 1228/2006 din 14 august 2006",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1228",
+   "versions": [
+    {
+     "from": "2006-08-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/98753596-7d78-4a2c-814d-26cfbd785e04.0021.04/DOC_1",
+     "sha256": "9d5c0562cd667a9a56f54d7681e55922618498c28064f884d68d2ad61650eeea"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1256-2006",
+   "path": "ue/regulament/2006/1256",
+   "short": "Regulamentul (CE) nr. 1256/2006",
+   "title": "Regulamentul (CE) nr. 1256/2006 al Comisiei din 21 august 2006 de modificare a Regulamentului (CE) nr. 1010/2006 privind unele măsuri excepționale de sprijinire a pieței în sectorul ouălor și păsărilor în unele state membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1256",
+   "versions": [
+    {
+     "from": "2006-08-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/addbc501-a79e-4fe1-875e-b6a1442bc0e8.0022.04/DOC_7",
+     "sha256": "fed4bc2adf9d7b72259d2da0243590d24670a6ef97f480b3cb3fba68897d72cc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1257-2006",
+   "path": "ue/regulament/2006/1257",
+   "short": "Regulamentul (CE) nr. 1257/2006",
+   "title": "Regulamentul (CE) nr. 1257/2006 al Comisiei din 21 august 2006 de aprobare a modificării caietului de sarcini al unei indicații geografice din registrul denumirilor de origine protejate și al indicațiilor geografice protejate (Nocciola di Giffoni) (IGP)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1257",
+   "versions": [
+    {
+     "from": "2006-09-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e0702fa2-3d4b-4f82-8772-129316f6c4ec.0022.04/DOC_7",
+     "sha256": "c5dfaf70af32e4ac0842c0c9e67bd8f3f6bdaea296d86166a9ced8b5e8905c56"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1259-2006",
+   "path": "ue/regulament/2006/1259",
+   "short": "Regulamentul (CE) nr. 1259/2006",
+   "title": "Regulamentul (CE) nr. 1259/2006 al Comisiei din 11 august 2006 de modificare a Regulamentului (CE) nr. 51/2006 al Consiliului cu privire la limitele de captură pentru stocul de merluciu norvegian în zonele ICES IIa (ape CE), IIIa și IV (ape CE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1259",
+   "versions": [
+    {
+     "from": "2006-08-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bb47ec75-008d-40ba-bd43-16935201058c.0021.04/DOC_1",
+     "sha256": "e57df59956aae83bfee53c5e6b5262d0445b62c7a6e0e2abbb09818f6f846d5e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1262-2006",
+   "path": "ue/regulament/2006/1262",
+   "short": "Regulamentul (CE) nr. 1262/2006",
+   "title": "Regulamentul (CE) nr. 1262/2006 al Comisiei din 23 august 2006 de modificare a Regulamentului (CE) nr. 51/2006 al Consiliului în ceea ce privește dispozițiile referitoare la navele implicate în activități de pescuit ilegale, nedeclarate și nereglementate în Atlanticul de Nord-Est",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1262",
+   "versions": [
+    {
+     "from": "2006-08-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1aa97b66-736b-48e3-b35c-64fa1534c659.0022.04/DOC_1",
+     "sha256": "57f2e1c2966c93f15da07df318eebb7945d214c328ab42f2462ad2bf55d7c5e7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1284-2006",
+   "path": "ue/regulament/2006/1284",
+   "short": "Regulamentul (CE) nr. 1284/2006",
+   "title": "Regulamentul (CE) nr. 1284/2006 al Comisiei din 29 august 2006 privind autorizarea permanentă a anumitor aditivi din hrana animalelorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1284",
+   "versions": [
+    {
+     "from": "2006-09-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a3b8a67b-a73e-4939-940f-22c85cde9efa.0022.04/DOC_1",
+     "sha256": "29c7f8691bab83344d63efaed2e16486dea76fbe8464edd019a7c8ec4b2fa890"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1286-2006",
+   "path": "ue/regulament/2006/1286",
+   "short": "Regulamentul (CE) nr. 1286/2006",
+   "title": "Regulamentul (CE) nr. 1286/2006 din 29 august 2006",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1286",
+   "versions": [
+    {
+     "from": "2006-09-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9c60ac9a-6a0a-4428-a5f9-df3b895e6c88.0021.04/DOC_1",
+     "sha256": "93ac7c0e76c90b190b01f73a6f3478134b05b491819314078219607aee3285b7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1287-2006",
+   "path": "ue/regulament/2006/1287",
+   "short": "Regulamentul (CE) nr. 1287/2006",
+   "title": "Regulamentul (CE) nr. 1287/2006 al Comisiei din 10 august 2006 de punere în aplicare a Directivei 2004/39/CE a Parlamentului European și a Consiliului privind obligațiile întreprinderilor de investiții de păstrare a evidenței și înregistrărilor, raportarea tranzacțiilor, transparența pieței, admiterea de instrumente financiare în tranzacții și definiția termenilor în sensul directivei în cauzăText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1287",
+   "versions": [
+    {
+     "from": "2006-09-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6cf2d548-452d-4aa1-81a7-076205dbdfd0.0022.04/DOC_1",
+     "sha256": "42d7018811e34540c5032fae52f1c8501ca11f457d01d6a813ef3640cb954d10"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1320-2006",
+   "path": "ue/regulament/2006/1320",
+   "short": "Regulamentul (CE) nr. 1320/2006",
+   "title": "Regulamentul (CE) nr. 1320/2006 al Comisiei din 5 septembrie 2006 de stabilire a normelor tranzitorii privind sprijinul pentru dezvoltare rurală prevăzut de Regulamentul (CE) nr. 1698/2005 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1320",
+   "versions": [
+    {
+     "from": "2006-09-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3b4694a0-663b-4788-9d2d-9c8089a3b879.0022.04/DOC_1",
+     "sha256": "8563e11f2eea70ccee6de8c1df1ea61a0caae296e6c3671d4c1a2316c29cd552"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1367-2006",
+   "path": "ue/regulament/2006/1367",
+   "short": "Regulamentul (CE) nr. 1367/2006",
+   "title": "Regulamentul (CE) nr. 1367/2006 al Parlamentului European și al Consiliului din 6 septembrie 2006 privind aplicarea, pentru instituțiile și organismele comunitare, a dispozițiilor Convenției de la Aarhus privind accesul la informație, participarea publicului la luarea deciziilor și accesul la justiție în domeniul mediului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1367",
+   "versions": [
+    {
+     "from": "2006-09-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/830ee6c2-bea2-48ec-b784-59b4f87b5724.0022.04/DOC_1",
+     "sha256": "d8739012e53c972ed38871d2a1043b0ff4b1aad3a001c4904133db7be3ac55a7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1368-2006",
+   "path": "ue/regulament/2006/1368",
+   "short": "Regulamentul (CE) nr. 1368/2006",
+   "title": "Regulamentul (CE) nr. 1368/2006 al Consiliului din 27 iunie 2006 de modificare a Regulamentului (CE) nr. 1035/2001 de stabilire a unui sistem de documentare a capturilor pentru speciile Dissostichus spp.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1368",
+   "versions": [
+    {
+     "from": "2006-10-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/85f91bba-61e8-442f-8813-d424d0e71546.0022.04/DOC_1",
+     "sha256": "d53e8e7c6327e879756e05ea27bf1297332d1d37620ed31e28ef846f8115437e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1412-2006",
+   "path": "ue/regulament/2006/1412",
+   "short": "Regulamentul (CE) nr. 1412/2006",
+   "title": "Regulamentul (CE) nr. 1412/2006 al Consiliului din 25 septembrie 2006 privind unele măsuri restrictive împotriva Libanului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1412",
+   "versions": [
+    {
+     "from": "2006-09-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/13c7d032-84f1-4bb3-a149-0d69b9d1edcf.0022.04/DOC_1",
+     "sha256": "5226de98511f0a9a70c582f3bdb7dc44b2c56ee92ee0283d0f64b9c221208ca9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1416-2006",
+   "path": "ue/regulament/2006/1416",
+   "short": "Regulamentul (CE) nr. 1416/2006",
+   "title": "Regulamentul (CE) nr. 1416/2006 al Comisiei din 26 septembrie 2006 de stabilire a normelor speciale de punere în aplicare a articolului 7 alineatul (2) din Acordul între Comunitatea Europeană și Statele Unite ale Americii privind comerțul cu vin în ceea ce privește protecția denumirilor de origine din Statele Unite în Comunitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1416",
+   "versions": [
+    {
+     "from": "2006-09-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6ca5a494-faf0-40d5-9ec3-ed7804996c62.0022.04/DOC_1",
+     "sha256": "820648a8166d0da060627da3b7569abb0d604e894fd9419def533cca24c2bef2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1419-2006",
+   "path": "ue/regulament/2006/1419",
+   "short": "Regulamentul (CE) nr. 1419/2006",
+   "title": "Regulamentul (CE) nr. 1419/2006 al Consiliului din 25 septembrie 2006 de abrogare a Regulamentului (CEE) nr. 4056/86 de stabilire a normelor detaliate de aplicare a dispozițiilor articolelor 85 și 86 din tratat la transportul maritim și de modificare a Regulamentului (CE) nr. 1/2003 în sensul extinderii domeniului de aplicare al acestuia pentru a include cabotajul și serviciile tramp internaționaleText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1419",
+   "versions": [
+    {
+     "from": "2006-10-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9b2ce07f-30ed-4a90-a26b-785e9023aaed.0022.04/DOC_1",
+     "sha256": "4b178514818e15ce65dd7821d3e4849544bf3e31ed56864961a4ef63f238ae12"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-142-2006",
+   "path": "ue/regulament/2006/142",
+   "short": "Regulamentul (CE) nr. 142/2006",
+   "title": "Regulamentul (CE) nr. 142/2006 din 26 ianuarie 2006",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R0142",
+   "versions": [
+    {
+     "from": "2006-01-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0476a860-7579-4356-882f-3fa6ac697bae.0021.04/DOC_1",
+     "sha256": "466fdcf6237787fcfe34a9b84a0d0d677cdfbea1c6693b304f6782db207a82f7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1423-2006",
+   "path": "ue/regulament/2006/1423",
+   "short": "Regulamentul (CE) nr. 1423/2006",
+   "title": "Regulamentul (CE) nr. 1423/2006 al Comisiei din 26 septembrie 2006 de stabilire a unui mecanism privind măsurile corespunzătoare în domeniul cheltuielilor agricole în ceea ce privește Bulgaria și România",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1423",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/479daa29-a277-4183-b5cb-aa9d49c0bc10.0022.04/DOC_1",
+     "sha256": "0cb4221a149d89dfb600c6790ea8e60d67a60e1eeae897c6089e5641c86b82fc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1446-2006",
+   "path": "ue/regulament/2006/1446",
+   "short": "Regulamentul (CE) nr. 1446/2006",
+   "title": "Regulamentul (CE) nr. 1446/2006 al Comisiei din 29 septembrie 2006 privind autorizarea Enterococcus faecium (Biomin IMB52) ca aditiv în furajeText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1446",
+   "versions": [
+    {
+     "from": "2006-10-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e5a399bd-a319-4c62-86c9-c290e98c1935.0022.04/DOC_1",
+     "sha256": "46e9e57d56524a1a7a00e2e348e7fa21230e0802a9c313f9ed4760846f8a939e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1459-2006",
+   "path": "ue/regulament/2006/1459",
+   "short": "Regulamentul (CE) nr. 1459/2006",
+   "title": "Regulamentul (CE) nr. 1459/2006 al Comisiei din 28 septembrie 2006 de aplicare a articolului 81 alineatul (3) din Tratat anumitor categorii de acorduri și practici concertate privind consultările tarifare pentru transportul pasagerilor în cadrul serviciilor de transport aerian regulate și alocarea sloturilor în aeroporturi",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1459",
+   "versions": [
+    {
+     "from": "2006-10-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e936e745-a28e-45b0-9923-797057743a3e.0022.04/DOC_1",
+     "sha256": "1ee2f80fa5ca39be298a659d6b10cf70e73afa938fd39c2481f36b923eeee721"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1461-2006",
+   "path": "ue/regulament/2006/1461",
+   "short": "Regulamentul (CE) nr. 1461/2006",
+   "title": "Regulamentul (CE) nr. 1461/2006 al Comisiei din 29 septembrie 2006 de modificare a Regulamentului (CE) nr. 2580/2001 al Consiliului privind adoptarea unor măsuri restrictive specifice împotriva anumitor persoane și entități în vederea combaterii terorismului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1461",
+   "versions": [
+    {
+     "from": "2006-10-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/319950e5-9c53-47cc-81b0-0c529b558cf0.0022.04/DOC_1",
+     "sha256": "3528be3e62525764baaea3c938673a50ae3d7b00734524321d9bb02ce9d0ca31"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1462-2006",
+   "path": "ue/regulament/2006/1462",
+   "short": "Regulamentul (CE) nr. 1462/2006",
+   "title": "Regulamentul (CE) nr. 1462/2006 al Comisiei din 2 octombrie 2006 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1462",
+   "versions": [
+    {
+     "from": "2006-10-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d45f67b1-68ca-4c53-8b89-8c434c652815.0022.04/DOC_2",
+     "sha256": "9088da72c87afb910756a4c1df861ce46ca8ab0b3aaebd89cccf78aeeca8d1d9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1468-2006",
+   "path": "ue/regulament/2006/1468",
+   "short": "Regulamentul (CE) nr. 1468/2006",
+   "title": "Regulamentul (CE) nr. 1468/2006 al Comisiei din 4 octombrie 2006 de modificare a Regulamentului (CE) nr. 595/2004 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 1788/2003 al Consiliului de stabilire a unei prelevări în sectorul laptelui și al produselor lactate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1468",
+   "versions": [
+    {
+     "from": "2006-10-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f18f32ea-4f71-4167-8d74-6cea9d0b1e6f.0022.04/DOC_1",
+     "sha256": "d909a2b47da3a6f1c49236ccc62a2cea083c17739382c6242197b2b904119799"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1489-2006",
+   "path": "ue/regulament/2006/1489",
+   "short": "Regulamentul (CE) nr. 1489/2006",
+   "title": "Regulamentul (CE) nr. 1489/2006 al Comisiei din 9 octombrie 2006 privind stabilirea, pentru exercițiul contabil 2007 al FEGA, a ratei dobânzii care urmează să fie aplicată pentru calcularea cheltuielilor de finanțare a intervențiilor constând în cumpărarea, depozitarea și comercializarea stocurilor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1489",
+   "versions": [
+    {
+     "from": "2006-10-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2a02095a-5cd4-40da-aa93-a208a583f199.0022.04/DOC_1",
+     "sha256": "25d18f551e82dc44100281399d054acbf9926cb0b01e1c146d0d7152d049ddff"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1491-2006",
+   "path": "ue/regulament/2006/1491",
+   "short": "Regulamentul (CE) nr. 1491/2006",
+   "title": "Regulamentul (CE) nr. 1491/2006 al Consiliului din 10 octombrie 2006 privind încheierea acordului sub forma unui schimb de scrisori privind prelungirea Protocolului de stabilire a posibilităților de pescuit și a contribuției financiare prevăzute de Acordul dintre Comunitatea Economică Europeană și Guvernul Republicii Guineea-Bissau privind pescuitul în largul coastelor Guineei-Bissau pentru perioada 16 iunie 2006 - 15 iunie 2007",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1491",
+   "versions": [
+    {
+     "from": "2006-10-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9d98548a-8e41-4744-8a37-dfc7b8b99ce8.0022.04/DOC_1",
+     "sha256": "4459b7e6ac772f1dbe52adabf061fd0fcda2f2f7b5454e55efc00e4426245961"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1502-2006",
+   "path": "ue/regulament/2006/1502",
+   "short": "Regulamentul (CE) nr. 1502/2006",
+   "title": "Regulamentul (CE) nr. 1502/2006 al Comisiei din 28 septembrie 2006 de punere în aplicare a Regulamentului (CE) nr. 1165/98 al Consiliului privind statisticile pe termen scurt cu privire la derogările acordate statelor membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1502",
+   "versions": [
+    {
+     "from": "2006-11-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e853b501-b279-4c21-a216-ca7c42b35aa4.0022.04/DOC_7",
+     "sha256": "bf03de2a9e262bd510392a12b967d8e9782f59a74fcb961edeec69897b960fd1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1506-2006",
+   "path": "ue/regulament/2006/1506",
+   "short": "Regulamentul (CE) nr. 1506/2006",
+   "title": "Regulamentul (CE) nr. 1506/2006 al Comisiei din 11 octombrie 2006 de modificare a Regulamentului (CE) nr. 32/2000 al Consiliului, pentru luarea în considerare a modificărilor aduse Regulamentului (CEE) nr. 2658/87 al Consiliului privind Nomenclatura tarifară și statistică și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1506",
+   "versions": [
+    {
+     "from": "2006-10-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5fed3587-8073-49fb-b7c9-26a50cd1ac7a.0021.04/DOC_1",
+     "sha256": "563e28deddcb3611697ea7358d0e4f2d220c2f254fda302ee057858423e1513f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1508-2006",
+   "path": "ue/regulament/2006/1508",
+   "short": "Regulamentul (CE) nr. 1508/2006",
+   "title": "Regulamentul (CE) nr. 1508/2006 din 11 octombrie 2006",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1508",
+   "versions": [
+    {
+     "from": "2006-10-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2799d42c-6fd4-4ab4-b714-f119880d1a0b.0022.04/DOC_1",
+     "sha256": "1bf29d5902bb89474719ef8e3a2546b8a99bbc09df12237e7f1ea3e498b864fc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1532-2006",
+   "path": "ue/regulament/2006/1532",
+   "short": "Regulamentul (CE) nr. 1532/2006",
+   "title": "Regulamentul (CE) nr. 1532/2006 al Consiliului din 12 octombrie 2006 privind condițiile referitoare la anumite contingente de import de carne de vită și mânzat de calitate superioară",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1532",
+   "versions": [
+    {
+     "from": "2006-10-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ec310f91-88fd-473b-bd5d-c1351a724e08.0022.04/DOC_1",
+     "sha256": "54d1a0e69beb38ccce345027fa4c15004250e7cca121466312e39c4f06a26865"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1539-2006",
+   "path": "ue/regulament/2006/1539",
+   "short": "Regulamentul (CE) nr. 1539/2006",
+   "title": "Regulamentul (CE) nr. 1539/2006 al Comisiei din 13 octombrie 2006 de adoptare a unui plan privind atribuirea statelor membre de resurse imputabile exercițiului 2007 pentru furnizarea de produse alimentare provenind din stocurile de intervenție pentru persoanele cele mai defavorizate din Comunitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1539",
+   "versions": [
+    {
+     "from": "2006-10-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6364e2f9-becc-4e05-8d60-de28ac83fe32.0022.04/DOC_1",
+     "sha256": "2d1eefd91d7d4c373a14c5d398f4d26fdc6242940a81a748b988a8be63715de3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1542-2006",
+   "path": "ue/regulament/2006/1542",
+   "short": "Regulamentul (CE) nr. 1542/2006",
+   "title": "Regulamentul (CE) nr. 1542/2006 al Comisiei din 13 octombrie 2006 de modificare a Regulamentului (CE) nr. 493/2006 de stabilire a măsurilor tranzitorii în cadrul reformei organizării comune a pieței în sectorul zahărului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1542",
+   "versions": [
+    {
+     "from": "2006-10-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/785e3f93-7106-4b20-b170-c6057614f3ee.0022.04/DOC_1",
+     "sha256": "855c60cd7648b0695da6550a62e8561c8929eb14e8014c99a47ea0b1d282eeec"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1549-2006",
+   "path": "ue/regulament/2006/1549",
+   "short": "Regulamentul (CE) nr. 1549/2006",
+   "title": "Regulamentul (CE) nr. 1549/2006 al Comisiei din 17 octombrie 2006 de modificare a anexei I la Regulamentul (CEE) nr. 2658/87 al Consiliului privind Nomenclatura tarifară și statistică și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1549",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c8a43068-4403-470c-b73f-c35957753950.0022.04/DOC_2",
+     "sha256": "804548f2316323bfb24a7170e90cc7d45150f16717370478a0820b949737940c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1555-2006",
+   "path": "ue/regulament/2006/1555",
+   "short": "Regulamentul (CE) nr. 1555/2006",
+   "title": "Regulamentul (CE) nr. 1555/2006 al Comisiei din 18 octombrie 2006 de modificare a Regulamentului (CE) nr. 1039/2006 privind deschiderea unei licitații permanente pentru revânzarea pe piața comunitară a zahărului deținut de agențiile de intervenție belgiană, cehă, germană, spaniolă, irlandeză, italiană, ungară, poloneză, slovenă, slovacă și suedeză",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1555",
+   "versions": [
+    {
+     "from": "2006-10-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/465f814d-ca90-4845-b01b-61663ceb8cbe.0022.04/DOC_1",
+     "sha256": "c72b61b1811aa8ed24d9e2bbe21a00f2bacaae380ca2e356720f89d55905f244"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1562-2006",
+   "path": "ue/regulament/2006/1562",
+   "short": "Regulamentul (CE) nr. 1562/2006",
+   "title": "Regulamentul (CE) nr. 1562/2006 al Consiliului din 5 octombrie 2006 privind încheierea Acordului de parteneriat în domeniul pescuitului între Comunitatea Europeană și Republica Seychelles",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1562",
+   "versions": [
+    {
+     "from": "2006-10-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/31f0783b-1721-4a68-874a-955723889f6c.0022.01/DOC_1",
+     "sha256": "0c71573e35b62403c0497919193df60c6d8d369e40dae07d2e7cb0b308bb9b40"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1563-2006",
+   "path": "ue/regulament/2006/1563",
+   "short": "Regulamentul (CE) nr. 1563/2006",
+   "title": "Regulamentul (CE) nr. 1563/2006 al Consiliului din 5 octombrie 2006 privind încheierea Acordului de parteneriat în sectorul pescuitului între Comunitatea Europeană și Uniunea Comorelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1563",
+   "versions": [
+    {
+     "from": "2006-10-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c65c76ac-7ae1-4123-ac94-920a8654326c.0022.01/DOC_1",
+     "sha256": "70e9219caa954c5059db5003cb7e5de5caff3c5b4c88d046a28dfb63f62fb99a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1578-2006",
+   "path": "ue/regulament/2006/1578",
+   "short": "Regulamentul (CE) nr. 1578/2006",
+   "title": "Regulamentul (CE) nr. 1578/2006 al Comisiei din 19 octombrie 2006 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1578",
+   "versions": [
+    {
+     "from": "2006-11-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d42c326b-f80e-4db5-878a-302826e3ec23.0022.04/DOC_1",
+     "sha256": "d5306f8e9c2389550b323bb272167148dd02c0d79055e438958a821fe92f683c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1587-2006",
+   "path": "ue/regulament/2006/1587",
+   "short": "Regulamentul (CE) nr. 1587/2006",
+   "title": "Regulamentul (CE) nr. 1587/2006 din 23 octombrie 2006",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1587",
+   "versions": [
+    {
+     "from": "2006-10-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/213a930a-1842-4562-be55-b38e099e404f.0022.04/DOC_1",
+     "sha256": "1eb9e94d74f9bbce752a9ad907492a499db2125b78c7a0863683972994338a84"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1591-2006",
+   "path": "ue/regulament/2006/1591",
+   "short": "Regulamentul (CE) nr. 1591/2006",
+   "title": "Regulamentul (CE) nr. 1591/2006 al Consiliului din 24 octombrie 2006 de modificare a Regulamentului (CE) nr. 51/2006 al Consiliului în ceea ce privește dispozițiile referitoare la navele implicate în activități de pescuit ilegale, nedeclarate și nereglementate în Atlanticul de Nord-Est",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1591",
+   "versions": [
+    {
+     "from": "2006-10-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e77822b3-ffc9-4306-a445-760af9bd4708.0022.04/DOC_1",
+     "sha256": "4af18a7625da700a2cff107b949dfd567bf368000d70d54c6510bc21db25e593"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1627-2006",
+   "path": "ue/regulament/2006/1627",
+   "short": "Regulamentul (CE) nr. 1627/2006",
+   "title": "Regulamentul (CE) nr. 1627/2006 al Comisiei din 24 octombrie 2006 de modificare a Regulamentului (CE) nr. 794/2004 în ceea ce privește formularele standard de notificare a ajutoarelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1627",
+   "versions": [
+    {
+     "from": "2006-11-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/57881ae5-8f82-4440-990c-74506a216c19.0022.04/DOC_18",
+     "sha256": "4381c893c672f94140bb0e0000a4408343b348e098abc34cee4c66ba36bd1957"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1629-2006",
+   "path": "ue/regulament/2006/1629",
+   "short": "Regulamentul (CE) nr. 1629/2006",
+   "title": "Regulamentul (CE) nr. 1629/2006 al Comisiei din 31 octombrie 2006 de modificare a Regulamentului (CE) nr. 1010/2006 privind unele măsuri excepționale de sprijinire a pieței în sectorul ouălor și păsărilor în unele state membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1629",
+   "versions": [
+    {
+     "from": "2006-11-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a28bbf00-c855-4504-80eb-ca3f997bf95f.0022.04/DOC_1",
+     "sha256": "b677ae47d30425c390028d2b65d8ec72d8c25cfc38e39c5ef908cb5763add9d3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1637-2006",
+   "path": "ue/regulament/2006/1637",
+   "short": "Regulamentul (CE) nr. 1637/2006",
+   "title": "Regulamentul (CE) nr. 1637/2006 al Băncii Centrale Europene din 2 noiembrie 2006 privind dispoziții tranzitorii pentru aplicarea rezervelor minime obligatorii de către Banca Centrală Europeană în urma introducerii monedei euro în Slovenia (BCE/2006/15)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1637",
+   "versions": [
+    {
+     "from": "2006-11-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ad12af98-b023-4954-bc4e-4878d2608bd2.0022.04/DOC_13",
+     "sha256": "d63cb3598798e0011c11af4a8e77c10052d7f525bc572e1fb6e16a5520cbe7e0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1642-2006",
+   "path": "ue/regulament/2006/1642",
+   "short": "Regulamentul (CE) nr. 1642/2006",
+   "title": "Regulamentul (CE) nr. 1642/2006 al Comisiei din 7 noiembrie 2006 de modificare a Regulamentului (CE) nr. 51/2006 al Consiliului în ceea ce privește limitele de captură pentru stocurile de șprot în zonele ICES IIa (ape comunitare) și ICES IV (ape comunitare)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1642",
+   "versions": [
+    {
+     "from": "2006-11-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/18a15062-87e3-42af-b5f9-43200116e180.0022.04/DOC_1",
+     "sha256": "66c7d7ffad341437812ad6d3115a060639c2d8f07acfcc8f30eeec0358530383"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1643-2006",
+   "path": "ue/regulament/2006/1643",
+   "short": "Regulamentul (CE) nr. 1643/2006",
+   "title": "Regulamentul (CE) nr. 1643/2006 al Comisiei din 7 noiembrie 2006 privind normele de aplicare a regimului de asistență la exportul produselor din sectorul cărnii de vită și mânzat care beneficiază de un tratament special la importul într-o țară terță (versiune codificată)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1643",
+   "versions": [
+    {
+     "from": "2006-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2f384a50-b387-4643-bc77-0cb09c2913dc.0021.04/DOC_1",
+     "sha256": "b8c611fb7076bf7a7ca81bed19d844ee62e29b46afbc18d3eda7900db7f76a5c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1647-2006",
+   "path": "ue/regulament/2006/1647",
+   "short": "Regulamentul (CE) nr. 1647/2006",
+   "title": "Regulamentul (CE) nr. 1647/2006 al Consiliului din 7 noiembrie 2006 de modificare a Regulamentului (CE) nr. 974/98 privind introducerea monedei euro",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1647",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f9e33619-f0f4-47fc-b06b-38b90e48f790.0022.04/DOC_1",
+     "sha256": "865c162738986e9b95103d4873280afe340d884d734b4829cdf2a5cb2c10f845"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1649-2006",
+   "path": "ue/regulament/2006/1649",
+   "short": "Regulamentul (CE) nr. 1649/2006",
+   "title": "Regulamentul (CE) nr. 1649/2006 al Comisiei din 8 noiembrie 2006 privind aplicarea celei mai mici rate pentru restituirile la exportul anumitor produse din sectoarele ouălor și cărnii de pasăre (versiune codificată)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1649",
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9d353371-ae33-4c33-b722-3d2dac5b8859.0022.04/DOC_1",
+     "sha256": "a9714e08f69107388657d855223e459536f8d4db82edef572f6b83b465777fa5"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-166-2006",
    "path": "ue/regulament/2006/166",
    "short": "Regulamentul (CE) nr. 166/2006",
@@ -753,6 +1698,576 @@
    ]
   },
   {
+   "slug": "ue-regulament-1662-2006",
+   "path": "ue/regulament/2006/1662",
+   "short": "Regulamentul (CE) nr. 1662/2006",
+   "title": "Regulamentul (CE) nr. 1662/2006 al Comisiei din 6 noiembrie 2006 de modificare a Regulamentului (CE) nr. 853/2004 al Parlamentului European și al Consiliului de stabilire a unor norme specifice de igienă care se aplică alimentelor de origine animalăText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1662",
+   "versions": [
+    {
+     "from": "2006-11-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/befe5c7a-c8a0-4518-8742-dc3a1b891836.0022.04/DOC_2",
+     "sha256": "062ae759136203438178973d06eaac7fa5457b9417165b0c95aa121a1752c113"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1664-2006",
+   "path": "ue/regulament/2006/1664",
+   "short": "Regulamentul (CE) nr. 1664/2006",
+   "title": "Regulamentul (CE) nr. 1664/2006 al Comisiei din 6 noiembrie 2006 de modificare a Regulamentului (CE) nr. 2074/2005 în ceea ce privește dispozițiile de aplicare privind anumite produse de origine animală destinate consumului uman și de abrogare a anumitor dispoziții de aplicareText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1664",
+   "versions": [
+    {
+     "from": "2006-11-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b9ef3fb2-71ac-4e05-a55e-6f77ae509069.0022.04/DOC_6",
+     "sha256": "0bb3a935f736b7411b9d555571cb524123f5652d2cb9b12b6d02f543bb5f2311"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1667-2006",
+   "path": "ue/regulament/2006/1667",
+   "short": "Regulamentul (CE) nr. 1667/2006",
+   "title": "Regulamentul (CE) nr. 1667/2006 al Consiliului din 7 noiembrie 2006 privind glucoza și lactoza (versiune codificată)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1667",
+   "versions": [
+    {
+     "from": "2006-12-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/82cfbb80-432e-4093-bff6-da9f11b94300.0022.04/DOC_1",
+     "sha256": "9eb234ad4a3049445f619d9043e6b2b0a0895c0078e02493157e407b320edd01"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1677-2006",
+   "path": "ue/regulament/2006/1677",
+   "short": "Regulamentul (CE) nr. 1677/2006",
+   "title": "Regulamentul (CE) nr. 1677/2006 al Comisiei din 14 noiembrie 2006 de derogare de la Regulamentul (CE) nr. 2172/2005 în ceea ce privește data depunerii cererilor de drepturi de import pentru perioada contingentului tarifar 1 ianuarie-31 decembrie 2007",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1677",
+   "versions": [
+    {
+     "from": "2006-11-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1fb1a230-1cac-4f21-8710-c9ae6085854f.0022.04/DOC_2",
+     "sha256": "4ad754ab42554472cba1a14f319d678d9c01b4d715ff65b19c8f48059868ae4e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1685-2006",
+   "path": "ue/regulament/2006/1685",
+   "short": "Regulamentul (CE) nr. 1685/2006",
+   "title": "Regulamentul (CE) nr. 1685/2006 al Comisiei din 14 noiembrie 2006 de efectuare a celei de-a șaptezeci și doua modificări a Regulamentului (CE) nr. 881/2002 al Consiliului de instituire a unor măsuri restrictive specifice împotriva anumitor persoane și entități care au legătură cu Osama ben Laden, cu rețeaua Al-Qaida și cu talibanii și de abrogare a Regulamentului (CE) nr. 467/2001 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1685",
+   "versions": [
+    {
+     "from": "2006-11-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6fa30f27-7bcf-40c6-9372-0bc69fc22eaa.0022.04/DOC_1",
+     "sha256": "144c9f7f3823989dbf4cffd69436ab08a8a665955c85bbe1a892d848a19709ad"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1692-2006",
+   "path": "ue/regulament/2006/1692",
+   "short": "Regulamentul (CE) nr. 1692/2006",
+   "title": "Regulamentul (CE) nr. 1692/2006 al Parlamentului European și al Consiliului din 24 octombrie 2006 de stabilire a celui de-al doilea program „Marco Polo” de acordare a asistenței financiare comunitare pentru îmbunătățirea performanțelor de mediu ale sistemului de transport de mărfuri (Marco Polo II) și de abrogare a Regulamentului (CE) nr. 1382/2003Text cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1692",
+   "versions": [
+    {
+     "from": "2006-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3622954e-1f2f-42ed-9122-6f82ce016536.0022.04/DOC_4",
+     "sha256": "088821967ff68d950d5f2e278d6ef7c8ee68753c55ea503f6b9d667a99d9e4e0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1712-2006",
+   "path": "ue/regulament/2006/1712",
+   "short": "Regulamentul (CE) nr. 1712/2006",
+   "title": "Regulamentul (CE) nr. 1712/2006 al Comisiei din 20 noiembrie 2006 de modificare a Regulamentului (CE) nr. 747/2001 al Consiliului în ceea ce privește contingentele tarifare comunitare aplicabile anumitor produse agricole originare din Turcia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1712",
+   "versions": [
+    {
+     "from": "2006-11-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b97e452d-7a11-49a1-b498-82c0ccf2a2a8.0022.04/DOC_1",
+     "sha256": "11254ebada7e3bb27effa44882bef26d16f6f0d90c19b6e38b5ad07d8c0487a5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1723-2006",
+   "path": "ue/regulament/2006/1723",
+   "short": "Regulamentul (CE) nr. 1723/2006",
+   "title": "Regulamentul (CE) nr. 1723/2006 al Consiliului din 20 noiembrie 2006 de modificare a Regulamentului (CE) nr. 379/2004 prin mărirea volumului contingentelor tarifare aplicabile anumitor produse pescărești pentru anul 2006Text cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1723",
+   "versions": [
+    {
+     "from": "2006-11-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/90d54d54-07b2-4535-8cad-c83484c7f145.0021.04/DOC_1",
+     "sha256": "9d836adb240007e13076baf8406ffe4c3fd8b886cb1139ec8d8c6a5240fb5028"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1737-2006",
+   "path": "ue/regulament/2006/1737",
+   "short": "Regulamentul (CE) nr. 1737/2006",
+   "title": "Regulamentul (CE) nr. 1737/2006 al Comisiei din 7 noiembrie 2006 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 2152/2003 al Parlamentului European și al Consiliului privind supravegherea pădurilor și interacțiunile ecologice în cadrul Comunității",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1737",
+   "versions": [
+    {
+     "from": "2006-12-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6417c8bf-0a0e-46a3-8d0d-ae829175ed56.0022.04/DOC_6",
+     "sha256": "077ced483337ca59b8dd4e243dc5594638ba8d8047fd147ed52c84c581a4b303"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1738-2006",
+   "path": "ue/regulament/2006/1738",
+   "short": "Regulamentul (CE) nr. 1738/2006",
+   "title": "Regulamentul (CE) nr. 1738/2006 al Consiliului din 23 noiembrie 2006 de modificare a Regulamentului (CE) nr. 930/2004 privind măsuri derogatorii temporare referitoare la redactarea în limba malteză a actelor instituțiilor Uniunii Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1738",
+   "versions": [
+    {
+     "from": "2006-11-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9d89d722-cfd0-4880-ab13-bebb28233ae0.0022.05/DOC_1",
+     "sha256": "9f00c5b09585e798faf32a69dda38aae9fec54b575e5740d61fa197ccc801824"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1742-2006",
+   "path": "ue/regulament/2006/1742",
+   "short": "Regulamentul (CE) nr. 1742/2006",
+   "title": "Regulamentul (CE) nr. 1742/2006 al Comisiei din 24 noiembrie 2006 de deschidere și de administrare a contingentelor tarifare comunitare pentru vinurile originare din Republica Albania",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1742",
+   "versions": [
+    {
+     "from": "2006-11-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f9521f6f-3718-41b7-aa06-9e99299c14b5.0021.04/DOC_1",
+     "sha256": "11bd73a42bb620621d55ac9345028aa8229d4c250d975b21a0e5db7d89062e6f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1744-2006",
+   "path": "ue/regulament/2006/1744",
+   "short": "Regulamentul (CE) nr. 1744/2006",
+   "title": "Regulamentul (CE) nr. 1744/2006 al Comisiei din 24 noiembrie 2006 privind normele referitoare la ajutorul pentru viermii de mătase (versiune codificată)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1744",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d7b28d32-74b9-48d2-a99c-041bcd9c6e6d.0022.04/DOC_1",
+     "sha256": "0e2fee0eb3be6d5803a014378b46406f128d5986db9f08c0c9534f7c4b22b136"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1753-2006",
+   "path": "ue/regulament/2006/1753",
+   "short": "Regulamentul (CE) nr. 1753/2006",
+   "title": "Regulamentul (CE) nr. 1753/2006 al Comisiei din 28 noiembrie 2006 de modificare a Regulamentului (CE) nr. 669/97 al Consiliului privind deschiderea și modul de gestionare a contingentelor tarifare comunitare pentru anumiți pești și anumite produse pescărești originare din Insulele Feroe și de definire a anumitor norme de modificare și de adaptare a măsurilor menționate respective, precum și de abrogare a Regulamentului (CE) nr. 1983/95",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1753",
+   "versions": [
+    {
+     "from": "2006-11-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ca6f3ddf-d2f5-4c6b-89b7-800dfbffca9b.0022.04/DOC_1",
+     "sha256": "b95e51a1d5b6b573225bc2d457d6c0aed166005acf379c3ab42af4b9d065b479"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1758-2006",
+   "path": "ue/regulament/2006/1758",
+   "short": "Regulamentul (CE) nr. 1758/2006",
+   "title": "Regulamentul (CE) nr. 1758/2006 al Consiliului din 22 mai 2006 privind punerea în aplicare a unui acord sub forma unui schimb de scrisori între Comunitatea Europeană și Malaysia în temeiul articolului XXIV alineatul (6) și al articolului XXVIII din Acordul General pentru Tarife și Comerț (GATT) din 1994 privind modificarea concesiunilor în listele de angajamente ale Republicii Cehe, Republicii Estonia, Republicii Cipru, Republicii Letonia, Republicii Lituania, Republicii Ungare, Republicii Malta, Republicii Polone, Republicii Slovenia și Republicii Slovace în contextul aderării acestora la Uniunea Europeană și de modificare a anexei I la regulamentul (CEE) nr. 2658/87 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1758",
+   "versions": [
+    {
+     "from": "2006-12-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5568336b-a59a-473e-bfe4-527cfbe3d45f.0022.04/DOC_1",
+     "sha256": "90070ef4f63fa898274349fcf11240b305fc9c197965ae7db269e28f820e2734"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1760-2006",
+   "path": "ue/regulament/2006/1760",
+   "short": "Regulamentul (CE, Euratom) nr. 1760/2006",
+   "title": "Regulamentul (CE, Euratom) nr. 1760/2006 al Consiliului din 28 noiembrie 2006 de instituire, cu ocazia aderării Bulgariei și a României la Uniunea Europeană, a unor măsuri speciale temporare privind recrutarea funcționarilor Comunităților Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1760",
+   "versions": [
+    {
+     "from": "2006-12-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7dcea725-26b8-461b-ae50-33ce888437da.0022.03/DOC_6",
+     "sha256": "9551f6e96eaa5b4b0686bace834262608039bc13b6d1694b15734144ae67c14d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-178-2006",
+   "path": "ue/regulament/2006/178",
+   "short": "Regulamentul (CE) nr. 178/2006",
+   "title": "Regulamentul (CE) nr. 178/2006 al Comisiei din 1 februarie 2006 de modificare a Regulamentului (CE) nr. 396/2005 al Parlamentului European și al Consiliului prin întocmirea anexei I în care sunt prevăzute produsele alimentare și hrana pentru animale al căror conținut de reziduuri de pesticide face obiectul unor limite maximeText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R0178",
+   "versions": [
+    {
+     "from": "2006-02-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7d02ad2d-be16-4276-ae8e-45ccf09ec708.0022.04/DOC_1",
+     "sha256": "0de220555aebfffda603416ad5b55efbac2e9c939fbe6745ad54bfc21b39e988"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1782-2006",
+   "path": "ue/regulament/2006/1782",
+   "short": "Regulamentul (CE) nr. 1782/2006",
+   "title": "Regulamentul (CE) nr. 1782/2006 al Consiliului din 20 noiembrie 2006 de modificare a Regulamentelor (CE) nr. 51/2006 și (CE) nr. 2270/2004 cu privire la posibilitățile de pescuit și condițiile asociate pentru anumite stocuri halieutice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1782",
+   "versions": [
+    {
+     "from": "2006-12-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d44b7828-9914-4f3c-9288-7d196382207c.0022.04/DOC_1",
+     "sha256": "1f997b660d536445e59a655c1de5804c6b99c91b310f285a34498940a985c833"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1785-2006",
+   "path": "ue/regulament/2006/1785",
+   "short": "Regulamentul (CE) nr. 1785/2006",
+   "title": "Regulamentul (CE) nr. 1785/2006 al Comisiei din 4 decembrie 2006 de stabilire a normelor de gestionare și de repartizare a contingentelor textile instituite pentru anul 2007 prin Regulamentul (CE) nr. 517/94 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1785",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c969774f-a26e-4cbe-8cad-1bfafdb73b7d.0022.04/DOC_1",
+     "sha256": "6f89f45b9bc31fe9af6f367c6af18e95b937a4534c20dc008acdce43e70bda4e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1792-2006",
+   "path": "ue/regulament/2006/1792",
+   "short": "Regulamentul (CE) nr. 1792/2006",
+   "title": "Regulamentul (CE) nr. 1792/2006 al Comisiei din 23 octombrie 2006 de adaptare a anumitor regulamente și decizii adoptate în domeniul liberei circulații a mărfurilor, al liberei circulații a persoanelor, al politicii în domeniul concurenței, al agriculturii (legislația veterinară și fitosanitară), al pescuitului, al politicii în domeniul transporturilor, al impozitării, al statisticii, al politicii sociale și al ocupării forței de muncă, al mediului, al uniunii vamale și al relațiilor externe, ca urmare a aderării Bulgariei și României",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1792",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/895bbdec-ebd6-4c27-89db-35f141ff10d0.0021.04/DOC_1",
+     "sha256": "8755e6fb9344d70740176e0deaa023a969ade61a8aa9bb485230c570fab2e5ee"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1801-2006",
+   "path": "ue/regulament/2006/1801",
+   "short": "Regulamentul (CE) nr. 1801/2006",
+   "title": "Regulamentul (CE) nr. 1801/2006 al Consiliului din 30 noiembrie 2006 privind încheierea Acordului de parteneriat în domeniul pescuitului între Comunitatea Europeană și Republica Islamică Mauritania",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1801",
+   "versions": [
+    {
+     "from": "2006-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8c39c9b0-7aee-4267-8d0c-0f2e1fcb9a8f.0022.01/DOC_1",
+     "sha256": "e979bfc03a5f3a96638ff01da20ced4e4b70e4c17464a0791b8eaa54c69cecea"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1818-2006",
+   "path": "ue/regulament/2006/1818",
+   "short": "Regulamentul (CE) nr. 1818/2006",
+   "title": "Regulamentul (CE) nr. 1818/2006 al Comisiei din 11 decembrie 2006 privind punerea în aplicare a sistemului de gestionare a limitei cantitative de clorură de potasiu legate de măsurile antidumping aplicabile importurilor de clorură de potasiu originară din Belarus",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1818",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/20d65472-c303-4491-8325-366ed2a7f08c.0022.04/DOC_1",
+     "sha256": "fdb903483c793d5d2048e0a06816b33bd7746bfc171216108c52824e358a4fae"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1823-2006",
+   "path": "ue/regulament/2006/1823",
+   "short": "Regulamentul (CE) nr. 1823/2006",
+   "title": "Regulamentul (CE) nr. 1823/2006 din 12 decembrie 2006",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1823",
+   "versions": [
+    {
+     "from": "2006-12-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4368f19c-ab7c-43e9-8001-50ba86d0eb63.0022.04/DOC_1",
+     "sha256": "60d937c1d2e7bb5f2a84e09fdb65f59f8bde6aed86b4ea5ed189c2beb13745ed"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1828-2006",
+   "path": "ue/regulament/2006/1828",
+   "short": "Regulamentul (CE) nr. 1828/2006",
+   "title": "Regulamentul (CE) nr. 1828/2006 al Comisiei din 8 decembrie 2006 de stabilire a normelor de punere în aplicare a Regulamentului (CE) nr. 1083/2006 al Consiliului de stabilire a anumitor dispoziții generale privind Fondul European de Dezvoltare Regională, Fondul Social European și Fondul de coeziune și a Regulamentului (CE) nr. 1080/2006 al Parlamentului European și al Consiliului privind Fondul European de Dezvoltare Regională",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1828",
+   "versions": [
+    {
+     "from": "2007-01-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8c7b28c2-c496-4cad-aec0-f6ffb56b10c8.0022.05/DOC_33",
+     "sha256": "e00bded61dd08f8239918671bdb1990f5ad22096205d6763f894b92620970770"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1839-2006",
+   "path": "ue/regulament/2006/1839",
+   "short": "Regulamentul (CE) nr. 1839/2006",
+   "title": "Regulamentul (CE) nr. 1839/2006 al Consiliului din 28 noiembrie 2006 privind punerea în aplicare a Acordului sub forma unui schimb de scrisori între Comunitatea Europeană și Republica Argentina în temeiul articolului XXIV alineatul (6) din GATT 1994 și de modificare și completare a anexei I la Regulamentul (CEE) nr. 2658/87 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1839",
+   "versions": [
+    {
+     "from": "2006-12-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cba9cc0b-3e22-4766-b3eb-8fc93ecfdde0.0022.04/DOC_1",
+     "sha256": "f050072c5b4236c02a03564a7631a16d8f2e47ee22c648d70a1805ca8c36e43d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1840-2006",
+   "path": "ue/regulament/2006/1840",
+   "short": "Regulamentul (CE) nr. 1840/2006",
+   "title": "Regulamentul (CE) nr. 1840/2006 al Consiliului din 11 decembrie 2006 de modificare a Regulamentului (CE) nr. 74/2004 de instituire a unui drept compensatoriu definitiv la importurile de lenjerie de pat din bumbac originară din India",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1840",
+   "versions": [
+    {
+     "from": "2006-12-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/edac950b-2724-4a18-9175-0b39f89dd045.0022.04/DOC_1",
+     "sha256": "fdd533494369be3288af3f4cb7de804be8118292c0a802b6b1c74ee43cf5d3d8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1847-2006",
+   "path": "ue/regulament/2006/1847",
+   "short": "Regulamentul (CE) nr. 1847/2006",
+   "title": "Regulamentul (CE) nr. 1847/2006 al Comisiei din 13 decembrie 2006 privind adaptarea anumitor regulamente orizontale ale politicii agricole comune ca urmare a aderării Bulgariei și a României la Uniunea Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1847",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d68963d8-435a-48b6-b166-d77eac063a88.0022.04/DOC_1",
+     "sha256": "a48491cf2b4b80dae5d6b311b69c938078314238b28e7ead81f0fcb9830f3d36"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1870-2006",
+   "path": "ue/regulament/2006/1870",
+   "short": "Regulamentul (CE) nr. 1870/2006",
+   "title": "Regulamentul (CE) nr. 1870/2006 al Consiliului din 11 decembrie 2006 privind comerțul cu anumite produse siderurgice între Comunitate și Republica Kazahstan",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1870",
+   "versions": [
+    {
+     "from": "2006-12-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3137e9f0-5139-4ea7-87e7-4164ed4c0bba.0022.04/DOC_1",
+     "sha256": "b336acf2c48664135e601ade9ef072213c54ce3b2cd3ef7e73423b6320742db4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1873-2006",
+   "path": "ue/regulament/2006/1873",
+   "short": "Regulamentul (CE, Euratom) nr. 1873/2006",
+   "title": "Regulamentul (CE, Euratom) nr. 1873/2006 al Consiliului din 11 decembrie 2006 de modificare a Regulamentului (CECO, CEE, Euratom) nr. 300/76 de stabilire a categoriilor de beneficiari care au dreptul la indemnizații pentru program rotativ continuu sau discontinuu, a condițiilor de acordare și a cuantumului acestor indemnizații",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1873",
+   "versions": [
+    {
+     "from": "2006-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1ff63166-43fd-4ed6-91bf-c7c9ba94bbc7.0022.03/DOC_1",
+     "sha256": "75aaccf71d3adb88a7e1a55faa1b08d0da5f8d37c1d62a19daa382d04588d837"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1882-2006",
+   "path": "ue/regulament/2006/1882",
+   "short": "Regulamentul (CE) nr. 1882/2006",
+   "title": "Regulamentul (CE) nr. 1882/2006 al Comisiei din 19 decembrie 2006 de stabilire a modalităților de prelevare de probe și a metodelor de analiză pentru controlul oficial al nivelurilor de nitrați din anumite produse alimentareText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1882",
+   "versions": [
+    {
+     "from": "2007-01-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2e727e03-7b32-424a-870b-9d7385db73aa.0022.04/DOC_4",
+     "sha256": "9bc04060c9ee6bb02b667008b27b4bdf4a8c4dded37aafce0c1e4a38dddcf76d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1893-2006",
+   "path": "ue/regulament/2006/1893",
+   "short": "Regulamentul (CE) 1893/2006",
+   "title": "Regulamentul (CE) 1893/2006 al Parlamentului European și al Consiliului din 20 decembrie 2006 de stabilire a Nomenclatorului statistic al activităților economice NACE a doua revizuire și de modificare a Regulamentului (CEE) nr. 3037/90 al Consiliului, precum și a anumitor regulamente CE privind domenii statistice specificeText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1893",
+   "versions": [
+    {
+     "from": "2007-01-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/361cc2e8-c462-4088-8e87-ba6c99b84588.0022.04/DOC_1",
+     "sha256": "c412504a8b3965496f33065259a9fca97294a3e402a74869a2c79645885842ea"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1894-2006",
+   "path": "ue/regulament/2006/1894",
+   "short": "Regulamentul (CE) nr. 1894/2006",
+   "title": "Regulamentul (CE) nr. 1894/2006 al Consiliului din 18 decembrie 2006 privind aplicarea Acordului sub forma unui schimb de scrisori între Comunitatea Europeană și Brazilia privind modificarea concesiilor în listele de angajamente ale Republicii Cehe, Republicii Estonia, Republicii Cipru, Republicii Letonia, Republicii Lituania, Republicii Ungare, Republicii Malta, Republicii Polone, Republicii Slovenia și Republicii Slovace, în cadrul procesului de aderare la Comunitatea Europeană, de modificare și de completare a anexei I la Regulamentul (CEE) nr. 2658/87 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1894",
+   "versions": [
+    {
+     "from": "2006-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ecc3b06e-5132-4ce8-8386-1f6057eb8ca2.0022.04/DOC_1",
+     "sha256": "b9c41b7d9fdcbb2d94098a5f461f203c39bfe864116fb91d36392cb534074d87"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1895-2006",
+   "path": "ue/regulament/2006/1895",
+   "short": "Regulamentul (CE, Euratom) nr. 1895/2006",
+   "title": "Regulamentul (CE, Euratom) nr. 1895/2006 al Consiliului din 19 decembrie 2006 de ajustare, începând cu 1 iulie 2006, a remunerațiilor și pensiilor funcționarilor și ale celorlalți agenți ai Comunităților Europene, precum și a coeficienților de corectare aferenți",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1895",
+   "versions": [
+    {
+     "from": "2006-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c6fcbc63-780a-47cd-9c0c-864b9a1df912.0022.03/DOC_9",
+     "sha256": "1954d6adba7a6c48e8b52595fdb591f5b047d3c03ae2787efc9a8fd76da7012a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1896-2006",
+   "path": "ue/regulament/2006/1896",
+   "short": "Regulamentul (CE) nr. 1896/2006",
+   "title": "Regulamentul (CE) nr. 1896/2006 al Parlamentului European și al Consiliului din 12 decembrie 2006 de instituire a unei proceduri europene de somație de plată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1896",
+   "versions": [
+    {
+     "from": "2006-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a3d5e527-018b-4c1a-9344-8ec113ee19a1.0022.04/DOC_17",
+     "sha256": "87f1885d1d031ffa8ff76266faf37a66f2c92729f2b6866aa7e013c566c378dc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1899-2006",
+   "path": "ue/regulament/2006/1899",
+   "short": "Regulamentul (CE) nr. 1899/2006",
+   "title": "Regulamentul (CE) nr. 1899/2006 al Parlamentului European și al Consiliului din 12 decembrie 2006 de modificare a Regulamentului (CEE) nr. 3922/91 al Consiliului privind armonizarea cerințelor tehnice și a procedurilor administrative în domeniul aviației civileText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1899",
+   "versions": [
+    {
+     "from": "2007-01-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e91fcc91-cd52-4e30-9fba-9b6a2124ebdc.0022.04/DOC_3",
+     "sha256": "f6ff242d82de7323387542f44a591668401ae185626a458aa9db781d37ac2db6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-19-2006",
+   "path": "ue/regulament/2006/19",
+   "short": "Regulamentul (CE) nr. 19/2006",
+   "title": "Regulamentul (CE) nr. 19/2006 al Comisiei din 6 ianuarie 2006 de modificare a Regulamentului (CE) nr. 747/2001 în ceea ce privește contingentele tarifare comunitare pentru anumite produse agricole originare din Iordania",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R0019",
+   "versions": [
+    {
+     "from": "2006-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/af053e17-cadb-4ee7-ad48-270e5f16c199.0022.04/DOC_1",
+     "sha256": "6d1057850a90ff85cf55418c92eeadcae30ecaf4c30366449284e7075d88a5e8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1900-2006",
+   "path": "ue/regulament/2006/1900",
+   "short": "Regulamentul (CE) nr. 1900/2006",
+   "title": "Regulamentul (CE) nr. 1900/2006 al Parlamentului European și al Consiliului din 20 decembrie 2006 de modificare a Regulamentului (CE) nr. 3922/91 al Consiliului privind armonizarea cerințelor tehnice și a procedurilor administrative în domeniul aviației civile",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1900",
+   "versions": [
+    {
+     "from": "2007-01-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/51e8abe1-b421-4d5b-b494-53940ade2df1.0022.04/DOC_1",
+     "sha256": "a705fb4aab81f9a71a6e8dd6e54d154d658f14032f7b11b749fb0bc1120d46d3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1901-2006",
+   "path": "ue/regulament/2006/1901",
+   "short": "Regulamentul (CE) nr. 1901/2006",
+   "title": "Regulamentul (CE) nr. 1901/2006 al Parlamentului European și al Consiliului din 12 decembrie 2006 privind medicamentele de uz pediatric și de modificare a Regulamentului (CEE) nr. 1768/92, a Directivei 2001/20/CE, a Directivei 2001/83/CE și a Regulamentului (CE) nr. 726/2004Text cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1901",
+   "versions": [
+    {
+     "from": "2007-01-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2b688364-769b-4529-ab41-ba530e266466.0022.04/DOC_1",
+     "sha256": "7a8e44e63fcc6076c0a8f2e601362e774e101271eff3e1f8e8cebfff1db6c9cf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1902-2006",
+   "path": "ue/regulament/2006/1902",
+   "short": "Regulamentul (CE) nr. 1902/2006",
+   "title": "Regulamentul (CE) nr. 1902/2006 al Parlamentului European și al Consiliului din 20 decembrie 2006 de modificare a Regulamentului (CE) nr. 1901/2006 privind medicamentele de uz pediatricText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1902",
+   "versions": [
+    {
+     "from": "2007-01-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/962e5f1e-9acf-4862-8b1b-1d5b01c8265e.0022.04/DOC_1",
+     "sha256": "cb61f34f4b23be0dfa65781f73a508aaa57de4ee1554c285e3e1846ecab23a82"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1907-2006",
    "path": "ue/regulament/2006/1907",
    "short": "Regulamentul (CE) nr. 1907/2006",
@@ -764,6 +2279,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/5a380587-970b-46c6-80b0-985dd1d4812d.0022.05/DOC_2",
      "sha256": "fa86eced14bdd5cad2b5ac3243384d93fd3f2ef3346cebce64510ff18e719045"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1916-2006",
+   "path": "ue/regulament/2006/1916",
+   "short": "Regulamentul (CE) nr. 1916/2006",
+   "title": "Regulamentul (CE) nr. 1916/2006 al Comisiei din 18 decembrie 2006 privind deschiderea și modul de gestionare a contingentelor tarifare comunitare pentru anumiți pești și anumite produse pescărești originare din Albania",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1916",
+   "versions": [
+    {
+     "from": "2006-12-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/44495fad-ace3-4041-997e-8892f6ea543c.0022.04/DOC_1",
+     "sha256": "1124ceaebedae98854d6b61fdad4c6dc46815ec05cf7ba9e790327d683850016"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1921-2006",
+   "path": "ue/regulament/2006/1921",
+   "short": "Regulamentul (CE) nr. 1921/2006",
+   "title": "Regulamentul (CE) nr. 1921/2006 al Parlamentului European și al Consiliului din 18 decembrie 2006 privind transmiterea de date statistice referitoare la debarcările de produse pescărești în statele membre și de abrogare a Regulamentului (CEE) nr. 1382/91 al ConsiliuluiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1921",
+   "versions": [
+    {
+     "from": "2007-01-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fb113065-45d4-4085-ab90-c016a10a8e88.0022.04/DOC_1",
+     "sha256": "7ba781d76a6de92c4d57b90bec8c0fac3ca82363c734b0deb04286ffc4b50100"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1922-2006",
+   "path": "ue/regulament/2006/1922",
+   "short": "Regulamentul (CE) nr. 1922/2006",
+   "title": "Regulamentul (CE) nr. 1922/2006 al Parlamentului European și al Consiliului din 20 decembrie 2006 privind înființarea unui Institut European pentru egalitatea de șanse între femei și bărbați",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1922",
+   "versions": [
+    {
+     "from": "2007-01-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/71eee09d-3b5a-414c-bf93-3a55cc4fd5c4.0022.05/DOC_1",
+     "sha256": "306cd52c0b221fbedd21c4f37760dba66d1f929eb66dc9aaa34e57f924b44a2d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1923-2006",
+   "path": "ue/regulament/2006/1923",
+   "short": "Regulamentul (CE) nr. 1923/2006",
+   "title": "Regulamentul (CE) nr. 1923/2006 al Parlamentului European și al Consiliului din 18 decembrie 2006 de modificare a Regulamentului (CE) nr. 999/2001 de stabilire a unor reglementări pentru prevenirea, controlul și eradicarea anumitor forme transmisibile de encefalopatie spongiformăText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1923",
+   "versions": [
+    {
+     "from": "2007-01-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8b268639-20c5-4ef3-ac11-f63a819a508b.0022.04/DOC_1",
+     "sha256": "7f27e2007b5ac69732a0e6809f3a4c7252127fcbfb5ec1c52206efc8e1a2cc3b"
     }
    ]
   },
@@ -794,6 +2369,231 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/3f4a1a6e-a2f1-4bab-8a1f-89d2e3b6d9dc.0022.04/DOC_1",
      "sha256": "788c8c1d811d6e202eaf23559ad93271f7b6fa7c4a343a23de5a3c8cf40abc6c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1929-2006",
+   "path": "ue/regulament/2006/1929",
+   "short": "Regulamentul (CE) nr. 1929/2006",
+   "title": "Regulamentul (CE) nr. 1929/2006 al Consiliului din 23 octombrie 2006 privind punerea în aplicare a Acordului sub forma unui schimb de scrisori între Comunitatea Europeană și Uruguay în temeiul articolului XXIV alineatul (6) din Acordul General pentru Tarife și Comerț (GATT) din 1994 și modificarea anexei I la Regulamentul (CEE) nr. 2658/87 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1929",
+   "versions": [
+    {
+     "from": "2006-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8d925d42-d91a-44d6-9804-95cdf189c4f3.0022.04/DOC_1",
+     "sha256": "b72615d369114ee3684f40d999a11b47cd950756f1e161381216e5f4542c38d1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1930-2006",
+   "path": "ue/regulament/2006/1930",
+   "short": "Regulamentul (CE) nr. 1930/2006",
+   "title": "Regulamentul (CE) nr. 1930/2006 al Consiliului din 20 decembrie 2006 de modificare a anexei I la Regulamentul (CEE) nr. 2658/87 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1930",
+   "versions": [
+    {
+     "from": "2006-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d03cb675-0612-44b9-8470-d9416dd139af.0022.04/DOC_1",
+     "sha256": "0bed8155b9ce627fb9b1e904330511a01c17fde0c06595a50484b6cec9c4a33a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1931-2006",
+   "path": "ue/regulament/2006/1931",
+   "short": "Regulamentul (CE) nr. 1931/2006",
+   "title": "Regulamentul (CE) nr. 1931/2006 al Parlamentului European și al Consiliului din 20 decembrie 2006 de stabilire a normelor referitoare la micul trafic de frontieră la frontierele terestre externe ale statelor membre și de modificare a dispozițiilor Convenției Schengen",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1931",
+   "versions": [
+    {
+     "from": "2007-01-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/670a2010-4b47-4f4e-8f87-d2eae2ccf6f9.0022.05/DOC_1",
+     "sha256": "83692bb699354196baa0611c7ac9575bfb5a9ca3d51958fa99350793388c1076"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1933-2006",
+   "path": "ue/regulament/2006/1933",
+   "short": "Regulamentul (CE) nr. 1933/2006",
+   "title": "Regulamentul (CE) nr. 1933/2006 al Consiliului din 21 decembrie 2006 de retragere temporară a accesului Republicii Belarus la preferințele tarifare generalizate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1933",
+   "versions": [
+    {
+     "from": "2007-06-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c44a0da3-55e9-413d-842f-b564d8e13304.0022.05/DOC_1",
+     "sha256": "dcfe20b4b3629d7f33f8a2e20d8dd8ec197fdbe7b54828692e739bb8ba3b54dd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1935-2006",
+   "path": "ue/regulament/2006/1935",
+   "short": "Regulamentul (CE) nr. 1935/2006",
+   "title": "Regulamentul (CE) nr. 1935/2006 al Comisiei din 20 decembrie 2006 de modificare a Regulamentului (CE) nr. 794/2004 de punere în aplicare a Regulamentului (CE) nr. 659/1999 al Consiliului de stabilire a normelor de aplicare a articolului 93 din Tratatul CE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1935",
+   "versions": [
+    {
+     "from": "2007-01-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4eec0222-e343-46d7-b547-271c4f70e864.0021.05/DOC_1",
+     "sha256": "604812af5bee03d9d558d2fcc70a77e0155d3076bfac1127197fbab1df5c9f33"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1945-2006",
+   "path": "ue/regulament/2006/1945",
+   "short": "Regulamentul (CE, Euratom) nr. 1945/2006",
+   "title": "Regulamentul (CE, Euratom) nr. 1945/2006 al Consiliului din 11 decembrie 2006 de modificare a Regulamentului (CEE, Euratom, CECO) nr. 495/77 de stabilire a categoriilor de beneficiari, a condițiilor de atribuire și a cuantumului indemnizațiilor care pot fi acordate funcționarilor care lucrează sistematic în servicii de permanență",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1945",
+   "versions": [
+    {
+     "from": "2006-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/082597a2-79d9-4b74-8fb9-2f24e45a0973.0022.03/DOC_1",
+     "sha256": "0b4f336b60f556d93347648f9f2030e6d4fd9729126bcdf661794d00d186d0bb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1950-2006",
+   "path": "ue/regulament/2006/1950",
+   "short": "Regulamentul (CE) nr. 1950/2006",
+   "title": "Regulamentul (CE) nr. 1950/2006 al Comisiei din 13 decembrie 2006 de stabilire, în conformitate cu Directiva 2001/82/CE a Parlamentului European și a Consiliului de instituire a unui cod comunitar cu privire la produsele medicamentoase veterinare, a unei liste a substanțelor esențiale pentru tratamentul ecvideelorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1950",
+   "versions": [
+    {
+     "from": "2006-12-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1d023294-b534-4119-a030-d2db962d8430.0022.04/DOC_1",
+     "sha256": "582d21b45b5ad1a377b5a20dd68dad893b9158dabcd1279ce1bd6a3109e8650d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1965-2006",
+   "path": "ue/regulament/2006/1965",
+   "short": "Regulamentul (CE) nr. 1965/2006",
+   "title": "Regulamentul (CE) nr. 1965/2006 al Comisiei din 22 decembrie 2006 de adaptare a mai multor regulamente privind sectorul cărnii de vită și mânzat ca urmare a aderării Bulgariei și a României la Uniunea Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1965",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/74230a30-568f-4075-8dc2-4f2dde96e267.0022.06/DOC_1",
+     "sha256": "88ad42a0989ab12973af10031c42328407ab216b391f6002dbb66b67c9e9230a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1967-2006",
+   "path": "ue/regulament/2006/1967",
+   "short": "Regulamentul (CE) nr. 1967/2006",
+   "title": "Regulamentul (CE) nr. 1967/2006 al Consiliului din 21 decembrie 2006 privind măsurile de gestionare pentru exploatarea durabilă a resurselor halieutice în Marea Mediterană, de modificare a Regulamentului (CEE) nr. 2847/93 și de abrogare a Regulamentului (CE) nr. 1626/94",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1967",
+   "versions": [
+    {
+     "from": "2007-01-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f7b0a754-4a19-4cf9-8040-aeae2faace38.0022.05/DOC_5",
+     "sha256": "fe5d2433078f08557fc3d0f07fce8d8e1dd80544015f6bd4906130b83fa2f3c0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-198-2006",
+   "path": "ue/regulament/2006/198",
+   "short": "Regulamentul (CE) nr. 198/2006",
+   "title": "Regulamentul (CE) nr. 198/2006 al Comisiei din 3 februarie 2006 de aplicare a Regulamentului (CE) nr. 1552/2005 al Parlamentului European și al Consiliului privind statisticile referitoare la formarea profesională în întreprinderiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R0198",
+   "versions": [
+    {
+     "from": "2006-02-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/60f2b76c-d7ec-4dcb-badd-e380793587d2.0021.04/DOC_17",
+     "sha256": "29d41955b48deec219f6d38b86cef7ba932a21eb66d98ba0c6c6711d9d6b19ec"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1980-2006",
+   "path": "ue/regulament/2006/1980",
+   "short": "Regulamentul (CE) nr. 1980/2006",
+   "title": "Regulamentul (CE) nr. 1980/2006 al Comisiei din 20 decembrie 2006 de stabilire a unor măsuri tranzitorii de modificare a Regulamentului (CE) nr. 2076/2002 și a Deciziilor 2001/245/CE, 2002/928/CE și 2006/797/CE în ceea ce privește continuarea utilizării anumitor substanțe active care nu sunt incluse în anexa I la Directiva 91/414/CEE ca urmare a aderării BulgarieiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1980",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ae77f390-2496-4bb5-90f9-af4d47bf4f0a.0022.04/DOC_1",
+     "sha256": "e1a32ad30511cac4113509b8302e110fc0cf9d01ab95753233b9f24e90effe7f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1981-2006",
+   "path": "ue/regulament/2006/1981",
+   "short": "Regulamentul (CE) nr. 1981/2006",
+   "title": "Regulamentul (CE) nr. 1981/2006 al Comisiei din 22 decembrie 2006 privind normele de aplicare a articolului 32 din Regulamentul (CE) nr. 1829/2003 al Parlamentului European și al Consiliului în ceea ce privește laboratorul comunitar de referință pentru organismele modificate geneticText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1981",
+   "versions": [
+    {
+     "from": "2007-01-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a021b9c3-93a5-4270-948a-8489d94d04f8.0022.04/DOC_1",
+     "sha256": "f4bb5a74d4762dbbfccd37cd51583fafbfd6fb79feeb0592175801ed56a51be9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1985-2006",
+   "path": "ue/regulament/2006/1985",
+   "short": "Regulamentul (CE) nr. 1985/2006",
+   "title": "Regulamentul (CE) nr. 1985/2006 al Comisiei din 22 decembrie 2006 de stabilire a normelor de calculare a ajutoarelor acordate de către statele membre organizațiilor de producători din sectorul pescuitului și acvaculturii (versiune codificată)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1985",
+   "versions": [
+    {
+     "from": "2007-01-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/38fdf0d1-965a-4004-a89b-8859a7218c62.0022.05/DOC_1",
+     "sha256": "9c860f36d52eeaf872eb9c78b68ef62608ffbd6428f1e32e43708b81ff346625"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1992-2006",
+   "path": "ue/regulament/2006/1992",
+   "short": "Regulamentul (CE) nr. 1992/2006",
+   "title": "Regulamentul (CE) nr. 1992/2006 al Parlamentului European și al Consiliului din 18 decembrie 2006 de modificare a Regulamentului (CE) nr. 1408/71 al Consiliului privind aplicarea regimurilor de securitate socială în raport cu lucrătorii salariați, cu lucrătorii care desfășoară o activitate independentă și cu familiile acestora care se deplasează în cadrul ComunitățiiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1992",
+   "versions": [
+    {
+     "from": "2007-01-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/db9bfe2c-36ae-4a79-b644-fa54357235b4.0022.04/DOC_4",
+     "sha256": "db9142c5bad6b0e1f27f76184910818362337a51f0dac45ecfd02e706641d110"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1996-2006",
+   "path": "ue/regulament/2006/1996",
+   "short": "Regulamentul (CE) nr. 1996/2006",
+   "title": "Regulamentul (CE) nr. 1996/2006 al Comisiei din 22 decembrie 2006 de adaptare a mai multor regulamente referitoare la piața cerealelor și a orezului în vederea aderării Bulgariei și a României la Uniunea Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32006R1996",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/455dd7bc-c596-4109-b8c4-9f0f525dac48.0022.04/DOC_1",
+     "sha256": "00c5f811d661aa7df44ea1b891d86eb3cc331e4edb24997046b7cf8078cd478a"
     }
    ]
   },

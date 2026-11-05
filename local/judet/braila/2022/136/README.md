@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Județean Brăila nr. 136/2022 privind înscrierea în cartea funciară a dreptului de proprietate al Județului Brăila, asupra suprafețelor real măsurate, pe tronsoane, a drumului județean DJ 202B- traseu: Latinu-Gurguieți-Sihleanu- Scorțaru Nou- Gemenele-Movila Miresii-Țepeș Vodă-Urleasca și completarea datelor de identificare în inventarul domeniului public al județului Brăila, ca urmare a înregistrărilor sistematice in sistemul
+
+HCJ Brăila nr. 136/2022 · 1 versions, from 2022-06-28 (latest in force: 2022-06-28) · <https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2022-I-0001FEBA?OpenDocument>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcj-braila-136-2022` (tags `hcj-braila-136-2022/<day>`; `python tools/on.py <day> hcj-braila-136-2022`).
+
+## Decisions made by hand
+
+- HCJ Brăila nr. 136/2022: listed from Consiliul Județean Brăila (cjbraila.ro); an individual decision: metadata only.
+- HCJ Brăila nr. 136/2022: dated from 28 June 2022, the day it was adopted (the register gives no later day of publication).
+- HCJ Brăila nr. 136/2022: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

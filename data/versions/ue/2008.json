@@ -678,6 +678,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-10-2008",
+   "path": "ue/regulament/2008/10",
+   "short": "Regulamentul (CE) nr. 10/2008",
+   "title": "Regulamentul (CE) nr. 10/2008 al Comisiei din 8 ianuarie 2008 de punere în aplicare a Regulamentului (CE) nr. 458/2007 al Parlamentului European și al Consiliului privind Sistemul european de statistici integrate ale protecției sociale (ESSPROS) cu privire la definițiile, clasificările detaliate și actualizarea regulilor de difuzare pentru sistemul central ESSPROS și modulul privind beneficiarii de pensie (Text cu relevanță pentru SEE )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R0010",
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/42a96be9-a605-4ff4-aa4f-42546cde6bd2.0019.02/DOC_1",
+     "sha256": "bb162afb19b326016e36b7fc9615cb8a14f6f0f017548c8ff8547d35c51731af"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-100-2008",
    "path": "ue/regulament/2008/100",
    "short": "Regulamentul (CE) nr. 100/2008",
@@ -689,6 +704,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/3c41f53a-9838-4cd2-a61d-1e2de24e6219.0019.02/DOC_1",
      "sha256": "407942be7c9b3c3876a07edc5fdc87b97e951899131daf0812e7c0c740c15dec"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1005-2008",
+   "path": "ue/regulament/2008/1005",
+   "short": "Regulamentul (CE) nr. 1005/2008",
+   "title": "Regulamentul (CE) nr. 1005/2008 al Consiliului din 29 septembrie 2008 de instituire a unui sistem comunitar pentru prevenirea, descurajarea și eliminarea pescuitului ilegal, nedeclarat și nereglementat, de modificare a Regulamentelor (CEE) nr. 2847/93, (CE) nr. 1936/2001 și (CE) nr. 601/2004 și de abrogare a Regulamentelor (CE) nr. 1093/94 și (CE) nr. 1447/1999",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1005",
+   "versions": [
+    {
+     "from": "2008-10-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/882e67a9-598e-4021-8dfb-2da0240601dc.0019.03/DOC_1",
+     "sha256": "e1bb29b7a8736c2d0cf9bd52edb835b6fa69d44e37441aa64362c5cc43bd12a1"
     }
    ]
   },
@@ -734,6 +764,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/a1e6b15e-a6a3-4aec-a8cf-35e093748948.0019.03/DOC_1",
      "sha256": "cd6110a446c64892c7dbd69790fda961e372491f7d20c78d92fdecd5617a2941"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1019-2008",
+   "path": "ue/regulament/2008/1019",
+   "short": "Regulamentul (CE) nr. 1019/2008",
+   "title": "Regulamentul (CE) nr. 1019/2008 al Comisiei din 17 octombrie 2008 de modificare a anexei II la Regulamentul (CE) nr. 852/2004 al Parlamentului European și al Consiliului privind igiena produselor alimentare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1019",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/af83052a-156e-490f-9af6-db9de4e6d4d8.0019.02/DOC_1",
+     "sha256": "984c6a83c1abbbe9fd9ddbf9a76abae586e15059ab1648f35ba777c14b13410b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-102-2008",
+   "path": "ue/regulament/2008/102",
+   "short": "Regulamentul (CE) nr. 102/2008",
+   "title": "Regulamentul (CE) nr. 102/2008 al Comisiei din 4 februarie 2008 de aprobare a modificărilor care nu sunt minore din caietul de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate – Prosciutto di Parma (DOP)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R0102",
+   "versions": [
+    {
+     "from": "2008-02-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/edb9e042-1a93-486c-85b9-2c15339adc66.0019.02/DOC_1",
+     "sha256": "a52e34fbeafbb6c4a54824e965f411207a7f726696ff607163d69b03ecad70d1"
     }
    ]
   },
@@ -828,6 +888,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1030-2008",
+   "path": "ue/regulament/2008/1030",
+   "short": "Regulamentul (CE) nr. 1030/2008",
+   "title": "Regulamentul (CE) nr. 1030/2008 al Comisiei din 20 octombrie 2008 de aprobare a unor modificări care nu sunt minore aduse caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Chasselas de Moissac (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1030",
+   "versions": [
+    {
+     "from": "2008-11-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/996dca94-db97-4356-b3f4-e0caf836f5db.0019.03/DOC_1",
+     "sha256": "aca677577212336893e1dd4d4ab50c925908262640b40b46870e01ea867a94ab"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1031-2008",
    "path": "ue/regulament/2008/1031",
    "short": "Regulamentul (CE) nr. 1031/2008",
@@ -839,6 +914,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/aad94181-6bff-4ff3-acc3-193a0e6cec31.0019.02/DOC_1",
      "sha256": "50d80f7bdac71d62ee92757884964b5ad599841a1fe6148724a424de30e54672"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1038-2008",
+   "path": "ue/regulament/2008/1038",
+   "short": "Regulamentul (CE) nr. 1038/2008",
+   "title": "Regulamentul (CE) nr. 1038/2008 al Comisiei din 22 octombrie 2008 de modificare a Regulamentului (CE) nr. 40/2008 al Consiliului în ceea ce privește limitele de captură pentru stocurile de șprot din apele comunitare din zonele ICES IIa și IV",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1038",
+   "versions": [
+    {
+     "from": "2008-10-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9158fa3e-4eb6-4e35-b71b-378ecd46d399.0019.02/DOC_1",
+     "sha256": "d90f2833c484936b5213759c33c606ac1ea5ae9f8f3416696450e58cca4a80d9"
     }
    ]
   },
@@ -933,6 +1023,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-1064-2008",
+   "path": "ue/regulament/2008/1064",
+   "short": "Regulamentul (CE) nr. 1064/2008",
+   "title": "Regulamentul (CE) nr. 1064/2008 al Comisiei din 29 octombrie 2008 de modificare a Regulamentului (CE) nr. 957/2008 de derogare, pentru perioada contingentară 2008/2009, de la Regulamentul (CE) nr. 616/2007 privind deschiderea și gestionarea contingentelor tarifare comunitare în sectorul cărnii de pasăre originare din Brazilia, Thailanda și din alte țări terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1064",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/747a3c49-4e4d-4e5e-9845-f47b4467c7ef.0019.02/DOC_1",
+     "sha256": "2498404e88ed205eff2fe80aa615001ec6a7e90c4d43d84b4761ea0e9a2167cf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1068-2008",
+   "path": "ue/regulament/2008/1068",
+   "short": "Regulamentul (CE) nr. 1068/2008",
+   "title": "Regulamentul (CE) nr. 1068/2008 al Comisiei din 30 octombrie 2008 de aprobare a unor modificări minore în caietul de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Taureau de Camargue (DOP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1068",
+   "versions": [
+    {
+     "from": "2008-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e5d61b45-4675-4940-ba46-dafb44a5ace9.0019.03/DOC_1",
+     "sha256": "5778b600db732cf559eada50106fe23f2a73687d079b819f7068918f992f7b9e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1069-2008",
+   "path": "ue/regulament/2008/1069",
+   "short": "Regulamentul (CE) nr. 1069/2008",
+   "title": "Regulamentul (CE) nr. 1069/2008 al Comisiei din 30 octombrie 2008 de aprobare a unor modificări minore în caietul de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Veau d’Aveyron et du Ségala (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1069",
+   "versions": [
+    {
+     "from": "2008-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/55437798-7ba2-49b7-8f04-1a4cb0451fd3.0019.03/DOC_1",
+     "sha256": "9bf6011b5a55edaaad49450ab86acb3f686b76312bd053aced84462f9fb3cecc"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-107-2008",
    "path": "ue/regulament/2008/107",
    "short": "Regulamentul (CE) nr. 107/2008",
@@ -948,6 +1083,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1070-2008",
+   "path": "ue/regulament/2008/1070",
+   "short": "Regulamentul (CE) nr. 1070/2008",
+   "title": "Regulamentul (CE) nr. 1070/2008 al Comisiei din 30 octombrie 2008 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Rogal świętomarciński (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1070",
+   "versions": [
+    {
+     "from": "2008-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/439d65d0-5616-4f0a-ab29-f7ece64548e1.0019.03/DOC_1",
+     "sha256": "b14eab8f557e573aaede5f6a5dd9c669a37a68bf8d4d7a2d92df175cf1830c99"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1078-2008",
    "path": "ue/regulament/2008/1078",
    "short": "Regulamentul (CE) nr. 1078/2008",
@@ -959,6 +1109,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/244d96fa-354c-4872-9faa-c92cbd06d93f.0019.02/DOC_1",
      "sha256": "ba3f5cd553daed200b19f60796a2f1c206ced911776ddb8d0c9e88976a623eda"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-108-2008",
+   "path": "ue/regulament/2008/108",
+   "short": "Regulamentul (CE) nr. 108/2008",
+   "title": "Regulamentul (CE) nr. 108/2008 al Parlamentului European și al Consiliului din 15 ianuarie 2008 de modificare a Regulamentului (CE) nr. 1925/2006 privind adăugarea în alimente a unor vitamine și minerale, precum și a unor anumite alte substanțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R0108",
+   "versions": [
+    {
+     "from": "2008-03-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/770e0041-8a2e-49dc-9b1f-41631ad8cd84.0020.03/DOC_1",
+     "sha256": "a3c00b4ced7c0e9946018c2754664b0202784dd3895e117872f85db42227169a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1081-2008",
+   "path": "ue/regulament/2008/1081",
+   "short": "Regulamentul (CE) nr. 1081/2008",
+   "title": "Regulamentul (CE) nr. 1081/2008 al Comisiei din 4 noiembrie 2008 de abrogare a Regulamentului (CEE) nr. 2968/79 privind normele de acordare a asistenței administrative la exportul brânzeturilor maturate cu pastă moale din lapte de vacă pentru care se poate aplica un tratament special la importul într-o țară terță și a Regulamentului (CEE) nr. 1552/80 de stabilire a normelor de acordare a asistenței administrative la exportul unor brânzeturi care pot beneficia de un regim special la importul în Australia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1081",
+   "versions": [
+    {
+     "from": "2008-11-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b668600d-92ce-40d1-8aab-3bba1f7b9f99.0019.02/DOC_1",
+     "sha256": "c865d8801da2b14e478fdf2aae63370a7e928705713ca0f848f5f92a31bcbf47"
     }
    ]
   },
@@ -1023,6 +1203,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-11-2008",
+   "path": "ue/regulament/2008/11",
+   "short": "Regulamentul (CE) nr. 11/2008",
+   "title": "Regulamentul (CE) nr. 11/2008 al Comisiei din 8 ianuarie 2008 de punere în aplicare a Regulamentului (CE) nr. 1059/2003 al Parlamentului European și al Consiliului privind instituirea unui nomenclator comun al unităților teritoriale de statistică (NUTS) privind transmiterea seriilor cronologice privind noua împărțire regională",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R0011",
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0d591445-f00a-4049-b695-efc26ec2b2ab.0019.02/DOC_1",
+     "sha256": "42e918e4db02f11bc6668a05eda57e9b7bf20a684dcab0939d7131a5c005fa7f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1100-2008",
+   "path": "ue/regulament/2008/1100",
+   "short": "Regulamentul (CE) nr. 1100/2008",
+   "title": "Regulamentul (CE) nr. 1100/2008 al Parlamentului European și al Consiliului din 22 octombrie 2008 privind eliminarea controalelor la frontierele statelor membre în domeniul transporturilor rutiere și pe căi navigabile interioare (versiune codificată) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1100",
+   "versions": [
+    {
+     "from": "2008-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ec2a5db9-0dde-47a7-9c4d-c46d95425c84.0020.02/DOC_1",
+     "sha256": "1bafc9aaffd536e158bb44cf309608b20fb825fdc0e2e32b106521b16f026b2e"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1103-2008",
    "path": "ue/regulament/2008/1103",
    "short": "Regulamentul (CE) nr. 1103/2008",
@@ -1049,6 +1259,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e8aaf9c6-9ced-4954-a413-8f31b7ba9857.0019.03/DOC_1",
      "sha256": "fa1ede8e7a490b655faa2d5da0d5904549be320a40395704b6c0b11b6443b69e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1116-2008",
+   "path": "ue/regulament/2008/1116",
+   "short": "Regulamentul (CE) nr. 1116/2008",
+   "title": "Regulamentul (CE) nr. 1116/2008 al Comisiei din 11 noiembrie 2008 de înregistrare a unor denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Bœuf de Bazas (IGP), Kainuun rönttönen (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1116",
+   "versions": [
+    {
+     "from": "2008-12-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/607ed3de-5639-40ce-a114-1faac9066f73.0019.03/DOC_1",
+     "sha256": "b919e3b67094c6743e529c41497b453fe07a29caada38af5d3e00c23385e2ba9"
     }
    ]
   },
@@ -1113,6 +1338,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1139-2008",
+   "path": "ue/regulament/2008/1139",
+   "short": "Regulamentul (CE) nr. 1139/2008",
+   "title": "Regulamentul (CE) nr. 1139/2008 al Consiliului din 10 noiembrie 2008 de stabilire pentru anul 2009 a posibilităților de pescuit și a condițiilor aferente aplicabile pentru anumite resurse halieutice în Marea Neagră",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1139",
+   "versions": [
+    {
+     "from": "2008-11-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2c0592b5-7e13-4756-bee2-7f7fad352f36.0019.02/DOC_1",
+     "sha256": "822c63dfaa3505b1204305d734d69615a1657dfb91c60b6f0a0dafe1a48617fd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1141-2008",
+   "path": "ue/regulament/2008/1141",
+   "short": "Regulamentul (CE) nr. 1141/2008",
+   "title": "Regulamentul (CE) nr. 1141/2008 al Comisiei din 13 noiembrie 2008 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1141",
+   "versions": [
+    {
+     "from": "2008-12-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/da40a219-1b4b-4d08-afe1-cf3e8abf339c.0019.02/DOC_1",
+     "sha256": "8a31cbafd4c9462aecfe617424c0a1d5c640460669f3747bf986af03125400e1"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1142-2008",
    "path": "ue/regulament/2008/1142",
    "short": "Regulamentul (CE) nr. 1142/2008",
@@ -1169,6 +1424,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/98b8737d-0d67-4641-8cb2-c43178b97477.0019.02/DOC_1",
      "sha256": "c6bf5c488464abadec43ff6a8cb9be9279bb9d25854523c37e5622cf4626df53"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1156-2008",
+   "path": "ue/regulament/2008/1156",
+   "short": "Regulamentul (CE) nr. 1156/2008",
+   "title": "Regulamentul (CE) nr. 1156/2008 al Comisiei din 20 noiembrie 2008 privind clasificarea anumitor mărfuri în Nomenclatura combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1156",
+   "versions": [
+    {
+     "from": "2008-12-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/38dc7425-54c1-4ff9-88b6-b07decbf66f9.0019.02/DOC_1",
+     "sha256": "0eb69ec4633f945a64e933bfe85b60c053f734465cfb0410ceed2c37e62148f4"
     }
    ]
   },
@@ -1293,6 +1563,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1204-2008",
+   "path": "ue/regulament/2008/1204",
+   "short": "Regulamentul (CE) nr. 1204/2008",
+   "title": "Regulamentul (CE) nr. 1204/2008 al Comisiei din 3 decembrie 2008 privind înscrierea anumitor denumiri în Registrul specialităților tradiționale garantate prevăzut de Regulamentul (CE) nr. 509/2006 al Consiliului privind specialitățile tradiționale garantate din produse agricole și alimentare (versiune codificată) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1204",
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0a99a9c4-abab-4767-8d5e-640f381386b1.0019.03/DOC_1",
+     "sha256": "5ae2e713ac738ee48a0d75c9a55b08588ae90cd7d3dc6c8a8c0ef8fe9bf644c5"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1205-2008",
    "path": "ue/regulament/2008/1205",
    "short": "Regulamentul (CE) nr. 1205/2008",
@@ -1308,6 +1593,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-121-2008",
+   "path": "ue/regulament/2008/121",
+   "short": "Regulamentul (CE) nr. 121/2008",
+   "title": "Regulamentul (CE) nr. 121/2008 al Comisiei din 11 februarie 2008 de stabilire a metodei de analiză pentru determinarea conținutului de amidon din preparatele de tipul celor utilizate pentru hrana animalelor (cod NC 2309 )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R0121",
+   "versions": [
+    {
+     "from": "2008-03-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e7542a4f-45ac-4d0d-9db7-e92ec25785be.0019.02/DOC_1",
+     "sha256": "3b4333f932372f103bbeee2de0984cf214a8c6971167ee11db783f6d125988a6"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1226-2008",
    "path": "ue/regulament/2008/1226",
    "short": "Regulamentul (CE) nr. 1226/2008",
@@ -1319,6 +1619,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/954e9768-5b0c-4970-a7e4-429d9f03e4b4.0019.03/DOC_1",
      "sha256": "bd858242402200b91e8ddb621596b01112d01c1f3d5f5664301562ed2c874447"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1229-2008",
+   "path": "ue/regulament/2008/1229",
+   "short": "Regulamentul (CE) nr. 1229/2008",
+   "title": "Regulamentul (CE) nr. 1229/2008 al Comisiei din 10 decembrie 2008 de înregistrare a unor denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [San Simón da Costa (DOP), Ail blanc de Lomagne (IGP), Steirischer Kren (IGP)]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1229",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/40800b66-dbf1-46ee-96ce-9c7e18fec24c.0019.03/DOC_1",
+     "sha256": "1a7d4f38306d18bb945048de2fe032e1be749b2b535a447005ccfcd19f8798c7"
     }
    ]
   },
@@ -1383,6 +1698,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1250-2008",
+   "path": "ue/regulament/2008/1250",
+   "short": "Regulamentul (CE) nr. 1250/2008",
+   "title": "Regulamentul (CE) nr. 1250/2008 al Comisiei din 12 decembrie 2008 de modificare a Regulamentului (CE) nr. 2074/2005 în ceea ce privește cerințele de certificare pentru importul de produse pescărești, moluște bivalve, echinoderme, tunicate și gasteropode marine vii destinate consumului uman (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1250",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/90f962d2-64c4-47b5-b39d-6772e5ec3a59.0019.02/DOC_1",
+     "sha256": "4816dde4b153e2dc1e4ed6167ce014d80253f523c56704c5266bc38429a8af37"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1252-2008",
+   "path": "ue/regulament/2008/1252",
+   "short": "Regulamentul (CE) nr. 1252/2008",
+   "title": "Regulamentul (CE) nr. 1252/2008 al Comisiei din 12 decembrie 2008 de derogare de la Regulamentul (CE) nr. 1251/2008 și de suspendare a importurilor în Comunitate de loturi de anumite animale de acvacultură originare din Malaezia (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1252",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/898a6197-c3f0-4744-b0ee-17036a59d82d.0019.03/DOC_1",
+     "sha256": "49498150ca6be20fa65ff8b3cd58f630f87918f066913ba797da6523cce27623"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1256-2008",
    "path": "ue/regulament/2008/1256",
    "short": "Regulamentul (CE) nr. 1256/2008",
@@ -1394,6 +1739,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/6386100c-150f-4a13-b55e-b66446ec8aec.0019.02/DOC_1",
      "sha256": "1880bd3ecf43afacec1148148717ed58a0aae311c59f0b5ff1750adc68206479"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1257-2008",
+   "path": "ue/regulament/2008/1257",
+   "short": "Regulamentul (CE) nr. 1257/2008",
+   "title": "Regulamentul (CE) nr. 1257/2008 al Consiliului din 4 decembrie 2008 de modificare a Regulamentului (CE) nr. 1579/2007 al Consiliului de stabilire a posibilităților de pescuit și a condițiilor aferente aplicabile pentru 2008 în Marea Neagră pentru anumite resurse halieutice și grupuri de resurse halieutice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1257",
+   "versions": [
+    {
+     "from": "2008-12-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/62796283-7739-4875-9221-a7bcd600b728.0019.02/DOC_1",
+     "sha256": "afe0c8e281c0728aaec55af7ca521fd5a82433ec621b2fd264b462b3361576bd"
     }
    ]
   },
@@ -1743,6 +2103,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1345-2008",
+   "path": "ue/regulament/2008/1345",
+   "short": "Regulamentul (CE) nr. 1345/2008",
+   "title": "Regulamentul (CE) nr. 1345/2008 al Comisiei din 23 decembrie 2008 de modificare a Regulamentului (CEE) nr. 2136/89 al Consiliului privind stabilirea unor standarde comune de comercializare pentru conservele de sardine și a unor descrieri comerciale pentru conservele de sardine și conservele de produse de tipul sardine",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1345",
+   "versions": [
+    {
+     "from": "2008-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c9b06537-5646-446d-ae20-1120b7378a5c.0019.02/DOC_1",
+     "sha256": "9d2b2273cf7c6db21a0ed43ae8fa5c149b72bb00ebbde7515ab42ce86f6ae92e"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1355-2008",
    "path": "ue/regulament/2008/1355",
    "short": "Regulamentul (CE) nr. 1355/2008",
@@ -1773,6 +2148,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1360-2008",
+   "path": "ue/regulament/2008/1360",
+   "short": "Regulamentul (CE) nr. 1360/2008",
+   "title": "Regulamentul (CE) nr. 1360/2008 al Consiliului din 2 decembrie 2008 de modificare a Regulamentului (CE) nr. 332/2002 de înființare a unui mecanism de asistență financiară pe termen mediu pentru balanțele de plăți ale statelor membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R1360",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7552e11d-5e77-40cc-8761-298e4fee10ac.0019.02/DOC_1",
+     "sha256": "3d37b8aa758cb176ec3467ddf49a04cee7e623fee6e23b75d7a948c3921ac55e"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-138-2008",
    "path": "ue/regulament/2008/138",
    "short": "Regulamentul (CE) nr. 138/2008",
@@ -1784,6 +2174,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/dcf1c7ad-55de-4e93-8150-a009106da52a.0019.02/DOC_1",
      "sha256": "25c1662760d39c4a4286004b1aa8ed6aba2dfcb6c0e01fdda32495a49d382a70"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-149-2008",
+   "path": "ue/regulament/2008/149",
+   "short": "Regulamentul (CE) nr. 149/2008",
+   "title": "Regulamentul (CE) nr. 149/2008 al Comisiei din 29 ianuarie 2008 de modificare a Regulamentului (CE) nr. 396/2005 al Parlamentului European și al Consiliului, prin elaborarea anexelor II, III și IV de stabilire a conținuturilor maxime aplicabile reziduurilor pentru produsele care fac obiectul anexei I la regulamentul menționat (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R0149",
+   "versions": [
+    {
+     "from": "2008-09-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/19688ff1-1406-49f8-9371-3f69bf16b43e.0019.02/DOC_1",
+     "sha256": "486e169424bfad8ecc750545b270f567b6e2bf132de5c70843ed871450b1cf98"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-15-2008",
+   "path": "ue/regulament/2008/15",
+   "short": "Regulamentul (CE) nr. 15/2008",
+   "title": "Regulamentul (CE) nr. 15/2008 al Consiliului din 20 decembrie 2007 de modificare a Regulamentului (CE) nr. 2100/94 cu privire la dreptul de a introduce o cerere de protecție comunitară a soiurilor de plante",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R0015",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/176a8169-720d-4721-ad4d-5bf5229b70f6.0019.03/DOC_1",
+     "sha256": "4b3647f6f1a3db310377cb0fbb76b7c4f452b8e76959c5e8c38ad4d6178de213"
     }
    ]
   },
@@ -1863,6 +2283,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-176-2008",
+   "path": "ue/regulament/2008/176",
+   "short": "Regulamentul (CE) nr. 176/2008",
+   "title": "Regulamentul (CE) nr. 176/2008 al Parlamentului European și al Consiliului din 20 februarie 2008 de modificare a Regulamentului (CE) nr. 1059/2003 privind instituirea unui nomenclator comun al unităților teritoriale de statistică (NUTS), având în vedere aderarea Bulgariei și a României la Uniunea Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R0176",
+   "versions": [
+    {
+     "from": "2008-03-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/64e3a1db-ec1a-460c-9c3a-a76a19649a0f.0020.02/DOC_1",
+     "sha256": "f541c7b7606db0350b34fc0a089a5b84d7f4cfd397e451dc8f002fbf1cc05c1b"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-180-2008",
    "path": "ue/regulament/2008/180",
    "short": "Regulamentul (CE) nr. 180/2008",
@@ -1889,6 +2324,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/faf74e03-b213-463a-a862-d7860da7a111.0019.02/DOC_1",
      "sha256": "7b1743e69ff9696936fa7e3f02ae7b2ac189f9548fae7aa6ff148aefb3cd1869"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-182-2008",
+   "path": "ue/regulament/2008/182",
+   "short": "Regulamentul (CE) nr. 182/2008",
+   "title": "Regulamentul (CE) nr. 182/2008 al Comisiei din 28 februarie 2008 de modificare a Regulamentului (CE) nr. 1146/2007 de adoptare a unui plan privind atribuirea statelor membre de resurse imputabile exercițiului 2008 pentru furnizarea de produse alimentare provenind din stocurile de intervenție pentru persoanele cele mai defavorizate din Comunitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008R0182",
+   "versions": [
+    {
+     "from": "2008-03-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/72742cce-dcbd-47db-b71c-a00677879252.0019.02/DOC_1",
+     "sha256": "ff3a77893577cc608b62a801569f0b047bbb1f3e6a8c8bd3e20548062124998a"
     }
    ]
   },

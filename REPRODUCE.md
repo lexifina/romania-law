@@ -12825,21 +12825,21 @@ Every word of law in this repository comes from these sources and, for the acts 
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 132937 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 146699 | |
+| 134748 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 148510 | |
 
-The build made 152663 commits:
+The build made 154474 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 133012 | first version of an act |
+| 134823 | first version of an act |
 | 13809 | one law on its in-force day |
 | 3682 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-05.
 - 61 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 135022 laws in the record.
-- 305980 tags.
+- 136833 laws in the record.
+- 309602 tags.
 
 ## Dates
 
@@ -12851,7 +12851,7 @@ When a law gives no date of its own, the default rule applies: Constituția Rom�
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `1951a7bcc95b87ef9fcdf5cc14dedea7b033bad0a9a340f90af3fc763e809e24` (1898661438 bytes).
+- Corpus: sha256 `5dde42fb3407c9651fae371c26c29c185654e1101c0c4fc45a799c136309e0b7` (1920401303 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `c69a2ae7eeab55fd42b52cd695f9866002721124`, `check.py` `34526b6ce31ecf076b78e7067a22aec49194ac74`, `on.py` `267f054872f375839ad33c914e6c0d5faf27656b`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -12863,7 +12863,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (535356 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (539921 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -29949,476 +29949,1787 @@ Model use at data-build time:
 - HCJ Botoșani nr. 99/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Botoșani nr. 99/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Botoșani nr. 99/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 10/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 10/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 10/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 10/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 10/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 10/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 10/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 100/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 100/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 100/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 100/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 100/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 100/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 101/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 101/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 101/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 101/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 101/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 101/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 102/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 102/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 102/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 102/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 102/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 102/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 103/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 103/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 103/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 103/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 103/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 103/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 104/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 104/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 104/2022: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 104/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 104/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 104/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 105/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 105/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 105/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 105/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 105/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 105/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 106/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 106/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 106/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 106/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 106/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 106/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 107/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 107/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 107/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 107/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 107/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 107/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 108/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 108/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 108/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 108/2024: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 108/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 108/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 109/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 109/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 109/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 109/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 109/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 109/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 11/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 11/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 11/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 11/2023: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 11/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 11/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 11/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 110/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 110/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 110/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 110/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 110/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 110/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 111/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 111/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 111/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 111/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 111/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 111/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 112/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 112/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 112/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 112/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 112/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 112/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 113/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 113/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 113/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 113/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 113/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 114/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 114/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 114/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 114/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 114/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 114/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 115/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 115/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 115/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 115/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 115/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 115/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 116/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 116/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 116/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 116/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 116/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 116/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 117/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 117/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 117/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 117/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 117/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 117/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 118/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 118/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 118/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 118/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 118/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 118/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 119/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 119/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 119/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 119/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 119/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 119/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 12/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 12/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 12/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 12/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 12/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 12/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 12/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 120/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 120/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 120/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 120/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 120/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 120/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 121/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 121/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 121/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 121/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 121/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 121/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 122/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 122/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 122/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 122/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 122/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 122/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 123/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 123/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 123/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 123/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 123/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 124/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 124/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 124/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 124/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 124/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 124/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 125/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 125/2021: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 125/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 125/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 125/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 125/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 126/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 126/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 126/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 126/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 126/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 126/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 127/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 127/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 127/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 127/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 127/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 127/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 128/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 128/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 128/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 128/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 128/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 128/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 129/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 129/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 129/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 129/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 129/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 129/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 13/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 13/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 13/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 13/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 13/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 13/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 13/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 130/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 130/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 130/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 130/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 130/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 130/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 131/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 131/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 131/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 131/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 131/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 131/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 132/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 132/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 132/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 132/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 132/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 132/2026: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 133/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 133/2021: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 133/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 133/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 133/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 133/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 134/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 134/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 134/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 134/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 134/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 134/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 135/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 135/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 135/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 135/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 135/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 135/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 136/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 136/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 136/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 136/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 136/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 136/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 137/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 137/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 137/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 137/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 137/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 137/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 138/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 138/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 138/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 138/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 138/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 138/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 139/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 139/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 139/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 139/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 139/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 139/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 14/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 14/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 14/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 14/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 14/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 14/2025: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 14/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 140/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 140/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 140/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 140/2024: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 140/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 140/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 141/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 141/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 141/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 141/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 141/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 141/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 142/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 142/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 142/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 142/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 142/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 142/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 143/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 143/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 143/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 143/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 143/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 143/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 144/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 144/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 144/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 144/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 144/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 144/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 145/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 145/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 145/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 145/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 145/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 146/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 146/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 146/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 146/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 146/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 146/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 147/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 147/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 147/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 147/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 147/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 147/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 148/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 148/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 148/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 148/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 148/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 148/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 149/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 149/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 149/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 149/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 149/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 149/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 15/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 15/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 15/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 15/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 15/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 15/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 15/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 150/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 150/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 150/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 150/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 150/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 150/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 151/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 151/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 151/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 151/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 151/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 151/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 152/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 152/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 152/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 152/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 152/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 152/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 153/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 153/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 153/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 153/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 153/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 153/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 154/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 154/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 154/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 154/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 154/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 154/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 155/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 155/2021: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 155/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 155/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 155/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 155/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 156/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 156/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 156/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 156/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 156/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 156/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 157/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 157/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 157/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 157/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 157/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 157/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 158/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 158/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 158/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 158/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 158/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 158/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 159/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 159/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 159/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 159/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 159/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 159/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 16/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 16/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 16/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 16/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 16/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 16/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 16/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 160/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 160/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 160/2021: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 160/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 160/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 160/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 160/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 161/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 161/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 161/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 161/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 161/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 161/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 162/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 162/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 162/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 162/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 162/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 162/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 163/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 163/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 163/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 163/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 163/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 163/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 164/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 164/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 164/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 164/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 164/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 164/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 165/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 165/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 165/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 165/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 165/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 166/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 166/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 166/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 166/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 166/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 167/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 167/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 167/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 167/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 167/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 167/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 168/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 168/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 168/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 168/2025: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 168/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 169/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 169/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 169/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 169/2025: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 169/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 17/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 17/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 17/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 17/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 17/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 17/2026: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 170/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 170/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 170/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 170/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 170/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 171/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 171/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 171/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 171/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 171/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 172/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 172/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 172/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 172/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 172/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 173/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 173/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 173/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 173/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 173/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 174/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 174/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 174/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 174/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 174/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 175/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 175/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 175/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 175/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 175/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 176/2019: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 176/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 176/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 176/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 176/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 176/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 177/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 177/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 177/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 177/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 177/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 178/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 178/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 178/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 178/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 178/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 179/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 179/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 179/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 179/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 179/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 18/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 18/2021: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 18/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 18/2024: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 18/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 18/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 180/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 180/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 180/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 180/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 180/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 181/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 181/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 181/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 181/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 181/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 182/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 182/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 182/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 182/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 182/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 183/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 183/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 183/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 183/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 183/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 184/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 184/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 184/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 184/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 184/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 185/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 185/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 185/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 185/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 185/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 186/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 186/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 186/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 186/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 186/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 186/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 187/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 187/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 187/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 187/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 187/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 187/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 188/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 188/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 188/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 188/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 188/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 188/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 189/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 189/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 189/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 189/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 189/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 19/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 19/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 19/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 19/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 19/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 19/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 19/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 190/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 190/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 190/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 190/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 190/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 190/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 191/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 191/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 191/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 191/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 191/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 191/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 192/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 192/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 192/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 192/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 192/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 192/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 193/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 193/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 193/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 193/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 193/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 193/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 194/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 194/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 194/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 194/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 194/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 194/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 195/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 195/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 195/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 195/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 195/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 195/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 196/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 196/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 196/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 196/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 196/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 196/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 197/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 197/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 197/2022: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 197/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 197/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 197/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 198/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 198/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 198/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 198/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 198/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 198/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 199/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 199/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 199/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 199/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 199/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 2/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 2/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 2/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 2/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 2/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 2/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 2/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 20/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 20/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 20/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 20/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 20/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 20/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 20/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 200/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 200/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 200/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 200/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 200/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 200/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 201/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 201/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 201/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 201/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 201/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 201/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 202/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 202/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 202/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 202/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 202/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 202/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 203/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 203/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 203/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 203/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 203/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 204/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 204/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 204/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 204/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 204/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 204/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 205/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 205/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 205/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 205/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 205/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 205/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 206/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 206/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 206/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 206/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 206/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 206/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 207/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 207/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 207/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 207/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 207/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 207/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 208/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 208/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 208/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 208/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 208/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 208/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 209/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 209/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 209/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 209/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 209/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 209/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 21/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 21/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 21/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 21/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 21/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 21/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 21/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 210/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 210/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 210/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 210/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 210/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 210/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 211/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 211/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 211/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 211/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 211/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 211/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 212/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 212/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 212/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 212/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 212/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 212/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 213/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 213/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 213/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 213/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 213/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 213/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 214/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 214/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 214/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 214/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 214/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 214/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 215/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 215/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 215/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 215/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 215/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 215/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 216/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 216/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 216/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 216/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 216/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 216/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 217/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 217/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 217/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 217/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 217/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 217/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 218/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 218/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 218/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 218/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 218/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 218/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 219/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 219/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 219/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 219/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 219/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 219/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 22/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 22/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 22/2022: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 22/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 22/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 22/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 220/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 220/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 220/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 220/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 220/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 220/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 221/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 221/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 221/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 221/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 221/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 221/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 222/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 222/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 222/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 222/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 222/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 222/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 223/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 223/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 223/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 223/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 223/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 223/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 224/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 224/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 224/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 224/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 224/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 224/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 225/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 225/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 225/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 225/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 225/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 225/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 226/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 226/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 226/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 226/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 226/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 226/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 227/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 227/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 227/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 227/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 227/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 227/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 228/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 228/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 228/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 228/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 228/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 229/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 229/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 229/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 229/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 229/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 229/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 23/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 23/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 23/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 23/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 23/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 23/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 23/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 230/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 230/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 230/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 230/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 230/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 230/2026: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 231/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 231/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 231/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 231/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 231/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 231/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 231/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 232/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 232/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 232/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 232/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 232/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 232/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 232/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 233/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 233/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 233/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 233/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 233/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 233/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 233/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 234/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 234/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 234/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 234/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 234/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 234/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 234/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 235/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 235/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 235/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 235/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 235/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 235/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 235/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 236/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 236/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 236/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 236/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 236/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 236/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 236/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 237/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 237/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 237/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 237/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 237/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 237/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 238/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 238/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 238/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 238/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 238/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 238/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 239/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 239/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 239/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 239/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 239/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 239/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 24/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 24/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 24/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 24/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 24/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 24/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 24/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 240/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 240/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 240/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 240/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 240/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 240/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 241/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 241/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 241/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 241/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 241/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 241/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 242/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 242/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 242/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 242/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 242/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 242/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 243/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 243/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 243/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 243/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 243/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 243/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 244/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 244/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 244/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 244/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 244/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 244/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 245/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 245/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 245/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 245/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 245/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 245/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 246/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 246/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 246/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 246/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 246/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 246/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 247/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 247/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 247/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 247/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 247/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 247/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 248/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 248/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 248/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 248/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 248/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 248/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 249/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 249/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 249/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 249/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 249/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 249/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 25/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 25/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 25/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 25/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 25/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 25/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 25/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 250/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 250/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 250/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 250/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 250/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 250/2026: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 251/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 251/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 251/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 251/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 251/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 251/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 252/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 252/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 252/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 252/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 252/2024: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 252/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 253/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 253/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 253/2022: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 253/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 253/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 253/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 254/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 254/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 254/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 254/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 254/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 254/2026: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 255/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 255/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 255/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 255/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 255/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 255/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 256/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 256/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 256/2022: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 256/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 256/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 256/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 257/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 257/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 257/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 257/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 257/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 257/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 258/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 258/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 258/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 258/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 258/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 258/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 259/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 259/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 259/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 259/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 259/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 26/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 26/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 26/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 26/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 26/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 26/2025: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 26/2026: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 260/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 260/2021: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 260/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 260/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 260/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 260/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 261/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 261/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 261/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 261/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 261/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 262/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 262/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 262/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 262/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 262/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 263/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 263/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 263/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 264/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 264/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 264/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 265/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 265/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 265/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 265/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 265/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 266/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 266/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 266/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 266/2023: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 266/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 267/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 267/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 267/2022: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 267/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 267/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 268/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 268/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 268/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 268/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 269/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 269/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 269/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 269/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 269/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 27/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 27/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 27/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 27/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 27/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 27/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 27/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 270/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 270/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 270/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 270/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 270/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 271/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 271/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 271/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 271/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 272/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 272/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 272/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 272/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 273/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 273/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 273/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 274/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 274/2022: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 274/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 275/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 275/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 275/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 275/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 276/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 276/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 276/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 276/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 277/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 277/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 277/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 277/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 277/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 278/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 278/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 278/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 278/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 279/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 279/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 279/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 279/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 279/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 28/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 28/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 28/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 28/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 28/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 28/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 28/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 280/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 280/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 280/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 280/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 280/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 281/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 281/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 281/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 281/2023: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 281/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 282/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 282/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 282/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 282/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 283/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 283/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 283/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 283/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 284/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 284/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 284/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 284/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 284/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 285/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 285/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 285/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 285/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 286/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 286/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 286/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 286/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 286/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 287/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 287/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 287/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 287/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 287/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 288/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 288/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 288/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 288/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 288/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 289/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 289/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 289/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 289/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 29/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 29/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 29/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 29/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 29/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 29/2025: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 29/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 290/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 290/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 290/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 290/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 291/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 291/2022: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 291/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 291/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 292/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 292/2022: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 292/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 292/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 293/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 293/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 293/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 293/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 294/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 294/2022: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 294/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 294/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 295/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 295/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 295/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 295/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 296/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 296/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 296/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 296/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 297/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 297/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 297/2023: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 297/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 298/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 298/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 298/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 298/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 299/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 299/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 299/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 299/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 3/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 3/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 3/2022: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 3/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 3/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 3/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 3/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 30/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 30/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 30/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 30/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 30/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 30/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 30/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 300/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 300/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 300/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 300/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 301/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 301/2023: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 301/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 302/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 302/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 302/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 302/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 303/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 303/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 303/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 303/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 304/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 304/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 304/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 304/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 305/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 305/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 305/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 305/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 306/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 306/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 306/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 306/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 307/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 307/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 307/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 307/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 308/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 308/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 308/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 308/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 309/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 309/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 309/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 309/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 31/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 31/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 31/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 31/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 31/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 31/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 31/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 310/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 310/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 310/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 310/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 311/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 311/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 311/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 311/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 312/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 312/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 312/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 312/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 313/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 313/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 313/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 313/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 314/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 314/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 314/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 314/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 315/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 315/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 315/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 315/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 316/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 316/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 316/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 316/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 317/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 317/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 317/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 318/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 318/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 318/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 319/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 319/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 32/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 32/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 32/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 32/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 32/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 32/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 320/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 320/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 321/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 321/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 322/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 322/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 323/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 323/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 324/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 324/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 325/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 325/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 326/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 326/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 327/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 327/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 328/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 328/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 329/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 33/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 33/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 33/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 33/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 33/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 33/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 330/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 331/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 332/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 333/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 334/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 335/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 34/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 34/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 34/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 34/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 34/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 34/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 35/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 35/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 35/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 35/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 35/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 35/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 36/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 36/2022: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 36/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 36/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 36/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 36/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 37/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 37/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 37/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 37/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 37/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 37/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 38/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 38/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 38/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 38/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 38/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 38/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 39/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 39/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 39/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 39/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 39/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 39/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 4/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 4/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 4/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 4/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 4/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 4/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 40/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 40/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 40/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 40/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 40/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 40/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 40/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 41/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 41/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 41/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 41/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 41/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 41/2026: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 42/2021: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 42/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 42/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 42/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 42/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 42/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 43/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 43/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 43/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 43/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 43/2025: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 43/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 44/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 44/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 44/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 44/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 44/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 44/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 45/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 45/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 45/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 45/2024: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 45/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 45/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 46/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 46/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 46/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 46/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 46/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 46/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 47/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 47/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 47/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 47/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 47/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 47/2026: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 48/2021: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 48/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 48/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 48/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 48/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 48/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 49/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 49/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 49/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 49/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 49/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 49/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 5/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 5/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 5/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 5/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 5/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 5/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 50/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 50/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 50/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 50/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 50/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 50/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 51/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 51/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 51/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 51/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 51/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 51/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 52/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 52/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 52/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 52/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 52/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 52/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 53/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 53/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 53/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 53/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 53/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 53/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 54/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 54/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 54/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 54/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 54/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 54/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 55/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 55/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 55/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 55/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 55/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 55/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 56/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 56/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 56/2024: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 56/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 56/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 57/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 57/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 57/2024: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 57/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 57/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 58/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 58/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 58/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 58/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 58/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 59/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 59/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 59/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 59/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 59/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 6/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 6/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 6/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 6/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 6/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 6/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 60/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 60/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 60/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 60/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 60/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 61/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 61/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 61/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 61/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 61/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 61/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 62/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 62/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 62/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 62/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 62/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 63/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 63/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 63/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 63/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 63/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 64/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 64/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 64/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 64/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 64/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 65/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 65/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 65/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 65/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 65/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 66/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 66/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 66/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 66/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 66/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 67/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 67/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 67/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 67/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 67/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 68/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 68/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 68/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 68/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 69/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 69/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 69/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 69/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 69/2026: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 7/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 7/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 7/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 7/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 7/2025: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 7/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 70/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 70/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 70/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 70/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 70/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 71/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 71/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 71/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 71/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 71/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 72/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 72/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 72/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 72/2025: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 72/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 73/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 73/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 73/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 73/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 73/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 74/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 74/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 74/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 74/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 74/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 74/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 75/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 75/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 75/2022: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 75/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 75/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 75/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 76/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 76/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 76/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 76/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 76/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 77/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 77/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 77/2024: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 77/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 77/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 78/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 78/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 78/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 78/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 78/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 79/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 79/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 79/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 79/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 79/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 8/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 8/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 8/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 8/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 8/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 8/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 8/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 80/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 80/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 80/2025: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 80/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 81/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 81/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 81/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 81/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 81/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 81/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 82/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 82/2022: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 82/2024: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 82/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 82/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 83/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 83/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 83/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 83/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 84/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 84/2022: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 84/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 84/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 84/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 85/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 85/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 85/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 85/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 85/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 86/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 86/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 86/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 86/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 86/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 87/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 87/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 87/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 87/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 87/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 88/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 88/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 88/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 88/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 88/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 89/2021: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 89/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 89/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 89/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 89/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 9/2020: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 9/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 9/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 9/2023: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 9/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 9/2025: built by Lexifina's local-acts builder from the council's published record and its PDF text; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 9/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 90/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 90/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 90/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 90/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 90/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 91/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 91/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 91/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 91/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 91/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 92/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 92/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 92/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 92/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 92/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 93/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 93/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 93/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 93/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 93/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 94/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 94/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 94/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 94/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 94/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 95/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 95/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 95/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 95/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 95/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 96/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 96/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 96/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 96/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 96/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 97/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 97/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 97/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 97/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 97/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 98/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 98/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 98/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 98/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 98/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 99/2021: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 99/2022: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 99/2024: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
+- HCJ Brăila nr. 99/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Brăila nr. 99/2026: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Buzău nr. 1/2020: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
 - HCJ Buzău nr. 1/2025: built by Lexifina's local-acts builder from the council's published record; no model output is used as legal text; 0 model calls.
@@ -142428,7 +143739,10 @@ Model use at data-build time:
 - Directiva (UE) 2022/993: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Directiva (UE) 2015/996: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Directiva (UE) 2019/997: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 10/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 10/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 100/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 100/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142448,6 +143762,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1004/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1004/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1005/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1006/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142461,11 +143776,13 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 101/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 101/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/101: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1010/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1010/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1010/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1011/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1012/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1013/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142476,16 +143793,24 @@ Model use at data-build time:
 - Regulamentul (UE) 2019/1015: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1016: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1016: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1017/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1017/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1017/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1017: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1017: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1017: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1018/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1018/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1018/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1019/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1019/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1019/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 102/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 102/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1020/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1020/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1020: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1021/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1021/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1021/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1021: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142503,6 +143828,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1024/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1024/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1024/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1025/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1025/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1025/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1025/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142521,11 +143847,13 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 103/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/103: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1030/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1030/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1030/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1030: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1030: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1030: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1030: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1031/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1031/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1031: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1032: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142541,14 +143869,22 @@ Model use at data-build time:
 - Regulamentul (UE) 2016/1036: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1037: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1037: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1038/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1038/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1038: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1038: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1039/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1039: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 104/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/104: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1040/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1040/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1040/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1040/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1040: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1040: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1041/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1041/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1041/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1041/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1041: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142557,6 +143893,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2016/1042: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1042: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1042: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1043/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1043: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1046/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1046: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142564,19 +143901,26 @@ Model use at data-build time:
 - Regulamentul (UE) 2025/1047: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1047: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1048/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1049/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1049/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1049: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1049: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 105/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 105/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1050/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1050/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1050/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1051/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1052/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1052: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1053/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1054/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1054/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1054: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1055/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1055: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1056/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1056/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1056/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1056: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1056: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142584,6 +143928,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2021/1057: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1058/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1058: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1059/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1059/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1059: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 106/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142593,24 +143938,33 @@ Model use at data-build time:
 - Regulamentul (UE) 2021/1060: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1062/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1063/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1064/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1064/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1065/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1065/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1065: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1065: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE, Euratom) nr. 1066/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1066/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1066: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE, Euratom) nr. 1067/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1067/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1067/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1067/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1067/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1067: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1068/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1068/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1068/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1068: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1068: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1069/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1069/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1069/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1069: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 107/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 107/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1070/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1070: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1071/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1071/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142629,7 +143983,10 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1078/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1078/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1078: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 108/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 108/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) nr. 1080/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1081/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1081/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1081: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1082/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142641,7 +143998,10 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1084/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1084: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1085: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1086/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1086/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1086/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1087/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1088/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1088/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1088/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142663,21 +144023,27 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1093/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1093/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1094/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1095/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1095/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1095/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1095: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1095: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1096/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1096/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1096/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1096/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1097/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1097/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1097: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1098/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1098/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1098: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1098: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1099/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1099/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1099/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1099: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 11/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 11/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 11/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/11: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142685,10 +144051,13 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 110/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/110: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/110: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1100/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1100/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1100/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1101: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1101: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1101: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1102/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1102/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1102: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1102: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142696,11 +144065,13 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1103/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1103: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1103: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1104/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1104: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1104: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1106/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1106: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1106: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1107/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1107/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1107/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1108/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142711,13 +144082,18 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 111/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/111: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1110: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1111/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1111: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1112: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1113: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1114/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1114: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1115/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1115: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1116/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1116: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1116: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1118/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1118/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1118: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1119/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142737,17 +144113,20 @@ Model use at data-build time:
 - Regulamentul (UE, Euratom) 2017/1123: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1123: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1124/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1125/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1125/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1126/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1126/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1126/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1127/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1127/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1128/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1128/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1128/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1128: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1129/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1129: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 113/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 113/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 113/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/113: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142760,7 +144139,9 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1132/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1132: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1133: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1134/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1134: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1135/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1135/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1135/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1135: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142773,6 +144154,9 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1138/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1138/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1138/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1139/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1139/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1139/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1139/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1139/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1139: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142782,11 +144166,16 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 114/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 114/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/114: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1140/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1140/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1141/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1141/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1141/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1141/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1141: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1142/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1142: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1143/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1143/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1143/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1143/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142797,6 +144186,8 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1145/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1145/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1145: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1146/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1146/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1146/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1146: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1147/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142806,6 +144197,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1148/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1148: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1148: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1149/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1149/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1149: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1149: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142818,6 +144210,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2019/1150: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1150: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1150: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1151/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1151/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1151: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1151: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142835,15 +144228,20 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1155/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1155/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1155: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1156/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1156/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1156: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1156: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1157/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1157/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1157: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1158/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1158: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1159/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 116/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 116/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 116/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1160/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1160/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1161/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1161/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142857,12 +144255,14 @@ Model use at data-build time:
 - Regulamentul (UE) 2015/1163: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) 2021/1163: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1163: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1164/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1164/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1164/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1164/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1164: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1164: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1164: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1165/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1165/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1165: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1165: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142874,6 +144274,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2026/1168: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1169/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1169/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 117/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 117/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1170/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1170/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142884,6 +144285,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1173/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1173: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1174/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1175/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1175/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1175/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1175: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142893,10 +144295,14 @@ Model use at data-build time:
 - Regulamentul (UE) 2019/1176: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1176: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1176: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1177/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1177/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1177/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1177/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1177/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1178/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1178/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1179/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1179/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1179/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1179: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142904,6 +144310,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 118/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1180/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1180/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1181/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1181/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1181/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1181: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142912,17 +144319,25 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1182/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1182/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1182: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1183/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1183/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1183/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1183: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1184/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1184/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1184: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1185/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1185: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1186/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1187/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1187/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1189/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1189: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 119/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 119/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 119/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 119/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1190/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1190/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) nr. 1190/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1190/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142938,47 +144353,68 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1193/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1193: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1195/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1196/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1196/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1197/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) 2019/1197: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1198/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1198: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1199/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1199: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1199: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1199: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32023R1199: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/12: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 120/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/120: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1200/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1200: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1200: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1201/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1201/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1201/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1201: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1202: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1203/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1203: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1203: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1204/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1204/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1204/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1204/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1205/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1205: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1206/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1207/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1207: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1208: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1208: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1209/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1209/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 121/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 121/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1210/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1210/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1210/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1210/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1212/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1212: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1214/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1214/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1214/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1214/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1214: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1214: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1215/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1215/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1215/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1215: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1215: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1216/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1216/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1216/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1217/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1217/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1217/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1217/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1218/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -142992,10 +144428,12 @@ Model use at data-build time:
 - Regulamentul (UE) 2015/1222: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1223/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1223/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1224/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1224/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1224/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1224: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1225/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1226/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1226/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1226/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1226/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143003,9 +144441,11 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1227/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1227/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1227: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1228/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1228/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1228/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1228/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1229/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1229/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1229/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1229: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143014,6 +144454,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2021/1230: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1230: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1230: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1231/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1231/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1231/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1231: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143022,16 +144463,21 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1233/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1233/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1233/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1234/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1234/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1235/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1235/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1236/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1236/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1237/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1237/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1237/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1237: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1238/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1238/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1238/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1238: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1239/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1239/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1239/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1239/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143042,11 +144488,14 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1240/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1240: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1240: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1241/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1241: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1241: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32009R1242: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1242: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1243/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1243: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1244/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1244/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1244: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1244: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143056,30 +144505,41 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1247/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1247/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1247: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1248/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1248/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1249/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 125/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/125: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1250/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1250/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1250: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1251/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1252/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1252/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1252/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1252: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1252: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1253/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1253/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1254/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1256/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1256/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1256/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1256/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1257/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1257/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1257/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1257/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1257/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1257/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1257: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1257: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1258/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1258/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1258/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1258/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1258: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1259/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1259/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1259/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1259/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143094,11 +144554,13 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1261/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1261/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1261: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1262/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1262/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1262: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1263/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1263/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1263: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1264/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1264: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1264: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1266: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143113,41 +144575,63 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1270/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1270: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1271: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1272/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1272/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1272/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1273: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1274/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1274/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1275/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1275/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1275: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1276/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1276/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1276: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1277/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1278/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1278: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/128: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/128: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1280: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1282/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1283/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1283/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1284/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1284/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1286/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1286/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1286/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1286/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1286/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1287/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1287/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1288/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 129/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 129/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/129: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/129: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1290/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1290/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1290/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1290: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1291/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1291/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1291/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1292/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1292: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1293/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) nr. 1295/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1295/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) nr. 1296/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1297/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1297: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1298/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1298: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1299/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1299/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1299/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 13/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 13/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/13: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 130/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/130: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143158,10 +144642,12 @@ Model use at data-build time:
 - Regulamentul (CE, Euratom) nr. 1302/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1302/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1302/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1303/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1303/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1303/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1303/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1303: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1304/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1304/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1304/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (Euratom) 2025/1304: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143172,13 +144658,17 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1307/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1308/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1308: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1309/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1309: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 131/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1310/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1310/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) nr. 1311/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1311/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1311: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1312/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1313/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1314/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1314/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1314: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1314: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143190,10 +144680,12 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1319/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 132/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/132: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1320/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1320/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1321/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1321: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1321: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1322/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1322/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1322: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE, Euratom) nr. 1323/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143225,27 +144717,38 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1333/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1333/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1333: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1334/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1334/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1335/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1336/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1336/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1336/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1336: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1337/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1337: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1338/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1338/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1338: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1338: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1339/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1339: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 134/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 134/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 134/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1342/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1342: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1343: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1345/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1345/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1346: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1347/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1347: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1347: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1348/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1348: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1348: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1349: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 135/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32017R0135: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/135: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1350/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143253,38 +144756,53 @@ Model use at data-build time:
 - Regulamentul (UE) 2024/1350: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1351/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1351: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1352/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1352/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1352: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1354/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1355/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1355/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1355: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1355: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1355: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1356/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1356/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1356: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1357/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1357/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1358/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1358: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1359/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1359: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 136/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1360/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1360/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1360: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1362/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1362: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1363: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1367/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1367/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1367/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1368/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1368/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1369: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1370/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1370/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1370: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1372/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1372: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1374/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1377: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1378/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1378: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1379/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1379: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1379: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 138/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 138/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/138: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1380/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1380/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1380: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1381: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143295,75 +144813,134 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1385/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1385/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1385/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1386/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1386/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1386/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1386: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1388/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1388: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1388: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1389/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1389/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1389: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 139/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 139/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1390/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1390: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1390: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1392: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1393/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1394/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1395: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1396: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1396: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1398: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1399: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 14/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 14/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 14/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/14: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/140: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/140: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/140: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/140: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1400/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1402/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1402/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1403: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1404/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1406: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1407/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1407: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1408/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1408: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1409/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1409: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 141/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 141/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 141/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/141: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1410: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1411: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1412/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1412/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1412: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1413: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1413: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1414/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1414/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1415/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1415/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1416/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1416/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1416: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1417/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1417/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1418/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1419/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1419: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1419: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 142/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 142/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 142/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 142/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 142/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1423/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1428/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1428/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1428: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1428: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1429: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 143/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 143/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/143: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1430/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1431/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1432: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1433: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1434: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1435/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1435/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1435: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1437/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1438: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1439/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1439: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1439: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1440/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1440/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1440: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1441/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1441/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1441: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1442/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1442: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1445/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1445/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1446/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1446/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1447: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1449: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 145/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 145/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/145: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1450/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1451: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1452/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1455: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1456/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1456/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1458/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1459/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1459/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 146/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/146: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1460/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1461/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1461/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1461: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1461: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1462/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1462: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1462: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1463: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143371,45 +144948,76 @@ Model use at data-build time:
 - Regulamentul (UE) 2022/1465: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1465: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1466: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1468/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1468: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1469: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 147/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 147/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 147/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 147/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/147: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/147: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/147: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/147: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1471/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1472: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1472: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1474: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1474: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1475/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1475: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1478: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32023R1479: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 148/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 148/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 148/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/148: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1480/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1480: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1481: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1482: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1483/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1485/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1485: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1485: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1485: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1486/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1486/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1487: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1488/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1489/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul CELEX 32007R0149: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 149/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/149: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1490/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1490/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1490: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1491/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1491/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1492/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1492/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1494/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1494: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1494: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1495/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1495: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1497: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1497: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1498/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 15/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 15/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 150/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32011R0150: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/150: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1500/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1501/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1502/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1503: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1504: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1505: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1506/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1506: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1508/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1509: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1510: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1510: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143418,10 +145026,14 @@ Model use at data-build time:
 - Regulamentul (UE) 2017/1515: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1515: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1516: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1518/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1519/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 152/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 152/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 152/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1520/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1520: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1523/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1525: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1526: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1529: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143429,17 +145041,22 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 153/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 153/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1530: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1531/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1531: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1531: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1532/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1532: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1533/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1534: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1536: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1536: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1538: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1539/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1539: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 154/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/154: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1541: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1542/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1542: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1542: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1542: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143447,47 +145064,78 @@ Model use at data-build time:
 - Regulamentul (UE) 2023/1543: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1545: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1546: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1547/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1547: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1547: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1548: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1549/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 155/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 155/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/155: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/155: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1551/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1552/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1553/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1554/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1554: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1555/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1555: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1556: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE, Euratom) nr. 1558/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1559/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1559: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 156/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/156: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1561: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1561: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1562/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1563/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1563/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1563: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1565: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1565: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1566/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1566: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul CELEX 32007R1569: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1569: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1570/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1571/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1578/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1579/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 158/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 158/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 158/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/158: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1580/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1581/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1582: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1587/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1588: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1589: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 159/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 159/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/159: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1591/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1593: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1593: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1594: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1595: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1597/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1598/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1599: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 16/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 16/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 160/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 160/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 160/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 160/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/160: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1601: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1602/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1606/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1607/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1608: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 161/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 161/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/161: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1610/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143496,22 +145144,47 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 162/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1620: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1621: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1623/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1623: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1624/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1624: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1627/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1627: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1628: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1628: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1629/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1629/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 163/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 163/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/163: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1633: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1637/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1638/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1642/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1642/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1643/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1644/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1645/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1647/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1649/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1649: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 165/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 165/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/165: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1650/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1652: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1653/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1653/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1655/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 166/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 166/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1660/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1662/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1664/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1665/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1666: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1667/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1667/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 167/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 167/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/167: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143519,10 +145192,12 @@ Model use at data-build time:
 - Regulamentul (UE) 2018/1671: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1672: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1676: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1677/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1677: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1678: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1679: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1679: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 168/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 168/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 168/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 168/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143532,17 +145207,22 @@ Model use at data-build time:
 - Regulamentul (UE) 2020/1683: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1683: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1684: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1685/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1686: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1688/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1689: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 169/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 169/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 169/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/169: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1690/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1691: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1692/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1693: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1694: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1696: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/170: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE, Euratom) nr. 1700/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1700: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1703: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 171/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143551,6 +145231,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2020/171: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1710: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1711: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1712/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1716: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1717: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1717: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143564,6 +145245,8 @@ Model use at data-build time:
 - Regulamentul (UE) 2017/172: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/172: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1720: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1723/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1724/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1724: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1724: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1725: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143571,6 +145254,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2016/1726: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1726: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1727: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1728/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 173/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 173/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/173: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143579,7 +145263,12 @@ Model use at data-build time:
 - Regulamentul (UE) 2025/1733: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1735: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1735: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1737/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1737/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1738/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1738/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1738: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1739/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1739: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1739: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1739: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143587,7 +145276,10 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 174/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/174: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/174: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1742/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1743: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1744/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1744/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1744: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1745: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1747: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143595,22 +145287,32 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 175/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/175: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/175: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE, Euratom) nr. 1750/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1750: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1751: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2016/1752: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1753/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1753: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1753: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1754/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1755: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1755: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1756/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1756: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1756: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1758/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 176/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 176/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/176: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE, Euratom) nr. 1760/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1760: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1762/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1765/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1767: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1768: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/177: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1770: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1771/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1771: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1774: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1775: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143619,12 +145321,16 @@ Model use at data-build time:
 - Regulamentul (UE) 2017/1777: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1777: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1778: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1779/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 178/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 178/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 178/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/178: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1781: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1781: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1781: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1781: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1782/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1782: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1782: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1783: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143632,6 +145338,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2023/1783: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1784: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1784: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1785/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1785: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1785: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1787: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143639,15 +145346,21 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 179/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1791: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1791: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1792/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1792: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1793: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1795: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1796: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1797/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1797: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1798: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 18/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 180/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 180/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/180: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1800/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1801/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1801/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1803: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1803: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1804: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143659,45 +145372,70 @@ Model use at data-build time:
 - Regulamentul (UE) 2018/1807: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1807: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1808: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1809/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 181/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 181/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1810: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1812/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1814: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1814: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1818/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1818: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1819: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1819: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 182/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 182/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 182/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 182/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1821/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1821: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1822: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1823/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1823/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1824/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1825/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1825: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1828/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1828: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1828: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1829/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1829/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1829: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 183/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1830/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1831/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1832: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1832: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1834: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1836: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1839/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1839: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 184/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 184/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 184/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1840/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1840/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1840: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1841: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1842: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32015R1843: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1844: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1845/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1845: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1846: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1847/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1847/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1847: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1848: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1848: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1849/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1849: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 185/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 185/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1851: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1854/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1855/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1856/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1856: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1857: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1858: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143714,19 +145452,29 @@ Model use at data-build time:
 - Regulamentul (UE) 2024/1865: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1866: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1867: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1869/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1869: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 187/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1870/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1871: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1872: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE, Euratom) nr. 1873/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1873: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1876/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1877: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 188/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 188/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1881/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1881: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1881: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1881: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1882/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1882/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1884: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1886/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1886: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1888/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1889/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1889: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 189/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/189: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143735,11 +145483,27 @@ Model use at data-build time:
 - Regulamentul (UE) 2021/1891: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1891: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1891: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1893/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) 1893/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1894/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1895/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE, Euratom) nr. 1895/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1896/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1896: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1897/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1898/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1898: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1899/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1899/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 19/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 19/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 19/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 190/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1900/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1901/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1901: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1902/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1902/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1902: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1902: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1903: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143754,7 +145518,10 @@ Model use at data-build time:
 - Regulamentul (UE) 2019/1910: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1911: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1913: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1914/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1914: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1915/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1916/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1916: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1917: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1917: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143762,7 +145529,12 @@ Model use at data-build time:
 - Regulamentul (UE) 2019/1919: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 192/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/192: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1920/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1921/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1921/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1922/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1922: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1923/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1923: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1923: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1924/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143770,57 +145542,93 @@ Model use at data-build time:
 - Regulamentul (UE) 2021/1925: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1925: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1926: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1929/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1929: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 193/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1930/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1931/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1933/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1933: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1933: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1933: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1934: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1935/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1935/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1935/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1938: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1938: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1939: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1939: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 194/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1941: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE, Euratom) nr. 1945/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1946/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1948: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 195/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 195/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/195: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1950/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1952: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1952: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1953: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1954/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1954: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1956/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1957/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1958: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 196/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/196: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/196: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1961: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1965/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1965: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1966/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1966/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1966: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1967/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1967/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1969/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 197/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1970: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1971: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE, Euratom) nr. 1972/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1972: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1973: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1973: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1974/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1975: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1977: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1978: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1979/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 198/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 198/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 198/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/198: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1980/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1980/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1980/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1980: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1981/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1981/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1981: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1982/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1983/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1984/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1985/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1985: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1986: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1987: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1988: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1988: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1989/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1989: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/199: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1991/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1991: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1991: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1992/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1993/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 1996/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1998: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/2: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -143831,15 +145639,18 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 200/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 2004/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2020/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 201/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 201/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul (CE) nr. 2012/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/2015: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2016: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.

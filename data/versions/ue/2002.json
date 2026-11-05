@@ -408,6 +408,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1017-2002",
+   "path": "ue/regulament/2002/1017",
+   "short": "Regulamentul (CE) nr. 1017/2002",
+   "title": "Regulamentul (CE) nr. 1017/2002 al Comisiei din 13 iunie 2002 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1017",
+   "versions": [
+    {
+     "from": "2002-07-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6f65a0bf-4dc2-44a2-9d7b-2dfabbacb4e0.0022.04/DOC_2",
+     "sha256": "4b3e9f203c70dc8bfff8227607eb73182bb0e44500105879ca72fcc95896d2a5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1018-2002",
+   "path": "ue/regulament/2002/1018",
+   "short": "Regulamentul (CE) nr. 1018/2002",
+   "title": "Regulamentul (CE) nr. 1018/2002 al Comisiei din 13 iunie 2002 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate”, prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare (Fagiolo di Sorana)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1018",
+   "versions": [
+    {
+     "from": "2002-07-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/adc8c415-8bc8-4319-ab35-e36d48894034.0022.03/DOC_1",
+     "sha256": "2976b9692aa25a0cbbb5f8bb15caa6316279a1547cf490a0cdb68b300dc86dce"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1030-2002",
    "path": "ue/regulament/2002/1030",
    "short": "Regulamentul (CE) nr. 1030/2002",
@@ -419,6 +449,576 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/feb8ca09-cd99-4658-aefa-c95d25a8f057.0022.04/DOC_1",
      "sha256": "739d7f900cbddd896be22ed33f345bbd3498f3e2fe3aba72a1d9a7c249d11c18"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1040-2002",
+   "path": "ue/regulament/2002/1040",
+   "short": "Regulamentul (CE) nr. 1040/2002",
+   "title": "Regulamentul (CE) nr. 1040/2002 al Comisiei din 14 iunie 2002 de stabilire a normelor de aplicare a dispozițiilor privind alocarea unei contribuții financiare din partea Comunității pentru controlul fitosanitar și de abrogare a Regulamentului (CE) nr. 2051/97",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1040",
+   "versions": [
+    {
+     "from": "2002-07-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bdb84bf2-0c8e-405c-ae28-766ef5bc43a5.0022.03/DOC_1",
+     "sha256": "7086ca9e1ecdacdf8e3a58a4c62b7f146e31ebba6d5d56bc8f74cebfd2e05ec4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1041-2002",
+   "path": "ue/regulament/2002/1041",
+   "short": "Regulamentul (CE) nr. 1041/2002",
+   "title": "Regulamentul (CE) nr. 1041/2002 al Comisiei din 14 iunie 2002 privind autorizarea temporară a unui aditiv nou în hrana animalelorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1041",
+   "versions": [
+    {
+     "from": "2002-06-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4f2105f4-3321-4a99-9297-52a84788c004.0022.03/DOC_1",
+     "sha256": "395e674b098d844f260bcdd9d8671bc0a3b355ec731b793a67e66e46747080dd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1097-2002",
+   "path": "ue/regulament/2002/1097",
+   "short": "Regulamentul (CE) nr. 1097/2002",
+   "title": "Regulamentul (CE) nr. 1097/2002 al Comisiei din 24 iunie 2002 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate”, prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare (Queso de Murcia al vino – Queso de Murcia)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1097",
+   "versions": [
+    {
+     "from": "2002-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c214fa09-7a5c-4d0b-a43f-3777057d6185.0022.04/DOC_1",
+     "sha256": "ab76f4bc6b2ba5b879529727c02b648d0b4c52f683c21b46ef14c44959d193f3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-113-2002",
+   "path": "ue/regulament/2002/113",
+   "short": "Regulamentul (CE) nr. 113/2002",
+   "title": "Regulamentul (CE) nr. 113/2002 al Comisiei din 23 ianuarie 2002 de modificare a Regulamentului (CE) nr. 2223/96 al Consiliului privind clasificarea revizuită a cheltuielilor în funcție de destinația acestora (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R0113",
+   "versions": [
+    {
+     "from": "2002-02-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a5dd7705-22dd-47b4-8189-8da52d80c591.0022.03/DOC_9",
+     "sha256": "adf8730400dc0213a773ac8e86b9deff082504a901940623185774d47a0520a3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1146-2002",
+   "path": "ue/regulament/2002/1146",
+   "short": "Regulamentul (CE) nr. 1146/2002",
+   "title": "Regulamentul (CE) nr. 1146/2002 al Consiliului din 25 iunie 2002 de modificare a Regulamentului (CE) nr. 3050/95 de suspendare temporară a drepturilor autonome prevăzute de Tariful Vamal Comun pentru un anumit număr de produse destinate construcției, întreținerii și reparării aeronavelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1146",
+   "versions": [
+    {
+     "from": "2002-06-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e727eec7-31ec-4d72-9cb8-3b549bffad15.0022.04/DOC_1",
+     "sha256": "c16ae568887f85c04128b6b664db2bb4d9abed1a727aafbe624f6593fc85760f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1149-2002",
+   "path": "ue/regulament/2002/1149",
+   "short": "Regulamentul (CE) nr. 1149/2002",
+   "title": "Regulamentul (CE) nr. 1149/2002 al Consiliului din 27 iunie 2002 privind deschiderea unui contingent autonom pentru importurile de carne de vită de calitate superioară",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1149",
+   "versions": [
+    {
+     "from": "2002-06-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ec8e5a54-78db-45a1-abaf-d522289b8cc6.0022.03/DOC_1",
+     "sha256": "26b5c2a9685ec9e9b4e520299bcd0930b156f3e9a4f64e3bfb10d0b0e6b11e3a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-120-2002",
+   "path": "ue/regulament/2002/120",
+   "short": "Regulamentul (CE) nr. 120/2002",
+   "title": "Regulamentul (CE) nr. 120/2002 al Consiliului din 21 ianuarie 2002 de modificare a Regulamentului (CE) nr. 2793/1999 în ceea ce privește ajustarea contingentului tarifar pentru vin",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R0120",
+   "versions": [
+    {
+     "from": "2002-01-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/463edb06-a664-47b1-b5a8-0c5bfdd658b7.0022.04/DOC_1",
+     "sha256": "813d54ed701076ad1add351c4399073d38d258e847254ab33cb9e57e45e25b3f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1217-2002",
+   "path": "ue/regulament/2002/1217",
+   "short": "Regulamentul (CE) nr. 1217/2002",
+   "title": "Regulamentul (CE) nr. 1217/2002 al Comisiei din 5 iulie 2002 de obligare a importatorilor sau a producătorilor de anumite substanțe EINECS să furnizeze anumite informații și să efectueze anumite testări în temeiul Regulamentului (CEE) nr. 793/93 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1217",
+   "versions": [
+    {
+     "from": "2002-07-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2a6b718c-2458-4f91-b8d0-990acaaf2c3e.0022.04/DOC_2",
+     "sha256": "e0bf15b836e457216b481572fe6ee97a9c01a89123dade11382b078c07fb87c1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1241-2002",
+   "path": "ue/regulament/2002/1241",
+   "short": "Regulamentul (CE) nr. 1241/2002",
+   "title": "Regulamentul (CE) nr. 1241/2002 al Comisiei din 10 iulie 2002 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate” prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protejarea indicațiilor geografice și a denumirilor de origine protejate ale produselor agricole și alimentare (Gailtaler Speck, Morbier, Queso Palmero sau Queso de la Palma, ulei de măsline extra virgin Thrapsano, Turrón de Agramunt sau Torró d'Agramunt)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1241",
+   "versions": [
+    {
+     "from": "2002-07-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d60b0e9f-f432-4884-8399-c067e07a0325.0022.03/DOC_1",
+     "sha256": "aa2f6f2a102dc3df014c62d44d636b41ed07e7a0f2f446e1473bae17b2bdfa8d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1252-2002",
+   "path": "ue/regulament/2002/1252",
+   "short": "Regulamentul (CE) nr. 1252/2002",
+   "title": "Regulamentul (CE) nr. 1252/2002 al Comisiei din 11 iulie 2002 privind autorizarea temporară a unui aditiv nou în hrana animalelorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1252",
+   "versions": [
+    {
+     "from": "2002-07-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6b53276f-5b27-431a-abb0-2c7aab811db8.0022.03/DOC_1",
+     "sha256": "49959aa39b5a6e68b3ff44c765b10ddbf98e6849b8713ea2baf7f070cd52ea55"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1310-2002",
+   "path": "ue/regulament/2002/1310",
+   "short": "Regulamentul (CE) nr. 1310/2002",
+   "title": "Regulamentul (CE) nr. 1310/2002 al Consiliului din 19 iulie 2002 de modificare a Regulamentului (CE) nr. 963/2002 de stabilire a unor dispoziții tranzitorii privind măsurile antidumping și compensatorii adoptate în temeiul Deciziilor nr. 2277/96/CECO și nr. 1889/98/CECO ale Comisiei, precum și cererile, reclamațiile și anchetele antidumping și antisubvenții în curs privitoare la aceste decizii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1310",
+   "versions": [
+    {
+     "from": "2002-07-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7e49f807-f31f-11e4-a3bf-01aa75ed71a1.0022.04/DOC_1",
+     "sha256": "252c2ef8de44dcfb20a705d9c1ba28cc8a92cedbea6146d74fd6a5d1475de8eb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-134-2002",
+   "path": "ue/regulament/2002/134",
+   "short": "Regulamentul (CE) nr. 134/2002",
+   "title": "Regulamentul (CE) nr. 134/2002 al Consiliului din 22 ianuarie 2002 de modificare a Regulamentului (CE) nr. 2531/98 privind aplicarea rezervelor obligatorii de către Banca Centrală Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R0134",
+   "versions": [
+    {
+     "from": "2002-01-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f20f0c87-5d89-46ce-b291-9a68f066351a.0022.04/DOC_1",
+     "sha256": "145fb3ebef9c1a846de1e7619c2805d2a520aa71e47b75e63ac431834e9fd6b8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1380-2002",
+   "path": "ue/regulament/2002/1380",
+   "short": "Regulamentul (CE) nr. 1380/2002",
+   "title": "Regulamentul (CE) nr. 1380/2002 al Comisiei din 29 iulie 2002 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1380",
+   "versions": [
+    {
+     "from": "2002-08-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/06314a67-39f2-4a9b-a0ea-f05dcf8a2e8d.0022.04/DOC_1",
+     "sha256": "923fc5d0760dc0427ef51017a9712058b61f699a6838f3a3c37a7a11149a68b0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-141-2002",
+   "path": "ue/regulament/2002/141",
+   "short": "Regulamentul (CE) nr. 141/2002",
+   "title": "Regulamentul (CE) nr. 141/2002 al Comisiei din 25 ianuarie 2002 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R0141",
+   "versions": [
+    {
+     "from": "2002-02-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/19eeedb3-b846-42b7-acd7-72eb5d3bdd67.0022.04/DOC_5",
+     "sha256": "aa4305bd1349f8c9a7f950eac16c8de86dc69a9529f8865459705174cd98c72e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-142-2002",
+   "path": "ue/regulament/2002/142",
+   "short": "Regulamentul (CE) nr. 142/2002",
+   "title": "Regulamentul (CE) nr. 142/2002 al Comisiei din 25 ianuarie 2002 privind clasificarea anumitor mărfuri în Nomenclatura Combinată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R0142",
+   "versions": [
+    {
+     "from": "2002-02-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9b936bdf-7ced-4603-b92c-c439025f601f.0022.04/DOC_2",
+     "sha256": "dee1cf5b2a4fc5821c75c75f716fce0c77f894130152cc60ee3bd75b13dcaebc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1442-2002",
+   "path": "ue/regulament/2002/1442",
+   "short": "Regulamentul (CE) nr. 1442/2002",
+   "title": "Regulamentul (CE) nr. 1442/2002 al Comisiei din 7 august 2002 de modificare a Regulamentului (CE) nr. 1554/2001 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 1260/2001 al Consiliului în ceea ce privește desfacerea zahărului produs în departamentele franceze de peste mări și egalizarea condițiilor de preț cu zahărul brut preferențial",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1442",
+   "versions": [
+    {
+     "from": "2002-08-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a0a7e334-e433-4661-96fe-ba931e402e71.0022.03/DOC_3",
+     "sha256": "24a93a42bf8e76833a1fe6f29d2f42b1ad048045d3d89f52c6b13e43f8c2d07d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1490-2002",
+   "path": "ue/regulament/2002/1490",
+   "short": "Regulamentul (CE) nr. 1490/2002",
+   "title": "Regulamentul (CE) nr. 1490/2002 al Comisiei din 14 august 2002 de stabilire a normelor suplimentare de aplicare a etapei a treia a programului de lucru menționat la articolul 8 alineatul (2) din Directiva 91/414/CEE a Consiliului și de modificare a Regulamentului (CE) nr. 451/2000Text cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1490",
+   "versions": [
+    {
+     "from": "2002-08-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b1bbb201-2396-4453-89c0-66fe0ca947a5.0022.03/DOC_5",
+     "sha256": "caa0925d29f5ea21803ed45ee847e50823276fdc69250eccb61989b58d340367"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1494-2002",
+   "path": "ue/regulament/2002/1494",
+   "short": "Regulamentul (CE) nr. 1494/2002",
+   "title": "Regulamentul (CE) nr. 1494/2002 al Comisiei din 21 august 2002 de modificare a anexelor III, VII și XI la Regulamentul (CE) nr. 999/2001 al Parlamentului European și al Consiliului privind controlul encefalopatiei spongiforme bovine, eradicarea anumitor forme transmisibile de encefalopatie spongiformă, retragerea materialelor cu risc specificate și modalitățile de import de animale vii și de produse de origine animalăText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1494",
+   "versions": [
+    {
+     "from": "2002-08-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/661cb751-297f-4bab-9caf-aaaf5b71f9fa.0022.03/DOC_1",
+     "sha256": "dbac9d583dd26edf6ebbf95503f2de833c57f16a69b94d7b4cba13d9817d434f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1495-2002",
+   "path": "ue/regulament/2002/1495",
+   "short": "Regulamentul (CE) nr. 1495/2002",
+   "title": "Regulamentul (CE) nr. 1495/2002 al Comisiei din 21 august 2002 de completare a anexei la Regulamentul (CE) nr. 2400/96 privind înscrierea anumitor denumiri în „Registrul denumirilor de origine protejate și al indicațiilor geografice protejate”, prevăzut în Regulamentul (CEE) nr. 2081/92 al Consiliului privind protecția indicațiilor geografice și a denumirilor de origine ale produselor agricole și alimentare (piment d'Espelette sau piment d'Espelette-Ezpeletako Biperra, Oberpfälzer Karpfen, carne da Charneca, carne Cachena da Peneda)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1495",
+   "versions": [
+    {
+     "from": "2002-09-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ece47a19-4b69-4206-8529-9e327d3cd1cb.0022.03/DOC_1",
+     "sha256": "9320800c0ec4d2f1020d1792b4ebcf7bddf50502ccb5703d68b97c053a2ab675"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1580-2002",
+   "path": "ue/regulament/2002/1580",
+   "short": "Regulamentul (CE) nr. 1580/2002",
+   "title": "Regulamentul (CE) nr. 1580/2002 din 4 septembrie 2002",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1580",
+   "versions": [
+    {
+     "from": "2002-09-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f8b40cf0-e3af-4025-84c1-f302052476ab.0022.03/DOC_1",
+     "sha256": "0effd3b1cac6cf28130f320d730a9fa841217d35a582881080f245edfce4efe7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1597-2002",
+   "path": "ue/regulament/2002/1597",
+   "short": "Regulamentul (CE) nr. 1597/2002",
+   "title": "Regulamentul (CE) nr. 1597/2002 al Comisiei din 6 septembrie 2002 de stabilire a normelor de aplicare a Directivei 1999/105/CE a Consiliului în ceea ce privește modelul listelor naționale de materiale de bază destinate materialului forestier de reproducere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1597",
+   "versions": [
+    {
+     "from": "2002-09-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0c81efd2-06fa-443a-a8dc-01774b812980.0022.03/DOC_1",
+     "sha256": "9efcdcff7e77462d139afaa22f57e6965e2667fccade5573bfa8ae755fbc9aff"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1598-2002",
+   "path": "ue/regulament/2002/1598",
+   "short": "Regulamentul (CE) nr. 1598/2002",
+   "title": "Regulamentul (CE) nr. 1598/2002 al Comisiei din 6 septembrie 2002 de stabilire a normelor de aplicare a Directivei 1999/105/CE a Consiliului privind asistența administrativă reciprocă între organismele oficiale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1598",
+   "versions": [
+    {
+     "from": "2002-09-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d62c7e62-717d-4945-aff3-af4308d93630.0022.03/DOC_1",
+     "sha256": "34302aa14327be5920484d8db2a3da0bc66b4396fc45e12b4b4585b789cda32e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1602-2002",
+   "path": "ue/regulament/2002/1602",
+   "short": "Regulamentul (CE) nr. 1602/2002",
+   "title": "Regulamentul (CE) nr. 1602/2002 al Comisiei din 9 septembrie 2002 de stabilire a normelor de aplicare a Directivei 1999/105/CE a Consiliului în ceea ce privește autorizarea unui stat membru de a interzice comercializarea către utilizatorul final a materialului forestier de reproducere specificat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1602",
+   "versions": [
+    {
+     "from": "2002-09-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dca8bb41-d8e9-4a92-905f-1a5ac53eea20.0022.03/DOC_1",
+     "sha256": "267b6aa45a0e942c156fe85c493743421737ee04762979ddfb274955148816cf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1606-2002",
+   "path": "ue/regulament/2002/1606",
+   "short": "Regulamentul (CE) nr. 1606/2002",
+   "title": "Regulamentul (CE) nr. 1606/2002 al Parlamentului European și al Consiliului din 19 iulie 2002 privind aplicarea standardelor internaționale de contabilitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1606",
+   "versions": [
+    {
+     "from": "2002-09-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/063990c7-2ce2-4e5c-b0cc-5eba713d7d08.0022.04/DOC_9",
+     "sha256": "9f7f44a834c6ef9a374a472122e836aacdb58a35be3867694f52a9d3d32cc855"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1644-2002",
+   "path": "ue/regulament/2002/1644",
+   "short": "Regulamentul (CE) nr. 1644/2002",
+   "title": "Regulamentul (CE) nr. 1644/2002 din 13 septembrie 2002",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1644",
+   "versions": [
+    {
+     "from": "2002-09-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/26e5e23b-023e-4159-9232-b8cfe92fb0de.0022.03/DOC_1",
+     "sha256": "895827fe348e6bc74545829513cd3761b89e92cc1bf26182d7b3658e16ef24de"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1750-2002",
+   "path": "ue/regulament/2002/1750",
+   "short": "Regulamentul (CE, Euratom) nr. 1750/2002",
+   "title": "Regulamentul (CE, Euratom) nr. 1750/2002 al Consiliului din 30 septembrie 2002 de modificare a Regulamentului (CEE, Euratom, CECO) nr. 260/68 de stabilire a condițiilor și procedurii de aplicare a impozitului stabilit în beneficiul Comunităților Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1750",
+   "versions": [
+    {
+     "from": "2002-10-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b85a8788-c618-4c5e-b7de-0e5ed70c00c0.0022.03/DOC_1",
+     "sha256": "474b85950f5098a6af714c0d4fc90254836a384b0621713c7a410e83f54ad029"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1754-2002",
+   "path": "ue/regulament/2002/1754",
+   "short": "Regulamentul (CE) nr. 1754/2002",
+   "title": "Regulamentul (CE) nr. 1754/2002 din 1 octombrie 2002",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1754",
+   "versions": [
+    {
+     "from": "2002-10-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/05219d43-bc38-43ce-8556-378b9fb691be.0022.03/DOC_1",
+     "sha256": "075ff6c5f500f689564a9d8b3d8a31aea8ce42134f4c947fc2ad517bc89089e6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1756-2002",
+   "path": "ue/regulament/2002/1756",
+   "short": "Regulamentul (CE) nr. 1756/2002",
+   "title": "Regulamentul (CE) nr. 1756/2002 al Consiliului din 23 septembrie 2002 de modificare a Directivei 70/524/CEE referitoare la aditivii din hrana animalelor cu privire la retragerea autorizării unui aditiv și de modificare a Regulamentului (CE) nr. 2430/1999 al ComisieiText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1756",
+   "versions": [
+    {
+     "from": "2002-10-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6577b56d-a2b0-4f0c-92a3-f9e5280454c8.0022.03/DOC_1",
+     "sha256": "a47a1b0afa100a8897976f037922c33137d49ecf87213dda328f8897bac7b946"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1779-2002",
+   "path": "ue/regulament/2002/1779",
+   "short": "Regulamentul (CE) nr. 1779/2002",
+   "title": "Regulamentul (CE) nr. 1779/2002 al Comisiei din 4 octombrie 2002 privind Nomenclatura țărilor și a teritoriilor pentru statisticile comerțului exterior al Comunității și ale comerțului între statele sale membreText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1779",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/92acf43a-f3e4-459c-8cbb-d97b862334a8.0022.04/DOC_1",
+     "sha256": "95cfb7c3c5fca08301909a509ee02163ec763fdd9989ebc701bf3faafcddef7b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-178-2002",
+   "path": "ue/regulament/2002/178",
+   "short": "Regulamentul (CE) nr. 178/2002",
+   "title": "Regulamentul (CE) nr. 178/2002 al Parlamentului European și al Consiliului din 28 ianuarie 2002 de stabilire a principiilor și a cerințelor generale ale legislației alimentare, de instituire a Autorității Europene pentru Siguranța Alimentară și de stabilire a procedurilor în domeniul siguranței produselor alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R0178",
+   "versions": [
+    {
+     "from": "2002-02-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/72de3b0c-c182-4754-9a9c-8cc5217c60f8.0022.04/DOC_1",
+     "sha256": "4696d38881aa290c44ed2af260a788f6a3d05b5a86c3c2f8e4c68442b7d55aa5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1823-2002",
+   "path": "ue/regulament/2002/1823",
+   "short": "Regulamentul (CE) nr. 1823/2002",
+   "title": "Regulamentul (CE) nr. 1823/2002 al Comisiei din 11 octombrie 2002 de efectuare a celei de-a cincea modificări a Regulamentului (CE) nr. 881/2002 al Consiliului de instituire a unor măsuri restrictive specifice împotriva anumitor persoane și entități care au legătură cu Osama ben Laden, cu rețeaua Al-Qaida și cu talibanii și de abrogare a Regulamentului (CE) nr. 467/2001 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1823",
+   "versions": [
+    {
+     "from": "2002-10-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cdf47fbc-eb5e-4427-993b-3bd415b6100b.0022.03/DOC_1",
+     "sha256": "fac4232e00e4818aac925399dd38ddd4ca14bcceee6dc517a16193cbc565f5bd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1829-2002",
+   "path": "ue/regulament/2002/1829",
+   "short": "Regulamentul (CE) nr. 1829/2002",
+   "title": "Regulamentul (CE) nr. 1829/2002 al Comisiei din 14 octombrie 2002 de modificare a anexei la Regulamentul (CE) nr. 1107/96 privind denumirea „Feta”Text cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1829",
+   "versions": [
+    {
+     "from": "2002-10-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/908f4ad3-d357-47d6-a9fb-39cf725f4649.0022.03/DOC_1",
+     "sha256": "362986a9731152bf4dfad5dd278b2dccb577c0642f1b5be9b2736d2192cadc9e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1876-2002",
+   "path": "ue/regulament/2002/1876",
+   "short": "Regulamentul (CE) nr. 1876/2002",
+   "title": "Regulamentul (CE) nr. 1876/2002 al Comisiei din 21 octombrie 2002 privind autorizarea temporară a unei noi utilizări a unui aditiv în hrana animalelorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1876",
+   "versions": [
+    {
+     "from": "2002-10-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/222e8cbc-b461-41f4-bc5e-1a041f2535a8.0022.03/DOC_1",
+     "sha256": "2815f0158899d2d329e9704af4738aba42c3dce22b434c8f8fbae6ea088849d4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1889-2002",
+   "path": "ue/regulament/2002/1889",
+   "short": "Regulamentul (CE) nr. 1889/2002",
+   "title": "Regulamentul (CE) nr. 1889/2002 al Comisiei din 23 octombrie 2002 privind aplicarea Regulamentului (CE) nr. 448/98 al Consiliului de completare și modificare a Regulamentului (CE) nr. 2223/96 privind alocarea de servicii de intermediere financiară măsurate indirect (SIFMI) în cadrul Sistemului european de conturi naționale și regionale (SEC)Text cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1889",
+   "versions": [
+    {
+     "from": "2002-11-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/989b06d4-23cc-4c32-9910-6a6e899b7480.0022.04/DOC_1",
+     "sha256": "2d4387669238deccf10d47a41841787f279fc5c805fb32b049f870a31520734a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1893-2002",
+   "path": "ue/regulament/2002/1893",
+   "short": "Regulamentul (CE) nr. 1893/2002",
+   "title": "Regulamentul (CE) nr. 1893/2002 al Comisiei din 23 octombrie 2002 de efectuare a celei de-a șasea modificări a Regulamentului (CE) nr. 881/2002 al Consiliului de instituire a unor măsuri restrictive specifice împotriva anumitor persoane și entități care au legătură cu Osama ben Laden, cu rețeaua Al-Qaida și cu talibanii și de abrogare a Regulamentului (CE) nr. 467/2001 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1893",
+   "versions": [
+    {
+     "from": "2002-10-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/05b2230d-ef03-49d6-99e3-c833fc56e2a2.0022.03/DOC_1",
+     "sha256": "12036b56496b78858e1dfa7caf1f47353e14caa99e2892b53578018917eec031"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1935-2002",
+   "path": "ue/regulament/2002/1935",
+   "short": "Regulamentul (CE) nr. 1935/2002",
+   "title": "Regulamentul (CE) nr. 1935/2002 al Comisiei din 29 octombrie 2002 de efectuare a celei de-a șaptea modificări a Regulamentului (CE) nr. 881/2002 al Consiliului de instituire a unor măsuri restrictive specifice împotriva anumitor persoane și entități care au legătură cu Osama ben Laden, cu rețeaua Al-Qaida și cu talibanii și de abrogare a Regulamentului (CE) nr. 467/2001 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R1935",
+   "versions": [
+    {
+     "from": "2002-10-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/20d5288b-d3c5-4a63-a0c2-d6d93a08902d.0022.03/DOC_1",
+     "sha256": "9617bfa5255697dd0050c33ab389d696c76f137792580cadb21845c817441456"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2004-2002",
+   "path": "ue/regulament/2002/2004",
+   "short": "Regulamentul (CE) nr. 2004/2002",
+   "title": "Regulamentul (CE) nr. 2004/2002 al Comisiei din 8 noiembrie 2002 privind procedura de determinare a conținutului de carne și grăsime al anumitor produse din carne de porc",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R2004",
+   "versions": [
+    {
+     "from": "2002-11-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/13f803d9-d74e-4e87-92f8-78b0a4d09fcc.0022.03/DOC_6",
+     "sha256": "f76225e148fe8f944d32cdb9d6a2c156f8ef2e4dce8349a7201814c7cd1c6347"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2012-2002",
+   "path": "ue/regulament/2002/2012",
+   "short": "Regulamentul (CE) nr. 2012/2002",
+   "title": "Regulamentul (CE) nr. 2012/2002 al Consiliului din 11 noiembrie 2002 de instituire a Fondului de Solidaritate al Uniunii Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R2012",
+   "versions": [
+    {
+     "from": "2002-11-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3ddf2750-9a7c-43ec-be76-a760a45de61d.0022.04/DOC_1",
+     "sha256": "ae51f8fb47008d35218e87b10a6017536b8b89731d9889a9d1ee34a102fe2e74"
     }
    ]
   }
