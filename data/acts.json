@@ -9352,6 +9352,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16452"
 },
 {
+"slug": "legea-247-1998",
+"path": "lege/1998/247",
+"kind": "lege",
+"year": "1998",
+"number": "247",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 247/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 22/1998 privind instituirea, cu caracter temporar, a unei suprataxe vamale la importul de bunuri",
+"short": "Legea nr. 247/1998",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1998-12-22",
+"latest": "1998-12-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/16424"
+},
+{
 "slug": "legea-248-1998",
 "path": "lege/1998/248",
 "kind": "lege",

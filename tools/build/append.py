@@ -23,12 +23,17 @@ as a full build does.
 """
 import argparse
 import csv
+import hashlib
 import io
 import json
+import marshal
 import re
 import os
 import subprocess
 import sys
+import tempfile
+import time
+import zlib
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -42,14 +47,453 @@ def git(repo: Path, *args: str) -> str:
     return B.git(repo, *args)
 
 
-def published_state(repo: Path, c: dict) -> tuple[dict[str, str], dict[str, tuple[str, list[str]]], dict, dict]:
+# ---------------------------------------------------------------- reading the corpus in little memory (2026-11-05)
+# At ~100,000 acts, build.load() held every part three times over (the part cache, the joined corpus bytes and every
+# provision's text) and an append peaked at ~7 GB. Most acts are trusted (their part is unchanged since the last
+# verified publish, GITLAW_TRUSTED_ACTS), and for them an append only writes tables. So load_corpus() reads the same
+# parts as build.load(), merged the same way, but keeps a trusted act's provisions without their words: each text
+# becomes its git blob id (LeanText), which compares equal exactly when the words do, and is all the tables use. A
+# trusted act that turns out to need its words (a version that came due) has its part read again in full
+# (reload_parts). The corpus bytes are hashed while they are read, never joined.
+
+
+class LeanText(str):
+    """A provision's text kept only as its git blob id (plus the final newline the schema asks of every text): equal
+    to another exactly when the words are equal. Writing it anywhere fails loudly instead of publishing a hash."""
+    __slots__ = ()
+
+    def encode(self, *a, **k):
+        raise B.CorpusError('internal: a provision read without its words (LeanText) was about to be written')
+
+
+class RawCorpus:
+    """Stands in for build.load()'s corpus bytes, which the documentation only hashes (sha256) and counts: the same
+    digest and length, taken while the parts are read."""
+
+    def __init__(self):
+        self.sha = hashlib.sha256()
+        self.size = 0
+
+    def add(self, b: bytes):
+        self.sha.update(b)
+        self.size += len(b)
+
+    def __len__(self):
+        return self.size
+
+
+class _Hashlib:
+    """build.py's `hashlib`, answering sha256(<RawCorpus>) from the digest taken while reading."""
+
+    def __getattr__(self, name):
+        return getattr(hashlib, name)
+
+    def sha256(self, data=b'', **kw):
+        return data.sha.copy() if isinstance(data, RawCorpus) else hashlib.sha256(data, **kw)
+
+
+B.hashlib = _Hashlib()
+
+
+class PartChanged(Exception):
+    """A part read again in full no longer has the bytes read at the start: the run starts over."""
+
+
+def cache_prefix(folder: Path) -> str | None:
+    """build.PartCache's file prefix (GITLAW_PART_CACHE, default in the temp folder), or None when it is off ('0')."""
+    env = os.environ.get('GITLAW_PART_CACHE')
+    if env == '0':
+        return None
+    key = str(folder.resolve())
+    return env or str(Path(tempfile.gettempdir()) / f'lawrepo-cache-{hashlib.sha1(key.encode()).hexdigest()[:12]}')
+
+
+class PartStore:
+    """Every part's bytes in one file, <prefix>-parts.pack, indexed by <prefix>-parts.idx ({name: (size, mtime, offset,
+    crc32)}): a run reads it with one seek per part instead of opening ~100,000 files, and holds one part at a time
+    (build.PartCache holds them all, ~2 GB). An entry is used only while the part's size and modification time are as
+    recorded and its bytes match their CRC; otherwise the part file is read and appended to the pack. One writer at a
+    time (<prefix>-parts.lock); the index is replaced only after the pack is on disk, so a power cut leaves the old
+    index, and a bad entry is only a re-read. Nothing in it is published."""
+
+    def __init__(self, prefix: str | None):
+        self.idx: dict[str, tuple[int, int, int, int]] = {}
+        self.end = 0
+        self.rf = self.wf = None
+        self.locked = self.dirty = False
+        self.listed: set[str] | None = None  # the folder's parts, as load_corpus listed them
+        if prefix is None:
+            return
+        self.pack, self.idx_path, self.lock = (Path(f'{prefix}-parts.{x}') for x in ('pack', 'idx', 'lock'))
+        try:
+            if self.lock.exists() and time.time() - self.lock.stat().st_mtime > 3600:  # left by a run that died
+                self.lock.unlink()
+            os.close(os.open(self.lock, os.O_CREAT | os.O_EXCL | os.O_WRONLY))
+            self.locked = True
+        except OSError:
+            pass  # another run writes it: read what is there, write nothing
+        try:
+            d = marshal.loads(self.idx_path.read_bytes())
+            if isinstance(d, dict) and d.get('v') == 1 and self.pack.stat().st_size >= d['end']:
+                self.idx, self.end = d['parts'], d['end']
+                self.rf = open(self.pack, 'rb')
+        except (OSError, ValueError, EOFError, TypeError, KeyError):
+            self.idx, self.end = {}, 0
+
+    def has(self, name: str, st: tuple[int, int]) -> bool:
+        e = self.idx.get(name)
+        return bool(e) and (e[0], e[1]) == st
+
+    def get(self, name: str, st: tuple[int, int]) -> bytes | None:
+        if not self.has(name, st):
+            return None
+        e = self.idx[name]
+        self.rf.seek(e[2])
+        b = self.rf.read(e[0])
+        return b if len(b) == e[0] and zlib.crc32(b) == e[3] else None
+
+    def put(self, name: str, st: tuple[int, int], b: bytes):
+        if not self.locked or len(b) != st[0]:  # rewritten between the listing and the read: not kept
+            return
+        if self.wf is None:
+            self.wf = open(self.pack, 'r+b' if self.end and self.pack.exists() else 'wb')
+            self.wf.seek(self.end)
+        self.wf.write(b)
+        self.idx[name] = (st[0], st[1], self.end, zlib.crc32(b))
+        self.end += len(b)
+        self.dirty = True
+
+    def close(self):
+        """Write the index (entries for parts still in the folder), compacting the pack once over half of it is dead."""
+        if self.rf:
+            self.rf.close()
+        if not self.locked:
+            return
+        try:
+            if self.wf:  # the pack's new bytes reach the disk before an index names them
+                self.wf.flush()
+                os.fsync(self.wf.fileno())
+                self.wf.close()
+            gone = set(self.idx) - self.listed if self.listed is not None else set()
+            for n in gone:
+                del self.idx[n]
+            if not (self.dirty or gone):
+                return
+            live = sum(e[0] for e in self.idx.values())
+            if self.end - live > max(live // 2, 256_000_000):
+                new, idx, off = Path(f'{self.pack}.new'), {}, 0
+                with open(self.pack, 'rb') as src, open(new, 'wb') as dst:
+                    for n, e in sorted(self.idx.items()):
+                        src.seek(e[2])
+                        b = src.read(e[0])
+                        if len(b) == e[0] and zlib.crc32(b) == e[3]:
+                            dst.write(b)
+                            idx[n] = (e[0], e[1], off, e[3])
+                            off += e[0]
+                    dst.flush()
+                    os.fsync(dst.fileno())
+                os.replace(new, self.pack)
+                self.idx, self.end = idx, off
+            tmp = Path(f'{self.idx_path}.{os.getpid()}.tmp')
+            with open(tmp, 'wb') as f:
+                f.write(marshal.dumps({'v': 1, 'end': self.end, 'parts': self.idx}))
+                f.flush()
+                os.fsync(f.fileno())
+            os.replace(tmp, self.idx_path)
+        except OSError:
+            pass  # only a cache: the next run reads the files again
+        finally:
+            if self.wf:
+                self.wf.close()
+            self.rf = self.wf = None
+            self.lock.unlink(missing_ok=True)
+            self.locked = False
+
+
+def _read_part(p: Path) -> bytes:
+    try:
+        return p.read_bytes()
+    except FileNotFoundError:  # renamed or removed since the listing: list the folder again
+        raise PartChanged(p.stem) from None
+
+
+def _part_bytes(parts: list[Path], stat: dict[str, tuple[int, int]], store: PartStore):
+    """(path, bytes) for each part in order: from the store when it holds the part as listed (or its entry is damaged),
+    else from the file, then kept in the store."""
+    for p in parts:
+        b = store.get(p.name, stat[p.name])
+        if b is None:
+            b = _read_part(p)
+            store.put(p.name, stat[p.name], b)
+        yield p, b
+
+
+def _expand(acts: list[dict]) -> None:
+    """build.load(): a version given as `changes` (or with no `units`) gets the full units of the version before it."""
+    for act in acts:
+        for prev, v in zip(act.get('versions', []), act.get('versions', [])[1:]):
+            if 'units' in v:
+                continue
+            units = dict(prev['units'])
+            for k, u in (v.get('changes') or {}).items():
+                if u is None:
+                    units.pop(k, None)
+                else:
+                    units[k] = u
+            v['units'] = units
+
+
+def _lean(act: dict) -> None:
+    """Replace every provision's text in the act's versions (and their `changes`) by its LeanText. A text the schema
+    would refuse (no final newline, a \\r, not a string) is kept, so validate() reports it exactly as before. One lean
+    unit per unit object, so versions keep sharing them as build.load() made them."""
+    memo: dict[int, dict] = {}
+
+    def lu(u):
+        if not isinstance(u, dict):
+            return u
+        r = memo.get(id(u))
+        if r is None:
+            t = u.get('text')
+            r = {**u, 'text': LeanText(K.blob_oid(t) + '\n')} if (
+                type(t) is str and t.endswith('\n') and '\r' not in t) else u
+            memo[id(u)] = r
+        return r
+    for v in act.get('versions', []):
+        for field in ('units', 'changes'):
+            if isinstance(v.get(field), dict):
+                v[field] = {k: lu(u) for k, u in v[field].items()}
+
+
+def _shared(o, strs: dict, done: dict):
+    """o rebuilt with one copy of each string value and key (json.loads makes new ones for every part: ~8 million
+    strings for ~1.7 million values at 100,000 parts). An object met twice (a unit shared by versions) stays shared."""
+    t = type(o)
+    if t is str:
+        return strs.setdefault(o, o)
+    if t is dict or t is list:
+        r = done.get(id(o))
+        if r is None:
+            if t is dict:
+                r = {strs.setdefault(k, k) if type(k) is str else k: _shared(v, strs, done) for k, v in o.items()}
+            else:
+                r = [_shared(v, strs, done) for v in o]
+            done[id(o)] = r
+        return r
+    return o
+
+
+def _merge_part(c: dict, name: str, stem: str, part: dict) -> None:
+    """build.load()'s merge of one part into the corpus."""
+    if not c.get('country') and part.get('country'):
+        c['country'] = part['country']
+    for key, law in part.get('laws', {}).items():
+        have = c.setdefault('laws', {}).get(key)
+        if have and have.get('label') != law.get('label'):
+            raise B.CorpusError(f'{name}: law {key!r} is {law.get("label")!r} here but {have.get("label")!r} elsewhere')
+        c['laws'].setdefault(key, law)
+    for a in part.get('acts', []):
+        a['_decisions'] = list(part.get('decisions', []))
+        a['_part'] = stem
+    for s in part.get('sources', []):
+        s['_acts'] = [a['slug'] for a in part.get('acts', [])]
+    for field in ('acts', 'sources', 'applies', 'decisions', 'ai_use'):
+        c.setdefault(field, []).extend(part.get(field, []))
+
+
+def load_corpus(folder: Path, lean: set[str], store: PartStore | None = None
+                ) -> tuple[dict, RawCorpus, dict[str, tuple[str, bytes]]]:
+    """build.load() (the same parts, in the same order, merged the same way, the same corpus digest), with the acts in
+    `lean` kept without their words. Also {part stem: (path, sha1 of the bytes read)}, for reload_parts()."""
+    store = store or PartStore(None)
+    main_path = folder / 'corpus.json'
+    stat: dict[str, tuple[int, int]] = {}
+    names: set[str] = set()
+    if (folder / 'corpus.d').exists():
+        for e in os.scandir(folder / 'corpus.d'):
+            names.add(e.name)
+            if e.name.endswith('.json') and e.is_file():
+                st = e.stat()
+                stat[e.name] = (st.st_size, st.st_mtime_ns)
+    parts = [folder / 'corpus.d' / n for n in sorted(stat)]
+    if os.environ.get('GITLAW_VERIFIED_PARTS_ONLY') == '1':
+        parts = [p for p in parts if f'{p.stem}.PUBLISH' in names]
+    held = {s.strip() for s in os.environ.get('GITLAW_EXCLUDE_PARTS', '').split(',') if s.strip()}
+    parts = [p for p in parts if p.stem not in held]
+    only = os.environ.get('GITLAW_ONLY_PARTS')
+    if only:
+        keep = set(Path(only).read_text(encoding='utf-8').split())
+        parts = [p for p in parts if p.stem in keep]
+    if not main_path.exists() and not parts:
+        raise B.CorpusError(f'{folder} has no corpus.json')
+    head = main_path.read_bytes() if main_path.exists() else b''
+    c = json.loads(head.decode('utf-8')) if head else {}
+    raw = RawCorpus()
+    raw.add(head)
+    _expand(c.get('acts', []))
+    for a in c.get('acts', []):
+        if a.get('slug') in lean:
+            _lean(a)
+    strs: dict[str, str] = {}
+    c = _shared(c, strs, {})
+    read: dict[str, tuple[str, bytes]] = {}
+    store.listed = set(stat)  # what close() keeps entries for
+    for p, b in _part_bytes(parts, stat, store):
+        raw.add(b'\n' + p.name.encode() + b'\n')
+        raw.add(b)
+        read[p.stem] = (str(p), hashlib.sha1(b).digest())
+        part = json.loads(b.decode('utf-8'))
+        del b
+        _expand(part.get('acts', []))
+        for a in part.get('acts', []):
+            if a.get('slug') in lean:
+                _lean(a)
+        _merge_part(c, p.name, p.stem, _shared(part, strs, {}))
+    return c, raw, read
+
+
+def reload_parts(c: dict, slugs: set[str], read: dict[str, tuple[str, bytes]]) -> None:
+    """Give the acts in `slugs` (read without their words) their full versions, from their parts read again; a part
+    whose bytes changed since load_corpus() read it raises PartChanged."""
+    stems = sorted({a['_part'] for a in c['acts'] if a['slug'] in slugs})
+    full: dict[str, list] = {}
+    for stem in stems:
+        p, digest = read[stem]
+        b = _read_part(Path(p))
+        if hashlib.sha1(b).digest() != digest:
+            raise PartChanged(stem)
+        acts = json.loads(b.decode('utf-8')).get('acts', [])
+        _expand(acts)
+        full.update({a['slug']: a['versions'] for a in acts if a.get('slug') in slugs})
+    for a in c['acts']:
+        if a['slug'] in slugs:
+            a['versions'] = full[a['slug']]  # the same part bytes: every other field is as loaded
+
+
+def needs_words(act: dict, last: str | None, docs_date: str) -> bool:
+    """Whether to_append() takes any version of the act: new on main, or a version after its newest one there."""
+    vs = [v for v in act['versions'] if v['from'] <= docs_date]
+    return bool(vs) if last is None else any(v['from'] > last for v in vs)
+
+
+def commits_by_act(repo: Path, branch: str, dirs: dict[str, list[str]]) -> dict[str, list[tuple[str, str]]]:
+    """check_repo.all_commits_by_act(), reading git's output as it comes instead of holding all of it (the whole
+    history's file names, hundreds of MB) at once. Same records, parsed the same way."""
+    want = {d: a for a, ds in dirs.items() for d in ds}
+    rows: dict[str, list[tuple[str, str]]] = {a: [] for a in dirs}
+
+    def take(rec: str):
+        head, _, names = rec.partition('\n')
+        h, _, d = head.partition('\t')
+        d = d.strip()
+        if not d:
+            return
+        hit = set()
+        for name in names.splitlines():
+            parts = name.split('/')
+            for i in range(1, len(parts) + 1):
+                p = '/'.join(parts[:i])
+                if p in want:
+                    hit.add(want[p])
+        for a in hit:
+            rows[a].append((h, d))
+    p = subprocess.Popen(['git', 'log', '--no-merges', '--no-renames', '--name-only',
+                          '--format=%x00%H%x09%(trailers:key=In-force,valueonly,separator=)', branch], cwd=repo,
+                         stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, encoding='utf-8')
+    buf: list[str] = []
+    started = False
+    for line in p.stdout:
+        while '\x00' in line:  # a record starts after each NUL
+            before, _, line = line.partition('\x00')
+            buf.append(before)
+            if started:
+                take(''.join(buf))
+            started, buf = True, []
+        buf.append(line)
+    if started:
+        take(''.join(buf))
+    err = p.stderr.read()
+    if p.wait():
+        raise subprocess.CalledProcessError(p.returncode, p.args, None, err)
+    return rows
+
+
+class NotesCache:
+    """build.public_note()'s cache (build.PartCache.current answers it), kept small in a file of its own,
+    <prefix>-notes.marshal: build.PartCache keeps every note and its result beside every part's bytes (~2 GB, which
+    append no longer reads), ~0.7 GB in memory at ~700,000 notes. Here a note is known by a 16-byte digest of its key;
+    most notes publish unchanged and keep only that digest, the rest their published text. Reused only by the same
+    build.py (build.CODE), like build.PartCache's notes."""
+
+    def __init__(self, path: Path | None):
+        self.path = path
+        self.same: set[bytes] = set()
+        self.changed: dict[bytes, str] = {}
+        self.used: set[bytes] = set()
+        self.dirty = False
+        try:
+            d = marshal.loads(path.read_bytes()) if path else None
+            if isinstance(d, dict) and d.get('v') == 2 and d.get('code') == B.CODE:
+                self.same, self.changed = set(d['same']), dict(d['changed'])
+        except (OSError, ValueError, EOFError, TypeError, KeyError):
+            pass
+
+    @staticmethod
+    def digest(key) -> bytes:
+        s, keep = key
+        h = hashlib.blake2b(s.encode('utf-8', 'surrogatepass'), digest_size=16)
+        for k in sorted(keep):
+            h.update(b'\0' + k.encode('utf-8', 'surrogatepass'))
+        return h.digest()
+
+    def note(self, key, make):
+        d = self.digest(key)
+        self.used.add(d)
+        if d in self.same:
+            return key[0]
+        r = self.changed.get(d)
+        if r is None:
+            r = make()
+            if r == key[0]:
+                self.same.add(d)
+            else:
+                self.changed[d] = r
+            self.dirty = True
+        return r
+
+    def save(self):
+        """Write the cache when it gained notes: those used, when the documentation was made (it uses every note still
+        current), else all. Atomic; a failure only costs recomputing them later."""
+        if not self.path or not self.dirty:
+            return
+        same, changed = self.same, self.changed
+        if self.used:
+            same = same & self.used
+            changed = {d: r for d, r in changed.items() if d in self.used}
+        tmp = self.path.with_name(f'{self.path.name}.{os.getpid()}.tmp')
+        try:
+            tmp.write_bytes(marshal.dumps({'v': 2, 'code': B.CODE, 'same': same, 'changed': changed}))
+            os.replace(tmp, self.path)
+        except OSError:
+            pass
+        self.dirty = False
+
+
+def open_notes_cache(folder: Path) -> NotesCache:
+    prefix = cache_prefix(folder)
+    nc = NotesCache(Path(f'{prefix}-notes.marshal') if prefix else None)
+    B.PartCache.current = nc  # build.public_note() asks PartCache.current.note()
+    return nc
+
+
+def published_state(repo: Path, c: dict, trusted: set[str] | None = None) -> tuple[dict[str, str], dict[str, tuple[str, list[str]]], dict, dict]:
     """{act slug: newest In-force day on main} for every act main holds, and the acts whose published text differs
     from the corpus on some day main covers: {slug: (first such day, messages)}. Also the per-act commit rows and
     folders, for a correction."""
     # Each act's folder now (assigned from data/paths.json or its official identifier, so an act missing from
     # paths.json is still found), then its folder before the layout move.
     dirs = {a['slug']: list(dict.fromkeys([a.get('path') or a['slug'], a['slug']])) for a in c['acts']}
-    rows = K.all_commits_by_act(repo, 'main', dirs)
+    rows = commits_by_act(repo, 'main', dirs)
     cat = K.Cat(repo)
     trees: dict = {}
     state = {}
@@ -62,13 +506,7 @@ def published_state(repo: Path, c: dict) -> tuple[dict[str, str], dict[str, tupl
             problems[act['slug']] = (act['versions'][0]['from'], [
                 f'{act["slug"]}: its folder {act["path"]} is on main but no commit with In-force touches it '
                 '(an index lost the act?); not appended as new'])
-    # Acts whose part file is unchanged since the last verified publish (listed by the caller) need no re-reading:
-    # main only grows, so their published text can't have moved. Everything else is read back in full.
-    trusted_path = os.environ.get('GITLAW_TRUSTED_ACTS')
-    trusted = set(Path(trusted_path).read_text(encoding='utf-8').split()) if trusted_path and Path(trusted_path).exists() else set()
-    # An act listed for correction is always read back: trust from a stale record would skip the very difference the
-    # correction is for (codul-procedura-civila-1865, 2026-11-02).
-    trusted -= set(approved_corrections())
+    trusted = trusted_acts() if trusted is None else trusted
     try:
         for act in c['acts']:
             r = rows[act['slug']]
@@ -96,6 +534,16 @@ def published_state(repo: Path, c: dict) -> tuple[dict[str, str], dict[str, tupl
     finally:
         cat.close()
     return state, problems, rows, dirs
+
+
+def trusted_acts() -> set[str]:
+    """Acts whose part file is unchanged since the last verified publish (listed by the caller) need no re-reading:
+    main only grows, so their published text can't have moved. Everything else is read back in full. An act listed for
+    correction is always read back: trust from a stale record would skip the very difference the correction is for
+    (codul-procedura-civila-1865, 2026-11-02)."""
+    trusted_path = os.environ.get('GITLAW_TRUSTED_ACTS')
+    trusted = set(Path(trusted_path).read_text(encoding='utf-8').split()) if trusted_path and Path(trusted_path).exists() else set()
+    return trusted - set(approved_corrections())
 
 
 def in_force_on(act: dict, day: str) -> dict | None:
@@ -410,6 +858,48 @@ def acts_index(c: dict) -> str:
     return '\n'.join(out)
 
 
+class Stored:
+    """A file whose content Appender.blob() already sent: the commit names it by mark."""
+    __slots__ = ('mark',)
+
+    def __init__(self, mark: int):
+        self.mark = mark
+
+
+class Counted:
+    """A version's provisions after the documentation tables are made: only how many there are (layout.status asks
+    whether there are any). Reading a provision from it fails loudly."""
+    __slots__ = ('n',)
+
+    def __init__(self, n: int):
+        self.n = n
+
+    def __len__(self):
+        return self.n
+
+
+def drop_words(acts: list[dict]) -> None:
+    """Once the documentation tables are made: every version reduced to its day and its number of provisions
+    (Counted), all the indexes read of it."""
+    for a in acts:
+        if 'versions' in a:
+            a['versions'] = [{'from': v['from'], **({'units': Counted(len(v['units']))} if 'units' in v else {})}
+                             for v in a['versions']]
+        a.pop('_decisions', None)  # shown only in the README
+
+
+# Documentation files written later (split_docs, the batch log) or read again (split_indexes): kept as text.
+REWRITTEN = ('ACTS.md', 'REPRODUCE.md', 'data/acts.json', 'data/versions.json', 'data/laws.csv', 'data/paths.json',
+             'data/index.json', 'data/appends.csv')
+
+
+def stream_docs(w: 'Appender', docs: dict) -> None:
+    """Send every settled documentation file to fast-import now (Appender.blob), keeping its mark in its place."""
+    for p, text in list(docs.items()):
+        if isinstance(text, str) and p not in REWRITTEN and not p.startswith(B.SHARD_DIRS):
+            docs[p] = w.blob(text)
+
+
 class Appender:
     """`git fast-import` onto an existing main; separate author and committer dates."""
 
@@ -440,11 +930,20 @@ class Appender:
         for path in sorted(files):
             if files[path] is None:
                 self._w(f'D {path}\n'.encode('utf-8'))
+            elif isinstance(files[path], Stored):
+                self._w(f'M 100644 :{files[path].mark} {path}\n'.encode('utf-8'))
             else:
                 self._w(f'M 100644 inline {path}\n'.encode('utf-8'))
                 self._data(files[path])
         self.parent = self.mark
         return self.mark
+
+    def blob(self, text: str) -> 'Stored':
+        """A file's content sent ahead of its commit (fast-import `blob`), so the caller can let the text go."""
+        self.mark += 1
+        self._w(f'blob\nmark :{self.mark}\n'.encode())
+        self._data(text)
+        return Stored(self.mark)
 
     def tag(self, name: str, mark: int):
         self._w(f'reset refs/tags/{name}\nfrom :{mark}\n\n'.encode('utf-8'))
@@ -458,7 +957,27 @@ class Appender:
 
 def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, committer_time: int | None = None,
            refresh_docs: bool = False) -> dict:
-    c, raw = B.load(folder)
+    nc = open_notes_cache(folder)
+    store = PartStore(cache_prefix(folder))
+    try:
+        for attempt in range(3):
+            try:
+                return _append(folder, repo, docs_date, dry_run, committer_time, refresh_docs, store)
+            except PartChanged:
+                # A trusted part was rewritten while this run read it: read everything again, as one read would have.
+                # The part is not named (the caller sets aside a part an error names).
+                if attempt == 2:
+                    raise B.CorpusError('corpus parts kept changing while append read them; try again') from None
+    finally:
+        store.close()
+        nc.save()
+
+
+def _append(folder: Path, repo: Path, docs_date: str, dry_run: bool, committer_time: int | None,
+            refresh_docs: bool, store: PartStore) -> dict:
+    # Trusted acts are read without their words (load_corpus); published_state skips them by the same set.
+    trusted = trusted_acts()
+    c, raw, part_read = load_corpus(folder, trusted, store)
     errs = B.validate(c)
     if errs:
         raise B.CorpusError('corpus has problems:\n  ' + '\n  '.join(errs[:60]))
@@ -482,7 +1001,7 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
             raise B.CorpusError(f'main {head[:12]} is not origin/main {origin[:12]}: fetch and reset to the published head first')
     head_ct, head_tz = git(repo, 'log', '-1', '--format=%ct %ci', 'main').split()[0::3]
     head_ct = int(head_ct)
-    state, problems, rows, dirs = published_state(repo, c)
+    state, problems, rows, dirs = published_state(repo, c, trusted)
     # An act whose published text differs from the corpus is corrected only when listed in GITLAW_CORRECTIONS. Any
     # other stops the run as before, or with GITLAW_HOLD_MISMATCHED=1 is left out of this append (its part is
     # reported in held_parts, for the caller to leave out of its check too) so one act can't stop every publish.
@@ -516,6 +1035,12 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
         fixes_by_act.setdefault(r['act'], []).append(r)
     for a in c['acts']:
         a['_credit_fixes'] = fixes_by_act.get(a['slug'], [])  # shown in the act's README
+    # A trusted act read without its words that this append adds or extends (a version that came due) is read in full.
+    wordless = {a['slug'] for a in c['acts'] if a['slug'] in trusted and a['slug'] not in unapproved
+                and needs_words(a, state.get(a['slug']), docs_date)}
+    if wordless:
+        reload_parts(c, wordless, part_read)
+    del part_read, trusted, rows, dirs  # not read below
     sub, based = to_append({**c, 'acts': [a for a in c['acts'] if a['slug'] not in unapproved]}, state, docs_date)
     commits = B.plan(sub) if sub['acts'] else []
     commits = [x for x in commits if not (x['kind'] == 'start' and x['act']['slug'] in based)]
@@ -614,6 +1139,18 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     for name in ('append.py', 'layout.py'):
         docs[f'tools/build/{name}'] = (HERE / name).read_text(encoding='utf-8').replace('\r\n', '\n')
     B.check_published_tools(docs)  # every published .py compiles, no tool lost its line breaks
+    # Memory (2026-11-05): the files made so far that nothing below reads or rewrites (the acts' READMEs, ~100,000 files
+    # and ~0.5 GB as text, the static docs and data, the tools) go to fast-import now, as blobs the commit names by
+    # mark. Of the corpus, the indexes below read only each act's own fields, its versions' days and how many
+    # provisions each has, how many laws there are, and the sources; of the log, only REPRODUCE.md's counts. The rest
+    # is let go before the indexes are split, the run's peak.
+    stream_docs(w, docs)
+    drop_words(c['acts'])
+    for k in c.get('laws', {}):
+        c['laws'][k] = None  # only their number is read below (REPRODUCE.md)
+    counts: dict = {}
+    full_log = [counts.setdefault((e['kind'], e['branch'], e['clamped']),
+                                  {'kind': e['kind'], 'branch': e['branch'], 'clamped': e['clamped']}) for e in full_log]
     # The indexes (ACTS.md, data/acts.json, data/versions.json, data/paths.json) list every act main holds, not only the
     # acts in this publish's corpus: a part held back for a cycle must not drop its acts from them, and only a
     # correction commit's "Withdraws: <id>" trailer marks an act withdrawn. Rows for acts not in this corpus come from
@@ -631,11 +1168,13 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
         p = f'{a.get("path") or known_paths.get(a["slug"]) or a["slug"]}/README.md'
         if p in readmes:
             docs[p] = None
-    docs['ACTS.md'] = L.acts_md(index) if known_paths else acts_index(c_pub)
+    if not known_paths:  # after the layout move, split_docs writes ACTS.md
+        docs['ACTS.md'] = acts_index(c_pub)
     docs['data/acts.json'] = L.acts_json(index)
     vj = json.loads(docs['data/versions.json'])
     vj['acts'] += [rows_for[a['slug']] for a in extra]  # kept, so the next publish still knows them
     docs['data/versions.json'] = json.dumps(vj, ensure_ascii=False, indent=1) + '\n'
+    del vj
     if known_paths:
         since = json.loads(git(repo, 'show', 'main:data/paths.json')).get('since', docs_date)
         pj = json.loads(L.paths_json(index, since))
@@ -645,6 +1184,7 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
                 pj['paths'].setdefault(s, p)
         pj['paths'] = dict(sorted(pj['paths'].items()))
         docs['data/paths.json'] = json.dumps(pj, ensure_ascii=False, indent=0) + '\n'
+        del pj
         # data/index.json: primary files plus per-kind-and-year shards (2026-11-05)
         split_docs(docs, index, repo, c_pub.get('sources', []),
                    lambda kept: B.reproduce({**c_pub, 'sources': kept}, folder, raw, full_log, all_tags, docs_date))

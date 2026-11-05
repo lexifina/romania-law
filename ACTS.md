@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12466 acts, 23,981 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12467 acts, 23,982 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8356, of which 3140 amending acts)
+## Laws (legi) (8357, of which 3141 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -586,6 +586,7 @@
 | Legea nr. 243/1998 privind aprobarea Ordonanţei Guvernului nr. 126/1998 pentru modificarea Legii nr. 12/1990 privind protejarea populaţiei împotriva unor activităţi comerciale ilicite | [`lege/1998/243/`](lege/1998/243/) | amended, not consolidated | 1 | 1998-12-18 | 1998-12-18 |
 | Legea nr. 245/1998 pentru aprobarea Ordonanţei Guvernului nr. 22/1996 privind actualizarea şi completarea regimului general al contabilităţii | [`lege/1998/245/`](lege/1998/245/) | amended, not consolidated | 1 | 1998-12-22 | 1998-12-22 |
 | Legea nr. 246/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 85/1997 privind impunerea veniturilor realizate de persoanele fizice | [`lege/1998/246/`](lege/1998/246/) | amended, not consolidated | 1 | 1998-12-22 | 1998-12-22 |
+| Legea nr. 247/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 22/1998 privind instituirea, cu caracter temporar, a unei suprataxe vamale la importul de bunuri | [`lege/1998/247/`](lege/1998/247/) | amending act | 1 | 1998-12-22 | 1998-12-22 |
 | Legea nr. 248/1998 pentru aprobarea Ordonanţei Guvernului nr. 18/1996 privind angajarea de împrumuturi guvernamentale prin emisiunea de obligaţiuni de stat în valută de pe piaţa internă | [`lege/1998/248/`](lege/1998/248/) | amended, not consolidated | 1 | 1998-12-30 | 1998-12-30 |
 | Legea nr. 249/1998 privind aprobarea Ordonanţei Guvernului nr. 40/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 70/1994 privind impozitul pe profit | [`lege/1998/249/`](lege/1998/249/) | amended, not consolidated | 1 | 1999-01-01 | 1999-01-01 |
 | Legea nr. 252/1998 pentru aprobarea Ordonanţei Guvernului nr. 26/1998 privind activitatea de confecţionare a plăcilor cu numere de înmatriculare pentru vehicule rutiere, în atelierele Inspectoratului General al Poliţiei | [`lege/1998/252/`](lege/1998/252/) | amended, not consolidated | 1 | 1998-12-30 | 1998-12-30 |
@@ -12532,7 +12533,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28551 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28579 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
