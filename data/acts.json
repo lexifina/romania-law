@@ -10355,6 +10355,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/18457"
 },
 {
+"slug": "legea-111-1999",
+"path": "lege/1999/111",
+"kind": "lege",
+"year": "1999",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 111/1999 pentru ratificarea Acordului de cooperare dintre Guvernul României şi Guvernul Statelor Unite ale Americii privind aplicaţiile paşnice ale energiei nucleare, semnat la Washington la 15 iulie 1998",
+"short": "Legea nr. 111/1999",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1999-06-25",
+"latest": "1999-06-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/18607"
+},
+{
 "slug": "legea-113-1999",
 "path": "lege/1999/113",
 "kind": "lege",

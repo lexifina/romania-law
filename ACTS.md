@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12444 acts, 23,959 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12445 acts, 23,960 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8342, of which 3133 amending acts)
+## Laws (legi) (8343, of which 3133 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -645,6 +645,7 @@
 | Legea nr. 107/1999 pentru aprobarea Ordonanţei Guvernului nr. 81/1998 privind unele măsuri pentru ameliorarea prin împădurire a terenurilor degradate | [`lege/1999/107/`](lege/1999/107/) | amended, not consolidated | 1 | 1999-06-29 | 1999-06-29 |
 | Legea nr. 109/1999 pentru aprobarea Ordonanţei Guvernului nr. 103/1998 privind modificarea structurii normei didactice în învăţământul preuniversitar | [`lege/1999/109/`](lege/1999/109/) | amended, not consolidated | 1 | 1999-06-18 | 1999-06-18 |
 | Legea nr. 110/1999 pentru aprobarea Ordonanţei Guvernului nr. 24/1998 privind aprobarea plafonului de îndatorare publică externa a României pentru anul 1998 | [`lege/1999/110/`](lege/1999/110/) | amended, not consolidated | 1 | 1999-06-18 | 1999-06-18 |
+| Legea nr. 111/1999 pentru ratificarea Acordului de cooperare dintre Guvernul României şi Guvernul Statelor Unite ale Americii privind aplicaţiile paşnice ale energiei nucleare, semnat la Washington la 15 iulie 1998 | [`lege/1999/111/`](lege/1999/111/) | in force | 1 | 1999-06-25 | 1999-06-25 |
 | Legea nr. 113/1999 privind aprobarea Ordonanţei Guvernului nr. 24/1999 pentru ratificarea Memorandumului de finanţare privind Programul Naţional PHARE 1998, semnat la Bruxelles la 20 octombrie 1998 | [`lege/1999/113/`](lege/1999/113/) | amended, not consolidated | 1 | 1999-06-25 | 1999-06-25 |
 | Legea nr. 114/1999 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 25/1999 pentru modificarea art. 15 din Legea nr. 44/1994 privind veteranii de război, precum şi unele drepturi ale invalizilor şi văduvelor de război | [`lege/1999/114/`](lege/1999/114/) | amended, not consolidated | 1 | 1999-06-25 | 1999-06-25 |
 | Legea nr. 115/1999 | [`lege/1999/115/`](lege/1999/115/) | in force | 11 | 1999-07-28 | 2014-02-01 |
@@ -12510,7 +12511,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28283 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28329 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
