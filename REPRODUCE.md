@@ -12825,21 +12825,21 @@ Every word of law in this repository comes from these sources and, for the acts 
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 143827 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 157589 | |
+| 144877 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 158639 | |
 
-The build made 163553 commits:
+The build made 164603 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 143902 | first version of an act |
+| 144952 | first version of an act |
 | 13809 | one law on its in-force day |
 | 3682 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-05.
 - 80 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 145912 laws in the record.
-- 327760 tags.
+- 146962 laws in the record.
+- 329860 tags.
 
 ## Dates
 
@@ -12851,7 +12851,7 @@ When a law gives no date of its own, the default rule applies: Constituția Rom�
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `894b3da25e51d58bae877435efb865c045a03696e482d7409bf9b4c1af6479e4` (2126826000 bytes).
+- Corpus: sha256 `a622120e389ace6f1ba367e1ca36eb15d01d03d00767503ac4aa570916f613ce` (2180513516 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `c69a2ae7eeab55fd42b52cd695f9866002721124`, `check.py` `34526b6ce31ecf076b78e7067a22aec49194ac74`, `on.py` `267f054872f375839ad33c914e6c0d5faf27656b`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -12863,7 +12863,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (559267 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (560579 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -148641,6 +148641,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 100/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 100/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32021R0100: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/100: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/100: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1000/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -148676,6 +148677,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2022/1008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1009/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 101/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 101/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 101/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -148733,6 +148735,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1019/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1019/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1019/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1019: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1019: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 102/76: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 102/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -148742,17 +148745,20 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1020/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1020/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1020: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1020: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1020: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1021/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1021/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1021/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1021: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1021: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1022/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1022/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1022/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1022/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1022: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1022: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1022: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1022: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32009R1023: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1023/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -148762,6 +148768,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1024/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1024/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1024/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1024: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1025/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1025/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1025/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -148769,10 +148776,12 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1025/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1026/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1026/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1026: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1026: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1027/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1027/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1027/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1027: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1027: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1028/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1028/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -148802,6 +148811,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1033/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1033: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1033: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1033: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1034: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1034: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1035/92: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -148815,6 +148825,7 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/1036: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1037: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1037: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1037: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1037: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1038/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1038/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -148825,6 +148836,7 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 104/91: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 104/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/104: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2026/104: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1040/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1040/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1040/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -148833,6 +148845,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2015/1040: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1040: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1040: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1040: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1041/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1041/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1041/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -148841,28 +148854,35 @@ Model use at data-build time:
 - Regulamentul (UE) 2020/1041: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1041: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R1041: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1041: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1042/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R1042: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1042: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1042: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1042: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1042: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1043/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1043: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1043: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1043: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1044: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1044: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1044: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1045: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1045: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1045: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1046/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R1046: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1046: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1046: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1047/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32013R1047: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1047: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1047: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1047: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1048/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R1048: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1048: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1048: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1049/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1049/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -148876,30 +148896,39 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1050/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1050/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1050/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1050: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1051/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1051: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1051: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1052/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1052: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R1052: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1052: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1052: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1053/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1053: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1054/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1054/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1054/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1054: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1054: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1055/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1055: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1055: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1055: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1056/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1056/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1056/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1056: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1056: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1056: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1057/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1057: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1057: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1058/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1058: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1058: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1058: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1059/88: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1059/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1059/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -148914,6 +148943,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2021/1060: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R1060: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1061: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1061: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1061: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1062/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R1062: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -148922,6 +148952,7 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/1063: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1064/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1064/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1064: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1065/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1065/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1065/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -148944,6 +148975,7 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32020R1068: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1068: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1068: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1068: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1068: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1068: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1069/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -148956,18 +148988,22 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1070/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1070/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1070: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1070: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1071/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1071/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1071/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1071: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1072/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1072/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R1072: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1072: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1073/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1073: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1073: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1074/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1075/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R1075: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1075: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1076/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R1076: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1076: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -148980,11 +149016,13 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32014R1078: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1078: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1078: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1078: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1078: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 108/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 108/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/108: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) nr. 1080/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1080: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1081/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1081/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R1081: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -148994,6 +149032,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1082/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1082/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R1082: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1082: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1083/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1083/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32013R1083: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149003,6 +149042,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1084/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1084: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R1084: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1084: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1085: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R1085: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1085: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149010,9 +149050,12 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1086/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1086/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1086/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1086: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1086: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1087/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1087/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1087: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1087: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1088/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1088/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1088/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149028,18 +149071,22 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 109/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 109/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/109: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/109: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0109: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1090: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1090: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R1091: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1091: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1091: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1091: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1092/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1092/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1092: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1092: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1092: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1093/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1093/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1093: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1094/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R1094: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1094: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149102,7 +149149,9 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1104/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1104: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1104: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1104: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1105/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1105: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1106/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1106: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1106: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149122,12 +149171,16 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 111/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 111/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/111: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/111: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/111: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1110/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1110: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1110: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1110: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1111/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1111: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1111: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1111: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1112/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1112: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1113: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149140,6 +149193,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1116/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1116: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1116: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1116: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1116: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1117: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1117: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149160,6 +149214,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 112/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 112/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/112: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/112: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1120: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1120: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1121/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149196,6 +149251,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1128/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1128: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1128: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1128: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1129/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1129: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 113/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149229,11 +149285,13 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1137/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1137/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1137/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1137: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1138/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1138/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1138/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1138/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1138: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1138: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1139/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1139/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1139/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149242,12 +149300,14 @@ Model use at data-build time:
 - Regulamentul (UE) 2016/1139: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1139: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1139: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1139: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1139: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 114/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 114/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32013R0114: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/114: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0114: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/114: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/114: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1140/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1140/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149274,6 +149334,7 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32025R1143: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1144/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1144/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1144: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1144: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1145/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1145/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149302,6 +149363,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2020/1149: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1149: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1149: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1149: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 115/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 115/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 115/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149324,6 +149386,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1152/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R1152: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1152: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1152: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1153/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1153/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1153: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149332,6 +149395,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1154/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1154: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1154: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1154: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1154: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1155/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1155/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149347,6 +149411,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1157/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1157/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1157: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1157: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1158/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1158: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1158: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149364,15 +149429,18 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1160/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1160/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1160: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1160: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1160: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1161/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1161/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1161/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1161/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1161: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1161: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1162/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1162/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1162: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1162: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1163/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1163/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1163/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149396,6 +149464,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1166/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1166/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R1166: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1166: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1166: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1167/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1167/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149408,13 +149477,16 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 117/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 117/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R0117: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/117: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0117: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1170/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1170/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1170/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1170: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1171/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1171/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R1171: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1171: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1171: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1171: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1172/85: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149438,6 +149510,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2019/1176: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1176: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1176: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1176: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1177/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1177/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1177/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149450,12 +149523,14 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1178/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R1178: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1178: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1178: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1178: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1179/94: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1179/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1179/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1179/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1179: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1179: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 118/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 118/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 118/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149481,11 +149556,13 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32017R1182: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1182: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1182: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1182: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1183/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1183/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1183/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R1183: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1183: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1183: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1183: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1184/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1184/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149495,8 +149572,10 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1185/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1185: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1185: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1185: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1186/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R1186: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1186: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1186: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1187/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1187/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149504,10 +149583,12 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32014R1187: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R1187: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R1188: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1188: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1188: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1189/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1189: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1189: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1189: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1189: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 119/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 119/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149515,6 +149596,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 119/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 119/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0119: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/119: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/119: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1190/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1190/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149523,6 +149605,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2015/1190: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1190: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1190: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1190: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1190: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1191: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1191: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149531,17 +149614,23 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1192/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) 2016/1192: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1192: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1192: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1192: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1193/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1193/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1193: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1193: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1193: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1194: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1195/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1195: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1195: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1196/86: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1196/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1196/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1196/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1196: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1196: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1196: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31998R1197: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1197/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149552,16 +149641,19 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1198/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R1198: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1198: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1198: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1199/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1199/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1199: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1199: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1199: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32023R1199: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1199: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/12: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 120/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 120/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/120: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/120: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1200/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1200/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1200: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149575,10 +149667,12 @@ Model use at data-build time:
 - Regulamentul (UE) 2017/1201: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1201: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1202: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1202: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1203/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1203: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1203: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1203: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1203: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1203: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1204/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1204/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149590,9 +149684,11 @@ Model use at data-build time:
 - Regulamentul (UE) 2024/1205: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1206/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1206/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1206: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1206: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1207/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1207: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1207: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1207: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1208/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1208: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149633,27 +149729,32 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1216/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1216/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1216/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1216: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1216: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1217/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1217/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1217/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1217/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1217: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1218/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1218/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1219/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1219/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1219: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1219: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1219: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 122/94: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 122/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0122: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1220/84: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1220/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1220: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1220: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1221/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1221/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1221: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R1221: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1221: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1221: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1221: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R1222: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149661,6 +149762,7 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32025R1222: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1223/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1223/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1223: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1224/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1224/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1224/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149682,6 +149784,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1227/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1227/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R1227: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1227: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1227: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1228/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1228/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149689,6 +149792,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1228/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1228/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R1228: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1228: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1228: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1229/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1229/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149761,10 +149865,12 @@ Model use at data-build time:
 - Regulamentul (UE) 2019/1241: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32009R1242: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1242: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1242: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1243/84: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1243/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1243: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1243: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1243: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1243: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1244/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1244/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149775,6 +149881,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1245/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1245: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1245: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1245: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1246: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1247/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1247/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149782,12 +149889,16 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1248/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1248/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1248/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1248: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1248: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1249/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1249: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1249: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1249: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 125/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/125: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0125: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/125: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1250/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1250/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1250: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149809,6 +149920,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1254/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R1254: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1254: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1254: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1255/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R1255: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1255: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149850,6 +149962,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1260/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1260/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R1260: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1260: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1261/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1261/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1261/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149875,12 +149988,15 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32025R1265: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1266/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1266: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1267: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1267: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1268/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1268/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1268: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1268: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1268: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1269: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1269: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1269: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 127/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R0127: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149888,16 +150004,20 @@ Model use at data-build time:
 - Regulamentul (UE) 2019/127: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0127: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/127: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/127: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1270/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1270/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1270: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1270: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1271: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1271: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1271: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1271: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1272/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1272/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1272/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1272: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1272: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1272: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1273: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1273: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149916,6 +150036,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2025/1276: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1276: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1277/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1277: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1278/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1278: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1278: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149926,10 +150047,14 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32020R0128: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/128: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1280: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1280: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1280: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R1281: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1281: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1281: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1282/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1282: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1282: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1282: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1283/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1283/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149946,7 +150071,11 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 1288/91: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1288/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R1288: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1288: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1288: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1288: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1289: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1289: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 129/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 129/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/129: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -149965,6 +150094,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1291/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R1291: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R1291: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1291: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1291: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1292/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R1292: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150031,7 +150161,9 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1309/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1309: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1309: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1309: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 131/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/131: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0131: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1310/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1310/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150040,6 +150172,7 @@ Model use at data-build time:
 - Regulamentul (UE, Euratom) nr. 1311/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1311/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1311: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1311: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1311: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1311: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1312/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150052,6 +150185,7 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 1315/88: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1315: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1315: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1316: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1317/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1317: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1317: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150059,11 +150193,14 @@ Model use at data-build time:
 - Regulamentul (UE) 2024/1318: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1319/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1319/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1319: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 132/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/132: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/132: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0132: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1320/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1320/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1320: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1321/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1321: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1321: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150071,9 +150208,11 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1322/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R1322: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1322: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1322: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE, Euratom) nr. 1323/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32014R1323: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1323: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1323: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1323: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1324/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE, Euratom) nr. 1324/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150081,6 +150220,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2023/1324: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1325/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1325: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1325: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1325: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1326/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1326/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150089,11 +150229,13 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2025/1327: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1328: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1328: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1328: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1329: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1329: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1329: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 133/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 133/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/133: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0133: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1330/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1330: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150109,10 +150251,12 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1333/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1333/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1333: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1333: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1334/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1334/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1334/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1334: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1334: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1335/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1335: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1336/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150129,6 +150273,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1338/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1338: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1338: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1338: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1339/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1339/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1339: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150142,23 +150287,28 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32026R0134: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1340/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1340: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1340: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1341: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1342/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R1342: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R1342: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1342: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1342: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1342: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1342: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1343: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1343: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1344: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1344: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1345/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1345/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1345: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1346: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1347/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1347/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1347: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1347: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1347: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1348/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1348: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1348: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150168,6 +150318,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 135/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32017R0135: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/135: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/135: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0135: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1350/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1350/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150211,6 +150362,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2024/1359: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1359: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 136/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/136: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0136: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1360/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 1360/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150270,6 +150422,7 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 1381/80: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1381: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1381: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1381: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1383: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1383: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1384: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150304,7 +150457,11 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 1390/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1390: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1390: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1390: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1390: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1391: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1391: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1392: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1392: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1393/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1393: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150316,6 +150473,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2026/1395: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1396: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1396: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1396: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1397/68: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R1397: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1397: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150344,6 +150502,7 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2025/1400: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R1401: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R1401: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1401: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1402/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1402/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1402: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150403,10 +150562,12 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32024R1417: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1417: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1418/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1418: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1418: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1419/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1419: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1419: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1419: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 142/75: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 142/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 142/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150414,6 +150575,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 142/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 142/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 142/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/142: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/142: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1420/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1420: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150443,6 +150605,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 143/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 143/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/143: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/143: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1430/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1430: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1431/93: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150462,8 +150625,11 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1435/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1435: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1435: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1435: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1436/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1436: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1437/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1437: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1438: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1438: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1439/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150483,12 +150649,14 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1442/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1442: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R1443: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1444: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1445/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1445/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1445: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1446/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1446/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1447: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1447: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1448: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1448: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1449: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150499,10 +150667,13 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1450/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R1450: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R1450: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1450: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1451/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1451: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1451: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1452/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1453: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1454: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R1455: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1455: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1455: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150511,11 +150682,13 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32021R1456: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1456: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1457/83: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1457: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1457: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1458/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1458/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1459/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1459/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1459: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 146/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/146: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0146: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150540,10 +150713,13 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1467/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R1467: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1467: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1467: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1468/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1468: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1468: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1469/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1469: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1469: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 147/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 147/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 147/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150552,6 +150728,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2023/147: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/147: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/147: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1470: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1470: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1471/70: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1471/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150563,11 +150740,15 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1474/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1474: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1474: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1474: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1474: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1475/80: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1475/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1475: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R1475: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1475: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1475: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1476: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1477: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1477: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32000R1478: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150580,6 +150761,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 148/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0148: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/148: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/148: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/148: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1480/83: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1480/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150601,11 +150783,13 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 1486/93: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1486/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1486/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1486: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1487: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1488/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1488/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1488/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1489/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1489: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32007R0149: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 149/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32013R0149: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150615,11 +150799,15 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1490/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1490/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1490: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1490: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1491/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1491/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1491: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1491: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1492/81: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1492/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1492/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1492: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (Euratom) nr. 1493/93: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1493: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1494/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150637,9 +150825,11 @@ Model use at data-build time:
 - Regulamentul CELEX 32011R0150: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32013R0150: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0150: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/150: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/150: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1500/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1500/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1500: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1501/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1501: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1502/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150651,18 +150841,23 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32024R1504: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1505: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R1505: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1505: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1506/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1506: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R1506: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1506: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R1507: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1507: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1508/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1508/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1508: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1508: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1509/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1509/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1509: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1509: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32013R0151: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/151: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1510/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1510: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1510: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150671,6 +150866,7 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/1512: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1513/76: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1513: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1513: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1513: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1514: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1514: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150681,9 +150877,12 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 1516/74: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R1516: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1516: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1516: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1517: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1518/76: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1518/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R1518: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1518: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1519/76: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1519/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R1519: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150699,22 +150898,28 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 1520/76: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1520/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1520: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1522: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1523/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1523: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1525: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1526/76: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1526: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1526: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1527: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1527: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1528: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R1528: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1528: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1529: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1529: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 153/74: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 153/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32013R0153: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 153/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/153: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1530: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1530: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1530: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1531/82: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1531/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1531: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150734,14 +150939,17 @@ Model use at data-build time:
 - Regulamentul (UE) 2023/1536: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1536: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1536: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1537: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R1538: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1538: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1538: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1539/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1539: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 154/74: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 154/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32013R0154: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/154: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/154: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/154: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1540: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1541: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150751,6 +150959,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2018/1542: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1542: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1542: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1542: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1543: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1543: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1543: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150758,6 +150967,7 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 1544/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31973R1545: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1545: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1545: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1546: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1547/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1547: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150778,6 +150988,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2023/155: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/155: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R1550: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1550: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1550: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1551/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R1551: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150801,6 +151012,7 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32015R1558: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1559/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1559: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1559: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 156/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/156: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/156: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150815,6 +151027,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2017/1563: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1564/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1564: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1564: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1565/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1565: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1565: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150824,6 +151037,7 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2025/1566: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1566: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1567: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1568: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32007R1569: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R1569: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1569: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150831,11 +151045,15 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2025/1569: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0157: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0157: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/157: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/157: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1570/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1570: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1570: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1570: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1571/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1571: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1572: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1573: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1574/93: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1575/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150868,6 +151086,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 159/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 159/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/159: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/159: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/159: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1590: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1591/84: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150891,8 +151110,11 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2025/160: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/160: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1601: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1601: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1602/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R1602: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1602: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1604: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1605: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1606/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1606/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150901,6 +151123,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2015/1608: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R1608: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1608: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1608: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1609/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1609: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 161/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150912,6 +151135,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2024/1610: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1611/93: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R1611: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1611: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R1612: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R1613: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R1614: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150919,6 +151143,7 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32023R1615: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1616: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1616: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1617: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1618/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R1618: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R1619: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150949,6 +151174,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 163/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/163: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R0163: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/163: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/163: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1633: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1634: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150963,6 +151189,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1639/94: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1639/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R1639: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/164: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/164: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R1640: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1640: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -150999,6 +151226,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2024/1652: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1653/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1653/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1653: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1655/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1656: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1659/77: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151012,17 +151240,21 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 1661/80: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1661/85: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1661/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1661: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1662/77: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1662/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1662/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1662: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1663/77: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1663/94: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1664/77: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1664/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1664: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1665/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R1666: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1666: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R1666: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1666: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1667/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1667/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R1667: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151033,13 +151265,16 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 167/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/167: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0167: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/167: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/167: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1670: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1671: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R1671: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1672: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R1673: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1673: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1674: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1674: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R1675: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1675: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1676/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151057,6 +151292,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 168/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 168/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/168: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/168: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/168: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1680/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R1681: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151069,6 +151305,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2024/1683: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1684: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1685/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1685: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1686/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1686: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1686: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151091,6 +151328,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2020/1693: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1694/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1694: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1694: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1696: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1696: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1697: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151121,6 +151359,9 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32024R1705: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1706: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R1706: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1706: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1707: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1707: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1708: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1709/74: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 171/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151131,23 +151372,31 @@ Model use at data-build time:
 - Regulamentul (UE) 2020/171: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/171: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1710: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1710: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1710: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1711: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1711: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1712/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R1712: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1712: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1713/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1713: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1714/88: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1714/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1714: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1714: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1715/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1716: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1716: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1717: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1717: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1717: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1717: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1718/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1718: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1718: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1718: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1718: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1719: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1719: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1719: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151159,20 +151408,29 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32018R0172: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/172: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1720: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1720: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1720: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1720: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1721: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1721: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1722: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1723/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1723: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1723: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1724/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1724: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1724: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1724: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1724: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1725: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1725: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1725: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1726/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1726: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1726: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1726: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1727: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1727: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1727: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1728/74: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1728/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151180,10 +151438,12 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32024R1728: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1728: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1729/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1729: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 173/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 173/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0173: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/173: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/173: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/173: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1730: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1730: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151191,8 +151451,10 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/1731: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1732: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1732: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1732: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1733/94: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1733: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1734: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1734: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1735/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1735: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151203,6 +151465,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1737/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1737/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1737: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1737: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1737: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1738/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1738/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151210,6 +151473,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1739/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1739: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1739: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1739: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1739: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 174/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 174/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151217,18 +151481,24 @@ Model use at data-build time:
 - Regulamentul (UE) 2018/174: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0174: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1740/78: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1740: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1740: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1742/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1743: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1743: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1744/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1744/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1744: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1745: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1746: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1747/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1747: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1747: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1748/85: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1748: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1748: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE, Euratom) nr. 1749/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1749: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1749: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1749: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 175/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151237,23 +151507,29 @@ Model use at data-build time:
 - Regulamentul (UE) 2026/175: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE, Euratom) nr. 1750/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1750: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1750: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1751: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1751: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1751: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2016/1752: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1752: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1752: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1753/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1753: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1753: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1753: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1753: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1754/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1755: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R1755: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1755: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1755: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1755: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1756/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1756: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1756: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1756: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1757: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1757: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1758/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1758: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151279,11 +151555,13 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1766/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1766: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1767: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1767: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1768/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1768: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1768: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1768: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1768: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1769: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/177: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0177: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1770: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151292,6 +151570,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2021/1771: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R1771: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R1772: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1772: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1772: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R1773: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1774: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151302,6 +151581,8 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 1776/92: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1776: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1776: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1776: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1776: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1777: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1777: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1777: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151315,6 +151596,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 178/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0178: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/178: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/178: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/178: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1780/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R1780: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151325,13 +151607,16 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1782/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1782: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1782: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1782: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1782: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1783: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1783: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1783: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1783: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1783: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1784: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1784: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1784: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1785/94: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1785/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1785: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151345,10 +151630,12 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32016R1788: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1788: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1789: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1789: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1789: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 179/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0179: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0179: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/179: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1791: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1791: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1792/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151356,7 +151643,9 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/1792: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1793/73: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1793: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1793: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1794: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1794: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1794: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1795/76: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1795: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151364,13 +151653,16 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/1795: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1796/91: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1796: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1796: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1797/86: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1797/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1797: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1797: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1797: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R1798: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1798: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1798: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1798: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1799/79: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R1799: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2019/1799: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151383,12 +151675,17 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1800/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1800/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R1800: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1800: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1800: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1801/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1801/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1801: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1802/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1802: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1802: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1803: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1803: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1803: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1803: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1804: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/1804: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151400,6 +151697,7 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/1806: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1807: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1807: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1807: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1807: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1808: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1809/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151408,6 +151706,7 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32023R0181: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/181: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1810: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1810: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1810: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1811/88: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1811: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151417,7 +151716,9 @@ Model use at data-build time:
 - Regulamentul (UE) 2016/1814: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1814: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1816: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1816: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1817: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1817: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1817: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1818/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1818: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151431,7 +151732,9 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 182/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0182: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0182: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/182: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R1820: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1820: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1820: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1821/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R1821: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151476,20 +151779,25 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/1832: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1833: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1834: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1835: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1836/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1836: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1838: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1838: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1839/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1839: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1839: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 184/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 184/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 184/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 184/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 184/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0184: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/184: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1840/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1840/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1840: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1840: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1840: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1841: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare CELEX 32019R1842: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151500,6 +151808,9 @@ Model use at data-build time:
 - Regulamentul (UE) 2026/1844: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1845/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1845: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1845: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1845: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1846: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1846: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1847/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1847/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151516,6 +151827,7 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/1851: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R1852: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R1853: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1853: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1853: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1853: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1854/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151544,6 +151856,7 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2025/1861: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1862: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1863: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1863: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1864: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1864: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R1865: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151551,44 +151864,66 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/1865: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1866: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R1866: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1866: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1866: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R1867: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1867: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1867: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1867: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1868: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1868: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1869/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1869: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1869: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1869: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1869: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 187/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/187: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/187: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1870/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1870: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1870: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1871: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1871: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1871: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1871: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1872: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1872: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1872: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE, Euratom) nr. 1873/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1873: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1873: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1874: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1874: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1875/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1875: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1876/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1876: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1877: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1877: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1878: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1878: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1879: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1879: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 188/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 188/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/188: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1880: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1881/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1881: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1881: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1881: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1881: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1882/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1882/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1882: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1883: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1883: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1884: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1885: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1886/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1886: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1886: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1887: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1888/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1889/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151603,12 +151938,17 @@ Model use at data-build time:
 - Regulamentul (UE) 2026/1890: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1891/93: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1891: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1891: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1891: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1891: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1892: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1893/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) 1893/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1893: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1893: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1894/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1894: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1894: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1894: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1895/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE, Euratom) nr. 1895/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151616,14 +151956,18 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1896/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1896/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1896: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1896: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1897/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1897/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1897: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1897: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1898/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1898: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1898: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1898: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1899/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1899/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1899: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1899: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31965R0019: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 19/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151631,6 +151975,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 19/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0019: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 190/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/190: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1900/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1901/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1901: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151658,11 +152003,14 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 1907/85: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1907/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1907: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1908: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1908: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1909/86: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1909: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1909: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0191: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/191: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/191: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/191: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1910: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1910: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151675,6 +152023,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2025/1914: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1914: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1915/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1915: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1915: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R1915: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1916/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151684,28 +152033,36 @@ Model use at data-build time:
 - Regulamentul (UE) 2022/1917: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1919: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1919: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1919: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1919: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 192/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/192: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0192: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0192: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1920/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1920: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R1920: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1920: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1921/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1921/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1921: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1922/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1922/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1922: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1923/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1923: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1923: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1923: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1923: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1924/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1924: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1925/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1925: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1925: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1925: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R1926: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1926: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1926: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1926: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1927: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1928: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151713,8 +152070,10 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/1928: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1929/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1929: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1929: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1929: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 193/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/193: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1930/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R1930: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R1930: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151725,6 +152084,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1933/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1933: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1933: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1933: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/1933: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1934: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/1934: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151735,25 +152095,36 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32019R1935: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1936/90: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1936/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1937: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1938: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1938: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1939: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1939: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 194/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/194: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/194: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R1940: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1940: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1940: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1940: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1941: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1941: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1942: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1942: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1943/93: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R1943: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1943: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1943: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1944: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1945/93: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE, Euratom) nr. 1945/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1945: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1945: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1946/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R1946: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1946: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1946: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1947: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1948: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1949: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 195/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151768,6 +152139,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2016/1952: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1952: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1952: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1952: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1953: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1953: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1953: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151777,7 +152149,9 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1956/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1956: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1957/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1957: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1958: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1958: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1958: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1959/93: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R1959: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151785,12 +152159,18 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 196/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/196: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0196: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/196: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/196: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1960: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1960: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1960: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/1961: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1961: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1961: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1961: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R1962: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1962: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1963: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1963: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1964/90: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1964/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151804,6 +152184,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 1966/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1966/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/1966: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1966: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1967/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1967/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1968: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151815,6 +152196,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2017/1970: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1971/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/1971: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1971: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1972/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE, Euratom) nr. 1972/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R1972: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151823,6 +152205,7 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32015R1973: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1973: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1973: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1973: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1974/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R1974: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1974: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151832,6 +152215,7 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/1975: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1976/76: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R1976: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1976: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/1976: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/1977: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1977: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151840,6 +152224,7 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 1979/82: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1979/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R1979: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1979: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 198/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 198/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 198/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151863,6 +152248,7 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 1985/74: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1985/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1985: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1985: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R1986: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/1986: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1987: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151872,16 +152258,23 @@ Model use at data-build time:
 - Regulamentul (UE) 2025/1988: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1989/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R1989: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1989: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/1989: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/199: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0199: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1990: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1991/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/1991: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/1991: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1991: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1992/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1992: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1993/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/1993: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1993: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/1994: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R1995: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/1995: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 1996/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 1997/75: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/1998: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151899,6 +152292,8 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 200/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0200: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151906,6 +152301,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 2004/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2005/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151917,17 +152313,21 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 2008/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2020/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2009/86: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 201/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 201/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 201/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0201: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2012/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2013/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2014/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151942,9 +152342,11 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/2016: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2017/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R2017: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2017: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R2017: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2017: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R2018: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2018: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/2019: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) 2024/2019: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 202/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151956,6 +152358,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 2020/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R2020: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/2020: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2020: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2020: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R2021: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/2021: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151980,17 +152383,23 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 2027/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2027/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R2027: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2027: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2027: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2027: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2028/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2028: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2028: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/2029: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2029: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2029: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 203/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R0203: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/203: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) 2016/2030: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/2030: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R2030: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/2031: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2031: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2031: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2032/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/2033: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -151999,42 +152408,55 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32020R2034: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2034: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R2035: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2035: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2036/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2036/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2036: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2036: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2037/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2037: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2037: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2037: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2038/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2038: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2039/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2039: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2039: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2039: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 204/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0204: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R0204: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2040: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2040: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2041: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2041: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2041: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2042: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2042: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2043: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2043: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2044: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2044: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/2045: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2045: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2045: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2046/85: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2046: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2046: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2046: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2046: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2047: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2047: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2048/87: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/2048: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2048: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2048: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2048: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2049/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2049/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2049/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2049: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2049: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2049: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 205/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 205/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152044,6 +152466,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2025/205: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R2050: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2050: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2051: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2051: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2051: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2052: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152055,6 +152478,7 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/2054: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R2055: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2055: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2055: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2056/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R2056: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/2056: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152069,28 +152493,37 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 206/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0206: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2060: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2060: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2060: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2061/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2061: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/2061: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2061: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2061: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2061: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2062: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2062: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2063: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2063: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2064/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2064: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2064: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2065/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2065: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2065: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2066/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/2066: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2067/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2067: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2067: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2068: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 207/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 207/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 207/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R0207: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0207: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2070: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2070: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2070: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R2071: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/2072: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152100,6 +152533,8 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 2074/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R2074: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2074: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2074: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2074: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2074: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/2075: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2075: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152120,6 +152555,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2023/2080: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2081/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2020/2081: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2081: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2082: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2083/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2083: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152128,6 +152564,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2025/2084: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2084: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/2085: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2085: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2085: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R2086: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2086: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152148,7 +152585,9 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 209/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 209/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 209/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/209: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R2090: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2090: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2090: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2091/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2091: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152164,6 +152603,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2016/2096: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2020/2096: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2096: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2097: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2097: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2098: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2099/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152178,6 +152618,7 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32017R2100: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R2100: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2101: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2102: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R2102: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2103/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R2103: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152187,6 +152628,7 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32022R2104: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2104: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2104: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2104: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2104: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/2105: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R2105: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152196,8 +152638,10 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/2106: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2107/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2107: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2107: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2107: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2108: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2108: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/2108: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 211/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 211/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152205,17 +152649,20 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/2110: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2111/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2111: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2111: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2111: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2112/78: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2112/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2112/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2112: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2112: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2113/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2113: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2113: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2114/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R2114: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2114: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2114: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/2115: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R2115: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/2115: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152227,8 +152674,10 @@ Model use at data-build time:
 - Regulamentul (UE) 2019/2117: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/2117: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2117: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2117: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2118/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2118: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2118: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2118: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2119/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2119: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152239,12 +152688,14 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32018R0212: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/212: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0212: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/212: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0212: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/2120: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2120: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2122/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R2122: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R2123: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2123: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R2124: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2124: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R2125: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152261,6 +152712,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 213/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 213/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/213: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/213: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2130: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2131: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2133: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152269,14 +152721,19 @@ Model use at data-build time:
 - Regulamentul CELEX 31989R2136: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2137/85: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/2137: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2137: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2137: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2138: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2138: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2139/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R2139: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2139: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 214/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 214/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 214/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/214: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0214: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2140: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2141/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2141/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2143/87: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152287,13 +152744,19 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 2145/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/2145: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R2145: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2145: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/2146: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R2146: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2146: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2147/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2147/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R2147: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2147: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2147: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2147: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R2148: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2148: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2149: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2149: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 215/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 215/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152314,6 +152777,7 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32026R2152: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R2153: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R2153: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2153: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2154/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2154/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R2154: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152326,9 +152790,12 @@ Model use at data-build time:
 - Regulamentul (UE) 2019/2155: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R2155: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R2155: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2155: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2155: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2155: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2156/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R2156: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2156: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2157/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2157/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2157/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152337,6 +152804,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2024/2158: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2158: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2159: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2159: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 216/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 216/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 216/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152344,14 +152812,20 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 216/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0216: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/216: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/216: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/216: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2160/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/2160: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2020/2160: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2160: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2160: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2160: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2161: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2161: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2162: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2162: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2163/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2163: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2165: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2166/83: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2167: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152373,17 +152847,23 @@ Model use at data-build time:
 - Regulamentul (UE) 2020/2170: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2171/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R2171: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2171: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2171: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R2172: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2172: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2173/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R2173: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2173: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2174/93: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2174/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2174: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2174: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2175/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/2175: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R2175: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2175: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2175: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2175: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2175: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/2176: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R2176: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152392,35 +152872,49 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32025R2177: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R2178: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R2178: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2179: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 218/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 218/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 218/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 218/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/218: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0218: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2180/81: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2180/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R2180: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2180: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R2180: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2181: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2181: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2182/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2182/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2182: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2182: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2183/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2183: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2183: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2184/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2184: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R2184: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2184: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31996R2185: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2185: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2185: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2186: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2186: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2187: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2188/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R2188: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2188: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R2188: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2188: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2189: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 219/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 219/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/219: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31997R2190: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R2190: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2190: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R2190: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31997R2191: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R2191: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152434,15 +152928,23 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/2193: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2194/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R2194: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2194: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2194: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2195/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R2195: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2195: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2195: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2195: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2195: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2196: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2196: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2196: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2197/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2197: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2197: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2198/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2198: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2199: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2199: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2199: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R0022: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152455,11 +152957,13 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32025R0220: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/220: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R2200: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2200: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R2201: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/2201: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2201: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/2202: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2202: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2202: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/2202: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2203: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2203: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152469,10 +152973,14 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32015R2205: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2205: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2206/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2208: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2208: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2209: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 221/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 221/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/221: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/221: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/221: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2210: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2210: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2211/78: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152480,20 +152988,28 @@ Model use at data-build time:
 - Regulamentul CELEX 32017R2212: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2212: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2213/80: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2213: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2214/80: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2214: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2215/78: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2215: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2216/78: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2216: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2217: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2218: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2219/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/2219: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/2219: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2219: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 222/88: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 222/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/2220: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2220: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2220: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2220: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/2221: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2221: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2221: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2222/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R2222: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2222: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152507,10 +153023,12 @@ Model use at data-build time:
 - Regulamentul (UE) 2017/2225: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2225: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2226: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2226: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2226: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/2227: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2227: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2228: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2228: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2228: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2229/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R2229: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152519,45 +153037,60 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 223/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 223/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 223/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/223: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2230/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2230/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/2230: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2230: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2231: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2233: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) 2019/2234: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2235/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/2235: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2235: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/2236: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2236: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2236: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2237: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2237: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2238/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2238: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2238: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2239: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2239: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 224/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 224/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2240: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2241: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2241: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2242: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2243/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2243: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2244/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R2244: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2245/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R2245: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2245: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2245: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2246: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2246: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2246: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2247: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2247: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2248/94: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2248/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2248: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2249: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2249: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 225/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/225: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/225: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2250: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R2251: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2251: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2252/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R2252: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2253: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2256/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/2256: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2257: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152572,11 +153105,15 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 226/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/226: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/2260: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2260: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2261: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2262: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2262: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2263: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2263: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) 2015/2264: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R2264: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2265: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2265: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2266/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2266: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152594,10 +153131,13 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 2271/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2271: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2271: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2272: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R2273: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2274: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2275/88: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2275/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2275: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2276: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R2278: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/2278: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2278: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152608,6 +153148,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 228/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 228/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/228: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/228: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/2280: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/2280: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/2281: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152622,8 +153163,11 @@ Model use at data-build time:
 - Regulamentul (UE) 2015/2285: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/2285: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2287: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2287: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2287: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R2288: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2288: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2289: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/2289: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 229/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 229/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152636,18 +153180,23 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/2290: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2291/93: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2291: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2291: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2292: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2292: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R2293: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2293: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2293: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/2294: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R2294: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2294: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2294: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2295: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2298/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2298: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/2299: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 23/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/23: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/23: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 230/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 230/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R0230: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152660,6 +153209,7 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 2303/82: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R2303: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/2303: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2303: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R2304: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2305: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R2305: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152672,10 +153222,12 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 231/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32013R0231: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/231: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/231: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2310: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2310: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2311: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2311: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2312: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/2313: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2313: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2313: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152683,25 +153235,33 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2025/2314: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2314: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2315/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2315: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2316/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2316: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2317/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/2317: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2317: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2318: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2318: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2319: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2319: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 232/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 232/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R0232: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2320: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2321/90: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2321: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R2324: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2325/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2327: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2327: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2328: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2328: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2329/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2332: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2333: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2333: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2335: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/2336: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2337: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2338/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152709,6 +153269,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2016/2338: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2338: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/2339: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2339: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 234/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0234: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/234: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152726,11 +153287,13 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/2345: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2346: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2347/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2347: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2348: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2349: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2351/72: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2351: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2354/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2356: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R2358: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2358: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R2358: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152756,6 +153319,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2022/2367: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2368/90: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2368/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2368: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 237/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 237/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/237: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152787,6 +153351,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2015/2381: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2382/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2382: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2382: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2383: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2384: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2385: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152797,7 +153362,10 @@ Model use at data-build time:
 - Regulamentul (UE) 2026/2387: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2388: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2388: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2389: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2389: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/239: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2390: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2390: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2391/71: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2391: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152805,20 +153373,27 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/2391: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2392/71: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2392: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2392: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2392: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2393: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2393: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2393: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2394: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2394: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2395: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2396/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2396: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2396: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2396: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2397: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2398: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R2398: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2399/91: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2399: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2399: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 24/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 24/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/24: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 240/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 240/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0240: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152828,6 +153403,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2022/2400: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R2401: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2401: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2401: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R2402: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2402: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2402: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152836,9 +153412,14 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32022R2403: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2403: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2404: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2404: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2405: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2405: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2406/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2406: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2408: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2409: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2409: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 241/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 241/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 241/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152847,16 +153428,21 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 241/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0241: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/241: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2410: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2411/75: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2411/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2411: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2413: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2414: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2415/78: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/2415: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2415: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R2416: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R2417: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2418: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2419: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2419: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2419: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 242/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 242/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 242/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152866,12 +153452,20 @@ Model use at data-build time:
 - Regulamentul (UE) 2015/2421: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) 2015/2422: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2422: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2423: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2425: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2426: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2429/86: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2429: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/243: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2430/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2430: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2431: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2432: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2432: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2434: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2434: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2435: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2437/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2439: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 244/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152879,14 +153473,18 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32022R0244: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/244: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2441: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2443: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2444: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2444: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2445: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2445: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) 2025/2445: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2446/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R2446: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2447: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2447: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2448/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2448: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 245/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 245/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 245/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152898,6 +153496,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2017/2454: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2454: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2455: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2455: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2455: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2456/78: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2456: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152917,17 +153516,23 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/246: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2460: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31998R2461: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2461: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2461: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2462: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2462: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2462: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2463: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2463: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2464: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2464: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2465: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2465: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2466: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2467/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2468: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2469/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0247: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/247: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/247: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2470/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2471/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152938,6 +153543,8 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 2474/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2474: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2475: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2475: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2476: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2477: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 248/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 248/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152949,6 +153556,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2023/2482: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2485: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2486: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2487: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R2487: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 249/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 249/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152959,7 +153567,12 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2025/2490: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/2490: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2491/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2491: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2491: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2492: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2493: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2494: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2494: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2495/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2495: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2495: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152970,6 +153583,8 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 2497/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2497: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2497: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2497: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2498: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 25/93: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 25/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 25/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152977,9 +153592,14 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 250/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/250: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/250: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/250: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/250: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2500: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2501: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2502/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2502: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2502: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2503: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2505: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2505: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2506/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -152987,19 +153607,23 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32024R2506: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2507/91: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2507: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2507: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2508: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2508: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) 2024/2509: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2509: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 251/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 251/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 251/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/251: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/251: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/251: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2510/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2510: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2510: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2511/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2511: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2511: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2512: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2513: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2513: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153009,23 +153633,32 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32025R2514: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2515: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2515: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2515: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2516/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2516: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2518/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2518: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2518: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2519/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2519: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 252/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 252/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/252: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0252: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2520: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2521: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2525: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2526/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2526: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2526: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2526: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2527: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2528: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 253/87: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 253/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 253/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32013R0253: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/253: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/253: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2530: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31972R2531: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153033,29 +153666,44 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2025/2531: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31972R2532: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2532/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2532: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2533/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2533: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2534: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2536: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2537: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2537: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2538: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 254/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 254/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 254/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R0254: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2540: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2543/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2543: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2545: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2545: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2546/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2546: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2547: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2547: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2548/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2548: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2549: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 255/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 255/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/255: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0255: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0255: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2550: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R2551: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2553: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2553: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2554: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2555: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2556: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2558/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2558: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2559/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2559: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 256/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153064,6 +153712,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 256/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R0256: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0256: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/256: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/256: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2560: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2562/76: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153071,11 +153720,15 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32024R2562: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2563/76: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2563: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2563: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2564/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2564: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2565: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2566/76: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2566: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2566: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2567: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2568: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 257/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 257/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 257/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153086,6 +153739,8 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32024R2570: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2571: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2573: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2575: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2576: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2576: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2578/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2579: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153097,7 +153752,9 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 2580/88: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2580/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R2580: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2581: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2583: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2583: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2584: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/2586: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (Euratom) nr. 2587/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153108,6 +153765,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 259/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 259/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/259: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/259: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/259: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2590: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2590: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153126,6 +153784,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2016/26: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/26: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0026: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/26: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31968R0260: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 260/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 260/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153135,6 +153794,8 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 260/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 260/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 260/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/260: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/260: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2600: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2601/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32025R2601: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153144,44 +153805,62 @@ Model use at data-build time:
 - Regulamentul (UE) 2025/2605: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2606: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2607: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2607: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2608: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2609: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31968R0261: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 261/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 261/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/261: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/261: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/261: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/261: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2610/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2610: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2611: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2612: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2613/82: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2613: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2613: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2614: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2614: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2615: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2615: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2616/85: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2616: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2617: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2618: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2619: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2619: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 262/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/262: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0262: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/262: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/262: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2620: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2620: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2621: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2622: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2623/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2623: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2623: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2627: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2629: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 263/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/263: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/263: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/263: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2630/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2631: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2632: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2633: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2634: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2636: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2637: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/2638: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2639: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2639: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2639: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 264/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 264/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/264: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153192,35 +153871,53 @@ Model use at data-build time:
 - Regulamentul (UE) 2025/2643: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2645: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2647/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2649: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2649: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 265/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 265/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/265: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/265: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2650: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2651: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R2651: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2652: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2652: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R2652: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/2653: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2656: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2658/87: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/2658: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 266/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 266/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/266: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/266: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/266: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2661: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2663: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2663: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2667: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 267/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 267/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/267: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/267: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/267: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/267: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2672: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2673: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2674/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2674: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2675: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2675: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2679/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2679: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 268/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/268: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/268: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0268: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/268: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2681/74: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2682/73: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2682: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2684: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2685: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 269/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153229,11 +153926,15 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32021R0269: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0269: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2690/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2692: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2694/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2694: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2694: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2695/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2696/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2697: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2699/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2699: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 27/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/27: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0027: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153242,6 +153943,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 270/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/270: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2700/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2700: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2703/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2709: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 271/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153250,28 +153952,43 @@ Model use at data-build time:
 - Regulamentul (UE) 2026/271: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2710: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2711: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2716: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2717: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2718: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 272/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 272/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 272/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32012R0272: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/272: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2720: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2720: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2721: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2723/90: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2724: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2724: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2725: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2729: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 273/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 273/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0273: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/273: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0273: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2731: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2732: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2733: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2735/80: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2735: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2738: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 274/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/274: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/274: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2740/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2742/80: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2742: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2743/72: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2744/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2744: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2746: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2747: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2748/79: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2748: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153281,14 +153998,20 @@ Model use at data-build time:
 - Regulamentul (UE) 2018/275: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/275: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2750/75: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2750: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2754: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2755: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2759: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 276/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/276: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/276: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2760/72: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2761: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2762/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31979R2764: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2765: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2766: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2768: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2769: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 277/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/277: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153298,14 +154021,19 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32024R2770: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2772: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2773: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2774: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2776: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2777: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2777: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2779: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 278/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 278/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/278: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/278: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/278: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2781: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2784/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2784: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2785/76: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2785/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2786: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153314,10 +154042,14 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 279/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 279/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/279: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/279: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/279: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2790: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2791: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2792: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2793/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2793: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2794: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2795/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2795: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 28/90: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153329,17 +154061,22 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 2802/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2803/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2803: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2806: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2807: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2809: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R0281: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/281: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/281: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2811/86: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2812/92: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2817: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/282: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/282: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0282: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2821/71: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2822: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2825/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2825: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 283/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/283: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0283: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153349,6 +154086,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2023/2832: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2833: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2835: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2835: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2838: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 284/92: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 284/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153365,15 +154103,20 @@ Model use at data-build time:
 - Regulamentul (UE) 2023/2845: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2847/72: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2847: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2848: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2849: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 285/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0285: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/285: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/285: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/285: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0285: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2850: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2854: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2855/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2856: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2857: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2857: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2858: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2859: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 286/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153382,8 +154125,11 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 286/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32012R0286: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R0286: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/286: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/286: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2861: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2862: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2863: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2865: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2866/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2867: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153392,20 +154138,32 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 287/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/287: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/287: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/287: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/287: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2870/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2873: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2877: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2878: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2878: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R0288: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/288: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/288: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2880: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2882: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2883: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2886: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2887: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 289/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 289/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 289/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/289: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/289: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/2890: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2890: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2892: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2895: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2896: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2896: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2897: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2899: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 29/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153413,26 +154171,37 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32022R0029: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 290/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 290/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2902: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2904: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2908: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 291/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/291: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/291: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2910: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2911: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2913: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2914: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2915/86: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2915: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2916/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2916: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2917: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R2918: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31985R2919: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 292/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0292: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/292: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2921: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2922: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2925: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2928: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2929: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 293/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 293/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0293: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/293: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2931: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2932: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2933/92: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 294/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 294/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153444,12 +154213,18 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 295/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0295: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0295: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2952: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2956: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2958: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2959: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 296/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R0296: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0296: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0296: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2960: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2962/77: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2964/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2964: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 2965/94: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32004R0297: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 297/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153458,13 +154233,20 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32024R0297: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0297: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/297: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2970: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2971/76: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2972: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2973: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2975: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2977: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2978: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 298/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 298/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 298/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R0298: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0298: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2980: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2984: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/2987: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 2988/74: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE, Euratom) nr. 2988/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153474,6 +154256,8 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32025R0299: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/299: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R2992: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2995: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/2999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31958R0003(01): built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R0003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153494,12 +154278,15 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 3010/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/3011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/3012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/3015: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 3017/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/3018: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (Euratom) nr. 302/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/302: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/302: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3020/81: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3020: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/3024: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3026/77: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0303: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153524,17 +154311,20 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 306/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 306/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0306: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/306: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/306: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 3061/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 307/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 307/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 308/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3084: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3085/91: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R3085: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R3089: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 309/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 309/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 309/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/309: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R3093: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 3095/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R3095: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153553,10 +154343,14 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 3103/74: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R3103: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R3104: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3107: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3108: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/311: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/3110: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3114: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 3115/94: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/3115: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3117: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/3118: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 312/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 312/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153564,9 +154358,15 @@ Model use at data-build time:
 - Regulamentul (UE) 2022/312: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/312: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/312: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3120: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3121: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3122: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3128: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 313/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 313/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/313: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/313: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3138: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 314/90: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 314/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 314/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153574,6 +154374,12 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32023R0314: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/314: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0314: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3141: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3143: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3144: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3145: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3147: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3148: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3149/81: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 315/93: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 315/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153583,6 +154389,9 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32022R0315: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0315: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3151/90: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3152: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3153: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3156: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R3159: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 316/91: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 316/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153592,16 +154401,24 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/316: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R3160: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31994R3162: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3162: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31994R3163: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3163: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3166: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3167: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3169: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 317/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 317/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 317/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 317/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3170/87: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3170: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3171/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/3171: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3172/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3172: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R3173: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3177: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3179/78: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 318/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 318/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153610,12 +154427,15 @@ Model use at data-build time:
 - Regulamentul (UE) 2019/318: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/318: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31992R3180: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3183: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3188: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/3189: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 319/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/319: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/319: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/3190: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/3192: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3193: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/3196: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 3199/93: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R3199: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153624,14 +154444,18 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 32/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 32/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0032: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/32: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 320/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 320/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0320: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/320: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/320: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3201: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R3204: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 321/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 321/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/321: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3210: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/3211: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/3213: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R3214: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153641,6 +154465,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 322/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/322: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0322: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3227: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/3228: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R3229: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 323/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153655,19 +154480,25 @@ Model use at data-build time:
 - Regulamentul (UE) 2024/3234: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/3236: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3237/76: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3239: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 324/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 324/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 324/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/324: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/324: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/324: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0324: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3240/88: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/3242: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3245/81: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/3245: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 325/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/325: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3254/91: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 326/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/326: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/326: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/326: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0326: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 327/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 327/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153679,8 +154510,11 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 328/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 328/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/328: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/328: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/328: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 3287/94: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 329/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/329: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/329: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 3295/93: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 33/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153689,6 +154523,7 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32019R0330: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/330: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0330: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/330: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/330: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3301/74: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE, Euratom) nr. 3308/80: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153717,6 +154552,7 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32019R0334: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/334: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/334: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/334: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3346/80: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/335: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 336/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153728,8 +154564,11 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 338/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 338/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 338/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/338: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/338: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 339/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/339: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/339: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0339: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3395/80: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3396/80: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153757,11 +154596,13 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32014R0342: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0342: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/342: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/342: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/342: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3421/83: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3423/81: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3425/91: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/343: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/343: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0343: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 344/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 344/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153790,6 +154631,7 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 348/81: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 348/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0348: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/348: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/348: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3481/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3482/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153829,6 +154671,8 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 353/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 353/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/353: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/353: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/353: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/353: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3531/85: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3534/87: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153838,6 +154682,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 354/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/354: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/354: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/354: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3541/85: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3541/92: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3544/87: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153846,12 +154691,15 @@ Model use at data-build time:
 - Regulamentul (UE) 2017/355: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/355: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/355: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/355: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/355: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/355: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3558/81: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 356/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 356/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0356: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/356: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/356: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/356: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3564/88: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3565/88: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153860,6 +154708,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 357/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0357: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0357: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/357: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/357: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3573/90: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3576/92: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153870,6 +154719,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 358/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0358: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R0358: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/358: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/358: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3580/91: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3581/81: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153878,6 +154728,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 359/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/359: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0359: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/359: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/359: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3594/91: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 36/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153887,8 +154738,10 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 36/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 36/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/36: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/36: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 360/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0360: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/360: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/360: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3600/92: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 3603/93: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153904,6 +154757,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 362/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 362/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0362: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/362: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/362: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3620/87: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3626/84: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153961,6 +154815,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 372/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 372/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/372: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/372: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/372: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/373: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/373: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153978,6 +154833,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 377/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 377/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/377: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/377: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 378/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 378/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 378/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -153989,6 +154845,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 379/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0379: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/379: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/379: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/379: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 38/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/38: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154018,6 +154875,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 384/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 384/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/384: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/384: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/384: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/385: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 386/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154062,6 +154920,7 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 3921/91: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3922/91: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 393/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/393: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/393: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 3939/88: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 394/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154098,9 +154957,11 @@ Model use at data-build time:
 - Regulamentul (CEE) nr. 3988/87: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/399: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/399: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/399: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 4/97: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 4/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/4: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/4: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 40/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 40/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 40/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154130,7 +154991,9 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 403/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/403: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/403: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/403: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 404/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/404: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/404: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/405: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0405: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154151,6 +155014,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2025/407: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 408/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 408/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/408: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 409/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0409: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 41/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154165,6 +155029,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 412/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 412/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/412: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/413: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0413: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 414/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 414/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154213,16 +155078,19 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32025R0422: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31967R0423: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 423/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/423: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 424/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/424: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/424: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0424: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/425: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/425: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/425: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 426/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 426/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/426: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/426: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/426: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/426: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R0427: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/427: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154253,6 +155121,8 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 432/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 432/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 432/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/432: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/434: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 435/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/435: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R0436: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154272,6 +155142,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 44/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0044: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/44: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/44: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 440/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 440/91: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32008R0440: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154287,6 +155158,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 441/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/441: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/441: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/441: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/441: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 442/91: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 442/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154296,6 +155168,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 443/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0443: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/443: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/443: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 444/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 444/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 444/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154305,6 +155178,8 @@ Model use at data-build time:
 - Regulamentul (UE) 2015/445: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/445: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R0445: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/445: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/445: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 446/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R0446: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/446: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154317,11 +155192,13 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32026R0447: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 448/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R0448: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/448: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 449/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32012R0449: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/449: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 45/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/45: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/45: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 450/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 450/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 450/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154343,18 +155220,23 @@ Model use at data-build time:
 - Regulamentul (UE) 2016/452: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/452: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/452: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/452: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0452: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 453/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 453/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 453/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/453: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0453: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 454/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/454: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 455/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 455/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 455/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/455: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/455: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/455: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/455: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/456: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/456: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 457/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0457: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154438,6 +155320,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2019/473: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R0473: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0473: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2026/473: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31967R0474: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 474/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 474/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154480,12 +155363,15 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/481: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 482/77: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0482: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/482: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/482: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0482: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 483/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 483/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/483: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/486: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0486: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/486: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/486: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 487/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 487/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154525,6 +155411,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 493/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 493/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/493: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/493: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 494/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 494/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 494/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154547,6 +155434,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 499/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/499: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/499: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/499: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31959R0005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 5/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/5: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154560,6 +155448,7 @@ Model use at data-build time:
 - Regulamentul (Euratom) nr. 501/94: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 501/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 501/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/501: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/501: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 502/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 502/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154573,6 +155462,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2022/504: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 505/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0505: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/505: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/505: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 506/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 506/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154592,11 +155482,13 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 509/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 509/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 509/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/509: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/509: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 51/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 51/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 51/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 51/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2026/51: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 31982R0510: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 510/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 510/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154607,12 +155499,14 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 511/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/511: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0511: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/511: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/511: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 512/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 512/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/512: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 513/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 513/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/513: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/513: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 514/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 514/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154642,6 +155536,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 518/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0518: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0518: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/518: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 519/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 519/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 519/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154655,6 +155550,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 520/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 520/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/520: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/520: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/520: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 521/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 521/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154664,12 +155560,15 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32014R0522: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R0522: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/522: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/522: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0523: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/523: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/523: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/523: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 524/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0524: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0524: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/524: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/524: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0525: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0525: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154679,6 +155578,7 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32021R0526: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0527: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0527: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/527: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 528/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0528: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0528: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154699,6 +155599,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 531/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 531/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R0531: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/531: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/531: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0532: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0532: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154706,6 +155607,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 533/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/533: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/534: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/534: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/534: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 535/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/535: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154853,10 +155755,12 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32017R0566: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R0566: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/566: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/566: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 567/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 567/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/567: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R0567: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/567: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 568/86: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 568/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 568/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154867,6 +155771,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 569/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 569/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R0569: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/569: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 57/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 57/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 57/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154891,6 +155796,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 574/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 574/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 574/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/574: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 575/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 575/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32013R0575: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154911,8 +155817,10 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32021R0578: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 579/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R0579: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/579: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 58/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/58: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/58: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 580/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 580/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/580: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154944,6 +155852,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 587/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 587/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R0587: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/587: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 588/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 588/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32014R0588: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154955,6 +155864,7 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32017R0589: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/589: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0589: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/589: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/589: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 59/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 59/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -154970,6 +155880,8 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 591/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/591: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R0591: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/591: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/591: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/591: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 592/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 592/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155000,8 +155912,10 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 6/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 6/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/6: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/6: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 60/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/60: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/60: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 600/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 600/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 600/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155030,6 +155944,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 607/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 607/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/607: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/607: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 608/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/608: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/608: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155050,6 +155965,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 611/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 611/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0611: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/611: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 612/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 612/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0612: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155081,6 +155997,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2021/618: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 619/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 619/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/619: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 62/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 62/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R0062: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155096,11 +156013,14 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 622/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0622: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/622: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/622: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/622: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 623/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 623/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0623: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) 2015/623: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/623: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/623: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 624/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 624/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0624: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155110,6 +156030,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2017/625: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0625: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/625: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/625: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/625: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 626/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32011R0626: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155120,6 +156041,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 627/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/627: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/627: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/627: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/628: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 629/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 629/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155133,6 +156055,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 630/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/630: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0630: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/630: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 631/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 631/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/631: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155145,9 +156068,11 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 634/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 634/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R0634: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/634: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 635/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 635/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32013R0635: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/635: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 636/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 636/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R0636: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155175,6 +156100,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 641/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 641/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/641: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/641: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 642/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 642/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 642/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155205,6 +156131,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2015/647: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/647: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0647: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/647: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/647: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32004R0648: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 648/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155260,6 +156187,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 658/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 658/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0659: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/659: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (Euratom) nr. 66/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 66/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 66/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155281,6 +156209,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2021/663: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/663: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 664/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/664: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 665/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 665/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0665: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155312,6 +156241,8 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 670/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R0670: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0670: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/670: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/670: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 671/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 671/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/671: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155330,6 +156261,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 675/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/675: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/675: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/675: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 676/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 676/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 676/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155341,6 +156273,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 678/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 678/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/678: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/678: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 679/72: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 679/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 679/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155387,7 +156320,9 @@ Model use at data-build time:
 - Regulamentul CELEX 32004R0688: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 688/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R0688: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/688: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R0689: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/689: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 69/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 690/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/690: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155439,6 +156374,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2020/697: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/697: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0697: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/697: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/697: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 698/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 698/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155447,6 +156383,7 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32017R0698: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/698: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/698: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/698: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/698: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 699/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) nr. 699/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155467,6 +156404,7 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/700: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 701/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 701/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/701: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/701: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 702/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 702/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155500,6 +156438,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 708/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 708/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 708/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/708: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/708: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 709/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 709/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155519,11 +156458,13 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 711/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/711: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/711: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/711: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 712/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/712: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/712: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 713/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 713/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/713: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/714: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 715/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 715/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155594,6 +156535,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 728/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/728: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0728: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/728: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 729/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 729/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 729/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155625,6 +156567,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2017/735: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/735: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0735: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/735: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 736/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32013R0736: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/736: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155639,9 +156582,11 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 738/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 738/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 738/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/738: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 739/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 739/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 739/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/739: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/74: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/74: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 740/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155675,6 +156620,7 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/747: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32009R0748: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 748/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/748: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/748: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 749/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R0749: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155688,6 +156634,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 750/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/750: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0750: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/750: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/750: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 751/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/751: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155698,18 +156645,22 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 752/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/752: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/752: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/752: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/752: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/752: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 753/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 753/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 753/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 753/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/753: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/753: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0753: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 754/94: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 754/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 754/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 754/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/754: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/754: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0754: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 755/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/755: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155724,6 +156675,8 @@ Model use at data-build time:
 - Regulamentul (UE) 2015/757: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R0757: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/757: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/757: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/757: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 758/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 758/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/758: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155740,6 +156693,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2015/760: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R0760: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0760: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/760: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 761/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 761/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R0761: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155749,12 +156703,15 @@ Model use at data-build time:
 - Regulamentul (UE) 2017/762: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0762: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/762: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/762: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 763/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 763/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/763: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/763: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 764/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 764/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/764: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/764: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0764: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 765/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 765/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155769,6 +156726,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 768/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/768: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) 2021/768: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/768: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) 2021/769: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/769: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 77/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155778,17 +156736,21 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 770/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/770: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) 2021/770: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/770: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 771/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 771/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/771: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/771: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0771: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/771: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/771: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 772/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 772/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 772/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) nr. 772/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/772: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/772: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/772: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/772: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 773/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 773/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155800,13 +156762,16 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 776/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 776/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/776: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/776: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/776: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 777/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 777/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 777/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/777: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/777: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 778/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R0778: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/778: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 779/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 779/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/779: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155814,6 +156779,7 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32014R0078: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/78: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/78: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/78: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/78: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 780/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 780/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155827,11 +156793,13 @@ Model use at data-build time:
 - Regulamentul (UE) 2018/782: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R0782: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/782: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/782: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 783/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 783/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 783/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 783/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/783: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/783: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/783: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 784/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 784/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155841,12 +156809,14 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 785/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/785: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/785: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/785: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0785: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 786/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 786/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/786: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/786: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0786: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/786: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/786: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 787/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/787: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155867,6 +156837,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2018/79: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 790/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 790/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/790: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/790: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 791/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 791/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155881,12 +156852,15 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 794/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 794/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/794: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/794: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0794: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/795: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/795: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0795: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/796: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/796: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/796: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/796: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0796: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 797/80: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/797: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155900,6 +156874,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2015/8: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 80/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 80/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/80: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 800/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/800: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 801/71: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155915,21 +156890,26 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32022R0803: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) 2016/804: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0804: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/804: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 805/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 805/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 805/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/805: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0805: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0805: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/805: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 806/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 806/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 806/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0806: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/806: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 807/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0807: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0807: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0807: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/807: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0807: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/808: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/808: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/808: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 809/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155946,6 +156926,7 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32013R0812: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/812: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R0812: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/812: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 813/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 813/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0813: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155961,6 +156942,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 817/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/817: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/817: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/817: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 818/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 818/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/818: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155980,6 +156962,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2017/821: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0821: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/821: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/821: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 822/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 822/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R0822: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -155990,11 +156973,13 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 823/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/823: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/823: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/824: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/824: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 825/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/825: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/825: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0825: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/825: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0825: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 826/93: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32012R0826: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156006,9 +156991,11 @@ Model use at data-build time:
 - Regulamentul (UE) 2015/827: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0827: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0827: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/827: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 828/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0828: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0828: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/828: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0829: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0829: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/829: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156020,9 +157007,11 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 830/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/830: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0830: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/830: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/830: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/831: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/831: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/831: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/831: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 832/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/832: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156030,16 +157019,19 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 833/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 833/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/833: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/833: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/833: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 834/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 834/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 834/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/834: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/834: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/834: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 835/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 835/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 835/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 835/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/835: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/835: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 836/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 836/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156059,6 +157051,8 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32019R0839: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/839: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/839: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/839: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/839: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 84/83: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 84/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 840/92: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156072,15 +157066,20 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 842/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/842: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0842: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/842: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/842: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/842: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/843: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0843: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/843: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 844/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/844: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/845: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/845: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 846/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 846/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/846: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/846: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 847/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 847/2000: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 847/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156088,16 +157087,20 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 847/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 847/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/847: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/847: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/847: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 848/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 848/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/848: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/848: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/848: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/848: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 849/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 849/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 849/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0849: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/849: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/849: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0849: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 85/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 85/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156124,8 +157127,10 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 853/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 853/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/853: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/854: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/854: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R0855: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/855: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0855: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/855: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 856/1999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156149,6 +157154,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 859/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 859/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0859: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/859: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/859: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 86/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/86: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156157,12 +157163,14 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32016R0860: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0860: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/860: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/860: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 861/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 861/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 861/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32016R0861: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 862/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 862/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/862: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2016/863: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/863: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0863: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156212,6 +157220,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 875/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 875/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 875/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/875: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 876/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 876/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32013R0876: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156221,14 +157230,17 @@ Model use at data-build time:
 - Regulamentul (UE) 2019/877: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R0877: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/877: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/877: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/877: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/877: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/878: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2020/878: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/878: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32025R0878: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 879/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 879/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/879: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/879: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0879: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 88/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/88: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156248,9 +157260,11 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2025/881: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0881: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 882/2003: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/882: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 883/94: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 883/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE, Euratom) nr. 883/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/883: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/883: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 884/94: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R0884: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156270,6 +157284,7 @@ Model use at data-build time:
 - Regulamentul delegat CELEX 32013R0886: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0886: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/886: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/886: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0887: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/887: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0887: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156282,6 +157297,7 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/888: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 889/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 889/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/889: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/89: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156299,6 +157315,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 893/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 893/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/893: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/893: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/893: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 894/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 894/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156319,6 +157336,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 897/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0897: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/897: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/897: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 898/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 898/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 898/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156330,6 +157348,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 899/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 899/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2021/899: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/899: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/899: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/899: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 9/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156346,8 +157365,10 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/900: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 901/75: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 901/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/901: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 902/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 902/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/902: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 903/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 903/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2024/903: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156357,13 +157378,17 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 904/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 904/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 904/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/904: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0904: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 905/2002: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32023R0905: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/905: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/905: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/905: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 906/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 906/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0906: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/906: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 907/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 907/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 907/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156383,6 +157408,7 @@ Model use at data-build time:
 - Regulamentul de punere în aplicare (UE) 2026/91: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 910/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 910/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/910: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32026R0910: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32024R0911: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/911: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156406,9 +157432,12 @@ Model use at data-build time:
 - Regulamentul (UE) 2023/915: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 916/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0916: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/916: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/916: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/916: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 917/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/917: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/917: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/917: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 918/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32012R0918: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156435,6 +157464,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2023/923: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 924/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/924: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/924: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 925/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/925: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 926/2004: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156452,6 +157482,7 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 930/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0930: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0930: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/930: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32021R0931: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0931: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 932/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156474,6 +157505,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 937/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 937/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 937/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/937: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 938/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2015/938: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 939/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156507,6 +157539,7 @@ Model use at data-build time:
 - Regulamentul (UE) 2021/947: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 948/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (Euratom) 2021/948: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/949: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 95/83: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 95/93: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 95/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156522,16 +157555,20 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 952/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2019/952: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0952: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/952: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 953/2013: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 954/87: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 954/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32022R0954: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/954: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CEE) nr. 955/87: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 955/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/955: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/955: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 956/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 956/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/956: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/956: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 957/2006: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 957/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 957/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156545,7 +157582,9 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 959/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32017R0959: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0959: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/959: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 96/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/96: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 960/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 960/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156566,16 +157605,21 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 964/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 964/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/964: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/964: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2025/964: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 965/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 965/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/965: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/965: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 966/2008: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 966/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 966/2014: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2023/966: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/966: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 967/2009: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 967/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0968: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/968: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2025/968: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 969/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 969/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156640,9 +157684,11 @@ Model use at data-build time:
 - Regulamentul (UE) nr. 98/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32015R0098: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2018/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 980/2005: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0980: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/980: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 981/98: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 981/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32019R0981: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156678,6 +157724,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 989/2007: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0989: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32020R0989: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/99: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul de punere în aplicare (UE) 2026/99: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 990/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32018R0990: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156689,6 +157736,7 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 992/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul delegat CELEX 32014R0992: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2022/992: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/994: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 995/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 995/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2026/995: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
@@ -156702,9 +157750,11 @@ Model use at data-build time:
 - Regulamentul (CE) nr. 997/95: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul CELEX 32002R0997: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/997: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2024/997: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 998/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (CE) nr. 999/2001: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 999/2010: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 999/2011: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) nr. 999/2012: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Regulamentul (UE) 2017/999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Regulamentul de punere în aplicare (UE) 2025/999: built by Lexifina's eu-law source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
