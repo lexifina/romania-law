@@ -189113,6 +189113,21 @@
    ]
   },
   {
+   "slug": "legea-7-1997",
+   "path": "lege/1997/7",
+   "short": "Legea nr. 7/1997",
+   "title": "Legea nr. 7/1997 pentru aprobarea Ordonanţei Guvernului nr. 19/1996 privind asigurarea rambursării împrumutului de stat şi a dobânzilor aferente, destinat continuării participării României la construirea Combinatului minier de îmbogăţire a minereurilor acide cu conţinut de fier de la Krivoi-Rog - Ucraina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10866",
+   "versions": [
+    {
+     "from": "1997-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10866",
+     "sha256": "ac396f522cc6372cb1a48ad4d95f43347d5f63bd90f4ba9bbe63e2ecf31c83b5"
+    }
+   ]
+  },
+  {
    "slug": "legea-7-1999",
    "path": "lege/1999/7",
    "short": "Legea nr. 7/1999",
@@ -213013,6 +213028,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7811",
      "sha256": "a570a80e149ab1397de377dc763e5077c7982ab3d638e2f26fe35db4ed2e67c0"
+    }
+   ]
+  },
+  {
+   "slug": "og-7-1997",
+   "path": "og/1997/7",
+   "short": "OG nr. 7/1997",
+   "title": "Ordonanța Guvernului nr. 7/1997 privind reglementarea modului de plată a personalului angajat prin convenţii civile pentru încasarea creanţelor bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10877",
+   "versions": [
+    {
+     "from": "1997-01-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10877",
+     "sha256": "8aa5353e1ca4027be8b9601c0491e481750d201141b8151acc26672623d15ead"
     }
    ]
   },

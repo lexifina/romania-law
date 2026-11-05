@@ -1392,6 +1392,21 @@
    ]
   },
   {
+   "slug": "hg-24-1997",
+   "path": "hg/1997/24",
+   "short": "HG nr. 24/1997",
+   "title": "Hotărârea Guvernului nr. 24/1997 privind stabilirea cuantumului alocaţiei de stat pentru copii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11103",
+   "versions": [
+    {
+     "from": "1997-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11103",
+     "sha256": "02397af9bebac48c2ebb3f4a2d934c16c38fd883ace9e4f7bcc3f22cb985dabf"
+    }
+   ]
+  },
+  {
    "slug": "hg-241-1997",
    "path": "hg/1997/241",
    "short": "HG nr. 241/1997",
@@ -1677,6 +1692,21 @@
    ]
   },
   {
+   "slug": "hg-27-1997",
+   "path": "hg/1997/27",
+   "short": "HG nr. 27/1997",
+   "title": "Hotărârea Guvernului nr. 27/1997 cu privire la nivelul salariului de baza minim brut pe ţara, în anul 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11133",
+   "versions": [
+    {
+     "from": "1997-02-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11133",
+     "sha256": "891a8eacb14f2938f2cbda6e21d857a8b66235848b60e2ba9ca0651f793cad6e"
+    }
+   ]
+  },
+  {
    "slug": "hg-270-1997",
    "path": "hg/1997/270",
    "short": "HG nr. 270/1997",
@@ -1823,6 +1853,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12305",
      "sha256": "4978708810600a6d0eabb430f8aa92a787e8f07aa3a9faa672e0f0e7144b3959"
+    }
+   ]
+  },
+  {
+   "slug": "hg-28-1997",
+   "path": "hg/1997/28",
+   "short": "HG nr. 28/1997",
+   "title": "Hotărârea Guvernului nr. 28/1997 privind unele măsuri de protecţie socială referitoare la pensiile de asigurări sociale de stat, militare, I.O.V.R., ale agricultorilor, ajutoarele de şomaj, ajutoarele sociale şi alte venituri ale populaţiei, începând cu luna februarie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11142",
+   "versions": [
+    {
+     "from": "1997-02-25",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11142",
+     "sha256": "47ade289c2e91581500df159be27424868fccb5adfe392c6eb59e6bd637bef8f"
     }
    ]
   },
@@ -3093,6 +3138,21 @@
    ]
   },
   {
+   "slug": "hg-39-1997",
+   "path": "hg/1997/39",
+   "short": "HG nr. 39/1997",
+   "title": "Hotărârea Guvernului nr. 39/1997 pentru aprobarea Programului la nivel naţional privind direcţiile de desfăşurare a activităţii de cercetare geologica a resurselor minerale în perioada 1997-2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11237",
+   "versions": [
+    {
+     "from": "1997-03-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11237",
+     "sha256": "2e6e696e1286c0a68bcdf651309ab7794f32ba9797ddb2093293964133ac5ca2"
+    }
+   ]
+  },
+  {
    "slug": "hg-390-1997",
    "path": "hg/1997/390",
    "short": "HG nr. 390/1997",
@@ -3224,6 +3284,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12624",
      "sha256": "bf649f67eb0d81f60b6ec9f980982823775a318f9712124b957eb0222e3fa6a9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-40-1997",
+   "path": "hg/1997/40",
+   "short": "HG nr. 40/1997",
+   "title": "Hotărârea Guvernului nr. 40/1997 privind eliberarea şi numirea inspectorului general al Inspectoratului General al Poliţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11244",
+   "versions": [
+    {
+     "from": "1997-03-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11244",
+     "sha256": "6a862cb836c81b638766db57aa0531b93bcf758e81c265ca7f13701db1115ebf"
     }
    ]
   },
@@ -6773,6 +6848,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13490",
      "sha256": "70346a2260e062e2908c9ee6231a6b62ef5bdc5880fa735b170ae1e91bc8dbe4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-7-1997",
+   "path": "hg/1997/7",
+   "short": "HG nr. 7/1997",
+   "title": "Hotărârea Guvernului nr. 7/1997 privind numirea în funcţia de director general al Oficiului Român pentru Drepturile de Autor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10868",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10868",
+     "sha256": "2def980c2c8a8139fa9a0dc01d6a32edf8fef60a1fabec9b792008c7642165aa"
     }
    ]
   },

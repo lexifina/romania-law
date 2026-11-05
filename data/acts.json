@@ -5901,6 +5901,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/8713"
 },
 {
+"slug": "legea-7-1997",
+"path": "lege/1997/7",
+"kind": "lege",
+"year": "1997",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 7/1997 pentru aprobarea Ordonanţei Guvernului nr. 19/1996 privind asigurarea rambursării împrumutului de stat şi a dobânzilor aferente, destinat continuării participării României la construirea Combinatului minier de îmbogăţire a minereurilor acide cu conţinut de fier de la Krivoi-Rog - Ucraina",
+"short": "Legea nr. 7/1997",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1997-02-05",
+"latest": "1997-02-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/10866"
+},
+{
 "slug": "legea-8-1997",
 "path": "lege/1997/8",
 "kind": "lege",
@@ -195670,6 +195687,23 @@
 "from": "1997-01-24",
 "latest": "1997-01-24",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/10803"
+},
+{
+"slug": "og-7-1997",
+"path": "og/1997/7",
+"kind": "og",
+"year": "1997",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 7/1997 privind reglementarea modului de plată a personalului angajat prin convenţii civile pentru încasarea creanţelor bugetare",
+"short": "OG nr. 7/1997",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1997-01-29",
+"latest": "1997-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/10877"
 },
 {
 "slug": "og-8-1997",

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12616 acts, 24,131 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12618 acts, 24,133 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8487, of which 3212 amending acts)
+## Laws (legi) (8488, of which 3213 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -383,6 +383,7 @@
 | Legea nr. 137/1996 pentru aprobarea Ordonanţei Guvernului nr. 33/1995 privind măsuri pentru colectarea, reciclarea şi reintroducerea în circuitul productiv a deşeurilor refolosibile de orice fel | [`lege/1996/137/`](lege/1996/137/) | amended, not consolidated | 1 | 1996-10-28 | 1996-10-28 |
 | Legea nr. 140/1996 pentru modificarea și completarea Codului penal | [`lege/1996/140/`](lege/1996/140/) | amending act | 1 | 1996-11-14 | 1996-11-14 |
 | Legea nr. 141/1996 pentru modificarea şi completarea Codului de procedura penală | [`lege/1996/141/`](lege/1996/141/) | amended, not consolidated | 1 | 1996-11-14 | 1996-11-14 |
+| Legea nr. 7/1997 pentru aprobarea Ordonanţei Guvernului nr. 19/1996 privind asigurarea rambursării împrumutului de stat şi a dobânzilor aferente, destinat continuării participării României la construirea Combinatului minier de îmbogăţire a minereurilor acide cu conţinut de fier de la Krivoi-Rog - Ucraina | [`lege/1997/7/`](lege/1997/7/) | amending act | 1 | 1997-02-05 | 1997-02-05 |
 | Legea nr. 8/1997 pentru ratificarea Acordului dintre Guvernul României, pe de o parte, şi Uniunea Economică Belgo-Luxemburgheza, pe de altă parte, privind promovarea şi protejarea reciprocă a investiţiilor, semnat la Bruxelles la 4 martie 1996 | [`lege/1997/8/`](lege/1997/8/) | amended, not consolidated | 1 | 1997-02-06 | 1997-02-06 |
 | Legea nr. 13/1997 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Australiei privind comerţul şi cooperarea economică, încheiat la Bucureşti la 8 noiembrie 1995 | [`lege/1997/13/`](lege/1997/13/) | amended, not consolidated | 1 | 1997-02-11 | 1997-02-11 |
 | Legea nr. 14/1997 pentru ratificarea Tratatului Cartei Energiei şi a Protocolului Cartei Energiei privind eficienta energetica şi aspecte legate de mediu, încheiate la Lisabona la 17 decembrie 1994 | [`lege/1997/14/`](lege/1997/14/) | amended, not consolidated | 1 | 1997-02-18 | 1997-02-18 |
@@ -11462,7 +11463,7 @@
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 | Ordonanța de urgență a Guvernului nr. 39/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic şi didactic auxiliar, precum şi unei prime de carieră profesională pentru personalul administrativ din învăţământul de stat, suportate din fonduri externe nerambursabile, precum şi pentru instituirea unor reglementări în vederea gestionării Programului Educaţie şi Ocupare 2021-2027 | [`oug/2026/39/`](oug/2026/39/) | amended, not consolidated | 1 | 2026-05-06 | 2026-05-06 |
 
-## Ordinances (OG) (1029, of which 121 amending acts)
+## Ordinances (OG) (1030, of which 121 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11556,6 +11557,7 @@
 | Ordonanța Guvernului nr. 39/1996 | [`og/1996/39/`](og/1996/39/) | in force | 17 | 1996-08-30 | 2015-12-14 |
 | Ordonanța Guvernului nr. 40/1996 privind modificarea şi completarea reglementărilor referitoare la majorarea capitalului social al societăţilor bancare | [`og/1996/40/`](og/1996/40/) | amended, not consolidated | 1 | 1996-08-30 | 1996-08-30 |
 | Ordonanța Guvernului nr. 3/1997 pentru ratificarea Acordului de împrumut (Proiectul privind restructurarea Administraţiei Naţionale a Drumurilor şi reabilitarea drumurilor) dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 20 noiembrie 1996, şi a Acordului de împrumut (Proiectul de reabilitare a drumurilor II) dintre România şi Banca Europeană de Investiţii şi Administraţia Naţionala a Drumurilor, semnat la Luxemburg la 23 octombrie 1996 şi la Bucureşti la 25 octombrie 1996 | [`og/1997/3/`](og/1997/3/) | amended, not consolidated | 1 | 1997-01-24 | 1997-01-24 |
+| Ordonanța Guvernului nr. 7/1997 privind reglementarea modului de plată a personalului angajat prin convenţii civile pentru încasarea creanţelor bugetare | [`og/1997/7/`](og/1997/7/) | in force | 1 | 1997-01-29 | 1997-01-29 |
 | Ordonanța Guvernului nr. 8/1997 privind stimularea cercetării-dezvoltării şi inovării | [`og/1997/8/`](og/1997/8/) | repealed 2002-08-30 | 2 | 1997-01-31 | 2002-08-30 |
 | Ordonanța Guvernului nr. 10/1997 privind acordarea unor drepturi sociale suplimentare elevilor şi studenţilor din învăţământul de stat, cursuri de zi, în anul 1997 | [`og/1997/10/`](og/1997/10/) | amended, not consolidated | 1 | 1997-08-05 | 1997-08-05 |
 | Ordonanța Guvernului nr. 12/1997 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind ajustarea sectorului de protecţie socială, în suma de 50 milioane dolari S.U.A | [`og/1997/12/`](og/1997/12/) | amended, not consolidated | 1 | 1997-08-11 | 1997-08-11 |
@@ -12682,7 +12684,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 29663 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 29669 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |
