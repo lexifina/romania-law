@@ -3,6 +3,96 @@
  "shard": "local/judet/botosani/2024",
  "acts": [
   {
+   "slug": "hcj-botosani-10-2024",
+   "path": "local/judet/botosani/2024/10",
+   "short": "HCJ Botoșani nr. 10/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 10/2024 privind aprobarea trecerii unor bunuri din domeniul public al județului Botoșani în domeniul privat al acestuia, în vederea scoaterii din funcțiune, demolării, respectiv casării",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H010_20240126.pdf",
+     "sha256": "9543072c8860b2fab43bd1b626d443d2f7aa80c1c40b34f509ce4ea25f087597"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-104-2024",
+   "path": "local/judet/botosani/2024/104",
+   "short": "HCJ Botoșani nr. 104/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 104/2024 privind aprobarea monografiei economico-militare a judeţului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H104_20240627.pdf",
+     "sha256": "0260cbe7711413e83d74593e8ba91b95c9d63fe1b7ebce6c923b6585a7ab57c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-105-2024",
+   "path": "local/judet/botosani/2024/105",
+   "short": "HCJ Botoșani nr. 105/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 105/2024 privind aprobarea trecerii unor bunuri din domeniul public al județului Botoșani în domeniul privat al acestuia, în vederea scoaterii din funcțiune, demolării, respectiv casării",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H105_20240627.pdf",
+     "sha256": "c26532ad2643cbd017c50519d199a8f1a8040d3becaf3d12922881ac25cf7208"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-106-2024",
+   "path": "local/judet/botosani/2024/106",
+   "short": "HCJ Botoșani nr. 106/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 106/2024 privind aprobarea închirierii prin licitație publică a unui teren aparținând domeniului public al Județului Botoșani, aflat în administrarea Liceului Tehnologic ”Al. Vlahuță” Șendriceni",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H106_20240627.pdf",
+     "sha256": "8f37c90c8821b7bb5f5fa16453e18a232fc7f64c78cbe76bea08ead73f9194ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-107-2024",
+   "path": "local/judet/botosani/2024/107",
+   "short": "HCJ Botoșani nr. 107/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 107/2024 privind modificarea și completarea inventarului bunurilor imobile care aparțin domeniului privat al județului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H107_20240627.pdf",
+     "sha256": "8716b5ef68fbee4212a1a153794843900554fc0b2ca5f1ac9935070f3c597e4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-11-2024",
+   "path": "local/judet/botosani/2024/11",
+   "short": "HCJ Botoșani nr. 11/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 11/2024 privind declararea unor bunuri de interes public județean și darea acestora în administrarea Direcției Generale de Asistență Socială și Protecția Copilului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H011_20240126.pdf",
+     "sha256": "e017ffb3fd4d4098d4deb377b31e7c200ce3a115b97499a7be62f75664bebec6"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-111-2024",
    "path": "local/judet/botosani/2024/111",
    "short": "HCJ Botoșani nr. 111/2024",
@@ -14,6 +104,291 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/H111_20240627.pdf",
      "sha256": "3883d943a64648ae76be472cb6bd51e1ea8607f3dba4ee1cb3538f577c24c8a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-112-2024",
+   "path": "local/judet/botosani/2024/112",
+   "short": "HCJ Botoșani nr. 112/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 112/2024 privind aprobarea duratei concediului de odihnă suplimentar pentru funcționarii publici și personalul contractual din cadrul Serviciului Public Comunitar de Evidență a Persoanelor al Județului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H112_20240627.pdf",
+     "sha256": "5d802f5a90fee83474f5224b5acba48c03c482dcfa111111953b094571ecdf34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-113-2024",
+   "path": "local/judet/botosani/2024/113",
+   "short": "HCJ Botoșani nr. 113/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 113/2024 privind aprobarea Regulamentelor de organizare și funcționare ale unor servicii sociale care funcționează în cadrul Direcției Generale de Asistență Socială și Protecția Copilului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H113_20240627.pdf",
+     "sha256": "2acf35245a715f5ca85bb1dffd1fb7007fc329c8457d5da1064f411d328cb14b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-115-2024",
+   "path": "local/judet/botosani/2024/115",
+   "short": "HCJ Botoșani nr. 115/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 115/2024 privind aprobarea organigramei și statului de funcții ale Centrului Județean pentru Conservarea și Promovarea Culturii Tradiționale Botoșani, instituție publică de cultură de interes județean subordonată Consiliului Județean Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H115_20240627.pdf",
+     "sha256": "65ecff766610da30cead616e16c72c5409f64741f41c149ca7fc91f21153911a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-116-2024",
+   "path": "local/judet/botosani/2024/116",
+   "short": "HCJ Botoșani nr. 116/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 116/2024 privind aprobarea organigramei și statului de funcții ale aparatului de specialitate al Consiliului Județean Botoșani, precum și ale unor instituții subordonate",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H116_20240627.pdf",
+     "sha256": "2d0b5f686baf8ff2b590ac6c0da9cb589504580bb4ceffa9034cb845c583bf06"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-118-2024",
+   "path": "local/judet/botosani/2024/118",
+   "short": "HCJ Botoșani nr. 118/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 118/2024 privind aprobarea documentației tehnico-economice (faza D.A.L.I.) și a indicatorilor tehnico-economici pentru obiectivul de investiții ,,Reabilitarea și Modernizarea Centrului de Servicii de Recuperare Neuromotorie de Tip Ambulatoriu pentru Persoane Adulte cu Dizabilități Botoșani”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-07-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H118_20240716.pdf",
+     "sha256": "9980ce24f64f30612598ada4728a71e879e1d6b3c95bd77628d2122b5852cc3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-12-2024",
+   "path": "local/judet/botosani/2024/12",
+   "short": "HCJ Botoșani nr. 12/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 12/2024 pentru aprobarea cotizației Județului Botoșani pentru anul 2024 către Asociaţia de Dezvoltare Intercomunitară „ECOPROCES” Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H012_20240126.pdf",
+     "sha256": "394661f5ef74a7eb76ffd065c4ada1a07e60d92833df2e4a48ace0d3e3a2cc66"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-122-2024",
+   "path": "local/judet/botosani/2024/122",
+   "short": "HCJ Botoșani nr. 122/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 122/2024 de completare a Hotărârii Consiliului Județean nr.145/04.08.2023 privind solicitarea de trecere cu titlu gratuit a unor drumuri forestiere și a terenurilor aferente din domeniul public al statului și din administrarea Regiei Naționale a Pădurilor - Romsilva în domeniul public al Județului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-07-16",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H122_20240716.pdf",
+     "sha256": "f6e15f31252a43d88255d6a35894d656e8597406cff099bae367a941f8559a6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-124-2024",
+   "path": "local/judet/botosani/2024/124",
+   "short": "HCJ Botoșani nr. 124/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 124/2024 privind aprobarea unui credit de angajament pentru acţiuni multianuale – perioada 2024 - 2025",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H124_20240726.pdf",
+     "sha256": "b853c58a777daa1683637472c0eba3dd5af11fd619bbac1a6f550f2eaff6ac8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-125-2024",
+   "path": "local/judet/botosani/2024/125",
+   "short": "HCJ Botoșani nr. 125/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 125/2024 privind desemnarea persoanelor pentru ținerea evidenței în Registrul datoriei publice locale și în Registrul garanțiilor locale ale Județului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H125_20240726.pdf",
+     "sha256": "6c315a05ce4cbb5af52f9120033e846ca0d3339b0b6370a5bc4c9c03378aba46"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-126-2024",
+   "path": "local/judet/botosani/2024/126",
+   "short": "HCJ Botoșani nr. 126/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 126/2024 privind aprobarea contului de execuție al bugetului propriu județean și al bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii, pe cele două secțiuni, pentru perioada 01.01 – 30.06.2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H126_20240726.pdf",
+     "sha256": "d407068d0081f953b97b19a1bc2275f92518de987a2ee442b983d56c8c5578d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-127-2024",
+   "path": "local/judet/botosani/2024/127",
+   "short": "HCJ Botoșani nr. 127/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 127/2024 privind aprobarea atribuirii unui spațiu Structurii Teritoriale pentru Probleme Speciale Botoșani aflată în subordinea Administrației Naționale a Rezervelor de Stat și Probleme Speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H127_20240726.pdf",
+     "sha256": "06fb0abae471aae8b96a0f26584b7972b2d3187b2c3aba8bb65b3747f8f7c760"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-128-2024",
+   "path": "local/judet/botosani/2024/128",
+   "short": "HCJ Botoșani nr. 128/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 128/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H128_20240726.pdf",
+     "sha256": "b8ab66c35e082ac69eab8a7b8d8d6057c5d1504a5387bc16099c19232bede50e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-129-2024",
+   "path": "local/judet/botosani/2024/129",
+   "short": "HCJ Botoșani nr. 129/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 129/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H129_20240726.pdf",
+     "sha256": "9443f2b7e7734442a3a891ee0b1caf2f85a1b1296039cdacaaa8805cea14c68a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-13-2024",
+   "path": "local/judet/botosani/2024/13",
+   "short": "HCJ Botoșani nr. 13/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 13/2024 pentru aprobarea cotizaţiei Județului Botoșani pentru anul 2024 către Asociaţia de Dezvoltare Intercomunitară ”AQUA BOTOŞANI”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H013_20240126.pdf",
+     "sha256": "4da856f05f48c33a7be60dc2ddbb6b72a4f1999c61bacc53a4e98732bd09fe0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-130-2024",
+   "path": "local/judet/botosani/2024/130",
+   "short": "HCJ Botoșani nr. 130/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 130/2024 privind însușirea documentației de dezlipire a imobilului teren intravilan în suprafață de 16.700 mp, înscris în Cartea Funciară nr. 51148-Suharău, proprietate publică a Județului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H130_20240726.pdf",
+     "sha256": "ebe7dbb8e8045d74935eb382eb9614f67233a0fdd62a4e5f30e18f59af4e73df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-131-2024",
+   "path": "local/judet/botosani/2024/131",
+   "short": "HCJ Botoșani nr. 131/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 131/2024 privind aprobarea închirierii prin licitație publică a unui spațiu aparținând domeniului public al Județului Botoșani, aflat în administrarea Direcției Generale de Asistență Socială și Protecția Copilului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H131_20240726.pdf",
+     "sha256": "eafcc7d8d6041a201f3e08c995d805855de1aa36b7f56c484c68bd89e1a49bb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-132-2024",
+   "path": "local/judet/botosani/2024/132",
+   "short": "HCJ Botoșani nr. 132/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 132/2024 privind aprobarea dării în administrare a fondului forestier ce aparține domeniului public al Județului Botoșani, în suprafață totală de 1,2522 ha, către Regia Națională a Pădurilor - ROMSILVA, prin Direcția Silvică Botoșani – Ocolul Silvic Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H132_20240726.pdf",
+     "sha256": "72703c6e567d77bf38ba32babc37d4574d397a4feae7fa5dc3684f04731d95cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-133-2024",
+   "path": "local/judet/botosani/2024/133",
+   "short": "HCJ Botoșani nr. 133/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 133/2024 privind modificarea Regulamentului de organizare și funcționare a Memorialului Ipotești - Centrul National de Studii “Mihai Eminescu”, aprobat prin Hotărârea Consiliului Județean Botoșani nr. 117 din 27.06.2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H133_20240726.pdf",
+     "sha256": "570272a7a953487a68bc9fefb07c6dd3e90bf5a10d615867c04e3161673bac01"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-134-2024",
+   "path": "local/judet/botosani/2024/134",
+   "short": "HCJ Botoșani nr. 134/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 134/2024 privind aprobarea Acordului de cooperare între Județul Botoșani din România și Regiunea Cernăuți din Ucraina",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H134_20240726.pdf",
+     "sha256": "99423d88a6f5558dd0de83a795b9acc57f742ea95950f2c69640ee01bd0bdb99"
     }
    ]
   },
@@ -33,6 +408,81 @@
    ]
   },
   {
+   "slug": "hcj-botosani-14-2024",
+   "path": "local/judet/botosani/2024/14",
+   "short": "HCJ Botoșani nr. 14/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 14/2024 privind modificarea statului de funcții al Bibliotecii Județene „Mihai Eminescu” Botoșani, aprobat prin Hotărârea Consiliului Județean Botoșani nr. 143 din 30.06.2021, modificat prin Hotărârea Consiliului Județean Botoșani nr.272 din 21.12.2022",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H014_20240126.pdf",
+     "sha256": "6b965cf6dcea6475e9317c3a985256c189c226afd0e77170ecf93f85bc63f24a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-140-2024",
+   "path": "local/judet/botosani/2024/140",
+   "short": "HCJ Botoșani nr. 140/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 140/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H140_20240726.pdf",
+     "sha256": "fef3847b7822256925febd965e538a57189ebcc20674016bede9b45502ab6c62"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-141-2024",
+   "path": "local/judet/botosani/2024/141",
+   "short": "HCJ Botoșani nr. 141/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 141/2024 privind aprobarea Protocolului de colaborare între Judeţul Botoşani şi Inspectoratul pentru Situații de Urgență ”Nicolae Iorga” al Județului Botoșani, precum și aprobarea finanțării realizării unor materiale de susținere a activităților pentru continuarea campaniei de informare, conștientiz",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H141_20240726.pdf",
+     "sha256": "9d3b3f1679959392073ebcb4c7c20254fa126ac56aebfd168defa764392a399c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-142-2024",
+   "path": "local/judet/botosani/2024/142",
+   "short": "HCJ Botoșani nr. 142/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 142/2024 privind aprobarea Protocolului de colaborare între Judeţul Botoşani şi Inspectoratul de Poliție Judeţean Botoşani, precum și aprobarea finanțării achiziției de materiale preventive necesare susținerii activităților în domeniul prevenirii victimizării minorilor și a prevenirii criminalității",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H142_20240726.pdf",
+     "sha256": "f8134daca5ac14e6b0f13b4f0313f7317752b879d086fa741b57a50ac1e596ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-145-2024",
+   "path": "local/judet/botosani/2024/145",
+   "short": "HCJ Botoșani nr. 145/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 145/2024 privind aprobarea documentației tehnico-economice (faza Studiu de Fezabilitate), a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții ,,CONSTRUIRE CLĂDIRE CU DESTINAȚIA PEDIATRIE, b-dul Mihai Eminescu nr. 12, municipiul Botoșani, județul Botoșani”, în cad",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H145_20240822.pdf",
+     "sha256": "75e78da8ea26d32628b75fd10f5c5ef105e8e30068c39cbeb7153b7be15a9b76"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-147-2024",
    "path": "local/judet/botosani/2024/147",
    "short": "HCJ Botoșani nr. 147/2024",
@@ -44,6 +494,66 @@
      "units": 3,
      "source_url": "https://www.cjbotosani.ro/files/H147_20240828.pdf",
      "sha256": "942a80dcab6be4461ec2409952c04f925fc6ff3e994176bcb475ab2d800a9638"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-148-2024",
+   "path": "local/judet/botosani/2024/148",
+   "short": "HCJ Botoșani nr. 148/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 148/2024 privind neexercitarea dreptului de preempțiune asupra bunului imobil monument istoric cod BT-II-a-A-01856, situat în municipiul Botoșani, str. 1 Decembrie, nr. 59 județul Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H148_20240828.pdf",
+     "sha256": "9d2b5907797772656dc1b503160ef6cf5720ba217817dbb2327def4f8a814c14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-149-2024",
+   "path": "local/judet/botosani/2024/149",
+   "short": "HCJ Botoșani nr. 149/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 149/2024 privind declararea de interes public județean a unor bunuri situate în localitatea Trușești, comuna Trușești, județul Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H149_20240828.pdf",
+     "sha256": "fc7ff5422753758d75bb8f8f29b204b077adf6cc6a678f693f8086df5f638db7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-15-2024",
+   "path": "local/judet/botosani/2024/15",
+   "short": "HCJ Botoșani nr. 15/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 15/2024 privind achitarea contribuţiei Judeţului Botoşani la Agenţia pentru Dezvoltare Regională Nord-Est Piatra Neamţ în sumă de 2.122.000 lei, din bugetul propriu judeţean pe anul 2024, pentru Fondul de Dezvoltare Regională, Biroul Regional de Cooperare Transfrontalieră Iași şi Biroul Regional de",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H015_20240126.pdf",
+     "sha256": "9d0a123184371c7ae49d0d3c9b7f6300b94ad642b008a428e41ddded70cbcf35"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-150-2024",
+   "path": "local/judet/botosani/2024/150",
+   "short": "HCJ Botoșani nr. 150/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 150/2024 privind aprobarea valorii unitare lei/kilometru aferentă sumei forfetare lunare și aprobarea sumei forfetare pe zi, acordată elevilor din județul Botoșani care sunt școlarizați în altă localitate decât cea de domiciliu și nu beneficiază de existența serviciilor de transport public",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H150_20240828.pdf",
+     "sha256": "ad63a00f8fb802aa3f5ee0d9e91ed8922320b665d696588700d3c0cdd7fda5c3"
     }
    ]
   },
@@ -63,6 +573,576 @@
    ]
   },
   {
+   "slug": "hcj-botosani-152-2024",
+   "path": "local/judet/botosani/2024/152",
+   "short": "HCJ Botoșani nr. 152/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 152/2024 pentru îndreptarea erorii materiale din Hotărârea Consiliului Județean nr. 133 din 26.07.2024 privind modificarea Regulamentului de organizare și funcționare a Memorialului Ipotești - Centrul National de Studii “Mihai Eminescu”, aprobat prin Hotărârea Consiliului Județean Botoșani nr. 117 din 27.06.2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H152_20240828.pdf",
+     "sha256": "23483b2dccb86e8e19baa44194e10f98d12e396cdd0f6792b521d6c197363db4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-153-2024",
+   "path": "local/judet/botosani/2024/153",
+   "short": "HCJ Botoșani nr. 153/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 153/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H153_20240828.pdf",
+     "sha256": "3ae339b48bd6eab98243dc5eb62ae00721ea9f8b10511d5429c46312a4e8d746"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-155-2024",
+   "path": "local/judet/botosani/2024/155",
+   "short": "HCJ Botoșani nr. 155/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 155/2024 privind rectificarea bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii, aprobat pe anul 2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H155_20240906.pdf",
+     "sha256": "961f146b6ee16f034683838b2960a9e99d783f4a46b11367f0f00b3212d9e984"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-156-2024",
+   "path": "local/judet/botosani/2024/156",
+   "short": "HCJ Botoșani nr. 156/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 156/2024 privind atestarea inventarului bunurilor care aparțin domeniului public al județului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H156_20240930.pdf",
+     "sha256": "e6a2ba550f4764923920ce0865879d6a34cea5e61781a651e4ab0db61984f048"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-157-2024",
+   "path": "local/judet/botosani/2024/157",
+   "short": "HCJ Botoșani nr. 157/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 157/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H157_20240930.pdf",
+     "sha256": "154251d37e207f0c20c157cec235822d965817e891caf156f27740a977906574"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-158-2024",
+   "path": "local/judet/botosani/2024/158",
+   "short": "HCJ Botoșani nr. 158/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 158/2024 privind declararea de interes public județean a unor bunuri situate în localitatea Mihăileni, comuna Mihăileni, județul Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H158_20240930.pdf",
+     "sha256": "3f53936cceaf1ab9ee5c01bf5c86570b144df483d0a80eb94fcb386aef4bb175"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-159-2024",
+   "path": "local/judet/botosani/2024/159",
+   "short": "HCJ Botoșani nr. 159/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 159/2024 privind aprobarea închirierii prin licitație publică a unui spațiu amplasat în imobilul „Dispensar medical nr. 3”, situat în municipiul Botoșani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H159_20240930.pdf",
+     "sha256": "0f08dfbd88e927b34f223ed0a6f1973d382245d37e96900c1f716e6429fa07df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-16-2024",
+   "path": "local/judet/botosani/2024/16",
+   "short": "HCJ Botoșani nr. 16/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 16/2024 privind achitarea cotizaţiei anuale a Judeţului Botoşani la Asociaţia de Dezvoltare Intercomunitară EURONEST– Iaşi în sumă de 29.706,60 euro, din bugetul propriu judeţean, pentru anul 2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H016_20240126.pdf",
+     "sha256": "66fafa2f28b334f074ffa255ee0c957f3a45a05f20c5e42401cead47d3ecfbbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-160-2024",
+   "path": "local/judet/botosani/2024/160",
+   "short": "HCJ Botoșani nr. 160/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 160/2024 privind aprobarea trecerii unor bunuri din domeniului privat al județului Botoșani în domeniul public al acestuia",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H160_20240930.pdf",
+     "sha256": "343ff91bfb5810df42b64d77be56505556a7efee63949eda9fe9ae5634b87e94"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-161-2024",
+   "path": "local/judet/botosani/2024/161",
+   "short": "HCJ Botoșani nr. 161/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 161/2024 pentru aprobarea „Propunerilor de încadrare a drumurilor județene pe niveluri de viabilitate în timpul iernii 2024 – 2025” și a „Planului operativ de acțiune pe timpul iernii pe drumurile județene din județul Botoșani ~ IARNA 2024 – 2025”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H161_20240930.pdf",
+     "sha256": "554bc022c12c8116c42013e9c5c4ff50d2af82b5c2f0fec5ce72ec5e63cdd97f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-163-2024",
+   "path": "local/judet/botosani/2024/163",
+   "short": "HCJ Botoșani nr. 163/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 163/2024 privind aprobarea organigramei şi statului de funcții ale Direcției Generale de Asistență Socială și Protecția Copilului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H163_20240930.pdf",
+     "sha256": "c5aaa78542b83d1ec6637f31d2d396439f0f5dd2a8db7c42fa696ed24080d5c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-167-2024",
+   "path": "local/judet/botosani/2024/167",
+   "short": "HCJ Botoșani nr. 167/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 167/2024 pentru aprobarea modificării cotizaţiei Județului Botoșani către Asociaţia de Dezvoltare Intercomunitară ”AQUA BOTOŞANI”, pentru trimestrul IV al anului 2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H167_20240930.pdf",
+     "sha256": "de4077da1d40ca5ee6fcdaad3defbb25d6ba228429d5a3d20f3cef5ecde03a55"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-169-2024",
+   "path": "local/judet/botosani/2024/169",
+   "short": "HCJ Botoșani nr. 169/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 169/2024 privind aprobarea trecerii imobilului situat în localitatea Suharău, înscris în Cartea Funciară nr. 53418 – Suharău, din domeniul public al județului Botoșani în domeniul public al comunei Suharău",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H169_20240930.pdf",
+     "sha256": "37cdc64a85c304a4815452c6b1346994dde79e4254ecce24c571193f769347e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-173-2024",
+   "path": "local/judet/botosani/2024/173",
+   "short": "HCJ Botoșani nr. 173/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 173/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H173_20240930.pdf",
+     "sha256": "f466a327d66d9b11655d7f703ae636e7b6637e5f6984d52c6695a851bc94fb13"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-174-2024",
+   "path": "local/judet/botosani/2024/174",
+   "short": "HCJ Botoșani nr. 174/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 174/2024 privind actualizarea componenței Comitetului de analiză a problemelor persoanelor cu handicap Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H174_20240930.pdf",
+     "sha256": "9f15db1e1d8dde0d54bf7b09f4a90b072064075e2ee70d3e63bb583bd17eaa66"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-175-2024",
+   "path": "local/judet/botosani/2024/175",
+   "short": "HCJ Botoșani nr. 175/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 175/2024 privind desemnarea a doi consilieri județeni din cadrul Consiliului Județean Botoșani pentru evaluarea parțială a performanțelor profesionale individuale ale secretarului general al județului pentru activitatea desfășurată în perioada 01.01.2024 - finalul mandatului președintelui Consiliulu",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H175_20240930.pdf",
+     "sha256": "cbd6438851007511d9e611b7415ce53c4ba4a24162014400e78711ffc5cad7d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-177-2024",
+   "path": "local/judet/botosani/2024/177",
+   "short": "HCJ Botoșani nr. 177/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 177/2024 privind acordarea de sprijin financiar din bugetul propriu județean pe anul 2024 unor unități de cult din județul Botoșani aparținând cultelor religioase recunoscute în România",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H177_20241011.pdf",
+     "sha256": "9f749080259a1c88c9a10ecf6276326ca32c1b1bda4bd7ccdfbbe1bb715ec669"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-178-2024",
+   "path": "local/judet/botosani/2024/178",
+   "short": "HCJ Botoșani nr. 178/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 178/2024 privind aprobarea trecerii unor bunuri din domeniul public al județului Botoșani în domeniul privat al acestuia, pentru scoaterea din funcțiune, în vederea casării",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H178_20241011.pdf",
+     "sha256": "cc48d62f3e2bc01c6bce25c00e0416050396b4c96ef11983187d36e693826e15"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-18-2024",
+   "path": "local/judet/botosani/2024/18",
+   "short": "HCJ Botoșani nr. 18/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 18/2024 privind achitarea cotizaţiei Judeţului Botoşani la Uniunea Naţională a Consiliilor Judeţene din România, pentru anul 2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H018_20240126.pdf",
+     "sha256": "a5a6b5ac0c8966fdde2f22937122f142ccd482f91db7bf2f51a53aa66c0462d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-180-2024",
+   "path": "local/judet/botosani/2024/180",
+   "short": "HCJ Botoșani nr. 180/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 180/2024 privind darea unor bunuri, aparținând domeniului public al județului Botoșani, în administrarea Direcției Generale de Asistență Socială și Protecția Copilului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H180_20241023.pdf",
+     "sha256": "3dbccaa126e694d6e1c67dd4fac31eee856adc804a83177d8f16d5c1de17ec8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-181-2024",
+   "path": "local/judet/botosani/2024/181",
+   "short": "HCJ Botoșani nr. 181/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 181/2024 privind aprobarea actualizării datelor aferente imobilului situat în loc. Trușești, aparținând domeniului public al județului Botoșani, înscris în Cartea Funciară nr. 52449-Trușești",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H181_20241023.pdf",
+     "sha256": "bdbb4e989fbb56984a5d60e05da0367dc1184b56aa9cbe8f584d99f039c39ad3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-182-2024",
+   "path": "local/judet/botosani/2024/182",
+   "short": "HCJ Botoșani nr. 182/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 182/2024 privind declararea unui bun de interes public județean și darea acestuia în administrarea Muzeului Județean Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H182_20241023.pdf",
+     "sha256": "bf66754e3f199cdbffa59084e299d91805de9d632527fd0f5b0270df6645fc7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-183-2024",
+   "path": "local/judet/botosani/2024/183",
+   "short": "HCJ Botoșani nr. 183/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 183/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H183_20241023.pdf",
+     "sha256": "5c6cc78a73072d68358c148a6912638f13861673cba0903631a824cf148978b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-184-2024",
+   "path": "local/judet/botosani/2024/184",
+   "short": "HCJ Botoșani nr. 184/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 184/2024 privind aprobarea contului de execuție al bugetului propriu județean și al bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii, pe cele două secțiuni, pentru perioada 01.01 – 30.09.2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H184_20241023.pdf",
+     "sha256": "0facd853c0a16db9eff5a7947c4d453f30f8f95398bb2c8b7709b0d3fbf8fffd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-186-2024",
+   "path": "local/judet/botosani/2024/186",
+   "short": "HCJ Botoșani nr. 186/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 186/2024 privind acordarea de sprijin financiar din bugetul propriu județean pe anul 2024 unei unități de cult din județul Botoșani aparținând cultelor religioase recunoscute în România",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H186_20241023.pdf",
+     "sha256": "4a649b9d73f051562fe489165a7ce83ee002697bb3e25253c008afc5b6159ade"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-188-2024",
+   "path": "local/judet/botosani/2024/188",
+   "short": "HCJ Botoșani nr. 188/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 188/2024 privind aprobarea devizului general și a indicatorilor tehnico economici actualizați după recepția lucrărilor de execuție pentru obiectivul de investiții „Modernizare DJ 293A, Coțușca – Viișoara Mică – Viișoara, km 1+010 – 7+000, judeţul Botoşani”, finanțat prin Programul național de invest",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H188_20241023.pdf",
+     "sha256": "bb9ba2f9fae511060b97a4d7ddfa33aa8ffb0d6042d5f7517b5e3454511acf0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-189-2024",
+   "path": "local/judet/botosani/2024/189",
+   "short": "HCJ Botoșani nr. 189/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 189/2024 privind solicitarea de trecere a unor bunuri imobile din domeniul public al comunei Cândești în domeniul public al Județului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H189_20241023.pdf",
+     "sha256": "39778fd6caf5abb54a0a0558f57287cd2b4226231699570d28e3e74741c1ff78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-19-2024",
+   "path": "local/judet/botosani/2024/19",
+   "short": "HCJ Botoșani nr. 19/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 19/2024 privind modificarea, în fază de propunere, a Criteriilor pentru stabilirea ordinii de prioritate în soluţionarea cererilor de locuinţe şi în repartizarea locuinţelor destinate închirierii, pentru specialişti din sănătate, din Blocul de locuinţe realizat prin Agenția Națională pentru Locuinț",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H019_20240126.pdf",
+     "sha256": "8a1a2bccd0940f103cea0949c64e8cbf4e4624932009c257d5d48c3774c3ae58"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-190-2024",
+   "path": "local/judet/botosani/2024/190",
+   "short": "HCJ Botoșani nr. 190/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 190/2024 privind aprobarea Protocolului de colaborare între Ministerul Afacerilor Externe și U.A.T Județul Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H190_20241023.pdf",
+     "sha256": "c272efbe066e40b96f99bfb5f1d3ae1065e55dec747e856979775f8c9bcd241a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-191-2024",
+   "path": "local/judet/botosani/2024/191",
+   "short": "HCJ Botoșani nr. 191/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 191/2024 privind modificarea Hotărârii Consiliului Județean Botoșani nr.278/21.12.2022 de numire a reprezentanților Consiliului Județean Botoșani în consiliul de administrație al Spitalului Județean de Urgență Mavromati Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H191_20241023.pdf",
+     "sha256": "d04c92bd594634764a264ebeebc55faa39df7c48a571bd09a654def6846fe98c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-192-2024",
+   "path": "local/judet/botosani/2024/192",
+   "short": "HCJ Botoșani nr. 192/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 192/2024 privind modificarea Hotărârii Consiliului Județean Botoșani nr.279/21.12.2022 de numire a reprezentanților Consiliului Județean Botoșani în consiliul de administrație al Sanatoriului de Neuropsihiatrie Podriga",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H192_20241023.pdf",
+     "sha256": "d0b2d5c92fa3e2f47a85e5d67d9b4b363b6086333d0b23341be5267b31d8658b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-194-2024",
+   "path": "local/judet/botosani/2024/194",
+   "short": "HCJ Botoșani nr. 194/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 194/2024 privind alegerea vicepreşedinţilor Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H194_20241028.pdf",
+     "sha256": "ea548228c3e8d12d382199bd179f627be338b3afbd2e73b72729acfa5d34e445"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-197-2024",
+   "path": "local/judet/botosani/2024/197",
+   "short": "HCJ Botoșani nr. 197/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 197/2024 privind aprobarea modificării indicatorilor tehnico – economici și a Devizului General pentru obiectivul de investiţii ”Construire Clădire Laborator Microbiologie Boli Infecțioase pentru Biologie Moleculară RT- PCR, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H197_20241115.pdf",
+     "sha256": "529b4691188bc326de1cfeb64025acee0554de0f1282a10ab96ca32556607828"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-200-2024",
+   "path": "local/judet/botosani/2024/200",
+   "short": "HCJ Botoșani nr. 200/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 200/2024 privind declararea de interes public județean a unui bun situat în localitatea Ștefănești, județul Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H200_20241128.pdf",
+     "sha256": "3c558d03147fc4cbb8897803f4c9b505f2db49d3b693e1ade248562ddc46a0d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-201-2024",
+   "path": "local/judet/botosani/2024/201",
+   "short": "HCJ Botoșani nr. 201/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 201/2024 privind aprobarea închirierii prin licitație publică a unui spațiu amplasat în orașul Săveni aparținând domeniului public al Județului Botoșani, aflat în administrarea Spitalului Județean de Urgență „Mavromati” Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H201_20241128.pdf",
+     "sha256": "e1ebce8bb6504db32193b13bf642e10ba98bf02c009f891384a71187e90458a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-204-2024",
+   "path": "local/judet/botosani/2024/204",
+   "short": "HCJ Botoșani nr. 204/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 204/2024 privind aprobarea categoriilor de cheltuieli finanțate de la bugetul de stat și din bugetul local, pentru obiectivul de investiţii ,,Lucrări de consolidare pentru reducerea riscului seismic la clădirea Sanatoriului de Neuropsihiatrie din sat Podriga, comuna Drăgușeni, Județul Botoșani”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H204_20241128.pdf",
+     "sha256": "d0e6594cd739c9e94c4cea264cf1002417e43e050f05ea4e839217483d1963a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-205-2024",
+   "path": "local/judet/botosani/2024/205",
+   "short": "HCJ Botoșani nr. 205/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 205/2024 privind aprobarea devizului general actualizat după încheierea contractului de achiziție a lucrărilor de execuție pentru obiectivul de investiții ,,Lucrări de consolidare pentru reducerea riscului seismic şi lucrări de intervenţie pentru creşterea eficienţei energetice la clădirea Protecţie",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H205_20241128.pdf",
+     "sha256": "727abe62d06179c032dc730c89814eab004b9a960c00a86998b9b4020603c640"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-209-2024",
+   "path": "local/judet/botosani/2024/209",
+   "short": "HCJ Botoșani nr. 209/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 209/2024 privind repartizarea sumei corespunzătoare cotei de 6% din impozitul pe venit încasat suplimentar pe anul 2024 pe unități administrativ-teritoriale pentru finanțarea cheltuielilor de funcționare, a programelor de dezvoltare locală și programelor de infrastructură care necesită cofinanțare l",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H209_20241209.pdf",
+     "sha256": "b6b597fcdaf2bcdadedca38ace3ee9953eac139732346af552302b9bae8c0e99"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-21-2024",
    "path": "local/judet/botosani/2024/21",
    "short": "HCJ Botoșani nr. 21/2024",
@@ -78,6 +1158,876 @@
    ]
   },
   {
+   "slug": "hcj-botosani-213-2024",
+   "path": "local/judet/botosani/2024/213",
+   "short": "HCJ Botoșani nr. 213/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 213/2024 privind aprobarea Regulamentelor de organizare şi funcţionare a Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Botoşani și a unor servicii sociale care funcționează în cadrul acesteia",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H213_20241219.pdf",
+     "sha256": "f2a3c54b3d6b29ef0a15d6bf96500bb299bdd40db977a8ef37a2d598af79c821"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-214-2024",
+   "path": "local/judet/botosani/2024/214",
+   "short": "HCJ Botoșani nr. 214/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 214/2024 privind darea în folosință gratuită Fundației „Star of Hope” România a unui imobil situat în localitatea Mănăstirea Doamnei, comuna Curtești, județul Botoșani, aparținând domeniului public al Județului Botoșani, aflat în administrarea Direcției Generale de Asistență Socială și Protecția Cop",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H214_20241219.pdf",
+     "sha256": "078adf8cec70010464fdfe8ee1ec650b7020389ed2ba27a188741adf181a3158"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-218-2024",
+   "path": "local/judet/botosani/2024/218",
+   "short": "HCJ Botoșani nr. 218/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 218/2024 privind aprobarea devizului general și a indicatorilor tehnico-economici actualizați după recepția lucrărilor de execuție pentru obiectivul de investiții „Modernizare DJ 293A, Coțușca – Viișoara Mică – Viișoara, km 1+010 – 7+000, judeţul Botoşani”, finanțat prin Programul național de invest",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H218_20241219.pdf",
+     "sha256": "de0d9ae2b19f529166522f34e2332c2c7641f8e53fca233733b5a00837cf2af4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-219-2024",
+   "path": "local/judet/botosani/2024/219",
+   "short": "HCJ Botoșani nr. 219/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 219/2024 privind aprobarea contului de execuție al bugetului propriu județean și al bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii, pe cele două secțiuni, pentru perioada 01.01 – 30.11.2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H219_20241219.pdf",
+     "sha256": "f8c7aa1df4a4870581e5811548244bff9da52d7f9c37efddb797f40291a34852"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-22-2024",
+   "path": "local/judet/botosani/2024/22",
+   "short": "HCJ Botoșani nr. 22/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 22/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H022_20240126.pdf",
+     "sha256": "9e128bdfff7de2f149214b614bb360083b7ac26e47ddaeec35f60a31a6a9cd16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-221-2024",
+   "path": "local/judet/botosani/2024/221",
+   "short": "HCJ Botoșani nr. 221/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 221/2024 privind aprobarea unor măsuri pentru asigurarea continuității serviciului de transport public judeţean de persoane prin curse regulate în județul Botoșani, începând cu data de 01.01.2025",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H221_20241219.pdf",
+     "sha256": "e3ac358b8b06ec5c94efdbc9a7c34b8431fa26caa073215c596f58e4f413f4ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-223-2024",
+   "path": "local/judet/botosani/2024/223",
+   "short": "HCJ Botoșani nr. 223/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 223/2024 privind aprobarea efectuării concediului de odihnă restant, aferent anului 2024 de către persoanele cu funcții de demnitate publică din conducerea Consiliului Județean Botoșani, în cursul anului 2025",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H223_20241219.pdf",
+     "sha256": "9040049f8d62e53602471772ea5dc4dcfe1b2a289d860c074e86c7673b4f0df7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-224-2024",
+   "path": "local/judet/botosani/2024/224",
+   "short": "HCJ Botoșani nr. 224/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 224/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H224_20241219.pdf",
+     "sha256": "971dffee1f94be613562f8311c11ebfdfe8e554077b542cb6251213ec4b5b146"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-226-2024",
+   "path": "local/judet/botosani/2024/226",
+   "short": "HCJ Botoșani nr. 226/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 226/2024 privind desemnarea a 6 consilieri judeţeni în calitate de membri ai Autorităţii Teritoriale de Ordine Publică Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H226_20241219.pdf",
+     "sha256": "08b227550ca018d1fe26064429b8150e2936d6b43773c287d38b05c4ebdd21c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-24-2024",
+   "path": "local/judet/botosani/2024/24",
+   "short": "HCJ Botoșani nr. 24/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 24/2024 privind aprobarea componenței actualizate a Colegiului Director al Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H024_20240126.pdf",
+     "sha256": "4428f3c73b4404ef60479059490b835d697bc31faab9671d93e3b4867b8a4442"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-25-2024",
+   "path": "local/judet/botosani/2024/25",
+   "short": "HCJ Botoșani nr. 25/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 25/2024 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții ,,Construire Laborator de Radioterapie la Spitalul Județean de Urgență `Mavromati` str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H025_20240205.pdf",
+     "sha256": "8d25d8bd6b1f80ea3a416a02a7338e236546e37f31926f4c4a5a8a4b4917e2ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-26-2024",
+   "path": "local/judet/botosani/2024/26",
+   "short": "HCJ Botoșani nr. 26/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 26/2024 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții „REABILITARE ȘI MODERNIZARE CORP F”, str. Marchian, nr.11, municipiul Botoșani, județul Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H026_20240205.pdf",
+     "sha256": "eeaa88d8e43f1631012b7cf402af48e8f19d2333286d02d45b85e68d0d7ebeea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-27-2024",
+   "path": "local/judet/botosani/2024/27",
+   "short": "HCJ Botoșani nr. 27/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 27/2024 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul de investiții ,,Lucrări de consolidare pentru reducerea riscului seismic la clădirea Sanatoriului de Neuropsihiatrie din localitatea Podriga, comuna Drăgușeni, Județul Botoșani”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H027_20240205.pdf",
+     "sha256": "332f5799fa2ade4a5b0443c410019ef2faea3322d5ce709f112d0a6c0d53e971"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-28-2024",
+   "path": "local/judet/botosani/2024/28",
+   "short": "HCJ Botoșani nr. 28/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 28/2024 pentru aprobarea Planului anual de acțiune privind serviciile sociale din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Botoșani, administrate și finanțate de",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H028_20240205.pdf",
+     "sha256": "67ab12038cbf2778adc0523dc132a7176ff4734f4a8639d647071e583ba79717"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-29-2024",
+   "path": "local/judet/botosani/2024/29",
+   "short": "HCJ Botoșani nr. 29/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 29/2024 privind aprobarea bugetului propriu judeţean și al bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii, pe anul 2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H029_20240205.pdf",
+     "sha256": "aca1a66610de1a669b2cbc0f3879299782c923126f89c7924e54c17ef9518079"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-3-2024",
+   "path": "local/judet/botosani/2024/3",
+   "short": "HCJ Botoșani nr. 3/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 3/2024 privind repartizarea sumelor defalcate din taxa pe valoarea adăugată pentru finanţarea cheltuielilor privind drumurile judeţene şi comunale, pe anul 2024 şi estimările pentru anii 2025 - 2027",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H003_20240112.pdf",
+     "sha256": "f4cf1e697bf3158c922aabd7589ab89e186d2da383c915670adc946fb69c8665"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-31-2024",
+   "path": "local/judet/botosani/2024/31",
+   "short": "HCJ Botoșani nr. 31/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 31/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H031_20240228.pdf",
+     "sha256": "c7eca47537c7136598ed7cce05506dd1ffd602abaed03d9a95f33b50c33fb2a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-32-2024",
+   "path": "local/judet/botosani/2024/32",
+   "short": "HCJ Botoșani nr. 32/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 32/2024 pentru aprobarea Raportului anual nr. 5, aferent anului 2023, cu privire la stadiul realizării măsurilor din „Planul de menținere a calității aerului în Județul Botoșani”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H032_20240228.pdf",
+     "sha256": "b023a0a512fb42d61f8c7f78667b960166bfed70583315ccc9bdac4531a63a4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-33-2024",
+   "path": "local/judet/botosani/2024/33",
+   "short": "HCJ Botoșani nr. 33/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 33/2024 privind aprobarea închirierii prin licitație publică a unui spațiu amplasat în imobilul „Dispensar medical nr. 3”, situat în municipiul Botoșani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H033_20240228.pdf",
+     "sha256": "72b08afa53fb9728b71d9193e3e065eda30839f5abd5d2d530d075baa7e44c11"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-34-2024",
+   "path": "local/judet/botosani/2024/34",
+   "short": "HCJ Botoșani nr. 34/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 34/2024 privind aprobarea cuantumului actualizat al chiriilor pentru locuințele construite de Agenția Națională pentru Locuințe destinate specialiștilor din domeniul sănătății",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H034_20240228.pdf",
+     "sha256": "ee2ebe5f730ce9360144867adf5b5a1cc6b434d4b0a32fe721e643d5ab5d8331"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-35-2024",
+   "path": "local/judet/botosani/2024/35",
+   "short": "HCJ Botoșani nr. 35/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 35/2024 privind declararea unui bun de interes public județean și darea acestuia în administrarea Unității de Asistență Medico – Socială Săveni",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H035_20240228.pdf",
+     "sha256": "63edb17a9887fce126dd8fce258c55b30131ee2d2fa0e778a6ff8b86f7ea8bf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-36-2024",
+   "path": "local/judet/botosani/2024/36",
+   "short": "HCJ Botoșani nr. 36/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 36/2024 privind aprobarea Regulamentului de organizare şi funcţionare a Unității de Asistență Medico-Socială Săveni din subordinea Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H036_20240228.pdf",
+     "sha256": "53dfdc44a5cc168bbed0cbb899418b611647ff424b7d442a00ee1750cf71c4aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-38-2024",
+   "path": "local/judet/botosani/2024/38",
+   "short": "HCJ Botoșani nr. 38/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 38/2024 privind modificarea statului de funcții al Muzeului Județean Botoșani, aprobat prin Hotărârea Consiliului Județean Botoșani nr. 126 din 27.06.2022, modificată prin Hotărârea Consiliului Județean Botoșani nr. 262 din 21.12.2022",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H038_20240228.pdf",
+     "sha256": "817ae550d29261180dbbd97b0a2f82c355c740b2ace21bcaa7ad62615a8f7f9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-39-2024",
+   "path": "local/judet/botosani/2024/39",
+   "short": "HCJ Botoșani nr. 39/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 39/2024 privind modificarea statului de funcții pentru Memorialul Ipotești – Centrul Național de Studii „ Mihai Eminescu ”, aprobat prin Hotărârea Consiliului Județean Botoșani nr. 181 din 28.09.2023",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H039_20240228.pdf",
+     "sha256": "e8ed8ccb0da3236c9108a735f04d838132388371655714bfc356e3d90007a783"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-4-2024",
+   "path": "local/judet/botosani/2024/4",
+   "short": "HCJ Botoșani nr. 4/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 4/2024 privind repartizarea sumei corespunzătoare cotei de 6% din impozitul pe venit, pe unități administrativ-teritoriale și pe destinații, pe anul 2024, precum și repartizarea sumelor estimate din cota de 6% din impozitul pe venit, a cotei de 20% din 14% din impozitul pe venit și cota de 20% din",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H004_20240112.pdf",
+     "sha256": "ba7aef60ec9dc04bdd583e0adc4753285188de969b77faa8452556a0a50faf36"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-40-2024",
+   "path": "local/judet/botosani/2024/40",
+   "short": "HCJ Botoșani nr. 40/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 40/2024 privind modificarea componenței Autorității Teritoriale de Ordine Publică Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H040_20240228.pdf",
+     "sha256": "d669a9d04fc557af407baa7d43f2631aec99db66dd7159f9f99e1a7276822714"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-41-2024",
+   "path": "local/judet/botosani/2024/41",
+   "short": "HCJ Botoșani nr. 41/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 41/2024 privind aprobarea achiziţionării de servicii juridice de consultanță, asistență și/sau reprezentare a Spitalului Județean de Urgență Mavromati Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H041_20240228.pdf",
+     "sha256": "41bad03884c549053f496107dfed1b132540deda13d1f7dc2fbd0316b3c71245"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-43-2024",
+   "path": "local/judet/botosani/2024/43",
+   "short": "HCJ Botoșani nr. 43/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 43/2024 privind acordarea unor stimulente financiare personalului de specialitate din cadrul Spitalului Județean de Urgență „Mavromati” Botoșani din veniturile financiare proprii ale spitalului",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H043_20240228.pdf",
+     "sha256": "1e5d0c5d8b5fe99f7a13920fcfe0b03787fb56fa7b59bd2e76a037ff22088cce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-44-2024",
+   "path": "local/judet/botosani/2024/44",
+   "short": "HCJ Botoșani nr. 44/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 44/2024 privind desemnarea a doi consilieri județeni din cadrul Consiliului Județean Botoșani pentru evaluarea performanțelor profesionale individuale ale secretarului general al județului pentru activitatea desfășurată în perioada 01.01.2023 - 31.12.2023",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H044_20240228.pdf",
+     "sha256": "b6bfde283f3cd2aedd175777b688cef71aebb5f8c5eb5297d83fd2e3e7d884e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-45-2024",
+   "path": "local/judet/botosani/2024/45",
+   "short": "HCJ Botoșani nr. 45/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 45/2024 privind constituirea comisiei de evaluare a managementului Muzeului Județean Botoșani, instituție publică de cultură aflată în subordinea Consiliului Județean Botoșani, precum şi a comisiei de soluționare a contestațiilor",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H045_20240228.pdf",
+     "sha256": "0e7abae590e7a279ffe9872ab31a9865414eecba9037ae5ea08ea3c9894431f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-46-2024",
+   "path": "local/judet/botosani/2024/46",
+   "short": "HCJ Botoșani nr. 46/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 46/2024 privind constituirea comisiei de evaluare a managementului Şcolii Populare de Arte „George Enescu” Botoşani, instituție publică de cultură aflată în subordinea Consiliului Județean Botoșani, precum şi a comisiei de soluționare a contestațiilor",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H046_20240228.pdf",
+     "sha256": "925a5a262358cc1701b3cfd029ff731b36b6ef49fcd9947f7b12deb63c277850"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-47-2024",
+   "path": "local/judet/botosani/2024/47",
+   "short": "HCJ Botoșani nr. 47/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 47/2024 privind constituirea comisiei de evaluare a managementului Memorialului Ipoteşti – Centrul Naţional de Studii „Mihai Eminescu”, instituție publică de cultură aflată în subordinea Consiliului Județean Botoșani, precum şi a comisiei de soluționare a contestațiilor",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H047_20240228.pdf",
+     "sha256": "e15c0c475fa7405a141c0048dd9a93c56dc7abec51288dfb908c23b16d156196"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-48-2024",
+   "path": "local/judet/botosani/2024/48",
+   "short": "HCJ Botoșani nr. 48/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 48/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H048_20240228.pdf",
+     "sha256": "bffbc93602ec9039bee00913a7c5eb3313fe35e1e0a3b795921d97950749563c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-49-2024",
+   "path": "local/judet/botosani/2024/49",
+   "short": "HCJ Botoșani nr. 49/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 49/2024 privind constituirea comisiei de evaluare a managementului Centrului Judeţean pentru Conservarea şi Promovarea Culturii Tradiţionale Botoşani, instituție publică de cultură aflată în subordinea Consiliului Județean Botoșani, precum şi a comisiei de soluționare a contestațiilor",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H049_20240228.pdf",
+     "sha256": "fcc0f6e14a51470a655443b68299e0751ab3c596fe4aa90e591eb30d439ad534"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-5-2024",
+   "path": "local/judet/botosani/2024/5",
+   "short": "HCJ Botoșani nr. 5/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 5/2024 privind aprobarea valorii unitare lei/kilometru aferentă sumei forfetare lunare și aprobarea sumei forfetare pe zi, acordată elevilor din județul Botoșani care sunt școlarizați în altă localitate decât cea de domiciliu și nu beneficiază de existența serviciilor de transport public",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H005_20240117.pdf",
+     "sha256": "52bda198f90a3d323fe1d0b462523f0815ef014612e2e02e24a4babbac707542"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-50-2024",
+   "path": "local/judet/botosani/2024/50",
+   "short": "HCJ Botoșani nr. 50/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 50/2024 privind constituirea comisiei de evaluare a managementului Bibliotecii Județene „Mihai Eminescu” Botoșani, instituție publică de cultură aflată în subordinea Consiliului Județean Botoșani, precum şi a comisiei de soluționare a contestațiilor",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H050_20240228.pdf",
+     "sha256": "2c65ae5ce847098d1dab67b34e95de1fe86bef8e61dc4ae9c33c4805768305cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-51-2024",
+   "path": "local/judet/botosani/2024/51",
+   "short": "HCJ Botoșani nr. 51/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 51/2024 privind aprobarea devizului general actualizat după încheierea contractului de achiziție a lucrărilor de execuție pentru obiectivul de investiții ,,Renovare energetică moderată a clădirii Bucătărie- Spălătorie, magazie alimente, corp H, a Spitalului Județean de Urgență Mavromati Botoșani”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H051_20240327.pdf",
+     "sha256": "8285cd44e34d4c7759d20491ea393d8b9d518435797053e48a8becae89e0e4ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-52-2024",
+   "path": "local/judet/botosani/2024/52",
+   "short": "HCJ Botoșani nr. 52/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 52/2024 privind aprobarea contului anual de execuţie al bugetului local şi al bugetului instituţiilor publice și activităților finanţate integral sau parțial din venituri proprii, pe cele două secțiuni, pentru perioada 01.01 – 31.12.2023",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H052_20240327.pdf",
+     "sha256": "90c71eb8689535e93a2e4599595590a77a2d34280de05f38820526a79674f1fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-53-2024",
+   "path": "local/judet/botosani/2024/53",
+   "short": "HCJ Botoșani nr. 53/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 53/2024 privind aprobarea situațiilor financiare pe anul 2023",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H053_20240327.pdf",
+     "sha256": "50385ab6b941dc24db0bae972419a0c640e527b9b3e97a92e9e96042027efd33"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-58-2024",
+   "path": "local/judet/botosani/2024/58",
+   "short": "HCJ Botoșani nr. 58/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 58/2024 privind aprobarea devizului general actualizat după încheierea contractului de achiziție a lucrărilor de execuție pentru obiectivul de investiții „Renovare integrată prin consolidare seismică și renovare energetică moderată a sediului SPCEP Botoșani”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H058_20240327.pdf",
+     "sha256": "2c832efba420ed51447cd9053fa29401b2d67478fa3ff16f94fd1ea1b61bbb38"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-59-2024",
+   "path": "local/judet/botosani/2024/59",
+   "short": "HCJ Botoșani nr. 59/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 59/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H059_20240327.pdf",
+     "sha256": "3131744027dc83a5d5ba088f93d75207d95767441ab7f31450e6eed0b31ed1f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-6-2024",
+   "path": "local/judet/botosani/2024/6",
+   "short": "HCJ Botoșani nr. 6/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 6/2024 privind aprobarea închirierii prin licitație publică a unui spațiu amplasat în imobilul „Dispensar comasat nr. 4”, situat în municipiul Botoșani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H006_20240126.pdf",
+     "sha256": "e8db174f2f2cfdda615aee7bcca94ad312c2c6640ca7cf13d06f016a95f18422"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-60-2024",
+   "path": "local/judet/botosani/2024/60",
+   "short": "HCJ Botoșani nr. 60/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 60/2024 privind aprobarea organigramei şi statului de funcții ale Direcției Generale de Asistență Socială și Protecția Copilului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H060_20240327.pdf",
+     "sha256": "8b8b39628f821d545ac3c010cfd24cbda6455168ca283800b16460c123e7aaaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-61-2024",
+   "path": "local/judet/botosani/2024/61",
+   "short": "HCJ Botoșani nr. 61/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 61/2024 privind aprobarea devizului general actualizat la data solicitării autorizației de construire pentru obiectivul de investiții „Renovare energetică moderată a clădirii Secției Exterioare Obstetrică-Ginecologie a Spitalului Județean de Urgență Mavromati Botoșani”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H061_20240327.pdf",
+     "sha256": "90c1dd4b61f36a1597076ac6cf891bcf5ddb036ba1a637ad30a01ce6661f172a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-62-2024",
+   "path": "local/judet/botosani/2024/62",
+   "short": "HCJ Botoșani nr. 62/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 62/2024 privind aprobarea unor măsuri pentru asigurarea continuității serviciului de transport public judeţean de persoane prin curse regulate în județul Botoșani, începând cu data de 01.04.2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H062_20240327.pdf",
+     "sha256": "881ef8c295b72201882f2be6a3dc6c05ccff352cfa221837028010c75cab1713"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-63-2024",
+   "path": "local/judet/botosani/2024/63",
+   "short": "HCJ Botoșani nr. 63/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 63/2024 privind aprobarea Regulamentului de organizare şi funcţionare a Şcolii Populare de Arte „George Enescu” Botoșani – instituție publică de cultură din subordinea Consiliului Județean Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H063_20240327.pdf",
+     "sha256": "9cc1d7de0e2d90dcb97b97244b17e2dfb1c43d31cd5a9c82036523089bdcef7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-64-2024",
+   "path": "local/judet/botosani/2024/64",
+   "short": "HCJ Botoșani nr. 64/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 64/2024 privind acordarea unui mandat special reprezentantului Județului Botoșani în Adunarea Generală a Asociaților Asociaţiei de Dezvoltare Intercomunitară ”AQUA BOTOȘANI”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H064_20240327.pdf",
+     "sha256": "314f542f4fe2d2f910a65c0c915321fbf9bb07d7c5e01f3782635de39d78f223"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-65-2024",
+   "path": "local/judet/botosani/2024/65",
+   "short": "HCJ Botoșani nr. 65/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 65/2024 privind modificarea componenței Autorității Teritoriale de Ordine Publică Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H065_20240327.pdf",
+     "sha256": "e71242fe3c8cf2964cdb033d950f28514c84d5011657ff5a16176fcf2f36a31d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-67-2024",
+   "path": "local/judet/botosani/2024/67",
+   "short": "HCJ Botoșani nr. 67/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 67/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H067_20240425.pdf",
+     "sha256": "02fa793a6dabd136c100e6005c00e3a4845074938d8bf2f23f81c9e1cfaf11d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-68-2024",
+   "path": "local/judet/botosani/2024/68",
+   "short": "HCJ Botoșani nr. 68/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 68/2024 privind aprobarea rezultatului final, pentru anul 2023, al evaluării managementului instituţiilor publice de cultură din subordinea Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H068_20240425.pdf",
+     "sha256": "39e61367757847480a6c40d8b58eef3b3c0ed27e6476aabd0dc632a50a1a59ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-69-2024",
+   "path": "local/judet/botosani/2024/69",
+   "short": "HCJ Botoșani nr. 69/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 69/2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H069_20240425.pdf",
+     "sha256": "b56c136757e3481f3f44d62f4d46104dbc886cbcd4a8c8955b3070d6be4da2c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-7-2024",
+   "path": "local/judet/botosani/2024/7",
+   "short": "HCJ Botoșani nr. 7/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 7/2024 privind aprobarea costului mediu lunar de întreţinere și a contribuției lunare datorate de beneficiarii, aparținătorii și/sau reprezentanții legali ai acestora pentru serviciile furnizate de Unităţile de Asistenţă Medico-Socială Suliţa, Suharău, Mihăileni, Flămânzi, Ștefănești și Săveni, ju",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H007_20240126.pdf",
+     "sha256": "418e45b6b2d330325a026f5f9079018620acc3c54710c9fb21a7fb727e6dea0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-70-2024",
+   "path": "local/judet/botosani/2024/70",
+   "short": "HCJ Botoșani nr. 70/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 70/2024 privind declararea unor bunuri de interes public județean și darea acestora în administrarea Direcţiei Generale de Asistență Socială și Protecția Copilului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H070_20240425.pdf",
+     "sha256": "860ec61d9bcbb5d6a187a897e0acac64803d9973698d2b1ab3e3c75c87738252"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-72-2024",
+   "path": "local/judet/botosani/2024/72",
+   "short": "HCJ Botoșani nr. 72/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 72/2024 privind aprobarea închirierii prin licitație publică a unui spațiu aparținând domeniului public al Județului Botoșani, aflat în administrarea Liceului Tehnologic ”Al. Vlahuță” Șendriceni",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H072_20240425.pdf",
+     "sha256": "1a8edccd1fec68b1502eddd69fd6b4f60ddf75e39629eec53b9540baa3ec4187"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-73-2024",
+   "path": "local/judet/botosani/2024/73",
+   "short": "HCJ Botoșani nr. 73/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 73/2024 privind aprobarea devizului general actualizat după încheierea contractului de achiziție a lucrărilor de execuție, a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local precum și aprobarea caracteristicilor principale și indicatorilor tehnico - economici pentru realiz",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H073_20240425.pdf",
+     "sha256": "2720e118ba9ccc48fcf5dd38b3117cb00fb477d66ed11321d00160239ba60515"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-75-2024",
+   "path": "local/judet/botosani/2024/75",
+   "short": "HCJ Botoșani nr. 75/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 75/2024 privind aprobarea prețului și a modalității de vânzare a locuințelor de tip ANL",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H075_20240425.pdf",
+     "sha256": "bc4885f5740c9c120c5e4d2b910be74e750de0fe5b1e74f7f9e897683b325a8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-76-2024",
+   "path": "local/judet/botosani/2024/76",
+   "short": "HCJ Botoșani nr. 76/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 76/2024 privind aprobarea contului de execuţie al bugetului local şi al bugetului instituţiilor publice și activităților finanţate integral sau parțial din venituri proprii, pe cele două secțiuni, pentru perioada 01.01 – 31.03.2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H076_20240425.pdf",
+     "sha256": "c2444c75fddf02ae8376428fc8226aa5eff5d34a525c782a9d4896b92fda990a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-77-2024",
+   "path": "local/judet/botosani/2024/77",
+   "short": "HCJ Botoșani nr. 77/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 77/2024 privind angajarea sumei de 50,00 mii lei din fondul de rezervă bugetară constituit la nivelul bugetului propriu județean și alocarea acesteia în vederea suportării cheltuielilor ocazionate de organizarea și desfășurarea alegerilor autorităților administrației publice locale din anul 2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H077_20240425.pdf",
+     "sha256": "599cebff12a9ca196bab120d07063e3b30cebf38b27780aa3b2e9e935c2b5a13"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-78-2024",
    "path": "local/judet/botosani/2024/78",
    "short": "HCJ Botoșani nr. 78/2024",
@@ -89,6 +2039,216 @@
      "units": 3,
      "source_url": "https://www.cjbotosani.ro/files/H078_20240425.pdf",
      "sha256": "78072dfe47c495a7ae84965e491462f6cd03bc533c4cd702c7de78f37f706a52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-8-2024",
+   "path": "local/judet/botosani/2024/8",
+   "short": "HCJ Botoșani nr. 8/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 8/2024 privind stabilirea costului mediu lunar de întreţinere pentru asistaţii din centrele rezidenţiale publice pentru persoanele cu handicap din cadrul Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H008_20240126.pdf",
+     "sha256": "79ba56712297137ed3a0a5fba4fa93d6e11094c30fb3bb634c1ed5c0188c8be3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-80-2024",
+   "path": "local/judet/botosani/2024/80",
+   "short": "HCJ Botoșani nr. 80/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 80/2024 privind aprobarea Planului de analiză şi acoperire a riscurilor pe teritoriul judeţului Botoşani - actualizat în anul 2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H080_20240425.pdf",
+     "sha256": "a5d5244daf559e8d17416656a237b3d2d1497ce85aee95c56c4d0c3a74f4de51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-83-2024",
+   "path": "local/judet/botosani/2024/83",
+   "short": "HCJ Botoșani nr. 83/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 83/2024 privind modificarea componenței Autorității Teritoriale de Ordine Publică Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H083_20240425.pdf",
+     "sha256": "34ad94a804fac2f39c8c5cd82fad7893dfb6b60b974a47221e486e6b9c8c0d8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-84-2024",
+   "path": "local/judet/botosani/2024/84",
+   "short": "HCJ Botoșani nr. 84/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 84/2024 privind desemnarea unui consilier judeţean în calitatea de membru al Autorității Teritoriale de Ordine Publică Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H084_20240425.pdf",
+     "sha256": "46c783d6b76af9ce7d87723edc38ec662164623ea418b5c6f9bda964770c060b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-85-2024",
+   "path": "local/judet/botosani/2024/85",
+   "short": "HCJ Botoșani nr. 85/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 85/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H085_20240425.pdf",
+     "sha256": "7518276f1a3712e66ff08230ed77b27a0b0797f4595fd5778f9445920caf516d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-87-2024",
+   "path": "local/judet/botosani/2024/87",
+   "short": "HCJ Botoșani nr. 87/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 87/2024 privind modificarea componenței Comisiei pentru Protecția Copilului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H087_20240529.pdf",
+     "sha256": "166b613661b168ac92327ad99e8cc7a8116d3f04708b5833afa1049d244c0739"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-88-2024",
+   "path": "local/judet/botosani/2024/88",
+   "short": "HCJ Botoșani nr. 88/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 88/2024 privind modificarea Hotărârii Consiliului Județean Botoșani nr. 129 din 04.11.2020 privind organizarea comisiilor de specialitate în principalele domenii de activitate, precum și repartizarea consilierilor în comisiile de specialitate",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H088_20240529.pdf",
+     "sha256": "ded5c5c5352195d2875d288354d13895edaf38eb497ac3111b32759c83be3abc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-89-2024",
+   "path": "local/judet/botosani/2024/89",
+   "short": "HCJ Botoșani nr. 89/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 89/2024 privind solicitarea de trecere a unui bun care aparține domeniului public al Orașului Săveni, județul Botoșani în domeniul public al Județului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H089_20240529.pdf",
+     "sha256": "a0326f58081cabe12cfa8f684db382fe66d759edf1601cef2eed2be676598321"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-9-2024",
+   "path": "local/judet/botosani/2024/9",
+   "short": "HCJ Botoșani nr. 9/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 9/2024 privind aprobarea duratei concediului de odihnă suplimentar pentru funcționarii publici din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H009_20240126.pdf",
+     "sha256": "0b15c9624dcf9c28698e7e85e334151171b47a88e10230b958189e441c0dcc76"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-91-2024",
+   "path": "local/judet/botosani/2024/91",
+   "short": "HCJ Botoșani nr. 91/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 91/2024 privind revocarea dreptului de folosință gratuită a Sindicatului Județean al Pensionarilor Botoșani asupra unui bun imobil aflat în domeniul public al Județului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H091_20240529.pdf",
+     "sha256": "970a9390c8f7231777bca608cc2b0fe351dd8770c7c0dc3a9916919a153fc1cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-92-2024",
+   "path": "local/judet/botosani/2024/92",
+   "short": "HCJ Botoșani nr. 92/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 92/2024 privind revocarea dreptului de administrare al Direcţiei Generale de Asistență Socială și Protecția Copilului Botoșani asupra unor bunuri imobile aflate în domeniul public al Județului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H092_20240529.pdf",
+     "sha256": "b3cccc2e7a420bed484257ae7d14bc7f964b138cc8e4bce93b71e22020194473"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-94-2024",
+   "path": "local/judet/botosani/2024/94",
+   "short": "HCJ Botoșani nr. 94/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 94/2024 privind acordarea unui mandat special reprezentantului Județului Botoșani în Adunarea Generală a Acționarilor Societății NOVA APASERV S.A",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H094_20240529.pdf",
+     "sha256": "062a61f36be9b071633091f523b392ccbe4b999171c8b94e7e7abea9a89d0888"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-98-2024",
+   "path": "local/judet/botosani/2024/98",
+   "short": "HCJ Botoșani nr. 98/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 98/2024 privind angajarea sumei de 333.522,00 lei din fondul de rezervă bugetară constituit la nivelul bugetului propriu judeţean pe anul 2024 şi alocarea acesteia comunei Văculești, județul Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H098_20240529.pdf",
+     "sha256": "338fccdc5032127c76df971458b09efa3399015c4a828e473a594cce3113a9f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-99-2024",
+   "path": "local/judet/botosani/2024/99",
+   "short": "HCJ Botoșani nr. 99/2024",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 99/2024 privind achitarea cotizației anuale a Judeţului Botoşani la Asociaţia pentru Dezvoltare Intercomunitară – Dezvoltare Sustenabilă și Integrată în Țara de Sus în sumă de 1.000 de lei, din bugetul propriu judeţean, pentru anul 2024",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H099_20240529.pdf",
+     "sha256": "0150b7bdb42cdce44cd52cbef5a5a8229a12add517656c8e0bab09be8704b6d3"
     }
    ]
   }

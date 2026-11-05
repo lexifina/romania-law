@@ -3,6 +3,786 @@
  "shard": "local/judet/botosani/2017",
  "acts": [
   {
+   "slug": "hcj-botosani-10-2017",
+   "path": "local/judet/botosani/2017/10",
+   "short": "HCJ Botoșani nr. 10/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 10/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h010_27.01.2017.pdf",
+     "sha256": "4a910a8afda654dd1e10cd1d1e45e8e6024db29240b91a5e30c5c826ad6fee58"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-103-2017",
+   "path": "local/judet/botosani/2017/103",
+   "short": "HCJ Botoșani nr. 103/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 103/2017 privind darea în folosinţă gratuită a unui teren aparţinând domeniului public al Judeţului Botoşani, aflat în administrarea Spitalului Judeţean de Urgenţă ”Mavromati” Botoșani, Agenţiei Naţionale pentru Locuinţe",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-07-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h103_20.07.2017.pdf",
+     "sha256": "5256efbcecbadb7d5fa412d3c63c4efc87798ab677f36a50bfce855f19284df4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-106-2017",
+   "path": "local/judet/botosani/2017/106",
+   "short": "HCJ Botoșani nr. 106/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 106/2017 privind aprobarea Regulamentelor de organizare şi funcţionare a unor instituţii publice de cultură din subordinea Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h106_31.07.2017.pdf",
+     "sha256": "81204d23d764912220cbb722c774e5190040888fbdc86408872528ea8aebac32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-11-2017",
+   "path": "local/judet/botosani/2017/11",
+   "short": "HCJ Botoșani nr. 11/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 11/2017 privind achitarea cotizației anuale a județului Botoșani la Asociația de Dezvoltare Intercomunitară EURONEST – Iași în sumă de 15.796,64 euro, din bugetul propriu județean, pentru anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h011_27.01.2017.pdf",
+     "sha256": "d75ebb1e0c5668f92509b15ba90985cd00eca3655c82838060337e80ecba4e71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-111-2017",
+   "path": "local/judet/botosani/2017/111",
+   "short": "HCJ Botoșani nr. 111/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 111/2017 privind aprobarea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul familiei ocupaţionale \"Administraţie”, din aparatul propriu al Consiliului Judeţean Botoşani, precum şi din cadrul serviciilor publice din subordinea acestuia",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h111_31.07.2017.pdf",
+     "sha256": "29fae6266eaf5cfc3bd12628746dfb3f1e4ddc32b9cd9df4c36ada8a5763892a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-112-2017",
+   "path": "local/judet/botosani/2017/112",
+   "short": "HCJ Botoșani nr. 112/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 112/2017 privind aprobarea Acordului de parteneriat între Judeţul Botoşani din România şi Municipiul Bălţi din Republica Moldova",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-07-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h112_31.07.2017.pdf",
+     "sha256": "2df17f0fd241504400f5acf0e3705ab4354abf4d1cf7f9871cf2eafe8029bf64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-114-2017",
+   "path": "local/judet/botosani/2017/114",
+   "short": "HCJ Botoșani nr. 114/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 114/2017 privind desemnarea unui reprezentant al Consiliului Judeţean Botoşani în Consiliul de administraţie al Centrului Judeţean de Resurse şi Asistenţă Educaţională Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h114_31.08.2017.pdf",
+     "sha256": "0be77cb1d8ec93872f9005372b5c5bb301188896b00c3579b267b49ce64762d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-115-2017",
+   "path": "local/judet/botosani/2017/115",
+   "short": "HCJ Botoșani nr. 115/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 115/2017 privind aprobarea componenţei Comisiei pentru Protecţia Copilului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h115_31.08.2017.pdf",
+     "sha256": "6b601f7a22401151cdf3c3204dce4bba2ff61c86ec7f4492733392da2a9284c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-116-2017",
+   "path": "local/judet/botosani/2017/116",
+   "short": "HCJ Botoșani nr. 116/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 116/2017 privind numirea reprezentanților Consiliului Județean Botoșani în consiliile de administraţie ale spitalelor publice de interes judeţean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h116_31.08.2017.pdf",
+     "sha256": "8854f2c1b2769464dcd47596f929f15730573a2932d0a26f6381942bc4f221a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-117-2017",
+   "path": "local/judet/botosani/2017/117",
+   "short": "HCJ Botoșani nr. 117/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 117/2017 privind aprobarea Regulamentului de organizare şi funcţionare al Unităţii de Asistenţă Medico-Socială Mihăileni din subordinea Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h117_31.08.2017.pdf",
+     "sha256": "b07f8d141a11936b1c45bca9888da77a72c72c87af5b3b3b0056253cec39ab29"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-12-2017",
+   "path": "local/judet/botosani/2017/12",
+   "short": "HCJ Botoșani nr. 12/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 12/2017 privind achitarea contribuției Județului Botoșani la Agenția pentru Dezvoltare Regională Nord-Est Piatra Neamț în sumă de 1.174.000 lei, din bugetul propriu județean pe anul 2017, pentru Fondul pentru Dezvoltare Regională, Biroul Regional de Cooperare Transfrontalieră Iași și Biroul Regiona",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h012_27.01.2017.pdf",
+     "sha256": "40b5ec065c6a66e27aa0b5ae206700c46abbdc4323b63098af0efc64293202bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-123-2017",
+   "path": "local/judet/botosani/2017/123",
+   "short": "HCJ Botoșani nr. 123/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 123/2017 privind aprobarea închirierii prin licitație publică a unor spații aparținând domeniului public al județului Botoşani și aflate în administrarea Spitalului Județean de Urgență „Mavromati”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h123_31.08.2017.pdf",
+     "sha256": "426702d30c60bef75bc4a1ca7e76ec0a0aa3a59d5aa20b60c16d0e15f4e478db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-125-2017",
+   "path": "local/judet/botosani/2017/125",
+   "short": "HCJ Botoșani nr. 125/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 125/2017 privind aprobarea valorii totale estimată a obiectivului de investiție “Modernizare DJ 294A, Avrămeni – Panaitoaia – D",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h125_31.08.2017.pdf",
+     "sha256": "0ba2619c70329dde91d7cfb20ec6ebe68b18a42e35972c1dfde467faa5ccc482"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-126-2017",
+   "path": "local/judet/botosani/2017/126",
+   "short": "HCJ Botoșani nr. 126/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 126/2017 privind aprobarea valorii totale estimată a obiectivului de investiție “Modernizare DJ 208H, din DN 29 – Corni, km 0+000-6+000”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h126_31.08.2017.pdf",
+     "sha256": "0bd85cb754a01792eef71712152e5c2dedfd8ee9450afa0c5396e98ce17c294c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-127-2017",
+   "path": "local/judet/botosani/2017/127",
+   "short": "HCJ Botoșani nr. 127/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 127/2017 privind aprobarea valorii totale estimată a obiectivului de investiție “Modernizare DJ 293, din DN 29A – Dumeni – Havârna- Mileanca, km 0+000-26+090 şi DJ 298A – Darabani – DJ 293, km 0+250-10+000”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h127_31.08.2017.pdf",
+     "sha256": "0505b441e3fffba5b550ae732e381806d58f58fac4b454b4d253d0174efc6e57"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-128-2017",
+   "path": "local/judet/botosani/2017/128",
+   "short": "HCJ Botoșani nr. 128/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 128/2017 privind aprobarea valorii totale estimată a obiectivului de investiție “Modernizare DJ 298, Vorniceni – Cordăreni – Dumeni, km 0+000-15+100”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h128_31.08.2017.pdf",
+     "sha256": "b5654cc8c539c7c89863e1888924bb24935fdeffec5e70f0370ac721ce8509ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-13-2017",
+   "path": "local/judet/botosani/2017/13",
+   "short": "HCJ Botoșani nr. 13/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 13/2017 privind achitarea cotizaţiei Judeţului Botoşani la Uniunea Naţională a Consiliilor Judeţene din România, pentru anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h013_27.01.2017.pdf",
+     "sha256": "2e8ff5e679299d934d2bbcfd424176a50eba18ff9aacb5735ae4991f9f36b5eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-130-2017",
+   "path": "local/judet/botosani/2017/130",
+   "short": "HCJ Botoșani nr. 130/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 130/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h130_27.09.2017.pdf",
+     "sha256": "fc26d681ec2d6d805ad55d8734054bde8855847a1e2ff3591dc2c564bb1fcf5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-131-2017",
+   "path": "local/judet/botosani/2017/131",
+   "short": "HCJ Botoșani nr. 131/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 131/2017 privind atribuirea unei licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h131_27.09.2017.pdf",
+     "sha256": "763920fc4753b7a9e4a8b5f61f835c385ed3954f5af820709c7dd8c10129acfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-132-2017",
+   "path": "local/judet/botosani/2017/132",
+   "short": "HCJ Botoșani nr. 132/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 132/2017 privind constituirea comisiei de evaluare finală a managementului Muzeului Judeţean Botoşani, instituţie publică de cultură aflată în subordinea Consiliului Judeţean Botoşani, precum şi a comisiei de soluţionare a contestaţiilor",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h132_27.09.2017.pdf",
+     "sha256": "637d4062a3e25c2dee3f9dc119e77c0f1572dfbd97009c1de895911215c55f61"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-133-2017",
+   "path": "local/judet/botosani/2017/133",
+   "short": "HCJ Botoșani nr. 133/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 133/2017 privind aprobarea Regulamentului de organizare și funcționare al Orchestrei Populare ”Rapsozii Botoșanilor” din subordinea Consiliului Județean Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h133_27.09.2017.pdf",
+     "sha256": "604b2adbbb15ae3e4bdadca1556e0cce6fcd3014211b47e26955117f9c1815b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-134-2017",
+   "path": "local/judet/botosani/2017/134",
+   "short": "HCJ Botoșani nr. 134/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 134/2017 privind aprobarea indicatorilor tehnico-economici și aprobarea finanțării din bugetul local pentru categoriile de cheltuieli care nu se finanțează de la bugetul de stat prin Programul național de dezvoltare locală a obiectivului de investiţie „Modernizare si consolidare DJ 282A, din DN29D",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h134_27.09.2017.pdf",
+     "sha256": "75af5743814aa0528d2687e0a74c914751c68052aae4a4b168742fbfaf75fcf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-135-2017",
+   "path": "local/judet/botosani/2017/135",
+   "short": "HCJ Botoșani nr. 135/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 135/2017 privind aprobarea indicatorilor tehnico-economici și aprobarea finanțării din bugetul local pentru categoriile de cheltuieli care nu se finanțează de la bugetul de stat prin Programul național de dezvoltare locală a obiectivului de investiţie ,,Modernizare DJ 208H, Vorona – Oneaga – Păduren",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h135_27.09.2017.pdf",
+     "sha256": "ee200abcd96c79cdffac744fec175dff969c682ca4a3fc88196aec35ccf3bde2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-136-2017",
+   "path": "local/judet/botosani/2017/136",
+   "short": "HCJ Botoșani nr. 136/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 136/2017 privind aprobarea indicatorilor tehnico-economici și aprobarea finanțării din bugetul local pentru categoriile de cheltuieli care nu se finanțează de la bugetul de stat prin Programul național de dezvoltare locală a obiectivului de investiţie ,,Modernizare drum judeţean DJ 293, Coțușca - Gh",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h136_27.09.2017.pdf",
+     "sha256": "80572b50d3403a9cb0fc2a62f2c2f124ab86c9424bc1aa29567ade1ba9789256"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-138-2017",
+   "path": "local/judet/botosani/2017/138",
+   "short": "HCJ Botoșani nr. 138/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 138/2017 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii REPARAȚII CAPITALE LA ÎNVELITOAREA CASEI PĂRINTEȘTI ,,MIHAI EMINESCU’’ comuna Mihai Eminescu, sat Ipotești",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h138_27.09.2017.pdf",
+     "sha256": "79df1e7207cd45f1854cbe95f829140d6ee097e63d0a17608e6529388a4ce1fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-139-2017",
+   "path": "local/judet/botosani/2017/139",
+   "short": "HCJ Botoșani nr. 139/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 139/2017 privind solicitarea de trecere a unor bunuri din domeniul public al comunei Trușești, jud",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h139_27.09.2017.pdf",
+     "sha256": "ba8601d972cc9dbc8c070d379739126d35ada576d1a98bc96c29d41908020b52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-14-2017",
+   "path": "local/judet/botosani/2017/14",
+   "short": "HCJ Botoșani nr. 14/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 14/2017 privind aprobarea suplimentării numărului de posturi pentru personalul neclerical angajat în unitățile ce aparțin cultelor religioase, finanțate din venituri proprii ale bugetului județului, destinate funcționării unității de cult Mănăstirea „Sf. Nicolae” Coșula, Județul Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h014_27.01.2017.pdf",
+     "sha256": "e40e7d151bd9b1df2b788128a88653ed0fad05d4085f21494fa72384dcd5adb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-140-2017",
+   "path": "local/judet/botosani/2017/140",
+   "short": "HCJ Botoșani nr. 140/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 140/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h140_27.09.2017.pdf",
+     "sha256": "5eefee033a062a3a7f5c4f8bb68683176d6e410a74f984d6facab78e3b438095"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-142-2017",
+   "path": "local/judet/botosani/2017/142",
+   "short": "HCJ Botoșani nr. 142/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 142/2017 privind aprobarea Planului de colaborare între Județul Botoșani și Inspectoratul de Jandarmi Județean Botoșani pentru prevenirea faptelor antisociale, precum și aprobarea finanțării achiziției de pliante, flyere și afișe necesare",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h142_27.09.2017.pdf",
+     "sha256": "56b8d0a85c2920ef49d8138deafb44ee35b250eb0c7d7ee82a6c9e213d3ce853"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-144-2017",
+   "path": "local/judet/botosani/2017/144",
+   "short": "HCJ Botoșani nr. 144/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 144/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-09-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h144_27.09.2017.pdf",
+     "sha256": "5dd39323ced941ccb31bd477e9b767d7cf888f8549413bd73a4a7ec5d8922ed0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-147-2017",
+   "path": "local/judet/botosani/2017/147",
+   "short": "HCJ Botoșani nr. 147/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 147/2017 privind aprobarea indicatorilor tehnico-economici și aprobarea finanțării din bugetul local pentru categoriile de cheltuieli care nu se finanțează de la bugetul de stat prin Programul național de dezvoltare locală a obiectivului de investiţie ,,Modernizare DJ 294 C, Manoleasa-Zahoreni-Borol",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-10-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h147_20.10.2017.pdf",
+     "sha256": "bda16b51a31126dbd48cd11f69f01189b885dd0c1f694953a52e68b43c7fc4e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-148-2017",
+   "path": "local/judet/botosani/2017/148",
+   "short": "HCJ Botoșani nr. 148/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 148/2017 privind aprobarea indicatorilor tehnico-economici și aprobarea finanțării din bugetul local pentru categoriile de cheltuieli care nu se finanțează de la bugetul de stat prin Programul național de dezvoltare locală a obiectivului de investiţie ,,Modernizare DJ 292 A, Corlăteni-Dimăcheni, km",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-10-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h148_20.10.2017.pdf",
+     "sha256": "e1534cd283405c3580e746e319ab44c35842f228bbb9fe8860e45d53943167d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-149-2017",
+   "path": "local/judet/botosani/2017/149",
+   "short": "HCJ Botoșani nr. 149/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 149/2017 privind aprobarea indicatorilor tehnico-economici și aprobarea finanțării din bugetul local pentru categoriile de cheltuieli care nu se finanțează de la bugetul de stat prin Programul național de dezvoltare locală a obiectivului de investiţie ,,Modernizare DJ 291 D, Ibăneşti-Cristineşti, km",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-10-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h149_20.10.2017.pdf",
+     "sha256": "7f0d0df306b1f52f54ff83ffbf1e221f0423b102bd83b2d3962ff57c045a50b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-15-2017",
+   "path": "local/judet/botosani/2017/15",
+   "short": "HCJ Botoșani nr. 15/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 15/2017 privind aprobarea închirierii prin licitaţie publică a suprafeței de 44,00 mp aflată pe terasa superioară a clădirii Secției de Obstetrică – Ginecologie, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h015_27.01.2017.pdf",
+     "sha256": "c98ee7b68cec98301bc83cef96d99e7417cd7ac41d274c23910f91b5cffca808"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-150-2017",
+   "path": "local/judet/botosani/2017/150",
+   "short": "HCJ Botoșani nr. 150/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 150/2017 privind aprobarea indicatorilor tehnico-economici actualizați și aprobarea finanțării din bugetul local pentru categoriile de cheltuieli care nu se finanțează de la bugetul de stat prin Programul național de dezvoltare locală a obiectivului de investiţie ,,Reabilitare pod peste râul Jijia p",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-10-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h150_20.10.2017.pdf",
+     "sha256": "5142fa9a3e222a8dc95ebd983060dea21388bfe6ef1620624d6996d7cfa5e146"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-151-2017",
+   "path": "local/judet/botosani/2017/151",
+   "short": "HCJ Botoșani nr. 151/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 151/2017 privind aprobarea angajării sumei de 10.024.099,18 lei din excedentul anului 2016 și achitarea acesteia către Autoritatea de Management a Programului Operaţional Regional, reprezentând debite aferente contractelor de finanţare semnate în cadrul POR 2007 – 2013",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-10-20",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h151_20.10.2017.pdf",
+     "sha256": "b54b5e27c0bfde3e890475d7673cf670b7bfb895fbea49b4895d25d6df3441df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-152-2017",
+   "path": "local/judet/botosani/2017/152",
+   "short": "HCJ Botoșani nr. 152/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 152/2017 privind desemnarea unui reprezentant al Consiliului Judeţean Botoşani în Consiliul Consultativ al Inspectoratului Școlar Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-10-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h152_27.10.2017.pdf",
+     "sha256": "439809770d2f4a7b7c8676b77fb06c8b4bc3da4552d44dcdb269ea6dfe7ac8bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-153-2017",
+   "path": "local/judet/botosani/2017/153",
+   "short": "HCJ Botoșani nr. 153/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 153/2017 privind atribuirea unor licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-10-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h153_27.10.2017.pdf",
+     "sha256": "1a481b9983d4456fc400dd9b3117403801706f6e067652c0271d55e649d6d539"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-154-2017",
+   "path": "local/judet/botosani/2017/154",
+   "short": "HCJ Botoșani nr. 154/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 154/2017 privind aprobarea Protocolului de colaborare între Judeţul Botoşani şi Inspectoratul de Poliţie Judeţean Botoşani, precum și aprobarea finanțării achiziției de pliante și afișe necesare susținerii activităților în domeniul prevenirii delicvenței juvenile și a infracțiunilor contra patrimoni",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-10-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h154_27.10.2017.pdf",
+     "sha256": "8942df7a11deaf41b24dc4004be763b1d520f8ea749bfb800138602b0a89621d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-155-2017",
+   "path": "local/judet/botosani/2017/155",
+   "short": "HCJ Botoșani nr. 155/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 155/2017 privind aprobarea contului de execuție al bugetului propriu județean și al bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii, pe cele două secțiuni, pentru perioada 01.01 – 30.09.2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h155_27.10.2017.pdf",
+     "sha256": "d337a9e47e705855c3b71cdc669f985aee5933199212be1a9c5a6fa94c630860"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-158-2017",
+   "path": "local/judet/botosani/2017/158",
+   "short": "HCJ Botoșani nr. 158/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 158/2017 privind aprobarea Regulamentului de organizare și funcționare al Unității de Asistenţă Medico – Socială Suharău din subordinea Consiliului Județean Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-10-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h158_27.10.2017.pdf",
+     "sha256": "e4ece32d5ce8c151567402c212e0741d71c2ce1a9d41306fdc636dff2862d7dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-159-2017",
+   "path": "local/judet/botosani/2017/159",
+   "short": "HCJ Botoșani nr. 159/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 159/2017 privind aprobarea organigramelor şi statelor de funcţii ale unităţilor învăţământului special de sub autoritatea Consiliului Judeţean Botoşani, pentru anul şcolar 2017 – 2018",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-10-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h159_27.10.2017.pdf",
+     "sha256": "b40b8f5b4ec6d139a655f1756abc74b4abe406beed58e18f4f499a501b145bd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-16-2017",
+   "path": "local/judet/botosani/2017/16",
+   "short": "HCJ Botoșani nr. 16/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 16/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h016_27.01.2017.pdf",
+     "sha256": "5317eae53a9631922387dfd849e972231361c29c48e4f645364f52495b3feb8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-161-2017",
+   "path": "local/judet/botosani/2017/161",
+   "short": "HCJ Botoșani nr. 161/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 161/2017 privind aprobarea rezultatului evaluării finale a managementului Muzeului Judeţean Botoşani, instituţie publică de cultură din subordinea Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-10-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h161_27.10.2017.pdf",
+     "sha256": "b2a7ccc4a59705890897fc288f485ae6fb6a447d58b7bcd6c8d7c29158cfef92"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-163-2017",
+   "path": "local/judet/botosani/2017/163",
+   "short": "HCJ Botoșani nr. 163/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 163/2017 pentru aprobarea „Propunerilor de încadrare a drumurilor judeţene pe niveluri de viabilitate în perioada de iarnă 2017 – 2018” și a „Planului operativ de acţiune pe timpul iernii 2017 – 2018”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-10-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h163_27.10.2017.pdf",
+     "sha256": "28a857c549437d01c3d02915da9badd0463d5411baabd32b3a7423894f65ba8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-165-2017",
+   "path": "local/judet/botosani/2017/165",
+   "short": "HCJ Botoșani nr. 165/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 165/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h165_27.10.2017.pdf",
+     "sha256": "3eb74da81e46a30a7195c05fa1b66efa0195144824086272916bef1ac3a3fdba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-166-2017",
+   "path": "local/judet/botosani/2017/166",
+   "short": "HCJ Botoșani nr. 166/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 166/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h166_27.10.2017.pdf",
+     "sha256": "b7117af886f62f88d4853f07285a3538f88d1122597641b1145643ea6a89ddb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-167-2017",
+   "path": "local/judet/botosani/2017/167",
+   "short": "HCJ Botoșani nr. 167/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 167/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-10-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h167_27.10.2017.pdf",
+     "sha256": "b7457b15669d8ba16bdc1a3a285b36acc48edaeccc1a5593b58184127723251c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-168-2017",
+   "path": "local/judet/botosani/2017/168",
+   "short": "HCJ Botoșani nr. 168/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 168/2017 privind rectificarea bugetului propriu judeţean, al bugetelor instituţiilor și activităţilor finanţate integral sau parţial din venituri proprii, și efectuarea de modificări în Programul obiectivelor de investiţii, pe anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-10-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h168_27.10.2017.pdf",
+     "sha256": "9aa8cac8c8caa8172b3a9560a2fa35505606eeb278c6286e4319e2d503398902"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-17-2017",
+   "path": "local/judet/botosani/2017/17",
+   "short": "HCJ Botoșani nr. 17/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 17/2017 privind aprobarea prelungirii duratei de folosință gratuită a spațiului situat la parterul clădirii “Muzeul de Științele Naturii – Dorohoi”, aparținând domeniului public al județului Botoșani, aflat în administrarea Muzeului Județean Botoșani, de către Biblioteca Municipală Dorohoi",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h017_27.01.2017.pdf",
+     "sha256": "097acfe5032225fdff4ef4010ae9d97c03174b3d0d9735b3268910c729bacade"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-170-2017",
+   "path": "local/judet/botosani/2017/170",
+   "short": "HCJ Botoșani nr. 170/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 170/2017 privind repartizarea cotei de 20% din sumele defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale şi din cota de 18,5% din impozitul pe venit, precum şi a sumelor din impozitul pe venit şi sume defalcate rezultate din aplicarea gradului de necolectare a veniturilor p",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-11-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h170_21.11.2017.pdf",
+     "sha256": "ba7263b6673153154b01af5f9e641dc81d6d79a1c22b8bda2db999278fd26356"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-171-2017",
+   "path": "local/judet/botosani/2017/171",
+   "short": "HCJ Botoșani nr. 171/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 171/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h171_24.11.2017.pdf",
+     "sha256": "bc632d3f9c7ae08340c9f2ddb77c82e60b97a457768fc42606ada77068513f68"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-172-2017",
    "path": "local/judet/botosani/2017/172",
    "short": "HCJ Botoșani nr. 172/2017",
@@ -108,6 +888,111 @@
    ]
   },
   {
+   "slug": "hcj-botosani-179-2017",
+   "path": "local/judet/botosani/2017/179",
+   "short": "HCJ Botoșani nr. 179/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 179/2017 privind aprobarea cuantumului şi numărului de burse acordate pentru învăţământul special în anul școlar 2017 – 2018, din bugetul propriu judeţean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h179_24.11.2017.pdf",
+     "sha256": "f121fee8f6fb85252f823058bbbfddd4a435d1c9c0b950099eb5357340a9a30d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-181-2017",
+   "path": "local/judet/botosani/2017/181",
+   "short": "HCJ Botoșani nr. 181/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 181/2017 privind aprobarea planurilor de ocupare a funcţiilor publice pentru aparatul de specialitate al Consiliului Judeţean Botoşani și pentru instituţiile publice subordonate, pe anul 2018",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h181_24.11.2017.pdf",
+     "sha256": "fc72997c30d5c4e98e1e4230fd5738e6f8353745df5ddb59b898284b9dd89137"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-182-2017",
+   "path": "local/judet/botosani/2017/182",
+   "short": "HCJ Botoșani nr. 182/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 182/2017 pentru aprobarea la nivelul judeţului Botoșani a listei produselor ce vor fi distribuite în cadrul Programului pentru școli al României, precum și stabilirea măsurilor educative care însoţesc distribuţia fructelor, laptelui și produselor lactate în anul școlar 2017 – 2018",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h182_24.11.2017.pdf",
+     "sha256": "da9cc86de224c87f55ba7eec28846d12d4ac974cc05537d12ec1600733892011"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-183-2017",
+   "path": "local/judet/botosani/2017/183",
+   "short": "HCJ Botoșani nr. 183/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 183/2017 privind aprobarea Regulamentului de organizare şi funcţionare al Unităţii de Asistenţă Medico-Socială Suliţa din subordinea Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h183_24.11.2017.pdf",
+     "sha256": "4404ecadf8bd621c5ca31f9d809839f6c973e1ec1bdb0990863ad5ccc0784c77"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-184-2017",
+   "path": "local/judet/botosani/2017/184",
+   "short": "HCJ Botoșani nr. 184/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 184/2017 privind atribuirea unei licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h184_24.11.2017.pdf",
+     "sha256": "a365aa1c5892814e90e1e94d7d9d3cb456605126d8cf9b811f532c444415a00f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-186-2017",
+   "path": "local/judet/botosani/2017/186",
+   "short": "HCJ Botoșani nr. 186/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 186/2017 privind aprobarea închirierii prin licitaţie publică a unui spaţiu aparţinând domeniului privat al judeţului Botoșani, din imobilul „Dispensar medical” nr. 4, situat în municipiul Botoșani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h186_24.11.2017.pdf",
+     "sha256": "27f6d105fd1e1e877d1805b5635623df9ace58d4fb1d9a60bd1d7e077a88824d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-190-2017",
+   "path": "local/judet/botosani/2017/190",
+   "short": "HCJ Botoșani nr. 190/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 190/2017 privind angajarea sumei de 175,00 mii lei din fondul de rezervă constituit la nivelul bugetului propriu judeţean, pe anul 2017 şi alocarea acesteia comunei Manoleasa, judeţul Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h190_29.11.2017.pdf",
+     "sha256": "710f490ba70ad2b033f642f6ae22953d7f746b9fa24dd894b64f69fbc1be6657"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-191-2017",
    "path": "local/judet/botosani/2017/191",
    "short": "HCJ Botoșani nr. 191/2017",
@@ -119,6 +1004,21 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h191_08.12.2017.pdf",
      "sha256": "52ab69fd43210fdc01cd8db5cc72cc41863a611266907db2a04e695f66b586ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-192-2017",
+   "path": "local/judet/botosani/2017/192",
+   "short": "HCJ Botoșani nr. 192/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 192/2017 privind rectificarea bugetului propriu judeţean, al bugetelor instituţiilor şi activităţilor finanţate integral sau parţial din venituri proprii şi efectuarea de virări de credite între capitolele bugetului propriu judeţean pe anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-12-13",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h192_13.12.2017.pdf",
+     "sha256": "b0ef224dbbc1c61b785a48eef013df92fa064a19a723ab8f1bded8f6b697f0ea"
     }
    ]
   },
@@ -138,6 +1038,261 @@
    ]
   },
   {
+   "slug": "hcj-botosani-194-2017",
+   "path": "local/judet/botosani/2017/194",
+   "short": "HCJ Botoșani nr. 194/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 194/2017 privind atribuirea unor licențe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h194_21.12.2017.pdf",
+     "sha256": "a010e4467e583107ba6a1b713d5c7a5a0f93b904c491a26012056a75de9c42ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-196-2017",
+   "path": "local/judet/botosani/2017/196",
+   "short": "HCJ Botoșani nr. 196/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 196/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h196_21.12.2017.pdf",
+     "sha256": "a1fc832917a29086ea25b696c2d1f24dd7c7dd0c834409700f2d222cb08aa8e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-197-2017",
+   "path": "local/judet/botosani/2017/197",
+   "short": "HCJ Botoșani nr. 197/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 197/2017 privind aprobarea efectuării concediului de odihnă restant, aferent anului 2017, de către persoanele cu funcții de demnitate publică din conducerea Consiliului Judeţean Botoşani, în cursul anului 2018",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h197_21.12.2017.pdf",
+     "sha256": "c6e6eb7701cb62259031d312995305580b613f88dbe67f2531195c143425a42f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-20-2017",
+   "path": "local/judet/botosani/2017/20",
+   "short": "HCJ Botoșani nr. 20/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 20/2017 privind aprobarea contractării de servicii juridice de consultanţă, asistenţă şi reprezentare a SC NOVA APASERV SA Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-02-03",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h020_03.02.2017.pdf",
+     "sha256": "23168d739fa4c52f97345a6adc13c69fe739b3c0d8ce5a7a7261540e80d4e06a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-201-2017",
+   "path": "local/judet/botosani/2017/201",
+   "short": "HCJ Botoșani nr. 201/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 201/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h201_21.12.2017.pdf",
+     "sha256": "b8df2ae09ef4ba5c9d500b7ecf5e24bf9bce33b9412e7e6ff49b3fc367fdc785"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-202-2017",
+   "path": "local/judet/botosani/2017/202",
+   "short": "HCJ Botoșani nr. 202/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 202/2017 privind aprobarea contului de execuție al bugetului propriu județean și al bugetului instituțiilor publice și activităților finanțate integral și parțial din venituri proprii, pe cele două secțiuni, pentru perioada 01.01.2017- 13.12.2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h202_21.12.2017.pdf",
+     "sha256": "9038deb4451b0d42d57c0e8edb9a71fcbd36e9abbfe70bf05b8487ea2e0c7806"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-203-2017",
+   "path": "local/judet/botosani/2017/203",
+   "short": "HCJ Botoșani nr. 203/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 203/2017 privind aprobarea unui credit de angajament pentru acțiuni multianuale – perioada 2018 -2021",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h203_21.12.2017.pdf",
+     "sha256": "9f324c2d6f2f84cb64c7e57bb6ce31be6bf4c2250e4f0e84d233e3e77316b69f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-204-2017",
+   "path": "local/judet/botosani/2017/204",
+   "short": "HCJ Botoșani nr. 204/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 204/2017 privind modificarea componenței Autorității Teritoriale de Ordine Publică Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h204_21.12.2017.pdf",
+     "sha256": "06c85ad8c5f03311513a333990a004b6ee892183d628488ff6394e2f1baad685"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-205-2017",
+   "path": "local/judet/botosani/2017/205",
+   "short": "HCJ Botoșani nr. 205/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 205/2017 privind darea în folosinţă gratuită către Serviciul de Telecomunicaţii Speciale a unui spaţiu, situat în municipiul Botoşani, aflat în administrarea Spitalului Judeţean de Urgenţe \"Mavromati\"",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h205_21.12.2017.pdf",
+     "sha256": "fbe8b859e4dff1a1659e3f2882aa9c2cf221d57e69e5277f6205f892475b5c7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-21-2017",
+   "path": "local/judet/botosani/2017/21",
+   "short": "HCJ Botoșani nr. 21/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 21/2017 pentru aprobarea cotizaţiei Județului Botoșani pentru anul 2017 către Asociaţia de Dezvoltare Intercomunitară „ECOPROCES BOTOŞANI”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h021_23.02.2017.pdf",
+     "sha256": "b457d88e7d0431c2028822e12e5b6d181209198113337dd0819a70ce2d51ad85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-22-2017",
+   "path": "local/judet/botosani/2017/22",
+   "short": "HCJ Botoșani nr. 22/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 22/2017 pentru aprobarea cotizaţiei Județului Botoșani pentru anul 2017 către Asociaţia de Dezvoltare Intercomunitară „AQUA BOTOŞANI”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h022_23.02.2017.pdf",
+     "sha256": "df6940c52d11c6d0699df695a9571bc59cf5183bb2e3fad528a5c1d1e91fe265"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-23-2017",
+   "path": "local/judet/botosani/2017/23",
+   "short": "HCJ Botoșani nr. 23/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 23/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h023_23.02.2017.pdf",
+     "sha256": "22a88d3ca0375f4b5686b4e245bef73ced3d6b70dda70a5237f286bc23419e0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-24-2017",
+   "path": "local/judet/botosani/2017/24",
+   "short": "HCJ Botoșani nr. 24/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 24/2017 privind aprobarea închirierii prin licitație publică a unui spațiu de 110 mp din clădirea situată în Comuna Suharău județul Botoșani, aflată în domeniul public al județului Botoșani și în administrarea Unității de Asistență Medico-Socială Suharău",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h024_23.02.2017.pdf",
+     "sha256": "44b75384638c2823aa25c52d4c94797240f28f0925d9c5a00bb176af1ed7c7cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-25-2017",
+   "path": "local/judet/botosani/2017/25",
+   "short": "HCJ Botoșani nr. 25/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 25/2017 privind trecerea unor bunuri care aparțin domeniului public al județului Botoșani, din administrarea Spitalului Județean „Mavromati” Botoșani, în administrarea Serviciului Public Comunitar de Evidență a Persoanelor al Județului Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h025_23.02.2017.pdf",
+     "sha256": "b3269187b56364412493046d44beec1d4bedc4b8ab1c8653814fe5dabd7b4619"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-27-2017",
+   "path": "local/judet/botosani/2017/27",
+   "short": "HCJ Botoșani nr. 27/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 27/2017 privind aprobarea modificării şi completării Inventarului bunurilor aparţinând domeniului public al Judeţului Botoşani, a înscrierii unor bunuri în domeniul public al Judeţului Botoşani și darea în administrarea Direcţiei Judeţeană de Drumuri şi Poduri Botoşani, a trecerii unor bunuri din d",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h027_23.02.2017.pdf",
+     "sha256": "4800a93bd3cb27c06193c7bd08a9e4c01a71d7c4fd8bc810fc2909c66ea3aabe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-29-2017",
+   "path": "local/judet/botosani/2017/29",
+   "short": "HCJ Botoșani nr. 29/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 29/2017 privind constituirea comisiilor de evaluare a managementului instituţiilor publice de cultură aflate în subordinea Consiliului Judeţean Botoşani, precum şi a comisiilor de soluţionare a contestaţiilor",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h029_23.02.2017.pdf",
+     "sha256": "41b33815e1d9587e9ba23cefe375c3d258cc487890b7bd2572cbb1d5b0612844"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-3-2017",
+   "path": "local/judet/botosani/2017/3",
+   "short": "HCJ Botoșani nr. 3/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 3/2017 privind aprobarea Acordului de parteneriat între Judeţul Botoşani din România şi Raionul Drochia din Republica Moldova",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h003_09.01.2017.pdf",
+     "sha256": "19c42e73e321ab1dd62e95d7cc99d2ee9d9e28ad22512c056681e00748f82274"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-30-2017",
    "path": "local/judet/botosani/2017/30",
    "short": "HCJ Botoșani nr. 30/2017",
@@ -149,6 +1304,441 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h030_23.02.2017.pdf",
      "sha256": "4edb2f88e18ccce11bbed95b4091a637e28e1461a93c82924f86f365f51c188a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-32-2017",
+   "path": "local/judet/botosani/2017/32",
+   "short": "HCJ Botoșani nr. 32/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 32/2017 privind repartizarea sumelor defalcate din unele venituri ale bugetului de stat pe unităţi administrativ-teritoriale, pentru achitarea arieratelor provenite din neplata cheltuielilor de funcţionare şi/sau de capital, pentru rambursarea ratelor la împrumuturile contractate în baza Ordonanţel",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h032_28.02.2017.pdf",
+     "sha256": "026ac2a391f16e73c5214b10a8d6737609da9c4b4153c510fb770c4885c28803"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-34-2017",
+   "path": "local/judet/botosani/2017/34",
+   "short": "HCJ Botoșani nr. 34/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 34/2017 privind aprobarea schimbării denumirii Liceului Tehnologic Special „Sfântul Stelian” Botoşani în Şcoala Profesională Specială „Sfântul Stelian” Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h034_27.03.2017.pdf",
+     "sha256": "2e3c42053915820ade8be52fc3652d136c990b002b1692ec3d8f8b0d25ad289a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-35-2017",
+   "path": "local/judet/botosani/2017/35",
+   "short": "HCJ Botoșani nr. 35/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 35/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h035_27.03.2017.pdf",
+     "sha256": "113fa4e195b12fcc9f35e1aaecd734b88a3149cee5fe97e9042aa2686c6ebba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-36-2017",
+   "path": "local/judet/botosani/2017/36",
+   "short": "HCJ Botoșani nr. 36/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 36/2017 privind aprobarea reţelei şcolare a învăţământului special din Judeţul Botoşani, pentru anul şcolar 2017 – 2018",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h036_27.03.2017.pdf",
+     "sha256": "9d3c67104b9d4b84959d6237d92a6a38760ad61eedf55bf7f288c937ffe3f190"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-37-2017",
+   "path": "local/judet/botosani/2017/37",
+   "short": "HCJ Botoșani nr. 37/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 37/2017 privind darea în folosinţă gratuită către Asociaţia Părinţilor Copiilor cu Autism a unui spaţiu în suprafaţă de 64,32 mp, amplasat în clădirea „Centru de Plasament pentru Copiii cu Handicap” situat în municipiul Botoşani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h037_27.03.2017.pdf",
+     "sha256": "4ff06968e7590a38389d12e7f9ac4ceedf73d65aa672d43a919c39f8a9aa881a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-38-2017",
+   "path": "local/judet/botosani/2017/38",
+   "short": "HCJ Botoșani nr. 38/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 38/2017 privind aprobarea închirierii prin licitaţie publică a unui spaţiu de 2 mp din clădirea situată în comuna Drăgușeni, judeţul Botoşani, aflată în domeniul public al judeţului Botoşani și în administrarea Sanatoriului de Neuropsihiatrie Podriga",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h038_27.03.2017.pdf",
+     "sha256": "94502761bcaee289c50d4fa868edf81336d9fa208599bea9fee1f1a137620f55"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-39-2017",
+   "path": "local/judet/botosani/2017/39",
+   "short": "HCJ Botoșani nr. 39/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 39/2017 privind completarea Strategiei de Dezvoltare Socio-Economică a Judeţului Botoşani 2014-2020",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h039_27.03.2017.pdf",
+     "sha256": "83fada4148ce3d622f74863386b7c80dd70954812235d7abf29367d65c869120"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-4-2017",
+   "path": "local/judet/botosani/2017/4",
+   "short": "HCJ Botoșani nr. 4/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 4/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h004_09.01.2017.pdf",
+     "sha256": "f10265568d54022db901fa5fb3719beec4828435c1d48d784ba421112224d9e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-40-2017",
+   "path": "local/judet/botosani/2017/40",
+   "short": "HCJ Botoșani nr. 40/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 40/2017 privind aprobarea Protocolului de parteneriat între",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h040_27.03.2017.pdf",
+     "sha256": "0f2acb45a4aebcf35aa795416cef588bc38fe57d4ea64e45c0c44d993f6b304a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-41-2017",
+   "path": "local/judet/botosani/2017/41",
+   "short": "HCJ Botoșani nr. 41/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 41/2017 privind aprobarea valorii totale estimată a obiectivului de investiţie „Modernizare și consolidare DJ 282A, din DN 29D Ionăşeni – Măşcăteni, km 0+000-10+000”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h041_27.03.2017.pdf",
+     "sha256": "180d0b799cae9761b524a87d14c8089cce455cfa8dd17214d6a2a897b4556c09"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-42-2017",
+   "path": "local/judet/botosani/2017/42",
+   "short": "HCJ Botoșani nr. 42/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 42/2017 privind aprobarea valorii totale estimată a obiectivului de investiţie „Modernizare DJ 292A, Corlăteni – Dimăcheni, km 0+000-2+500”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h042_27.03.2017.pdf",
+     "sha256": "d2fb88245c6185cac67572064eb9c52e24a42f29cf57ddfb7e0870d0cb4e6d5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-43-2017",
+   "path": "local/judet/botosani/2017/43",
+   "short": "HCJ Botoșani nr. 43/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 43/2017 privind aprobarea valorii totale estimată a obiectivului de investiţie „Modernizare DJ 294C, Manoleasa – Zahoreni – Borolea, km 0+000-7+000”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h043_27.03.2017.pdf",
+     "sha256": "3cc8aeb0a76b44d4e28940aa38f99aa2a641e4a93083a9f283090318c01bad66"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-44-2017",
+   "path": "local/judet/botosani/2017/44",
+   "short": "HCJ Botoșani nr. 44/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 44/2017 privind aprobarea valorii totale estimată a obiectivului de investiţie „Reabilitare, restaurare și valorificarea durabilă a Muzeului Judeţean Botoşani”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h044_27.03.2017.pdf",
+     "sha256": "7d0ed9ef272f358007d11c4e812b0b7ee43e2298702ac5fa59a29f52c2ef8d64"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-48-2017",
+   "path": "local/judet/botosani/2017/48",
+   "short": "HCJ Botoșani nr. 48/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 48/2017 privind aprobarea bugetului propriu judeţean, al bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii, pe anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h048_27.03.2017.pdf",
+     "sha256": "c6fbfb59ad965d213e5948385fbb746623386d30d599351251cc0b89af68cb41"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-49-2017",
+   "path": "local/judet/botosani/2017/49",
+   "short": "HCJ Botoșani nr. 49/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 49/2017 privind aprobarea Protocolului de colaborare între",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h049_27.03.2017.pdf",
+     "sha256": "06f0d694d1d483591df4e5d2f0a3a89441209c8248856673999acd18616d5e51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-5-2017",
+   "path": "local/judet/botosani/2017/5",
+   "short": "HCJ Botoșani nr. 5/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 5/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h005_27.01.2017.pdf",
+     "sha256": "ca2ae2d8cb24517d4257c803a7b0f4b06c21c1902304bcc57690be90c1e36adf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-50-2017",
+   "path": "local/judet/botosani/2017/50",
+   "short": "HCJ Botoșani nr. 50/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 50/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-04-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h050_04.04.2017.pdf",
+     "sha256": "a96097b0e92011444caa23e5736f18cf82b6ab316858887a1f3fd8eb8bc743e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-51-2017",
+   "path": "local/judet/botosani/2017/51",
+   "short": "HCJ Botoșani nr. 51/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 51/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-04-04",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h051_04.04.2017.pdf",
+     "sha256": "d9765a832d3185a8ac9f0bc7aeeabf6982153c7aab5cf3842d91f16f4eccea6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-52-2017",
+   "path": "local/judet/botosani/2017/52",
+   "short": "HCJ Botoșani nr. 52/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 52/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h052_27.04.2017.pdf",
+     "sha256": "d6e18cb96c85e2e2d15f9a79b03548f8e858da7c2f739ff5f15be8728794285e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-53-2017",
+   "path": "local/judet/botosani/2017/53",
+   "short": "HCJ Botoșani nr. 53/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 53/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h053_27.04.2017.pdf",
+     "sha256": "9c1ae08cec83a5792b417c45d88928fe2335e0f9bd5af8ac1bce19ba36fe24af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-54-2017",
+   "path": "local/judet/botosani/2017/54",
+   "short": "HCJ Botoșani nr. 54/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 54/2017 privind aprobarea Planului de analiză şi acoperire a riscurilor pe teritoriul judeţului Botoşani - actualizat în anul 2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h054_27.04.2017.pdf",
+     "sha256": "aebfe2e4d925b8267740fad392d93ac50ec2a0fec42f01a1925b891fe2d03913"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-55-2017",
+   "path": "local/judet/botosani/2017/55",
+   "short": "HCJ Botoșani nr. 55/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 55/2017 privind atribuirea unor licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h055_27.04.2017.pdf",
+     "sha256": "a9e07ada738787b16678952f94d51f8b1d4c9ed4a3b63261c917440718bff9fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-56-2017",
+   "path": "local/judet/botosani/2017/56",
+   "short": "HCJ Botoșani nr. 56/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 56/2017 privind aprobarea rezultatului final, pentru anul 2016, al evaluării managementului instituţiilor publice de cultură din subordinea Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h056_27.04.2017.pdf",
+     "sha256": "97f59b0593496879bc1e8dbf5a6c5559dd3eca4a370204f48317e91ee290deee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-57-2017",
+   "path": "local/judet/botosani/2017/57",
+   "short": "HCJ Botoșani nr. 57/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 57/2017 privind stabilirea costului mediu lunar de întreţinere pentru asistaţii din centrele rezidenţiale publice pentru persoanele cu handicap din cadrul Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h057_27.04.2017.pdf",
+     "sha256": "dd7722d369725d6a00eea518b490f09be459e9e1b3be76a5a7b333c1af241df8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-58-2017",
+   "path": "local/judet/botosani/2017/58",
+   "short": "HCJ Botoșani nr. 58/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 58/2017 privind aprobarea contului de execuţie al bugetului propriu judeţean şi al bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii, pe cele două secţiuni, pentru perioada 01.01-31.03.2017",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h058_27.04.2017.pdf",
+     "sha256": "bf2d29c5d2420486f912bca46a704dc17dbfd8140475371a55b90c2d8f743b5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-59-2017",
+   "path": "local/judet/botosani/2017/59",
+   "short": "HCJ Botoșani nr. 59/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 59/2017 privind aprobarea înfiinţării unor servicii sociale/centre prin reorganizare, a organigramei şi statului de funcţii ale Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h059_27.04.2017.pdf",
+     "sha256": "01a7184a0714a5da11763693a752f3ebe90f4bff9c3388b54daac6300c56218c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-6-2017",
+   "path": "local/judet/botosani/2017/6",
+   "short": "HCJ Botoșani nr. 6/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 6/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h006_27.01.2017.pdf",
+     "sha256": "7bd59b5fb5f4c0050d7e7aa98009349d05fd3721cded7e812975b5c4b5ce2ccb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-60-2017",
+   "path": "local/judet/botosani/2017/60",
+   "short": "HCJ Botoșani nr. 60/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 60/2017 privind darea în folosinţă gratuită către Asociaţia „NE TREBUIE SPERANŢĂ” Botoşani a unui imobil, clădiri şi teren aferent, situat în localitatea Mănăstirea Doamnei, com Curteşti, jud. Botoşani, aparţinând domeniului public al Judeţului Botoşani, aflat în administrarea Direcţiei Generale de",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h060_27.04.2017.pdf",
+     "sha256": "07c8e03a72c9add969915a92c31a519c5709d5f30227f1b44588da38baabcc49"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-61-2017",
+   "path": "local/judet/botosani/2017/61",
+   "short": "HCJ Botoșani nr. 61/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 61/2017 privind aprobarea închirierii prin licitaţie publică a unui teren de 42 mp situat în Botoşani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h061_27.04.2017.pdf",
+     "sha256": "184965e5b59e85ceef79095504f0e208737de221b4f64ff59dcb18699fcd55b7"
     }
    ]
   },
@@ -179,6 +1769,456 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h063_27.04.2017.pdf",
      "sha256": "fb5a780ea30d669140f49df2d68c761af5a6150587638eeee2f97175f267e6e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-64-2017",
+   "path": "local/judet/botosani/2017/64",
+   "short": "HCJ Botoșani nr. 64/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 64/2017 privind aprobarea Planului Local de Acțiune 2017– 2020 pentru implementarea Strategiei județene antidrog 2014 – 2020",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h064_26.05.2017.pdf",
+     "sha256": "651cf2479385f8e76f9438a82dda1797c1d2466d1c9508139defaa0244a3655e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-65-2017",
+   "path": "local/judet/botosani/2017/65",
+   "short": "HCJ Botoșani nr. 65/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 65/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h065_26.05.2017.pdf",
+     "sha256": "7df0562b73baa361a410289a0bda73be09876eb6c6b593df1d48bdab5848aefc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-66-2017",
+   "path": "local/judet/botosani/2017/66",
+   "short": "HCJ Botoșani nr. 66/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 66/2017 privind atribuirea unor licențe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h066_26.05.2017.pdf",
+     "sha256": "cc52b4696578f4f7d80bd5d39bb08dedaee5ddb880565efd322fe58e66ff1426"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-67-2017",
+   "path": "local/judet/botosani/2017/67",
+   "short": "HCJ Botoșani nr. 67/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 67/2017 privind aprobarea contului anual de execuție al bugetului local și al bugetului instituțiilor publice finanțate din venituri proprii și subvenții din bugetul local pe anul 2016",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h067_26.05.2017.pdf",
+     "sha256": "e97435cbdce03fd800de5ef65cbd02583b90e9e863bbfb91bca79b41dfb1094e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-68-2017",
+   "path": "local/judet/botosani/2017/68",
+   "short": "HCJ Botoșani nr. 68/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 68/2017 privind aprobarea situațiilor financiare pe anul 2016",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h068_26.05.2017.pdf",
+     "sha256": "178934e84a89104de6b14e7ead19d5fa1eadaab0a87ea2a6258881ca95492faf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-69-2017",
+   "path": "local/judet/botosani/2017/69",
+   "short": "HCJ Botoșani nr. 69/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 69/2017 privind stabilirea costului mediu lunar de întreținere pentru Unitățile de Asistență Medico-Sociale Sulița, Suharău și Mihăileni, județul Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h069_26.05.2017.pdf",
+     "sha256": "910c6bb5ca141cfe4511d2e515b9e7b470dfc74a73d3b9daf0c94549a0fbf5c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-7-2017",
+   "path": "local/judet/botosani/2017/7",
+   "short": "HCJ Botoșani nr. 7/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 7/2017 privind modificarea componenței Autorității Teritoriale de Ordine Publică Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h007_27.01.2017.pdf",
+     "sha256": "376fe1261beaab37881c61df7c6c9793083594de73237cde8eada6127ae09a05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-70-2017",
+   "path": "local/judet/botosani/2017/70",
+   "short": "HCJ Botoșani nr. 70/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 70/2017 privind stabilirea indemnizaţiei de şedinţă a membrilor Comisiei de Orientare Şcolară şi Profesională din cadrul Centrului Judeţean de Resurse şi Asistenţă Educaţională Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h070_26.05.2017.pdf",
+     "sha256": "3f1fa5384b132e775d0cd7555afd8388d7c5d2574fa9de0727233bd898ca0852"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-71-2017",
+   "path": "local/judet/botosani/2017/71",
+   "short": "HCJ Botoșani nr. 71/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 71/2017 privind aprobarea participării la cursuri de perfecționare a consilierilor județeni din cadrul Consiliului Județean Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h071_26.05.2017.pdf",
+     "sha256": "8c46468b0076d709f60dc4560282609ecf8e2c6d4539a97a7bc6b3cd9349a992"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-72-2017",
+   "path": "local/judet/botosani/2017/72",
+   "short": "HCJ Botoșani nr. 72/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 72/2017 privind aprobarea organigramelor şi statelor de funcţii pentru aparatul de specialitate, aparatul permanent de lucru al Consiliului Judeţean Botoşani şi instituţiile publice subordonate",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h072_26.05.2017.pdf",
+     "sha256": "b646a5ccf23697827631dac2ef6581e6d561b4b6873bdbb8f82fceb2eefe27a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-73-2017",
+   "path": "local/judet/botosani/2017/73",
+   "short": "HCJ Botoșani nr. 73/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 73/2017 pentru aprobarea normativelor de cheltuieli privind acţiunile de protocol, dotarea cu autoturisme și costurile pentru convorbiri telefonice la nivelul Consiliului Județean Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h073_26.05.2017.pdf",
+     "sha256": "ed2f64a6a6a26b5c9c8461c620c2d2d997313d3e4223620328abc0d0fa96fdf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-74-2017",
+   "path": "local/judet/botosani/2017/74",
+   "short": "HCJ Botoșani nr. 74/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 74/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h074_26.05.2017.pdf",
+     "sha256": "173b1f9cdb72805b08a2077db405acc3899c26da4494f51e9b1d1515b3750438"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-75-2017",
+   "path": "local/judet/botosani/2017/75",
+   "short": "HCJ Botoșani nr. 75/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 75/2017 privind acordarea unui mandat special în vederea aprobării bugetului de venituri și cheltuieli al Societății NOVA APASERV S.A",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h075_26.05.2017.pdf",
+     "sha256": "ede845ee9335d139cd6762daa1eee3c9e8e2b314b08b556b80a410ec7f243fae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-77-2017",
+   "path": "local/judet/botosani/2017/77",
+   "short": "HCJ Botoșani nr. 77/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 77/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h077_26.05.2017.pdf",
+     "sha256": "d89fc69e6fa3fd8f0fedd6c3429cf7de93570814587278c2d74ef89355d0c811"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-78-2017",
+   "path": "local/judet/botosani/2017/78",
+   "short": "HCJ Botoșani nr. 78/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 78/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h078_26.05.2017.pdf",
+     "sha256": "07fdcac781ba2bf57b1fb7c8cf1bea1982a59d0897d6030e79b05f79fb8f16d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-79-2017",
+   "path": "local/judet/botosani/2017/79",
+   "short": "HCJ Botoșani nr. 79/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 79/2017 privind acordarea către ADI „ECOPROCES” Botoşani a unui mandat de atribuire, în numele şi pe seama Judeţului Botoşani, a contractului de delegare a gestiunii „Concesionarea serviciului public de colectare şi transport a deşeurilor municipale solide în judeţul Botoşani” – Zona 2 Săveni şi a",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h079_26.05.2017.pdf",
+     "sha256": "b422363e3780e500192b533f658273df1cc0eed2e30cf0e91cc33d1c785703ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-8-2017",
+   "path": "local/judet/botosani/2017/8",
+   "short": "HCJ Botoșani nr. 8/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 8/2017 privind desemnarea unui reprezentant al Consiliului JudeţeanBotoşani în Consiliul Administrativ al Muzeului JudeţeanBotoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h008_27.01.2017.pdf",
+     "sha256": "60285661129c3c6da53a69d78e01855d733ec59370b781271d783686959062db"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-80-2017",
+   "path": "local/judet/botosani/2017/80",
+   "short": "HCJ Botoșani nr. 80/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 80/2017 privind acordarea către ADI „ECOPROCES” Botoşani a unui mandat de atribuire, în numele şi pe seama Judeţului Botoşani, a contractului de delegare a gestiunii „Concesionarea serviciului public de colectare şi transport a deşeurilor municipale solide în judeţul Botoşani” – Zona 5 Flămânzi şi",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h080_26.05.2017.pdf",
+     "sha256": "88129291fa5161425a6e07b59fe186a81c9da3443e674fff129aade38ed2828f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-82-2017",
+   "path": "local/judet/botosani/2017/82",
+   "short": "HCJ Botoșani nr. 82/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 82/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h082_26.05.2017.pdf",
+     "sha256": "60ffa279cc46f057ad7b95e96f8ec77fc631cddd45bb46e20453403722495014"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-83-2017",
+   "path": "local/judet/botosani/2017/83",
+   "short": "HCJ Botoșani nr. 83/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 83/2017 privind modificarea componenţei Autorităţii Teritoriale de Ordine Publică Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h083_29.06.2017.pdf",
+     "sha256": "50428a459463c64250514a9bbb3926ad2e534861a80d29e87d89523a6ae95c5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-84-2017",
+   "path": "local/judet/botosani/2017/84",
+   "short": "HCJ Botoșani nr. 84/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 84/2017 privind aprobarea închirierii prin licitație publică a unor spații aparținând domeniului public al județului Botoșani și aflate în administrarea Spitalului Județean de Urgență“Mavromati”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h084_29.06.2017.pdf",
+     "sha256": "cc1557bc93581dc4e3e877242e08cd66f3f2cce02c614162061f00560522084a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-86-2017",
+   "path": "local/judet/botosani/2017/86",
+   "short": "HCJ Botoșani nr. 86/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 86/2017 privind actualizarea monografiei economico-militară a judeţului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h086_29.06.2017.pdf",
+     "sha256": "e97dbf110457e0aa751f511a4e621f1a3f12893979f797cbe3bf5696156ae3ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-87-2017",
+   "path": "local/judet/botosani/2017/87",
+   "short": "HCJ Botoșani nr. 87/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 87/2017 privind aprobarea Regulamentelor de organizare și funcționare a Direcției Generale de Asistență Socială și Protecția Copilului Botoșani, precum și a serviciilor sociale care funcționează în cadrul acesteia",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h087_29.06.2017.pdf",
+     "sha256": "1479a9d3368cb903935e601c3d17742515723decf1957aa60e6a08c930c4f1a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-89-2017",
+   "path": "local/judet/botosani/2017/89",
+   "short": "HCJ Botoșani nr. 89/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 89/2017 privind aprobarea participării Spitalului Județean de Urgență Mavromati Botoșani la Programul de stimulare a înnoirii Parcului auto național 2017 – 2019 și asigurarea din venituri proprii a contribuției necesare achiziționării a 4 autovehicule",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h089_29.06.2017.pdf",
+     "sha256": "ea598ea8cc325e5540297c01534fbe616e52a36031eb3de6a98d2949075f8865"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-9-2017",
+   "path": "local/judet/botosani/2017/9",
+   "short": "HCJ Botoșani nr. 9/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 9/2017 privind atribuirea unor licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-01-27",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h009_27.01.2017.pdf",
+     "sha256": "0d561e9e2c5b5c5e89f4d340dd31b6141d440f25d222c33c3f93b5f8e4244ace"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-93-2017",
+   "path": "local/judet/botosani/2017/93",
+   "short": "HCJ Botoșani nr. 93/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 93/2017 privind acordarea către ADI „ECOPROCES” Botoşani a unui mandat de atribuire, în numele şi pe seama Judeţului Botoşani, a contractului de delegare a gestiunii „Concesionarea serviciului public de colectare şi transport a deşeurilor municipale solide în judeţul Botoşani” – Zona 1 Dorohoi şi a",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h093_29.06.2017.pdf",
+     "sha256": "d4b1a1169360824e5828eeb3c7cd248a82c337ef07f55190fe90fdb3859bf417"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-94-2017",
+   "path": "local/judet/botosani/2017/94",
+   "short": "HCJ Botoșani nr. 94/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 94/2017 privind acordarea către ADI „ECOPROCES” Botoşani a unui mandat de atribuire, în numele şi pe seama JudeţuluiBotoşani, a contractului de delegare a gestiunii „Concesionarea serviciului public de colectare şi transport a deşeurilor municipale solide în judeţul Botoşani” – Zona 4 Botoșani şi a",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h094_29.06.2017.pdf",
+     "sha256": "99b0cd23584e93f9688154189034c7083bbbc42f3130f361e8cb220920257a9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-97-2017",
+   "path": "local/judet/botosani/2017/97",
+   "short": "HCJ Botoșani nr. 97/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 97/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h097_29.06.2017.pdf",
+     "sha256": "a63bafb66dff3bf7b2914870b6bcc174dca7d03561f8f59ab1949f7deacd2b1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-98-2017",
+   "path": "local/judet/botosani/2017/98",
+   "short": "HCJ Botoșani nr. 98/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 98/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h098_29.06.2017.pdf",
+     "sha256": "d3e1dfeae9bfa33b41f6f4ff21a1b50619ee7f19c0e726469ce582596ad463a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-99-2017",
+   "path": "local/judet/botosani/2017/99",
+   "short": "HCJ Botoșani nr. 99/2017",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 99/2017 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii „Regiunea Nord – Est - Axa rutieră strategică 2: Botoșani - Iași”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2017-07-07",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h099_07.07.2017.pdf",
+     "sha256": "dc14b97a4eb6aa17c752199b026d99a1c29016e57d25c92f8c494d31264184ae"
     }
    ]
   }

@@ -3,6 +3,516 @@
  "shard": "local/judet/botosani/2015",
  "acts": [
   {
+   "slug": "hcj-botosani-10-2015",
+   "path": "local/judet/botosani/2015/10",
+   "short": "HCJ Botoșani nr. 10/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 10/2015 privind aprobarea reţelei şcolare a învăţământului special din Judeţul Botoşani, pentru anul şcolar 2015 – 2016",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h010_29.01.2015.pdf",
+     "sha256": "fc990c7b8f358a8fa7b50bc1b5ee05817ccb1ac2fce1600b3f040be41b0ed8c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-101-2015",
+   "path": "local/judet/botosani/2015/101",
+   "short": "HCJ Botoșani nr. 101/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 101/2015 privind aprobarea modificării şi completării inventarului bunurilor care aparţin domeniului public al Judeţului Botoşani, aflate în administrarea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Botoşani, respectiv a Direcţiei Judeţeană de Drumuri şi Poduri Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-08-18",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h101_18.08.2015.pdf",
+     "sha256": "040e022722562a832ceed43cd2d8837f18904da8f9d68d909e26c63f6532e8e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-102-2015",
+   "path": "local/judet/botosani/2015/102",
+   "short": "HCJ Botoșani nr. 102/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 102/2015 privind rectificarea bugetului propriu judeţean cu suma de 1.012 mii lei, atât la partea de venituri, cât şi la partea de cheltuieli, pe anul 2015",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-08-18",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h102_18.08.2015.pdf",
+     "sha256": "6e2b8dba4a79a901740b2b41e72ad40563ac7ebecd9164ed642a810883b8e0f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-103-2015",
+   "path": "local/judet/botosani/2015/103",
+   "short": "HCJ Botoșani nr. 103/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 103/2015 privind repartizarea sumelor defalcate din taxa pe valoare adăugată pentru finanțarea cheltuielilor privind drumurile județene și comunale, pe anul 2015",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-09-17",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h103_17.09.2015.pdf",
+     "sha256": "8b71ac7bb019c05973a4f7d370b812d45ed417aa2144470f25c3e992dae46824"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-104-2015",
+   "path": "local/judet/botosani/2015/104",
+   "short": "HCJ Botoșani nr. 104/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 104/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h104_28.09.2015.pdf",
+     "sha256": "012a90067c92dfc81af8228adf2513b27e42b9646694cc3a804d460154fd3ef9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-105-2015",
+   "path": "local/judet/botosani/2015/105",
+   "short": "HCJ Botoșani nr. 105/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 105/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h105_28.09.2015.pdf",
+     "sha256": "22d0d09791f387a43cf2002418499c3ebf4e35b940c9b3b7b055b440b68ad108"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-106-2015",
+   "path": "local/judet/botosani/2015/106",
+   "short": "HCJ Botoșani nr. 106/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 106/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h106_28.09.2015.pdf",
+     "sha256": "86c579a3712720f5a79100fb533bf653465743241f78bf2fc3248bc8cabdb46c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-107-2015",
+   "path": "local/judet/botosani/2015/107",
+   "short": "HCJ Botoșani nr. 107/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 107/2015 privind desemnarea unui reprezentant al Consiliului Judeţean Botoşani în Consiliul de administraţie al Centrului Judeţean de Resurse şi Asistenţă Educaţională Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h107_28.09.2015.pdf",
+     "sha256": "e79702f8f2aa008aec0442d50e6c0e07a4a0184b534c06fd115d3f5158b64cb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-108-2015",
+   "path": "local/judet/botosani/2015/108",
+   "short": "HCJ Botoșani nr. 108/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 108/2015 privind aprobarea Protocolului de colaborare între Judeţul Botoşani şi Inspectoratul de Poliţie Judeţean Botoşani, precum şi aprobarea finanţării Programului de prevenire a accidentelor rutiere",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h108_28.09.2015.pdf",
+     "sha256": "e0fb0c2c196d5f05bbe014dfc19276885c92760335b92dd4cc53bbf4863fcde6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-111-2015",
+   "path": "local/judet/botosani/2015/111",
+   "short": "HCJ Botoșani nr. 111/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 111/2015 privind aprobarea Regulamentelor de organizare şi funcţionare a unor instituţii publice de cultură din subordinea Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h111_28.09.2015.pdf",
+     "sha256": "aedf68b7a20f7a14abc8dd259a0a23b0cc1c5803f8834b0eb633f5bdaf438b90"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-112-2015",
+   "path": "local/judet/botosani/2015/112",
+   "short": "HCJ Botoșani nr. 112/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 112/2015 pentru aprobarea „Propunerilor de încadrare a drumurilor judeţene pe niveluri de viabilitate în perioada de iarnă 2015 – 2016” şi a „Planului operativ de acţiune privind prevenirea şi combaterea înzăpezirii drumurilor judeţene în perioada de iarnă 2015 – 2016”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h112_28.09.2015.pdf",
+     "sha256": "b9babb3939fba8be91e12076dfe783b30798b5980f4672c38d43a1168fed8145"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-113-2015",
+   "path": "local/judet/botosani/2015/113",
+   "short": "HCJ Botoșani nr. 113/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 113/2015 privind repartizarea cotei de 20% din sumele defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale şi din cota de 18,5% din impozitul pe venit, precum şi a sumelor din impozitul pe venit şi sume defalcate rezultate din aplicarea gradului de necolectare a veniturilor p",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h113_28.09.2015.pdf",
+     "sha256": "70e6a853b6905f278eb23c61a61f9a030706b6fb3a739ee9ea93b895c99ec1b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-114-2015",
+   "path": "local/judet/botosani/2015/114",
+   "short": "HCJ Botoșani nr. 114/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 114/2015 privind rectificarea bugetului propriu judeţean cu suma de 3.503 mii lei, al bugetului instituţiilor şi activităţilor finanţate integral sau parţial din venituri proprii cu suma de 12.089 mii lei atât la partea de venituri cât şi la partea de cheltuieli pe anul 2015 şi efectuarea de virări",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-09-28",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h114_28.09.2015.pdf",
+     "sha256": "7b24bd80942883642d07cc478ecc7a41683ceb08cac679435f0e786fbe1c4bda"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-116-2015",
+   "path": "local/judet/botosani/2015/116",
+   "short": "HCJ Botoșani nr. 116/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 116/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h116_29.10.2015.pdf",
+     "sha256": "86648024f6f3a25cf6d7e1bfb4a9b3cd92d36e62765c70ac0c0f4a3b6e334440"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-117-2015",
+   "path": "local/judet/botosani/2015/117",
+   "short": "HCJ Botoșani nr. 117/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 117/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h117_29.10.2015.pdf",
+     "sha256": "3318b80c787cbd85002a8090e54c31d8b7320052f9c45913960494aff67bdf17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-118-2015",
+   "path": "local/judet/botosani/2015/118",
+   "short": "HCJ Botoșani nr. 118/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 118/2015 privind atribuirea unor licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h118_29.10.2015.pdf",
+     "sha256": "1d38bba00e5f2db6150ac135ee977f0584ceb2064927f2ee4ebd11905d80fd3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-119-2015",
+   "path": "local/judet/botosani/2015/119",
+   "short": "HCJ Botoșani nr. 119/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 119/2015 privind modificarea arondării unor unităţi administrativ-teritoriale la serviciile publice comunitare de evidenţă a persoanelor de pe raza Judeţului Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h119_29.10.2015.pdf",
+     "sha256": "1542409102d4ecb38ea3cf16487f49ad3d723e4483f7c08c38bfbb13203e57d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-120-2015",
+   "path": "local/judet/botosani/2015/120",
+   "short": "HCJ Botoșani nr. 120/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 120/2015 privind aprobarea închirierii prin licitaţie publică a unui spaţiu din imobilul „Policlinica Stomatologică” şi a terenului aferent, situat în Botoşani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h120_29.10.2015.pdf",
+     "sha256": "451eda1cd982ebdddd5be58aa8ea9fb650fea09b8613f2962fc3a091793852bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-121-2015",
+   "path": "local/judet/botosani/2015/121",
+   "short": "HCJ Botoșani nr. 121/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 121/2015 privind aprobarea închirierii prin licitaţie publică a unui teren în suprafaţă de 45 mp, situat în Botoşani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h121_29.10.2015.pdf",
+     "sha256": "f3da86cc1b2259cf3d4d1524f717a4e84c4bd0603da4f4826d214405e53b5e9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-122-2015",
+   "path": "local/judet/botosani/2015/122",
+   "short": "HCJ Botoșani nr. 122/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 122/2015 privind aprobarea Acordului de Colaborare în cadrul Comitetului Local de Dezvoltare a Parteneriatului Social pentru Formare Profesională (CLDPS) din judeţul Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h122_29.10.2015.pdf",
+     "sha256": "53025035b81a85454b3b10723acd9c2e10c44c735d93c86335eedc71ab5f1614"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-123-2015",
+   "path": "local/judet/botosani/2015/123",
+   "short": "HCJ Botoșani nr. 123/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 123/2015 privind aprobarea Acordului de Colaborare în cadrul Consorţiului Regional al Regiunii de Dezvoltare Nord-Est",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h123_29.10.2015.pdf",
+     "sha256": "fdbe9478747713f0b5ac6231752091ea1def87b0d77426edca5a92f7e52cf9ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-124-2015",
+   "path": "local/judet/botosani/2015/124",
+   "short": "HCJ Botoșani nr. 124/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 124/2015 privind aprobarea contului de execuţie al bugetului propriu judeţean şi al bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii, pe cele două secţiuni, pentru perioada 01.01 – 30.09.2015",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h124_29.10.2015.pdf",
+     "sha256": "6396cf8cefddae48bf62f3f9d47ae38cba0cdff0ce0623bbaa9609fe467c4012"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-129-2015",
+   "path": "local/judet/botosani/2015/129",
+   "short": "HCJ Botoșani nr. 129/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 129/2015 privind rectificarea bugetului propriu judeţean cu suma de - 6405 mii lei, al bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii cu suma de 162,4 mii lei, atât la partea de venituri cât şi la partea de cheltuieli pe anul 2015, şi efectuarea",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h129_29.10.2015.pdf",
+     "sha256": "4b231c50fe1a4c3e3f6a524aac7f377a1da72318010c7911fb2bea5cc748fb35"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-13-2015",
+   "path": "local/judet/botosani/2015/13",
+   "short": "HCJ Botoșani nr. 13/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 13/2015 privind aprobarea prelungirii duratei de folosinţă gratuită până la 31.12.2015, de către Biblioteca Orăşenească Dorohoi, a spaţiului în suprafaţă totală de 119,76 mp, situat la parterul clădirii „Muzeului de Ştiinţele Naturii” Dorohoi, compus din 4 (patru) camere, amplasat în municipiul Dor",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-12-31",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h013_29.01.2015.pdf",
+     "sha256": "acbc51c2c11e128b820fce98658d680c4a1feed43417ac8b288841400e7d3c9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-130-2015",
+   "path": "local/judet/botosani/2015/130",
+   "short": "HCJ Botoșani nr. 130/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 130/2015 privind repartizarea sumelor defalcate din taxa pe valoarea adăugată pentru finanțarea cheltuielilor privind drumurile județene și comunale, pe anul 2015",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-11-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h130_19.11.2015.pdf",
+     "sha256": "af4358ab6db0038c50edb5a59a08d0b15bee849489f931ba6f9a269a4b652cb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-132-2015",
+   "path": "local/judet/botosani/2015/132",
+   "short": "HCJ Botoșani nr. 132/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 132/2015 privind modificarea componenţei Autorităţii Teritoriale de Ordine Publică Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h132_26.11.2015.pdf",
+     "sha256": "a70101915e8161e15a957f1ed67271d591635011473d7c76aed64bb4b723dda9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-133-2015",
+   "path": "local/judet/botosani/2015/133",
+   "short": "HCJ Botoșani nr. 133/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 133/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h133_26.11.2015.pdf",
+     "sha256": "6b809665e9e14bf986b979f4dc6b1a273b7d8910b300dfd8381be042a9ddb855"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-134-2015",
+   "path": "local/judet/botosani/2015/134",
+   "short": "HCJ Botoșani nr. 134/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 134/2015 privind aprobarea trecerii unor bunuri din domeniul privat al Judeţului Botoşani în domeniul public al acestuia şi concesionarea lor către S.C",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h134_26.11.2015.pdf",
+     "sha256": "325d10a65dd781bf0e29dd2abec5862d6e1f75e8ee7bc3e33c152dee74b38e7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-135-2015",
+   "path": "local/judet/botosani/2015/135",
+   "short": "HCJ Botoșani nr. 135/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 135/2015 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii „Reabilitare şi amenajare teren „Lacul cu nuferi” Ipoteşti, comuna Mihai Eminescu”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h135_26.11.2015.pdf",
+     "sha256": "a56c7bc40bef22635b08bee85af5d5517edcf538aa59bbc7deda166f95e13aae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-136-2015",
+   "path": "local/judet/botosani/2015/136",
+   "short": "HCJ Botoșani nr. 136/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 136/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h136_26.11.2015.pdf",
+     "sha256": "3446cd03d5b50d3535ebe62322b9bef36c51d585eb2a2e032135f744ea71a9e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-137-2015",
+   "path": "local/judet/botosani/2015/137",
+   "short": "HCJ Botoșani nr. 137/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 137/2015 privind aprobarea cuantumului şi numărului de burse acordate pentru învăţământul special în anul şcolar 2015 – 2016, din bugetul propriu judeţean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h137_26.11.2015.pdf",
+     "sha256": "e75f88fa44946d77b614e9d970b16760824cc63385f5695d5af03cf3ff40fa33"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-139-2015",
+   "path": "local/judet/botosani/2015/139",
+   "short": "HCJ Botoșani nr. 139/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 139/2015 privind atribuirea unor licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h139_26.11.2015.pdf",
+     "sha256": "3b8c81026e7ca6191334d102b5a65399244cdccd0393eb6d75e72cae41c20922"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-14-2015",
+   "path": "local/judet/botosani/2015/14",
+   "short": "HCJ Botoșani nr. 14/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 14/2015 privind aprobarea solicitării de transmitere a unor bunuri imobile, situate în municipiul Botoşani, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h014_29.01.2015.pdf",
+     "sha256": "480c0e194ffecebdb17e819cb140f5c58455b943de9077cca3040831aa76e167"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-140-2015",
+   "path": "local/judet/botosani/2015/140",
+   "short": "HCJ Botoșani nr. 140/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 140/2015 privind rectificarea bugetului propriu judeţean cu suma de –14.473,00 mii lei şi al bugetului instituţiilor şi activităţilor finanţate integral sau parţial din venituri proprii cu suma de +9.167,00 mii lei, atât la partea de venituri cât şi la partea de cheltuieli pe anul 2015",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h140_26.11.2015.pdf",
+     "sha256": "2cf4480e4ea691960f5efe4849b5c714248a2da86dfbdfbc6cbfe81cf9497718"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-142-2015",
    "path": "local/judet/botosani/2015/142",
    "short": "HCJ Botoșani nr. 142/2015",
@@ -14,6 +524,21 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h142_09.12.2015.pdf",
      "sha256": "396fdf05a0bdc9eb39615c36cc906056789c26b4e61ac1bd6d266030d2612570"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-143-2015",
+   "path": "local/judet/botosani/2015/143",
+   "short": "HCJ Botoșani nr. 143/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 143/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-09",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h143_09.12.2015.pdf",
+     "sha256": "33d412546e01e5b83e851e165dac0139584b2f1d90bedafa61fbd1aa638207b9"
     }
    ]
   },
@@ -93,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcj-botosani-15-2015",
+   "path": "local/judet/botosani/2015/15",
+   "short": "HCJ Botoșani nr. 15/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 15/2015 privind aprobarea modificării şi completării inventarului bunurilor aparţinând domeniului public al judeţului Botoşani, aflate în administrarea Direcţiei Judeţene de Drumuri şi Poduri Botoşani, respectiv Memorialului Ipoteşti – Centrul Naţional de Studii „Mihai Eminescu”",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h015_29.01.2015.pdf",
+     "sha256": "91fe4f785ee55eab57d9bfb44b9289796cd1d8b3c2387df081aa619701d03ca1"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-150-2015",
    "path": "local/judet/botosani/2015/150",
    "short": "HCJ Botoșani nr. 150/2015",
@@ -123,6 +663,51 @@
    ]
   },
   {
+   "slug": "hcj-botosani-152-2015",
+   "path": "local/judet/botosani/2015/152",
+   "short": "HCJ Botoșani nr. 152/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 152/2015 privind aprobarea unei burse de ajutor social acordată pentru anul şcolar 2015 – 2016, din bugetul propriu judeţean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h152_21.12.2015.pdf",
+     "sha256": "76c25ad8ade8d20ab8a30744a197a74caa87c667405cdfdb0926c8d439077313"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-153-2015",
+   "path": "local/judet/botosani/2015/153",
+   "short": "HCJ Botoșani nr. 153/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 153/2015 privind stabilirea costului mediu lunar de întreţinere pentru Unităţile de Asistenţă Medico – Sociale Suliţa, Suharău şi Mihăileni",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h153_21.12.2015.pdf",
+     "sha256": "3d303b91e9010317e0d5a34ee0d5d63737fb101ff07c8e3196efae6c9f53f886"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-154-2015",
+   "path": "local/judet/botosani/2015/154",
+   "short": "HCJ Botoșani nr. 154/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 154/2015 privind aprobarea Regulamentului de organizare şi funcţionare al Şcolii Populare de Arte şi Meserii Botoşani, instituţie publică de cultură din subordinea Consiliului Judeţean Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h154_21.12.2015.pdf",
+     "sha256": "67e31ce6389fcb7be4734765624ea25a516cb7f133023ed170f2238ee158b4ae"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-155-2015",
    "path": "local/judet/botosani/2015/155",
    "short": "HCJ Botoșani nr. 155/2015",
@@ -134,6 +719,231 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/h155_21.12.2015.pdf",
      "sha256": "9e0cc34f6a8b8396412c85885f5cb09645493f6de7390d4493cb78ade76c3ea1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-156-2015",
+   "path": "local/judet/botosani/2015/156",
+   "short": "HCJ Botoșani nr. 156/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 156/2015 privind aprobarea efectuării concediului de odihnă restant, aferent anului 2015, de către persoanele cu funcţii de demnitate publică din conducerea Consiliului Judeţean Botoşani, în cursul anului 2016",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h156_21.12.2015.pdf",
+     "sha256": "0a62f18a6751cb80e8abc33823f0bcacbf52edd35fe4dd59978ed43b595a81c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-157-2015",
+   "path": "local/judet/botosani/2015/157",
+   "short": "HCJ Botoșani nr. 157/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 157/2015 privind aprobarea planurilor de ocupare a funcţiilor publice pentru aparatul de specialitate al Consiliului Judeţean Botoşani şi instituţiile publice subordonate, pe anul 2016",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h157_21.12.2015.pdf",
+     "sha256": "6da49e5d798d06ce97771d7a3a9089967f51eaccad96e7c303771cef09d11ea4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-158-2015",
+   "path": "local/judet/botosani/2015/158",
+   "short": "HCJ Botoșani nr. 158/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 158/2015 privind atribuirea unei licenţe de traseu pentru curse regulate speciale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h158_21.12.2015.pdf",
+     "sha256": "d849bccf58ae50bddec2e445ae5eff1041eb7795bb0afc33329d57cbdf0f4b5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-159-2015",
+   "path": "local/judet/botosani/2015/159",
+   "short": "HCJ Botoșani nr. 159/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 159/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h159_21.12.2015.pdf",
+     "sha256": "00e451a0e1e66ee5bf393b5f174dff9686c9d5f3c840b7b2d1570e0b17c9e2bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-160-2015",
+   "path": "local/judet/botosani/2015/160",
+   "short": "HCJ Botoșani nr. 160/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 160/2015 privind rectificarea bugetului propriu judeţean cu suma de 2,50 mii lei şi al bugetului instituţiilor şi activităţilor finanţate integral sau parţial din venituri proprii cu suma de 130,00 mii lei atât la partea de venituri, cât şi la partea de cheltuieli, pe anul 2015",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h160_21.12.2015.pdf",
+     "sha256": "c634fa2498fc50bb1726662508fa641143257f7742126cbb601c5307d634e194"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-161-2015",
+   "path": "local/judet/botosani/2015/161",
+   "short": "HCJ Botoșani nr. 161/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 161/2015 privind aprobarea modificării şi completării inventarului bunurilor aparţinând domeniului public al judeţului Botoşani, aflate în administrarea Direcţiei Judeţeană de Drumuri şi Poduri Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h161_21.12.2015.pdf",
+     "sha256": "17a72e3ccf9ddd440cb82975f49ac0315b3ca5271c6845255e7911432ae4ecb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-164-2015",
+   "path": "local/judet/botosani/2015/164",
+   "short": "HCJ Botoșani nr. 164/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 164/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h164_21.12.2015.pdf",
+     "sha256": "4a5d005e3279e2285cef0219ecd4f910f3fda4bafc020ae8411eda4dc7757914"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-165-2015",
+   "path": "local/judet/botosani/2015/165",
+   "short": "HCJ Botoșani nr. 165/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 165/2015 privind alocarea sumei de 108,62 mii lei din fondul de rezervă constituit la nivelul bugetului propriu județean pe anul 2015 pentru Primăria comunei Trușești, județul Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h165_21.12.2015.pdf",
+     "sha256": "78298c34d83f22cc90af34bbe0b3117fd89248c5aee0d0789f64509b9d940f52"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-17-2015",
+   "path": "local/judet/botosani/2015/17",
+   "short": "HCJ Botoșani nr. 17/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 17/2015 privind desemnarea vicepreședintelui care va exercita atribuțiile conferite de lege președintelui consiliului județean",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-02-19",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h017_19.02.2015.pdf",
+     "sha256": "da0a111df9c27d33b0353ef57b17e2b452008a8d9e3bd4754799fe1e4944fda4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-18-2015",
+   "path": "local/judet/botosani/2015/18",
+   "short": "HCJ Botoșani nr. 18/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 18/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h018_26.02.2015.pdf",
+     "sha256": "73e622286771c944059daeac8f296d4e7bb93374a2f9af5678d28811e2751c99"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-19-2015",
+   "path": "local/judet/botosani/2015/19",
+   "short": "HCJ Botoșani nr. 19/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 19/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h019_26.02.2015.pdf",
+     "sha256": "12bdc02bba8ba4f0c3b3d73a567d90c801cc852c15ee2493569e7d4c09bdb66e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-20-2015",
+   "path": "local/judet/botosani/2015/20",
+   "short": "HCJ Botoșani nr. 20/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 20/2015 privind aprobarea înfiinţării Echipei Intersectoriale Locale pentru prevenirea şi combaterea abuzului asupra copilului, exploatării copiilor prin muncă şi a violenţei în familie şi a Regulamentului de organizare şi funcţionare al Echipei Intersectoriale Locale",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h020_26.02.2015.pdf",
+     "sha256": "84a2a2ed9650bb8026736185ba2a2a165ee30a2a06e314deb954762af6c3c86d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-21-2015",
+   "path": "local/judet/botosani/2015/21",
+   "short": "HCJ Botoșani nr. 21/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 21/2015 privind aprobarea închirierii prin licitaţie publică a suprafeţei de 8,00 mp în curtea Secţiei de Obstetrică – Ginecologie, str",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h021_26.02.2015.pdf",
+     "sha256": "6cbe55a1a55e6187db6bd3ead61580df93e0f4d8117045d850f92e48b36eb20d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-22-2015",
+   "path": "local/judet/botosani/2015/22",
+   "short": "HCJ Botoșani nr. 22/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 22/2015 privind aprobarea modificării şi completării inventarului bunurilor aparţinând domeniului public al judeţului Botoşani, aflate în administrarea Spitalului Judeţean de Urgenţă „Mavromati” Botoşani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h022_26.02.2015.pdf",
+     "sha256": "7fa14af2628556087ba5948d9c276de2dcba3cad8dd52339a360bf0e4ae508ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-23-2015",
+   "path": "local/judet/botosani/2015/23",
+   "short": "HCJ Botoșani nr. 23/2015",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 23/2015 privind constituirea comisiilor de evaluare a managementului instituţiilor publice de cultură aflate în subordinea Consiliului Judeţean Botoşani, precum şi a comisiilor de soluţionare a contestaţiilor",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/h023_26.02.2015.pdf",
+     "sha256": "992485d6cc5451ecb0c3a1d05524c766cd7840a8e8b8cb9764fdc367cc7664bd"
     }
    ]
   },
