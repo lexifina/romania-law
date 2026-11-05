@@ -579,6 +579,36 @@
    ]
   },
   {
+   "slug": "hg-1510-1996",
+   "path": "hg/1996/1510",
+   "short": "HG nr. 1510/1996",
+   "title": "Hotărârea Guvernului nr. 1510/1996 privind numirea în funcţia de subprefect al judeţului Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10589",
+   "versions": [
+    {
+     "from": "1996-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10589",
+     "sha256": "a6e785e49d19a1184d932297ef4286b94943069b0974c32cb51080fc4723e328"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1511-1996",
+   "path": "hg/1996/1511",
+   "short": "HG nr. 1511/1996",
+   "title": "Hotărârea Guvernului nr. 1511/1996 privind numirea în funcţia de prefect al judeţului Vîlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10590",
+   "versions": [
+    {
+     "from": "1996-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10590",
+     "sha256": "a382ec533e6407b1a0c764e99e0415064a2b355e2d673f996a2a11608dd17e70"
+    }
+   ]
+  },
+  {
    "slug": "hg-1512-1996",
    "path": "hg/1996/1512",
    "short": "HG nr. 1512/1996",
