@@ -489,6 +489,141 @@
    ]
   },
   {
+   "slug": "hg-268-1998",
+   "path": "hg/1998/268",
+   "short": "HG nr. 268/1998",
+   "title": "Hotărârea Guvernului nr. 268/1998 privind autorizarea Comitetului Interministerial de Garanţii şi Credite de Comerţ Exterior de a aproba garantarea unui credit acordat de KfW-Germania pentru finanţarea proiectului \"Instalaţie de obţinere anhidridă ftalică şi plastifianţi\" la Societatea Comercială \"Oltchim\" - S.A. Ramnicu Valcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14711",
+   "versions": [
+    {
+     "from": "1998-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14711",
+     "sha256": "efa5dbf16780014e96b3187a1600c63c0f310087b6ba11220f402d69c2df391b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-269-1998",
+   "path": "hg/1998/269",
+   "short": "HG nr. 269/1998",
+   "title": "Hotărârea Guvernului nr. 269/1998 privind reducerile şi gratuităţile acordate magistraţilor şi personalului auxiliar de specialitate de la instanţe şi parchete pentru transportul intern",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14712",
+   "versions": [
+    {
+     "from": "1998-05-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14712",
+     "sha256": "8a1bafc79ea2e97695882516c84fe2c8bb67acd5589277e8d42edc959c243803"
+    }
+   ]
+  },
+  {
+   "slug": "hg-270-1998",
+   "path": "hg/1998/270",
+   "short": "HG nr. 270/1998",
+   "title": "Hotărârea Guvernului nr. 270/1998 privind transmiterea unui imobil, proprietate publică a statului, situat în comuna Băneasa, judeţul Constanţa, în administrarea Ministerului Justiţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14713",
+   "versions": [
+    {
+     "from": "1998-05-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14713",
+     "sha256": "062332031e4252df96935759eb3712197facdb0db5c3322e52eeb43e8f1f17a7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-271-1998",
+   "path": "hg/1998/271",
+   "short": "HG nr. 271/1998",
+   "title": "Hotărârea Guvernului nr. 271/1998 pentru aprobarea Acordului dintre Comisia Naţionala pentru Controlul Activităţilor Nucleare din România şi Comisia Elena pentru Energie Atomică a Republicii Elene privind notificarea rapida a unui accident nuclear şi schimbul de informaţii asupra instalaţiilor nucleare, semnat la Bucureşti la 22 decembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14751",
+   "versions": [
+    {
+     "from": "1998-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14751",
+     "sha256": "2fafa718e0d604b732fd5ff9da943f947644912dc542bfb7800af2f859f286f2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-272-1998",
+   "path": "hg/1998/272",
+   "short": "HG nr. 272/1998",
+   "title": "Hotărârea Guvernului nr. 272/1998 pentru aprobarea Protocolului de înţelegere privind cooperarea şi schimbul de informaţii în domeniul reglementărilor nucleare dintre Comisia Naţionala pentru Controlul Activităţilor Nucleare din România şi Comisia pentru Controlul Energiei Atomice a Canadei, semnat la Ottawa la 23 iunie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14752",
+   "versions": [
+    {
+     "from": "1998-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14752",
+     "sha256": "39c56ff183e5168094c962da6a2e1e22cb87bb6812b0c077566e53409d23bd3a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-273-1998",
+   "path": "hg/1998/273",
+   "short": "HG nr. 273/1998",
+   "title": "Hotărârea Guvernului nr. 273/1998 pentru aprobarea Protocolului privind cooperarea şi schimbul de informaţii în domeniul securităţii nucleare dintre Comisia Naţionala pentru Controlul Activităţilor Nucleare din România şi Autoritatea Ungara pentru Energie Atomică semnat la Budapesta la 12 iunie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14753",
+   "versions": [
+    {
+     "from": "1998-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14753",
+     "sha256": "da8e9bfc4f6613ec408a491e1b9fff68e8d22a0338b013922dc833d3f49c8beb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-274-1998",
+   "path": "hg/1998/274",
+   "short": "HG nr. 274/1998",
+   "title": "Hotărârea Guvernului nr. 274/1998 privind stabilirea datei pentru alegerea consiliului local în Circumscripţia electorală Alexandru Odobescu, judeţul Călăraşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14739",
+   "versions": [
+    {
+     "from": "1998-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14739",
+     "sha256": "b5af25c7ad2a90e173072a2eb50285053fd1d86b0fc5f8ae2f90dc64631421a2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-275-1998",
+   "path": "hg/1998/275",
+   "short": "HG nr. 275/1998",
+   "title": "Hotărârea Guvernului nr. 275/1998 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14775",
+   "versions": [
+    {
+     "from": "1998-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14775",
+     "sha256": "3ba48c9ffe8a5d6be6fdb7edae3ea8738618721aa41c5879b3c2449d5f90014c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-276-1998",
+   "path": "hg/1998/276",
+   "short": "HG nr. 276/1998",
+   "title": "Hotărârea Guvernului nr. 276/1998 privind numirea în funcţia de prefect al judeţului Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14740",
+   "versions": [
+    {
+     "from": "1998-05-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14740",
+     "sha256": "58348070c2e619dead8a0d0a19661b52cb9fd602d8588b7393c0050481529524"
+    }
+   ]
+  },
+  {
    "slug": "hg-277-1998",
    "path": "hg/1998/277",
    "short": "HG nr. 277/1998",
@@ -500,6 +635,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14765",
      "sha256": "66e29caae135e720af967d35c642bda2f00190d62c45026ae2ec05af853761bb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-278-1998",
+   "path": "hg/1998/278",
+   "short": "HG nr. 278/1998",
+   "title": "Hotărârea Guvernului nr. 278/1998 pentru aprobarea plăţii contribuţiilor voluntare, în lei, ale României la programele şi fondurile de dezvoltare ale O.N.U. pe anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14754",
+   "versions": [
+    {
+     "from": "1998-05-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14754",
+     "sha256": "9753b85034a7ceae4cdf6933c754b38b8f2af093d61b8742a32bc5f377daebe2"
     }
    ]
   },
