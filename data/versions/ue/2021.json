@@ -183,6 +183,201 @@
    ]
   },
   {
+   "slug": "ue-regulament-1139-2021",
+   "path": "ue/regulament/2021/1139",
+   "short": "Regulamentul (UE) 2021/1139",
+   "title": "Regulamentul (UE) 2021/1139 al Parlamentului European și al Consiliului din 7 iulie 2021 de instituire a Fondului european pentru afaceri maritime, pescuit și acvacultură și de modificare a Regulamentului (UE) 2017/1004",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1139",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0996ef20-e374-11eb-895a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c3eeb3e45f34a7d32a94f4cb5534148bb93d9843df7517d2471462b5cb0610ca"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1147-2021",
+   "path": "ue/regulament/2021/1147",
+   "short": "Regulamentul (UE) 2021/1147",
+   "title": "Regulamentul (UE) 2021/1147 al Parlamentului European și al Consiliului din 7 iulie 2021 de instituire a Fondului pentru azil, migrație și integrare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1147",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e88fb01f-e505-11eb-a1a5-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "69ef4d3c611f94e472650f0c91bc82ec66a02bd05acbfd3e56d485b5305249d5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1153-2021",
+   "path": "ue/regulament/2021/1153",
+   "short": "Regulamentul (UE) 2021/1153",
+   "title": "Regulamentul (UE) 2021/1153 al Parlamentului European și al Consiliului din 7 iulie 2021 de instituire a Mecanismului pentru interconectarea Europei și de abrogare a Regulamentelor (UE) nr. 1316/2013 și (UE) nr. 283/2014 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1153",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/10613289-e43f-11eb-895a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c5670270483c9dad229c23a64512106f67742d82b5816e5578523967c1320505"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1176-2021",
+   "path": "ue/regulament/2021/1176",
+   "short": "Regulamentul (UE) 2021/1176",
+   "title": "Regulamentul (UE) 2021/1176 al Comisiei din 16 iulie 2021 de modificare a anexelor III, V, VII și IX la Regulamentul (CE) nr. 999/2001 al Parlamentului European și al Consiliului în ceea ce privește genotiparea cazurilor pozitive de EST la caprine, determinarea vârstei la ovine și caprine, măsurile aplicabile într-un efectiv de animale cu scrapie atipică și condițiile aplicabile importurilor de produse provenite de la bovine, ovine și caprine (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1176",
+   "versions": [
+    {
+     "from": "2021-08-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3d60a0b4-e85c-11eb-93a8-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "078dd8526a578863ab83bf6edb948419287c3f4192d520f01ecca78d099afc89"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1247-2021",
+   "path": "ue/regulament/2021/1247",
+   "short": "Regulamentul (UE) 2021/1247",
+   "title": "Regulamentul (UE) 2021/1247 al Comisiei din 29 iulie 2021 de modificare a anexei II la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de mandestrobin din struguri și căpșuni (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1247",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b5bf0346-f0d0-11eb-a71c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7f2fbfd887bc925402c339517fe2ca66f7a82b12332f2139d78ee5cbc834376d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1696-2021",
+   "path": "ue/regulament/2021/1696",
+   "short": "Regulamentul (UE) 2021/1696",
+   "title": "Regulamentul (UE) 2021/1696 al Consiliului din 21 septembrie 2021 de extindere la statele membre neparticipante a aplicării Regulamentului (UE) 2021/840 al Parlamentului European și al Consiliului de instituire a unui program de schimb, asistență și formare profesională pentru protecția monedei euro împotriva falsificării pentru perioada 2021-2027 („programul Pericles IV”)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1696",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f1b67cbc-1c07-11ec-b4fe-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0315fd6ebcfb3e98eb383a26e4339278b600a3316dd067ae77256b8c38157310"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1767-2021",
+   "path": "ue/regulament/2021/1767",
+   "short": "Regulamentul (UE) 2021/1767",
+   "title": "Regulamentul (UE) 2021/1767 al Parlamentului European și al Consiliului din 6 octombrie 2021 de modificare a Regulamentului (CE) nr. 1367/2006 privind aplicarea, pentru instituțiile și organismele comunitare, a dispozițiilor Convenției de la Aarhus privind accesul la informație, participarea publicului la luarea deciziilor și accesul la justiție în domeniul mediului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1767",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f89dc598-27d1-11ec-bd8e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "148826d30ac69b84e78139addbd1a1c919f98954758ef96cba3ab62066638df9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1804-2021",
+   "path": "ue/regulament/2021/1804",
+   "short": "Regulamentul (UE) 2021/1804",
+   "title": "Regulamentul (UE) 2021/1804 al Comisiei din 12 octombrie 2021 de modificare a anexei II la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limita maximă de reziduuri de bentazon din mazărea păstăi (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1804",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fa570efe-2bbf-11ec-bd8e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ffa183fbead1ea16a5178e1104315a46dac174b3ae3cd385ac5f1fb7b5892647"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1807-2021",
+   "path": "ue/regulament/2021/1807",
+   "short": "Regulamentul (UE) 2021/1807",
+   "title": "Regulamentul (UE) 2021/1807 al Comisiei din 13 octombrie 2021 de modificare a anexelor II, III și IV la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru acibenzolar-S-metil, extract apos din semințe germinate de Lupinus albus dulce, azoxistrobin, clopiralid, ciflufenamid, fludioxonil, fluopiram, fosetil, metazaclor, oxatiapiprolin, tebufenozid și tiabendazol din sau de pe anumite produse (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1807",
+   "versions": [
+    {
+     "from": "2021-11-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e7237e04-2c88-11ec-bd8e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a177c2c914c0c4649061f2ba5cea1749706c204b0b5e716e3aef4caa8427ba4a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1819-2021",
+   "path": "ue/regulament/2021/1819",
+   "short": "Regulamentul (UE) 2021/1819",
+   "title": "Regulamentul (UE) 2021/1819 al Consiliului din 18 octombrie 2021 de modificare a Regulamentului (UE) nr. 224/2014 privind măsuri restrictive având în vedere situația din Republica Centrafricană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1819",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5f7ca14f-3076-11ec-bd8e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "63076bee292f987fb06ae2506fe1bf1033814f8f9e5caa09f46f43ee8a7329fd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1842-2021",
+   "path": "ue/regulament/2021/1842",
+   "short": "Regulamentul (UE) 2021/1842",
+   "title": "Regulamentul (UE) 2021/1842 al Comisiei din 20 octombrie 2021 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri aplicabile substanțelor flupiradifuron și acid difluoracetic din sau de pe anumite produse (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1842",
+   "versions": [
+    {
+     "from": "2021-11-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e0363a98-3208-11ec-bd8e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "768251a07871dbe8df96543642229b1b3d647917785a4eb6808384dc896a0366"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1916-2021",
+   "path": "ue/regulament/2021/1916",
+   "short": "Regulamentul (UE) 2021/1916",
+   "title": "Regulamentul (UE) 2021/1916 al Comisiei din 3 noiembrie 2021 de modificare a anexei I la Regulamentul (CE) nr. 1334/2008 al Parlamentului European și al Consiliului în ceea ce privește includerea substanței acid 4-amino-5-(3-(izopropilamino)-2,2-dimetil-3oxopropoxi)-2-metilchinolin-3-carboxilic în lista Uniunii cu substanțe aromatizante (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R1916",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b1c86a23-3d12-11ec-89db-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "42852a49e85d936ec801141809da16fbf73ac05089ee8815bb3db73f16264d9c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2048-2021",
+   "path": "ue/regulament/2021/2048",
+   "short": "Regulamentul (UE) 2021/2048",
+   "title": "Regulamentul (UE) 2021/2048 al Consiliului din 23 noiembrie 2021 privind suspendarea temporară a taxelor autonome din Tariful vamal comun asupra importurilor anumitor produse industriale în Insulele Canare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2048",
+   "versions": [
+    {
+     "from": "2021-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b2d48986-4d92-11ec-91ac-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "fd7ec21133221157a79cba264f433083aaa96fa1d4650d4f69f1dbbcfee718c0"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2116-2021",
    "path": "ue/regulament/2021/2116",
    "short": "Regulamentul (UE) 2021/2116",
@@ -194,6 +389,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/91b120e8-5636-11ec-91ac-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "1f8089f187e06ec5de62479402b8f3c318c8e7761e5be3f086b0a133a44491ef"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2202-2021",
+   "path": "ue/regulament/2021/2202",
+   "short": "Regulamentul (UE) 2021/2202",
+   "title": "Regulamentul (UE) 2021/2202 al Comisiei din 9 decembrie 2021 de modificare a anexelor II, III și IV la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de acequinocil, Bacillus subtilis tulpina IAB/BS03, emamectin, flutolanil și imazamox din sau de pe anumite produse (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2202",
+   "versions": [
+    {
+     "from": "2022-01-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e4acbba1-5c7f-11ec-91ac-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6fbc794ac96c91aa9339c1751f34d5257dc758cb3b4c5884f03c803308558746"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2259-2021",
+   "path": "ue/regulament/2021/2259",
+   "short": "Regulamentul (UE) 2021/2259",
+   "title": "Regulamentul (UE) 2021/2259 al Parlamentului European și al Consiliului din 15 decembrie 2021 de modificare a Regulamentului (UE) nr. 1286/2014 în ceea ce privește prelungirea dispozițiilor tranzitorii pentru societățile de administrare, societățile de investiții și persoanele care oferă consultanță cu privire la unități ale organismelor de plasament colectiv în valori mobiliare (OPCVM) și la unități ale non-OPCVM-urilor sau care vând astfel de unități (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2259",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bf22583b-6136-11ec-9c6c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "99cb9948a029cd8d385efae83a95c163351126851cd7a70494e469d76cdde9ea"
     }
    ]
   },
@@ -213,6 +438,156 @@
    ]
   },
   {
+   "slug": "ue-regulament-2317-2021",
+   "path": "ue/regulament/2021/2317",
+   "short": "Regulamentul (UE) 2021/2317",
+   "title": "Regulamentul (UE) 2021/2317 al Consiliului din 11 noiembrie 2021 privind repartizarea posibilităților de pescuit în temeiul Protocolului de punere în aplicare a Acordului de parteneriat în domeniul pescuitului sustenabil dintre Uniunea Europeană și guvernul Insulelor Cook",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R2317",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ba0e4d88-67af-11ec-9136-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "974681578b9284c737c61add5a97081e6bdb8258711a913deb723a1156dc4a1a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-267-2021",
+   "path": "ue/regulament/2021/267",
+   "short": "Regulamentul (UE) 2021/267",
+   "title": "Regulamentul (UE) 2021/267 al Parlamentului European și al Consiliului din 16 februarie 2021 de stabilire a unor măsuri specifice și temporare, în contextul persistenței crizei provocate de pandemia de COVID-19, privind reînnoirea sau prelungirea anumitor certificate, licențe, permise și autorizații, amânarea anumitor controale periodice și formări periodice în anumite domenii ale legislației din sectorul transporturilor și prelungirea anumitor perioade menționate în Regulamentul (UE) 2020/698 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0267",
+   "versions": [
+    {
+     "from": "2021-02-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/04b1a86c-74b0-11eb-9ac9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7833f3c1a45c5012ac27b550e5689b05880b8df3826a58877e0ea70b7d529600"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-444-2021",
+   "path": "ue/regulament/2021/444",
+   "short": "Regulamentul (UE) 2021/444",
+   "title": "Regulamentul (UE) 2021/444 al Parlamentului European și al Consiliului din 11 martie 2021 de instituire a Programului „Vamă” pentru cooperare în domeniul vamal și de abrogare a Regulamentului (UE) nr. 1294/2013",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0444",
+   "versions": [
+    {
+     "from": "2021-03-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5b82df9c-8530-11eb-af5d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "29fe5e769fc59464a2f669c3f8061c08f87a7db63bd0648a0d7570df3260f8fb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-479-2021",
+   "path": "ue/regulament/2021/479",
+   "short": "Regulamentul (UE) 2021/479",
+   "title": "Regulamentul (UE) 2021/479 al Consiliului din 22 martie 2021 de modificare a Regulamentului (UE) nr. 401/2013 privind măsuri restrictive instituite împotriva Myanmar/Birmaniei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0479",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/abdae28c-8b08-11eb-b85c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "eb612438fcdf83e22a914c013fc6f7133a18871d29587bd007802f01d477ba74"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-558-2021",
+   "path": "ue/regulament/2021/558",
+   "short": "Regulamentul (UE) 2021/558",
+   "title": "Regulamentul (UE) 2021/558 al Parlamentului European și al Consiliului din 31 martie 2021 de modificare a Regulamentului (UE) nr. 575/2013 cu privire la ajustări ale cadrului de securitizare în vederea sprijinirii redresării economice ca răspuns la criza provocată de COVID-19 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0558",
+   "versions": [
+    {
+     "from": "2021-04-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/085986b2-967f-11eb-b85c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "54df898e9ec8bf0a833544c8b9fcc6244ae8c9380d6888ecc32dccebf39d662b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-616-2021",
+   "path": "ue/regulament/2021/616",
+   "short": "Regulamentul (UE) 2021/616",
+   "title": "Regulamentul (UE) 2021/616 al Comisiei din 13 aprilie 2021 de modificare a anexelor II, III și V la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru benalaxil, benalaxil-M, diclobenil, fluopicolid, proquinazid și piridalil din sau de pe anumite produse (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0616",
+   "versions": [
+    {
+     "from": "2021-05-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5fddc2fe-9e90-11eb-b85c-01aa75ed71a1.0020.02/DOC_1",
+     "sha256": "aa697ccb919b2ee27be0dfd970768ab033bbcd2b8c7edac2971363bee7235eb6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-691-2021",
+   "path": "ue/regulament/2021/691",
+   "short": "Regulamentul (UE) 2021/691",
+   "title": "Regulamentul (UE) 2021/691 al Parlamentului European și al Consiliului din 28 aprilie 2021 privind Fondul european de ajustare la globalizare pentru lucrătorii disponibilizați (FEG) și de abrogare a Regulamentului (UE) nr. 1309/2013",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0691",
+   "versions": [
+    {
+     "from": "2021-05-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8c5e37a3-ac09-11eb-9767-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "375bb8c7c5c8494aefee12147c9f5edde10233ec253364a285a42e40085de388"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-694-2021",
+   "path": "ue/regulament/2021/694",
+   "short": "Regulamentul (UE) 2021/694",
+   "title": "Regulamentul (UE) 2021/694 al Parlamentului European și al Consiliului din 29 aprilie 2021 de instituire a programului „Europa digitală” și de abrogare a Deciziei (UE) 2015/2240 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0694",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d6a2aff1-b1f2-11eb-8aca-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "af84c2c6be4403c45102a91038741be3c17a275deae072da41a26bdd8fca4669"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-695-2021",
+   "path": "ue/regulament/2021/695",
+   "short": "Regulamentul (UE) 2021/695",
+   "title": "Regulamentul (UE) 2021/695 al Parlamentului European și al Consiliului din 28 aprilie 2021 de instituire a programului-cadru pentru cercetare și inovare Orizont Europa, de stabilire a normelor sale de participare și de diseminare și de abrogare a Regulamentelor (UE) nr. 1290/2013 și (UE) nr. 1291/2013 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0695",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8d9e2751-b311-11eb-8aca-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "45afd4925d5d7a72c7ed20f0056d28e38b876806408842298bcf10c72b988428"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-696-2021",
+   "path": "ue/regulament/2021/696",
+   "short": "Regulamentul (UE) 2021/696",
+   "title": "Regulamentul (UE) 2021/696 al Parlamentului European și al Consiliului din 28 aprilie 2021 de instituire a Programului spațial al Uniunii și a Agenției Uniunii Europene pentru Programul spațial și de abrogare a Regulamentelor (UE) nr. 912/2010, (UE) nr. 1285/2013 și (UE) nr. 377/2014 și a Deciziei nr. 541/2014/UE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0696",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eba0ed12-b311-11eb-8aca-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "40a3d02267462862d7bec70502ac2049c23105f770e03030c4f880ef2c431ec0"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-697-2021",
    "path": "ue/regulament/2021/697",
    "short": "Regulamentul (UE) 2021/697",
@@ -224,6 +599,171 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/347f19d3-b312-11eb-8aca-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "675f0c94082ff9ddbed97a560725dd22ae9b6ddbc1e003afbe5b17e50d705fec"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-768-2021",
+   "path": "ue/regulament/2021/768",
+   "short": "Regulamentul (UE, Euratom) 2021/768",
+   "title": "Regulamentul (UE, Euratom) 2021/768 al Consiliului din 30 aprilie 2021 de stabilire a măsurilor de punere în aplicare a sistemului de resurse proprii ale Uniunii Europene și de abrogare a Regulamentului (UE, Euratom) nr. 608/2014",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0768",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d6920e20-b1f2-11eb-8aca-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0abadf7d20d5c34b2eb3832739ea00674778c93073dad0559ba3c4e841e1a3aa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-770-2021",
+   "path": "ue/regulament/2021/770",
+   "short": "Regulamentul (UE, Euratom) 2021/770",
+   "title": "Regulamentul (UE, Euratom) 2021/770 al Consiliului din 30 aprilie 2021 privind calcularea resursei proprii bazate pe deșeurile de ambalaje din plastic care nu sunt reciclate, privind metodele și procedura de punere la dispoziție a resursei proprii respective, privind măsurile menite să răspundă necesităților trezoreriei și privind anumite aspecte legate de resursa proprie bazată pe venitul național brut",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0770",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/65b1c3c6-b1f3-11eb-8aca-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2f25f23e74c685e5cd4edb157e4e7016ab75f6a27b7d2ac54333022458bcb817"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-782-2021",
+   "path": "ue/regulament/2021/782",
+   "short": "Regulamentul (UE) 2021/782",
+   "title": "Regulamentul (UE) 2021/782 al Parlamentului European și al Consiliului din 29 aprilie 2021 privind drepturile și obligațiile călătorilor din transportul feroviar (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0782",
+   "versions": [
+    {
+     "from": "2021-06-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/34492a31-b70d-11eb-8aca-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "5c68ed01c9439999c09fdcf0c511b50e927bbc473b5660ad17e302ef25c910dd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-784-2021",
+   "path": "ue/regulament/2021/784",
+   "short": "Regulamentul (UE) 2021/784",
+   "title": "Regulamentul (UE) 2021/784 al Parlamentului European și al Consiliului din 29 aprilie 2021 privind prevenirea diseminării conținutului online cu caracter terorist (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0784",
+   "versions": [
+    {
+     "from": "2021-06-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bf725143-b70d-11eb-8aca-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3a4ecd9386cf2ac9c21ae9c94d121676e6d2109c9220dcf84e69aed2b3b1517c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-817-2021",
+   "path": "ue/regulament/2021/817",
+   "short": "Regulamentul (UE) 2021/817",
+   "title": "Regulamentul (UE) 2021/817 al Parlamentului European și al Consiliului din 20 mai 2021 de instituire a Erasmus+: Programul Uniunii pentru educație și formare, tineret și sport și de abrogare a Regulamentului (UE) nr. 1288/2013 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0817",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d8109cb0-bf78-11eb-a925-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1d5f080a4b677722556fde9bacdec1a8dfa6c2edae4fab18b61dc33c2e102c70"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-818-2021",
+   "path": "ue/regulament/2021/818",
+   "short": "Regulamentul (UE) 2021/818",
+   "title": "Regulamentul (UE) 2021/818 al Parlamentului European și al Consiliului din 20 mai 2021 de instituire a programului „Europa creativă” (2021-2027) și de abrogare a Regulamentului (UE) nr. 1295/2013 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0818",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1fd25cf1-bf79-11eb-a925-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "57b2696a2bbb96f0e5af9acbfe9d8d741e011722b5dcd95299b58871796d59d3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-819-2021",
+   "path": "ue/regulament/2021/819",
+   "short": "Regulamentul (UE) 2021/819",
+   "title": "Regulamentul (UE) 2021/819 al Parlamentului European și al Consiliului din 20 mai 2021 privind Institutul European de Inovare și Tehnologie (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0819",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/678688a2-bf79-11eb-a925-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "76d114f3bd68a1304a83117d5fe9ff71236c208e047ecb914ed85204331b52ce"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-850-2021",
+   "path": "ue/regulament/2021/850",
+   "short": "Regulamentul (UE) 2021/850",
+   "title": "Regulamentul (UE) 2021/850 al Comisiei din 26 mai 2021 de modificare și rectificare a anexei II și de modificare a anexelor III, IV și VI la Regulamentul (CE) nr. 1223/2009 al Parlamentului European și al Consiliului privind produsele cosmetice (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0850",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/43cf5769-bf51-11eb-a925-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "af2c3cd541cd04a433b4bf5ed8d90feaf1d0b920daec2c4ecc9ac6f425a2faed"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-888-2021",
+   "path": "ue/regulament/2021/888",
+   "short": "Regulamentul (UE) 2021/888",
+   "title": "Regulamentul (UE) 2021/888 al Parlamentului European și al Consiliului din 20 mai 2021 de instituire a Programului „Corpul european de solidaritate” și de abrogare a Regulamentelor (UE) 2018/1475 și (UE) nr. 375/2014 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0888",
+   "versions": [
+    {
+     "from": "2021-06-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/64afbe35-c82b-11eb-a925-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "74f614f5ae99bc1c0765f6cebda729cbc23b5f791728d491483c64de7de2b0d0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-899-2021",
+   "path": "ue/regulament/2021/899",
+   "short": "Regulamentul (UE) 2021/899",
+   "title": "Regulamentul (UE) 2021/899 al Comisiei din 3 iunie 2021 de modificare a Regulamentului (UE) nr. 142/2011 în ceea ce privește măsurile tranzitorii pentru exportul de făină de carne și oase drept combustibil pentru ardere (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0899",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5fbe1822-c4cf-11eb-a925-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4d13074e75c52a8c721df0812bfb82eae2d301328e0a0fbde6db1179b0e54691"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-979-2021",
+   "path": "ue/regulament/2021/979",
+   "short": "Regulamentul (UE) 2021/979",
+   "title": "Regulamentul (UE) 2021/979 al Comisiei din 17 iunie 2021 de modificare a anexelor VII-XI la Regulamentul (CE) nr. 1907/2006 al Parlamentului European și al Consiliului privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice (REACH) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021R0979",
+   "versions": [
+    {
+     "from": "2021-07-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/86d84afc-d013-11eb-ac72-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8ecff39729403324f7814a6f0a227b8a1aec32e1ac4a438513eb389a3343eeca"
     }
    ]
   }
