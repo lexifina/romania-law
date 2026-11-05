@@ -1,6 +1,6 @@
 # Every act in this repository
 
-68091 acts, 81,845 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); an order adds its issuer, `ordin/<issuer>/<year>/<number>[-<series>]/` (`ordin/justitie/2012/492-c/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+68098 acts, 81,852 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); an order adds its issuer, `ordin/<issuer>/<year>/<number>[-<series>]/` (`ordin/justitie/2012/492-c/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## Codes and the Constitution, by name
 
@@ -12255,7 +12255,7 @@
 | Ordonanța Guvernului nr. 4/2026 pentru modificarea şi completarea Legii nr. 182/2000 privind protejarea patrimoniului cultural naţional mobil | [`og/2026/4/`](og/2026/4/) | amending act | 1 | 2026-02-02 | 2026-02-02 |
 | Ordonanța Guvernului nr. 5/2026 pentru modificarea şi completarea Ordonanţei Guvernului nr. 27/2011 privind transporturile rutiere şi pentru completarea Ordonanţei de urgenţă a Guvernului nr. 28/1999 privind obligaţia operatorilor economici de a utiliza aparate de marcat electronice fiscale | [`og/2026/5/`](og/2026/5/) | amended, not consolidated | 1 | 2026-02-02 | 2026-02-02 |
 
-## Government decisions (HG) (27408, of which 12704 amending acts)
+## Government decisions (HG) (27415, of which 12711 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -13204,6 +13204,13 @@
 | Hotărârea Guvernului nr. 753/2000 | [`hg/2000/753/`](hg/2000/753/) | in force | 1 | 2000-09-05 | 2000-09-05 |
 | Hotărârea Guvernului nr. 774/2000 pentru aprobarea Regulamentului de aplicare a dispozițiilor Ordonanței Guvernului nr. 1/2000 privind organizarea activității și funcționarea instituțiilor de medicină legală | [`hg/2000/774/`](hg/2000/774/) | amending act | 1 | 2000-09-19 | 2000-09-19 |
 | Hotărârea Guvernului nr. 778/2000 privind cheltuielile pentru organizarea şi desfăşurarea alegerii Camerei Deputaţilor, a Senatului şi a Preşedintelui României din anul 2000 | [`hg/2000/778/`](hg/2000/778/) | amended, not consolidated | 1 | 2000-09-18 | 2000-09-18 |
+| Hotărârea Guvernului nr. 806/2000 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială "Bentonita" - S.A | [`hg/2000/806/`](hg/2000/806/) | amending act | 1 | 2000-09-26 | 2000-09-26 |
+| Hotărârea Guvernului nr. 807/2000 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială de Producţie Industriala Româno-Germană "Hamerock" - S.A | [`hg/2000/807/`](hg/2000/807/) | amending act | 1 | 2000-09-26 | 2000-09-26 |
+| Hotărârea Guvernului nr. 808/2000 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială Construcţii Feroviare "Moldova" - S.A | [`hg/2000/808/`](hg/2000/808/) | amending act | 1 | 2000-09-26 | 2000-09-26 |
+| Hotărârea Guvernului nr. 810/2000 privind aprobarea unei licenţe de dare în administrare a activităţii miniere de exploatare, încheiată între Agenţia Naţionala pentru Resurse Minerale şi Ministerul Muncii şi Protecţiei Sociale | [`hg/2000/810/`](hg/2000/810/) | amending act | 1 | 2000-09-26 | 2000-09-26 |
+| Hotărârea Guvernului nr. 811/2000 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială "IMCOP" - S.R.L | [`hg/2000/811/`](hg/2000/811/) | amending act | 1 | 2000-09-26 | 2000-09-26 |
+| Hotărârea Guvernului nr. 812/2000 privind aprobarea unei licenţe de concesiune a activităţii miniere de exploatare, încheiată între Agenţia Naţionala pentru Resurse Minerale şi Societatea Comercială "Casa Con Business" - S.R.L. Braşov | [`hg/2000/812/`](hg/2000/812/) | amending act | 1 | 2000-09-26 | 2000-09-26 |
+| Hotărârea Guvernului nr. 813/2000 pentru aprobarea Protocolului dintre Ministerul Apărării Naţionale din România şi Ministerul Apărării din Republica Bulgaria privind cooperarea în domeniul geodeziei, topografiei şi cartografiei, semnat la Sofia la 29 martie 2000 | [`hg/2000/813/`](hg/2000/813/) | amending act | 1 | 2000-09-30 | 2000-09-30 |
 | Hotărârea Guvernului nr. 815/2000 pentru autorizarea Ministerului Finanţelor în vederea acordării împuternicirii, încheierii contractului de escrow şi a contractului de cesiune pentru recuperarea creanţelor României din Republica Mozambic | [`hg/2000/815/`](hg/2000/815/) | amended, not consolidated | 1 | 2000-09-26 | 2000-09-26 |
 | Hotărârea Guvernului nr. 816/2000 pentru aprobarea Convenţiei dintre Guvernul României şi Guvernul Republicii Armenia privind cooperarea în domeniul veterinar, semnată la Bucureşti la 5 aprilie 2000 | [`hg/2000/816/`](hg/2000/816/) | amending act | 1 | 2000-09-29 | 2000-09-29 |
 | Hotărârea Guvernului nr. 818/2000 pentru aprobarea Protocolului dintre Ministerul Apărării Naţionale al României şi Ministerul Apărării al Republicii Moldova privind colaborarea în domeniul învăţământului militar, semnat la Braşov la 3 martie 2000 | [`hg/2000/818/`](hg/2000/818/) | amending act | 1 | 2000-10-04 | 2000-10-04 |
