@@ -707,6 +707,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017R0542"
 },
 {
+"slug": "ue-directiva-593-2017",
+"path": "ue/directiva/2017/593",
+"kind": "ue",
+"year": "2017",
+"number": "593",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva delegată (UE) 2017/593 a Comisiei din 7 aprilie 2016 de completare a Directivei 2014/65/UE a Parlamentului European și a Consiliului în ceea ce privește protejarea instrumentelor financiare și a fondurilor care aparțin clienților, obligațiile de guvernanță a produsului și normele aplicabile la acordarea sau primirea de onorarii, comisioane sau alte tipuri de beneficii pecuniare sau nepecuniare (Text cu relevanță pentru SEE. )",
+"short": "Directiva delegată (UE) 2017/593",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2017-04-20",
+"latest": "2017-04-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L0593"
+},
+{
 "slug": "ue-regulament-595-2017",
 "path": "ue/regulament/2017/595",
 "kind": "ue",
@@ -1486,6 +1503,57 @@
 "from": "2017-07-10",
 "latest": "2017-07-10",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017R1004"
+},
+{
+"slug": "ue-directiva-1009-2017",
+"path": "ue/directiva/2017/1009",
+"kind": "ue",
+"year": "2017",
+"number": "1009",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva delegată (UE) 2017/1009 a Comisiei din 13 martie 2017 de modificare, în scopul adaptării la progresul tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru cadmiul și plumbul din sticla filtrantă și din sticla utilizată la etaloanele de reflexie (Text cu relevanță pentru SEE. )",
+"short": "Directiva delegată (UE) 2017/1009",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2017-07-06",
+"latest": "2017-07-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L1009"
+},
+{
+"slug": "ue-directiva-1010-2017",
+"path": "ue/directiva/2017/1010",
+"kind": "ue",
+"year": "2017",
+"number": "1010",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva delegată (UE) 2017/1010 a Comisiei din 13 martie 2017 de modificare, în scopul adaptării la progresul tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru plumbul din carcase de lagăr și bucșe pentru anumite compresoare care conțin agenți refrigerenți (Text cu relevanță pentru SEE. )",
+"short": "Directiva delegată (UE) 2017/1010",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2017-07-06",
+"latest": "2017-07-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L1010"
+},
+{
+"slug": "ue-directiva-1011-2017",
+"path": "ue/directiva/2017/1011",
+"kind": "ue",
+"year": "2017",
+"number": "1011",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva delegată (UE) 2017/1011 a Comisiei din 15 martie 2017 de modificare, în scopul adaptării la progresul tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru plumbul din sticla albă utilizată la aplicații optice (Text cu relevanță pentru SEE. )",
+"short": "Directiva delegată (UE) 2017/1011",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2017-07-06",
+"latest": "2017-07-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L1011"
 },
 {
 "slug": "ue-regulament-1016-2017",
@@ -2597,6 +2665,23 @@
 "flags": {
 "figures_missing": 3
 }
+},
+{
+"slug": "ue-directiva-1975-2017",
+"path": "ue/directiva/2017/1975",
+"kind": "ue",
+"year": "2017",
+"number": "1975",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva delegată (UE) 2017/1975 a Comisiei din 7 august 2017 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru cadmiul din diodele emițătoare de lumină (leduri) cu schimb de culoare destinate utilizării în sistemele de afișare (Text cu relevanță pentru SEE. )",
+"short": "Directiva delegată (UE) 2017/1975",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2017-11-20",
+"latest": "2017-11-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L1975"
 },
 {
 "slug": "ue-regulament-1978-2017",

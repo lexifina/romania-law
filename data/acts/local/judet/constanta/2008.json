@@ -3,6 +3,72 @@
 "shard": "local/judet/constanta/2008",
 "acts": [
 {
+"slug": "hcj-constanta-1-2008",
+"path": "local/judet/constanta/2008/1",
+"kind": "local",
+"year": "2008",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 1/2008",
+"short": "HCJ Constanța nr. 1/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-05-12",
+"latest": "2008-05-12",
+"portal": "https://www.cjc.ro/sectiune.php?s=154",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-constanta-2-2008",
+"path": "local/judet/constanta/2008/2",
+"kind": "local",
+"year": "2008",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 2/2008",
+"short": "HCJ Constanța nr. 2/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-06-03",
+"latest": "2008-06-03",
+"portal": "https://www.cjc.ro/sectiune.php?s=154",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-constanta-95-2008",
+"path": "local/judet/constanta/2008/95",
+"kind": "local",
+"year": "2008",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 95/2008 privind aprobarea Programului judetean de transport persoane prin servicii regulate, pentru perioada 2008-2011",
+"short": "HCJ Constanța nr. 95/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-04-03",
+"latest": "2008-04-03",
+"portal": "https://www.cjc.ro/sectiune.php?s=98",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-constanta-96-2008",
 "path": "local/judet/constanta/2008/96",
 "kind": "local",
@@ -22,6 +88,51 @@
 "council_name": "Consiliul Județean Constanța",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcj-constanta-252-2008",
+"path": "local/judet/constanta/2008/252",
+"kind": "local",
+"year": "2008",
+"number": "252",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 252/2008",
+"short": "HCJ Constanța nr. 252/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-08-13",
+"latest": "2008-08-13",
+"portal": "https://www.cjc.ro/sectiune.php?s=98",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-constanta-281-2008",
+"path": "local/judet/constanta/2008/281",
+"kind": "local",
+"year": "2008",
+"number": "281",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 281/2008 privind actualizarea Programului de transport public de persoane prin curse regulate in trafic judetean pentru perioada 2008-2011 aprobat prin HCJC nr.95/2008",
+"short": "HCJ Constanța nr. 281/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-10-24",
+"latest": "2008-10-24",
+"portal": "https://www.cjc.ro/sectiune.php?s=98",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

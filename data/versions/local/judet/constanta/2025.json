@@ -3,6 +3,21 @@
  "shard": "local/judet/constanta/2025",
  "acts": [
   {
+   "slug": "hcj-constanta-1129-2025",
+   "path": "local/judet/constanta/2025/1129",
+   "short": "HCJ Constanța nr. 1129/2025",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1129/2025 privind modificarea organigramei si a statului de functii ale Directiei Cultura si Sport",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2026_Sentinta_1129.pdf",
+     "sha256": "45b27a22ff92fc8c25f269e5c5944eafa71572bb11d5c6190ab6231cb2fd8024"
+    }
+   ]
+  },
+  {
    "slug": "hcj-constanta-124-2025",
    "path": "local/judet/constanta/2025/124",
    "short": "HCJ Constanța nr. 124/2025",
@@ -74,6 +89,21 @@
      "units": 1,
      "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2025/177.pdf",
      "sha256": "1c6752222a155a921335ac74de35eb2f086561206ad3171842b69eeb526e8688"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-constanta-180-2025",
+   "path": "local/judet/constanta/2025/180",
+   "short": "HCJ Constanța nr. 180/2025",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 180/2025",
+   "url": "https://www.cjc.ro/sectiune.php?s=287",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/anunturi/achizitii/licitatii/2026/02_Servicii_proiectare_si_verificare_Baneasa/05_HCJC180_23.07.2025.pdf",
+     "sha256": "336401ffa1d7c48ca8acc292f67dc0a429839a6dfed63edb3055f1edeb2b254c"
     }
    ]
   },

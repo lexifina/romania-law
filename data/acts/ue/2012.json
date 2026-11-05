@@ -3,6 +3,23 @@
 "shard": "ue/2012",
 "acts": [
 {
+"slug": "ue-directiva-1-2012",
+"path": "ue/directiva/2012/1",
+"kind": "ue",
+"year": "2012",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva de punere în aplicare 2012/1/UE a Comisiei din 6 ianuarie 2012 de modificare a anexei I la Directiva 66/402/CEE a Consiliului în ceea ce privește condițiile pe care trebuie să le îndeplinească cultura de Oryza sativa Text cu relevanță pentru SEE",
+"short": "Directiva de punere în aplicare 2012/1/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-01-14",
+"latest": "2012-01-14",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0001"
+},
+{
 "slug": "ue-directiva-4-2012",
 "path": "ue/directiva/2012/4",
 "kind": "ue",
@@ -55,6 +72,23 @@
 "flags": {
 "end_of_validity": "2030-07-31"
 }
+},
+{
+"slug": "ue-directiva-8-2012",
+"path": "ue/directiva/2012/8",
+"kind": "ue",
+"year": "2012",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva de punere în aplicare 2012/8/UE a Comisiei din 2 martie 2012 de modificare a Directivei 2003/90/CE de stabilire a măsurilor de punere în aplicare a articolului 7 din Directiva 2002/53/CE a Consiliului în ceea ce privește caracteristicile minime de analizat și condițiile minime de verificare a anumitor soiuri de specii de plante agricole Text cu relevanță pentru SEE",
+"short": "Directiva de punere în aplicare 2012/8/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-03-23",
+"latest": "2012-03-23",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0008"
 },
 {
 "slug": "ue-directiva-10-2012",
@@ -182,6 +216,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0023"
 },
 {
+"slug": "ue-directiva-25-2012",
+"path": "ue/directiva/2012/25",
+"kind": "ue",
+"year": "2012",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva de punere în aplicare 2012/25/UE a Comisiei din 9 octombrie 2012 de stabilire a procedurilor de informare pentru schimbul, între statele membre, de organe umane destinate transplantului Text cu relevanță pentru SEE",
+"short": "Directiva de punere în aplicare 2012/25/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-10-30",
+"latest": "2012-10-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0025"
+},
+{
 "slug": "ue-directiva-26-2012",
 "path": "ue/directiva/2012/26",
 "kind": "ue",
@@ -288,6 +339,23 @@
 "flags": {
 "text_withheld": "personal_data"
 }
+},
+{
+"slug": "ue-directiva-37-2012",
+"path": "ue/directiva/2012/37",
+"kind": "ue",
+"year": "2012",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva de punere în aplicare 2012/37/UE a Comisiei din 22 noiembrie 2012 de modificare a anumitor anexe la Directivele 66/401/CEE și 66/402/CEE în ceea ce privește condițiile pe care trebuie să le îndeplinească semințele de Galega orientalis Lam., greutatea maximă a unui lot de semințe de anumite specii de plante furajere și dimensiunea eșantionului de Sorghum spp. Text cu relevanță pentru SEE",
+"short": "Directiva de punere în aplicare 2012/37/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-11-30",
+"latest": "2012-11-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0037"
 },
 {
 "slug": "ue-directiva-39-2012",
@@ -410,6 +478,57 @@
 "from": "2013-02-20",
 "latest": "2013-02-20",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0047"
+},
+{
+"slug": "ue-directiva-50-2012",
+"path": "ue/directiva/2012/50",
+"kind": "ue",
+"year": "2012",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva delegată 2012/50/UE a Comisiei din 10 octombrie 2012 de modificare, în scopul adaptării la progresul tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o scutire referitoare la aplicații conținând plumb Text cu relevanță pentru SEE",
+"short": "Directiva delegată 2012/50/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2013-01-07",
+"latest": "2013-01-07",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0050"
+},
+{
+"slug": "ue-directiva-51-2012",
+"path": "ue/directiva/2012/51",
+"kind": "ue",
+"year": "2012",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva delegată 2012/51/UE a Comisiei din 10 octombrie 2012 de modificare, în scopul adaptării la progresul tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o scutire referitoare la aplicații conținând cadmiu Text cu relevanță pentru SEE",
+"short": "Directiva delegată 2012/51/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2013-01-07",
+"latest": "2013-01-07",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0051"
+},
+{
+"slug": "ue-directiva-52-2012",
+"path": "ue/directiva/2012/52",
+"kind": "ue",
+"year": "2012",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva de punere în aplicare 2012/52/UE a Comisiei din 20 decembrie 2012 de stabilire a unor măsuri pentru facilitarea recunoașterii prescripțiilor medicale emise în alt stat membru Text cu relevanță pentru SEE",
+"short": "Directiva de punere în aplicare 2012/52/UE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2013-01-11",
+"latest": "2013-01-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0052"
 },
 {
 "slug": "ue-regulament-62-2012",

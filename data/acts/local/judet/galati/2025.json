@@ -23,6 +23,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcj-galati-294-2025",
+"path": "local/judet/galati/2025/294",
+"kind": "local",
+"year": "2025",
+"number": "294",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Galați nr. 294/2025 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană din cadrul Consiliului Județean Galați; Având în vedere Hotărârea Consiliului Județean Galați nr. 359/19.12.2025 privind: aprobarea implementării proiectului ”PREVENȚIE ÎMPOTRIVA DEZASTRELOR”, cod ROMD00180, de către Unitatea Administrativ Teritorială Județul Galați prin",
+"short": "HCJ Galați nr. 294/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://cjgalati.ro/hotararea-nr-294-2/",
+"council": "judet/galati",
+"council_name": "Consiliul Județean Galați",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

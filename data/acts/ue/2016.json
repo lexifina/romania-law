@@ -37,6 +37,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0005"
 },
 {
+"slug": "ue-directiva-11-2016",
+"path": "ue/directiva/2016/11",
+"kind": "ue",
+"year": "2016",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva de punere în aplicare (UE) 2016/11 a Comisiei din 5 ianuarie 2016 de modificare a anexei II la Directiva 2002/57/CE a Consiliului privind comercializarea semințelor de plante oleaginoase și pentru fibre (Text cu relevanță pentru SEE)",
+"short": "Directiva de punere în aplicare (UE) 2016/11",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2016-01-26",
+"latest": "2016-01-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0011"
+},
+{
 "slug": "ue-regulament-26-2016",
 "path": "ue/regulament/2016/26",
 "kind": "ue",
@@ -610,6 +627,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0314"
 },
 {
+"slug": "ue-directiva-317-2016",
+"path": "ue/directiva/2016/317",
+"kind": "ue",
+"year": "2016",
+"number": "317",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva de punere în aplicare (UE) 2016/317 a Comisiei din 3 martie 2016 de modificare a Directivelor 66/401/CEE, 66/402/CEE, 2002/54/CE, 2002/55/CE, 2002/56/CE și 2002/57/CE privind eticheta oficială de pe ambalajele de semințe (Text cu relevanță pentru SEE)",
+"short": "Directiva de punere în aplicare (UE) 2016/317",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2016-03-25",
+"latest": "2016-03-25",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0317"
+},
+{
 "slug": "ue-regulament-324-2016",
 "path": "ue/regulament/2016/324",
 "kind": "ue",
@@ -1107,6 +1141,23 @@
 "from": "2016-05-06",
 "latest": "2016-05-06",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R0583"
+},
+{
+"slug": "ue-directiva-585-2016",
+"path": "ue/directiva/2016/585",
+"kind": "ue",
+"year": "2016",
+"number": "585",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva delegată (UE) 2016/585 a Comisiei din 12 februarie 2016 de modificare, în scopul adaptării la progresul tehnic, a anexei IV la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru plumb, cadmiu, crom hexavalent și difenileteri polibromurați (PBDE) în piesele de schimb recuperate din dispozitivele medicale sau microscoapele electronice și utilizate pentru repararea sau recondiționarea acestora (Text cu relevanță pentru SEE)",
+"short": "Directiva delegată (UE) 2016/585",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2016-05-06",
+"latest": "2016-05-06",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L0585"
 },
 {
 "slug": "ue-regulament-589-2016",
@@ -1964,6 +2015,40 @@
 "from": "2016-07-14",
 "latest": "2016-07-14",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1017"
+},
+{
+"slug": "ue-directiva-1028-2016",
+"path": "ue/directiva/2016/1028",
+"kind": "ue",
+"year": "2016",
+"number": "1028",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva delegată (UE) 2016/1028 a Comisiei din 19 aprilie 2016 de modificare, în scopul adaptării la progresul tehnic, a anexei IV la Directiva 2011/65/UE a Parlamentului European și a Consiliului, în ceea ce privește o derogare pentru plumbul din aliajele de lipit ale contactelor electrice ale senzorilor de temperatură din anumite dispozitive (Text cu relevanță pentru SEE)",
+"short": "Directiva delegată (UE) 2016/1028",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2016-07-15",
+"latest": "2016-07-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L1028"
+},
+{
+"slug": "ue-directiva-1029-2016",
+"path": "ue/directiva/2016/1029",
+"kind": "ue",
+"year": "2016",
+"number": "1029",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva delegată (UE) 2016/1029 a Comisiei din 19 aprilie 2016 de modificare, în scopul adaptării la progresul tehnic, a anexei IV la Directiva 2011/65/UE a Parlamentului European și a Consiliului, în ceea ce privește o derogare pentru anozii de cadmiu din celulele Hersch ale anumitor senzori de oxigen utilizați în instrumentele industriale de monitorizare și control (Text cu relevanță pentru SEE)",
+"short": "Directiva delegată (UE) 2016/1029",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2016-07-15",
+"latest": "2016-07-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L1029"
 },
 {
 "slug": "ue-regulament-1033-2016",
@@ -2949,6 +3034,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R1903"
 },
 {
+"slug": "ue-directiva-1914-2016",
+"path": "ue/directiva/2016/1914",
+"kind": "ue",
+"year": "2016",
+"number": "1914",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva de punere în aplicare (UE) 2016/1914 a Comisiei din 31 octombrie 2016 de modificare a Directivelor 2003/90/CE și 2003/91/CE de stabilire a măsurilor de punere în aplicare în sensul articolului 7 din Directiva 2002/53/CE a Consiliului și, respectiv, al articolului 7 din Directiva 2002/55/CE a Consiliului, în ceea ce privește caracteristicile minime care trebuie vizate în cursul verificării și condițiile minime pentru verificarea anumitor soiuri de specii de plante agricole și de specii de legume (Text cu relevanță pentru SEE)",
+"short": "Directiva de punere în aplicare (UE) 2016/1914",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2016-11-21",
+"latest": "2016-11-21",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L1914"
+},
+{
 "slug": "ue-directiva-1919-2016",
 "path": "ue/directiva/2016/1919",
 "kind": "ue",
@@ -3178,6 +3280,23 @@
 "from": "2016-12-22",
 "latest": "2016-12-22",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016R2105"
+},
+{
+"slug": "ue-directiva-2109-2016",
+"path": "ue/directiva/2016/2109",
+"kind": "ue",
+"year": "2016",
+"number": "2109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva de punere în aplicare (UE) 2016/2109 a Comisiei din 1 decembrie 2016 de modificare a Directivei 66/401/CEE a Consiliului în ceea ce privește includerea unor noi specii și denumirea botanică a speciei Lolium x boucheanum Kunth (Text cu relevanță pentru SEE )",
+"short": "Directiva de punere în aplicare (UE) 2016/2109",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2016-12-22",
+"latest": "2016-12-22",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32016L2109"
 },
 {
 "slug": "ue-regulament-2135-2016",

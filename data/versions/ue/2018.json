@@ -3,6 +3,51 @@
  "shard": "ue/2018",
  "acts": [
   {
+   "slug": "ue-directiva-100-2018",
+   "path": "ue/directiva/2018/100",
+   "short": "Directiva de punere în aplicare (UE) 2018/100",
+   "title": "Directiva de punere în aplicare (UE) 2018/100 a Comisiei din 22 ianuarie 2018 de modificare a Directivelor 2003/90/CE și 2003/91/CE de stabilire a măsurilor de punere în aplicare în sensul articolului 7 din Directiva 2002/53/CE a Consiliului și, respectiv, al articolului 7 din Directiva 2002/55/CE a Consiliului, în ceea ce privește caracteristicile minime care trebuie vizate în cursul verificării și condițiile minime pentru verificarea anumitor soiuri de specii de plante agricole și de specii de legume (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018L0100",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d30c1ad6-0011-11e8-b8f5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "601d901ba43d0b9d1c9ab53edfb2db19e417b5fdadec121eaa67ba838f30d1d0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1027-2018",
+   "path": "ue/directiva/2018/1027",
+   "short": "Directiva de punere în aplicare (UE) 2018/1027",
+   "title": "Directiva de punere în aplicare (UE) 2018/1027 a Comisiei din 19 iulie 2018 de modificare a Directivei 66/402/CEE a Consiliului în ceea ce privește distanțele de izolare pentru Sorghum spp. (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018L1027",
+   "versions": [
+    {
+     "from": "2018-08-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1d43ada2-8beb-11e8-8a53-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "520988f0fc13efe815cfdfedad8d83946bcfe808bca6451276d30a3d8248a071"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1028-2018",
+   "path": "ue/directiva/2018/1028",
+   "short": "Directiva de punere în aplicare (UE) 2018/1028",
+   "title": "Directiva de punere în aplicare (UE) 2018/1028 a Comisiei din 19 iulie 2018 de corectare a Directivei de punere în aplicare (UE) 2016/2109 de modificare a Directivei 66/401/CEE a Consiliului în ceea ce privește includerea unor noi specii și denumirea botanică a speciei Lolium x boucheanum Kunth (Text cu relevanță pentru SEE.)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018L1028",
+   "versions": [
+    {
+     "from": "2018-07-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5b02b733-8beb-11e8-8a53-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "dc7906ccaf0e4ab3eea6be031b70a1747b2f8b3408bd5d430820efdaf34a5f65"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-131-2018",
    "path": "ue/directiva/2018/131",
    "short": "Directiva (UE) 2018/131",
@@ -14,6 +59,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/9ff0d721-026a-11e8-b8f5-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "0f6acc0987a4229f4be2ade70571eaf15a56b5b87552c890a9e6f29b11815ba5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1581-2018",
+   "path": "ue/directiva/2018/1581",
+   "short": "Directiva de punere în aplicare (UE) 2018/1581",
+   "title": "Directiva de punere în aplicare (UE) 2018/1581 a Comisiei din 19 octombrie 2018 de modificare a Directivei 2009/119/CE a Consiliului în ceea ce privește metodele de calcul al obligațiilor de stocare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018L1581",
+   "versions": [
+    {
+     "from": "2018-11-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/79fb9b5d-d581-11e8-9424-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8f64babd65a507144ef2ca7cf9cdf710f80e84ebba8086eb49052795351c7d0b"
     }
    ]
   },
@@ -198,6 +258,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-484-2018",
+   "path": "ue/directiva/2018/484",
+   "short": "Directiva de punere în aplicare (UE) 2018/484",
+   "title": "Directiva de punere în aplicare (UE) 2018/484 a Comisiei din 21 martie 2018 de modificare a Directivei 93/49/CEE în ceea ce privește cerințele pe care trebuie să le îndeplinească materialul de înmulțire din anumite genuri sau specii de Palmae în ceea ce privește Rhynchophorus ferrugineus (Olivier)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018L0484",
+   "versions": [
+    {
+     "from": "2018-04-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/55915846-2e75-11e8-b5fe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c0280a5fc2cc16561ec7b9528d3613d6d63c37aae0a06f93fe1d98be4f070402"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-645-2018",
    "path": "ue/directiva/2018/645",
    "short": "Directiva (UE) 2018/645",
@@ -224,6 +299,111 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/7a40a5e7-599b-11e8-ab41-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "a6f6cbf7ad6491b7588abeb8fbc7a28597bc1860ecc5fec60440bbe7e8d26665"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-736-2018",
+   "path": "ue/directiva/2018/736",
+   "short": "Directiva delegată (UE) 2018/736",
+   "title": "Directiva delegată (UE) 2018/736 a Comisiei din 27 februarie 2018 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru anumite componente electrice și electronice care conțin plumb în sticlă sau ceramică (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018L0736",
+   "versions": [
+    {
+     "from": "2018-06-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bdb511a8-5a6f-11e8-ab41-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b15fd81401453add8d9a724c11fd5dde673c1d9ba599ba1ae36a844609eb1967"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-737-2018",
+   "path": "ue/directiva/2018/737",
+   "short": "Directiva delegată (UE) 2018/737",
+   "title": "Directiva delegată (UE) 2018/737 a Comisiei din 27 februarie 2018 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru plumbul din aliajele de sudură pentru condensatoarele ceramice multistrat de formă discoidală sau plană, prelucrate prin străpungere (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018L0737",
+   "versions": [
+    {
+     "from": "2018-06-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3459fe6b-5a70-11e8-ab41-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0d172974075c6ed72bb2eabd968219aa3425f4a5ab1a23fb2fb7842b869d90f1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-738-2018",
+   "path": "ue/directiva/2018/738",
+   "short": "Directiva delegată (UE) 2018/738",
+   "title": "Directiva delegată (UE) 2018/738 a Comisiei din 27 februarie 2018 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru plumbul din elementele potențiometrelor ajustabile metalo-ceramice (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018L0738",
+   "versions": [
+    {
+     "from": "2018-06-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c0261c3d-5a70-11e8-ab41-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "71b0a79b98c31d2b2e1eb464587fcca0167a6488dd4d59ef7ae69461b5c5a0b8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-739-2018",
+   "path": "ue/directiva/2018/739",
+   "short": "Directiva delegată (UE) 2018/739",
+   "title": "Directiva delegată (UE) 2018/739 a Comisiei din 1 martie 2018 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru plumb ca element de aliere în oțel (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018L0739",
+   "versions": [
+    {
+     "from": "2018-06-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/43eb2c4e-5a71-11e8-ab41-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e12d596c2772f87f285ca51a3829c99dbf695d666a8d01f7c80d5c63d3c69317"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-740-2018",
+   "path": "ue/directiva/2018/740",
+   "short": "Directiva delegată (UE) 2018/740",
+   "title": "Directiva delegată (UE) 2018/740 a Comisiei din 1 martie 2018 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru plumb ca element de aliere în aluminiu (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018L0740",
+   "versions": [
+    {
+     "from": "2018-06-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6375ef0a-5a65-11e8-ab41-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c4811d040589c8d4eb7acc14ed481b5e4413bd212a3c48e75b03140c58f69603"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-741-2018",
+   "path": "ue/directiva/2018/741",
+   "short": "Directiva delegată (UE) 2018/741",
+   "title": "Directiva delegată (UE) 2018/741 a Comisiei din 1 martie 2018 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru plumb ca element de aliere în cupru (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018L0741",
+   "versions": [
+    {
+     "from": "2018-06-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7da5d00e-5a67-11e8-ab41-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ce4ffbe45f84e1d455817ce34a17f923d331f2aecfae6178f19e7f83aae501cd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-742-2018",
+   "path": "ue/directiva/2018/742",
+   "short": "Directiva delegată (UE) 2018/742",
+   "title": "Directiva delegată (UE) 2018/742 a Comisiei din 1 martie 2018 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru plumbul din aliajele de lipit cu temperatură de topire înaltă (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018L0742",
+   "versions": [
+    {
+     "from": "2018-06-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b56dae33-5a69-11e8-ab41-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3b60a27abba52859b804ac9330a1549c98fe47d84147df86e0bf2e84517c986a"
     }
    ]
   },
@@ -374,6 +554,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/349d2a2d-8344-11e8-ac6a-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "5ee60605f7add20fd162a061ed37c8720db632df6a90a5ab914c77b210db3132"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-970-2018",
+   "path": "ue/directiva/2018/970",
+   "short": "Directiva delegată (UE) 2018/970",
+   "title": "Directiva delegată (UE) 2018/970 a Comisiei din 18 aprilie 2018 de modificare a anexelor II, III și V la Directiva (UE) 2016/1629 a Parlamentului European și a Consiliului de stabilire a cerințelor tehnice pentru navele de navigație interioară",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32018L0970",
+   "versions": [
+    {
+     "from": "2018-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/06111291-83c8-11e8-ac6a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "58761e06e90bae760d6f63f34b6b89aad7640bc120fe2d7f1133f007a8404df7"
     }
    ]
   },

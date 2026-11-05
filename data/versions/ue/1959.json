@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "ue/1959",
+ "acts": [
+  {
+   "slug": "ue-regulament-5-1959",
+   "path": "ue/regulament/1959/5",
+   "short": "Regulamentul CELEX 31959R0005",
+   "title": "Regulamentul nr. 5 de modificare a listei B din anexa IV la tratat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31959R0005",
+   "versions": [
+    {
+     "from": "1959-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/103c6593-02b3-4fc4-98b6-3b6f2ea91ace.0018.04/DOC_3",
+     "sha256": "0c56eb93096f070e05326086a155bda5c618aee77d8fc06d745ddba342954990"
+    }
+   ]
+  }
+ ]
+}

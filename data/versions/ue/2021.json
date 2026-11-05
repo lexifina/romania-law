@@ -3,6 +3,21 @@
  "shard": "ue/2021",
  "acts": [
   {
+   "slug": "ue-directiva-1047-2021",
+   "path": "ue/directiva/2021/1047",
+   "short": "Directiva delegată (UE) 2021/1047",
+   "title": "Directiva delegată (UE) 2021/1047 a Comisiei din 5 martie 2021 de modificare a Directivei 2009/43/CE a Parlamentului European și a Consiliului în ceea ce privește actualizarea listei produselor din domeniul apărării în conformitate cu versiunea actualizată a Listei comune a Uniunii Europene cuprinzând produsele militare din 17 februarie 2020 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L1047",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6490d030-d5de-11eb-895a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "44510f7be1f2c23d9212d56da82602a73d63a335cdc7e9c6e90510f616319b8e"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-1159-2021",
    "path": "ue/directiva/2021/1159",
    "short": "Directiva (UE) 2021/1159",
@@ -33,6 +48,36 @@
    ]
   },
   {
+   "slug": "ue-directiva-1206-2021",
+   "path": "ue/directiva/2021/1206",
+   "short": "Directiva delegată (UE) 2021/1206",
+   "title": "Directiva delegată (UE) 2021/1206 a Comisiei din 30 aprilie 2021 de modificare a anexei III la Directiva 2014/90/UE a Parlamentului European și a Consiliului privind echipamentele maritime în ceea ce privește standardul aplicabil laboratoarelor utilizate de organismele de evaluare a conformității pentru echipamentele maritime (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L1206",
+   "versions": [
+    {
+     "from": "2021-08-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bfd8730e-ea87-11eb-93a8-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2fb6617724b6eb3b5a70561806163cb660e7878ae46509fdd65bca57b2441752"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1226-2021",
+   "path": "ue/directiva/2021/1226",
+   "short": "Directiva delegată (UE) 2021/1226",
+   "title": "Directiva delegată (UE) 2021/1226 a Comisiei din 21 decembrie 2020 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei II la Directiva 2002/49/CE a Parlamentului European și a Consiliului în ceea ce privește metodele comune de evaluare a zgomotului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L1226",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/921ca1fe-ef3f-11eb-a71c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "13a6cb35c10a725e516653387e492e8bdf1be84c20a683732b53c3c335ddaa24"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-1233-2021",
    "path": "ue/directiva/2021/1233",
    "short": "Directiva (UE) 2021/1233",
@@ -48,6 +93,66 @@
    ]
   },
   {
+   "slug": "ue-directiva-1269-2021",
+   "path": "ue/directiva/2021/1269",
+   "short": "Directiva delegată (UE) 2021/1269",
+   "title": "Directiva delegată (UE) 2021/1269 a Comisiei din 21 aprilie 2021 de modificare a Directivei delegate (UE) 2017/593 în ceea ce privește integrarea factorilor de durabilitate în obligațiile de guvernanță a produsului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L1269",
+   "versions": [
+    {
+     "from": "2021-08-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e21a1f78-f32e-11eb-aeb9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "bd8708ad0c8d5bafe7dfda1a926d37280af22163a7a738a5c3dd00b819eea6f2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1270-2021",
+   "path": "ue/directiva/2021/1270",
+   "short": "Directiva delegată (UE) 2021/1270",
+   "title": "Directiva delegată (UE) 2021/1270 a Comisiei din 21 aprilie 2021 de modificare a Directivei 2010/43/UE în ceea ce privește riscurile legate de durabilitate și factorii de durabilitate de care trebuie să țină seama organismele de plasament colectiv în valori mobiliare (OPCVM) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L1270",
+   "versions": [
+    {
+     "from": "2021-08-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/09b9190a-f32f-11eb-aeb9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "34d0afc920279d3e5eddef4e4b4909ebb2d13d6c96b18c9d7ef7e5bbd29ad79c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1716-2021",
+   "path": "ue/directiva/2021/1716",
+   "short": "Directiva delegată (UE) 2021/1716",
+   "title": "Directiva delegată (UE) 2021/1716 a Comisiei din 29 iunie 2021 de modificare a Directivei 2014/47/UE a Parlamentului European și a Consiliului în ceea ce privește modificările aduse desemnărilor categoriilor de vehicule rezultate din modificările aduse legislației privind omologarea de tip (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L1716",
+   "versions": [
+    {
+     "from": "2021-10-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6fbadfd6-1f2d-11ec-bd8e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "21f2e6edaf5fdaa948ce6d5ffd8c2553f762b54bbbb81f5b2306a70c6fdfeafc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1717-2021",
+   "path": "ue/directiva/2021/1717",
+   "short": "Directiva delegată (UE) 2021/1717",
+   "title": "Directiva delegată (UE) 2021/1717 a Comisiei din 9 iulie 2021 de modificare a Directivei 2014/45/UE a Parlamentului European și a Consiliului în ceea ce privește actualizarea denumirilor anumitor categorii de vehicule și adăugarea sistemului eCall pe lista elementelor care trebuie testate, a metodelor, a motivelor care au determinat defectarea și a evaluării deficiențelor din anexa I și anexa III la directiva respectivă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L1717",
+   "versions": [
+    {
+     "from": "2021-10-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9aefaa59-1f2d-11ec-bd8e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "452c4bdb62e00de852f59de769fecee2b0a1c215a12508da6223e92b8eb7abf2"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-1883-2021",
    "path": "ue/directiva/2021/1883",
    "short": "Directiva (UE) 2021/1883",
@@ -59,6 +164,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/4e281c8d-37c1-11ec-8daf-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "5764cb008cbeb77d6c8960506180946bf9e953882e8f67ee5977c9d1aebfc311"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1927-2021",
+   "path": "ue/directiva/2021/1927",
+   "short": "Directiva de punere în aplicare (UE) 2021/1927",
+   "title": "Directiva de punere în aplicare (UE) 2021/1927 a Comisiei din 5 noiembrie 2021 de modificare a anexelor I și II la Directiva 66/402/CEE a Consiliului în ceea ce privește semințele de hibrizi de grâu produse prin sterilitate masculină citoplasmatică (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L1927",
+   "versions": [
+    {
+     "from": "2021-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/534607d2-4037-11ec-89db-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e4fc25bfc3d4444a85d7230939b947629feeafefb5adffb091583c8bd85dea23"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1978-2021",
+   "path": "ue/directiva/2021/1978",
+   "short": "Directiva delegată (UE) 2021/1978",
+   "title": "Directiva delegată (UE) 2021/1978 a Comisiei din 11 august 2021 de modificare, în scopul adaptării la progresele științifice și tehnice, a anexei IV la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru utilizarea ftalatului de bis(2-etilhexil) (DEHP), a ftalatului de butil benzil (BBP), a ftalatului de dibutil (DBP) și a ftalatului de diizobutil (DIBP) în piesele de schimb recuperate din și utilizate pentru repararea sau recondiționarea dispozitivelor medicale (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L1978",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e9d47801-45b7-11ec-89db-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "db2cd08529692a35270de331f8db69d3c937fa93100e29245043d064c121673e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1979-2021",
+   "path": "ue/directiva/2021/1979",
+   "short": "Directiva delegată (UE) 2021/1979",
+   "title": "Directiva delegată (UE) 2021/1979 a Comisiei din 11 august 2021 de modificare, în scopul adaptării la progresele științifice și tehnice, a anexei IV la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru utilizarea ftalatului de bis(2-etilhexil) (DEHP) în componentele din plastic ale bobinelor detectoare din aparatele de imagistică prin rezonanță magnetică (IRM) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L1979",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1279be02-45b8-11ec-89db-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "48d1722da4cd73812590061b6d53262d9e4578ea1e208a03b20540af2a8fdcd9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1980-2021",
+   "path": "ue/directiva/2021/1980",
+   "short": "Directiva delegată (UE) 2021/1980",
+   "title": "Directiva delegată (UE) 2021/1980 a Comisiei din 11 august 2021 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei IV la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru utilizarea ftalatului de bis(2-etilhexil) (DEHP) la electrozii ion-selectivi pentru analiza fluidelor corpului uman și/sau a fluidelor de dializă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L1980",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/52ca20d3-45b8-11ec-89db-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e94feb6f42b5156c65ac842968cfec2442382db586752a4fa2a6ef62a241c0d3"
     }
    ]
   },
@@ -108,6 +273,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-2171-2021",
+   "path": "ue/directiva/2021/2171",
+   "short": "Directiva de punere în aplicare (UE) 2021/2171",
+   "title": "Directiva de punere în aplicare (UE) 2021/2171 a Comisiei din 7 decembrie 2021 de modificare a Directivei 66/402/CEE a Consiliului în ceea ce privește greutatea lotului de semințe și a eșantioanelor de Avena nuda (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L2171",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f4789939-57c9-11ec-91ac-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0873767740f4b3c1eb7f094d31f4fe02ca619e4332a12abcec06ad9c2702ef34"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-2261-2021",
    "path": "ue/directiva/2021/2261",
    "short": "Directiva (UE) 2021/2261",
@@ -134,6 +314,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/efdc0d7c-77d4-11eb-9ac9-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "33caa7324204499e8cd41d6fe9a206049a8ad80fbf0b8c160b2a87d5a5f9c691"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-415-2021",
+   "path": "ue/directiva/2021/415",
+   "short": "Directiva de punere în aplicare (UE) 2021/415",
+   "title": "Directiva de punere în aplicare (UE) 2021/415 a Comisiei din 8 martie 2021 de modificare a Directivelor 66/401/CEE și 66/402/CEE ale Consiliului în vederea adaptării la evoluția cunoștințelor științifice și tehnice, a grupurilor taxonomice și a denumirilor anumitor specii de semințe și de buruieni (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L0415",
+   "versions": [
+    {
+     "from": "2021-03-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/547246ad-807b-11eb-9ac9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c29df06514b0b50d189318ebbc76b4db05a68817432dc5a654b3075bc473b777"
     }
    ]
   },
@@ -168,6 +363,66 @@
    ]
   },
   {
+   "slug": "ue-directiva-647-2021",
+   "path": "ue/directiva/2021/647",
+   "short": "Directiva delegată (UE) 2021/647",
+   "title": "Directiva delegată (UE) 2021/647 a Comisiei din 15 ianuarie 2021 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru utilizarea anumitor compuși de plumb și de crom hexavalent la inițiatorii electrici și electronici ai explozivilor de uz civil (profesional) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L0647",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f45ea037-a180-11eb-b85c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "22493a73d06253d66e75f79e103f708c56eb9e76743bc1fe1d868817840abc85"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-746-2021",
+   "path": "ue/directiva/2021/746",
+   "short": "Directiva de punere în aplicare (UE) 2021/746",
+   "title": "Directiva de punere în aplicare (UE) 2021/746 a Comisiei din 6 mai 2021 de modificare a Directivelor 2003/90/CE și 2003/91/CE în ceea ce privește protocoalele de examinare a anumitor soiuri de specii de plante agricole și de specii de legume și de modificare a Directivei 2003/90/CE în ceea ce privește anumite denumiri botanice ale plantelor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L0746",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c9f2a3ae-aece-11eb-9767-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0344671ac2518582ef6762a0b3976518fa62f086e835e6280afcc5fb4e8bada1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-802-2021",
+   "path": "ue/directiva/2021/802",
+   "short": "Directiva delegată (UE) 2021/802",
+   "title": "Directiva delegată (UE) 2021/802 a Comisiei din 12 martie 2021 de modificare a anexei la Decizia-cadru 2004/757/JAI a Consiliului în ceea ce privește includerea noilor substanțe psihoactive metil 3,3-dimetil-2-{[1-(pent-4-en-1-il)-1H-indazol-3-carbonil]amino}butanoat (MDMB-4en-PINACA) și metil 2-{[1-(4-fluorobutil)-1H-indol-3-carbonil]amino}-3,3-dimetilbutanoat (4F-MDMB-BICA) în definiția termenului „drog”",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L0802",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7836e37e-b905-11eb-8aca-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ce77466e7d2d9dc5e3a59ed7ce3b7573771d464cb5c7bdf9d5c58f5760dcbd23"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-884-2021",
+   "path": "ue/directiva/2021/884",
+   "short": "Directiva delegată (UE) 2021/884",
+   "title": "Directiva delegată (UE) 2021/884 a Comisiei din 8 martie 2021 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei IV la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește perioada de valabilitate a unei derogări pentru utilizarea mercurului în conectorii electrici rotativi folosiți în sistemele de imagistică cu ultrasunete pentru analiză intravasculară (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L0884",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eb2ed0f3-c33c-11eb-a925-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a8b5763aa7b2cb4624480f751c2903305b7be075148467ab971fcd96387caf9a"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-903-2021",
    "path": "ue/directiva/2021/903",
    "short": "Directiva (UE) 2021/903",
@@ -179,6 +434,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/1989e046-c4d0-11eb-a925-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "ee08d3ae48d5598af06329c0df0d0759d37653bddeea515c0311998c0788dae6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-971-2021",
+   "path": "ue/directiva/2021/971",
+   "short": "Directiva de punere în aplicare (UE) 2021/971",
+   "title": "Directiva de punere în aplicare (UE) 2021/971 a Comisiei din 16 iunie 2021 de modificare a anexei I la Directiva 66/401/CEE a Consiliului privind comercializarea semințelor de plante furajere, a anexei I la Directiva 66/402/CEE a Consiliului privind comercializarea semințelor de cereale, a anexei I la Directiva 2002/54/CE a Consiliului privind comercializarea semințelor de sfeclă, a anexei I la Directiva 2002/55/CE a Consiliului privind comercializarea semințelor de legume și a anexei I la Directiva 2002/57/CE a Consiliului privind comercializarea semințelor de plante oleaginoase și pentru fibre, în ceea ce privește utilizarea tehnicilor biochimice și moleculare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L0971",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/17b7d7e8-cf36-11eb-ac72-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3319cf67a1c5fcf2622067c8332e50710d87aaa70f3abfa3b1da38de101ee035"
     }
    ]
   },

@@ -152,6 +152,43 @@
 }
 },
 {
+"slug": "ue-regulament-992-1995",
+"path": "ue/regulament/1995/992",
+"kind": "ue",
+"year": "1995",
+"number": "992",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CE) nr. 992/95 al Consiliului din 10 aprilie 1995 privind deschiderea și modul de gestionare ale contingentelor tarifare comunitare pentru anumite produse agricole și pescărești, originare din Norvegia",
+"short": "Regulamentul (CE) nr. 992/95",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1995-05-05",
+"latest": "1995-05-05",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31995R0992"
+},
+{
+"slug": "ue-regulament-997-1995",
+"path": "ue/regulament/1995/997",
+"kind": "ue",
+"year": "1995",
+"number": "997",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CE) nr. 997/95 al Comisiei din 3 mai 1995 de modificare a Regulamentelor (CEE) nr. 1035/72 și (CEE) nr. 2019/93 ale Consiliului și (CEE) nr. 886/87, (CEE) nr. 816/89, (CEE) nr. 3780/90, (CEE) nr. 1108/91, (CE) nr. 3254/93, (CE) nr. 1281/94 și (CE) nr. 1372/94 în ceea ce privește codurile Nomenclaturii Combinate a fructelor și legumelor",
+"short": "Regulamentul (CE) nr. 997/95",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1995-05-11",
+"latest": "1995-05-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31995R0997",
+"flags": {
+"end_of_validity": "1995-12-31"
+}
+},
+{
 "slug": "ue-regulament-1150-1995",
 "path": "ue/regulament/1995/1150",
 "kind": "ue",

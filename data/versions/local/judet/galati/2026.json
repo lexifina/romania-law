@@ -3,6 +3,51 @@
  "shard": "local/judet/galati/2026",
  "acts": [
   {
+   "slug": "hcj-galati-1-2026",
+   "path": "local/judet/galati/2026/1",
+   "short": "HCJ Galați nr. 1/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 1/2026",
+   "url": "https://cjgalati.ro/wp-content/uploads/2026/05/Hot.-nr.1-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/05/Hot.-nr.1-2026.pdf",
+     "sha256": "6f1d2682a34b24b780ab16149302e8b09fd9325305dd72d69c02f3d860305c20"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-140-2026",
+   "path": "local/judet/galati/2026/140",
+   "short": "HCJ Galați nr. 140/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 140/2026",
+   "url": "https://cjgalati.ro/wp-content/uploads/2026/06/HCJ-nr.-140_28.05.2026-aprobare-Program-Legea-350-1.pdf",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/06/HCJ-nr.-140_28.05.2026-aprobare-Program-Legea-350-1.pdf",
+     "sha256": "f20b63c66a5b41e236aa8dc004f8c8d35fd0ef19c48580d463a733cfe713bc4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-141-2026",
+   "path": "local/judet/galati/2026/141",
+   "short": "HCJ Galați nr. 141/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 141/2026",
+   "url": "https://cjgalati.ro/wp-content/uploads/2026/06/HCJ-nr.-141_28.05.2026-aprobare-Ghid-de-finantare-si-formulare-Legea-350-1.pdf",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/06/HCJ-nr.-141_28.05.2026-aprobare-Ghid-de-finantare-si-formulare-Legea-350-1.pdf",
+     "sha256": "b0f2a4c2d4014f606fda8bc5bce31d13f9295ed1abff5de5308e5a97d90ac0d5"
+    }
+   ]
+  },
+  {
    "slug": "hcj-galati-245-2026",
    "path": "local/judet/galati/2026/245",
    "short": "HCJ Galați nr. 245/2026",
@@ -18,6 +63,456 @@
    ]
   },
   {
+   "slug": "hcj-galati-247-2026",
+   "path": "local/judet/galati/2026/247",
+   "short": "HCJ Galați nr. 247/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 247/2026 privind Codul administrativ, cu modificările și completările ulterioare; În temeiul art. 182 alin. (1), art. 196 alin. (1) lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019, privind Codul administrativ, cu modificările și completările ulterioare, H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-nr-247-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot247-290926.pdf",
+     "sha256": "d16515c431117e203d06e69ffbe696b5a1801569a2eab50dc598b7a80caa54e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-248-2026",
+   "path": "local/judet/galati/2026/248",
+   "short": "HCJ Galați nr. 248/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 248/2026",
+   "url": "https://cjgalati.ro/hotararea-nr-248-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot248a-290926.pdf",
+     "sha256": "3f500e0034c7a21a604b92d7e22b0f547a69cad37cca9c844201da17cf2b6c2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-249-2026",
+   "path": "local/judet/galati/2026/249",
+   "short": "HCJ Galați nr. 249/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 249/2026 pentru Spitalul Clinic Județean de Urgență „Sf",
+   "url": "https://cjgalati.ro/hotararea-nr-249-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot249a-290926.pdf",
+     "sha256": "be8a28dc8c8238ee0a759ab4ff4f2dba8d69052abdae87116e42d4d650327c4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-250-2026",
+   "path": "local/judet/galati/2026/250",
+   "short": "HCJ Galați nr. 250/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 250/2026 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Avand in vedere prevederile Legii nr.197/2012 privind asigurarea calității în domeniul serviciilor sociale, cu modificările și completările ulterioare, Având în vedere prevederile Ordinului Ministrului Muncii și Justiției Sociale nr. 25/2019 privind aprobarea standardelor minime de calit",
+   "url": "https://cjgalati.ro/hotararea-nr-250-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot250-290926.pdf",
+     "sha256": "467ec0e7385ae657fdd2878bbd27f9a1d74df428ea185d9da3b9ac7ed66ea3e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-251-2026",
+   "path": "local/judet/galati/2026/251",
+   "short": "HCJ Galați nr. 251/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 251/2026 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Avand in vedere prevederile Legii nr.197/2012 privind asigurarea calității în domeniul serviciilor sociale, cu modificările și completările ulterioare, Având în vedere prevederile Ordinului Ministrului Muncii și Justiției Sociale nr. 25/2019 privind aprobarea standardelor minime de calit",
+   "url": "https://cjgalati.ro/hotararea-nr-251-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot251-290926.pdf",
+     "sha256": "cae43d906bb5f2bacc26c888b695b0d45d5724615a1baac6794d014dc1667b91"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-252-2026",
+   "path": "local/judet/galati/2026/252",
+   "short": "HCJ Galați nr. 252/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 252/2026 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Avand in vedere prevederile Legii nr.197/2012 privind asigurarea calității în domeniul serviciilor sociale, cu modificările și completările ulterioare, Având în vedere prevederile Ordinului Ministrului Muncii și Justiției Sociale nr. 25/2019 privind aprobarea standardelor minime de calit",
+   "url": "https://cjgalati.ro/hotararea-nr-252-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot252-290926.pdf",
+     "sha256": "a57ad39e0f03025a72cc14522ecd24649e18de3e684bbad563a80865d7744afa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-253-2026",
+   "path": "local/judet/galati/2026/253",
+   "short": "HCJ Galați nr. 253/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 253/2026 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Avand in vedere prevederile Legii nr. 197/2012 privind asigurarea calității în domeniul serviciilor sociale, cu modificările și completările ulterioare, Având în vedere prevederile Ordinului Ministrului Muncii și Justiției Sociale nr. 25/2019 privind aprobarea standardelor minime de cali",
+   "url": "https://cjgalati.ro/hotararea-nr-253-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot253-290926.pdf",
+     "sha256": "8d75dbd800166ca73be1559c3200091ce2bfc204d2fe6cd588ebfe04fa8e4259"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-254-2026",
+   "path": "local/judet/galati/2026/254",
+   "short": "HCJ Galați nr. 254/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 254/2026 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Avand in vedere prevederile Legii nr. 197/2012 privind asigurarea calității în domeniul serviciilor sociale, cu modificările și completările ulterioare, Având în vedere prevederile Ordinului Ministrului Muncii și Justiției Sociale nr. 25/2019 privind aprobarea standardelor minime de cali",
+   "url": "https://cjgalati.ro/hotararea-nr-254-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot254-290926.pdf",
+     "sha256": "8f6078c62a8e3a421868ac3ccbd47b2436ac6358d3cf5dd452dc532c2630b7d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-255-2026",
+   "path": "local/judet/galati/2026/255",
+   "short": "HCJ Galați nr. 255/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 255/2026 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Avand in vedere prevederile Legii nr. 197/2012 privind asigurarea calității în domeniul serviciilor sociale, cu modificările și completările ulterioare, Având în vedere prevederile Ordinului Ministrului Muncii și Justiției Sociale nr. 25/2019 privind aprobarea standardelor minime de cali",
+   "url": "https://cjgalati.ro/hotararea-nr-255-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot255-290926.pdf",
+     "sha256": "be957ccd3da855a23871458b45639287d639aafbbbc9ec7d2fcd72d6af4f4e1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-256-2026",
+   "path": "local/judet/galati/2026/256",
+   "short": "HCJ Galați nr. 256/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 256/2026 pentru buget – finanțe, strategii, studii și prognoză economico – socială și al Comisiei de specialitate nr. 6 de analiză privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură ale Consiliului Județean Galați; Având în vedere prevederile art. 879 alin (2) și (5), art. 880 alin. (1), din Legea nr. 287/2009 privind Cod",
+   "url": "https://cjgalati.ro/hotararea-nr-256-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot256-290926.pdf",
+     "sha256": "bb2e2d70d70ff0ad12ed1d8e0df2f03022a15dd4449380441c45a1df08ee8905"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-257-2026",
+   "path": "local/judet/galati/2026/257",
+   "short": "HCJ Galați nr. 257/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 257/2026",
+   "url": "https://cjgalati.ro/hotararea-nr-257-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot257-290926.pdf",
+     "sha256": "a079e822ed9a466d9dc6758239a781792b214c24113e2eae6ea181fcea7294d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-258-2026",
+   "path": "local/judet/galati/2026/258",
+   "short": "HCJ Galați nr. 258/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 258/2026 privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură ale Consiliului Județean Galați; Având în vedere adresa nr. 279305 din 17.08.2026 a Societății Distribuție Energie Electrică Romania S.A.–Sucursala Galați, înregistrată la",
+   "url": "https://cjgalati.ro/hotararea-nr-258-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot258-290926.pdf",
+     "sha256": "af48930a3931819e21283c0998fc1c5f95c9b7c1a716bb005860e86e11399184"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-259-2026",
+   "path": "local/judet/galati/2026/259",
+   "short": "HCJ Galați nr. 259/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 259/2026 privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură; Având în vedere prevederile art. 861 alin. (3), art. 867-870 din Legea nr. 287/2009 privind Codul Civil, cu modificările și completările ulterioare; Având în vedere prevederile art. 108 lit. a) și art. 173 alin. (1) lit. c) și d), alin. (4) lit. a) și alin. (5)",
+   "url": "https://cjgalati.ro/hotararea-nr-259-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot259-290926.pdf",
+     "sha256": "088fba11ef5ee956baa50426e457694d05625ff08a5df31acd9203efb801fd38"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-260-2026",
+   "path": "local/judet/galati/2026/260",
+   "short": "HCJ Galați nr. 260/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 260/2026 pentru acordarea locuințelor destinate închirierii, în mod exclusiv specialiștilor din sănătate, din Blocul de locuințe realizat prin Agenția Națională pentru Locuințe, situat în municipiul Galați, str",
+   "url": "https://cjgalati.ro/hotararea-nr-260-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot260-290926.pdf",
+     "sha256": "f1dfe493cab73808ea5a981265d4cd9cc83a8cce4b438180d5e82d5258c483c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-261-2026",
+   "path": "local/judet/galati/2026/261",
+   "short": "HCJ Galați nr. 261/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 261/2026",
+   "url": "https://cjgalati.ro/hotararea-nr-261-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot261-290926.pdf",
+     "sha256": "0bc934d9ddb326674edb0f3ddc3921451d96a6020cb37a494627972463a55bd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-262-2026",
+   "path": "local/judet/galati/2026/262",
+   "short": "HCJ Galați nr. 262/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 262/2026 pentru realizarea unor studii în domeniul siguranței circulației și administrării infrastructurii rutiere Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-262-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot262-290926.pdf",
+     "sha256": "67823c729b6eda35b5584cd15e6c1d2eec9fb518eb1bdf08a3754ba8fcec4394"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-263-2026",
+   "path": "local/judet/galati/2026/263",
+   "short": "HCJ Galați nr. 263/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 263/2026 pentru investiția “Reabilitare termică și modernizare energetică a instalațiilor aferente Spitalului Clinic Județean de Urgență «Sf",
+   "url": "https://cjgalati.ro/hotararea-nr-263-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot263-290926.pdf",
+     "sha256": "63f804ab735bad6eebc65ba55b42a52d5ff116e07955ee0777c718c4c0c65ae3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-264-2026",
+   "path": "local/judet/galati/2026/264",
+   "short": "HCJ Galați nr. 264/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 264/2026 pentru investiția “Lucrări de reparații capitale Parc Aventura – Escapeland – Pădurea Gârboavele” Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-264-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot264-290926.pdf",
+     "sha256": "ec0076859c4904eb85973c895cc60088075603b1d2f10e224e19461a807c1add"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-265-2026",
+   "path": "local/judet/galati/2026/265",
+   "short": "HCJ Galați nr. 265/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 265/2026 privind obiectivul de investiție \"Creșterea eficienței energetice a imobilului Clădirea C4 - Corp B Pavilion Boli Cronice – Parter Spitalul Clinic Județean de Urgență Sf",
+   "url": "https://cjgalati.ro/hotararea-nr-265-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot265-290926.pdf",
+     "sha256": "18269fbf40e2138f5268f0f1eacd6428d6a400ceb4767791cfaeba16fa0eb6af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-266-2026",
+   "path": "local/judet/galati/2026/266",
+   "short": "HCJ Galați nr. 266/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 266/2026 privind obiectivul de investiție \"Creșterea eficienței energetice a imobilului Clădirea C5 - Corp B Pavilion Interne – Parter Spitalul Clinic Județean de Urgență Sf",
+   "url": "https://cjgalati.ro/hotararea-nr-266-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot266-290926.pdf",
+     "sha256": "c0a13055a094701322b4dbbcc93c2de42c5ada21e4fa9d9f2709ea9bddc61ed5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-267-2026",
+   "path": "local/judet/galati/2026/267",
+   "short": "HCJ Galați nr. 267/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 267/2026 privind obiectivul de investiție \"Creșterea eficienței energetice a imobilului Clădirea C12 - Corp C Pavilion Pediatrie – Parter Spitalul Clinic Județean de Urgență Sf",
+   "url": "https://cjgalati.ro/hotararea-nr-267-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot267-290926.pdf",
+     "sha256": "012d140423eae03686432f6d4f4c64e94460f96df9bcd2e13c0bb6f31471a191"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-268-2026",
+   "path": "local/judet/galati/2026/268",
+   "short": "HCJ Galați nr. 268/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 268/2026",
+   "url": "https://cjgalati.ro/hotararea-nr-268-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot268-290926.pdf",
+     "sha256": "10231cac591a2b509121975376d52f142ce030a99c8a30b1a60c86f5c1479841"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-269-2026",
+   "path": "local/judet/galati/2026/269",
+   "short": "HCJ Galați nr. 269/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 269/2026 pentru acoperirea cheltuielilor de transport necesare participării la concursul „Premiul Renaudot pentru liceeni”, desfășurat la Loudun, regiunea Nouvelle-Aquitaine, Republica Franceză Inițiator: Dl",
+   "url": "https://cjgalati.ro/hotararea-nr-269-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot269-290926.pdf",
+     "sha256": "a6c68e8f32c2f672292d48e59ebfaa0c43039ea920555bf6b20c9348929e87c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-270-2026",
+   "path": "local/judet/galati/2026/270",
+   "short": "HCJ Galați nr. 270/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 270/2026",
+   "url": "https://cjgalati.ro/hotararea-nr-270-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot270-290926.pdf",
+     "sha256": "04f33e2c04e5dd968a0b83f9d1cfae40d99bd375583da3405ac25b21c4d5e375"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-271-2026",
+   "path": "local/judet/galati/2026/271",
+   "short": "HCJ Galați nr. 271/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 271/2026",
+   "url": "https://cjgalati.ro/hotararea-nr-271-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot271-290926.pdf",
+     "sha256": "4008c244d5d7200f997fea3bf39b0b36b5129e3b05fd72e41a3d1f3bf8e26b2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-272-2026",
+   "path": "local/judet/galati/2026/272",
+   "short": "HCJ Galați nr. 272/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 272/2026 pentru utilitate publică pentru investiția „Varianta ocolitoare a municipiului Galați”, urmare a executării sentințelor definitive Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-272-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot272-290926.pdf",
+     "sha256": "c54b89e4e9fc1dc6fd5728cea5f72227bdbe951559a2e29a98a9ecb7061489c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-273-2026",
+   "path": "local/judet/galati/2026/273",
+   "short": "HCJ Galați nr. 273/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 273/2026 privind aprobarea proiectului, a cheltuielilor legate de proiect, precum și a acordului de parteneriat pentru realizarea obiectivului „Extindere și modernizare variantă ocolitoare a Municipiului Galați” etapa II de implementare, în cadrul Programului Regional Sud-Est 2021-2027 Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-273-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot273-290926.pdf",
+     "sha256": "0275372b7ec1a699de88497f2cece44f5fa262aa726f38ee630c694956fd6e67"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-274-2026",
+   "path": "local/judet/galati/2026/274",
+   "short": "HCJ Galați nr. 274/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 274/2026 pentru stabilitate financiară” Inițiatori: Dl",
+   "url": "https://cjgalati.ro/hotararea-nr-274-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot274-290926.pdf",
+     "sha256": "4f17445f3653cb2d0fb08723a226ec2912eb977dd07224e50c0e09ee4364f472"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-275-2026",
+   "path": "local/judet/galati/2026/275",
+   "short": "HCJ Galați nr. 275/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 275/2026 pentru asistență și protecție socială, învățământ, sănătate, cultură, activități științifice, sportive și de agrement și al Comisiei de specialitate nr. 5, comisia juridică, pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională ale Consiliului Județean Galați; Având în vedere prevederile art. 173 alin. (1) lit. d, e), alin. (5",
+   "url": "https://cjgalati.ro/hotararea-nr-275-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot275-290926.pdf",
+     "sha256": "93b801c22ca30f8d18e938c5de0ec2395569eaab29098d171b5c8ae2b11229be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-276-2026",
+   "path": "local/judet/galati/2026/276",
+   "short": "HCJ Galați nr. 276/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 276/2026",
+   "url": "https://cjgalati.ro/hotararea-nr-276-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot276-290926.pdf",
+     "sha256": "f9b4307f4873aebca6e442c13405cde00f03756a2322276d926791250a5c6515"
+    }
+   ]
+  },
+  {
    "slug": "hcj-galati-277-2026",
    "path": "local/judet/galati/2026/277",
    "short": "HCJ Galați nr. 277/2026",
@@ -29,6 +524,501 @@
      "units": 1,
      "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot277-290926.pdf",
      "sha256": "59abf7b874ba416709a83778fef985a66077191e962b18efabab883ba4b489e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-278-2026",
+   "path": "local/judet/galati/2026/278",
+   "short": "HCJ Galați nr. 278/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 278/2026 privind Codul administrativ, cu modificările și completările ulterioare; În baza prevederilor art. 182 alin. (1) și art. 196 alin. (1) lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare. H O T Ă R Ă Ș T E: Art.1",
+   "url": "https://cjgalati.ro/hotararea-nr-278-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot278-290926.pdf",
+     "sha256": "ddc57aceb2d82f294e17dec554cbf4ac15db161d1bae1bc11a5127b4bcd4733a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-279-2026",
+   "path": "local/judet/galati/2026/279",
+   "short": "HCJ Galați nr. 279/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 279/2026 pentru ocuparea funcțiilor de director / director adjunct, la nivelul instituțiilor de învătământ special pentru care",
+   "url": "https://cjgalati.ro/hotararea-nr-279-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot279-290926.pdf",
+     "sha256": "06a30b986ed2d651a2720fa905264a90648d16fd6a8f99c589ca7c7212671d1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-281-2026",
+   "path": "local/judet/galati/2026/281",
+   "short": "HCJ Galați nr. 281/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 281/2026 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Avand in vedere prevederile Legii nr.197/2012 privind asigurarea calității în domeniul serviciilor sociale, cu modificările și completările ulterioare, Având în vedere prevederile Ordinului Ministrului Muncii și Justiției Sociale nr. 25/2019 privind aprobarea standardelor minime de calit",
+   "url": "https://cjgalati.ro/hotararea-nr-281-3/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot281-291026.pdf",
+     "sha256": "e4ff78a67d2fd939da3288e60c33ba73c9c94e9c555eaf7decaf1b193d594980"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-282-2026",
+   "path": "local/judet/galati/2026/282",
+   "short": "HCJ Galați nr. 282/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 282/2026 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Avand in vedere prevederile Legii nr.197/2012 privind asigurarea calității în domeniul serviciilor sociale, cu modificările și completările ulterioare, Având în vedere prevederile Ordinului Ministrului Muncii și Justiției Sociale nr. 25/2019 privind aprobarea standardelor minime de calit",
+   "url": "https://cjgalati.ro/hotararea-nr-282-3/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot282-291026.pdf",
+     "sha256": "7b002b9a74e309a6b50cb47be7fd8930b1dd16157af5cc9c9956689aaecf74bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-283-2026",
+   "path": "local/judet/galati/2026/283",
+   "short": "HCJ Galați nr. 283/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 283/2026 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Avand in vedere prevederile Legii nr.197/2012 privind asigurarea calității în domeniul serviciilor sociale, cu modificările și completările ulterioare, Având în vedere prevederile Ordinului Ministrului Muncii și Justiției Sociale nr. 25/2019 privind aprobarea standardelor minime de calit",
+   "url": "https://cjgalati.ro/hotararea-nr-283-3/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot283-291026.pdf",
+     "sha256": "da11778c9f21320142a29f2c4d5481dbe6f0bacae95f1924bd606e39ad8768b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-284-2026",
+   "path": "local/judet/galati/2026/284",
+   "short": "HCJ Galați nr. 284/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 284/2026 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Avand in vedere prevederile Legii nr.197/2012 privind asigurarea calității în domeniul serviciilor sociale, cu modificările și completările ulterioare, Avand in vedere prevederile Legii nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată, cu modi",
+   "url": "https://cjgalati.ro/hotararea-nr-284-3/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot284-291026.pdf",
+     "sha256": "1bddb0db23923f0ab017b2f668d8e49ddbb7b4dcfdf0c7cc346e3c7c4d9fb403"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-285-2026",
+   "path": "local/judet/galati/2026/285",
+   "short": "HCJ Galați nr. 285/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 285/2026 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Avand in vedere prevederile Legii nr.197/2012 privind asigurarea calității în domeniul serviciilor sociale, cu modificările și completările ulterioare, Având în vedere prevederile Ordinului Ministrului Muncii și Justiției Sociale nr. 25/2019 privind aprobarea standardelor minime de calit",
+   "url": "https://cjgalati.ro/hotararea-nr-285-3/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot285-291026.pdf",
+     "sha256": "4179078d821692a3d06ea960376d8c828a75100c328a72191c50b0e950bf6136"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-286-2026",
+   "path": "local/judet/galati/2026/286",
+   "short": "HCJ Galați nr. 286/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 286/2026",
+   "url": "https://cjgalati.ro/hotararea-nr-286-3/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot286-291026.pdf",
+     "sha256": "2e4dcd1e1d329ff9eb53620367ef05a08b166a8e14102e92ff85f7de4d9ac281"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-287-2026",
+   "path": "local/judet/galati/2026/287",
+   "short": "HCJ Galați nr. 287/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 287/2026 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare; Avand in vedere prevederile Legii nr. 197/2012 privind asigurarea calității în domeniul serviciilor sociale, cu modificările și completările ulterioare, Având în vedere prevederile Ordinului Ministerul Muncii și Justiției Sociale nr. 27/2019 privind aprobarea standardelor minime de calit",
+   "url": "https://cjgalati.ro/hotararea-nr-287-3/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot287-291026.pdf",
+     "sha256": "7e7432ddb859c68a18423326b78c7f064bc0c0fcf5973ba83d5dd94813571148"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-288-2026",
+   "path": "local/judet/galati/2026/288",
+   "short": "HCJ Galați nr. 288/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 288/2026",
+   "url": "https://cjgalati.ro/hotararea-nr-288-3/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot288-291026.pdf",
+     "sha256": "7b67dcf51f8554bb3dd9575105b3c8746ef68a2fa214bb69037d214ecb3750f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-289-2026",
+   "path": "local/judet/galati/2026/289",
+   "short": "HCJ Galați nr. 289/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 289/2026",
+   "url": "https://cjgalati.ro/hotararea-nr-289-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot289-291026.pdf",
+     "sha256": "b6c1b2962f3d3498a6f65e283ca52da021419fe0c92f042367c594ef4ced14ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-290-2026",
+   "path": "local/judet/galati/2026/290",
+   "short": "HCJ Galați nr. 290/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 290/2026 privind organizarea și funcționarea Comisiei de Acord Unic a Județului Galați Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-290-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot290-291026.pdf",
+     "sha256": "414ea185dc223f911138529bae36de8ecaf27deb599602bb751e82fc043c841e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-291-2026",
+   "path": "local/judet/galati/2026/291",
+   "short": "HCJ Galați nr. 291/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 291/2026 pentru dezvoltare urbană și rurală, agricultură, conservarea și protecția mediului și de servicii publice și al Comisiei de specialitate nr. 5 juridică, pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională ale Consiliului Județean Galați; Având în vedere prevederile art. 86 alin. (1) lit. b) și al art. 91-93 din Legea nr. 169",
+   "url": "https://cjgalati.ro/hotararea-nr-291-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot291-291026.pdf",
+     "sha256": "77b2aa10c872aa0693b20e7ac4b7dffcca643e24689309111c6f300cd4dc68cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-292-2026",
+   "path": "local/judet/galati/2026/292",
+   "short": "HCJ Galați nr. 292/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 292/2026 privind administrarea și gestionarea patrimoniului, investiții, lucrări publice și de refacere a monumentelor istorice și de arhitectură ale Consiliului Județean Galați; Având în vedere prevederile art. 864 din Legea nr. 287/2009 privind Codul civil, republicată, cu modificările și completările ulterioare; Având în vedere prevederile art. 286 alin. (1) și (3), art. 287 lit. b), art. 354, art. 355",
+   "url": "https://cjgalati.ro/hotararea-nr-292-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot292-291026.pdf",
+     "sha256": "d99cb3a26deaf2e063f1c5d570cfe99a7e71964e996f76f75ba4b5fa96dd965f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-293-2026",
+   "path": "local/judet/galati/2026/293",
+   "short": "HCJ Galați nr. 293/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 293/2026 pentru locuințele destinate închirierii, în mod exclusiv specialiștilor din sănătate, din Blocul de locuințe realizat prin Agenția Națională pentru Locuințe, situat în municipiul Galați, str",
+   "url": "https://cjgalati.ro/hotararea-nr-293-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot293-291026.pdf",
+     "sha256": "c5b7868d0d8ed64ab1fc0404fc8e530f5eecec0ca1ac8b8dd20b012fec609080"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-295-2026",
+   "path": "local/judet/galati/2026/295",
+   "short": "HCJ Galați nr. 295/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 295/2026 pentru anul 2026 Inițiatori: Dl",
+   "url": "https://cjgalati.ro/hotararea-nr-295-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot295-291026.pdf",
+     "sha256": "f0f8860a2298f1a95f9bf1cabaa98ace02fd573fed99013efb64b2f9071c97f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-296-2026",
+   "path": "local/judet/galati/2026/296",
+   "short": "HCJ Galați nr. 296/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 296/2026 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană ale Consiliului Județean Galați și al Comisiei de specialitate nr. 4 pentru asistență și protecție socială, învățământ, sănătate, cultură, activități științifice, sportive și de agrement; Având în vedere prevederile art. 173 alin. (1) lit. d și e, alin. (5), lit. a, d, e, și alin (7), lit",
+   "url": "https://cjgalati.ro/hotararea-nr-296-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot296-291026.pdf",
+     "sha256": "1ef61bd00c8bb7405b1ed9d6edd1e14ffabc6a383877864452b891b304be8ce7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-297-2026",
+   "path": "local/judet/galati/2026/297",
+   "short": "HCJ Galați nr. 297/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 297/2026 pentru promovarea programelor integrate de dezvoltare partenerială locală, județeană, regională și europeană ale Consiliului Județean Galați și al Comisiei de specialitate nr. 4 pentru asistență și protecție socială, învățământ, sănătate, cultură, activități științifice, sportive și de agrement; Având în vedere prevederile art. 173 alin. (1) lit. d și e, alin. (5), lit. a, d, e, și alin (7) lit. a",
+   "url": "https://cjgalati.ro/hotararea-nr-297-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot297-291026.pdf",
+     "sha256": "77c707624f61d804d1e114b290f8f6fb8bc5da58e10e031e15fbf984a513105b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-298-2026",
+   "path": "local/judet/galati/2026/298",
+   "short": "HCJ Galați nr. 298/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 298/2026 privind aprobarea proiectului „Inimi Sănătoase-Comunități Puternice”, a cheltuielilor legate de proiect, precum și a acordului de parteneriat Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-298-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot298-291026.pdf",
+     "sha256": "9da1ff85efbd29d28f67ac35139ef1aafa6f0f85076b9d88ab553e32fbfef481"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-299-2026",
+   "path": "local/judet/galati/2026/299",
+   "short": "HCJ Galați nr. 299/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 299/2026 pentru asistență și protecție socială, învățământ, sănătate, cultură, activități științifice, sportive și de agrement și al Comisiei de specialitate nr. 5 juridică, pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională ale Consiliului Județean Galați; Având în vedere prevederile art. 173 alin. (1) lit. c), e) și f), alin. (5)",
+   "url": "https://cjgalati.ro/hotararea-nr-299-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot299-291026.pdf",
+     "sha256": "511bd473203eb546afe0ef89d39baf398d0449be17e64898c9e2719c89e9ed63"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-300-2026",
+   "path": "local/judet/galati/2026/300",
+   "short": "HCJ Galați nr. 300/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 300/2026 pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională; Având în vedere prevederile art. 173, alin. (1), lit. d) și e), alin. (5) lit. a) și b) și alin. (7) lit. a) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare; În temeiul art. 182 alin. (1), art. 196 a",
+   "url": "https://cjgalati.ro/hotararea-nr-300-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot300-291026.pdf",
+     "sha256": "0dc4fe97338d4cda5285a3b19945bf44dc12b8a7c365b2e8f0424e4d49303091"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-301-2026",
+   "path": "local/judet/galati/2026/301",
+   "short": "HCJ Galați nr. 301/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 301/2026 pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională; Având în vedere prevederile art. 173, alin. (1), lit. d) și e), alin. (5) lit. a) și q) și alin. (7) lit. a) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare; În temeiul art. 182 alin. (1), art. 196 a",
+   "url": "https://cjgalati.ro/hotararea-nr-301-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot301-291026.pdf",
+     "sha256": "7db7607dfd844b264385e2ad6df5e16ba507d12126f171c5781591d9aaebff3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-302-2026",
+   "path": "local/judet/galati/2026/302",
+   "short": "HCJ Galați nr. 302/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 302/2026 pentru asistență și protecție socială, învățământ, sănătate, cultură, activități științifice, sportive și de agrement și al Comisiei de specialitate nr. 5 juridică, pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională ale Consiliului Județean Galați; Având în vedere prevederile art. 173 alin. (1) lit. b), d) și e), alin. (3)",
+   "url": "https://cjgalati.ro/hotararea-nr-302-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot302-291026.pdf",
+     "sha256": "bfa0120c31d9ef9ae36758ec81fdd13c6e5eb5b37cbd5c4d6e2aa6e2bbf5212e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-303-2026",
+   "path": "local/judet/galati/2026/303",
+   "short": "HCJ Galați nr. 303/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 303/2026 pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională; Având în vedere prevederile art. 173, alin. (1), lit. d) și e), alin. (5) lit. c) și alin. (7) lit. a) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare; În temeiul art. 182 alin. (1), art. 196 alin. (",
+   "url": "https://cjgalati.ro/hotararea-nr-303-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot303-291026.pdf",
+     "sha256": "8f92ce0d4c103d3bfb6d5b36c1428198654600549ab25a3177cefac650608474"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-304-2026",
+   "path": "local/judet/galati/2026/304",
+   "short": "HCJ Galați nr. 304/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 304/2026 pentru administrație publică locală, de respectarea drepturilor și libertăților cetățenești, de cooperare interinstituțională; Având în vedere prevederile art. 173, alin. (1), lit. d) și e), alin. (5) lit. a) și c) și alin. (7) lit. a) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare; În temeiul art. 182 alin. (1), art. 196 a",
+   "url": "https://cjgalati.ro/hotararea-nr-304-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot304-291026.pdf",
+     "sha256": "84fa88393623f90602c579f54bbff2494d2083fe6217123316f4bfe1274198dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-305-2026",
+   "path": "local/judet/galati/2026/305",
+   "short": "HCJ Galați nr. 305/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 305/2026 privind aprobarea proiectului, a cheltuielilor legate de proiect, precum și a acordului de parteneriat pentru realizarea obiectivului „Extindere și modernizare variantă ocolitoare a Municipiului Galați” etapa II de implementare, în cadrul Programului Regional Sud-Est 2021-2027 Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-305-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot305-291026.pdf",
+     "sha256": "8c0a0b662e2b9e248f88761b37b212019d7f0653812acdc8fdc492dc55441610"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-306-2026",
+   "path": "local/judet/galati/2026/306",
+   "short": "HCJ Galați nr. 306/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 306/2026",
+   "url": "https://cjgalati.ro/hotararea-nr-306-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot306-291026.pdf",
+     "sha256": "ff90f36c96e8df3d7763a5b59a62da7362780764c33f5a21faa62824d3831835"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-307-2026",
+   "path": "local/judet/galati/2026/307",
+   "short": "HCJ Galați nr. 307/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 307/2026 pentru anul 2027 Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-307-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot307-291026.pdf",
+     "sha256": "5890d953aaded6743cc3f3daf8e77b52c60de04b9b4baab07d8db10c1e8abcef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-308-2026",
+   "path": "local/judet/galati/2026/308",
+   "short": "HCJ Galați nr. 308/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 308/2026",
+   "url": "https://cjgalati.ro/hotararea-nr-308-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot308-291026.pdf",
+     "sha256": "8e6ab49c969abcf957433118d9d8e03fbfcd402e0670df387cf237317d586296"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-309-2026",
+   "path": "local/judet/galati/2026/309",
+   "short": "HCJ Galați nr. 309/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 309/2026 pentru investiția “Modernizare DJ 252 G între km 0+000 – 2+400 și realizare trei platforme de verificare mase și gabarit amplasate pe drumurile județene DJ 254, DJ 251 M și DJ 255“ Inițiator: Președintele Consiliului Județean Galați, dl",
+   "url": "https://cjgalati.ro/hotararea-nr-309-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot309-291026.pdf",
+     "sha256": "fd01aeb039e4a2420ca5663e61d1ee953fec759e20b68582235032c98db70735"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-310-2026",
+   "path": "local/judet/galati/2026/310",
+   "short": "HCJ Galați nr. 310/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 310/2026 privind obiectivul de investiție \"Creșterea eficienței energetice a imobilului Clădirea C4 - Corp B Pavilion Boli Cronice – Parter Spitalul Clinic Județean de Urgență Sf",
+   "url": "https://cjgalati.ro/hotararea-nr-310-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot310-291026.pdf",
+     "sha256": "001407e70843beb04a3f93167118c4889cfedd70937df0e13bb4b87d4e7f59be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-311-2026",
+   "path": "local/judet/galati/2026/311",
+   "short": "HCJ Galați nr. 311/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 311/2026 privind obiectivul de investiție \"Creșterea eficienței energetice a imobilului Clădirea C5 - Corp B Pavilion Interne – Parter Spitalul Clinic Județean de Urgență Sf",
+   "url": "https://cjgalati.ro/hotararea-nr-311-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot311-291026.pdf",
+     "sha256": "762cfba889b34370dec52eb48bcb47a02169ed532acece9faa8745033aff7e69"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-312-2026",
+   "path": "local/judet/galati/2026/312",
+   "short": "HCJ Galați nr. 312/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 312/2026 privind obiectivul de investiție \"Creșterea eficienței energetice a imobilului Clădirea C12 - Corp C Pavilion Pediatrie – Parter Spitalul Clinic Județean de Urgență Sf",
+   "url": "https://cjgalati.ro/hotararea-nr-312-2/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot312-291026.pdf",
+     "sha256": "fed000902b524cdb2bc225ff7643acf6df493e9c03d89e2cd40b7035dc8e15bb"
     }
    ]
   },
@@ -74,6 +1064,21 @@
      "units": 1,
      "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot315-291026.pdf",
      "sha256": "1e2c736c042f38a434bf550ab987189572131022520461ba30eb60656cec12f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-316-2026",
+   "path": "local/judet/galati/2026/316",
+   "short": "HCJ Galați nr. 316/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 316/2026",
+   "url": "https://cjgalati.ro/hotararea-nr-316-3/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/10/hot316-291026.pdf",
+     "sha256": "420f41a405d45294cab908b1ee4c5c14650b2b48c919ccca6bc2a60d52555b47"
     }
    ]
   },

@@ -3,6 +3,81 @@
  "shard": "ue/2022",
  "acts": [
   {
+   "slug": "ue-directiva-1326-2022",
+   "path": "ue/directiva/2022/1326",
+   "short": "Directiva delegată (UE) 2022/1326",
+   "title": "Directiva delegată (UE) 2022/1326 a Comisiei din 18 martie 2022 de modificare a anexei la Decizia-cadru 2004/757/JAI a Consiliului în ceea ce privește includerea unor substanțe psihoactive noi în definiția termenului „drog”",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L1326",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2d439e4c-0ee1-11ed-8fa0-01aa75ed71a1.0020.02/DOC_1",
+     "sha256": "a5941ee4144b319ff02dc64bce3029f2f21a4e78cd2c4697a28189dced8e615a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1631-2022",
+   "path": "ue/directiva/2022/1631",
+   "short": "Directiva delegată (UE) 2022/1631",
+   "title": "Directiva delegată (UE) 2022/1631 a Comisiei din 12 mai 2022 de modificare, în scopul adaptării la progresele științifice și tehnice, a anexei IV la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru utilizarea plumbului în cablurile și firele superconductoare din oxid de bismut, stronțiu, calciu și cupru și în conexiunile lor electrice (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L1631",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f44a2e69-3a45-11ed-9c68-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8635fdda78d3c7f1dc6795ede0916def1000878d57d58af728c3fa26c0cc28e1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1632-2022",
+   "path": "ue/directiva/2022/1632",
+   "short": "Directiva delegată (UE) 2022/1632",
+   "title": "Directiva delegată (UE) 2022/1632 a Comisiei din 12 mai 2022 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei IV la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru utilizarea plumbului în anumite dispozitive de imagistică prin rezonanță magnetică (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L1632",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/55e5d25b-3a46-11ed-9c68-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e00114748d7d11dfeaacc157434e4149b827149ae539e6e3339dfb4c65499e6a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1647-2022",
+   "path": "ue/directiva/2022/1647",
+   "short": "Directiva de punere în aplicare (UE) 2022/1647",
+   "title": "Directiva de punere în aplicare (UE) 2022/1647 a Comisiei din 23 septembrie 2022 de modificare a Directivei 2003/90/CE în ceea ce privește o derogare pentru soiurile ecologice de specii de plante agricole adecvate pentru producția ecologică",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L1647",
+   "versions": [
+    {
+     "from": "2022-10-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5d49c80a-3d39-11ed-9c68-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0eaa0deddb2064e8027dcea6f84c13a86eb4a343fae561b43552d58db1ac450a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1648-2022",
+   "path": "ue/directiva/2022/1648",
+   "short": "Directiva de punere în aplicare (UE) 2022/1648",
+   "title": "Directiva de punere în aplicare (UE) 2022/1648 a Comisiei din 23 septembrie 2022 de modificare a Directivei 2003/91/CE în ceea ce privește o derogare pentru soiurile ecologice de specii de legume adecvate pentru producția ecologică",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L1648",
+   "versions": [
+    {
+     "from": "2022-10-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/059e6ecd-3d3a-11ed-9c68-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "84d8a05ab6f1678c724ae8d8f42e98554c45b55b08062cbaf030df8248eb447d"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-1999-2022",
    "path": "ue/directiva/2022/1999",
    "short": "Directiva (UE) 2022/1999",
@@ -29,6 +104,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/97ee19ca-543f-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "27f22b676ccc8f4dd81001825b76a10cc5a3464d757355787b68d56ddeb69d90"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2100-2022",
+   "path": "ue/directiva/2022/2100",
+   "short": "Directiva delegată (UE) 2022/2100",
+   "title": "Directiva delegată (UE) 2022/2100 a Comisiei din 29 iunie 2022 de modificare a Directivei 2014/40/UE a Parlamentului European și a Consiliului în ceea ce privește retragerea anumitor exceptări care vizează produsele din tutun încălzit (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L2100",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/80149587-5b4f-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "21325181da0201ae20e9e9d461a1e386d684067798076078873138d1b99438d7"
     }
    ]
   },
@@ -89,6 +179,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/43bf368f-75d2-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "f504fd20069251f821aad40b7a68a3504633fc9e7444d78e05ff68bfc299c077"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2407-2022",
+   "path": "ue/directiva/2022/2407",
+   "short": "Directiva delegată (UE) 2022/2407",
+   "title": "Directiva delegată (UE) 2022/2407 a Comisiei din 20 septembrie 2022 de modificare a anexelor la Directiva 2008/68/CE a Parlamentului European și a Consiliului pentru a ține seama de progresul științific și tehnic (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L2407",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/94e9ced0-776b-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "383d7eb060dacd92a9912f3c0f5c87de7fe634a7025ce8f46afd23a39a7ce98e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2438-2022",
+   "path": "ue/directiva/2022/2438",
+   "short": "Directiva de punere în aplicare (UE) 2022/2438",
+   "title": "Directiva de punere în aplicare (UE) 2022/2438 a Comisiei din 12 decembrie 2022 de modificare a Directivei 93/49/CEE și a Directivei de punere în aplicare 2014/98/UE în ceea ce privește organismele dăunătoare reglementate care nu sunt de carantină pentru Uniune de pe materialul de înmulțire a plantelor ornamentale, materialul de înmulțire a plantelor fructifere și plantele fructifere destinate producției de fructe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L2438",
+   "versions": [
+    {
+     "from": "2023-01-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3ca1014c-7abf-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4bd7b1d3240672071d4610ded97265aa26762e55755311d955b0180a391973b7"
     }
    ]
   },
@@ -179,6 +299,186 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/6d0ea46c-8264-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "1c2064e4cd1995e3f84cba3322818bfa7dfd0307eb3039ec0abc9af7b5879313"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-274-2022",
+   "path": "ue/directiva/2022/274",
+   "short": "Directiva delegată (UE) 2022/274",
+   "title": "Directiva delegată (UE) 2022/274 a Comisiei din 13 decembrie 2021 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru utilizarea mercurului în lămpi fluorescente cu catod rece și în lămpi fluorescente cu electrod extern pentru uz special (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0274",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e3c3b06c-9514-11ec-b4e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2e11ae9c03dd94d0df353a4e292930ccecfb7336d6a2a155764a5089c80d069d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-275-2022",
+   "path": "ue/directiva/2022/275",
+   "short": "Directiva delegată (UE) 2022/275",
+   "title": "Directiva delegată (UE) 2022/275 a Comisiei din 13 decembrie 2021 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru utilizarea mercurului în alte lămpi cu (vapori de) sodiu de înaltă presiune destinate iluminatului general (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0275",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0c1b72ae-9515-11ec-b4e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c6020f1333da76e76a0b05fd281f31521aa7223f05154459e35740a59820212c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-276-2022",
+   "path": "ue/directiva/2022/276",
+   "short": "Directiva delegată (UE) 2022/276",
+   "title": "Directiva delegată (UE) 2022/276 a Comisiei din 13 decembrie 2021 de modificare, în scopul adaptării la progresul tehnic și științific, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru utilizarea mercurului în lămpi fluorescente cu un singur soclu (compacte) destinate iluminatului general (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0276",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/369f63bf-9515-11ec-b4e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2b2bd50b4e22c9a0aa5b654c78da119210f996db1ab1536363ae474090bc2909"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-277-2022",
+   "path": "ue/directiva/2022/277",
+   "short": "Directiva delegată (UE) 2022/277",
+   "title": "Directiva delegată (UE) 2022/277 a Comisiei din 13 decembrie 2021 de modificare, în scopul adaptării la progresul tehnic și științific, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru utilizarea mercurului în lămpi fluorescente cu un singur soclu (compacte) destinate iluminatului general < 30 W, cu o durată de viață mai mare sau egală cu 20000 de ore (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0277",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/62405d92-9515-11ec-b4e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "44318de2f8cbf0a1d01ec24d494cfb997eb551dff10d2898bc1a7df37acd2d8a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-278-2022",
+   "path": "ue/directiva/2022/278",
+   "short": "Directiva delegată (UE) 2022/278",
+   "title": "Directiva delegată (UE) 2022/278 a Comisiei din 13 decembrie 2021 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru utilizarea mercurului în lămpile cu halogenuri metalice (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0278",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8e78b563-9515-11ec-b4e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "fcfba77778952d7336def42fdf4f1795952e26a9ddc96506ee7d884b727740af"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-279-2022",
+   "path": "ue/directiva/2022/279",
+   "short": "Directiva delegată (UE) 2022/279",
+   "title": "Directiva delegată (UE) 2022/279 a Comisiei din 13 decembrie 2021 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru utilizarea mercurului în alte lămpi cu descărcare pentru uz special (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0279",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b6bcc895-9515-11ec-b4e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0fe6f8db365d870b30fb2c6bde52f7517a6c4d77559e71f26ed162617075e99c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-280-2022",
+   "path": "ue/directiva/2022/280",
+   "short": "Directiva delegată (UE) 2022/280",
+   "title": "Directiva delegată (UE) 2022/280 a Comisiei din 13 decembrie 2021 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru utilizarea mercurului în alte lămpi cu descărcare în gaze la joasă presiune (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0280",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e0750537-9515-11ec-b4e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9c98d7fd2b9ea9f0095aaeab87638990d7c55f93863608b3ae081703b3f0136e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-281-2022",
+   "path": "ue/directiva/2022/281",
+   "short": "Directiva delegată (UE) 2022/281",
+   "title": "Directiva delegată (UE) 2022/281 a Comisiei din 13 decembrie 2021 de modificare, în scopul adaptării la progresul tehnic și științific, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru utilizarea mercurului în lămpi fluorescente cu un singur soclu (compacte) de uz special (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0281",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/07a1b4f8-9516-11ec-b4e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3ec685f2967d7d800352508e6fed2b7c3ff9a3d25e0b0a8d7dd6283b65ab5551"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-282-2022",
+   "path": "ue/directiva/2022/282",
+   "short": "Directiva delegată (UE) 2022/282",
+   "title": "Directiva delegată (UE) 2022/282 a Comisiei din 13 decembrie 2021 de modificare, în scopul adaptării la progresul tehnic și științific, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru utilizarea mercurului în lămpi neliniare cu trifosfor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0282",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/56d065d9-9516-11ec-b4e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "156bbebf55af6c831229e2013a3cdf2326ba3216ce308b8ff0463ce478b4c1fb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-283-2022",
+   "path": "ue/directiva/2022/283",
+   "short": "Directiva delegată (UE) 2022/283",
+   "title": "Directiva delegată (UE) 2022/283 a Comisiei din 13 decembrie 2021 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru utilizarea mercurului în lămpile cu (vapori de) sodiu de înaltă presiune cu un indice ameliorat de redare a culorii destinate iluminatului general (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0283",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7f51a91a-9516-11ec-b4e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6cadcabeb94bd5da215f6df1299f436959114fa4eb259964167e11c9a7ee85cc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-284-2022",
+   "path": "ue/directiva/2022/284",
+   "short": "Directiva delegată (UE) 2022/284",
+   "title": "Directiva delegată (UE) 2022/284 a Comisiei din 16 decembrie 2021 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru utilizarea mercurului în lămpi fluorescente liniare cu soclu dublu destinate iluminatului general (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0284",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a7cd952b-9516-11ec-b4e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "90522e4229c09374382a6ee3545b6c898d9298f6b57a69392ad3d547ab296cae"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-287-2022",
+   "path": "ue/directiva/2022/287",
+   "short": "Directiva delegată (UE) 2022/287",
+   "title": "Directiva delegată (UE) 2022/287 a Comisiei din 13 decembrie 2021 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru utilizarea mercurului în lămpi fluorescente pentru alt uz de iluminat general și pentru uz special (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0287",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/246c337e-9517-11ec-b4e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7cfd2300f249c22f2d789423aa21072143b90bff8eb6ea85d46d0b4a8c9a2c7e"
     }
    ]
   },
@@ -288,6 +588,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-905-2022",
+   "path": "ue/directiva/2022/905",
+   "short": "Directiva de punere în aplicare (UE) 2022/905",
+   "title": "Directiva de punere în aplicare (UE) 2022/905 a Comisiei din 9 iunie 2022 de modificare a Directivelor 2003/90/CE și 2003/91/CE în ceea ce privește protocoalele de examinare a anumitor soiuri de specii de plante agricole și de specii de legume (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0905",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b9cfba7d-e857-11ec-a534-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6b4770fc9229ca5fb5145cb4c9f1833d8e1e2b7c52c7868718a57d5685f31adc"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-993-2022",
    "path": "ue/directiva/2022/993",
    "short": "Directiva (UE) 2022/993",
@@ -314,6 +629,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/022b27a4-f6a2-11ec-b976-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "8db70594cef19cd7c1f6c4479aef5476e4e8de8ccc9253cea6bf54fb9cd92a1c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1011-2022",
+   "path": "ue/regulament/2022/1011",
+   "short": "Regulamentul delegat CELEX 32022R1011",
+   "title": "Regulamentul delegat (UE) 2022/1011 al Comisiei din 10 martie 2022 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează modul de determinare a expunerilor indirecte față de un client care provin din contracte derivate și contracte derivate de credit, atunci când contractele nu sunt încheiate direct cu respectivul client, dar instrumentul de datorie sau de capital suport a fost emis de clientul respectiv (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1011",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/29d53a2d-f6a1-11ec-b976-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f951a837f048d62364349a3e12cf50c54a72b6aa84c34e1534582989fdb60bde"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1012-2022",
+   "path": "ue/regulament/2022/1012",
+   "short": "Regulamentul delegat CELEX 32022R1012",
+   "title": "Regulamentul delegat (UE) 2022/1012 al Comisiei din 7 aprilie 2022 de completare a Regulamentului (CE) nr. 561/2006 al Parlamentului European și al Consiliului în ceea ce privește stabilirea de standarde care detaliază nivelul de servicii și de securitate al spațiilor de parcare sigure și securizate și procedurile de certificare a acestora",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1012",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3e03535b-f6a3-11ec-b976-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "d1d7a2e0a1bccace63bc584d3604491b81486ebcf6a04476b5bb5c45131bd910"
     }
    ]
   },
@@ -404,6 +749,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c47ce128-f83b-11ec-b94a-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "c5806e2a69fe67ead1b7dfb7bc1902c62090a426c1f7d4550db422352097b7ef"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1036-2022",
+   "path": "ue/regulament/2022/1036",
+   "short": "Regulamentul delegat CELEX 32022R1036",
+   "title": "Regulamentul delegat (UE) 2022/1036 al Comisiei din 29 iunie 2022 de modificare a Regulamentului (UE) 2020/1429 al Parlamentului European și al Consiliului în ceea ce privește prelungirea perioadei de referință (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1036",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/01c55b2a-f83c-11ec-b94a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "bde9aa4a51a7b368be904ce2a7eb94ff9cca9e474c75a1769e71c56f3d2a839a"
     }
    ]
   },
@@ -513,6 +873,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1159-2022",
+   "path": "ue/regulament/2022/1159",
+   "short": "Regulamentul delegat CELEX 32022R1159",
+   "title": "Regulamentul delegat (UE) 2022/1159 al Comisiei din 11 martie 2022 de completare a Regulamentului (UE) 2019/2033 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru publicarea de către firmele de investiții de informații privind politica de investiții (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1159",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6b5bfc09-fcf5-11ec-b94a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1c29857f903438d435eab56e8b29dd3a6b054e9e9e99277a8aa5c9a3229d06c0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1172-2022",
+   "path": "ue/regulament/2022/1172",
+   "short": "Regulamentul delegat CELEX 32022R1172",
+   "title": "Regulamentul delegat (UE) 2022/1172 al Comisiei din 4 mai 2022 de completare a Regulamentului (UE) 2021/2116 al Parlamentului European și al Consiliului în ceea ce privește sistemul integrat de administrare și control din cadrul politicii agricole comune și aplicarea și calcularea sancțiunilor administrative aferente condiționalității",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1172",
+   "versions": [
+    {
+     "from": "2022-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/81ef3f63-fe58-11ec-b94a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6e6b8ef05057e494c35f8041c41126c2008ee2616adf0f2606fb353173c5fd1a"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1176-2022",
    "path": "ue/regulament/2022/1176",
    "short": "Regulamentul (UE) 2022/1176",
@@ -524,6 +914,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/171df8bf-fe58-11ec-b94a-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "91d2cd2152dab7c7e8f70b05fdb2998ab80355899b4fe9f618757589c4bbcff3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1180-2022",
+   "path": "ue/regulament/2022/1180",
+   "short": "Regulamentul delegat CELEX 32022R1180",
+   "title": "Regulamentul delegat (UE) 2022/1180 al Comisiei din 11 ianuarie 2022 de rectificare a Directivei 2009/45/CE a Parlamentului European și a Consiliului privind normele și standardele de siguranță pentru navele de pasageri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1180",
+   "versions": [
+    {
+     "from": "2022-07-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dbb51606-00b2-11ed-b94a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f2b3e2c830b9c8ec94452494c4501e098712cfe970147019c1d4055e0774e5d2"
     }
    ]
   },
@@ -584,6 +989,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/d2ef7931-0336-11ed-acce-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "2d9337c918c73546ad7eda701125985859240a72c375f81a4af8b996c27d88a8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1209-2022",
+   "path": "ue/regulament/2022/1209",
+   "short": "Regulamentul delegat CELEX 32022R1209",
+   "title": "Regulamentul delegat (UE) 2022/1209 al Comisiei din 5 mai 2022 de completare a Regulamentului (UE) 2018/858 al Parlamentului European și al Consiliului în ceea ce privește procedura de impunere a amenzilor administrative și metodele de calcul și de colectare a acestora (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1209",
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fd005d23-0336-11ed-acce-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "30c282c76bf051f1b32e852ce35feb022c941dca3f9c460b6b8de629ec5c894f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1214-2022",
+   "path": "ue/regulament/2022/1214",
+   "short": "Regulamentul delegat CELEX 32022R1214",
+   "title": "Regulamentul delegat (UE) 2022/1214 al Comisiei din 9 martie 2022 de modificare a Regulamentului delegat (UE) 2021/2139 în ceea ce privește activitățile economice din anumite sectoare energetice și a Regulamentului delegat (UE) 2021/2178 în ceea ce privește publicarea de informații specifice referitoare la activitățile economice respective (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1214",
+   "versions": [
+    {
+     "from": "2022-08-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/af1c56d8-0409-11ed-acce-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "37948277d70d164486e2819def4c0aacceb617c2b349ac421ecd80d3a4e48bc6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1225-2022",
+   "path": "ue/regulament/2022/1225",
+   "short": "Regulamentul delegat CELEX 32022R1225",
+   "title": "Regulamentul delegat (UE) 2022/1225 al Comisiei din 14 iulie 2022 privind măsuri excepționale temporare de derogare de la Regulamentul (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în vederea abordării perturbării pieței în sectorul fructelor și legumelor cauzată de invadarea Ucrainei de către Rusia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1225",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a25614f5-0664-11ed-acce-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "5e264d94e7ccde05d4dceae3302c360834d1673cc94b080d48354ffe4cba1070"
     }
    ]
   },
@@ -678,6 +1128,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1288-2022",
+   "path": "ue/regulament/2022/1288",
+   "short": "Regulamentul delegat CELEX 32022R1288",
+   "title": "Regulamentul delegat (UE) 2022/1288 al Comisiei din 6 aprilie 2022 de completare a Regulamentului (UE) 2019/2088 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează detaliile referitoare la conținutul și prezentarea informațiilor în legătură cu principiul de „a nu aduce prejudicii semnificative”, care precizează conținutul, metodologia și prezentarea informațiilor în legătură cu indicatorii de durabilitate și efectele negative asupra durabilității, precum și conținutul și prezentarea informațiilor în legătură cu promovarea caracteristicilor de mediu sau sociale și a obiectivelor de investiții durabile în documentele precontractuale, pe site-urile web și în rapoartele periodice (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1288",
+   "versions": [
+    {
+     "from": "2022-08-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/488221b0-0bb4-11ed-b11c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "34e0f07ff607fa6e3761f1b080789b7941ad75cb265a2fe9c7cd476186c8e15a"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1290-2022",
    "path": "ue/regulament/2022/1290",
    "short": "Regulamentul (UE) 2022/1290",
@@ -689,6 +1154,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/cf7b1a6f-0bb9-11ed-b11c-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "036755b3942606f513cce7f77b1bcb52ab409ba6a8907e230340fdfcc36bab18"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1299-2022",
+   "path": "ue/regulament/2022/1299",
+   "short": "Regulamentul delegat CELEX 32022R1299",
+   "title": "Regulamentul delegat (UE) 2022/1299 al Comisiei din 24 martie 2022 de completare a Directivei 2014/65/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare care precizează conținutul mecanismelor de control al administrării pozițiilor de către locurile de tranzacționare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1299",
+   "versions": [
+    {
+     "from": "2022-08-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/643be86b-0c83-11ed-b11c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "cb242f79e3ea2d2a77bdc8f3b6ffd4626db60b8a39aaec03005312b2209cdda5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1301-2022",
+   "path": "ue/regulament/2022/1301",
+   "short": "Regulamentul delegat CELEX 32022R1301",
+   "title": "Regulamentul delegat (UE) 2022/1301 al Comisiei din 31 martie 2022 de modificare a standardelor tehnice de reglementare stabilite în Regulamentul delegat (UE) 2020/1226 în ceea ce privește informațiile care trebuie furnizate în conformitate cu cerințele privind notificarea STS pentru securitizările sintetice înscrise în bilanț",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1301",
+   "versions": [
+    {
+     "from": "2022-08-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7608c6d2-0c8a-11ed-b11c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b9c73d2611ac016e6ce21db7a90feb8599a864cd9269f8dcb915087ccc416e40"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1302-2022",
+   "path": "ue/regulament/2022/1302",
+   "short": "Regulamentul delegat CELEX 32022R1302",
+   "title": "Regulamentul delegat (UE) 2022/1302 al Comisiei din 20 aprilie 2022 de completare a Directivei 2014/65/UE a Parlamentului European și a Consiliului cu privire la standardele tehnice de reglementare pentru aplicarea de limite ale pozițiilor în cazul instrumentelor financiare derivate pe mărfuri și la procedurile de solicitare de derogări de la limitele pozițiilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1302",
+   "versions": [
+    {
+     "from": "2022-08-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/90018897-0c80-11ed-b11c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "713d8daf17c58d095c7a73a3b0071260dbcf08a063b36c01615376c74316704e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1303-2022",
+   "path": "ue/regulament/2022/1303",
+   "short": "Regulamentul delegat CELEX 32022R1303",
+   "title": "Regulamentul delegat (UE) 2022/1303 al Comisiei din 25 aprilie 2022 de modificare a Regulamentului (UE) 2019/787 al Parlamentului European și al Consiliului în ceea ce privește definiția și cerințele pentru alcoolul etilic de origine agricolă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1303",
+   "versions": [
+    {
+     "from": "2022-08-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ce36de29-0c81-11ed-b11c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e092ebc414f02ad745f29c543d77bebbb93a65a9a206958d8731a3e8a464013a"
     }
    ]
   },
@@ -794,6 +1319,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/b5653f27-8301-11ec-8c40-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "ce5ed7d003642b37cd00e0e3df679a804758724971dd1f4591294ae175568794"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1357-2022",
+   "path": "ue/regulament/2022/1357",
+   "short": "Regulamentul delegat CELEX 32022R1357",
+   "title": "Regulamentul delegat (UE) 2022/1357 al Comisiei din 25 mai 2022 de modificare a Regulamentului (UE) 2019/1241 al Parlamentului European și al Consiliului în ceea ce privește scoicile Saint-Jacques (Pecten maximus) din Canalul Mânecii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1357",
+   "versions": [
+    {
+     "from": "2022-08-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/046938ca-145a-11ed-8fa0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e1670396ddcefef37656a8d24ab9639399aa30d0d252a8d224468a9b6d943be4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1358-2022",
+   "path": "ue/regulament/2022/1358",
+   "short": "Regulamentul delegat CELEX 32022R1358",
+   "title": "Regulamentul delegat (UE) 2022/1358 al Comisiei din 2 iunie 2022 de modificare a Regulamentului (UE) nr. 748/2012 în ceea ce privește punerea în aplicare a unor cerințe mai proporționale pentru aeronavele utilizate în aviația sportivă și de agrement",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1358",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9dd4ecb8-145b-11ed-8fa0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4f20e121abaed4792cd10739809e94fd06c68468392fdfe94918b33ba85db4ce"
     }
    ]
   },
@@ -963,6 +1518,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1450-2022",
+   "path": "ue/regulament/2022/1450",
+   "short": "Regulamentul delegat CELEX 32022R1450",
+   "title": "Regulamentul delegat (UE) 2022/1450 al Comisiei din 27 iunie 2022 de completare a Regulamentului (UE) 2018/848 al Parlamentului European și al Consiliului în ceea ce privește utilizarea hranei proteice neecologice la producția de animale ecologice ca urmare a invadării Ucrainei de către Rusia (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1450",
+   "versions": [
+    {
+     "from": "2022-09-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4355d5f4-2a5c-11ed-975d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f3138798216f77398a29c86e68932ada66666f7420f99c4526f61885ac387512"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1455-2022",
+   "path": "ue/regulament/2022/1455",
+   "short": "Regulamentul delegat CELEX 32022R1455",
+   "title": "Regulamentul delegat (UE) 2022/1455 al Comisiei din 11 aprilie 2022 de completare a Regulamentului (UE) 2019/2033 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru cerința de fonduri proprii pentru firmele de investiții, calculată pe baza cheltuielilor generale fixe (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1455",
+   "versions": [
+    {
+     "from": "2022-09-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c22b127f-2cec-11ed-975d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a008437f3f46a6c7e9787645e9358c459e91b5711ce09e61ea8f656650d5ab45"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1465-2022",
    "path": "ue/regulament/2022/1465",
    "short": "Regulamentul (UE) 2022/1465",
@@ -1023,6 +1608,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-1518-2022",
+   "path": "ue/regulament/2022/1518",
+   "short": "Regulamentul delegat CELEX 32022R1518",
+   "title": "Regulamentul delegat (UE) 2022/1518 al Comisiei din 29 martie 2022 de modificare a Regulamentului (CE) nr. 273/2004 al Parlamentului European și al Consiliului și a Regulamentului (CE) nr. 111/2005 al Consiliului în ceea ce privește includerea anumitor precursori ai drogurilor în lista substanțelor clasificate (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1518",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fff0db34-32fe-11ed-975d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "deda75e97f9c4ad6bd5052de21b4791f3eedce3e61155f4839fc901ff9ac300d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1519-2022",
+   "path": "ue/regulament/2022/1519",
+   "short": "Regulamentul delegat CELEX 32022R1519",
+   "title": "Regulamentul delegat (UE) 2022/1519 al Comisiei din 5 mai 2022 de modificare a Regulamentului (UE) 2019/1009 al Parlamentului European și al Consiliului în ceea ce privește cerințele aplicabile produselor fertilizante UE care conțin compuși inhibitori și prelucrarea ulterioară a digestatului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1519",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4d2a412f-32fe-11ed-975d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "29baffe9ce0da281bf300fb6e68db7fdb15ce899b6ddacd770dd16c185ec26e4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1528-2022",
+   "path": "ue/regulament/2022/1528",
+   "short": "Regulamentul delegat CELEX 32022R1528",
+   "title": "Regulamentul delegat (UE) 2022/1528 al Comisiei din 4 iulie 2022 de completare a Regulamentului (UE) 2021/1077 al Parlamentului European și al Consiliului cu dispoziții privind instituirea unui cadru de monitorizare și evaluare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1528",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2fec7e34-34bb-11ed-8b77-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "5b05f965d66b9264db8b11e690f888f3ce2036556ea2d28422575dc442173816"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1531-2022",
    "path": "ue/regulament/2022/1531",
    "short": "Regulamentul (UE) 2022/1531",
@@ -1034,6 +1664,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c9761af1-355b-11ed-9c68-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "3367c42ce505a101e84811e9c619de9ccf16885d89e1ce03bba8b3889147461e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1615-2022",
+   "path": "ue/regulament/2022/1615",
+   "short": "Regulamentul delegat CELEX 32022R1615",
+   "title": "Regulamentul delegat (UE) 2022/1615 al Comisiei din 22 aprilie 2022 de rectificare a versiunii în limba suedeză a Regulamentului delegat (UE) 2021/630 de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului în ceea ce privește anumite categorii de bunuri exceptate de la efectuarea controalelor oficiale la posturile de control la frontieră (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1615",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f16ffcf4-3884-11ed-9c68-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ce67a38606e85bab9f6417d42535655649e5dbdd5f2f39bf5b4b42bb274427fc"
     }
    ]
   },
@@ -1068,6 +1713,126 @@
    ]
   },
   {
+   "slug": "ue-regulament-1622-2022",
+   "path": "ue/regulament/2022/1622",
+   "short": "Regulamentul delegat CELEX 32022R1622",
+   "title": "Regulamentul delegat (UE) 2022/1622 al Comisiei din 17 mai 2022 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pe piețele emergente și în economiile avansate (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1622",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dcfc470f-3949-11ed-9c68-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7b303f4dbadb6958ab1acfb8a7ffd8f24939ca88dcb21386d8898684215c0c9a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1623-2022",
+   "path": "ue/regulament/2022/1623",
+   "short": "Regulamentul delegat CELEX 32022R1623",
+   "title": "Regulamentul delegat (UE) 2022/1623 al Comisiei din 14 iulie 2022 de derogare de la Regulamentul delegat (UE) 2017/891, pentru anul 2022, în ceea ce privește valoarea producției comercializate, strategia națională și recuperarea asistenței financiare din partea Uniunii pentru angajamentele multianuale în sectorul fructelor și legumelor ca urmare a crizei cauzate de invadarea Ucrainei de către Rusia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1623",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4c3fdbf0-394a-11ed-9c68-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "61930057a5e55008906f163881dd0f82e1128a7d870f61b9fe54e172a4e6d6ff"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1636-2022",
+   "path": "ue/regulament/2022/1636",
+   "short": "Regulamentul delegat CELEX 32022R1636",
+   "title": "Regulamentul delegat (UE) 2022/1636 al Comisiei din 5 iulie 2022 de completare a Directivei (UE) 2020/262 a Consiliului prin stabilirea structurii și conținutului documentelor schimbate în contextul deplasării de mărfuri accizabile și prin stabilirea unui prag pentru pierderile cauzate de natura mărfurilor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1636",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e17b6bb7-3ae4-11ed-9c68-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4d03416b8cc4a600fef66582b8342d1dd03d35ef6b6dee15a6d43a8dd4a4291e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1644-2022",
+   "path": "ue/regulament/2022/1644",
+   "short": "Regulamentul delegat CELEX 32022R1644",
+   "title": "Regulamentul delegat (UE) 2022/1644 al Comisiei din 7 iulie 2022 de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului cu cerințe specifice pentru efectuarea controalelor oficiale vizând utilizarea substanțelor farmacologic active autorizate ca medicamente de uz veterinar sau ca aditivi furajeri și a substanțelor farmacologic active interzise sau neautorizate și a reziduurilor acestora (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1644",
+   "versions": [
+    {
+     "from": "2022-10-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8d193b33-3d37-11ed-9c68-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c0ec67d9d71d1ff0e8d0d2078940c95cebb2da63123cdf69221c5768a9d1d557"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1645-2022",
+   "path": "ue/regulament/2022/1645",
+   "short": "Regulamentul delegat CELEX 32022R1645",
+   "title": "Regulamentul delegat (UE) 2022/1645 al Comisiei din 14 iulie 2022 de stabilire a normelor de aplicare a Regulamentului (UE) 2018/1139 al Parlamentului European și al Consiliului în ceea ce privește cerințele referitoare la managementul riscurilor în materie de securitate a informațiilor cu impact potențial asupra siguranței aviației impuse organizațiilor care intră sub incidența Regulamentelor (UE) nr. 748/2012 și (UE) nr. 139/2014 ale Comisiei și de modificare a Regulamentelor (UE) nr. 748/2012 și (UE) nr. 139/2014 ale Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1645",
+   "versions": [
+    {
+     "from": "2022-10-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c70ade80-3d36-11ed-9c68-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "d09de088692c2cc6a85b94e5cb0586b7e3febe9be43b034da9e1614059237492"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1666-2022",
+   "path": "ue/regulament/2022/1666",
+   "short": "Regulamentul delegat CELEX 32022R1666",
+   "title": "Regulamentul delegat (UE) 2022/1666 al Comisiei din 13 iunie 2022 de rectificare a versiunii în limba daneză a anexei II la Regulamentului delegat (UE) 2017/653 de completare a Regulamentului (UE) nr. 1286/2014 al Parlamentului European și al Consiliului privind documentele cu informații esențiale referitoare la produsele de investiții individuale structurate și bazate pe asigurări (PRIIP), prin stabilirea unor standarde tehnice de reglementare privind modul de prezentare, conținutul, revizuirea și modificarea documentelor cu informații esențiale, precum și condițiile de îndeplinire a cerinței de a furniza astfel de documente (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1666",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4842ddb1-3fb7-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "fdd8f969e75385f9b3baf565cc18e555f8c0e699412c39b2b54792aaeb974998"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1667-2022",
+   "path": "ue/regulament/2022/1667",
+   "short": "Regulamentul delegat CELEX 32022R1667",
+   "title": "Regulamentul delegat (UE) 2022/1667 al Comisiei din 19 iulie 2022 de rectificare a anumitor versiuni lingvistice ale Regulamentului delegat (UE) 2019/2090 de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului în ceea ce privește cazurile de neconformitate suspectată sau confirmată cu normele Uniunii aplicabile utilizării sau reziduurilor substanțelor farmacologic active autorizate în medicamentele de uz veterinar sau ca aditivi pentru hrana animalelor sau cu normele Uniunii aplicabile utilizării sau reziduurilor substanțelor farmacologic active interzise sau neautorizate (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1667",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9693d8c2-3fb7-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f950f7e084c20fa9dc9dc6e1344d04805582e790ec90f00d8504b91acb9de398"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1671-2022",
+   "path": "ue/regulament/2022/1671",
+   "short": "Regulamentul delegat CELEX 32022R1671",
+   "title": "Regulamentul delegat (UE) 2022/1671 al Comisiei din 9 iunie 2022 de prelungire a perioadei de tranziție menționate la articolul 89 alineatul (1) primul paragraf din Regulamentul (UE) nr. 648/2012 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1671",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e1967fce-4063-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0596c071a6c2ed7fc7fdfa34025fbcfcc17b590521433ef0cf897ac4c6a92d25"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-175-2022",
    "path": "ue/regulament/2022/175",
    "short": "Regulamentul (UE) 2022/175",
@@ -1094,6 +1859,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/679fe00a-444b-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "d7147f9579601cf1135c63d807569154aa9226bc35c9f7512d7878851ee6c133"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1855-2022",
+   "path": "ue/regulament/2022/1855",
+   "short": "Regulamentul delegat CELEX 32022R1855",
+   "title": "Regulamentul delegat (UE) 2022/1855 al Comisiei din 10 iunie 2022 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare în care sunt precizate detaliile minime ale datelor care trebuie raportate registrelor centrale de tranzacții și tipul de rapoarte care trebuie utilizate (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1855",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/97019134-45db-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a369448144eec014665caacab195ee2903ed85bc01a2e126e08d5d9e73d01995"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1856-2022",
+   "path": "ue/regulament/2022/1856",
+   "short": "Regulamentul delegat CELEX 32022R1856",
+   "title": "Regulamentul delegat (UE) 2022/1856 al Comisiei din 10 iunie 2022 de modificare a standardelor tehnice de reglementare stabilite în Regulamentul delegat (UE) nr. 151/2013 prin aducerea de precizări suplimentare în ceea ce privește procedura de accesare a detaliilor instrumentelor financiare derivate, precum și măsurile de ordin tehnic și operațional pentru accesarea acestora (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1856",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f2084656-45e1-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "724034315ea5836a8d77c414b819ae3a71045d84b05c5b7c321cc869f1b9e0b8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1857-2022",
+   "path": "ue/regulament/2022/1857",
+   "short": "Regulamentul delegat CELEX 32022R1857",
+   "title": "Regulamentul delegat (UE) 2022/1857 al Comisiei din 10 iunie 2022 de modificare a standardelor tehnice de reglementare stabilite în Regulamentul delegat (UE) nr. 150/2013 în ceea ce privește detaliile cererilor de înregistrare ca registru central de tranzacții și ale cererilor de extindere a înregistrării ca registru central de tranzacții (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1857",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5931ec4a-45e3-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a9ea1008d6c6d2610daaffea8cb9d8050ede74004ed5cee37700cf4d67647097"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1858-2022",
+   "path": "ue/regulament/2022/1858",
+   "short": "Regulamentul delegat CELEX 32022R1858",
+   "title": "Regulamentul delegat (UE) 2022/1858 al Comisiei din 10 iunie 2022 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare în care sunt precizate procedurile de reconciliere a datelor între registrele centrale de tranzacții și procedurile care trebuie aplicate de registrul central de tranzacții pentru a verifica respectarea cerințelor de raportare de către contrapartea care efectuează raportarea sau entitatea care transmite raportul și pentru a verifica exhaustivitatea și corectitudinea datelor raportate (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1858",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/df47adac-45e4-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8633ed939404b6407c67334552a0dba0bf18e2fac131108d60fdd21da6f4dd4d"
     }
    ]
   },
@@ -1203,6 +2028,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1930-2022",
+   "path": "ue/regulament/2022/1930",
+   "short": "Regulamentul delegat CELEX 32022R1930",
+   "title": "Regulamentul delegat (UE) 2022/1930 al Comisiei din 6 iulie 2022 de modificare a standardelor tehnice de reglementare prevăzute în Regulamentul delegat (UE) 2018/1229 în ceea ce privește data aplicării dispozițiilor referitoare la regimul de cumpărare impusă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1930",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/79afa501-4aba-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "dc55608338ef061a9da64edaf5667d6aa685c7627933045b6375e70a2fa86b6f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1934-2022",
    "path": "ue/regulament/2022/1934",
    "short": "Regulamentul (UE) 2022/1934",
@@ -1214,6 +2054,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/f8e488c2-4b5a-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "8458bac94bf74eba4a79d65fb2bd68c2643ca88c51209d7b0d04bdfd87326dae"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1959-2022",
+   "path": "ue/regulament/2022/1959",
+   "short": "Regulamentul delegat CELEX 32022R1959",
+   "title": "Regulamentul delegat (UE) 2022/1959 al Comisiei din 13 iulie 2022 de completare a Regulamentului (UE) nr. 596/2014 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care stabilesc un model contractual pentru contractele de furnizare de lichidități pentru acțiunile emitenților ale căror instrumente financiare sunt admise la tranzacționare pe o piață de creștere pentru IMM-uri (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1959",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d0788e4a-4e82-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "98a409996f288221c23149b2925f0b9ccbe8506306e06fec02253c5bed498fe6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1988-2022",
+   "path": "ue/regulament/2022/1988",
+   "short": "Regulamentul delegat CELEX 32022R1988",
+   "title": "Regulamentul delegat (UE) 2022/1988 al Comisiei din 12 iulie 2022 de prelungire a perioadei de tranziție prevăzute la articolul 48 alineatul (1) din Regulamentul (UE) 2020/1503 al Parlamentului European și al Consiliului pentru prestarea în continuare de servicii de finanțare participativă în conformitate cu dreptul intern (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R1988",
+   "versions": [
+    {
+     "from": "2022-10-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b4597675-510d-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "cab710ede9ac52829fce2deb641dbde1754762688f6e547325538cf43daa2a7b"
     }
    ]
   },
@@ -1353,6 +2223,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-2058-2022",
+   "path": "ue/regulament/2022/2058",
+   "short": "Regulamentul delegat CELEX 32022R2058",
+   "title": "Regulamentul delegat (UE) 2022/2058 al Comisiei din 28 februarie 2022 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la orizonturile de lichiditate pentru abordarea bazată pe modele interne alternativă, menționate la articolul 325bd alineatul (7) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2058",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e86bf75c-54ca-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "06164b56f541720ffd3878749301207093ba18790fd35ab724ea863f931d16a3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2059-2022",
+   "path": "ue/regulament/2022/2059",
+   "short": "Regulamentul delegat CELEX 32022R2059",
+   "title": "Regulamentul delegat (UE) 2022/2059 al Comisiei din 14 iunie 2022 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează detaliile tehnice ale cerințelor privind testarea ex post și atribuirea profitului și a pierderii în temeiul articolelor 325bf și 325bg din Regulamentul (UE) nr. 575/2013 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2059",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a03431df-54cc-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f89dd9d2a5d9caf9a4d3f50fbebd31196e7ebb69fe650624ed39b126f5a0744e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2060-2022",
+   "path": "ue/regulament/2022/2060",
+   "short": "Regulamentul delegat CELEX 32022R2060",
+   "title": "Regulamentul delegat (UE) 2022/2060 al Comisiei din 14 iunie 2022 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care specifică criteriile de evaluare a gradului în care pot fi modelați factorii de risc în cadrul abordării bazate pe modele interne și frecvența acestei evaluări în temeiul articolului 325be alineatul (3) din regulamentul respectiv (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2060",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/45f961e8-54d2-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a43089d024d500b8a30b6bad2614480111547829411524feddf8705dd38d5d31"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2065-2022",
    "path": "ue/regulament/2022/2065",
    "short": "Regulamentul (UE) 2022/2065",
@@ -1368,6 +2283,156 @@
    ]
   },
   {
+   "slug": "ue-regulament-2074-2022",
+   "path": "ue/regulament/2022/2074",
+   "short": "Regulamentul delegat CELEX 32022R2074",
+   "title": "Regulamentul delegat (UE) 2022/2074 al Comisiei din 20 iulie 2022 de modificare a Regulamentului (UE) nr. 139/2014 în ceea ce privește definiția SNOWTAM",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2074",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5c0cd091-5666-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "216e8192cd5f4efe1969c81a0160ab4cde3809f72a12e83133163e9f7ebfdd2c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2092-2022",
+   "path": "ue/regulament/2022/2092",
+   "short": "Regulamentul delegat CELEX 32022R2092",
+   "title": "Regulamentul delegat (UE) 2022/2092 al Comisiei din 25 august 2022 de modificare a Regulamentelor delegate (UE) 2016/232 și (UE) 2017/891 în ceea ce privește notificările statelor membre referitoare la organizațiile de producători recunoscute, la asociațiile de organizații de producători recunoscute și la organizațiile interprofesionale recunoscute",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2092",
+   "versions": [
+    {
+     "from": "2022-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1279f182-58c0-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f3020f1852d0439b7c3341d174bc5184f7e613afbee17c953322071885631f22"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2104-2022",
+   "path": "ue/regulament/2022/2104",
+   "short": "Regulamentul delegat CELEX 32022R2104",
+   "title": "Regulamentul delegat (UE) 2022/2104 al Comisiei din 29 iulie 2022 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele de comercializare pentru uleiul de măsline și de abrogare a Regulamentului (CEE) nr. 2568/91 al Comisiei și al Regulamentului de punere în aplicare (UE) nr. 29/2012 al Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2104",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/07cff2c8-5bff-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e5eebd18781e9214e25a23f6f271ce1c1dcbec93be4f37a61167e7081b36d8d1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2111-2022",
+   "path": "ue/regulament/2022/2111",
+   "short": "Regulamentul delegat CELEX 32022R2111",
+   "title": "Regulamentul delegat (UE) 2022/2111 al Comisiei din 13 iulie 2022 de completare a Regulamentului (UE) 2020/1503 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare în care se precizează cerințele privind conflictele de interese pentru furnizorii de servicii de finanțare participativă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2111",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cb8d6b5d-5f18-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "18263d2554717085f496f7a3c2e566b978346ee012e15bc425dee9ce90d9845d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2112-2022",
+   "path": "ue/regulament/2022/2112",
+   "short": "Regulamentul delegat CELEX 32022R2112",
+   "title": "Regulamentul delegat (UE) 2022/2112 al Comisiei din 13 iulie 2022 de completare a Regulamentului (UE) 2020/1503 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează cerințele și modalitățile pentru cererea de autorizare ca furnizor de servicii de finanțare participativă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2112",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/af99b2ee-5f19-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "00b8a6bbac8f254bcd6e8e8fcd2e051dbbb80c01df3524f4b2aba0318f6cdf79"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2113-2022",
+   "path": "ue/regulament/2022/2113",
+   "short": "Regulamentul delegat CELEX 32022R2113",
+   "title": "Regulamentul delegat (UE) 2022/2113 al Comisiei din 13 iulie 2022 de completare a Regulamentului (UE) 2020/1503 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru schimbul de informații între autoritățile competente în legătură cu activitățile de investigare, de supraveghere și de asigurare a respectării legislației referitoare la furnizorii europeni de servicii de finanțare participativă pentru afaceri (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2113",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/55c8ff15-5f0e-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "aabd7c16d1101d5de06e6c3b0b422def7d358fba3042be038941ac24b3333f20"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2114-2022",
+   "path": "ue/regulament/2022/2114",
+   "short": "Regulamentul delegat CELEX 32022R2114",
+   "title": "Regulamentul delegat (UE) 2022/2114 al Comisiei din 13 iulie 2022 de completare a Regulamentului (UE) 2020/1503 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează modalitățile de testare a cunoștințelor la intrarea pe piață și simularea capacității de a suporta pierderi pentru investitorii nesofisticați potențiali în proiecte de finanțare participativă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2114",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/555b2ca6-5f0f-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "db700f22a8586486c2e4a572692eff2eab176a7e8dfc8f95840237a6f44859b5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2115-2022",
+   "path": "ue/regulament/2022/2115",
+   "short": "Regulamentul delegat CELEX 32022R2115",
+   "title": "Regulamentul delegat (UE) 2022/2115 al Comisiei din 13 iulie 2022 de completare a Regulamentului (UE) 2020/1503 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează metodologia pentru calcularea ratelor de nerambursare ale împrumuturilor oferite pe o platformă de finanțare participativă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2115",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/74e9d103-5f0c-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "67b7233eb95c9e5f67c6dce028c5c4ac2a5de40a5e36f5afbbfc84b67bd641d7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2117-2022",
+   "path": "ue/regulament/2022/2117",
+   "short": "Regulamentul delegat CELEX 32022R2117",
+   "title": "Regulamentul delegat (UE) 2022/2117 al Comisiei din 13 iulie 2022 de completare a Regulamentului (UE) 2020/1503 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare în care se precizează cerințele, formatele standard și procedurile de tratare a plângerilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2117",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a3acab9f-5f09-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "fa6dcd0e32cc1944dfc8c60a52cfa999c3109b25826f1e573e67f08d50e408ac"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2119-2022",
+   "path": "ue/regulament/2022/2119",
+   "short": "Regulamentul delegat CELEX 32022R2119",
+   "title": "Regulamentul delegat (UE) 2022/2119 al Comisiei din 13 iulie 2022 de completare a Regulamentului (UE) 2020/1503 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru fișa cu informații esențiale privind investiția (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2119",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c9b8f317-5f10-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "fa7fdb84be1cf29605691d1276c33a39f947aa927f245c18bf90b181366f2333"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-212-2022",
    "path": "ue/regulament/2022/212",
    "short": "Regulamentul (UE) 2022/212",
@@ -1379,6 +2444,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/b1df6189-909b-11ec-b4e4-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "c5932fe8263fd9ed65d5c66247f4ab03c3650cfa6a3a916d9f71f25ee60855ff"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2175-2022",
+   "path": "ue/regulament/2022/2175",
+   "short": "Regulamentul delegat CELEX 32022R2175",
+   "title": "Regulamentul delegat (UE) 2022/2175 al Comisiei din 5 august 2022 de completare a Regulamentului (UE) 2021/1060 al Parlamentului European și al Consiliului în ceea ce privește definirea costurilor unitare și stabilirea cuantumurilor pentru finanțarea nelegată de costuri pentru anumite operațiuni de facilitare a integrării tinerilor pe piața forței de muncă, în educație și în societate în cadrul inițiativei „Aim, Learn, Master, Achieve” (ALMA)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2175",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/51d28272-5f0c-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a641758b13866986107cf5aec304534f667618d65f4d5e5cf87bb33ab8742eac"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2181-2022",
+   "path": "ue/regulament/2022/2181",
+   "short": "Regulamentul delegat CELEX 32022R2181",
+   "title": "Regulamentul delegat (UE) 2022/2181 al Comisiei din 29 iunie 2022 de completare a Regulamentului (UE) 2021/1139 al Parlamentului European și al Consiliului privind Fondul european pentru afaceri maritime, pescuit și acvacultură în ceea ce privește datele de începere și perioadele de timp pentru inadmisibilitatea cererilor de sprijin",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2181",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c91b999e-5fe2-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2b710ffd1cb313f8c0d4f06d1567d33a8c678ef3ffb3d4ab60db21c39105ccb2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2182-2022",
+   "path": "ue/regulament/2022/2182",
+   "short": "Regulamentul delegat CELEX 32022R2182",
+   "title": "Regulamentul delegat (UE) 2022/2182 al Comisiei din 30 august 2022 de modificare a Regulamentului delegat (UE) 2017/1798 în ceea ce privește cerințele privind lipidele și magneziul pentru înlocuitorii unei diete totale pentru controlul greutății (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2182",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a3d5995f-5fe4-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e72e8932086a1de26896d63d55be2e41772504321297da51791fa91c95b08453"
     }
    ]
   },
@@ -1413,6 +2523,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-2202-2022",
+   "path": "ue/regulament/2022/2202",
+   "short": "Regulamentul delegat CELEX 32022R2202",
+   "title": "Regulamentul delegat (UE) 2022/2202 al Comisiei din 29 august 2022 de completare a Regulamentului (UE) 2021/1153 al Parlamentului European și al Consiliului prin stabilirea unei liste de proiecte transfrontaliere selecționate în domeniul energiei din surse regenerabile (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2202",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6eb9dc23-63c3-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1ce818b6a5a24668b29df78906dc1fb45770cf3f56b2f42388dca6d1d9afa296"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2236-2022",
+   "path": "ue/regulament/2022/2236",
+   "short": "Regulamentul delegat CELEX 32022R2236",
+   "title": "Regulamentul delegat (UE) 2022/2236 al Comisiei din 20 iunie 2022 de modificare a anexelor I, II, IV și V la Regulamentul (UE) 2018/858 al Parlamentului European și al Consiliului în ceea ce privește cerințele tehnice pentru vehiculele produse în serii nelimitate, vehiculele produse în serii mici, vehiculele complet automate produse în serii mici și vehiculele cu destinație specială, precum și în ceea ce privește actualizarea software-ului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2236",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/643a1e06-6551-11ed-9f85-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "67526240dc28debc85ebf9f9d536f0e431ab582906fdf047d33081d8cf0f7c10"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2237-2022",
    "path": "ue/regulament/2022/2237",
    "short": "Regulamentul (UE) 2022/2237",
@@ -1424,6 +2564,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/0dcff9d5-64c2-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "4789fbeec13442585a109420ac21b481c3089b4bc109c0a469925f4669989952"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2239-2022",
+   "path": "ue/regulament/2022/2239",
+   "short": "Regulamentul delegat CELEX 32022R2239",
+   "title": "Regulamentul delegat (UE) 2022/2239 al Comisiei din 6 septembrie 2022 de modificare a Regulamentului (UE) nr. 536/2014 al Parlamentului European și al Consiliului în ceea ce privește cerințele de etichetare pentru medicamentele pentru investigație clinică neautorizate și medicamentele auxiliare neautorizate de uz uman (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2239",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e2e9b9f1-64c0-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "52810e60c83c8bc11e88277621293b1540202c7993d289a49d218f3eed2a2e97"
     }
    ]
   },
@@ -1458,6 +2613,96 @@
    ]
   },
   {
+   "slug": "ue-regulament-2257-2022",
+   "path": "ue/regulament/2022/2257",
+   "short": "Regulamentul delegat CELEX 32022R2257",
+   "title": "Regulamentul delegat (UE) 2022/2257 al Comisiei din 11 august 2022 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează metodele de calcul al cuantumurilor brute ale trecerii bruște în starea de nerambursare pentru expunerile la instrumente de datorie și de capital și pentru expunerile la riscul de nerambursare care decurg din anumite instrumente financiare derivate și de specificare a determinării valorilor noționale ale altor instrumente decât cele menționate la articolul 325w alineatul (4) din Regulamentul (UE) nr. 575/2013 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2257",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b2af103e-66e3-11ed-b14f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "5be9ad137451039f78c6bc08f3569c8cd045511f267ad16f99aa6d3683c92f8f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2279-2022",
+   "path": "ue/regulament/2022/2279",
+   "short": "Regulamentul delegat CELEX 32022R2279",
+   "title": "Regulamentul delegat (UE) 2022/2279 al Comisiei din 1 august 2022 de completare a Regulamentului (UE) 2019/1700 al Parlamentului European și al Consiliului prin specificarea numărului și a titlurilor variabilelor pentru domeniul statisticilor privind utilizarea tehnologiilor informației și comunicațiilor pentru anul de referință 2023 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2279",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3abdd523-6a0a-11ed-b14f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "02ec1eecd417e63129f8df19fc04734a900a495cc880d621a201190db2b8ddee"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2287-2022",
+   "path": "ue/regulament/2022/2287",
+   "short": "Regulamentul delegat CELEX 32022R2287",
+   "title": "Regulamentul delegat (UE) 2022/2287 al Comisiei din 12 august 2022 de modificare a Regulamentului delegat (UE) 2021/2065 de stabilire a unui plan privind aruncarea capturilor înapoi în mare pentru pescuitul de calcan în Marea Neagră în ceea ce privește prelungirea excepției de la obligația de debarcare legate de rata de supraviețuire ridicată pentru calcan în Marea Neagră",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2287",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5b46e618-6ad3-11ed-b14f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c9b5e57c706e806d2a0d184e6168d1c4604f349b3cdfd406443a5a8af494fcd0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-229-2022",
+   "path": "ue/regulament/2022/229",
+   "short": "Regulamentul delegat CELEX 32022R0229",
+   "title": "Regulamentul delegat (UE) 2022/229 al Comisiei din 7 ianuarie 2022 privind modificarea Regulamentului delegat (UE) 2016/1675 de completare a Directivei (UE) 2015/849 a Parlamentului European și a Consiliului în ceea ce privește adăugarea țărilor Burkina Faso, Insulele Cayman, Haiti, Iordania, Mali, Maroc, Filipine, Senegal și Sudanul de Sud în tabelul de la punctul I din anexă și eliminarea țărilor Bahamas, Botswana, Ghana, Irak și Mauritius din tabelul menționat (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0229",
+   "versions": [
+    {
+     "from": "2022-03-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7104876c-92b9-11ec-b4e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a4edad42656610027ce98a943aa826173df704fa5f62b7a4775838185e9cdec4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2291-2022",
+   "path": "ue/regulament/2022/2291",
+   "short": "Regulamentul delegat CELEX 32022R2291",
+   "title": "Regulamentul delegat (UE) 2022/2291 al Comisiei din 8 septembrie 2022 de modificare a anexei I la Regulamentul (UE) 2019/1021 al Parlamentului European și al Consiliului privind poluanții organici persistenți în ceea ce privește hexaclorbenzenul (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2291",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/74e0503f-6ad1-11ed-b14f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "daed42e521804564a1b6395eb1c7c8405b6d7a00b738be561c0dd1fd22f55da2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2292-2022",
+   "path": "ue/regulament/2022/2292",
+   "short": "Regulamentul delegat CELEX 32022R2292",
+   "title": "Regulamentul delegat (UE) 2022/2292 al Comisiei din 6 septembrie 2022 de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului în ceea ce privește cerințele pentru intrarea în Uniune a transporturilor de animale de la care se obțin produse alimentare și de anumite mărfuri destinate consumului uman (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2292",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0e36ce03-6bc7-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a6043e0173a330f6045e2673b8ce4c979efef019dff6d9766666947ffd65cafb"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2294-2022",
    "path": "ue/regulament/2022/2294",
    "short": "Regulamentul (UE) 2022/2294",
@@ -1473,6 +2718,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2300-2022",
+   "path": "ue/regulament/2022/2300",
+   "short": "Regulamentul delegat CELEX 32022R2300",
+   "title": "Regulamentul delegat (UE) 2022/2300 al Comisiei din 30 august 2022 de completare a Regulamentului (UE) 2021/847 al Parlamentului European și al Consiliului cu dispoziții privind instituirea unui cadru de monitorizare și evaluare pentru programul Fiscalis de cooperare în domeniul fiscal",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2300",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8e5af14a-6c63-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f0dc7c53c7d9824d5a55b15a9661fbba764a0d6657a2ce9204d15c50e8e0e936"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2309-2022",
    "path": "ue/regulament/2022/2309",
    "short": "Regulamentul (UE) 2022/2309",
@@ -1484,6 +2744,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/fa46451a-6ef7-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "8ec934abe0bc101dee2c8245e15f808caca2a72ec631ee0dbf172b2bc7d0dac7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2310-2022",
+   "path": "ue/regulament/2022/2310",
+   "short": "Regulamentul delegat CELEX 32022R2310",
+   "title": "Regulamentul delegat (UE) 2022/2310 al Comisiei din 18 octombrie 2022 de modificare a standardelor tehnice de reglementare prevăzute în Regulamentul delegat (UE) nr. 149/2013 în ceea ce privește valoarea pragului de compensare pentru pozițiile deținute în contracte derivate extrabursiere pe mărfuri și în alte contracte derivate extrabursiere (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2310",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/49828a8c-6ef8-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0b960a11e21a52ea758d833f5033cb36561903537d4d70b1c9eeb2120e7a1f64"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2311-2022",
+   "path": "ue/regulament/2022/2311",
+   "short": "Regulamentul delegat CELEX 32022R2311",
+   "title": "Regulamentul delegat (UE) 2022/2311 al Comisiei din 21 octombrie 2022 de modificare a standardelor tehnice de reglementare prevăzute în Regulamentul delegat (UE) nr. 153/2013 în ceea ce privește măsurile de urgență temporare referitoare la cerințele în materie de garanții reale (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2311",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aa755975-6efa-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7276c8c68b485b0286072ea72a6dd104ba8646e2af82c8d9e5ea91eb93f33291"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2328-2022",
+   "path": "ue/regulament/2022/2328",
+   "short": "Regulamentul delegat CELEX 32022R2328",
+   "title": "Regulamentul delegat (UE) 2022/2328 al Comisiei din 16 august 2022 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care furnizează precizări cu privire la instrumentele-suport exotice și instrumentele care prezintă riscuri reziduale în scopul calculării cerințelor de fonduri proprii pentru riscurile reziduale (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2328",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/da43ea00-6f89-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9ed5a7c882ae261dab7b20bd029d6056497883ea37b9480e38e049d725e32cb9"
     }
    ]
   },
@@ -1514,6 +2819,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/14220d22-721c-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "3fade3d5d1f80fb358c2db5ac4b9560566b1460491f8f7dbe24d7299d9ecbde9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2360-2022",
+   "path": "ue/regulament/2022/2360",
+   "short": "Regulamentul delegat CELEX 32022R2360",
+   "title": "Regulamentul delegat (UE) 2022/2360 al Comisiei din 3 august 2022 de modificare a standardelor tehnice de reglementare prevăzute în Regulamentul delegat (UE) 2018/389 în ceea ce privește derogarea de 90 de zile pentru accesul la cont (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2360",
+   "versions": [
+    {
+     "from": "2022-12-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2506ba15-7440-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4c395be1d486731c376067efd04471bf679543fa51d8a52feaf31c904dfdfcf6"
     }
    ]
   },
@@ -1638,6 +2958,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2387-2022",
+   "path": "ue/regulament/2022/2387",
+   "short": "Regulamentul delegat CELEX 32022R2387",
+   "title": "Regulamentul delegat (UE) 2022/2387 al Comisiei din 30 august 2022 de modificare a Regulamentului delegat (UE) 2017/655 în ceea ce privește adaptarea dispozițiilor privind monitorizarea emisiilor de poluanți gazoși provenind de la motoarele cu ardere internă în circulație instalate pe echipamentele mobile fără destinație rutieră pentru a include motoarele cu putere mai mică de 56 kW și mai mare de 560 kW",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2387",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6bd1dbc0-76ca-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3d447ad1eddaad53adf0b0d3c0c289e76e2e8e9eca0c784524a785d26cbbf000"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2399-2022",
    "path": "ue/regulament/2022/2399",
    "short": "Regulamentul (UE) 2022/2399",
@@ -1668,6 +3003,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-2402-2022",
+   "path": "ue/regulament/2022/2402",
+   "short": "Regulamentul delegat CELEX 32022R2402",
+   "title": "Regulamentul delegat (UE) 2022/2402 al Comisiei din 16 august 2022 de rectificare a anumitor versiuni lingvistice ale Regulamentului delegat (UE) 2017/1018 de completare a Directivei 2014/65/UE a Parlamentului European și a Consiliului privind piețele instrumentelor financiare în ceea ce privește standardele tehnice de reglementare referitoare la informațiile care trebuie notificate de către firmele de investiții, operatorii de piață și instituțiile de credit (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2402",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/42bca068-776a-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1495a584af926645028b8c91ce4715c5f3f33489e3955d72b13da2e681f10d14"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2403-2022",
+   "path": "ue/regulament/2022/2403",
+   "short": "Regulamentul delegat CELEX 32022R2403",
+   "title": "Regulamentul delegat (UE) 2022/2403 al Comisiei din 16 august 2022 de rectificare a anumitor versiuni lingvistice ale Regulamentului delegat (UE) nr. 1151/2014 de completare a Directivei 2013/36/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare privind informațiile care trebuie notificate în exercitarea dreptului de stabilire și a libertății de a presta servicii (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2403",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/841858ba-776a-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2e0b2f28db33e1ebc778c50de46b457bd1396b64f76647fddafe929c88ae545d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2404-2022",
+   "path": "ue/regulament/2022/2404",
+   "short": "Regulamentul delegat CELEX 32022R2404",
+   "title": "Regulamentul delegat (Ue) 2022/2404 al Comisiei din 14 septembrie 2022 de completare a Regulamentului (UE) 2016/2031 al Parlamentului European și al Consiliului prin stabilirea unor norme detaliate pentru anchetele privind organismele dăunătoare de carantină pentru zone protejate și de abrogare a Directivei 92/70/CEE a Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2404",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c5bc3d9c-776a-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3260d8373ddad008010cadfff461fca2727286aded29e322584c27904bf0a074"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2419-2022",
    "path": "ue/regulament/2022/2419",
    "short": "Regulamentul (UE) 2022/2419",
@@ -1679,6 +3059,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c88b8e1a-79f9-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "8a004e8636afe9bbc6a3be2105622e701f77eaa042da0f1e9f62ba297f1f866c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2447-2022",
+   "path": "ue/regulament/2022/2447",
+   "short": "Regulamentul delegat CELEX 32022R2447",
+   "title": "Regulamentul delegat (UE) 2022/2447 al Comisiei din 30 septembrie 2022 de completare a Regulamentului (UE) 2019/1700 al Parlamentului European și al Consiliului prin precizarea numărului și a titlului variabilelor colectate o dată la opt ani în domeniul forței de muncă pentru „tineri pe piața muncii”, „nivel de instruire – detalii, inclusiv educație întreruptă sau abandonată” și „concilierea vieții profesionale cu cea familială” (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2447",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/73e51091-7b82-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b00766d7676146bb15b8808f6bf0a5e6c59e71276eb4fd277a9ca15f47060b48"
     }
    ]
   },
@@ -1833,6 +3228,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2513-2022",
+   "path": "ue/regulament/2022/2513",
+   "short": "Regulamentul delegat CELEX 32022R2513",
+   "title": "Regulamentul delegat (UE) 2022/2513 al Comisiei din 26 septembrie 2022 de modificare a Regulamentului delegat (UE) 2017/891 în ceea ce privește cuantumul maxim al sprijinului pentru retragerile de pe piață în vederea distribuirii gratuite de fructe și de legume",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2513",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a90f39a3-80d5-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3217293109d8443bb6dbb31dc113a7fd27e88073e5971a8431f8105dfd739cd6"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2514-2022",
    "path": "ue/regulament/2022/2514",
    "short": "Regulamentul (UE) 2022/2514",
@@ -1848,6 +3258,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-2526-2022",
+   "path": "ue/regulament/2022/2526",
+   "short": "Regulamentul delegat CELEX 32022R2526",
+   "title": "Regulamentul delegat (UE) 2022/2526 al Comisiei din 23 septembrie 2022 de modificare a Regulamentului (UE) 2017/852 al Parlamentului European și al Consiliului în ceea ce privește depozitarea temporară a deșeurilor de mercur în formă lichidă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2526",
+   "versions": [
+    {
+     "from": "2022-12-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d26e0372-81cc-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "dcc12cede9c6e0958cd5f0aa4aa1a8c6a8e377ca9acf4668a29fd95609300c45"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2528-2022",
+   "path": "ue/regulament/2022/2528",
+   "short": "Regulamentul delegat CELEX 32022R2528",
+   "title": "Regulamentul delegat (UE) 2022/2528 al Comisiei din 17 octombrie 2022 de modificare a Regulamentului delegat (UE) 2017/891 și de abrogare a Regulamentelor delegate (UE) nr. 611/2014, (UE) 2015/1366 și (UE) 2016/1149 aplicabile schemelor de ajutoare din anumite sectoare agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2528",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/42548f14-81cd-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e735b6d138902a0b3531014845377789c43d10540a3ea4363e6be3c11432903a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2553-2022",
+   "path": "ue/regulament/2022/2553",
+   "short": "Regulamentul delegat CELEX 32022R2553",
+   "title": "Regulamentul delegat (UE) 2022/2553 al Comisiei din 21 septembrie 2022 de modificare a standardelor tehnice de reglementare prevăzute în Regulamentul delegat (UE) 2019/815 în ceea ce privește actualizarea din 2022 a taxonomiei pentru formatul de raportare electronic unic (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2553",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5be60d04-8814-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "297ff6bbe77c70e0de52411400f27e8edd87e4dd9f115e26181d4a47e20c724b"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2554-2022",
    "path": "ue/regulament/2022/2554",
    "short": "Regulamentul (UE) 2022/2554",
@@ -1859,6 +3314,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "63671dd0a9f30c9a0c52e90ed953dd276e7d47a116ab600b51b0abb6ca7205e3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-256-2022",
+   "path": "ue/regulament/2022/256",
+   "short": "Regulamentul delegat CELEX 32022R0256",
+   "title": "Regulamentul delegat (UE) 2022/256 al Comisiei din 22 februarie 2022 de modificare a Regulamentului (UE) 2021/953 al Parlamentului European și al Consiliului în ceea ce privește eliberarea certificatelor de vindecare pe baza testelor antigenice rapide (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0256",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/849ec0e8-944a-11ec-b4e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1ddd17e8dbecc7ce129d29cc8a67725533cbe5b85f857455fa969a9a284c7e9b"
     }
    ]
   },
@@ -1889,6 +3359,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/d1bebee5-8265-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "c82373e17580e02f7043b6e34068073649c7c34fcbe9feee853182cf2e106bc6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2565-2022",
+   "path": "ue/regulament/2022/2565",
+   "short": "Regulamentul delegat CELEX 32022R2565",
+   "title": "Regulamentul delegat (UE) 2022/2565 al Comisiei din 11 octombrie 2022 de completare a Regulamentului (UE) 2021/444 al Parlamentului European și al Consiliului cu dispoziții privind instituirea unui cadru de monitorizare și evaluare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2565",
+   "versions": [
+    {
+     "from": "2022-12-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8021fec7-8266-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "fec1c0fc6e4f71c5824325f65070a80c3b5b99e1a045371eaf7d4c5fbc3f64d9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2566-2022",
+   "path": "ue/regulament/2022/2566",
+   "short": "Regulamentul delegat CELEX 32022R2566",
+   "title": "Regulamentul delegat (UE) 2022/2566 al Comisiei din 13 octombrie 2022 de modificare și rectificare a Regulamentului delegat (UE) 2018/273 în ceea ce privește sistemul de autorizații pentru plantări de viță-de-vie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2566",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1ff5e5d2-8265-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "adb8692862a19c2e20372c65fe24a1353d4025261ae898a1297734950b567532"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2579-2022",
+   "path": "ue/regulament/2022/2579",
+   "short": "Regulamentul delegat CELEX 32022R2579",
+   "title": "Regulamentul delegat (UE) 2022/2579 al Comisiei din 10 iunie 2022 de completare a Directivei 2013/36/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare care precizează informațiile ce trebuie furnizate de o întreprindere în cererea de autorizare în conformitate cu articolul 8a din directiva respectivă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2579",
+   "versions": [
+    {
+     "from": "2023-01-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7d410ccb-874d-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b56c14292f0f9e67912cbd92b45f9379a42081c1e0f21660ade4ba0429b74869"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2580-2022",
+   "path": "ue/regulament/2022/2580",
+   "short": "Regulamentul delegat CELEX 32022R2580",
+   "title": "Regulamentul delegat (UE) 2022/2580 al Comisiei din 17 iunie 2022 de completare a Directivei 2013/36/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare care precizează informațiile care trebuie furnizate în cererea de autorizare ca instituție de credit și obstacolele care ar putea împiedica exercitarea efectivă a funcțiilor de supraveghere de către autoritățile competente (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2580",
+   "versions": [
+    {
+     "from": "2023-01-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c51f7ccc-874d-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "76efa83b682b7f0ba7ce336b4d8af386544284a68f108815ec7a4deaa0ac8419"
     }
    ]
   },
@@ -1934,6 +3464,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e0e3ba3f-87e3-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "cb62639aa873b20938aa4f83e15742ea435fac35c01b2935693fdafbe796519e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2588-2022",
+   "path": "ue/regulament/2022/2588",
+   "short": "Regulamentul delegat CELEX 32022R2588",
+   "title": "Regulamentul delegat (UE) 2022/2588 al Comisiei din 20 octombrie 2022 de modificare a Regulamentului (UE) 2019/1241 al Parlamentului European și al Consiliului în ceea ce privește măsurile tehnice pentru anumite activități de pescuit de specii demersale și pelagice din Marea Celtică, Marea Irlandei și vestul Scoției",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R2588",
+   "versions": [
+    {
+     "from": "2022-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/400c8975-87e4-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ecc86a709327d218064c31c6a0ac496e46f4e54194b4e62ac46da6c41a0d1a82"
     }
    ]
   },
@@ -2163,6 +3708,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-467-2022",
+   "path": "ue/regulament/2022/467",
+   "short": "Regulamentul delegat CELEX 32022R0467",
+   "title": "Regulamentul delegat (UE) 2022/467 al Comisiei din 23 martie 2022 de acordare a unor ajutoare excepționale de adaptare producătorilor din sectoarele agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0467",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b9f80f76-ab14-11ec-83e1-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "3ef4ec878abe32f48fd0775897440ae99a24f877af534ee20f824178994ac5ce"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-474-2022",
+   "path": "ue/regulament/2022/474",
+   "short": "Regulamentul delegat CELEX 32022R0474",
+   "title": "Regulamentul delegat (UE) 2022/474 al Comisiei din 17 ianuarie 2022 de modificare a anexei II la Regulamentul (UE) 2018/848 al Parlamentului European și al Consiliului în ceea ce privește cerințele specifice referitoare la producția și utilizarea plantulelor neecologice, în conversie și ecologice și a altor tipuri de material de reproducere a plantelor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0474",
+   "versions": [
+    {
+     "from": "2022-03-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6076248e-abdd-11ec-83e1-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b7213ff3abb3b6436c86a2bac32826f27d3f18520a0b1e8afe09fdc11ac55caf"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-476-2022",
    "path": "ue/regulament/2022/476",
    "short": "Regulamentul (UE) 2022/476",
@@ -2193,6 +3768,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-486-2022",
+   "path": "ue/regulament/2022/486",
+   "short": "Regulamentul delegat CELEX 32022R0486",
+   "title": "Regulamentul delegat (UE) 2022/486 al Comisiei din 21 ianuarie 2022 de modificare a anexelor I și III la Regulamentul delegat (UE) nr. 906/2014 de completare a Regulamentului (UE) nr. 1306/2013 al Parlamentului European și al Consiliului în ceea ce privește metodele de calcul al cheltuielilor aferente intervenției publice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0486",
+   "versions": [
+    {
+     "from": "2022-04-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fc1acaa7-ae30-11ec-83e1-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9a5eaec0a9c2d5123f06abd45ff5237ac7ee1cf3fadf7747c62667a2f7d763e6"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-488-2022",
    "path": "ue/regulament/2022/488",
    "short": "Regulamentul (UE) 2022/488",
@@ -2204,6 +3794,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c95e5b93-ae30-11ec-83e1-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "c2385557df4722fffc5da70d8b09376e871c13d591e438e63c6e0d54903fe2eb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-503-2022",
+   "path": "ue/regulament/2022/503",
+   "short": "Regulamentul delegat CELEX 32022R0503",
+   "title": "Regulamentul delegat (UE) 2022/503 al Comisiei din 29 martie 2022 de modificare a Regulamentului (UE) 2021/953 al Parlamentului European și al Consiliului în ceea ce privește scutirea minorilor de la perioada de acceptare a certificatelor de vaccinare eliberate în formatul certificatului digital al UE privind COVID (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0503",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6f2db540-afc4-11ec-83e1-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9ae33778d6fcd01a4351842b7f139f6fc372a791954334829dcf7f89ab2ba0e8"
     }
    ]
   },
@@ -2238,6 +3843,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-518-2022",
+   "path": "ue/regulament/2022/518",
+   "short": "Regulamentul delegat CELEX 32022R0518",
+   "title": "Regulamentul delegat (UE) 2022/518 al Comisiei din 13 ianuarie 2022 de modificare a Regulamentului delegat (UE) 2018/985 în ceea ce privește dispozițiile sale tranzitorii pentru anumite vehicule agricole și forestiere echipate cu motoare cu puterea mai mare sau egală cu 56 kW și mai mică de 130 kW pentru a aborda impactul crizei provocate de pandemia de COVID-19 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0518",
+   "versions": [
+    {
+     "from": "2022-04-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5fd5494b-b156-11ec-83e1-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1fb5469a02883f1da7da2615bd6013dcd49896033710adf06b482fcbef157c12"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-519-2022",
+   "path": "ue/regulament/2022/519",
+   "short": "Regulamentul delegat CELEX 32022R0519",
+   "title": "Regulamentul delegat (UE) 2022/519 al Comisiei din 14 ianuarie 2022 de modificare a Regulamentului delegat (UE) 2016/127 în ceea ce privește cerințele în materie de proteine aplicabile formulelor de început și formulelor de continuare pe bază de hidrolizate proteice (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0519",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/916a013d-b156-11ec-83e1-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "891ca720591c08249e3e81764c55153017eb2a9ece078b3167b1c4cd99e8987d"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-520-2022",
    "path": "ue/regulament/2022/520",
    "short": "Regulamentul (UE) 2022/520",
@@ -2249,6 +3884,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c26a415f-b156-11ec-83e1-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "1dcf0b150d64cce76b7be44087556b6040f2e3e1b4ed2e92fd863c534b20a88e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-524-2022",
+   "path": "ue/regulament/2022/524",
+   "short": "Regulamentul delegat CELEX 32022R0524",
+   "title": "Regulamentul delegat (UE) 2022/524 al Comisiei din 27 ianuarie 2022 de rectificare a Regulamentului delegat (UE) 2021/577 în ceea ce privește anumite trimiteri la medicamente de uz veterinar (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0524",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/09989e15-b3b2-11ec-9d96-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "473d7df601d0414de162bc32821e3a046fe6c600c6b8dd991da87497f8ec7cad"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-545-2022",
+   "path": "ue/regulament/2022/545",
+   "short": "Regulamentul delegat CELEX 32022R0545",
+   "title": "Regulamentul delegat (UE) 2022/545 al Comisiei din 26 ianuarie 2022 de completare a Regulamentului (UE) 2019/2144 al Parlamentului European și al Consiliului prin stabilirea unor norme detaliate privind procedurile specifice de încercare și cerințele tehnice pentru omologarea de tip a autovehiculelor în ceea ce privește dispozitivul de înregistrare a datelor privind evenimentele și pentru omologarea de tip a acestor sisteme ca unități tehnice separate și de modificare a anexei II la regulamentul menționat (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0545",
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e121764d-b545-11ec-b6f4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "17c3c162ef2f2957b54db0a52e3d21f9e70c18d2562718d592810777e6accf95"
     }
    ]
   },
@@ -2463,6 +4128,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-629-2022",
+   "path": "ue/regulament/2022/629",
+   "short": "Regulamentul delegat CELEX 32022R0629",
+   "title": "Regulamentul delegat (UE) 2022/629 al Comisiei din 12 ianuarie 2022 de modificare a standardelor tehnice de reglementare prevăzute în Regulamentul delegat (UE) 2017/583 în ceea ce privește ajustarea pragurilor de lichiditate și a percentilei de tranzacționare utilizate pentru determinarea mărimii specifice instrumentului aplicabile anumitor instrumente financiare care nu sunt de capitaluri proprii (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0629",
+   "versions": [
+    {
+     "from": "2022-05-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cf6e9c62-bb3b-11ec-b6f4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6e563579ca366e30fafa24faa4a0f084dcd7c817d9509e2ccbdd5c072c5af6c4"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-63-2022",
    "path": "ue/regulament/2022/63",
    "short": "Regulamentul (UE) 2022/63",
@@ -2493,6 +4173,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-643-2022",
+   "path": "ue/regulament/2022/643",
+   "short": "Regulamentul delegat CELEX 32022R0643",
+   "title": "Regulamentul delegat (UE) 2022/643 al Comisiei din 10 februarie 2022 de modificare a Regulamentului (UE) nr. 649/2012 al Parlamentului European și al Consiliului în ceea ce privește includerea pesticidelor, a produselor chimice industriale, a poluanților organici persistenți și a mercurului și o actualizare a codurilor vamale (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0643",
+   "versions": [
+    {
+     "from": "2022-05-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2209018e-c043-11ec-b6f4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "de9f12b4d6eb05e2ace96470334638225a1908f6404095ae78cee104cc576553"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-648-2022",
+   "path": "ue/regulament/2022/648",
+   "short": "Regulamentul delegat CELEX 32022R0648",
+   "title": "Regulamentul delegat (UE) 2022/648 al Comisiei din 15 februarie 2022 de modificare a anexei XI la Regulamentul (UE) 2021/2115 al Parlamentului European și al Consiliului în ceea ce privește cuantumul sprijinului din partea Uniunii pentru tipurile de intervenții pentru dezvoltarea rurală pentru exercițiul financiar 2023",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0648",
+   "versions": [
+    {
+     "from": "2022-04-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bc69eef4-c10c-11ec-b6f4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c0f46e8ac38f35f7ee7b9c5b7b7be60aa0d74b846a91fdac404a2a7c99f66cdb"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-650-2022",
    "path": "ue/regulament/2022/650",
    "short": "Regulamentul (UE) 2022/650",
@@ -2504,6 +4214,81 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/db673693-c10e-11ec-b6f4-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "660427fa8e993ca71deb193dbdf5d0390568a5b3a823a70f2ccc19455a1d452c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-671-2022",
+   "path": "ue/regulament/2022/671",
+   "short": "Regulamentul delegat CELEX 32022R0671",
+   "title": "Regulamentul delegat (UE) 2022/671 al Comisiei din 4 februarie 2022 de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului în ceea ce privește normele specifice privind controalele oficiale efectuate de autoritățile competente asupra animalelor, a produselor de origine animală și a materialelor germinative, măsurile de monitorizare care trebuie luate de autoritatea competentă în caz de neconformitate cu normele de identificare și înregistrare a bovinelor, ovinelor și caprinelor sau în caz de neconformitate în timpul tranzitului pe teritoriul Uniunii al anumitor bovine și de abrogare al Regulamentului (CE) nr. 494/98 al Comisiei (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0671",
+   "versions": [
+    {
+     "from": "2022-05-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d2f4e925-c431-11ec-b6f4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "81a081d6c3d7f338192dd3acbd38a082072a3c2f46937fef10e97bd4e3ac8790"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-682-2022",
+   "path": "ue/regulament/2022/682",
+   "short": "Regulamentul delegat CELEX 32022R0682",
+   "title": "Regulamentul delegat (UE) 2022/682 al Comisiei din 25 februarie 2022 de modificare a Regulamentului (UE) 2018/196 al Parlamentului European și al Consiliului privind drepturi vamale suplimentare la importurile anumitor produse originare din Statele Unite ale Americii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0682",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fdd30d9e-c779-11ec-b6f4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "d38e92adbae1cb0101196fe2abb61e91e0b4083b282810e407cd77f5017392b0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-692-2022",
+   "path": "ue/regulament/2022/692",
+   "short": "Regulamentul delegat CELEX 32022R0692",
+   "title": "Regulamentul delegat (UE) 2022/692 al Comisiei din 16 februarie 2022 de modificare, în vederea adaptării la progresul tehnic și științific, a Regulamentului (CE) nr. 1272/2008 al Parlamentului European și al Consiliului privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0692",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/da5cf661-caa6-11ec-b6f4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "bd3bd235e3cde03a054a50fa157404d84aeb26c5101c03521abca282a8c4138a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-697-2022",
+   "path": "ue/regulament/2022/697",
+   "short": "Regulamentul delegat CELEX 32022R0697",
+   "title": "Regulamentul delegat (UE) 2022/697 al Comisiei din 10 februarie 2022 de rectificare a versiunii în limba polonă a Regulamentului (UE) nr. 139/2014 de stabilire a cerințelor tehnice și a procedurilor administrative referitoare la aerodromuri în temeiul Regulamentului (CE) nr. 216/2008 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0697",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a00f30a2-cb43-11ec-b6f4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "932616cd9b8f7959517180c32b1751948628c4011fc48996d8d420c5d5b36ef5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-699-2022",
+   "path": "ue/regulament/2022/699",
+   "short": "Regulamentul delegat CELEX 32022R0699",
+   "title": "Regulamentul delegat (UE) 2022/699 al Comisiei din 3 mai 2022 de modificare a Regulamentului (UE) 2021/821 al Parlamentului European și al Consiliului prin eliminarea Rusiei ca destinație din domeniul de aplicare al autorizațiilor generale de export ale Uniunii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0699",
+   "versions": [
+    {
+     "from": "2022-05-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2f9f990d-cb85-11ec-b6f4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c192dfb585b3bb59811ec3d9e7be1acacab378c5409b2fa3f9193092424e5aa4"
     }
    ]
   },
@@ -2598,6 +4383,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-749-2022",
+   "path": "ue/regulament/2022/749",
+   "short": "Regulamentul delegat CELEX 32022R0749",
+   "title": "Regulamentul delegat (UE) 2022/749 al Comisiei din 8 februarie 2022 de modificare a standardelor tehnice de reglementare prevăzute în Regulamentul delegat (UE) 2017/2417 în ceea ce privește tranziția către noi indici de referință menționați în anumite contracte derivate extrabursiere (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0749",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/624a0f19-d5aa-11ec-a95f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "caecca30a3cea3c43b5610bc0921e3971ec79ebfddbb6e5ef806734f6e9d831b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-760-2022",
+   "path": "ue/regulament/2022/760",
+   "short": "Regulamentul delegat CELEX 32022R0760",
+   "title": "Regulamentul delegat (UE) 2022/760 al Comisiei din 8 aprilie 2022 de modificare a Regulamentului delegat (UE) 2021/2306 în ceea ce privește dispozițiile tranzitorii aplicabile certificatelor de inspecție emise în Ucraina",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0760",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1a33c659-d649-11ec-a95f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "47cb9983352cccc2765badfe2d1517e4ab2b86d7d2a0a66194a608e78a96cc65"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-78-2022",
    "path": "ue/regulament/2022/78",
    "short": "Regulamentul (UE) 2022/78",
@@ -2609,6 +4424,96 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/045b8fdb-7995-11ec-9136-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "53c3b22589ed3f3414bd9ead3ae8323a099fa3ef0487e336eb094855ac1d5e0c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-786-2022",
+   "path": "ue/regulament/2022/786",
+   "short": "Regulamentul delegat CELEX 32022R0786",
+   "title": "Regulamentul delegat (UE) 2022/786 al Comisiei din 10 februarie 2022 de modificare a Regulamentului delegat (UE) 2015/61 al Comisiei de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește cerința de acoperire a necesarului de lichiditate pentru instituțiile de credit (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0786",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a0c73e97-d7fe-11ec-a95f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f86492b7436f1f9537f718efc59074ca3c2b4ae66cf6854a56559ab1ecb3c305"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-803-2022",
+   "path": "ue/regulament/2022/803",
+   "short": "Regulamentul delegat CELEX 32022R0803",
+   "title": "Regulamentul delegat (UE) 2022/803 al Comisiei din 16 februarie 2022 de completare a Regulamentului (UE) nr. 600/2014 al Parlamentului European și al Consiliului prin specificarea normelor procedurale pentru exercitarea competenței de a impune amenzi sau penalități cu titlu cominatoriu de către Autoritatea Europeană pentru Valori Mobiliare și Piețe cu privire la furnizorii de servicii de raportare a datelor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0803",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4de48b7d-dafc-11ec-a95f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b7da1e04d284b2bc8b920a80e92e67daaa951b8c69736d98da208802bb82c01b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-804-2022",
+   "path": "ue/regulament/2022/804",
+   "short": "Regulamentul delegat CELEX 32022R0804",
+   "title": "Regulamentul delegat (UE) 2022/804 al Comisiei din 16 februarie 2022 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului prin specificarea normelor procedurale pentru măsurile aplicabile supravegherii anumitor administratori de indici de referință de către Autoritatea Europeană pentru Valori Mobiliare și Piețe (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0804",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7985854f-dafc-11ec-a95f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "86e3a7150c7b6b53f5837f6348acb7b8292e8711addf8db7485a77682f938f23"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-805-2022",
+   "path": "ue/regulament/2022/805",
+   "short": "Regulamentul delegat CELEX 32022R0805",
+   "title": "Regulamentul delegat (UE) 2022/805 al Comisiei din 16 februarie 2022 de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului prin specificarea taxelor aplicabile supravegherii anumitor administratori de indici de referință de către Autoritatea Europeană pentru Valori Mobiliare și Piețe (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0805",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/24e59756-dafd-11ec-a95f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b0dca586f1fd69d01c5a4795547e1dbcaaff4b7ac1f6909640cc57d2c49a87ee"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-825-2022",
+   "path": "ue/regulament/2022/825",
+   "short": "Regulamentul delegat CELEX 32022R0825",
+   "title": "Regulamentul delegat (UE) 2022/825 al Comisiei din 17 martie 2022 de modificare a anexei II la Regulamentul delegat (UE) nr. 1062/2014 privind programul de lucru pentru examinarea sistematică a tuturor substanțelor active existente conținute de produsele biocide, menționat în Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0825",
+   "versions": [
+    {
+     "from": "2022-06-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4322824b-dff1-11ec-a534-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "587f11e73493bdecf79e22ff86c491c970c60f4565b3e79fa2c126c689559386"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-826-2022",
+   "path": "ue/regulament/2022/826",
+   "short": "Regulamentul delegat CELEX 32022R0826",
+   "title": "Regulamentul delegat (UE) 2022/826 al Comisiei din 23 martie 2022 de rectificare și de modificare a Regulamentului (UE) 2019/1241 al Parlamentului European și al Consiliului în ceea ce privește derogările de la zona de protecție a cambulei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0826",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/86eddb0d-dff1-11ec-a534-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "dcdfbf9138d6efa7bf1b02534a493c7872cc3292851233ab5a8cb32493dfff18"
     }
    ]
   },
@@ -2669,6 +4574,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/29aa673e-e14c-11ec-a534-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "1d9e28fdf69e2fccc4ba831cb813b7f50bf18053fcdb6d8a68308343e316b701"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-851-2022",
+   "path": "ue/regulament/2022/851",
+   "short": "Regulamentul delegat CELEX 32022R0851",
+   "title": "Regulamentul delegat (UE) 2022/851 al Comisiei din 22 martie 2022 de rectificare a versiunii în limba portugheză a Regulamentului delegat (UE) 2019/945 privind sistemele de aeronave fără pilot la bord și operatorii de sisteme de aeronave fără pilot la bord din țări terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0851",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ea217553-e14f-11ec-a534-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "315efa42ceff0f14f22082636c82f9cabf74c7f0d33a7e87e0772f7650c2b454"
     }
    ]
   },
@@ -2778,6 +4698,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-887-2022",
+   "path": "ue/regulament/2022/887",
+   "short": "Regulamentul delegat CELEX 32022R0887",
+   "title": "Regulamentul delegat (UE) 2022/887 al Comisiei din 28 martie 2022 de modificare a Regulamentului delegat (UE) 2019/625 în ceea ce privește codurile din Nomenclatura combinată și din Sistemul armonizat, precum și condițiile de import ale anumitor produse compuse, de modificare a Regulamentului delegat (UE) 2019/2122 în ceea ce privește anumite mărfuri și păsări de companie exceptate de la efectuarea controalelor oficiale la posturile de control la frontieră și de modificare a Regulamentului delegat (UE) 2021/630 în ceea ce privește cerințele pentru produsele compuse exceptate de la efectuarea controalelor oficiale la posturile de control la frontieră (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0887",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c2d85715-e5fc-11ec-a534-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4bdfb593b08f40fa51a5280aba9eb1cc912abb677771a44dfb6a4c57fab8127b"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-922-2022",
    "path": "ue/regulament/2022/922",
    "short": "Regulamentul (UE) 2022/922",
@@ -2789,6 +4724,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/ab0ac1a6-ec45-11ec-a534-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "7e3cdfeeee2cdf9bf646d3d70e8feeeb110be7f67563292152529a65afe0e1a6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-923-2022",
+   "path": "ue/regulament/2022/923",
+   "short": "Regulamentul delegat CELEX 32022R0923",
+   "title": "Regulamentul delegat (UE) 2022/923 al Comisiei din 11 martie 2022 de rectificare a versiunii în limba suedeză a Regulamentului delegat (UE) 2021/1189 de completare a Regulamentului (UE) 2018/848 al Parlamentului European și al Consiliului în ceea ce privește producția și comercializarea materialului de reproducere a plantelor din material eterogen ecologic provenit de la anumite genuri sau specii (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0923",
+   "versions": [
+    {
+     "from": "2022-07-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1bd82043-ec45-11ec-a534-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "cae891676bf571fd3aa06cfa9f816130db3b56dc284ceb4e0d3e6b87d2a5db53"
     }
    ]
   },
@@ -2808,6 +4758,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-930-2022",
+   "path": "ue/regulament/2022/930",
+   "short": "Regulamentul delegat CELEX 32022R0930",
+   "title": "Regulamentul delegat (UE) 2022/930 al Comisiei din 10 martie 2022 de completare a Regulamentului (UE) nr. 600/2014 al Parlamentului European și al Consiliului prin specificarea taxelor aplicabile supravegherii de către Autoritatea Europeană pentru Valori Mobiliare și Piețe a furnizorilor de servicii de raportare a datelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0930",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a96bfd12-ee00-11ec-a534-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "65f2ddd3d92b66ca244f6be565fa1101fab54b998dfd78c33fa6a9c3cb62417a"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-943-2022",
    "path": "ue/regulament/2022/943",
    "short": "Regulamentul (UE) 2022/943",
@@ -2823,6 +4788,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-952-2022",
+   "path": "ue/regulament/2022/952",
+   "short": "Regulamentul delegat CELEX 32022R0952",
+   "title": "Regulamentul delegat (UE) 2022/952 al Comisiei din 9 februarie 2022 de modificare a Regulamentului delegat (UE) 2017/118 de instituire a unor măsuri de conservare în domeniul pescuitului pentru protecția mediului marin în Marea Nordului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0952",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/10fe4759-f145-11ec-a534-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6ee2e26898f789ff24b8b6853dce46f5722088adeeb617ff3c96c0c859905c01"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-954-2022",
+   "path": "ue/regulament/2022/954",
+   "short": "Regulamentul delegat CELEX 32022R0954",
+   "title": "Regulamentul delegat (UE) 2022/954 al Comisiei din 12 mai 2022 de modificare a standardelor tehnice de reglementare prevăzute în Regulamentul delegat (UE) nr. 183/2014 în ceea ce privește precizarea modului de calcul al ajustărilor specifice și generale pentru riscul de credit (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0954",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e57f4290-f146-11ec-a534-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4272f8b2927a19a05d3eba03002265727f1a50e3fab2632a0750a53574de1943"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-972-2022",
    "path": "ue/regulament/2022/972",
    "short": "Regulamentul (UE) 2022/972",
@@ -2834,6 +4829,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e58e5e1a-f392-11ec-a534-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "482a539b51fa7a2cd976da02f3c6d283b69e53bd862ba43a527fcefdd2c4c701"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-973-2022",
+   "path": "ue/regulament/2022/973",
+   "short": "Regulamentul delegat CELEX 32022R0973",
+   "title": "Regulamentul delegat (UE) 2022/973 al Comisiei din 14 martie 2022 de completare a Regulamentului (UE) 2019/1009 al Parlamentului European și al Consiliului prin stabilirea criteriilor privind eficiența și siguranța agronomică pentru utilizarea subproduselor în cadrul produselor fertilizante UE (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0973",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4bfa87c0-f391-11ec-a534-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e00d20800580b04234d59974222a0f134b7e0f225bb75133112a53d30a9f1d9c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-975-2022",
+   "path": "ue/regulament/2022/975",
+   "short": "Regulamentul delegat CELEX 32022R0975",
+   "title": "Regulamentul delegat (UE) 2022/975 al Comisiei din 17 martie 2022 de modificare a standardelor tehnice de reglementare prevăzute în Regulamentul delegat (UE) 2017/653 în ceea ce privește prelungirea dispoziției tranzitorii prevăzute la articolul 14 alineatul (2) din regulamentul respectiv și de modificare a standardelor tehnice de reglementare prevăzute în Regulamentul delegat (UE) 2021/2268 în ceea ce privește data aplicării regulamentului respectiv (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022R0975",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/abdc46b3-f391-11ec-a534-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "fde3baebe101c36691114c06547c1a5c9f8d37f12ce09576b2c47eb94bd102bd"
     }
    ]
   },

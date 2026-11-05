@@ -1,0 +1,23 @@
+{
+"country": "RO",
+"shard": "ue/1965",
+"acts": [
+{
+"slug": "ue-regulament-19-1965",
+"path": "ue/regulament/1965/19",
+"kind": "ue",
+"year": "1965",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 19/65/CEE al Consiliului din 2 martie 1965 privind aplicarea articolului 85 alineatul (3) din tratat anumitor categorii de acorduri și practici concertate",
+"short": "Regulamentul CELEX 31965R0019",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1965-03-26",
+"latest": "1965-03-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31965R0019"
+}
+]
+}

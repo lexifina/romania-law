@@ -31,6 +31,36 @@
      "sha256": "6617efe05bbf336f2cc5409fbf8b97aea124f290a2f592c4f315bbaf5f8a2507"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1471-1970",
+   "path": "ue/regulament/1970/1471",
+   "short": "Regulamentul (CEE) nr. 1471/70",
+   "title": "Regulamentul (CEE) nr. 1471/70 al Consiliului din 20 iulie 1970 de stabilire a unei proceduri comune pentru creșterea autonomă a importurilor în Comunitate de produse care fac obiectul unor măsuri de autolimitare din partea țărilor exportatoare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31970R1471",
+   "versions": [
+    {
+     "from": "1970-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/83fa3e43-4cfe-4835-91a2-89bfb983ff35.0022.04/DOC_1",
+     "sha256": "b2e2e2e46db704746f709b0d3137f1e582181a41492e90bc8e49bcba104dcbaf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-537-1970",
+   "path": "ue/regulament/1970/537",
+   "short": "Regulamentul (CEE) nr. 537/70",
+   "title": "Regulamentul (CEE) nr. 537/70 al Comisiei din 23 martie 1970 privind autorizarea statelor membre să ia măsuri derogatorii de la unele criterii ale standardelor de calitate aplicabile exporturilor către țări terțe de bulbi, cepe și tuberculi de flori",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31970R0537",
+   "versions": [
+    {
+     "from": "1970-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/254ae195-b990-4a9b-b78a-aa80fb4d61ba.0022.03/DOC_10",
+     "sha256": "c1ecceb74d47434beb0846d7cd201bcd29c316f849ea8b703930f5e90ec539f5"
+    }
+   ]
   }
  ]
 }

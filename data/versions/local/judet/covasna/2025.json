@@ -258,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcj-covasna-172-2025",
+   "path": "local/judet/covasna/2025/172",
+   "short": "HCJ Covasna nr. 172/2025",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 172/2025",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-145-179-iulie-2025.html",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2025/07/ro/172_2025.pdf",
+     "sha256": "3bcd152eeec79a8d89f5ba1070011e144347dc4448b199708b4736f3b9be4aaf"
+    }
+   ]
+  },
+  {
    "slug": "hcj-covasna-177-2025",
    "path": "local/judet/covasna/2025/177",
    "short": "HCJ Covasna nr. 177/2025",

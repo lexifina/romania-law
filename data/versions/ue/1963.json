@@ -16,6 +16,21 @@
      "sha256": "6c7e2007233219b91dbcce77244b4fa0ae715292969be23fc4e939f94510ad54"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-7-1963",
+   "path": "ue/regulament/1963/7",
+   "short": "Regulamentul CELEX 31963R0007",
+   "title": "Regulamentul nr. 7/63/Euratom al Consiliului din 3 decembrie 1963 privind regulamentul de procedură al Comitetului de arbitraj prevăzut la articolul 18 din Tratatul de instituire a Comunității Europene a Energiei Atomice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31963R0007",
+   "versions": [
+    {
+     "from": "1963-12-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1e72fc51-9b80-4a41-9cb2-5ae33b3e9e31.0020.04/DOC_1",
+     "sha256": "c0e68cb83467723b42796765087fc692e8ea708983dcec0e037c17230811c37f"
+    }
+   ]
   }
  ]
 }

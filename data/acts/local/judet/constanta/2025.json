@@ -157,6 +157,29 @@
 }
 },
 {
+"slug": "hcj-constanta-180-2025",
+"path": "local/judet/constanta/2025/180",
+"kind": "local",
+"year": "2025",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 180/2025",
+"short": "HCJ Constanța nr. 180/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-23",
+"latest": "2025-07-23",
+"portal": "https://www.cjc.ro/sectiune.php?s=287",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-constanta-219-2025",
 "path": "local/judet/constanta/2025/219",
 "kind": "local",
@@ -308,6 +331,28 @@
 "council_name": "Consiliul Județean Constanța",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcj-constanta-1129-2025",
+"path": "local/judet/constanta/2025/1129",
+"kind": "local",
+"year": "2025",
+"number": "1129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 1129/2025 privind modificarea organigramei si a statului de functii ale Directiei Cultura si Sport",
+"short": "HCJ Constanța nr. 1129/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-07",
+"latest": "2025-11-07",
+"portal": "https://www.cjc.ro/sectiune.php?s=206",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -3,6 +3,28 @@
 "shard": "local/judet/covasna/2026",
 "acts": [
 {
+"slug": "hcj-covasna-3-2026",
+"path": "local/judet/covasna/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 3/2026",
+"short": "HCJ Covasna nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-1-26-ianuarie-2026.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-covasna-31-2026",
 "path": "local/judet/covasna/2026/31",
 "kind": "local",
@@ -83,6 +105,28 @@
 "versions": 1,
 "from": "2026-04-15",
 "latest": "2026-04-15",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-49-88-aprilie-2026.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-covasna-50-2026",
+"path": "local/judet/covasna/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 50/2026 pentru modificarea anexei nr. 3 la Hotărârea Consiliului Județean Covasna nr. 104/2024 privind schimbarea denumirii Ansamblului de Dansuri „Trei Scaune – Háromszék”, precum și aprobarea Organigramei, a Statului de funcții și a Regulamentului de organizare și funcționare ale acestuia",
+"short": "HCJ Covasna nr. 50/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
 "portal": "https://www.cjcv.ro/ro/hotarari-nr-49-88-aprilie-2026.html",
 "council": "judet/covasna",
 "council_name": "Consiliul Județean Covasna",

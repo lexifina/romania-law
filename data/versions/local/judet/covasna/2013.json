@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/covasna/2013",
+ "acts": [
+  {
+   "slug": "hcj-covasna-174-2013",
+   "path": "local/judet/covasna/2013/174",
+   "short": "HCJ Covasna nr. 174/2013",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 174/2013 privind organizarea referendumului în vederea 2 consultării cetățenilor din județul Covasna privind oportunitatea înființării unei regiuni de dezvoltare formată din județele Harghita, Covasna și Mureș, cu centrul regiunii în municipiul Târgu Mureș HOTĂRÂREA Nr. 174/2013 Art.3. (1) În cazul suspendării ca urmare a controlului de privind organizarea referendumului în vederea consultării legalitate î",
+   "url": "https://www.cjcv.ro/ro/monitorul-oficial-al-judetului-covasna-pe-anul-2013.html",
+   "versions": [
+    {
+     "from": "2013-12-08",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/_f/arhiva_hotarari/2013/MONITORUL%20OFICIAL2013noiembrie11.pdf",
+     "sha256": "16b78615be1317c3fc89df98c215085921a7044d30b89adbe13d48435cf7d017"
+    }
+   ]
+  }
+ ]
+}

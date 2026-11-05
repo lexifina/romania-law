@@ -422,6 +422,28 @@
 }
 },
 {
+"slug": "hcj-covasna-172-2025",
+"path": "local/judet/covasna/2025/172",
+"kind": "local",
+"year": "2025",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 172/2025",
+"short": "HCJ Covasna nr. 172/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-31",
+"latest": "2025-07-31",
+"portal": "https://www.cjcv.ro/ro/hotarari-nr-145-179-iulie-2025.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-covasna-177-2025",
 "path": "local/judet/covasna/2025/177",
 "kind": "local",

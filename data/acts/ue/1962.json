@@ -3,6 +3,23 @@
 "shard": "ue/1962",
 "acts": [
 {
+"slug": "ue-regulament-17-1962",
+"path": "ue/regulament/1962/17",
+"kind": "ue",
+"year": "1962",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 17 Primul regulament de punere în aplicare a articolelor 85 și 86 din tratat",
+"short": "Regulamentul CELEX 31962R0017",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1962-03-13",
+"latest": "1962-03-13",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31962R0017"
+},
+{
 "slug": "ue-directiva-302-1962",
 "path": "ue/directiva/1962/302",
 "kind": "ue",

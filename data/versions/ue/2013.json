@@ -348,6 +348,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-45-2013",
+   "path": "ue/directiva/2013/45",
+   "short": "Directiva de punere în aplicare 2013/45/UE",
+   "title": "Directiva de punere în aplicare 2013/45/UE a Comisiei din 7 august 2013 de modificare a Directivelor 2002/55/CE și 2008/72/CE ale Consiliului și a Directivei 2009/145/CE a Comisiei în ceea ce privește denumirea botanică a tomatei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0045",
+   "versions": [
+    {
+     "from": "2013-08-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5048cd8d-0057-11e3-a352-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b1554c9e37d9e5568c0e83e4543e88548161c4e8b00674adfe62f3647b23d635"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-47-2013",
    "path": "ue/directiva/2013/47",
    "short": "Directiva 2013/47/UE",
@@ -453,6 +468,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-57-2013",
+   "path": "ue/directiva/2013/57",
+   "short": "Directiva de punere în aplicare 2013/57/UE",
+   "title": "Directiva de punere în aplicare 2013/57/UE a Comisiei din 20 noiembrie 2013 de modificare a Directivelor 2003/90/CE și 2003/91/CE de stabilire a măsurilor de punere în aplicare a articolului 7 din Directiva 2002/53/CE a Consiliului și, respectiv, a articolului 7 din Directiva 2002/55/CE a Consiliului în ceea ce privește caracteristicile minime de analizat și condițiile minime de verificare a anumitor soiuri de specii de plante agricole și specii de legume Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0057",
+   "versions": [
+    {
+     "from": "2013-12-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c1ef3518-5299-11e3-8945-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e7241e90136bbb4d6c9f114f4c228fcb3291d8d3ef0c23dfdd5d247960bf86fe"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-58-2013",
    "path": "ue/directiva/2013/58",
    "short": "Directiva 2013/58/UE",
@@ -494,6 +524,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/8761c01c-6f94-11e3-b589-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "df872ce45b48b2434fd99233e05457ead0e5a248e3b6d35f17d96352fba0c34d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-63-2013",
+   "path": "ue/directiva/2013/63",
+   "short": "Directiva de punere în aplicare 2013/63/UE",
+   "title": "Directiva de punere în aplicare 2013/63/UE a Comisiei din 17 decembrie 2013 de modificare a anexelor I și II la Directiva 2002/56/CE a Consiliului în ceea ce privește condițiile minime care trebuie îndeplinite de cartofii de sămânță și de loturile de cartofi de sămânță Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0063",
+   "versions": [
+    {
+     "from": "2014-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7c386db2-67d3-11e3-a7e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2479dbb99f5c20a16ab83b9dde1037c6e64036ed3e2bad1209ce43ae5ff26221"
     }
    ]
   },

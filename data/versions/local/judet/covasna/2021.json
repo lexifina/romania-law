@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/judet/covasna/2021",
+ "acts": [
+  {
+   "slug": "hcj-covasna-100-2021",
+   "path": "local/judet/covasna/2021/100",
+   "short": "HCJ Covasna nr. 100/2021",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 100/2021",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-94-112-iunie-2021.html",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2021/06/ro/100_2021.pdf",
+     "sha256": "dd61456d0d729db9d5f6ab1a9da6f23fbc7f9aafa4d30b854fb050145b943a78"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-121-2021",
+   "path": "local/judet/covasna/2021/121",
+   "short": "HCJ Covasna nr. 121/2021",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 121/2021",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-113-127-iulie-2021.html",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2021/07/ro/121_2021.pdf",
+     "sha256": "212fece924c1ac1761d8b7f6a04e4bfc01fdf97556d0dec0147e79be358d948e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-125-2021",
+   "path": "local/judet/covasna/2021/125",
+   "short": "HCJ Covasna nr. 125/2021",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 125/2021",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-113-127-iulie-2021.html",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2021/07/ro/125_2021.pdf",
+     "sha256": "3310f0f3c2ae4b62692cf8f521d4aa5973fdfb3ad6cbe0ac0ce998a2f74ec39b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-137-2021",
+   "path": "local/judet/covasna/2021/137",
+   "short": "HCJ Covasna nr. 137/2021",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 137/2021",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-128-142-august-2021.html",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2021/08/ro/137_2021.pdf",
+     "sha256": "79355c255f13cf021d94be8460bf39d9fcb66b09af2b96b15da0f4517537b06c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-138-2021",
+   "path": "local/judet/covasna/2021/138",
+   "short": "HCJ Covasna nr. 138/2021",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 138/2021",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-128-142-august-2021.html",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2021/08/ro/138_2021.pdf",
+     "sha256": "d953037daa4316447db0740cfcf88529b82efc9d61a2cc1d06b8a38452093df7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-152-2021",
+   "path": "local/judet/covasna/2021/152",
+   "short": "HCJ Covasna nr. 152/2021",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 152/2021",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-143-153-septembrie-2021.html",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2021/09/ro/152_2021.pdf",
+     "sha256": "d5d2e8601ae122f59db8b0bcfed437949930304e1268db31b55af506680308ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-155-2021",
+   "path": "local/judet/covasna/2021/155",
+   "short": "HCJ Covasna nr. 155/2021",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 155/2021",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-154-179-octombrie-2021.html",
+   "versions": [
+    {
+     "from": "2021-10-04",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2021/10/ro/155_2021.pdf",
+     "sha256": "94cfb2101e4a8931c03d516e32e4c69083e00827ad701eaafa14f3edc34221a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-179-2021",
+   "path": "local/judet/covasna/2021/179",
+   "short": "HCJ Covasna nr. 179/2021",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 179/2021",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-154-179-octombrie-2021.html",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2021/10/ro/179_2021.pdf",
+     "sha256": "8ae8e77e2d6358fc5eb9f1dcdc6d561c27afa2ed4affa38b3dd421411a8973ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-211-2021",
+   "path": "local/judet/covasna/2021/211",
+   "short": "HCJ Covasna nr. 211/2021",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 211/2021",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-180-217-noiembrie-2021.html",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2021/11/ro/211_2021.pdf",
+     "sha256": "a12780fbc5f3596e5a3872b85e83ecc6013869c93345939f5a9f7aa4a14d1578"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-217-2021",
+   "path": "local/judet/covasna/2021/217",
+   "short": "HCJ Covasna nr. 217/2021",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 217/2021 pentru modificarea anexei la Hotărârea Consiliului Județean Covasna nr. 122/2021 privind aprobarea încheierii Protocolului de colaborare între Județul Covasna prin",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-180-217-noiembrie-2021.html",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2021/11/ro/217_2021.pdf",
+     "sha256": "13d0fe35f97f369ec8d62355bb6fcfeede0ddcff7b35702b1dea56e16a4f2534"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-225-2021",
+   "path": "local/judet/covasna/2021/225",
+   "short": "HCJ Covasna nr. 225/2021",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 225/2021",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-218-241-decembrie-2021.html",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2021/12/ro/2021_225.pdf",
+     "sha256": "b9749b3a0a787e702a453568a5f688262fb868464694e5f089e1bcd256d89e5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-235-2021",
+   "path": "local/judet/covasna/2021/235",
+   "short": "HCJ Covasna nr. 235/2021",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 235/2021",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-218-241-decembrie-2021.html",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2021/12/ro/2021_235.pdf",
+     "sha256": "52a0cc07690c49b372d91f3409200c718525e25fe6463bb958759f8fd1fa9107"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-33-2021",
+   "path": "local/judet/covasna/2021/33",
+   "short": "HCJ Covasna nr. 33/2021",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 33/2021",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-28-41-februarie-2021.html",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2021/02/ro/33_2021.pdf",
+     "sha256": "ada85b1d4b5910c98f00350a0ead30f7af06f87c34c4e4fd81cadba5fa8c923f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-44-2021",
+   "path": "local/judet/covasna/2021/44",
+   "short": "HCJ Covasna nr. 44/2021",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 44/2021 privind încetarea dreptului de administrare al Ansamblului de Dansuri „Trei Scaune - Háromszék” asupra imobilului situat în municipiul Sfântu Gheorghe, str. Gábor Áron, nr. 14, județul Covasna, aflat în proprietatea privată a Județului Covasna",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-42-57-martie-2021.html",
+   "versions": [
+    {
+     "from": "2021-03-24",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2021/03/ro/44_2021.pdf",
+     "sha256": "e710bd8c2be828c422cf40967827653ffcdee61e5b18a5d59e9767c653e5cdf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-56-2021",
+   "path": "local/judet/covasna/2021/56",
+   "short": "HCJ Covasna nr. 56/2021",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 56/2021",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-42-57-martie-2021.html",
+   "versions": [
+    {
+     "from": "2021-03-24",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2021/03/ro/56_2021.pdf",
+     "sha256": "3a4e94d9f111f374248f7f1fc97263fb550fc20d25e2c577da6d15d82e49215f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-74-2021",
+   "path": "local/judet/covasna/2021/74",
+   "short": "HCJ Covasna nr. 74/2021",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 74/2021",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-69-93-mai-2021.html",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2021/05/ro/74_2021.pdf",
+     "sha256": "7972f6ddb734f43bbe0c5460ab7c88661a0c975407ba60e18502366a3764ce79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-79-2021",
+   "path": "local/judet/covasna/2021/79",
+   "short": "HCJ Covasna nr. 79/2021",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 79/2021",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-69-93-mai-2021.html",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2021/05/ro/79_2021.pdf",
+     "sha256": "52a3178dabb96aecfc6215477b3831bcf6d14054f56f4e46de8850d79fd05b88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-99-2021",
+   "path": "local/judet/covasna/2021/99",
+   "short": "HCJ Covasna nr. 99/2021",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 99/2021",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-94-112-iunie-2021.html",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2021/06/ro/99_2021.pdf",
+     "sha256": "c7cde5f206be6bae452eb6539a40a9b426b9247f0b0f596aff9f7fbabb0a7eac"
+    }
+   ]
+  }
+ ]
+}

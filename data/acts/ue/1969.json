@@ -55,6 +55,60 @@
 "flags": {
 "figures_missing": 1
 }
+},
+{
+"slug": "ue-regulament-549-1969",
+"path": "ue/regulament/1969/549",
+"kind": "ue",
+"year": "1969",
+"number": "549",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (Euratom, CECO, CEE) nr. 549/69 al Consiliului din 25 martie 1969 de stabilire a categoriilor de funcționari și agenți ai Comunităților Europene cărora li se aplică dispozițiile articolului 12, ale articolului 13 al doilea paragraf și ale articolului 14 din Protocolul privind privilegiile și imunitățile Comunităților",
+"short": "Regulamentul CELEX 31969R0549",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1969-04-16",
+"latest": "1969-04-16",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31969R0549"
+},
+{
+"slug": "ue-regulament-1265-1969",
+"path": "ue/regulament/1969/1265",
+"kind": "ue",
+"year": "1969",
+"number": "1265",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CEE) nr. 1265/69 al Comisiei din 1 iulie 1969 de stabilire a metodelor de stabilire a calității zahărului achiziționat de agențiile de intervenție",
+"short": "Regulamentul (CEE) nr. 1265/69",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1969-07-07",
+"latest": "1969-07-07",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31969R1265",
+"flags": {
+"figures_missing": 3
+}
+},
+{
+"slug": "ue-regulament-2604-1969",
+"path": "ue/regulament/1969/2604",
+"kind": "ue",
+"year": "1969",
+"number": "2604",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CEE) nr. 2604/69 al Consiliului din 20 decembrie 1969 privind aplicarea, în cazul departamentelor franceze de peste mări, a Regulamentului (CEE) nr. 2603/69 privind instituirea unui regim comun aplicabil exporturilor",
+"short": "Regulamentul (CEE) nr. 2604/69",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1969-12-31",
+"latest": "1969-12-31",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31969R2604"
 }
 ]
 }

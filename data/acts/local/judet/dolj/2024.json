@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/judet/dolj/2024",
+"acts": [
+{
+"slug": "hcj-dolj-389-2024",
+"path": "local/judet/dolj/2024/389",
+"kind": "local",
+"year": "2024",
+"number": "389",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 389/2024 privind aprobarea modificării statului de funcții pentru Unitatea de Asistență Medico - Socială Plenița",
+"short": "HCJ Dolj nr. 389/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-06",
+"latest": "2024-08-06",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2024-0000D7DA",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-614-2024",
+"path": "local/judet/dolj/2024/614",
+"kind": "local",
+"year": "2024",
+"number": "614",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 614/2024 privind aprobarea modificării statului de funcții pentru Unitatea de Asistență Medico - Socială Plenița",
+"short": "HCJ Dolj nr. 614/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-26",
+"latest": "2024-11-26",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2024-0000D7DA",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-723-2024",
+"path": "local/judet/dolj/2024/723",
+"kind": "local",
+"year": "2024",
+"number": "723",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 723/2024 privind aprobarea modificării statului de funcții pentru Direcția Publică Comunitară de Evidență a Persoanelor Dolj",
+"short": "HCJ Dolj nr. 723/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-10",
+"latest": "2024-01-10",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2024-0000D7DA",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-825-2024",
+"path": "local/judet/dolj/2024/825",
+"kind": "local",
+"year": "2024",
+"number": "825",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 825/2024 privind aprobarea modificării organigramei, a statului de funcții și a regulamentului de organizare și funcționare pentru Muzeul de Artă Craiova",
+"short": "HCJ Dolj nr. 825/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-18",
+"latest": "2024-06-18",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2024-0000D7DA",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-964-2024",
+"path": "local/judet/dolj/2024/964",
+"kind": "local",
+"year": "2024",
+"number": "964",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 964/2024 privind aprobarea modificării statului de funcții pentru Muzeul Olteniei Craiova",
+"short": "HCJ Dolj nr. 964/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-12",
+"latest": "2024-01-12",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2024-0000D7DA",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-996-2024",
+"path": "local/judet/dolj/2024/996",
+"kind": "local",
+"year": "2024",
+"number": "996",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 996/2024 privind aprobarea modificării statului de funcții pentru Unitatea Medico - Socială Brabova",
+"short": "HCJ Dolj nr. 996/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2024-0000D7DA",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-1281-2024",
+"path": "local/judet/dolj/2024/1281",
+"kind": "local",
+"year": "2024",
+"number": "1281",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 1281/2024",
+"short": "HCJ Dolj nr. 1281/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-16",
+"latest": "2024-01-16",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2024-0000D7DA",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

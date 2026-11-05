@@ -3,6 +3,51 @@
  "shard": "ue/2017",
  "acts": [
   {
+   "slug": "ue-directiva-1009-2017",
+   "path": "ue/directiva/2017/1009",
+   "short": "Directiva delegată (UE) 2017/1009",
+   "title": "Directiva delegată (UE) 2017/1009 a Comisiei din 13 martie 2017 de modificare, în scopul adaptării la progresul tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru cadmiul și plumbul din sticla filtrantă și din sticla utilizată la etaloanele de reflexie (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L1009",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ef1e3cde-525a-11e7-a5ca-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "32eea8a6a520474a538fbae48fb4fb64065333724517af3ef70b8441d1193359"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1010-2017",
+   "path": "ue/directiva/2017/1010",
+   "short": "Directiva delegată (UE) 2017/1010",
+   "title": "Directiva delegată (UE) 2017/1010 a Comisiei din 13 martie 2017 de modificare, în scopul adaptării la progresul tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru plumbul din carcase de lagăr și bucșe pentru anumite compresoare care conțin agenți refrigerenți (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L1010",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/410e7ec3-525b-11e7-a5ca-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a97ad9d7c2fa0d1e00ce25303f1b751dba15bf9db82084b337245a52c528b77b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1011-2017",
+   "path": "ue/directiva/2017/1011",
+   "short": "Directiva delegată (UE) 2017/1011",
+   "title": "Directiva delegată (UE) 2017/1011 a Comisiei din 15 martie 2017 de modificare, în scopul adaptării la progresul tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru plumbul din sticla albă utilizată la aplicații optice (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L1011",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/94e26a2b-525a-11e7-a5ca-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7c4e8962445f3a1d93a1c02045607bdc4462b7870739fb5396b5f70559694d36"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-1132-2017",
    "path": "ue/directiva/2017/1132",
    "short": "Directiva (UE) 2017/1132",
@@ -104,6 +149,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/60a2b186-b095-11e7-837e-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "a7610db92285bd6f58cf9616305658edf0010433993ca2ba6d6b960dba779d17"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1975-2017",
+   "path": "ue/directiva/2017/1975",
+   "short": "Directiva delegată (UE) 2017/1975",
+   "title": "Directiva delegată (UE) 2017/1975 a Comisiei din 7 august 2017 de modificare, în scopul adaptării la progresul științific și tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru cadmiul din diodele emițătoare de lumină (leduri) cu schimb de culoare destinate utilizării în sistemele de afișare (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L1975",
+   "versions": [
+    {
+     "from": "2017-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5ba16e74-bdd1-11e7-a7f8-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d08692a7c76156f361bc2eab05b110c468201c435d89167bc494541de8c00e2f"
     }
    ]
   },
@@ -299,6 +359,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/34a6d237-15d3-11e7-808e-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "b9a560740bef5b3ed8269b99026a175ba122ec162d2d055caedb1d0c7018f5cc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-593-2017",
+   "path": "ue/directiva/2017/593",
+   "short": "Directiva delegată (UE) 2017/593",
+   "title": "Directiva delegată (UE) 2017/593 a Comisiei din 7 aprilie 2016 de completare a Directivei 2014/65/UE a Parlamentului European și a Consiliului în ceea ce privește protejarea instrumentelor financiare și a fondurilor care aparțin clienților, obligațiile de guvernanță a produsului și normele aplicabile la acordarea sau primirea de onorarii, comisioane sau alte tipuri de beneficii pecuniare sau nepecuniare (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L0593",
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0d53df66-15d4-11e7-808e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a0454e7c8d672321ecccfdfafb676ee32db1da2b0466235f761c4c055fdc1d27"
     }
    ]
   },

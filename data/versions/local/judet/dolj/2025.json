@@ -3,6 +3,36 @@
  "shard": "local/judet/dolj/2025",
  "acts": [
   {
+   "slug": "hcj-dolj-2319-2025",
+   "path": "local/judet/dolj/2025/2319",
+   "short": "HCJ Dolj nr. 2319/2025",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 2319/2025",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2025-0001171E",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/dm_dolj/site.nsf/atasament/A295A9884A0F465D42258C440026D606/$FILE/HOT%2035.pdf?Open",
+     "sha256": "0fca9c19f915c9877cf519eff2f7afb47e90aac01de622735a0cdbba305a8eed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-611-2025",
+   "path": "local/judet/dolj/2025/611",
+   "short": "HCJ Dolj nr. 611/2025",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 611/2025 privind aprobarea modificării statului de funcții pentru Unitatea Medico - Socială Sadova",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2025-0001171E",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/dm_dolj/site.nsf/atasament/172DE99E58D63B6B42258CDC003DD2F2/$FILE/HOT%20200.pdf?Open",
+     "sha256": "0b869b20299550e5af0d3fb1f81fbeef0c62f4dc942bc664f8ed8be21a47558b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-663-2025",
    "path": "local/judet/dolj/2025/663",
    "short": "HCJ Dolj nr. 663/2025",
@@ -14,6 +44,36 @@
      "units": 1,
      "source_url": "https://www.cjdolj.ro/dm_dolj/site.nsf/atasament/E530EF78478E5C4C42258D65002FF27C/$FILE/HOT%20334.pdf?Open",
      "sha256": "765bb7f94fdf5df36d318da70b2fdad2884826820b326a161cd0b86c634a52ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-787-2025",
+   "path": "local/judet/dolj/2025/787",
+   "short": "HCJ Dolj nr. 787/2025",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 787/2025 privind aprobarea modificării statului de funcții pentru Muzeul de Artă Craiova",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2026-00014CE6",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/dm_dolj/site.nsf/atasament/AD90C140C77C581442258D950025D873/$FILE/HOT%2010.pdf?Open",
+     "sha256": "8a43e2fcef46905d3291d254ef023ec4c7bb2fbb3aa623837aac3473d08ee0c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-882-2025",
+   "path": "local/judet/dolj/2025/882",
+   "short": "HCJ Dolj nr. 882/2025",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 882/2025 privind aprobarea modificării statului de funcții pentru Unitatea Medico - Socială Brabova",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2025-0001171E",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/dm_dolj/site.nsf/atasament/F8AE7DCC2CD0B8D042258D3800345935/$FILE/HOT%20275.pdf?Open",
+     "sha256": "b2493274ca8794ed464b6d546f1a963b4ba4a985ab5f43f85bf3524fd6b459f3"
     }
    ]
   }

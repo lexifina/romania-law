@@ -46,6 +46,81 @@
      "sha256": "e098ea1c276fd29082f33db7335bea8657fd01a22840753c7a326df2031df235"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1397-1968",
+   "path": "ue/regulament/1968/1397",
+   "short": "Regulamentul (CEE) nr. 1397/68",
+   "title": "Regulamentul (CEE) nr. 1397/68 al Comisiei din 6 septembrie 1968 de modificare a Regulamentului nr. 474/67/CEE privind fixarea în avans a restituirii la exportul orezului și al brizurii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31968R1397",
+   "versions": [
+    {
+     "from": "1968-09-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d7bce884-2648-459a-ac49-e8557df89b12.0022.03/DOC_11",
+     "sha256": "2b1e75bda8ee33888b0d795e7a6c5f17b78b12de3b4f86d2da48d92d00ada395"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-259-1968",
+   "path": "ue/regulament/1968/259",
+   "short": "Regulamentul CELEX 31968R0259",
+   "title": "Cuprins",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31968R0259",
+   "versions": [
+    {
+     "from": "1968-03-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9db0c354-c67a-45ff-97b7-668090975afb.0022.05/DOC_2",
+     "sha256": "a5773778415cc2a873d4043d653c66ddb8bf7457c33591a5dbf60973aaa3507f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-260-1968",
+   "path": "ue/regulament/1968/260",
+   "short": "Regulamentul CELEX 31968R0260",
+   "title": "Regulamentul (CEE, Euratom, CECO) nr. 260/68 al Consiliului din 29 februarie 1968 de stabilire a condițiilor și a procedurii de aplicare a impozitului stabilit în beneficiul Comunităților Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31968R0260",
+   "versions": [
+    {
+     "from": "1968-03-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0159d79f-ee8d-4e80-b807-baed8b4efa00.0022.04/DOC_1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-261-1968",
+   "path": "ue/regulament/1968/261",
+   "short": "Regulamentul CELEX 31968R0261",
+   "title": "Regulamentul (CEE, Euratom, CECO) nr. 261/68 al Consiliului din 29 februarie 1968 de modificare a Regulamentului nr. 423/67/CEE, nr. 6/67/Euratom al Consiliului din 25 iulie 1967 de stabilire a regimului financiar al membrilor Comisiilor C.E.E. și C.E.E.A., precum și ai Înaltei Autorități care nu au fost numiți membri ai Comisiei unice a Comunităților Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31968R0261",
+   "versions": [
+    {
+     "from": "1968-03-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f7530541-2ced-4901-bd04-57ae4759443d.0020.04/DOC_1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-421-1968",
+   "path": "ue/regulament/1968/421",
+   "short": "Regulamentul CELEX 31968R0421",
+   "title": "Regulamentul (CEE, Euratom, CECO) nr. 421/68 al Consiliului din 5 aprilie 1968 de modificare a Regulamentului nr. 423/67/CEE, nr. 6/67/Euratom al Consiliului din 25 iulie 1967 de stabilire a regimului financiar al membrilor Comisiilor C.E.E. și C.E.E.A., precum și ai Înaltei Autorități care nu au fost numiți membri ai Comisiei unice a Comunităților Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31968R0421",
+   "versions": [
+    {
+     "from": "1968-04-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/78d72712-f068-4d3e-acac-936d912e985b.0020.04/DOC_1",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

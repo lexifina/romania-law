@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/judet/dolj/2014",
+ "acts": [
+  {
+   "slug": "hcj-dolj-122-2014",
+   "path": "local/judet/dolj/2014/122",
+   "short": "HCJ Dolj nr. 122/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 122/2014 pentru aparatul de specialitate al Consiliului Judetean Dolj, conform anexei nr. 1 la prezenta hotarare",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-06-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%20122.pdf",
+     "sha256": "d80f0d21daf99cb8d6681078b4cfd2bb97723fb6af013d694030f84103446fc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-127-2014",
+   "path": "local/judet/dolj/2014/127",
+   "short": "HCJ Dolj nr. 127/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 127/2014 pentru anul 2014” – anexa 1",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%20127.pdf",
+     "sha256": "2dedd8ce34c45a5159344c300804de962d5cbe98144eb3b29e6117017a68aa3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-139-2014",
+   "path": "local/judet/dolj/2014/139",
+   "short": "HCJ Dolj nr. 139/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 139/2014 pentru conditii vatama",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%20139.pdf",
+     "sha256": "14ece34f2a1caea0bb2eed1e57cae766f674a378809c290aedb757848e6a9cf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-21-2014",
+   "path": "local/judet/dolj/2014/21",
+   "short": "HCJ Dolj nr. 21/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 21/2014",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-02-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2021.pdf",
+     "sha256": "d824bfcc859b15d95b7157f0a07468bdd0878ea96752eff74d25fcf484507070"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-37-2014",
+   "path": "local/judet/dolj/2014/37",
+   "short": "HCJ Dolj nr. 37/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 37/2014",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-03-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2037.pdf",
+     "sha256": "c4ce1572f8cc6dd64df7403259a7d30fa72fe507ebafca1182b9e0ead2c3050f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-38-2014",
+   "path": "local/judet/dolj/2014/38",
+   "short": "HCJ Dolj nr. 38/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 38/2014",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-03-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2038.pdf",
+     "sha256": "a1b8e71424b5a57272c68d481cdc50b63a317c7e2c2f434ad673a7af9a83739e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-45-2014",
+   "path": "local/judet/dolj/2014/45",
+   "short": "HCJ Dolj nr. 45/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 45/2014",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-02-25",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2045.pdf",
+     "sha256": "e63bd853afe8f0814590d058dfd2ec7ad1bd9164aaa641b8857bc4e1d4bf628f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-48-2014",
+   "path": "local/judet/dolj/2014/48",
+   "short": "HCJ Dolj nr. 48/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 48/2014",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-03-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2048.pdf",
+     "sha256": "c718e9d67d278cb79547a6f505ea2b8d5f075cefe5df2499dae7dd6caca04996"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-53-2014",
+   "path": "local/judet/dolj/2014/53",
+   "short": "HCJ Dolj nr. 53/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 53/2014",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-03-03",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2053.pdf",
+     "sha256": "6da65c69ee19a9430c69a39071840d1a4a3fc8db66b83c8e003710a5643ea877"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-54-2014",
+   "path": "local/judet/dolj/2014/54",
+   "short": "HCJ Dolj nr. 54/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 54/2014",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-03-03",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2054.pdf",
+     "sha256": "72ef4fa25337a4d6917a9a4a7dda4f9eadcbd9a3c390ee26f9bdd8ef99f99199"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-82-2014",
+   "path": "local/judet/dolj/2014/82",
+   "short": "HCJ Dolj nr. 82/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 82/2014",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-04-14",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2082.pdf",
+     "sha256": "70feaa1bbd0c19b8f4fd7de2ba533958969991fba08417acefb03244a6467994"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-98-2014",
+   "path": "local/judet/dolj/2014/98",
+   "short": "HCJ Dolj nr. 98/2014",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 98/2014",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+   "versions": [
+    {
+     "from": "2014-05-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2014/Hotararea%2098.pdf",
+     "sha256": "46ab20b1f03865da10e6279fad019684f925d92081fbc2f10774b01686e17862"
+    }
+   ]
+  }
+ ]
+}

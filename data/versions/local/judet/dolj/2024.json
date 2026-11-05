@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/judet/dolj/2024",
+ "acts": [
+  {
+   "slug": "hcj-dolj-1281-2024",
+   "path": "local/judet/dolj/2024/1281",
+   "short": "HCJ Dolj nr. 1281/2024",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 1281/2024",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2024-0000D7DA",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/dm_dolj/site.nsf/atasament/A29B1611B0ACF3B842258AB5003E3D98/$FILE/HOT%208.pdf?Open",
+     "sha256": "1fec6a5c615130d3a26ba1625f04afd2836ebb72443a5c6743b674eb84d525aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-389-2024",
+   "path": "local/judet/dolj/2024/389",
+   "short": "HCJ Dolj nr. 389/2024",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 389/2024 privind aprobarea modificării statului de funcții pentru Unitatea de Asistență Medico - Socială Plenița",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2024-0000D7DA",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/dm_dolj/site.nsf/atasament/FA748B5EB2BE268542258B8D0035030A/$FILE/HOT%20215.pdf?Open",
+     "sha256": "b83873f7f9ecd3131b9aa32fb8fa4a98506c7ed3be8b517043e87c6e39862e99"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-614-2024",
+   "path": "local/judet/dolj/2024/614",
+   "short": "HCJ Dolj nr. 614/2024",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 614/2024 privind aprobarea modificării statului de funcții pentru Unitatea de Asistență Medico - Socială Plenița",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2024-0000D7DA",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/dm_dolj/site.nsf/atasament/E7964F4B4542471642258BFC002F7162/$FILE/HOT%20304.pdf?Open",
+     "sha256": "6a6d444c4ec55b3454e9a29062ef770317f2f6eafa96ceee5060d5fefff99869"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-723-2024",
+   "path": "local/judet/dolj/2024/723",
+   "short": "HCJ Dolj nr. 723/2024",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 723/2024 privind aprobarea modificării statului de funcții pentru Direcția Publică Comunitară de Evidență a Persoanelor Dolj",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2024-0000D7DA",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/dm_dolj/site.nsf/atasament/E25C39664E71479B42258AB5003E070E/$FILE/HOT%207.pdf?Open",
+     "sha256": "bb663bf21f73d485e6cda9bc2ca2a305ccb8b7010303c1c41639125d57efb436"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-825-2024",
+   "path": "local/judet/dolj/2024/825",
+   "short": "HCJ Dolj nr. 825/2024",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 825/2024 privind aprobarea modificării organigramei, a statului de funcții și a regulamentului de organizare și funcționare pentru Muzeul de Artă Craiova",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2024-0000D7DA",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/dm_dolj/site.nsf/atasament/1E83F66D43243E8942258B4D003ADCF5/$FILE/HOT%20163.pdf?Open",
+     "sha256": "fc620dd3ed15f1e23e55fba773a5fb87de709fee58e8ffd44d3d7f7dd6cddf5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-964-2024",
+   "path": "local/judet/dolj/2024/964",
+   "short": "HCJ Dolj nr. 964/2024",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 964/2024 privind aprobarea modificării statului de funcții pentru Muzeul Olteniei Craiova",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2024-0000D7DA",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/dm_dolj/site.nsf/atasament/C4F181D90DB07E6642258AB5003E605A/$FILE/HOT%209.pdf?Open",
+     "sha256": "32ac91cbf7740b3b5cfa9c39943a4b0a12ca95877a999febbf8048b1c401367c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-996-2024",
+   "path": "local/judet/dolj/2024/996",
+   "short": "HCJ Dolj nr. 996/2024",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 996/2024 privind aprobarea modificării statului de funcții pentru Unitatea Medico - Socială Brabova",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2024-0000D7DA",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/dm_dolj/site.nsf/atasament/B38054CD0E5E482542258BFC002F49FB/$FILE/HOT%20303.pdf?Open",
+     "sha256": "0f4bffdcfe34f282e3af8dcdca8f0e0449dca8c30b6c7bbfe2d77910947c0518"
+    }
+   ]
+  }
+ ]
+}

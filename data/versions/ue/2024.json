@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-1262-2024",
+   "path": "ue/directiva/2024/1262",
+   "short": "Directiva delegată (UE) 2024/1262",
+   "title": "Directiva delegată (UE) 2024/1262 a Comisiei din 13 martie 2024 de modificare a Directivei 2010/63/UE a Parlamentului European și a Consiliului în ceea ce privește cerințele referitoare la unități și la îngrijirea și adăpostirea animalelor, precum și în ceea ce privește metodele de ucidere a animalelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1262",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/efe125a6-1253-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "67e32e24e612dffa95f4b0eda4dc9020978f1f6dd313b4c0b190c07de6c080dc"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-1265-2024",
    "path": "ue/directiva/2024/1265",
    "short": "Directiva (UE) 2024/1265",
@@ -164,6 +179,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/51d63356-1968-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "7a63c8d500d39b9f889f0119f5b994154d07caaacc4273768d4a320e8d39585e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1405-2024",
+   "path": "ue/directiva/2024/1405",
+   "short": "Directiva delegată (UE) 2024/1405",
+   "title": "Directiva delegată (UE) 2024/1405 a Comisiei din 14 martie 2024 de modificare a anexei IX la Directiva (UE) 2018/2001 a Parlamentului European și a Consiliului în ceea ce privește adăugarea de materii prime pentru producția de biocombustibili și biogaz",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1405",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/630ccfe0-1414-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "2fc1732278e8aa7b451b76c2c86d609852fd498f90bc0f010b8daca7afd23dbd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1416-2024",
+   "path": "ue/directiva/2024/1416",
+   "short": "Directiva delegată (UE) 2024/1416",
+   "title": "Directiva delegată (UE) 2024/1416 a Comisiei din 13 martie 2024 de modificare a Directivei 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru cadmiul din punctele cuantice pentru conversia de lungime de undă (downshifting) depuse direct pe cipurile semiconductoare din leduri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1416",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b14fd45e-170c-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "53b28604c009f7a597aad251a66cc7d0cc425f2ef418eaff08e92ebcb01f045d"
     }
    ]
   },
@@ -348,6 +393,51 @@
    ]
   },
   {
+   "slug": "ue-directiva-1986-2024",
+   "path": "ue/directiva/2024/1986",
+   "short": "Directiva delegată (UE) 2024/1986",
+   "title": "Directiva delegată (UE) 2024/1986 a Comisiei din 6 mai 2024 de modificare a Directivei (UE) 2019/997 a Consiliului în ceea ce privește zona de citire optică a documentului de călătorie provizoriu al UE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1986",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d5459ef6-430d-11ef-865a-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "81b2752a3d699e4aeac143970d51ea1918a2b4fce168f6a559ca74a81d473de7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-232-2024",
+   "path": "ue/directiva/2024/232",
+   "short": "Directiva delegată (UE) 2024/232",
+   "title": "Directiva delegată (UE) 2024/232 a Comisiei din 25 octombrie 2023 de modificare a Directivei 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru cadmiul și plumbul utilizat în profilurile de plastic ale ferestrelor și ușilor electrice și electronice care conțin clorură de polivinil rigidă recuperată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L0232",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7e656ba1-af59-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "ad924c662b25c8a849a3da24488d5fa6f5e44600c09b55c5262bcfbe4b14adfc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-242-2024",
+   "path": "ue/directiva/2024/242",
+   "short": "Directiva delegată (UE) 2024/242",
+   "title": "Directiva delegată (UE) 2024/242 a Comisiei din 27 septembrie 2023 de modificare a Directivei 2009/43/CE a Parlamentului European și a Consiliului în ceea ce privește actualizarea listei produselor din domeniul apărării în conformitate cu versiunea actualizată a Listei comune a Uniunii Europene cuprinzând produsele militare din 20 februarie 2023",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L0242",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/80cb528c-b4db-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "c6a7af0c0404a0238e342416731d1b3e1f24696abbb3f1c844694ea5defea349"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-2749-2024",
    "path": "ue/directiva/2024/2749",
    "short": "Directiva (UE) 2024/2749",
@@ -513,6 +603,36 @@
    ]
   },
   {
+   "slug": "ue-directiva-2963-2024",
+   "path": "ue/directiva/2024/2963",
+   "short": "Directiva de punere în aplicare (UE) 2024/2963",
+   "title": "Directiva de punere în aplicare (UE) 2024/2963 a Comisiei din 29 noiembrie 2024 de modificare a Directivelor 2003/90/CE și 2003/91/CE în ceea ce privește protocoalele de examinare a anumitor soiuri de specii de plante agricole și de specii de legume",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L2963",
+   "versions": [
+    {
+     "from": "2024-12-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f00c1de9-b051-11ef-acb1-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "c1b1e9e635555acd3324c992399e2d826be50c7c3dadaaf674a1b96cf09292b2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-299-2024",
+   "path": "ue/directiva/2024/299",
+   "short": "Directiva delegată (UE) 2024/299",
+   "title": "Directiva delegată (UE) 2024/299 a Comisiei din 27 octombrie 2023 de modificare a Directivei (UE) 2016/2284 a Parlamentului European și a Consiliului privind metodologia de raportare a prognozelor de emisii de anumiți poluanți atmosferici",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L0299",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b30a544e-b4db-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "a52b4988efe11065af7c95cf4e9c37db0074699ce468f26b6e586f6c311ea12e"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-2994-2024",
    "path": "ue/directiva/2024/2994",
    "short": "Directiva (UE) 2024/2994",
@@ -524,6 +644,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/ef90f649-b1e0-11ef-acb1-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "5eca38a2f12661aec8d58053783a1e9c3be5baca2329e192b9b2c51bbfe7eef1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-3010-2024",
+   "path": "ue/directiva/2024/3010",
+   "short": "Directiva de punere în aplicare (UE) 2024/3010",
+   "title": "Directiva de punere în aplicare (UE) 2024/3010 a Comisiei din 29 noiembrie 2024 de modificare a Directivelor 2002/55/CE și 2002/57/CE ale Consiliului și a Directivei 93/61/CEE a Comisiei în ceea ce privește includerea unor organisme dăunătoare plantelor prezente pe semințe și pe alte materiale de reproducere a plantelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L3010",
+   "versions": [
+    {
+     "from": "2024-12-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/33185d7c-b1e0-11ef-acb1-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "befcc0f649071325ad36055c87af5a2bd17921c91b9ccb44fad3432320417d81"
     }
    ]
   },
@@ -618,6 +753,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-325-2024",
+   "path": "ue/directiva/2024/325",
+   "short": "Directiva de punere în aplicare (UE) 2024/325",
+   "title": "Directiva de punere în aplicare (UE) 2024/325 a Comisiei din 19 ianuarie 2024 de modificare a Directivei de punere în aplicare (UE) 2019/68 în ceea ce privește adâncimea minimă a marcajelor aplicate pe armele de foc și pe componentele esențiale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L0325",
+   "versions": [
+    {
+     "from": "2024-02-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ec678055-b8c8-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "1b4355b66b1354ceccb842b6c337592354cf977aa1f8f2ea6bd3a16cb4243268"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-505-2024",
    "path": "ue/directiva/2024/505",
    "short": "Directiva (UE) 2024/505",
@@ -629,6 +779,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/cd63e106-c947-11ee-95d9-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "c3a8370f2300c8b005c508233f5c46c00091a645ff900c71245f94d7772d8541"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-782-2024",
+   "path": "ue/directiva/2024/782",
+   "short": "Directiva delegată (UE) 2024/782",
+   "title": "Directiva delegată (UE) 2024/782 a Comisiei din 4 martie 2024 de modificare a Directivei 2005/36/CE a Parlamentului European și a Consiliului în ceea ce privește cerințele minime în materie de formare pentru profesiile de asistent medical generalist, de medic dentist și de farmacist",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L0782",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6fb726c1-1ee6-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "8a89f8e7f893ac73acc6f0cd1ef99da6566546e93bd1025442a5c991657f9349"
     }
    ]
   },
@@ -659,6 +824,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/1391c6b2-db63-11ee-b9d9-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "8dd3870bf74499cb5591cbdae811bd731b5e144e3b597fe324ad5d296e05db47"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-846-2024",
+   "path": "ue/directiva/2024/846",
+   "short": "Directiva delegată (UE) 2024/846",
+   "title": "Directiva delegată (UE) 2024/846 a Comisiei din 14 martie 2024 de modificare a Directivei 2006/22/CE a Parlamentului European și a Consiliului privind condițiile minime pentru punerea în aplicare a Regulamentelor (CE) nr. 561/2006 și (UE) nr. 165/2014 și a Directivei 2002/15/CE în ceea ce privește legislația socială referitoare la activitățile de transport rutier",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L0846",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bbc18d3e-1ee6-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "801e8c947c8a15d7af058b2c91c8d541059003bb363534b2cccf406640d5df23"
     }
    ]
   },
@@ -738,6 +918,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1004-2024",
+   "path": "ue/regulament/2024/1004",
+   "short": "Regulamentul delegat CELEX 32024R1004",
+   "title": "Regulamentul delegat (UE) 2024/1004 al Comisiei din 22 ianuarie 2024 de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului prin înființarea unui laborator de referință al Uniunii Europene pentru amelioratori alimentari",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1004",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/54efc298-f154-11ee-8e14-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "fd54ddb908aa7626bb6913473ac866e5290f9f08a9baad2fb820019f3a1715ef"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1022-2024",
    "path": "ue/regulament/2024/1022",
    "short": "Regulamentul (UE) 2024/1022",
@@ -813,6 +1008,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-1041-2024",
+   "path": "ue/regulament/2024/1041",
+   "short": "Regulamentul delegat CELEX 32024R1041",
+   "title": "Regulamentul delegat (UE) 2024/1041 al Comisiei din 28 noiembrie 2023 de modificare a Regulamentului (UE) 2022/869 al Parlamentului European și al Consiliului în ceea ce privește lista proiectelor de interes comun și a proiectelor de interes reciproc a Uniunii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1041",
+   "versions": [
+    {
+     "from": "2024-04-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c598bced-f53f-11ee-8e14-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "465f36ac5f2d621c561b4ba888c68496f824bccec757524af63efa90734736d3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1060-2024",
+   "path": "ue/regulament/2024/1060",
+   "short": "Regulamentul delegat CELEX 32024R1060",
+   "title": "Regulamentul delegat (UE) 2024/1060 al Comisiei din 26 ianuarie 2024 de modificare a Regulamentului (UE) 2019/1241 al Parlamentului European și al Consiliului în ceea ce privește măsurile tehnice pentru halibutul de Atlantic în Skagerrak și Kattegat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1060",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c5fb283f-f53f-11ee-8e14-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "3992e44391f2ae93a8c27f1f56141f5c248b5a4fc6133bb69912d4ba1bd6f72d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1072-2024",
+   "path": "ue/regulament/2024/1072",
+   "short": "Regulamentul delegat CELEX 32024R1072",
+   "title": "Regulamentul delegat (UE) 2024/1072 al Comisiei din 25 ianuarie 2024 de modificare a Regulamentului delegat (UE) 2015/2446 în ceea ce privește deciziile referitoare la informațiile obligatorii în domeniul determinării valorii în vamă și deciziile referitoare la informațiile de origine obligatorii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1072",
+   "versions": [
+    {
+     "from": "2024-05-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a8a5067b-fac6-11ee-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "0f3da025dcd4e73968478a81a067d417bc343011247b781d70743eae4f591789"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1076-2024",
    "path": "ue/regulament/2024/1076",
    "short": "Regulamentul (UE) 2024/1076",
@@ -873,6 +1113,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1082-2024",
+   "path": "ue/regulament/2024/1082",
+   "short": "Regulamentul delegat CELEX 32024R1082",
+   "title": "Regulamentul delegat (UE) 2024/1082 al Comisiei din 6 februarie 2024 de înlocuire a anexei I la Regulamentul (UE) 2019/788 al Parlamentului European și al Consiliului privind inițiativa cetățenească europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1082",
+   "versions": [
+    {
+     "from": "2024-05-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e6c2d7bf-f868-11ee-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "af874d7f6bed1a663f95014028afd8d9abeadc7b0180a19dfed571825e4d4461"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1083-2024",
    "path": "ue/regulament/2024/1083",
    "short": "Regulamentul (UE) 2024/1083",
@@ -884,6 +1139,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/d9f4ded9-fc54-11ee-a251-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "5b95dcb04a4dfb583da93a3a9f0a43f5234919af3b73c4f2e2024f90e2921b27"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1084-2024",
+   "path": "ue/regulament/2024/1084",
+   "short": "Regulamentul delegat CELEX 32024R1084",
+   "title": "Regulamentul delegat (UE) 2024/1084 al Comisiei din 6 februarie 2024 de modificare a Regulamentului delegat (UE) nr. 305/2013 de completare a Directivei 2010/40/UE a Parlamentului European și a Consiliului în ceea ce privește furnizarea în mod armonizat a unui sistem eCall interoperabil la nivelul UE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1084",
+   "versions": [
+    {
+     "from": "2024-05-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4fcfd942-f869-11ee-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "942b423e811969b478e528e730aa4898bbe8874a402824eb16e661df9055979a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1085-2024",
+   "path": "ue/regulament/2024/1085",
+   "short": "Regulamentul delegat CELEX 32024R1085",
+   "title": "Regulamentul delegat (UE) 2024/1085 al Comisiei din 13 martie 2024 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la metodologia de evaluare pe baza căreia autoritățile competente verifică respectarea de către o instituție a cerințelor de utilizare a modelelor interne pentru riscul de piață",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1085",
+   "versions": [
+    {
+     "from": "2024-07-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/81c4ab4f-2c45-11ef-a61b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "af77bd4d3cda34214eb04fb20411b179d519ea496a5c264d6b10304b4977e5b0"
     }
    ]
   },
@@ -918,6 +1203,66 @@
    ]
   },
   {
+   "slug": "ue-regulament-1107-2024",
+   "path": "ue/regulament/2024/1107",
+   "short": "Regulamentul delegat CELEX 32024R1107",
+   "title": "Regulamentul delegat (UE) 2024/1107 al Comisiei din 13 martie 2024 de completare a Regulamentului (UE) 2018/1139 al Parlamentului European și al Consiliului prin stabilirea unor norme detaliate privind continuitatea navigabilității sistemelor certificate de aeronave fără pilot la bord și a componentelor acestora și autorizarea organizațiilor și personalului cu atribuții în domeniu",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1107",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/11e447dc-189d-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "300f7e889fcd5fdb1a0e4b5b9eb05159a6fab8929e1e8de52446e903875aa6f2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1108-2024",
+   "path": "ue/regulament/2024/1108",
+   "short": "Regulamentul delegat CELEX 32024R1108",
+   "title": "Regulamentul delegat (UE) 2024/1108 al Comisiei din 13 martie 2024 de modificare a Regulamentului (UE) nr. 748/2012 în ceea ce privește navigabilitatea inițială a sistemelor de aeronave fără pilot la bord care fac obiectul certificării și a Regulamentului delegat (UE) 2019/945 în ceea ce privește sistemele de aeronave fără pilot la bord și operatorii de sisteme de aeronave fără pilot la bord din țări terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1108",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f6549dcd-189c-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "3777ff6c05e9206aecc9c58d8d07e6bb3682a5e19d37b797cfd7ef24ed4b6441"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1127-2024",
+   "path": "ue/regulament/2024/1127",
+   "short": "Regulamentul delegat CELEX 32024R1127",
+   "title": "Regulamentul delegat (UE) 2024/1127 al Comisiei din 8 februarie 2024 de completare a Regulamentului (UE) 2019/1242 al Parlamentului European și al Consiliului prin stabilirea principiilor directoare și a criteriilor pentru definirea procedurilor de verificare a valorilor emisiilor de CO2 și ale consumului de combustibil ale vehiculelor grele în circulație (verificarea în circulație)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1127",
+   "versions": [
+    {
+     "from": "2024-05-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a0c959b1-fb8b-11ee-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "6af1f1abecdf6b63e404f8c902a69ad7a110b266e218f87a7168f691c6fa72a4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1141-2024",
+   "path": "ue/regulament/2024/1141",
+   "short": "Regulamentul delegat CELEX 32024R1141",
+   "title": "Regulamentul delegat (UE) 2024/1141 al Comisiei din 14 decembrie 2023 de modificare a anexelor II și III la Regulamentul (CE) nr. 853/2004 al Parlamentului European și al Consiliului în ceea ce privește cerințele specifice de igienă pentru anumite tipuri de carne, produse pescărești, produse lactate și ouă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1141",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/01fb79bc-fde5-11ee-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "158409f192e4209b18a8a40ecd45b1c503d8a628c2d3b36c55bef7649f2f1426"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1143-2024",
    "path": "ue/regulament/2024/1143",
    "short": "Regulamentul (UE) 2024/1143",
@@ -944,6 +1289,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/158d0d27-068f-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "14a060c69bf37a4d62cff2b5e33a5f469bce88b56d39f93624531d0476f20563"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1159-2024",
+   "path": "ue/regulament/2024/1159",
+   "short": "Regulamentul delegat CELEX 32024R1159",
+   "title": "Regulamentul delegat (UE) 2024/1159 al Comisiei din 7 februarie 2024 de completare a Regulamentului (UE) 2019/6 al Parlamentului European și al Consiliului prin stabilirea unor norme cu privire la măsurile adecvate pentru a asigura utilizarea eficace și în condiții de siguranță a produselor medicinale veterinare autorizate și prescrise pentru administrare orală pe alte căi decât furajele medicamentate, care sunt administrate de către deținătorul de animale unor animale de la care se obțin produse alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1159",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aacd0e0a-fde4-11ee-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "7d996b6afd948e4afa3ea2911420153eba58a94b17fa2344866a2be2654f9e3d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1173-2024",
+   "path": "ue/regulament/2024/1173",
+   "short": "Regulamentul delegat CELEX 32024R1173",
+   "title": "Regulamentul delegat (UE) 2024/1173 al Comisiei din 13 martie 2024 de modificare a Regulamentului delegat (UE) 2020/760 al Comisiei în ceea ce privește unele dispoziții, în urma Acordului de liber schimb dintre Uniunea Europeană și Noua Zeelandă, și eliminarea unor dispoziții caduce referitoare la contingentul tarifar de export pentru lapte praf",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1173",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8dfd1c96-01d2-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "e98301b1204c4793ad4886b430c50c6712649eb03f5db34300deb18899420c18"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1180-2024",
+   "path": "ue/regulament/2024/1180",
+   "short": "Regulamentul delegat CELEX 32024R1180",
+   "title": "Regulamentul delegat (UE) 2024/1180 al Comisiei din 14 februarie 2024 de modificare a Regulamentului (UE) 2015/758 al Parlamentului European și al Consiliului în ceea ce privește standardele referitoare la eCall",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1180",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2583b2a7-fde5-11ee-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "27e0eff9c82e7fb38b8d95a573dd9f23e05214a3790a4fcf4e00d6a32b5b648f"
     }
    ]
   },
@@ -978,6 +1368,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1208-2024",
+   "path": "ue/regulament/2024/1208",
+   "short": "Regulamentul delegat CELEX 32024R1208",
+   "title": "Regulamentul delegat (UE) 2024/1208 al Comisiei din 16 noiembrie 2023 de modificare a Directivei 2000/14/CE a Parlamentului European și a Consiliului în ceea ce privește metodele de măsurare a zgomotului emis de echipamentele utilizate în exterior",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1208",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/31eda95d-081c-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "f382f3b02cbe8920a2936fbae23be4a67439267130d4cef527c75f2b086b3fef"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1229-2024",
+   "path": "ue/regulament/2024/1229",
+   "short": "Regulamentul delegat CELEX 32024R1229",
+   "title": "Regulamentul delegat (UE) 2024/1229 al Comisiei din 20 februarie 2024 de completare a Regulamentului (UE) 2019/4 al Parlamentului European și al Consiliului prin stabilirea unor niveluri maxime specifice de contaminare încrucișată pentru substanțele active antimicrobiene în furajele nevizate și a metodelor de analiză pentru aceste substanțe active antimicrobiene din furaje",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1229",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a353deda-068e-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "345a4b0d239b070cb8fde8296f935b23b21c5e0057dfca779314fa950ad165a2"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1230-2024",
    "path": "ue/regulament/2024/1230",
    "short": "Regulamentul (UE) 2024/1230",
@@ -989,6 +1409,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/b3f3333c-05c9-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "00b65fed2098d86df7e61aebf4843ea4551801f055506ccf412f7b5e5f5384f3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1232-2024",
+   "path": "ue/regulament/2024/1232",
+   "short": "Regulamentul delegat CELEX 32024R1232",
+   "title": "Regulamentul delegat (UE) 2024/1232 al Comisiei din 5 martie 2024 de completare a Regulamentului (UE) 2022/2371 al Parlamentului European și al Consiliului în ceea ce privește evaluările stadiului punerii în aplicare a planurilor naționale de prevenire, pregătire și răspuns și ale relației acestora cu planul de prevenire, pregătire și răspuns al Uniunii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1232",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3c5f5d06-0cd3-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "9ad237d3e89dd88d9d2b47194d6c6557dc5781697e7c3908d7e89f0df4fd8d1a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1235-2024",
+   "path": "ue/regulament/2024/1235",
+   "short": "Regulamentul delegat CELEX 32024R1235",
+   "title": "Regulamentul delegat (UE) 2024/1235 al Comisiei din 12 martie 2024 de modificare a Regulamentului delegat (UE) 2022/126 al Comisiei de completare a Regulamentului (UE) 2021/2115 al Parlamentului European și al Consiliului în ceea ce privește normele privind raportul pentru standardul privind bunele condiții agricole și de mediu (GAEC) 1",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1235",
+   "versions": [
+    {
+     "from": "2024-04-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a2c9a981-0365-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "3ca48676084a6f0bc2c775d1ad2a0a499f719901a046923dbe1200917e607df3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1239-2024",
+   "path": "ue/regulament/2024/1239",
+   "short": "Regulamentul delegat CELEX 32024R1239",
+   "title": "Regulamentul delegat (UE) 2024/1239 al Comisiei din 22 februarie 2024 de modificare a Regulamentului (UE) 2018/196 al Parlamentului European și al Consiliului privind drepturi vamale suplimentare la importurile anumitor produse originare din Statele Unite ale Americii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1239",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/054fa114-05c7-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "61de3575e1431c4642e685892a294e66d74866741d4d7eda1f8c9561110efc35"
     }
    ]
   },
@@ -1083,6 +1548,66 @@
    ]
   },
   {
+   "slug": "ue-regulament-1290-2024",
+   "path": "ue/regulament/2024/1290",
+   "short": "Regulamentul delegat CELEX 32024R1290",
+   "title": "Regulamentul delegat (UE) 2024/1290 al Comisiei din 29 februarie 2024 de modificare a Regulamentului (UE) nr. 528/2012 al Parlamentului European și al Consiliului în vederea includerii azotului generat din aerul ambiental ca substanță activă în anexa I la regulamentul respectiv",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1290",
+   "versions": [
+    {
+     "from": "2024-05-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1bdf7c1d-0b43-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "41983165ee08ebb79ed4fcc3af4c6e5534e4b4b874e3750612b899776c46e716"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1294-2024",
+   "path": "ue/regulament/2024/1294",
+   "short": "Regulamentul delegat CELEX 32024R1294",
+   "title": "Regulamentul delegat (UE) 2024/1294 al Comisiei din 1 martie 2024 de rectificare a anumitor versiuni lingvistice ale Regulamentului delegat (UE) 2023/2867 de completare a Regulamentului (UE) 2019/631 al Parlamentului European și al Consiliului prin stabilirea principiilor directoare și a criteriilor pentru definirea procedurilor de verificare a valorilor emisiilor de CO2 și ale consumului de combustibil ale autoturismelor și ale vehiculelor utilitare ușoare în circulație (verificare în circulație)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1294",
+   "versions": [
+    {
+     "from": "2024-05-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/86c0d249-0b44-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "60769388c4f15689ec6fb98e6aec37fc184fcc62f68c2111c7a6290e89125f03"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1295-2024",
+   "path": "ue/regulament/2024/1295",
+   "short": "Regulamentul delegat CELEX 32024R1295",
+   "title": "Regulamentul delegat (UE) 2024/1295 al Comisiei din 26 februarie 2024 privind specificațiile tehnice și standardele de testare armonizate pentru furtunurile pentru stingerea incendiilor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1295",
+   "versions": [
+    {
+     "from": "2024-05-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5a5de805-0b44-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "2307256f7afaa76635ead03f2d30401151cb1268938f50d7e69ebfee2c893659"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1296-2024",
+   "path": "ue/regulament/2024/1296",
+   "short": "Regulamentul delegat CELEX 32024R1296",
+   "title": "Regulamentul delegat (UE) 2024/1296 al Comisiei din 28 februarie 2024 de completare a Regulamentului (UE) 2016/1139 al Parlamentului European și al Consiliului în ceea ce privește o derogare de la aplicarea obligației de debarcare referitoare la somonul din Marea Baltică pentru perioada 2024-2026",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1296",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5d997cdd-0c0e-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "2ae6672df5e94deb3d49a8b0b23fb19eac2a3c6ee0230a5cb1f1e49328ee1049"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1309-2024",
    "path": "ue/regulament/2024/1309",
    "short": "Regulamentul (UE) 2024/1309",
@@ -1154,6 +1679,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e54ebba3-13e7-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "dce98ef47f2a6a5f8f6278434d4818d0fc80d55e22200a56a95322c01cdd6232"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1331-2024",
+   "path": "ue/regulament/2024/1331",
+   "short": "Regulamentul delegat CELEX 32024R1331",
+   "title": "Regulamentul delegat (UE) 2024/1331 al Comisiei din 28 februarie 2024 de modificare a Regulamentului (CE) nr. 273/2004 al Parlamentului European și al Consiliului și a Regulamentului (CE) nr. 111/2005 al Consiliului în ceea ce privește includerea precursorului de droguri malonat de izopropilden [2-(3,4-metilendioxifenil) acetil] (IMDPAM) și a altor substanțe în lista substanțelor clasificate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1331",
+   "versions": [
+    {
+     "from": "2024-06-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0ce91506-118c-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "991a3eda42a1f5581de444df893401bc2775546778d661c4632c9d2916c092ee"
     }
    ]
   },
@@ -1338,6 +1878,216 @@
    ]
   },
   {
+   "slug": "ue-regulament-1362-2024",
+   "path": "ue/regulament/2024/1362",
+   "short": "Regulamentul delegat CELEX 32024R1362",
+   "title": "Regulamentul delegat (UE) 2024/1362 al Comisiei din 13 martie 2024 de modificare a Regulamentului (UE) 2019/287 al Parlamentului European și al Consiliului în ceea ce privește înlocuirea anexei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1362",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9e7cd995-13e7-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "8399df9b139d0addf9d336467de242262241e1b8ab238343b7b71b5fb06e9607"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1363-2024",
+   "path": "ue/regulament/2024/1363",
+   "short": "Regulamentul delegat CELEX 32024R1363",
+   "title": "Regulamentul delegat (UE) 2024/1363 al Comisiei din 12 martie 2024 de modificare a anexei IV la Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului în vederea eliminării Bhutanului de pe lista țărilor beneficiare ale regimului special pentru țările cel mai puțin dezvoltate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1363",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/17f46e83-13e8-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "74003c8b53dbe18691ce60f5f555954479c0b63fbec7ab21e69180b82ebd8afd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1364-2024",
+   "path": "ue/regulament/2024/1364",
+   "short": "Regulamentul delegat CELEX 32024R1364",
+   "title": "Regulamentul delegat (UE) 2024/1364 al Comisiei din 14 martie 2024 privind prima etapă a instituirii unui sistem comun al Uniunii de evaluare a centrelor de date",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1364",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fe730afc-13e7-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "2cc415ef0da14e642a407181b4dc0fc20648c7aef9761c3c94cab6d7d59e16f8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1366-2024",
+   "path": "ue/regulament/2024/1366",
+   "short": "Regulamentul delegat CELEX 32024R1366",
+   "title": "Regulamentul delegat (UE) 2024/1366 al Comisiei din 11 martie 2024 de completare a Regulamentului (UE) 2019/943 al Parlamentului European și al Consiliului prin stabilirea unui cod de rețea privind normele sectoriale pentru aspectele legate de securitatea cibernetică a fluxurilor transfrontaliere de energie electrică",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1366",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/625f4a41-1968-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "16ce185c1977ba941706090838d8e1cf39c5e5c0a92fde7f578d462cf5c69cfc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1388-2024",
+   "path": "ue/regulament/2024/1388",
+   "short": "Regulamentul delegat CELEX 32024R1388",
+   "title": "Regulamentul delegat (UE) 2024/1388 al Comisiei din 11 martie 2024 de rectificare a Regulamentului delegat (UE) 2023/2623 de completare a Regulamentului (UE) 2019/472 al Parlamentului European și al Consiliului prin precizarea detaliilor obligației de debarcare pentru anumite activități de pescuit în apele occidentale pentru perioada 2024-2027",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1388",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f9484327-17d5-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "e79933aa826506630abc7e568bb94666b123a057a788b5ab9d2872e39108ab22"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1389-2024",
+   "path": "ue/regulament/2024/1389",
+   "short": "Regulamentul delegat CELEX 32024R1389",
+   "title": "Regulamentul delegat (UE) 2024/1389 al Comisiei din 12 martie 2024 de modificare a Regulamentului (UE) 2023/2053 al Parlamentului European și al Consiliului în ceea ce privește gestionarea tonului roșu din Oceanul Atlantic de Est și din Marea Mediterană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1389",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/686b25e4-17d5-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "b7537a36fecaffbbe48c8978954e221997fc0637eb788ef65823c5786200953f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1398-2024",
+   "path": "ue/regulament/2024/1398",
+   "short": "Regulamentul delegat CELEX 32024R1398",
+   "title": "Regulamentul delegat (UE) 2024/1398 al Comisiei din 14 martie 2024 de modificare a Regulamentului (UE) nr. 528/2012 al Parlamentului European și al Consiliului în ceea ce privește o nouă prelungire a duratei programului de lucru pentru examinarea sistematică a tuturor substanțelor active biocide existente",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1398",
+   "versions": [
+    {
+     "from": "2024-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f02ae35e-17d5-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "6148f093d868ef62384d7656c485194a4b0b05b155cf0da7b2a98ca81ad247d5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1399-2024",
+   "path": "ue/regulament/2024/1399",
+   "short": "Regulamentul delegat CELEX 32024R1399",
+   "title": "Regulamentul delegat (UE) 2024/1399 al Comisiei din 10 noiembrie 2023 privind condițiile de clasificare, fără încercări, a lambriurilor și placărilor din lemn masiv în ceea ce privește comportamentul lor la foc și de modificare a Deciziei 2006/213/CE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1399",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d1c2c4e8-17d5-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "3faa40a954d58210723270a2050f6da9e0dbe199ee07b4bc035f9c27b3f93a0a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1400-2024",
+   "path": "ue/regulament/2024/1400",
+   "short": "Regulamentul delegat CELEX 32024R1400",
+   "title": "Regulamentul delegat (UE) 2024/1400 al Comisiei din 13 martie 2024 de modificare a Regulamentului (UE) nr. 139/2014 în ceea ce privește siguranța aerodromurilor, schimbarea operatorului de aerodrom și raportarea evenimentelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1400",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d65009bd-1967-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "4499b7021d8a168cef2ce948cedc51cdc724a2f41cfc0e57f081c962f8860005"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1401-2024",
+   "path": "ue/regulament/2024/1401",
+   "short": "Regulamentul delegat CELEX 32024R1401",
+   "title": "Regulamentul delegat (UE) 2024/1401 al Comisiei din 7 martie 2024 de modificare a Regulamentului delegat (UE) 2022/2104 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele de comercializare pentru uleiul de măsline",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1401",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/afbf976d-170c-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "7d22ce04324433573575dd1d6c5757c54831f5c5ab0e8a6c05cb5837cf7fe0a9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1403-2024",
+   "path": "ue/regulament/2024/1403",
+   "short": "Regulamentul delegat CELEX 32024R1403",
+   "title": "Regulamentul delegat (UE) 2024/1403 al Comisiei din 12 martie 2024 de completare a Regulamentului (UE) 2018/1139 al Parlamentului European și al Consiliului prin stabilirea condițiilor și a procedurilor pentru acreditarea de către Agenția Uniunii Europene pentru Siguranța Aviației a entităților calificate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1403",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c7d5fbb4-1967-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "1dcb0549080d23b412b9cc3b3610557ec16cc1f5ce5904194a53da639fd45218"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1408-2024",
+   "path": "ue/regulament/2024/1408",
+   "short": "Regulamentul delegat CELEX 32024R1408",
+   "title": "Regulamentul delegat (UE) 2024/1408 al Comisiei din 14 martie 2024 de modificare a Regulamentului delegat (UE) 2023/1184 al Comisiei în ceea ce privește alinierea unui termen tehnic la Directiva (UE) 2018/2001 a Parlamentului European și a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1408",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8b645715-170c-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "c98e559bd8a3da60fadb71c1671421795fd910a63e2d8b99bf7af83c0ffd66cd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1415-2024",
+   "path": "ue/regulament/2024/1415",
+   "short": "Regulamentul delegat CELEX 32024R1415",
+   "title": "Regulamentul delegat (UE) 2024/1415 al Comisiei din 14 martie 2024 de modificare a Regulamentului (CE) nr. 810/2009 în ceea ce privește cuantumul taxelor de viză",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1415",
+   "versions": [
+    {
+     "from": "2024-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e536c7c9-17d5-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "d193ea6687794f55dd31c927c0a1c6a020f4544bcc250f4976c40ba33a47ce2c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1417-2024",
+   "path": "ue/regulament/2024/1417",
+   "short": "Regulamentul delegat CELEX 32024R1417",
+   "title": "Regulamentul delegat (UE) 2024/1417 al Comisiei din 13 martie 2024 de completare a Regulamentului (CE) nr. 1217/2009 al Consiliului privind crearea Rețelei de date privind durabilitatea agricolă cu norme referitoare la stabilirea anuală a veniturilor, la analiza durabilității exploatațiilor agricole și la accesul la date în scopuri de cercetare, precum și de abrogare a Regulamentului delegat (UE) nr. 1198/2014 al Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1417",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c4751d72-1967-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "4a46a86990a089319b170f2227a066fca6eadf7040067c8f7e506e5f5297168e"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1428-2024",
    "path": "ue/regulament/2024/1428",
    "short": "Regulamentul (UE) 2024/1428",
@@ -1428,6 +2178,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1473-2024",
+   "path": "ue/regulament/2024/1473",
+   "short": "Regulamentul delegat CELEX 32024R1473",
+   "title": "Regulamentul delegat (UE) 2024/1473 al Comisiei din 20 februarie 2024 de rectificare a versiunii în limba franceză a Regulamentul delegat (UE) 2023/1768 de stabilire a unor norme detaliate pentru certificarea și declararea sistemelor de management al traficului aerian/de servicii de navigație aeriană și a componentelor managementului traficului aerian/serviciilor de navigație aeriană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1473",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d771312e-1967-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "f684ab0cb1bbeeccb9254ededac8e32e02dded1d11bb523946be336660915383"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1485-2024",
    "path": "ue/regulament/2024/1485",
    "short": "Regulamentul (UE) 2024/1485",
@@ -1469,6 +2234,96 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/4087776e-1cb6-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "42006d9ff71cd9a0516154f21e5b88310fb9790c48192ce3da10cbf7393c9902"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1502-2024",
+   "path": "ue/regulament/2024/1502",
+   "short": "Regulamentul delegat CELEX 32024R1502",
+   "title": "Regulamentul delegat (UE) 2024/1502 al Comisiei din 22 februarie 2024 de completare a Regulamentului (UE) 2022/2554 al Parlamentului European și al Consiliului prin precizarea criteriilor pentru desemnarea furnizorilor terți de servicii TIC ca fiind esențiali pentru entitățile financiare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1502",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c4af9503-1e21-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "29d440e7cddfb0488935245f3a95c40c917b1f4af069d1d851b694a1c83a486c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1503-2024",
+   "path": "ue/regulament/2024/1503",
+   "short": "Regulamentul delegat CELEX 32024R1503",
+   "title": "Regulamentul delegat (UE) 2024/1503 al Comisiei din 22 februarie 2024 de completare a Regulamentului (UE) 2023/1114 al Parlamentului European și al Consiliului prin precizarea taxelor percepute de către Autoritatea Bancară Europeană de la emitenții de tokenuri semnificative raportate la active și de la emitenții de tokenuri de monedă electronică semnificative",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1503",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d51b12cd-1e21-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "51aa6d450e78e0a9760efb56f084f749266e2f8a29e1f4509678061dbfbecc64"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1504-2024",
+   "path": "ue/regulament/2024/1504",
+   "short": "Regulamentul delegat CELEX 32024R1504",
+   "title": "Regulamentul delegat (UE) 2024/1504 al Comisiei din 22 februarie 2024 de completare a Regulamentului (UE) 2023/1114 al Parlamentului European și al Consiliului prin precizarea normelor procedurale privind exercitarea competenței de a impune amenzi sau penalități cu titlu cominatoriu de către Autoritatea Bancară Europeană emitenților de tokenuri semnificative raportate la active și emitenților de tokenuri de monedă electronică semnificative",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1504",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a621ed33-1e21-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "830f074ded72e0ef60d186fb5cd68c2abbcf4662ec7a6e565c364c4f64ffa6df"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1505-2024",
+   "path": "ue/regulament/2024/1505",
+   "short": "Regulamentul delegat CELEX 32024R1505",
+   "title": "Regulamentul delegat (UE) 2024/1505 al Comisiei din 22 februarie 2024 de completare a Regulamentului (UE) 2022/2554 al Parlamentului European și al Consiliului prin stabilirea cuantumului taxelor de supraveghere care vor fi percepute de supraveghetorul principal furnizorilor terți esențiali de servicii TIC și a modului în care trebuie plătite taxele respective",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1505",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f1655a4b-1e21-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "fbb88b76904b38d926b7a85593aa74794ce54690d01da8871174ba2a6ecaa780"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1506-2024",
+   "path": "ue/regulament/2024/1506",
+   "short": "Regulamentul delegat CELEX 32024R1506",
+   "title": "Regulamentul delegat (UE) 2024/1506 al Comisiei din 22 februarie 2024 de completare a Regulamentului (UE) 2023/1114 al Parlamentului European și al Consiliului prin specificarea anumitor criterii pentru clasificarea tokenurilor raportate la active și a tokenurilor de monedă electronică drept tokenuri semnificative",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1506",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f94d4750-1e21-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "a65e3a06dc2ba703cc5e25da59eb1cc6f1dd9a9b68973519d9909c6be749ae94"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1507-2024",
+   "path": "ue/regulament/2024/1507",
+   "short": "Regulamentul delegat CELEX 32024R1507",
+   "title": "Regulamentul delegat (UE) 2024/1507 al Comisiei din 22 februarie 2024 de completare a Regulamentului (UE) 2023/1114 al Parlamentului European și al Consiliului prin precizarea criteriilor și a factorilor pe care Autoritatea Europeană pentru Valori Mobiliare și Piețe, Autoritatea Bancară Europeană și autoritățile competente trebuie să îi ia în considerare cu privire la competențele lor de intervenție",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1507",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d0336d7a-1e21-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "19fb0b8cc04da16521ffc5f86cdf327bd5cb8371f5a58a052f57498065384993"
     }
    ]
   },
@@ -1548,6 +2403,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-163-2024",
+   "path": "ue/regulament/2024/163",
+   "short": "Regulamentul delegat CELEX 32024R0163",
+   "title": "Regulamentul delegat (UE) 2024/163 al Comisiei din 12 decembrie 2023 de modificare a Regulamentului delegat (UE) 2016/1675 în ceea ce privește eliminarea Insulelor Cayman și a Iordaniei din tabelul de la punctul I din anexă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0163",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aa264562-b5a5-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "c6c6799a76c3ac60806c655ea24017d3236b728ae02292709e9c01827e0d0424"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1652-2024",
    "path": "ue/regulament/2024/1652",
    "short": "Regulamentul (UE) 2024/1652",
@@ -1574,6 +2444,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/cc3395a5-3516-11ef-b441-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "ef052f68ef1c84782803ac489feb04717e2e3b3aaee1ec894937de448b4dcfe7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1681-2024",
+   "path": "ue/regulament/2024/1681",
+   "short": "Regulamentul delegat CELEX 32024R1681",
+   "title": "Regulamentul delegat (UE) 2024/1681 al Comisiei din 6 martie 2024 de completare a Regulamentului (UE) nr. 305/2011 al Parlamentului European și al Consiliului prin stabilirea unor clase de performanță în ceea ce privește rezistența la foc a produselor pentru construcții",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1681",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9df02d89-2920-11ef-9290-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "752b772967dca1ed05f22c3e3422bacf38a8108c529699b56bffc4d4da78bd73"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1682-2024",
+   "path": "ue/regulament/2024/1682",
+   "short": "Regulamentul delegat CELEX 32024R1682",
+   "title": "Regulamentul delegat (UE) 2024/1682 al Comisiei din 4 martie 2024 de modificare a Regulamentului (UE) 2019/1009 al Parlamentului European și al Consiliului în ceea ce privește adăugarea gunoiului de grajd prelucrat ca materie componentă în produsele fertilizante UE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1682",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/768ae18b-2920-11ef-9290-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "2949bd9827da4a2c4d9b76b83adbec11736e39c612e3df683cf27319dd607b14"
     }
    ]
   },
@@ -1608,6 +2508,111 @@
    ]
   },
   {
+   "slug": "ue-regulament-1700-2024",
+   "path": "ue/regulament/2024/1700",
+   "short": "Regulamentul delegat CELEX 32024R1700",
+   "title": "Regulamentul delegat (UE) 2024/1700 al Comisiei din 5 martie 2024 de completare a Regulamentului (UE) 2017/2402 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează, pentru securitizarea tradițională simplă, transparentă și standardizată, alta decât ABCP, și pentru securitizările înscrise în bilanț simple, transparente și standardizate, conținutul, metodologiile și prezentarea informațiilor referitoare la principalele efecte negative ale activelor finanțate prin expunerile-suport asupra factorilor de durabilitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1700",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/82ef3a73-2d0f-11ef-a61b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "1f06ac1f6bd4a33e4e873a009b6dd4e78f820c2b01e0af61e175884a866fdef7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1701-2024",
+   "path": "ue/regulament/2024/1701",
+   "short": "Regulamentul delegat CELEX 32024R1701",
+   "title": "Regulamentul delegat (UE) 2024/1701 al Comisiei din 11 martie 2024 de modificare a Regulamentului (CE) nr. 1234/2008 în ceea ce privește examinarea modificării condițiilor autorizațiilor de introducere pe piață acordate pentru medicamentele de uz uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1701",
+   "versions": [
+    {
+     "from": "2024-07-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a7d01eed-2c43-11ef-a61b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "1835abffbda4c3ca52e3c133e1c91c4a8a4e88cfeed330a111f7126d5c4471f2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1702-2024",
+   "path": "ue/regulament/2024/1702",
+   "short": "Regulamentul delegat CELEX 32024R1702",
+   "title": "Regulamentul delegat (UE) 2024/1702 al Comisiei din 11 martie 2024 de modificare a Regulamentului delegat (UE) nr. 1003/2013 în ceea ce privește armonizarea anumitor aspecte ale taxelor aplicate registrelor centrale de tranzacții de către Autoritatea Europeană pentru Valori Mobiliare și Piețe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1702",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6f4c5f6a-2d0f-11ef-a61b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "45d13237a286a05532d10ff007de41c62ab64e09b26ef33e28282c08c6ccf1ca"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1703-2024",
+   "path": "ue/regulament/2024/1703",
+   "short": "Regulamentul delegat CELEX 32024R1703",
+   "title": "Regulamentul delegat (UE) 2024/1703 al Comisiei din 11 martie 2024 de modificare a Regulamentului delegat (UE) 2020/1732 în ceea ce privește armonizarea anumitor aspecte ale taxelor aplicate registrelor centrale de securitizări de către Autoritatea Europeană pentru Valori Mobiliare și Piețe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1703",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5fd071c6-2d0f-11ef-a61b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "90f3f9b2ffc8b5f1e62f7444d08b0b78b399e36c6917ab1544061dcd2f1c0e4e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1704-2024",
+   "path": "ue/regulament/2024/1704",
+   "short": "Regulamentul delegat CELEX 32024R1704",
+   "title": "Regulamentul delegat (UE) 2024/1704 al Comisiei din 11 martie 2024 de modificare a Regulamentului delegat (UE) 2019/360 în ceea ce privește armonizarea anumitor aspecte ale taxelor aplicate registrelor centrale de tranzacții de către Autoritatea Europeană pentru Valori Mobiliare și Piețe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1704",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dca38dba-2d0f-11ef-a61b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "5bffafb599b5c2020040d558b4906df246a22db2383dcd1f7e7e1bd771655a83"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1705-2024",
+   "path": "ue/regulament/2024/1705",
+   "short": "Regulamentul delegat CELEX 32024R1705",
+   "title": "Regulamentul delegat (UE) 2024/1705 al Comisiei din 11 martie 2024 de modificare a Regulamentului delegat (UE) 2022/805 în ceea ce privește armonizarea anumitor aspecte ale taxelor percepute de Autoritatea Europeană pentru Valori Mobiliare și Piețe anumitor administratori de indici de referință",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1705",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/86170758-2d0f-11ef-a61b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "ba88f3cce9e87e50bc0b77865c886fb9b289f02ab8f0791f14cf4418bfac9cd8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1706-2024",
+   "path": "ue/regulament/2024/1706",
+   "short": "Regulamentul delegat CELEX 32024R1706",
+   "title": "Regulamentul delegat (UE) 2024/1706 al Comisiei din 11 martie 2024 de modificare a Regulamentului delegat (UE) nr. 272/2012 în ceea ce privește armonizarea anumitor aspecte ale taxelor aplicate agențiilor de rating de credit de către Autoritatea Europeană pentru Valori Mobiliare și Piețe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1706",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0b3c02c4-2d3a-11ef-a61b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "3ef3341c6b317844840449fa9a522e512b4691ea794941becf2c8f96164dd849"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1717-2024",
    "path": "ue/regulament/2024/1717",
    "short": "Regulamentul (UE) 2024/1717",
@@ -1634,6 +2639,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c30fee5a-2f68-11ef-a61b-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "89e87b7c228a0e2e0f9a73268130aaf688453f9daebd8ab567a4e5c796e0a106"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1728-2024",
+   "path": "ue/regulament/2024/1728",
+   "short": "Regulamentul delegat CELEX 32024R1728",
+   "title": "Regulamentul delegat (UE) 2024/1728 al Comisiei din 6 decembrie 2023 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează circumstanțele în care sunt îndeplinite condițiile pentru identificarea grupurilor de clienți aflați în legătură",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1728",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/668becb7-2d0f-11ef-a61b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "2e2e8e06b55c4516bbe43ca727078d75c2386898f2fdf46e4778cdc4c0328f30"
     }
    ]
   },
@@ -1724,6 +2744,96 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/51d544b7-3356-11ef-b441-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "73efb47266806ee3dfc668f434e2981015d2b6b384a22051adb5f6d019b8fa63"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1765-2024",
+   "path": "ue/regulament/2024/1765",
+   "short": "Regulamentul delegat CELEX 32024R1765",
+   "title": "Regulamentul delegat (UE) 2024/1765 al Comisiei din 11 martie 2024 de completare a Regulamentului (UE) 2020/741 al Parlamentului European și al Consiliului în ceea ce privește specificațiile tehnice ale elementelor fundamentale pentru managementul riscului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1765",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3b265f15-2ea0-11ef-a61b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "0b86b0cd7b655808be8988493d7a9e84854842e88e2ac8c45a0231c05a532145"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1771-2024",
+   "path": "ue/regulament/2024/1771",
+   "short": "Regulamentul delegat CELEX 32024R1771",
+   "title": "Regulamentul delegat (UE) 2024/1771 al Comisiei din 13 martie 2024 de completare a Regulamentului (UE) 2019/2033 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează perimetrul și metodele de consolidare prudențială a unui grup de firme de investiții",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1771",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e754b3d7-328d-11ef-a61b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "8273846814bab040b609f6d48dd15a0a9f531592cd4206f86217bd0a90b3c5ac"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1772-2024",
+   "path": "ue/regulament/2024/1772",
+   "short": "Regulamentul delegat CELEX 32024R1772",
+   "title": "Regulamentul delegat (UE) 2024/1772 al Comisiei din 13 martie 2024 de completare a Regulamentului (UE) 2022/2554 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează criteriile de clasificare a incidentelor legate de TIC și a amenințărilor cibernetice, stabilesc pragurile de semnificație și detaliile rapoartelor privind incidentele majore",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1772",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fa35ec94-328d-11ef-a61b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "2e8d2d3a2239e661c936629ea064fd92f0c9dda2455988f1676efcd122f9c418"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1773-2024",
+   "path": "ue/regulament/2024/1773",
+   "short": "Regulamentul delegat CELEX 32024R1773",
+   "title": "Regulamentul delegat (UE) 2024/1773 al Comisiei din 13 martie 2024 de completare a Regulamentului (UE) 2022/2554 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează conținutul detaliat al politicii referitoare la acordurile contractuale privind utilizarea serviciilor TIC care sprijină funcții critice sau importante oferite de furnizori terți de servicii TIC",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1773",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/67edcd9e-328d-11ef-a61b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "5727133a144a6d93b836a385056b294b2e26289dd0d60e426166a1846cdb584b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1774-2024",
+   "path": "ue/regulament/2024/1774",
+   "short": "Regulamentul delegat CELEX 32024R1774",
+   "title": "Regulamentul delegat (UE) 2024/1774 al Comisiei din 13 martie 2024 de completare a Regulamentului (UE) 2022/2554 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează instrumentele, metodele, procesele și politicile de gestionare a riscurilor TIC și cadrul simplificat de gestionare a riscurilor TIC",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1774",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dc25b21e-328d-11ef-a61b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "e2cd6bc28da711d215c25d6b5725eb9b201ff73b18be759e5cdc1f41b1f82f2f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1780-2024",
+   "path": "ue/regulament/2024/1780",
+   "short": "Regulamentul delegat CELEX 32024R1780",
+   "title": "Regulamentul delegat (UE) 2024/1780 al Comisiei din 13 martie 2024 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează condițiile în care instituțiile sunt autorizate să calculeze KIRB în legătură cu expunerile-suport dintr-o tranzacție de securitizare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1780",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/11d6c559-328d-11ef-a61b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "c9c455036a2dfd9f6b804a72bcc119f81d931e570113c97e571421f5a7bbab83"
     }
    ]
   },
@@ -1968,6 +3078,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-197-2024",
+   "path": "ue/regulament/2024/197",
+   "short": "Regulamentul delegat CELEX 32024R0197",
+   "title": "Regulamentul delegat (UE) 2024/197 al Comisiei din 19 octombrie 2023 de modificare a Regulamentului (CE) nr. 1272/2008 în ceea ce privește clasificarea și etichetarea armonizate ale anumitor substanțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0197",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a1eb0b33-ab6b-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "c959b26624644865fbb0f91f30ced18de76f064d998c826bc02198f4527d426d"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1987-2024",
    "path": "ue/regulament/2024/1987",
    "short": "Regulamentul (UE) 2024/1987",
@@ -2013,6 +3138,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1995-2024",
+   "path": "ue/regulament/2024/1995",
+   "short": "Regulamentul delegat CELEX 32024R1995",
+   "title": "Regulamentul delegat (UE) 2024/1995 al Comisiei din 19 iulie 2024 privind o măsură excepțională temporară referitoare la distilarea în situații de criză care să trateze perturbările pieței din sectorul vitivinicol din Portugalia în anul de comercializare 2024/2025",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1995",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3b7b082a-47eb-11ef-aea6-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "5efcedb87672e2e6e3e6d4117a9bf3adcdaa2298452d35cab0d2c543da9c1d56"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2019-2024",
    "path": "ue/regulament/2024/2019",
    "short": "Regulamentul (UE, Euratom) 2024/2019",
@@ -2028,6 +3168,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-2024-2024",
+   "path": "ue/regulament/2024/2024",
+   "short": "Regulamentul delegat CELEX 32024R2024",
+   "title": "Regulamentul delegat (UE) 2024/2024 al Comisiei din 26 iulie 2024 de completare a Regulamentului (UE) 2020/1056 prin stabilirea setului de date eFTI comune și a subseturilor de date eFTI",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2024",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d3bffea8-be9e-11ef-91ed-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "7c1f55067eb0d087c98a4e8a34a4ece5e4ac6520d1bb6342277ac37b101131c6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2025-2024",
+   "path": "ue/regulament/2024/2025",
+   "short": "Regulamentul delegat CELEX 32024R2025",
+   "title": "Regulamentul delegat (UE) 2024/2025 al Comisiei din 15 iulie 2024 de completare a Regulamentului (UE) 2020/1056 prin modificarea anexei I partea B la acesta",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2025",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c9a95a01-be73-11ef-91ed-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "d03d1505e0e9f5ceb32f82cbe70b900583b5289712ac08c8d278588d0c039344"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-204-2024",
+   "path": "ue/regulament/2024/204",
+   "short": "Regulamentul delegat CELEX 32024R0204",
+   "title": "Regulamentul delegat (UE) 2024/204 al Comisiei din 18 decembrie 2023 de completare a Regulamentului (UE) 2021/691 al Parlamentului European și al Consiliului cu dispoziții specifice privind raportarea neregulilor legate de Fondul european de ajustare la globalizare pentru lucrătorii disponibilizați (FEG)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0204",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a915b748-d6a3-11ee-b9d9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "243d70cb7a71cab5e5f75ca9fba6c8b86d0d5f00b262ed2c399a9063b4af7dec"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2041-2024",
    "path": "ue/regulament/2024/2041",
    "short": "Regulamentul (UE) 2024/2041",
@@ -2039,6 +3224,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/dc574c7f-4e0b-11ef-acbc-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "92a8bb1519b2f7d121bb21266d2317c2e6bbaac61b8637dc2059822390b87d24"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-205-2024",
+   "path": "ue/regulament/2024/205",
+   "short": "Regulamentul delegat CELEX 32024R0205",
+   "title": "Regulamentul delegat (UE) 2024/205 al Comisiei din 18 decembrie 2023 de completare a Regulamentului (UE) 2021/2116 al Parlamentului European și al Consiliului cu dispoziții specifice privind raportarea neregulilor legate de Fondul european de garantare agricolă și Fondul european agricol pentru dezvoltare rurală și de abrogare a Regulamentului delegat (UE) 2015/1971 al Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0205",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/761a9169-d6a3-11ee-b9d9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "10488f111d2d24bba303bb163442cba88f04c631dfbabfa3d8efbc803747cc7d"
     }
    ]
   },
@@ -2073,6 +3273,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2104-2024",
+   "path": "ue/regulament/2024/2104",
+   "short": "Regulamentul delegat CELEX 32024R2104",
+   "title": "Regulamentul delegat (UE) 2024/2104 al Comisiei din 27 iunie 2024 de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului în ceea ce privește cazurile și condițiile în care autoritățile competente pot solicita operatorilor să notifice sosirea anumitor bunuri care intră în Uniune",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2104",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/46242b27-7ad6-11ef-bbbe-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "e90c157f4b40475b9cc41a30d56842e5a1921ad2c2f9292c5479e40817e3f14c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2105-2024",
    "path": "ue/regulament/2024/2105",
    "short": "Regulamentul (UE) 2024/2105",
@@ -2099,6 +3314,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e4f3e486-60e9-11ef-a8ba-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "c27e11998cbc3061f9ef17171fb946569b390184d22a17aeb2064c16b177cd27"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2159-2024",
+   "path": "ue/regulament/2024/2159",
+   "short": "Regulamentul delegat CELEX 32024R2159",
+   "title": "Regulamentul delegat (UE) 2024/2159 al Comisiei din 12 august 2024 privind măsuri excepționale temporare de derogare de la anumite dispoziții ale Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește sistemul de autorizații pentru plantările de viță-de-vie în vederea abordării perturbării pieței vitivinicole a Uniunii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2159",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5102b25b-590e-11ef-acbc-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "16ca21c21ffa10da82eff8232d043c57986435b37ee3fd888d9a7e32a2337fb4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2220-2024",
+   "path": "ue/regulament/2024/2220",
+   "short": "Regulamentul delegat CELEX 32024R2220",
+   "title": "Regulamentul delegat (UE) 2024/2220 al Comisiei din 26 iulie 2024 de completare a Regulamentului (UE) 2019/2144 al Parlamentului European și al Consiliului prin stabilirea unor norme detaliate privind procedurile specifice de încercare și cerințele tehnice pentru omologarea de tip a autovehiculelor grele în ceea ce privește dispozitivul de înregistrare a datelor privind evenimentele și pentru omologarea de tip a acestor sisteme ca unități tehnice separate și de modificare a anexei II la regulamentul menționat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2220",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4de794b5-8056-11ef-a67d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "1b5469250700db966277960da48b262a56e1925ccec81d548f1acfb7e436f45a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-230-2024",
+   "path": "ue/regulament/2024/230",
+   "short": "Regulamentul delegat CELEX 32024R0230",
+   "title": "Regulamentul delegat (UE) 2024/230 al Comisiei din 25 octombrie 2023 de modificare a Regulamentului delegat (UE) 2021/1342 în ceea ce privește informațiile care trebuie trimise de țările terțe și de autoritățile de control și organismele de control în scopul supravegherii recunoașterii acestora în temeiul articolului 33 alineatele (2) și (3) din Regulamentul (CE) nr. 834/2007 al Consiliului, precum și în ceea ce privește măsurile care urmează să fie luate în cadrul exercitării supravegherii respective",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0230",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/586ff61d-ae90-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "8f180950f0c7d1dca9565efc63ff78a2d96bc634a1d54b123dcfb5e113e5351c"
     }
    ]
   },
@@ -2178,6 +3438,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-249-2024",
+   "path": "ue/regulament/2024/249",
+   "short": "Regulamentul delegat CELEX 32024R0249",
+   "title": "Regulamentul delegat (UE) 2024/249 al Comisiei din 30 noiembrie 2023 de modificare a Regulamentului delegat (UE) 2015/2446 în ceea ce privește cerințele comune în materie de date în scopul schimbului și al stocării anumitor informații în temeiul legislației vamale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0249",
+   "versions": [
+    {
+     "from": "2024-03-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/260d2cf3-c948-11ee-95d9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "2b7ac222cf8f94c39d6f5b6105da14a3bee0c099c514b6f6529bb774e5bd28b1"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2492-2024",
    "path": "ue/regulament/2024/2492",
    "short": "Regulamentul (UE) 2024/2492",
@@ -2208,6 +3483,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-2505-2024",
+   "path": "ue/regulament/2024/2505",
+   "short": "Regulamentul delegat CELEX 32024R2505",
+   "title": "Regulamentul delegat (UE) 2024/2505 al Comisiei din 22 mai 2024 de rectificare a versiunii în limba germană a Regulamentului delegat (UE) 2015/2446 de completare a Regulamentului (UE) nr. 952/2013 al Parlamentului European și al Consiliului în ceea ce privește normele detaliate ale anumitor dispoziții ale Codului vamal al Uniunii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2505",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0d5cbeeb-7a0d-11ef-bbbe-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "d2c60c3af781151580d08447a538d556df2079d87c689f1f1ddbdd904a76ef6b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2506-2024",
+   "path": "ue/regulament/2024/2506",
+   "short": "Regulamentul delegat CELEX 32024R2506",
+   "title": "Regulamentul delegat (UE) 2024/2506 al Comisiei din 3 iulie 2024 de rectificare a versiunii în limba spaniolă a Regulamentului delegat (UE) 2023/2465 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele de comercializare aplicabile ouălor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2506",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0347b8b3-7a0d-11ef-bbbe-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "8e3aa4afff08279e3cce7b826a03767722a6cc08f94125376dd788f255ae5e06"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2508-2024",
+   "path": "ue/regulament/2024/2508",
+   "short": "Regulamentul delegat CELEX 32024R2508",
+   "title": "Regulamentul delegat (UE) 2024/2508 al Comisiei din 17 iulie 2024 de modificare a Regulamentului delegat (UE) 2017/891 în ceea ce privește notificările statelor membre privind prețurile de producător ale fructelor și legumelor de pe piața internă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2508",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/08789c0a-7a0d-11ef-bbbe-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "c75d00e5799fe4e8e51d6ec505fefee21718e8a9c5b8e8dff026ac5118e69cbb"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2509-2024",
    "path": "ue/regulament/2024/2509",
    "short": "Regulamentul (UE, Euratom) 2024/2509",
@@ -2219,6 +3539,81 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/fb2caf66-7ba3-11ef-bbbe-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "f699caf08ba7285c35f51b65a3b2bd07d0f5c70755c19ec0882bc81b4112ad16"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2510-2024",
+   "path": "ue/regulament/2024/2510",
+   "short": "Regulamentul delegat CELEX 32024R2510",
+   "title": "Regulamentul delegat (UE) 2024/2510 al Comisiei din 2 mai 2024 de completare a Regulamentului (UE) 2018/1240 al Parlamentului European și al Consiliului în ceea ce privește metodele de plată și procesul de colectare a taxei aferente autorizației de călătorie prevăzute de regulamentul respectiv",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2510",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4b6b7cad-7ad6-11ef-bbbe-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "616441cab39946a8087abd165cf41b8a1cbfa58321038b58288afbda5cd927ae"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2511-2024",
+   "path": "ue/regulament/2024/2511",
+   "short": "Regulamentul delegat CELEX 32024R2511",
+   "title": "Regulamentul delegat (UE) 2024/2511 al Comisiei din 2 mai 2024 de completare a Regulamentului (UE) 2018/1240 al Parlamentului European și al Consiliului în ceea ce privește identificarea creșterilor costurilor de funcționare și de întreținere a Sistemului european de informații și de autorizare privind călătoriile (ETIAS) în scopul modificării cuantumului taxei aferente autorizației de călătorie",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2511",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4a5096cc-7ad6-11ef-bbbe-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "aebe592f1c7126e0d394a47cf8a483c0fd1ca8270cb049e23d605045315a9b44"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2512-2024",
+   "path": "ue/regulament/2024/2512",
+   "short": "Regulamentul delegat CELEX 32024R2512",
+   "title": "Regulamentul delegat (UE) 2024/2512 al Comisiei din 17 aprilie 2024 de modificare a anexei II la Regulamentul (UE) nr. 1169/2011 al Parlamentului European și al Consiliului privind informarea consumatorilor cu privire la produsele alimentare, în ceea ce privește acidul behenic din semințe de muștar destinat utilizării la fabricarea anumitor emulgatori",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2512",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/edf9ac33-7ad5-11ef-bbbe-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "053891d203ef20c05de5af8d2a05b0ddc2646247fc9af9c9fa253b2aa7c96ada"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2514-2024",
+   "path": "ue/regulament/2024/2514",
+   "short": "Regulamentul delegat CELEX 32024R2514",
+   "title": "Regulamentul delegat (UE) 2024/2514 al Comisiei din 3 iulie 2024 de completare a Regulamentului (UE) 2022/2399 al Parlamentului European și al Consiliului prin specificarea elementelor de date care trebuie să facă obiectul schimburilor efectuate prin intermediul Sistemului de schimb de certificate în cadrul ghișeului unic al UE pentru vămi și de modificare a regulamentului respectiv în ceea ce privește lista formalităților nevamale ale Uniunii acoperite de mediul aferent ghișeului unic al UE pentru vămi",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2514",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1146d6c0-7c69-11ef-bbbe-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "82231445e332dd207ff3e0bd2b7279e2c17f28e7924d957108c076d5b9313968"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2515-2024",
+   "path": "ue/regulament/2024/2515",
+   "short": "Regulamentul delegat CELEX 32024R2515",
+   "title": "Regulamentul delegat (UE) 2024/2515 al Comisiei din 9 iulie 2024 de completare a Regulamentului (UE) 2019/1700 al Parlamentului European și al Consiliului prin specificarea numărului și a titlurilor variabilelor pentru domeniul statisticilor privind utilizarea tehnologiilor informației și comunicațiilor pentru anul de referință 2025",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2515",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6a0cc7b9-7ba4-11ef-bbbe-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "ba98f9d93224b37ab7a34b3e6c90cf4ffc8a5ee162315d41042387e254a3fa29"
     }
    ]
   },
@@ -2238,6 +3633,66 @@
    ]
   },
   {
+   "slug": "ue-regulament-2547-2024",
+   "path": "ue/regulament/2024/2547",
+   "short": "Regulamentul delegat CELEX 32024R2547",
+   "title": "Regulamentul delegat (UE) 2024/2547 al Comisiei din 5 septembrie 2024 de modificare a Regulamentului (UE) 2021/821 al Parlamentului European și al Consiliului în ceea ce privește lista produselor cu dublă utilizare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2547",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/219f039f-9ca9-11ef-85f0-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "39bde087c4b92ad5425cc8a82d83f2ebef17d3ed25fcb5028326d9d69ffd3088"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2555-2024",
+   "path": "ue/regulament/2024/2555",
+   "short": "Regulamentul delegat CELEX 32024R2555",
+   "title": "Regulamentul delegat (UE) 2024/2555 al Comisiei din 21 martie 2024 de modificare a Regulamentului (UE) 2019/1021 al Parlamentului European și al Consiliului în ceea ce privește hexabromociclododecanul",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2555",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/15173fb2-7c69-11ef-bbbe-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "75e71ec04d8248611182e383c402455f55e22fa8df6ed0a3816d838879ae293c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2562-2024",
+   "path": "ue/regulament/2024/2562",
+   "short": "Regulamentul delegat CELEX 32024R2562",
+   "title": "Regulamentul delegat (UE) 2024/2562 al Comisiei din 3 iunie 2024 de modificare a Regulamentului delegat (UE) 2022/1644 în ceea ce privește anumite criterii de selecție a eșantioanelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2562",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ce65b6e4-7c68-11ef-bbbe-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "f381a2e6a5fa5ee32a7562ae46f5ae689d0b59f3bdd42805404d8fab3a5c4690"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2564-2024",
+   "path": "ue/regulament/2024/2564",
+   "short": "Regulamentul delegat CELEX 32024R2564",
+   "title": "Regulamentul delegat (UE) 2024/2564 al Comisiei din 19 iunie 2024 de modificare a Regulamentului (CE) nr. 1272/2008 al Parlamentului European și al Consiliului în ceea ce privește clasificarea și etichetarea armonizate ale anumitor substanțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2564",
+   "versions": [
+    {
+     "from": "2024-10-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/91dd3719-7eec-11ef-a67d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "5684374a15b0b090534f0cbe7baac2d37cd39f7b4c25e361d188b739ae3031f1"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-257-2024",
    "path": "ue/regulament/2024/257",
    "short": "Regulamentul (UE) 2024/257",
@@ -2249,6 +3704,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/da4acb75-b024-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "aadfcf0a9f92cab6890ac3ef6ca18c83c9928a7bdceb3e79aa4a26108eb9c7e8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2570-2024",
+   "path": "ue/regulament/2024/2570",
+   "short": "Regulamentul delegat CELEX 32024R2570",
+   "title": "Regulamentul delegat (UE) 2024/2570 al Comisiei din 22 iulie 2024 de modificare a Regulamentului (UE) 2019/1021 al Parlamentului European și al Consiliului în ceea ce privește metoxiclorul",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2570",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1f24a4cc-7c69-11ef-bbbe-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "93aa1a2152d66305080cc0606056d6e41df28d30be3172688c4f7ae38aa5d6d0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2571-2024",
+   "path": "ue/regulament/2024/2571",
+   "short": "Regulamentul delegat CELEX 32024R2571",
+   "title": "Regulamentul delegat (UE) 2024/2571 al Comisiei din 19 iulie 2024 de completare a Regulamentului (UE) 2024/1157 al Parlamentului European și al Consiliului prin stabilirea informațiilor care trebuie furnizate în certificatul care atestă încheierea unei operațiuni ulterioare de valorificare intermediară sau definitivă sau a unei operațiuni ulterioare de eliminare intermediară sau definitivă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2571",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/35b4dbcf-7c69-11ef-bbbe-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "9cbdb5a4b9309978a54c7621f21928f50535a82ea939b18ed7dfc69b3578f113"
     }
    ]
   },
@@ -2343,6 +3828,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2613-2024",
+   "path": "ue/regulament/2024/2613",
+   "short": "Regulamentul delegat CELEX 32024R2613",
+   "title": "Regulamentul delegat (UE) 2024/2613 al Comisiei din 24 iulie 2024 de modificare a Regulamentului delegat (UE) 2022/2202 de completare a Regulamentului (UE) 2021/1153 al Parlamentului European și al Consiliului prin stabilirea unei liste de proiecte transfrontaliere selecționate în domeniul energiei din surse regenerabile",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2613",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b83beaef-7f8f-11ef-a67d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "c8a3490999daaca0fd6d14f711bec8a4484867430539920280f966cd3a226cd9"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2619-2024",
    "path": "ue/regulament/2024/2619",
    "short": "Regulamentul (UE) 2024/2619",
@@ -2358,6 +3858,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-2620-2024",
+   "path": "ue/regulament/2024/2620",
+   "short": "Regulamentul delegat CELEX 32024R2620",
+   "title": "Regulamentul delegat (UE) 2024/2620 al Comisiei din 30 iulie 2024 de completare a Directivei 2003/87/CE a Parlamentului European și a Consiliului în ceea ce privește cerințele pentru a considera că gazele cu efect de seră au devenit legate chimic în mod permanent într-un produs",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2620",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fd95e708-81e8-11ef-a67d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "9005c6b6a25cd9abe25c57b0fbe1bf4331d650f35d8f3de298ade73f9391e319"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2622-2024",
+   "path": "ue/regulament/2024/2622",
+   "short": "Regulamentul delegat CELEX 32024R2622",
+   "title": "Regulamentul delegat (UE) 2024/2622 al Comisiei din 30 iulie 2024 de modificare a anexei I la Regulamentul (UE) 2023/1231 al Parlamentului European și al Consiliului în ceea ce privește adăugarea Regulamentului (UE) 2023/2419 al Parlamentului European și al Consiliului în lista din anexa respectivă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2622",
+   "versions": [
+    {
+     "from": "2024-10-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/135a4285-81e9-11ef-a67d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "f4e0a7b6423e2588ddb8abbd499a5c28406e3125e444dd9ebd3fb829e50934f1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2623-2024",
+   "path": "ue/regulament/2024/2623",
+   "short": "Regulamentul delegat CELEX 32024R2623",
+   "title": "Regulamentul delegat (UE) 2024/2623 al Comisiei din 30 iulie 2024 de completare a Regulamentului (UE) 2016/429 al Parlamentului European și al Consiliului în ceea ce privește normele de aprobare și recunoaștere a statutului de indemn de boală al compartimentelor care dețin animale terestre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2623",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/20d53008-81e9-11ef-a67d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "a2c7493e15449414b832da30f0c5b808a2d01906c4c8b7760ba0986b4dc3270d"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2633-2024",
    "path": "ue/regulament/2024/2633",
    "short": "Regulamentul (UE) 2024/2633",
@@ -2369,6 +3914,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/fc1bf1de-85d6-11ef-a67d-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "dff5f62b2258c2c2cd45e388abc06b9002328f2699976c7751989dc55988f927"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2634-2024",
+   "path": "ue/regulament/2024/2634",
+   "short": "Regulamentul delegat CELEX 32024R2634",
+   "title": "Regulamentul delegat (UE) 2024/2634 al Comisiei din 29 iulie 2024 de modificare a Regulamentului (UE) 2019/287 al Parlamentului European și al Consiliului în ceea ce privește dispozițiile specifice cuprinse în Acordul de parteneriat economic dintre Uniunea Europeană și Republica Kenya",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2634",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fd455606-81e8-11ef-a67d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "9eb08536911291513367481c50f003d308af91500248607608e5220ad7f1a60c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2637-2024",
+   "path": "ue/regulament/2024/2637",
+   "short": "Regulamentul delegat CELEX 32024R2637",
+   "title": "Regulamentul delegat (UE) 2024/2637 al Comisiei din 30 iulie 2024 de modificare a Regulamentului delegat (UE) 2020/760 în ceea ce privește normele referitoare la cantitatea de referință pentru grupele de contingente tarifare în sectorul păsărilor de curte",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2637",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/82f4aa01-81e9-11ef-a67d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "c6728a904d8f8a8b5a6728f95ee53aeedf7b24f1375db35f49d64ca611fd696a"
     }
    ]
   },
@@ -2418,6 +3993,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2684-2024",
+   "path": "ue/regulament/2024/2684",
+   "short": "Regulamentul delegat CELEX 32024R2684",
+   "title": "Regulamentul delegat (UE) 2024/2684 al Comisiei din 2 februarie 2024 de modificare a Regulamentului delegat (UE) 2016/127 în ceea ce privește cerințele referitoare la proteine aplicabile formulelor de început și de continuare fabricate din hidrolizate proteice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2684",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/045771ee-8769-11ef-a67d-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "25460d15612edd15709326e4a1e1c5113852af039b2d79664c204c45d620c773"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2711-2024",
    "path": "ue/regulament/2024/2711",
    "short": "Regulamentul (UE) 2024/2711",
@@ -2463,6 +4053,66 @@
    ]
   },
   {
+   "slug": "ue-regulament-2759-2024",
+   "path": "ue/regulament/2024/2759",
+   "short": "Regulamentul delegat CELEX 32024R2759",
+   "title": "Regulamentul delegat (UE) 2024/2759 al Comisiei din 19 iulie 2024 de completare a Regulamentului (UE) 2015/760 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează situațiile în care instrumentele financiare derivate vor fi utilizate exclusiv pentru acoperirea riscurilor inerente altor investiții ale fondului european de investiții pe termen lung (ELTIF), cerințele privind politica de răscumpărare a ELTIF și instrumentele sale de gestionare a lichidităților, circumstanțele pentru corelarea cererilor de transfer de unități sau acțiuni ale ELTIF, anumite criterii pentru cesiunea activelor ELTIF și anumite elemente ale furnizării de informații privind costurile",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2759",
+   "versions": [
+    {
+     "from": "2024-10-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/83cd83c9-9269-11ef-a130-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "92e6317d9f6d0e08e80f1506ad4b47d1485eec4e8d0c4e7ca3e1539f5eacb51a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2765-2024",
+   "path": "ue/regulament/2024/2765",
+   "short": "Regulamentul delegat CELEX 32024R2765",
+   "title": "Regulamentul delegat (UE) 2024/2765 al Comisiei din 24 iunie 2024 de rectificare a versiunii în limba polonă a Regulamentului delegat (UE) 2015/35 al Comisiei de completare a Directivei 2009/138/CE a Parlamentului European și a Consiliului privind accesul la activitate și desfășurarea activității de asigurare și de reasigurare (Solvabilitate II)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2765",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/611b3977-9269-11ef-a130-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "bc1c13cfbead0549e47e2b6de9abbbad573ac2bbcca539ba6c52bfd297fbc963"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2769-2024",
+   "path": "ue/regulament/2024/2769",
+   "short": "Regulamentul delegat CELEX 32024R2769",
+   "title": "Regulamentul delegat (UE) 2024/2769 al Comisiei din 30 mai 2024 de completare a Regulamentului (UE) nr. 305/2011 al Parlamentului European și al Consiliului prin stabilirea sistemelor aplicabile pentru evaluarea și verificarea constanței performanței produselor pentru construcții în ceea ce privește caracteristicile esențiale legate de sustenabilitatea din punctul de vedere al mediului și de modificare a regulamentului respectiv în ceea ce privește evaluarea și verificarea constanței performanței produselor pentru construcții pe baza unei abordări de modelare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2769",
+   "versions": [
+    {
+     "from": "2024-11-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8811fb1a-94d1-11ef-a130-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "2b887cca4364049977a94ef42ea073706b7efa399e8cb598b397b961ab6acc9a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2770-2024",
+   "path": "ue/regulament/2024/2770",
+   "short": "Regulamentul delegat CELEX 32024R2770",
+   "title": "Regulamentul delegat (UE) 2024/2770 al Comisiei din 15 iulie 2024 de modificare a Regulamentului (UE) 2019/1009 al Parlamentului European și al Consiliului în ceea ce privește criteriile de biodegradabilitate pentru agenții de peliculizare și polimerii de retenție a apei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2770",
+   "versions": [
+    {
+     "from": "2024-11-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/01f5bf54-94d2-11ef-a130-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "96e90801b864403e26d05452f0f39e418cb232134da0fc446b9d076eef8967c6"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2773-2024",
    "path": "ue/regulament/2024/2773",
    "short": "Regulamentul (UE) 2024/2773",
@@ -2474,6 +4124,96 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/5ed2421a-94d4-11ef-a130-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "8cb36457c623f56a9b5138092e725330396583f3a9d5b21675930794b5617b06"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2786-2024",
+   "path": "ue/regulament/2024/2786",
+   "short": "Regulamentul delegat CELEX 32024R2786",
+   "title": "Regulamentul delegat (UE) 2024/2786 al Comisiei din 23 iulie 2024 de modificare a Regulamentului (UE) 2019/1009 al Parlamentului European și al Consiliului în ceea ce privește Enterococcaceae și prezumția de conformitate a produselor fertilizante UE fără verificare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2786",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6b8c3ac8-9729-11ef-a130-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "fe9868e761b6809a9d35b5446c7b8ba1fbb2d705b23ce2163ba23191adb32da8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2787-2024",
+   "path": "ue/regulament/2024/2787",
+   "short": "Regulamentul delegat CELEX 32024R2787",
+   "title": "Regulamentul delegat (UE) 2024/2787 al Comisiei din 23 iulie 2024 de modificare a Regulamentului (UE) 2019/1009 al Parlamentului European și al Consiliului în ceea ce privește includerea foliilor de mulcire în categoria de materii componente 9",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2787",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/de3ed3fa-9728-11ef-a130-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "35361c021673e6b8aba00845c17e1910239105d71a501db2d8721cfd9fed2139"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2788-2024",
+   "path": "ue/regulament/2024/2788",
+   "short": "Regulamentul delegat CELEX 32024R2788",
+   "title": "Regulamentul delegat (UE) 2024/2788 al Comisiei din 23 iulie 2024 de modificare a anexei II la Regulamentul (UE) 2019/1009 al Parlamentului European și al Consiliului în ceea ce privește polimerii din categoria de materii componente 11",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2788",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/853ba839-9728-11ef-a130-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "05dd365946aec7af69c2ecc20008fc9069985b9d2d1fc73c15053dce6540d3f1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2790-2024",
+   "path": "ue/regulament/2024/2790",
+   "short": "Regulamentul delegat CELEX 32024R2790",
+   "title": "Regulamentul delegat (UE) 2024/2790 al Comisiei din 23 iulie 2024 de modificare a anexei II la Regulamentul (UE) 2019/1009 al Parlamentului European și al Consiliului în ceea ce privește polimerii din categoria de materii componente 1",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2790",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/682c6df6-9729-11ef-a130-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "3d643df61249c503b42c9d32425686117857186dcd90749297f19433ad7aec4a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2791-2024",
+   "path": "ue/regulament/2024/2791",
+   "short": "Regulamentul delegat CELEX 32024R2791",
+   "title": "Regulamentul delegat (UE) 2024/2791 al Comisiei din 29 ianuarie 2024 de modificare a anexei la Regulamentul (UE) nr. 609/2013 al Parlamentului European și al Consiliului pentru a permite utilizarea cazeinatului de fier din lapte ca sursă de fier în înlocuitorii totali ai dietei destinați controlului greutății și în alimentele destinate unor scopuri medicale speciale, cu excepția alimentelor destinate sugarilor și copiilor de vârstă mică",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2791",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/24474b8a-9729-11ef-a130-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "642f5d406fd7e8a7b409d0f2548be732f09de09380f82bca324574893a7cf143"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2795-2024",
+   "path": "ue/regulament/2024/2795",
+   "short": "Regulamentul delegat CELEX 32024R2795",
+   "title": "Regulamentul delegat (UE) 2024/2795 al Comisiei din 24 iulie 2024 de modificare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește data aplicării cerințelor de fonduri proprii pentru riscul de piață",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2795",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3a586773-9729-11ef-a130-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "290b8b74c34e5c5ff45f8b9f4b5b0baf43a3499cf67baa3fcbced9a5158fece0"
     }
    ]
   },
@@ -2598,6 +4338,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2867-2024",
+   "path": "ue/regulament/2024/2867",
+   "short": "Regulamentul delegat CELEX 32024R2867",
+   "title": "Regulamentul delegat (UE) 2024/2867 al Comisiei din 2 septembrie 2024 de modificare a Regulamentului (UE) 2018/848 al Parlamentului European și al Consiliului în ceea ce privește modul de prezentare al logoului Uniunii Europene pentru producția ecologică",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2867",
+   "versions": [
+    {
+     "from": "2024-12-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/da441c78-9fd2-11ef-85f0-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "06c63e725482b915bdc1aa04ac4ddd2781c99dc85a83cdca2785d205c4a27704"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-287-2024",
    "path": "ue/regulament/2024/287",
    "short": "Regulamentul (UE) 2024/287",
@@ -2658,6 +4413,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-2910-2024",
+   "path": "ue/regulament/2024/2910",
+   "short": "Regulamentul delegat CELEX 32024R2910",
+   "title": "Regulamentul delegat (UE) 2024/2910 al Comisiei din 28 mai 2024 privind punerea în aplicare a obligațiilor internaționale ale Uniunii, astfel cum sunt menționate la articolul 15 alineatul (2) din Regulamentul (UE) nr. 1380/2013 al Parlamentului European și al Consiliului, în cadrul Comisiei Generale pentru Pescuit în Marea Mediterană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2910",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/287c0664-ab98-11ef-acb1-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "8d4092cc0c7eeb1c2891cb030c7e66942345870bab08d4007f39896420526f16"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2925-2024",
+   "path": "ue/regulament/2024/2925",
+   "short": "Regulamentul delegat CELEX 32024R2925",
+   "title": "Regulamentul delegat (UE) 2024/2925 al Comisiei din 19 iunie 2024 de modificare a Regulamentului (UE) 2023/2053 al Parlamentului European și al Consiliului în ceea ce privește gestionarea tonului roșu din Oceanul Atlantic de Est și din Marea Mediterană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2925",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1d2d95d2-ab98-11ef-acb1-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "d4e016ff0df97e26cb7aba7c1052077adab68494f7589fe981e81262622be6d2"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2929-2024",
    "path": "ue/regulament/2024/2929",
    "short": "Regulamentul (UE) 2024/2929",
@@ -2673,6 +4458,81 @@
    ]
   },
   {
+   "slug": "ue-regulament-2943-2024",
+   "path": "ue/regulament/2024/2943",
+   "short": "Regulamentul delegat CELEX 32024R2943",
+   "title": "Regulamentul delegat (UE) 2024/2943 al Comisiei din 17 septembrie 2024 de modificare a Regulamentului delegat (UE) 2017/117 în ceea ce privește unele măsuri de conservare în domeniul pescuitului în zonele din Marea Baltică Fehmarnbelt, Kadetrinne, Westliche Rönnebank, Adlergrund și Pommersche Bucht mit Oderbank",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2943",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/103f24f3-ad2a-11ef-acb1-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "d5963e9befba4f696e8650e520e1efaf9fed7e2d4f5bc9534aa7e2b9e36e0c2e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-296-2024",
+   "path": "ue/regulament/2024/296",
+   "short": "Regulamentul delegat CELEX 32024R0296",
+   "title": "Regulamentul delegat (UE) 2024/296 al Comisiei din 9 noiembrie 2023 de modificare a Regulamentului delegat (UE) 2022/1636 în ceea ce privește mesajele referitoare la produsele accizabile exportate în regim suspensiv de accize",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0296",
+   "versions": [
+    {
+     "from": "2024-02-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/034477cb-b8c9-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "2e4dd84051aaad1906d3993b2c7103de11674af624a5bf803f3f7a229a428a4a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-297-2024",
+   "path": "ue/regulament/2024/297",
+   "short": "Regulamentul delegat CELEX 32024R0297",
+   "title": "Regulamentul delegat (UE) 2024/297 al Comisiei din 31 octombrie 2023 de completare a Regulamentului (UE) 2019/1700 al Parlamentului European și al Consiliului prin precizarea numărului și a titlurilor variabilelor pentru domeniul sănătății",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0297",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7c380020-b5a5-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "4553ad107f134ee617f60ec47fc8468c6de51571c0ea1178aa24852375ac56ab"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2975-2024",
+   "path": "ue/regulament/2024/2975",
+   "short": "Regulamentul delegat CELEX 32024R2975",
+   "title": "Regulamentul delegat (UE) 2024/2975 al Comisiei din 25 septembrie 2024 de modificare a Regulamentelor delegate (UE) 2021/1698 și (UE) 2021/2306 în ceea ce privește importul în Uniune de produse ecologice și în conversie cu risc ridicat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2975",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e6e4cd9d-adf2-11ef-acb1-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "a4df35dfddf9dcb1e870e4368bfdb0d61cc419d0bfc93adb3fe1d383a3ea57a9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-298-2024",
+   "path": "ue/regulament/2024/298",
+   "short": "Regulamentul delegat CELEX 32024R0298",
+   "title": "Regulamentul delegat (UE) 2024/298 al Comisiei din 7 noiembrie 2023 de completare a Regulamentului (UE) 2019/1700 al Parlamentului European și al Consiliului prin specificarea numărului și a titlului variabilelor pentru subiectul ad-hoc Energie și mediu pentru 2025 în domeniul venitului și condițiilor de viață",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0298",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5b1e5638-b5a5-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "8bc1c5283f5357cf84158ab2dbf8c55e74315c832090fcfc784740b1189dada8"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2987-2024",
    "path": "ue/regulament/2024/2987",
    "short": "Regulamentul (UE) 2024/2987",
@@ -2684,6 +4544,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/8b00f163-b1e0-11ef-acb1-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "251860c1079301a8eb748edb2cfbe8077b2f8ed5674ce5907f26888c5df6f710"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2992-2024",
+   "path": "ue/regulament/2024/2992",
+   "short": "Regulamentul delegat CELEX 32024R2992",
+   "title": "Regulamentul delegat (UE) 2024/2992 al Comisiei din 26 iulie 2024 de modificare a Regulamentului delegat (UE) 2023/2462 de completare a Regulamentului (UE) 2019/1022 al Parlamentului European și al Consiliului prin specificarea unor detalii privind obligația de debarcare pentru anumite stocuri demersale din vestul Mării Mediterane",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2992",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/82976058-b052-11ef-acb1-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "fee6a5b6ee3e9875630d026904ee5c613ee674304f968b53636c3eec16358e17"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3000-2024",
+   "path": "ue/regulament/2024/3000",
+   "short": "Regulamentul delegat CELEX 32024R3000",
+   "title": "Regulamentul delegat (UE) 2024/3000 al Comisiei din 19 iulie 2024 de modificare a Regulamentului (UE) 2019/1241 al Parlamentului European și al Consiliului în ceea ce privește o derogare de la restricțiile privind pescuitul de șprot în diviziunea ICES 4b",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3000",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d2098c80-b117-11ef-acb1-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "a23d6accb7340159e05f38328b51d4b5d43e5115cb5ff42c26e19195fc915144"
     }
    ]
   },
@@ -2778,6 +4668,111 @@
    ]
   },
   {
+   "slug": "ue-regulament-3085-2024",
+   "path": "ue/regulament/2024/3085",
+   "short": "Regulamentul delegat CELEX 32024R3085",
+   "title": "Regulamentul delegat (UE) 2024/3085 al Comisiei din 30 septembrie 2024 de modificare a Regulamentului delegat (UE) 2019/934 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește practicile oenologice autorizate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3085",
+   "versions": [
+    {
+     "from": "2024-12-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2c9a2e7f-b5d8-11ef-acb1-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "60b45fca9fcba471085a0bc4e77ecd31855b3ee5231335af94674c26740221fc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3089-2024",
+   "path": "ue/regulament/2024/3089",
+   "short": "Regulamentul delegat CELEX 32024R3089",
+   "title": "Regulamentul delegat (UE) 2024/3089 al Comisiei din 30 septembrie 2024 de modificare a Regulamentului (UE) 2019/1241 în ceea ce privește măsurile de reducere a capturilor accidentale de delfini comuni (Delphinus delphis) și de alte cetacee mici în Golful Biscaya",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3089",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9a532102-b5d7-11ef-acb1-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "3e8368877efef5ad7197ef3bbaa7ba3596280338f34e060701ce92f00c63bba3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3093-2024",
+   "path": "ue/regulament/2024/3093",
+   "short": "Regulamentul delegat CELEX 32024R3093",
+   "title": "Regulamentul delegat (UE) 2024/3093 al Comisiei din 13 octombrie 2022 de modificare a Regulamentului (UE) 2019/1241 al Parlamentului European și al Consiliului în ceea ce privește măsurile tehnice specifice de reducere a capturilor accidentale de cod în Marea Baltică",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3093",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/65a31cda-b697-11ef-91ed-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "be714ac2aefec93209886fefbcceafc3d0592018bec60b700b572c96fc85ef8a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3095-2024",
+   "path": "ue/regulament/2024/3095",
+   "short": "Regulamentul delegat CELEX 32024R3095",
+   "title": "Regulamentul delegat (UE) 2024/3095 al Comisiei din 29 iulie 2024 de modificare a Regulamentului delegat (UE) 2021/1698 în ceea ce privește certificarea anumitor operatori și grupuri de operatori din țări terțe și controalele efectuate de autoritățile de control și de organismele de control cu privire la produsele lor ecologice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3095",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8b69884b-b5d7-11ef-acb1-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "460590acfeaf8b9fabb8d45b95775faf4d80542d9cfec96ad21740b2037abe06"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3102-2024",
+   "path": "ue/regulament/2024/3102",
+   "short": "Regulamentul delegat CELEX 32024R3102",
+   "title": "Regulamentul delegat (UE) 2024/3102 al Comisiei din 2 septembrie 2024 de modificare a Regulamentului de punere în aplicare (CE) nr. 138/2004 al Parlamentului European și al Consiliului în ceea ce privește trimiterile la nomenclatorul statistic al activităților economice NACE stabilit prin Regulamentul (CE) nr. 1893/2006 al Parlamentului European și al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3102",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7e1686e7-b829-11ef-91ed-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "1070da0cb1c544669af8b2bd7d764ddf8d3bf4520fd48a1490126aec4fadc42f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3103-2024",
+   "path": "ue/regulament/2024/3103",
+   "short": "Regulamentul delegat CELEX 32024R3103",
+   "title": "Regulamentul delegat (UE) 2024/3103 al Comisiei din 2 septembrie 2024 de modificare a Regulamentului (CE) nr. 451/2008 al Parlamentului European și al Consiliului în ceea ce privește actualizarea clasificării produselor în funcție de domeniul de activitate (CPA)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3103",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f82504af-b829-11ef-91ed-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "a92ae412942f7607ccb4cb57d91c4f798e891f2c563f5c3bf05c7ef1fbba8c73"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3104-2024",
+   "path": "ue/regulament/2024/3104",
+   "short": "Regulamentul delegat CELEX 32024R3104",
+   "title": "Regulamentul delegat (UE) 2024/3104 al Comisiei din 2 septembrie 2024 de modificare a Regulamentului (CE) nr. 184/2005 al Parlamentului European și al Consiliului în ceea ce privește trimiterile la nomenclatorul statistic al activităților economice NACE stabilit prin Regulamentul (CE) nr. 1893/2006 al Parlamentului European și al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3104",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/83daa98d-b829-11ef-91ed-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "312a6a8c0b1c488f14e426d4a778e909e8a6bcf40530c9b4853bc466b32f1e48"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-3110-2024",
    "path": "ue/regulament/2024/3110",
    "short": "Regulamentul (UE) 2024/3110",
@@ -2823,6 +4818,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-3159-2024",
+   "path": "ue/regulament/2024/3159",
+   "short": "Regulamentul delegat CELEX 32024R3159",
+   "title": "Regulamentul delegat (UE) 2024/3159 al Comisiei din 2 septembrie 2024 de modificare a Regulamentului (UE) 2016/792 al Parlamentului European și al Consiliului privind indicii armonizați ai prețurilor de consum și indicele prețului locuințelor în ceea ce privește clasificarea consumului și includerea jocurilor de noroc",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3159",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ae87db11-be73-11ef-91ed-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "b406fe5d8544e7ac0b4253562fa6d907b8f43d8f9200dd25abb7e2dd23b0958b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3160-2024",
+   "path": "ue/regulament/2024/3160",
+   "short": "Regulamentul delegat CELEX 32024R3160",
+   "title": "Regulamentul delegat (UE) 2024/3160 al Comisiei din 9 octombrie 2024 de modificare a Regulamentului delegat (UE) 2020/688 în ceea ce privește anumite cerințe în materie de sănătate animală vizând circulația în interiorul Uniunii a animalelor terestre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3160",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/607c745b-be73-11ef-91ed-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "ba37bf30b3dc5a711c548ff754f61d5025208d5a25a9bf7ff87ac50de2ff167d"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-3171-2024",
    "path": "ue/regulament/2024/3171",
    "short": "Regulamentul (UE) 2024/3171",
@@ -2834,6 +4859,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/ee128193-c717-11ef-91ed-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "24d41e3e653233f2f96f0d5005b49f2ea3051e12cfb371fc68b870cd87a310ea"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3173-2024",
+   "path": "ue/regulament/2024/3173",
+   "short": "Regulamentul delegat CELEX 32024R3173",
+   "title": "Regulamentul delegat (UE) 2024/3173 al Comisiei din 27 august 2024 de completare a Regulamentului (UE) 2023/988 al Parlamentului European și al Consiliului în ceea ce privește normele privind accesul la Sistemul de alertă rapidă Safety Gate și funcționarea acestuia, informațiile care trebuie introduse în sistemul respectiv, cerința privind notificările și criteriile de evaluare a nivelului de risc",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3173",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0e04ab2a-b8f5-11ef-91ed-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "8ebb97be1673b179266f973b8a3b1b67ddd8fd009eb7b173bd16f866aaa0ec95"
     }
    ]
   },
@@ -2898,6 +4938,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-3199-2024",
+   "path": "ue/regulament/2024/3199",
+   "short": "Regulamentul delegat CELEX 32024R3199",
+   "title": "Regulamentul delegat (UE) 2024/3199 al Comisiei din 15 octombrie 2024 de modificare a Regulamentului (UE) nr. 649/2012 al Parlamentului European și al Consiliului în ceea ce privește includerea în listele de produse chimice a unor pesticide și produse chimice industriale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3199",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c83b4f9d-c717-11ef-91ed-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "65aa6883326de5088f13b578bc31b6ce73ab702b243745858a6820756b9764b5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3204-2024",
+   "path": "ue/regulament/2024/3204",
+   "short": "Regulamentul delegat CELEX 32024R3204",
+   "title": "Regulamentul delegat (UE) 2024/3204 al Comisiei din 11 octombrie 2024 de modificare a Regulamentului (UE) 2019/1241 al Parlamentului European și al Consiliului în ceea ce privește scoica de Manila și pagelul argintiu",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3204",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eebeee34-c717-11ef-91ed-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "8bd5f357c408e1a279421faa5e47c4602743208d60cad23ff9af1ba480dbd2d4"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-3211-2024",
    "path": "ue/regulament/2024/3211",
    "short": "Regulamentul (UE) 2024/3211",
@@ -2928,6 +4998,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-3214-2024",
+   "path": "ue/regulament/2024/3214",
+   "short": "Regulamentul delegat CELEX 32024R3214",
+   "title": "Regulamentul delegat (UE) 2024/3214 al Comisiei din 16 octombrie 2024 de modificare a Regulamentului (UE) 2015/757 al Parlamentului European și al Consiliului în ceea ce privește normele de monitorizare a emisiilor de gaze cu efect de seră generate de navele pentru activități offshore și acordarea cotei zero pentru combustibilii durabili",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3214",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f3938d24-c3f2-11ef-91ed-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "9397fe5e7581574602bcd10a05198845da7ccf56c0afc4805563e58ed10b14ae"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3215-2024",
+   "path": "ue/regulament/2024/3215",
+   "short": "Regulamentul delegat CELEX 32024R3215",
+   "title": "Regulamentul delegat (UE) 2024/3215 al Comisiei din 28 iunie 2024 de rectificare a anumitor versiuni lingvistice ale Regulamentului delegat (UE) 2021/2139 de completare a Regulamentului (UE) 2020/852 al Parlamentului European și al Consiliului prin stabilirea criteriilor tehnice de examinare pentru a determina condițiile în care o activitate economică se califică drept activitate care contribuie în mod substanțial la atenuarea schimbărilor climatice sau la adaptarea la schimbările climatice și pentru a stabili dacă activitatea economică respectivă aduce prejudicii semnificative vreunuia dintre celelalte obiective de mediu",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3215",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e429d622-bdd7-11ef-91ed-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "75a09ed9dd808d64a85121ae7618b38cde4b4cc92599b98ee8bf3a186cd48db8"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-3228-2024",
    "path": "ue/regulament/2024/3228",
    "short": "Regulamentul (UE) 2024/3228",
@@ -2943,6 +5043,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-3229-2024",
+   "path": "ue/regulament/2024/3229",
+   "short": "Regulamentul delegat CELEX 32024R3229",
+   "title": "Regulamentul delegat (UE) 2024/3229 al Comisiei din 18 octombrie 2024 de modificare a Regulamentului (CE) nr. 1013/2006 al Parlamentului European și al Consiliului în ceea ce privește modificările referitoare la transferurile de deșeuri electrice și electronice convenite în temeiul Convenției de la Basel",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3229",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c3a1026d-be73-11ef-91ed-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "2a2a3b3bd0250e55fea680f5850137380453adee4c1e3e615e18e6c42c9169d8"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-323-2024",
    "path": "ue/regulament/2024/323",
    "short": "Regulamentul (UE) 2024/323",
@@ -2954,6 +5069,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/eec0b299-b8c8-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "a0cdc8ef74c8018d9c0c19d5f1b7e9a95c94615c833ad878de414c65983acf3f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3230-2024",
+   "path": "ue/regulament/2024/3230",
+   "short": "Regulamentul delegat CELEX 32024R3230",
+   "title": "Regulamentul delegat (UE) 2024/3230 al Comisiei din 18 octombrie 2024 de modificare a Regulamentului (UE) 2024/1157 al Parlamentului European și al Consiliului în ceea ce privește modificările referitoare la transferurile de deșeuri electrice și electronice convenite în temeiul Convenției de la Basel",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3230",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b502f1a6-be73-11ef-91ed-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "f16a03b037740cc83321a909c57727ef60b1d8fb9dde974a2225b29bcc3f03c8"
     }
    ]
   },
@@ -3123,6 +5253,81 @@
    ]
   },
   {
+   "slug": "ue-regulament-358-2024",
+   "path": "ue/regulament/2024/358",
+   "short": "Regulamentul delegat CELEX 32024R0358",
+   "title": "Regulamentul delegat (UE) 2024/358 al Comisiei din 29 septembrie 2023 de completare a Regulamentului (UE) 2020/1503 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează cerințele privind evaluarea bonității proiectelor de finanțare participativă, stabilirea prețurilor pentru ofertele de finanțare participativă și politicile și procedurile de administrare a riscurilor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0358",
+   "versions": [
+    {
+     "from": "2024-02-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ea2669f3-b8c8-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "84493e696503c0977c4ee6cde957b5cefcf76f10a575116140b051910e4149a5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-363-2024",
+   "path": "ue/regulament/2024/363",
+   "short": "Regulamentul delegat CELEX 32024R0363",
+   "title": "Regulamentul delegat (UE) 2024/363 al Comisiei din 11 octombrie 2023 de modificare a standardelor tehnice de reglementare prevăzute în Regulamentul delegat (UE) 2015/2205 în ceea ce privește tranziția către indicii de referință TONA și SOFR la care se raportează anumite contracte derivate extrabursiere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0363",
+   "versions": [
+    {
+     "from": "2024-02-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e98cc202-b8c8-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "e90840585c7f02d128e39976d8c419bb0b60d1ca8c4bc0b4956b2d7124619dc3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-369-2024",
+   "path": "ue/regulament/2024/369",
+   "short": "Regulamentul delegat CELEX 32024R0369",
+   "title": "Regulamentul delegat (UE) 2024/369 al Comisiei din 23 ianuarie 2024 de completare a Directivei (UE) 2020/2184 a Parlamentului European și a Consiliului prin stabilirea procedurii referitoare la includerea pe listele pozitive europene sau eliminarea de pe aceste liste a substanțelor inițiale, a compozițiilor și a constituenților",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0369",
+   "versions": [
+    {
+     "from": "2024-05-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4869c06c-010c-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "69cee17d01cc7c7313b7d581b98b0868640286aad928c70d34c5e3b1a4d20890"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-370-2024",
+   "path": "ue/regulament/2024/370",
+   "short": "Regulamentul delegat CELEX 32024R0370",
+   "title": "Regulamentul delegat (UE) 2024/370 al Comisiei din 23 ianuarie 2024 de completare a Directivei (UE) 2020/2184 a Parlamentului European și a Consiliului prin stabilirea procedurilor de evaluare a conformității pentru produsele care intră în contact cu apa destinată consumului uman, precum și a normelor de desemnare a organismelor de evaluare a conformității implicate în aceste proceduri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0370",
+   "versions": [
+    {
+     "from": "2024-05-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/be302293-0133-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "2b2c36270aebdd53ae597694e2715402cc9a0adf9f4374ac686342456bd762d5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-371-2024",
+   "path": "ue/regulament/2024/371",
+   "short": "Regulamentul delegat CELEX 32024R0371",
+   "title": "Regulamentul delegat (UE) 2024/371 al Comisiei din 23 ianuarie 2024 de completare a Directivei (UE) 2020/2184 a Parlamentului European și a Consiliului prin stabilirea specificațiilor armonizate pentru marcajul aplicat în cazul produselor care intră în contact cu apa destinată consumului uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0371",
+   "versions": [
+    {
+     "from": "2024-05-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1f6bd301-010c-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "6453504a2919ebf858430911b8956dbb3dd51db29c7cbed85603f2a2f0145849"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-374-2024",
    "path": "ue/regulament/2024/374",
    "short": "Regulamentul (UE) 2024/374",
@@ -3153,6 +5358,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-382-2024",
+   "path": "ue/regulament/2024/382",
+   "short": "Regulamentul delegat CELEX 32024R0382",
+   "title": "Regulamentul delegat (UE) 2024/382 al Comisiei din 18 octombrie 2023 de rectificare a versiunii în limba suedeză a Regulamentului delegat (UE) nr. 231/2013 de completare a Directivei 2011/61/UE a Parlamentului European și a Consiliului în ceea ce privește derogările, condițiile generale de operare, depozitarii, efectul de levier, transparența și supravegherea",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0382",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/89d908f2-b992-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "f61b44cc3a12ad4deae17d98c359e562077cacf1409c81fd62aeb0fcfbf8b842"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-386-2024",
    "path": "ue/regulament/2024/386",
    "short": "Regulamentul (UE) 2024/386",
@@ -3164,6 +5384,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/57f5956a-b6cc-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "1c2412df9dc87cefac946f0f5ccedb0ea9eb5e3fd166e3bd42fb04777e31e4e1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-397-2024",
+   "path": "ue/regulament/2024/397",
+   "short": "Regulamentul delegat CELEX 32024R0397",
+   "title": "Regulamentul delegat (UE) 2024/397 al Comisiei din 20 octombrie 2023 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare referitoare la calcularea măsurii riscurilor pentru scenarii de criză",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0397",
+   "versions": [
+    {
+     "from": "2024-02-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5d754dfe-be4a-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "261ed7079b4d806b272b568cebb561627976a7ad40b664282d2976678f9068e2"
     }
    ]
   },
@@ -3183,6 +5418,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-405-2024",
+   "path": "ue/regulament/2024/405",
+   "short": "Regulamentul delegat CELEX 32024R0405",
+   "title": "Regulamentul delegat (UE) 2024/405 al Comisiei din 30 ianuarie 2024 de modificare a Regulamentului (UE) nr. 139/2014 în ceea ce privește utilizarea semnalelor în cazul unei întreruperi a radiocomunicațiilor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0405",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/42c852bf-f79b-11ee-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "415cc48d396665ba066c76a8d6b6b7e18243bc61ce7745f9e15d6029c890fc84"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-436-2024",
+   "path": "ue/regulament/2024/436",
+   "short": "Regulamentul delegat CELEX 32024R0436",
+   "title": "Regulamentul delegat (UE) 2024/436 al Comisiei din 20 octombrie 2023 de completare a Regulamentului (UE) 2022/2065 al Parlamentului European și al Consiliului prin stabilirea unor norme privind efectuarea auditurilor pentru platformele online foarte mari și motoarele de căutare online foarte mari",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0436",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e1a1d796-c16d-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "b2de9e02ddf5c11785d123a646cccacafd2232d2903388e38633a4950aa2c5c7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-450-2024",
+   "path": "ue/regulament/2024/450",
+   "short": "Regulamentul delegat CELEX 32024R0450",
+   "title": "Regulamentul delegat (UE) 2024/450 al Comisiei din 26 octombrie 2023 de completare a Regulamentului (UE) 2021/23 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care prevăd elementele minime care trebuie incluse în planul de reorganizare a activității și criteriile pe care acesta trebuie să le îndeplinească pentru a fi aprobat de către autoritatea de rezoluție",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0450",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/95c98d60-c57a-11ee-95d9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "150daea4683b05f59bb686d90db3e77b2fbd8b342ae08469f593e202305c5075"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-451-2024",
    "path": "ue/regulament/2024/451",
    "short": "Regulamentul (UE) 2024/451",
@@ -3194,6 +5474,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/784a5308-c492-11ee-95d9-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "34aac7e531b1ad8b1773e424385ca43f1e62e7de67c585a533a1485dab83e146"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-490-2024",
+   "path": "ue/regulament/2024/490",
+   "short": "Regulamentul delegat CELEX 32024R0490",
+   "title": "Regulamentul delegat (UE) 2024/490 al Comisiei din 29 noiembrie 2023 de modificare a Regulamentului delegat (UE) 2017/1926 de completare a Directivei 2010/40/UE a Parlamentului European și a Consiliului în ceea ce privește furnizarea la nivelul UE a unor servicii de informare cu privire la călătoriile multimodale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0490",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/60644506-ca12-11ee-95d9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "4e07e44f0ce2e83414e3f3648daa05ad5303734da2711cb03dd0a440a87a60e2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-492-2024",
+   "path": "ue/regulament/2024/492",
+   "short": "Regulamentul delegat CELEX 32024R0492",
+   "title": "Regulamentul delegat (UE) 2024/492 al Comisiei din 30 noiembrie 2023 de modificare a Regulamentului (UE) 2019/1241 al Parlamentului European și al Consiliului în ceea ce privește prelungirea măsurilor tehnice pentru anumite activități de pescuit de specii demersale și pelagice din Marea Celtică, Marea Irlandei și vestul Scoției",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0492",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c835d8f2-ca15-11ee-95d9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "540d49c167b7f856e9fd4e9c386d285463e848e2c544519d5894254684c8bb50"
     }
    ]
   },
@@ -3243,6 +5553,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-584-2024",
+   "path": "ue/regulament/2024/584",
+   "short": "Regulamentul delegat CELEX 32024R0584",
+   "title": "Regulamentul delegat (UE) 2024/584 al Comisiei din 7 noiembrie 2023 de modificare a standardelor tehnice de reglementare prevăzute în Regulamentul delegat (UE) 2019/1851 în ceea ce privește omogenitatea expunerilor-suport din securitizări simple, transparente și standardizate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0584",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6f544c40-cba2-11ee-95d9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "2f4f17a570945417c54e05c06a5d9dfb0ed3baa1eecf70bb959b6c352bbf46ca"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-585-2024",
+   "path": "ue/regulament/2024/585",
+   "short": "Regulamentul delegat CELEX 32024R0585",
+   "title": "Regulamentul delegat (UE) 2024/585 al Comisiei din 8 decembrie 2023 de completare a Regulamentului (UE) nr. 251/2014 al Parlamentului European și al Consiliului în ceea ce privește normele specifice referitoare la indicarea și desemnarea ingredientelor pentru produsele vitivinicole aromatizate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0585",
+   "versions": [
+    {
+     "from": "2024-02-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c746cb4c-cba2-11ee-95d9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "0e8b154723743c6f96fc7968b4094ebda2cfd5477a31b91f0c7fe15f146fe386"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-590-2024",
    "path": "ue/regulament/2024/590",
    "short": "Regulamentul (UE) 2024/590",
@@ -3254,6 +5594,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/94feca59-cf90-11ee-b9d9-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "4146dc4d73e34cc9ad19fb9b916413aa88afad402cf5652d7acc42cb5513944e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-595-2024",
+   "path": "ue/regulament/2024/595",
+   "short": "Regulamentul delegat CELEX 32024R0595",
+   "title": "Regulamentul delegat (UE) 2024/595 al Comisiei din 9 noiembrie 2023 de completare a Regulamentului (UE) nr. 1093/2010 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează importanța deficiențelor, tipul de informații colectate, punerea în practică a colectării de informații, precum și analiza și diseminarea informațiilor conținute în baza de date centrală privind combaterea spălării banilor și a finanțării terorismului (CSB/CFT) menționată la articolul 9a alineatul (2) din regulamentul respectiv",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0595",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eb42e29b-cc6b-11ee-b9d9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "11e96375b5822bc227856b1cf96925a88d1ce4bb2ef66271bcfd87765a1b9976"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-602-2024",
+   "path": "ue/regulament/2024/602",
+   "short": "Regulamentul delegat CELEX 32024R0602",
+   "title": "Regulamentul delegat (UE) 2024/602 al Comisiei din 14 decembrie 2023 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește standardele de comercializare din sectorul hameiului și de abrogare a Regulamentului (CE) nr. 1850/2006 al Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0602",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f58895c5-cc6b-11ee-b9d9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "7dc15d55ff291cfad77f935fc5d4865b310b72d5eb7d2975a6fa039e7859fd01"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-634-2024",
+   "path": "ue/regulament/2024/634",
+   "short": "Regulamentul delegat CELEX 32024R0634",
+   "title": "Regulamentul delegat (UE) 2024/634 al Comisiei din 14 decembrie 2023 de modificare a Regulamentului delegat (UE) 2015/2446 în ceea ce privește dovada statutului vamal de mărfuri unionale și formalitățile vamale referitoare la dispozitivele electronice de detectare a încărcăturii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0634",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9ef5e851-cf90-11ee-b9d9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "1618a353cd08e7a402e7c7663f1d66371c8fc1bbef31835085b038d9d665b556"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-636-2024",
+   "path": "ue/regulament/2024/636",
+   "short": "Regulamentul delegat CELEX 32024R0636",
+   "title": "Regulamentul delegat (UE) 2024/636 al Comisiei din 13 decembrie 2023 de modificare a Regulamentului (UE) 2019/833 al Parlamentului European și al Consiliului și a Regulamentului delegat (UE) 2020/124 al Comisiei în ceea ce privește anumite dispoziții privind măsurile de conservare și executare ale Organizației de Pescuit în Atlanticul de Nord-Vest (NAFO) și anumite anexe la acestea",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0636",
+   "versions": [
+    {
+     "from": "2024-02-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cca07b25-d059-11ee-b9d9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "64fcc347c9ef1b533f2d229cfff7044d88499ea94045ac786c4b6663d41599b3"
     }
    ]
   },
@@ -3363,6 +5763,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-818-2024",
+   "path": "ue/regulament/2024/818",
+   "short": "Regulamentul delegat CELEX 32024R0818",
+   "title": "Regulamentul delegat (UE) 2024/818 al Comisiei din 28 noiembrie 2023 de modificare a standardelor tehnice de reglementare prevăzute în Regulamentul delegat (UE) nr. 153/2013 în ceea ce privește prelungirea măsurilor de urgență temporare referitoare la cerințele CCP-urilor în materie de garanții reale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0818",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1528ba64-db63-11ee-b9d9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "98672ca7a12dd38753680efdb0d500d20570e2f4d85651d91ad6e3ce78d27442"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-823-2024",
    "path": "ue/regulament/2024/823",
    "short": "Regulamentul (UE) 2024/823",
@@ -3393,6 +5808,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-856-2024",
+   "path": "ue/regulament/2024/856",
+   "short": "Regulamentul delegat CELEX 32024R0856",
+   "title": "Regulamentul delegat (UE) 2024/856 al Comisiei din 1 decembrie 2023 de completare a Directivei 2013/36/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare care precizează scenariile de șoc în materie de supraveghere, ipotezele comune în materie de modelare și de parametri și ceea ce constituie o scădere semnificativă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0856",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8bb96e23-01d2-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "0e39a0cf7ceec1bf1b001f4e2ece79c107b503b0f7de4b3d0525082cd4b84b75"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-857-2024",
+   "path": "ue/regulament/2024/857",
+   "short": "Regulamentul delegat CELEX 32024R0857",
+   "title": "Regulamentul delegat (UE) 2024/857 al Comisiei din 1 decembrie 2023 de completare a Directivei 2013/36/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare care specifică o metodologie standardizată și o metodologie standardizată simplificată pentru evaluarea riscurilor care decurg din variațiile potențiale ale ratelor dobânzii care afectează atât valoarea economică a capitalului propriu, cât și veniturile nete din dobânzi aferente activităților din afara portofoliului de tranzacționare ale unei instituții",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0857",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f1041076-01d2-11ef-a251-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "16559e1b386076d2632a2cacb567d46b1822b59f0673ab3499f66fe1b889d79e"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-858-2024",
    "path": "ue/regulament/2024/858",
    "short": "Regulamentul (UE) 2024/858",
@@ -3419,6 +5864,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/3cfb84c1-e598-11ee-8b2b-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "84fbf38db256fb808c568df89d0a939f593105897588931a51c01a0dfd33c26b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-873-2024",
+   "path": "ue/regulament/2024/873",
+   "short": "Regulamentul delegat CELEX 32024R0873",
+   "title": "Regulamentul delegat (UE) 2024/873 al Comisiei din 30 ianuarie 2024 de modificare a Regulamentului delegat (UE) 2019/331 în ceea ce privește normele tranzitorii pentru întreaga Uniune privind alocarea armonizată și cu titlu gratuit a certificatelor de emisii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0873",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7c5380e5-f21b-11ee-8e14-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "2861657ac5750d87e19f467e65f9a6d0c3b7f7a8b8acdc5d9404d214e991b450"
     }
    ]
   },
@@ -3464,6 +5924,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e4eb6b9a-ea49-11ee-bf53-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "3fd2b2070fc971e3844da54379e516dfad7f47d67c1ba17e9d22633384ba0149"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-895-2024",
+   "path": "ue/regulament/2024/895",
+   "short": "Regulamentul delegat CELEX 32024R0895",
+   "title": "Regulamentul delegat (UE) 2024/895 al Comisiei din 13 decembrie 2023 de modificare a Regulamentului delegat (UE) 2015/63 în ceea ce privește calcularea datoriilor eligibile și regimul tranzitoriu",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0895",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8d1076d3-e65c-11ee-8b2b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "a8cbeaf9594e2f2edbed207d8be849d6639375fec71f874df374192843f01899"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-896-2024",
+   "path": "ue/regulament/2024/896",
+   "short": "Regulamentul delegat CELEX 32024R0896",
+   "title": "Regulamentul delegat (UE) 2024/896 al Comisiei din 5 decembrie 2023 de modificare a Directivei (UE) 2016/97 a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare care adaptează valorile de bază în euro pentru asigurarea de răspundere civilă profesională și pentru capacitatea financiară a intermediarilor de asigurări, reasigurări și asigurări auxiliare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0896",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8f008706-e65c-11ee-8b2b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "f12d5ffff9a6e2b6d4b2cc8063d511509b6737c5471b9c994f76e3158511bfc1"
     }
    ]
   },
@@ -3528,6 +6018,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-908-2024",
+   "path": "ue/regulament/2024/908",
+   "short": "Regulamentul delegat CELEX 32024R0908",
+   "title": "Regulamentul delegat (UE) 2024/908 al Comisiei din 17 ianuarie 2024 de modificare a Regulamentului (CE) nr. 178/2002 al Parlamentului European și al Consiliului în ceea ce privește numărul și denumirile grupurilor științifice ale Autorității Europene pentru Siguranța Alimentară",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0908",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9040a827-e65c-11ee-8b2b-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "02dc80d92164eb834542a6204be4e51b6a124c02c4a8f39c2cc0d1146b57ce59"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-911-2024",
+   "path": "ue/regulament/2024/911",
+   "short": "Regulamentul delegat CELEX 32024R0911",
+   "title": "Regulamentul delegat (UE) 2024/911 al Comisiei din 15 decembrie 2023 de completare a Directivei 2009/65/CE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare care precizează informațiile care trebuie notificate în legătură cu activitățile transfrontaliere ale societăților de administrare și ale organismelor de plasament colectiv în valori mobiliare (OPCVM)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0911",
+   "versions": [
+    {
+     "from": "2024-04-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/88ce9261-ea4b-11ee-bf53-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "3c98d49491a28610508269841b3d784a4ba0a7fddce0a018b5330479cfbd8dd3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-912-2024",
+   "path": "ue/regulament/2024/912",
+   "short": "Regulamentul delegat CELEX 32024R0912",
+   "title": "Regulamentul delegat (UE) 2024/912 al Comisiei din 15 decembrie 2023 de completare a Directivei 2011/61/UE a Parlamentului European și a Consiliului în ceea ce privește standardele tehnice de reglementare care precizează informațiile care trebuie notificate în legătură cu activitățile transfrontaliere ale administratorilor de fonduri de investiții alternative (AFIA)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0912",
+   "versions": [
+    {
+     "from": "2024-04-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8b830403-ea4b-11ee-bf53-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "6d9ee7fd596d32ec0a91dae48b364ab279ac6897bab211adfcba7e639fba550e"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-918-2024",
    "path": "ue/regulament/2024/918",
    "short": "Regulamentul (UE) 2024/918",
@@ -3539,6 +6074,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/cd0aea49-eb11-11ee-bf53-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "abd4258f6182507ca4f751c9f5587e7925cb8798dd7d48a8dd88baebefd4bc5c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-920-2024",
+   "path": "ue/regulament/2024/920",
+   "short": "Regulamentul delegat CELEX 32024R0920",
+   "title": "Regulamentul delegat (UE) 2024/920 al Comisiei din 13 decembrie 2023 de completare a Regulamentului (UE) 2017/2402 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare care precizează factorii declanșatori legați de performanță și criteriile de calibrare a acestor factori declanșatori",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0920",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bccaa8b2-e7ec-11ee-9ea8-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "bc9e5fcbc2a914f23ab6b3bd9128a4e82a4bc6a042ccfc306a18e3531e4c33ca"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-946-2024",
+   "path": "ue/regulament/2024/946",
+   "short": "Regulamentul delegat CELEX 32024R0946",
+   "title": "Regulamentul delegat (UE) 2024/946 al Comisiei din 18 ianuarie 2024 de modificare a Regulamentului (UE) 2021/2115 al Parlamentului European și al Consiliului în ceea ce privește alocările statelor membre pentru plățile directe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0946",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/54e6141f-eb11-11ee-bf53-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "11322bf35e93d6b2e714f85f4fbdda48fac89b3973ed1e6fd0b4eb0c1da23d74"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-950-2024",
+   "path": "ue/regulament/2024/950",
+   "short": "Regulamentul delegat CELEX 32024R0950",
+   "title": "Regulamentul delegat (UE) 2024/950 al Comisiei din 15 ianuarie 2024 de modificare a Regulamentului delegat (UE) 2019/1602 în ceea ce privește data de aplicare și cazurile în care autoritățile vamale au obligația de a deduce cantitățile menționate în declarația vamală din cantitatea totală permisă declarată în documentul sanitar comun de intrare (DSCI)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0950",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/55650820-eb11-11ee-bf53-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "cdc5794c4dd3fb218ffc6845c14fefe4061ec69a8331e0e2d4bdd7aa5595e287"
     }
    ]
   },

@@ -46,6 +46,96 @@
      "sha256": "881c0f73d142ddeb7db9e4dfe5480dcf40fb5f07931161c9a995d38aa8be1862"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1182-1971",
+   "path": "ue/regulament/1971/1182",
+   "short": "Regulamentul (CEE, Euratom) nr. 1182/71",
+   "title": "Regulamentul (CEE, Euratom) nr. 1182/71 al Consiliului din 3 iunie 1971 privind stabilirea regulilor care se aplică termenelor, datelor și expirării termenelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31971R1182",
+   "versions": [
+    {
+     "from": "1971-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/062fba91-9703-427a-8b77-f7fe0bcbd8b4.0022.04/DOC_1",
+     "sha256": "c11df5934b774b7d4c92253969cdc697031ddcf13328be4cf63c68cf3f333fd9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1408-1971",
+   "path": "ue/regulament/1971/1408",
+   "short": "Regulamentul (CEE) nr. 1408/71",
+   "title": "Regulamentul (CEE) nr. 1408/71 al Consiliului din 14 iunie 1971 privind aplicarea regimurilor de securitate socială în raport cu lucrătorii salariați și cu familiile acestora care se deplasează în cadrul Comunității",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31971R1408",
+   "versions": [
+    {
+     "from": "1972-03-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0b3bf387-2f8a-4361-9dea-6682294d9884.0022.03/DOC_1",
+     "sha256": "9cd8f8ca07e33577854c5e1f938c561a8e4157caf2320153ae03b7166763fd22"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2391-1971",
+   "path": "ue/regulament/1971/2391",
+   "short": "Regulamentul (CEE) nr. 2391/71",
+   "title": "Regulamentul (CEE) nr. 2391/71 al Consiliului din 8 noiembrie 1971 privind aplicarea Recomandării Consiliului de asociere nr. 1/69 de stabilire a metodelor de cooperare administrativă în domeniul vamal pentru aplicarea Acordului de asociere între Comunitatea Economică Europeană și Regatul Marocului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31971R2391",
+   "versions": [
+    {
+     "from": "1971-11-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eafd5251-e751-46d3-a739-63641701b65f.0015.04/DOC_1",
+     "sha256": "931b69986d912fd4faa79710a549d142ace72c9384dff91a1e130669846e5a12"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2392-1971",
+   "path": "ue/regulament/1971/2392",
+   "short": "Regulamentul (CEE) nr. 2392/71",
+   "title": "Regulamentul (CEE) nr. 2392/71 al Consiliului din 8 noiembrie 1971 privind aplicarea Recomandării Consiliului de asociere nr. 1 de stabilire a metodelor de cooperare administrativă în domeniul vamal pentru aplicarea Acordului de asociere între Comunitatea Economică Europeană și Republica Tunisiană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31971R2392",
+   "versions": [
+    {
+     "from": "1971-11-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0cc1b163-7e54-443f-85bd-10c96bc04ac4.0015.04/DOC_1",
+     "sha256": "52f46422ef997dd924f3b2d2f50b73cc56af397808cc075afbc9ced5988c2418"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2821-1971",
+   "path": "ue/regulament/1971/2821",
+   "short": "Regulamentul (CEE) nr. 2821/71",
+   "title": "Regulamentul (CEE) nr. 2821/71 al Consiliului din 20 decembrie 1971 privind aplicarea articolului 85 alineatul (3) din tratat unor categorii de acorduri, decizii și practici concertate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31971R2821",
+   "versions": [
+    {
+     "from": "1972-01-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/56bb8898-70d1-4591-9906-a2fe3cee4855.0022.03/DOC_1",
+     "sha256": "b777735ec339a9a363ef62c275b6de6eb48c66f94f4870065f1dce4dcab19e6d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-801-1971",
+   "path": "ue/regulament/1971/801",
+   "short": "Regulamentul (CEE) nr. 801/71",
+   "title": "Regulamentul (CEE) nr. 801/71 al Comisiei din 19 aprilie 1971 de autorizare a statelor membre să adopte măsuri derogatorii de la unele criterii ale standardelor de calitate aplicabile exporturilor de flori tăiate proaspete către țări terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31971R0801",
+   "versions": [
+    {
+     "from": "1971-04-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5cf7c950-b4c5-4126-9760-0f3fd5a37476.0022.03/DOC_12",
+     "sha256": "40493744527e93c7712bd9b70b3fedbed0de5014838a81a442996af23a354424"
+    }
+   ]
   }
  ]
 }

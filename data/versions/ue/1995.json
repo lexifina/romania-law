@@ -706,6 +706,36 @@
      "sha256": "87efff54749d6d013b904e1720856ff1c1fa2f21c66b53865f85017843b4b671"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-992-1995",
+   "path": "ue/regulament/1995/992",
+   "short": "Regulamentul (CE) nr. 992/95",
+   "title": "Regulamentul (CE) nr. 992/95 al Consiliului din 10 aprilie 1995 privind deschiderea și modul de gestionare ale contingentelor tarifare comunitare pentru anumite produse agricole și pescărești, originare din Norvegia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31995R0992",
+   "versions": [
+    {
+     "from": "1995-05-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ac75a120-8f1c-43f9-8c41-957e0708c6e8.0022.04/DOC_4",
+     "sha256": "00d383d2bbdd7d377c5df0798f3ae667164794755b713cc80aa42d7471873ae7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-997-1995",
+   "path": "ue/regulament/1995/997",
+   "short": "Regulamentul (CE) nr. 997/95",
+   "title": "Regulamentul (CE) nr. 997/95 al Comisiei din 3 mai 1995 de modificare a Regulamentelor (CEE) nr. 1035/72 și (CEE) nr. 2019/93 ale Consiliului și (CEE) nr. 886/87, (CEE) nr. 816/89, (CEE) nr. 3780/90, (CEE) nr. 1108/91, (CE) nr. 3254/93, (CE) nr. 1281/94 și (CE) nr. 1372/94 în ceea ce privește codurile Nomenclaturii Combinate a fructelor și legumelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31995R0997",
+   "versions": [
+    {
+     "from": "1995-05-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/70c3f27d-8d9f-4c11-b31f-fe041c27d18e.0022.04/DOC_1",
+     "sha256": "f258385400be5a8175725e4bbb925011353daf0d9bad9485da62a731ca699f5e"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/constanta/2010",
+ "acts": [
+  {
+   "slug": "hcj-constanta-145-2010",
+   "path": "local/judet/constanta/2010/145",
+   "short": "HCJ Constanța nr. 145/2010",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 145/2010",
+   "url": "https://www.cjc.ro/sectiune.php?s=96",
+   "versions": [
+    {
+     "from": "2010-05-26",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/Hotarari/2010/145.pdf",
+     "sha256": "13655eced7c3e9965923362b8d42bc4f3ac71a3e34796d23c9b377b996211a43"
+    }
+   ]
+  }
+ ]
+}

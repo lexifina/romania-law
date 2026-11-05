@@ -16,6 +16,21 @@
      "sha256": "a1fc7939446801adf86f9e6b8f1725a5ff28098b0bdabc17b7f916e6f31736c3"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-17-1962",
+   "path": "ue/regulament/1962/17",
+   "short": "Regulamentul CELEX 31962R0017",
+   "title": "Regulamentul nr. 17 Primul regulament de punere în aplicare a articolelor 85 și 86 din tratat",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31962R0017",
+   "versions": [
+    {
+     "from": "1962-03-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7b33d160-973d-4e05-aa52-9272aa2006cc.0022.03/DOC_1",
+     "sha256": "a999113e5c176e9402de07cc5edda9b990e34e271ee6fa6f89c81fea74694c87"
+    }
+   ]
   }
  ]
 }

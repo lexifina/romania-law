@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "ue/1958",
+ "acts": [
+  {
+   "slug": "ue-regulament-1-1-1958",
+   "path": "ue/regulament/1958/1-1",
+   "short": "Regulamentul CELEX 31958R0001(01)",
+   "title": "Regulamentul nr. 1 de stabilire a regimului lingvistic al Comunității Europene a Energiei Atomice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31958R0001(01)",
+   "versions": [
+    {
+     "from": "1958-10-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dfb69acd-47ed-4f52-9183-35841341a050.0022.05/DOC_1",
+     "sha256": "c00a8f5659cab1e7c96e123f95e650d7d32cf884045ca9d0c1c503b2c9ccbc99"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1-1958",
+   "path": "ue/regulament/1958/1",
+   "short": "Regulamentul CELEX 31958R0001",
+   "title": "Regulamentul nr. 1 de stabilire a regimului lingvistic al Comunității Economice Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31958R0001",
+   "versions": [
+    {
+     "from": "1958-10-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/115852e8-30ac-496e-8015-d580366ff059.0022.04/DOC_1",
+     "sha256": "a11499921fb2beb2d4d70332942d85ef5a8ca5e9087a559387ea0635ebcbfb97"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3-1-1958",
+   "path": "ue/regulament/1958/3-1",
+   "short": "Regulamentul CELEX 31958R0003(01)",
+   "title": "Regulamentul (Euratom) nr. 3 de punere în aplicare a articolului 24 din Tratatul de instituire a Comunității Europene a Energiei Atomice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31958R0003(01)",
+   "versions": [
+    {
+     "from": "1958-11-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8aaa4952-b26d-4de2-a8d0-31717b811e71.0022.04/DOC_2",
+     "sha256": "01aee5cf63979edfabe3a0c28c88fd7468930e535a6a0aa58c6d44bc021dee66"
+    }
+   ]
+  }
+ ]
+}

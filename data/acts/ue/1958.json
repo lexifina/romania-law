@@ -1,0 +1,57 @@
+{
+"country": "RO",
+"shard": "ue/1958",
+"acts": [
+{
+"slug": "ue-regulament-1-1-1958",
+"path": "ue/regulament/1958/1-1",
+"kind": "ue",
+"year": "1958",
+"number": "1-1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 1 de stabilire a regimului lingvistic al Comunității Europene a Energiei Atomice",
+"short": "Regulamentul CELEX 31958R0001(01)",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1958-10-26",
+"latest": "1958-10-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31958R0001(01)"
+},
+{
+"slug": "ue-regulament-3-1-1958",
+"path": "ue/regulament/1958/3-1",
+"kind": "ue",
+"year": "1958",
+"number": "3-1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (Euratom) nr. 3 de punere în aplicare a articolului 24 din Tratatul de instituire a Comunității Europene a Energiei Atomice",
+"short": "Regulamentul CELEX 31958R0003(01)",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1958-11-15",
+"latest": "1958-11-15",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31958R0003(01)"
+},
+{
+"slug": "ue-regulament-1-1958",
+"path": "ue/regulament/1958/1",
+"kind": "ue",
+"year": "1958",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 1 de stabilire a regimului lingvistic al Comunității Economice Europene",
+"short": "Regulamentul CELEX 31958R0001",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1958-10-26",
+"latest": "1958-10-26",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31958R0001"
+}
+]
+}

@@ -243,6 +243,36 @@
    ]
   },
   {
+   "slug": "ue-directiva-38-2011",
+   "path": "ue/directiva/2011/38",
+   "short": "Directiva de punere în aplicare 2011/38/UE",
+   "title": "Directiva de punere în aplicare 2011/38/UE a Comisiei din 11 aprilie 2011 de modificare a anexei V la Directiva 2004/33/CE în ceea ce privește valorile maxime ale pH-ului pentru concentratele trombocitare la sfârșitul perioadei de depozitare Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0038",
+   "versions": [
+    {
+     "from": "2011-04-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/316b1ce1-d5a1-4adb-bd1b-d30ae5b97092.0016.03/DOC_1",
+     "sha256": "604c68a751822693937d5d1c70440596f425104ea2796428b1583d0bda6cb7b6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-39-2011",
+   "path": "ue/directiva/2011/39",
+   "short": "Directiva de punere în aplicare 2011/39/UE",
+   "title": "Directiva de punere în aplicare 2011/39/UE a Comisiei din 11 aprilie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii substanței fenazaquin ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0039",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e703b46c-437d-491e-a3f2-63dd49683dc4.0012.03/DOC_1",
+     "sha256": "a5eb20da239f59387ea2c9a566533c94e2129292b2ed1888163c2c790e73abcf"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-4-2011",
    "path": "ue/directiva/2011/4",
    "short": "Directiva 2011/4/UE",
@@ -254,6 +284,111 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c3ea0db7-c9b5-479f-a745-680324978f3f.0019.03/DOC_1",
      "sha256": "7e67db663f5a14b59a40afca7dca6eed0a9cf28830d95b12c6dd8d3551a1a46c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-40-2011",
+   "path": "ue/directiva/2011/40",
+   "short": "Directiva de punere în aplicare 2011/40/UE",
+   "title": "Directiva de punere în aplicare 2011/40/UE a Comisiei din 11 aprilie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii substanței sintofen ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0040",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6c893aba-12ec-4db6-8812-65a90b778a15.0013.03/DOC_1",
+     "sha256": "41158f8584e3dd9b685dc829a5c269f722d8c89abb0e510394756180747d748f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-41-2011",
+   "path": "ue/directiva/2011/41",
+   "short": "Directiva de punere în aplicare 2011/41/UE",
+   "title": "Directiva de punere în aplicare 2011/41/UE a Comisiei din 11 aprilie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii ditianonului ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0041",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0983aae4-dffa-419c-8503-8c3149da1ddc.0021.03/DOC_1",
+     "sha256": "e4de7a49da8c6617c0cd41ce01fb68fb28716d5ea9ddd1a5d75a819f9afb18c1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-42-2011",
+   "path": "ue/directiva/2011/42",
+   "short": "Directiva de punere în aplicare 2011/42/UE",
+   "title": "Directiva de punere în aplicare 2011/42/UE a Comisiei din 11 aprilie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii flutriafolului ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0042",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2d2690be-f8a1-4fda-87a6-3967f51e15ee.0015.03/DOC_1",
+     "sha256": "5d86e2a56940a31d81aaed2b9b1145946b78604ebafadf13a1e6b0dcc860ea76"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-43-2011",
+   "path": "ue/directiva/2011/43",
+   "short": "Directiva de punere în aplicare 2011/43/UE",
+   "title": "Directiva de punere în aplicare 2011/43/UE a Comisiei din 13 aprilie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii substanței active polisulfură de calciu și de modificare a Deciziei 2008/941/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0043",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/443be475-fcec-4d76-812e-fcc4ca514a9b.0022.03/DOC_1",
+     "sha256": "3b78e00ea9e40501068042b4a749e97147627d7a4d8fdd834993143c5c592162"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-45-2011",
+   "path": "ue/directiva/2011/45",
+   "short": "Directiva de punere în aplicare 2011/45/UE",
+   "title": "Directiva de punere în aplicare 2011/45/UE a Comisiei din 13 aprilie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii diclofopului ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0045",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3272a068-4821-49f2-9623-f3355e57abfa.0013.03/DOC_1",
+     "sha256": "4adb2064166f1c70a6384c4d5e11ea9555c4ca6a64f1055f948943edb6b47e54"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-46-2011",
+   "path": "ue/directiva/2011/46",
+   "short": "Directiva de punere în aplicare 2011/46/UE",
+   "title": "Directiva de punere în aplicare 2011/46/UE a Comisiei din 14 aprilie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii substanței hexitiazox ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0046",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/52e09ed4-d2be-43b1-8205-9de6fb9f629d.0007.03/DOC_1",
+     "sha256": "9654c5cef0794dd29c5547a96ab754569e20916f885adcafc6d2f3f6293aa1a9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-49-2011",
+   "path": "ue/directiva/2011/49",
+   "short": "Directiva de punere în aplicare 2011/49/UE",
+   "title": "Directiva de punere în aplicare 2011/49/UE a Comisiei din 18 aprilie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii pencicuronului ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0049",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/65145cc6-28ee-4b48-b3ed-a0e07b259d8f.0021.03/DOC_1",
+     "sha256": "aef188e86d531816f5704ac556615acc3d8cc557e1bc1023fd3cdf694f7a150e"
     }
    ]
   },
@@ -273,6 +408,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-50-2011",
+   "path": "ue/directiva/2011/50",
+   "short": "Directiva de punere în aplicare 2011/50/UE",
+   "title": "Directiva de punere în aplicare 2011/50/UE a Comisiei din 19 aprilie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii substanței carbetamid ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0050",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/14ab0bb6-2187-4a7a-bbda-c14fa35599d3.0020.03/DOC_1",
+     "sha256": "d65dfff1fbeeae9a6f0817140a72b675a41ce24ab3450a41b0b774660e820f7a"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-51-2011",
    "path": "ue/directiva/2011/51",
    "short": "Directiva 2011/51/UE",
@@ -284,6 +434,111 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/30405f11-a566-41e9-b3d7-9201626f27d2.0018.03/DOC_1",
      "sha256": "bb804ade1b8f6995376efb32aa76b64596b8df71e749eda09670cb7904f71f46"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-52-2011",
+   "path": "ue/directiva/2011/52",
+   "short": "Directiva de punere în aplicare 2011/52/UE",
+   "title": "Directiva de punere în aplicare 2011/52/UE a Comisiei din 20 aprilie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii carboxinei ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0052",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5248b192-e63e-4b00-b223-e42351a5fb5d.0014.03/DOC_1",
+     "sha256": "2796a5256387814e2c0b2dbbe7b609fe52d36302cf5b3636170c1e5dc5eba36a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-53-2011",
+   "path": "ue/directiva/2011/53",
+   "short": "Directiva de punere în aplicare 2011/53/UE",
+   "title": "Directiva de punere în aplicare 2011/53/UE a Comisiei din 20 aprilie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii substanței dazomet ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0053",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bb173f5e-7d20-4705-b32e-8028aeb19bbe.0002.03/DOC_1",
+     "sha256": "bc1f0b2c8d2e910a1c93102cd94e50b35cf5c99ea6bca3aec09e7e3e0c64fde8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-54-2011",
+   "path": "ue/directiva/2011/54",
+   "short": "Directiva de punere în aplicare 2011/54/UE",
+   "title": "Directiva de punere în aplicare 2011/54/UE a Comisiei din 20 aprilie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii metaldehidei ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0054",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b3c27209-b8ac-4898-9e00-261747007814.0005.03/DOC_1",
+     "sha256": "2d8a10814a7d31abcafdc3bb7037fee8a24f8ffd29924595c004186aff5345f7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-55-2011",
+   "path": "ue/directiva/2011/55",
+   "short": "Directiva de punere în aplicare 2011/55/UE",
+   "title": "Directiva de punere în aplicare 2011/55/UE a Comisiei din 26 aprilie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii substanței paclobutrazol ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0055",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/02b8f159-7281-4e2f-8acc-01cc58b3567e.0001.03/DOC_1",
+     "sha256": "857f5166d678e8312fe2cfcbaea5079f9f160f22524c36134d8d285370238a72"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-56-2011",
+   "path": "ue/directiva/2011/56",
+   "short": "Directiva de punere în aplicare 2011/56/UE",
+   "title": "Directiva de punere în aplicare 2011/56/UE a Comisiei din 27 aprilie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii ciproconazolului ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0056",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fd3a304c-d6ea-4272-97c4-6db0671089eb.0011.03/DOC_1",
+     "sha256": "abedf63c4cf055273cd86f85709c5ca2fd61d3e3680146800b199c726c5d04f9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-57-2011",
+   "path": "ue/directiva/2011/57",
+   "short": "Directiva de punere în aplicare 2011/57/UE",
+   "title": "Directiva de punere în aplicare 2011/57/UE a Comisiei din 27 aprilie 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii fluometuronului ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0057",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f246ebd1-1334-47a6-987c-689736d078ed.0010.03/DOC_1",
+     "sha256": "ebb0aa768c9296e638703c856fb44b4a816b20c09ea6b74cb5e72e51407358fc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-60-2011",
+   "path": "ue/directiva/2011/60",
+   "short": "Directiva de punere în aplicare 2011/60/UE",
+   "title": "Directiva de punere în aplicare 2011/60/UE a Comisiei din 23 mai 2011 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii tebufenozidului ca substanță activă și de modificare a Deciziei 2008/934/CE a Comisiei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0060",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/364f1592-8f24-4e7b-97d2-5033dc3e21ac.0014.03/DOC_1",
+     "sha256": null
     }
    ]
   },
@@ -359,6 +614,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/6be9a15c-0644-4f7d-9911-462a649b5c0c.0020.03/DOC_1",
      "sha256": "277679f62332ff5f4b875c0a2aec240549514494535a27d1cf417bfe077b4f1b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-68-2011",
+   "path": "ue/directiva/2011/68",
+   "short": "Directiva de punere în aplicare 2011/68/UE",
+   "title": "Directiva de punere în aplicare 2011/68/UE a Comisiei din 1 iulie 2011 de modificare a Directivelor 2003/90/CE și 2003/91/CE de stabilire a măsurilor de punere în aplicare a articolului 7 din Directivele 2002/53/CE și, respectiv, 2002/55/CE ale Consiliului în ceea ce privește caracteristicile minime de analizat și condițiile minime de verificare a anumitor soiuri de specii de plante agricole și specii de legume Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0068",
+   "versions": [
+    {
+     "from": "2011-07-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f4f597de-e935-4e31-901e-c93395f2ae51.0006.03/DOC_1",
+     "sha256": "a24d7050ee3e916259d56bc61363f5823ed729cfa2f84fc9d3eed2a67cbbe069"
     }
    ]
   },

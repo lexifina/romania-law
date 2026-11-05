@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/constanta/2011",
+"acts": [
+{
+"slug": "hcj-constanta-174-2011",
+"path": "local/judet/constanta/2011/174",
+"kind": "local",
+"year": "2011",
+"number": "174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 174/2011 privind modificarea anuala a Programului de transport public de persoane prin curse regulate in trafic judetean pentru perioada 2008-2011 aprobat prin HCJ nr.95/2008",
+"short": "HCJ Constanța nr. 174/2011",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2011-05-20",
+"latest": "2011-05-20",
+"portal": "https://www.cjc.ro/sectiune.php?s=95",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-constanta-217-2011",
+"path": "local/judet/constanta/2011/217",
+"kind": "local",
+"year": "2011",
+"number": "217",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 217/2011 privind actualizarea Programului de transport public de persoane prin curse regulate in trafic judetean pentru perioada 2008-2011 aprobat prin HCJ nr.95/2008",
+"short": "HCJ Constanța nr. 217/2011",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2011-07-28",
+"latest": "2011-07-28",
+"portal": "https://www.cjc.ro/sectiune.php?s=95",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

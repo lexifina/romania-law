@@ -1,0 +1,40 @@
+{
+"country": "RO",
+"shard": "ue/1967",
+"acts": [
+{
+"slug": "ue-regulament-423-1967",
+"path": "ue/regulament/1967/423",
+"kind": "ue",
+"year": "1967",
+"number": "423",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 423/67/CEE, nr. 6/67/Euratom al Consiliului din 25 iulie 1967 de stabilire a regimului financiar al membrilor Comisiilor C.E.E. și C.E.E.A., precum și ai Înaltei Autorități care nu au fost numiți membri ai Comisiei unice a Comunităților Europene",
+"short": "Regulamentul CELEX 31967R0423",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1967-08-28",
+"latest": "1967-08-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31967R0423"
+},
+{
+"slug": "ue-regulament-474-1967",
+"path": "ue/regulament/1967/474",
+"kind": "ue",
+"year": "1967",
+"number": "474",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul CEE nr. 474/67 al Comisiei din 21 august 1967 privind fixarea în avans a restituirii la exportul orezului și al brizurii",
+"short": "Regulamentul CELEX 31967R0474",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1967-09-01",
+"latest": "1967-09-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31967R0474"
+}
+]
+}

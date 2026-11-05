@@ -1486,6 +1486,36 @@
      "sha256": "74882a3ae23118a958c3db4b5f18888054bf75b78c4e8220bfe586938ae28aed"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-995-2001",
+   "path": "ue/regulament/2001/995",
+   "short": "Regulamentul (CE) nr. 995/2001",
+   "title": "Regulamentul (CE) nr. 995/2001 al Comisiei din 22 mai 2001 de punere în aplicare a Regulamentului (CE) nr. 2516/2000 al Parlamentului European și al Consiliului de modificare a principiilor comune ale Sistemului European de conturi financiare naționale și regionale din Comunitate (ESA 95) cu privire la impozite și contribuții sociale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001R0995",
+   "versions": [
+    {
+     "from": "2001-06-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f84ebebe-b7dd-4f3a-8393-6ac3755ccdbd.0022.03/DOC_6",
+     "sha256": "fb1e59cc7a98184517c3462d5eb022a71537e58cf0e756c41f1814fde2dde3f6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-999-2001",
+   "path": "ue/regulament/2001/999",
+   "short": "Regulamentul (CE) nr. 999/2001",
+   "title": "Regulamentul (CE) nr. 999/2001 al Parlamentului European și al Consiliului din 22 mai 2001 de stabilire a unor reglementări pentru prevenirea, controlul și eradicarea anumitor forme transmisibile de encefalopatie spongiformă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001R0999",
+   "versions": [
+    {
+     "from": "2001-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cba1d322-3457-4545-a539-5b38936b3b15.0022.03/DOC_1",
+     "sha256": "465ec9d97a16513f385775199587f4f54abad7cc91cb0bb57296189bf5790e11"
+    }
+   ]
   }
  ]
 }

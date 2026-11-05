@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/galati/2019",
+ "acts": [
+  {
+   "slug": "hcj-galati-122-2019",
+   "path": "local/judet/galati/2019/122",
+   "short": "HCJ Galați nr. 122/2019",
+   "title": "Hotărârea Consiliului Județean Galați nr. 122/2019",
+   "url": "https://cjgalati.ro/mongl/",
+   "versions": [
+    {
+     "from": "2019-06-06",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/MonitorOficial/mo8-2019.pdf",
+     "sha256": "090e047fd03bdd31893a1f53cfb11d0827e1f2065d8fc5c8430ea4605c765196"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/judet/constanta/2013",
+"acts": [
+{
+"slug": "hcj-constanta-433-2013",
+"path": "local/judet/constanta/2013/433",
+"kind": "local",
+"year": "2013",
+"number": "433",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 433/2013",
+"short": "HCJ Constanța nr. 433/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-23",
+"latest": "2013-12-23",
+"portal": "https://www.cjc.ro/sectiune.php?s=93",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

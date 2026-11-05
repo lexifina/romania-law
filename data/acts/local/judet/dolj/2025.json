@@ -3,6 +3,28 @@
 "shard": "local/judet/dolj/2025",
 "acts": [
 {
+"slug": "hcj-dolj-611-2025",
+"path": "local/judet/dolj/2025/611",
+"kind": "local",
+"year": "2025",
+"number": "611",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 611/2025 privind aprobarea modificării statului de funcții pentru Unitatea Medico - Socială Sadova",
+"short": "HCJ Dolj nr. 611/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-24",
+"latest": "2025-07-24",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2025-0001171E",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-dolj-663-2025",
 "path": "local/judet/dolj/2025/663",
 "kind": "local",
@@ -22,6 +44,73 @@
 "council_name": "Consiliul Județean Dolj",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-787-2025",
+"path": "local/judet/dolj/2025/787",
+"kind": "local",
+"year": "2025",
+"number": "787",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 787/2025 privind aprobarea modificării statului de funcții pentru Muzeul de Artă Craiova",
+"short": "HCJ Dolj nr. 787/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2026-00014CE6",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-882-2025",
+"path": "local/judet/dolj/2025/882",
+"kind": "local",
+"year": "2025",
+"number": "882",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 882/2025 privind aprobarea modificării statului de funcții pentru Unitatea Medico - Socială Brabova",
+"short": "HCJ Dolj nr. 882/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-09",
+"latest": "2025-10-09",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2025-0001171E",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-2319-2025",
+"path": "local/judet/dolj/2025/2319",
+"kind": "local",
+"year": "2025",
+"number": "2319",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 2319/2025",
+"short": "HCJ Dolj nr. 2319/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2025-0001171E",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

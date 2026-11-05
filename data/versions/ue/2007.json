@@ -3991,6 +3991,21 @@
      "sha256": "2bd7755ed454f7c7f1672858d1a2f74ebc909d4b25558ffc218fe2a32d057ef6"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-996-2007",
+   "path": "ue/regulament/2007/996",
+   "short": "Regulamentul (CE) nr. 996/2007",
+   "title": "Regulamentul (CE) nr. 996/2007 din 28 august 2007",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007R0996",
+   "versions": [
+    {
+     "from": "2007-08-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a4c4eca8-e25c-48f6-a0d7-1ad1b545462e.0019.02/DOC_1",
+     "sha256": "c9ee0a6ca6efa0979ef7a25119f5e17b5431227c40c83242b8853a8ffceac388"
+    }
+   ]
   }
  ]
 }

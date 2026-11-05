@@ -768,6 +768,21 @@
    ]
   },
   {
+   "slug": "hcj-cluj-214-2024",
+   "path": "local/judet/cluj/2024/214",
+   "short": "HCJ Cluj nr. 214/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 214/2024 privind trecerea imobilului situat în Municipiul Cluj-Napoca, str",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-214-14-noiembrie-2024-privind-trecerea-imobilului-situat-in-municipiul-cluj-napoca-str-decebal-nr-126-inscris-in-cartea-funciara-nr-351425-cluj-napoca-din-domeniul-public/",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/11/0e164ee2-214_2_trecere-imobil-situat-pe-str-decebal-nr.-126-din-dom-pub-jud.-in-dom-pub-mun.pdf",
+     "sha256": "47d6bd9a74e1a2ec50c2562abb60ad2553c2da308bdc935b5c6e3346d02af744"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-23-2024",
    "path": "local/judet/cluj/2024/23",
    "short": "HCJ Cluj nr. 23/2024",
@@ -779,6 +794,21 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/02/e0b98df4-23_9_bvc-univers-t.pdf",
      "sha256": "1ed061a3da34a75f50d81e1911317ddd55de4f8b0c11b50261c854249dae3528"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-236-2024",
+   "path": "local/judet/cluj/2024/236",
+   "short": "HCJ Cluj nr. 236/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 236/2024 privind desemnarea reprezentanților Consiliului Județean Cluj în consiliile de administrație/administrative ale instituțiilor de cultură din subordinea Consiliului Județean Cluj",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-236-28-noiembrie-2024-privind-desemnarea-reprezentantilor-consiliului-judetean-cluj-in-consiliile-de-administratie-administrative-ale-institutiilor-de-cultura-din-subordinea-c/",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/12/3d3101f9-236_24_numire-reprez-cjc-in-ca-institutii-cultura.pdf",
+     "sha256": "7baddc37e50b1df10f2f22b92b36a88dfce7fe5afe73fc0dd7ab547616e20c60"
     }
    ]
   },
@@ -1364,6 +1394,21 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2024/04/64849288-77_14_modif-hcjc-161_2018-ind-teh-ec.-amb-psihiatrie-pediatrica.pdf",
      "sha256": "828ffebcd0358215a582f1dbb4e190d0eb19297274054368ec029f17cc43eaba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-84-2024",
+   "path": "local/judet/cluj/2024/84",
+   "short": "HCJ Cluj nr. 84/2024",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 84/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "dcd83cc3d9fe00e597323d876105e3b7fb15d55477416d07952c5d57be8bfc31"
     }
    ]
   }

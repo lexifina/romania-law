@@ -533,6 +533,29 @@
 }
 },
 {
+"slug": "hcj-cluj-84-2024",
+"path": "local/judet/cluj/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 84/2024",
+"short": "HCJ Cluj nr. 84/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-27",
+"latest": "2024-05-27",
+"portal": null,
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-cluj-107-2024",
 "path": "local/judet/cluj/2024/107",
 "kind": "local",
@@ -1544,6 +1567,50 @@
 "from": "2024-11-04",
 "latest": "2024-11-04",
 "portal": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-212-4-noiembrie-2024-privind-constituirea-si-organizarea-comisiilor-de-specialitate-ale-consiliului-judetean-cluj-ca-urmare-a-constituirii-noului-consiliu-judetean-cluj-in-dat/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-cluj-214-2024",
+"path": "local/judet/cluj/2024/214",
+"kind": "local",
+"year": "2024",
+"number": "214",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 214/2024 privind trecerea imobilului situat în Municipiul Cluj-Napoca, str",
+"short": "HCJ Cluj nr. 214/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-214-14-noiembrie-2024-privind-trecerea-imobilului-situat-in-municipiul-cluj-napoca-str-decebal-nr-126-inscris-in-cartea-funciara-nr-351425-cluj-napoca-din-domeniul-public/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-cluj-236-2024",
+"path": "local/judet/cluj/2024/236",
+"kind": "local",
+"year": "2024",
+"number": "236",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 236/2024 privind desemnarea reprezentanților Consiliului Județean Cluj în consiliile de administrație/administrative ale instituțiilor de cultură din subordinea Consiliului Județean Cluj",
+"short": "HCJ Cluj nr. 236/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-236-28-noiembrie-2024-privind-desemnarea-reprezentantilor-consiliului-judetean-cluj-in-consiliile-de-administratie-administrative-ale-institutiilor-de-cultura-din-subordinea-c/",
 "council": "judet/cluj",
 "council_name": "Consiliul Județean Cluj",
 "flags": {

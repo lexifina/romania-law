@@ -46,6 +46,201 @@
      "sha256": "d53b4c501285e7e6eb244bfdba558155b6590c1ed7a9d35662d800ad0e75e9d1"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1516-1974",
+   "path": "ue/regulament/1974/1516",
+   "short": "Regulamentul (CEE) nr. 1516/74",
+   "title": "Regulamentul (CEE) nr. 1516/74 al Comisiei din 18 iunie 1974 privind controlul care trebuie efectuat de către statele membre, în special în ceea ce privește contractele încheiate între fabricanții de zahăr și producătorii de sfeclă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31974R1516",
+   "versions": [
+    {
+     "from": "1974-06-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a321772a-b650-4dad-a5fc-1378f937bb8f.0022.03/DOC_6",
+     "sha256": "5fbe0b4e70ff320144b389e3a3fe1369a69698f29e152690cf4230a68779a3f9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-153-1974",
+   "path": "ue/regulament/1974/153",
+   "short": "Regulamentul (CEE) nr. 153/74",
+   "title": "Regulamentul (CEE) nr. 153/74 al Consiliului din 17 decembrie 1973 privind încheierea Protocolului de stabilire a unor dispoziții referitoare la Acordul dintre Comunitatea Economică Europeană și Republica Libaneză ca urmare a aderării unor noi state membre la Comunitatea Economică Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31974R0153",
+   "versions": [
+    {
+     "from": "1974-01-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/847d9f97-f45e-4a2a-8083-7fb09844f860.0017.04/DOC_1",
+     "sha256": "a7da1758913a3da7a3e9e4cffab4c4e4b553314072a613bbe9ca85e3a16ac769"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-154-1974",
+   "path": "ue/regulament/1974/154",
+   "short": "Regulamentul (CEE) nr. 154/74",
+   "title": "Regulamentul (CEE) nr. 154/74 al Consiliului din 17 decembrie 1973 privind măsurile de salvgardare prevăzute în Acordul dintre Comunitatea Economică Europeană și Republica Libaneză",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31974R0154",
+   "versions": [
+    {
+     "from": "1974-01-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4a657782-5351-43a5-bad8-92184ce2fea9.0018.04/DOC_1",
+     "sha256": "b52628d88c1cca6d76114a08ce4fa2748281cf41cabc1694ec2183cbc9120f3c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1579-1974",
+   "path": "ue/regulament/1974/1579",
+   "short": "Regulamentul (CEE) nr. 1579/74",
+   "title": "Regulamentul (CEE) nr. 1579/74 al Comisiei din 24 iunie 1974 privind metoda de calculare a prelevării la import pentru produsele prelucrate din cereale și din orez și pentru fixarea în avans a acestei prelevări pentru produsele respective, precum și pentru furajele combinate obținute din cereale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31974R1579",
+   "versions": [
+    {
+     "from": "1974-06-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/801519d6-8ee3-4746-9b76-37c5281110b5.0022.04/DOC_3",
+     "sha256": "e8bb5c58005e0413d498c8427d1a7ea0452779c0f989655d3c271b65c98ba7e3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1709-1974",
+   "path": "ue/regulament/1974/1709",
+   "short": "Regulamentul (CEE) nr. 1709/74",
+   "title": "Regulamentul (CEE) nr. 1709/74 al Comisiei din 2 iulie 1974 privind clasificarea anumitor mărfuri la subpoziția 20.06 B I din Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31974R1709",
+   "versions": [
+    {
+     "from": "1974-07-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/99cc698f-976d-499c-b747-5433f81bd438.0022.04/DOC_2",
+     "sha256": "8f179313bb9da803cc38b7298705f58d3ad2bd7d2085029ce384f64fd1b9b8b4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1728-1974",
+   "path": "ue/regulament/1974/1728",
+   "short": "Regulamentul (CEE) nr. 1728/74",
+   "title": "Regulamentul (CEE) nr. 1728/74 al Consiliului din 27 iunie 1974 privind coordonarea cercetării agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31974R1728",
+   "versions": [
+    {
+     "from": "1974-07-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d5035d9f-cf0c-4549-b7f6-ffb1ad555516.0022.04/DOC_8",
+     "sha256": "5931206d639ca3fc5d362e130f11e4402e30f81c0cad40d39d7e642a291bc9e8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1985-1974",
+   "path": "ue/regulament/1974/1985",
+   "short": "Regulamentul (CEE) nr. 1985/74",
+   "title": "Regulamentul (CEE) nr. 1985/74 al Comisiei din 25 iulie 1974 privind modalitățile de fixare a prețurilor de referință și de stabilire a prețurilor franco la frontieră pentru crap",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31974R1985",
+   "versions": [
+    {
+     "from": "1974-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/973215a5-4cf9-4b38-94e3-5ff1597baa4d.0022.03/DOC_1",
+     "sha256": "c0487c3ed773ac5bdb39ad49eeb7d4b5e5f990849aa4b65572d01df625c5f21c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2380-1974",
+   "path": "ue/regulament/1974/2380",
+   "short": "Regulamentul (CEE) nr. 2380/74",
+   "title": "Regulamentul (CEE) nr. 2380/74 al Consiliului din 17 septembrie 1974 de adoptare a regimului de difuzare a informațiilor privind programele de cercetare pentru Comunitatea Economică Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31974R2380",
+   "versions": [
+    {
+     "from": "1974-09-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7824768d-d5e9-44a3-8839-6b8a5a0a816e.0020.01/DOC_1",
+     "sha256": "3a7300fa0eaf6848cef396269721cc73537e679f5a975368e76aa1b593d85ed6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2681-1974",
+   "path": "ue/regulament/1974/2681",
+   "short": "Regulamentul (CEE) nr. 2681/74",
+   "title": "Regulamentul (CEE) nr. 2681/74 al Consiliului din 21 octombrie 1974 privind finanțarea comunitară a cheltuielilor rezultate în urma furnizării de produse agricole ca ajutoare alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31974R2681",
+   "versions": [
+    {
+     "from": "1974-10-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b6d218d9-d4ab-4414-b9b0-b3218d6bc96a.0022.03/DOC_3",
+     "sha256": "6092ca88ecff852bec08caab2793a535b69d5ce9721bf11ae4205e5892424593"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2988-1974",
+   "path": "ue/regulament/1974/2988",
+   "short": "Regulamentul (CEE) nr. 2988/74",
+   "title": "Regulamentul (CEE) nr. 2988/74 al Consiliului din 26 noiembrie 1974 privind termenele de prescripție a acțiunilor și a aplicării sancțiunilor conform normelor Comunității Economice Europene privind transporturile și concurența",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31974R2988",
+   "versions": [
+    {
+     "from": "1975-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6d323818-67f1-41f3-9cdb-c0c69a4456cc.0022.04/DOC_1",
+     "sha256": "e68e080c69985fe97577e5e9a8bc41ea077477b334e52cf046fbbffdf831daa0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-305-1974",
+   "path": "ue/regulament/1974/305",
+   "short": "Regulamentul (CEE) nr. 305/74",
+   "title": "Regulamentul (CEE) nr. 305/74 al Consiliului din 4 februarie 1974 privind încheierea acordului, sub forma unui schimb de scrisori, referitor la modificarea articolului 7 din anexa 6 la Protocolul adițional al Acordului de asociere dintre Comunitatea Economică Europeană și Turcia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31974R0305",
+   "versions": [
+    {
+     "from": "1974-02-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0ebf0934-8db6-4964-b6f2-70afe6dea7d8.0022.04/DOC_1",
+     "sha256": "78c30c3c09596bb19c2a98ae43dee7d4ec59961c364a3847eed0fa1c48aedfeb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3103-1974",
+   "path": "ue/regulament/1974/3103",
+   "short": "Regulamentul (CEE) nr. 3103/74",
+   "title": "Regulamentul (CEE) nr. 3103/74 al Comisiei din 10 decembrie 1974 de modificare a Regulamentului (CEE) nr. 1579/74 în ceea ce privește fixarea în avans a prelevării la import pentru produsele transformate pe bază de cereale și orez",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31974R3103",
+   "versions": [
+    {
+     "from": "1974-12-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1f3d3463-cf67-4bdc-9cfd-be676790892a.0022.03/DOC_9",
+     "sha256": "5bdec50d3d1bdda5064453bba34bf1001dce67be88c03226565124e1ba669773"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3301-1974",
+   "path": "ue/regulament/1974/3301",
+   "short": "Regulamentul (CEE) nr. 3301/74",
+   "title": "Regulamentul (CEE) nr. 3301/74 al Consiliului din 19 decembrie 1974 privind importul în regim de scutire de drepturi vamale al mărfurilor care fac obiectul unor mici transporturi fără caracter comercial în cadrul Comunității",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31974R3301",
+   "versions": [
+    {
+     "from": "1975-04-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4cc92e4c-908f-4258-a73b-fd57ba1c4b34.0022.05/DOC_1",
+     "sha256": "8f7fa13e26e8d46de4a5db82c1fbc05f4fbcfbc2265782d8d39e542ed3c1668e"
+    }
+   ]
   }
  ]
 }

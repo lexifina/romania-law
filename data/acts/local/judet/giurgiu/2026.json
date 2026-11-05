@@ -3,6 +3,28 @@
 "shard": "local/judet/giurgiu/2026",
 "acts": [
 {
+"slug": "hcj-giurgiu-1-2026",
+"path": "local/judet/giurgiu/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 1/2026 privind acoperirea definitivă din excedentul bugetului local a deficitului secțiunii de dezvoltare pe anul 2025 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.253 din 09 ianuarie 2026 al președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.258 din 09 ianuarie 2026 al Serviciului buget-finanțe și contabilitate; - avizul",
+"short": "HCJ Giurgiu nr. 1/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-13",
+"latest": "2026-01-13",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-giurgiu-2-2026",
 "path": "local/judet/giurgiu/2026/2",
 "kind": "local",
@@ -67,6 +89,205 @@
 "council_name": "Consiliul Județean Giurgiu",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-giurgiu-5-2026",
+"path": "local/judet/giurgiu/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 5/2026 privind aprobarea solicitării Consiliului Județean Giurgiu către Consiliul Local al municipiului Giurgiu, de trecere din domeniul public al municipiului în domeniul public al județului, a unui teren în suprafață de 2180 mp, situat în intravilanul Municipiului Giurgiu, strada Constantin Dobrogeanu Gherea, FN, județul Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere:",
+"short": "HCJ Giurgiu nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-6-2026",
+"path": "local/judet/giurgiu/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 6/2026 privind organizarea rețelei școlare de învățământ preuniversitar special din județul Giurgiu pentru anul școlar 2026-2027 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.745 din 16 ianuarie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.746 din 16 ianuarie 2026 al Direcției patrimoniu, coordonare servicii publi",
+"short": "HCJ Giurgiu nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-7-2026",
+"path": "local/judet/giurgiu/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 7/2026 privind acordarea avizului consultativ favorabil pentru Planul anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local Daia pentru anul 2026 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.947 din 19 ianuarie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.949 din 19 i",
+"short": "HCJ Giurgiu nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-9-2026",
+"path": "local/judet/giurgiu/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 9/2026 pentru modificarea Anexei la Hotărârea Consiliului Județean Giurgiu nr.292/2025 privind încheierea unui contract de comodat între Județul Giurgiu și Inspectoratul pentru Situații de Urgență „Vlașca” al județului Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.1037 din 20 ianuarie 2026 al Președintelui Consiliului Județean Giurgiu; - rapo",
+"short": "HCJ Giurgiu nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-10-2026",
+"path": "local/judet/giurgiu/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 10/2026 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.233/2021 privind aprobarea documentației tehnico-economice în faza DALI, a principalilor indicatori tehnico-economici și a devizului general pentru obiectivul de investiții ,,Modernizare drumul județean DJ 602, Limită județ Ilfov - Bâcu - Joița - Săbăreni - Limită județ Ilfov, Tronson 1: Limită județ Ilfov-Bâcu (DJ 601A)” CONSILIUL JUDEȚ",
+"short": "HCJ Giurgiu nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-11-2026",
+"path": "local/judet/giurgiu/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 11/2026 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.142/2024 privind aprobarea documentației tehnico-economice la faza Documentație de avizare a lucrărilor de intervenții, a principalilor indicatori tehnico-economici, a devizelor generale pentru obiectivul de investiții „Modernizare drum județean DJ 602, limită județ Ilfov – Bâcu – Joița – Săbăreni – limită județ Ilfov– tronsonul 2: Joița",
+"short": "HCJ Giurgiu nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-12-2026",
+"path": "local/judet/giurgiu/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 12/2026",
+"short": "HCJ Giurgiu nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-giurgiu-13-2026",
+"path": "local/judet/giurgiu/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 13/2026 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.144/2025 privind aprobarea documentației tehnico-economice la faza Documentație de avizare a lucrărilor de intervenții, a principalilor indicatori tehnico-economici și a devizului general pentru obiectivul de investiții „Consolidare, reabilitare, extindere și dotare Corp Spital Nou C1+C2 – Spitalul Județean de Urgență Giurgiu, B-dul Bucu",
+"short": "HCJ Giurgiu nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-14-2026",
+"path": "local/judet/giurgiu/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 14/2026 privind repartizarea pe unități administrativ-teritoriale a cotei de 20% din sume defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale și din sumele alocate din cotele defalcate din impozitul pe venit pentru echilibrarea bugetelor locale pe anul 2026 și estimări pentru anii 2027-2029 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere - referatul d",
+"short": "HCJ Giurgiu nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-05",
+"latest": "2026-02-05",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -980,6 +1201,116 @@
 }
 },
 {
+"slug": "hcj-giurgiu-57-2026",
+"path": "local/judet/giurgiu/2026/57",
+"kind": "local",
+"year": "2026",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 57/2026 privind aprobarea încheierii cu Asociația de protecția animalelor „MĂRIUȚA” a unui protocol de colaborare pentru custodia temporară a 60 de animale din cele identificate conform Ordinului de plasare a animalelor în adăpost nr.391452 din 5 martie 2026 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.4865 din 10 martie 2026 al Președintelui Co",
+"short": "HCJ Giurgiu nr. 57/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-10",
+"latest": "2026-03-10",
+"portal": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.57-din-10.03.2026.pdf",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-58-2026",
+"path": "local/judet/giurgiu/2026/58",
+"kind": "local",
+"year": "2026",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 58/2026 privind aprobarea încheierii cu Asociația SAVE OUR PAWS a unui protocol de colaborare pentru custodia temporară a 30 de animale din cele identificate conform Ordinului de plasare a animalelor în adăpost nr.391452 din 5 martie 2026 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.4867 din 10 martie 2026 al Președintelui Consiliului Județean G",
+"short": "HCJ Giurgiu nr. 58/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-10",
+"latest": "2026-03-10",
+"portal": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.58-din-10.03.2026.pdf",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-59-2026",
+"path": "local/judet/giurgiu/2026/59",
+"kind": "local",
+"year": "2026",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 59/2026 privind aprobarea încheierii cu Asociația PAWS UNITED a unui protocol de colaborare pentru custodia temporară a 5 animale din cele identificate conform Ordinului de plasare a animalelor în adăpost nr.391452 din 5 martie 2026 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.4869 din 10 martie 2026 al Președintelui Consiliului Județean Giurgiu",
+"short": "HCJ Giurgiu nr. 59/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-10",
+"latest": "2026-03-10",
+"portal": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.59-din-10.03.2026.pdf",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-60-2026",
+"path": "local/judet/giurgiu/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 60/2026 privind aprobarea încheierii cu Asociația pentru Protecția Animalelor KITTYLAND a unui protocol de colaborare pentru custodia temporară a 21 de animale din cele identificate conform Ordinului de plasare a animalelor în adăpost nr.391452 din 5 martie 2026 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere: - referatul de aprobare nr.4872 din 10 martie 2026 al Președintel",
+"short": "HCJ Giurgiu nr. 60/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-10",
+"latest": "2026-03-10",
+"portal": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.60-din-10.03.2026.pdf",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-61-2026",
+"path": "local/judet/giurgiu/2026/61",
+"kind": "local",
+"year": "2026",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 61/2026 privind aprobarea încheierii unor protocoale de colaborare pentru prestarea serviciilor medicale în vederea evaluării stării de sănătate a animalelor identificate prin Ordinul de plasare a animalelor în adăpost nr.391452 din 5 martie 2026 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere: - referatul de aprobare nr.4875 din 10 martie 2026 al Președintelui Consiliului J",
+"short": "HCJ Giurgiu nr. 61/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-10",
+"latest": "2026-03-10",
+"portal": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.61-din-10.03.2026.pdf",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-giurgiu-62-2026",
 "path": "local/judet/giurgiu/2026/62",
 "kind": "local",
@@ -1068,6 +1399,28 @@
 }
 },
 {
+"slug": "hcj-giurgiu-66-2026",
+"path": "local/judet/giurgiu/2026/66",
+"kind": "local",
+"year": "2026",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 66/2026 privind revocarea Hotărârii Consiliului Județean Giurgiu nr.63/11.03.2026 și aprobarea încheierii cu Asociația PAWS UNITED a unui protocol de colaborare pentru custodia temporară a 6 animale din cele identificate conform Ordinului de plasare a animalelor în adăpost nr.391452 din 5 martie 2026 și Completării nr.391489 din 12 martie 2026 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară",
+"short": "HCJ Giurgiu nr. 66/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-13",
+"latest": "2026-03-13",
+"portal": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.66-din-13.03.2026.pdf",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-giurgiu-67-2026",
 "path": "local/judet/giurgiu/2026/67",
 "kind": "local",
@@ -1112,6 +1465,28 @@
 }
 },
 {
+"slug": "hcj-giurgiu-69-2026",
+"path": "local/judet/giurgiu/2026/69",
+"kind": "local",
+"year": "2026",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 69/2026 privind încheierea unui contract de comodat între județul Giurgiu și comuna Roata de Jos în calitate de Beneficiar, respectiv Școala Gimnazială nr.1 Roata de Jos pentru Școala Gimnazială nr.2 Cartojani, județul Giurgiu, în calitate de Beneficiar final CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.5343 din 16 martie 2026 al Președintelui Consil",
+"short": "HCJ Giurgiu nr. 69/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-26",
+"latest": "2026-03-26",
+"portal": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.69-din-26.03.2026.pdf",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-giurgiu-70-2026",
 "path": "local/judet/giurgiu/2026/70",
 "kind": "local",
@@ -1143,6 +1518,28 @@
 "reason": null,
 "title": "Hotărârea Consiliului Județean Giurgiu nr. 71/2026 privind încheierea unui contract de comodat între județul Giurgiu și comuna Clejani în calitate de Beneficiar, respectiv Școala Profesională Clejani, județul Giurgiu, în calitate de Beneficiar final",
 "short": "HCJ Giurgiu nr. 71/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-26",
+"latest": "2026-03-26",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-72-2026",
+"path": "local/judet/giurgiu/2026/72",
+"kind": "local",
+"year": "2026",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 72/2026 privind încheierea unui contract de comodat între județul Giurgiu și comuna Cosoba în calitate de Beneficiar, respectiv Școala Gimnazială nr.1 Cosoba, județul Giurgiu, în calitate de Beneficiar final",
+"short": "HCJ Giurgiu nr. 72/2026",
 "code": null,
 "status": "metadata only (individual decision)",
 "versions": 1,
@@ -1881,6 +2278,28 @@
 "from": "2026-03-26",
 "latest": "2026-03-26",
 "portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2026/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-108-2026",
+"path": "local/judet/giurgiu/2026/108",
+"kind": "local",
+"year": "2026",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 108/2026 privind inițierea negocierilor pentru contractarea unei finanțării rambursabile în valoare de până la 95.425.593,89 lei prin servicii de consultanță specializată CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.6114 din 24 martie 2026 al Președintelui Consiliului Județean Giurgiu; - raportul de specialitate nr.6115 din 24 martie 2026 al Serviciul",
+"short": "HCJ Giurgiu nr. 108/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-26",
+"latest": "2026-03-26",
+"portal": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.108-din-26.03.2026.pdf",
 "council": "judet/giurgiu",
 "council_name": "Consiliul Județean Giurgiu",
 "flags": {

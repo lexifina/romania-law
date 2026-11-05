@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/galati/2018",
+ "acts": [
+  {
+   "slug": "hcj-galati-1-2018",
+   "path": "local/judet/galati/2018/1",
+   "short": "HCJ Galați nr. 1/2018",
+   "title": "Hotărârea Consiliului Județean Galați nr. 1/2018 privind acoperirea definitivă din excedentul bugetului local al județului Galați a deficitului secțiunii de dezvoltare pe anul 2017 …………………………………. 2 2",
+   "url": "https://cjgalati.ro/mongl/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/MonitorOficial/mo1-2018.pdf",
+     "sha256": "1fe66ff97af3a012bb91a292f072cc1a48526a7c47d59912bc43bef9dc47854f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-galati-196-2018",
+   "path": "local/judet/galati/2018/196",
+   "short": "HCJ Galați nr. 196/2018",
+   "title": "Hotărârea Consiliului Județean Galați nr. 196/2018 privind aprobarea Studiului de oportunitate realizat în cadrul proiectului „Dotarea Ambulatoriului integrat de specialitate al Spitalului Clinic de Boli Infecțioase Sf",
+   "url": "https://cjgalati.ro/mongl/",
+   "versions": [
+    {
+     "from": "2018-10-17",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/MonitorOficial/mo16-2018.pdf",
+     "sha256": "aa07c56b7fc45dab727a614245cdce99e05637222614261bf6877a511c162507"
+    }
+   ]
+  }
+ ]
+}

@@ -5025,6 +5025,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009R0988"
 },
 {
+"slug": "ue-regulament-991-2009",
+"path": "ue/regulament/2009/991",
+"kind": "ue",
+"year": "2009",
+"number": "991",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CE) nr. 991/2009 al Comisiei din 22 octombrie 2009 de înregistrare a unei denumiri în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Schwäbische Maultaschen sau Schwäbische Suppenmaultaschen (IGP)]",
+"short": "Regulamentul (CE) nr. 991/2009",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2009-11-12",
+"latest": "2009-11-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32009R0991"
+},
+{
 "slug": "ue-regulament-1007-2009",
 "path": "ue/regulament/2009/1007",
 "kind": "ue",

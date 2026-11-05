@@ -3,6 +3,21 @@
  "shard": "ue/2012",
  "acts": [
   {
+   "slug": "ue-directiva-1-2012",
+   "path": "ue/directiva/2012/1",
+   "short": "Directiva de punere în aplicare 2012/1/UE",
+   "title": "Directiva de punere în aplicare 2012/1/UE a Comisiei din 6 ianuarie 2012 de modificare a anexei I la Directiva 66/402/CEE a Consiliului în ceea ce privește condițiile pe care trebuie să le îndeplinească cultura de Oryza sativa Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0001",
+   "versions": [
+    {
+     "from": "2012-01-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9d6f1a0b-1753-4a9d-bd16-3a4ea2354f8d.0008.03/DOC_1",
+     "sha256": "286355485cf01f976f829eac6766d792e2277d420331a960b7b3c6fcbd51136b"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-10-2012",
    "path": "ue/directiva/2012/10",
    "short": "Directiva 2012/10/UE",
@@ -93,6 +108,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-25-2012",
+   "path": "ue/directiva/2012/25",
+   "short": "Directiva de punere în aplicare 2012/25/UE",
+   "title": "Directiva de punere în aplicare 2012/25/UE a Comisiei din 9 octombrie 2012 de stabilire a procedurilor de informare pentru schimbul, între statele membre, de organe umane destinate transplantului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0025",
+   "versions": [
+    {
+     "from": "2012-10-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/837e40e3-12c6-11e2-8e28-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "5f6f40fc74bd52e3f47fbc23ae1207bc1a53ef134598fc177ef1473200b623bc"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-26-2012",
    "path": "ue/directiva/2012/26",
    "short": "Directiva 2012/26/UE",
@@ -164,6 +194,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/de1b4952-33ba-11e2-84d0-01aa75ed71a1.0019.04/DOC_1",
      "sha256": "18ab13dca8498e8522fac680556a654c13d3bf1642e95c485c119883bf2bfd3c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-37-2012",
+   "path": "ue/directiva/2012/37",
+   "short": "Directiva de punere în aplicare 2012/37/UE",
+   "title": "Directiva de punere în aplicare 2012/37/UE a Comisiei din 22 noiembrie 2012 de modificare a anumitor anexe la Directivele 66/401/CEE și 66/402/CEE în ceea ce privește condițiile pe care trebuie să le îndeplinească semințele de Galega orientalis Lam., greutatea maximă a unui lot de semințe de anumite specii de plante furajere și dimensiunea eșantionului de Sorghum spp. Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0037",
+   "versions": [
+    {
+     "from": "2012-11-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/67b3e823-4d05-4737-83d0-d485f25ab2d1.0021.03/DOC_1",
+     "sha256": "baca92c6fde45c79273ba8eea1885959953f5e7ba820ca814671037760230fde"
     }
    ]
   },
@@ -258,6 +303,51 @@
    ]
   },
   {
+   "slug": "ue-directiva-50-2012",
+   "path": "ue/directiva/2012/50",
+   "short": "Directiva delegată 2012/50/UE",
+   "title": "Directiva delegată 2012/50/UE a Comisiei din 10 octombrie 2012 de modificare, în scopul adaptării la progresul tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o scutire referitoare la aplicații conținând plumb Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0050",
+   "versions": [
+    {
+     "from": "2013-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bb2002dd-4929-11e2-8762-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "f956e14fbe4b0626915680eacf07a700cbe218e3c94ab5e10dffeecb9ab44d58"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-51-2012",
+   "path": "ue/directiva/2012/51",
+   "short": "Directiva delegată 2012/51/UE",
+   "title": "Directiva delegată 2012/51/UE a Comisiei din 10 octombrie 2012 de modificare, în scopul adaptării la progresul tehnic, a anexei III la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o scutire referitoare la aplicații conținând cadmiu Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0051",
+   "versions": [
+    {
+     "from": "2013-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a2f70d13-492a-11e2-8762-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "2f32bf1b70a4ea157772dff987f0b85d6a3758766b34ca5492f369d48bada9d8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-52-2012",
+   "path": "ue/directiva/2012/52",
+   "short": "Directiva de punere în aplicare 2012/52/UE",
+   "title": "Directiva de punere în aplicare 2012/52/UE a Comisiei din 20 decembrie 2012 de stabilire a unor măsuri pentru facilitarea recunoașterii prescripțiilor medicale emise în alt stat membru Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0052",
+   "versions": [
+    {
+     "from": "2013-01-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fa6a27fa-4ffc-11e2-9294-01aa75ed71a1.0019.04/DOC_2",
+     "sha256": "a0537ca51910622304afed9c1e6090efc694abbcf8e5e119445752089f231402"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-7-2012",
    "path": "ue/directiva/2012/7",
    "short": "Directiva 2012/7/UE",
@@ -269,6 +359,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/e25df082-07ec-465e-bc89-485b3b9b2f8d.0011.02/DOC_1",
      "sha256": "86b2392b5dbdbe462db846e678ba019efa9eb369674b0a76b2aff8fda68deb9f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-8-2012",
+   "path": "ue/directiva/2012/8",
+   "short": "Directiva de punere în aplicare 2012/8/UE",
+   "title": "Directiva de punere în aplicare 2012/8/UE a Comisiei din 2 martie 2012 de modificare a Directivei 2003/90/CE de stabilire a măsurilor de punere în aplicare a articolului 7 din Directiva 2002/53/CE a Consiliului în ceea ce privește caracteristicile minime de analizat și condițiile minime de verificare a anumitor soiuri de specii de plante agricole Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0008",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cd7eae55-7b3f-418f-afd4-1e15fae336a4.0015.03/DOC_1",
+     "sha256": "8761a049a0f6ac5b5ae7d6ebcf1e9a61b203e29cef3c83249b1362a0d7b0ea5c"
     }
    ]
   },

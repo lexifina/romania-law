@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/constanta/2022",
+"acts": [
+{
+"slug": "hcj-constanta-174-2022",
+"path": "local/judet/constanta/2022/174",
+"kind": "local",
+"year": "2022",
+"number": "174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 174/2022",
+"short": "HCJ Constanța nr. 174/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-27",
+"latest": "2022-07-27",
+"portal": "https://www.cjc.ro/sectiune.php?s=273",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-constanta-1048-2022",
+"path": "local/judet/constanta/2022/1048",
+"kind": "local",
+"year": "2022",
+"number": "1048",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Constanța nr. 1048/2022 privind inchirierea pasunilor prin a",
+"short": "HCJ Constanța nr. 1048/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-05",
+"latest": "2022-07-05",
+"portal": "https://www.cjc.ro/sectiune.php?s=206",
+"council": "judet/constanta",
+"council_name": "Consiliul Județean Constanța",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

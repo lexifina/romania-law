@@ -1,0 +1,321 @@
+{
+ "country": "RO",
+ "shard": "local/judet/covasna/2022",
+ "acts": [
+  {
+   "slug": "hcj-covasna-10-2022",
+   "path": "local/judet/covasna/2022/10",
+   "short": "HCJ Covasna nr. 10/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 10/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-1-20-ianuarie-2022.html",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/01/ro/10_2022.pdf",
+     "sha256": "a1cc00629b5d58650fced79920a11e24e4ae76a14fe15e3903ee89556b558f2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-105-2022",
+   "path": "local/judet/covasna/2022/105",
+   "short": "HCJ Covasna nr. 105/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 105/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-98-108-iunie-2022.html",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/06/ro/105_2022.pdf",
+     "sha256": "06a6cea7574acaba73ccaf0c56df1e4c62fd325f981ac0ead9696def4e56b70d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-111-2022",
+   "path": "local/judet/covasna/2022/111",
+   "short": "HCJ Covasna nr. 111/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 111/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-109-121-iulie-2022.html",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/07/ro/111_2022.pdf",
+     "sha256": "49a60b2504a45fbb1bf21e2a22c9b253cff2647efa9d06bab291e04d49ea69c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-112-2022",
+   "path": "local/judet/covasna/2022/112",
+   "short": "HCJ Covasna nr. 112/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 112/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-109-121-iulie-2022.html",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/07/ro/112_2022.pdf",
+     "sha256": "95170f04786d6702b260290ce8af88ef21de8629bf6febba4e8d377acec3dd70"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-155-2022",
+   "path": "local/judet/covasna/2022/155",
+   "short": "HCJ Covasna nr. 155/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 155/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-128-160-septembrie-2022.html",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/09/ro/155_2022.pdf",
+     "sha256": "a341b3d5b64ef18d41256ecfac1438ca875bb9294b50617cb87ab9c43fa1218b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-179-2022",
+   "path": "local/judet/covasna/2022/179",
+   "short": "HCJ Covasna nr. 179/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 179/2022 privind rectificarea bugetului propriu al Județului Covasna și al instituțiilor publice de interes județean pe anul 2022, precum și modificarea Hotărârii Consiliului Județean Covasna nr. 131/2022 cu privire la rectificarea bugetului propriu al Județului Covasna și al instituțiilor publice de interes județean pe anul 2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-175-195-noiembrie-2022.html",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/11/ro/179_2022.pdf",
+     "sha256": "45be81e13e9661e2214a5eb82e54c0868190ed572d00a457bdd99ae0cf2d33b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-18-2022",
+   "path": "local/judet/covasna/2022/18",
+   "short": "HCJ Covasna nr. 18/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 18/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-1-20-ianuarie-2022.html",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/01/ro/18_2022.pdf",
+     "sha256": "551382ab69cbedbe6bccb3a7e69c9e7d0c781ff5dbcf86f27f62166f23006d05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-191-2022",
+   "path": "local/judet/covasna/2022/191",
+   "short": "HCJ Covasna nr. 191/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 191/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-175-195-noiembrie-2022.html",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/11/ro/191_2022.pdf",
+     "sha256": "7de3ea55ef0b95e08fc5e57df5abff97ae63cec7b0b9efdaaa232598e1975cf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-195-2022",
+   "path": "local/judet/covasna/2022/195",
+   "short": "HCJ Covasna nr. 195/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 195/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-175-195-noiembrie-2022.html",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/11/ro/195_2022.pdf",
+     "sha256": "648411d3d8966d79bf585d5e785e7a2ba8dcceb810ef8dfa4d6c269a1afc0c1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-198-2022",
+   "path": "local/judet/covasna/2022/198",
+   "short": "HCJ Covasna nr. 198/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 198/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-196-216-decembrie-2022.html",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/12/ro/198_2022.pdf",
+     "sha256": "abefcdcd3d1d18293feab23fa536dddc77416ca635c3d7e14a23ea32a1c48a50"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-199-2022",
+   "path": "local/judet/covasna/2022/199",
+   "short": "HCJ Covasna nr. 199/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 199/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-196-216-decembrie-2022.html",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/12/ro/199_2022.pdf",
+     "sha256": "39eb19c06b6046d0350800eb1c376b31f49ceaf1e4c0a3d2e2b965a5c473ba84"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-208-2022",
+   "path": "local/judet/covasna/2022/208",
+   "short": "HCJ Covasna nr. 208/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 208/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-196-216-decembrie-2022.html",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/12/ro/208_2022.pdf",
+     "sha256": "ce5641632a0ff0be19d78f91a7ff2ffd20a5d19aaa45fe25f2450cd4644c0bfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-210-2022",
+   "path": "local/judet/covasna/2022/210",
+   "short": "HCJ Covasna nr. 210/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 210/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-196-216-decembrie-2022.html",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/12/ro/210_2022.pdf",
+     "sha256": "cd9c283bd1e3d2c6de05ea48be4373ec11455510c8104ea45baa706b0b027e85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-211-2022",
+   "path": "local/judet/covasna/2022/211",
+   "short": "HCJ Covasna nr. 211/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 211/2022 pentru modificarea anexei nr. 2 la Hotărârea Consiliului Județean Covasna nr. 211/2018 privind aprobarea Organigramei şi Statului de funcții ale Muzeului Național Secuiesc – Székely Nemzeti Múzeum",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-196-216-decembrie-2022.html",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/12/ro/211_2022.pdf",
+     "sha256": "0778af5b792f6ed2da470b36ff89526d9d22c6d620d54b205e06615a393793de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-214-2022",
+   "path": "local/judet/covasna/2022/214",
+   "short": "HCJ Covasna nr. 214/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 214/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-196-216-decembrie-2022.html",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/12/ro/214_2022.pdf",
+     "sha256": "ce5322b1489177148031dc5db3dfd8e8477daa38dfa13fb6df8a7540ef7b3be1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-216-2022",
+   "path": "local/judet/covasna/2022/216",
+   "short": "HCJ Covasna nr. 216/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 216/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-196-216-decembrie-2022.html",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/12/ro/216_2022.pdf",
+     "sha256": "89d5f3c584796286ad65598a306f97a1e9ba682a90e021480ed6437f9ce7771f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-58-2022",
+   "path": "local/judet/covasna/2022/58",
+   "short": "HCJ Covasna nr. 58/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 58/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-54-71-aprilie-2022.html",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/04/ro/58_2022.pdf",
+     "sha256": "6c96bc0b679a0d77ada3282d178a8605fa2e7c61e2ff155bb352883aeff8c568"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-80-2022",
+   "path": "local/judet/covasna/2022/80",
+   "short": "HCJ Covasna nr. 80/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 80/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-72-97-mai-2022.html",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/05/ro/80_2022.pdf",
+     "sha256": "389c243a72f93ba7121292a89e27fe322f8627fff33fa1b6363b2ebd7dbb769e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-84-2022",
+   "path": "local/judet/covasna/2022/84",
+   "short": "HCJ Covasna nr. 84/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 84/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-72-97-mai-2022.html",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/05/ro/84_2022.pdf",
+     "sha256": "8383e51d74f233f58b881ab79be02cee3e77c92e96fc32f470d71059e851cd04"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-9-2022",
+   "path": "local/judet/covasna/2022/9",
+   "short": "HCJ Covasna nr. 9/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 9/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-1-20-ianuarie-2022.html",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/01/ro/09_2022.pdf",
+     "sha256": "94df13d4a5334a8ee9c7e3859a802cd185b4a6956a43d10bb5be3e2cd1ccba51"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-94-2022",
+   "path": "local/judet/covasna/2022/94",
+   "short": "HCJ Covasna nr. 94/2022",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 94/2022",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-72-97-mai-2022.html",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2022/05/ro/94_2022.pdf",
+     "sha256": "44d24e38a3a2c2f89efc09e331011c9e9c902fb4eb40e23be5737a1af4a81ebc"
+    }
+   ]
+  }
+ ]
+}

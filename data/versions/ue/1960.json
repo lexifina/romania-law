@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "ue/1960",
+ "acts": [
+  {
+   "slug": "ue-regulament-11-1960",
+   "path": "ue/regulament/1960/11",
+   "short": "Regulamentul CELEX 31960R0011",
+   "title": "Regulamentul nr. 11 privind eliminarea discriminării în materie de tarife și condiții de transport, adoptat în aplicarea articolului 79 alineatul (3) din Tratatul de instituire a Comunității Economice Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31960R0011",
+   "versions": [
+    {
+     "from": "1960-09-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7b0547f7-0c6c-415e-831a-4edf8166eb26.0013.03/DOC_4",
+     "sha256": "a54d4068411e1f9a44e69f43d6e2d9c638fb672662d521ab1db74998c5b551df"
+    }
+   ]
+  }
+ ]
+}

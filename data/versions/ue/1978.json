@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-2215-1978",
+   "path": "ue/regulament/1978/2215",
+   "short": "Regulamentul (CEE) nr. 2215/78",
+   "title": "Regulamentul (CEE) nr. 2215/78 al Consiliului din 26 septembrie 1978 privind încheierea Acordului de cooperare între Comunitatea Economică Europeană și Regatul Hașemit al Iordaniei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978R2215",
+   "versions": [
+    {
+     "from": "1978-09-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c4953439-ecf6-4c10-89d5-33d473a8cc38.0022.04/DOC_1",
+     "sha256": "c44b7a20e58af2c973aded13cce9b02af67cf5d33c6c93fd83b362de36f5c17f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-2216-1978",
    "path": "ue/regulament/1978/2216",
    "short": "Regulamentul (CEE) nr. 2216/78",
@@ -179,6 +194,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/212298b0-dc58-4bd7-a30a-1551c72a8106.0020.04/DOC_2",
      "sha256": "b8e12d512d7ad075877032aa1b068d2969ff62e11752652b32da4d89a12b5b0b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2456-1978",
+   "path": "ue/regulament/1978/2456",
+   "short": "Regulamentul (CEE) nr. 2456/78",
+   "title": "Regulamentul (CEE) nr. 2456/78 al Consiliului din 19 septembrie 1978 privind încheierea Acordului sub forma unui schimb de scrisori de modificare a Acordului dintre Comunitatea Economică Europeană și Confederația Elvețiană, în scopul ajustării anumitor specificații tarifare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978R2456",
+   "versions": [
+    {
+     "from": "1978-10-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/61fddead-e6da-4f56-9271-722833e6a369.0022.04/DOC_1",
+     "sha256": "789d1981c090bbd7e51dd0ab6ce9d861562a0dde693bc1667eb8df1d8098341d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2457-1978",
+   "path": "ue/regulament/1978/2457",
+   "short": "Regulamentul (CEE) nr. 2457/78",
+   "title": "Regulamentul (CEE) nr. 2457/78 al Consiliului din 16 octombrie 1978 privind încheierea Acordului sub formă de schimb de scrisori între Comunitatea Economică Europeană și Republica Tunisia privind vinurile originare din Tunisia și care beneficiază de denumire de origine",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978R2457",
+   "versions": [
+    {
+     "from": "1978-10-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/088a8235-cc2b-4895-bbf1-999f86726317.0022.03/DOC_18",
+     "sha256": "5f26f8cd1f3c8419483226d60d4aac7d2f104310b69d7418088576578eab27a5"
     }
    ]
   },

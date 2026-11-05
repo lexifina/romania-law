@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/judet/covasna/2020",
+ "acts": [
+  {
+   "slug": "hcj-covasna-101-2020",
+   "path": "local/judet/covasna/2020/101",
+   "short": "HCJ Covasna nr. 101/2020",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 101/2020",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-98-112-iulie-2020.html",
+   "versions": [
+    {
+     "from": "2020-07-23",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2020/07/ro/101_2020.pdf",
+     "sha256": "f29abbe09074699e93c1c377151033dea4f67e9389c4eb26e02ea049d2547ed0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-113-2020",
+   "path": "local/judet/covasna/2020/113",
+   "short": "HCJ Covasna nr. 113/2020",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 113/2020",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-113-128-august-2020.html",
+   "versions": [
+    {
+     "from": "2020-08-06",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2020/08/ro/113_2020.pdf",
+     "sha256": "8cc429cbe6bb37c31bc7d4b1d0443330ef4528000429fef8e2b1ea58e45497c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-12-2020",
+   "path": "local/judet/covasna/2020/12",
+   "short": "HCJ Covasna nr. 12/2020",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 12/2020",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-1-20-ianuarie-2020.html",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/_f/Hatarozatok/2020/01/ro/H_2020_012.pdf",
+     "sha256": "a97905aeba9cd32f3268dc1495e4f3d3353ae42e41c08711351fd043ac1928be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-122-2020",
+   "path": "local/judet/covasna/2020/122",
+   "short": "HCJ Covasna nr. 122/2020",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 122/2020",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-113-128-august-2020.html",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2020/08/ro/122_2020.pdf",
+     "sha256": "1947c0477dacba9cef7f9e2ec25b82af9af29ab0c61cced3d9a51e001207468b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-126-2020",
+   "path": "local/judet/covasna/2020/126",
+   "short": "HCJ Covasna nr. 126/2020",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 126/2020",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-113-128-august-2020.html",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2020/08/ro/126_2020.pdf",
+     "sha256": "16de0063420e9e1618f9b75271f3ae8ff9e5b544b52196ebcacafa7ae9657763"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-148-2020",
+   "path": "local/judet/covasna/2020/148",
+   "short": "HCJ Covasna nr. 148/2020",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 148/2020 pentru modificarea și completarea Hotărârii Consiliului Județean Covasna nr. 145/2020 privind organizarea Comisiilor de specialitate ale Consiliului Județean Covasna",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-148-159-noiembrie-2020.html",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2020/11/ro/148_2020.pdf",
+     "sha256": "cbbfb17106486482cc65e60ce81477d4bbd9a8d3bdabf4a873df12454f41aed4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-152-2020",
+   "path": "local/judet/covasna/2020/152",
+   "short": "HCJ Covasna nr. 152/2020",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 152/2020",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-148-159-noiembrie-2020.html",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/fileman/Uploads/monitor/03_hatarozatok/2020/11/ro/152_2020.pdf",
+     "sha256": "e01a1b7321ef57caf5f8f881f2950b623b4e7850246fe2a05a06645d1aab3573"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-27-2020",
+   "path": "local/judet/covasna/2020/27",
+   "short": "HCJ Covasna nr. 27/2020",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 27/2020",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-21-42-februarie-2020.html",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/_f/Hatarozatok/2020/02/ro/H_2020_027.pdf",
+     "sha256": "1e2c6ca584591461e99826e83bc84fd6f83442510609dfbabf40c5d0eb870042"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-31-2020",
+   "path": "local/judet/covasna/2020/31",
+   "short": "HCJ Covasna nr. 31/2020",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 31/2020",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-21-42-februarie-2020.html",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/_f/Hatarozatok/2020/02/ro/H_2020_031.pdf",
+     "sha256": "55a575e078db745c08f6265d22d796e209f7576096b0bd855112e32577ce93e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-32-2020",
+   "path": "local/judet/covasna/2020/32",
+   "short": "HCJ Covasna nr. 32/2020",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 32/2020 pentru modificarea Hotărârii nr. 226/2016 cu privire la aprobarea „Programului județean pentru reabilitarea și modernizarea bazelor sportive din mediul rural” în perioada 2017-2020",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-21-42-februarie-2020.html",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/_f/Hatarozatok/2020/02/ro/H_2020_032.pdf",
+     "sha256": "d25bdf00f17e0523f2ea9ea552898d273b3ab1359123ebd5d51c0089c5b06d9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-33-2020",
+   "path": "local/judet/covasna/2020/33",
+   "short": "HCJ Covasna nr. 33/2020",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 33/2020 pentru modificarea Hotărârii nr. 228/2016 cu privire la aprobarea ”Programului județean de dezvoltare a infrastructurii unităților de învățământ preuniversitar” în perioada 2017- 2020",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-21-42-februarie-2020.html",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/_f/Hatarozatok/2020/02/ro/H_2020_033.pdf",
+     "sha256": "fa03e2a3767baf3584a89871600c41ed0a80871d2519858ef53e19fcbd31c4f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-34-2020",
+   "path": "local/judet/covasna/2020/34",
+   "short": "HCJ Covasna nr. 34/2020",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 34/2020 pentru modificarea Hotărârii nr. 225/2016 cu privire la aprobarea „Programului județean pentru reabilitarea, modernizarea căminelor culturale din mediul rural” în perioada 2017-2020",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-21-42-februarie-2020.html",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/_f/Hatarozatok/2020/02/ro/H_2020_034.pdf",
+     "sha256": "77521cdd05f5adca9d5cb428f95fecdfb3bdd3c58198e28a9586961d716ec0f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-35-2020",
+   "path": "local/judet/covasna/2020/35",
+   "short": "HCJ Covasna nr. 35/2020",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 35/2020 pentru modificarea Hotărârii nr. 230/2016 cu privire la aprobarea „Programului județean pentru reabilitarea și modernizarea imobilelor cu destinație de cabinete medicale din mediul rural, respectiv a spitalelor din mediul urban” în perioada 2017-2020",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-21-42-februarie-2020.html",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/_f/Hatarozatok/2020/02/ro/H_2020_035.pdf",
+     "sha256": "b4d7ab8cf2a5d9c8c4ae636110c05a7d50523a5630f27fb14af112501c485b0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-36-2020",
+   "path": "local/judet/covasna/2020/36",
+   "short": "HCJ Covasna nr. 36/2020",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 36/2020 pentru modificarea Hotărârii nr. 68/2019 cu privire la aprobarea „Programului județean pentru reabilitarea, modernizarea clădirilor în care funcționează spații expoziționale sau biblioteci, din mediul rural” în perioada 2019-2020",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-21-42-februarie-2020.html",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/_f/Hatarozatok/2020/02/ro/H_2020_036.pdf",
+     "sha256": "38bb4ece06853e9817216e17f38d42aaf367d7444d9e6d2fd3111e91882dbb82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-53-2020",
+   "path": "local/judet/covasna/2020/53",
+   "short": "HCJ Covasna nr. 53/2020",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 53/2020",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-43-70-aprilie-2020.html",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/_f/Hatarozatok/2020/04/RO/H_2020_053.pdf",
+     "sha256": "6810fa445bfb07a887c8c1a9921f9139735337f0fa694ffef376251405e4778f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-65-2020",
+   "path": "local/judet/covasna/2020/65",
+   "short": "HCJ Covasna nr. 65/2020",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 65/2020 pentru modificarea și completarea anexelor nr. 6 și 27 la Hotărârea Consiliului Județean Covasna nr. 82/2016 privind aprobarea Regulamentelor de organizare și funcționare ale serviciilor Direcției Generale de Asistență Socială și Protecția Copilului Covasna",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-43-70-aprilie-2020.html",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/_f/Hatarozatok/2020/04/RO/H_2020_065.pdf",
+     "sha256": "03566449b3633ff36f098d580249a6e29a550913210b969c31a2fb27d6f38019"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-covasna-68-2020",
+   "path": "local/judet/covasna/2020/68",
+   "short": "HCJ Covasna nr. 68/2020",
+   "title": "Hotărârea Consiliului Județean Covasna nr. 68/2020 pentru modificarea și completarea anexei la Hotărârea Consiliului Județean Covasna nr. 150/2019 privind înființarea Centrului de recuperare pentru copilul cu dizabilități Întorsura Buzăului în structura Direcției Generale de Asistență Socială și Protecția Copilului Covasna și aprobarea Regulamentului de organizare și funcționare al acestuia",
+   "url": "https://www.cjcv.ro/ro/hotarari-nr-43-70-aprilie-2020.html",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.cjcv.ro/_f/Hatarozatok/2020/04/RO/H_2020_068.pdf",
+     "sha256": "7b83e16f61b75b2877df4ad9845cd5070ebf8f388c3fde23ec9ca30647974728"
+    }
+   ]
+  }
+ ]
+}

@@ -1711,6 +1711,21 @@
      "sha256": "6d589c5a2bbb7e0562261bfca32158a77eb8aa69aeddb916318f924e31bd0366"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-997-2002",
+   "path": "ue/regulament/2002/997",
+   "short": "Regulamentul CELEX 32002R0997",
+   "title": "Regulamentul (CE) nr. 998/2002 al Comisiei din 11 iunie 2002 de stabilire a normelor de aplicare a dispozițiilor privind acordarea unei contribuții financiare din partea Comunității statelor membre pentru consolidarea infrastructurilor de inspecție fitosanitară a plantelor și produselor din plante provenind din țări terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32002R0997",
+   "versions": [
+    {
+     "from": "2002-06-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8bfd7b8c-9921-4446-a6cd-acf4190daa2c.0022.03/DOC_1",
+     "sha256": "6ba6ccc2e7c9197523df3d54363a2f8f53306aca9389b3140a920ea4c4579f03"
+    }
+   ]
   }
  ]
 }

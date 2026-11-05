@@ -16,6 +16,126 @@
      "sha256": "0455a69150758dcc7a862366b95fda3ef49e7f96e45f5b046397d458899cb236"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1544-1973",
+   "path": "ue/regulament/1973/1544",
+   "short": "Regulamentul CELEX 31973R1544",
+   "title": "Regulamentul (CECO, CEE, Euratom) nr. 1544/73 al Consiliului din 4 iunie 1973 de modificare a Regulamentului (CEE, Euratom, CECO) nr. 260/68 de stabilire a condițiilor și a procedurii de aplicare a impozitului stabilit în beneficiul Comunităților Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31973R1544",
+   "versions": [
+    {
+     "from": "1973-06-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/48a9d527-688a-4da5-989c-2c09269773b3.0022.04/DOC_3",
+     "sha256": "8a042185e55e9e4f1ea760e0a98532ef514768db0f14f1cd7ad07bfcbb97c95e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1545-1973",
+   "path": "ue/regulament/1973/1545",
+   "short": "Regulamentul CELEX 31973R1545",
+   "title": "Regulamentul (CECO, CEE, Euratom) nr. 1545/73 al Consiliului din 4 iunie 1973 de modificare a Regulamentului (Euratom, CECO, CEE) nr. 549/69 de stabilire a categoriilor de funcționari și agenți ai Comunităților Europene cărora li se aplică dispozițiile articolului 12, ale articolului 13 al doilea paragraf și ale articolului 14 din Protocolul privind privilegiile și imunitățile Comunităților",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31973R1545",
+   "versions": [
+    {
+     "from": "1973-06-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/68b82957-0014-4804-bc52-4dbc5c489f0f.0022.04/DOC_1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1793-1973",
+   "path": "ue/regulament/1973/1793",
+   "short": "Regulamentul (CEE) nr. 1793/73",
+   "title": "Regulamentul (CEE) nr. 1793/73 al Comisiei din 2 iulie 1973 de modificare a Regulamentului (CEE) nr. 315/68 și a Regulamentului (CEE) nr. 537/70 privind calibrul anumitor soiuri de lalele",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31973R1793",
+   "versions": [
+    {
+     "from": "1973-07-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/14f31a38-1685-494c-a977-0858ee0af3ba.0022.03/DOC_6",
+     "sha256": "f5a366c810c4f5489a7310544907b900000b38f60791c15aeb4bc4506b32ed8c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2682-1973",
+   "path": "ue/regulament/1973/2682",
+   "short": "Regulamentul (CEE) nr. 2682/73",
+   "title": "Regulamentul (CEE) nr. 2682/73 al Consiliului din 1 octombrie 1973 de încheiere a Acordului interimar dintre Comunitatea Economică Europeană și Turcia ca urmare a aderării unor noi state membre la Comunitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31973R2682",
+   "versions": [
+    {
+     "from": "1973-10-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b93f4804-d54b-4064-bb48-342c0f0a9410.0020.04/DOC_1",
+     "sha256": "0318c07a663187a00d773f7713d57750e775d034a97d4c85ac30260cf0a752c1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3476-1973",
+   "path": "ue/regulament/1973/3476",
+   "short": "Regulamentul (CEE) nr. 3476/73",
+   "title": "Regulamentul (CEE) nr. 3476/73 al Consiliului din 3 decembrie 1973 de aprobare a schimbului de scrisori care au ca obiect rectificarea articolului 3 din protocolul nr. 1 al Acordului dintre Comunitatea Economică Europeană și Regatul Norvegiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31973R3476",
+   "versions": [
+    {
+     "from": "1973-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f81ab5d7-d9a2-41db-a0d6-4f3b25acb60d.0018.04/DOC_1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3539-1973",
+   "path": "ue/regulament/1973/3539",
+   "short": "Regulamentul (CEE) nr. 3539/73",
+   "title": "Regulamentul (CEE) nr. 3539/73 al Consiliului din 18 decembrie 1973 privind ratele de impozitare percepute la importul de produse agricole și de mărfuri prevăzute de Regulamentul (CEE) nr. 1059/69 în transporturi mici fără caracter comercial",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31973R3539",
+   "versions": [
+    {
+     "from": "1973-12-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3648166b-75fc-4994-a0f1-b0381179658c.0022.04/DOC_2",
+     "sha256": "994c46b8de3a5e19497cd3b988adc8dbf8b89248b0a16b64b5c084db6e331b61"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-559-1973",
+   "path": "ue/regulament/1973/559",
+   "short": "Regulamentul CELEX 31973R0559",
+   "title": "Regulamentul (CECO, CEE, Euratom) nr. 559/73 al Consiliului din 26 februarie 1973 de modificare a Regulamentului (CEE, Euratom, CECO) nr. 260/68 de stabilire a condițiilor și a procedurii de aplicare a impozitului stabilit în beneficiul Comunităților Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31973R0559",
+   "versions": [
+    {
+     "from": "1973-03-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/50c45fd0-510f-4d15-849d-dbde6dc517c2.0022.04/DOC_1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-706-1973",
+   "path": "ue/regulament/1973/706",
+   "short": "Regulamentul (CEE) nr. 706/73",
+   "title": "Regulamentul (CEE) nr. 706/73 al Consiliului din 12 martie 1973 privind regimurile comunitare aplicabile Insulelor anglo-normande și Insulei Man pentru comerțul produselor agricole",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31973R0706",
+   "versions": [
+    {
+     "from": "1973-03-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3170d1e4-c95f-4dff-bcb4-9b0bfe9cfd4d.0022.03/DOC_2",
+     "sha256": "9736629a7d2f3fa3f334b3a5a69f703454f45c0ba9236fd360d94390042d4699"
+    }
+   ]
   }
  ]
 }

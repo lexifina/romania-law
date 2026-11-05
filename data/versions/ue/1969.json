@@ -46,6 +46,51 @@
      "sha256": "6d99dfb32ffc162c78a1ab368abe0e46d11f1f1b3b246f9bdee21f12bf16cde3"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1265-1969",
+   "path": "ue/regulament/1969/1265",
+   "short": "Regulamentul (CEE) nr. 1265/69",
+   "title": "Regulamentul (CEE) nr. 1265/69 al Comisiei din 1 iulie 1969 de stabilire a metodelor de stabilire a calității zahărului achiziționat de agențiile de intervenție",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31969R1265",
+   "versions": [
+    {
+     "from": "1969-07-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/86cd414f-9886-4766-9868-576e740f202e.0022.04/DOC_11",
+     "sha256": "e3e90bd285ae23f114c66a42c6ba1494d02c8d4951635c4741f3b8f7ff54e60a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2604-1969",
+   "path": "ue/regulament/1969/2604",
+   "short": "Regulamentul (CEE) nr. 2604/69",
+   "title": "Regulamentul (CEE) nr. 2604/69 al Consiliului din 20 decembrie 1969 privind aplicarea, în cazul departamentelor franceze de peste mări, a Regulamentului (CEE) nr. 2603/69 privind instituirea unui regim comun aplicabil exporturilor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31969R2604",
+   "versions": [
+    {
+     "from": "1969-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0718ea88-bc72-42d1-91d6-a442cf50a95c.0019.04/DOC_1",
+     "sha256": "b5ac99de4f9040609f571ce933a0db8a1f8926fe2380c685204a48aa33d5fc73"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-549-1969",
+   "path": "ue/regulament/1969/549",
+   "short": "Regulamentul CELEX 31969R0549",
+   "title": "Regulamentul (Euratom, CECO, CEE) nr. 549/69 al Consiliului din 25 martie 1969 de stabilire a categoriilor de funcționari și agenți ai Comunităților Europene cărora li se aplică dispozițiile articolului 12, ale articolului 13 al doilea paragraf și ale articolului 14 din Protocolul privind privilegiile și imunitățile Comunităților",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31969R0549",
+   "versions": [
+    {
+     "from": "1969-04-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7afd6703-9c4d-4859-8299-f5fa0344d104.0022.04/DOC_1",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

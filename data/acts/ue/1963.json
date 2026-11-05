@@ -3,6 +3,23 @@
 "shard": "ue/1963",
 "acts": [
 {
+"slug": "ue-regulament-7-1963",
+"path": "ue/regulament/1963/7",
+"kind": "ue",
+"year": "1963",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 7/63/Euratom al Consiliului din 3 decembrie 1963 privind regulamentul de procedură al Comitetului de arbitraj prevăzut la articolul 18 din Tratatul de instituire a Comunității Europene a Energiei Atomice",
+"short": "Regulamentul CELEX 31963R0007",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1963-12-30",
+"latest": "1963-12-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31963R0007"
+},
+{
 "slug": "ue-directiva-474-1963",
 "path": "ue/directiva/1963/474",
 "kind": "ue",

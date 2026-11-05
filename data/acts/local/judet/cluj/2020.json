@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcj-cluj-15-2020",
+"path": "local/judet/cluj/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 15/2020 privind constatarea încetării Contractului de concesiune nr. 11449/108/2010 privind spațiul situat în Municipiul Cluj-Napoca, str",
+"short": "HCJ Cluj nr. 15/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-15-20-februarie-2020-privind-constatarea-incetarii-contractului-de-concesiune-nr-11449-108-2010-privind-spatiul-situat-in-municipiul-cluj-napoca-str-fantanele-nr-3/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-cluj-39-2020",
 "path": "local/judet/cluj/2020/39",
 "kind": "local",
@@ -645,6 +667,28 @@
 }
 },
 {
+"slug": "hcj-cluj-125-2020",
+"path": "local/judet/cluj/2020/125",
+"kind": "local",
+"year": "2020",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 125/2020 privind aprobarea execuției bugetului general propriu al Județului Cluj la 31 martie 2020",
+"short": "HCJ Cluj nr. 125/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-30",
+"latest": "2020-06-30",
+"portal": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-125-30-iunie-2020-privind-aprobarea-executiei-bugetului-general-propriu-al-judetului-cluj-la-31-martie-2020/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-cluj-126-2020",
 "path": "local/judet/cluj/2020/126",
 "kind": "local",
@@ -1080,6 +1124,28 @@
 "from": "2020-11-26",
 "latest": "2020-11-26",
 "portal": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-202-26-noiembrie-2020-pentru-modificarea-hotararii-consiliului-judetean-cluj-nr-174-2018-privind-aprobarea-structurii-organizatorice-a-organigramei-a-statului-de-functii-si-a-regula/",
+"council": "judet/cluj",
+"council_name": "Consiliul Județean Cluj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-cluj-203-2020",
+"path": "local/judet/cluj/2020/203",
+"kind": "local",
+"year": "2020",
+"number": "203",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Cluj nr. 203/2020 privind acordarea de stimulente financiare lunare personalului medical și de specialitate din cadrul Spitalului de Boli Psihice Cronice Borșa",
+"short": "HCJ Cluj nr. 203/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-203-26-noiembrie-2020-privind-acordarea-de-stimulente-financiare-lunare-personalului-medical-si-de-specialitate-din-cadrul-spitalului-de-boli-psihice-cronice-borsa/",
 "council": "judet/cluj",
 "council_name": "Consiliul Județean Cluj",
 "flags": {

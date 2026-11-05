@@ -856,6 +856,21 @@
      "sha256": "bd839cf44e0959dd21999f57aa2d70239d65072cca513ed3a589e0a455ad0f06"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-996-1997",
+   "path": "ue/regulament/1997/996",
+   "short": "Regulamentul (CE) nr. 996/97",
+   "title": "Regulamentul (CE) nr. 996/97 al Comisiei din 3 iunie 1997 privind deschiderea și modul de gestionare a unui contingent tarifar de import pentru mușchiulețul congelat de vită și mânzat ce intră sub incidența codului NC 02062991",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31997R0996",
+   "versions": [
+    {
+     "from": "1997-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e2dbf910-a8e7-4797-8584-7c3988dbe4b9.0022.04/DOC_3",
+     "sha256": "8999654b9588a2700eb7b444c52535e2bcbda74b57ddb3d1efc2f96affc17ac6"
+    }
+   ]
   }
  ]
 }

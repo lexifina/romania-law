@@ -2991,6 +2991,26 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007R0989"
 },
 {
+"slug": "ue-regulament-996-2007",
+"path": "ue/regulament/2007/996",
+"kind": "ue",
+"year": "2007",
+"number": "996",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (CE) nr. 996/2007 din 28 august 2007",
+"short": "Regulamentul (CE) nr. 996/2007",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2007-08-30",
+"latest": "2007-08-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007R0996",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
 "slug": "ue-regulament-1017-2007",
 "path": "ue/regulament/2007/1017",
 "kind": "ue",

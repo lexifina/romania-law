@@ -1,0 +1,270 @@
+{
+"country": "RO",
+"shard": "local/judet/dolj/2014",
+"acts": [
+{
+"slug": "hcj-dolj-21-2014",
+"path": "local/judet/dolj/2014/21",
+"kind": "local",
+"year": "2014",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 21/2014",
+"short": "HCJ Dolj nr. 21/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-02-01",
+"latest": "2014-02-01",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-37-2014",
+"path": "local/judet/dolj/2014/37",
+"kind": "local",
+"year": "2014",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 37/2014",
+"short": "HCJ Dolj nr. 37/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-03-01",
+"latest": "2014-03-01",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-38-2014",
+"path": "local/judet/dolj/2014/38",
+"kind": "local",
+"year": "2014",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 38/2014",
+"short": "HCJ Dolj nr. 38/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-03-01",
+"latest": "2014-03-01",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-45-2014",
+"path": "local/judet/dolj/2014/45",
+"kind": "local",
+"year": "2014",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 45/2014",
+"short": "HCJ Dolj nr. 45/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-02-25",
+"latest": "2014-02-25",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-48-2014",
+"path": "local/judet/dolj/2014/48",
+"kind": "local",
+"year": "2014",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 48/2014",
+"short": "HCJ Dolj nr. 48/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-03-01",
+"latest": "2014-03-01",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-53-2014",
+"path": "local/judet/dolj/2014/53",
+"kind": "local",
+"year": "2014",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 53/2014",
+"short": "HCJ Dolj nr. 53/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-03-03",
+"latest": "2014-03-03",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-54-2014",
+"path": "local/judet/dolj/2014/54",
+"kind": "local",
+"year": "2014",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 54/2014",
+"short": "HCJ Dolj nr. 54/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-03-03",
+"latest": "2014-03-03",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-82-2014",
+"path": "local/judet/dolj/2014/82",
+"kind": "local",
+"year": "2014",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 82/2014",
+"short": "HCJ Dolj nr. 82/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-04-14",
+"latest": "2014-04-14",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-98-2014",
+"path": "local/judet/dolj/2014/98",
+"kind": "local",
+"year": "2014",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 98/2014",
+"short": "HCJ Dolj nr. 98/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-05-01",
+"latest": "2014-05-01",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-122-2014",
+"path": "local/judet/dolj/2014/122",
+"kind": "local",
+"year": "2014",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 122/2014 pentru aparatul de specialitate al Consiliului Judetean Dolj, conform anexei nr. 1 la prezenta hotarare",
+"short": "HCJ Dolj nr. 122/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-06-01",
+"latest": "2014-06-01",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-127-2014",
+"path": "local/judet/dolj/2014/127",
+"kind": "local",
+"year": "2014",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 127/2014 pentru anul 2014” – anexa 1",
+"short": "HCJ Dolj nr. 127/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-05-29",
+"latest": "2014-05-29",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-dolj-139-2014",
+"path": "local/judet/dolj/2014/139",
+"kind": "local",
+"year": "2014",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Dolj nr. 139/2014 pentru conditii vatama",
+"short": "HCJ Dolj nr. 139/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-07-01",
+"latest": "2014-07-01",
+"portal": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2014-0000149E",
+"council": "judet/dolj",
+"council_name": "Consiliul Județean Dolj",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

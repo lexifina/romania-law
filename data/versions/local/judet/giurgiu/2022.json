@@ -3,6 +3,81 @@
  "shard": "local/judet/giurgiu/2022",
  "acts": [
   {
+   "slug": "hcj-giurgiu-1-2022",
+   "path": "local/judet/giurgiu/2022/1",
+   "short": "HCJ Giurgiu nr. 1/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 1/2022 privind acoperirea definitivă din excedentul bugetului local a deficitului secțiunii de dezvoltare și din excedentul bugetului fondurilor externe nerambursabile (sursa D) a deficitului secțiunii de dezvoltare, pe anul 2021 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.112 din 04 ianuarie 2022 al președintelui; - raportul de specialitate n",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.1-din-06.01.2022.pdf",
+     "sha256": "698491ddd6623dd79479c9a7a98fab4bce021a3a8ef71f4783ab1a9c7d7939c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-10-2022",
+   "path": "local/judet/giurgiu/2022/10",
+   "short": "HCJ Giurgiu nr. 10/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 10/2022 pentru modificarea art.1 din Hotărârea nr.136 din 3 decembrie 2020 privind validarea componenței nominale a Autorității Teritoriale de Ordine Publică a județului Giurgiu și de stabilire a indemnizației de ședință pentru membrii acesteia CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.1190 din 19 ianuarie 2022 al președintelui, -raportul de spec",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.10-din-31.01.2022.pdf",
+     "sha256": "7824c9ae60eadb49af1849cf620050cb19ecc615cf1221d49eaa4f2fe1314e24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-100-2022",
+   "path": "local/judet/giurgiu/2022/100",
+   "short": "HCJ Giurgiu nr. 100/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 100/2022 privind acordarea unor sprijine financiare CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere - referatul de aprobare nr.7874 din 18 aprilie 2022 al președintelui; - raportul de specialitate nr.7881 din 18 aprilie 2022 al Serviciului Buget-finanțe și contabilitate; - avizul nr.50/09.05.2022 al Comisiei buget, finanțe, economie, fonduri europene și mediu de afaceri; - avizul",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.100-din-23.05.2022.pdf",
+     "sha256": "bf93ec41d07993634b2dab7d1eb67dee4a47b94d0747446fd12f29aa255745da"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-101-2022",
+   "path": "local/judet/giurgiu/2022/101",
+   "short": "HCJ Giurgiu nr. 101/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 101/2022 privind acordarea unui sprijin financiar CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere - referatul de aprobare nr.8946 din 05 mai 2022 al președintelui; - raportul de specialitate nr.8952 din 05 mai 2022 al Serviciului Buget-finanțe și contabilitate; - avizul nr.76/09.05.2022 al Comisiei buget, finanțe, economie, fonduri europene și mediu de afaceri; - avizul nr.14/09.0",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.101-din-23.05.2022.pdf",
+     "sha256": "a84fa5676eee5a7ed3b7f690182edc52fbdec48bc18594a3cb8b1ee7f95d7030"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-102-2022",
+   "path": "local/judet/giurgiu/2022/102",
+   "short": "HCJ Giurgiu nr. 102/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 102/2022 privind aprobarea Protocolului de colaborare încheiat între",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.102-din-23.05.2022.pdf",
+     "sha256": "2bee296ab3f968093729fd2c5ef09848f9cdce84c93780ea17b64271ae32b82e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-giurgiu-103-2022",
    "path": "local/judet/giurgiu/2022/103",
    "short": "HCJ Giurgiu nr. 103/2022",
@@ -14,6 +89,321 @@
      "units": 1,
      "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.103-din-23.05.2022.pdf",
      "sha256": "a3b58359fb736b2d9aa93cfbcad06902bce83c5046fd2fdf5767e9e8c457bd71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-104-2022",
+   "path": "local/judet/giurgiu/2022/104",
+   "short": "HCJ Giurgiu nr. 104/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 104/2022 privind alipirea imobilelor înscrise în cărțile funciare nr. 42060 și 42067, situate în municipiul Giurgiu, aflate în domeniul public al județului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.104-din-23.05.2022-si-anexa.pdf",
+     "sha256": "94a95157757f5d7b84beea4e3911d57bcd97418529f795430c4256f8b894af53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-105-2022",
+   "path": "local/judet/giurgiu/2022/105",
+   "short": "HCJ Giurgiu nr. 105/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 105/2022 privind alipirea imobilelor înscrise în cărțile funciare nr.42065 și 42070, situate în municipiul Giurgiu, aflate în domeniul public al județului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.105-din-23.05.2022-si-anexa.pdf",
+     "sha256": "84da371ebd59575ad999c019361b8a8b5ac04567aacb6ac70488d9275890f682"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-106-2022",
+   "path": "local/judet/giurgiu/2022/106",
+   "short": "HCJ Giurgiu nr. 106/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 106/2022 privind modificarea organigramei, a statului de funcții și a Regulamentului de organizare și funcționare ale Centrului Județean pentru Conservarea și Promovarea Culturii Tradiționale Giurgiu întrunit în ședință ordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.106-din-23.05.2022-si-anexe.pdf",
+     "sha256": "29f2dd462deb71770c7bf441a319585b22558dde39722abcda9b481a73ea61c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-108-2022",
+   "path": "local/judet/giurgiu/2022/108",
+   "short": "HCJ Giurgiu nr. 108/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 108/2022 pentru prorogarea termenului prevăzut la art.13 alin.(1) din Hotărârea nr.43 din 7 martie 2022 a Consiliului Județean Giurgiu privind reorganizarea Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu, aprobarea organigramei și a statului de funcții CONSILIUL JUDEȚEAN GIURGIU întrunit în ședință ordinară, Având în vedere: - adresa nr.33606 din 10 mai 2022 a Direcției Generale de",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.108-din-23.05.2022.pdf",
+     "sha256": "6a1aad38b434606624c1cb0b4c163cb3eaf4ece1c8f6c17abd825b0c94a2b914"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-109-2022",
+   "path": "local/judet/giurgiu/2022/109",
+   "short": "HCJ Giurgiu nr. 109/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 109/2022 pentru modificarea art.1 din Hotărârea Consiliului Județean Giurgiu nr.136 din 3 decembrie 2020 privind validarea componenței nominale a Autorității Teritoriale de Ordine Publică a județului Giurgiu și de stabilire a indemnizației de ședință pentru membrii acesteia CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.8633 din 02 mai 2022 al președin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.109-din-23.05.2022.pdf",
+     "sha256": "46d41b5cf0875457ce51455fc11c23092d17523b413588febec50985da349a63"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-11-2022",
+   "path": "local/judet/giurgiu/2022/11",
+   "short": "HCJ Giurgiu nr. 11/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 11/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.11-din-31.01.2022.pdf",
+     "sha256": "f2e7fe18691f11d60dd457d6e2d55fc5ed718953702170b8260363a05ff1e5e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-110-2022",
+   "path": "local/judet/giurgiu/2022/110",
+   "short": "HCJ Giurgiu nr. 110/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 110/2022 privind preluarea în domeniul public al județului Giurgiu a unor bunuri imobile situate în sat Remuș, Bulevardul București, kilometrul 5-6, județul Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.8269 din 26 aprilie 2022 al președintelui; - raportul de specialitate nr.8273 din 26 aprilie 2022 al Direcției Patrimoniu, coordonare servicii",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.110-din-23.05.2022.pdf",
+     "sha256": "64642187c7796e68fe57ce3c6397f953b53162b8633bce947afc8b3d7984c45a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-111-2022",
+   "path": "local/judet/giurgiu/2022/111",
+   "short": "HCJ Giurgiu nr. 111/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 111/2022 privind darea în administrarea Direcției Județene de Transport, Administrarea Drumurilor Județene și Control Trafic Giurgiu a unor bunuri imobile situate în sat Remuș, Bulevardul București, kilometrul 5 – 6, județul Giurgiu, aflate în domeniul public al Județului Gurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.8285 din 26 aprilie 2022 al",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.111-din-23.05.2022.pdf",
+     "sha256": "8a1b363983533044a3566fe8b5824ff7765bf0a605a5a51873e061c09fcedc8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-112-2022",
+   "path": "local/judet/giurgiu/2022/112",
+   "short": "HCJ Giurgiu nr. 112/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 112/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.112-din-07.06.2022.pdf",
+     "sha256": "b0dc72a758e3e8830680bf80793b2e66d7d86c969f258394a7dff75e46d03be8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-113-2022",
+   "path": "local/judet/giurgiu/2022/113",
+   "short": "HCJ Giurgiu nr. 113/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 113/2022 privind acordarea unor sprijine financiare CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere - referatul de aprobare nr.10227 din 25 mai 2022 al președintelui; - raportul de specialitate nr.10233 din 25 mai 2022 al Serviciului Buget-finanțe și contabilitate; - avizul nr.77/06.06.2022 al Comisiei buget, finanțe, economie, fonduri europene și mediu de afaceri; - avizul n",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.113-din-07.06.2022.pdf",
+     "sha256": "9ff6f203593a0f39398067eee8b93b3ab25a4028a3473a6ad91d728062e7bd66"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-114-2022",
+   "path": "local/judet/giurgiu/2022/114",
+   "short": "HCJ Giurgiu nr. 114/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 114/2022 privind aprobarea Acordului de cooperare între Județul Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.114-din-07.06.2022.pdf",
+     "sha256": "d94f48db27503f4e7f11604d58d276eaa8021a7852f0ef6251e1d415a6fddc21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-115-2022",
+   "path": "local/judet/giurgiu/2022/115",
+   "short": "HCJ Giurgiu nr. 115/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 115/2022 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.65 din 16 martie 2021 privind aprobarea asocierii Județului Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.115-din-07.06.2022.pdf",
+     "sha256": "7f94ee31592f9d81ad3927bf565111dd7a4758c7cde8a58752bb05f1e44ac41c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-116-2022",
+   "path": "local/judet/giurgiu/2022/116",
+   "short": "HCJ Giurgiu nr. 116/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 116/2022 pentru modificarea și completarea Hotărârii Consiliului Județean Giurgiu nr.37 din 07 martie 2022 privind încheierea unui parteneriat în cadrul proiectului Partnerships for Overcoming the Disasters for a safe region (Parteneriate pentru prevenirea dezastrelor pentru o regiune sigură), acronim POD, e-MS code ROBG-427 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere:",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.116-din-07.06.2022.pdf",
+     "sha256": "df4550eed72eed12aa43b03abddb1de6b15afff5f9a3e7fefd8196c3f79a38b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-118-2022",
+   "path": "local/judet/giurgiu/2022/118",
+   "short": "HCJ Giurgiu nr. 118/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 118/2022 privind aprobarea documentației tehnico – economice pentru obiectivul de investiții „Construire Spital Județean de Urgență Giurgiu” în faza Studiu de fezabilitate",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.118-din-21.06.2022-si-anexe.pdf",
+     "sha256": "b9e6c2ab51e91d76b16f83daa364677525f6e998f86366c96a0bb2d10c7297ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-119-2022",
+   "path": "local/judet/giurgiu/2022/119",
+   "short": "HCJ Giurgiu nr. 119/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 119/2022 privind aprobarea documentației tehnico-economice pentru obiectivul de investiții „Construire sediu Serviciu Județean de Ambulanță Giurgiu” în faza Studiu de fezabilitate",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.119-din-21.06.2022-si-anexe.pdf",
+     "sha256": "36d7ac802a27f0ca36df0996539395536d540db2da97746e476e6be9e75bf528"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-12-2022",
+   "path": "local/judet/giurgiu/2022/12",
+   "short": "HCJ Giurgiu nr. 12/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 12/2022 privind aprobarea contului anual de execuție al bugetului propriu al județului Giurgiu, pe anul 2021 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.1199 din 19 ianuarie 2022 al președintelui; - raportul de specialitate nr.1207 din 19 ianuarie 2022 al Serviciului Buget-finanțe și contabilitate; - avizul nr.5/25.01.2022 al Comisiei buget, finanț",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.12-din-31.01.2022.pdf",
+     "sha256": "0ed357f2214a5825a6c5266da0b7ad0fc0db9cdecbeef83b991b6d55d9244620"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-120-2022",
+   "path": "local/judet/giurgiu/2022/120",
+   "short": "HCJ Giurgiu nr. 120/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 120/2022 privind aprobarea documentației tehnico-economice pentru obiectivul de investiții „Construire Centru Servicii Paliative în regim de spitalizare continuă” în faza Studiu de fezabilitate",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.120-din-21.06.2022-si-anexe.pdf",
+     "sha256": "98edea09632ee24726323f9ac3c93c1548d485afcab7518d139ef827c08e2e35"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-121-2022",
+   "path": "local/judet/giurgiu/2022/121",
+   "short": "HCJ Giurgiu nr. 121/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 121/2022 privind încheierea unui Acord de Asociere între Fundația Proam Events, Județul Giurgiu, Municipiul Giurgiu, Regia Națională a Pădurilor – Romsilva, Direcția Silvică Giurgiu și Societatea Națională de Cruce Roșie din România – Filiala Giurgiu, în vederea promovării sportului pentru toți prin ciclism",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.121-din-21.06.2022-si-anexa.pdf",
+     "sha256": "fbc2eb098870dd559316e1478f0f28d70dd5e482f05564e388e862adc19bb96a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-122-2022",
+   "path": "local/judet/giurgiu/2022/122",
+   "short": "HCJ Giurgiu nr. 122/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 122/2022 privind încheierea unui Acord de Parteneriat între Județul Giurgiu, Municipiul Giurgiu și Comuna Frătești, în vederea depunerii și implementării proiectului „Modernizarea și dezvoltarea sistemului de transport public în Giurgiu și zona sa metropolitană, cu impact asupra reducerii poluării și creșterii siguranței rutiere, prin achiziția de autobuze și microbuze electrice”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.122-din-21.06.2022-si-anexa.pdf",
+     "sha256": "e50709c612c90aa477d1903a60c7c669f50896baa275fb0b056ec9bb4fc22a97"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-124-2022",
+   "path": "local/judet/giurgiu/2022/124",
+   "short": "HCJ Giurgiu nr. 124/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 124/2022 privind aprobarea modificării statului de funcții al Muzeului Județean „Teohari Antonescu” Giurgiu întrunit în ședință extraordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.124-din-21.06.2022-si-anexa.pdf",
+     "sha256": "06c5ee96aac38ccfd71073caa3c81bc855af91bf0db48cb4c65ab36f2822b485"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-127-2022",
+   "path": "local/judet/giurgiu/2022/127",
+   "short": "HCJ Giurgiu nr. 127/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 127/2022 privind actualizarea Monografiei economico-militară a județului Giurgiu, Ediția 2022 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.11950 din 17 iunie 2022 al președintelui; - raportul de specialitate nr.11961 din 17 iunie 2022 al Direcției Patrimoniu, coordonare servicii publice de interes județean și administrativ; - adresa nr.657GR/26.05.20",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.127-din-30.06.2022.pdf",
+     "sha256": "5eb55c60a9a4a3ad07102c8fb44a3c3006ea90ee9d85ab54a8ac73d430193a57"
     }
    ]
   },
@@ -33,6 +423,156 @@
    ]
   },
   {
+   "slug": "hcj-giurgiu-129-2022",
+   "path": "local/judet/giurgiu/2022/129",
+   "short": "HCJ Giurgiu nr. 129/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 129/2022 privind trecerea în domeniul public al Județului Giurgiu a unui bun imobil situat în sat Oncești, comuna Stănești, județul Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: -referatul de aprobare nr.11951 din 17 iunie 2022 al președintelui; -raportul de specialitate nr.11962 din 17 iunie 2022 al Direcției Patrimoniu, coordonare servicii publice de interes județean",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.129-din-30.06.2022.pdf",
+     "sha256": "31eaa6e6cc95a28f6ae284c7cc342c20ba0ded08dd9eac54b7a613cab695fd3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-13-2022",
+   "path": "local/judet/giurgiu/2022/13",
+   "short": "HCJ Giurgiu nr. 13/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 13/2022 privind acordarea unui sprijin financiar CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.1201 din 19 ianuarie 2022 al președintelui; - raportul de specialitate nr.1208 din 19 ianuarie 2022 al Serviciului Buget-finațe și contabilitate; - avizul nr.6/25.01.2022 al Comisiei buget, finanțe, economie, fonduri europene și mediu de afaceri; - avizul n",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.13-din-31.01.2022.pdf",
+     "sha256": "d817f13ffa818c59c91a561a2051ef96a702364cef3ce04b074d6b5f2d7cc90e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-130-2022",
+   "path": "local/judet/giurgiu/2022/130",
+   "short": "HCJ Giurgiu nr. 130/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 130/2022 privind darea în administrarea Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu a bunului imobil ,,Centru pentru persoane vârstnice Oncești”, situat în sat Oncești, comuna Stănești, județul Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.11952 din 17 iunie 2022 al președintelui; - raportul de specialitate nr.11963",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.130-din-30.06.2022.pdf",
+     "sha256": "917816829963ffbe067779ae8c757af18f9a5a81d8206e4b39e89fa18d13f449"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-132-2022",
+   "path": "local/judet/giurgiu/2022/132",
+   "short": "HCJ Giurgiu nr. 132/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 132/2022 privind aprobarea inițierii negocierilor pentru contractarea unui credit intern în valoare de până la 9.000.000 lei CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.12583 din 23 iunie 2022 al președintelui; - raportul de specialitate nr.12589 din 23 iunie 2022 al Serviciului buget-finanțe și contabilitate; - avizul nr.90/29.06.2022 al Comisiei b",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.132-din-30.06.2022.pdf",
+     "sha256": "00c7fe2d8c449efb441b17251fbce8bdbb6a165f9f0d100eb548dbdae42adbdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-133-2022",
+   "path": "local/judet/giurgiu/2022/133",
+   "short": "HCJ Giurgiu nr. 133/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 133/2022 privind aprobarea asocierii Județului Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.133-din-30.06.2022.pdf",
+     "sha256": "3a2b7c82d6e0e929a3ea54641de41ff8d39cfe54b20b9f60575a54e55c955f43"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-134-2022",
+   "path": "local/judet/giurgiu/2022/134",
+   "short": "HCJ Giurgiu nr. 134/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 134/2022 privind aprobarea asocierii Județului Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.134-din-30.06.2022.pdf",
+     "sha256": "8cfe6c8c88debeef7c2602a3dd76e9567d5e3552c3182a54059dfece961441b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-135-2022",
+   "path": "local/judet/giurgiu/2022/135",
+   "short": "HCJ Giurgiu nr. 135/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 135/2022 privind aprobarea asocierii Județului Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.135-din-30.06.2022.pdf",
+     "sha256": "c01bf657707dfc5773b9bb7d47e8ba51e3ccc2b1d5bf1bc8d57d9f4f0249a8f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-136-2022",
+   "path": "local/judet/giurgiu/2022/136",
+   "short": "HCJ Giurgiu nr. 136/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 136/2022 privind aprobarea asocierii Județului Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.136-din-30.06.2022.pdf",
+     "sha256": "4bad015b97ea832251607267c4af095d5458a0d1fd083ca321b0056feef89c1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-137-2022",
+   "path": "local/judet/giurgiu/2022/137",
+   "short": "HCJ Giurgiu nr. 137/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 137/2022 privind aprobarea asocierii Județului Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.137-din-30.06.2022.pdf",
+     "sha256": "936e42fc877bba79481d51c1564248fc731299a021c96d43ba5b2e477a60dfb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-138-2022",
+   "path": "local/judet/giurgiu/2022/138",
+   "short": "HCJ Giurgiu nr. 138/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 138/2022 privind aprobarea Notei conceptuale și a Temei de proiectare pentru realizarea obiectivului de investiții „BLOC DE LOCUINTE DE SERVICIU – 48 unități locative, Zona Vama Nouă, municipiul Giurgiu, județul Giurgiu” CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.12835 din 27 iunie 2022 al președintelui; - raportul de specialitate nr.12841 din 27 i",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.138-din-30.06.2022.pdf",
+     "sha256": "a5ac34934e3ed359365623ca73ab1f5300d88244154f5c9baf41b44e90343014"
+    }
+   ]
+  },
+  {
    "slug": "hcj-giurgiu-14-2022",
    "path": "local/judet/giurgiu/2022/14",
    "short": "HCJ Giurgiu nr. 14/2022",
@@ -44,6 +584,216 @@
      "units": 1,
      "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.14-din-31.01.2022.pdf",
      "sha256": "34a368eb821e015d6c8e82d9b5160b1de591568a26058178c2495199c7913da8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-140-2022",
+   "path": "local/judet/giurgiu/2022/140",
+   "short": "HCJ Giurgiu nr. 140/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 140/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.140-din-14.07.2022.pdf",
+     "sha256": "668c6c5f6f332c3bb203481f6fd1a3dc4e4ff93f50e5a8428b0012b97be3866d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-141-2022",
+   "path": "local/judet/giurgiu/2022/141",
+   "short": "HCJ Giurgiu nr. 141/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 141/2022 privind rectificarea bugetului propriu de venituri și cheltuieli al Județului Giurgiu și bugetului de venituri și cheltuieli al instituțiilor finanțate integral sau parțial din venituri proprii și subvenții pe anul 2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.141-din-14.07.2022-si-anexe.pdf",
+     "sha256": "0c79161f541352e6010e5623a19048ea852a00cdab8a19d8c573404052935fc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-142-2022",
+   "path": "local/judet/giurgiu/2022/142",
+   "short": "HCJ Giurgiu nr. 142/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 142/2022 privind aprobarea documentației tehnico-economice la faza Documentației de avizare a lucrărilor de intervenții, a principalilor indicatori tehnico-economici și a devizului general pentru obiectivul de investiții „Modernizare DJ 412 Vărăști – DN 4; Prundu (DN 41)” întrunit în ședință extraordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.142-din-14.07.2022-si-anexe.pdf",
+     "sha256": "b2cf140bfa1f19a4e8ac2bb3f256e766c0902f0bfa02f46cf87f08766498de27"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-143-2022",
+   "path": "local/judet/giurgiu/2022/143",
+   "short": "HCJ Giurgiu nr. 143/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 143/2022 privind aprobarea contractării unei finanțări rambursabile interne în valoare de 8.954.000 lei",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.143-din-14.07.2022-si-anexa.pdf",
+     "sha256": "65dce36a8be0a0a84f4cac8790a8e701ba88cccae39cff82b2fc12331be32d89"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-144-2022",
+   "path": "local/judet/giurgiu/2022/144",
+   "short": "HCJ Giurgiu nr. 144/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 144/2022 privind acordarea unor sprijine financiare",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.144-din-14.07.2022-si-anexa.pdf",
+     "sha256": "fd3de3f445985e857463b31dc86f1bc39a7948456c41fd5a4dddc0f2c094833c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-145-2022",
+   "path": "local/judet/giurgiu/2022/145",
+   "short": "HCJ Giurgiu nr. 145/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 145/2022 privind validarea rezultatului examenului pentru ocuparea funcției de medic șef Secția Chirurgie Generală, din cadrul Spitalului Județean de Urgență Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere: - referatul de aprobare nr.13742 din 06 iulie 2022 al președintelui; - raportul de specialitate nr.13752 din 06 iulie 2022 al Direcției Patrimoniu, coordonare serv",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.145-din-14.07.2022.pdf",
+     "sha256": "3138e3cb53877a1fc66b09f03cd832ec996b96e21ba995f9c9d38bec259bdc1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-146-2022",
+   "path": "local/judet/giurgiu/2022/146",
+   "short": "HCJ Giurgiu nr. 146/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 146/2022 privind validarea rezultatului examenului pentru ocuparea funcției de medic șef Laborator analize medicale, din cadrul Spitalului Județean de Urgență Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere: - referatul de aprobare nr.13743 din 06 iulie 2022 al președintelui; - raportul de specialitate nr.13753 din 06 iulie 2022 al Direcției Patrimoniu, coordonare ser",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.146-din-14.07.2022.pdf",
+     "sha256": "827b475edd92512dd94d8efbfc3f9553b47e281ac4d884c9e7bc3c7545a519a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-147-2022",
+   "path": "local/judet/giurgiu/2022/147",
+   "short": "HCJ Giurgiu nr. 147/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 147/2022 privind validarea rezultatului examenului pentru ocuparea funcției de medic șef Secția Ortopedie și Traumatologie, din cadrul Spitalului Județean de Urgență Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere: - referatul de aprobare nr.13744 din 06 iulie 2022 al președintelui; - raportul de specialitate nr.13754 din 06 iulie 2022 al Direcției Patrimoniu, coordon",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.147-din-14.07.2022.pdf",
+     "sha256": "6481d2b3061160db9e1329978e8593ab85eb79322d056c44b53f4073cbb25b6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-148-2022",
+   "path": "local/judet/giurgiu/2022/148",
+   "short": "HCJ Giurgiu nr. 148/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 148/2022 privind aprobarea contului de execuție al bugetului propriu de venituri și cheltuieli al Județului Giurgiu pe trimestrul II 2022 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.13928 din 07 iulie 2022 al președintelui; - raportul de specialitate nr.13938 din 07 iulie 2022 al Serviciului Buget-finanțe și contabilitate; - avizul nr.100/14.07.2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.148-din-21.07.2022.pdf",
+     "sha256": "1846b763128fc4b511f2b66ccbc3e7918d838a6a05284cc7ae600a56e593eea6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-149-2022",
+   "path": "local/judet/giurgiu/2022/149",
+   "short": "HCJ Giurgiu nr. 149/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 149/2022 privind aprobarea alocării sumei de 19700 lei pentru finanțarea unor cheltuieli aferente activităților de prevenire a consumului de droguri CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.13466 din 01 iulie 2022 al președintelui; - raportul de specialitate nr.13535 din 04 iulie 2022 al Compartimentului Control intern și managementul calității",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.149-din-21.07.2022.pdf",
+     "sha256": "36faf5ef6ba265c12ed3e7c8765b220c66e513925b7d580532172bf7b9b21998"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-150-2022",
+   "path": "local/judet/giurgiu/2022/150",
+   "short": "HCJ Giurgiu nr. 150/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 150/2022 privind acordarea unor sprijine financiare CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere - referatul de aprobare nr.14194 din 12 iulie 2022 al președintelui; - raportul de specialitate nr.14198 din 12 iulie 2022 al Serviciului Buget-finanțe și contabilitate; - avizul nr.101/14.07.2022 al Comisiei buget, finanțe, economie, fonduri europene și mediu de afaceri; - avizul n",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.150-din-21.07.2022.pdf",
+     "sha256": "1c56270698467b6c79c387e9002598032b14a07efa059dac77eed5da8b816ae3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-152-2022",
+   "path": "local/judet/giurgiu/2022/152",
+   "short": "HCJ Giurgiu nr. 152/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 152/2022 privind încheierea unui Acord de Asociere între Asociația Forța Fermierilor, Județul Giurgiu prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.152-din-21.07.2022.pdf",
+     "sha256": "ebb49d5c45d124347a9708d41834c272d4abb890909c84a79e7048f9aedc7d0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-154-2022",
+   "path": "local/judet/giurgiu/2022/154",
+   "short": "HCJ Giurgiu nr. 154/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 154/2022 privind modificarea Anexei nr.2 la Hotărârea Consiliului Județean Giurgiu nr.10 din 31 ianuarie 2018 privind stabilirea salariilor de bază pentru personalul din cadrul familiei ocupaționale „Administrație” din aparatul de specialitate al Consiliului Județean Giurgiu, precum și din cadrul serviciilor publice din subordinea acestuia, cu modificările și completările ulterioare CONSILIUL JUDEȚEAN GIUR",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.154-din-21.07.2022.pdf",
+     "sha256": "ff87f71ee3b15df9d00f17d039a8c0f9144288bae5caf56d4cbce81b50fca7cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-155-2022",
+   "path": "local/judet/giurgiu/2022/155",
+   "short": "HCJ Giurgiu nr. 155/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 155/2022 pentru aprobarea cheltuielilor neeligibile aferente proiectului „Well connected nodes Giurgiu - Borovo to TEN-T transport network” („Modernizare DJ601:Bolintin Vale - Malu Spart - DN 61”) Acronim: W - TEN CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.14295 din 13 iulie 2022 al președintelui; - raportul de specialitate nr.14302 din 13 iulie 202",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.155-din-21.07.2022.pdf",
+     "sha256": "627704bdd83fa687429cde555740a9014bbc2a9645b355c250fbb6cf58c69333"
     }
    ]
   },
@@ -63,6 +813,111 @@
    ]
   },
   {
+   "slug": "hcj-giurgiu-157-2022",
+   "path": "local/judet/giurgiu/2022/157",
+   "short": "HCJ Giurgiu nr. 157/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 157/2022 privind aprobarea documentației tehnico-economice pentru obiectivul de investiții „Extindere și dotare Secția de Boli Infecțioase și Compartiment HIV din cadrul Spitalului Județean de Urgență Giurgiu, B-dul București, nr.18, municipiul Giurgiu” CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.14559 din 18 iulie 2022 al președintelui; - raportul d",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.157-din-21.07.2022.pdf",
+     "sha256": "0f3310a54bccc2880ca6950e71c6eda018f12403d0209fe96c1dd44264e20ad0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-158-2022",
+   "path": "local/judet/giurgiu/2022/158",
+   "short": "HCJ Giurgiu nr. 158/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 158/2022 privind aprobarea solicitării Consiliului Județean Giurgiu către Consiliul Local al Municipiul Giurgiu, județul Giurgiu, de trecere din domeniul public al municipiului în domeniul public al județului, a Bazinului de înot didactic „Steaua Dunării” situat în intravilanul municipiului Giurgiu, Zona de Agrement Steaua Dunării, județul Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, A",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.158-din-21.07.2022.pdf",
+     "sha256": "ccc6d0e57c0dcd8f1a5df759d4afed5e340be040620f9871ac8338798a01eb4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-16-2022",
+   "path": "local/judet/giurgiu/2022/16",
+   "short": "HCJ Giurgiu nr. 16/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 16/2022 privind trecerea în domeniul public al Județului Giurgiu și în administrarea Consiliului Județean Giurgiu a unui imobil situat în intravilanul comunei Adunații Copăceni, sat Varlaam, județul Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.22002 din 08 decembrie 2021 al președintelui; - raportul de specialitate nr.22113 din 09 decembrie",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.16-din-31.01.2022.pdf",
+     "sha256": "1058f5e2534a8da86e9b802aee0689f1145539754af181c42deda59c3dc6f742"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-160-2022",
+   "path": "local/judet/giurgiu/2022/160",
+   "short": "HCJ Giurgiu nr. 160/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 160/2022 pentru modificarea anexei la Hotărârea Consiliului Județean Giurgiu nr.139 din 28 iunie 2021 privind aprobarea contractării unor finanțări rambursabile interne în valoare de 6.831.000 lei, respectiv în valoare de 10.600.000 lei CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, În temeiul prevederilor art.173 alin.(1) lit.f), art.182 alin.(1) și alin.(4) raportat la art.139 alin.(1), a",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.160-din-09.08.2022.pdf",
+     "sha256": "36c8e8e1fcfe25336f8017675017b24d0ee858cc77814200af9d00b8d2197f2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-161-2022",
+   "path": "local/judet/giurgiu/2022/161",
+   "short": "HCJ Giurgiu nr. 161/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 161/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.161-din-09.08.2022-si-anexa.pdf",
+     "sha256": "cd89330ed0fd122957ceb278f1c7d8909a0b045774d7884f12ab2e7650c9bf84"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-163-2022",
+   "path": "local/judet/giurgiu/2022/163",
+   "short": "HCJ Giurgiu nr. 163/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 163/2022 privind alocarea sumei de 100.000 lei pentru achiziționarea unui număr de 1.000 bucați ghiozdane dotate cu rechizite, care urmează să fie oferite copiilor care provin din familii defavorizate CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere: - referatul de aprobare nr.15661 din 04 august 2022 al președintelui; - raportul de specialitate nr.15669 din 04 august 2022 al",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.163-din-09.08.2022.pdf",
+     "sha256": "cc6084eda1ed1ee50351d91e98ce5c6d74eae7c9fb4cc0099b2fed3d13d494fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-164-2022",
+   "path": "local/judet/giurgiu/2022/164",
+   "short": "HCJ Giurgiu nr. 164/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 164/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/horararea-nr.164-din-23.08.2022-cu-anexe.pdf",
+     "sha256": "7c77516c8dcfb10b00d7f6d0483dfc56d617b79b1a2b8a94b0a89e9d16285b42"
+    }
+   ]
+  },
+  {
    "slug": "hcj-giurgiu-165-2022",
    "path": "local/judet/giurgiu/2022/165",
    "short": "HCJ Giurgiu nr. 165/2022",
@@ -74,6 +929,666 @@
      "units": 4,
      "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.165-din-23.08.2022.pdf",
      "sha256": "e3618adb07dcb1cb3aee23f66df4f677186175a6c6ceeed8d8b6a2b992db19ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-166-2022",
+   "path": "local/judet/giurgiu/2022/166",
+   "short": "HCJ Giurgiu nr. 166/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 166/2022 privind încheierea unui contract de comodat între Județul Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.166-din-23.08.2022.pdf",
+     "sha256": "11730bf0d3211ffddb0098226a388dbe7ddf8c54718193b01a863dbd85f3574b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-167-2022",
+   "path": "local/judet/giurgiu/2022/167",
+   "short": "HCJ Giurgiu nr. 167/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 167/2022 privind aprobarea trecerii din domeniul public în domeniul privat al Județului Giurgiu a construcțiilor situate în intravilanul municipiului Giurgiu, aferente imobilelor Casa de tip familial „Mihaela” și Casa de tip familial „Ioana”, aflate în administrarea Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu, în vederea scoaterii din funcțiune și a desființării CONSILIUL JUDEȚEA",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.167-din-23.08.2022.pdf",
+     "sha256": "4b65abb3690ae5c43392575e8aaf3f4629534baaaa37e082db469da2428b14ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-168-2022",
+   "path": "local/judet/giurgiu/2022/168",
+   "short": "HCJ Giurgiu nr. 168/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 168/2022 pentru modificarea și completarea Hotărârii Consiliului Județean Giurgiu nr.98 din 23 mai 2022 privind aprobarea documentației tehnico-economice la faza Documentație de avizare a lucrărilor de intervenții, a principalilor indicatori tehnico – economici și a devizului general pentru obiectivul de investiții ,,Modernizare DJ 504 Giurgiu-Vieru-Putineiu-Gogoșari-limită județ Teleorman – sector 2 Km 20+200 – 32+152” întrunit în ședință ordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.168-din-23.08.2022-cu-anexe.pdf",
+     "sha256": "b6f8f5f994f9fc831bef9be12485fc3bc7b91bb20c19caa5707af48adc97196b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-169-2022",
+   "path": "local/judet/giurgiu/2022/169",
+   "short": "HCJ Giurgiu nr. 169/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 169/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.169-din-23.08.2022-cu-anexe.pdf",
+     "sha256": "c94c21c0cf18dad203fe9c66c44c848f84737d3e8455e457cf0c3a183421ab19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-17-2022",
+   "path": "local/judet/giurgiu/2022/17",
+   "short": "HCJ Giurgiu nr. 17/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 17/2022 privind trecerea în domeniul public al Județului Giurgiu și în administrarea Consiliului Județean Giurgiu a unui bun imobil situat în extravilanul comunei Slobozia, județul Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.615 din 11 ianuarie 2022 al președintelui; - raportul de specialitate nr.626 din 11 ianuarie 2022 al Direcției Patrim",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.17-din-31.01.2022.pdf",
+     "sha256": "fd1e49cbf79dc4ef3674d032bf14080e1d30372f194fd117e4a6a0977530fcec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-170-2022",
+   "path": "local/judet/giurgiu/2022/170",
+   "short": "HCJ Giurgiu nr. 170/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 170/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.170-din-23.08.2022.pdf",
+     "sha256": "3f6a20306c87a84b01cfa6ddfbfedde541f32d3a7b3a3d5697b5433557ba7be2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-171-2022",
+   "path": "local/judet/giurgiu/2022/171",
+   "short": "HCJ Giurgiu nr. 171/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 171/2022 privind acordarea unor sprijine financiare CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere - referatul de aprobare nr.16042 din 10 august 2022 al președintelui; - raportul de specialitate nr.16049 din 10 august 2022 al Serviciului Buget-finanțe și contabilitate; - avizul nr.112/16.08.2022 al Comisiei buget, finanțe, economie, fonduri europene și mediu de afaceri; - avizul",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.171-din-23.08.2022.pdf",
+     "sha256": "eb27e7dd5aaeac6d35dd645ec61fc96ba23f20d66010ff708aa1aafd954e5ca8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-172-2022",
+   "path": "local/judet/giurgiu/2022/172",
+   "short": "HCJ Giurgiu nr. 172/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 172/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.172-din-23.08.2022.pdf",
+     "sha256": "270d0acfcde5a0a2afd69f89743f6005b97a30a36db971951fc0ac95bbe2c076"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-173-2022",
+   "path": "local/judet/giurgiu/2022/173",
+   "short": "HCJ Giurgiu nr. 173/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 173/2022 privind trecerea în domeniul public al Județului Giurgiu și în administrarea Consiliului Județean Giurgiu a imobilului compus din teren în suprafață de 3000 mp și construcția Bazin de înot didactic, situat în intravilanul municipiului Giurgiu, Zona de Agrement Steaua Dunării CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: -referatul de aprobare nr.16189 din 11 august 202",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.173-din-23.08.2022.pdf",
+     "sha256": "15f73367171d48ef04cc71f945f1b2ff8b18e92eb80791173b21f30750c182b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-174-2022",
+   "path": "local/judet/giurgiu/2022/174",
+   "short": "HCJ Giurgiu nr. 174/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 174/2022 privind aprobarea atribuirii în gestiune delegată a serviciului de transport public local de transport persoane pentru traseul județean cod 020, Giurgiu – Ghimpați – Mihăilești, în cadrul Programului Județean de Transport Persoane prin curse regulate, pentru perioada 2014 – 2019, prelungit până la 31 decembrie 2022 și eliberarea licenței de traseu întrunit în ședință ordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.174-din-23.08.2022-cu-anexa.pdf",
+     "sha256": "d162b97fb7353714d4bf4d3829ab43d4f2c1eea7f1db3c8a539f6bcce8adeeaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-175-2022",
+   "path": "local/judet/giurgiu/2022/175",
+   "short": "HCJ Giurgiu nr. 175/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 175/2022 privind aprobarea asocierii Județului Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.175-din-23.08.2022.pdf",
+     "sha256": "b7cf2d9df66010c50d3416b73020c3914634a5ee9c1cd4f96aaae3b6b35c6824"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-176-2022",
+   "path": "local/judet/giurgiu/2022/176",
+   "short": "HCJ Giurgiu nr. 176/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 176/2022 pentru modificarea și completarea Hotărârii Consiliului Județean Giurgiu nr.233 din 29.09.2021 privind aprobarea documentației tehnico-economice în faza DALI, a principalilor indicatori tehnico-economici și a devizului general pentru obiectivul de investiții ,,Modernizare drumul județean DJ 602, Limită județ Ilfov - Bâcu - Joița - Săbăreni - Limită județ Ilfov- Tronson 1: Limită județ Ilfov-Bâcu (DJ 601A)” întrunit în ședință ordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.176-din-23.08.2022-cu-anexe.pdf",
+     "sha256": "e082e714a545236210b5c88592aeb062e25b3361f41cfbed20967f4a720c4fd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-177-2022",
+   "path": "local/judet/giurgiu/2022/177",
+   "short": "HCJ Giurgiu nr. 177/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 177/2022 privind aprobarea Regulamentului de organizare și funcționare al Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.177-din-23.08.2022-cu-anexa.pdf",
+     "sha256": "6f64e7cf0dc5607dd748f97093d942f23aef8d5bf74dd6471bce060eebc096d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-179-2022",
+   "path": "local/judet/giurgiu/2022/179",
+   "short": "HCJ Giurgiu nr. 179/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 179/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.179-din-23.08.2022-cu-anexa.pdf",
+     "sha256": "a167ef39369150ab0a68752357885794d5c2f4221205b026203efad239b145f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-18-2022",
+   "path": "local/judet/giurgiu/2022/18",
+   "short": "HCJ Giurgiu nr. 18/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 18/2022 privind acordarea unui sprijin financiar CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere - referatul de aprobare nr.1637 din 26 ianuarie 2022 al președintelui; - raportul de specialitate nr.1650 din 26 ianuarie 2022 al Serviciului Buget-finanțe și contabilitate; - avizul nr.11/28.01.2022 al Comisiei buget, finanțe, economie, fonduri europene și mediu de afaceri; - avizul",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.18-din-31.01.2022.pdf",
+     "sha256": "08ee67a7fd4ace74d19d218c475343dce045c887f4fc184d1e003821068d24af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-180-2022",
+   "path": "local/judet/giurgiu/2022/180",
+   "short": "HCJ Giurgiu nr. 180/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 180/2022 privind aprobarea Regulamentului de Organizare și Funcționare a Serviciului social furnizat la domiciliu: Rețeaua persoanelor/ familiilor de plasament și asistenților maternali profesioniști (PFAMP) din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.180-din-23.08.2022-cu-anexa.pdf",
+     "sha256": "da6f43a42b3150ed4159a25ed5a2ae56aa964d74758e94e7a9f27597ce361232"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-181-2022",
+   "path": "local/judet/giurgiu/2022/181",
+   "short": "HCJ Giurgiu nr. 181/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 181/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.181-din-23.08.2022-cu-anexa.pdf",
+     "sha256": "51490927d1ec35b2c6a8f3c8b116b31a4952383c19f93e4c783bc82dc6941ed6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-182-2022",
+   "path": "local/judet/giurgiu/2022/182",
+   "short": "HCJ Giurgiu nr. 182/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 182/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.182-din-23.08.2022-cu-anexa.pdf",
+     "sha256": "e0b08b2a3b54794392f33b00318ad10a084847081083f75f978c0f657a24570e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-183-2022",
+   "path": "local/judet/giurgiu/2022/183",
+   "short": "HCJ Giurgiu nr. 183/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 183/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.183-din-23.08.2022-cu-anexa.pdf",
+     "sha256": "81828f6fad217588ca9532a1d4c78af05ebd25b6b707e7a230018f6547e33e42"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-186-2022",
+   "path": "local/judet/giurgiu/2022/186",
+   "short": "HCJ Giurgiu nr. 186/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 186/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.186-din-23.08.2022-cu-anexa.pdf",
+     "sha256": "fd473afa67d8b3530a57587fdd20d7990bde67818f442aeaea536abf03b02863"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-187-2022",
+   "path": "local/judet/giurgiu/2022/187",
+   "short": "HCJ Giurgiu nr. 187/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 187/2022 privind aprobarea Regulamentului de Organizare și Funcționare al Compartimentului pentru sprijinirea victimelor infracțiunilor – serviciu social de zi din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.187-din-23.08.2022-cu-anexa.pdf",
+     "sha256": "4808e44e31c056e8ecf77ce1e628205a2ee145a9126335c18c9a2c75514fd04a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-188-2022",
+   "path": "local/judet/giurgiu/2022/188",
+   "short": "HCJ Giurgiu nr. 188/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 188/2022 privind aprobarea Regulamentului de Organizare și Funcționare a „Rețelei Asistenților Personali Profesioniști” din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.188-din-23.08.2022-cu-anexa.pdf",
+     "sha256": "2bfa1a0308fe2d425ebeb2c12de39104f6891fbfa007c98f9f3156a23e486857"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-189-2022",
+   "path": "local/judet/giurgiu/2022/189",
+   "short": "HCJ Giurgiu nr. 189/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 189/2022 privind aprobarea Regulamentului de Organizare și Funcționare a Serviciului Telefonul Copilului și Echipa Mobilă din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.189-din-23.08.2022-cu-anexa.pdf",
+     "sha256": "d687aa7ca88d809f92b2dc209b22e83735a84483a006d69348c21dbf47429f77"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-19-2022",
+   "path": "local/judet/giurgiu/2022/19",
+   "short": "HCJ Giurgiu nr. 19/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 19/2022 privind aprobarea bugetului propriu de venituri și cheltuieli al județului Giurgiu, a bugetului de venituri și cheltuieli al instituțiilor publice finanțate integral sau parțial din venituri proprii și subvenții, a bugetului creditelor interne și a bugetului fondurilor externe nerambursabile pe anul 2022 și estimării pe anii 2023-2025 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.19-din-03.02.2022.pdf",
+     "sha256": "19c6cc4f8cb88576cbc2e39060ccd951a587ef61494aa152643fc35cb1c8d548"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-190-2022",
+   "path": "local/judet/giurgiu/2022/190",
+   "short": "HCJ Giurgiu nr. 190/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 190/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.190-din-23.08.2022-cu-anexa.pdf",
+     "sha256": "b53e2113bb22f98f809fe9d788478eea68fc0b5d325db6b22a26870950bf7d59"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-192-2022",
+   "path": "local/judet/giurgiu/2022/192",
+   "short": "HCJ Giurgiu nr. 192/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 192/2022 privind aderarea Județului Giurgiu la rețeaua „Construirea Europei cu consilierii locali” și desemnarea unui consilier județean ca reprezentant în cadrul rețelei CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: -referatul de aprobare nr.16464 din 17 august 2022 al președintelui; -raportul de specialitate nr.16470 din 17 august 2022 al Serviciului Juridic-contencios și con",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.192-din-23.08.2022.pdf",
+     "sha256": "d2c11aeb32a8c2b863a49b01075ba2841b763fbbaa64438976301b97fda845f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-193-2022",
+   "path": "local/judet/giurgiu/2022/193",
+   "short": "HCJ Giurgiu nr. 193/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 193/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.193-din-23.08.2022-cu-anexe.pdf",
+     "sha256": "9e6075b2e385fc3ae32d7e4400fa859c77a9b756c73c6f5c853b1282893ab313"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-194-2022",
+   "path": "local/judet/giurgiu/2022/194",
+   "short": "HCJ Giurgiu nr. 194/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 194/2022 privind modificarea art.1 al Hotărârii nr.153 din 27 noiembrie 2019 privind constituirea Comisiei pentru protecția copilului, modificată prin Hotărârea nr.87 din 28 august 2020 și Hotărârea nr.136 din 28 iunie 2021 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.16484 din 17 august 2022 al președintelui; - raportul de specialitate nr.16490 din",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.194-din-23.08.2022.pdf",
+     "sha256": "ec7717a34527c91c3f173b35f249a12bb9a09016ae071c4c01b1fc661cf07762"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-195-2022",
+   "path": "local/judet/giurgiu/2022/195",
+   "short": "HCJ Giurgiu nr. 195/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 195/2022 privind aprobarea Protocolului de colaborare între Județul Giurgiu prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.195-din-23.08.2022.pdf",
+     "sha256": "ce8c32cd5c906640af76dc1a5d87700405740d8ea303561dbba2fecf0ff737d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-196-2022",
+   "path": "local/judet/giurgiu/2022/196",
+   "short": "HCJ Giurgiu nr. 196/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 196/2022 privind încheierea unui Acord de cooperare între Județul Giurgiu și Comuna Găujani, în vederea depunerii și implementării proiectului ,,Construire centrală electrică fotovoltaică”. CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.16629 din 19 august 2022 al președintelui; - raportul de specialitate nr.16637 din 19 august 2022 al Administratorulu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.196-din-23.08.2022.pdf",
+     "sha256": "5253691c454547b2464c1790d2ebd0948f89880330a481c1f6b4fb17c373c87e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-198-2022",
+   "path": "local/judet/giurgiu/2022/198",
+   "short": "HCJ Giurgiu nr. 198/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 198/2022 privind rectificarea bugetului propriu de venituri și cheltuieli al Județului Giurgiu și bugetului de venituri și cheltuieli al instituțiilor finanțate integral sau parțial din venituri proprii și subvenții pe anul 2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.198-din-31.08.2022-cu-anexe.pdf",
+     "sha256": "5991e0743358b2da973578f7fb05166ce6ab486d533183a9a856f29759491865"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-2-2022",
+   "path": "local/judet/giurgiu/2022/2",
+   "short": "HCJ Giurgiu nr. 2/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 2/2022 privind utilizarea excedentului bugetului local al județului Giurgiu în anul 2022 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.113 din 04 ianuarie 2022 al președintelui; - raportul de specialitate nr.118 din 04 ianuarie 2022 al Serviciului Buget-finanțe și contabilitate; - avizul nr.2/05.01.2022 al Comisiei buget, finanțe, economie, fond",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.2-din-06.01.2022.pdf",
+     "sha256": "cdf301a249c1e9fe23e6e0081871e5670098df46fddaa3d0c177f56ec4e5b5c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-20-2022",
+   "path": "local/judet/giurgiu/2022/20",
+   "short": "HCJ Giurgiu nr. 20/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 20/2022 pentru modificarea anexei la Hotărârea Consiliului Județean Giurgiu nr.244 din 13 octombrie 2021 privind aprobarea exploatării și repartizării masei lemnoase obținute din tăierea arborilor limitrofi drumurilor județene DJ 505 – zona Chiriacu – Valea Bujorului și DJ 507 – Zona Giurgiu -Gostinu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.1480",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.20-din-03.02.2022.pdf",
+     "sha256": "7e951c901fe571d2d2797c147fc71ad126cfc71cb0d647ec9f40435d6bb4d891"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-200-2022",
+   "path": "local/judet/giurgiu/2022/200",
+   "short": "HCJ Giurgiu nr. 200/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 200/2022 privind aprobarea proiectului „Reabilitare și îmbunătățirea eficienței energetice la Biblioteca Județeană Giurgiu”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.200-din-20.09.2022-si-anexa.pdf",
+     "sha256": "790fb529b20aedb921b48ad1a6662e045a0f3aad41b20b2e5be92a23d76f199b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-201-2022",
+   "path": "local/judet/giurgiu/2022/201",
+   "short": "HCJ Giurgiu nr. 201/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 201/2022 privind alocarea sumei de 8.000 lei pentru finanțarea unor cheltuieli în cadrul activităților de promovare a șahului pentru toți la nivelul anului 2022 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.17836 din 07 septembrie 2022 al președintelui; - raportul de specialitate nr.17889 din 08 septembrie 2022 al Compartimentului Control intern și ma",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.201-din-20.09.2022.pdf",
+     "sha256": "02c86f283e4a71a73ca8bf801009d254be9abd6ffcc0485422ea0b5ef57ec15e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-202-2022",
+   "path": "local/judet/giurgiu/2022/202",
+   "short": "HCJ Giurgiu nr. 202/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 202/2022 privind alocarea sumei de 22.000 lei pentru finanțarea unor cheltuieli în cadrul activităților de promovare a sportului pentru toți prin tenis de câmp la nivelul anului 2022 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr. 17.837 din 07 septembrie 2022 al președintelui; - raportul de specialitate nr. 17.890 din 08 septembrie 2022 al Compartimen",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.202-din-20.09.2022.pdf",
+     "sha256": "29112e558136049b4ce318ddb836b4147385bf0233de310be0104117485998e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-203-2022",
+   "path": "local/judet/giurgiu/2022/203",
+   "short": "HCJ Giurgiu nr. 203/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 203/2022 privind acordarea unor sprijine financiare CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere - referatul de aprobare nr.17820 din 07 septembrie 2022 al președintelui; - raportul de specialitate nr.17824 din 07 septembrie 2022 al Serviciului Buget-finanțe și contabilitate; - avizul nr.120/13.09.2022 al Comisiei buget, finanțe, economie, fonduri europene și mediu de afaceri",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.203-din-20.09.2022.pdf",
+     "sha256": "5a00b8363a58a2f3e06213c62557bfbef565ecf1a1bfe73d3193ec6f551b35b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-204-2022",
+   "path": "local/judet/giurgiu/2022/204",
+   "short": "HCJ Giurgiu nr. 204/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 204/2022 privind acordarea de stimulente financiare elevilor din instituțiile de învățământ preuniversitar de stat din județul Giurgiu care au obținut rezultate deosebite la concursuri/olimpiade în anii școlari 2020-2021 și 2021-2022 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.17943 din 09 septembrie 2022 al președintelui; - raportul de specialitate",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.204-din-20.09.2022.pdf",
+     "sha256": "969544646c6f4862676064b0bc21ca871305894010657c2541dd152198f0614f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-205-2022",
+   "path": "local/judet/giurgiu/2022/205",
+   "short": "HCJ Giurgiu nr. 205/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 205/2022 pentru modificarea Anexei la Hotărârea Consiliului Județean Giurgiu nr.58 din 25 februarie 2021 privind aprobarea încheierii unui parteneriat între Județul Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.205-din-20.09.2022.pdf",
+     "sha256": "3748a6732c60529ee0e5ab4316150e75324fda6086205a2af2a257d2c5779467"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-206-2022",
+   "path": "local/judet/giurgiu/2022/206",
+   "short": "HCJ Giurgiu nr. 206/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 206/2022 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.337 din 27 decembrie 2021 privind încheierea unui Acord de finanțare între Județul Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.206-din-20.09.2022.pdf",
+     "sha256": "766a7b42f942acee43094461b0a4de3321eddfb733169abdf604d80eda3ae118"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-207-2022",
+   "path": "local/judet/giurgiu/2022/207",
+   "short": "HCJ Giurgiu nr. 207/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 207/2022 pentru modificarea Hotărârii nr.174 din 23 august 2022 privind aprobarea atribuirii în gestiune delegată a serviciului de transport public local de transport persoane pentru traseul județean cod 020, Giurgiu – Ghimpați – Mihăilești, în cadrul Programului Județean de Transport Persoane prin curse regulate, pentru perioada 2014 – 2019, prelungit până la 31 decembrie 2022 și eliberarea licenței de tr",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.207-din-20.09.2022.pdf",
+     "sha256": "404fac48ccaa6fa6f979ab7c7b1242c8f9d3326e4bfa816b867d1943a9e47e54"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-208-2022",
+   "path": "local/judet/giurgiu/2022/208",
+   "short": "HCJ Giurgiu nr. 208/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 208/2022 pentru modificarea art.1 al Hotărârii Consiliului Județean nr.117 din 05 octombrie 2018 privind aprobarea înființării Echipei Intersectoriale Locale (E.I.L.) în domeniul prevenirii și combaterii exploatării copilului prin muncă, violenței asupra copilului și a violenței în familie CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.17500 din 02 sep",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.208-din-20.09.2022.pdf",
+     "sha256": "5a4e8b864e23d4cbd7fba0389d80709abedb7e8e86cf4a36526bd29f2de39fa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-209-2022",
+   "path": "local/judet/giurgiu/2022/209",
+   "short": "HCJ Giurgiu nr. 209/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 209/2022 privind aprobarea asocierii Județului Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.209-din-20.09.2022.pdf",
+     "sha256": "2dd8cfbf9f7685fd43442085017f2f4131005121c3803138c5bf1a1c3ebf00ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-21-2022",
+   "path": "local/judet/giurgiu/2022/21",
+   "short": "HCJ Giurgiu nr. 21/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 21/2022 privind darea în administrarea Direcției Județene de Transport, Administrarea Drumurilor Județene și Control Trafic Giurgiu a unui teren în suprafață de 112 mp, situat în Municipiul Giurgiu, B-dul Mihai Viteazu, nr.4, aparținând domeniului public al Județului Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.1481 din 25 ianuarie 2022 al p",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.21-din-03.02.2022.pdf",
+     "sha256": "39c2ab828613c5d3fb542e18c59b7ddd2c20cc1cfd06e9d3b6406abd7d05dfea"
     }
    ]
   },
@@ -93,6 +1608,141 @@
    ]
   },
   {
+   "slug": "hcj-giurgiu-213-2022",
+   "path": "local/judet/giurgiu/2022/213",
+   "short": "HCJ Giurgiu nr. 213/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 213/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.213-din-20.09.2022-si-anexa.pdf",
+     "sha256": "6c64e444c7562bc6a2896f28963acb5f5de556c5f3c03dab7568f236532991a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-214-2022",
+   "path": "local/judet/giurgiu/2022/214",
+   "short": "HCJ Giurgiu nr. 214/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 214/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.214-din-20.09.2022-si-anexa.pdf",
+     "sha256": "ed26b5e649e92d412005e37744bb633eb8ed56544789e2de0750adc0cb5edffc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-218-2022",
+   "path": "local/judet/giurgiu/2022/218",
+   "short": "HCJ Giurgiu nr. 218/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 218/2022 privind aprobarea Regulamentului de organizare și funcționare al Centrului pentru Persoane Vârstnice Hotarele din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.218-din-20.09.2022-si-anexa.pdf",
+     "sha256": "c5a984e729808756c8fdf82f053c15405f97ab7d81d0e18511c2986956ef7f1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-22-2022",
+   "path": "local/judet/giurgiu/2022/22",
+   "short": "HCJ Giurgiu nr. 22/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 22/2022 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.281 din 05 noiembrie 2021 privind aprobarea devizului general estimativ pentru obiectivul de investiții „Modernizare DJ 412 Vărăști – DN 4; Prundu (DN41)” și a cererii de finanțare prin Programul Național de Investiții „Anghel Saligny”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.22-din-09.02.2022-cu-anexe.pdf",
+     "sha256": "dcc01d86346688b55d1653ba511dd7319cde2321e05735380616fa2941877a32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-220-2022",
+   "path": "local/judet/giurgiu/2022/220",
+   "short": "HCJ Giurgiu nr. 220/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 220/2022 privind aprobarea Regulamentului de organizare și funcționare al Centrului pentru Persoane Vârstnice Mironești din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.220-din-20.09.2022-si-anexa.pdf",
+     "sha256": "979d02aea31f3c9e02cb4b7fa37530fe61acc35289c1ad6053c80e2c1ddf05eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-221-2022",
+   "path": "local/judet/giurgiu/2022/221",
+   "short": "HCJ Giurgiu nr. 221/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 221/2022 privind aprobarea Regulamentului de organizare și funcționare al Centrului pentru Persoane Vârstnice Oncești din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.221-din-20.09.2022-si-anexa.pdf",
+     "sha256": "afd4d58a6ea1e6e3d8af6c02cca35733f4f9bedd93d0b78f1c5224ea36817163"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-222-2022",
+   "path": "local/judet/giurgiu/2022/222",
+   "short": "HCJ Giurgiu nr. 222/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 222/2022 privind aprobarea Regulamentului de organizare și funcționare al serviciului social Centrul de Recuperare, cod serviciu social 8891CZ-C-III, din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.222-din-20.09.2022-si-anexa.pdf",
+     "sha256": "8c64f4ec27d77d4ef3a7673e09dea317f65e9da6cbab05f1f61a3975d43bf45b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-223-2022",
+   "path": "local/judet/giurgiu/2022/223",
+   "short": "HCJ Giurgiu nr. 223/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 223/2022 privind aprobarea Regulamentului de organizare și funcționare al serviciului social cu cazare - Centrul Respiro, cod serviciu social 8790CR-C-I, din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.223-din-20.09.2022-si-anexa.pdf",
+     "sha256": "2c62de5503ef48f104418031a58fcf72c62fafd7943bbbf4923b6e2f28399622"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-23-2022",
+   "path": "local/judet/giurgiu/2022/23",
+   "short": "HCJ Giurgiu nr. 23/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 23/2022 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.267 din 27 octombrie 2021 privind aprobarea devizului general estimativ pentru obiectivul de investiții „Modernizare drum județean DJ 602, Limită judet Ilfov-Bâcu-Joița-Săbăreni-Limită județ Ilfov”- Tronsonul 1: Limită județ Ilfov-Bâcu/DJ 601A” și a cererii de finanțare prin Programul Național de Investiții „Anghel Saligny”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.23-din-09.02.2022-cu-anexe.pdf",
+     "sha256": "175194e5629eac4dcb79492612c3b5824ad6d7b6e5ac56757081fa850620437e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-giurgiu-24-2022",
    "path": "local/judet/giurgiu/2022/24",
    "short": "HCJ Giurgiu nr. 24/2022",
@@ -104,6 +1754,21 @@
      "units": 5,
      "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.24-din-09.02.2022.pdf",
      "sha256": "fe24db4c1d88df5bab5356252f55552f83ee7ff2a3215b119b182cb4e168d764"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-240-2022",
+   "path": "local/judet/giurgiu/2022/240",
+   "short": "HCJ Giurgiu nr. 240/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 240/2022 privind desemnarea reprezentantului Consiliului Județean Giurgiu în Comisia de soluționare a contestației privind Certificatul de orientare școlară și profesională nr.1270 din 4 august 2022 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - adresa nr.10985 din 29 august 2022 a Inspectoratului Școlar Județean Giurgiu, - referatul de aprobare nr.17257 din 31 august 2022 al",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-09-20",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.240-din-20.09.2022.pdf",
+     "sha256": "ce15234895e7e5994bbd008688dd5843afaf792e42e1fc9957887d142429fb2d"
     }
    ]
   },
@@ -123,6 +1788,861 @@
    ]
   },
   {
+   "slug": "hcj-giurgiu-242-2022",
+   "path": "local/judet/giurgiu/2022/242",
+   "short": "HCJ Giurgiu nr. 242/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 242/2022 privind aprobarea solicitării Consiliului Județean Giurgiu către Consiliul Local al Comunei Malu, județul Giurgiu, de trecere din domeniul public al comunei în domeniul public al județului, a unui imobil – teren situat în extravilanul comunei Malu, județul Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere: - referatul de aprobare nr.19419 din 05 octombrie 2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.242-din-17.10.2022.pdf",
+     "sha256": "cd74a579d99382c88a45dd675009b77334d5013c0935dc24b2dd974f6366d130"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-244-2022",
+   "path": "local/judet/giurgiu/2022/244",
+   "short": "HCJ Giurgiu nr. 244/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 244/2022 privind încheierea unui Acord de Parteneriat între Județul Giurgiu prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.244-din-17.10.2022.pdf",
+     "sha256": "b9a1c0fd341f7a4d0414e68710ea36ad89587ff2d00a8cc6bb3429448a5c2082"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-245-2022",
+   "path": "local/judet/giurgiu/2022/245",
+   "short": "HCJ Giurgiu nr. 245/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 245/2022 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.152 din 21 iulie 2022 privind încheierea unui Acord de Asociere între Asociația Forța Fermierilor, Județul Giurgiu prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.245-din-17.10.2022.pdf",
+     "sha256": "da04a8a89bdadc1b393829c5374b0aebb93babcf22bc8cf67e0c69b8295b93e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-246-2022",
+   "path": "local/judet/giurgiu/2022/246",
+   "short": "HCJ Giurgiu nr. 246/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 246/2022 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.160 din 09 august 2022 privind modificarea anexei la Hotărârea Consiliului Județean Giurgiu nr.139 din 28 iunie 2021 privind aprobarea contractării unor finanțări rambursabile interne în valoare de 6.831.000 lei, respectiv în valoare de 10.600.000 lei CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere: - refer",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.246-din-17.10.2022.pdf",
+     "sha256": "b195304ea9eeb3e4286113814e410dd616f3dba1bbeb157faaa27fdbb4318d18"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-247-2022",
+   "path": "local/judet/giurgiu/2022/247",
+   "short": "HCJ Giurgiu nr. 247/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 247/2022 privind repartizarea pe unități administrativ-teritoriale a cotei de 20% din sume defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale și din sumele alocate din cotele defalcate din impozitul pe venit pentru echilibrarea bugetelor locale pe anul 2023 și estimări pentru anii 2024-2026 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere - referatul d",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.247-din-17.10.2022.pdf",
+     "sha256": "7a3d194da62d499ab54ec56297db259957663fb834c46ecefab64dacd40fa621"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-248-2022",
+   "path": "local/judet/giurgiu/2022/248",
+   "short": "HCJ Giurgiu nr. 248/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 248/2022 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.69 din 7 aprilie 2022 privind aprobarea proiectului „Reabilitarea și îmbunătățirea eficienței energetice la Comandamentul Militar Giurgiu, inclusiv dotare” CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere: - referatul de aprobare nr.19908 din 11 octombrie 2022 al președintelui; - raportul de specialitate nr",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.248-din-17.10.2022.pdf",
+     "sha256": "02ec2ff3006071457caa164eea41806b0c47f472b1a80616ac982cf3ac557f8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-249-2022",
+   "path": "local/judet/giurgiu/2022/249",
+   "short": "HCJ Giurgiu nr. 249/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 249/2022 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.81 din 11 mai 2022 privind aprobarea depunerii proiectului „Eficiență energetică și reziliență în clădiri publice: CASA DE TIP FAMILIAL CASA NOASTRĂ” CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere: - referatul de aprobare nr.19913 din 11 octombrie 2022 al președintelui; - raportul de specialitate nr.19915",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.249-din-17.10.2022.pdf",
+     "sha256": "54a7a00d8c611f70d808a21214f88eaecc0b459731ef033e0054960e4721b799"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-25-2022",
+   "path": "local/judet/giurgiu/2022/25",
+   "short": "HCJ Giurgiu nr. 25/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 25/2022 privind acordarea unor sprijine financiare CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere - referatul de aprobare nr.2447 din 07 februarie 2022 al președintelui; - raportul de specialitate nr.2453 din 07 februarie 2022 al Serviciului Buget-finanțe și contabilitate; - avizul nr.16/08.02.2022 al Comisiei buget, finanțe, economie, fonduri europene și mediu de afaceri",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.25-din-09.02.2022.pdf",
+     "sha256": "47bce4c9db1d7238e4a59a58cace5a207d3ece2cf237083d1b6cb4af5cbcccfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-250-2022",
+   "path": "local/judet/giurgiu/2022/250",
+   "short": "HCJ Giurgiu nr. 250/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 250/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.250-din-17.10.2022-si-anexa.pdf",
+     "sha256": "41576eb50b2c3e1188b0878cd539706004c2fe1d3dca5dd46b33aaa8c79b271a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-252-2022",
+   "path": "local/judet/giurgiu/2022/252",
+   "short": "HCJ Giurgiu nr. 252/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 252/2022 privind încheierea unui contract de comodat între Județul Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.252-din-27.10.2022.pdf",
+     "sha256": "2ad63f08be2fd23f29fb739236532f3c545e3407791b2777064055e5744a0b74"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-253-2022",
+   "path": "local/judet/giurgiu/2022/253",
+   "short": "HCJ Giurgiu nr. 253/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 253/2022 privind aprobarea execuției bugetului propriu de venituri și cheltuieli al Județului Giurgiu pe trimestrul III 2022 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.19893 din 11 octombrie 2022 al președintelui; - raportul de specialitate nr.19900 din 11 octombrie 2022 al Serviciului Buget-finante și contabilitate; - avizul nr.130/14.10.2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.253-din-27.10.2022.pdf",
+     "sha256": "3b8857e14c3089c67e77cc99210dfc9b8edcd8357036dc7319ce3ae65dfa78b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-254-2022",
+   "path": "local/judet/giurgiu/2022/254",
+   "short": "HCJ Giurgiu nr. 254/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 254/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.254-din-27.10.2022-cu-anexa.pdf",
+     "sha256": "d970a45aacc9123467d59e429840467b4c7c0b0fe0121e7eb5b954504d9bea7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-255-2022",
+   "path": "local/judet/giurgiu/2022/255",
+   "short": "HCJ Giurgiu nr. 255/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 255/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.255-din-03.11.2022-si-anexe.pdf",
+     "sha256": "75d42b343dc3bf34e25865aa30e8b3b43ed239b6abe396da773478eb06764d49"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-256-2022",
+   "path": "local/judet/giurgiu/2022/256",
+   "short": "HCJ Giurgiu nr. 256/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 256/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.256-din-03.11.2022-si-anexe.pdf",
+     "sha256": "c144bf16fb555256ccbd17aa247cecfaa709dec035a2128f8bd1f49c5109660e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-257-2022",
+   "path": "local/judet/giurgiu/2022/257",
+   "short": "HCJ Giurgiu nr. 257/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 257/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.257-din-03.11.2022-si-anexa.pdf",
+     "sha256": "d7cbe3985d5dddf3f0566e871f39c635e092f50d4a927bea274b1ccbc1bb01b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-258-2022",
+   "path": "local/judet/giurgiu/2022/258",
+   "short": "HCJ Giurgiu nr. 258/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 258/2022 privind acordarea unor sprijine financiare CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere: - referatul de aprobare nr. 20725 din 24 octombrie 2022 al președintelui; - raportul de specialitate nr.20729 din 24 octombrie 2022 al Serviciului Buget-finanțe și contabilitate; - avizul nr.145/01.11.2022 al Comisiei buget, finanțe, economie, fonduri europene și mediu de afac",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.258-din-03.11.2022.pdf",
+     "sha256": "4cac065064578c1e55dbee846237421a5f12cd6297c5f14914aea2b088c0e650"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-259-2022",
+   "path": "local/judet/giurgiu/2022/259",
+   "short": "HCJ Giurgiu nr. 259/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 259/2022 pentru modificarea art.1 al Hotărârii nr.153 din 27 noiembrie 2019 privind constituirea Comisiei pentru protecția copilului, cu modificările ulterioare CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere: - referatul de aprobare nr.20735 din 24 octombrie 2022 al președintelui; - raportul de specialitate nr.20737 din 24 octombrie 2022 al Serviciului Juridic-contencios și",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.259-din-03.11.2022.pdf",
+     "sha256": "6d9d40eb615198bd2446b25e9214646ef6695156d98f0da5a63496bcdb51f66e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-26-2022",
+   "path": "local/judet/giurgiu/2022/26",
+   "short": "HCJ Giurgiu nr. 26/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 26/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.26-din-09.02.2022-cu-anexe.pdf",
+     "sha256": "5083f854a3ee1a6db66da50ea7beb65703ce83524d227b29d4d47f4ed878a0d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-262-2022",
+   "path": "local/judet/giurgiu/2022/262",
+   "short": "HCJ Giurgiu nr. 262/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 262/2022 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.139 din 28 iunie 2021 privind aprobarea contractării unor finanțări rambursabile interne în valoare de 6.831.000 lei, respectiv în valoare de 10.600.000 lei, cu modificările ulterioare CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere: - referatul de aprobare nr.20950 din 27 octombrie 2022 al președintelui;",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.262-din-03.11.2022.pdf",
+     "sha256": "2669d0ee63d33e63b43e50ed4a20b99002d0c96731e9e2df082e63f9a65dc204"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-263-2022",
+   "path": "local/judet/giurgiu/2022/263",
+   "short": "HCJ Giurgiu nr. 263/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 263/2022 privind aprobarea exploatării și repartizării masei lemnoase obținute din tăierea arborilor limitrofi drumurilor județene DJ 601 - zona Bolintin Deal - Limită județ Ilfov, DJ 601 - zona Crevedia Mare, DJ 411 - zona Comana- Budeni și DJ 412A - zona Grădiștea - intersecție cu DJ 411 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.21054 din 28",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.263-din-03.11.2022.pdf",
+     "sha256": "d87778afe19856929df81a256e3d8cd3af5265a0ec25534252607db575f07f3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-264-2022",
+   "path": "local/judet/giurgiu/2022/264",
+   "short": "HCJ Giurgiu nr. 264/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 264/2022 privind desemnarea reprezentantului Consiliului Județean Giurgiu în Comisia Județeană privind Incluziunea Socială CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere: - referatul de aprobare nr.20538 din 20 octombrie 2022 al președintelui, - raportul de specialitate nr.20542 din 20 octombrie 2022 al Serviciului Juridic-contencios și contracte; - avizul nr.72/01.11.2022 a",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.264-din-03.11.2022.pdf",
+     "sha256": "abf2ff94f111bd629d7c723caf035350faf75a17e325787f09353d44246598c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-265-2022",
+   "path": "local/judet/giurgiu/2022/265",
+   "short": "HCJ Giurgiu nr. 265/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 265/2022 privind aprobarea dezmembrării imobilului înscris în cartea funciară nr.35517, comuna Frătești, sat Cetatea, aflat în domeniul public al județului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.265-din-08.11.2022-si-anexa.pdf",
+     "sha256": "586ef2e101ec3a0df12cb38d67630a3f5c9f12ff3258e38cfb93985423a7a8d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-268-2022",
+   "path": "local/judet/giurgiu/2022/268",
+   "short": "HCJ Giurgiu nr. 268/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 268/2022 privind aprobarea documentației tehnico-economice pentru obiectivul de investiții „Asigurare utilități și dotări tehnico-edilitare aferente obiectivului de investiții Complex Județean de sănătate Giurgiu” în faza Studiu de fezabilitate",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.268-din-08.11.2022-si-anexe.pdf",
+     "sha256": "be528783abb7ecdb1414c46d7cc42cbfec358bab472b6d56096657926c535373"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-269-2022",
+   "path": "local/judet/giurgiu/2022/269",
+   "short": "HCJ Giurgiu nr. 269/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 269/2022 privind aprobarea cuantumului burselor de ajutor social, burselor de merit și burselor de studiu pentru elevii școlarizați în cadrul Școlii Gimnaziale Speciale nr. 1 Giurgiu în anul școlar 2022-2023 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.20095 din 14 octombrie 2022 al președintelui; - raportul de specialitate nr.20103 din 14 octombrie",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.269-din-08.11.2022.pdf",
+     "sha256": "f87d6810e3b58804a9bdfcc6f7ad72c79a6c5ce4e12069fcb7e5419815960574"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-27-2022",
+   "path": "local/judet/giurgiu/2022/27",
+   "short": "HCJ Giurgiu nr. 27/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 27/2022 privind aprobarea cooperării Județului Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.27-din-07.03.2022.pdf",
+     "sha256": "289abf6193cf6ebf40b4d42ff67a601a72b6bfe79473742542c6b44a6f52eef5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-270-2022",
+   "path": "local/judet/giurgiu/2022/270",
+   "short": "HCJ Giurgiu nr. 270/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 270/2022 privind acordarea unor sprijine financiare CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere - referatul de aprobare nr.20096 din 14 octombrie 2022 al președintelui; - raportul de specialitate nr.20104 din 14 octombrie 2022 al Serviciului Buget-finanțe și contabilitate; - avizul nr.140/20.10.2022 al Comisiei buget, finanțe, economie, fonduri europene și mediu de afaceri;",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.270-din-08.11.2022.pdf",
+     "sha256": "2a5e4cdb63c00e505a32c9d197af1228696a4c5c0a95200c20ddd05eff99c823"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-272-2022",
+   "path": "local/judet/giurgiu/2022/272",
+   "short": "HCJ Giurgiu nr. 272/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 272/2022 pentru modificarea anexei nr.2 la Hotărârea Consiliului Județean Giurgiu nr.56 din 25 februarie 2021 privind aprobarea modificării organigramei și statului de funcții ale Bibliotecii Județene „I.A Bassarabescu” Giurgiu, cu modificările ulterioare întrunit în ședință ordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.272-din-08.11.2022-si-anexa.pdf",
+     "sha256": "b2dbdeb3c0f82546af0a564d90002d643e8002c80016ad0546e65a4708026b33"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-273-2022",
+   "path": "local/judet/giurgiu/2022/273",
+   "short": "HCJ Giurgiu nr. 273/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 273/2022 privind constituirea Comisiei Tehnice de amenajare a teritoriului și urbanism din cadrul Consiliului Județean Giurgiu și aprobarea Regulamentului de organizare și funcționare al acesteia CONSILIUL JUDEȚEAN GIURGIU întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.20407 din 19 octombrie 2022 al președintelui; - raportul de specialitate nr.20413 din 19 octombrie 2022 al Direc",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.273-din-08.11.2022.pdf",
+     "sha256": "22dd9c7ad4ec65eae67e4ffc5ae01ed969ab898cd17c1932d10c0831ff685058"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-275-2022",
+   "path": "local/judet/giurgiu/2022/275",
+   "short": "HCJ Giurgiu nr. 275/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 275/2022 privind încheierea unui Acord de Parteneriat Instituțional între Institutul Clinic Fundeni, pe de-o parte și Județul Giurgiu, pe de altă parte, în vederea derulării campaniei de testare destinată cetățenilor din Județul Giurgiu organizată în cadrul proiectului Live(RO)2-SUD: Program regional de prevenire, screening și diagnostic al pacienților cu boli hepatice cronice secundare infecțiilor virale",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.275-din-08.11.2022.pdf",
+     "sha256": "cad86ff49f95484c81a9164ab199b951a3849f0d5ab723cb99c1dfbef171c5e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-276-2022",
+   "path": "local/judet/giurgiu/2022/276",
+   "short": "HCJ Giurgiu nr. 276/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 276/2022 privind desemnarea unui reprezentant al Consiliului Județean Giurgiu în Consiliul de administrație al Centrului Județean de Resurse și Asistență Educațională Giurgiu CONSILIUL JUDEȚEAN GIURGIU întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.19874 din 11 octombrie 2022 al președintelui; - raportul de specialitate nr.19880 din 11 octombrie 2022 al Serviciului Juridic-conten",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.276-din-08.11.2022.pdf",
+     "sha256": "40a69011feb7061a3fd9fc694be30e8198d5dfbc21a060e53238903c9d2855f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-277-2022",
+   "path": "local/judet/giurgiu/2022/277",
+   "short": "HCJ Giurgiu nr. 277/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 277/2022 privind aprobarea documentației tehnico-economice la faza Studiu de fezabilitate, aprobarea principalilor indicatori tehnico – economici, a devizului general precum și a contribuției județului Giurgiu prin Consiliul Județean Giurgiu pentru obiectivul de investiții „Construire trotuare aferente DJ 507 în comuna Oinacu, sat Oinacu, județ Giurgiu” întrunit în ședință ordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.277-din-08.11.2022-si-anexe.pdf",
+     "sha256": "1e2604cb8d1e4a386a2904478ed78a0a4ac6626665a72da1001e173ed9418ddf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-278-2022",
+   "path": "local/judet/giurgiu/2022/278",
+   "short": "HCJ Giurgiu nr. 278/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 278/2022 privind aprobarea documentației tehnico – economice, actualizată, pentru obiectivul de investiții „Construire Spital Județean de Urgență Giurgiu (secțiile oncologie și neurologie)” în faza Studiu de fezabilitate",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.278-din-08.11.2022-si-anexe.pdf",
+     "sha256": "e086ae887251122540e600397aa4cd576617295d1fad09c2ef30794e4a730054"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-279-2022",
+   "path": "local/judet/giurgiu/2022/279",
+   "short": "HCJ Giurgiu nr. 279/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 279/2022 privind aprobarea costului mediu lunar de întreținere și a contribuției lunare de întreținere/beneficiar, precum și stabilirea categoriilor de venituri care se iau în calcul la stabilirea venitului lunar în baza căruia se calculează contribuția individuală pentru serviciile oferite în cadrul Căminului pentru Persoane Vârstnice Singureni, pentru anul 2023 CONSILIUL JUDEȚEAN GIURGIU, întrunit în șed",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.279-din-08.11.2022.pdf",
+     "sha256": "0e7ed3bdc456991bf44e33a28ef95995bdf62fecd601fd76c68fcc3c68f78885"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-28-2022",
+   "path": "local/judet/giurgiu/2022/28",
+   "short": "HCJ Giurgiu nr. 28/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 28/2022 privind încheierea unui contract de comodat între Județul Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.28-din-07.03.2022.pdf",
+     "sha256": "7bcf6462e4263f1408c96e8ca0ded4d0b896ff44cf10f192cc999c939373073a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-280-2022",
+   "path": "local/judet/giurgiu/2022/280",
+   "short": "HCJ Giurgiu nr. 280/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 280/2022 privind aprobarea costului mediu lunar de întreținere și a contribuției lunare de întreținere în sarcina beneficiarilor serviciilor asigurate de Centrul de Asistență Medico - Socială Mogoșești, pentru anul 2023 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.21049 din 28 octombrie 2022 al președintelui; - raportul de specialitate nr.21060 din 28",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.280-din-08.11.2022.pdf",
+     "sha256": "581118824460f753b2ae0abbe1a50954dd82df7ce143990acaf1895394a9304e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-281-2022",
+   "path": "local/judet/giurgiu/2022/281",
+   "short": "HCJ Giurgiu nr. 281/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 281/2022 privind aprobarea costurilor medii lunare de întreținere și a contribuțiilor lunare în sarcina beneficiarilor serviciilor asigurate, în funcție de gradul de dependență, în căminele pentru persoane vârstnice aflate în subordinea Consiliului Județean Giurgiu, pentru anul 2023 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.21050 din 28 octombrie 2",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.281-din-08.11.2022.pdf",
+     "sha256": "db932f8ac186cb270123fcbb2179c5273c0cba3d191de3d84ac03013f153723e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-282-2022",
+   "path": "local/judet/giurgiu/2022/282",
+   "short": "HCJ Giurgiu nr. 282/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 282/2022 privind aprobarea costului mediu lunar de întreținere pentru un copil care beneficiază de protecție în formă instituționalizată, precum și aprobarea costului mediu lunar de întreținere pentru o persoană adultă cu handicap care beneficiază de protecție în formă instituționalizată, pentru anul 2023 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.2",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.282-din-08.11.2022.pdf",
+     "sha256": "70cf54d580d8a614ca5b2d8d9aaa48714a638aa27da19539a4c2baccbaafee5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-283-2022",
+   "path": "local/judet/giurgiu/2022/283",
+   "short": "HCJ Giurgiu nr. 283/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 283/2022 privind alocarea sumei de 123.000 lei pentru achiziționarea pachetelor acordate de consiliul județean cu ocazia sărbătorilor de iarnă în anul 2022 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.21052 din 28 octombrie 2022 al președintelui; - raportul de specialitate nr.21063 din 28 octombrie 2022 al Serviciului Buget-finanțe și contabilitate;",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.283-din-08.11.2022.pdf",
+     "sha256": "64b47a428a4b39ab4344c3b9ca2629bc521ae5a07b27bd978936284ed4307440"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-284-2022",
+   "path": "local/judet/giurgiu/2022/284",
+   "short": "HCJ Giurgiu nr. 284/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 284/2022 privind modificarea elementelor de identificare ale imobilului situat în intravilanul municipiului Giurgiu, str.Mircea cel Bătrân, nr.40, aflat în domeniul public al județului Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.21210 din 01 noiembrie 2022 al președintelui; - raportul de specialitate nr.21216 din 01 noiembrie 2022 al Direcți",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.284-din-08.11.2022.pdf",
+     "sha256": "43e5d2ef50e88fa6738fa55e86d90f640c9692febcf62d029a6f573862894d5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-285-2022",
+   "path": "local/judet/giurgiu/2022/285",
+   "short": "HCJ Giurgiu nr. 285/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 285/2022 pentru modificarea și completarea Hotărârii Consiliului Județean Giurgiu nr.94 din 23.05.2022 privind aprobarea documentației tehnico-economice în faza DALI, a principalilor indicatori tehnico-economici și a devizului general pentru obiectivul de investiții „Modernizare DJ 401B,Herăști- DN4, km 0 + 000 - Km 4 + 431” CONSILIUL JUDEȚEAN GIURGIU întrunit în ședință ordinară, Având în vedere: - refera",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.285-din-08.11.2022.pdf",
+     "sha256": "3b9ab7155a7fc7dd0cfbf3f82f89cfc6038a416252271b8ec36756952fbf5d07"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-286-2022",
+   "path": "local/judet/giurgiu/2022/286",
+   "short": "HCJ Giurgiu nr. 286/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 286/2022 privind aprobarea documentației tehnico-economice la faza Studiu de fezabilitate, aprobarea principalilor indicatori tehnico – economici, a devizului general precum și a contribuției județului Giurgiu prin Consiliul Județean Giurgiu pentru obiectivul de investiții „Înființare trotuare pe strada Teiului (DJ505) în Comuna Putineiu, Județul Giurgiu” întrunit în ședință ordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.286-din-08.11.2022-si-anexe.pdf",
+     "sha256": "28047443b249d6228cff1ab53cc5fbee4786ce879503bd34444737c883543601"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-287-2022",
+   "path": "local/judet/giurgiu/2022/287",
+   "short": "HCJ Giurgiu nr. 287/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 287/2022 privind aprobarea asocierii Județului Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.287-din-08.11.2022.pdf",
+     "sha256": "166018a8eb168487367e46d8216763cb56c0f5ab55cf0d68e57f33cbc2de2231"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-288-2022",
+   "path": "local/judet/giurgiu/2022/288",
+   "short": "HCJ Giurgiu nr. 288/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 288/2022 privind aprobarea asocierii Județului Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.288-din-08.11.2022.pdf",
+     "sha256": "9947df6c9273142cbb4c52fce3b6f6916945368d7c4b736d0fc43bb751dc544d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-289-2022",
+   "path": "local/judet/giurgiu/2022/289",
+   "short": "HCJ Giurgiu nr. 289/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 289/2022 privind aprobarea asocierii Județului Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.289-din-08.11.2022.pdf",
+     "sha256": "5a31d88261b64eb6c1841c9165ae3a8551e9d1e62da27b0ce55452f781afaedc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-29-2022",
+   "path": "local/judet/giurgiu/2022/29",
+   "short": "HCJ Giurgiu nr. 29/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 29/2022 privind aprobarea dezmembrării imobilului înscris în cartea funciară nr.41115 Municipiul Giurgiu, aflat în domeniul public al județului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.29-din-07.03.2022-cu-anexe.pdf",
+     "sha256": "89ec286cc9cb78f9a969c2024855a0c65720b9d5c9fca9e576006867f6ff5a4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-290-2022",
+   "path": "local/judet/giurgiu/2022/290",
+   "short": "HCJ Giurgiu nr. 290/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 290/2022 privind aprobarea asocierii Județului Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.290-din-08.11.2022.pdf",
+     "sha256": "7309a398ec82168f33e4eed803eb6c1adcf16675757649b580ec0ee6170f9791"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-291-2022",
+   "path": "local/judet/giurgiu/2022/291",
+   "short": "HCJ Giurgiu nr. 291/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 291/2022 privind aprobarea instituirii unor restricții totale de circulație, cu caracter temporar, pe unele sectoare de drum județean în perioada de iarnă 2022 – 2023 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.21501 din 3 noiembrie 2022 al președintelui; - raportul de specialitate nr.21503 din 3 noiembrie 2022 al Direcției Achiziții publice și inve",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.291-din-08.11.2022.pdf",
+     "sha256": "3ad4f152112c15398f74a48bf97c0bad2e6c1f39ce4d8ac1e4fe6ba9ceccab96"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-292-2022",
+   "path": "local/judet/giurgiu/2022/292",
+   "short": "HCJ Giurgiu nr. 292/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 292/2022 privind aprobarea depunerii proiectului „Construire Spital Județean de Urgenta Giurgiu– Etapa 1 (oncologie și neurologie)” CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.21505 din 03 noiembrie 2022 al președintelui; - raportul de specialitate nr.21507 din 03 noiembrie 2022 al Compartimentului Dezvoltare regională; -avizul nr.115/07.11.2022 al C",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.292-din-08.11.2022.pdf",
+     "sha256": "eac02d91f6848ec4fc094f50fe6266780563aadbec7569e33786c85ddab8d614"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-293-2022",
+   "path": "local/judet/giurgiu/2022/293",
+   "short": "HCJ Giurgiu nr. 293/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 293/2022 privind aprobarea documentației tehnico-economice la faza DALI , aprobarea principalilor indicatori tehnico – economici, a devizului general precumși a contribuției județului Giurgiu prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.293-din-08.11.2022-si-anexe.pdf",
+     "sha256": "6aee32aab60b9306ccf81940504424bcc68146cf2e8a3b1ed98ffd8de1f11c4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-294-2022",
+   "path": "local/judet/giurgiu/2022/294",
+   "short": "HCJ Giurgiu nr. 294/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 294/2022 privind rectificarea bugetului propriu de venituri și cheltuieli al Județului Giurgiu și bugetului de venituri și cheltuieli al instituțiilor finanțate integral sau parțial din venituri proprii și subvenții pe anul 2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.294-din-08.11.2022-si-anexe.pdf",
+     "sha256": "7721b78601858eb0245dda411ac6162b7cef19d7fc1c2f402769cb4c2e85a40e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-295-2022",
+   "path": "local/judet/giurgiu/2022/295",
+   "short": "HCJ Giurgiu nr. 295/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 295/2022 privind modificarea utilizării excedentului bugetului local al județului Giurgiu în anul 2022 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.22215 din 15 noiembrie 2022 al președintelui; - raportul de specialitate nr.22222 din 15 noiembrie 2022 al Serviciului Buget-finanțe și contabilitate; - avizul nr.172/16.11.2022 al Comisiei buget, fin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.295-din-18.11.2022.pdf",
+     "sha256": "1fb789a5c3578a5fcea659e2d57b1ffd335b9570dbee5cc00536235218465f67"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-296-2022",
+   "path": "local/judet/giurgiu/2022/296",
+   "short": "HCJ Giurgiu nr. 296/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 296/2022 privind rectificarea bugetului propriu de venituri și cheltuieli al Județului Giurgiu și bugetului de venituri și cheltuieli al instituțiilor finanțate integral sau parțial din venituri proprii și subvenții pe anul 2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.296-din-18.11.2022-cu-anexe.pdf",
+     "sha256": "34d57b910222fafd9d47d6b51ad406b759b27799081230803c5b5d2337536713"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-297-2022",
+   "path": "local/judet/giurgiu/2022/297",
+   "short": "HCJ Giurgiu nr. 297/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 297/2022 privind alocarea sumei de 20.000 lei pentru finanțarea cheltuielilor aferente organizării unor acțiuni dedicate zilei de 1 Decembrie CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.21940 din data de 10 noiembrie 2022 al președintelui; - raportul de specialitate nr.21949 din data de 10 noiembrie 2022 al Serviciului Buget-finanțe și contabili",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.297-din-18.11.2022.pdf",
+     "sha256": "8c418ff60c7b8e8672e9defad7089edb873dc547671ddb5629d95790a298b7a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-298-2022",
+   "path": "local/judet/giurgiu/2022/298",
+   "short": "HCJ Giurgiu nr. 298/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 298/2022 privind rectificarea bugetului propriu de venituri și cheltuieli al Județului Giurgiu, bugetului de venituri și cheltuieli al instituțiilor finanțate integral sau parțial din venituri proprii și subvenții și bugetul fondurilor externe nerambursabile pe anul 2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.298-din-28.11.2022-si-anexe.pdf",
+     "sha256": "142e4592640cd6616d327bf833af9db92c1838a436f50d71ce0a5c7fa8ab5bac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-299-2022",
+   "path": "local/judet/giurgiu/2022/299",
+   "short": "HCJ Giurgiu nr. 299/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 299/2022 privind darea în administrarea Centrului Județean pentru Conservarea și Promovarea Culturii Tradiționale Giurgiu a imobilului situat în municipiul Giurgiu, str",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.299-din-28.11.2022.pdf",
+     "sha256": "c649b9e255d7c79a5cce572105dd2574a360e2d6003acabda983df0de52cbe3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-3-2022",
+   "path": "local/judet/giurgiu/2022/3",
+   "short": "HCJ Giurgiu nr. 3/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 3/2022 privind repartizarea pe unități administrativ-teritoriale a sumei corespunzătoare cotei de 6% din impozitul pe venit estimat a se încasa la bugetul de stat pe anul 2022, reprezentând fond la dispoziția Consiliului Județean Giurgiu, precum și aprobarea repartizării pe unități administrativ-teritoriale a sumelor defalcate din taxa pe valoarea adăugată și din cotele din impozitul pe venit pentru echi",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-01-10",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.3-din-10.01.2022.pdf",
+     "sha256": "722240a961389d206ae8aff5aa66f2d83a4f74b3912db7556ff442c23b8b9a43"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-30-2022",
+   "path": "local/judet/giurgiu/2022/30",
+   "short": "HCJ Giurgiu nr. 30/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 30/2022 privind aprobarea dezmembrării imobilului înscris în cartea funciară nr.41739 Municipiul Giurgiu, aflat în domeniul public al județului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.30-din-07.03.2022-cu-anexe.pdf",
+     "sha256": "64ff44956542c903dc195cc3ef00d5e21d8c2db2d1910c92d66bc4495cb06f33"
+    }
+   ]
+  },
+  {
    "slug": "hcj-giurgiu-300-2022",
    "path": "local/judet/giurgiu/2022/300",
    "short": "HCJ Giurgiu nr. 300/2022",
@@ -134,6 +2654,96 @@
      "units": 1,
      "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.300-din-28.11.2022-si-anexe.pdf",
      "sha256": "147a00128b9bb0aeafbbb9cc5d8d7756361aaa8f6d72530c054b98b174117b32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-301-2022",
+   "path": "local/judet/giurgiu/2022/301",
+   "short": "HCJ Giurgiu nr. 301/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 301/2022 privind aprobarea documentației tehnico – economice pentru obiectivul de investiții „Reabilitare pod peste râul Dâmbovnic, pe DJ 611, km 0+150, la Roata de Jos” în faza de proiectare Documentație de avizare a lucrărilor de intervenții (D.A.L.I.)",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.301-din-28.11.2022-si-anexe.pdf",
+     "sha256": "24fe8af9bcf2ccc648ceaf042498b994a5ac5bf9be8032eb1057a070d3a92d60"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-303-2022",
+   "path": "local/judet/giurgiu/2022/303",
+   "short": "HCJ Giurgiu nr. 303/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 303/2022 privind aprobarea contribuției județului Giurgiu prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.303-din-28.11.2022.pdf",
+     "sha256": "81bc1c3e1c0f3ca9e0835677f7465b6d39c6af3815c7de1483cf10af71b3a299"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-304-2022",
+   "path": "local/judet/giurgiu/2022/304",
+   "short": "HCJ Giurgiu nr. 304/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 304/2022 pentru modificarea anexei la Hotărârea Consiliului Județean Giurgiu nr.33 din 07 martie 2022 privind utilizarea Fondului de întreținere, înlocuire și dezvoltare pe anul 2022 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, - referatul de aprobare nr.22762 din 22 noiembrie 2022 al președintelui; - raportul de specialitate nr.22764 din 22 noiembrie 2022 al Administratorului public al j",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.304-din-28.11.2022.pdf",
+     "sha256": "b464840b93c5c48e288cfc43894bdcd96a0fcab0d137bfdf3013f78971029aa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-305-2022",
+   "path": "local/judet/giurgiu/2022/305",
+   "short": "HCJ Giurgiu nr. 305/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 305/2022 privind aprobarea asocierii între Județul Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.305-din-28.11.2022.pdf",
+     "sha256": "703d816f6a1fe70b1af6ded5e8195eb0a6f3e1404cd9379e27b579c105fb965f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-306-2022",
+   "path": "local/judet/giurgiu/2022/306",
+   "short": "HCJ Giurgiu nr. 306/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 306/2022 privind aprobarea „Planului de investiții aferent activelor date în administrare care se finanțează din Fondului de Întreținere, Înlocuire și Dezvoltare” pe anul 2023, pentru investiția Sistem de Management Integrat al Deșeurilor Solide în județul Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere: - referatul de aprobare nr.22778 din 23 noiembrie 2022 al președ",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.306-din-28.11.2022.pdf",
+     "sha256": "60943f5c8e6ceaf1d6a4922019a564834af8556daff521bca2f69a8b72b17cea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-307-2022",
+   "path": "local/judet/giurgiu/2022/307",
+   "short": "HCJ Giurgiu nr. 307/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 307/2022 privind aprobarea concesionării prin licitație a terenurilor care fac parte din imobilul „Ferma Gostinu” aflat în domeniul privat al județului Giurgiu în suprafață totală de 3.016.843 mp, în scopul construirii unei Centrale electrice fotovoltaice cu o capacitate de minimum 200 MWp",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.307-din-28.11.2022-si-anexe.pdf",
+     "sha256": "a95844e1987e8e9aa836b9d584824d1be3a3c8e2b9f2de2a3088156ae8c67a50"
     }
    ]
   },
@@ -153,6 +2763,231 @@
    ]
   },
   {
+   "slug": "hcj-giurgiu-31-2022",
+   "path": "local/judet/giurgiu/2022/31",
+   "short": "HCJ Giurgiu nr. 31/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 31/2022 privind reîntregirea creditului în sistem revolving în valoare de 3.500.000 lei pentru proiectul „Improved nodes Giurgiu-Byala for better connection to TEN-T infrastructure”, cod e-MS: ROBG- 442 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere - referatul de aprobare nr.3035 din 15 februarie 2022 al președintelui; - raportul de specialitate nr.3041 din 15 februarie 2022 al",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.31-din-07.03.2022.pdf",
+     "sha256": "34451b323d47f82caddcf02f63b9fdcb5824846fc9367a4fc7521616dedc1765"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-310-2022",
+   "path": "local/judet/giurgiu/2022/310",
+   "short": "HCJ Giurgiu nr. 310/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 310/2022 privind preluarea în domeniul public al județului Giurgiu a imobilului situat în municipiul Giurgiu, str. București, nr.53, județul Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere: - referatul de aprobare nr.23129 din 28 noiembrie 2022 al președintelui; - raportul de specialitate nr.23135 din 28 noiembrie 2022 al Direcției Patrimoniu, coordonare servicii publ",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.310-din-07.12.2022.pdf",
+     "sha256": "ce3be7696f18070e1466f65b1de33c3829aae16c77a5eea38907f0e82f957eb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-311-2022",
+   "path": "local/judet/giurgiu/2022/311",
+   "short": "HCJ Giurgiu nr. 311/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 311/2022 privind aprobarea documentației tehnico-economice la faza Documentație de avizare a lucrărilor de intervenții (D.A.L.I.), a principalilor indicatori tehnico – economici, a devizului general precum și a contribuției județului Giurgiu prin Consiliul Județean Giurgiu pentru obiectivul de investiții „Modernizare drum județean (DJ) 507A, comuna BĂNEASA, JUDEȚUL GIURGIU” întrunit în ședință extraordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.311-din-07.12.2022-si-anexe.pdf",
+     "sha256": "9f100d78b4a436ed201286e829017de45da70c3c1454f6426c56f10d971170dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-312-2022",
+   "path": "local/judet/giurgiu/2022/312",
+   "short": "HCJ Giurgiu nr. 312/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 312/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.312-din-07.12.2022-si-anexe.pdf",
+     "sha256": "005ad1e1bee7111af14097bd170545b74fe728b3e202cd390cc3bab1b9e898a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-313-2022",
+   "path": "local/judet/giurgiu/2022/313",
+   "short": "HCJ Giurgiu nr. 313/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 313/2022 privind alocarea sumei de 54.000 lei pentru achiziționarea pachetelor, acordate de",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.313-din-07.12.2022.pdf",
+     "sha256": "8a8914425107e1ed5695562c6b8ec4c1db9ea2ee7482145bd6be970472777823"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-314-2022",
+   "path": "local/judet/giurgiu/2022/314",
+   "short": "HCJ Giurgiu nr. 314/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 314/2022 privind rectificarea bugetului propriu de venituri și cheltuieli al Județului Giurgiu pe anul 2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.314-din-07.12.2022-si-anexa.pdf",
+     "sha256": "002bba725aed91cc6acd64bd0ad9bbf3c0109df599acc82e0aa6c431fccd837b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-315-2022",
+   "path": "local/judet/giurgiu/2022/315",
+   "short": "HCJ Giurgiu nr. 315/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 315/2022 pentru completarea Hotărârii Consiliului Județean Giurgiu nr.292 din 08 noiembrie 2022 privind aprobarea depunerii proiectului „Construire Spital Județean de Urgență Giurgiu– Etapa 1 (Oncologie și Neurologie)”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.315-din-07.12.2022-si-anexe.pdf",
+     "sha256": "572bafc54c359b22e1265eca4deb5ca46ef4518a74d43cef29e8c06331b1c575"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-316-2022",
+   "path": "local/judet/giurgiu/2022/316",
+   "short": "HCJ Giurgiu nr. 316/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 316/2022 privind acordarea unor sprijine financiare CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere - referatul de aprobare nr. 23341 din 05 decembrie 2022 al președintelui; - raportul de specialitate nr.23347 din 05 decembrie 2022 al Serviciului Juridic-contencios și contracte; - avizul nr.187/06.12.2022 al Comisiei buget, finanțe, economie, fonduri europene și mediu de afac",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.316-din-07.12.2022.pdf",
+     "sha256": "024b68d0bf5bb9c70926058f1d13ecee787cde56f7ac858446f0314bcb5e9de3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-317-2022",
+   "path": "local/judet/giurgiu/2022/317",
+   "short": "HCJ Giurgiu nr. 317/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 317/2022 privind exprimarea acordului Consiliului Județean Giurgiu pentru participarea la implementarea proiectului din Investiția I.4 ”Implementarea a 3.000 km de trasee cicloturistice la nivel național” finanțat din PNRR, Componenta 11 – Turism și cultură",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.317-din-07.12.2022-si-anexe.pdf",
+     "sha256": "c8dfe4f69cde0b57331a98821513ebd09a2fc5bc9d6808818639923a0e3903c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-319-2022",
+   "path": "local/judet/giurgiu/2022/319",
+   "short": "HCJ Giurgiu nr. 319/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 319/2022 privind aprobarea documentației tehnico-economice la faza Documentație de avizare a lucrărilor de intervenții, a principalilor indicatori tehnico – economici și a devizului general pentru obiectivul de investiții „Modernizare DJ 504 Giurgiu-Vieru-Putineiu-Gogoșari-limită județ Teleorman – km 3+263- 9+473 și km 10+753 - 20+200”, 15,657 km întrunit în ședință extraordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.319-din-14.12.2022-si-anexe.pdf",
+     "sha256": "ed888b68a632dcd6c2789ae88bbf3fabf75680e36cf455fb38765226f8cf6391"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-32-2022",
+   "path": "local/judet/giurgiu/2022/32",
+   "short": "HCJ Giurgiu nr. 32/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 32/2022 privind aprobarea numărului și cuantumului burselor de ajutor social, burselor de merit și burselor de studiu pentru elevii școlarizați în cadrul Școlii Gimnaziale Speciale nr.1 Giurgiu în semestrul II al anului școlar 2021-2022 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.3186 din 16 februarie 2022 al președintelui; - raportul de specialita",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.32-din-07.03.2022.pdf",
+     "sha256": "0a8be1ef9337b0dddecc697f0cdd13d84c015a63f691e85d1686ef5bf1978d48"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-320-2022",
+   "path": "local/judet/giurgiu/2022/320",
+   "short": "HCJ Giurgiu nr. 320/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 320/2022 privind aprobarea proiectului „Îmbunătățirea eficienței energetice a unor clădiri din județul Giurgiu”, a documentației și a indicatorilor tehnico-economici asociați proiectului",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.320-din-14.12.2022-si-anexe.pdf",
+     "sha256": "2901604ea9cdebd649f3bcfcdf7cef68b31ad418af46a1e099ea061fc198aaf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-321-2022",
+   "path": "local/judet/giurgiu/2022/321",
+   "short": "HCJ Giurgiu nr. 321/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 321/2022 privind aprobarea depunerii proiectului „Dotări medicale destinate reducerii riscului de infecții nosocomiale la Spitalul Județean de Urgență Giurgiu” și a cheltuielilor legate de proiect",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.321-din-14.12.2022-si-anexe.pdf",
+     "sha256": "0ba04efc6fe2629ad16120715266236aee800beaa98b396a5d8c66791347562a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-322-2022",
+   "path": "local/judet/giurgiu/2022/322",
+   "short": "HCJ Giurgiu nr. 322/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 322/2022 privind aprobarea depunerii proiectului „Dotări medicale destinate reducerii riscului de infecții nosocomiale la Spitalul de Pneumoftiziologie Izvoru” și a cheltuielilor legate de proiect",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.322-din-14.12.2022-si-anexe.pdf",
+     "sha256": "aa782ac33590b8c507fc23409f9d1743427d200beeed36b9ae3fb9a207b8a4b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-323-2022",
+   "path": "local/judet/giurgiu/2022/323",
+   "short": "HCJ Giurgiu nr. 323/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 323/2022 privind repartizarea pe unități administrativ-teritoriale a impozitului pe venit încasat suplimentar corespunzător cotei de 6%, pe anul 2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.323-din-14.12.2022-si-anexa.pdf",
+     "sha256": "5bfef696c729be33e24b7be19a3e4ab1691d19efc74c45df43956aee2e12965e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-giurgiu-324-2022",
    "path": "local/judet/giurgiu/2022/324",
    "short": "HCJ Giurgiu nr. 324/2022",
@@ -164,6 +2999,36 @@
      "units": 1,
      "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.324-din-21.12.2022.pdf",
      "sha256": "6a725f150e16f302605e29dd056f9bd4eca50db5556257668914ddbd3a08d3f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-325-2022",
+   "path": "local/judet/giurgiu/2022/325",
+   "short": "HCJ Giurgiu nr. 325/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 325/2022 privind aprobarea prețurilor medii la produsele agricole pentru anul 2023 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.22686 din 22 noiembrie 2022 al președintelui; - raportul de specialitate nr.22693 din 22 noiembrie 2022 al Direcției Patrimoniu, coordonare servicii publice de interes județean și administrativ; - adresa nr.7793 din 14 noiem",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.325-din-21.12.2022.pdf",
+     "sha256": "fab59820ea87337d6ff38efd4225b5e95c1dc0e8f6d12244a4a2812f7607fa7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-326-2022",
+   "path": "local/judet/giurgiu/2022/326",
+   "short": "HCJ Giurgiu nr. 326/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 326/2022 privind aprobarea prețului mediu la masă verde pajiști naturale pentru recolta anului 2023 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.22687 din 22 noiembrie 2022 al președintelui; - raportul de specialitate nr.22694 din 22 noiembrie 2022 al Direcției Patrimoniu, coordonare servicii publice de interes județean și administrativ; - adresa nr",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.326-din-21.12.2022.pdf",
+     "sha256": "adf4d8e3083a07561a0d04a10c49efec006945336a5f508c61bd78a066405644"
     }
    ]
   },
@@ -183,6 +3048,126 @@
    ]
   },
   {
+   "slug": "hcj-giurgiu-331-2022",
+   "path": "local/judet/giurgiu/2022/331",
+   "short": "HCJ Giurgiu nr. 331/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 331/2022 privind aprobarea închirierii prin licitație publică a Lotului 22 în suprafață de 125.64 mp, cu destinația de cabinet medical aflat la parterul imobilului Dispensarul Policlinic Giurgiu, situat în municipiul Giurgiu, Șos. Alexandriei, nr.7-9, aflat în domeniul privat al județului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.331-din-21.12.2022-si-anexe.pdf",
+     "sha256": "b617e84e27f90ee9b3a49ae10a6612292f52aaf9c4b01d7d03d4f8b4bc090401"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-332-2022",
+   "path": "local/judet/giurgiu/2022/332",
+   "short": "HCJ Giurgiu nr. 332/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 332/2022 privind acordarea unui mandat special reprezentantului Județului Giurgiu în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară „SĂNĂTATE ASIGURATĂ PRIN APĂ CURATĂ” CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.23908 din 12 decembrie 2022 al președintelui; - raportul de specialitate nr.23914 din 12 decembrie 2022 al Compa",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.332-din-21.12.2022.pdf",
+     "sha256": "f239af74debeba8e0885e75e6baba26b3b0ccb187b5851c55ee0fb4b735816a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-333-2022",
+   "path": "local/judet/giurgiu/2022/333",
+   "short": "HCJ Giurgiu nr. 333/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 333/2022 privind aprobarea contului de execuție al bugetului de venituri și cheltuieli al județului Giurgiu, bugetului creditelor interne și al bugetului fondurilor externe nerambursabile pe trimestrul IV parțial, 2022 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară Având în vedere: - referatul de aprobare nr.24412 din 15 decembrie 2022 al președintelui; - raportul de specialitate nr.24419 din 15",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.333-din-21.12.2022.pdf",
+     "sha256": "316b5c4faa4fe2dac4a22330b1bee4d213cea20e5b7c535b5ffa542e01d67425"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-334-2022",
+   "path": "local/judet/giurgiu/2022/334",
+   "short": "HCJ Giurgiu nr. 334/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 334/2022 pentru modificarea anexei la Hotărârea Consiliului Județean Giurgiu nr.180 din 23.08.2022 privind serviciul social „Rețeaua Persoanelor/Familiilor de plasament și Asistenților Maternali Profesioniști (PFAMP)“ CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.24301/14.12.2022 al președintelui; - raportul de specialitate nr.24307/14.12.2022 al Dire",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.334-din-21.12.2022.pdf",
+     "sha256": "031ed71d0c079d9ad5112dc1149cea90c78f088a3d6316d903179bf2144674b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-335-2022",
+   "path": "local/judet/giurgiu/2022/335",
+   "short": "HCJ Giurgiu nr. 335/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 335/2022 privind încheierea unui contract de comodat între Județul Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.335-din-21.12.2022.pdf",
+     "sha256": "21330e633783e94ee08f4f61cfb32e7625b8cc670f46fd2a4cd6dc09575280be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-336-2022",
+   "path": "local/judet/giurgiu/2022/336",
+   "short": "HCJ Giurgiu nr. 336/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 336/2022 privind aprobarea documentației tehnico – economice pentru obiectivul de investiții „Valorificarea turistică durabilă a Monumentului istoric Schitul Strâmbu-Găiseni” în faza Studiu de fezabilitate",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.336-din-21.12.2022-si-anexe.pdf",
+     "sha256": "404593edc53b44abbf2da4ed2617c37f203267495c102148684587a2ec65da16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-338-2022",
+   "path": "local/judet/giurgiu/2022/338",
+   "short": "HCJ Giurgiu nr. 338/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 338/2022 privind aprobarea actualizării Devizului general, a principalilor indicatori tehnico-economici, precum și a cheltuielilor de cofinanțare de la bugetul local, pentru obiectivul de investiții „Centru de zi pentru persoane vârstnice Băneasa, județul Giurgiu”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.338-din-21.12.2022-si-anexe.pdf",
+     "sha256": "712b56b41fe77bec48d4592bf2fe1e5c1d4784af8774d382dc8f167ce8985d91"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-339-2022",
+   "path": "local/judet/giurgiu/2022/339",
+   "short": "HCJ Giurgiu nr. 339/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 339/2022 privind acordarea unor sprijine financiare CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere - referatul de aprobare nr.24655 din 20 decembrie 2022 al președintelui; - raportul de specialitate nr.24661 din 20 decembrie 2022 al Serviciului Buget-finanțe și contabilitate; - avizul nr.206/21.12.2022 al Comisiei buget, finanțe, economie, fonduri europene și mediu de afaceri;",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.339-din-21.12.2022.pdf",
+     "sha256": "3da5a77271d9305226baf4386c0a789cc8c7c27e2f01b1475541bb8abebea5fc"
+    }
+   ]
+  },
+  {
    "slug": "hcj-giurgiu-341-2022",
    "path": "local/judet/giurgiu/2022/341",
    "short": "HCJ Giurgiu nr. 341/2022",
@@ -194,6 +3179,426 @@
      "units": 1,
      "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.341-din-29.12.2022.pdf",
      "sha256": "356a291743544dd37bf67deebc0763e657e92c749369fde42905b364cde501bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-342-2022",
+   "path": "local/judet/giurgiu/2022/342",
+   "short": "HCJ Giurgiu nr. 342/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 342/2022 privind repartizarea pe unități administrativ-teritoriale a sumei corespunzătoare cotei de 6% din impozitul pe venit estimat a se încasa la bugetul de stat pe anul 2023, reprezentând fond la dispoziția Consiliului Județean Giurgiu, precum și aprobarea repartizării pe unități administrativ-teritoriale a sumelor defalcate din taxa pe valoarea adăugată și din cotele din impozitul pe venit pentru echi",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.342-din-29.12.2022.pdf",
+     "sha256": "dc3955178b7fca99338ea06124d8c5ab7d39abcf6861cb438dc6f3735503d3f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-35-2022",
+   "path": "local/judet/giurgiu/2022/35",
+   "short": "HCJ Giurgiu nr. 35/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 35/2022 privind aprobarea proiectului „REINTEGRAT - Program pilot pentru reintegrarea și menținerea în educație a copiilor cu părinți plecați în străinătate ”, cod SMIS 139690 și a cheltuielilor legate de proiect CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.3486 din 21 februarie 2022 al președintelui; - raportul de specialitate nr.3496 din 21 februa",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.35-din-07.03.2022.pdf",
+     "sha256": "1069c0673ca7b3d3a50b04ff0dec66f7e53caaa09910aea937df6f4222e55de2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-36-2022",
+   "path": "local/judet/giurgiu/2022/36",
+   "short": "HCJ Giurgiu nr. 36/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 36/2022 privind aprobarea proiectului „VIITOR - Niciun copil rămas în urmă”, cod SMIS 139689 și a cheltuielilor legate de proiect CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.3487 din 21 februarie 2022 al președintelui; - raportul de specialitate nr.3497 din 21 februarie 2022 al Compartimentului Control intern și managementul calității; - adresa nr",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.36-din-07.03.2022.pdf",
+     "sha256": "93f1b3c0e58b6a6b708162a9d1e02e179be3aa3788bf3d2293507bd98af1760e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-37-2022",
+   "path": "local/judet/giurgiu/2022/37",
+   "short": "HCJ Giurgiu nr. 37/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 37/2022 privind încheierea unui parteneriat în cadrul proiectului Partnerships for Overcoming the Disasters for a safe region (Parteneriate pentru prevenirea dezastrelor pentru o regiune sigură), acronim POD, e-MS code ROBG-427 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.3467 din 21 februarie 2022 al președintelui; - raportul de specialitate nr.347",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.37-din-07.03.2022.pdf",
+     "sha256": "ab21056509dad0cbd16a2aa6724d23056d9d8001621b4b8687b4584de093d21b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-39-2022",
+   "path": "local/judet/giurgiu/2022/39",
+   "short": "HCJ Giurgiu nr. 39/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 39/2022 privind aprobarea unei contribuții pentru Asociația de Dezvoltare Intercomunitară „Iluminat Public Eficient” CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.3492 din 21 februarie 2022 al președintelui; - raportul de specialitate nr.3502 din 21 februarie 2022 al Serviciului Buget-finanțe și contabilitate; - avizul nr.33/28.02.2022 al Comisiei bu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.39-din-07.03.2022.pdf",
+     "sha256": "f0bf6bc80ca674b6c3e557acd9b7f6b71287a0cc7db5a9e5956a6827797b67dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-4-2022",
+   "path": "local/judet/giurgiu/2022/4",
+   "short": "HCJ Giurgiu nr. 4/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 4/2022 pentru modificarea anexei la Hotărârea Consiliului Județean Giurgiu nr.319 din 15 decembrie 2021 privind aprobarea exploatării și repartizării masei lemnoase obținută din tăierea arborilor limitrofi drumului județean DJ 601 –zona Crevedia Mare –Roata de Jos CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.617 din 11 ianuarie 2022 al președintelu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.4-din-31.01.2022.pdf",
+     "sha256": "50215ca37d887c57c6aa628a3a18c52518f7c5e9ef7ae334788213164f2e2348"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-40-2022",
+   "path": "local/judet/giurgiu/2022/40",
+   "short": "HCJ Giurgiu nr. 40/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 40/2022 privind încheierea unui Acord de implementare între Ministerul Dezvoltării, Lucrărilor Publice și Administrației, în calitate de Autoritate de Implementare pentru Fondul de Solidaritate al Uniunii Europene și Județul Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.40-din-07.03.2022.pdf",
+     "sha256": "15d4b329f86f571589d79e3110687ec4a8267ee37f3f3e88b334333aa8cbc568"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-41-2022",
+   "path": "local/judet/giurgiu/2022/41",
+   "short": "HCJ Giurgiu nr. 41/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 41/2022 privind aprobarea exploatării și repartizării masei lemnoase obținute din tăierea arborilor limitrofi drumurilor județene DJ 601A – zona Cosoba –Limită județ Dâmbovița, DJ 401- zona Hotarele - Valea Dragului și DJ 503 – Zona Toporu - Limită jud",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.41-din-07.03.2022.pdf",
+     "sha256": "92aac95cd12a5f1a05e6beba644307820cdba1972f52f8790320be7a18674d37"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-42-2022",
+   "path": "local/judet/giurgiu/2022/42",
+   "short": "HCJ Giurgiu nr. 42/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 42/2022 privind reorganizarea Direcției Județene de Transport, Administrarea Drumurilor Județene și Control Trafic Giurgiu, aprobarea regulamentului de organizare și funcționare, organigramei și statului de funcții întrunit în ședință ordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.42-din-07.03.2002-cu-anexe.pdf",
+     "sha256": "a5688be8604374d9d9485f46ad65a2590476ed67af2176128927687be7f1e7ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-44-2022",
+   "path": "local/judet/giurgiu/2022/44",
+   "short": "HCJ Giurgiu nr. 44/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 44/2022 privind acordarea unor sprijine financiare CONSILIUL JUDEȚEAN GIURGIU întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.3187 din 16 februarie 2022 al președintelui; - raportul de specialitate nr.3194 din 16 februarie 2022 al Serviciului Buget-finanțe și contabilitate; - avizul nr.25/28.02.2022 al Comisiei buget, finanțe, economie, fonduri europene și mediu de afaceri; - avi",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.44-din-07.03.2022.pdf",
+     "sha256": "8d6388e9a48b46526ba9eae79246fbe51f9c853c726f6babc1492834911098b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-5-2022",
+   "path": "local/judet/giurgiu/2022/5",
+   "short": "HCJ Giurgiu nr. 5/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 5/2022 privind încheierea unui contract de comodat între Județul Giurgiu, prin",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.5-din-31.01.2022.pdf",
+     "sha256": "2fbb6db7e8741352d1c5c13afbaec5e3857ef4fc5a5f08c00bdc0fb1512c9b47"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-51-2022",
+   "path": "local/judet/giurgiu/2022/51",
+   "short": "HCJ Giurgiu nr. 51/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 51/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.51-din-07.03.2022.pdf",
+     "sha256": "7272db632ebbbca505fe108069e7f61bc77a13ad4875c134f0b6eb59125694de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-52-2022",
+   "path": "local/judet/giurgiu/2022/52",
+   "short": "HCJ Giurgiu nr. 52/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 52/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.52-din-07.03.2022.pdf",
+     "sha256": "84fc7e1f34c12aedd3a9575ea97c601f998b3549d94e247acec6cc37f4df7d67"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-53-2022",
+   "path": "local/judet/giurgiu/2022/53",
+   "short": "HCJ Giurgiu nr. 53/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 53/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.53-din-07.03.2022.pdf",
+     "sha256": "f648ba34d17e1eba1e533ec8bb7274d5cda0cf8dd4ff42afd6b504ee2970af3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-54-2022",
+   "path": "local/judet/giurgiu/2022/54",
+   "short": "HCJ Giurgiu nr. 54/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 54/2022 privind aprobarea Regulamentului de organizare și funcționare al Serviciului Social de zi „Centrul de consiliere pentru agresori” cod serviciu social 8899 CZ-VD-III din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu întrunit în ședință ordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.54-din-07.03.2022-cu-anexe.pdf",
+     "sha256": "1989b0f2bf72ca9e2931f0603a0b6b86aaafa2c50a1763b130566d9d8f0140a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-55-2022",
+   "path": "local/judet/giurgiu/2022/55",
+   "short": "HCJ Giurgiu nr. 55/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 55/2022 privind aprobarea Regulamentului de organizare și funcționare al Serviciului Social „Locuință protejată pentru persoanele victime ale violenței domestice – VENUS” cod serviciu social 8790 CR-VD-III din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu întrunit în ședință ordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.55-din-07.03.2022-cu-anexe.pdf",
+     "sha256": "9dd69778a7eb1d0a8a37ebfb70ec924fa941cede17a6d038ec7c9c91e819e74b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-56-2022",
+   "path": "local/judet/giurgiu/2022/56",
+   "short": "HCJ Giurgiu nr. 56/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 56/2022 privind desemnarea reprezentantului Consiliului Județean Giurgiu în Comisia de evaluare a probei de interviu în cadrul concursurilor de ocupare a funcțiilor de director și director adjunct la instituțiile de învățământ din subordinea Consiliului Județean Giurgiu CONSILIUL JUDEȚEAN GIURGIU întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.3101 din 15 februarie 2022 al președ",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-03-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.56-din-07.03.2022.pdf",
+     "sha256": "2bf4371116d11aee3842821615ecdb49af1821e9c068ad3eabe7efcb22685305"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-57-2022",
+   "path": "local/judet/giurgiu/2022/57",
+   "short": "HCJ Giurgiu nr. 57/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 57/2022 pentru aprobarea modificării art.1 al Hotărârii Consiliului Județean nr.117 din 05 octombrie 2018 privind aprobarea înființării Echipei Intersectoriale Locale (E.I.L.) în domeniul prevenirii și combaterii exploatării copilului prin muncă, violenței asupra copilului și a violenței în familie CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.5349 d",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.57-din-07.04.2022.pdf",
+     "sha256": "99b636e1a47dbd99d30fc155a0c81fe7dbbb6b1671fcaf2995f38ab1ba833b6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-58-2022",
+   "path": "local/judet/giurgiu/2022/58",
+   "short": "HCJ Giurgiu nr. 58/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 58/2022 privind aprobarea Protocolului de colaborare încheiat între Consiliul Județean Giurgiu și Inspectoratul de Jandarmi Județean Giurgiu pentru îndeplinirea în comun a unor misiuni/activități și atribuții din zona de responsabilitate și a resurselor financiare necesare punerii în aplicare",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.58-din-07.04.2022-cu-anexe.pdf",
+     "sha256": "5b88cd23035ce5ea517d39c120f94c9d0109dd5c82f2f1a303cc5bc77396fa4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-59-2022",
+   "path": "local/judet/giurgiu/2022/59",
+   "short": "HCJ Giurgiu nr. 59/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 59/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.59-din-07.04.2022-cu-anexe.pdf",
+     "sha256": "bbd3ec58aafeb0628eba01b7bf06fb2496130af2010b0b0507fb2824ef910897"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-6-2022",
+   "path": "local/judet/giurgiu/2022/6",
+   "short": "HCJ Giurgiu nr. 6/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 6/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.6-din-31.01.2022.pdf",
+     "sha256": "1d22138ea644caed1b081e1f0adb8ffd5aee91f16d23accffc5a2e595adc2f8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-60-2022",
+   "path": "local/judet/giurgiu/2022/60",
+   "short": "HCJ Giurgiu nr. 60/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 60/2022 privind aprobarea modificării organigramei și statului de funcții ale Spitalului de Pneumoftiziologie Izvoru",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.60-din-07.04.2022-cu-anexe.pdf",
+     "sha256": "96b4758c251aa47452f7563ac1bfcf64c7e5386ae747f3cf9177378001e26c91"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-61-2022",
+   "path": "local/judet/giurgiu/2022/61",
+   "short": "HCJ Giurgiu nr. 61/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 61/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.61-din-07.04.2022-cu-anexa.pdf",
+     "sha256": "dc0305e7d38f01028e4593f9b075f0b9027be70a8a469c0ad105bcfdb6fef460"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-62-2022",
+   "path": "local/judet/giurgiu/2022/62",
+   "short": "HCJ Giurgiu nr. 62/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 62/2022 privind acordarea unor sprijine financiare",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.62-din-07.04.2022.pdf",
+     "sha256": "90f2cada8a94fedf5f43883eecc636c5ea346d7c6d2794efa8768827d02907c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-63-2022",
+   "path": "local/judet/giurgiu/2022/63",
+   "short": "HCJ Giurgiu nr. 63/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 63/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.63-din-07.04.2022.pdf",
+     "sha256": "594e792e7da43ea58924613c349c77f77ee65c1789ddbd46b59bade1e616d28b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-65-2022",
+   "path": "local/judet/giurgiu/2022/65",
+   "short": "HCJ Giurgiu nr. 65/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 65/2022 privind transformarea unei funcții publice vacante din cadrul aparatului de specialitate al Consiliului Județean Giurgiu CONSILIUL JUDEȚEAN GIURGIU întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr. 6257 din 28 martie 2022 al președintelui; - raportul de specialitate nr. 6263 din 28 martie 2022 al Compartimentului Resurse umane, salarizare și coordonarea activității institu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.65-din-07.04.2022.pdf",
+     "sha256": "990acdf08ed2dc784423ec53eff716065069268d1a7c63ce97f323bb5d2985c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-67-2022",
+   "path": "local/judet/giurgiu/2022/67",
+   "short": "HCJ Giurgiu nr. 67/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 67/2022 privind aprobarea modificării organigramei și statului de funcții ale Spitalului Județean de Urgență Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.67-din-07.04.2022-cu-anexe.pdf",
+     "sha256": "71218612095d77dfe684c29dbb96fcfab26ab767436d2005caa2c96551a164d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-68-2022",
+   "path": "local/judet/giurgiu/2022/68",
+   "short": "HCJ Giurgiu nr. 68/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 68/2022 privind trecerea în domeniul public al Județului Giurgiu și în administrarea Consiliului Județean Giurgiu a unui imobil-teren în suprafață de 3.116,00 mp, adiacent sediu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.68-din-07.04.2022.pdf",
+     "sha256": "f4edda70fabcb6463aed71a3c3c622591857b11979538bb68acaf7a5c46776b9"
     }
    ]
   },
@@ -224,6 +3629,366 @@
      "units": 1,
      "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.7-din-31.01.2022.pdf",
      "sha256": "73b348d705f9f52ba67b2d563dde1c70f67078ddf1a049873cffd40b71179dee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-71-2022",
+   "path": "local/judet/giurgiu/2022/71",
+   "short": "HCJ Giurgiu nr. 71/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 71/2022 privind completarea Comisiei pentru investiții, patrimoniu, urbanism și infrastructură a Consiliului Județean Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.6574 din 31 martie 2022 al președintelui; - raportul de specialitate nr.6580 din 31 martie 2022 al Serviciului Juridic-contencios și contracte; - avizul nr.43/04.04.2022 al Comisie",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.71-din-07.04.2022.pdf",
+     "sha256": "b13acf199a2b95636f929e1b9723b433f2554630b0793ba2fd9d4a67661cda67"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-72-2022",
+   "path": "local/judet/giurgiu/2022/72",
+   "short": "HCJ Giurgiu nr. 72/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 72/2022 privind aprobarea proiectului “Reabilitare și îmbunătățirea eficientei energetice la Școala specială Giurgiu”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.72-din-07.04.2022-cu-anexa.pdf",
+     "sha256": "72d6020f42a11f374f5ecb1eba7fcb5d9ce2ec4f53be5a387e0451aecca824b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-74-2022",
+   "path": "local/judet/giurgiu/2022/74",
+   "short": "HCJ Giurgiu nr. 74/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 74/2022 privind aprobarea contului de execuție al bugetului propriu de venituri și cheltuieli al Județului Giurgiu pe trimestrul I 2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotarareanr.74-din-29.04.2022-cu-anexe.pdf",
+     "sha256": "edf0124814ff4f60ebe935d376740783c0843aa7a875aaa6f998efd28ee80a9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-75-2022",
+   "path": "local/judet/giurgiu/2022/75",
+   "short": "HCJ Giurgiu nr. 75/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 75/2022 privind încetarea, prin acordul părților, a Contractului de finanțare nr.7112 din 14.09.2021 încheiat între Ministerul Dezvoltării, Lucrărilor Publice și Administrației, Agenția pentru Dezvoltare Regională Sud Muntenia și UAT Județul Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.8435 din 27 aprilie 2022 al președintelui; - raportu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.75-din-11.05.2022.pdf",
+     "sha256": "fadfb1d2205ae0c9064860065367dc5212a3b4cfecd7356a83ec84ae15614471"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-76-2022",
+   "path": "local/judet/giurgiu/2022/76",
+   "short": "HCJ Giurgiu nr. 76/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 76/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.76-din-11.05.2022.pdf",
+     "sha256": "3ca6ef7b12994917d08be4ec62824dd64725b0fbbb50042ac50f7d44322c2fa0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-78-2022",
+   "path": "local/judet/giurgiu/2022/78",
+   "short": "HCJ Giurgiu nr. 78/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 78/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.78-din-11.05.2022-cu-anexe.pdf",
+     "sha256": "9a450574b354bd825cb2c6b98fb97465c648fe86b43ef0a70d290a6660728922"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-79-2022",
+   "path": "local/judet/giurgiu/2022/79",
+   "short": "HCJ Giurgiu nr. 79/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 79/2022 privind aprobarea depunerii proiectului „Eficiență energetică și reziliență în clădiri publice: CENTRUL DE RECUPERARE ȘI RESPIRO”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.79-din-11.05.2022-cu-anexa.pdf",
+     "sha256": "d24f76ebc29306f5af6bdab8fc6a77cd034ded46c7328f8d342a88a3b2633caa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-8-2022",
+   "path": "local/judet/giurgiu/2022/8",
+   "short": "HCJ Giurgiu nr. 8/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 8/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.8-din-31.01.2022.pdf",
+     "sha256": "ae84b5d45750623c4ea69e9f0d25323bf0df924d7977b911ab724b13d408101b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-80-2022",
+   "path": "local/judet/giurgiu/2022/80",
+   "short": "HCJ Giurgiu nr. 80/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 80/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.80-din-11.05.2022-cu-anexa.pdf",
+     "sha256": "eb07b9f3ecd98e0bcc56bdbff1043835b20894eec703879c9a2b7eb5eb80fad2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-81-2022",
+   "path": "local/judet/giurgiu/2022/81",
+   "short": "HCJ Giurgiu nr. 81/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 81/2022 privind aprobarea depunerii proiectului „Eficiență energetică și reziliență în clădiri publice: CASA DE TIP FAMILIAL CASA NOASTRĂ”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.81-din-11.05.2022-cu-anexa.pdf",
+     "sha256": "888a0d72cc8f1f05345ff37df5f592fcf1e5fd9d95aeb5f9c03f3a9f2c10bb3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-82-2022",
+   "path": "local/judet/giurgiu/2022/82",
+   "short": "HCJ Giurgiu nr. 82/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 82/2022 privind aprobarea depunerii proiectului „Eficiență energetică și reziliență în clădiri publice: CASA DE TIP FAMILIAL DUNĂRII”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.82-din-11.05.2022-cu-anexa.pdf",
+     "sha256": "7c17ce0a6ea9a2cd06ebe14e881250991ba37506bf055e761021c41001b1d91a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-83-2022",
+   "path": "local/judet/giurgiu/2022/83",
+   "short": "HCJ Giurgiu nr. 83/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 83/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.83-din-11.05.2022-cu-anexa.pdf",
+     "sha256": "1f713921aaf656dd33a859857c5bbed3919275ef1b5e3b35066aa6951fe8b901"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-84-2022",
+   "path": "local/judet/giurgiu/2022/84",
+   "short": "HCJ Giurgiu nr. 84/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 84/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.84-din-11.05.2022-cu-anexa.pdf",
+     "sha256": "a7cec5ff0c4794440898ae6ade4f5916a9ecd58b64a0aadd02e5f0439c580ae0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-85-2022",
+   "path": "local/judet/giurgiu/2022/85",
+   "short": "HCJ Giurgiu nr. 85/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 85/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.85-din-11.05.2022-cu-anexa.pdf",
+     "sha256": "a298b8315ddb851d11dd0dc5c7e68d111bbd97069521a05282e6434593aab962"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-86-2022",
+   "path": "local/judet/giurgiu/2022/86",
+   "short": "HCJ Giurgiu nr. 86/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 86/2022 privind aprobarea depunerii proiectului „Eficiență energetică și reziliență în clădiri publice: CASA DE TIP FAMILIAL SOARELE”",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.86-din-11.05.2022-cu-anexa.pdf",
+     "sha256": "a0765bb14583e3f596272df9f291b8091a5a9c351e923ca8a71ae640b90ee43a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-87-2022",
+   "path": "local/judet/giurgiu/2022/87",
+   "short": "HCJ Giurgiu nr. 87/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 87/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.87-din-11.05.2022-cu-anexa.pdf",
+     "sha256": "095db43c280e73d09df8156816a71d22e933ced7b3dc4eeaf8e01471b046f370"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-88-2022",
+   "path": "local/judet/giurgiu/2022/88",
+   "short": "HCJ Giurgiu nr. 88/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 88/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.88-din-11.05.2022-cu-anexa.pdf",
+     "sha256": "848064e76830485a6f308ca819616c28193169e3b0d26cfe0844d87a609142f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-89-2022",
+   "path": "local/judet/giurgiu/2022/89",
+   "short": "HCJ Giurgiu nr. 89/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 89/2022 pentru completarea Hotărârii Consiliului Județean Giurgiu nr.222 din 24 septembrie 2021 privind trecerea în domeniul public al Județului Giurgiu și în administrarea Consiliului Județean Giurgiu a unui sector din DJ 412 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară, Având în vedere: - referatul de aprobare nr.9122 din 06 mai 2022 al președintelui; - raportul de specialitate nr.9128",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.89-din-11.05.2022.pdf",
+     "sha256": "cd63f76e75871c78d39d287b4d1c19787e1197560042e5ae10d45a65513eab65"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-90-2022",
+   "path": "local/judet/giurgiu/2022/90",
+   "short": "HCJ Giurgiu nr. 90/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 90/2022",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.90-din-23.05.2022.pdf",
+     "sha256": "a5ed55bbeeab47ce88c87fa9eaae6290b2b70ed428fcb9a412a6904f9cdd1da5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-94-2022",
+   "path": "local/judet/giurgiu/2022/94",
+   "short": "HCJ Giurgiu nr. 94/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 94/2022 privind aprobarea documentației tehnico-economice la faza Documentație de avizare a lucrărilor de intervenții, a principalilor indicatori tehnico – economici și a devizului general pentru obiectivul de investiții ,,Modernizare DJ 401B, Herăști-DN4, km 0 + 000 - Km 4 + 431” întrunit în ședință ordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.94-din-23.05.2022-si-anexe.pdf",
+     "sha256": "ac90532996bc3d76ee482392cb0556a333da85d355669f11db841704c21a1df0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-95-2022",
+   "path": "local/judet/giurgiu/2022/95",
+   "short": "HCJ Giurgiu nr. 95/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 95/2022 privind aprobarea documentației tehnico-economice la faza Proiect tehnic de execuție rest de executat, precum și a devizului general la faza Proiect tehnic de execuție rest de executat, pentru obiectivul de investiții „Reabilitare DJ601 Bolintin Deal – Bolintin Vale – Malu Spart, km 9+500 – 12+500, km 13+000 – 21+000, 11,000 km” întrunit în ședință ordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.95-din-23.05.2022-si-anexe.pdf",
+     "sha256": "8250179807bb8fa027f2b82075b747af44e39183356e5ce7856094ba9925cdce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-97-2022",
+   "path": "local/judet/giurgiu/2022/97",
+   "short": "HCJ Giurgiu nr. 97/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 97/2022 privind aprobarea documentației tehnico-economice la faza Documentație de avizare a lucrărilor de intervenții, a principalilor indicatori tehnico – economici și a devizului general pentru obiectivul de investiții „Modernizare DJ 504 Giurgiu-Vieru-Putineiu-Gogoșari-limită județ Teleorman – sector 1 Km întrunit în ședință ordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.97-din-23.05.2022-si-anexe.pdf",
+     "sha256": "d2c9d79ee2525b9e948fc15633b7482b9d66c376527a94b369f4843c02057da8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-98-2022",
+   "path": "local/judet/giurgiu/2022/98",
+   "short": "HCJ Giurgiu nr. 98/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 98/2022 privind aprobarea documentației tehnico-economice la faza Documentație de avizare a lucrărilor de intervenții, a principalilor indicatori tehnico – economici și a devizului general pentru obiectivul de investiții „Modernizare DJ 504 Giurgiu-Vieru-Putineiu-Gogoșari-limită județ Teleorman – sector 2 Km 20+200 – 32+152” întrunit în ședință ordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.98-din-23.05.2022-si-anexe.pdf",
+     "sha256": "13bc68bcdf79414c50ab8035b0c653d2f11f510dd0fdccf961218c3aca52a9c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-giurgiu-99-2022",
+   "path": "local/judet/giurgiu/2022/99",
+   "short": "HCJ Giurgiu nr. 99/2022",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 99/2022 privind aprobarea documentației tehnico-economice în faza PT, DE și a devizului general pentru obiectivul de investiții ,,Modernizare DC 121 Slobozia (DN5C) – DJ 504, km 0+000 – 5+000, 5,000 km” -rest de executat întrunit în ședință ordinară,",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2022/",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.99-din-23.05.2022-si-anexe.pdf",
+     "sha256": "599d27d08440e8fcb7643b1bf314ebcec3e8851f1d8e584c2ee3de8154b51221"
     }
    ]
   }

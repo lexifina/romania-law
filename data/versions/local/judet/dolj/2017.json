@@ -1,0 +1,816 @@
+{
+ "country": "RO",
+ "shard": "local/judet/dolj/2017",
+ "acts": [
+  {
+   "slug": "hcj-dolj-10-2017",
+   "path": "local/judet/dolj/2017/10",
+   "short": "HCJ Dolj nr. 10/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 10/2017",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-02-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%2010.pdf",
+     "sha256": "5f0744a81677891f751c5130683eeb84ac9d72749481443b3f17c6d1a34290ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-105-2017",
+   "path": "local/judet/dolj/2017/105",
+   "short": "HCJ Dolj nr. 105/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 105/2017",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20105.pdf",
+     "sha256": "fc4c786117774a35db75b7f7a8efbf41c30fa2100a2956b13ded0d4db3504c0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-11-2017",
+   "path": "local/judet/dolj/2017/11",
+   "short": "HCJ Dolj nr. 11/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 11/2017",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-02-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%2011.pdf",
+     "sha256": "1c74ac4b86209627d9e2c662b7159f4e2d4bac963e19fcf2600d3a3e11fcd049"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-12-2017",
+   "path": "local/judet/dolj/2017/12",
+   "short": "HCJ Dolj nr. 12/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 12/2017",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-02-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%2012.pdf",
+     "sha256": "f22e3cc9fbe5fe79de58365fe7aa0d467aa3532a8bdf28691efb04cee911f731"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-126-2017",
+   "path": "local/judet/dolj/2017/126",
+   "short": "HCJ Dolj nr. 126/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 126/2017 pentru a vota în adunarea generală ordinară a acţionarilor din data de 29.05.2017: -aprobarea bilanţului contabil şi a contului de profit şi pierderi al S.C",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-05-29",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20126.pdf",
+     "sha256": "1caa96cc5d1ddd98d2a1eb430d5c8270f5f8ff33b1074a9d82abfee493ec8686"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-13-2017",
+   "path": "local/judet/dolj/2017/13",
+   "short": "HCJ Dolj nr. 13/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 13/2017 pentru Protecţia Naturii, Turism şi Dezvoltare Rurală Durabilă",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-02-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%2013.pdf",
+     "sha256": "a144983eb26f7e6e1c09caab4e4e07dfc053f4e7a61bcce59b1ea5ba4381a36d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-14-2017",
+   "path": "local/judet/dolj/2017/14",
+   "short": "HCJ Dolj nr. 14/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 14/2017",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-02-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%2014.pdf",
+     "sha256": "a8acd0e4ab518e39492dd4569bdd6456f5c0e4a6f27f969c01f0c543460f3453"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-145-2017",
+   "path": "local/judet/dolj/2017/145",
+   "short": "HCJ Dolj nr. 145/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 145/2017",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20145.pdf",
+     "sha256": "f888cc8fcf846d5ec8e8b9f82725c90519626d80d9b97dda8bc4259b13baef0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-15-2017",
+   "path": "local/judet/dolj/2017/15",
+   "short": "HCJ Dolj nr. 15/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 15/2017 pentru judeţul Dolj, următoarele: a)Prelungirea contractului de administrare – mandat încheiat de societate cu",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%2015.pdf",
+     "sha256": "7458557f6ed078c1f7d394c5d769eace06b2459f1c1f05f437f6b715af6d5ca7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-158-2017",
+   "path": "local/judet/dolj/2017/158",
+   "short": "HCJ Dolj nr. 158/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 158/2017 pentru a vota în adunarea generală ordinară a acționarilor din data de 04.08.2017:",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-08-04",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20158.pdf",
+     "sha256": "4760d06a70198e8c10faef47297d69f7979ce61fcbdd1e07007aab5c3c102926"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-16-2017",
+   "path": "local/judet/dolj/2017/16",
+   "short": "HCJ Dolj nr. 16/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 16/2017",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-01-31",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%2016.pdf",
+     "sha256": "f6be3623f24a9116afb738d3fa830a42cc8d05cbfb966973752b3062c0be0299"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-175-2017",
+   "path": "local/judet/dolj/2017/175",
+   "short": "HCJ Dolj nr. 175/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 175/2017 pentru aparatul de specialitate al Consiliului Județean Dolj, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20175.pdf",
+     "sha256": "66932dc5dc4e9dff8130d3276ebf709cf5ad007f30dc0bccb5e44e3e5ba0ead9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-176-2017",
+   "path": "local/judet/dolj/2017/176",
+   "short": "HCJ Dolj nr. 176/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 176/2017 pentru Direcția Generală de Asistență Socială și protecția Copilului Dolj, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20176.pdf",
+     "sha256": "71e12f726b157e1c88acd87d5350112e52034fbbc1fdd1a82d80e0c25cd348b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-177-2017",
+   "path": "local/judet/dolj/2017/177",
+   "short": "HCJ Dolj nr. 177/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 177/2017 pentru Direcția Publică Comunitară de Evidență a Persoanelor Dolj, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20177.pdf",
+     "sha256": "28f4fde33556d690c6c5dc61d091af806d37b4c257eb7256ecbf3ac4b927195c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-178-2017",
+   "path": "local/judet/dolj/2017/178",
+   "short": "HCJ Dolj nr. 178/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 178/2017 pentru Direcția Județeană de Pază și Servicii Dolj, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20178.pdf",
+     "sha256": "d045fb67892d669b926c224b0ad1cdf71f8798a661a0cf9ce970780f5661fbe7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-179-2017",
+   "path": "local/judet/dolj/2017/179",
+   "short": "HCJ Dolj nr. 179/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 179/2017 pentru Clubul Sportiv Județean Știința ”U” Craiova, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20179.pdf",
+     "sha256": "f46d08984e8a4e5f5742fcaa83577eee9d470f6b0ffd70b3af23840fdd226e3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-180-2017",
+   "path": "local/judet/dolj/2017/180",
+   "short": "HCJ Dolj nr. 180/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 180/2017 pentru Centrul Județean pentru Protecția Naturii, Turism și Dezvoltare Rurală Durabilă Dolj, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20180.pdf",
+     "sha256": "92dc9390b7f995cb0bb01f6542f5c9e1da97edba2ddbb3c4e0dc611d9f4096c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-182-2017",
+   "path": "local/judet/dolj/2017/182",
+   "short": "HCJ Dolj nr. 182/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 182/2017 pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Consiliului Județean Dolj, potrivit anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20182.pdf",
+     "sha256": "db09eef7704cd14603b70ba27c3afed98bfcc3dfa9d230b06dd314b6a36b0e2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-183-2017",
+   "path": "local/judet/dolj/2017/183",
+   "short": "HCJ Dolj nr. 183/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 183/2017 pentru funcționarii publici și personalul contractual care fac parte din cadrul familiei ocupaționale ”Administrație”, din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Dolj, potrivit anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20183.pdf",
+     "sha256": "4c1b196f145bdce12934da033d1d223fb9c9e979b1252699037af1baffdb386d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-184-2017",
+   "path": "local/judet/dolj/2017/184",
+   "short": "HCJ Dolj nr. 184/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 184/2017 pentru funcționarii publici și personalul contractual din cadrul Direcției Publice Comunitare de Evidență a Persoanelor Dolj, potrivit anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20184.pdf",
+     "sha256": "06e0786ba672f43843728722d65c29289a3e3b77ee0292074b644dd5e31f0ab1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-185-2017",
+   "path": "local/judet/dolj/2017/185",
+   "short": "HCJ Dolj nr. 185/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 185/2017 pentru personalul contractual din cadrul Direcției Județene de Pază și Servicii Dolj, potrivit anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20185.pdf",
+     "sha256": "a00d3950131b3971f265c164b9ce46fe44f593c09f33c44e149baa692c0ef1bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-186-2017",
+   "path": "local/judet/dolj/2017/186",
+   "short": "HCJ Dolj nr. 186/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 186/2017 pentru personalul contractual care face parte din cadrul familiei ocuaționale ”Administrație”, din cadrul Clubului Sportiv Județean Știința ”U” Craiova, potrivit anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20186.pdf",
+     "sha256": "17feeff54220d8f0c23f012dd58764e4cd4f092ce9a85cf1b284d6c18c01c334"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-187-2017",
+   "path": "local/judet/dolj/2017/187",
+   "short": "HCJ Dolj nr. 187/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 187/2017 pentru personalul contractual din cadrul Centrului Județean pentru Protecția Naturii, Turism și Dezvoltare Rurală Durabilă Dolj, potrivit anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20187.pdf",
+     "sha256": "3dad78d2508d55ee2303e73dda5850ed8159da875ff060f96a21c457e59011d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-198-2017",
+   "path": "local/judet/dolj/2017/198",
+   "short": "HCJ Dolj nr. 198/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 198/2017 pentru a vota în adunarea generală ordinară a acționarilor din data de 31.08.2017: 1.numirea a 5 administratori provizorii în Consiliul de Administrație al S.C",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20198.pdf",
+     "sha256": "67af24f129a9f486a8ccb91de10f0c4e33a52f6b3ede3c93c48cc80fc201794e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-200-2017",
+   "path": "local/judet/dolj/2017/200",
+   "short": "HCJ Dolj nr. 200/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 200/2017 pentru Biblioteca Județeană ”Alexandru și Aristia Aman”, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20200.pdf",
+     "sha256": "e00969bcd0a614b96cd0eb0a64d5dcb246223cecab06ec8e33d76153585b80b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-201-2017",
+   "path": "local/judet/dolj/2017/201",
+   "short": "HCJ Dolj nr. 201/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 201/2017 pentru Muzeul Olteniei Craiova, conform anexei nr. 1 la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20201.pdf",
+     "sha256": "073f8a641baf9841e0cc72f5db47ac428076fdde1fa8fe409ac340f6041cef18"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-202-2017",
+   "path": "local/judet/dolj/2017/202",
+   "short": "HCJ Dolj nr. 202/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 202/2017 pentru Muzeul de Artă Craiova, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20202.pdf",
+     "sha256": "cd2e96f80b9e437b44451cbf525953c009d2d2f1d96a28aec1995672a7b7a7ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-203-2017",
+   "path": "local/judet/dolj/2017/203",
+   "short": "HCJ Dolj nr. 203/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 203/2017 pentru Centrul Județean pentru Conservarea și Promovarea Culturii Tradiționale Dolj, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20203.pdf",
+     "sha256": "03c4ed938c656d52b57d10cfa4f728028ad76b589c5008967a489e7e1457baac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-204-2017",
+   "path": "local/judet/dolj/2017/204",
+   "short": "HCJ Dolj nr. 204/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 204/2017 pentru Școala Populară de Arte și Meserii ”Cornetti” Craiova, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20204.pdf",
+     "sha256": "c585d437d5e15e522cd6de3585b80b22c102d5e798c6cbaa5dced3f62d82774d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-205-2017",
+   "path": "local/judet/dolj/2017/205",
+   "short": "HCJ Dolj nr. 205/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 205/2017 pentru Spitalul de Pneumoftiziologie Leamna, conform anexei nr. 1 la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20205.pdf",
+     "sha256": "6aea32c671371d184c6b2499435ea5afc4d3213fd55bb1a50b4f11fb98523ec8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-206-2017",
+   "path": "local/judet/dolj/2017/206",
+   "short": "HCJ Dolj nr. 206/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 206/2017 pentru Spitalul Orășenesc ”Așezămintele Brâncovenești” Dăbuleni, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20206.pdf",
+     "sha256": "2c3339ef52fd75e7369e967c9641338d2a6dfbb95dbf42ab6839516429bbe35e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-207-2017",
+   "path": "local/judet/dolj/2017/207",
+   "short": "HCJ Dolj nr. 207/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 207/2017 pentru Unitatea de Asistență Medico-Socială Plenița, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20207.pdf",
+     "sha256": "c61df7c740980819404a8aed92fd5faabf8333ef27f1eed6fc517da7df448185"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-208-2017",
+   "path": "local/judet/dolj/2017/208",
+   "short": "HCJ Dolj nr. 208/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 208/2017 pentru Unitatea Medico-Socială Melinești, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20208.pdf",
+     "sha256": "a71eafb36ba63d105d9a3ae04413abeabceac33092b8a1c09171f31180279949"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-209-2017",
+   "path": "local/judet/dolj/2017/209",
+   "short": "HCJ Dolj nr. 209/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 209/2017 pentru Unitatea Medico-Socială Bechet, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20209.pdf",
+     "sha256": "6f39b56cc82080eb1b34a4d9268c34cbc79807237be32be4ebbb6a87213440f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-210-2017",
+   "path": "local/judet/dolj/2017/210",
+   "short": "HCJ Dolj nr. 210/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 210/2017 pentru Unitatea Medico-Socială Sadova, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20210.pdf",
+     "sha256": "ebadf85b0f4edbbdabfc06b8bbe53645fd3d95b3e7f16ae49bbec8d631972ad8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-211-2017",
+   "path": "local/judet/dolj/2017/211",
+   "short": "HCJ Dolj nr. 211/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 211/2017 pentru Centrul Medico-Social Amărăștii de Jos, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20211.pdf",
+     "sha256": "dc47ddb8e06d54e962b2699d9bbd9af80477f30976ee5724b499c81737e4be6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-212-2017",
+   "path": "local/judet/dolj/2017/212",
+   "short": "HCJ Dolj nr. 212/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 212/2017 pentru Unitatea Medico-Socială Cetate, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20212.pdf",
+     "sha256": "774fd6cad6cf959d8b259e68dfee8bdc0fb619e70ace2b5f986b9d835885550c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-213-2017",
+   "path": "local/judet/dolj/2017/213",
+   "short": "HCJ Dolj nr. 213/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 213/2017 pentru Centrul Medico-Social Brabova, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20213.pdf",
+     "sha256": "d555d7ba53c5392b71c2269f4c344103069c404df4ad2bf5830d026a7af4d337"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-232-2017",
+   "path": "local/judet/dolj/2017/232",
+   "short": "HCJ Dolj nr. 232/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 232/2017 pentru Protecția Naturii, Turism și Dezvoltare Rurală Durabilă Dolj",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20232.pdf",
+     "sha256": "7c66886f47439f7ebb9983526d13aaa7be18f278a705e754fbc6260707faa8b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-235-2017",
+   "path": "local/judet/dolj/2017/235",
+   "short": "HCJ Dolj nr. 235/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 235/2017 pentru Evidența Persoanelor Dolj a spațiului în suprafață de 45,94 mp, situat în municipiul Craiova, str",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20235.pdf",
+     "sha256": "bf2b328cd9f0cf9c15afcf2fce5b75c786aa150473cdee9f31c3902525fffc05"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-246-2017",
+   "path": "local/judet/dolj/2017/246",
+   "short": "HCJ Dolj nr. 246/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 246/2017 pentru mijloacele auto și utilajele închiriate de S.P.L.D.P",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-11-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20246.pdf",
+     "sha256": "bb25206580a741953cb93b796932172b8d8ace28e6c42814857ddd6bedb38aae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-268-2017",
+   "path": "local/judet/dolj/2017/268",
+   "short": "HCJ Dolj nr. 268/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 268/2017 pentru Unitatea Medico-Socială Cetate, începând cu data de 01.11.2017, conform anexei nr.1 la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-11-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20268.pdf",
+     "sha256": "b119de5d0a9dd9aca5d269b66d8094ba30011d83be4e7236b3f4ef7f2e6906e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-269-2017",
+   "path": "local/judet/dolj/2017/269",
+   "short": "HCJ Dolj nr. 269/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 269/2017 pentru pensionare",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-10-27",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20269.pdf",
+     "sha256": "16de51520ac0c21fdb2abd5ef1ca8cbec3b6695a63a6155c78f226e2a94dd9c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-270-2017",
+   "path": "local/judet/dolj/2017/270",
+   "short": "HCJ Dolj nr. 270/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 270/2017",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-11-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20270.pdf",
+     "sha256": "6fa85f0793cae2a2bd7806028db5252f1a0ddc3d1f06059c084740c08c58362c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-275-2017",
+   "path": "local/judet/dolj/2017/275",
+   "short": "HCJ Dolj nr. 275/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 275/2017 pentru a vota în adunarea generală ordinară a acționarilor din data de 31.10.2017 analiza și aprobarea rectificării bugetului de venituri și cheltuieli al S.C",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20275.pdf",
+     "sha256": "10a1f1675f07ec9e4eed4b2f3078e635473bb501915bc0a2b68ba9b5e8a6ebad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-276-2017",
+   "path": "local/judet/dolj/2017/276",
+   "short": "HCJ Dolj nr. 276/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 276/2017 pentru a vota în adunarea generală extraordinară a acționarilor din data de 03.11.2017 înființarea unui punct de lucru al Companiei de Apă Oltenia SA în comuna Cîrcea și comple",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-11-03",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20276.pdf",
+     "sha256": "9fafa67715faf73a88a01d87108e2e21192473f84c1fc0d16570a0800031149d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-277-2017",
+   "path": "local/judet/dolj/2017/277",
+   "short": "HCJ Dolj nr. 277/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 277/2017",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-11-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20277.pdf",
+     "sha256": "946a9535c2c328d8bfa888e18661efdcdeef3f047547813b0d292bea6cdbe7f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-296-2017",
+   "path": "local/judet/dolj/2017/296",
+   "short": "HCJ Dolj nr. 296/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 296/2017 pentru a vota în adunarea generală ordinară a acționarilor din data de 29.11.2017: - numirea a cinci administratori neexecutivi în consiliul de administrație; - încheierea cont",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-11-29",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%20296.pdf",
+     "sha256": "a82172b76e153d4df0ffa335418c0e9cfccccc52322f656eb76d0d7aedc8f2a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-31-2017",
+   "path": "local/judet/dolj/2017/31",
+   "short": "HCJ Dolj nr. 31/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 31/2017",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%2031.pdf",
+     "sha256": "00dcf6afa6c256885ae2953f6678bca7a65968133f4294284932fe32064bcb06"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-35-2017",
+   "path": "local/judet/dolj/2017/35",
+   "short": "HCJ Dolj nr. 35/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 35/2017 pentru a vota în Adunarea Generală Extraordinară a Acţionarilor din 10.03.2017: -aprobarea înfiinţării unui punct de lucru al S.C",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-03-10",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%2035.pdf",
+     "sha256": "2e4b22c4f7a94291a7583ac77ecff0ba13baed8e6c216ab5cd54ffc31868afdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-63-2017",
+   "path": "local/judet/dolj/2017/63",
+   "short": "HCJ Dolj nr. 63/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 63/2017 pentru Unitatea de Asistență Medico - Socială Plenița, începând cu data de 01.04.2017, conform anexei la prezenta hotărâre",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-04-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%2063.pdf",
+     "sha256": "93a6ee6fe76c42393c98ae7e9893d02b68749fa97a016f579c1317db84ec2c21"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-93-2017",
+   "path": "local/judet/dolj/2017/93",
+   "short": "HCJ Dolj nr. 93/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 93/2017 pentru a vota în Adunarea Generală Ordinară a Acţionarilor din 15.05.2017:",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-05-15",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%2093.pdf",
+     "sha256": "c6c2940e24900a02b9fa67ee21af2405479935feb29dffc4bc725c65a502420c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-94-2017",
+   "path": "local/judet/dolj/2017/94",
+   "short": "HCJ Dolj nr. 94/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 94/2017",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%2094.pdf",
+     "sha256": "4a70b2fd840af28b0ce55b0efaf8abf2058a8ab2d1e61848d7e76c0a445350ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-96-2017",
+   "path": "local/judet/dolj/2017/96",
+   "short": "HCJ Dolj nr. 96/2017",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 96/2017 pentru Copii şi Adulţi cu Autism – Filiala Craiova a spaţiului în suprafaţă de 450 mp situat la parterul grădiniţei din cadrul Şcolii",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2017-00001492",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari2017/Hotararea%2096.pdf",
+     "sha256": "71f8a4d94abbcbfd0f3012025de80b3d38c156f5e59807485a27327fd2897fdd"
+    }
+   ]
+  }
+ ]
+}

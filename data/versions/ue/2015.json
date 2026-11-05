@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-1168-2015",
+   "path": "ue/directiva/2015/1168",
+   "short": "Directiva de punere în aplicare (UE) 2015/1168",
+   "title": "Directiva de punere în aplicare (UE) 2015/1168 a Comisiei din 15 iulie 2015 de modificare a Directivelor 2003/90/CE și 2003/91/CE de stabilire a măsurilor de punere în aplicare a articolului 7 din Directiva 2002/53/CE a Consiliului și, respectiv, a articolului 7 din Directiva 2002/55/CE a Consiliului în ceea ce privește caracteristicile minime de analizat și condițiile minime de verificare a anumitor soiuri de specii de plante agricole și specii de legume (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L1168",
+   "versions": [
+    {
+     "from": "2015-08-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/41cd8929-2b82-11e5-9f85-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "da356bbdb26776691d67f4ce328139c97ceea1a194f1c0e5e4f6b1c8631b0cb0"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-121-2015",
    "path": "ue/directiva/2015/121",
    "short": "Directiva (UE) 2015/121",
@@ -29,6 +44,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/950a8d56-a6b7-11e4-8e01-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "8c162f54bc1e319c78961dad4a9d5e84716e87b6e88214b96cf24e74b8c798e1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-13-2015",
+   "path": "ue/directiva/2015/13",
+   "short": "Directiva delegată (UE) 2015/13",
+   "title": "Directiva delegată (UE) 2015/13 a Comisiei din 31 octombrie 2014 de modificare a anexei III la Directiva 2014/32/UE UE a Parlamentului European și a Consiliului în ceea ce privește domeniul de valori pentru debit al apometrelor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L0013",
+   "versions": [
+    {
+     "from": "2015-01-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7ce20a0e-963c-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "6921af7c70524c3509160d8dfe4ec371c8adeb13f4d8b061064cac14db129436"
     }
    ]
   },
@@ -89,6 +119,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/4e020f18-6d7f-11e5-9317-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "3b30bd6d3853ab68bd3799c6e85e82c2a37b8cf0d39eb4f7e3dbf227b98cbe50"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1955-2015",
+   "path": "ue/directiva/2015/1955",
+   "short": "Directiva de punere în aplicare (UE) 2015/1955",
+   "title": "Directiva de punere în aplicare (UE) 2015/1955 a Comisiei din 29 octombrie 2015 de modificare a anexelor I și II la Directiva 66/402/CEE a Consiliului privind comercializarea semințelor de cereale (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L1955",
+   "versions": [
+    {
+     "from": "2015-11-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e12198b5-7ed4-11e5-b8b7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2ce8597a8cdd257ef172b6590d7a1abb1e299afb77b83e82c3fb0bfa00fb16a2"
     }
    ]
   },
@@ -228,6 +273,21 @@
    ]
   },
   {
+   "slug": "ue-directiva-2392-2015",
+   "path": "ue/directiva/2015/2392",
+   "short": "Directiva de punere în aplicare (UE) 2015/2392",
+   "title": "Directiva de punere în aplicare (UE) 2015/2392 a Comisiei din 17 decembrie 2015 privind Regulamentul (UE) nr. 596/2014 al Parlamentului European și al Consiliului în ceea ce privește raportarea către autoritățile competente a încălcărilor efective sau potențiale ale acestui regulament",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L2392",
+   "versions": [
+    {
+     "from": "2016-01-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/af368cd0-a55c-11e5-b528-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "125f809ee585117302c071b36cb59182e17048044b54ebfad1c1e0f854405a36"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-2436-2015",
    "path": "ue/directiva/2015/2436",
    "short": "Directiva (UE) 2015/2436",
@@ -318,6 +378,36 @@
    ]
   },
   {
+   "slug": "ue-directiva-573-2015",
+   "path": "ue/directiva/2015/573",
+   "short": "Directiva delegată (UE) 2015/573",
+   "title": "Directiva delegată (UE) 2015/573 a Comisiei din 30 ianuarie 2015 de modificare, în scopul adaptării la progresul tehnic, a anexei IV la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru plumbul din senzorii din clorură de polivinil utilizați în dispozitivele medicale pentru diagnostic in vitro Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L0573",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a8563d67-df4c-11e4-b1d3-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a4e899b34b9defed76f632c8676c83a600ae2d3a8abb6ed6e05856ef97f7ec30"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-574-2015",
+   "path": "ue/directiva/2015/574",
+   "short": "Directiva delegată (UE) 2015/574",
+   "title": "Directiva delegată (UE) 2015/574 a Comisiei din 30 ianuarie 2015 de modificare, în scopul adaptării la progresul tehnic, a anexei IV la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește o derogare pentru mercurul folosit în sistemele de imagistică cu ultrasunete pentru analiză intravasculară Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L0574",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d3a45c4a-df4c-11e4-b1d3-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "43b97ecde3fbc63ddaec610ea8b162373bffb114177a0de7ad6deac15147ae98"
+    }
+   ]
+  },
+  {
    "slug": "ue-directiva-637-2015",
    "path": "ue/directiva/2015/637",
    "short": "Directiva (UE) 2015/637",
@@ -374,6 +464,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/0bff31ef-0b49-11e5-8817-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "07fae2e295e0204d7b925c2f569ab0180ca906e7690c7f4fb989919f42c9a08a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-863-2015",
+   "path": "ue/directiva/2015/863",
+   "short": "Directiva delegată (UE) 2015/863",
+   "title": "Directiva delegată (UE) 2015/863 a Comisiei din 31 martie 2015 de modificare a anexei II la Directiva 2011/65/UE a Parlamentului European și a Consiliului în ceea ce privește lista substanțelor restricționate (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L0863",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a8027b13-0a7e-11e5-8817-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4994f5e95d7d7e8bcaa4f80741f56da569418920192aa85691b0e0ce38c31d41"
     }
    ]
   },

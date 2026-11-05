@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcj-cluj-117-2022",
+   "path": "local/judet/cluj/2022/117",
+   "short": "HCJ Cluj nr. 117/2022",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 117/2022",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-117-30-iunie-2022-pentru-modificarea-hotararii-consiliului-judetean-cluj-nr-102-2022-privind-aprobarea-organigramei-a-statului-de-functii-si-a-regulamentului-de-organizare-si-functio/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/07/ad849c4f-117_5_moodif-hcj-102-2022-organigrama-spit-infectiase.pdf",
+     "sha256": "a50a4f21ee9910bac63c74e3494618a8322e802fa30888663ce110ae0a745e48"
+    }
+   ]
+  },
+  {
    "slug": "hcj-cluj-118-2022",
    "path": "local/judet/cluj/2022/118",
    "short": "HCJ Cluj nr. 118/2022",
@@ -164,6 +179,21 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/07/03a4070c-128_17_restrictii-circulatie-dj-172f.pdf",
      "sha256": "c1791849535d62ae6b2758b1bc8010bc86bbf88255d9214f36dff3115ffac716"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-131-2022",
+   "path": "local/judet/cluj/2022/131",
+   "short": "HCJ Cluj nr. 131/2022",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 131/2022 privind însușirea unor documentații cadastrale pentru drumul județean DJ 170B",
+   "url": "https://cjcluj.ro/hotarare-cjc/2022/06",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/07/e3caba93-131_17c_suplimentare-insusire-doc-cadastrale-dj_170b.pdf",
+     "sha256": "886b4b2eba4dc23c2ca519add31846b6fb15a3ef665f6256a6f4138dd0d0df9a"
     }
    ]
   },
@@ -524,6 +554,21 @@
      "units": 1,
      "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/11/9605cae8-187_2_desemnare-consilier-judetean-in-g.l.mixt_.pdf",
      "sha256": "bca6b25609ea186193c68d178d4b60bf6d937020c214784ccf4e8c796213ec9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-cluj-188-2022",
+   "path": "local/judet/cluj/2022/188",
+   "short": "HCJ Cluj nr. 188/2022",
+   "title": "Hotărârea Consiliului Județean Cluj nr. 188/2022 privind aprobarea Bugetului de venituri și cheltuieli pe anul 2022, rectificat, al societății Compania de Apă Someș S.A",
+   "url": "https://cjcluj.ro/hotarare-cjc/hotararea-nr-188-31-octombrie-2022-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2022-rectificat-al-societatii-compania-de-apa-somes-s-a/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://storage.googleapis.com/stateless-cjcluj-ro/2022/11/d69907bd-188_3_bvc-rectificat-cas.pdf",
+     "sha256": "8f25ac55f32b67d081a5af34d1d396751a82da16475852a4f3c8157957b6d611"
     }
    ]
   },

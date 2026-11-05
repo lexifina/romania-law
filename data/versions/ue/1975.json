@@ -46,6 +46,141 @@
      "sha256": "101168abaed17308ce7e999e35cfb7f80196fd4ce1df94c3ea6e2dcdb9d06cc3"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1031-1975",
+   "path": "ue/regulament/1975/1031",
+   "short": "Regulamentul (CEE) nr. 1031/75",
+   "title": "Regulamentul (CEE) nr. 1031/75 al Comisiei din 17 aprilie 1975 de definire a situației generatoare de drept la ajutor pentru semințele de bumbac",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31975R1031",
+   "versions": [
+    {
+     "from": "1975-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f07100ab-0018-43ce-9537-e616a8f7a740.0018.03/DOC_8",
+     "sha256": "025bd1d34ca7d143b61f3cca2cabd110c87f9c3108e6fa4b7c2d836e6bb59d83"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-142-1975",
+   "path": "ue/regulament/1975/142",
+   "short": "Regulamentul (CEE) nr. 142/75",
+   "title": "Regulamentul (CEE) nr. 142/75 al Comisiei din 20 ianuarie 1975 de modificare a Regulamentului (CEE) nr. 616/72 cu privire la prelevările la exportul de ulei de măsline",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31975R0142",
+   "versions": [
+    {
+     "from": "1975-01-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/434b73da-bcfd-4060-90bc-141f0c128cd6.0022.03/DOC_5",
+     "sha256": "f92117ae16cdd78b495a0c258bad17defe831d53662b86ab8f51a0582490cf71"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1625-1975",
+   "path": "ue/regulament/1975/1625",
+   "short": "Regulamentul (CEE) nr. 1625/75",
+   "title": "Regulamentul (CEE) nr. 1625/75 al Consiliului din 26 iunie 1975 privind măsurile de salvgardare prevăzute de Acordul dintre Comunitatea Economică Europeană și Statul Israel",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31975R1625",
+   "versions": [
+    {
+     "from": "1975-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a9a1256e-3f1f-429b-aadf-0c2cf24dcab8.0022.05/DOC_1",
+     "sha256": "a8dd0649456300c38fd84a2b9bbbecf5101f76f52eeb632057dcba3e5a3803e7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1997-1975",
+   "path": "ue/regulament/1975/1997",
+   "short": "Regulamentul (CEE) nr. 1997/75",
+   "title": "Regulamentul (CEE) nr. 1997/75 al Comisiei din 31 iulie 1975 de modificare a Regulamentului (CEE) nr. 1579/74 privind fixarea în avans a prelevării la import pentru produsele cu amidon",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31975R1997",
+   "versions": [
+    {
+     "from": "1975-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d4d80648-aa76-41ce-9d36-21922f454577.0022.03/DOC_3",
+     "sha256": "737f996824b69da2941f952ed770db592ab629665f1ac486c5bd1f2248f96149"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2411-1975",
+   "path": "ue/regulament/1975/2411",
+   "short": "Regulamentul (CEE) nr. 2411/75",
+   "title": "Regulamentul (CEE) nr. 2411/75 al Consiliului din 16 septembrie 1975 privind încheierea Acordului dintre Comunitatea Economică Europeană și Statele Unite Mexicane",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31975R2411",
+   "versions": [
+    {
+     "from": "1975-09-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/306542c6-6f4a-4b0d-886f-ff623c8b0452.0022.04/DOC_1",
+     "sha256": "8db2643eda9606519bccd253eec57618979916ff975d593a153440fe416dae24"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2750-1975",
+   "path": "ue/regulament/1975/2750",
+   "short": "Regulamentul (CEE) nr. 2750/75",
+   "title": "Regulamentul (CEE) nr. 2750/75 al Consiliului din 29 octombrie 1975 privind stabilirea criteriilor de mobilizare a cerealelor destinate ajutorului alimentar",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31975R2750",
+   "versions": [
+    {
+     "from": "1975-11-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d4038ae6-9cb7-43f8-91c2-34cb6d4de2ca.0022.04/DOC_1",
+     "sha256": "5b4536401948c09fa67aa79c6fd2ba2a87077452e2929db4835ff9116d0e75be"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-897-1975",
+   "path": "ue/regulament/1975/897",
+   "short": "Regulamentul (CEE) nr. 897/75",
+   "title": "Regulamentul (CEE) nr. 897/75 al Consiliului din 18 martie 1975 privind încheierea protocolului suplimentar la Acordul dintre Comunitatea Economică Europeană și Republica Islanda",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31975R0897",
+   "versions": [
+    {
+     "from": "1975-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/35556e00-3db8-480d-a884-a382ca865e8c.0022.04/DOC_1",
+     "sha256": "604ecceeee65ff899c15ad256a1e32299f37213c075da26c71a0d0be468d44b1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-900-1975",
+   "path": "ue/regulament/1975/900",
+   "short": "Regulamentul (CEE) nr. 900/75",
+   "title": "Regulamentul (CEE) nr. 900/75 al Consiliului din 18 martie 1975 privind încheierea protocolului suplimentar la Acordul dintre Comunitatea Economică Europeană și Confederația Elvețiană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31975R0900",
+   "versions": [
+    {
+     "from": "1975-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/68ac3020-6aa6-40d6-a9ba-f53123a9a5ae.0022.04/DOC_1",
+     "sha256": "8797b4e60bdaf5ef45f0671edec28ca63d61966309b9cc5b7ba66046c017f936"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-901-1975",
+   "path": "ue/regulament/1975/901",
+   "short": "Regulamentul (CEE) nr. 901/75",
+   "title": "Regulamentul (CEE) nr. 901/75 al Consiliului din 18 martie 1975 privind încheierea protocolului suplimentar la acordul adițional privind valabilitatea Acordului dintre Comunitatea Economică Europeană și Confederația Elvețiană pentru Principatul Liechtenstein",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31975R0901",
+   "versions": [
+    {
+     "from": "1975-05-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/003ad5ee-a634-479b-9a35-6a863af70596.0022.04/DOC_1",
+     "sha256": "ac812f533861e7d21cf074625848068a7e7cbb69b547546d6066a51978542782"
+    }
+   ]
   }
  ]
 }

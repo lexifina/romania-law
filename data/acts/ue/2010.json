@@ -5480,6 +5480,23 @@
 }
 },
 {
+"slug": "ue-regulament-996-2010",
+"path": "ue/regulament/2010/996",
+"kind": "ue",
+"year": "2010",
+"number": "996",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) nr. 996/2010 al Parlamentului European și al Consiliului din 20 octombrie 2010 privind investigarea și prevenirea accidentelor și incidentelor survenite în aviația civilă și de abrogare a Directivei 94/56/CE Text cu relevanță pentru SEE",
+"short": "Regulamentul (UE) nr. 996/2010",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2010-12-02",
+"latest": "2010-12-02",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010R0996"
+},
+{
 "slug": "ue-regulament-999-2010",
 "path": "ue/regulament/2010/999",
 "kind": "ue",

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/giurgiu/2005",
+ "acts": [
+  {
+   "slug": "hcj-giurgiu-107-2005",
+   "path": "local/judet/giurgiu/2005/107",
+   "short": "HCJ Giurgiu nr. 107/2005",
+   "title": "Hotărârea Consiliului Județean Giurgiu nr. 107/2005 privind atribuirea în folosință gratuită a unui spațiu în suprafața de 55,67 mp Asociației de Sprijin a Copiilor Handicapați Fizic din România, Filiala Giurgiu, aparținând domeniului privat al județului Giurgiu",
+   "url": "https://cjgiurgiu.ro/ova_sev/hotarari-2021/",
+   "versions": [
+    {
+     "from": "2005-08-24",
+     "units": 1,
+     "source_url": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/064.-hotararea-nr.64-din-16.03.2021.pdf",
+     "sha256": "6a57630f9235626e02dde7ee0a4cbd4b50c2da71438297fcb69ba5e5a3ac3e2b"
+    }
+   ]
+  }
+ ]
+}

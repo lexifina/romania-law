@@ -3,6 +3,382 @@
 "shard": "local/judet/giurgiu/2025",
 "acts": [
 {
+"slug": "hcj-giurgiu-1-2025",
+"path": "local/judet/giurgiu/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 1/2025 privind acoperirea definitivă din excedentul bugetului local a deficitului secțiunii de dezvoltare pe anul 2024 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.182 din 09 ianuarie 2025 al președintelui; - raportul de specialitate nr.194 din 09 ianuarie 2025 al Serviciului Buget-finanțe și contabilitate; - avizul nr.1/10.01.2025 al Comisiei",
+"short": "HCJ Giurgiu nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-13",
+"latest": "2025-01-13",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-2-2025",
+"path": "local/judet/giurgiu/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 2/2025 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.71 din 29 martie 2021 privind înființarea Centrului pentru Viață Independentă pentru Persoane Adulte cu Dizabilități – CPVI – Ap.22 prin reorganizarea Locuinței Protejate Ap.22 din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu întrunit în ședință ordinară",
+"short": "HCJ Giurgiu nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-3-2025",
+"path": "local/judet/giurgiu/2025/3",
+"kind": "local",
+"year": "2025",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 3/2025 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.66 din 29.03.2021 privind înființarea Centrului pentru Viață Independentă pentru Persoane Adulte cu Dizabilități-CPVI- Ap.69, prin reorganizarea Locuinței Protejate Ap.69 din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu întrunit în ședință ordinară",
+"short": "HCJ Giurgiu nr. 3/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-4-2025",
+"path": "local/judet/giurgiu/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 4/2025 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.67 din 29.03.2021 privind înființarea Centrului pentru Viață Independentă pentru Persoane Adulte cu Dizabilități – CPVI – Ap.71, prin reorganizarea Locuinței Protejate Ap.71 din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu întrunit în ședință ordinară",
+"short": "HCJ Giurgiu nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-5-2025",
+"path": "local/judet/giurgiu/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 5/2025 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.72 din 29 martie 2021 privind înființarea Centrului pentru Viață Independentă pentru Persoane Adulte cu Dizabilități – CPVI - Ap. 21 prin reorganizarea Locuinței Protejate Ap.21 din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu",
+"short": "HCJ Giurgiu nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-6-2025",
+"path": "local/judet/giurgiu/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 6/2025 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.85 din 28.08.2020 privind înființarea Centrului de Abilitare și Reabilitare pentru Persoane Adulte cu Dizabilități Oinacu prin reorganizarea Centrului de Recuperare și Reabilitare Neuropsihiatrică Oinacu, din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu",
+"short": "HCJ Giurgiu nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-7-2025",
+"path": "local/judet/giurgiu/2025/7",
+"kind": "local",
+"year": "2025",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 7/2025 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.68 din 29.03.2021 privind înființarea Centrului pentru Viață Independentă pentru Persoane Adulte cu Dizabilități – CPVI - Casa Comber prin reorganizarea Locuinței Protejate Casa Comber din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu",
+"short": "HCJ Giurgiu nr. 7/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-8-2025",
+"path": "local/judet/giurgiu/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 8/2025 pentru modificarea Hotărârii Consiliului Județean Giurgiu nr.69 din 29.03.2021 privind înființarea Centrului pentru Viață Independentă pentru Persoane Adulte cu Dizabilități – CPVI - PHARE prin reorganizarea Locuinței Protejate Phare, din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu",
+"short": "HCJ Giurgiu nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-9-2025",
+"path": "local/judet/giurgiu/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 9/2025",
+"short": "HCJ Giurgiu nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-giurgiu-10-2025",
+"path": "local/judet/giurgiu/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 10/2025 privind darea în folosință gratuită a unui spațiu în suprafață de 22,47 mp situat în municipiul Giurgiu, B-dul București, bloc 114, scara B, parter, aflat în domeniul public al Județului Giurgiu, Asociației de Sprijin a Copiilor Handicapați Fizic – România, Filiala Giurgiu și încetarea aplicabilității Hotărârilor nr.259 din 20 septembrie 2011 și nr.64 din 16 martie 2021",
+"short": "HCJ Giurgiu nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-11-2025",
+"path": "local/judet/giurgiu/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 11/2025 privind darea în folosință gratuită a unui spațiu în incinta imobilului Dispensar Policlinic Giurgiu, în suprafață de 33,80 mp, situat în municipiul Giurgiu, Șos. Alexandriei, nr.7-9, aflat în domeniul privat al Județului Giurgiu, Fundației „ESTUAR” și încetarea aplicabilității Hotărârii nr.83 din 28 iunie 2019",
+"short": "HCJ Giurgiu nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-12-2025",
+"path": "local/judet/giurgiu/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 12/2025 privind darea în folosință gratuită a unui spațiu în suprafață de 8,33 mp situat în municipiul Giurgiu, B-dul București, bloc 114, scara B, parter, aflat în domeniul public al Județului Giurgiu, Asociației Viață și Speranță 2003 și încetarea aplicabilității Hotărârii nr.251 din 27 octombrie 2021",
+"short": "HCJ Giurgiu nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-13-2025",
+"path": "local/judet/giurgiu/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 13/2025 pentru încetarea aplicabilității Hotărârilor Consiliului Județean Giurgiu nr.168 din 31august 2017 și nr.183 din 16 decembrie 2019 privind darea în administrare a unor spații în incinta Centrului de Asistență Socială Giurgiu, aflate în domeniul privat al Județului Giurgiu, Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinar",
+"short": "HCJ Giurgiu nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-14-2025",
+"path": "local/judet/giurgiu/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 14/2025 privind trecerea din domeniul privat în domeniul public al Județului Giurgiu a imobilului situat în municipiul Giurgiu, str.1 Decembrie 1918, nr.83, înscris în cartea funciară nr.30916 și darea în administrare a acestuia Direcției Generale de Asistență Socială și Protecția Copilului Giurgiu",
+"short": "HCJ Giurgiu nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-15-2025",
+"path": "local/judet/giurgiu/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 15/2025",
+"short": "HCJ Giurgiu nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-giurgiu-16-2025",
+"path": "local/judet/giurgiu/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 16/2025 privind desemnarea reprezentantului Consiliului Județean Giurgiu în Consiliul de Administrație al Centrului Județean pentru Conservarea și Promovarea Culturii Tradiționale CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.908 din 20 ianuarie 2025 al președintelui; - raportul de specialitate nr.961 din 20 ianuarie 2025 al Serviciului Juridic-conte",
+"short": "HCJ Giurgiu nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-17-2025",
+"path": "local/judet/giurgiu/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 17/2025 privind desemnarea reprezentantului Consiliului Județean Giurgiu în Consiliul de Administrație al Muzeului Județean „Teohari Antonescu” Giurgiu CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință ordinară, Având în vedere: - referatul de aprobare nr.910 din 20 ianuarie 2025 al președintelui; - raportul de specialitate nr.964 din 20 ianuarie 2025 al Serviciului Juridic-contencios și monitorizare proced",
+"short": "HCJ Giurgiu nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-giurgiu-18-2025",
 "path": "local/judet/giurgiu/2025/18",
 "kind": "local",
@@ -643,6 +1019,28 @@
 }
 },
 {
+"slug": "hcj-giurgiu-53-2025",
+"path": "local/judet/giurgiu/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 53/2025",
+"short": "HCJ Giurgiu nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-26",
+"latest": "2025-03-26",
+"portal": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/HCJG-nr.53-din-26-martie-2025-complet-scan.pdf",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-giurgiu-54-2025",
 "path": "local/judet/giurgiu/2025/54",
 "kind": "local",
@@ -1254,6 +1652,28 @@
 "from": "2025-04-24",
 "latest": "2025-04-24",
 "portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-82-2025",
+"path": "local/judet/giurgiu/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 82/2025",
+"short": "HCJ Giurgiu nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-24",
+"latest": "2025-04-24",
+"portal": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/HCJG-nr-82-din-24-aprilie-2025.pdf",
 "council": "judet/giurgiu",
 "council_name": "Consiliul Județean Giurgiu",
 "flags": {
@@ -3536,6 +3956,28 @@
 }
 },
 {
+"slug": "hcj-giurgiu-192-2025",
+"path": "local/judet/giurgiu/2025/192",
+"kind": "local",
+"year": "2025",
+"number": "192",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 192/2025",
+"short": "HCJ Giurgiu nr. 192/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.192-din-13.08.2025.pdf",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-giurgiu-193-2025",
 "path": "local/judet/giurgiu/2025/193",
 "kind": "local",
@@ -3892,6 +4334,50 @@
 }
 },
 {
+"slug": "hcj-giurgiu-211-2025",
+"path": "local/judet/giurgiu/2025/211",
+"kind": "local",
+"year": "2025",
+"number": "211",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 211/2025 privind rectificarea bugetului propriu de venituri și cheltuieli al Județului Giurgiu, a bugetului de venituri și cheltuieli al instituțiilor finanțate integral sau parțial din venituri proprii și subvenții și a bugetului creditelor interne pe anul 2025 CONSILIUL JUDEȚEAN GIURGIU, întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.18302 din 12 septembrie 2025 al președin",
+"short": "HCJ Giurgiu nr. 211/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-18",
+"latest": "2025-09-18",
+"portal": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.211-din-18.09.2025.pdf",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-212-2025",
+"path": "local/judet/giurgiu/2025/212",
+"kind": "local",
+"year": "2025",
+"number": "212",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 212/2025 privind aprobarea asocierii județului Giurgiu cu comuna Valea Dragului, în scopul finalizării obiectivului de investiții „Reabilitare Școală Primară Valea Dragului” CONSILIUL JUDEȚEAN GIURGIU întrunit în ședință extraordinară Având în vedere: - referatul de aprobare nr.18308 din 12 septembrie 2025 al președintelui; - raportul de specialitate nr.18309 din 12 septembrie 2025 al Serviciului juridic-c",
+"short": "HCJ Giurgiu nr. 212/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-18",
+"latest": "2025-09-18",
+"portal": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.212-din-18.09.2025.pdf",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-giurgiu-213-2025",
 "path": "local/judet/giurgiu/2025/213",
 "kind": "local",
@@ -3980,6 +4466,28 @@
 }
 },
 {
+"slug": "hcj-giurgiu-217-2025",
+"path": "local/judet/giurgiu/2025/217",
+"kind": "local",
+"year": "2025",
+"number": "217",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 217/2025",
+"short": "HCJ Giurgiu nr. 217/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.217-din-29.09.2025.pdf",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-giurgiu-218-2025",
 "path": "local/judet/giurgiu/2025/218",
 "kind": "local",
@@ -4043,6 +4551,28 @@
 "council_name": "Consiliul Județean Giurgiu",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-giurgiu-222-2025",
+"path": "local/judet/giurgiu/2025/222",
+"kind": "local",
+"year": "2025",
+"number": "222",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 222/2025",
+"short": "HCJ Giurgiu nr. 222/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.222-din-29.09.2025.pdf",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -4748,6 +5278,28 @@
 "from": "2025-11-27",
 "latest": "2025-11-27",
 "portal": "https://cjgiurgiu.ro/ova_sev/hotarari-arhiva-2025/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-giurgiu-260-2025",
+"path": "local/judet/giurgiu/2025/260",
+"kind": "local",
+"year": "2025",
+"number": "260",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 260/2025",
+"short": "HCJ Giurgiu nr. 260/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://cjgiurgiu.ro/wp-content/uploads/2020/11/hotararea-nr.260-din-27.11.2025.pdf",
 "council": "judet/giurgiu",
 "council_name": "Consiliul Județean Giurgiu",
 "flags": {

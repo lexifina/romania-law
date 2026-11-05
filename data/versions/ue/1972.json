@@ -46,6 +46,171 @@
      "sha256": "b1a89e77f3039aba81e9d3093be0cd87efd96c4d780a2ece6bc74d4be8e27b69"
     }
    ]
+  },
+  {
+   "slug": "ue-regulament-1370-1972",
+   "path": "ue/regulament/1972/1370",
+   "short": "Regulamentul CELEX 31972R1370",
+   "title": "Regulamentul (Euratom, CECO, CEE) nr. 1370/72 al Consiliului din 27 iunie 1972 de modificare a condițiilor și a procedurii de aplicare a impozitului stabilit în beneficiul Comunităților Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31972R1370",
+   "versions": [
+    {
+     "from": "1972-07-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f7c0e23b-33a7-4bf3-98bd-b715250d58a6.0022.04/DOC_4",
+     "sha256": "94705ff3c44d84b220f9225a0c0bb4f9e765ae7c0bc56ce4bcfe0f17a3ed0f6a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2351-1972",
+   "path": "ue/regulament/1972/2351",
+   "short": "Regulamentul (CEE) nr. 2351/72",
+   "title": "Regulamentul (CEE) nr. 2351/72 al Comisiei din 8 noiembrie 1972 de completare a Regulamentului (CEE) nr. 100/72 și a Regulamentului (CEE) nr. 1574/72 în ceea ce privește procedeul de denaturare a zahărului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31972R2351",
+   "versions": [
+    {
+     "from": "1972-11-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c7bcb74a-d506-4dbc-84af-a8101700a733.0022.03/DOC_18",
+     "sha256": "828161e1ba8a98abd1204ce5e3d1f6d5c0f9087064850ce9c5c735b17ad21c84"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2531-1972",
+   "path": "ue/regulament/1972/2531",
+   "short": "Regulamentul CELEX 31972R2531",
+   "title": "Regulamentul (Euratom, CECO, CEE) nr. 2531/72 al Consiliului din 4 decembrie 1972 de modificare a Regulamentului (CEE, Euratom, CECO) nr. 260/68 de stabilire a condițiilor și a procedurii de aplicare a impozitului stabilit în beneficiul Comunităților Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31972R2531",
+   "versions": [
+    {
+     "from": "1972-12-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ed60ad57-c44c-447d-b6c0-6c9326d566b8.0022.04/DOC_5",
+     "sha256": "08de3a66f3aaee13b0f5fe97ded343708c409aa733fb937fe3bdf07f4583951e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2532-1972",
+   "path": "ue/regulament/1972/2532",
+   "short": "Regulamentul CELEX 31972R2532",
+   "title": "Regulamentul (Euratom, CECO, CEE) nr. 2532/72 al Consiliului din 4 decembrie 1972 de modificare a Regulamentului (Euratom, CECO, CEE) nr. 549/69 de stabilire a categoriilor de funcționari și agenți ai Comunităților Europene cărora li se aplică dispozițiile articolului 12, articolului 13 al doilea paragraf și ale articolului 14 din Protocolul privind privilegiile și imunitățile Comunităților",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31972R2532",
+   "versions": [
+    {
+     "from": "1972-12-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7ee514b6-d5b4-4676-92b0-4016a5ba1c56.0022.04/DOC_1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2743-1972",
+   "path": "ue/regulament/1972/2743",
+   "short": "Regulamentul (CEE) nr. 2743/72",
+   "title": "Regulamentul (CEE) nr. 2743/72 al Consiliului din 19 decembrie 1972 de modificare a Regulamentului (CEE) nr. 2821/71 privind aplicarea articolului 85 alineatul (3) din tratat unor categorii de acorduri, decizii și practici concertate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31972R2743",
+   "versions": [
+    {
+     "from": "1973-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6390d2cf-4237-47b0-8223-3d1ff33fa5d6.0022.03/DOC_1",
+     "sha256": "e877a48e22e0fb88ae9e2a56cba3c3dbd63ffdccec0716b32ed87d1a33a089f6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2760-1972",
+   "path": "ue/regulament/1972/2760",
+   "short": "Regulamentul (CEE) nr. 2760/72",
+   "title": "Regulamentul (CEE) nr. 2760/72 al Consiliului din 19 decembrie 1972 de încheiere a protocolului adițional, precum și a protocolului financiar, semnate la 23 noiembrie 1970, anexate la Acordul de asociere dintre Comunitatea Economică Europeană și Turcia și referitor la măsurile care urmează să fie adoptate pentru intrarea în vigoare a acestora",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31972R2760",
+   "versions": [
+    {
+     "from": "1973-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/87735588-83bb-4b2d-9293-f29f5898ffd3.0022.05/DOC_1",
+     "sha256": "5a8556777dfb475f6ebb46a84601e128aba6593b82fad131880273284cf1e0a4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2840-1972",
+   "path": "ue/regulament/1972/2840",
+   "short": "Regulamentul (CEE) nr. 2840/72",
+   "title": "Regulamentul (CEE) nr. 2840/72 al Consiliului din 19 decembrie 1972 de încheiere a unui acord între Comunitatea Economică Europeană și Confederația Elvețiană de adoptare a dispozițiilor de aplicare a acestuia și de încheiere a Acordului adițional privind valabilitatea pentru Principatul Liechtenstein a Acordului dintre Comunitatea Economică Europeană și Confederația Elvețiană din 22 iulie 1972",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31972R2840",
+   "versions": [
+    {
+     "from": "1972-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6d189382-79fa-4feb-8f91-63b903f387e8.0022.04/DOC_1",
+     "sha256": "4ec4d6ed22d3a33b920ca3b5375a904b9f8d9329869c0ac8811eb658ba7d31cd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2842-1972",
+   "path": "ue/regulament/1972/2842",
+   "short": "Regulamentul (CEE) nr. 2842/72",
+   "title": "Regulamentul (CEE) nr. 2842/72 al Consiliului din 19 decembrie 1972 privind încheierea Acordului dintre Comunitatea Economică Europeană și Republica Islanda și adoptarea dispozițiilor de aplicare a acestuia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31972R2842",
+   "versions": [
+    {
+     "from": "1972-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/51c3fdb7-303f-4f5f-8e64-05971ea3b1b0.0022.04/DOC_1",
+     "sha256": "4767537f70275bafca1b0d5528a4d867097e19f7274a81166b75a3eb4786bf08"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2847-1972",
+   "path": "ue/regulament/1972/2847",
+   "short": "Regulamentul (CEE) nr. 2847/72",
+   "title": "Regulamentul (CEE) nr. 2847/72 al Comisiei din 29 decembrie 1972 de adaptare a Regulamentelor (CEE) nr. 100/72 și (CEE) și 1897/72 ca urmare a aderării unor noi state membre la Comunitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31972R2847",
+   "versions": [
+    {
+     "from": "1973-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/23780e2f-d87c-490e-ad55-4a7fc781f03b.0022.03/DOC_10",
+     "sha256": "f1ce07593267814bab878486d28ddff96bbf3bc617b54687815173d114841b2e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-616-1972",
+   "path": "ue/regulament/1972/616",
+   "short": "Regulamentul (CEE) nr. 616/72",
+   "title": "Regulamentul (CEE) nr. 616/72 al Comisiei din 27 martie 1972 privind normele de aplicare a restituirilor și prelevărilor la export pentru uleiul de măsline",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31972R0616",
+   "versions": [
+    {
+     "from": "1972-04-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fcdcceb1-51c1-4a11-bbc5-53c33f9c271a.0022.03/DOC_6",
+     "sha256": "aea8af8cc525a84d2a94440c62208e49c4f39641f0c98e6f5752e1c6560fb988"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-679-1972",
+   "path": "ue/regulament/1972/679",
+   "short": "Regulamentul (CEE) nr. 679/72",
+   "title": "Regulamentul (CEE) nr. 679/72 al Comisiei din 29 martie 1972 privind clasificarea anumitor mărfuri la pozițiile sau subpozițiile 69.09 A, 69.11, 69.13 B și 69.14 A din Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31972R0679",
+   "versions": [
+    {
+     "from": "1972-04-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d7138e0a-90b9-4dcc-9c7c-3b5913239df6.0022.04/DOC_2",
+     "sha256": "0253079d0a0d71cca2e59cb23604e0273fd560af1529a8d1aa6bea6d17df7bdf"
+    }
+   ]
   }
  ]
 }

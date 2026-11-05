@@ -3,6 +3,21 @@
  "shard": "local/judet/constanta/2024",
  "acts": [
   {
+   "slug": "hcj-constanta-1098-2024",
+   "path": "local/judet/constanta/2024/1098",
+   "short": "HCJ Constanța nr. 1098/2024",
+   "title": "Hotărârea Consiliului Județean Constanța nr. 1098/2024",
+   "url": "https://www.cjc.ro/sectiune.php?s=206",
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "units": 1,
+     "source_url": "https://www.cjc.ro/dyn_doc/rapoarte_anuale/11-Hot.jud/2026_Sentinta_1098.pdf",
+     "sha256": "9325760fe49a071681d3f609bfa55a7f632ea4eff53077e23ed3241ec82a77d6"
+    }
+   ]
+  },
+  {
    "slug": "hcj-constanta-225-2024",
    "path": "local/judet/constanta/2024/225",
    "short": "HCJ Constanța nr. 225/2024",

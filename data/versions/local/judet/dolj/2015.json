@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcj-dolj-123-2015",
+   "path": "local/judet/dolj/2015/123",
+   "short": "HCJ Dolj nr. 123/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 123/2015 pentru anul 2014 – anexa 1;",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20123.pdf",
+     "sha256": "c62e3f1c6f7ff2b5e3ca6bd75a7c28a8f6801bfdf2336821bf6efb96f6267551"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-132-2015",
+   "path": "local/judet/dolj/2015/132",
+   "short": "HCJ Dolj nr. 132/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 132/2015 pentru realizarea lucrarilor de modernizare a infrastructurii de transport ce asigura accesul turist",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20132.pdf",
+     "sha256": "f9453a708be4b583d556e9fcc257f1b6607f927ce54559b98d36fbf88bdf9187"
+    }
+   ]
+  },
+  {
    "slug": "hcj-dolj-153-2015",
    "path": "local/judet/dolj/2015/153",
    "short": "HCJ Dolj nr. 153/2015",
@@ -29,6 +59,636 @@
      "units": 1,
      "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20153.pdf",
      "sha256": "cab885997fcee94b47e226338a042f03d659462d631c0fdb3c46147cf3432431"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-20-2015",
+   "path": "local/judet/dolj/2015/20",
+   "short": "HCJ Dolj nr. 20/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 20/2015 pentru anul 2015”, conform anexei la prezenta hotarare",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-02-27",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2020.pdf",
+     "sha256": "11e70356f974e26ed8532d75123e81c3287c4cc84d3204b45aade277f3e37f09"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-21-2015",
+   "path": "local/judet/dolj/2015/21",
+   "short": "HCJ Dolj nr. 21/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 21/2015 pentru traseele care au fost actualizate se vor modifica si completa in mod corespunzator",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-02-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2021.pdf",
+     "sha256": "db2213a1a65399271aafcd27dc96a829bbe3cec2778147731474da962eaac98f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-212-2015",
+   "path": "local/judet/dolj/2015/212",
+   "short": "HCJ Dolj nr. 212/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 212/2015 pentru anul 2015”, conform anexei la prezenta",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20212.pdf",
+     "sha256": "53d43fbcc297330baf4e3f731d7e00f5d29fba5d21b9f1f4f86809bb8c1a5fa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-22-2015",
+   "path": "local/judet/dolj/2015/22",
+   "short": "HCJ Dolj nr. 22/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 22/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-06-19",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2022.pdf",
+     "sha256": "5c2a3e244b28ae161786b03108b29f2e09bd09ab451f2f1f09becf17add9a6d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-226-2015",
+   "path": "local/judet/dolj/2015/226",
+   "short": "HCJ Dolj nr. 226/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 226/2015 pentru aparatul de specialitate al Consiliului Judetean Dolj, conform anexei nr. 1 la prezenta hotarare, incepand cu data de 01.10.2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20226.pdf",
+     "sha256": "ab6b06ab23b3c60bf7485b9bbc7cee2e75ac1bbfcc8e564119a7fef789f7d76c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-262-2015",
+   "path": "local/judet/dolj/2015/262",
+   "short": "HCJ Dolj nr. 262/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 262/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20262.pdf",
+     "sha256": "aed633fd7849fbd1f764896f6964fa44962ef942a3dee62f25e99d808b00721b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-263-2015",
+   "path": "local/judet/dolj/2015/263",
+   "short": "HCJ Dolj nr. 263/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 263/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20263.pdf",
+     "sha256": "a9d6497d8e5507dba8071952133e29168783155d91a1b506b8bd9f120ba13fc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-264-2015",
+   "path": "local/judet/dolj/2015/264",
+   "short": "HCJ Dolj nr. 264/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 264/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20264.pdf",
+     "sha256": "c133fc3a154a80e2c378e7d58a0436c86d6661fa63c9e9514d662c6a8644dab8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-265-2015",
+   "path": "local/judet/dolj/2015/265",
+   "short": "HCJ Dolj nr. 265/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 265/2015 pentru Conservarea si Promovarea Culturii Traditionale Dolj, gradul II, clasa de salarizare 62, se majoreaza cu 12%, incepand cu data de 01.10.2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20265.pdf",
+     "sha256": "885464dacfbce65bd98d38427fb25ed1563715a43f89fd27722c71c24851b9b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-266-2015",
+   "path": "local/judet/dolj/2015/266",
+   "short": "HCJ Dolj nr. 266/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 266/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20266.pdf",
+     "sha256": "13a0be524b7e7715d52df28d27c64cf8446aec4b79361808ac5d005c080fb7ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-267-2015",
+   "path": "local/judet/dolj/2015/267",
+   "short": "HCJ Dolj nr. 267/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 267/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20267.pdf",
+     "sha256": "5fd217aaf2e01aedbadfd05fa87166b43345763587f66e9930c998bcf2891776"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-268-2015",
+   "path": "local/judet/dolj/2015/268",
+   "short": "HCJ Dolj nr. 268/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 268/2015 pentru gradatia 3, ca urmare a avansarii in gradatia 4 corespunzatoare transei de vechime in munca",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20268.pdf",
+     "sha256": "61e927e51df486b9877b3b81bbe6dc8a2543645b744d949b5f8ccf10f31293e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-269-2015",
+   "path": "local/judet/dolj/2015/269",
+   "short": "HCJ Dolj nr. 269/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 269/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20269.pdf",
+     "sha256": "b902be6a471b4ac6b7f7ae853d231a301994f639879077ed6afa7524c1ba2b41"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-270-2015",
+   "path": "local/judet/dolj/2015/270",
+   "short": "HCJ Dolj nr. 270/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 270/2015 pentru conditii vatamatoare in cuantum de 274 lei",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20270.pdf",
+     "sha256": "3f551c38a15b9ec7c6c2213c5c4eb4711fed6d5b2f9822097204a5b441cf2b5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-271-2015",
+   "path": "local/judet/dolj/2015/271",
+   "short": "HCJ Dolj nr. 271/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 271/2015 pentru conditii vatamatoare in cuantum de 283 lei",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20271.pdf",
+     "sha256": "2d48288ba15bc449a8a3bd76de925c474ef315f39a5e7d4fb0abddf5e7fe90f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-272-2015",
+   "path": "local/judet/dolj/2015/272",
+   "short": "HCJ Dolj nr. 272/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 272/2015 pentru conditii vatatamatoare in cuantum de 224 lei",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20272.pdf",
+     "sha256": "9d22c9623366b72ceb30a5653e5539ccb6f2a5d56bb8be8b61f0f242102ef0f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-273-2015",
+   "path": "local/judet/dolj/2015/273",
+   "short": "HCJ Dolj nr. 273/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 273/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20273.pdf",
+     "sha256": "0cae88140b6471d5e12e3019a33c7a2b676cecc02aebb9981f55490455d6affe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-274-2015",
+   "path": "local/judet/dolj/2015/274",
+   "short": "HCJ Dolj nr. 274/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 274/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20274.pdf",
+     "sha256": "98abd54a17851afda76b236ddb68c6401b778022bf07034d1764c6c4ba84599c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-275-2015",
+   "path": "local/judet/dolj/2015/275",
+   "short": "HCJ Dolj nr. 275/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 275/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20275.pdf",
+     "sha256": "310c20424bec771d9ea28543e63e6fe80608de2510f7e391b4737d1f122813e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-276-2015",
+   "path": "local/judet/dolj/2015/276",
+   "short": "HCJ Dolj nr. 276/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 276/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20276.pdf",
+     "sha256": "4cedafa5b122a1d5b4c3686f34114970a82edfa0b9cc0b86562a1ded1f4297b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-277-2015",
+   "path": "local/judet/dolj/2015/277",
+   "short": "HCJ Dolj nr. 277/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 277/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20277.pdf",
+     "sha256": "d638a624f4a1a2fe2abce333fcec859844430032fd956118fcad3dd57521a21f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-278-2015",
+   "path": "local/judet/dolj/2015/278",
+   "short": "HCJ Dolj nr. 278/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 278/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20278.pdf",
+     "sha256": "3720f71cc08406c4e889b13ce4ad2b8aaf0f904c7010c0ca6d0c811be6ce6ed9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-279-2015",
+   "path": "local/judet/dolj/2015/279",
+   "short": "HCJ Dolj nr. 279/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 279/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20279.pdf",
+     "sha256": "50274dd63999b8cf90c514dea2feac90df3f989c9b2be7092c1e659578b5e0bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-280-2015",
+   "path": "local/judet/dolj/2015/280",
+   "short": "HCJ Dolj nr. 280/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 280/2015 pentru conditii de munca in cuantum de 421 lei",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20280.pdf",
+     "sha256": "b56bf8f038ec17cee265244bfa4d201001fd7e4ae9a57306a5ed2ea1f378037b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-281-2015",
+   "path": "local/judet/dolj/2015/281",
+   "short": "HCJ Dolj nr. 281/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 281/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20281.pdf",
+     "sha256": "6064e9e846ffa327f8efc791898a2323bae3c1639ba0cab1f93e75692dc1d095"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-315-2015",
+   "path": "local/judet/dolj/2015/315",
+   "short": "HCJ Dolj nr. 315/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 315/2015 pentru aparatul de specialitate al Consiliului Judetean Dolj, incepand cu data de 01.12.2015, conform anexei la prezenta hotarare",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20315.pdf",
+     "sha256": "86e69b057ed9b7da542da8b4fa23fa16f1344c4bb8cb27ae14f21a098e97cc7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-325-2015",
+   "path": "local/judet/dolj/2015/325",
+   "short": "HCJ Dolj nr. 325/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 325/2015 pentru anul 2015, conform anexei l",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20325.pdf",
+     "sha256": "d239d2105ec8bae0c8fa66fe550b011c063bd5fd1bcdf96333929072ec2cb93e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-331-2015",
+   "path": "local/judet/dolj/2015/331",
+   "short": "HCJ Dolj nr. 331/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 331/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20331.pdf",
+     "sha256": "615a9fffd2763b15164ca9c56f542f9768e657a383c6b6ef4bccd1821d1d39c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-332-2015",
+   "path": "local/judet/dolj/2015/332",
+   "short": "HCJ Dolj nr. 332/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 332/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20332.pdf",
+     "sha256": "4e8b1de4985185cd3fe320ca201cd1bbc03626e49cbd8c4d97b5ab5cccd6d36e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-333-2015",
+   "path": "local/judet/dolj/2015/333",
+   "short": "HCJ Dolj nr. 333/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 333/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20333.pdf",
+     "sha256": "c41216d5f47aaf508fd75cb5939331aeaef8e11fd229d50440752b0059c9fa9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-334-2015",
+   "path": "local/judet/dolj/2015/334",
+   "short": "HCJ Dolj nr. 334/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 334/2015 pentru Conservarea si Promovarea Culturii Traditionale Dolj, va beneficia de majorarea cu 10% a remuneratiei brute lunare",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20334.pdf",
+     "sha256": "2ca814a21d03a5221496dd3fd1ea0a3b627de2db6d6f1a8d06b0e8f639f5d117"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-335-2015",
+   "path": "local/judet/dolj/2015/335",
+   "short": "HCJ Dolj nr. 335/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 335/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20335.pdf",
+     "sha256": "fab6d3f69aba89a1867dff8c725522ed629fdb7ca2ccc3b438afe4e8e6b29e56"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-336-2015",
+   "path": "local/judet/dolj/2015/336",
+   "short": "HCJ Dolj nr. 336/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 336/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20336.pdf",
+     "sha256": "e37224e55a3b7350477ebfc53e2c98ff36d85479dd6f01deb8c7a52a2a20aa14"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-337-2015",
+   "path": "local/judet/dolj/2015/337",
+   "short": "HCJ Dolj nr. 337/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 337/2015 pentru conditii vatamatoare",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20337.pdf",
+     "sha256": "75f987c2aeabdbc2cf9ee1e0db881e0f7376ec13f6c1c9f4235862d9e2b64e0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-338-2015",
+   "path": "local/judet/dolj/2015/338",
+   "short": "HCJ Dolj nr. 338/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 338/2015 pentru conditii vatamatoare",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20338.pdf",
+     "sha256": "1cee4164ed894a8b3eae3d3f3ba012b3ab9df79972415a169d889184abbc444e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-339-2015",
+   "path": "local/judet/dolj/2015/339",
+   "short": "HCJ Dolj nr. 339/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 339/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20339.pdf",
+     "sha256": "6241d10d85aad98b7fd6524a619547e4a643423b07e87929f7c7ae960d4f1b55"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-340-2015",
+   "path": "local/judet/dolj/2015/340",
+   "short": "HCJ Dolj nr. 340/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 340/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20340.pdf",
+     "sha256": "b8552d844490822d5a5508eafe827c73454b30e1180bdc4f84f93d72bd0770c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-346-2015",
+   "path": "local/judet/dolj/2015/346",
+   "short": "HCJ Dolj nr. 346/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 346/2015",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%20346.pdf",
+     "sha256": "d52b8df946fe5ff9961fdd75801bce359af6b8ac088b2220808ba6ade1605d68"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-43-2015",
+   "path": "local/judet/dolj/2015/43",
+   "short": "HCJ Dolj nr. 43/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 43/2015 pentru a sustine si aproba in Adunarea Generala Ordinara a Actionarilor a S.C",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-02-19",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2043.pdf",
+     "sha256": "c77a87ee5bf84fbd509e91c0823b27ad5d880dbee0334ea41cc6ef1d8113b685"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-6-2015",
+   "path": "local/judet/dolj/2015/6",
+   "short": "HCJ Dolj nr. 6/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 6/2015 pentru plata alocatiei zilnice de hrana copiilor/elevilor/tinerilor cu cerinte educative speciale din invatamantul special si special integrat, care nu se afla in sistemul de protectie sociala, din judetul Dolj",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-01-28",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%206.pdf",
+     "sha256": "52d7c7f0642ec86440ac79d9207b58a09ba57f6bab1cc380fc57ca54cf1fa308"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-95-2015",
+   "path": "local/judet/dolj/2015/95",
+   "short": "HCJ Dolj nr. 95/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 95/2015 pentru aprobarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apa si de canalizare incheiat intre As",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2095.pdf",
+     "sha256": "cf3eb3816bcefe51d98cabe62a21a7bb3f531f6e71f97e08f522584696ba5c22"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-dolj-99-2015",
+   "path": "local/judet/dolj/2015/99",
+   "short": "HCJ Dolj nr. 99/2015",
+   "title": "Hotărârea Consiliului Județean Dolj nr. 99/2015 privind contractarea unui imprumut in valoare de maximum 48.157.000 lei",
+   "url": "https://www.cjdolj.ro/dm_dolj/site.nsf/pagini/hotarari+2015-0000149A",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.cjdolj.ro/portal/siteweb/Hotarari%202015/Hotararea%2099.pdf",
+     "sha256": "2aedf65cfda80809acc886ad54b3d43b6524f51e21aef8c1f645447204184a3a"
     }
    ]
   }

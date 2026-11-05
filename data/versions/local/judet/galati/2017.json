@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/judet/galati/2017",
+ "acts": [
+  {
+   "slug": "hcj-galati-1-2017",
+   "path": "local/judet/galati/2017/1",
+   "short": "HCJ Galați nr. 1/2017",
+   "title": "Hotărârea Consiliului Județean Galați nr. 1/2017",
+   "url": "https://cjgalati.ro/mongl/",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/images/stories/MonitorOficial/mo1-2017.pdf",
+     "sha256": "285a8f1b40f3e04f347fca33e05fe8e394866c529bede96acce85e37ef45947a"
+    }
+   ]
+  }
+ ]
+}

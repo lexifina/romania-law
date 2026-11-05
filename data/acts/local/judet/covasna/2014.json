@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/judet/covasna/2014",
+"acts": [
+{
+"slug": "hcj-covasna-62-2014",
+"path": "local/judet/covasna/2014/62",
+"kind": "local",
+"year": "2014",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 62/2014",
+"short": "HCJ Covasna nr. 62/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-04-11",
+"latest": "2014-04-11",
+"portal": "https://www.cjcv.ro/ro/monitorul-oficial-al-judetului-covasna-pe-anul-2014.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-covasna-114-2014",
+"path": "local/judet/covasna/2014/114",
+"kind": "local",
+"year": "2014",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Covasna nr. 114/2014 privind aprobarea cooperării județului Covasna cu 3 122 privind modificarea art. 5 din Anexa la Hotărârea 28 Inspectoratul de Poliție al Județului Covasna, în vederea Consiliului Județean Covasna nr. 70/2013 cu privire la realizării Proiectului „Supraveghere și monitorizare cu aprobarea și implementarea în județul Covasna a camere video a ordinii publice pe DN 11B la intrarea în programului multia",
+"short": "HCJ Covasna nr. 114/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-08-28",
+"latest": "2014-08-28",
+"portal": "https://www.cjcv.ro/ro/monitorul-oficial-al-judetului-covasna-pe-anul-2014.html",
+"council": "judet/covasna",
+"council_name": "Consiliul Județean Covasna",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}
