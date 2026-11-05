@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12527 acts, 24,042 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12532 acts, 24,047 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8404, of which 3171 amending acts)
+## Laws (legi) (8409, of which 3172 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -534,9 +534,14 @@
 | Legea nr. 106/1998 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 83/1997 pentru modificarea şi completarea Ordonanţei Guvernului nr. 70/1994 privind impozitul pe profit | [`lege/1998/106/`](lege/1998/106/) | amended, not consolidated | 1 | 1998-05-29 | 1998-05-29 |
 | Legea nr. 107/1998 pentru ratificarea de către România a Protocolului referitor la amendarea Convenţiei privind aviaţia civilă internaţionala, adoptat la Montreal la 10 mai 1984 | [`lege/1998/107/`](lege/1998/107/) | amended, not consolidated | 1 | 1998-06-01 | 1998-06-01 |
 | Legea nr. 108/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 26/1997 privind protecţia copilului aflat în dificultate | [`lege/1998/108/`](lege/1998/108/) | amended, not consolidated | 1 | 1998-06-02 | 1998-06-02 |
+| Legea nr. 110/1998 bugetului asigurărilor sociale de stat pe anul 1998 | [`lege/1998/110/`](lege/1998/110/) | in force | 1 | 1998-06-03 | 1998-06-03 |
 | Legea nr. 111/1998 pentru aderarea României la Convenţia Naţiunilor Unite pentru combaterea deşertificării în ţările afectate grav de seceta şi/sau de deşertificare, în special în Africa, adoptată la Paris la 17 iunie 1994 | [`lege/1998/111/`](lege/1998/111/) | amended, not consolidated | 1 | 1998-06-17 | 1998-06-17 |
 | Legea nr. 112/1998 privind aprobarea Ordonanţei Guvernului nr. 11/1998 pentru modificarea şi completarea Legii nr. 146/1997 privind taxele judiciare de timbru | [`lege/1998/112/`](lege/1998/112/) | amended, not consolidated | 1 | 1998-06-09 | 1998-06-09 |
+| Legea nr. 114/1998 pentru ratificarea Acordului comercial şi de cooperare economică dintre Guvernul României şi Guvernul Republicii Venezuela, semnat la Bucureşti la 4 iulie 1996 | [`lege/1998/114/`](lege/1998/114/) | in force | 1 | 1998-06-16 | 1998-06-16 |
+| Legea nr. 115/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 93/1997 privind utilizarea disponibilităţilor existente în urma execuţiei bugetare pe anul 1997 a fondurilor constituite în baza Ordonanţei de urgenţă a Guvernului nr. 45/1997 şi a Ordonanţei Guvernului nr. 21/1997 | [`lege/1998/115/`](lege/1998/115/) | amending act | 1 | 1998-06-09 | 1998-06-09 |
 | Legea nr. 117/1998 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Belarus privind serviciile aeriene, semnat la Bucureşti la 31 mai 1995 | [`lege/1998/117/`](lege/1998/117/) | amended, not consolidated | 1 | 1998-06-16 | 1998-06-16 |
+| Legea nr. 118/1998 pentru ratificarea Tratatului dintre România şi Republica Populara Chineza privind extrădarea, semnat la Bucureşti la 1 iulie 1996 | [`lege/1998/118/`](lege/1998/118/) | in force | 1 | 1998-06-17 | 1998-06-17 |
+| Legea nr. 119/1998 privind înfiinţarea Universităţii de Medicina şi Farmacie din Craiova | [`lege/1998/119/`](lege/1998/119/) | in force | 1 | 1998-06-09 | 1998-06-09 |
 | Legea nr. 120/1998 privind aprobarea Ordonanţei Guvernului nr. 10/1998 pentru modificarea articolului 8 din Ordonanţa Guvernului nr. 32/1995 privind timbrul judiciar | [`lege/1998/120/`](lege/1998/120/) | amended, not consolidated | 1 | 1998-06-18 | 1998-06-18 |
 | Legea nr. 121/1998 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 90/1997 pentru modificarea şi completarea Legii nr. 116/1996 privind acordarea de despăgubiri producătorilor agricoli pentru suprafeţele agricole calamitate în anul agricol 1995-1996 | [`lege/1998/121/`](lege/1998/121/) | amended, not consolidated | 1 | 1998-06-18 | 1998-06-18 |
 | Legea nr. 122/1998 pentru aprobarea Ordonanţei Guvernului nr. 12/1998 privind taxele de timbru pentru activitatea notarială | [`lege/1998/122/`](lege/1998/122/) | amended, not consolidated | 1 | 1998-06-19 | 1998-06-19 |
@@ -12593,7 +12598,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28940 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28961 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

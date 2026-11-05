@@ -85757,6 +85757,21 @@
    ]
   },
   {
+   "slug": "legea-110-1998",
+   "path": "lege/1998/110",
+   "short": "Legea nr. 110/1998",
+   "title": "Legea nr. 110/1998 bugetului asigurărilor sociale de stat pe anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14827",
+   "versions": [
+    {
+     "from": "1998-06-03",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14827",
+     "sha256": "42a2808bc55a299fe6e00c8f2fd08ea1f1a7d50432cc9fb43747aff83df7695c"
+    }
+   ]
+  },
+  {
    "slug": "legea-110-1999",
    "path": "lege/1999/110",
    "short": "Legea nr. 110/1999",
@@ -87074,6 +87089,21 @@
    ]
   },
   {
+   "slug": "legea-114-1998",
+   "path": "lege/1998/114",
+   "short": "Legea nr. 114/1998",
+   "title": "Legea nr. 114/1998 pentru ratificarea Acordului comercial şi de cooperare economică dintre Guvernul României şi Guvernul Republicii Venezuela, semnat la Bucureşti la 4 iulie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14915",
+   "versions": [
+    {
+     "from": "1998-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14915",
+     "sha256": "59d5967ef2ca5934782ecdd6ca561d081cffe8fa710c9ea7fb8e4f36865de4d3"
+    }
+   ]
+  },
+  {
    "slug": "legea-114-1999",
    "path": "lege/1999/114",
    "short": "Legea nr. 114/1999",
@@ -87310,6 +87340,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299224",
      "sha256": "79ccadd2372352886ce1c4e57d172d6ab5b329153f51206f60655ead5b3f8971"
+    }
+   ]
+  },
+  {
+   "slug": "legea-115-1998",
+   "path": "lege/1998/115",
+   "short": "Legea nr. 115/1998",
+   "title": "Legea nr. 115/1998 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 93/1997 privind utilizarea disponibilităţilor existente în urma execuţiei bugetare pe anul 1997 a fondurilor constituite în baza Ordonanţei de urgenţă a Guvernului nr. 45/1997 şi a Ordonanţei Guvernului nr. 21/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14855",
+   "versions": [
+    {
+     "from": "1998-06-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14855",
+     "sha256": "a578fec4ebc3d05efedd5206fa3a8ce13ae1699cc243c5fbb0926ecbab9cfe5f"
     }
    ]
   },
@@ -88238,6 +88283,21 @@
    ]
   },
   {
+   "slug": "legea-118-1998",
+   "path": "lege/1998/118",
+   "short": "Legea nr. 118/1998",
+   "title": "Legea nr. 118/1998 pentru ratificarea Tratatului dintre România şi Republica Populara Chineza privind extrădarea, semnat la Bucureşti la 1 iulie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14925",
+   "versions": [
+    {
+     "from": "1998-06-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14925",
+     "sha256": "8f317e35bdbf30189ca768d3c42e968ae2c8917f7bd868b3cb69e8ae384f7616"
+    }
+   ]
+  },
+  {
    "slug": "legea-118-1999",
    "path": "lege/1999/118",
    "short": "Legea nr. 118/1999",
@@ -88546,6 +88606,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6323",
      "sha256": "7dac6c66f35e7f35e0d0403e7a178e710c80af31e708abf650d072b380fdd23d"
+    }
+   ]
+  },
+  {
+   "slug": "legea-119-1998",
+   "path": "lege/1998/119",
+   "short": "Legea nr. 119/1998",
+   "title": "Legea nr. 119/1998 privind înfiinţarea Universităţii de Medicina şi Farmacie din Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14857",
+   "versions": [
+    {
+     "from": "1998-06-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14857",
+     "sha256": "029e5f65614c57dc525fb61c2b6c3d622af8e2d9b5fe351c9a94d8c6278d93c3"
     }
    ]
   },
