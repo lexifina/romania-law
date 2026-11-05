@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12456 acts, 23,971 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12458 acts, 23,973 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8349, of which 3136 amending acts)
+## Laws (legi) (8350, of which 3136 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -620,6 +620,7 @@
 | Legea nr. 40/1999 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Slovace privind recunoaşterea reciprocă a perioadelor de studii şi a actelor de studii eliberate în România şi în Republica Slovaca, semnat la Bratislava la 28 iunie 1998 | [`lege/1999/40/`](lege/1999/40/) | amended, not consolidated | 1 | 1999-03-18 | 1999-03-18 |
 | Legea nr. 41/1999 pentru aprobarea Ordonanţei Guvernului nr. 130/1998 privind regularizarea cotelor de capital social în procesul de privatizare a băncilor | [`lege/1999/41/`](lege/1999/41/) | amended, not consolidated | 1 | 1999-03-24 | 1999-03-24 |
 | Legea nr. 44/1999 privind respingerea Ordonanţei de urgenta a Guvernului nr. 20/1998 pentru modificarea Ordonanţei Guvernului nr. 50/1998 privind aprobarea primei de 200 lei/kg la cumpărarea graului din recolta anului 1998 pentru panificaţie, destinat consumului intern, societăţilor comerciale de morărit şi/sau de panificaţie | [`lege/1999/44/`](lege/1999/44/) | amended, not consolidated | 1 | 1999-03-31 | 1999-03-31 |
+| Legea nr. 45/1999 privind ratificarea Convenţiei dintre Guvernul României şi Guvernul Georgiei pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi pe capital, semnată la Bucureşti la 12 decembrie 1997 | [`lege/1999/45/`](lege/1999/45/) | in force | 1 | 1999-03-31 | 1999-03-31 |
 | Legea nr. 46/1999 pentru ratificarea Protocolului dintre Guvernul României şi Guvernul Republicii Moldova privind colaborarea în domeniul transporturilor militare, semnat la Bucureşti la 24 iulie 1997 | [`lege/1999/46/`](lege/1999/46/) | in force | 1 | 1999-04-07 | 1999-04-07 |
 | Legea nr. 47/1999 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Ungare privind înfiinţarea Batalionului mixt de menţinere a păcii, semnat la Budapesta la 20 martie 1998 | [`lege/1999/47/`](lege/1999/47/) | amended, not consolidated | 1 | 1999-04-08 | 1999-04-08 |
 | Legea nr. 48/1999 pentru ratificarea Acordului de cooperare dintre Guvernul României şi Guvernul Republicii Ungare în domeniul transporturilor militare, semnat la Oradea la 20 decembrie 1997 | [`lege/1999/48/`](lege/1999/48/) | amended, not consolidated | 1 | 1999-04-08 | 1999-04-08 |
@@ -8387,7 +8388,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2925, of which 675 amending acts)
+## Emergency ordinances (OUG) (2926, of which 675 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8467,6 +8468,7 @@
 | Ordonanța de urgență a Guvernului nr. 28/1999 | [`oug/1999/28/`](oug/1999/28/) | in force | 32 | 1999-03-31 | 2024-12-26 |
 | Ordonanța de urgență a Guvernului nr. 29/1999 privind unele măsuri legate de trecerea la anul 2000 a sistemelor informatice şi a sistemelor electronice microprogramate | [`oug/1999/29/`](oug/1999/29/) | amended, not consolidated | 1 | 1999-03-31 | 1999-03-31 |
 | Ordonanța de urgență a Guvernului nr. 30/1999 pentru modificarea art. 7 din Ordonanţa Guvernului nr. 26/1993 privind Tariful vamal de import al României | [`oug/1999/30/`](oug/1999/30/) | amended, not consolidated | 1 | 1999-03-31 | 1999-03-31 |
+| Ordonanța de urgență a Guvernului nr. 32/1999 privind aplicarea prevederilor art. 6 alin. (2) din Legea bugetului de stat pe anul 1999 nr. 36/1999 | [`oug/1999/32/`](oug/1999/32/) | in force | 1 | 1999-03-26 | 1999-03-26 |
 | Ordonanța de urgență a Guvernului nr. 34/1999 pentru modificarea Ordonanţei Guvernului nr. 18/1996 privind angajarea de împrumuturi guvernamentale prin emisiunea de obligaţiuni de stat în valută de pe piaţa internă | [`oug/1999/34/`](oug/1999/34/) | amended, not consolidated | 1 | 1999-04-02 | 1999-04-02 |
 | Ordonanța de urgență a Guvernului nr. 35/1999 privind alocarea unei sume din bugetul Ministerului Muncii şi Protecţiei Sociale pentru finanţarea unor acţiuni destinate sărbătoririi în România a Anului internaţional al vârstnicilor | [`oug/1999/35/`](oug/1999/35/) | amended, not consolidated | 1 | 1999-04-02 | 1999-04-02 |
 | Ordonanța de urgență a Guvernului nr. 37/1999 pentru completarea art. 9 din Ordonanţa de urgenţă a Guvernului nr. 88/1997 privind privatizarea societăţilor comerciale | [`oug/1999/37/`](oug/1999/37/) | amended, not consolidated | 1 | 1999-04-02 | 1999-04-02 |
@@ -12522,7 +12524,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28459 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28481 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

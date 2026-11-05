@@ -168299,6 +168299,21 @@
    ]
   },
   {
+   "slug": "legea-45-1999",
+   "path": "lege/1999/45",
+   "short": "Legea nr. 45/1999",
+   "title": "Legea nr. 45/1999 privind ratificarea Convenţiei dintre Guvernul României şi Guvernul Georgiei pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi pe capital, semnată la Bucureşti la 12 decembrie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17436",
+   "versions": [
+    {
+     "from": "1999-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17436",
+     "sha256": "21486623fb9005fbdf6e037461ad1893c0f52f080d9cf68fa83e167a3d9cbe4c"
+    }
+   ]
+  },
+  {
    "slug": "legea-45-2001",
    "path": "lege/2001/45",
    "short": "Legea nr. 45/2001",
@@ -234298,6 +234313,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270112",
      "sha256": "0be880801ecad28b6f9b8e726298c2f93d32dd28686afdbdc9816ca9576906e2"
+    }
+   ]
+  },
+  {
+   "slug": "oug-32-1999",
+   "path": "oug/1999/32",
+   "short": "OUG nr. 32/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 32/1999 privind aplicarea prevederilor art. 6 alin. (2) din Legea bugetului de stat pe anul 1999 nr. 36/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17288",
+   "versions": [
+    {
+     "from": "1999-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17288",
+     "sha256": "69e559d237178f7c43408db5344dff8cc4f0a2daae4be42731b0b25a76a449d9"
     }
    ]
   },

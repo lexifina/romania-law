@@ -1197,6 +1197,141 @@
    ]
   },
   {
+   "slug": "hg-199-1999",
+   "path": "hg/1999/199",
+   "short": "HG nr. 199/1999",
+   "title": "Hotărârea Guvernului nr. 199/1999 privind declararea zonei miniere Moldova Noua-Anina, judeţul Caraş-Severin, ca zona defavorizată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17526",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17526",
+     "sha256": "f8e749e5bf574cda8c7a7fd359cdc315439a740c2a5df31f05441f5c1c59d348"
+    }
+   ]
+  },
+  {
+   "slug": "hg-200-1999",
+   "path": "hg/1999/200",
+   "short": "HG nr. 200/1999",
+   "title": "Hotărârea Guvernului nr. 200/1999 privind declararea zonei miniere Ip, judeţul Sălaj, ca zona defavorizată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17527",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17527",
+     "sha256": "4fff932ef3f4d2cf7fa58937627343aca5b5935eddf180efa2a481e9c0d1fe0d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-201-1999",
+   "path": "hg/1999/201",
+   "short": "HG nr. 201/1999",
+   "title": "Hotărârea Guvernului nr. 201/1999 privind declararea zonei miniere Hida-Surduc-Jibou-Balan, judeţul Sălaj, ca zona defavorizată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17528",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17528",
+     "sha256": "8f9ce08c9e328465263aeee0fd2d7c8fa9556be74556329c55e243c21d588a69"
+    }
+   ]
+  },
+  {
+   "slug": "hg-202-1999",
+   "path": "hg/1999/202",
+   "short": "HG nr. 202/1999",
+   "title": "Hotărârea Guvernului nr. 202/1999 privind declararea zonei miniere Sărmăşag-Chiejd-Bobota, judeţul Sălaj, ca zona defavorizată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17529",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17529",
+     "sha256": "28ddf1d11429c6a8d8f3862b42b5259bad1439f4a2abbf300da98d748045909b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-204-1999",
+   "path": "hg/1999/204",
+   "short": "HG nr. 204/1999",
+   "title": "Hotărârea Guvernului nr. 204/1999 privind declararea zonei miniere Borşa-Vişeu, judeţul Maramureş, ca zona defavorizată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17531",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17531",
+     "sha256": "15879ad5be653175c8904e382b950316c63225ce6977e98d3ff7fa178ed72e2e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-205-1999",
+   "path": "hg/1999/205",
+   "short": "HG nr. 205/1999",
+   "title": "Hotărârea Guvernului nr. 205/1999 privind declararea zonei miniere Filipeşti, judeţul Prahova, ca zona defavorizată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17532",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17532",
+     "sha256": "1e4a54819df5ae6e2022bf1a7165e583a6f38daf8fe6feb3dcf9a1dafe4d09b1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-207-1999",
+   "path": "hg/1999/207",
+   "short": "HG nr. 207/1999",
+   "title": "Hotărârea Guvernului nr. 207/1999 privind declararea zonei miniere Comăneşti, judeţul Bacău, ca zona defavorizată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17534",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17534",
+     "sha256": "35e0cd40edf4c489a266475770b9c0b299c6b7404d788b26a0711d5d1b39fe2d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-208-1999",
+   "path": "hg/1999/208",
+   "short": "HG nr. 208/1999",
+   "title": "Hotărârea Guvernului nr. 208/1999 privind declararea zonei miniere Bucovina, judeţul Suceava, ca zona defavorizată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17535",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17535",
+     "sha256": "eb2e8690d802e5f6ae5bb64dfdff9b98679b51d28f9e3a0c136b0ffe0156f7e8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-209-1999",
+   "path": "hg/1999/209",
+   "short": "HG nr. 209/1999",
+   "title": "Hotărârea Guvernului nr. 209/1999 privind declararea zonei miniere Baraolt, judeţul Covasna, ca zona defavorizată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17536",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17536",
+     "sha256": "799183f36f4b0a12dc861b220ffff86ac15c3f9b6056ee826e2128a0ea4f466e"
+    }
+   ]
+  },
+  {
    "slug": "hg-21-1999",
    "path": "hg/1999/21",
    "short": "HG nr. 21/1999",
@@ -1227,6 +1362,36 @@
    ]
   },
   {
+   "slug": "hg-213-1999",
+   "path": "hg/1999/213",
+   "short": "HG nr. 213/1999",
+   "title": "Hotărârea Guvernului nr. 213/1999 pentru modificarea art. 1 din Hotărârea Guvernului nr. 252/1996 privind regimul diferenţelor de curs valutar aferente capitalului social în devize şi alte operaţiuni aplicabile începând cu bilanţul contabil cu termen de depunere până la 15 aprilie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17445",
+   "versions": [
+    {
+     "from": "1999-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17445",
+     "sha256": "37a4fdaef9e5b8bd7d835a5893b2cdf5b5b58743228e9227d27dd70fbd2bec34"
+    }
+   ]
+  },
+  {
+   "slug": "hg-215-1999",
+   "path": "hg/1999/215",
+   "short": "HG nr. 215/1999",
+   "title": "Hotărârea Guvernului nr. 215/1999 pentru modificarea şi completarea Hotărârii Guvernului nr. 479/1994 privind organizarea şi funcţionarea Ministerului Afacerilor Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17612",
+   "versions": [
+    {
+     "from": "1999-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17612",
+     "sha256": "616a90b274b5ac39091b57fdbf607282ebfbe0eb711c95e9b0bae8e67317eba5"
+    }
+   ]
+  },
+  {
    "slug": "hg-216-1999",
    "path": "hg/1999/216",
    "short": "HG nr. 216/1999",
@@ -1238,6 +1403,171 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17542",
      "sha256": "36f5eb019413002f000e80d569582e3008a0c07a5f6d0b2dcd0b00811fd5e5cb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-217-1999",
+   "path": "hg/1999/217",
+   "short": "HG nr. 217/1999",
+   "title": "Hotărârea Guvernului nr. 217/1999 privind autorizarea Comitetului Interministerial de Garanţii şi Credite de Comerţ Exterior de a aproba garantarea în proporţie de până la 100% a unui credit extern în favoarea Societăţii Naţionale de Transport Feroviar de Călători \"C.F.R. Călători\" - S.A., precum şi autorizarea Ministerului Finanţelor de a garanta acest credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17613",
+   "versions": [
+    {
+     "from": "1999-04-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17613",
+     "sha256": "1f94f59e72f0766d00780bc70afc8b91edb13ed7080bc8e80d9a0b2605f9db78"
+    }
+   ]
+  },
+  {
+   "slug": "hg-218-1999",
+   "path": "hg/1999/218",
+   "short": "HG nr. 218/1999",
+   "title": "Hotărârea Guvernului nr. 218/1999 pentru modificarea anexei la Hotărârea Guvernului nr. 804/1997 privind transmiterea, fără plata, a doua imobile, proprietate publică a statului, situate în oraşul Gura Humorului, judeţul Suceava, din administrarea Regiei Autonome a Plumbului şi Zincului Baia Mare în administrarea Ministerului Public şi a Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17614",
+   "versions": [
+    {
+     "from": "1999-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17614",
+     "sha256": "6624d6d51a81a8b223852741d6ec1164d883e8c794a4ac6bf2316f82dc914a46"
+    }
+   ]
+  },
+  {
+   "slug": "hg-219-1999",
+   "path": "hg/1999/219",
+   "short": "HG nr. 219/1999",
+   "title": "Hotărârea Guvernului nr. 219/1999 privind stabilirea şi sancţionarea contravenţiilor la prevederile Ordonanţei Guvernului nr. 128/1998 pentru reglementarea modului şi condiţiilor de valorificare a bunurilor legal confiscate sau intrate, potrivit legii, în proprietatea privată a statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17615",
+   "versions": [
+    {
+     "from": "1999-04-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17615",
+     "sha256": "8faa9eb50a705b34bd6ec03a55a4ecd4094a448bcbcbfce23715f62b5f2855db"
+    }
+   ]
+  },
+  {
+   "slug": "hg-220-1999",
+   "path": "hg/1999/220",
+   "short": "HG nr. 220/1999",
+   "title": "Hotărârea Guvernului nr. 220/1999 privind transmiterea unui obiectiv de investiţii, proprietate publică a statului, situat în municipiul Iaşi, judeţul Iaşi, din administrarea Ministerului Sănătăţii în folosinţa gratuită a Mitropoliei Moldovei şi Bucovinei din Iaşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17435",
+   "versions": [
+    {
+     "from": "1999-03-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17435",
+     "sha256": "5c10221f1a17723833508194720cfd9ce41008f5f8d903607a8c5fe15c0e4f7e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-221-1999",
+   "path": "hg/1999/221",
+   "short": "HG nr. 221/1999",
+   "title": "Hotărârea Guvernului nr. 221/1999 privind aprobarea Acordului de concesiune pentru dezvoltare-exploatare petrolieră în perimetrul P II-3 Moraviţa, încheiat între Agenţia Naţionala pentru Resurse Minerale şi Societatea Naţionala a Petrolului \"Petrom\" - S.A. Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17629",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17629",
+     "sha256": "b30e5f6a7142072d1a899a467afe512ead491f055298b086db7b49db936c48bc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-222-1999",
+   "path": "hg/1999/222",
+   "short": "HG nr. 222/1999",
+   "title": "Hotărârea Guvernului nr. 222/1999 pentru modificarea anexei la Hotărârea Guvernului nr. 851/1998 privind transmiterea, cu justî despăgubire, a unui activ din patrimoniul Societăţii Naţionale a Petrolului \"Petrom\" - S.A. Bucureşti în patrimoniul Societăţii Comerciale \"Oltchim\" - S.A. Râmnicu Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17630",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17630",
+     "sha256": "1cb63401488f019af3fe48c860f770ae9a996d4e99ff6f674f65c0cd9cc5cd12"
+    }
+   ]
+  },
+  {
+   "slug": "hg-224-1999",
+   "path": "hg/1999/224",
+   "short": "HG nr. 224/1999",
+   "title": "Hotărârea Guvernului nr. 224/1999 pentru declararea zilei de 7 aprilie \"Ziua sănătăţii\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17439",
+   "versions": [
+    {
+     "from": "1999-03-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17439",
+     "sha256": "bb8d91af9321f31336fa9baf1f2bd903058b446143cd30e944e847f14bbab679"
+    }
+   ]
+  },
+  {
+   "slug": "hg-225-1999",
+   "path": "hg/1999/225",
+   "short": "HG nr. 225/1999",
+   "title": "Hotărârea Guvernului nr. 225/1999 privind transmiterea unui teren, proprietate publică a statului, situat în municipiul Târgovişte, judeţul Dâmboviţa, din administrarea Ministerului Educaţiei Naţionale în administrarea Consiliului Local al Municipiului Târgovişte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17632",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17632",
+     "sha256": "d5e451da1f8325cc20be5cc4134ac69d32657b2361e3f3aea422bcc1d893f8e9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-226-1999",
+   "path": "hg/1999/226",
+   "short": "HG nr. 226/1999",
+   "title": "Hotărârea Guvernului nr. 226/1999 privind acordarea de la bugetul de stata unor ajutoare financiare pentru întreţinerea şi funcţionarea unor unităţi de cult",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17447",
+   "versions": [
+    {
+     "from": "1999-03-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17447",
+     "sha256": "4cd424fdbe998a74e3b5240acb44df13e7eafeda6b2f10689e4e2a1ed1e5fcc9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-227-1999",
+   "path": "hg/1999/227",
+   "short": "HG nr. 227/1999",
+   "title": "Hotărârea Guvernului nr. 227/1999 pentru aprobarea Procesului-verbal al celei de-a XXV-a sesiuni ordinare a Comisiei mixte permanente româno-iugoslave pentru micul trafic de călători în zona de frontieră, semnat la Bucureşti la 18 decembrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17448",
+   "versions": [
+    {
+     "from": "1999-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17448",
+     "sha256": "0e243e2b4f9344d97853d6d814699c5f980e442008aac8449ee73b79a40d33fd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-228-1999",
+   "path": "hg/1999/228",
+   "short": "HG nr. 228/1999",
+   "title": "Hotărârea Guvernului nr. 228/1999 pentru modificarea şi completarea Normelor privind constituirea şi utilizarea fondului pentru stimularea personalului Oficiului Concurentei şi al inspectoratelor de concurenta judeţene şi al municipiului Bucureşti, aprobate prin Hotărârea Guvernului nr. 1.170/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17563",
+   "versions": [
+    {
+     "from": "1999-04-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17563",
+     "sha256": "7cfafc0beb4de3bc172fd1024c13e7daeab91c137be8597ac6f7979b3d237d50"
     }
    ]
   },
