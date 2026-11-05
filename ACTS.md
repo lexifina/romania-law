@@ -12468,7 +12468,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 27876 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 27900 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 18510 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 724 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 554 | [`data/acts/regulament/`](data/acts/regulament/) |
