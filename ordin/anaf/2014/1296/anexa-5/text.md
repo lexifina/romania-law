@@ -1,0 +1,45 @@
+# Anexa 4 (Anexa nr. 5 la Ordinul nr. 2.605/2010)
+ANTET
+Dosar fiscal nr....../.......
+- Model -
+PROCES-VERBAL de sechestru asigurător pentru bunuri imobile
+Încheiat astăzi,... luna... anul...., ora...., în localitatea......., str......... nr......
+În temeiul art. 129 alin. (2) din Ordonanța Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările și completările ulterioare, și al Deciziei de instituire a măsurilor asigurătorii nr......... din......, emisă de....../*1), subsemnatul,......, reprezentant al unității fiscale, cu legitimația nr....., delegația nr....., am procedat la aplicarea sechestrului asigurător asupra bunurilor imobile ale debitorului*2).........., cu domiciliul fiscal în localitatea......, str........ nr...., sectorul..., bl......, sc......, ap......, județul......, cod de identificare fiscală*3)............, care înregistrează obligații de plată, constând în:
+```
+┌─────────────────────────────────────────┬─────────────────────────────────┐
+│       Natura obligației fiscale*4)      │   Suma estimată/stabilită       │
+│                                         │            (lei)                │
+├─────────────────────────────────────────┼─────────────────────────────────┤
+├─────────────────────────────────────────┼─────────────────────────────────┤
+├─────────────────────────────────────────┼─────────────────────────────────┤
+├─────────────────────────────────────────┼─────────────────────────────────┤
+├─────────────────────────────────────────┼─────────────────────────────────┤
+└─────────────────────────────────────────┴─────────────────────────────────┘
+```
+S-a procedat la aplicarea sechestrului asigurător asupra următoarelor bunuri imobile:
+- clădire în suprafață de......, compusă din........ și construită din................., stare de uzură/ semne particulare..........., situată în localitatea......, str........ nr....., deținută în baza*5)............, evaluată la suma de....... lei (exclusiv TVA);
+- teren*6)......., în suprafață de......., situat în................, str......... nr....., deținut în baza*7)......, evaluat la suma de...... lei (exclusiv TVA).
+În cazul valorificării bunurilor imobile sechestrate se va aplica regimul corespunzător de taxă pe valoarea adăugată, în conformitate cu prevederile Legii nr. 571/2003 privind Codul fiscal, cu modificările și completările ulterioare.
+În cazul în care reprezentantul unității fiscale nu poate evalua bunurile imobile pentru care s-a dispus sechestrul asigurător deoarece aceasta necesită cunoștințe de specialitate, evaluarea se va face după începerea executării silite, înaintea procedurii de valorificare.
+Sechestrul asigurător s-a aplicat în prezența următoarelor persoane:
+-......, domiciliat în......, legitimat cu......, în calitate de.......;
+-......, domiciliat în......, legitimat cu......, în calitate de........
+Drepturi reale și sarcini care grevează imobilul:.......................
+În legătură cu bunurile imobile sechestrate asigurător, debitorul.......... menționează că nu au fost/au fost sechestrate anterior....................
+Persoanele de față la aplicarea sechestrului asigurător formulează următoarele obiecții:................................
+Măsurile asigurătorii dispuse, dacă nu au fost desființate în condițiile legii, rămân valabile pe toată perioada executării silite, fără îndeplinirea altor formalități.
+*8)...................................................................
+Împotriva prezentului înscris cel interesat poate introduce contestație la instanța judecătorească competentă, în termen de 15 zile de la comunicare sau luare la cunoștință, în conformitate cu prevederile art. 129 alin. (11), coroborate cu prevederile art. 172 și 173 din Ordonanța Guvernului nr. 92/2003, republicată, cu modificările și completările ulterioare.
+Potrivit dispozițiilor art. 9 alin. (2) lit. d) din Ordonanța Guvernului nr. 92/2003, republicată, cu modificările și completările ulterioare, când urmează să se ia măsuri de executare silită, nu este obligatorie audierea contribuabilului.
+Prezentul proces-verbal de sechestru asigurător s-a încheiat în...... exemplare.
+Reprezentantul unității fiscale,
+Debitorul (sau persoana majoră cu care locuiește),
+Numele și prenumele................
+Numele și prenumele.........
+Semnătura...................
+Semnătura...................
+Martori,
+Numele și prenumele................
+Semnătura...................
+---------
+*1) Se va completa în cazul în care măsurile asigurătorii au fost dispuse de instanța judecătorească sau de alte organe competente, potrivit legii. *2) Numele, prenumele/Denumirea. *3) Se va completa codul numeric personal, numărul de identificare fiscală, codul de înregistrare fiscală sau codul unic de înregistrare, după caz. *4) Se va preciza denumirea creanței fiscale principale: impozit, taxă, contribuție, amendă sau altă sumă ori denumirea creanței fiscale accesorii sau alte sume, după caz, gestionate și administrate de Ministerul Finanțelor Publice prin Agenția Națională de Administrare Fiscală și unitățile sale teritoriale. *5) Se va menționa actul care atestă proprietatea asupra bunului. *6) Se va menționa felul terenului. *7) Se va menționa actul care atestă proprietatea asupra bunului. *8) Se va face mențiunea dacă debitorul nu este de față, precum și dacă debitorul sau vreuna dintre persoanele prezente refuză ori nu poate să semneze procesul-verbal de sechestru asigurător. 1. Denumire: Proces-verbal de sechestru asigurător pentru bunuri imobile 2. Format: A4/t2 3. Se utilizează: în baza art. 129 alin. (2) din Ordonanța Guvernului nr. 92/2003, republicată, cu modificările și completările ulterioare. 4. Se întocmește: în 3 exemplare de către organul fiscal. 5. Circulă: - un exemplar la debitor; - un exemplar la oficiul de cadastru și publicitate imobiliară. 6. Se arhivează: un exemplar la dosarul fiscal.
