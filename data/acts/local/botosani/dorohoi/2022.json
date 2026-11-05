@@ -222,6 +222,117 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-botosani--dorohoi-204-2022",
+"path": "local/botosani/dorohoi/2022/204",
+"kind": "local",
+"year": "2022",
+"number": "204",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 204/2022 privind alocarea din bugetul local a sumei de 20.000 lei pentru promovarea municipiului Dorohoi în cadrul Olimpiadei Balcanice de Informatică pentru juniori, în perioada 31 august – 3 septembrie 2022",
+"short": "HCL Dorohoi nr. 204/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-03",
+"latest": "2022-09-03",
+"portal": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--dorohoi-235-2022",
+"path": "local/botosani/dorohoi/2022/235",
+"kind": "local",
+"year": "2022",
+"number": "235",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 235/2022 privind modificarea Stat de functii din cadrul Compartimentului Implementare Proiecte Fonduri Europene incepand cu 01.10.2022",
+"short": "HCL Dorohoi nr. 235/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-01",
+"latest": "2022-10-01",
+"portal": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--dorohoi-270-2022",
+"path": "local/botosani/dorohoi/2022/270",
+"kind": "local",
+"year": "2022",
+"number": "270",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 270/2022",
+"short": "HCL Dorohoi nr. 270/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-01",
+"latest": "2022-01-01",
+"portal": null,
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--dorohoi-272-2022",
+"path": "local/botosani/dorohoi/2022/272",
+"kind": "local",
+"year": "2022",
+"number": "272",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 272/2022 pentru aprobarea efectuarii de cheltuieli din bugetul local, in suma de 5.000 lei, pentru desfasurarea Festivalului de Colinde \" O CE VESTE MINUNATA\", editia I, Dorohoi - 30 noiembrie 2022",
+"short": "HCL Dorohoi nr. 272/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-30",
+"latest": "2022-11-30",
+"portal": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--dorohoi-287-2022",
+"path": "local/botosani/dorohoi/2022/287",
+"kind": "local",
+"year": "2022",
+"number": "287",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 287/2022 privind organizarea Festivalului - Concurs Interjudetean de colinde, cantece de iarna, datini si obiceiuri de Craciun si Anul Nou \" Primeste-ne gazda-n casa \" - editia a IV-a, desfasurat in perioada 10-11 decembrie 2022",
+"short": "HCL Dorohoi nr. 287/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-11",
+"latest": "2022-12-11",
+"portal": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

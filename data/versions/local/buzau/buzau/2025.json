@@ -16,6 +16,21 @@
      "sha256": "a7bd4092a9d286a70f86a13c8176901ccb8454a1c9741683abbc98a10642210a"
     }
    ]
+  },
+  {
+   "slug": "hcl-buzau--buzau-93-2025",
+   "path": "local/buzau/buzau/2025/93",
+   "short": "HCL Buzău nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Buzău nr. 93/2025 pentru aprobarea Regulamentului de organizare şi funcţionare a sistemului de administrare a parcărilor publice pe domeniul public al Municipiului Buzău",
+   "url": "https://primariabuzau.ro/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://primariabuzau.ro/wp-content/uploads/2025/06/HCL-93-aprobare-Regulament-parcari-publice.pdf",
+     "sha256": "0187a551f04cb1369ccde3d3d6807c93663ce6eff74c0fe569885d84bdcf2e21"
+    }
+   ]
   }
  ]
 }

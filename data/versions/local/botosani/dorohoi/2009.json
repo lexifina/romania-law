@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/botosani/dorohoi/2009",
+ "acts": [
+  {
+   "slug": "hcl-botosani--dorohoi-114-2009",
+   "path": "local/botosani/dorohoi/2009/114",
+   "short": "HCL Dorohoi nr. 114/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 114/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-01-18",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/10.SEDINTA%2026042022/HCL_114_28042022.pdf",
+     "sha256": "832bf6e3ed235b3ff8e8d8e116d9f188345297f21b009159fb32f2ec9f4b70b8"
+    }
+   ]
+  }
+ ]
+}

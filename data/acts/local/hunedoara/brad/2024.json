@@ -1,0 +1,251 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/brad/2024",
+"acts": [
+{
+"slug": "hcl-hunedoara--brad-53-2024",
+"path": "local/hunedoara/brad/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 53/2024 privind rectificarea bugetului local al Municipiului Brad pe anul 2024",
+"short": "HCL Brad nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-05",
+"latest": "2024-04-05",
+"portal": "https://emol.ro/brad-hd/registru-hcl/150047",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--brad-84-2024",
+"path": "local/hunedoara/brad/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 84/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a Devizului general actualizat - faza Proiect Tehnic de Execuție, pentru obiectivul de investiții ”POD PESTE RÂURILE CRIȘUL ALB ȘI [lineBreak] LUNCOI ÎN MUNICIPIUL BRAD, JUDEȚUL HUNEDOARA” aprobat pentru finanțare prin [lineBreak] Programul Național de Investiții \"Anghel Saligny\", precum și a sumei [lineBreak] reprezentând categoriile de cheltuieli finanțate de la [lineBreak] bugetul local pentru realizarea obiectivului",
+"short": "HCL Brad nr. 84/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-01",
+"latest": "2024-07-01",
+"portal": "https://emol.ro/brad-hd/registru-hcl/159041",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--brad-100-2024",
+"path": "local/hunedoara/brad/2024/100",
+"kind": "local",
+"year": "2024",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 100/2024 privind aprobarea Organigramei şi a Statului de funcţii pentru aparatul de specialitate al Primarului Municipiului Brad, precum și pentru instituţiile şi serviciile publice locale din subordinea[LineBreak]Consiliului Local al Municipiului Brad",
+"short": "HCL Brad nr. 100/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-08",
+"latest": "2024-07-08",
+"portal": "https://emol.ro/brad-hd/registru-hcl/160697",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--brad-102-2024",
+"path": "local/hunedoara/brad/2024/102",
+"kind": "local",
+"year": "2024",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 102/2024 privind rectificarea bugetului local al Municipiului Brad pe anul 2024",
+"short": "HCL Brad nr. 102/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-11",
+"latest": "2024-07-11",
+"portal": "https://emol.ro/brad-hd/registru-hcl/161420",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--brad-103-2024",
+"path": "local/hunedoara/brad/2024/103",
+"kind": "local",
+"year": "2024",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 103/2024 privind rectificarea bugetului de venituri şi cheltuieli al Clubului Sportiv [lineBreak]Municipal ”Aurul” Brad pe anul 2024",
+"short": "HCL Brad nr. 103/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-11",
+"latest": "2024-07-11",
+"portal": "https://emol.ro/brad-hd/registru-hcl/161421",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--brad-132-2024",
+"path": "local/hunedoara/brad/2024/132",
+"kind": "local",
+"year": "2024",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 132/2024",
+"short": "HCL Brad nr. 132/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-23",
+"latest": "2024-09-23",
+"portal": "https://emol.ro/brad-hd/registru-hcl/169410",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--brad-140-2024",
+"path": "local/hunedoara/brad/2024/140",
+"kind": "local",
+"year": "2024",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 140/2024",
+"short": "HCL Brad nr. 140/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-07",
+"latest": "2024-10-07",
+"portal": "https://emol.ro/brad-hd/registru-hcl/170882",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--brad-141-2024",
+"path": "local/hunedoara/brad/2024/141",
+"kind": "local",
+"year": "2024",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 141/2024 privind rectificarea bugetului local al Municipiului Brad pe anul 2024",
+"short": "HCL Brad nr. 141/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-07",
+"latest": "2024-10-07",
+"portal": "https://emol.ro/brad-hd/registru-hcl/170883",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--brad-142-2024",
+"path": "local/hunedoara/brad/2024/142",
+"kind": "local",
+"year": "2024",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 142/2024 privind aprobarea Organigramei şi a Statului de funcţii ale Spitalului Municipal Brad",
+"short": "HCL Brad nr. 142/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-07",
+"latest": "2024-10-07",
+"portal": "https://emol.ro/brad-hd/registru-hcl/170884",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--brad-155-2024",
+"path": "local/hunedoara/brad/2024/155",
+"kind": "local",
+"year": "2024",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 155/2024",
+"short": "HCL Brad nr. 155/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-04",
+"latest": "2024-11-04",
+"portal": "https://emol.ro/brad-hd/registru-hcl/173581",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--brad-162-2024",
+"path": "local/hunedoara/brad/2024/162",
+"kind": "local",
+"year": "2024",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 162/2024 privind aprobarea indicatorilor tehnico – economici, revizuiți și actualizați și a Devizului general, revizuit și actualizat, după finalizarea procedurilor de achiziție publică, cu Notele de Renunțare și Notele de Lucrări Suplimentare conform Dispoziției de șantier nr. 3 pentru obiectivul de investiții [lineBreak]\"MODERNIZARE DN74, STRADA MOȚILOR, GOȘA, ȚARĂȚEL, MUNICIPIUL BRAD,[LineBreak] JUDEȚUL HUNEDOARA\", aprobat pentru finanțare prin Programul [LineBreak]Național de Investiții \"Anghel Saligny\"",
+"short": "HCL Brad nr. 162/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-15",
+"latest": "2024-11-15",
+"portal": "https://emol.ro/brad-hd/registru-hcl/175068",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

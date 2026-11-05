@@ -3,6 +3,111 @@
  "shard": "local/hunedoara/brad/2023",
  "acts": [
   {
+   "slug": "hcl-hunedoara--brad-113-2023",
+   "path": "local/hunedoara/brad/2023/113",
+   "short": "HCL Brad nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 113/2023 privind aprobarea Devizului general, actualizat la finalizarea lucrărilor, pentru obiectivul de investiții „AMENAJARE INTERSECȚIE STRĂZI CUZA VODĂ, MINERILOR, CLOȘCA, 1 DECEMBRIE 1918, MUNICIPIUL BRAD, JUDEȚUL HUNEDOARA”, aprobat prin Hotărârea Consiliului Local[LineBreak] nr. 123 din 27.09.2021 și actualizat prin Hotărârea [lineBreak]Consiliului Local nr. 58 din 30.03.2023",
+   "url": "https://emol.ro/brad-hd/registru-hcl/106096",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/29405/DG%20Sens%20giratoriu%20actualizat.pdf",
+     "sha256": "66af4ac8f912da3fc0b8092632ffe7c553d51f0251a1c56ac486693008b013d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-127-2023",
+   "path": "local/hunedoara/brad/2023/127",
+   "short": "HCL Brad nr. 127/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 127/2023 privind aprobarea dezmembrării imobilului - teren proprietate privată a Municipiului Brad, în suprafață de 1.200 mp, înscris în cartea funciară nr. 69177, număr cadastral 69177 Brad, situat în Municipiul[LineBreak] Brad, strada Șteampurile Vechi, FN, Județul Hunedoara",
+   "url": "https://emol.ro/brad-hd/registru-hcl/111335",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/31434/Parcelare%20Steampurile%20Vechi%20Final.pdf",
+     "sha256": "da5af9241466bdd062c730109171aca4e4fc826b05081a9666128e26d0e6b64f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-147-2023",
+   "path": "local/hunedoara/brad/2023/147",
+   "short": "HCL Brad nr. 147/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 147/2023",
+   "url": "https://emol.ro/brad-hd/registru-hcl/114679",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/brad-hd/registru-hcl/114679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-148-2023",
+   "path": "local/hunedoara/brad/2023/148",
+   "short": "HCL Brad nr. 148/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 148/2023 privind modificarea și completarea Hotărârii Consiliului Local nr. 29/2021 pentru aprobarea Regulamentului privind amenajarea, întreținerea și exploatarea locurilor de parcare[lineBreak] amenajate pe domeniul public al Municipiului Brad, astfel cum a fost modificată[lineBreak] și actualizată prin Hotărârea Consiliului Local nr. 2/2022 și[lineBreak] respectiv Hotărârea Consiliului Local nr. 88/2023",
+   "url": "https://emol.ro/brad-hd/registru-hcl/114680",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/33119/Anexa%20la%20PHCL%20nr.%20148%20Regulamnet%20parcari%20iulie%202023%20(2).doc",
+     "sha256": "3ef2ec403dbec174e045877149a52a9527bd7ffc8b7fbde116b0da79f5e9b9a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-169-2023",
+   "path": "local/hunedoara/brad/2023/169",
+   "short": "HCL Brad nr. 169/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 169/2023",
+   "url": "https://emol.ro/brad-hd/registru-hcl/118600",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/brad-hd/registru-hcl/118600",
+     "sha256": "115e6f802e59cdba62a06106a981e431cd4bbd6c5a40308a01a271b30cf9c8d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-170-2023",
+   "path": "local/hunedoara/brad/2023/170",
+   "short": "HCL Brad nr. 170/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 170/2023 privind reglementarea circulației în municipiul Brad, județul Hunedoara prin realizarea unor [lineBreak] treceri pentru pietoni și montarea unor indicatoare rutiere",
+   "url": "https://emol.ro/brad-hd/registru-hcl/118601",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/34583/Doc.%20scanat%C4%83%20Treceri%20pietoni%20Liceului%20.pdf",
+     "sha256": "ae576afe40638e74da1e7d21f4630c5ccb743897813307bc5d0ea7a45c67c619"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-195-2023",
+   "path": "local/hunedoara/brad/2023/195",
+   "short": "HCL Brad nr. 195/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 195/2023",
+   "url": "https://emol.ro/brad-hd/registru-hcl/122521",
+   "versions": [
+    {
+     "from": "2023-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/35664/Doc.%20scanat%C4%83%20Zarand%20.pdf",
+     "sha256": "667a2c4fb676d50405cc1f7cecc6d6e32043056bfcb36d0fd97bd365ad29f71b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--brad-21-2023",
    "path": "local/hunedoara/brad/2023/21",
    "short": "HCL Brad nr. 21/2023",
@@ -18,6 +123,36 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--brad-22-2023",
+   "path": "local/hunedoara/brad/2023/22",
+   "short": "HCL Brad nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 22/2023",
+   "url": "https://emol.ro/brad-hd/registru-hcl/87902",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/brad-hd/registru-hcl/87902",
+     "sha256": "90fed8e800064d7d52644420f3b35a2e353197c40fbec3d2b8dbe2069ddd1b4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-52-2023",
+   "path": "local/hunedoara/brad/2023/52",
+   "short": "HCL Brad nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 52/2023 privind aprobarea Planului de Acțiune pentru Energie Durabilă și Climă la nivelul Municipiului Brad",
+   "url": "https://emol.ro/brad-hd/registru-hcl/94450",
+   "versions": [
+    {
+     "from": "2023-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/25131/anexa%20PAEDC%20Brad.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--brad-75-2023",
    "path": "local/hunedoara/brad/2023/75",
    "short": "HCL Brad nr. 75/2023",
@@ -28,6 +163,66 @@
      "from": "2023-05-16",
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/27686/SLSAETP%20Municipiul%20Brad.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-78-2023",
+   "path": "local/hunedoara/brad/2023/78",
+   "short": "HCL Brad nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 78/2023 privind stabilirea situațiilor deosebite pentru acordarea ajutoarelor de urgență persoanelor beneficiare de ajutor social, persoanelor singure sau familiilor al căror venit net pe membru de familie este [LineBreak]mai mic decât salariul de bază minim brut pe țară garantat în plată, potrivit [LineBreak] Legii nr. 416/2001, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/brad-hd/registru-hcl/101752",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/27690/Anexa%20la%20PHCL%20nr.%2078.pdf",
+     "sha256": "cd6620e637d40840d7b3f6416aeebd8925010c635e7ed532c84a1250b36c27d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-82-2023",
+   "path": "local/hunedoara/brad/2023/82",
+   "short": "HCL Brad nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 82/2023 privind aprobarea indicatorilor tehnico - economici actualizați și a Devizului general actualizat pentru obiectivul de investiții „POD PESTE RÂURILE CRIȘUL ALB ȘI LUNCOI ÎN MUNICIPIUL BRAD, JUDEȚUL HUNEDOARA” aprobat pentru finanțare prin Programul Național de Investiții \"Anghel Saligny\",[lineBreak] precum și a sumei reprezentând categoriile de cheltuieli finanțate [lineBreak]de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/brad-hd/registru-hcl/101756",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/27693/Anexa%20nr.%201%20la%20PHCL%20nr.%2082.pdf",
+     "sha256": "184ac9a8534eb4ac771491fffa0721687a9dd97e3a13b5e716a68c0278e72e3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-83-2023",
+   "path": "local/hunedoara/brad/2023/83",
+   "short": "HCL Brad nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 83/2023 privind aprobarea documentației tehnico-economice faza Proiect pentru Autorizarea Executării Lucrărilor de Construire, a indicatorilor tehnico-economici reactualizați și a Devizului general reactualizat pentru obiectivul de investiții ”POD PESTE RÂURILE CRIȘUL ALB ȘI LUNCOI[lineBreak] ÎN MUNICIPIUL BRAD, JUDEȚUL HUNEDOARA”, aprobat pentru finanțare prin Programul [lineBreak]Național de Investiții \"Anghel Saligny\", precum și a sumei reprezentând categoriile [lineBreak]de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/brad-hd/registru-hcl/101757",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/27695/Anexa%20nr.%201%20la%20PHCL%20nr.%2083.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-99-2023",
+   "path": "local/hunedoara/brad/2023/99",
+   "short": "HCL Brad nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 99/2023",
+   "url": "https://emol.ro/brad-hd/registru-hcl/106082",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/brad-hd/registru-hcl/106082",
      "sha256": null
     }
    ]

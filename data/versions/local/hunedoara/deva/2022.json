@@ -3,6 +3,171 @@
  "shard": "local/hunedoara/deva/2022",
  "acts": [
   {
+   "slug": "hcl-hunedoara--deva-115-2022",
+   "path": "local/hunedoara/deva/2022/115",
+   "short": "HCL Deva nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 115/2022 privind aprobarea trecerii din domeniul public al municipiului Deva și administrarea Consiliului local al municipiului Deva, în domeniul public al Județului Hunedoara și administrarea Consiliului Județean Hunedoara, a unor terenuri aferente clădirii „Fosta Bancă Agricolă”, î",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P460",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_115_din_18_aprilie_2022.pdf",
+     "sha256": "53d9574ca0796b75cd4f7434c22c444703182bd62113a3c72d40a1b034da7f9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-14-2022",
+   "path": "local/hunedoara/deva/2022/14",
+   "short": "HCL Deva nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 14/2022",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P560",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_14_din_28_ianuarie_2022.pdf",
+     "sha256": "bfc0d95a96227f9de34ad6301c2aedd98ccd39c6c1dd2a5580f9f84c795c2c7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-15-2022",
+   "path": "local/hunedoara/deva/2022/15",
+   "short": "HCL Deva nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 15/2022",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P560",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_15_din_28_ianuarie_2022.pdf",
+     "sha256": "3ec7c28f06d7a9028cdb585a7aa521fdf9d6cb17964be0cae7080bcb1a8ef203"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-16-2022",
+   "path": "local/hunedoara/deva/2022/16",
+   "short": "HCL Deva nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 16/2022",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P560",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Merged_16PDF.pdf",
+     "sha256": "522c8513f1c9bddcfd8cc3b682d151221a2dd8e708b193b6694f68d055d32353"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-160-2022",
+   "path": "local/hunedoara/deva/2022/160",
+   "short": "HCL Deva nr. 160/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 160/2022 privind aprobarea execuţiei bugetului general al municipiului Deva la data de 31 martie 2022",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P420",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/160.pdf",
+     "sha256": "80c5887e7f58488dc87375ab8250b7aa0431ecdc47e329a6894657724fde233b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-17-2022",
+   "path": "local/hunedoara/deva/2022/17",
+   "short": "HCL Deva nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 17/2022 privind aprobarea vânzării către chiriașii Cernat Adrian-Viorel și Cernat Olguța, a imobilului construit din fondurile statului, situat în municipiul Deva, str.Bejan, bl.70, sc.1, parter, ap.4, în baza Decretului-lege nr.61/1990 și a Legii nr.85/1992, republicată, cu modifică",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P560",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_17_din_28_ianuarie_2022.pdf",
+     "sha256": "10f0ef7f564a46fc2230e08b05c00efeea59d998699a05e01aa97e987d0eaf38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-18-2022",
+   "path": "local/hunedoara/deva/2022/18",
+   "short": "HCL Deva nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 18/2022 privind modificarea organigramei și a statului de funcții pentru Direcția de asistență socială Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P560",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_18_din_28_ianuarie_2022.pdf",
+     "sha256": "1dbdeef7d0ed0b432148d8bfe602d605a008b1e8f1ff47181db49e2a80dce3a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-183-2022",
+   "path": "local/hunedoara/deva/2022/183",
+   "short": "HCL Deva nr. 183/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 183/2022 privind aprobarea Actului Adițional nr.5 la Contractul privind atribuirea directă a gestiunii serviciului de transport public local de persoane efectuat prin curse regulate în municipiul Deva și localitățile aparținătoare nr.32518/21.04.2020",
+   "url": "https://emol.ro/deva-hd/registru-hcl/61718",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6448/anexa%20act.pdf",
+     "sha256": "197b0d0a449519e3ceedb2c939f9c8af30035a71ac96ebf7df08cd88cfaf21cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-19-2022",
+   "path": "local/hunedoara/deva/2022/19",
+   "short": "HCL Deva nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 19/2022 privind aprobarea Planului de acțiuni de interes local pentru anul 2022 estimate a se efectua cu persoanele beneficiare de ajutor social potrivit Legii nr.416/2001 privind venitul minim garantat cu modificările și completările ulterioare, pe raza municipiului Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P560",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_19_din_28_ianuarie_2022.pdf",
+     "sha256": "5b55b83caa9a3bfcd9acc4cf0918bfc8ba8e02e7cb0be3c266352c334d831359"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-196-2022",
+   "path": "local/hunedoara/deva/2022/196",
+   "short": "HCL Deva nr. 196/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 196/2022 privind modificarea organigramei și statului de funcții pentru aparatul de specialitate al Primarului municipiului Deva",
+   "url": "https://emol.ro/deva-hd/registru-hcl/61731",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6452/anexe%20prim.pdf",
+     "sha256": "1eddbc4408285f87bdb2eb4a5856dd0b10d7546d90b44da3a975578f57a5c296"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-197-2022",
+   "path": "local/hunedoara/deva/2022/197",
+   "short": "HCL Deva nr. 197/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 197/2022 privind aprobarea organigramei și a statului de funcții pentru Serviciul public de întreținere și gospodărire municipală Deva",
+   "url": "https://emol.ro/deva-hd/registru-hcl/61732",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6453/anexe%20spigm.pdf",
+     "sha256": "a36d2eb6579173a498686cb925682ef20250a3122cea94028d5b7a4c571a1619"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--deva-198-2022",
    "path": "local/hunedoara/deva/2022/198",
    "short": "HCL Deva nr. 198/2022",
@@ -14,6 +179,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6454/anexa%20parcare.pdf",
      "sha256": "0f32cef67ce0244f5850dfe6580831dd0312ce7d94edd2a2f278ac2c2d3d0e85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-20-2022",
+   "path": "local/hunedoara/deva/2022/20",
+   "short": "HCL Deva nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 20/2022 privind adoptarea formei finale a criteriilor pentru stabilirea ordinii de prioritate în soluţionarea cererilor de locuinţe şi în repartizarea locuinţelor pentru tineri, destinate închirierii, în municipiul Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P560",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_20_din_28_ianuarie_2022.pdf",
+     "sha256": "35087f32a35c3afe7931d99caecb2f4bc84aaff93d2ab7c7449d8ffdda991a00"
     }
    ]
   },
@@ -33,6 +213,246 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--deva-22-2022",
+   "path": "local/hunedoara/deva/2022/22",
+   "short": "HCL Deva nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 22/2022 privind vânzarea prin negociere directă a unui teren în suprafaţă de 26 mp, proprietatea privată a municipiului Deva, situat în Deva, str.Mihai Eminescu, între blocurile 31 si 33, județul Hunedoara",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P560",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_22_din_28_ianuarie_2022.pdf",
+     "sha256": "3717e729c67bd29e5ef80a7ad66fd677b8b934c8d70409fe99bfc11819703e17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-222-2022",
+   "path": "local/hunedoara/deva/2022/222",
+   "short": "HCL Deva nr. 222/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 222/2022",
+   "url": "https://emol.ro/deva-hd/registru-hcl/64570",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/7395/i%20corvin.pdf",
+     "sha256": "c9c8b5b55ca1cb91af08c35b4a7e74d47d29f21aacdd2aa4edcf3c575c69c65e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-23-2022",
+   "path": "local/hunedoara/deva/2022/23",
+   "short": "HCL Deva nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 23/2022 privind vânzarea prin negociere directă a unui teren în suprafaţă de 20 mp, proprietatea privată a municipiului Deva, situat în Deva, str.Mihai Viteazu, în spatele blocurilor 44 și 8, județul Hunedoara",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P560",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Merged_23PDF.pdf",
+     "sha256": "5e62535d6709c293efe022943e6f9f6b34f3e7ee7ab292e2ed39f59874a83fbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-24-2022",
+   "path": "local/hunedoara/deva/2022/24",
+   "short": "HCL Deva nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 24/2022",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P560",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Merged_24PDF.pdf",
+     "sha256": "6c0562156fe060c9e60e2e8bb1a3f9a86d62619a089ccbfd325e363506ee9de2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-25-2022",
+   "path": "local/hunedoara/deva/2022/25",
+   "short": "HCL Deva nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 25/2022 privind vânzarea prin negociere directă a unui teren în suprafață de 20 mp, proprietatea privată a municipiului Deva, situat în Deva, str.Mihai Eminescu, în spatele blocurilor C1 și C2, județul Hunedoara",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P560",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Merged_25PDF.pdf",
+     "sha256": "86ab680503c7fece2df9a61aa24b9a6a73f7c1939a3214e44e39921dce5805db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-26-2022",
+   "path": "local/hunedoara/deva/2022/26",
+   "short": "HCL Deva nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 26/2022 privind vânzarea prin negociere directă a unui teren în suprafaţă de 19 mp, înscris în CF nr.76249, proprietatea privată a municipiului Deva, situat în Deva, str. I.L.Caragiale, în spatele blocului 7, județul Hunedoara",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P560",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Merged_26PDF.pdf",
+     "sha256": "4aab3aa6f04243fdc1876e2ca0e02efb16a7e1ff135f5511592c438eb0896392"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-263-2022",
+   "path": "local/hunedoara/deva/2022/263",
+   "short": "HCL Deva nr. 263/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 263/2022 privind transmiterea în administrarea Grădiniței cu Program Prelungit nr.7, a imobilului teren și construcții înscris în CF nr. 68683 Deva, nr. cadastral 68683, 68683-C1, 68683-C2, 68683 – C3, situat în Deva, strada 16 Februarie, nr.1, județul Hunedoara",
+   "url": "https://emol.ro/deva-hd/registru-hcl/66333",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/8099/anexa.pdf",
+     "sha256": "1c0b3fed1da830db9f2da5aec34180862d2308ed0a36b5dcaa2f258cea9fed42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-27-2022",
+   "path": "local/hunedoara/deva/2022/27",
+   "short": "HCL Deva nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 27/2022 pentru modificarea articolului nr.1 al Hotărârii Consiliului local nr.47/2004, privind transmiterea în folosință gratuită a unui teren în suprafață de 1218,652 m.p. către Asociația Geszthy Ferenc",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P560",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_27_din_28_ianuarie_2022.pdf",
+     "sha256": "847586a2fc86541a32a2e07119ea5db56f9f0526a52f6f4f79fd23117821e811"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-28-2022",
+   "path": "local/hunedoara/deva/2022/28",
+   "short": "HCL Deva nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 28/2022 pentru modificarea Hotărârii Consiliului local nr.26/2018 privind constituirea Societății Transport Public Local Deva SRL, având ca asociat unic municipiul Deva reprezentat prin Consiliul local al municipiului Deva, cu modificările ulterioare",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P560",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_28_din_28_ianuarie_2022.pdf",
+     "sha256": "a4975ce914861238ffc4acce0dcb5e2de5531476cddf27626702e510631cd5c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-29-2022",
+   "path": "local/hunedoara/deva/2022/29",
+   "short": "HCL Deva nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 29/2022 privind trecerea din domeniul public în domeniul privat al municipiului Deva a terenului în suprafață de 3571 mp, înscris în CF nr.72089, situat în localitatea Sântuhalm, județul Hunedoara",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P540",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_29_din_28_ianuarie_2022.pdf",
+     "sha256": "b9c2cceafa2925596879e8651709c3518956d8a8ef1f2894e218a6fd5e5af053"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-291-2022",
+   "path": "local/hunedoara/deva/2022/291",
+   "short": "HCL Deva nr. 291/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 291/2022",
+   "url": "https://emol.ro/deva-hd/registru-hcl/67488",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/14783/raport%20evaluare.pdf",
+     "sha256": "ae674cbd689150b25f5e47849c9126ebb95abfc912119ca1a8a0a89696eb49c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-293-2022",
+   "path": "local/hunedoara/deva/2022/293",
+   "short": "HCL Deva nr. 293/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 293/2022",
+   "url": "https://emol.ro/deva-hd/registru-hcl/67490",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/deva-hd/registru-hcl/67490",
+     "sha256": "50b0cefad0babc620b797333e7a828a408d889d2ddf06f0257026d1265abc63c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-298-2022",
+   "path": "local/hunedoara/deva/2022/298",
+   "short": "HCL Deva nr. 298/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 298/2022 privind analiza stadiului de înscriere a datelor în registrul agricol și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/deva-hd/registru-hcl/67495",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/14790/anexa%20rg.pdf",
+     "sha256": "6b0cb01f9de7a5478a287521df833a5be5ff9d91269e1877cfa1403718fc445c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-30-2022",
+   "path": "local/hunedoara/deva/2022/30",
+   "short": "HCL Deva nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 30/2022 privind analiza stadiului de înscriere a datelor în registrul agricol și stabilirea măsurilor pentru eficientizare acestei activități",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P540",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Merged_30PDF.pdf",
+     "sha256": "29283ba13a3af1cce7eee58610075eac559918d71d49d13ebde40df339518370"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-328-2022",
+   "path": "local/hunedoara/deva/2022/328",
+   "short": "HCL Deva nr. 328/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 328/2022 privind aprobarea indicatorilor tehnico - economici pentru obiectivul de investiție „Construcții grădinițe Regiunea Vest – Grădiniță cu program normal Deva, zona Orizont 2, județ Hunedoara – Amenajare teren și asigurare utilități” – etapa Proiect Tehnic",
+   "url": "https://emol.ro/deva-hd/registru-hcl/69668",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15491/deviz.pdf",
+     "sha256": "f55d7b02c72ffbc2e92607c1ead4e0bffc7236b7600754b08ac973e685629d83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-33-2022",
+   "path": "local/hunedoara/deva/2022/33",
+   "short": "HCL Deva nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 33/2022 privind încheierea contractului de comodat mobiliar între municipiul Deva prin Consiliul local al municipiului Deva și Spitalul Județean de Urgență Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P540",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Merged_33PDF.pdf",
+     "sha256": "2a37ba937cd852ced0ab662d670e78977daf381b436f1950eaa2a04f4376e895"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--deva-339-2022",
    "path": "local/hunedoara/deva/2022/339",
    "short": "HCL Deva nr. 339/2022",
@@ -48,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--deva-34-2022",
+   "path": "local/hunedoara/deva/2022/34",
+   "short": "HCL Deva nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 34/2022 privind aprobarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat şi particular care funcţionează pe raza teritorială a municipiului Deva, subordonate Consiliului local Deva, pentru anul şcolar 2022-2023",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P540",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Merged_34PDF.pdf",
+     "sha256": "9a7c335185eba5261f0a38eed90db8c35211cc58005ff0f4c2c8d9cb0e4a932a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--deva-340-2022",
    "path": "local/hunedoara/deva/2022/340",
    "short": "HCL Deva nr. 340/2022",
@@ -59,6 +494,171 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/16125/anexa%20impozit.pdf",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-35-2022",
+   "path": "local/hunedoara/deva/2022/35",
+   "short": "HCL Deva nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 35/2022 privind modificarea organigramei, statului de funcții și Regulamentului de organizare și funcționare pentru aparatul de specialitate al Primarului municipiului Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P540",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/HCL_35_2022.pdf",
+     "sha256": "99e807c4ccb421084784a469dcea77206603cf622f46e1e1f2525aee401150de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-36-2022",
+   "path": "local/hunedoara/deva/2022/36",
+   "short": "HCL Deva nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 36/2022 privind desemnarea consilierilor locali în comisia de evaluare a performanțelor profesionale individuale ale Secretarului general al municipiului Deva pentru activitatea desfășurată în anul 2021",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P540",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_36_din_28_ianuarie_2022.pdf",
+     "sha256": "23967cdc6498b50ff5b1cad6ab0b6aa208f6c8fab1472fe637c9bcb1ac78b15b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-366-2022",
+   "path": "local/hunedoara/deva/2022/366",
+   "short": "HCL Deva nr. 366/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 366/2022 privind aprobarea indicatorilor tehnico - economici pentru obiectivul de investiție „Regenerarea fizicã, economicã şi socialã a comunitãţii marginalizate zona Streiului şi crearea unui centru de zi pentru servicii de asistenţã comunitarã” realizat în cadrul Proiectului cod SMIS 125415 – etapa Proiect Tehnic de Execuție",
+   "url": "https://emol.ro/deva-hd/registru-hcl/72362",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/16356/streiului.pdf",
+     "sha256": "64e52f478187ea30f873327dd8a81d435e97eb431a7b5227d0424118ec8f5d26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-37-2022",
+   "path": "local/hunedoara/deva/2022/37",
+   "short": "HCL Deva nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 37/2022 privind acordarea unui mandat special reprezentantului municipiului Deva în Adunarea Generala a Asociației de Dezvoltare Intercomunitară ,,AQUA PREST HUNEDOARA”",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P540",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_37_din_10_februarie_2022.pdf",
+     "sha256": "7846ebd0da12b1661a7359d541be123f8db32fc92232bbab0bc29509ca914acc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-38-2022",
+   "path": "local/hunedoara/deva/2022/38",
+   "short": "HCL Deva nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 38/2022",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P540",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/MergedPDF.pdf",
+     "sha256": "750514022f2d0238d8257b69eb327c10f8600c3d532600ac9a17810319fe320b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-39-2022",
+   "path": "local/hunedoara/deva/2022/39",
+   "short": "HCL Deva nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 39/2022 privind încetarea Contractului de închiriere nr.75807/2018 încheiat între Municipiul Deva și Societatea Romarta SRL",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P540",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_39_din_10_februarie_2022_1.pdf",
+     "sha256": "e8e944d973accc83d68073147897cfe724d7bf3f4d5e3ca8ccc5289733706d42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-40-2022",
+   "path": "local/hunedoara/deva/2022/40",
+   "short": "HCL Deva nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 40/2022 privind aprobarea documentatiei pentru delegarea gestiunii Serviciului de salubrizare pentru activitățile de deratizare, dezinsecție şi dezinfecție în municipiul Deva",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P540",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Merged40PDF.pdf",
+     "sha256": "342352c11870e1082c23a1f615460a1c56eb07a8b74d480c1dbdd78d5571e656"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-408-2022",
+   "path": "local/hunedoara/deva/2022/408",
+   "short": "HCL Deva nr. 408/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 408/2022 privind aprobarea execuţiei bugetului general al municipiului Deva la data de 30 septembrie 2022",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P180",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/408.pdf",
+     "sha256": "1eb6169852b054de28ce88a8fd2a6c6175b156098fd2f38be19eb9e4b4b9722c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-41-2022",
+   "path": "local/hunedoara/deva/2022/41",
+   "short": "HCL Deva nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 41/2022",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P540",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Deva,_HCL_41_din_10_februarie_2022.pdf",
+     "sha256": "5ace63ca578bda4201b67b4da6d49e91d1ea0a2346dc41a47677d7095ade1a29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-42-2022",
+   "path": "local/hunedoara/deva/2022/42",
+   "short": "HCL Deva nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 42/2022 pentru modificarea Hotărârii Consiliului local nr.303/2018 privind aprobarea contractării şi garantării de către municipiul Deva a unei finanţări rambursabile interne în valoare de 50.000.000,00 lei, modificată şi completată ulterior",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P540",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Merged42PDF.pdf",
+     "sha256": "ba2de5557b4e12944d6b1851eb8209d3dbc712b0e63ecefdfce890979804a7d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-43-2022",
+   "path": "local/hunedoara/deva/2022/43",
+   "short": "HCL Deva nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 43/2022 privind aprobarea bugetului general de venituri și cheltuieli al Municipiului Deva pe anul 2022 și a estimărilor pentru anii 2023-2025",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P540",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/Merged43PDF.pdf",
+     "sha256": "ef1a368705f82a7e7f0a622f56eec45e3d7ddb3c7e4aad1fe4a7570daba0d56c"
     }
    ]
   },

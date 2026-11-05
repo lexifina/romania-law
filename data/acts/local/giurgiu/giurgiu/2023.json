@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/giurgiu/2023",
+"acts": [
+{
+"slug": "hcl-giurgiu--giurgiu-129-2023",
+"path": "local/giurgiu/giurgiu/2023/129",
+"kind": "local",
+"year": "2023",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 129/2023",
+"short": "HCL Giurgiu nr. 129/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-27",
+"latest": "2023-04-27",
+"portal": null,
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

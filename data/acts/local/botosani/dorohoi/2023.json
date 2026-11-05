@@ -23,6 +23,28 @@
 "flags": {
 "text_pending": "ocr"
 }
+},
+{
+"slug": "hcl-botosani--dorohoi-314-2023",
+"path": "local/botosani/dorohoi/2023/314",
+"kind": "local",
+"year": "2023",
+"number": "314",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 314/2023 privind aprobarea inchirierii, prin licitatie publica, a spatiilor comerciale si a terenurilor din cadrul Directiei Pietelor si Oborului Dorohoi, pentru perioada 01.01.2023 - 31.13.2023, inventariate in domeniul privat al Mun. Dorohoi, conform calendarului estimativ al licitatiilor din Anexa 1 la Contractul cadru de inchiriere, conform Anexei nr. 2, a Caietului de sarcini( Anexa 3) si rapoarte de",
+"short": "HCL Dorohoi nr. 314/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-01",
+"latest": "2023-01-01",
+"portal": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

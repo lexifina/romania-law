@@ -3,6 +3,186 @@
  "shard": "local/brasov/fagaras/2016",
  "acts": [
   {
+   "slug": "hcl-brasov--fagaras-1-2016",
+   "path": "local/brasov/fagaras/2016/1",
+   "short": "HCL Făgăraș nr. 1/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 1/2016 privind alegerea Comisiei de validare a mandatelor consilierilor locali",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1101",
+   "versions": [
+    {
+     "from": "2016-06-24",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-001-2016.pdf",
+     "sha256": "7821d8d83a29b5f985fce0de4df2dbd179c6b41cdd0c9893e50ac32d1b146655"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-10-2016",
+   "path": "local/brasov/fagaras/2016/10",
+   "short": "HCL Făgăraș nr. 10/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 10/2016 privind actualizarea suprafeţei unor bunuri ce aparţin domeniului public al municipiului Făgăraş atestat prin HG nr.972/2002, radierea dreptului de administrare operativă înscris în CF 100441 Fagaras de sub Cl.I si î",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1110",
+   "versions": [
+    {
+     "from": "2016-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-010-2016.pdf",
+     "sha256": "b6d300b5c60f605a175c0c2f6e18d6205d14da398cff58cd20cd01994a439bed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-12-2016",
+   "path": "local/brasov/fagaras/2016/12",
+   "short": "HCL Făgăraș nr. 12/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 12/2016 privind alegerea unui consilier ca preşedinte de şedinţa",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/hotrarea-nr.12-din-data-de-30-iunie-2016-privind-alegerea-unui-consilier-ca-preedinte-de-edina",
+   "versions": [
+    {
+     "from": "2016-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-012-2016.pdf",
+     "sha256": "f21c8600085b0c6f2870a55c9b46b72c2832e1eb2900eb42cbb8f540c2658340"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-16-2016",
+   "path": "local/brasov/fagaras/2016/16",
+   "short": "HCL Făgăraș nr. 16/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 16/2016 privind aprobarea rectificării suprafeţei imobilului înscris în CF,l05337-Făgăraş de la 46655 mp la 51320 mp şi actualizare date imobil",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1116",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-016-2016.pdf",
+     "sha256": "f9800fcee159ec880cd20e2fd9bf2bf7f9f44293040ae9c6d84ea7095379214b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-17-2016",
+   "path": "local/brasov/fagaras/2016/17",
+   "short": "HCL Făgăraș nr. 17/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 17/2016",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1117",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-017-2016.pdf",
+     "sha256": "1ce6d3da7fd404b5d8804d51915f92ba554ed470188bd2856b9ed45099c13959"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-18-2016",
+   "path": "local/brasov/fagaras/2016/18",
+   "short": "HCL Făgăraș nr. 18/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 18/2016 privind încetarea de drept a mandatului de consilier local al D-lui ANDRONE BOGDANIONUŢ",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1118",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-018-2016.pdf",
+     "sha256": "4172343d1e185b69b3b78adf99eec5d23ece55d7685de863768d195e87814718"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-182-2016",
+   "path": "local/brasov/fagaras/2016/182",
+   "short": "HCL Făgăraș nr. 182/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 182/2016",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/121",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/Anexa_1_la_HCL_182_org_casa_de_cultura_dec_2016.pdf",
+     "sha256": "fada03b650745bcaef51ddcce4d3aca845640ef82af2b716ef27b4a4957ce052"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-19-2016",
+   "path": "local/brasov/fagaras/2016/19",
+   "short": "HCL Făgăraș nr. 19/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 19/2016 privind validarea mandatului de consilier local al D-lui BRUNO ERCĂU",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1119",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-019-2016.pdf",
+     "sha256": "206ef640aaaff0aed0c4b67d09d822d71da3cccdcc46bd391190b3385eeffc32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-2-2016",
+   "path": "local/brasov/fagaras/2016/2",
+   "short": "HCL Făgăraș nr. 2/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 2/2016",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1102",
+   "versions": [
+    {
+     "from": "2016-06-24",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-002-2016.pdf",
+     "sha256": "088bda3e94f19fc7c7918a09379da5429e3b31c5a87ef7955b171327c27e8e09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-20-2016",
+   "path": "local/brasov/fagaras/2016/20",
+   "short": "HCL Făgăraș nr. 20/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 20/2016",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1120",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-020-2016.pdf",
+     "sha256": "be3b446822ed280b41b8aa0f46187dae884347fdec47f5ee66667c6f937d1812"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-21-2016",
+   "path": "local/brasov/fagaras/2016/21",
+   "short": "HCL Făgăraș nr. 21/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 21/2016 privind aprobarea execuţiei bugetelor întocmite pe cele doua secţiuni pentru trimestrul II 2016 la data de 30.06.2016",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1121",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-021-2016.pdf",
+     "sha256": "ef0dc16a0372f25806d1d58bb36cb7ef4d4d1dbdeec8a34081896efce95bc33f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-22-2016",
+   "path": "local/brasov/fagaras/2016/22",
+   "short": "HCL Făgăraș nr. 22/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 22/2016 privind rectificarea prin suplimentare a bugetului Municipiului Făgăraş pe anul 2016",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1122",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-022-2016.pdf",
+     "sha256": "25d3cdd734428492e0d9a1d63625679d06622056871cdf4aff771d078035679a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--fagaras-23-2016",
    "path": "local/brasov/fagaras/2016/23",
    "short": "HCL Făgăraș nr. 23/2016",
@@ -14,6 +194,111 @@
      "units": 1,
      "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-023-2016.pdf",
      "sha256": "97749cc39918285e8c9ce484f17c8055a7020fc3be29a32d271401899c831b93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-26-2016",
+   "path": "local/brasov/fagaras/2016/26",
+   "short": "HCL Făgăraș nr. 26/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 26/2016 privind mandatarea reprezentantului Municipiului Făgăraş în cadrul Adunării Generale a Asocieţiei de Dezvoltare Intercomunitară „Asociaţia de Apă” Sibiu şi desemnarea persoanelor care pot înlocui reprezentantul Mu",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1126",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-026-2016.pdf",
+     "sha256": "4e53f61daa819f48bb42f31249bd2186bc3be53d70e06fa656cb5e3904c54c5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-27-2016",
+   "path": "local/brasov/fagaras/2016/27",
+   "short": "HCL Făgăraș nr. 27/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 27/2016 privind structura pe specialităţi a membrilor comisiei de analizare a cererilor de locuinţe pentru tineri, destinate închirierii",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1127",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-027-2016.pdf",
+     "sha256": "6a0b31fc35545c88de492a72bb4fe12dcf3f2fa37b471152122204a1df606e82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-28-2016",
+   "path": "local/brasov/fagaras/2016/28",
+   "short": "HCL Făgăraș nr. 28/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 28/2016 privind desemnarea din cadrul Consiliului Local Făgăraş a consilierilor municipali care să facă parte din comisia de repartizare a locuinţelor Municipiului Fagaras",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1128",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-028-2016.pdf",
+     "sha256": "e5ae4b4a669becc5be39c549318760bbf74a07d6ef51209d36717493d28c40e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-29-2016",
+   "path": "local/brasov/fagaras/2016/29",
+   "short": "HCL Făgăraș nr. 29/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 29/2016 privind modificarea şi completarea HCL nr. 195 din data de 28 octombrie 2015 privind desemnarea reprezentanţilor Consiliului Local al Municipiului Făgăraş în Comisia de Evaluare şi Asigurare a Calităţii învăţămâ",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1129",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-029-2016.pdf",
+     "sha256": "5a41b5731cacdbc97380da76480c10e638f278c6eb302e7ae0659d93c196c09a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-3-2016",
+   "path": "local/brasov/fagaras/2016/3",
+   "short": "HCL Făgăraș nr. 3/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 3/2016",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1103",
+   "versions": [
+    {
+     "from": "2016-06-24",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-003-2016.pdf",
+     "sha256": "b753570db16c299e241649daeadcc01333422aabdc88fdc83b1bcd8de806ff67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-30-2016",
+   "path": "local/brasov/fagaras/2016/30",
+   "short": "HCL Făgăraș nr. 30/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 30/2016 privind numirea reprezentanţilor Consiliului Local în Consiliile de administraţie ale unităţilor de învăţământ cu personalitate juridică din municipiul Făgăraş",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1130",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-030-2016.pdf",
+     "sha256": "3661586aa89f2108a47c270bd35921db4cbcf43648343b6b2b966753a9ff382d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-31-2016",
+   "path": "local/brasov/fagaras/2016/31",
+   "short": "HCL Făgăraș nr. 31/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 31/2016 privind desemnarea din cadrul Consiliului Local Făgăraş a consilierilor locali care să facă parte din comisia de licitaţie pentru închirieri şi concesiuni sau vânzări de terenuri şi spaţii cu altă destinaţie decât",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1131",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-031-2016.pdf",
+     "sha256": "4a581814c2ca5e159a3e231cf6494d0b1e8b0f035a838187006ac94f30185ca4"
     }
    ]
   },
@@ -33,6 +318,216 @@
    ]
   },
   {
+   "slug": "hcl-brasov--fagaras-33-2016",
+   "path": "local/brasov/fagaras/2016/33",
+   "short": "HCL Făgăraș nr. 33/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 33/2016",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1133",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-033-2016.pdf",
+     "sha256": "ed4118e162cf7a3b846b0ecffe0b99e10b205a1faded2a5d461f65f75109df58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-34-2016",
+   "path": "local/brasov/fagaras/2016/34",
+   "short": "HCL Făgăraș nr. 34/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 34/2016 privind numirea Preşedintelui Clubului Sportiv Municipal Fagaras, aprobarea Contractului de management şi numirea membrilor Consiliului Director al CSM Făgăraş",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1134",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-034-2016.pdf",
+     "sha256": "d091bdd436cbb223fde59099e01d17e51ff77bbf60cd87eee52dfa4f9bf4b061"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-35-2016",
+   "path": "local/brasov/fagaras/2016/35",
+   "short": "HCL Făgăraș nr. 35/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 35/2016 privind iniţierea procedurii de achiziţie a terenului în suprafaţă de 250 mp identic cu cel înscris în CF. 104868-Făgăraş şi a terenului în suprafaţă de 56 mp identic cu cel înscris în CF. 1045477- Făgăraş,propri",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1135",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-035-2016.pdf",
+     "sha256": "363ba6d13d355aa122a07abe6f3d3e252953b2c906b9474c5f215b4a3eb331a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-36-2016",
+   "path": "local/brasov/fagaras/2016/36",
+   "short": "HCL Făgăraș nr. 36/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 36/2016 privind aprobarea înscrierii construcţiilor edificate pe suprafaţa de 7.061 mp din suprafaţa totală de 267.258 mp înscrişi în CF nr. 102519 Făgăraş - Domeniu public conform dreptului de folosinţă a terenului",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1136",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-036-2016.pdf",
+     "sha256": "124a9ac0b13bdffab1117cf6978147392092c3a940833ebfd1273c906e85f384"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-37-2016",
+   "path": "local/brasov/fagaras/2016/37",
+   "short": "HCL Făgăraș nr. 37/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 37/2016 privind rectificarea şi vânzarea prin licitaţie publică a unui teren proprietatea Statului Roman , în suprafaţă de 495 mp. situat în Făgăraş, str.Titu Perţia, înscris în CF.l 04212-Făgăraş cu nr.top.23/2/3 ;24/2/3",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1137",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-037-2016.pdf",
+     "sha256": "881a3759de284bc5c2c42f2842ce4bc389fd6d2aebf42e355a8ab75441d19b8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-38-2016",
+   "path": "local/brasov/fagaras/2016/38",
+   "short": "HCL Făgăraș nr. 38/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 38/2016 privind aprobarea acordului de principiu al vânzării prin licitaţie publică a terenului in suprafaţă de 100 mp din suprafaţa totală de 18967 mp. proprietatea Statului Român. Făgăraş situat în str",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1138",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-038-2016.pdf",
+     "sha256": "e9ab2c5fe793ced8d699aec5da95562aaae29deeddc8802ff6a7c29e03c314be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-39-2016",
+   "path": "local/brasov/fagaras/2016/39",
+   "short": "HCL Făgăraș nr. 39/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 39/2016 privind vânzarea locuinţelor, construite din fondurile statului în condiţiile Legii nr.85/1992 republicată şi a Decretului-Lege nr.61/1990",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1139",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-039-2016.pdf",
+     "sha256": "61b373a82ebaee0b27d3c28da09c816b861f161a7224cb66796376b1dcf73411"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-4-2016",
+   "path": "local/brasov/fagaras/2016/4",
+   "short": "HCL Făgăraș nr. 4/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 4/2016",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1104",
+   "versions": [
+    {
+     "from": "2016-06-24",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-004-2016.pdf",
+     "sha256": "c6d529e4d3fbe83d5c1607df90375cef9230227e577e565e35fe23574d649000"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-40-2016",
+   "path": "local/brasov/fagaras/2016/40",
+   "short": "HCL Făgăraș nr. 40/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 40/2016 privind însuşirea Rapoartelor de evaluare intocmite de o persoana autorizata pentru vânzarea locuinţelor proprietatea Municipiului Făgăraş în baza Legii nr.85/1992",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1140",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-040-2016.pdf",
+     "sha256": "bdcff2977abb99ff24dc998412ec22750a41f146929f37029f7fe0f811ebe86c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-41-2016",
+   "path": "local/brasov/fagaras/2016/41",
+   "short": "HCL Făgăraș nr. 41/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 41/2016 privind însuşirea Rapoartelor de evaluare întocmite de o persoana autorizata pentru vânzarea locuinţelor proprietatea Municipiului Făgăraş în baza Legii nr.85/1992",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1141",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-041-2016.pdf",
+     "sha256": "c9d26c455bd553a34e09dbbb905f5ebbd99c85cf0d6f0b18a88b74a467b5a87a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-42-2016",
+   "path": "local/brasov/fagaras/2016/42",
+   "short": "HCL Făgăraș nr. 42/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 42/2016 privind însuşirea Rapoartelor de evaluare întocmite de o persoana autorizata pentru vânzarea locuinţelor proprietatea Municipiului Făgăraş în baza Legii nr.85/1992",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1142",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-042-2016.pdf",
+     "sha256": "acf950d89f34af9435bcd01464e04185f61d6d08aad0f58ccf035351530725f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-43-2016",
+   "path": "local/brasov/fagaras/2016/43",
+   "short": "HCL Făgăraș nr. 43/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 43/2016 privind însuşirea procedurii Raportului de recrutare şi selecţie al Consiliului de Administraţie al. SC SALCO SERV SA FĂGĂRAŞ şi propunerea candidaţilor pentru funcţia de membru în consiliului de administraţie",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1143",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-043-2016.pdf",
+     "sha256": "363881e426f8d9eeaee3c05cfc0b846eb0865a6d6d8c95a76a360436d5daeb9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-44-2016",
+   "path": "local/brasov/fagaras/2016/44",
+   "short": "HCL Făgăraș nr. 44/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 44/2016",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1144",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-044-2016.pdf",
+     "sha256": "238976e5bd819ad628b2024b75324ff4adbb7c2539a026bf0b22b58b827eb762"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-45-2016",
+   "path": "local/brasov/fagaras/2016/45",
+   "short": "HCL Făgăraș nr. 45/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 45/2016 privind alegerea unui consilier ca preşedinte de şedinţa",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1145",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-045-2016.pdf",
+     "sha256": "50837c41088d0d7ab1b049d4307f5583f50991102aaf029ed79d1ea054ddb107"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--fagaras-46-2016",
    "path": "local/brasov/fagaras/2016/46",
    "short": "HCL Făgăraș nr. 46/2016",
@@ -48,6 +543,21 @@
    ]
   },
   {
+   "slug": "hcl-brasov--fagaras-47-2016",
+   "path": "local/brasov/fagaras/2016/47",
+   "short": "HCL Făgăraș nr. 47/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 47/2016 privind rectificarea prin suplimentare a bugetului Municipiului Făgăraş pe anul 2016",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1147",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-047-2016.pdf",
+     "sha256": "d0e71f2a4ca71feb2c03ad66b303e528ce3ae8c0f4a1db544573ea67b77a4bd2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--fagaras-48-2016",
    "path": "local/brasov/fagaras/2016/48",
    "short": "HCL Făgăraș nr. 48/2016",
@@ -59,6 +569,81 @@
      "units": 1,
      "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-048-2016.pdf",
      "sha256": "6faf4c7fd4da1a3e56cfb0bbfcbca034ad3522c72e822ca09b6a34d9680987ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-49-2016",
+   "path": "local/brasov/fagaras/2016/49",
+   "short": "HCL Făgăraș nr. 49/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 49/2016 privind aprobarea procedurii de stingere a creanţelor reprezentând impozite, taxe şi alte venituri datorate bugetului local prin trecerea în proprietatea publică a municipiului a unor bunuri imobile aparţinând",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1149",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-049-2016.pdf",
+     "sha256": "08276e28fbefbbfae34198170a4c3da3345f387e15b34c32294f1b6287fded16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-5-2016",
+   "path": "local/brasov/fagaras/2016/5",
+   "short": "HCL Făgăraș nr. 5/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 5/2016 privind alegerea viceprimarului Municipiului Făgăraş",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1105",
+   "versions": [
+    {
+     "from": "2016-06-24",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-005-2016.pdf",
+     "sha256": "2f8c746febd84730e3ebbcd436f559dcf1c7cdb4e7c9a2c4e22a788efe7c5609"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-50-2016",
+   "path": "local/brasov/fagaras/2016/50",
+   "short": "HCL Făgăraș nr. 50/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 50/2016 privind închiriera prin licitaţie publică deschisa a unui spaţiu - domeniul public al Municipiului Făgăraş, în suprafaţă de 280,40 mp situat în Făgăraş, Str",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1150",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-050-2016.pdf",
+     "sha256": "8850bb6bc343642a4f4c6a151168e57fbd86c52b20cf5e73710eaee757e80af5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-51-2016",
+   "path": "local/brasov/fagaras/2016/51",
+   "short": "HCL Făgăraș nr. 51/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 51/2016 privind completarea si modificarea anexei nr.l la HCL nr. 30 / 29.02.2016 privind CALENDARUL MANIFESTĂRILOR CULTURAL-EDUCATIVE, SPORTIVE ŞI ARTISTICE de interes municipal, care se vor desfăşură pe parcursul anu",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1151",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-051-2016.pdf",
+     "sha256": "84e57c49bfbee48e14e949814c1013b4bc73fa06aa20d531c8ffabd9bca6da7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-52-2016",
+   "path": "local/brasov/fagaras/2016/52",
+   "short": "HCL Făgăraș nr. 52/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 52/2016 privind modificarea şi completarea HCL nr.30/21.07.2016 privind numirea reprezentanţilor Consiliului Local al Municipiului Făgăraş în Consiliile de administraţie ale unităţilor de învăţământ cu personalitate ju",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1152",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-052-2016.pdf",
+     "sha256": "aebe5295d525f011fece08bd82f15179279f43b54071c72822c5a464cac56f53"
     }
    ]
   },
@@ -93,6 +678,36 @@
    ]
   },
   {
+   "slug": "hcl-brasov--fagaras-55-2016",
+   "path": "local/brasov/fagaras/2016/55",
+   "short": "HCL Făgăraș nr. 55/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 55/2016 privind constituirea Comisiei de Circulaţie a Municipiului Făgăraş",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1155",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-055-2016.pdf",
+     "sha256": "c61a040141b3be73edfa1851058b8027a8e62c69ba0fbbae843d3a6fb2cfe061"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-56-2016",
+   "path": "local/brasov/fagaras/2016/56",
+   "short": "HCL Făgăraș nr. 56/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 56/2016 privind scoaterea la licitaţie a locurilor de parcare de reşedinţă din Municipiul Făgăraş, Cartierul Gării, Cartierul Titu Perţia",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1156",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-056-2016.pdf",
+     "sha256": "f508098e07cc567d14326f2779cf349f96ab729485f6ddd0bacf2c8e1d1652e9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--fagaras-57-2016",
    "path": "local/brasov/fagaras/2016/57",
    "short": "HCL Făgăraș nr. 57/2016",
@@ -108,6 +723,171 @@
    ]
   },
   {
+   "slug": "hcl-brasov--fagaras-58-2016",
+   "path": "local/brasov/fagaras/2016/58",
+   "short": "HCL Făgăraș nr. 58/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 58/2016",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1158",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-058-2016.pdf",
+     "sha256": "280f7cd77802b3dba8163ad68c8b026eab7c94b63118df6ecb867d7c40e52068"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-59-2016",
+   "path": "local/brasov/fagaras/2016/59",
+   "short": "HCL Făgăraș nr. 59/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 59/2016 privind rectificarea înscrisurilor din CF. nr.103371 Făgăraş, nr.top 75/1/1/a imobil în suprafaţă de 5.955 mp referitor la titularul dreptului de proprietate",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1159",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-059-2016.pdf",
+     "sha256": "a3426486e103a67a4f4556df44d5bf7b1611f2659cdb509aab92ebece4afaa30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-6-2016",
+   "path": "local/brasov/fagaras/2016/6",
+   "short": "HCL Făgăraș nr. 6/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 6/2016",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1106",
+   "versions": [
+    {
+     "from": "2016-06-24",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-006-2016.pdf",
+     "sha256": "a6938016b76f0dacf7a5fd5d6af4c2b8391e0eba48928bb6d8789fd36ba294a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-60-2016",
+   "path": "local/brasov/fagaras/2016/60",
+   "short": "HCL Făgăraș nr. 60/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 60/2016 privind alegerea unui consilier ca preşedinte de şedinţa",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1160",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-060-2016.pdf",
+     "sha256": "01c5990e2c2b50c18ba0f096c2fa59d2a42606b699c1a8ddc969a2a5f9310bdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-61-2016",
+   "path": "local/brasov/fagaras/2016/61",
+   "short": "HCL Făgăraș nr. 61/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 61/2016 privind modificarea organigramei şi a statului de funcţii ale Muzeului Ţării Făgăraşului „Vaier Literat” Făgăraş",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1161",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-061-2016.pdf",
+     "sha256": "00e36e3dc1b4a4789095ba41ac5994985cc99c5bf59bc037c6be95f48c15a210"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-62-2016",
+   "path": "local/brasov/fagaras/2016/62",
+   "short": "HCL Făgăraș nr. 62/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 62/2016 privind modificarea şi completarea statutului SC SALCO SERV SA FĂGARAŞ",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1162",
+   "versions": [
+    {
+     "from": "2016-09-02",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-062-2016.pdf",
+     "sha256": "3bee80ac2d710cede4b167462e2183c346ea511f4f76da115667077bd43582dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-63-2016",
+   "path": "local/brasov/fagaras/2016/63",
+   "short": "HCL Făgăraș nr. 63/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 63/2016 privind rectificarea prin suplimentare a bugetului Municipiului Făgăraş",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1163",
+   "versions": [
+    {
+     "from": "2016-09-02",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-063-2016.pdf",
+     "sha256": "86791df2b698fc787cc255f3ddab9f617f80fcad0a832997e3de43e83bcbae75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-64-2016",
+   "path": "local/brasov/fagaras/2016/64",
+   "short": "HCL Făgăraș nr. 64/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 64/2016 privind reorganizarea si modificarea organigramei si a statului de funcţii al aparatului de specialitate al Primarului Municipiului Făgarăş pe anul 2016",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1164",
+   "versions": [
+    {
+     "from": "2016-09-02",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-064-2016.pdf",
+     "sha256": "d9e95b3a548d5ae6e0e609d25fa3776f9f3bc62ea3733dc296b2dffc586116b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-65-2016",
+   "path": "local/brasov/fagaras/2016/65",
+   "short": "HCL Făgăraș nr. 65/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 65/2016 privind reorganizarea si modificarea organigramei si a statului de funcţii ale Politiei Locale Făgarăş",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1165",
+   "versions": [
+    {
+     "from": "2016-09-02",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-065-2016.pdf",
+     "sha256": "0d2f6d95b66e7377849eddea2e1aa463967cc9ee876b93d612079f7b84b7a691"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-66-2016",
+   "path": "local/brasov/fagaras/2016/66",
+   "short": "HCL Făgăraș nr. 66/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 66/2016 privind aprobarea participării Municipiului Fagaras in calitate de beneficiar /solicitant in cadrul apelului de propuneri si acordului de parteneriat intre: Municipiul Fagaras, Colegiul Aurel Vijoli, Şcoala",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1166",
+   "versions": [
+    {
+     "from": "2016-09-02",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-066-2016.pdf",
+     "sha256": "9065ba580b1e4c2f1cf1d3ff450a51d0896b5779bc8cd11b12e8ae2556c043ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-67-2016",
+   "path": "local/brasov/fagaras/2016/67",
+   "short": "HCL Făgăraș nr. 67/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 67/2016 privind Aderarea Municipiului Făgăraş ca membru fondator Ia Asociaţia de Promovare Turistică Proturism Ţara Făgăraşului",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1167",
+   "versions": [
+    {
+     "from": "2016-09-02",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-067-2016.pdf",
+     "sha256": "b0c0f95e948e5211eae1174ad3f6af475434dee0c1867921d6a8589b14aaccac"
+    }
+   ]
+  },
+  {
    "slug": "hcl-brasov--fagaras-68-2016",
    "path": "local/brasov/fagaras/2016/68",
    "short": "HCL Făgăraș nr. 68/2016",
@@ -119,6 +899,81 @@
      "units": 1,
      "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-068-2016.pdf",
      "sha256": "b3838d89040fd5d9c7b59c88cf85693d55e5ed2b3b61e0f9e801f8957489e1ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-69-2016",
+   "path": "local/brasov/fagaras/2016/69",
+   "short": "HCL Făgăraș nr. 69/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 69/2016",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1169",
+   "versions": [
+    {
+     "from": "2016-09-02",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-069-2016.pdf",
+     "sha256": "afa20b7acdca8d510dbee301ea0b19e5eed1c803a036741f0b3c47d756963363"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-7-2016",
+   "path": "local/brasov/fagaras/2016/7",
+   "short": "HCL Făgăraș nr. 7/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 7/2016",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1107",
+   "versions": [
+    {
+     "from": "2016-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-007-2016.pdf",
+     "sha256": "d5cbc3c1f4282772261630d261b8899be8fb7603108bad15431d929271da4b2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-70-2016",
+   "path": "local/brasov/fagaras/2016/70",
+   "short": "HCL Făgăraș nr. 70/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 70/2016 privind mandatarea Primarului Municpiului Făgăraş, de a desemna reprezentanţi in comisiile de concurs la unităţile de invatamant preuniversitar de stat din municipiul Fagaras",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1170",
+   "versions": [
+    {
+     "from": "2016-09-23",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-070-2016.pdf",
+     "sha256": "33aaf1d4093424f7eb99d208c1e03323b9594e0d433d10f5a35a5bd4ce6fdd8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-8-2016",
+   "path": "local/brasov/fagaras/2016/8",
+   "short": "HCL Făgăraș nr. 8/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 8/2016 privind rectificarea bugetului Municipiului Făgăraş pe anul 2016",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1108",
+   "versions": [
+    {
+     "from": "2016-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-008-2016.pdf",
+     "sha256": "2bf9a1ec5379de09845af70d78fe3d8518af55d4c6659e1508305e8bca7866b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-brasov--fagaras-9-2016",
+   "path": "local/brasov/fagaras/2016/9",
+   "short": "HCL Făgăraș nr. 9/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 9/2016 privind efectuarea unui Audit extern tuturor departamentelor aparatului de specialitate al Primarului Municipiului Făgăraş",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/1109",
+   "versions": [
+    {
+     "from": "2016-06-30",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/hcl-009-2016.pdf",
+     "sha256": "3e844e9f809c12f60c773ce3f4ab9bd7f3a707e12fdd3005aa392785029dd5fc"
     }
    ]
   }

@@ -89,6 +89,28 @@
 "flags": {
 "text_pending": "source"
 }
+},
+{
+"slug": "hcl-hunedoara--brad-198-2021",
+"path": "local/hunedoara/brad/2021/198",
+"kind": "local",
+"year": "2021",
+"number": "198",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 198/2021 privind aprobarea Planului anual de acţiune al Direcției de Asistență Socială Brad pentru anul 2022",
+"short": "HCL Brad nr. 198/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/brad-hd/registru-hcl/45573",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

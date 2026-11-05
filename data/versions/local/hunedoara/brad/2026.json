@@ -18,6 +18,51 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--brad-138-2026",
+   "path": "local/hunedoara/brad/2026/138",
+   "short": "HCL Brad nr. 138/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 138/2026 privind aprobarea Devizului general, actualizat la finalizarea lucrărilor aferente obiectivului de investiții „Amplasare șase stații de încărcare electrice” în cadrul proiectului „Realizarea transportului public [lineBreak]local cu mijloace ecologice în Municipiul Brad și Comuna Crișcior”",
+   "url": "https://emol.ro/brad-hd/registru-hcl/282867",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/106349/Anexa%20HCL_DG%20statii%20autobuze%20-%20finalizare%20lucrari_s.pdf",
+     "sha256": "9f9a38fa9b56d01b9636085582c01ab5aef900c5f13cdff8d37f7aa81c126052"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-20-2026",
+   "path": "local/hunedoara/brad/2026/20",
+   "short": "HCL Brad nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 20/2026 privind aprobarea Documentației tehnico - economice, a Indicatorilor tehnico-economici și a Devizului general, faza Proiect Tehnic, pentru obiectivul de investiții \"ASIGURAREA ENERGIEI DIN SURSE REGENERABILE PENTRU CONSUMUL PROPRIU AL CLĂDIRILOR PUBLICE ȘI A[lineBreak] ILUMINATULUI PUBLIC DIN MUNICIPIUL BRAD, JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/brad-hd/registru-hcl/250393",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/89824/PT%20scanat%20PF-CEF.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-46-2026",
+   "path": "local/hunedoara/brad/2026/46",
+   "short": "HCL Brad nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 46/2026 privind aprobarea Documentației tehnico-economice și a Devizului general pentru obiectivul de investiții \"DESFIINȚARE SERĂ CALDĂ CU INSTALAȚII AFERENTE”",
+   "url": "https://emol.ro/brad-hd/registru-hcl/260179",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/94059/DTAD%20scanat%C4%83%20final.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--brad-73-2026",
    "path": "local/hunedoara/brad/2026/73",
    "short": "HCL Brad nr. 73/2026",

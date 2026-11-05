@@ -3,6 +3,21 @@
  "shard": "local/bacau/bacau/2025",
  "acts": [
   {
+   "slug": "hcl-bacau--bacau-280-2025",
+   "path": "local/bacau/bacau/2025/280",
+   "short": "HCL Bacău nr. 280/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 280/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20250721084850-HCL%20NR.%20280%20DIN%2018.07.2025_redacted.pdf",
+     "sha256": "de761b27134084046259163364b4406c1d49e1ef6bee9cbb73116668541b36a3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--bacau-487-2025",
    "path": "local/bacau/bacau/2025/487",
    "short": "HCL Bacău nr. 487/2025",

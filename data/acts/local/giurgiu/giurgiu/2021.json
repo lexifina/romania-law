@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/giurgiu/2021",
+"acts": [
+{
+"slug": "hcl-giurgiu--giurgiu-20-2021",
+"path": "local/giurgiu/giurgiu/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 20/2021",
+"short": "HCL Giurgiu nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-13",
+"latest": "2021-09-13",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/documente-si-informatii-financiare/registrul-datoriei-publice-locale/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

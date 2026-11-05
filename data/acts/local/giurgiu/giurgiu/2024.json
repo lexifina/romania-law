@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/giurgiu/2024",
+"acts": [
+{
+"slug": "hcl-giurgiu--giurgiu-317-2024",
+"path": "local/giurgiu/giurgiu/2024/317",
+"kind": "local",
+"year": "2024",
+"number": "317",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 317/2024 privind aprobarea organizării refendumului local în vederea consultării cetățenilor Municipiului Giurgiucu privire la construirea unui incinerator de deșeuri medicale sau alte tipuri de deșeuri Vizualizare",
+"short": "HCL Giurgiu nr. 317/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2024-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-328-2024",
+"path": "local/giurgiu/giurgiu/2024/328",
+"kind": "local",
+"year": "2024",
+"number": "328",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 328/2024",
+"short": "HCL Giurgiu nr. 328/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-28",
+"latest": "2024-11-28",
+"portal": "https://primariagiurgiu.ro/informatii-de-interes-public/registrul-local-al-spatiilor-verzi-din-municipiul-giurgiu/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

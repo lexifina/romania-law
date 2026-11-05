@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/giurgiu/2010",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--giurgiu-148-2010",
+   "path": "local/giurgiu/giurgiu/2010/148",
+   "short": "HCL Giurgiu nr. 148/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 148/2010 privind modificarea Hotărârii Consiliului Local Nr. 148 din data de 24 iunie 2010 Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2010-06-24",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/195/180-modificare-HCL-148-2010.pdf",
+     "sha256": "bda3e1d6e9898a8df06da8220b12c9d4ae5404fb2956f0a0566dba1c2321f3d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-149-2010",
+   "path": "local/giurgiu/giurgiu/2010/149",
+   "short": "HCL Giurgiu nr. 149/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 149/2010 privind revocarea Hotărârii Consiliului Local nr. 149 din data de 24 iunie 2010 privind atribuirea în folosință gratuită a unui tere în suprafață de 150,00 mp, pentru construirea unei locuințe proprietate personală, domnișoarei Meiuș Darina Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2010-06-24",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/92-rectificare-149-1.pdf",
+     "sha256": "9b25cddab758a7f9be6c64b5f9f445ede43e0eeb64d73efe03503385966f5fc9"
+    }
+   ]
+  }
+ ]
+}

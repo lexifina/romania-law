@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/giurgiu/2008",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--giurgiu-309-2008",
+   "path": "local/giurgiu/giurgiu/2008/309",
+   "short": "HCL Giurgiu nr. 309/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 309/2008",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2017-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/155/149-revocare-309.pdf",
+     "sha256": "6e73623091e00a4618f56ae922147f084474e28afde928d9ea26a40cf1aa4bc8"
+    }
+   ]
+  }
+ ]
+}

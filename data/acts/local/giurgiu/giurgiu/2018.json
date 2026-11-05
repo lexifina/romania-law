@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/giurgiu/2018",
+"acts": [
+{
+"slug": "hcl-giurgiu--giurgiu-20-2018",
+"path": "local/giurgiu/giurgiu/2018/20",
+"kind": "local",
+"year": "2018",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 20/2018",
+"short": "HCL Giurgiu nr. 20/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-11-22",
+"latest": "2018-11-22",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/documente-si-informatii-financiare/registrul-datoriei-publice-locale/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-22-2018",
+"path": "local/giurgiu/giurgiu/2018/22",
+"kind": "local",
+"year": "2018",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 22/2018 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr 22 din 23 ianuarie 2018 privind reorganizarea Comiesiei de vânzare a bunurilor apaținând domeniului privat de interes local al Municipiului Giurgiu Vizualizare",
+"short": "HCL Giurgiu nr. 22/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-01-23",
+"latest": "2018-01-23",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-giurgiu--giurgiu-107-2018",
+"path": "local/giurgiu/giurgiu/2018/107",
+"kind": "local",
+"year": "2018",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 107/2018 privind abrogarea Hotărârii Consiliului Local al Municipiului Giurgiu nr. 107 /29.03.2018 privind aprobarea constituirii Colegiului Director al Direcția de Asistență Socială Giurgiu Vizualizare",
+"short": "HCL Giurgiu nr. 107/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-03-29",
+"latest": "2018-03-29",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

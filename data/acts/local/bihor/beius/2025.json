@@ -92,6 +92,28 @@
 }
 },
 {
+"slug": "hcl-bihor--beius-13-2025",
+"path": "local/bihor/beius/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 13/2025 privind aprobarea Studiului de fundamentare a deciziei de concesionare a serviciului de utilitate publică de distribuție a gazelor naturale în municipiul Beiuș, județul Bihor",
+"short": "HCL Beiuș nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-03",
+"latest": "2025-02-03",
+"portal": "https://emol.ro/beius-bh/registru-hcl/189980",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--beius-14-2025",
 "path": "local/bihor/beius/2025/14",
 "kind": "local",
@@ -448,6 +470,28 @@
 }
 },
 {
+"slug": "hcl-bihor--beius-55-2025",
+"path": "local/bihor/beius/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 55/2025 privind aprobarea modificării Studiului de fundamentare a deciziei de concesionare a serviciului de utilitate publică de distribuție a gazelor naturale în municipiul Beiuș, județul Bihor",
+"short": "HCL Beiuș nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-10",
+"latest": "2025-04-10",
+"portal": "https://emol.ro/beius-bh/registru-hcl/201896",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--beius-56-2025",
 "path": "local/bihor/beius/2025/56",
 "kind": "local",
@@ -561,6 +605,28 @@
 }
 },
 {
+"slug": "hcl-bihor--beius-120-2025",
+"path": "local/bihor/beius/2025/120",
+"kind": "local",
+"year": "2025",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 120/2025 privind introducerea în domeniul privat al municipiului Beius a imobilului situat în municipiul Beiuș, zona str. Traian Vuia, teren arabil extravilan identificat prin nr. cad 102119 înscris în CF 102119 Beiuș",
+"short": "HCL Beiuș nr. 120/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-25",
+"latest": "2025-06-25",
+"portal": "https://emol.ro/beius-bh/registru-hcl/212286",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--beius-125-2025",
 "path": "local/bihor/beius/2025/125",
 "kind": "local",
@@ -649,6 +715,29 @@
 "council_name": "Consiliul Local al Municipiului Beiuș",
 "flags": {
 "text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--beius-131-2025",
+"path": "local/bihor/beius/2025/131",
+"kind": "local",
+"year": "2025",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 131/2025",
+"short": "HCL Beiuș nr. 131/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-03",
+"latest": "2025-07-03",
+"portal": "https://emol.ro/beius-bh/registru-hcl/214920",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -829,6 +918,28 @@
 "flags": {
 "text_pending": "ocr",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--beius-162-2025",
+"path": "local/bihor/beius/2025/162",
+"kind": "local",
+"year": "2025",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 162/2025 privind aprobarea cumpărării unui imobil reprezentând teren în suprafață de 47 mp, înscris în CF 1148, nr. top 241/8 situat pe strada Aleea Padișului, municipiul Beiuș, proprietatea SC Fragaria SA",
+"short": "HCL Beiuș nr. 162/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-25",
+"latest": "2025-08-25",
+"portal": "https://emol.ro/beius-bh/registru-hcl/221667",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1562,6 +1673,28 @@
 "council_name": "Consiliul Local al Municipiului Beiuș",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bihor--beius-237-2025",
+"path": "local/bihor/beius/2025/237",
+"kind": "local",
+"year": "2025",
+"number": "237",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 237/2025 privind închirierea prin licitație publică a unui teren intravilan în suprafață de 113 mp, proprietatea publică a municipiului Beiuș, strada Unirii, nr.1, identificat prin număr cadastral 107229, CF 107229 Beiuș",
+"short": "HCL Beiuș nr. 237/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-04",
+"latest": "2025-12-04",
+"portal": "https://emol.ro/beius-bh/registru-hcl/238488",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

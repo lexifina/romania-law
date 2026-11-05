@@ -23,6 +23,28 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-giurgiu--giurgiu-219-2026",
+"path": "local/giurgiu/giurgiu/2026/219",
+"kind": "local",
+"year": "2026",
+"number": "219",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 219/2026",
+"short": "HCL Giurgiu nr. 219/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://primariagiurgiu.ro/informatii-de-interes-public/registrul-local-al-spatiilor-verzi-din-municipiul-giurgiu/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

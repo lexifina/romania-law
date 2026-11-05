@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/bacau/bacau/2022",
+"acts": [
+{
+"slug": "hcl-bacau--bacau-86-2022",
+"path": "local/bacau/bacau/2022/86",
+"kind": "local",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 86/2022 pentru aprobarea modificării HCL nr. 43 din 07.02.2022 privind aprobarea Bugetului de venituri și cheltuieli, Programului de investiții pe anul 2022 ale Consiliului Local al Municipiului Bacău și a prognozei pe următorii trei ani Consiliul Local al Municipiului Bacău întrunit în ședință extraordinară la data de 14.03.2022, potrivit art.133 alin. (2), lit. a) din Ordonanța de Urgență nr. 57/2019 pr",
+"short": "HCL Bacău nr. 86/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-14",
+"latest": "2022-03-14",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--bacau-382-2022",
+"path": "local/bacau/bacau/2022/382",
+"kind": "local",
+"year": "2022",
+"number": "382",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 382/2022",
+"short": "HCL Bacău nr. 382/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-06",
+"latest": "2022-09-06",
+"portal": null,
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--bacau-508-2022",
+"path": "local/bacau/bacau/2022/508",
+"kind": "local",
+"year": "2022",
+"number": "508",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 508/2022 privind aprobarea modificarii HCL nr. 43 din 07.02.2022 privind aprobarea Bugetului de venituri si cheltuieli si Programul de investitii pe anul 2022, ale Consiliului Local al Municipiului Bacau si a prognozei pe urmatorii trei ani Consiliul Local al Municipiului Bacău întrunit în ședință ordinară la data de 29.11.2022 potrivit art. 133 alin. 1 din Ordonanța de Urgență nr. 57/2019 privind Codul ad",
+"short": "HCL Bacău nr. 508/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-29",
+"latest": "2022-11-29",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--bacau-516-2022",
+"path": "local/bacau/bacau/2022/516",
+"kind": "local",
+"year": "2022",
+"number": "516",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 516/2022 privind aprobarea modificarii HCL nr. 43 din 07.02.2022 privind aprobarea Bugetului de venituri si cheltuieli si Programul de investitii pe anul 2022, ale Consiliului Local al Municipiului Bacau si a prognozei pe urmatorii trei ani Consiliul Local al Municipiului Bacău întrunit în ședință extraordinară la data de 12.12.2022 potrivit art. 133 alin. (2) lit.a) din Ordonanța de Urgență nr. 57/2019 pr",
+"short": "HCL Bacău nr. 516/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-12",
+"latest": "2022-12-12",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--bacau-577-2022",
+"path": "local/bacau/bacau/2022/577",
+"kind": "local",
+"year": "2022",
+"number": "577",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 577/2022 privind aprobarea modificarii HCL nr. 43 din 07.02.2022 privind aprobarea Bugetului de venituri si cheltuieli si Programul de investitii pe anul 2022, ale Consiliului Local al Municipiului Bacau si a prognozei pe urmatorii trei ani Consiliul Local al Municipiului Bacău întrunit în ședință ordinară la data de 27.12.2022 potrivit art. 133 alin. 1 din Ordonanța de Urgență nr. 57/2019 privind Codul ad",
+"short": "HCL Bacău nr. 577/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -3,6 +3,29 @@
 "shard": "local/bacau/bacau/2025",
 "acts": [
 {
+"slug": "hcl-bacau--bacau-280-2025",
+"path": "local/bacau/bacau/2025/280",
+"kind": "local",
+"year": "2025",
+"number": "280",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 280/2025",
+"short": "HCL Bacău nr. 280/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-18",
+"latest": "2025-07-18",
+"portal": null,
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--bacau-487-2025",
 "path": "local/bacau/bacau/2025/487",
 "kind": "local",

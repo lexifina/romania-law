@@ -3,6 +3,156 @@
  "shard": "local/arges/campulung/2008",
  "acts": [
   {
+   "slug": "hcl-arges--campulung-100-2008",
+   "path": "local/arges/campulung/2008/100",
+   "short": "HCL Câmpulung nr. 100/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 100/2008",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%20100%20din%2026.05.2008.pdf",
+     "sha256": "b2353556805774e6a645e49a7be00eefba56171d12a399f979d34cf5d5069f9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-101-2008",
+   "path": "local/arges/campulung/2008/101",
+   "short": "HCL Câmpulung nr. 101/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 101/2008 privind concesionarea directă a suprafeţei de 19,92 mp în favoarea d-lui Boncoi Vasile-Toma Hotărâre privind concesionarea directă a suprafeţei de 19,92 mp în favoarea d-lui Boncoi Vasile-Toma",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%20101%20din%2026.05.2008.pdf",
+     "sha256": "4d5edaad01fae4096be0b44a54f4806abecc78cfabdf145217ef7eeaabf4a704"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-102-2008",
+   "path": "local/arges/campulung/2008/102",
+   "short": "HCL Câmpulung nr. 102/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 102/2008 privind aprobare PUD pentru terenul situat în str. Col. Alexandrescu, f.n",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%20102%20din%2026.05.2008.pdf",
+     "sha256": "e829512cef97dc84a6b922d23214253682be99dca0c2c6aab8261a057214b0da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-103-2008",
+   "path": "local/arges/campulung/2008/103",
+   "short": "HCL Câmpulung nr. 103/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 103/2008 privind aprobare PUD pentru terenul situat în str .Col. Alexandrescu, f.n",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%20103%20din%2026.05.2008.pdf",
+     "sha256": "7a09a1d2ffcac7b137cb026713f02ce2e150f5c90cc577aeb88863328dc97558"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-104-2008",
+   "path": "local/arges/campulung/2008/104",
+   "short": "HCL Câmpulung nr. 104/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 104/2008 privind aprobare PUD pentru terenul situat în str .Col. Alexandrescu, f.n",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%20104%20din%2026.05.2008.pdf",
+     "sha256": "f0aaf15e03541c1cb490653051265f0af9e2aaece61920a902be919e290a5264"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-11-2008",
+   "path": "local/arges/campulung/2008/11",
+   "short": "HCL Câmpulung nr. 11/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 11/2008",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-07-17",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2011%20din%2017.07.2008.pdf",
+     "sha256": "76681cf553a3c15255b8fdd9a0472bce0f88faca5110dc7b472662d16fda60e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-12-2008",
+   "path": "local/arges/campulung/2008/12",
+   "short": "HCL Câmpulung nr. 12/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 12/2008",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-07-17",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2012%20din%2017.07.2008.pdf",
+     "sha256": "e68976252266abc6b6ae74572962eb98dc4db9061ecec85b7d0b05fd98145003"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-13-2008",
+   "path": "local/arges/campulung/2008/13",
+   "short": "HCL Câmpulung nr. 13/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 13/2008 privind înregistrarea în domeniul privat al Municipiului Câmpulung a unei suprafeţe de teren Hotărâre privind înregistrarea în domeniul privat al Municipiului Câmpulung a unei suprafeţe de teren",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2013%20din%2031.01.2008.pdf",
+     "sha256": "88a9de7886c368f1fdaf4ae64834df53695cb407ca5f3f8090a19e1bd368e1d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-14-2008",
+   "path": "local/arges/campulung/2008/14",
+   "short": "HCL Câmpulung nr. 14/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 14/2008 privind darea în folosinţă gratuită Parohiei cu hramul Pogorârea Sfântului Duh şi Sfântul Mucenic Fanurie a unui teren Hotărâre privind darea în folosinţă gratuită Parohiei cu hramul Pogorârea Sfântului Duh şi Sfântul Mucenic Fanurie a unui teren",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2014%20din%2031.01.2008.pdf",
+     "sha256": "c5cb76cb877a59ef9d148569a10e199b41a9933d1fc0667ddb2d4b4b0b376a01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-15-2008",
+   "path": "local/arges/campulung/2008/15",
+   "short": "HCL Câmpulung nr. 15/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 15/2008 privind organigrama, statul de funcţii şi regulamentul Serviciului Poliţie Comunitară Hotărâre privind organigrama, statul de funcţii şi regulamentul Serviciului Poliţie Comunitară",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2015%20din%2031.07.2008.pdf",
+     "sha256": "107f97c8942349cb8d65eb1c8358ce5609910ffcd5db7c9402587d84f745d3a9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-16-2008",
    "path": "local/arges/campulung/2008/16",
    "short": "HCL Câmpulung nr. 16/2008",
@@ -14,6 +164,456 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2016%20din%2031.01.2008.pdf",
      "sha256": "9024e5ac17c900846297258a83be6dceca63e29c3657e687de7b1e47b2eb27f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-17-2008",
+   "path": "local/arges/campulung/2008/17",
+   "short": "HCL Câmpulung nr. 17/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 17/2008 privind Studiul de Fezabilitate şi indicatorii tehnico-economici aferenţi investiţiei „ Reţea de apă pe str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2017%20din%2031.01.2008.pdf",
+     "sha256": "d64bb63895259f609d1dcaf3febec10b6ba9fc2401fa66216ac83bbe67a27bdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-18-2008",
+   "path": "local/arges/campulung/2008/18",
+   "short": "HCL Câmpulung nr. 18/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 18/2008 privind Studiul de Fezabilitate şi indicatorii tehnico-economici aferenţi investiţiei „ Reţea de canalizare pe str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2018%20din%2031.01.2008.pdf",
+     "sha256": "adcec0ed5e09bed9d2178c8b39c9491562475384d24976c2892ae65cf918e111"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-19-2008",
+   "path": "local/arges/campulung/2008/19",
+   "short": "HCL Câmpulung nr. 19/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 19/2008 privind Studiul de Fezabilitate şi indicatorii tehnico-economici aferenţi investiţiei „ Reţea de apă pe str. Dr.Fălcoianu a Municipiului Câmpulung ” Hotărâre privind Studiul de Fezabilitate şi indicatorii tehnico-economici aferenţi investiţiei „ Reţea de apă pe str. Dr.Fălcoianu a Municipiului Câmpulung ”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2019%20din%2031.01.2008.pdf",
+     "sha256": "740dce72e241830c80a7f7718aafc086f5319bdd58c22a52322a2e5df9713eb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-2-2008",
+   "path": "local/arges/campulung/2008/2",
+   "short": "HCL Câmpulung nr. 2/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 2/2008 privind introducerea unui apartament în patrimoniul Municipiului Câmpulung Hotărâre privind introducerea unui apartament în patrimoniul Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-08",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%202%20din%2008.01.2008.pdf",
+     "sha256": "13e23ae9876e5e0a94858b5620ee20efe0e48cf11b4f4dd08d134f6bb9587dc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-20-2008",
+   "path": "local/arges/campulung/2008/20",
+   "short": "HCL Câmpulung nr. 20/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 20/2008 privind Studiul de Fezabilitate şi indicatorii tehnico-economici aferenţi investiţiei „ Reţea de canalizare pe str. Dr.Fălcoianu a Municipiului Câmpulung ” Hotărâre privind Studiul de Fezabilitate şi indicatorii tehnico-economici aferenţi investiţiei „ Reţea de canalizare pe str. Dr.Fălcoianu a Municipiului Câmpulung ”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2020%20din%2031.01.2008.pdf",
+     "sha256": "d1de96a144c1d7a0e3618bd3bebdd4d46575941449f84ce552e3266386eabd89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-21-2008",
+   "path": "local/arges/campulung/2008/21",
+   "short": "HCL Câmpulung nr. 21/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 21/2008 privind Studiul de Fezabilitate şi indicatorii tehnico-economici aferenţi investiţiei „ Reţea de apă pe str. Fătuleşti (cartierul Mărcuş) a Municipiului Câmpulung ” Hotărâre privind Studiul de Fezabilitate şi indicatorii tehnico-economici aferenţi investiţiei „ Reţea de apă pe str. Fătuleşti (cartierul Mărcuş) a Municipiului Câmpulung ”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2021%20din%2031.01.2008.pdf",
+     "sha256": "3289317ec590b86e7faf2f393c6064eba4e30b7e58b973dd8e6bca712246fae7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-22-2008",
+   "path": "local/arges/campulung/2008/22",
+   "short": "HCL Câmpulung nr. 22/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 22/2008 privind Studiul de Fezabilitate şi indicatorii tehnico-economici aferenţi investiţiei „Reabilitare imobil pe strada Matei Basarab, nr. 66 a Municipiului Câmpulung” Hotărâre privind Studiul de Fezabilitate şi indicatorii tehnico-economici aferenţi investiţiei „Reabilitare imobil pe strada Matei Basarab, nr. 66 a Municipiului Câmpulung”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2022%20din%2031.01.2008.pdf",
+     "sha256": "51e186cd458347884595effb4c790288a5cb83a8eb40e06d31a1193dcfdcacb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-23-2008",
+   "path": "local/arges/campulung/2008/23",
+   "short": "HCL Câmpulung nr. 23/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 23/2008 privind organigrama şi statul de funcţii pe anul 2008 ale Serviciului Public Administraţia Pieţelor Hotărâre privind organigrama şi statul de funcţii pe anul 2008 ale Serviciului Public Administraţia Pieţelor",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2023%20din%2031.01.2008.pdf",
+     "sha256": "0c99e0888e2424bb1a21304a5ea49ae939fdb739733ea5dfa84c82fb92c401b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-24-2008",
+   "path": "local/arges/campulung/2008/24",
+   "short": "HCL Câmpulung nr. 24/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 24/2008 privind nivelul chiriilor pentru spaţiile din Complexul Comercial - Bazar şi chioşcurile din platoul pieţei Hotărâre privind nivelul chiriilor pentru spaţiile din Complexul Comercial - Bazar şi chioşcurile din platoul pieţei",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2024%20din%2031.01.2008.pdf",
+     "sha256": "8225d98b73ca872d70e8226e056d1510ad7199f9ce68b97396cb1fba12bc8407"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-25-2008",
+   "path": "local/arges/campulung/2008/25",
+   "short": "HCL Câmpulung nr. 25/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 25/2008 privind înregistrarea în domeniul public al Municipiului Câmpulung a unor bunuri Hotărâre privind înregistrarea în domeniul public al Municipiului Câmpulung a unor bunuri",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2025%20din%2031.01.2008.pdf",
+     "sha256": "17795d714e03239bc8284c567e6f5d78e7a196e62098278edc6f277ce67f2d02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-26-2008",
+   "path": "local/arges/campulung/2008/26",
+   "short": "HCL Câmpulung nr. 26/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 26/2008 privind închirierea prin licitaţie publică a unor suprafeţe de teren pentru amplasarea unor chioşcuri de ziare Hotărâre privind închirierea prin licitaţie publică a unor suprafeţe de teren pentru amplasarea unor chioşcuri de ziare",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2026%20din%2031.01.2008.pdf",
+     "sha256": "f0f5e7528f4f6c2a6a5de105d49dda7daa589ec5e4a4d9fc3b547848796b188d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-27-2008",
+   "path": "local/arges/campulung/2008/27",
+   "short": "HCL Câmpulung nr. 27/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 27/2008",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2027%20din%2031.01.2008.pdf",
+     "sha256": "9ea81aa52d5bb228a2205ed950191fd5671db4892b494ae44e6d6ef68cebd967"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-28-2008",
+   "path": "local/arges/campulung/2008/28",
+   "short": "HCL Câmpulung nr. 28/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 28/2008 privind concesionarea directă a suprafeţei de 8,37 mp în favoarea d-lui Oproiu Ionuţ-Octavian Hotărâre privind concesionarea directă a suprafeţei de 8,37 mp în favoarea d-lui Oproiu Ionuţ-Octavian",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2028%20din%2031.01.2008.pdf",
+     "sha256": "49027e63ace887b8d151aa1d619796266bbcc645f1bb59321571ef0a405c5bc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-29-2008",
+   "path": "local/arges/campulung/2008/29",
+   "short": "HCL Câmpulung nr. 29/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 29/2008",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2029%20din%2031.01.2008.pdf",
+     "sha256": "e23e69dc2552b064f597c00c8f8dd3b1632c0e93bb7e5041eaee4b93d418c3e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-3-2008",
+   "path": "local/arges/campulung/2008/3",
+   "short": "HCL Câmpulung nr. 3/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 3/2008 privind declararea consiliului local ca legal constituit Hotărâre privind declararea consiliului local ca legal constituit",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-06-23",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%203%20din%2023.06.2008.pdf",
+     "sha256": "05e59953d1598230caf2c49494124b03ea10d2e74ecc9ab0e830fe386876d089"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-30-2008",
+   "path": "local/arges/campulung/2008/30",
+   "short": "HCL Câmpulung nr. 30/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 30/2008 privind aprobare PUD pentru terenul situat în str.Valea Bărbuşii – zona periurbană 7 Hotărâre privind aprobare PUD pentru terenul situat în str.Valea Bărbuşii – zona periurbană 7",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2030%20din%2031.01.2008.pdf",
+     "sha256": "4db59521ff263f0840b475b5470664f42dcdaca4f0b4f391a4ed8b87621f3947"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-31-2008",
+   "path": "local/arges/campulung/2008/31",
+   "short": "HCL Câmpulung nr. 31/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 31/2008 privind aprobare PUD pentru terenul situat în str.Calea Pietroasă, nr.1 B Hotărâre privind aprobare PUD pentru terenul situat în str.Calea Pietroasă, nr.1 B",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2031%20din%2031.01.2008.pdf",
+     "sha256": "d0f74b368b4f48a7648c2059801b02ad603ae32203224046d3c20b16f6d4d46a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-32-2008",
+   "path": "local/arges/campulung/2008/32",
+   "short": "HCL Câmpulung nr. 32/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 32/2008 privind aprobarea bugetului local al Municipiului Câmpulung pe anul 2008 Hotărâre privind aprobarea bugetului local al Municipiului Câmpulung pe anul 2008",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-02-07",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2032%20din%2007.02.2008.pdf",
+     "sha256": "1cadfceaea5273319c5a319af4cc6220b5e5ec184827550f8f51336adf8c6342"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-33-2008",
+   "path": "local/arges/campulung/2008/33",
+   "short": "HCL Câmpulung nr. 33/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 33/2008",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-02-07",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2033%20din%2007.02.2008.pdf",
+     "sha256": "e4c673c608538cd8e5c358418293b1d69552fd41a3fec561ebdeaf0b38317045"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-34-2008",
+   "path": "local/arges/campulung/2008/34",
+   "short": "HCL Câmpulung nr. 34/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 34/2008 privind nivelul sporurilor salariale acordate pentru condiţii periculoase, vătămătoare şi condiţii nedorite de muncă personalului din cadrul S.P.A.D.P.P",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-02-07",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2034%20din%2007.02.2008.pdf",
+     "sha256": "4fcc6f5f7a461269fe6644aa152af59f9d4a65d3c13e17cc45b5715de51f01f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-35-2008",
+   "path": "local/arges/campulung/2008/35",
+   "short": "HCL Câmpulung nr. 35/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 35/2008 privind Programul de lucru pe anul 2008 al S.P.A.D.P.P",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-02-07",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2035%20din%2007.02.2008.pdf",
+     "sha256": "4ffb501f5bfcbba52641f50b03a6bffa715d6d5aadd6322ba44c6380e15cba6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-36-2008",
+   "path": "local/arges/campulung/2008/36",
+   "short": "HCL Câmpulung nr. 36/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 36/2008 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2036%20din%2028.02.2008.pdf",
+     "sha256": "f9bdda22d7b318723ed01f120a84d372725eb4bae411ed3f66cf319167a72d0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-37-2008",
+   "path": "local/arges/campulung/2008/37",
+   "short": "HCL Câmpulung nr. 37/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 37/2008 PRIVIND ACORDAREA POST-MORTEM A TITLULUI DE CETĂŢEAN DE ONOARE AL MUNICIPIULUI CÂMPULUNG SUBLOCOTENENTULUI DRAGOŞ-TRAIAN ALEXANDRESCU Hotărâre PRIVIND ACORDAREA POST-MORTEM A TITLULUI DE CETĂŢEAN DE ONOARE AL MUNICIPIULUI CÂMPULUNG SUBLOCOTENENTULUI DRAGOŞ-TRAIAN ALEXANDRESCU",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-09-03",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2037%20din%2003.09.2008.pdf",
+     "sha256": "fe74335ecbb373f5f4afccdff91b88ed779416b74516dca96a6c6683925fc1d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-38-2008",
+   "path": "local/arges/campulung/2008/38",
+   "short": "HCL Câmpulung nr. 38/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 38/2008",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-09-03",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2038%20din%2003.09.2008.pdf",
+     "sha256": "446fd4f34bab2750bfc2eac950d5a5778c051005f5dbc471321f3070f8094ddd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-39-2008",
+   "path": "local/arges/campulung/2008/39",
+   "short": "HCL Câmpulung nr. 39/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 39/2008 privind completarea inventarului domeniului public al Municipiului Câmpulung Hotărâre privind completarea inventarului domeniului public al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-09-03",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2039%20din%2003.09.2008.pdf",
+     "sha256": "6059336cb5c10681c00f4737f144edac65c0c6782a3302f65402f5b042331bf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-4-2008",
+   "path": "local/arges/campulung/2008/4",
+   "short": "HCL Câmpulung nr. 4/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 4/2008 privind cofinanţarea lucrărilor de reabilitare a sălii de sport aferentă Liceului Naţional cu Program de Atletism Hotărâre privind cofinanţarea lucrărilor de reabilitare a sălii de sport aferentă Liceului Naţional cu Program de Atletism",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%204%20din%2014.01.2008.pdf",
+     "sha256": "ffed0cf3f698a1d2e5afa98d45174e03d77749d49397bc4d8ac7d7a583df66a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-40-2008",
+   "path": "local/arges/campulung/2008/40",
+   "short": "HCL Câmpulung nr. 40/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 40/2008 privind Regulamentul de organizare şi funcţionare al Serviciului Voluntar pentru Situaţii de Urgenţă Câmpulung Hotărâre privind Regulamentul de organizare şi funcţionare al Serviciului Voluntar pentru Situaţii de Urgenţă Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2040%20din%2028.02.2008.pdf",
+     "sha256": "3d5b86adb7c74de638c8f6f1b5da978e2d408070d1c5fec2b396c5fcd0e9f027"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-41-2008",
+   "path": "local/arges/campulung/2008/41",
+   "short": "HCL Câmpulung nr. 41/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 41/2008 privind înregistrarea în domeniul privat al Municipiului Câmpulung a unei suprafeţe de teren Hotărâre privind înregistrarea în domeniul privat al Municipiului Câmpulung a unei suprafeţe de teren",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2041%20din%2028.02.2008.pdf",
+     "sha256": "01819ecd70d69439a86623323486175f871f7c9810afec846723e60216dbdfb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-42-2008",
+   "path": "local/arges/campulung/2008/42",
+   "short": "HCL Câmpulung nr. 42/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 42/2008 privind asocierea Municipiului Câmpulung cu Grupul de Iniţiativă „Drumul Godeni” Hotărâre privind asocierea Municipiului Câmpulung cu Grupul de Iniţiativă „Drumul Godeni”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-09-11",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2042%20din%2011.09.2008.pdf",
+     "sha256": "acfa36c4ec81b53d26400a6a2ce0f7fb394ed4d255424d0653158e34605383da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-43-2008",
+   "path": "local/arges/campulung/2008/43",
+   "short": "HCL Câmpulung nr. 43/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 43/2008 privind studiul prin care se stabileşte necesarul de taxiuri din Municipiul Câmpulung Hotărâre privind studiul prin care se stabileşte necesarul de taxiuri din Municipiul Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2043%20din%2028.02.2008.pdf",
+     "sha256": "264315dea1fdd2c7feba26ce95cd0dd59c3b60c5f09a5e9037df917b1ad27d5d"
     }
    ]
   },
@@ -33,6 +633,156 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-46-2008",
+   "path": "local/arges/campulung/2008/46",
+   "short": "HCL Câmpulung nr. 46/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 46/2008 privind concesionarea directă a suprafeţei de 1 358 mp în favoarea S.C",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2046%20din%2028.02.2008.pdf",
+     "sha256": "2eb06de413479990186280e5fb84ae25c1cfae1547a51b534a03d24b081cab80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-47-2008",
+   "path": "local/arges/campulung/2008/47",
+   "short": "HCL Câmpulung nr. 47/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 47/2008",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2047%20din%2028.02.2008.pdf",
+     "sha256": "c731901718c69828b34bc5909c5f091540e5bd29eddff6e0376ad0b88a93d91f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-49-2008",
+   "path": "local/arges/campulung/2008/49",
+   "short": "HCL Câmpulung nr. 49/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 49/2008 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2049%20din%2027.03.2008.pdf",
+     "sha256": "aa95b33e7775aed7ecf67254adf3323590fcdedaeeb52ce802fe44c0c1e88e9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-5-2008",
+   "path": "local/arges/campulung/2008/5",
+   "short": "HCL Câmpulung nr. 5/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 5/2008 privind valoarea Devizului General recalculat în urma aplicării procedurilor de achiziţie publică, pentru obiectivul de investiţii „Extindere reţele apă pe străzile Richard, Fd.Richard şi Gruiului din Municipiul Câmpulung” Hotărâre privind valoarea Devizului General recalculat în urma aplicării procedurilor de achiziţie publică, pentru obiectivul de investiţii „Extindere reţele apă pe străzile Ric",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-01-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%205%20din%2014.01.2008.pdf",
+     "sha256": "4cd41a3f228f810abd424dc34b27bde1a647107d4e6ae688f6b8984bc1d5bf61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-50-2008",
+   "path": "local/arges/campulung/2008/50",
+   "short": "HCL Câmpulung nr. 50/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 50/2008 privind acceptarea unei donaţii Hotărâre privind acceptarea unei donaţii",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2050%20din%2030.09.2008.pdf",
+     "sha256": "cee77be7d275ee419beb2ca756999ce53b786eeb3281428f4375a9e471c81c34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-53-2008",
+   "path": "local/arges/campulung/2008/53",
+   "short": "HCL Câmpulung nr. 53/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 53/2008 privind închirierea directă a unei suprafeţe de teren în favoarea d-lui Mirion Francisc-Cătălin Hotărâre privind închirierea directă a unei suprafeţe de teren în favoarea d-lui Mirion Francisc-Cătălin",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2053%20din%2030.09.2008.pdf",
+     "sha256": "79a36f3670683949bb296f2903a6b16ca1ca80460f4675a66f71b3d45ff0b00b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-54-2008",
+   "path": "local/arges/campulung/2008/54",
+   "short": "HCL Câmpulung nr. 54/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 54/2008 privind închirierea unui teren prin licitaţie publică Hotărâre privind închirierea unui teren prin licitaţie publică",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2054%20din%2030.09.2008.pdf",
+     "sha256": "960323afdf97c12d2936418ea29785cd3e14154caf211fb4d7792677debea511"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-55-2008",
+   "path": "local/arges/campulung/2008/55",
+   "short": "HCL Câmpulung nr. 55/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 55/2008 privind aprobare PUD pentru terenul situat în str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2055%20din%2030.09.2008.pdf",
+     "sha256": "cafacfbfeb1a05a2f69dc5cb2b78d5a4ae1997f4e27fc8278665bde542c9a251"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-56-2008",
+   "path": "local/arges/campulung/2008/56",
+   "short": "HCL Câmpulung nr. 56/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 56/2008 privind Acordul de parteneriat dintre Municipiul Câmpulung şi Organizaţia non-guvernamentală „Tineri pentru Omenire” Hotărâre privind Acordul de parteneriat dintre Municipiul Câmpulung şi Organizaţia non-guvernamentală „Tineri pentru Omenire”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2056%20din%2030.09.2008.pdf",
+     "sha256": "10c386d927760c59eece7b4029837743d496d28127b6ca495642359fd61e3dff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-57-2008",
+   "path": "local/arges/campulung/2008/57",
+   "short": "HCL Câmpulung nr. 57/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 57/2008 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2057%20din%2030.10.2008.pdf",
+     "sha256": "b05925f988f6b40d994da86a2f5056543a6a7de4b10cad5816dec9fab7aec1c0"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-58-2008",
    "path": "local/arges/campulung/2008/58",
    "short": "HCL Câmpulung nr. 58/2008",
@@ -44,6 +794,51 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2058%20din%2027.03.2008.pdf",
      "sha256": "d6d1889477e3eaa0020539e2b35d1360037c06c84bb223407b3977a1050185cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-59-2008",
+   "path": "local/arges/campulung/2008/59",
+   "short": "HCL Câmpulung nr. 59/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 59/2008",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2059%20din%2030.10.2008.pdf",
+     "sha256": "2fe93088e0fe994930997b26d1969a6cd37d35777b1c032647fb33ec77454d08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-6-2008",
+   "path": "local/arges/campulung/2008/6",
+   "short": "HCL Câmpulung nr. 6/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 6/2008 privind constituirea comisiilor de specialitate Hotărâre privind constituirea comisiilor de specialitate",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-06-23",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%206%20din%2023.06.2008.pdf",
+     "sha256": "1e123bb80c79e7cd9cfb477bbaf79b71c1a0cf818ff3181d73a0fc42f2509447"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-60-2008",
+   "path": "local/arges/campulung/2008/60",
+   "short": "HCL Câmpulung nr. 60/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 60/2008 privind organigrama, statul de funcţii şi Planul cuprinzând principalele manifestări cultural-ştiinţifice organizate în anul 2008 de către Muzeul Municipal Câmpulung Hotărâre privind organigrama, statul de funcţii şi Planul cuprinzând principalele manifestări cultural-ştiinţifice organizate în anul 2008 de către Muzeul Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2060%20din%2027.03.2008.pdf",
+     "sha256": "6917ab5964678d3b2de22bc898e53c3603b31d10e7fda7f0c3429abec3f2fd09"
     }
    ]
   },
@@ -78,6 +873,246 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-63-2008",
+   "path": "local/arges/campulung/2008/63",
+   "short": "HCL Câmpulung nr. 63/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 63/2008 privind contractul de asociere dintre Consiliul Local al Municipiului Câmpulung şi Clubul Sportiv Muscel Câmpulung Hotărâre privind contractul de asociere dintre Consiliul Local al Municipiului Câmpulung şi Clubul Sportiv Muscel Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2063%20din%2027.03.2008.pdf",
+     "sha256": "998dd2b5223ae722b377c5e0374c1538add8816489572dedc9fb50489ada79f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-64-2008",
+   "path": "local/arges/campulung/2008/64",
+   "short": "HCL Câmpulung nr. 64/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 64/2008",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2064%20din%2027.03.2008.pdf",
+     "sha256": "bc3a65f4de84da5fb39da6491017100beb52fc2847814cbc7b1df67bde11bae9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-65-2008",
+   "path": "local/arges/campulung/2008/65",
+   "short": "HCL Câmpulung nr. 65/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 65/2008 privind trecerea din domeniul public în domeniul privat al Municipiului Câmpulung a unei suprafeţe de teren Hotărâre privind trecerea din domeniul public în domeniul privat al Municipiului Câmpulung a unei suprafeţe de teren",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2065%20din%2027.03.2008.pdf",
+     "sha256": "eaf5e8782adb347219825789df0cf3355f0a97489ceeb2de8408d6f7cf12a001"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-66-2008",
+   "path": "local/arges/campulung/2008/66",
+   "short": "HCL Câmpulung nr. 66/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 66/2008 privind înregistrarea în domeniul privat al Municipiului Câmpulung a unei suprafeţe de teren Hotărâre privind înregistrarea în domeniul privat al Municipiului Câmpulung a unei suprafeţe de teren",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2066%20din%2027.03.2008.pdf",
+     "sha256": "7e75f0cd68e90724a03484f162fb78910fc67981899a3b7b96986e33c6707c09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-67-2008",
+   "path": "local/arges/campulung/2008/67",
+   "short": "HCL Câmpulung nr. 67/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 67/2008 privind înregistrarea în domeniul privat al Municipiului Câmpulung a unei suprafeţe de teren Hotărâre privind înregistrarea în domeniul privat al Municipiului Câmpulung a unei suprafeţe de teren",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2067%20din%2027.03.2008.pdf",
+     "sha256": "a3674784b7f3c488d3ae1cabcf4e02507e751ab7e8b185d7e0e43ab4e9a5eede"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-69-2008",
+   "path": "local/arges/campulung/2008/69",
+   "short": "HCL Câmpulung nr. 69/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 69/2008 privind concesionarea directă a suprafeţei de 32,40 mp în favoarea d-lui Iorguţ P",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2069%20din%2027.03.2008.pdf",
+     "sha256": "08090f2bfc9381b72aa8de43296db13d8242ccbc55931f4dd5a72aa705ea1c57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-70-2008",
+   "path": "local/arges/campulung/2008/70",
+   "short": "HCL Câmpulung nr. 70/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 70/2008 privind aprobare PUD pentru terenul situat în str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2070%20din%2027.03.2008.pdf",
+     "sha256": "c60374dc22445a9d275dc8300e2af41a783b3e766be99bcabb5d07d8f473e704"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-71-2008",
+   "path": "local/arges/campulung/2008/71",
+   "short": "HCL Câmpulung nr. 71/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 71/2008 privind aprobare PUD pentru terenul situat în str. I.Giurculescu, nr.24 Hotărâre privind aprobare PUD pentru terenul situat în str. I.Giurculescu, nr.24",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2071%20din%2027.03.2008.pdf",
+     "sha256": "447ccb6b295ced31008d550ed1d325136d15fff8557c1d2170acf28ce2421823"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-72-2008",
+   "path": "local/arges/campulung/2008/72",
+   "short": "HCL Câmpulung nr. 72/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 72/2008 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2072%20din%2015.04.2008.pdf",
+     "sha256": "43577037b30b4f93ea70b951ad55d266bfd8ee8064e4f4a0b55573cea7363cc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-73-2008",
+   "path": "local/arges/campulung/2008/73",
+   "short": "HCL Câmpulung nr. 73/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 73/2008 privind organigrama, statul de funcţii, Agenda Culturală pe anul 2008 şi Regulamentul Cadru de Organizare şi Funcţionare ale Bibliotecii Municipale „Ion Barbu” Hotărâre privind organigrama, statul de funcţii, Agenda Culturală pe anul 2008 şi Regulamentul Cadru de Organizare şi Funcţionare ale Bibliotecii Municipale „Ion Barbu”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2073%20din%2015.04.2008.pdf",
+     "sha256": "60b6912159060c0329650b68609ffdd75b6142102ca1c7d19727ab8352f7dfd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-75-2008",
+   "path": "local/arges/campulung/2008/75",
+   "short": "HCL Câmpulung nr. 75/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 75/2008 privind repartizarea unei sume de bani Clubului Sportiv Muscelul Câmpulung Hotărâre privind repartizarea unei sume de bani Clubului Sportiv Muscelul Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2075%20din%2027.11.2008.pdf",
+     "sha256": "905104fb22fd6933e9f714741f1441ec1fc11e7db66ed3b4f071cc55a6f86f5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-76-2008",
+   "path": "local/arges/campulung/2008/76",
+   "short": "HCL Câmpulung nr. 76/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 76/2008 privind schimbarea unor funcţii publice de execuţie Hotărâre privind schimbarea unor funcţii publice de execuţie",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2076%20din%2027.11.2008.pdf",
+     "sha256": "87ef0e37a32ff951313caf5fcd7a8bb8844fc84e4ccc3f20563d2aa85e306c82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-77-2008",
+   "path": "local/arges/campulung/2008/77",
+   "short": "HCL Câmpulung nr. 77/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 77/2008 privind aprobarea decontării cheltuielilor ocazionate de deplasarea delegaţiei Municipiului Câmpulung în municipiul Rende, Italia Hotărâre privind aprobarea decontării cheltuielilor ocazionate de deplasarea delegaţiei Municipiului Câmpulung în municipiul Rende, Italia",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2077%20din%2027.11.2008.pdf",
+     "sha256": "e2811a4b81d4cbc533823077365a20f8c63b4c1596456e27cbb7fde7ea03866c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-78-2008",
+   "path": "local/arges/campulung/2008/78",
+   "short": "HCL Câmpulung nr. 78/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 78/2008 privind închirierea directă a unui teren în suprafaţă de 6 mp în favoarea S.C",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2078%20din%2027.11.2008.pdf",
+     "sha256": "b88dcca5e43226eb58eb5710e7194f7278f603fed3a22a2a269c4fdb8c423307"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-8-2008",
+   "path": "local/arges/campulung/2008/8",
+   "short": "HCL Câmpulung nr. 8/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 8/2008 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%208%20din%2008.07.2008.pdf",
+     "sha256": "0403963a4ff7096640d73005f7e9753afe3447d3ce2c572ddbd3744bba73020e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-80-2008",
+   "path": "local/arges/campulung/2008/80",
+   "short": "HCL Câmpulung nr. 80/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 80/2008 privind înfiinţarea Serviciului de Poliţie Comunitară Hotărâre privind înfiinţarea Serviciului de Poliţie Comunitară",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2080%20din%2030.04.2008.pdf",
+     "sha256": "9894791de48044ce59cdeade86126798fb06ee1b1b3898a4f66a286fc7e6d86e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-81-2008",
    "path": "local/arges/campulung/2008/81",
    "short": "HCL Câmpulung nr. 81/2008",
@@ -89,6 +1124,276 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2081%20din%2030.04.2008.pdf",
      "sha256": "7a2aa21406cd68cbcc4ba095daee1b45bb2782c9675ef4bd7f9e03a25f267f7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-82-2008",
+   "path": "local/arges/campulung/2008/82",
+   "short": "HCL Câmpulung nr. 82/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 82/2008 privind concesionarea prin licitaţie publică a imobilului „Căminul Cultural Apa Sărată” Hotărâre privind concesionarea prin licitaţie publică a imobilului „Căminul Cultural Apa Sărată”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2082%20din%2030.04.2008.pdf",
+     "sha256": "b6ee10794b228dd4a7ddea0919b4fb603bb660c9070b64110ae184b5f1f0d0fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-83-2008",
+   "path": "local/arges/campulung/2008/83",
+   "short": "HCL Câmpulung nr. 83/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 83/2008",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2083%20din%2030.04.2008.pdf",
+     "sha256": "625f422822ac59c038bcfe517f31a830c2ebe7411575e5b14de50be6f3493801"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-84-2008",
+   "path": "local/arges/campulung/2008/84",
+   "short": "HCL Câmpulung nr. 84/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 84/2008",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2084%20din%2030.04.2008.pdf",
+     "sha256": "35ce9be92715635d5ea232580e4486e5728bf24f7fe2a7b18f86a5483b78cd25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-85-2008",
+   "path": "local/arges/campulung/2008/85",
+   "short": "HCL Câmpulung nr. 85/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 85/2008 privind concesionarea directă a suprafeţei de 11,40 mp în favoarea d-lui Isbăşoiu Adrian-Dan Hotărâre privind concesionarea directă a suprafeţei de 11,40 mp în favoarea d-lui Isbăşoiu Adrian-Dan",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2085%20din%2030.04.2008.pdf",
+     "sha256": "60c283de51d0f20afed85bbd13d20c25774fddde34b45519a2a55646cd2342fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-86-2008",
+   "path": "local/arges/campulung/2008/86",
+   "short": "HCL Câmpulung nr. 86/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 86/2008",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2086%20din%2030.04.2008.pdf",
+     "sha256": "d22cb57c15af0e36ac78d7c6ea98575c1d53c0593cfda2546f38347e3b88ff83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-87-2008",
+   "path": "local/arges/campulung/2008/87",
+   "short": "HCL Câmpulung nr. 87/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 87/2008",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2087%20din%2030.04.2008.pdf",
+     "sha256": "24b904ce580266c9b4b8e88a02b95fe0d0348b42c2348795cfa6e550ebd04530"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-88-2008",
+   "path": "local/arges/campulung/2008/88",
+   "short": "HCL Câmpulung nr. 88/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 88/2008 privind aprobare PUD pentru terenul situat în str. Col. Alexandrescu, f.n",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2088%20din%2030.04.2008.pdf",
+     "sha256": "d02c7c35b84a55197e78f27aa00af6372f1a3ad865a9c165f5a4f384a309683c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-89-2008",
+   "path": "local/arges/campulung/2008/89",
+   "short": "HCL Câmpulung nr. 89/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 89/2008 privind aprobare PUD pentru terenul situat în str. Dr. Fălcoianu, f.n",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2089%20din%2030.04.2008.pdf",
+     "sha256": "0937262f9a76bacd186d9dc36b9ddc3627ca7a9c437bcb6af437ecc5dc723667"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-9-2008",
+   "path": "local/arges/campulung/2008/9",
+   "short": "HCL Câmpulung nr. 9/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 9/2008 privind participarea Consiliului Local al Municipiului Câmpulung în calitate de coorganizator la manifestarea „Centenarul Societăţii Culturale Negru Vodă” organizat de Societatea Culturală „Negru Vodă” Hotărâre privind participarea Consiliului Local al Municipiului Câmpulung în calitate de coorganizator la manifestarea „Centenarul Societăţii Culturale Negru Vodă” organizat de Societatea Culturală",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%209%20din%2008.07.2008.pdf",
+     "sha256": "ebc9d9a650a7ac287a323144f033b8424288242432e26ebde2c23db6f6de7377"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-90-2008",
+   "path": "local/arges/campulung/2008/90",
+   "short": "HCL Câmpulung nr. 90/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 90/2008 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-05-08",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2090%20din%2008.05.2008.pdf",
+     "sha256": "96545f463e4c310f99a0c72ee5096077cc1643aba36afc98998cff1f6bffd4ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-91-2008",
+   "path": "local/arges/campulung/2008/91",
+   "short": "HCL Câmpulung nr. 91/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 91/2008 privind participarea Municipiului Câmpulung la organizarea evenimentului „Marele Premiu al Municipiului Câmpulung” Hotărâre privind participarea Municipiului Câmpulung la organizarea evenimentului „Marele Premiu al Municipiului Câmpulung”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-05-08",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2091%20din%2008.05.2008.pdf",
+     "sha256": "a1dfff02a467a0390152fded74e72cecff8a5f5b0adc5b363f33e04b50e23ba9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-92-2008",
+   "path": "local/arges/campulung/2008/92",
+   "short": "HCL Câmpulung nr. 92/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 92/2008 privind contul de încheiere al execuţiei bugetare pe anul 2007 Hotărâre privind contul de încheiere al execuţiei bugetare pe anul 2007",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2092%20din%2026.05.2008.pdf",
+     "sha256": "4f55b3c922e2f813a20b77bd22bc1336c1c88cc5f86af5cec5c94526fee41771"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-93-2008",
+   "path": "local/arges/campulung/2008/93",
+   "short": "HCL Câmpulung nr. 93/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 93/2008 privind concesionarea prin licitaţie publică a Căminului Cultural Mărcuş Hotărâre privind concesionarea prin licitaţie publică a Căminului Cultural Mărcuş",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2093%20din%2029.12.2008.pdf",
+     "sha256": "1f99c4e7c047b6c60d76ad9e0193b47dac3ed35bb8d720700e79e773c5140946"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-94-2008",
+   "path": "local/arges/campulung/2008/94",
+   "short": "HCL Câmpulung nr. 94/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 94/2008 privind rectificarea bugetului local Hotărâre privind rectificarea bugetului local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2094%20din%2026.05.2008.pdf",
+     "sha256": "dfd5eefdd3d7e0b800365a99ddd4feaa706a50e6c4c3d797f1ca5c3ffae0bee9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-96-2008",
+   "path": "local/arges/campulung/2008/96",
+   "short": "HCL Câmpulung nr. 96/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 96/2008 privind trecerea din domeniul public în domeniul privat al Municipiului Câmpulung a unor mijloace fixe Hotărâre privind trecerea din domeniul public în domeniul privat al Municipiului Câmpulung a unor mijloace fixe",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2096%20din%2026.05.2008.pdf",
+     "sha256": "88e43a78fb42ecfe6848e04389194e43c238eaa74578a7f1e19457666522be0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-97-2008",
+   "path": "local/arges/campulung/2008/97",
+   "short": "HCL Câmpulung nr. 97/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 97/2008 privind modificarea amplasamentului antenei de emisie recepţie din dotarea Microstaţiei de Ambulanţă Câmpulung Hotărâre privind modificarea amplasamentului antenei de emisie recepţie din dotarea Microstaţiei de Ambulanţă Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2097%20din%2026.05.2008.pdf",
+     "sha256": "83c4ee7cfc0fd37a83a9817ec4085562d78550660bd55fdfbded061d93e5de2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-98-2008",
+   "path": "local/arges/campulung/2008/98",
+   "short": "HCL Câmpulung nr. 98/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 98/2008 privind transmiterea unui imobil, proprietate publică a Municipiului CÂMPULUNG, din domeniul public al Municipiului CÂMPULUNG şi din administrarea Consiliului Local CÂMPULUNG, în domeniul public al statului şi în administrarea Ministerului Agriculturii şi Dezvoltării Rurale – Agenţia de Plă Hotărâre privind transmiterea unui imobil, proprietate publică a Municipiului CÂMPULUNG, din domeniul public",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2098%20din%2026.05.2008.pdf",
+     "sha256": "f676dacdf51a9a92090b196248a760b173b1e1aca0bc79a29eab42da6925a7db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-99-2008",
+   "path": "local/arges/campulung/2008/99",
+   "short": "HCL Câmpulung nr. 99/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 99/2008 Privind acordarea avizului consultativ al Consiliului Local al Municipiului Câmpulung pentru numirea în funcția de director/director adjunct la unitățile de învățământ de stat Consiliul Local al Municipiului Câmpulung întrunit în ședință ordinară în data de 26 05 2008; Luând în discuție raportul primarului înregistrat sub nr.15597/ 21 05 2008 prin care se solicită acordarea avizului consultativ de",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2008-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2008/HCL%20nr.%2099%20din%2026.05.2008.pdf",
+     "sha256": "e1309345274d875a6d13c550a46ec3716dbc230f3ca8ff22ba4a6a4b810c3069"
     }
    ]
   }

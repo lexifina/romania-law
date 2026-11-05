@@ -25,6 +25,51 @@
 }
 },
 {
+"slug": "hcl-bihor--beius-6-2026",
+"path": "local/bihor/beius/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 6/2026",
+"short": "HCL Beiuș nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-10",
+"latest": "2026-02-10",
+"portal": "https://emol.ro/beius-bh/registru-hcl/250494",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--beius-7-2026",
+"path": "local/bihor/beius/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 7/2026 privind închirierea prin licitație publică a spațiului ( clădire centrală termică) și teren aferent, identificat prin nr. cadastral 107372-C1- Beiuș, înscris in cartea funciara nr. 107372 Beiuș, suprafață utilă 184,22 mp și suprafață construită 212,88 mp, regim de înălțime Parter, se află situată în Municipiul Beiuș str. Aleea Padișului, nr.10, județul Bihor, proprietate publica a Municipiului Beiuș",
+"short": "HCL Beiuș nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-10",
+"latest": "2026-02-10",
+"portal": "https://emol.ro/beius-bh/registru-hcl/250495",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--beius-8-2026",
 "path": "local/bihor/beius/2026/8",
 "kind": "local",
@@ -354,6 +399,29 @@
 "council_name": "Consiliul Local al Municipiului Beiuș",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bihor--beius-43-2026",
+"path": "local/bihor/beius/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 43/2026",
+"short": "HCL Beiuș nr. 43/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-01",
+"latest": "2026-04-01",
+"portal": "https://emol.ro/beius-bh/registru-hcl/260380",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -691,6 +759,29 @@
 }
 },
 {
+"slug": "hcl-bihor--beius-72-2026",
+"path": "local/bihor/beius/2026/72",
+"kind": "local",
+"year": "2026",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 72/2026",
+"short": "HCL Beiuș nr. 72/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-04",
+"latest": "2026-05-04",
+"portal": "https://emol.ro/beius-bh/registru-hcl/265402",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--beius-74-2026",
 "path": "local/bihor/beius/2026/74",
 "kind": "local",
@@ -845,6 +936,28 @@
 }
 },
 {
+"slug": "hcl-bihor--beius-81-2026",
+"path": "local/bihor/beius/2026/81",
+"kind": "local",
+"year": "2026",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 81/2026 privind aprobarea Listei solicitanţilor care au acces la locuinţele pentru tineri destinate închirierii, propuneri privind ordinea şi modul de soluţionare a cererilor precum şi a listei de priorităţi pentru acordarea locuinţelor pentru tineri destinate închirierii în municipiul Beiuş",
+"short": "HCL Beiuș nr. 81/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-04",
+"latest": "2026-05-04",
+"portal": "https://emol.ro/beius-bh/registru-hcl/265411",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--beius-82-2026",
 "path": "local/bihor/beius/2026/82",
 "kind": "local",
@@ -886,6 +999,29 @@
 "council_name": "Consiliul Local al Municipiului Beiuș",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bihor--beius-90-2026",
+"path": "local/bihor/beius/2026/90",
+"kind": "local",
+"year": "2026",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 90/2026",
+"short": "HCL Beiuș nr. 90/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/beius-bh/registru-hcl/271193",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -934,6 +1070,28 @@
 }
 },
 {
+"slug": "hcl-bihor--beius-94-2026",
+"path": "local/bihor/beius/2026/94",
+"kind": "local",
+"year": "2026",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 94/2026 privind aprobarea Listei de repartizare a locuinţelor pentru tineri destinate închirierii în municipiul Beiuş, strada 1 Decembrie 1918, nr. 50/A",
+"short": "HCL Beiuș nr. 94/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/beius-bh/registru-hcl/271197",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--beius-95-2026",
 "path": "local/bihor/beius/2026/95",
 "kind": "local",
@@ -953,6 +1111,29 @@
 "council_name": "Consiliul Local al Municipiului Beiuș",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bihor--beius-96-2026",
+"path": "local/bihor/beius/2026/96",
+"kind": "local",
+"year": "2026",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 96/2026",
+"short": "HCL Beiuș nr. 96/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/beius-bh/registru-hcl/271199",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1131,6 +1312,28 @@
 "flags": {
 "text_pending": "ocr",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--beius-114-2026",
+"path": "local/bihor/beius/2026/114",
+"kind": "local",
+"year": "2026",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 114/2026 privind aprobarea Planului Urbanistic Zonal pentru SCHIMBARE DESTINAȚIE DIN CASĂ DE LOCUIT ÎN SPAȚIU COMERCIAL a imobilului situat în municipiul Beiuș, strada Mitropolit Andrei Saguna, nr. 9, cu nr. cad. 107055 înscris în CF 107055 Beius",
+"short": "HCL Beiuș nr. 114/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-01",
+"latest": "2026-07-01",
+"portal": "https://emol.ro/beius-bh/registru-hcl/276404",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1561,6 +1764,28 @@
 }
 },
 {
+"slug": "hcl-bihor--beius-149-2026",
+"path": "local/bihor/beius/2026/149",
+"kind": "local",
+"year": "2026",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 149/2026 privind actualizarea inventarului bunurilor care aparțin domeniului public al municipiului Beiuș și concesionarea către Compania de Apă Oradea SA a acestor bunuri, ca bunuri de retur, pentru a fi exploatate în baza contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr.27115 din 01.10.2010",
+"short": "HCL Beiuș nr. 149/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-31",
+"latest": "2026-07-31",
+"portal": "https://emol.ro/beius-bh/registru-hcl/280749",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bihor--beius-151-2026",
 "path": "local/bihor/beius/2026/151",
 "kind": "local",
@@ -1979,6 +2204,75 @@
 "council_name": "Consiliul Local al Municipiului Beiuș",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bihor--beius-183-2026",
+"path": "local/bihor/beius/2026/183",
+"kind": "local",
+"year": "2026",
+"number": "183",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 183/2026",
+"short": "HCL Beiuș nr. 183/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/beius-bh/registru-hcl/289643",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--beius-184-2026",
+"path": "local/bihor/beius/2026/184",
+"kind": "local",
+"year": "2026",
+"number": "184",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 184/2026",
+"short": "HCL Beiuș nr. 184/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/beius-bh/registru-hcl/289644",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bihor--beius-187-2026",
+"path": "local/bihor/beius/2026/187",
+"kind": "local",
+"year": "2026",
+"number": "187",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 187/2026",
+"short": "HCL Beiuș nr. 187/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-28",
+"latest": "2026-09-28",
+"portal": "https://emol.ro/beius-bh/registru-hcl/289647",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -3,6 +3,126 @@
  "shard": "local/bacau/bacau/2020",
  "acts": [
   {
+   "slug": "hcl-bacau--bacau-106-2020",
+   "path": "local/bacau/bacau/2020/106",
+   "short": "HCL Bacău nr. 106/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 106/2020",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2020-06-24",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240403142854-hcl-nr.106-din-24.06.2020.pdf",
+     "sha256": "87e35934b1872ea5488621a2a400765b9edd4d56735e9be99d11f89045dcc2fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-123-2020",
+   "path": "local/bacau/bacau/2020/123",
+   "short": "HCL Bacău nr. 123/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 123/2020",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2020-07-28",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240403151442-hcl-nr.123-din-28.07.2020.pdf",
+     "sha256": "6d1dfaa119a6c637bc84f8c43643d09a64ddba66c55929cc4350c025455e967a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-167-2020",
+   "path": "local/bacau/bacau/2020/167",
+   "short": "HCL Bacău nr. 167/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 167/2020",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240408113232-hcl-nr.167-din-31.08.2020.pdf",
+     "sha256": "e21b1dd93469bcbcb43f5636a977506dfb70abc9825609a05a1b4551114665a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-192-2020",
+   "path": "local/bacau/bacau/2020/192",
+   "short": "HCL Bacău nr. 192/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 192/2020",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240408134123-hcl-nr.-192-din-08.09.2020.pdf",
+     "sha256": "6e4f22c1edd742a0a351142d70570280ced7bf3d4724626b6c7727ba988eeb6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-193-2020",
+   "path": "local/bacau/bacau/2020/193",
+   "short": "HCL Bacău nr. 193/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 193/2020",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2020-09-10",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240408134222-hcl-nr.193-din-10.09.2020.pdf",
+     "sha256": "a99207969e90dcb9e1b4d2e6164ba225ab39fffcab3baecf8c7326bb5ba5e550"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-197-2020",
+   "path": "local/bacau/bacau/2020/197",
+   "short": "HCL Bacău nr. 197/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 197/2020",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240408141121-hcl-nr.197-din-15.09.2020-1.pdf",
+     "sha256": "861382bc5a715ebd6d9ba1139b9cbb85bebdeb5dc652fc3c838bf3e8ef1c324f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-198-2020",
+   "path": "local/bacau/bacau/2020/198",
+   "short": "HCL Bacău nr. 198/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 198/2020",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240408141349-hcl-nr.198-din-22.09.2020.pdf",
+     "sha256": "e45844fd0ed2cf31d9b90345cdc3752aefcfbf71dbcf8e1d25cc526c204b7e9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-219-2020",
+   "path": "local/bacau/bacau/2020/219",
+   "short": "HCL Bacău nr. 219/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 219/2020",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240415105631-hcl-nr.219-din-19.10.2020-1.pdf",
+     "sha256": "3d8608243ec8c68bc9b02d0e6f4df543560779b962b2a20c3c1e41d1a81d8c77"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bacau--bacau-291-2020",
    "path": "local/bacau/bacau/2020/291",
    "short": "HCL Bacău nr. 291/2020",
@@ -14,6 +134,96 @@
      "units": 1,
      "source_url": "https://municipiulbacau.ro/wp-content/uploads/2025/05/Hotararea-nr.-291-din-28.12.2020.pdf",
      "sha256": "235aec4a00048cc691986abca5344faaec4978544695c1a8044ee6525feb03fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-49-2020",
+   "path": "local/bacau/bacau/2020/49",
+   "short": "HCL Bacău nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 49/2020",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240314104313-hcl-nr.49-din-17.03.2020.pdf",
+     "sha256": "0bd290ba3c008365914c508615be1f40b59f87ffd810d5a369baebbb9ed34dd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-54-2020",
+   "path": "local/bacau/bacau/2020/54",
+   "short": "HCL Bacău nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 54/2020",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240314104509-hcl-nr.-54-din-20.03.2020.pdf",
+     "sha256": "2a4efda9f450e212a810feff72c2381cdc3bc1f64e5bcada7dcb2949b3914fc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-56-2020",
+   "path": "local/bacau/bacau/2020/56",
+   "short": "HCL Bacău nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 56/2020",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240314105345-hcl-nr.-56-din-25.03.2020.pdf",
+     "sha256": "41f58578e69653bbd17f108b580ab797475fad1f41e5294b354aba919366b247"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-58-2020",
+   "path": "local/bacau/bacau/2020/58",
+   "short": "HCL Bacău nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 58/2020",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240314105427-hcl-nr.58-din-31.03.2020.pdf",
+     "sha256": "07aa89bf51b83ca592c7be26f99c17a0ebbe83f935ae391e2e477069b22847fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-63-2020",
+   "path": "local/bacau/bacau/2020/63",
+   "short": "HCL Bacău nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 63/2020",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240403085228-hcl-nr.63-din-08.04.2020.pdf",
+     "sha256": "55feef3a7e350aa176b0be0a25446ca66e3759b8b414d0ea5062977758e3ffda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-64-2020",
+   "path": "local/bacau/bacau/2020/64",
+   "short": "HCL Bacău nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 64/2020",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240403085422-hcl-nr.64-din-30.04.2020-1.pdf",
+     "sha256": "98d2cec07a87a8064dac1f710675b070e8894c89879a43e24949afa6a8291380"
     }
    ]
   }

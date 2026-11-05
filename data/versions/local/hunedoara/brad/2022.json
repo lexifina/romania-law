@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--brad-4-2022",
+   "path": "local/hunedoara/brad/2022/4",
+   "short": "HCL Brad nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 4/2022 pentru modificarea Hotărârii Consiliului Local nr. 38/1997 privind înființarea serviciului public pentru administrarea pieței agroalimentare, Oborului și Hanului Piață în municipiul Brad, [lineBreak]cu modificările și completările ulterioare",
+   "url": "https://emol.ro/brad-hd/registru-hcl/48892",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/2131/modificare%20NOUL%20ROF%20PIATA%20Brad%20%20.doc",
+     "sha256": "9a716f6159dcf61cc77287c480f5884de3c0a41fbf55ecfd1e02ba2e4c272ba2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--brad-42-2022",
    "path": "local/hunedoara/brad/2022/42",
    "short": "HCL Brad nr. 42/2022",
@@ -59,6 +74,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/4112/Anexa%20Buget%20Ocolul%20Silvic%20Brad.pdf",
      "sha256": "0cc71ffc404d80026b0a5fd401101785d47b767a83c9cc2d5316cf6ec1f96789"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-9-2022",
+   "path": "local/hunedoara/brad/2022/9",
+   "short": "HCL Brad nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 9/2022 privind validarea rezultatelor examenului pentru obținerea atestatului[lineBreak] în meseria de ”administrator de condominii”",
+   "url": "https://emol.ro/brad-hd/registru-hcl/48897",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/2135/Lista%20candidatilor%20admisi%20la%20examen%20-%20administratory.doc",
+     "sha256": "daeca2df807dc5136b591c65c747f674e23f71aecec2023e7d467330b40ed1a0"
     }
    ]
   }

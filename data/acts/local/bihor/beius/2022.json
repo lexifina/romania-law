@@ -224,6 +224,29 @@
 }
 },
 {
+"slug": "hcl-bihor--beius-303-2022",
+"path": "local/bihor/beius/2022/303",
+"kind": "local",
+"year": "2022",
+"number": "303",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 303/2022",
+"short": "HCL Beiuș nr. 303/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-01",
+"latest": "2022-11-01",
+"portal": "https://emol.ro/beius-bh/registru-hcl/77283",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bihor--beius-304-2022",
 "path": "local/bihor/beius/2022/304",
 "kind": "local",
@@ -424,6 +447,28 @@
 "council_name": "Consiliul Local al Municipiului Beiuș",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bihor--beius-354-2022",
+"path": "local/bihor/beius/2022/354",
+"kind": "local",
+"year": "2022",
+"number": "354",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 354/2022 privind concesionarea către SC Compania de Apa Oradea SA a unor bunuri aflate în domeniul public al Municipiului Beiuș, ca bunuri de retur, pentru a fi exploatate în baza contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 27115 din 01.10.2010",
+"short": "HCL Beiuș nr. 354/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/beius-bh/registru-hcl/82683",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

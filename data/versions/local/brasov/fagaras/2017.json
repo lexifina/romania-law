@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/fagaras/2017",
+ "acts": [
+  {
+   "slug": "hcl-brasov--fagaras-3-2017",
+   "path": "local/brasov/fagaras/2017/3",
+   "short": "HCL Făgăraș nr. 3/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 3/2017",
+   "url": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/128",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/hotarari/ANEXA_la_HCL_nr_3_priv_aprob_retelei_sc_2017-2018.pdf",
+     "sha256": "edcee7ecbe771ed783469ebf38a65c9d33b55136ea4cd0495303c39a47c22f47"
+    }
+   ]
+  }
+ ]
+}

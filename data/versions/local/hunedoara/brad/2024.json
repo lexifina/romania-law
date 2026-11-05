@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/brad/2024",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--brad-100-2024",
+   "path": "local/hunedoara/brad/2024/100",
+   "short": "HCL Brad nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 100/2024 privind aprobarea Organigramei şi a Statului de funcţii pentru aparatul de specialitate al Primarului Municipiului Brad, precum și pentru instituţiile şi serviciile publice locale din subordinea[LineBreak]Consiliului Local al Municipiului Brad",
+   "url": "https://emol.ro/brad-hd/registru-hcl/160697",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/52637/Anexa%20nr.%201%20la%20PHCL%20nr.%20100.pdf",
+     "sha256": "43b0ad50013458af1cdde92607324c051368b4c1a2b5993d394481fddc71c351"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-102-2024",
+   "path": "local/hunedoara/brad/2024/102",
+   "short": "HCL Brad nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 102/2024 privind rectificarea bugetului local al Municipiului Brad pe anul 2024",
+   "url": "https://emol.ro/brad-hd/registru-hcl/161420",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/53140/Anexa%20nr.%201%20la%20PHCL%20nr.%20102.pdf",
+     "sha256": "f4cf396f01525410d93d6a9aeb52faa8a34725444910fc3fec2eaaa8a5e4b66e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-103-2024",
+   "path": "local/hunedoara/brad/2024/103",
+   "short": "HCL Brad nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 103/2024 privind rectificarea bugetului de venituri şi cheltuieli al Clubului Sportiv [lineBreak]Municipal ”Aurul” Brad pe anul 2024",
+   "url": "https://emol.ro/brad-hd/registru-hcl/161421",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/53143/Anexa%20PHCL%20nr.%20103%20.pdf",
+     "sha256": "99185c3146155e1ad916df9a25da2dfeaefc635182fdd2468582b92bd2230b81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-132-2024",
+   "path": "local/hunedoara/brad/2024/132",
+   "short": "HCL Brad nr. 132/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 132/2024",
+   "url": "https://emol.ro/brad-hd/registru-hcl/169410",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/56642/Doc.%20SF%20scanat%C4%83%20.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-140-2024",
+   "path": "local/hunedoara/brad/2024/140",
+   "short": "HCL Brad nr. 140/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 140/2024",
+   "url": "https://emol.ro/brad-hd/registru-hcl/170882",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/57274/Anexa%20nr.%201%20la%20PHCL%20nr.%20140%20DALI%20PBIE%20-%20PS%20_merged.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-141-2024",
+   "path": "local/hunedoara/brad/2024/141",
+   "short": "HCL Brad nr. 141/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 141/2024 privind rectificarea bugetului local al Municipiului Brad pe anul 2024",
+   "url": "https://emol.ro/brad-hd/registru-hcl/170883",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/57276/Anexa%20nr.%201%20la%20PHCL%20nr.%20141.pdf",
+     "sha256": "29805509480a5a10976479297a861dbd5699dd0b47b0008f18587a6e3fc72248"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-142-2024",
+   "path": "local/hunedoara/brad/2024/142",
+   "short": "HCL Brad nr. 142/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 142/2024 privind aprobarea Organigramei şi a Statului de funcţii ale Spitalului Municipal Brad",
+   "url": "https://emol.ro/brad-hd/registru-hcl/170884",
+   "versions": [
+    {
+     "from": "2024-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/57278/Anexa%20nr.%201%20la%20PHCL%20nr.%20142.pdf",
+     "sha256": "fda830801d1a0d3717b2482c1d50cf0966889c30431648a42e91e38ab16c80b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-155-2024",
+   "path": "local/hunedoara/brad/2024/155",
+   "short": "HCL Brad nr. 155/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 155/2024",
+   "url": "https://emol.ro/brad-hd/registru-hcl/173581",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/brad-hd/registru-hcl/173581",
+     "sha256": "c551d67989ccec746b4b47c92cfe8da0975db54ca1c2213de647e31bf4ffae78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-162-2024",
+   "path": "local/hunedoara/brad/2024/162",
+   "short": "HCL Brad nr. 162/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 162/2024 privind aprobarea indicatorilor tehnico – economici, revizuiți și actualizați și a Devizului general, revizuit și actualizat, după finalizarea procedurilor de achiziție publică, cu Notele de Renunțare și Notele de Lucrări Suplimentare conform Dispoziției de șantier nr. 3 pentru obiectivul de investiții [lineBreak]\"MODERNIZARE DN74, STRADA MOȚILOR, GOȘA, ȚARĂȚEL, MUNICIPIUL BRAD,[LineBreak] JUDEȚUL HUNEDOARA\", aprobat pentru finanțare prin Programul [LineBreak]Național de Investiții \"Anghel Saligny\"",
+   "url": "https://emol.ro/brad-hd/registru-hcl/175068",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/59212/Anexa%20nr.%201%20la%20PHCL%20nr.%20162.pdf",
+     "sha256": "4d70e741d082144919a2c6e242422d7afd8f3d942d7e030bc09b112e2d71f02f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-53-2024",
+   "path": "local/hunedoara/brad/2024/53",
+   "short": "HCL Brad nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 53/2024 privind rectificarea bugetului local al Municipiului Brad pe anul 2024",
+   "url": "https://emol.ro/brad-hd/registru-hcl/150047",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/48066/Anexa%20nr.%201%20la%20PHCL%20nr.%2053.pdf",
+     "sha256": "322c90a2c75736040786d12aaa60c594e93881f396ec051d5b6a752c0bf3ae5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-84-2024",
+   "path": "local/hunedoara/brad/2024/84",
+   "short": "HCL Brad nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 84/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a Devizului general actualizat - faza Proiect Tehnic de Execuție, pentru obiectivul de investiții ”POD PESTE RÂURILE CRIȘUL ALB ȘI [lineBreak] LUNCOI ÎN MUNICIPIUL BRAD, JUDEȚUL HUNEDOARA” aprobat pentru finanțare prin [lineBreak] Programul Național de Investiții \"Anghel Saligny\", precum și a sumei [lineBreak] reprezentând categoriile de cheltuieli finanțate de la [lineBreak] bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/brad-hd/registru-hcl/159041",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/51993/Anexa%20nr.%201%20la%20PHCL%20nr.%2084%20.pdf",
+     "sha256": "ceae368bc117d79c8185ff8cf1cd3566b445bec9393043b2490a7a1a5fc05f5a"
+    }
+   ]
+  }
+ ]
+}

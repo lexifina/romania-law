@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/giurgiu/2018",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--giurgiu-107-2018",
+   "path": "local/giurgiu/giurgiu/2018/107",
+   "short": "HCL Giurgiu nr. 107/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 107/2018 privind abrogarea Hotărârii Consiliului Local al Municipiului Giurgiu nr. 107 /29.03.2018 privind aprobarea constituirii Colegiului Director al Direcția de Asistență Socială Giurgiu Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/153/304-abrog-107.pdf",
+     "sha256": "d0923537dd82f761fb814074a4e1def17a7f12163bee75a80d1a72d4bd92d0ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-20-2018",
+   "path": "local/giurgiu/giurgiu/2018/20",
+   "short": "HCL Giurgiu nr. 20/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 20/2018",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/documente-si-informatii-financiare/registrul-datoriei-publice-locale/",
+   "versions": [
+    {
+     "from": "2018-11-22",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/16/Hotarare20CAIL20nr.20557822.11.2018.pdf",
+     "sha256": "7929c62ce694ad8391f83e019a9b5e6389056178d1300bbfb219696c7e8db462"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-22-2018",
+   "path": "local/giurgiu/giurgiu/2018/22",
+   "short": "HCL Giurgiu nr. 22/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 22/2018 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr 22 din 23 ianuarie 2018 privind reorganizarea Comiesiei de vânzare a bunurilor apaținând domeniului privat de interes local al Municipiului Giurgiu Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2018-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2018-01-23",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/153/293-mod-22.pdf",
+     "sha256": "864a15ebc16b5715114f8a4be424cba1d3f93ae905382e8c9c40c750410ad0f1"
+    }
+   ]
+  }
+ ]
+}

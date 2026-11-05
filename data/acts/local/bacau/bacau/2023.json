@@ -1,0 +1,208 @@
+{
+"country": "RO",
+"shard": "local/bacau/bacau/2023",
+"acts": [
+{
+"slug": "hcl-bacau--bacau-10-2023",
+"path": "local/bacau/bacau/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 10/2023 privind aprobarea Bugetului de venituri si cheltuieli si a Programului de investitii pe anul 2023, ale Consiliului Local al Municipiului Bacau si a prognozei pe urmatorii trei ani Consiliul Local al Municipiului Bacău întrunit în ședință extraordinară la data de 26.01.2023 potrivit art. 133 alin. (2) din Ordonanța de Urgență nr. 57/2019 privind Codul administrativ, cu modificările și completările",
+"short": "HCL Bacău nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--bacau-76-2023",
+"path": "local/bacau/bacau/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 76/2023 privind aprobarea vânzării cu drept de preempțiune către constructorul de bună credință, a terenului aflat În proprietatea privată a Municipiului Bacău, aferent imobilului - spațiu comercial prestări servicii situat În municipiul Bacău, Calea Republicii, nr. 3, În suprafață de 20 m.p",
+"short": "HCL Bacău nr. 76/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--bacau-139-2023",
+"path": "local/bacau/bacau/2023/139",
+"kind": "local",
+"year": "2023",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 139/2023",
+"short": "HCL Bacău nr. 139/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-03",
+"latest": "2023-04-03",
+"portal": null,
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--bacau-180-2023",
+"path": "local/bacau/bacau/2023/180",
+"kind": "local",
+"year": "2023",
+"number": "180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 180/2023 privind aprobarea modificarii HCL nr. lO din 26.01.2023 privind aprobarea Bugetului de venituri si cheltuiełi si Programul de investitii pe anul 2023, ale Consiliului Local al Municipiului Bacau si a prognozei pe urmatorii trei ani Consiłiul Local al Municipiului Bacău întrunit în edință extraordinară la data de 08.05.2023 potrivit art. 133 alin. (2) din Ordonanța de Urgență nr. 57/2019 privind Co",
+"short": "HCL Bacău nr. 180/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-08",
+"latest": "2023-05-08",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--bacau-192-2023",
+"path": "local/bacau/bacau/2023/192",
+"kind": "local",
+"year": "2023",
+"number": "192",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 192/2023",
+"short": "HCL Bacău nr. 192/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": null,
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--bacau-281-2023",
+"path": "local/bacau/bacau/2023/281",
+"kind": "local",
+"year": "2023",
+"number": "281",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 281/2023",
+"short": "HCL Bacău nr. 281/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-31",
+"latest": "2023-07-31",
+"portal": null,
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--bacau-324-2023",
+"path": "local/bacau/bacau/2023/324",
+"kind": "local",
+"year": "2023",
+"number": "324",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 324/2023",
+"short": "HCL Bacău nr. 324/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": null,
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--bacau-417-2023",
+"path": "local/bacau/bacau/2023/417",
+"kind": "local",
+"year": "2023",
+"number": "417",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 417/2023 privind aprobarea modificarii HCL nr. lO din 26.01.2023 privind aprobarea Bugetului de venituri si cheltuieli si Programul de investitii pe anul 2023, ale Consiliului Local al Municipiului Bacau si a prognozei pe urmatorii trei ani Consiliul Local al Municipiului Bacău întrunit în ședință extraordinară la data de 17.10.2023 potrivit art. 133 alin. (2) lit.a) din Ordonanța de Urgență nr. 57/20 19 p",
+"short": "HCL Bacău nr. 417/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--bacau-532-2023",
+"path": "local/bacau/bacau/2023/532",
+"kind": "local",
+"year": "2023",
+"number": "532",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 532/2023 privind aprobarea modificarii HCL nr. lO din 26.01.2023 privind aprobarea Bugetului de venituri si cheltuieli si Programul de investitii pe anul 2023, ale Consiliului Local al Municipiului Bacau si a prognozei pe urmatorii trei ani Consiliul Local al Municipiului Bacău întrunit în edință extraordinară la data de 18.12.2023 potrivit art. 133 alin. (2) lit.a) din Ordonanța de Urgență nr. 57/2019 pri",
+"short": "HCL Bacău nr. 532/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+"council": "bacau/bacau",
+"council_name": "Consiliul Local al Municipiului Bacău",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

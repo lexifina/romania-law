@@ -3,6 +3,141 @@
  "shard": "local/giurgiu/giurgiu/2013",
  "acts": [
   {
+   "slug": "hcl-giurgiu--giurgiu-114-2013",
+   "path": "local/giurgiu/giurgiu/2013/114",
+   "short": "HCL Giurgiu nr. 114/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 114/2013 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr. 114 din data de 01 aprilie 2013 Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2013-04-01",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/195/394-modif-hcl-114.pdf",
+     "sha256": "1332eb8f36370b7d543522b1458b09f1fb2f23498d7c52dddf14e7bc8c444174"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-123-2013",
+   "path": "local/giurgiu/giurgiu/2013/123",
+   "short": "HCL Giurgiu nr. 123/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 123/2013 privind revocarea HCL nr 123 din 01.04.2013 privind aprobarea arendării prin licitație publică a unei suprafețe de teren Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2013-04-01",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/195/169-revocare-HCL-123.pdf",
+     "sha256": "5b504b5631856377fda49d8f1d2619a871a96274ab4ae68ab63223c951e6c3cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-301-2013",
+   "path": "local/giurgiu/giurgiu/2013/301",
+   "short": "HCL Giurgiu nr. 301/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 301/2013 privind modificarea Hotărârii Consiliului Local nr.301 din data de 29 august 2013 Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/195/388-modificare-301-2013.pdf",
+     "sha256": "841fc16dac040cf4336cc232f57f51a0c717801221ffe31ba2e0d5c023581cc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-305-2013",
+   "path": "local/giurgiu/giurgiu/2013/305",
+   "short": "HCL Giurgiu nr. 305/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 305/2013 privind modificarea Hotărârii Consiliului Local al Muncipiului Giurgiu nr. 305 din data de 29 august 2013 Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/195/460-modificare-HCL-305-2013.pdf",
+     "sha256": "fd1f79d8ffb9d0e97deee465a22b7831e2fcd2c33a1ab04230d880a5c8dbeba5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-307-2013",
+   "path": "local/giurgiu/giurgiu/2013/307",
+   "short": "HCL Giurgiu nr. 307/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 307/2013 privind modificarea Hotărârii Consiliului Local al Muncipiul Giurgiu nr. 307 din data de 29 august 2013 privind aprobarea studiului de oportunitate și caietului de sarcini în vederea concesionării prin licitație publică a terenului în suprafață 4,00 ha., situate în Muncipiul Giurgiu, adiacent strada Voestalpine, Platforma I Chimie Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/195/462-modificare-HCL-307.pdf",
+     "sha256": "e56d41c7675810058efc2584c1b0a9531047476588865282315a9738bb947b8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-327-2013",
+   "path": "local/giurgiu/giurgiu/2013/327",
+   "short": "HCL Giurgiu nr. 327/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 327/2013 privind completarea Hotărârii Consiliului Local al Municipiului Giurgiu nr. 327 din data de 03 septembrie 2013 Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2013-09-03",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/195/45-completare-HCL-327.pdf",
+     "sha256": "ff9ba2da74d65b66ca3489ef77ecfc25159011a3c376830791c3551922edfb48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-359-2013",
+   "path": "local/giurgiu/giurgiu/2013/359",
+   "short": "HCL Giurgiu nr. 359/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 359/2013 privind modificarea Hotărârii Consiliului Local nr.359 din data de 26 septembrie 2013 Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/195/149-modificare-HCL-359-din-26-09-2013.pdf",
+     "sha256": "b03819440f1ddad08bbeeb3ca75337340a549cf24b6353870ff110839a08dfd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-373-2013",
+   "path": "local/giurgiu/giurgiu/2013/373",
+   "short": "HCL Giurgiu nr. 373/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 373/2013 privind modificarea Hotărârii Consiliului Local al Muncipiului Giurgiu nr. 373 din data de 02 octombrie 2013 Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2013-10-02",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/195/63-modificare-HCL-373-din-2013.pdf",
+     "sha256": "a106e8e3caa3353fc82dac26dbd79056eb929f6cf22e6919b5d0e5eb8bd514cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-387-2013",
+   "path": "local/giurgiu/giurgiu/2013/387",
+   "short": "HCL Giurgiu nr. 387/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 387/2013 privind modificarea Hotărârii Consiliului Local nr. 387 din data de 31 octombrie 2013 Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2013-10-31",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/195/161-modificare-hcl-387-din-31-oct-2013.pdf",
+     "sha256": "3498935f4c31eba0dd185bc12ba8dd3871dcc10094bcb59499f42fa016e253be"
+    }
+   ]
+  },
+  {
    "slug": "hcl-giurgiu--giurgiu-63-2013",
    "path": "local/giurgiu/giurgiu/2013/63",
    "short": "HCL Giurgiu nr. 63/2013",

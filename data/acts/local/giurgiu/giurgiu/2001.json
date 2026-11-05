@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/giurgiu/2001",
+"acts": [
+{
+"slug": "hcl-giurgiu--giurgiu-195-2001",
+"path": "local/giurgiu/giurgiu/2001/195",
+"kind": "local",
+"year": "2001",
+"number": "195",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 195/2001 privind revocarea Articolului 1 din Hotărârea Consiliului Local Nr. 195 din data de 29 noiembrie 2001 privind trecerea unor terenuri nerevendicate conform Legii fondului funciar, în domeniul privat al Municipiului Giurgiu Vizualizare",
+"short": "HCL Giurgiu nr. 195/2001",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2001-11-29",
+"latest": "2001-11-29",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

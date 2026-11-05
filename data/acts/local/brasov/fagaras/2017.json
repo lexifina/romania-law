@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/brasov/fagaras/2017",
+"acts": [
+{
+"slug": "hcl-brasov--fagaras-3-2017",
+"path": "local/brasov/fagaras/2017/3",
+"kind": "local",
+"year": "2017",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 3/2017",
+"short": "HCL Făgăraș nr. 3/2017",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2017-01-09",
+"latest": "2017-01-09",
+"portal": "https://www.primaria-fagaras.ro/index.php/consiliu/detaliu_hotarare/128",
+"council": "brasov/fagaras",
+"council_name": "Consiliul Local al Municipiului Făgăraș",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

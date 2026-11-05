@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/brad/2025",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--brad-106-2025",
+   "path": "local/hunedoara/brad/2025/106",
+   "short": "HCL Brad nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 106/2025 privind rectificarea bugetului local al Municipiului Brad pe anul 2025",
+   "url": "https://emol.ro/brad-hd/registru-hcl/212606",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/73537/Anexa%20nr.%201%20la%20PHCL%20nr.%20106.pdf",
+     "sha256": "0c5e457805cf59dfaedd0835d10723465af10f096632854a8e98e360e9cdccdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-150-2025",
+   "path": "local/hunedoara/brad/2025/150",
+   "short": "HCL Brad nr. 150/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 150/2025 privind aprobarea Devizului general, actualizat în conformitate cu prevederile Legii nr. 141/2025, pentru obiectivul de investiții „CONSTRUIRE CENTRALĂ TERMICĂ ȘI CONDUCTĂ DE RACORD AGENT[lineBreak] PRIMAR LA SISTEMUL DE DISTRIBUȚIE ÎN MUNICIPIUL BRAD, JUDEŢUL HUNEDOARA, [lineBreak]OBIECT 1- CENTRALĂ TERMICĂ”",
+   "url": "https://emol.ro/brad-hd/registru-hcl/224384",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/79177/Anexa%20nr.%201%20la%20PHCL%20nr.%20150.pdf",
+     "sha256": "363426a005838399a5227527d3be0e377051de5d4fef34f3fb24bd26c11effa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-151-2025",
+   "path": "local/hunedoara/brad/2025/151",
+   "short": "HCL Brad nr. 151/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 151/2025 pentru modificarea Hotărârii Consiliului Local al Municipiului Brad nr. 192/2024 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat de pe raza teritorială[lineBreak] a municipiului Brad, pentru anul școlar 2025 - 2026",
+   "url": "https://emol.ro/brad-hd/registru-hcl/224385",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/79188/Anexa%20HCL%20nr.%20151%20-%20Retea%20scolara%20.docx",
+     "sha256": "17c9fa9333741979674b8c2dfa654abe2ad512add03e1c1cc135b1b7f270a657"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-166-2025",
+   "path": "local/hunedoara/brad/2025/166",
+   "short": "HCL Brad nr. 166/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 166/2025 privind aprobarea Devizului general, actualizat în conformitate cu prevederile Legii nr. 141/2025, pentru obiectivul de investiții ”POD PESTE RÂURILE CRIȘUL ALB ȘI LUNCOI ÎN MUNICIPIUL BRAD,[lineBreak] JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/brad-hd/registru-hcl/227416",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/80297/Anex%C4%83%20la%20PHCL%20nr.%20166.pdf",
+     "sha256": "d974d95025e6650322c8956524c23596beaebf806b6bb038c9ee69634e5faf39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-168-2025",
+   "path": "local/hunedoara/brad/2025/168",
+   "short": "HCL Brad nr. 168/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 168/2025 privind desemnarea reprezentanţilor Consiliului Local al Municipiului Brad în consiliile de administraţie [lineBreak]ale unităților de învățământ preuniversitar de stat din municipiul Brad",
+   "url": "https://emol.ro/brad-hd/registru-hcl/227418",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/80613/Anex%C4%83%20PHCL%20SCOLI.pdf",
+     "sha256": "5603aebe7ff45bab5c08b965c1e06d75e60c6110c1eb319555c5966003b37bd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-169-2025",
+   "path": "local/hunedoara/brad/2025/169",
+   "short": "HCL Brad nr. 169/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 169/2025 privind modificarea indicatorilor Proiectului nr. C3.I.1B0122000128, aplicație PNRR, cuprinși în Nota de fundamentare a investiției ”Construirea de insule ecologice digitalizate pentru colectarea selectivă a deșeurilor la nivelul Municipiului Brad\", aprobată prin Hotărârea Consiliului Local nr. 143/2022",
+   "url": "https://emol.ro/brad-hd/registru-hcl/227419",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/80299/anexa%20PHCL%20nr.%20169%20-%20%20NOTA%20DE%20FUNDAMENTARE%20insule%20ecologice.doc",
+     "sha256": "2498fce73442025bbf7db3b2e2dbd27ae5fd64aa0396b23ba55c1a75af7788f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-51-2025",
+   "path": "local/hunedoara/brad/2025/51",
+   "short": "HCL Brad nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 51/2025 privind aprobarea Documentației tehnico-economice și a Devizului general pentru obiectivul de[lineBreak] investiții \"PANOU AFIȘAJ ELECTRONIC CU ECRAN LED ÎN PIAȚA AURULUI,[lineBreak] MUNICIPIUL BRAD, JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/brad-hd/registru-hcl/200400",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/68550/SF%20LED%20scanat%20.pdf",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

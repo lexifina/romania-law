@@ -25,6 +25,116 @@
 }
 },
 {
+"slug": "hcl-botosani--botosani-22-2022",
+"path": "local/botosani/botosani/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 22/2022 pentru aprobarea modificării anexei nr. 2 la HCL nr. 417 din 28.10.2021 privind aprobarea cererilor de finanțare și a devizelor generale pentru obiectivele propuse spre finanțare prin programul „Anghel Saligny”",
+"short": "HCL Botoșani nr. 22/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-01",
+"latest": "2022-02-01",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--botosani-28-2022",
+"path": "local/botosani/botosani/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 28/2022 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Botoșani nr. 482/21.12.2021 privind aprobarea solicitării trecerii unui bun din domeniul public al statului și din administrarea Ministerului Sportului în domeniul public al Municipiului Botoṣani",
+"short": "HCL Botoșani nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-18",
+"latest": "2022-02-18",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--botosani-38-2022",
+"path": "local/botosani/botosani/2022/38",
+"kind": "local",
+"year": "2022",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 38/2022",
+"short": "HCL Botoșani nr. 38/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-24",
+"latest": "2022-02-24",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--botosani-66-2022",
+"path": "local/botosani/botosani/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 66/2022 pentru modificarea HCL nr. 2/08.01.2021 privind aprobarea rețelei unităților de învățământ din Municipiul Botoșani, pentru anul școlar 2021 – 2022 și a HCL nr. 505 din 29.12.2021 privind aprobarea rețelei unităților de învățământ din Municipiul Botoșani, pentru anul școlar 2022 – 2023",
+"short": "HCL Botoșani nr. 66/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-01",
+"latest": "2022-03-01",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--botosani-74-2022",
+"path": "local/botosani/botosani/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 74/2022 pentru modificarea și completarea Hotărârii Consiliului Local al Municipiului Botoșani nr. 473 din 21 decembrie 2021 privind aprobarea documentației tehnico- economice faza Studiu de Fezabilitate (SF) și a indicatorilor tehnico-economici pentru obiectivul de investiții: ,,CREȘTEREA GRADULUI DE SIGURANȚĂ AL CETĂȚENILOR ȘI ÎMBUNĂTĂȚIREA ASPECTULUI PEISAGISTIC AL TERITORIULUI SDL PRIN REAMENAJAREA SPAȚIILOR PUBLICE URBANE (GAL axa 9.1) - AMENAJARE SPAȚII DE RECREERE ÎN ZUM CENTRUL VECHI ȘI ZUM PARCUL TINERETULUI, CREAREA/ REABILITAREA/ MODERNIZAREA SPAȚIILOR PUBLICE URBANE - MODERNIZAREA UTILITĂȚILOR PUBLICE — MODERNIZAREA ILUMINATULUI PUBLIC URBAN, AMPLASAREA DE CAMERE DE SUPRAVEGHERE WIRELESS PE TERITORIUL SDL”",
+"short": "HCL Botoșani nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-16",
+"latest": "2022-03-16",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--botosani-77-2022",
 "path": "local/botosani/botosani/2022/77",
 "kind": "local",
@@ -44,6 +154,73 @@
 "council_name": "Consiliul Local al Municipiului Botoșani",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-102-2022",
+"path": "local/botosani/botosani/2022/102",
+"kind": "local",
+"year": "2022",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 102/2022",
+"short": "HCL Botoșani nr. 102/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-30",
+"latest": "2022-03-30",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--botosani-103-2022",
+"path": "local/botosani/botosani/2022/103",
+"kind": "local",
+"year": "2022",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 103/2022",
+"short": "HCL Botoșani nr. 103/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-30",
+"latest": "2022-03-30",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--botosani-106-2022",
+"path": "local/botosani/botosani/2022/106",
+"kind": "local",
+"year": "2022",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 106/2022",
+"short": "HCL Botoșani nr. 106/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-30",
+"latest": "2022-03-30",
+"portal": null,
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -70,6 +247,184 @@
 }
 },
 {
+"slug": "hcl-botosani--botosani-128-2022",
+"path": "local/botosani/botosani/2022/128",
+"kind": "local",
+"year": "2022",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 128/2022 pentru abrogarea articolului 2 al Hotărârii Consiliului local al municipiului Botoșani nr. 396 din 28.10.2021 privind aprobarea demolarii unor constructii administrate de Colegiul Economic „Octav Onicescu”",
+"short": "HCL Botoșani nr. 128/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-30",
+"latest": "2022-03-30",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--botosani-150-2022",
+"path": "local/botosani/botosani/2022/150",
+"kind": "local",
+"year": "2022",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 150/2022",
+"short": "HCL Botoșani nr. 150/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-30",
+"latest": "2022-03-30",
+"portal": null,
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-156-2022",
+"path": "local/botosani/botosani/2022/156",
+"kind": "local",
+"year": "2022",
+"number": "156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 156/2022 pentru modificarea HCL nr.288/2016 privind acordarea unor beneficii de asistență socială, sub formă de tichete sociale, pensionarilor sistemului public de pensii din municipiul Botosani",
+"short": "HCL Botoșani nr. 156/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-06",
+"latest": "2022-04-06",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--botosani-173-2022",
+"path": "local/botosani/botosani/2022/173",
+"kind": "local",
+"year": "2022",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 173/2022 privind majorarea cuantumului alocației de hrană aprobată prin HCL nr. 102/31.03.2020",
+"short": "HCL Botoșani nr. 173/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--botosani-192-2022",
+"path": "local/botosani/botosani/2022/192",
+"kind": "local",
+"year": "2022",
+"number": "192",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 192/2022 pentru modificarea Hotărârii Consiliului Local nr. 20 din 01.02.2022 privind aprobarea bugetului local pe anul 2022",
+"short": "HCL Botoșani nr. 192/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--botosani-216-2022",
+"path": "local/botosani/botosani/2022/216",
+"kind": "local",
+"year": "2022",
+"number": "216",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 216/2022 pentru modificarea anexei la HCL nr. 35 /24.02.2022 privind aprobarea Statului de Funcții al Direcției Servicii Publice, Sport și Agrement din municipiul Botoșani",
+"short": "HCL Botoșani nr. 216/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-26",
+"latest": "2022-05-26",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-botosani--botosani-223-2022",
+"path": "local/botosani/botosani/2022/223",
+"kind": "local",
+"year": "2022",
+"number": "223",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 223/2022",
+"short": "HCL Botoșani nr. 223/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-26",
+"latest": "2022-05-26",
+"portal": null,
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-229-2022",
+"path": "local/botosani/botosani/2022/229",
+"kind": "local",
+"year": "2022",
+"number": "229",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 229/2022 pentru modificarea art. 7 din Hotărârea Consiliului Local nr. 56/10.03.2008 privind „Aprobarea numărului maxim de autorizații taxi și copii conforme, precum și autorizarea, organizarea, atribuirea gestiunii și controlul efectuării serviciilor de transport în regim de taxi sau de transport în regim de închiriere și a activității de dispecerat taxi”",
+"short": "HCL Botoșani nr. 229/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-26",
+"latest": "2022-05-26",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-botosani--botosani-309-2022",
 "path": "local/botosani/botosani/2022/309",
 "kind": "local",
@@ -90,6 +445,28 @@
 "flags": {
 "text_pending": "review",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-botosani--botosani-317-2022",
+"path": "local/botosani/botosani/2022/317",
+"kind": "local",
+"year": "2022",
+"number": "317",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 317/2022 pentru modificarea Anexei Hotărârii Consiliului Local al Municipiului Botoșani nr. 86 din 29 martie 2019 privind aprobarea Procedurii finanțărilor nerambursabile alocate de la bugetul local pentru activități nonprofit de interes local",
+"short": "HCL Botoșani nr. 317/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-28",
+"latest": "2022-07-28",
+"portal": "https://primariabt.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotararile-consiliului-local/",
+"council": "botosani/botosani",
+"council_name": "Consiliul Local al Municipiului Botoșani",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

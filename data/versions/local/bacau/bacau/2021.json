@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/bacau/bacau/2021",
+ "acts": [
+  {
+   "slug": "hcl-bacau--bacau-271-2021",
+   "path": "local/bacau/bacau/2021/271",
+   "short": "HCL Bacău nr. 271/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 271/2021 privind aprobarea modificării HCL nr. 111 din 20.04.2021 prin care s-au aprobat Bugetul de venituri si cheltuieli si Programul de investiții pe anul 2021, ale Consiliului Local al Municipiului Bacău si a prognozei pe următorii trei ani Consiliul Local al Municipiului Bacău întrunit în ședință extraordinară la data de 23.08.2021, potrivit art.133 alin. 2 lit. a) din Ordonanța de Urgență nr. 57/2019",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2021-08-23",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240417132857-hcl-nr.271-din-23.08.2021-editabil.pdf",
+     "sha256": "84cc5fee816d49559f165fa988038508d7b89a96193e74fba728c4ffd9143867"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-308-2021",
+   "path": "local/bacau/bacau/2021/308",
+   "short": "HCL Bacău nr. 308/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 308/2021 privind aprobarea modificării HCL nr. 111 din 20.04.2021 prin care s-au aprobat Bugetul de venituri si cheltuieli si Programul de investiții pe anul 2021, ale Consiliului Local al Municipiului Bacău si a prognozei pe următorii trei ani Consiliul Local al Municipiului Bacău întrunit în ședință extraordinară la data de 20.09.2021 art.133 alin. 2 lit. a) din Ordonanța de Urgență nr. 57/2019 privind C",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240417135419-hcl-nr.308-din-20.09.2021-editabil.pdf",
+     "sha256": "c56d4f6389d9e10bb04518b6c7224fce21e78946c69361f66c6d46b2466c02ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-326-2021",
+   "path": "local/bacau/bacau/2021/326",
+   "short": "HCL Bacău nr. 326/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 326/2021 privind aprobarea modificării HCL nr. 111 din 20.04.2021 prin care s-au aprobat Bugetul de venituri si cheltuieli si Programul de investiții pe anul 2021, ale Consiliului Local al Municipiului Bacău si a prognozei pe următorii trei ani Consiliul Local al Municipiului Bacău întrunit în ședință ordinară la data de 30.09.2021 art.133 alin. 1 din Ordonanța de Urgență nr. 57/2019 privind Codul administ",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240418102607-hcl-nr.326-din-30.09.2021-editabil.pdf",
+     "sha256": "8e0923d1764797c877389ae71b2c23d375a41c68462a8690ff815694eb9d3728"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-350-2021",
+   "path": "local/bacau/bacau/2021/350",
+   "short": "HCL Bacău nr. 350/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 350/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-16",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240725155901-hcl-nr.-350-din-16.08.2021-e.pdf",
+     "sha256": "737eb468bb2b865c1c2d456348c02edfc5d9c3e0fe414cd1259cb952d98fadbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-365-2021",
+   "path": "local/bacau/bacau/2021/365",
+   "short": "HCL Bacău nr. 365/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 365/2021 privind aprobarea modificării HCL nr. 111 din 20.04.2021 prin care s-au aprobat Bugetul de venituri si cheltuieli si Programul de investiții pe anul 2021, ale Consiliului Local al Municipiului Bacau si a prognozei pe următorii trei ani Consiliul Local al Municipiului Bacău întrunit în ședință ordinară la data de 28.10.2021 potrivit art.I 33 alin. 1 din Ordonanța de Urgență nr. 57/2019 privind Codu",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240418133504-hcl-nr.-365-din-28.10.2021-editabil.pdf",
+     "sha256": "9574ae503d76165d10ce71e0e61d3bbd12033bf3e1c611db05fd109448b699be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-392-2021",
+   "path": "local/bacau/bacau/2021/392",
+   "short": "HCL Bacău nr. 392/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 392/2021 privind aprobarea participării Municipiului Bacău la Programul privind creșterea eficienței energetice și gestionarea inteligentă a energiei În clădirile publice precum și a documentației tehnico-economice, faza Documentație de Avizare a Lucrărilor de Intervenție și a indicatorilor tehnico-economici pentru obiectivul de investiții: ,,Creșterea eficienței energetice a Școlii Gimnaziale „ALECU RUSSO\" Bacău\"",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2021-11-12",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240418135116-hcl-nr.-392-din-12.11.2021-editabil.pdf",
+     "sha256": "d8c7054e09bd330eeaad71bbb3219a33d0db905c2faa062af4b8c0841a1f5aa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-399-2021",
+   "path": "local/bacau/bacau/2021/399",
+   "short": "HCL Bacău nr. 399/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 399/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240418143152-hcl-nr.-399-din-26.11.2021-editabil.pdf",
+     "sha256": "899dab1d28abfd9225338237941e2c5152d676987059aa7eb05ee77ebd803d1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bacau--bacau-429-2021",
+   "path": "local/bacau/bacau/2021/429",
+   "short": "HCL Bacău nr. 429/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Bacău nr. 429/2021 privind aprobarea modificarii HCL nr. 111 din 20.04.2021 prin care s-au aprobat Bugetul de venituri si cheltuieli si Programul de investitii pe anul 2021, ale Consiliului Local al Municipiului Bacau si a prognozei pe urmatorii trei ani Consiliul Local al Municipiului Bacău întrunit în ședință extraordinară la data de 17.12.2021 potrivit art.133 alin. (2) lit. a) din Ordonanța de Urgență nr. 57/201",
+   "url": "https://municipiulbacau.ro/monitorul-oficial-local/bugete/",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://fisiere.municipiulbacau.ro/public/uploads/acteadministrative/20240418154618-hcl-nr.-429-din-17.12.2021-editabil.pdf",
+     "sha256": "093ecb1ed7f5fed8d1c0435a3d1997933d1a57dab9237c7b7a72d22c0c75f82d"
+    }
+   ]
+  }
+ ]
+}

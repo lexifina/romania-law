@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/brasov/fagaras/2019",
+ "acts": [
+  {
+   "slug": "hcl-brasov--fagaras-287-2019",
+   "path": "local/brasov/fagaras/2019/287",
+   "short": "HCL Făgăraș nr. 287/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Făgăraș nr. 287/2019 privind MODIFICAREA SI COMPLETAREA ART.16Q DIN REGULAMENTUL DE ORGANIZARE SI EXECUTARE A SERVICIULUI PUBLIC DE TRANSPORT PERSOANE ÎN REGIM TAXI SI ÎN REGIM DE ÎNCHIRIERE ÎN MUNICIPIUL FĂGĂRAŞ APROBAT PRIN HCL NR.287/28.11.2019",
+   "url": "https://www.primaria-fagaras.ro/index.php/monitorul_local/comunicat/5010",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://www.primaria-fagaras.ro/mb/comunicate/DEZBATERE_PUBLICA_MODIFICARE_PRET_TAXI.pdf",
+     "sha256": "40cbd5934ca891c1c643e7f58aed5599fe139369fa7bab6c927e73044d918b46"
+    }
+   ]
+  }
+ ]
+}

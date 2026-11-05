@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/giurgiu/2012",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--giurgiu-144-2012",
+   "path": "local/giurgiu/giurgiu/2012/144",
+   "short": "HCL Giurgiu nr. 144/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 144/2012 privind modificarea Hotărârii Consiliului Local al Municipiului Giurgiu nr. 144 din data de 05 iulie 2012 Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2014-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2012-07-05",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/195/219-MODIFICARE-hcl-144.pdf",
+     "sha256": "9c5afd248f50e775d8990858934f040c976094c8f0e7ca912b471d0fc1dc4ce1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--giurgiu-273-2012",
+   "path": "local/giurgiu/giurgiu/2012/273",
+   "short": "HCL Giurgiu nr. 273/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 273/2012 privind modificarea și completarea Hotărârii Consiliului Local al Muncipiului Giurgiu nr. 273 din data de 25 octombrie 2012 Vizualizare",
+   "url": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2015-registrul-pentru-evidenta-hcl/",
+   "versions": [
+    {
+     "from": "2012-10-25",
+     "units": 1,
+     "source_url": "https://primariagiurgiu.ro/storage/formidable/193/482-hcl-273-1.pdf",
+     "sha256": "e88e06ef256b2f5adc49c9e60dee7bd210306c0489150ae13f25e549072ea0b0"
+    }
+   ]
+  }
+ ]
+}

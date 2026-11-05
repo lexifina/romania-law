@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--beius-120-2025",
+   "path": "local/bihor/beius/2025/120",
+   "short": "HCL Beiuș nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 120/2025 privind introducerea în domeniul privat al municipiului Beius a imobilului situat în municipiul Beiuș, zona str. Traian Vuia, teren arabil extravilan identificat prin nr. cad 102119 înscris în CF 102119 Beiuș",
+   "url": "https://emol.ro/beius-bh/registru-hcl/212286",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/73837/Anexa%201%20la%20HCL%20120%20din%2012.06.2025.pdf",
+     "sha256": "7343a457719d55cbf9e8248fc01641bd0dc9c7b2839932e8f122d294ea6c79c1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--beius-125-2025",
    "path": "local/bihor/beius/2025/125",
    "short": "HCL Beiuș nr. 125/2025",
@@ -63,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--beius-13-2025",
+   "path": "local/bihor/beius/2025/13",
+   "short": "HCL Beiuș nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 13/2025 privind aprobarea Studiului de fundamentare a deciziei de concesionare a serviciului de utilitate publică de distribuție a gazelor naturale în municipiul Beiuș, județul Bihor",
+   "url": "https://emol.ro/beius-bh/registru-hcl/189980",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/64844/anexa%20HCL%2013%20%20%2031%20%20%2001%20%20%202025.pdf",
+     "sha256": "b9564b817de1ffdf949246f6cd252d5664201abb7c13d6eff46171d3feb2c648"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--beius-130-2025",
    "path": "local/bihor/beius/2025/130",
    "short": "HCL Beiuș nr. 130/2025",
@@ -74,6 +104,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/74616/Anexele%201%20%C8%99i%202%20%20la%20HCL%20nr.%20130%20din%2030.06.2025.pdf",
      "sha256": "53e55ae99a8cdbe9ddf10bca1050edbea92af8342d60d442bb7d7e7f96d3c5ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-131-2025",
+   "path": "local/bihor/beius/2025/131",
+   "short": "HCL Beiuș nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 131/2025",
+   "url": "https://emol.ro/beius-bh/registru-hcl/214920",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/74615/Anexa%20la%20HCL%20nr.%20131%20din%2030.06.2025.pdf",
+     "sha256": "40c8f993e9c90a7da31a9736f69df4192f994cc771733a1ceae3978ce849ef38"
     }
    ]
   },
@@ -224,6 +269,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/64846/anexa%20HCL%2016%20%20%2031%20%2001%20%202025.pdf",
      "sha256": "de0581877b133d9e9331ee4fffef381206ed57514e11f51c054ee4810d154aef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-162-2025",
+   "path": "local/bihor/beius/2025/162",
+   "short": "HCL Beiuș nr. 162/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 162/2025 privind aprobarea cumpărării unui imobil reprezentând teren în suprafață de 47 mp, înscris în CF 1148, nr. top 241/8 situat pe strada Aleea Padișului, municipiul Beiuș, proprietatea SC Fragaria SA",
+   "url": "https://emol.ro/beius-bh/registru-hcl/221667",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/77892/Anexa%201%20la%20HCL%20nr.162%20din%2021.08.2025.pdf",
+     "sha256": "870960ad9b7bb3e975fe839672844769606c52763c6ac96564941a3daab2310e"
     }
    ]
   },
@@ -783,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--beius-237-2025",
+   "path": "local/bihor/beius/2025/237",
+   "short": "HCL Beiuș nr. 237/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 237/2025 privind închirierea prin licitație publică a unui teren intravilan în suprafață de 113 mp, proprietatea publică a municipiului Beiuș, strada Unirii, nr.1, identificat prin număr cadastral 107229, CF 107229 Beiuș",
+   "url": "https://emol.ro/beius-bh/registru-hcl/238488",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/84875/Anexa%201%20la%20HCL%20237.pdf",
+     "sha256": "816ba2990c05a62597fd88a2bea03c54ac6905b7c3a6866f27acbdaf31788931"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--beius-239-2025",
    "path": "local/bihor/beius/2025/239",
    "short": "HCL Beiuș nr. 239/2025",
@@ -1274,6 +1349,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/69329/Anexa%20nr.1%20la%20HCL%20nr.%2054%20din%2007.04.2025.pdf",
      "sha256": "1a4c2d394cb9b99ef35fc976d8d1eb378e97531605c463ef180693422af71842"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-55-2025",
+   "path": "local/bihor/beius/2025/55",
+   "short": "HCL Beiuș nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 55/2025 privind aprobarea modificării Studiului de fundamentare a deciziei de concesionare a serviciului de utilitate publică de distribuție a gazelor naturale în municipiul Beiuș, județul Bihor",
+   "url": "https://emol.ro/beius-bh/registru-hcl/201896",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/69332/Anex%C4%83%20HCL%20nr.%2055%20din%2007.04.2025.pdf",
+     "sha256": "e290a554dd19e7d8a267d058ced87bd548c28e15bf1f2ffcc9004735711cefc9"
     }
    ]
   },

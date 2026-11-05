@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--dorohoi-204-2022",
+   "path": "local/botosani/dorohoi/2022/204",
+   "short": "HCL Dorohoi nr. 204/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 204/2022 privind alocarea din bugetul local a sumei de 20.000 lei pentru promovarea municipiului Dorohoi în cadrul Olimpiadei Balcanice de Informatică pentru juniori, în perioada 31 august – 3 septembrie 2022",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-09-03",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/20.SEDINTA%2031082022/HCL_204_31082022.pdf",
+     "sha256": "49faecb9cfd612cf3f27f0d2926b327fcb29702d6483ce42d4b6e31e1c35d939"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--dorohoi-21-2022",
    "path": "local/botosani/dorohoi/2022/21",
    "short": "HCL Dorohoi nr. 21/2022",
@@ -138,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--dorohoi-235-2022",
+   "path": "local/botosani/dorohoi/2022/235",
+   "short": "HCL Dorohoi nr. 235/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 235/2022 privind modificarea Stat de functii din cadrul Compartimentului Implementare Proiecte Fonduri Europene incepand cu 01.10.2022",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/23.sedinta%2029092022/HCL_235_29092022.pdf",
+     "sha256": "46991120bc38d82533bd38a5ae52d875cb8e555dbdc3ccc1bf41fb4b899d1fc4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--dorohoi-25-2022",
    "path": "local/botosani/dorohoi/2022/25",
    "short": "HCL Dorohoi nr. 25/2022",
@@ -149,6 +179,51 @@
      "units": 1,
      "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/4.SEDINTA%2024022022/hot/HCL_025_24022022.pdf",
      "sha256": "47b743a35aa48eb98d1e4cf40982db0d7636b0f212153e5abd6a218dcca5c862"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dorohoi-270-2022",
+   "path": "local/botosani/dorohoi/2022/270",
+   "short": "HCL Dorohoi nr. 270/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 270/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/27.sedint%2024112022/HCL/HCL_270_24112022.pdf",
+     "sha256": "119ff66a59ed55e8401ed20f17d17e89d0af261c04374260f2cca1c72ff0031a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dorohoi-272-2022",
+   "path": "local/botosani/dorohoi/2022/272",
+   "short": "HCL Dorohoi nr. 272/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 272/2022 pentru aprobarea efectuarii de cheltuieli din bugetul local, in suma de 5.000 lei, pentru desfasurarea Festivalului de Colinde \" O CE VESTE MINUNATA\", editia I, Dorohoi - 30 noiembrie 2022",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-11-30",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/27.sedint%2024112022/HCL/HCL_272_24112022.pdf",
+     "sha256": "5dababa2f5e0cb222ed12b1ad4df4304583e07d7aac46e9e9517d467b1512483"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-botosani--dorohoi-287-2022",
+   "path": "local/botosani/dorohoi/2022/287",
+   "short": "HCL Dorohoi nr. 287/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 287/2022 privind organizarea Festivalului - Concurs Interjudetean de colinde, cantece de iarna, datini si obiceiuri de Craciun si Anul Nou \" Primeste-ne gazda-n casa \" - editia a IV-a, desfasurat in perioada 10-11 decembrie 2022",
+   "url": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+   "versions": [
+    {
+     "from": "2022-12-11",
+     "units": 1,
+     "source_url": "https://www.primariadorohoi.ro/files/2022/CONSILIUL%20LOCAL/27.sedint%2024112022/HCL/HCL_287_24112022.pdf",
+     "sha256": "44d4ad7e10fe65f966264899533a5b2d497550dc879c3cc402c5e7fca567cf15"
     }
    ]
   }

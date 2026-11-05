@@ -453,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--beius-152-2023",
+   "path": "local/bihor/beius/2023/152",
+   "short": "HCL Beiuș nr. 152/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 152/2023 privind aprobarea Listei solicitanţilor care au acces la locuinţele pentru tineri destinate închirierii, propuneri privind ordinea şi modul de soluţionare a cererilor precum şi a listei de priorităţi pentru acordarea locuinţelor pentru tineri destinate închirierii în municipiul Beiuş",
+   "url": "https://emol.ro/beius-bh/registru-hcl/109677",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/30734/Anex%C4%83%20HCL%20152%20din%2016%20Iunie%202023.pdf",
+     "sha256": "4bd500721de9d91af8573a007c4ee5c340b7cf34c68901bb4b3f6ce3f97827a1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--beius-153-2023",
    "path": "local/bihor/beius/2023/153",
    "short": "HCL Beiuș nr. 153/2023",
@@ -723,6 +738,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--beius-185-2023",
+   "path": "local/bihor/beius/2023/185",
+   "short": "HCL Beiuș nr. 185/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 185/2023",
+   "url": "https://emol.ro/beius-bh/registru-hcl/113491",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/32699/Anex%C4%83%20HCL%20185.pdf",
+     "sha256": "c5c0d0c9aca75baeba38345a3b3fbace31aaaa5212e82f05c617be2338205ef2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-187-2023",
+   "path": "local/bihor/beius/2023/187",
+   "short": "HCL Beiuș nr. 187/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 187/2023",
+   "url": "https://emol.ro/beius-bh/registru-hcl/113493",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/32690/Anex%C4%83%20HCL%20187.pdf",
+     "sha256": "865d667c05d4781cfb0217a7f37a5fd3c816d2b611e78f58f4ed8b8558ad37ee"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--beius-188-2023",
    "path": "local/bihor/beius/2023/188",
    "short": "HCL Beiuș nr. 188/2023",
@@ -753,6 +798,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--beius-190-2023",
+   "path": "local/bihor/beius/2023/190",
+   "short": "HCL Beiuș nr. 190/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 190/2023 privind aprobarea sprijinirii funcţionării Asociaţiei de Ajutor Reciproc a Pensionarilor „UNIREA” Beiuş prin închirierea unui spaţiu din incinta Clădirii Primăriei municipiului Beiuş, str. Piaţa Samuil Vulcan, nr. 14-16, jud. Bihor, în suprafaţă de 29,79 mp, pentru o perioadă de 5 ani şi prin diminuarea cu 75 % a tarifului de închiriere",
+   "url": "https://emol.ro/beius-bh/registru-hcl/113496",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/32686/Anex%C4%83%20HCL%20190.pdf",
+     "sha256": "b2b1e2e45333d678bca97346b02c28e362e4e54f6a907bd5dbdfad75489c4063"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--beius-191-2023",
    "path": "local/bihor/beius/2023/191",
    "short": "HCL Beiuș nr. 191/2023",
@@ -764,6 +824,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/32687/Anex%C4%83%20HCL%20191.pdf",
      "sha256": "75074f76a03c7acf21575a5d3933f0ceb714dc000b2b2aea07c87a4ffaedfce3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-192-2023",
+   "path": "local/bihor/beius/2023/192",
+   "short": "HCL Beiuș nr. 192/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 192/2023 privind aprobarea Listei de repartizare a locuinţelor pentru tineri destinate închirierii în municipiul Beiuş",
+   "url": "https://emol.ro/beius-bh/registru-hcl/113498",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/32682/Anex%C4%83%20HCL%20192.pdf",
+     "sha256": "ff870c0c6864f2197c984d73edb39d192a1d4298d5419440465fe49ced5736ae"
     }
    ]
   },
@@ -843,6 +918,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--beius-204-2023",
+   "path": "local/bihor/beius/2023/204",
+   "short": "HCL Beiuș nr. 204/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 204/2023 privind aprobarea Planului Urbanistic de Detaliu pentru obiectivul \"Modernizare Piaţa Agroalimentară în Municipiul Beiuş\"",
+   "url": "https://emol.ro/beius-bh/registru-hcl/116404",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/33714/Anexe%20HCL%20204%20din%2017%20August%202023.pdf",
+     "sha256": "78a7744fcbdb3ad023e258c7dac9933d0926fa5a7b7e752cfb731d9dde67313d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--beius-206-2023",
    "path": "local/bihor/beius/2023/206",
    "short": "HCL Beiuș nr. 206/2023",
@@ -884,6 +974,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/34296/Anex%C4%83%20la%20HCL%20213%20din%2029.08.2023.pdf",
      "sha256": "ad8fd8bc032c02c0847dc66bfdf6af56a3d712e819504687834373952988804d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-216-2023",
+   "path": "local/bihor/beius/2023/216",
+   "short": "HCL Beiuș nr. 216/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 216/2023 privind aprobarea prelungirii contractului de concesiune nr. 6425/22.08.2012, având ca obiect concesionarea a 15 mp din terenul intravilan – domeniul public al municipiului Beiuș identificat cu nr. topografic 100249 înscris în CF 100249 Beiuș situat în municipiul Beiuş, încheiat între Municipiul Beiuş în calitate de concedent şi SC ROZVAL SRL, în calitate de concesionar, pe o perioadă de 12 luni",
+   "url": "https://emol.ro/beius-bh/registru-hcl/118277",
+   "versions": [
+    {
+     "from": "2023-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/34768/Anex%C4%83%20la%20HCL%20216%20din%2030.08.2023.pdf",
+     "sha256": "a63e95d7cf67f7248d64f4260f11823052019eb4a7c9e4eaf6f17f286f632134"
     }
    ]
   },
@@ -1368,6 +1473,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--beius-303-2023",
+   "path": "local/bihor/beius/2023/303",
+   "short": "HCL Beiuș nr. 303/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 303/2023",
+   "url": "https://emol.ro/beius-bh/registru-hcl/132947",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/40152/Anex%C4%83%20la%20HCL%20303%20din%2011.12.2023.pdf",
+     "sha256": "ba6e3a782df04e361231c824cf93d74ac4a6aeea4c46bd62038e36b89d0c481a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--beius-304-2023",
    "path": "local/bihor/beius/2023/304",
    "short": "HCL Beiuș nr. 304/2023",
@@ -1394,6 +1514,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/40156/Anex%C4%83%20la%20HCL%20305%20din%2011.12.2023.pdf",
      "sha256": "31ea598580968fd7f4000978242aaad24eb3a6e3787b20a771a65790683ed187"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-307-2023",
+   "path": "local/bihor/beius/2023/307",
+   "short": "HCL Beiuș nr. 307/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 307/2023 privind actualizarea inventarului bunurilor care aparțin domeniului public al municipiului Beiuș și concesionarea către Compania de Apă Oradea SA a acestor bunuri, ca bunuri de retur, pentru a fi exploatate în baza contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 27115 din 01.10.2010",
+   "url": "https://emol.ro/beius-bh/registru-hcl/132951",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/40154/Anex%C4%83%20la%20HCL%20307%20din%2011.12.2023.pdf",
+     "sha256": "1b25e64f9cc824684ae6ab4ffcc3f8830036ad92ae75d555eb992b434a433270"
     }
    ]
   },
@@ -1544,6 +1679,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/24201/Anex%C4%83%20HCL%2056%20din%2017.02.2023.pdf",
      "sha256": "c04190771949815e8fdcbf8146012b341be09ad9968c07c4ed8b8a2318fb8a71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-6-2023",
+   "path": "local/bihor/beius/2023/6",
+   "short": "HCL Beiuș nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 6/2023 privind aprobarea prelungirii contractului de concesiune nr. 897/18.01.2010, având ca obiect concesionarea a 9 mp din terenul intravilan – domeniu public cu nr. topografic 660/2 situat în municipiul Beiuş, pe strada Nicolae Bolcaş încheiat între Municipiul Beiuş în calitate de concedent şi SC ROZVAL SRL, în calitate de concesionar, pe o perioadă de 12 luni",
+   "url": "https://emol.ro/beius-bh/registru-hcl/86425",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/21949/Anex%C4%83%20prelungire%20contract.pdf",
+     "sha256": "55b6215322cf3b875905c545f4d6c7088c252a74161d8f0513a89fa244829162"
     }
    ]
   },

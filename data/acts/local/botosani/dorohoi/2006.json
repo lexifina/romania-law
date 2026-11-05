@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/botosani/dorohoi/2006",
+"acts": [
+{
+"slug": "hcl-botosani--dorohoi-285-2006",
+"path": "local/botosani/dorohoi/2006/285",
+"kind": "local",
+"year": "2006",
+"number": "285",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Dorohoi nr. 285/2006 privind majorarea pretului Contractului de executie lucrari nr. 2212_9614/06.06.2022_07.06.2022, cu valoarea rezervei de implememntare, conf. OUG nr. 64/2022, privindajustarea preturilor, pentru ob. de inv. \" Reabilitarea unitatilor de invatamant si infrastructura rutiera in Municipiul Dorohoi - Infrastructura rutiera \"",
+"short": "HCL Dorohoi nr. 285/2006",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2006-06-14",
+"latest": "2006-06-14",
+"portal": "https://www.primariadorohoi.ro/index.php?option=com_content&view=article&id=5674:registrul-pentru-evidena-hotrarilor-autoritii-deliberative&catid=225:registre&Itemid=1165",
+"council": "botosani/dorohoi",
+"council_name": "Consiliul Local al Municipiului Dorohoi",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -93,6 +93,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--beius-121-2024",
+   "path": "local/bihor/beius/2024/121",
+   "short": "HCL Beiuș nr. 121/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 121/2024",
+   "url": "https://emol.ro/beius-bh/registru-hcl/160878",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/beius-bh/registru-hcl/160878",
+     "sha256": "f86632ebb955c4701793e5275d2cf8d3e439fa599b7bf7e910c94122db923d50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-122-2024",
+   "path": "local/bihor/beius/2024/122",
+   "short": "HCL Beiuș nr. 122/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 122/2024 privind aprobarea Planului Urbanistic de Detaliu inițiat de către HANZ ONE IMOBILIARE SRL pentru Modificare zonă edificabilă și stabilire indici urbanistici pentru terenul cu nr cad 106933 înscris în CF 106933 în municipiul Beiuș, str. Română, nr. 21",
+   "url": "https://emol.ro/beius-bh/registru-hcl/160879",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/52790/PUD%20ini%C8%9Biat%20de%20HANZ%20ONE%20IMOBILIARE%20SRL.pdf",
+     "sha256": "88cc2ef6719281991c394029640ad1ccc1ef1ca0f3123496b532f3833033f790"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--beius-123-2024",
    "path": "local/bihor/beius/2024/123",
    "short": "HCL Beiuș nr. 123/2024",
@@ -119,6 +149,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/52968/Anex%C4%83%20la%20HCL%20nr.%20124%20din%2028.06.2024.pdf",
      "sha256": "4994fbfefc25f4ca5ce9c323fc5ec0b892bdf85bec601872073e35cae11169b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-125-2024",
+   "path": "local/bihor/beius/2024/125",
+   "short": "HCL Beiuș nr. 125/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 125/2024",
+   "url": "https://emol.ro/beius-bh/registru-hcl/160882",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/52967/Anex%C4%83%20la%20HCL%20nr.%20125%20din%2028.06.2024.pdf",
+     "sha256": "453e0b26887db7dae86feee27e7fddd92ec154da0c14b5eac51427075c2b334b"
     }
    ]
   },
@@ -153,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--beius-13-2024",
+   "path": "local/bihor/beius/2024/13",
+   "short": "HCL Beiuș nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 13/2024 privind aprobarea prelungirii contractului de concesiune nr. 897/18.01.2010, având ca obiect concesionarea a 9 mp din terenul intravilan – domeniu public cu nr. topografic 660/2 situat în municipiul Beiuş, pe strada Nicolae Bolcaş încheiat între Municipiul Beiuş în calitate de concedent şi SC ROZVAL SRL, în calitate de concesionar, pe o perioadă de 36 de luni",
+   "url": "https://emol.ro/beius-bh/registru-hcl/138149",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/42225/ANEX%C4%82%20HCL%2013%20din%2018.01.2024.pdf",
+     "sha256": "af570b2fc922155bdde194f5a356e1a0c62a45bac8d740867952349549b0bd9b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--beius-130-2024",
    "path": "local/bihor/beius/2024/130",
    "short": "HCL Beiuș nr. 130/2024",
@@ -179,6 +239,36 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/54907/Anexa%20nr.%201%20la%20HCL%20nr.%20140%20din%2030.07.2024.pdf",
      "sha256": "f30ec6d66e049b38309b576172669561a5bd4a558e887fce1626d55a222a1fd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-141-2024",
+   "path": "local/bihor/beius/2024/141",
+   "short": "HCL Beiuș nr. 141/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 141/2024",
+   "url": "https://emol.ro/beius-bh/registru-hcl/164226",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/54921/Anexa%20%20la%20HCL%20nr.%20141%20din%2030.07.2024.pdf",
+     "sha256": "3bc6917eb9fcde5df5db9ade24977a1d20226bb2b5ac1003de46b0ada70bc083"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-142-2024",
+   "path": "local/bihor/beius/2024/142",
+   "short": "HCL Beiuș nr. 142/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 142/2024 privind aprobarea achiziționării (cumpărarea) de către Municipiul Beiuș a imobilului situat în municipiul Beiuș, str. Octavian Goga, în suprafață de 93 mp, identificat prin nr. cad. 431 înscris în CF 106800 Beiuș, necesar lărgirii străzii Octavian Goga",
+   "url": "https://emol.ro/beius-bh/registru-hcl/164227",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/54922/Anexa%20nr.%201%20la%20HCL%20nr.%20142%20din%2030.07.2024.pdf",
+     "sha256": "726a872373952b112b4dd270b00b12c0e141293596239e4f6310585ef7cc7cdd"
     }
    ]
   },
@@ -239,6 +329,51 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/54928/Anexa%20nr.%201%20la%20HCL%20nr.%20150%20din%2030.07.2024.pdf",
      "sha256": "d855c551b591bf904913232912ff9f570ca0e01e448179ae1be2b13dbf993ba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-158-2024",
+   "path": "local/bihor/beius/2024/158",
+   "short": "HCL Beiuș nr. 158/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 158/2024",
+   "url": "https://emol.ro/beius-bh/registru-hcl/167012",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/55955/Anex%C4%83%20la%20HCL%20nr.%20158%20din%2028.08.2024.pdf",
+     "sha256": "2a2c7613cc41d93b82aa0b70a042580212ac5a5482e13e20226dd027eae0d70f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-159-2024",
+   "path": "local/bihor/beius/2024/159",
+   "short": "HCL Beiuș nr. 159/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 159/2024 privind aprobarea modificării contractului de concesiune nr. 6425/22.08.2012, având ca obiect concesionarea a 15 mp din terenul intravilan – domeniul public al municipiului Beiuș identificat cu nr. topografic 100249 înscris în CF 100249 Beiuș situat în municipiul Beiuş, încheiat între Municipiul Beiuş în calitate de concedent şi SC ROZVAL SRL, în calitate de concesionar",
+   "url": "https://emol.ro/beius-bh/registru-hcl/167013",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/55956/Anex%C4%83%20la%20HCL%20nr.%20159%20din%2028.08.2024.pdf",
+     "sha256": "00a2c356a75da0dcc284622cb0820d6527b3c424c5662888011ef370b7c33fb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-160-2024",
+   "path": "local/bihor/beius/2024/160",
+   "short": "HCL Beiuș nr. 160/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 160/2024 privind aprobarea trecerii din domeniul public al municipiului Beiuş în domeniul privat al municipiului Beiuş, a imobilului teren în suprafaţă de 5210 mp, situat pe str. 1 Decembrie 1918, Municipiul Beius, identificat cu nr. cad 104485, CF 104485, Beiuş, în vederea efectuării unui schimb de teren",
+   "url": "https://emol.ro/beius-bh/registru-hcl/167014",
+   "versions": [
+    {
+     "from": "2024-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/55957/Anex%C4%83%20la%20HCL%20nr.%20160%20din%2028.08.2024.pdf",
+     "sha256": "a9d588a5dd9cd6e43830c6d21f5dcff31e602cc7baca671088417bebf756b304"
     }
    ]
   },
@@ -453,6 +588,36 @@
    ]
   },
   {
+   "slug": "hcl-bihor--beius-187-2024",
+   "path": "local/bihor/beius/2024/187",
+   "short": "HCL Beiuș nr. 187/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 187/2024",
+   "url": "https://emol.ro/beius-bh/registru-hcl/170750",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/57812/Anex%C4%83%20nr.%201%20la%20HCL%20187.pdf",
+     "sha256": "f8b1ba4510cd7f4ae73b1ded23c4524a6e43e4efe02b8eaf3c43e0c144ecf683"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-188-2024",
+   "path": "local/bihor/beius/2024/188",
+   "short": "HCL Beiuș nr. 188/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 188/2024",
+   "url": "https://emol.ro/beius-bh/registru-hcl/170751",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/57814/Anex%C4%83%20nr.%201%20la%20HCL%20188.pdf",
+     "sha256": "0c16e7c203f5bcf0da68429349d36ac55274e64f7a0ea988d0a0aacc2448c6a8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--beius-189-2024",
    "path": "local/bihor/beius/2024/189",
    "short": "HCL Beiuș nr. 189/2024",
@@ -509,6 +674,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/58338/Alnexa%20nr.%201%20la%20HCL%20196%20din%2015.10.2024.pdf",
      "sha256": "7b4e4b84336fd420ef678ea588e26a2d5d421695ac106bde3cbf940daae0e5ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-200-2024",
+   "path": "local/bihor/beius/2024/200",
+   "short": "HCL Beiuș nr. 200/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 200/2024 privind aprobarea Programului local privind creșterea performanței energetice a blocurilor de locuințe din municipiul Beiuș care nu sunt racordate la sistemul centralizat de încălzire bazat pe apă geotermală și care folosesc sobe și lemne de foc pentru încălzirea apartamentelor",
+   "url": "https://emol.ro/beius-bh/registru-hcl/173144",
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/58478/Anexa%20la%20HCL%20nr.%20200%20din%2017.10.2024.pdf",
+     "sha256": "f3145b0f3bff6b23cabc7c64e0c413dc06326e19d968a6f79caabec6a1638220"
     }
    ]
   },
