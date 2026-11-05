@@ -513,6 +513,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-1004-2013",
+   "path": "ue/regulament/2013/1004",
+   "short": "Regulamentul (UE) nr. 1004/2013",
+   "title": "Regulamentul (UE) nr. 1004/2013 al Comisiei din 15 octombrie 2013 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri pentru 8-hidroxichinolină, ciproconazol, ciprodinil, fluopiram, nicotină, pendimetalin, pentiopirad și trifloxistrobin din sau de pe anumite produse Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1004",
+   "versions": [
+    {
+     "from": "2013-10-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b7328004-3a58-11e3-a247-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9ac8eb1e458d31afe4174573b40422274bedb151b494ac330f8c19536b48bbd1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-101-2013",
+   "path": "ue/regulament/2013/101",
+   "short": "Regulamentul (UE) nr. 101/2013",
+   "title": "Regulamentul (UE) nr. 101/2013 al Comisiei din 4 februarie 2013 privind utilizarea acidului lactic pentru reducerea contaminării microbiologice de suprafață a carcaselor de bovine Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0101",
+   "versions": [
+    {
+     "from": "2013-02-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dfea7615-6f8e-11e2-9294-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "b425356d163db331b60293f91242c29b91e5e054b763fd5c6d66f33edafb9e14"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1017-2013",
+   "path": "ue/regulament/2013/1017",
+   "short": "Regulamentul (UE) nr. 1017/2013",
+   "title": "Regulamentul (UE) nr. 1017/2013 al Comisiei din 23 octombrie 2013 de refuzare a autorizării anumitor mențiuni de sănătate înscrise pe produsele alimentare, altele decât cele care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1017",
+   "versions": [
+    {
+     "from": "2013-11-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5cc5a901-3c98-11e3-a247-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "23b63be9b93c069c11160f7de2ef562eec3c28043e3a63f29495ce250908777d"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1018-2013",
    "path": "ue/regulament/2013/1018",
    "short": "Regulamentul (UE) nr. 1018/2013",
@@ -524,6 +569,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/a19e969e-3c97-11e3-a247-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "f72851c695732cb619768a7fb6d619520491b684a4f6d42a8ab2b628199d902c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1019-2013",
+   "path": "ue/regulament/2013/1019",
+   "short": "Regulamentul (UE) nr. 1019/2013",
+   "title": "Regulamentul (UE) nr. 1019/2013 al Comisiei din 23 octombrie 2013 de modificare a anexei I la Regulamentul (CE) nr. 2073/2005 în ceea ce privește histamina în produsele pescărești Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1019",
+   "versions": [
+    {
+     "from": "2013-11-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dbf2ba63-3c98-11e3-a247-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e3864b76efc4d41bbeaa8b2a9c4a56ad75a8e0c58ee29bf406c837aeb8a83215"
     }
    ]
   },
@@ -554,6 +614,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/343fd704-407f-11e3-b4f5-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "957a27a0722fb098d961c5784fd1af0dfce8538961b1eaef30c0979874736eb1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1023-2013",
+   "path": "ue/regulament/2013/1023",
+   "short": "Regulamentul (UE, Euratom) nr. 1023/2013",
+   "title": "Regulamentul (UE, Euratom) nr. 1023/2013 al Parlamentului European și al Consiliului din 22 octombrie 2013 de modificare a Statutului funcționarilor Uniunii Europene și a Regimului aplicabil celorlalți agenți ai Uniunii Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1023",
+   "versions": [
+    {
+     "from": "2013-11-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b46e2bc5-407f-11e3-b4f5-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "e5b19db525719ebb6e3cb77ae27d1305fa0f54f0cc4710764422d0ed46d1fe8e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1024-2013",
+   "path": "ue/regulament/2013/1024",
+   "short": "Regulamentul (UE) nr. 1024/2013",
+   "title": "Regulamentul (UE) nr. 1024/2013 al Consiliului din 15 octombrie 2013 de conferire a unor atribuții specifice Băncii Centrale Europene în ceea ce privește politicile legate de supravegherea prudențială a instituțiilor de credit",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1024",
+   "versions": [
+    {
+     "from": "2013-11-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/67811106-4080-11e3-b4f5-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7512af691d9e44cdb6bcbf9c54a68e45b238a733ab4ed512aa04a5374d266e2e"
     }
    ]
   },
@@ -648,6 +738,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1075-2013",
+   "path": "ue/regulament/2013/1075",
+   "short": "Regulamentul (UE) nr. 1075/2013",
+   "title": "Regulamentul (UE) nr. 1075/2013 al Băncii Centrale Europene din 18 octombrie 2013 privind statisticile referitoare la activele și pasivele societăților vehicul investițional angajate în tranzacții de securitizare (reformare) (BCE/2013/40)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1075",
+   "versions": [
+    {
+     "from": "2013-11-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/180a99a7-478f-11e3-ae03-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c7b073f7dc391b160062575357d11a1cad9dece5b15a118ee692c2d279155fe6"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-109-2013",
    "path": "ue/regulament/2013/109",
    "short": "Regulamentul (UE) nr. 109/2013",
@@ -678,6 +783,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1123-2013",
+   "path": "ue/regulament/2013/1123",
+   "short": "Regulamentul (UE) nr. 1123/2013",
+   "title": "Regulamentul (UE) nr. 1123/2013 al Comisiei din 8 noiembrie 2013 privind determinarea dreptului la credite internaționale în temeiul Directivei 2003/87/CE a Parlamentului European și a Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1123",
+   "versions": [
+    {
+     "from": "2013-11-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ae0737c9-4940-11e3-ae03-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "940d820cc4de6f7ad18c5dd98edd4df584ef03b67412f3daf00d44190001d8f0"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1138-2013",
    "path": "ue/regulament/2013/1138",
    "short": "Regulamentul (UE) nr. 1138/2013",
@@ -704,6 +824,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/a4f8ad1e-51c3-11e3-8945-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "99c994628535753e4f5b1a3c3174472020a275a846ea08215b31f4a674841eb4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1153-2013",
+   "path": "ue/regulament/2013/1153",
+   "short": "Regulamentul (UE) nr. 1153/2013",
+   "title": "Regulamentul (UE) nr. 1153/2013 al Consiliului din 15 noiembrie 2013 de modificare a Regulamentului (CE) nr. 147/2003 privind anumite măsuri restrictive referitoare la Somalia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1153",
+   "versions": [
+    {
+     "from": "2013-11-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e0f88fa0-4eb5-11e3-ae03-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1448a9b908f6e0996e2f46443c0912874cfdc82392553f4b9bba3ace56d9dccf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1180-2013",
+   "path": "ue/regulament/2013/1180",
+   "short": "Regulamentul (UE) nr. 1180/2013",
+   "title": "Regulamentul (UE) nr. 1180/2013 al Consiliului din 19 noiembrie 2013 de stabilire, pentru 2014, a posibilităților de pescuit pentru anumite resurse halieutice și grupe de resurse halieutice aplicabile în Marea Baltică",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1180",
+   "versions": [
+    {
+     "from": "2013-11-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e50e2fb8-5353-11e3-8945-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9baf91cde84a43b517b09333d17b53904c9532c26597031ffd450144daddb91f"
     }
    ]
   },
@@ -798,6 +948,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-1236-2013",
+   "path": "ue/regulament/2013/1236",
+   "short": "Regulamentul (UE) nr. 1236/2013",
+   "title": "Regulamentul (UE) nr. 1236/2013 al Comisiei din 2 decembrie 2013 privind specificația tehnică de interoperabilitate cu privire la subsistemul „material rulant – vagoane de marfă” al sistemului feroviar din Uniunea Europeană și de modificare a Regulamentului (UE) nr. 321/2013 Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1236",
+   "versions": [
+    {
+     "from": "2013-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/71d41bba-c3eb-43a8-9694-b6002f50cfe1.0015.02/DOC_1",
+     "sha256": "2da6bf0d63143f84a0b11b858a539c438ef94d18cf4e76af14b39872eec62ed0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1253-2013",
+   "path": "ue/regulament/2013/1253",
+   "short": "Regulamentul (UE) nr. 1253/2013",
+   "title": "Regulamentul (UE) nr. 1253/2013 al Comisiei din 21 octombrie 2013 de modificare a Regulamentului (UE) nr. 1089/2010 de punere în aplicare a Directivei 2007/2/CE în ceea ce privește interoperabilitatea seturilor și serviciilor de date spațiale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1253",
+   "versions": [
+    {
+     "from": "2013-12-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/301930d9-6236-11e3-ab0f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4109fb3bf6d6325b2ea499c3e92259f2d0aad8ddb47742bc14e69a7aeefdf864"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1257-2013",
    "path": "ue/regulament/2013/1257",
    "short": "Regulamentul (UE) nr. 1257/2013",
@@ -873,6 +1053,66 @@
    ]
   },
   {
+   "slug": "ue-regulament-1261-2013",
+   "path": "ue/regulament/2013/1261",
+   "short": "Regulamentul (UE) nr. 1261/2013",
+   "title": "Regulamentul (UE) nr. 1261/2013 al Consiliului din 2 decembrie 2013 de modificare a Regulamentului (CE) nr. 723/2009 privind cadrul juridic comunitar aplicabil unui consorțiu pentru o infrastructură europeană de cercetare (ERIC)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1261",
+   "versions": [
+    {
+     "from": "2013-12-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/14d2aaf2-5e4d-11e3-ab0f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "41796d164730c41291cf3a8b26193b09ac332bb4c7c74d7deafee4d3e819834e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1270-2013",
+   "path": "ue/regulament/2013/1270",
+   "short": "Regulamentul (UE) nr. 1270/2013",
+   "title": "Regulamentul (UE) nr. 1270/2013 al Consiliului din 15 noiembrie 2013 privind alocarea posibilităților de pescuit în temeiul protocolului între Uniunea Europeană și Regatul Maroc de stabilire a posibilităților de pescuit și a contribuției financiare prevăzute de acordul de parteneriat în domeniul pescuitului între Uniunea Europeană și Regatul Maroc",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1270",
+   "versions": [
+    {
+     "from": "2013-12-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ef07f05d-5f1a-11e3-ab0f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6116e18ee5d65ad7761dc638b04b5201f9d862cef4a24b6a28e50584be41f056"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1272-2013",
+   "path": "ue/regulament/2013/1272",
+   "short": "Regulamentul (UE) nr. 1272/2013",
+   "title": "Regulamentul (UE) nr. 1272/2013 al Comisiei din 6 decembrie 2013 de modificare a anexei XVII la Regulamentul (CE) nr. 1907/2006 al Parlamentului European și al Consiliului privind înregistrarea, evaluarea, autorizarea și restricționarea substanțelor chimice (REACH) în ceea ce privește hidrocarburile aromatice policiclice Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1272",
+   "versions": [
+    {
+     "from": "2013-12-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dd40e4d3-5f1b-11e3-ab0f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b2cee564bf610de88c6753e33b656dae1bc3efdb1e89bc3432ece5d12f72e79f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1274-2013",
+   "path": "ue/regulament/2013/1274",
+   "short": "Regulamentul (UE) nr. 1274/2013",
+   "title": "Regulamentul (UE) nr. 1274/2013 al Comisiei din 6 decembrie 2013 de modificare și rectificare a anexelor II și III la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului și a anexei la Regulamentul (UE) nr. 231/2012 al Comisiei în ceea ce privește anumiți aditivi alimentari Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1274",
+   "versions": [
+    {
+     "from": "2013-12-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f8deca39-5f1c-11e3-ab0f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "651c06d2666ae01da9e156a2f5aea229f0269b5b52d4b47cfe03fcf1ce3fad68"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1275-2013",
    "path": "ue/regulament/2013/1275",
    "short": "Regulamentul (UE) nr. 1275/2013",
@@ -918,6 +1158,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1300-2013",
+   "path": "ue/regulament/2013/1300",
+   "short": "Regulamentul (UE) nr. 1300/2013",
+   "title": "Regulamentul (UE) nr. 1300/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 privind Fondul de coeziune și de abrogare a Regulamentului (CE) nr. 1084/2006",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1300",
+   "versions": [
+    {
+     "from": "2013-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0e7f609f-6c02-11e3-9afb-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "88a76cb24d92bcf17e6f6e37b1ed6ab2a9b776a275cf5aba8ce4648b62f96052"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1301-2013",
    "path": "ue/regulament/2013/1301",
    "short": "Regulamentul (UE) nr. 1301/2013",
@@ -933,6 +1188,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1302-2013",
+   "path": "ue/regulament/2013/1302",
+   "short": "Regulamentul (UE) nr. 1302/2013",
+   "title": "Regulamentul (UE) nr. 1302/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 de modificare a Regulamentului (CE) nr. 1082/2006 privind o grupare europeană de cooperare teritorială (GECT) în ceea ce privește clarificarea, simplificarea și îmbunătățirea constituirii și funcționării unor astfel de grupări",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1302",
+   "versions": [
+    {
+     "from": "2013-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a6cd8d01-6c02-11e3-9afb-01aa75ed71a1.0021.05/DOC_1",
+     "sha256": "d29d306b98967e0d227b433a81a255b7ec854b12fdbf9fa3f5ea984b93d2c5fc"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1303-2013",
    "path": "ue/regulament/2013/1303",
    "short": "Regulamentul (UE) nr. 1303/2013",
@@ -944,6 +1214,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/fcd9e6d2-6c02-11e3-9afb-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "859abc8bd4e51163d95615a187c4399385ad6e4ac1528ec05212dc7306a053d3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1304-2013",
+   "path": "ue/regulament/2013/1304",
+   "short": "Regulamentul (UE) nr. 1304/2013",
+   "title": "Regulamentul (UE) nr. 1304/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 privind Fondul social european și de abrogare a Regulamentului (CE) nr. 1081/2006 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1304",
+   "versions": [
+    {
+     "from": "2013-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7d8756a3-6c03-11e3-9afb-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "34db23a9496f2abbc81a0485ae4501ca6d493d5a220d4f5d8bb66bc1bd04a5a7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1305-2013",
+   "path": "ue/regulament/2013/1305",
+   "short": "Regulamentul (UE) nr. 1305/2013",
+   "title": "Regulamentul (UE) nr. 1305/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 privind sprijinul pentru dezvoltare rurală acordat din Fondul european agricol pentru dezvoltare rurală (FEADR) și de abrogare a Regulamentului (CE) nr. 1698/2005 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1305",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c973adc4-6c03-11e3-9afb-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "a5e7874c97558678fbabbde53bad7872dc255bd120495d4911a94ec576f3fbc8"
     }
    ]
   },
@@ -1068,6 +1368,51 @@
    ]
   },
   {
+   "slug": "ue-regulament-1326-2013",
+   "path": "ue/regulament/2013/1326",
+   "short": "Regulamentul (UE) nr. 1326/2013",
+   "title": "Regulamentul (UE) nr. 1326/2013 al Consiliului din 9 decembrie 2013 de modificare a anexei I la Regulamentul (CEE) nr. 2658/87 privind Nomenclatura tarifară și statistică și Tariful Vamal Comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1326",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e00eea82-63d3-11e3-ab0f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "78448599cb0d5f5bdeaf98fc2f1224dd6c5b6e508d0d8c41d09718465228af75"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1331-2013",
+   "path": "ue/regulament/2013/1331",
+   "short": "Regulamentul (UE) nr. 1331/2013",
+   "title": "Regulamentul (UE) nr. 1331/2013 al Consiliului din 10 decembrie 2013 de ajustare, începând cu 1 iulie 2012 , a ratei contribuției la sistemul de pensii al funcționarilor și al celorlalți agenți ai Uniunii Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1331",
+   "versions": [
+    {
+     "from": "2013-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5254a9ea-649d-11e3-ab0f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4605d5b1f4775afb5440cc3b8903a70bec807baeceda5d0ff4dd64e3f1deb58c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1332-2013",
+   "path": "ue/regulament/2013/1332",
+   "short": "Regulamentul (UE) nr. 1332/2013",
+   "title": "Regulamentul (UE) nr. 1332/2013 al Consiliului din 13 decembrie 2013 de modificare a Regulamentului (UE) nr. 36/2012 privind măsuri restrictive având în vedere situația din Siria",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1332",
+   "versions": [
+    {
+     "from": "2013-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e3a7933b-649d-11e3-ab0f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8102654f8904df56f7bd33e29bed3841d903ccb7521f9fd77f5acd3d5e8d8d61"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1336-2013",
    "path": "ue/regulament/2013/1336",
    "short": "Regulamentul (UE) nr. 1336/2013",
@@ -1079,6 +1424,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/52fec53f-64a0-11e3-ab0f-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "b92b3a918f25b489d71c893a710d98e35984d57f97f8db77ad5a87a35cff606e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1350-2013",
+   "path": "ue/regulament/2013/1350",
+   "short": "Regulamentul (UE) nr. 1350/2013",
+   "title": "Regulamentul (UE) nr. 1350/2013 al Parlamentului European și al Consiliului din 11 decembrie 2013 de modificare a anumitor acte normative din domeniul statisticilor privind agricultura și pescuitul",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1350",
+   "versions": [
+    {
+     "from": "2014-01-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/93348a3c-6a18-11e3-8e4e-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "5cf258006c8d8506f16993bf3e14238aecda7111de31ceddb700fb0a6b2b8e9f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1356-2013",
+   "path": "ue/regulament/2013/1356",
+   "short": "Regulamentul (UE) nr. 1356/2013",
+   "title": "Regulamentul (UE) nr. 1356/2013 al Comisiei din 17 decembrie 2013 de deschidere a unei anchete privind eventuala eludare a măsurilor antidumping instituite prin Regulamentul de punere în aplicare (UE) nr. 791/2011 al Consiliului cu privire la importurile de anumite țesături cu ochiuri deschise din fibră de sticlă originare din Republica Populară Chineză, prin intermediul unor importuri de anumite țesături cu ochiuri deschise din fibră de sticlă, ușor modificate, originare din Republica Populară Chineză, și de înregistrare a acestor importuri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1356",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dbd059bf-67d0-11e3-a7e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9864da4bd33235c5cfeebda860c5751c7b62b8dcec9bea38fd57ce04f11c2441"
     }
    ]
   },
@@ -1113,6 +1488,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1372-2013",
+   "path": "ue/regulament/2013/1372",
+   "short": "Regulamentul (UE) nr. 1372/2013",
+   "title": "Regulamentul (UE) nr. 1372/2013 al Comisiei din 19 decembrie 2013 de modificare a Regulamentului (CE) nr. 883/2004 al Parlamentului European și al Consiliului privind coordonarea sistemelor de securitate socială și a Regulamentului (CE) nr. 987/2009 al Parlamentului European și al Consiliului de stabilire a procedurii de punere în aplicare a Regulamentului (CE) nr. 883/2004 Text cu relevanță pentru SEE și Elveția",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1372",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7647be08-6975-11e3-a7e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f8471423081b4dd7b15a6b8fa3fa7a955dcb218f7f2cb3d774ed294bf46d20f8"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1379-2013",
    "path": "ue/regulament/2013/1379",
    "short": "Regulamentul (UE) nr. 1379/2013",
@@ -1128,6 +1518,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1380-2013",
+   "path": "ue/regulament/2013/1380",
+   "short": "Regulamentul (UE) nr. 1380/2013",
+   "title": "Regulamentul (UE) nr. 1380/2013 al Parlamentului European și al Consiliului din 11 decembrie 2013 privind politica comună în domeniul pescuitului, de modificare a Regulamentelor (CE) nr. 1954/2003 și (CE) nr. 1224/2009 ale Consiliului și de abrogare a Regulamentelor (CE) nr. 2371/2002 și (CE) nr. 639/2004 ale Consiliului și a Deciziei 2004/585/CE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1380",
+   "versions": [
+    {
+     "from": "2013-12-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/127ceea5-76cc-11e3-b889-01aa75ed71a1.0021.05/DOC_1",
+     "sha256": "8b35607474645388dab6c82e4b6593670ecc668674d9bfa1bccf60b5793624ce"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1385-2013",
    "path": "ue/regulament/2013/1385",
    "short": "Regulamentul (UE) nr. 1385/2013",
@@ -1139,6 +1544,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/9893362b-76d6-11e3-b889-01aa75ed71a1.0020.05/DOC_1",
      "sha256": "30057ebcdfc6009d36e3539320ac1710881d926d613fdd3a006675987de99f59"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1389-2013",
+   "path": "ue/regulament/2013/1389",
+   "short": "Regulamentul (UE) nr. 1389/2013",
+   "title": "Regulamentul (UE) nr. 1389/2013 al Consiliului din 16 decembrie 2013 de modificare a Regulamentului (UE) nr. 1258/2012 al Consiliului privind alocarea posibilităților de pescuit în temeiul protocolului convenit între Uniunea Europeană și Republica Madagascar de stabilire a posibilităților de pescuit și a contribuției financiare prevăzute de Acordul de parteneriat în domeniul pescuitului în vigoare între cele două părți",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1389",
+   "versions": [
+    {
+     "from": "2013-12-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b55e515c-6bd5-11e3-9afb-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e97b1f3a394a670e10cb16be55d0de33b28fa2b2908e6a5f2bcf53ceb1e01181"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1390-2013",
+   "path": "ue/regulament/2013/1390",
+   "short": "Regulamentul (UE) nr. 1390/2013",
+   "title": "Regulamentul (UE) nr. 1390/2013 al Consiliului din 16 decembrie 2013 privind alocarea posibilităților de pescuit în temeiul Protocolului între Uniunea Europeană și Uniunea Comorelor de stabilire a posibilităților de pescuit și a contribuției financiare prevăzute de Acordul de parteneriat în domeniul pescuitului în vigoare între cele două părți",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1390",
+   "versions": [
+    {
+     "from": "2013-12-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a9a7b3ae-6bd6-11e3-9afb-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f50f01070bad21f410e6bda78625fd36c3947cc9a8cf474fcd3c7a27c1cdb671"
     }
    ]
   },
@@ -1199,6 +1634,81 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/6c364779-6f9a-11e3-b589-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "e28d68c2a51e24cff6ee8077208c39319a585934609fd2e8253655b9af664b41"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1415-2013",
+   "path": "ue/regulament/2013/1415",
+   "short": "Regulamentul (UE) nr. 1415/2013",
+   "title": "Regulamentul (UE) nr. 1415/2013 al Consiliului din 17 decembrie 2013 privind ajustarea de la 1 iulie 2013 a ratei contribuției la sistemul de pensii al funcționarilor și al celorlalți agenți ai Uniunii Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1415",
+   "versions": [
+    {
+     "from": "2013-12-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/15102e5b-6f9c-11e3-b589-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9f39c58638bba16ebe44766a76fd875b85c5d33772831f0a1bab0e0dcf997948"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1416-2013",
+   "path": "ue/regulament/2013/1416",
+   "short": "Regulamentul (UE) nr. 1416/2013",
+   "title": "Regulamentul (UE) nr. 1416/2013 al Consiliului din 17 decembrie 2013 privind ajustarea de la 1 iulie 2013 a coeficienților corectori aplicabili remunerațiilor și pensiilor funcționarilor și celorlalți agenți ai Uniunii Europene",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1416",
+   "versions": [
+    {
+     "from": "2013-12-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0e862e3d-6f9d-11e3-b589-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8238383ffa4b57c342536d72ae29ae778997b263a058e451d84ea2d3f4c4b95b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1417-2013",
+   "path": "ue/regulament/2013/1417",
+   "short": "Regulamentul (UE) nr. 1417/2013",
+   "title": "Regulamentul (UE) nr. 1417/2013 al Consiliului din 17 decembrie 2013 privind stabilirea formei permisului de liberă trecere emis de Uniunea Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R1417",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/182069ae-6f9e-11e3-b589-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "74facf9dd6b47483c99a7fc8266bb1174fa33f739146b23a2e55c980b393ab77"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-143-2013",
+   "path": "ue/regulament/2013/143",
+   "short": "Regulamentul (UE) nr. 143/2013",
+   "title": "Regulamentul (UE) nr. 143/2013 al Comisiei din 19 februarie 2013 de modificare a Directivei 2007/46/CE a Parlamentului European și a Consiliului și a Regulamentului (CE) nr. 692/2008 al Comisiei în ceea ce privește stabilirea emisiilor de CO 2 generate de vehiculele supuse omologării de tip în mai multe etape Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0143",
+   "versions": [
+    {
+     "from": "2013-03-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e4562078-7c00-11e2-9294-01aa75ed71a1.0019.04/DOC_3",
+     "sha256": "5bba2974b4e9d945d3542033199d0df4f63a48405f5d834f920dc9d7d7f5e30b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-147-2013",
+   "path": "ue/regulament/2013/147",
+   "short": "Regulamentul (UE) nr. 147/2013",
+   "title": "Regulamentul (UE) nr. 147/2013 al Comisiei din 13 februarie 2013 de modificare a Regulamentului (CE) nr. 1099/2008 al Parlamentului European și al Consiliului privind statisticile în domeniul energiei, în ceea ce privește punerea în aplicare a actualizărilor pentru statisticile lunare și anuale în domeniul energiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0147",
+   "versions": [
+    {
+     "from": "2013-03-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a9574295-7ce1-11e2-9294-01aa75ed71a1.0019.04/DOC_2",
+     "sha256": "f59153f9bbb15e49f1bcb2a848e92c1b0771cea307cb8b96eab3e26572036dfc"
     }
    ]
   },
@@ -1293,6 +1803,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-209-2013",
+   "path": "ue/regulament/2013/209",
+   "short": "Regulamentul (UE) nr. 209/2013",
+   "title": "Regulamentul (UE) nr. 209/2013 al Comisiei din 11 martie 2013 de modificare a Regulamentului (CE) nr. 2073/2005 în ceea ce privește criteriile microbiologice pentru germeni și normele de eșantionare pentru carcasele de păsări și pentru carnea proaspătă de pasăre Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0209",
+   "versions": [
+    {
+     "from": "2013-04-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b93e5938-8b0e-11e2-b5c3-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "d18f14d00ce4b82f3ba9c4762f8c5e5ae1fda65f0fd3b99f6912761c0e1177be"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-210-2013",
    "path": "ue/regulament/2013/210",
    "short": "Regulamentul (UE) nr. 210/2013",
@@ -1338,6 +1863,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-228-2013",
+   "path": "ue/regulament/2013/228",
+   "short": "Regulamentul (UE) nr. 228/2013",
+   "title": "Regulamentul (UE) nr. 228/2013 al Parlamentului European și al Consiliului din 13 martie 2013 privind măsurile specifice din domeniul agriculturii în favoarea regiunilor ultraperiferice ale Uniunii și de abrogare a Regulamentului (CE) nr. 247/2006 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0228",
+   "versions": [
+    {
+     "from": "2013-03-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/37d6d3a5-916b-11e2-b5c3-01aa75ed71a1.0020.04/DOC_1",
+     "sha256": "8c3a4422d231de5bcd43561f1189bf4b749117bfdae491a39424fb7fc1784a8d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-229-2013",
+   "path": "ue/regulament/2013/229",
+   "short": "Regulamentul (UE) nr. 229/2013",
+   "title": "Regulamentul (UE) nr. 229/2013 al Parlamentului European și al Consiliului din 13 martie 2013 privind măsurile specifice din domeniul agriculturii în favoarea insulelor mici din Marea Egee și de abrogare a Regulamentului (CE) nr. 1405/2006 al Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0229",
+   "versions": [
+    {
+     "from": "2013-03-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3bff47a6-916b-11e2-b5c3-01aa75ed71a1.0020.04/DOC_1",
+     "sha256": "1ecfc9db5d3642bf468e492a8bdd43f759663b96816793bcd453721ff98d4dda"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-241-2013",
    "path": "ue/regulament/2013/241",
    "short": "Regulamentul (UE) nr. 241/2013",
@@ -1349,6 +1904,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/cce23f1e-9087-11e2-b5c3-01aa75ed71a1.0019.04/DOC_1",
      "sha256": "31580fdbd91b4c642a0f5650c3def0ad45ec43c6bb241fc4b83b01a6db3c9c1b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-244-2013",
+   "path": "ue/regulament/2013/244",
+   "short": "Regulamentul (UE) nr. 244/2013",
+   "title": "Regulamentul (UE) nr. 244/2013 al Comisiei din 19 martie 2013 de modificare a anexei III la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea fosfatului tricalcic [E 341 (iii)] în preparatele nutritive destinate utilizării în produsele alimentare pentru sugari și copii de vârstă mică Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0244",
+   "versions": [
+    {
+     "from": "2013-04-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f6c4e267-9152-11e2-b5c3-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "9bf1b4c4ba6f40a751863bcc4ee22027aae9f1cfc27a54eba04a34faeac061f4"
     }
    ]
   },
@@ -1398,6 +1968,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-256-2013",
+   "path": "ue/regulament/2013/256",
+   "short": "Regulamentul (UE) nr. 256/2013",
+   "title": "Regulamentul (UE) nr. 256/2013 al Comisiei din 20 martie 2013 de modificare a anexei III la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea ascorbatului de sodiu (E 301) în preparatele de vitamina D destinate utilizării în produsele alimentare pentru sugari și copii de vârstă mică Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0256",
+   "versions": [
+    {
+     "from": "2013-04-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4a3ff42d-9220-11e2-b5c3-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "bdda049c72f54ff69825ffeb7d2d9aaf720eaaafb4547e2a436522297b38f6c9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-283-2013",
+   "path": "ue/regulament/2013/283",
+   "short": "Regulamentul (UE) nr. 283/2013",
+   "title": "Regulamentul (UE) nr. 283/2013 al Comisiei din 1 martie 2013 de stabilire a cerințelor în materie de date aplicabile substanțelor active, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0283",
+   "versions": [
+    {
+     "from": "2013-04-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fab29fde-9c3b-11e2-ab01-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "8b825094327bc3b297bf599b674968ef86b9234aeb38de7f5d57a6447b4bb9cf"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-284-2013",
    "path": "ue/regulament/2013/284",
    "short": "Regulamentul (UE) nr. 284/2013",
@@ -1424,6 +2024,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/dad2ca6b-9dcd-11e2-ab01-01aa75ed71a1.0019.04/DOC_1",
      "sha256": "d7fdab35803c2b375ff815f46ee8e3a31702716b249ce1995ec10d3fbf968e12"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-294-2013",
+   "path": "ue/regulament/2013/294",
+   "short": "Regulamentul (UE) nr. 294/2013",
+   "title": "Regulamentul (UE) nr. 294/2013 al Comisiei din 14 martie 2013 de modificare și rectificare a Regulamentului (UE) nr. 142/2011 de punere în aplicare a Regulamentului (CE) nr. 1069/2009 al Parlamentului European și al Consiliului de stabilire a unor norme sanitare privind subprodusele de origine animală și produsele derivate care nu sunt destinate consumului uman și de punere în aplicare a Directivei 97/78/CE a Consiliului în ceea ce privește anumite probe și produse care sunt scutite de la controalele sanitar-veterinare la frontieră în conformitate cu directiva menționată Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0294",
+   "versions": [
+    {
+     "from": "2013-03-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/560540ff-9df1-11e2-ab01-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "c4e9640a32dee4927a62ec4207847dbd085f8d67df7904a183d096e5f4ca2a79"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-297-2013",
+   "path": "ue/regulament/2013/297",
+   "short": "Regulamentul (UE) nr. 297/2013",
+   "title": "Regulamentul (UE) nr. 297/2013 al Consiliului din 27 martie 2013 de modificare a Regulamentelor (UE) nr. 44/2012, (UE) nr. 39/2013 și (UE) nr. 40/2013 în ceea ce privește anumite posibilități de pescuit",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0297",
+   "versions": [
+    {
+     "from": "2013-03-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9d75caac-97c5-11e2-ab01-01aa75ed71a1.0019.04/DOC_83",
+     "sha256": "3f01e3d6b5920daf80791ab1f0e2138a3e5a3455589ffc70bb9e3ecb09ee553e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-317-2013",
+   "path": "ue/regulament/2013/317",
+   "short": "Regulamentul (UE) nr. 317/2013",
+   "title": "Regulamentul (UE) nr. 317/2013 al Comisiei din 8 aprilie 2013 de modificare a anexelor la Regulamentele (CE) nr. 1983/2003, (CE) nr. 1738/2005, (CE) nr. 698/2006, (CE) nr. 377/2008 și (UE) nr. 823/2010 în ceea ce privește Clasificarea Internațională Standard a Educației Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0317",
+   "versions": [
+    {
+     "from": "2013-04-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8a638d45-a103-11e2-ab01-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "86cf87b6b9bcb96f2eb934f7207208ef42aaad99db6e90caaf00f51264bd3073"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-318-2013",
+   "path": "ue/regulament/2013/318",
+   "short": "Regulamentul (UE) nr. 318/2013",
+   "title": "Regulamentul (UE) nr. 318/2013 al Comisiei din 8 aprilie 2013 de adoptare a programului de module ad-hoc, care acoperă perioada 2016-2018, pentru ancheta prin sondaj asupra forței de muncă prevăzută prin Regulamentul (CE) nr. 577/98 al Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0318",
+   "versions": [
+    {
+     "from": "2013-04-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/084be9a7-a104-11e2-ab01-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "41e87c81c8db7daefc0fad2719d8b2e752d3ecd31347241de55aabe30278ea61"
     }
    ]
   },
@@ -1458,6 +2118,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-325-2013",
+   "path": "ue/regulament/2013/325",
+   "short": "Regulamentul (UE) nr. 325/2013",
+   "title": "Regulamentul (UE) nr. 325/2013 al Consiliului din 10 aprilie 2013 de modificare a Regulamentului (UE) nr. 36/2012 privind măsuri restrictive având în vedere situația din Siria",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0325",
+   "versions": [
+    {
+     "from": "2013-04-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/64e732a2-a29b-11e2-ab01-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "112dec5fbb4965fedb874cbd67f9abedce493a153cb2ac889e01419b3c553c99"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-34-2013",
    "path": "ue/regulament/2013/34",
    "short": "Regulamentul (UE) nr. 34/2013",
@@ -1484,6 +2159,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/625e2804-ad76-11e2-ab01-01aa75ed71a1.0019.04/DOC_42",
      "sha256": "1e72559c54ad78c52b93fec33f4a7e58a9de11b5db0e51a9fd101cb82599fa80"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-345-2013",
+   "path": "ue/regulament/2013/345",
+   "short": "Regulamentul (UE) nr. 345/2013",
+   "title": "Regulamentul (UE) nr. 345/2013 al Parlamentului European și al Consiliului din 17 aprilie 2013 privind fondurile europene cu capital de risc Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0345",
+   "versions": [
+    {
+     "from": "2013-05-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/001cf2ee-acc8-11e2-ab01-01aa75ed71a1.0020.04/DOC_1",
+     "sha256": "bd89f9bb9643138873452a93405b9a738995c859eed4d7997c0a3fccfcc11c84"
     }
    ]
   },
@@ -1518,6 +2208,66 @@
    ]
   },
   {
+   "slug": "ue-regulament-35-2013",
+   "path": "ue/regulament/2013/35",
+   "short": "Regulamentul (UE) nr. 35/2013",
+   "title": "Regulamentul (UE) nr. 35/2013 al Comisiei din 18 ianuarie 2013 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri aplicabile substanțelor dimetomorf, indoxacarb, piraclostrobin și trifloxistrobin din sau de pe anumite produse Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0035",
+   "versions": [
+    {
+     "from": "2013-02-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9c39e085-6943-11e2-9294-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "3dd343f16184faf18c95b7b178c298d20e2f45e17915ca397de0124f7aa61043"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-39-2013",
+   "path": "ue/regulament/2013/39",
+   "short": "Regulamentul (UE) nr. 39/2013",
+   "title": "Regulamentul (UE) nr. 39/2013 al Consiliului din 21 ianuarie 2013 de stabilire, pentru 2013, a posibilităților de pescuit disponibile pentru navele din UE în privința anumitor stocuri de pește și grupe de stocuri de pește care nu fac obiectul unor negocieri sau acorduri internaționale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0039",
+   "versions": [
+    {
+     "from": "2013-01-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5c8a20e1-66eb-11e2-9294-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "8a999a1bde357c565fec9dad76fdb84353edc9c25e277ccdfad0332331259d96"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-40-2013",
+   "path": "ue/regulament/2013/40",
+   "short": "Regulamentul (UE) nr. 40/2013",
+   "title": "Regulamentul (UE) nr. 40/2013 al Consiliului din 21 ianuarie 2013 de stabilire, pentru 2013, a posibilităților de pescuit disponibile în apele UE și, pentru navele din UE, în anumite ape din afara UE pentru anumite stocuri de pește și grupe de stocuri de pește care fac obiectul unor negocieri sau acorduri internaționale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0040",
+   "versions": [
+    {
+     "from": "2013-01-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/180ba4c0-66eb-11e2-9294-01aa75ed71a1.0019.04/DOC_2",
+     "sha256": "eb9dbcae2e092d7002cc7ea5c0970359b2e39688e2efe895e5cbbd6d2f001769"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-401-2013",
+   "path": "ue/regulament/2013/401",
+   "short": "Regulamentul (UE) nr. 401/2013",
+   "title": "Regulamentul (UE) nr. 401/2013 al Consiliului din 2 mai 2013 privind măsuri restrictive instituite împotriva Myanmar/Birmaniei și de abrogare a Regulamentului (CE) nr. 194/2008",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0401",
+   "versions": [
+    {
+     "from": "2013-05-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2c758d2a-b803-11e2-ab01-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c2db342bde2a840ddb5db7d6d5ebb350a7719aa87c00a4d38661d3e544b8a998"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-407-2013",
    "path": "ue/regulament/2013/407",
    "short": "Regulamentul (UE) nr. 407/2013",
@@ -1548,6 +2298,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-431-2013",
+   "path": "ue/regulament/2013/431",
+   "short": "Regulamentul (UE) nr. 431/2013",
+   "title": "Regulamentul (UE) nr. 431/2013 al Consiliului din 13 mai 2013 de modificare a Regulamentului (CE) nr. 147/2003 privind anumite măsuri restrictive referitoare la Somalia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0431",
+   "versions": [
+    {
+     "from": "2013-05-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3554e0a4-bc70-11e2-ab01-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "be00dd3e350831fb1412f7b65c5fbbac40e4428f459874fb15f156fd0e290fc7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-432-2013",
+   "path": "ue/regulament/2013/432",
+   "short": "Regulamentul (UE) nr. 432/2013",
+   "title": "Regulamentul (UE) nr. 432/2013 al Consiliului din 13 mai 2013 de modificare a Regulamentului (UE) nr. 356/2010 de impunere a anumitor măsuri restrictive specifice îndreptate împotriva unor persoane fizice sau juridice, entități sau organisme, având în vedere situația din Somalia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0432",
+   "versions": [
+    {
+     "from": "2013-05-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e7685745-bc70-11e2-ab01-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "82aab6f08fbe88081dc9cee29f03669ec896fe32706f76fb7e8637e6442a47e6"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-438-2013",
    "path": "ue/regulament/2013/438",
    "short": "Regulamentul (UE) nr. 438/2013",
@@ -1559,6 +2339,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/28610b43-bc75-11e2-ab01-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "ac1abacb780893b79a051d8f5c1e30cb7117255bbdd4316ab932b50e7cb68729"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-462-2013",
+   "path": "ue/regulament/2013/462",
+   "short": "Regulamentul (UE) nr. 462/2013",
+   "title": "Regulamentul (UE) nr. 462/2013 al Parlamentului European și al Consiliului din 21 mai 2013 de modificare a Regulamentului (CE) nr. 1060/2009 privind agențiile de rating de credit Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0462",
+   "versions": [
+    {
+     "from": "2013-06-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2e240d88-cc2f-11e2-8725-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "772fdb17fca9b415d2d6b58e178d3c2217fd05f9213bc676f45dd34b38eaec80"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-472-2013",
+   "path": "ue/regulament/2013/472",
+   "short": "Regulamentul (UE) nr. 472/2013",
+   "title": "Regulamentul (UE) nr. 472/2013 al Parlamentului European și al Consiliului din 21 mai 2013 privind consolidarea supravegherii economice și bugetare a statelor membre din zona euro care întâmpină sau care sunt amenințate de dificultăți grave în ceea ce privește stabilitatea lor financiară",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0472",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b201c24b-c6c6-11e2-ac91-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "d690f7ee93f3362d686953ec96559c0e9194a63adc3a3d23fe14638de6656753"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-473-2013",
+   "path": "ue/regulament/2013/473",
+   "short": "Regulamentul (UE) nr. 473/2013",
+   "title": "Regulamentul (UE) nr. 473/2013 al Parlamentului European și al Consiliului din 21 mai 2013 privind dispozițiile comune pentru monitorizarea și evaluarea proiectelor de planuri bugetare și pentru asigurarea corectării deficitelor excesive ale statelor membre din zona euro",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0473",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3d0ba18c-c6c7-11e2-ac91-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c65e6e15b25c4c69ac550c90dca2d37a3c27d32784c996c884f47c00d541b41c"
     }
    ]
   },
@@ -1593,6 +2418,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-487-2013",
+   "path": "ue/regulament/2013/487",
+   "short": "Regulamentul (UE) nr. 487/2013",
+   "title": "Regulamentul (UE) nr. 487/2013 al Comisiei din 8 mai 2013 de modificare, în vederea adaptării la progresul tehnic și științific, a Regulamentului (CE) nr. 1272/2008 al Parlamentului European și al Consiliului privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0487",
+   "versions": [
+    {
+     "from": "2013-06-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c60e94b2-cc3a-11e2-8725-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8c51b4d4a7c32124436a0b72cabe8e777878961c6bc162ceeea88b2121ba2456"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-49-2013",
+   "path": "ue/regulament/2013/49",
+   "short": "Regulamentul (UE) nr. 49/2013",
+   "title": "Regulamentul (UE) nr. 49/2013 al Consiliului din 22 ianuarie 2013 de modificare a Regulamentului (UE) nr. 1284/2009 de instituire a unor măsuri restrictive specifice împotriva Republicii Guineea",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0049",
+   "versions": [
+    {
+     "from": "2013-01-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f751d620-6554-11e2-9294-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "bc11e2da5f68e08d3067cde443effd25dee3263a9d31a7ea96ee72a778270831"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-497-2013",
    "path": "ue/regulament/2013/497",
    "short": "Regulamentul (UE) nr. 497/2013",
@@ -1604,6 +2459,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/ffc6ada8-cc1b-11e2-8725-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "f81eb7e80da06ffb6124688a4743326d10560178b93b14d85d725b4ce6e2753d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-500-2013",
+   "path": "ue/regulament/2013/500",
+   "short": "Regulamentul (UE) nr. 500/2013",
+   "title": "Regulamentul (UE) nr. 500/2013 al Comisiei din 30 mai 2013 de modificare a anexelor II, III și IV la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește nivelurile maxime aplicabile reziduurilor de acetamiprid, Adoxophyes orana granulovirus tulpina BV-0001, azoxistrobin, clotianidin, fenpyrazamină, heptamaloxiloglucan, metrafenonă, Paecilomyces lilacinus tulpina 251, propiconazol, quizalofop-P, spiromesifen, tebuconazol, tiametoxam și virusul mozaicului galben al dovlecelului – tulpina cu virulență mică din sau de pe anumite produse Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0500",
+   "versions": [
+    {
+     "from": "2013-06-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aca372a2-cd1b-11e2-8725-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5c2aa1276ebda589de4edd72c4e712d6f5f246fa334dc592faf8ef72183d45e8"
     }
    ]
   },
@@ -1623,6 +2493,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-51-2013",
+   "path": "ue/regulament/2013/51",
+   "short": "Regulamentul (UE) nr. 51/2013",
+   "title": "Regulamentul (UE) nr. 51/2013 al Comisiei din 16 ianuarie 2013 de modificare a Regulamentului (CE) nr. 152/2009 în ceea ce privește metodele de analiză pentru determinarea constituenților de origine animală pentru controlul oficial al furajelor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0051",
+   "versions": [
+    {
+     "from": "2013-02-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a1696293-6555-11e2-9294-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "9576677c0ba466e6ebb44fffe3dc2fb8a2007631bbe7853595b1633b33dbf12c"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-510-2013",
    "path": "ue/regulament/2013/510",
    "short": "Regulamentul (UE) nr. 510/2013",
@@ -1634,6 +2519,111 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/7b630a54-cd1d-11e2-8725-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "fb9370215cfe7b35c4cedf19590b73908c202352154323cb7fa1f330de98603c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-512-2013",
+   "path": "ue/regulament/2013/512",
+   "short": "Regulamentul (UE) nr. 512/2013",
+   "title": "Regulamentul (UE) nr. 512/2013 al Comisiei din 4 iunie 2013 de modificare a Regulamentului (CE) nr. 88/97 privind autorizarea scutirii importurilor de anumite componente pentru biciclete originare din Republica Populară Chineză de la extinderea, prin Regulamentul (CE) nr. 71/97 al Consiliului, a taxei antidumping instituite prin Regulamentul (CEE) nr. 2474/93",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0512",
+   "versions": [
+    {
+     "from": "2013-06-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0d3a0b2d-cdad-11e2-8725-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "afdfb97aa65cb40d91d9fbdd67d68af6f243a9579e4845bdc868e3e38648b168"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-517-2013",
+   "path": "ue/regulament/2013/517",
+   "short": "Regulamentul (UE) nr. 517/2013",
+   "title": "Regulamentul (UE) nr. 517/2013 al Consiliului din 13 mai 2013 de adaptare a anumitor regulamente și decizii în ceea ce privește libera circulație a mărfurilor, libera circulație a persoanelor, dreptul societăților comerciale, politica în domeniul concurenței, agricultura, siguranța alimentară, politica în domeniul veterinar și fitosanitar, politica în domeniul transporturilor, energia, fiscalitatea, statistica, rețelele transeuropene, sistemul judiciar și drepturile fundamentale, justiția, libertatea și securitatea, mediul, uniunea vamală, relațiile externe, politica externă, de securitate și apărare și instituțiile, având în vedere aderarea Republicii Croația",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0517",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9b4fa6e4-84ab-40f4-817b-f74ac4149977.0015.03/DOC_1",
+     "sha256": "ebef9448ea7e87452b8873a6885141e9cd85b4247d06bbeeb162c4a8c9fdf10f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-518-2013",
+   "path": "ue/regulament/2013/518",
+   "short": "Regulamentul (UE) nr. 518/2013",
+   "title": "Regulamentul (UE) nr. 518/2013 al Consiliului din 13 mai 2013 de adaptare a Regulamentului (CE) nr. 1107/2009 al Parlamentului European și al Consiliului ca urmare a aderării Republicii Croația",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0518",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4d215730-d1c1-11e2-9b1a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "54443ba567cee2e3a49ab7d707a98ff723d1ea576ad88ca1295c7505f504e8c3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-519-2013",
+   "path": "ue/regulament/2013/519",
+   "short": "Regulamentul (UE) nr. 519/2013",
+   "title": "Regulamentul (UE) nr. 519/2013 al Comisiei din 21 februarie 2013 de adaptare a anumitor regulamente și decizii în ceea ce privește libera circulație a mărfurilor, libera circulație a persoanelor, libertatea de stabilire și libertatea de a presta servicii, dreptul societăților comerciale, politica în domeniul concurenței, agricultura, siguranța alimentară, politica în domeniul veterinar și fitosanitar, pescuitul, politica în domeniul transporturilor, energia, fiscalitatea, statistica, politica socială și ocuparea forței de muncă, mediul, uniunea vamală, relațiile externe și politica externă, de securitate și apărare, având în vedere aderarea Croației",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0519",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bc02f5f2-d1c1-11e2-9b1a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f5f2b7c843505742b1094efbe15d053a20ff6452f13a9f5e79c0de46e711891c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-521-2013",
+   "path": "ue/regulament/2013/521",
+   "short": "Regulamentul (UE) nr. 521/2013",
+   "title": "Regulamentul (UE) nr. 521/2013 al Consiliului din 6 iunie 2013 de modificare a Regulamentului (CE) nr. 1183/2005 de instituire a anumitor măsuri speciale împotriva persoanelor ale căror acțiuni încalcă embargoul asupra armelor impus Republicii Democratice Congo",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0521",
+   "versions": [
+    {
+     "from": "2013-06-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4131514e-d1ab-11e2-9b1a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ea2c3a7eef06189fa8949857e562718968e32a604f15fc982919ffd3a42aa27d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-536-2013",
+   "path": "ue/regulament/2013/536",
+   "short": "Regulamentul (UE) nr. 536/2013",
+   "title": "Regulamentul (UE) nr. 536/2013 al Comisiei din 11 iunie 2013 de modificare a Regulamentului (UE) nr. 432/2012 de stabilire a unei liste de mențiuni de sănătate permise, înscrise pe produsele alimentare, altele decât cele care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0536",
+   "versions": [
+    {
+     "from": "2013-07-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/40136321-d346-11e2-bfa7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "886d3870cea0a67de8659cead6c9f08a20d4b0f44ebf6d4fa76c55c52f0ce761"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-543-2013",
+   "path": "ue/regulament/2013/543",
+   "short": "Regulamentul (UE) nr. 543/2013",
+   "title": "Regulamentul (UE) nr. 543/2013 al Comisiei din 14 iunie 2013 privind transmiterea și publicarea datelor pe piețele energiei electrice și de modificare a anexei I la Regulamentul (CE) nr. 714/2009 al Parlamentului European și al Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0543",
+   "versions": [
+    {
+     "from": "2013-07-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/06ec6c46-d59f-11e2-bfa7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "bb314a22355154dee6a82efeea896a91190ca4432a15ec0a0ef39eee42a4fb65"
     }
    ]
   },
@@ -1668,6 +2658,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-55-2013",
+   "path": "ue/regulament/2013/55",
+   "short": "Regulamentul (UE) nr. 55/2013",
+   "title": "Regulamentul (UE) nr. 55/2013 al Consiliului din 17 decembrie 2012 privind extinderea domeniului de aplicare al Regulamentului (UE) nr. 1214/2011 al Parlamentului European și al Consiliului privind transportul rutier transfrontalier profesionist de numerar în euro între statele membre din zona euro",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0055",
+   "versions": [
+    {
+     "from": "2014-01-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0a937d85-6624-11e2-9294-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "b0375fdc48a4dffd3ec56cc3876a26fa728d63c49d4b763214414a887cb196f2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-555-2013",
+   "path": "ue/regulament/2013/555",
+   "short": "Regulamentul (UE) nr. 555/2013",
+   "title": "Regulamentul (UE) nr. 555/2013 al Comisiei din 14 iunie 2013 de modificare a Regulamentului (UE) nr. 142/2011 în ceea ce privește tranzitul anumitor subproduse de origine animală din Bosnia și Herțegovina Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0555",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/86f0ac41-d802-11e2-bfa7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5b5ecc883bb33824cc2d2fc43af714bdbb96b6a7eea71cfcc0c15ef4ba6cd6b1"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-557-2013",
    "path": "ue/regulament/2013/557",
    "short": "Regulamentul (UE) nr. 557/2013",
@@ -1679,6 +2699,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/4e1051e7-d803-11e2-bfa7-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "087bb25c6049b647ed169360b56ebf89f0d2e539bee56e39a9dc6afaa4495580"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-56-2013",
+   "path": "ue/regulament/2013/56",
+   "short": "Regulamentul (UE) nr. 56/2013",
+   "title": "Regulamentul (UE) nr. 56/2013 al Comisiei din 16 ianuarie 2013 de modificare a anexelor I și IV la Regulamentul (CE) nr. 999/2001 al Parlamentului European și al Consiliului de stabilire a unor reglementări pentru prevenirea, controlul și eradicarea anumitor forme transmisibile de encefalopatie spongiformă Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0056",
+   "versions": [
+    {
+     "from": "2013-02-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/415a7510-6620-11e2-9294-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "c5976909ffd32fad27e48da5fcb1ee178cf1715bff39982c421eea52383b24c7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-57-2013",
+   "path": "ue/regulament/2013/57",
+   "short": "Regulamentul (UE) nr. 57/2013",
+   "title": "Regulamentul (UE) nr. 57/2013 al Comisiei din 23 ianuarie 2013 de modificare a Regulamentului (CE) nr. 1418/2007 privind exportul anumitor deșeuri destinate recuperării către anumite țări care nu sunt membre ale OCDE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0057",
+   "versions": [
+    {
+     "from": "2013-02-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d1731438-6621-11e2-9294-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "a121cca59f91049c7d9b377e5d6e56eca91538e9fd5b236d271a352aec398361"
     }
    ]
   },
@@ -1709,6 +2759,51 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/3cb9a95a-dc9e-11e2-bfa7-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "8469464503a41a2fa4aa4633b5ee64af03f1ee521e40a2f4a772869b39f830af"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-596-2013",
+   "path": "ue/regulament/2013/596",
+   "short": "Regulamentul (UE) nr. 596/2013",
+   "title": "Regulamentul (UE) nr. 596/2013 din 24 iunie 2013",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0596",
+   "versions": [
+    {
+     "from": "2013-06-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b94238d3-de54-11e2-9165-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "5b6549e8ef7f4aa7bef92346081fa41fbda8666c7dd94338229c02f9698e2b27"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-605-2013",
+   "path": "ue/regulament/2013/605",
+   "short": "Regulamentul (UE) nr. 605/2013",
+   "title": "Regulamentul (UE) nr. 605/2013 al Parlamentului European și al Consiliului din 12 iunie 2013 de modificare a Regulamentului (CE) nr. 1185/2003 al Consiliului privind îndepărtarea înotătoarelor rechinilor la bordul navelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0605",
+   "versions": [
+    {
+     "from": "2013-07-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e4cfde10-e08b-11e2-9165-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b642eb6dcc03bd806f626903828c2cf3017d4669346551662cf0957c6adbb8e2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-606-2013",
+   "path": "ue/regulament/2013/606",
+   "short": "Regulamentul (UE) nr. 606/2013",
+   "title": "Regulamentul (UE) nr. 606/2013 al Parlamentului European și al Consiliului din 12 iunie 2013 privind recunoașterea reciprocă a măsurilor de protecție în materie civilă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0606",
+   "versions": [
+    {
+     "from": "2013-07-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/50bca6d4-e08c-11e2-9165-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c01c110b06c589bf2d22b03b8022ea233c2e4e514b48647fb8d79b2de852dad8"
     }
    ]
   },
@@ -1758,6 +2853,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-611-2013",
+   "path": "ue/regulament/2013/611",
+   "short": "Regulamentul (UE) nr. 611/2013",
+   "title": "Regulamentul (UE) nr. 611/2013 al Comisiei din 24 iunie 2013 privind măsurile aplicabile notificării încălcărilor securității datelor cu caracter personal în temeiul Directivei 2002/58/CE a Parlamentului European și a Consiliului privind confidențialitatea și comunicațiile electronice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0611",
+   "versions": [
+    {
+     "from": "2013-08-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/63a1226b-de5f-11e2-9165-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a4405ab4339471f55aed75ad77a89e79796e5e537ac9eac6bf8c56863e9e5bf6"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-617-2013",
    "path": "ue/regulament/2013/617",
    "short": "Regulamentul (UE) nr. 617/2013",
@@ -1773,6 +2883,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-630-2013",
+   "path": "ue/regulament/2013/630",
+   "short": "Regulamentul (UE) nr. 630/2013",
+   "title": "Regulamentul (UE) nr. 630/2013 al Comisiei din 28 iunie 2013 de modificare a anexelor la Regulamentul (CE) nr. 999/2001 al Parlamentului European și al Consiliului de stabilire a unor reglementări pentru prevenirea, controlul și eradicarea anumitor forme transmisibile de encefalopatie spongiformă Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0630",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/22120f3a-e08f-11e2-9165-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8d84321c5200f8e04c60d7db3c226bc5671131cfb8ff0ba16e7658c017fa23af"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-638-2013",
+   "path": "ue/regulament/2013/638",
+   "short": "Regulamentul (UE) nr. 638/2013",
+   "title": "Regulamentul (UE) nr. 638/2013 al Comisiei din 2 iulie 2013 de încheiere a anchetei privind eventuala eludare a măsurilor antidumping instituite prin Regulamentul (CE) nr. 925/2009 al Consiliului asupra importurilor de anumite folii de aluminiu originare din Republica Populară Chineză prin importuri de anumite folii de aluminiu care nu a fost recopt, în role cu o lățime de peste 650 mm, originare din Republica Populară Chineză",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0638",
+   "versions": [
+    {
+     "from": "2013-07-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c307183f-e3af-11e2-9165-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f6879b43d727d4a36518e8d1bdb4579f4d1cbacf9689487418abc3fc8ab64066"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-655-2013",
    "path": "ue/regulament/2013/655",
    "short": "Regulamentul (UE) nr. 655/2013",
@@ -1784,6 +2924,66 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/4821a83b-e9f9-11e2-99b0-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "c41c1863f82fa576cf113854efe68b57a176a6edcbee336a8cd2fd2a37164185"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-658-2013",
+   "path": "ue/regulament/2013/658",
+   "short": "Regulamentul (UE) nr. 658/2013",
+   "title": "Regulamentul (UE) nr. 658/2013 al Comisiei din 10 iulie 2013 de modificare a anexelor II și III la Regulamentul (CE) nr. 1223/2009 al Parlamentului European și al Consiliului privind produsele cosmetice Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0658",
+   "versions": [
+    {
+     "from": "2013-07-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8f7520e1-e9fa-11e2-99b0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "132d69211b868c585a86496f0b217423beffb748eee9af1141e0e767c2a4f10e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-666-2013",
+   "path": "ue/regulament/2013/666",
+   "short": "Regulamentul (UE) nr. 666/2013",
+   "title": "Regulamentul (UE) nr. 666/2013 al Comisiei din 8 iulie 2013 de punere în aplicare a Directivei 2009/125/CE a Parlamentului European și a Consiliului în ceea ce privește cerințele în materie de proiectare ecologică pentru aspiratoare Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0666",
+   "versions": [
+    {
+     "from": "2013-08-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ea98f9e1-ee29-11e2-a22e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "2cdae8c997a99ec7cf346eedc6f06bc5ea9bbb0ccec29fddbaed2c9001129039"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-668-2013",
+   "path": "ue/regulament/2013/668",
+   "short": "Regulamentul (UE) nr. 668/2013",
+   "title": "Regulamentul (UE) nr. 668/2013 al Comisiei din 12 iulie 2013 de modificare a anexelor II și III la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime de reziduuri aplicabile substanțelor 2,4-DB, dimetomorf, indoxacarb și piraclostrobin din sau de pe anumite produse Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0668",
+   "versions": [
+    {
+     "from": "2013-08-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d2928133-ee2a-11e2-a22e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "0d31af33ba23b32ccbdf9f76f97e063fc6c3e6fa0db0a23e5adf58af39cc5a4f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-678-2013",
+   "path": "ue/regulament/2013/678",
+   "short": "Regulamentul (UE) nr. 678/2013",
+   "title": "Regulamentul (UE) nr. 678/2013 al Consiliului din 9 iulie 2013 de modificare a Regulamentului (CE) nr. 974/98 în ceea ce privește introducerea monedei euro în Letonia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0678",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/10e32c02-ef7d-11e2-a22e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e50aea18400ab25b5b71ef360a59afea093a551e48b971855d08cd1963e0f466"
     }
    ]
   },
@@ -1863,6 +3063,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-691-2013",
+   "path": "ue/regulament/2013/691",
+   "short": "Regulamentul (UE) nr. 691/2013",
+   "title": "Regulamentul (UE) nr. 691/2013 al Comisiei din 19 iulie 2013 de modificare a Regulamentului (CE) nr. 152/2009 în ceea ce privește metodele de eșantionare și de analiză Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0691",
+   "versions": [
+    {
+     "from": "2013-08-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4b117b21-f10a-11e2-a22e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2c037ce4159fa5967be0bbc18d95c133a63d2c16b7e51bc0a3e174675dcb3e2a"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-697-2013",
    "path": "ue/regulament/2013/697",
    "short": "Regulamentul (UE) nr. 697/2013",
@@ -1874,6 +3089,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/7dc1b33d-0bfb-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "f7917d328a0923d1390c6af9b59febc64661b918326f4906a480d11e3964f290"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-7-2013",
+   "path": "ue/regulament/2013/7",
+   "short": "Regulamentul (UE) nr. 7/2013",
+   "title": "Regulamentul (UE) nr. 7/2013 al Comisiei din 8 ianuarie 2013 de modificare a Regulamentului (UE) nr. 748/2012 de stabilire a normelor de punere în aplicare privind certificarea pentru navigabilitate și mediu a aeronavelor și a produselor, pieselor și echipamentelor aferente, precum și certificarea organizațiilor de proiectare și producție Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0007",
+   "versions": [
+    {
+     "from": "2013-01-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7eeeaaf3-5b09-11e2-9294-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "a7b0783fb0c69f4a9d97269e59beeadc9c17e337b5513bb7f2480771ab8941b1"
     }
    ]
   },
@@ -1938,6 +3168,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-724-2013",
+   "path": "ue/regulament/2013/724",
+   "short": "Regulamentul (UE) nr. 724/2013",
+   "title": "Regulamentul (UE) nr. 724/2013 al Comisiei din 26 iulie 2013 de modificare a Regulamentului (UE) nr. 231/2012 în ceea ce privește specificațiile privind mai mulți polioli Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0724",
+   "versions": [
+    {
+     "from": "2013-08-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8fb43139-f69f-11e2-a22e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c7a08be1a9e89409549252b1b61512b81b4db0677324bf2aab63daf8f0efda9a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-738-2013",
+   "path": "ue/regulament/2013/738",
+   "short": "Regulamentul (UE) nr. 738/2013",
+   "title": "Regulamentul (UE) nr. 738/2013 al Comisiei din 30 iulie 2013 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea anumitor aditivi în icrele de pește analoage pe bază de alge marine Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0738",
+   "versions": [
+    {
+     "from": "2013-08-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fc443606-f9bd-11e2-a352-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "fb921b69529205a7094040a96b054edfdec3752f0f3f347bd9f5cfb396b8af25"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-739-2013",
    "path": "ue/regulament/2013/739",
    "short": "Regulamentul (UE) nr. 739/2013",
@@ -1949,6 +3209,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/aeb990d8-f9c0-11e2-a352-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "26634bc1888d0320786da09c18c77dfae745b3849fbaffb2866c4012f89642c2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-750-2013",
+   "path": "ue/regulament/2013/750",
+   "short": "Regulamentul (UE) nr. 750/2013",
+   "title": "Regulamentul (UE) nr. 750/2013 al Comisiei din 29 iulie 2013 de modificare a Regulamentului (CE) nr. 338/97 al Consiliului privind protecția speciilor faunei și florei sălbatice prin controlul comerțului cu acestea",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0750",
+   "versions": [
+    {
+     "from": "2013-08-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6369f6e4-fff7-11e2-a352-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "cc8eb1932380a966780e285f7090426654200fae5108bc23468f16b94ca213fa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-758-2013",
+   "path": "ue/regulament/2013/758",
+   "short": "Regulamentul (UE) nr. 758/2013",
+   "title": "Regulamentul (UE) nr. 758/2013 al Comisiei din 7 august 2013 de corectare a anexei VI la Regulamentul (CE) nr. 1272/2008 al Parlamentului European și al Consiliului privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0758",
+   "versions": [
+    {
+     "from": "2013-08-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0fcdb427-0199-11e3-a352-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "57b237f72300758dfd382b65a2e03c0c058e9a98424f2a10633b9fba1d2f5250"
     }
    ]
   },
@@ -1998,6 +3288,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-786-2013",
+   "path": "ue/regulament/2013/786",
+   "short": "Regulamentul (UE) nr. 786/2013",
+   "title": "Regulamentul (UE) nr. 786/2013 al Comisiei din 16 august 2013 de modificare a anexei III la Regulamentul (CE) nr. 853/2004 al Parlamentului European și al Consiliului în ceea ce privește limitele permise pentru iesotoxine în moluștele bivalve vii Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0786",
+   "versions": [
+    {
+     "from": "2013-09-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a13fd319-071c-11e3-a352-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "34724848dc238eac8b360a9cce209f5300176d6feb4c351c8e9cb8943262c676"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-79-2013",
+   "path": "ue/regulament/2013/79",
+   "short": "Regulamentul (UE) nr. 79/2013",
+   "title": "Regulamentul (UE) nr. 79/2013 al Comisiei din 28 ianuarie 2013 prin care se supun înregistrării importurile de biomotorină originare din Argentina și din Indonezia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0079",
+   "versions": [
+    {
+     "from": "2013-01-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8f49cdaa-6a07-11e2-9294-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "fb5ceb75871bd19dc1f3ca7712f5bfd0b924987dbd5d06c113b9e003a1b753b9"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-800-2013",
    "path": "ue/regulament/2013/800",
    "short": "Regulamentul (UE) nr. 800/2013",
@@ -2009,6 +3329,96 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/5059c3af-0c94-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "722092c958c3bad0e6e923b76d94dce7c75ac36a5ff47efab00d634e35a8a896"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-806-2013",
+   "path": "ue/regulament/2013/806",
+   "short": "Regulamentul (UE) nr. 806/2013",
+   "title": "Regulamentul (UE) nr. 806/2013 al Comisiei din 26 august 2013 de deschidere a unei reexaminări a Regulamentului de punere în aplicare (UE) nr. 102/2012 al Consiliului de instituire a unei taxe antidumping definitive asupra importurilor de cabluri din oțel originare, printre altele, din Republica Populară Chineză, astfel cum a fost extinsă la importurile de cabluri din oțel expediate, printre altele, din Republica Coreea, indiferent dacă sunt sau nu declarate ca fiind originare din Republica Coreea, pentru a stabili posibilitatea de a acorda o scutire de la aceste măsuri unui exportator coreean și de abrogare a taxei antidumping existente cu privire la importurile provenite de la acest exportator și de supunere a acestor importuri înregistrării",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0806",
+   "versions": [
+    {
+     "from": "2013-08-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f2ae0128-0eeb-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "28686e7deffa0877b819eed0a893485533fb7473191be61366d6be4ece59e0c2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-809-2013",
+   "path": "ue/regulament/2013/809",
+   "short": "Regulamentul (UE) nr. 809/2013",
+   "title": "Regulamentul (UE) nr. 809/2013 al Comisiei din 27 august 2013 de deschidere a unei reexaminări în ceea ce privește un nou exportator a Regulamentului de punere în aplicare (UE) nr. 1389/2011 al Consiliului de instituire a unei taxe antidumping definitive la importurile de acid tricloroizocianuric originar din Republica Populară Chineză, de abrogare a taxei cu privire la importurile care provin de la un exportator din această țară și de impunere a obligativității de înregistrare a acestor importuri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0809",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8df9aba1-0faf-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "feb1d3dc0930c0ee6933139dbecf8cef573b411a5484e111d613e4029dab9d81"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-813-2013",
+   "path": "ue/regulament/2013/813",
+   "short": "Regulamentul (UE) nr. 813/2013",
+   "title": "Regulamentul (UE) nr. 813/2013 al Comisiei din 2 august 2013 de punere în aplicare a Directivei 2009/125/CE a Parlamentului European și a Consiliului în ceea ce privește cerințele în materie de proiectare ecologică pentru instalațiile pentru încălzirea incintelor și instalațiile de încălzire cu funcție dublă Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0813",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/01d788a0-1733-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "19911a15f63be10be2633c6bb5e58f4e9e1cbe4446af239b96b8d2925b3bdf3b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-814-2013",
+   "path": "ue/regulament/2013/814",
+   "short": "Regulamentul (UE) nr. 814/2013",
+   "title": "Regulamentul (UE) nr. 814/2013 al Comisiei din 2 august 2013 de punere în aplicare a Directivei 2009/125/CE a Parlamentului European și a Consiliului în ceea ce privește cerințele în materie de proiectare ecologică pentru instalațiile pentru încălzirea apei și rezervoarele de apă caldă Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0814",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/80afe2f1-1736-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "faf9fb69bf415fdd7114fe427473f675db30138fb3ef4e6b705a2c4c4631e517"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-815-2013",
+   "path": "ue/regulament/2013/815",
+   "short": "Regulamentul (UE) nr. 815/2013",
+   "title": "Regulamentul (UE) nr. 815/2013 al Comisiei din 27 august 2013 de modificare a Regulamentului (CE) nr. 748/2009 privind lista operatorilor de aeronave care au efectuat o activitate de aviație menționată în anexa I la Directiva 2003/87/CE a Parlamentului European și a Consiliului la 1 ianuarie 2006 sau ulterior, specificând statul membru de administrare pentru fiecare operator de aeronave, pentru a ține seama de aderarea Croației la Uniunea Europeană Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0815",
+   "versions": [
+    {
+     "from": "2013-09-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3faf747e-1535-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "54db57a9d25cf48250900ca53b4ff890dbd3389e59d726f231336f25070613be"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-816-2013",
+   "path": "ue/regulament/2013/816",
+   "short": "Regulamentul (UE) nr. 816/2013",
+   "title": "Regulamentul (UE) nr. 816/2013 al Comisiei din 28 august 2013 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea copolimerului metacrilat neutru și a copolimerului metacrilat anionic în suplimentele alimentare solide și a anexei la Regulamentul (UE) nr. 231/2012 al Comisiei în ceea ce privește specificațiile pentru copolimerul metacrilat bazic (E 1205), copolimerul metacrilat neutru și copolimerul metacrilat anionic Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0816",
+   "versions": [
+    {
+     "from": "2013-09-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/356be4e5-1078-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8bd20acaa048b38fc77dff83606c8f9596f1f706295da7df3fbfc5724a1644c7"
     }
    ]
   },
@@ -2069,6 +3479,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/48c97405-6c88-11e2-9294-01aa75ed71a1.0019.03/DOC_1",
      "sha256": "3aea69413b35e48b23123dce4544bcb968a49a152a12cc10e8b6f0039622086d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-851-2013",
+   "path": "ue/regulament/2013/851",
+   "short": "Regulamentul (UE) nr. 851/2013",
+   "title": "Regulamentul (UE) nr. 851/2013 al Comisiei din 3 septembrie 2013 de autorizare a unor mențiuni de sănătate înscrise pe produsele alimentare, altele decât cele care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor, și de modificare a Regulamentului (UE) nr. 432/2012 Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0851",
+   "versions": [
+    {
+     "from": "2013-09-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0cdd6fb3-1537-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "14c7dbb00c3bab2a6ee9315b1741a4abd284d60495d9c07aa5ef88383bc87fc8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-859-2013",
+   "path": "ue/regulament/2013/859",
+   "short": "Regulamentul (UE) nr. 859/2013",
+   "title": "Regulamentul (UE) nr. 859/2013 al Comisiei din 5 septembrie 2013 de punere în aplicare a Regulamentului (CE) nr. 808/2004 al Parlamentului European și al Consiliului privind statisticile comunitare referitoare la societatea informațională Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0859",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2d500dc2-16cb-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "28531f14e751f08b0694da588da29a05d32fbe7d5b798c87941f87c96e32efcc"
     }
    ]
   },
@@ -2148,6 +3588,36 @@
    ]
   },
   {
+   "slug": "ue-regulament-913-2013",
+   "path": "ue/regulament/2013/913",
+   "short": "Regulamentul (UE) nr. 913/2013",
+   "title": "Regulamentul (UE) nr. 913/2013 al Comisiei din 23 septembrie 2013 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea îndulcitorilor în anumite paste tartinabile din fructe sau legume Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0913",
+   "versions": [
+    {
+     "from": "2013-10-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dae31c46-24ee-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "91bbdfb92e5085647c5c1186690cc8d6657369454c61290af68b972a1c217134"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-936-2013",
+   "path": "ue/regulament/2013/936",
+   "short": "Regulamentul (UE) nr. 936/2013",
+   "title": "Regulamentul (UE) nr. 936/2013 al Comisiei din 12 septembrie 2013 de stabilire pentru anul 2013 a „listei Prodcom” de produse industriale prevăzută în Regulamentul (CEE) nr. 3924/91 al Consiliului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0936",
+   "versions": [
+    {
+     "from": "2013-10-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8fe6a6b8-325a-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0cb2a2baa713bf333c184b2cd6c06bb8e2354056de327f201038f191785c635f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-944-2013",
    "path": "ue/regulament/2013/944",
    "short": "Regulamentul (UE) nr. 944/2013",
@@ -2174,6 +3644,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/80502785-3178-11e3-8d1c-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "d3d757ac13a5d0e5b12174ae6fece9d031fbfd3ded81af0262e0acb8c4834320"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-953-2013",
+   "path": "ue/regulament/2013/953",
+   "short": "Regulamentul (UE) nr. 953/2013",
+   "title": "Regulamentul (UE) nr. 953/2013 al Consiliului din 26 septembrie 2013 de modificare a anexei I la Regulamentul (CEE) nr. 2658/87 privind Nomenclatura tarifară și statistică și Tariful vamal comun",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013R0953",
+   "versions": [
+    {
+     "from": "2013-10-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7b6d03b7-2d8c-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f78ab1253fb834fa00b05ffe86b08b138d264784410fa12d6ae3f7fd0b77c650"
     }
    ]
   },

@@ -1053,6 +1053,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-11-2014",
+   "path": "ue/regulament/2014/11",
+   "short": "Regulamentul (UE) nr. 11/2014",
+   "title": "Regulamentul (UE) nr. 11/2014 al Consiliului din 16 decembrie 2013 privind alocarea posibilităților de pescuit în temeiul Protocolului de stabilire a posibilităților de pescuit și a contribuției financiare prevăzute de Acordul de parteneriat în domeniul pescuitului între Uniunea Europeană și Republica Seychelles",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0011",
+   "versions": [
+    {
+     "from": "2014-01-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6ad1751e-793b-11e3-b889-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7705f8d62b61a06910b847aa5dab748e070be3ef7d750fb0fbd95fee96b8bfc4"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1118-2014",
    "path": "ue/regulament/2014/1118",
    "short": "Regulamentul (UE) nr. 1118/2014",

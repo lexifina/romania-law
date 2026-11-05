@@ -3,6 +3,23 @@
 "shard": "ue/2014",
 "acts": [
 {
+"slug": "ue-regulament-11-2014",
+"path": "ue/regulament/2014/11",
+"kind": "ue",
+"year": "2014",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) nr. 11/2014 al Consiliului din 16 decembrie 2013 privind alocarea posibilităților de pescuit în temeiul Protocolului de stabilire a posibilităților de pescuit și a contribuției financiare prevăzute de Acordul de parteneriat în domeniul pescuitului între Uniunea Europeană și Republica Seychelles",
+"short": "Regulamentul (UE) nr. 11/2014",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2014-01-10",
+"latest": "2014-01-10",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014R0011"
+},
+{
 "slug": "ue-directiva-17-2014",
 "path": "ue/directiva/2014/17",
 "kind": "ue",
