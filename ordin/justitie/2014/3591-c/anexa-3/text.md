@@ -1,0 +1,114 @@
+# Anexa 3
+III. Camera Notarilor Publici Brașov
+```
+┌──┬────────────┬────────────────┬───────────────────┬─────────┬──────────┬──────────┬──────────────────┐
+│N │  Județul   │ Circumscripția │   Localitatea     │ Numărul │ Numărul  │  Numărul │      Numărul     │
+│r.│            │  judecătoriei  │                   │locurilor│ locurilor│ locurilor│ notarilor publici│
+│  │            │                │                   │actuali- │ ocupate  │  vacante │    suspendați    │
+│c │            │                │                   │ zate în │ de notari│ destinate│                  │
+│r │            │                │                   │anul 2014│ publici  │examenului│                  │
+│t.│            │                │                   │         │în funcție│ de defi- │                  │
+│  │            │                │                   │         │          │ nitivat  │                  │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│ 0│     1      │       2        │         3         │    4    │     5    │    6     │         7        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│1.│Brașov      │Brașov          │Brașov             │   62    │  62(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Budila             │    1    │     -    │ 1 rămas  │         -        │
+│  │            │                │                   │         │          │ neocupat │                  │
+│  │            │                │                   │         │          │    la    │                  │
+│  │            │                │                   │         │          │ examenul │                  │
+│  │            │                │                   │         │          │ din 2013 │                  │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Codlea             │    3    │     2    │    1     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Cristian           │    -    │   -(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Feldioara          │    -    │   -(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Săcele             │    3    │   3(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Tărlungeni         │    1    │     1    │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Teliu              │    1    │     1    │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Prejmer            │  2(*1)  │     -    │    -     │1. Bobb Camelia   │
+│  │            │                │                   │         │          │          │2. Dobrescu Iulia │
+│  │            │                │                   │         │          │          │Nicoleta          │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Predeal            │    3    │   2(*2)  │    1     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Sânpetru           │    1    │     1    │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Ghimbav            │    1    │   1(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Hălchiu            │    -    │   -(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Hărman             │    -    │   -(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Vama Buzăului      │    -    │   -(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │Făgăraș         │Făgăraș            │    7    │     7    │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Șinca Veche        │    1    │     1    │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Șercaia            │ 1(*1)   │     -    │    -     │1. Aioanei        │
+│  │            │                │                   │         │          │          │Genoveva          │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Ucea               │    -    │   -(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Victoria           │    1    │   1(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Voila              │    1    │     1    │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │Rupea           │Rupea              │    4    │   4(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Comăna             │    1    │     -    │    1     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Ticuș              │    -    │   -(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │Zărnești        │Râșnov             │    2    │     2    │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Fundata            │    -    │   -(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Holbav             │    -    │   -(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Moeciu             │    -    │   -(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Zărnești           │    3    │   3(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Vulcan             │    -    │   -(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Poiana Mărului     │    -    │   -(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Bran               │    1    │     1    │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │Total județ │                │                   │ 100(*1) │  93(*2)  │    4     │         3        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│2.│Covasna     │Întorsura       │Întorsura Buzăului │  3(*1)  │     2    │    -     │1. Barbu Silviu   │
+│  │            │Buzăului        │                   │         │          │          │Gabriel           │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Sita Buzăului      │  1(*1)  │     -    │    -     │1. Tamaș Alina    │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │Sfântu Gheorghe │Sfântu Gheorghe    │    9    │   9(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Bixad              │    1    │     -    │    1     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Ozun               │    -    │   -(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Baraolt            │    2    │   2(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │Târgu Secuiesc  │Târgu Secuiesc     │    3    │     3    │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Brețcu             │    -    │   -(*2)  │    -     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Covasna            │    2    │   1(*2)  │    1     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │            │                │Zagon              │    1    │     -    │    1     │         -        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │Total județ │                │                   │  22(*1) │  17(*2)  │    3     │         2        │
+├──┼────────────┼────────────────┼───────────────────┼─────────┼──────────┼──────────┼──────────────────┤
+│  │TOTAL CAMERĂ│                │                   │ 122(*1) │ 110(*2)  │    7     │         5        │
+└──┴────────────┴────────────────┴───────────────────┴─────────┴──────────┴──────────┴──────────────────┘
+```
+-------------- (*1) Numărul actualizat cuprinde și notarii publici suspendați. (*2) 1 notar public numit în Predeal și asociat pe 5 ani în Brașov: Isbășoiu Florentina Daniela din 13.08.2009; 1 notar public numit în Săcele și asociat pe 5 ani în Camera Notarilor Publici Cluj: Cosma Laura Ioana din 9.08.2010; 1 notar public numit în Hălchiu și asociat pe 5 ani în Brașov: Roșu Ramona Elena din 2.03.2012; 1 notar public numit în Ghimbav și asociat pe 5 ani în Brașov: Gonțea Ionuț Dan Mircea din 1.08.2013 conform Deciziei Camerei Notarilor Publici Brașov nr. 19/18.06.2013; 1 notar public numit în Moeciu și asociat pe durată nedeterminată în Brașov: Burlan Ioana Suzana din 12.04.2013; 1 notar public numit în Covasna și asociat pe durată nedeterminată în Brașov: Burlan Silviu Cristian din 12.04.2013; 1 notar public numit în Covasna și asociat pe durată nedeterminată în Camera Notarilor Publici București: Rizea Bianca Gabriela din 17.03.2014; 1 notar public numit în Ucea și asociat pe 5 ani în Brașov: Sârbu Adrian Ioan din 3.03.2010; 1 notar public numit în Brețcu și asociat pe 5 ani în Întorsura Buzăului: Iagăr Mihaela din 3.03.2010; 1 notar public numit în Brețcu și asociat până la 31.12.2017 în Brașov: Roth Jeno din 11.03.2013; 1 notar public numit în Zărnești și asociat pe durată nedeterminată în Camera Notarilor Publici Cluj: Bejan Cristina din 2.07.2013; 1 notar public numit în Sfântu Gheorghe și asociat pe durată nedeterminată în Brașov: Mușina Iulia din 26.11.2013; 1 notar public numit în Hărman și asociat pe 7 ani în Brașov: Bălan Mihai din 8.01.2013; 2 notari publici numiți în Rupea și asociați pe 5 ani în Brașov: Vrabie Mircea din 4.05.2009, Oancea Răzvan din 28.01.2011; 1 notar public numit în Vulcan și asociat pe 5 ani în Rupea: Mija Cătălina din 28.03.2012; 1 notar public numit în Poiana Mărului și asociat pe 5 ani în Brașov: Gigîrtu Pumnea Sorin din 23.03.2011; 1 notar public numit în Baraolt și asociat pe durată nedeterminată în Brașov: Filip Alitha Sorana din 9.04.2013; 1 notar public numit în Fundata și asociat pe durată nedeterminată în Brașov: Vlăsceanu Horia din 15.02.2013; 1 notar public numit în Cristian și asociat până la 15.05.2015 în Brașov: Petrescu Manuela Ada din 16.05.2014 - conform Deciziei Camerei Notarilor Publici Brașov nr. 20/29.04.2014; 1 notar public numit în Victoria și asociat pe durată nedeterminată în Camera Notarilor Publici București: Anghel Cristina Maria din 10.03.2014; 1 notar public numit în Ozun și asociat pe 3 ani și 7 luni în Brașov: Ungureanu Bogdan Ilie din 7.05.2012; 1 notar public numit în Ozun și asociat pe durată nedeterminată în Sfântu Gheorghe: Profiroiu Toth Anca din 25.03.2013 - conform Deciziei Camerei Notarilor Publici Brașov nr. 8/20.02.2013; 1 notar public numit în Vama Buzăului și asociat pe 3 ani în Brașov: Cobelschi Ana Mihaela din 10.03.2014 - conform Deciziei Camerei Notarilor Publici Brașov nr. 11/24.02.2014; 1 notar public numit în Holbav și asociat pe durată nedeterminată în Zărnești: Bălău Ioan Marian din 25.03.2013 - conform Deciziei Camerei Notarilor Publici Brașov nr. 7/20.02.2013; 1 notar public numit în Brașov și asociat pe 5 ani în Camera Notarilor Publici București: Vîrză Chirața din 27.05.2013; 1 notar public numit în Feldioara și asociat pe 3 ani în Brașov: Ion Cătălin din 8.01.2014 - conform Deciziei Camerei Notarilor Publici Brașov nr. 30/26.09.2013; 1 notar public numit în Ticuș și asociat pe 1 an în Brașov: Hotăran Violeta din 23.12.2013.
