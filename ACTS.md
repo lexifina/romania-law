@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12510 acts, 24,025 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12514 acts, 24,029 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -11363,7 +11363,7 @@
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 | Ordonanța de urgență a Guvernului nr. 39/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic şi didactic auxiliar, precum şi unei prime de carieră profesională pentru personalul administrativ din învăţământul de stat, suportate din fonduri externe nerambursabile, precum şi pentru instituirea unor reglementări în vederea gestionării Programului Educaţie şi Ocupare 2021-2027 | [`oug/2026/39/`](oug/2026/39/) | amended, not consolidated | 1 | 2026-05-06 | 2026-05-06 |
 
-## Ordinances (OG) (1022, of which 120 amending acts)
+## Ordinances (OG) (1026, of which 121 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11527,14 +11527,18 @@
 | Ordonanța Guvernului nr. 63/1998 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, destinat finanţării Proiectului privind reforma în domeniul protecţiei copilului, semnat la Washington la 15 iulie 1998 | [`og/1998/63/`](og/1998/63/) | amended, not consolidated | 1 | 1998-08-26 | 1998-08-26 |
 | Ordonanța Guvernului nr. 64/1998 | [`og/1998/64/`](og/1998/64/) | in force | 3 | 1998-08-26 | 2002-02-20 |
 | Ordonanța Guvernului nr. 67/1998 pentru modificarea Ordonanţei Guvernului nr. 48/1994 privind modificarea unor taxe pentru folosirea drumurilor publice şi pentru unele prestări de servicii în porturi şi aeroporturi | [`og/1998/67/`](og/1998/67/) | amended, not consolidated | 1 | 1998-08-27 | 1998-08-27 |
+| Ordonanța Guvernului nr. 68/1998 pentru ratificarea Acordului european privind marile cai navigabile de importanţa internaţionala (A.G.N.), adoptat la Geneva la 19 ianuarie 1996 | [`og/1998/68/`](og/1998/68/) | in force | 1 | 1998-08-27 | 1998-08-27 |
 | Ordonanța Guvernului nr. 70/1998 pentru modificarea art. 1 alin. (1) din Ordonanţa de urgenţă a Guvernului nr. 30/1997 privind reorganizarea regiilor autonome | [`og/1998/70/`](og/1998/70/) | amended, not consolidated | 1 | 1998-08-27 | 1998-08-27 |
+| Ordonanța Guvernului nr. 71/1998 pentru aprobarea prelungirii participării Guvernului României la programul de lucru în perioada 1997-2000 şi la extensiile ulterioare ale Acordului de cooperare pentru administrarea fondului Autostrăzii Transeuropene Nord-Sud (TEM), semnat la Geneva la 18 decembrie 1991 | [`og/1998/71/`](og/1998/71/) | amending act | 1 | 1998-08-28 | 1998-08-28 |
 | Ordonanța Guvernului nr. 72/1998 pentru modificarea şi completarea Legii nr. 118/1996 privind constituirea şi utilizarea Fondului special al drumurilor publice | [`og/1998/72/`](og/1998/72/) | amended, not consolidated | 1 | 1998-08-27 | 1998-08-27 |
 | Ordonanța Guvernului nr. 73/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 44/1997 privind transporturile rutiere | [`og/1998/73/`](og/1998/73/) | amended, not consolidated | 1 | 1998-08-27 | 1998-08-27 |
+| Ordonanța Guvernului nr. 74/1998 pentru ratificarea Protocolului la Acordul european din anul 1991 privind marile linii de transport internaţional combinat şi instalaţii conexe (AGTC), privind transportul combinat pe căi navigabile interioare, adoptat la Geneva la 17 ianuarie 1997 | [`og/1998/74/`](og/1998/74/) | in force | 1 | 1998-08-28 | 1998-08-28 |
 | Ordonanța Guvernului nr. 75/1998 | [`og/1998/75/`](og/1998/75/) | in force | 1 | 1998-08-28 | 1998-08-28 |
 | Ordonanța Guvernului nr. 76/1998 | [`og/1998/76/`](og/1998/76/) | in force | 1 | 1998-08-27 | 1998-08-27 |
 | Ordonanța Guvernului nr. 78/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 68/1997 privind procedura de întocmire şi depunere a declaraţiilor de impozite şi taxe | [`og/1998/78/`](og/1998/78/) | amended, not consolidated | 1 | 1998-08-27 | 1998-08-27 |
 | Ordonanța Guvernului nr. 79/1998 privind organizarea şi funcţionarea Fondului Cultural Naţional | [`og/1998/79/`](og/1998/79/) | repealed 2005-01-31 | 2 | 1998-08-27 | 2005-01-31 |
 | Ordonanța Guvernului nr. 83/1998 | [`og/1998/83/`](og/1998/83/) | in force | 2 | 1998-09-01 | 2003-11-14 |
+| Ordonanța Guvernului nr. 85/1998 privind plata colaboratorilor externi folosiţi de ministere pentru elaborarea proiectelor de coduri şi a altor acte normative | [`og/1998/85/`](og/1998/85/) | in force | 1 | 1998-08-27 | 1998-08-27 |
 | Ordonanța Guvernului nr. 86/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 23/1995 privind instituirea sistemului de marcare pentru ţigarete, produse din tutun şi băuturi alcoolice | [`og/1998/86/`](og/1998/86/) | amended, not consolidated | 1 | 1998-08-27 | 1998-08-27 |
 | Ordonanța Guvernului nr. 89/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 65/1994 privind organizarea activităţii de expertiza contabila şi a contabililor autorizaţi | [`og/1998/89/`](og/1998/89/) | amended, not consolidated | 1 | 1998-08-27 | 1998-08-27 |
 | Ordonanța Guvernului nr. 90/1998 | [`og/1998/90/`](og/1998/90/) | in force | 2 | 1998-08-27 | 1998-11-16 |
@@ -12576,7 +12580,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28822 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28827 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

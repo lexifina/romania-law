@@ -954,6 +954,36 @@
    ]
   },
   {
+   "slug": "hg-508-1998",
+   "path": "hg/1998/508",
+   "short": "HG nr. 508/1998",
+   "title": "Hotărârea Guvernului nr. 508/1998 pentru acordarea unui împrumut Ministrului Sănătăţii din disponibilităţile contului general al trezoreriei statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15489",
+   "versions": [
+    {
+     "from": "1998-08-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15489",
+     "sha256": "2e942e29acb4a9c5aaa761af6761fb7d55232f1b19220c4fb7ce1c45ccb50c9c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-509-1998",
+   "path": "hg/1998/509",
+   "short": "HG nr. 509/1998",
+   "title": "Hotărârea Guvernului nr. 509/1998 privind aprobarea achiziţiei dintr-o singura sursa a execuţiei lucrărilor de conversie de pe lignit pe huila la CET Iaşi II şi CET Suceava şi garantarea de către Guvern a unui credit extern pentru finanţarea acestor obiective",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15513",
+   "versions": [
+    {
+     "from": "1998-08-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15513",
+     "sha256": "9782b6812b6fc24fc8bf74b8bd498de9a7e13e2ae49b53df97dcf7b24832d943"
+    }
+   ]
+  },
+  {
    "slug": "hg-51-1998",
    "path": "hg/1998/51",
    "short": "HG nr. 51/1998",
@@ -971,6 +1001,21 @@
      "units": 0,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/16545",
      "sha256": "c650aed4bea6659e82ffecaf7d9f6f3bf20c2739c97e348ce93fb1cfc598c578"
+    }
+   ]
+  },
+  {
+   "slug": "hg-510-1998",
+   "path": "hg/1998/510",
+   "short": "HG nr. 510/1998",
+   "title": "Hotărârea Guvernului nr. 510/1998 privind aprobarea Metodologiei-cadru pentru gestionarea resurselor umane în administraţia publică centrala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15490",
+   "versions": [
+    {
+     "from": "1998-08-26",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15490",
+     "sha256": "6e686c550e3084e1b2d1468104be54eaa0d4f52ea214d8f853d405e9cdd609f5"
     }
    ]
   },
@@ -1001,6 +1046,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15515",
      "sha256": "9c2c5d49fb58069874cc893c9276f063cd34b25f625740e33918337b8d4b527f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-516-1998",
+   "path": "hg/1998/516",
+   "short": "HG nr. 516/1998",
+   "title": "Hotărârea Guvernului nr. 516/1998 privind repartizarea sumei prevăzute în bugetul de stat pe anul 1998 pentru corecţia salariilor personalului din sectorul bugetar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15491",
+   "versions": [
+    {
+     "from": "1998-08-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15491",
+     "sha256": "95e58fa437d706123599e7d1eff257e57365501fa56e16a9e03008dcfb52b044"
+    }
+   ]
+  },
+  {
+   "slug": "hg-526-1998",
+   "path": "hg/1998/526",
+   "short": "HG nr. 526/1998",
+   "title": "Hotărârea Guvernului nr. 526/1998 privind alocarea unor sume din bugetul de stat pe anul 1998 pentru executarea de lucrări în vederea înlăturării efectelor calamităţilor naturale produse în bazinul hidrografic Crişul Negru şi afluenţi în perioada mai - iunie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15511",
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15511",
+     "sha256": "d6d0c0c3087353c7fe4b69338d3ec5efe734e9d3c0cd02d95bf8b0670e1d69d3"
     }
    ]
   },

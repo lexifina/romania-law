@@ -211400,6 +211400,21 @@
    ]
   },
   {
+   "slug": "og-68-1998",
+   "path": "og/1998/68",
+   "short": "OG nr. 68/1998",
+   "title": "Ordonanța Guvernului nr. 68/1998 pentru ratificarea Acordului european privind marile cai navigabile de importanţa internaţionala (A.G.N.), adoptat la Geneva la 19 ianuarie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15638",
+   "versions": [
+    {
+     "from": "1998-08-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15638",
+     "sha256": "092a4353d55a692bd4a21045162939c694a9e54054e42219eab76e9da7e7d9c9"
+    }
+   ]
+  },
+  {
    "slug": "og-68-2002",
    "path": "og/2002/68",
    "short": "OG nr. 68/2002",
@@ -211844,6 +211859,21 @@
    ]
   },
   {
+   "slug": "og-71-1998",
+   "path": "og/1998/71",
+   "short": "OG nr. 71/1998",
+   "title": "Ordonanța Guvernului nr. 71/1998 pentru aprobarea prelungirii participării Guvernului României la programul de lucru în perioada 1997-2000 şi la extensiile ulterioare ale Acordului de cooperare pentru administrarea fondului Autostrăzii Transeuropene Nord-Sud (TEM), semnat la Geneva la 18 decembrie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15508",
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15508",
+     "sha256": "3193031085bb44fee9b60f9b078e036ab0764e51bd548276dfccd396031fffce"
+    }
+   ]
+  },
+  {
    "slug": "og-71-2003",
    "path": "og/2003/71",
    "short": "OG nr. 71/2003",
@@ -212002,6 +212032,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54741",
      "sha256": "ad0d0667c540ea8c52f05a79b485f93b3a783e521bbb4a36a35a8a492eb472a0"
+    }
+   ]
+  },
+  {
+   "slug": "og-74-1998",
+   "path": "og/1998/74",
+   "short": "OG nr. 74/1998",
+   "title": "Ordonanța Guvernului nr. 74/1998 pentru ratificarea Protocolului la Acordul european din anul 1991 privind marile linii de transport internaţional combinat şi instalaţii conexe (AGTC), privind transportul combinat pe căi navigabile interioare, adoptat la Geneva la 17 ianuarie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15509",
+   "versions": [
+    {
+     "from": "1998-08-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15509",
+     "sha256": "5316d6390582ce5f3b2b218282bd4578c4d1ba826cabbcf3e38682c7b933edca"
     }
    ]
   },
@@ -212953,6 +212998,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210738",
      "sha256": "5c1b58f0b9809642735fe4693c552af64b5a621389cf5f153133db3c9cd76dd7"
+    }
+   ]
+  },
+  {
+   "slug": "og-85-1998",
+   "path": "og/1998/85",
+   "short": "OG nr. 85/1998",
+   "title": "Ordonanța Guvernului nr. 85/1998 privind plata colaboratorilor externi folosiţi de ministere pentru elaborarea proiectelor de coduri şi a altor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15496",
+   "versions": [
+    {
+     "from": "1998-08-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15496",
+     "sha256": "8e6aa4ee2c6ae63fe4f0bdd21876d412af443456384667e9828ee3dee9190e26"
     }
    ]
   },
