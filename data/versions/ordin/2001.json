@@ -2696,7 +2696,7 @@
    "versions": [
     {
      "from": "2001-07-19",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29742",
      "sha256": "da89b5d0cd4515a5856350a95106d06749c3cad72a9dc83889a20d8992f877b5"
     }
@@ -2744,6 +2744,156 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27999",
      "sha256": "682e7ae9771d283797ef7e09cf83fde9c6eb84a81ae47e3e0b0977e18e3a80a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4318-2001",
+   "path": "ordin/educatie/2001/4318",
+   "short": "Ordin educatie nr. 4318/2001",
+   "title": "Ordinul nr. 4.318/2001 cu privire la aprobarea Metodologiei de organizare și desfășurare a examenului național de capacitate 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34801",
+   "versions": [
+    {
+     "from": "2002-03-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34801",
+     "sha256": "0bd3b2f507a8247432cbcfab4b425dd1b11861f7b1b8493fd8f7fd39254efaa6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4319-2001",
+   "path": "ordin/educatie/2001/4319",
+   "short": "Ordin educatie nr. 4319/2001",
+   "title": "Ordinul nr. 4.319/2001 privind aprobarea Calendarului și a Metodologiei de organizare și desfășurare a examenului de bacalaureat 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34387",
+   "versions": [
+    {
+     "from": "2002-03-07",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34387",
+     "sha256": "e26a71a4460bb95f10ec97f71907d7608c2a48145131551b5eea4e443b914163"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4320-2001",
+   "path": "ordin/educatie/2001/4320",
+   "short": "Ordin educatie nr. 4320/2001",
+   "title": "Ordinul nr. 4.320/2001 cu privire la aprobarea Metodologiei de organizare și desfășurare a examenului pentru obținerea certificatului de competente profesionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31868",
+   "versions": [
+    {
+     "from": "2001-10-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31868",
+     "sha256": "25ca097ebc27e9aa58c37867fc8299d1aac57c807754edb2723a311e92c796aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4321-2001",
+   "path": "ordin/educatie/2001/4321",
+   "short": "Ordin educatie nr. 4321/2001",
+   "title": "Ordinul nr. 4.321/2001 privind disciplinele și programele pentru examenul de bacalaureat 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35452",
+   "versions": [
+    {
+     "from": "2002-04-17",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35452",
+     "sha256": "267883953919f470261dceef38043a0307effd553219a5bb9f817c3e0f74cd9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4638-2001",
+   "path": "ordin/educatie/2001/4638",
+   "short": "Ordin educatie nr. 4638/2001",
+   "title": "Ordinul nr. 4.638/2001 pentru aprobarea Normelor metodologice privind școlarizarea copiilor lucrătorilor migranți și asigurarea personalului didactic calificat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31865",
+   "versions": [
+    {
+     "from": "2001-10-30",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31865",
+     "sha256": "04beeb385f81d95fcfe6eed142807fd0ad1a029d60ce27cf3381f127e45a27d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4747-2001",
+   "path": "ordin/educatie/2001/4747",
+   "short": "Ordin educatie nr. 4747/2001",
+   "title": "Ordinul nr. 4.747/2001 cu privire la aprobarea Regulamentului de organizare și funcționare a unităților de învățământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34133",
+   "versions": [
+    {
+     "from": "2002-02-19",
+     "units": 173,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34133",
+     "sha256": "eb6f12c1aa3318d271b6ead2eea45afa2d98622d94f5283e4e4ed7b0df1b4d23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5026-2001",
+   "path": "ordin/educatie/2001/5026",
+   "short": "Ordin educatie nr. 5026/2001",
+   "title": "Ordinul nr. 5.026/2001 pentru aprobarea Metodologiei privind organizarea și desfășurarea concursului național pentru ocuparea posturilor didactice declarate vacante în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33529",
+   "versions": [
+    {
+     "from": "2002-01-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33529",
+     "sha256": "b71645f6d62abc9a9fec4ba9f61ed9cb6215a9c67885dc8a90a5eb469576fdfb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5058-2001",
+   "path": "ordin/educatie/2001/5058",
+   "short": "Ordin educatie nr. 5058/2001",
+   "title": "Ordinul nr. 5.058/2001 pentru aprobarea Metodologiei privind constituirea și vacantarea posturilor/catedrelor din învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33461",
+   "versions": [
+    {
+     "from": "2002-01-21",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33461",
+     "sha256": "78cced563c523d20740a03bf5f38186f59949cd018ad6a301c318c7089316b78"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7105-2001",
+   "path": "ordin/educatie/2001/7105",
+   "short": "Ordin educatie nr. 7105/2001",
+   "title": "Ordinul nr. 7.105/2001 privind aprobarea Metodologiei de contractare a temelor de cercetare-dezvoltare și a acțiunilor cuprinse în Programul național de cercetare științifică și dezvoltare tehnologică \"Orizont 2000\", precum și de avizare și decontare a lucrărilor executate în cadrul contractelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28193",
+   "versions": [
+    {
+     "from": "2001-05-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28193",
+     "sha256": "990a9bff1dad1539047cb2ae050b47941cd06275a71968f49bd876a090e2becd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7293-2001",
+   "path": "ordin/educatie/2001/7293",
+   "short": "Ordin educatie nr. 7293/2001",
+   "title": "Ordinul nr. 7.293/2001 privind reînnoirea statutului de institut național de cercetare-dezvoltare al unor unități",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33526",
+   "versions": [
+    {
+     "from": "2002-01-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33526",
+     "sha256": "da410615992d0b00e7928bf30c67a4347991f39a780cb0d93b7c10b44044f0b3"
     }
    ]
   },
@@ -2801,7 +2951,7 @@
    "versions": [
     {
      "from": "2001-07-04",
-     "units": 8,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29363",
      "sha256": "9eb6bad9fa43f670cb3b58b1bbfb2de075ec96e2dcd579f571b63b9756ec651e"
     }
@@ -2861,7 +3011,7 @@
    "versions": [
     {
      "from": "2001-08-06",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30017",
      "sha256": "eace4a19daf1daa933a728bfee3c4c698efe85146fa289a40099902aa3eb773a"
     }
@@ -3371,7 +3521,7 @@
    "versions": [
     {
      "from": "2001-10-16",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31237",
      "sha256": "0da0533a5f124597d1aebc4523a86fdcea1eef13f0c7034742defaa92b269d1b"
     }
@@ -3476,7 +3626,7 @@
    "versions": [
     {
      "from": "2001-11-22",
-     "units": 14,
+     "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32333",
      "sha256": "3acecf8db0ae5dd155360510e7d2692e562581c5c076902e88c8b08675ce8840"
     }
@@ -3686,7 +3836,7 @@
    "versions": [
     {
      "from": "2002-01-21",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33466",
      "sha256": "9e62c714120886a30aa9a8129e0b6def0f29838871042d1fde2a3c65b0a05896"
     }
@@ -3791,7 +3941,7 @@
    "versions": [
     {
      "from": "2001-01-31",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26461",
      "sha256": "1917c26d6eb7c3bea7aa22445892cfb3df9edf33e38570da5b1d9af12fcb5dda"
     }
@@ -3806,7 +3956,7 @@
    "versions": [
     {
      "from": "2001-02-16",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26761",
      "sha256": "f4f65de6524cbbc60f0ed39013f2297f5203eff5cd92dfe8259675b41e983d23"
     }
@@ -3956,7 +4106,7 @@
    "versions": [
     {
      "from": "2001-08-06",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30013",
      "sha256": "4da48ed9ac63c407f35a5a79ae10022880939fa4a50f314ba09de5ebee8a8a79"
     }

@@ -2,7 +2,7 @@
 
 Ordin finante nr. 330/2007 · 1 versions, from 2007-06-11 (latest in force: 2007-06-11) · <https://legislatie.just.ro/Public/DetaliiDocument/82722>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (IA ┌─────────────────────────┬───────────────────────────┬────────────────────────┐ │ │ DECLARATIE INFORMATIVA │ Ministerul Economiei și│ │ 208 │ PRIVIND ...): it is a table that the official text holds only flattened; Anexa nr. 6 (III.2 Biroul Notarului Public.................................. Localitatea.............. județul/sectorul.............. ...): it is a table that the official text holds only flattened; Anexa nr. 8 (III.4 Administrația Finanțelor Publice........................ Județul................................................. SITUAȚIA privind repartizarea sumei ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (IA): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,8 +21,12 @@ Ordin finante nr. 330/2007 · 1 versions, from 2007-06-11 (latest in force: 2007
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 | Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
 | Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
+| Anexa nr. 8 (what it is) | [anexa-8/README.md](anexa-8/README.md) | 0 |  |
+| Anexa nr. 8 | [anexa-8/text.md](anexa-8/text.md) | 0 |  |
 | Anexa nr. 9 (what it is) | [anexa-9/README.md](anexa-9/README.md) | 0 |  |
 | Anexa nr. 9 | [anexa-9/text.md](anexa-9/text.md) | 0 |  |
 
@@ -39,9 +43,9 @@ Act id: `ordin-finante-330-2007` (tags `ordin-finante-330-2007/<day>`; `python t
 - Ordin finante nr. 330/2007: Anexa nr. 3 (IIB PROCEDURA privind emiterea Deciziei de impunere privind veniturile din transferul proprietăților imobiliare din patrimoniul personal În situația în care transferul dreptului de proprietate asupra) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 82722 of the official web service.
 - Ordin finante nr. 330/2007: Anexa nr. 4 (III PROCEDURA privind distribuirea impozitului stabilit pe venitul din transferul proprietăților imobiliare din patrimoniul personal) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 82722 of the official web service.
 - Ordin finante nr. 330/2007: Anexa nr. 5 (III.1 LISTA codurilor IBAN aferente contului 50.33.01 "Disponibil din sume colectate pentru bugetele locale reprezentând impozit pe venituri din transferul proprietăților imobiliare încasate prin nota) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 82722 of the official web service.
+- Ordin finante nr. 330/2007: Anexa nr. 6 (III.2 Biroul Notarului Public.................................. Localitatea.............. județul/sectorul.............. Adresa................................................... CIF..................) is part of the order and is published in its folder, anexa-6/ (paragraphs and tables), from document 82722 of the official web service.
 - Ordin finante nr. 330/2007: Anexa nr. 7 (III.3 LISTA unităților Trezoreriei Statului din municipiile reședință de județ Județul Municipiul Adresa Cod poștal Alba Alba Iulia Str. Primăverii nr. 10, localitatea Alba Iulia, județul Alba 510110) is part of the order and is published in its folder, anexa-7/ (paragraphs), from document 82722 of the official web service.
+- Ordin finante nr. 330/2007: Anexa nr. 8 (III.4 Administrația Finanțelor Publice........................ Județul................................................. SITUAȚIA privind repartizarea sumei de........, reprezentând impozit pe venitul) is part of the order and is published in its folder, anexa-8/ (paragraphs and tables), from document 82722 of the official web service.
 - Ordin finante nr. 330/2007: Anexa nr. 9 (IV CARACTERISTICI DE TIPĂRIRE, modul de difuzare, de utilizare și păstrare ale formularelor prevăzute la art. 1 alin. (1) Declarație informativă privind impozitul pe veniturile din transferul propriet) is part of the order and is published in its folder, anexa-9/ (paragraphs), from document 82722 of the official web service.
-- Ordin finante nr. 330/2007: Anexa nr. 1 (IA ┌─────────────────────────┬───────────────────────────┬────────────────────────┐ │ │ DECLARATIE INFORMATIVA │ Ministerul Economiei și│ │ 208 │ PRIVIND ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin finante nr. 330/2007: Anexa nr. 6 (III.2 Biroul Notarului Public.................................. Localitatea.............. județul/sectorul.............. ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin finante nr. 330/2007: Anexa nr. 8 (III.4 Administrația Finanțelor Publice........................ Județul................................................. SITUAȚIA privind repartizarea sumei ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 330/2007: Anexa nr. 1 (IA) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin finante nr. 330/2007: the publisher's notes run into its text (*) Se va menţiona fie hotărârea judecătorească urmare careia hotărârea de fond a ramas definitivă şi irevocabila, fie ca) are not text.

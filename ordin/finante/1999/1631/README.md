@@ -2,7 +2,7 @@
 
 Ordin finante nr. 1631/1999 · 1 versions, from 2000-02-11 (latest in force: 2000-02-11) · <https://legislatie.just.ro/Public/DetaliiDocument/20921>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 10 (10 FORMULARUL 2 SITUAȚIA împrumutului/creditului la data de.......... Agentul economic raportor...................................................... ...): it is a table that the official text holds only flattened; Anexa nr. 11 (11 FORMULARUL 2A (Se va utiliza în cazul în care pentru fiecare tragere exista câte o schema de rambursare.) SITUAȚIA împrumutului/creditului la data ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (16182 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -10,6 +10,10 @@ Ordin finante nr. 1631/1999 · 1 versions, from 2000-02-11 (latest in force: 200
 | Art. 2 | [art-002.md](art-002.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 10 (what it is) | [anexa-10/README.md](anexa-10/README.md) | 0 |  |
+| Anexa nr. 10 | [anexa-10/text.md](anexa-10/text.md) | 0 |  |
+| Anexa nr. 11 (what it is) | [anexa-11/README.md](anexa-11/README.md) | 0 |  |
+| Anexa nr. 11 | [anexa-11/text.md](anexa-11/text.md) | 0 |  |
 | Anexa nr. 12 (what it is) | [anexa-12/README.md](anexa-12/README.md) | 0 |  |
 | Anexa nr. 12 | [anexa-12/text.md](anexa-12/text.md) | 0 |  |
 | Anexa nr. 13 (what it is) | [anexa-13/README.md](anexa-13/README.md) | 0 |  |
@@ -48,8 +52,9 @@ Act id: `ordin-finante-1631-1999` (tags `ordin-finante-1631-1999/<day>`; `python
 - Ordin finante nr. 1631/1999: Anexa nr. 7 (7 FORMULARUL 1 RAPORT privind împrumuturile/creditele primite pe termen mediu și lung Agentul economic raportor........................... Descrierea împrumutului/creditului: Împrumutător/creditor....) is part of the order and is published in its folder, anexa-7/ (paragraphs), from document 20921 of the official web service.
 - Ordin finante nr. 1631/1999: Anexa nr. 8 (8 FORMULARUL 1A SCADENTARUL ESTIMATIV al tragerilor și al plăților de capital Agentul economic raportor........................... Împrumutător/creditor................. Țara........) is part of the order and is published in its folder, anexa-8/ (paragraphs), from document 20921 of the official web service.
 - Ordin finante nr. 1631/1999: Anexa nr. 9 (9 FORMULARUL 1B SCADENTARUL ESTIMATIV al plăților de dobânzi și comisioane Agentul economic raportor........................... Împrumutător/creditor................. Țara.........) is part of the order and is published in its folder, anexa-9/ (paragraphs), from document 20921 of the official web service.
+- Ordin finante nr. 1631/1999: Anexa nr. 10 (10 FORMULARUL 2 SITUAȚIA împrumutului/creditului la data de.......... Agentul economic raportor...................................................... Împrumutător/Creditor.............................) is part of the order and is published in its folder, anexa-10/ (paragraphs and tables), from document 20921 of the official web service.
+- Ordin finante nr. 1631/1999: Anexa nr. 11 (11 FORMULARUL 2A (Se va utiliza în cazul în care pentru fiecare tragere exista câte o schema de rambursare.) SITUAȚIA împrumutului/creditului la data de............. Agentul economic raportor.........) is part of the order and is published in its folder, anexa-11/ (paragraphs and tables), from document 20921 of the official web service.
 - Ordin finante nr. 1631/1999: Anexa nr. 12 (12 - model - CONTUL GENERAL AL DATORIEI PUBLICE A STATULUI la data de 31 decembrie.......... I. Contul datoriei publice interne directe a statului - mii lei - Nr. crt Categoria împrumuturilor de stat) is part of the order and is published in its folder, anexa-12/ (paragraphs), from document 20921 of the official web service.
 - Ordin finante nr. 1631/1999: Anexa nr. 13 (13 - model - SITUAȚIA garanțiilor guvernamentale pentru credite interne și externe, contractate de agenții economici și de autoritățile publice, la data de 31 decembrie... I. Garanții pentru credite i) is part of the order and is published in its folder, anexa-13/ (paragraphs), from document 20921 of the official web service.
-- Ordin finante nr. 1631/1999: Anexa nr. 10 (10 FORMULARUL 2 SITUAȚIA împrumutului/creditului la data de.......... Agentul economic raportor...................................................... ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin finante nr. 1631/1999: Anexa nr. 11 (11 FORMULARUL 2A (Se va utiliza în cazul în care pentru fiecare tragere exista câte o schema de rambursare.) SITUAȚIA împrumutului/creditului la data ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 1631/1999: the official text prints 16182 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.
 - Ordin finante nr. 1631/1999: the publisher's notes run into its text (*) Împrumuturile de stat de pe piaţa externa nu se cuprind în totalul datoriei publice interne directe a statului.) are not text.

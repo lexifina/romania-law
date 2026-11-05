@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 2021/2008 · 1 versions, from 2008-12-30 (latest in force: 2008-12-30) · <https://legislatie.just.ro/Public/DetaliiDocument/100936>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 9 (9 Indexul de codificare al urgențelor și regulamentul de alocare al resurselor și mijloacelor de intervenție după gradul de urgență din cadrul aplicației ...): it is a table that the official text holds only flattened; Anexa nr. 10 (10 PROGRAMA ANALITICĂ pentru cursul de prim ajutor calificat, descarcerare și operațiuni de salvare ...): it is a table that the official text holds only flattened; Anexa nr. 11 (11 Organigrama Serviciilor Publice de Ambulanță ┌────────────────┐ ┌───────────────┐ │Serv/Birou RUNOS├─┬────┤Manager general├──────┬────────────┐ ...): it is a table that the official text holds only flattened; a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 11 (11 Organigrama Serviciilor Publice de Ambulanță): it is a table that the official text holds only flattened; a part of it is published in a "bis" issue of the Monitorul Oficial or in facsimile, which the official text leaves out.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -55,6 +55,8 @@ Ordin sanatate nr. 2021/2008 · 1 versions, from 2008-12-30 (latest in force: 20
 | Anexa nr. 1, Art. 37 | [anexa-1/art-037.md](anexa-1/art-037.md) | 0 |  |
 | Anexa nr. 1, Art. 38 | [anexa-1/art-038.md](anexa-1/art-038.md) | 0 |  |
 | Anexa nr. 1, Art. 39 | [anexa-1/art-039.md](anexa-1/art-039.md) | 0 |  |
+| Anexa nr. 10 (what it is) | [anexa-10/README.md](anexa-10/README.md) | 0 |  |
+| Anexa nr. 10 | [anexa-10/text.md](anexa-10/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2, Art. 1 | [anexa-2/art-001.md](anexa-2/art-001.md) | 0 |  |
 | Anexa nr. 2, Art. 2 | [anexa-2/art-002.md](anexa-2/art-002.md) | 0 |  |
@@ -133,6 +135,8 @@ Ordin sanatate nr. 2021/2008 · 1 versions, from 2008-12-30 (latest in force: 20
 | Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
 | Anexa nr. 8 (what it is) | [anexa-8/README.md](anexa-8/README.md) | 0 |  |
 | Anexa nr. 8 | [anexa-8/text.md](anexa-8/text.md) | 0 |  |
+| Anexa nr. 9 (what it is) | [anexa-9/README.md](anexa-9/README.md) | 0 |  |
+| Anexa nr. 9 | [anexa-9/text.md](anexa-9/text.md) | 0 |  |
 
 Act id: `ordin-sanatate-2021-2008` (tags `ordin-sanatate-2021-2008/<day>`; `python tools/on.py <day> ordin-sanatate-2021-2008`).
 
@@ -151,8 +155,8 @@ Act id: `ordin-sanatate-2021-2008` (tags `ordin-sanatate-2021-2008/<day>`; `pyth
 - Ordin sanatate nr. 2021/2008: Anexa nr. 6 (6 Normele de aplicare privind acordarea asistenței de urgență în caz de accidente colective, calamități și dezastre în faza prespitalicească) is part of the order and is published in its folder, anexa-6/ (13 articles), from document 100936 of the official web service.
 - Ordin sanatate nr. 2021/2008: Anexa nr. 7 (7 Fișa de urgență prespitalicească pentru echipajele cu medic) is part of the order and is published in its folder, anexa-7/ (paragraphs), from document 100936 of the official web service.
 - Ordin sanatate nr. 2021/2008: Anexa nr. 8 (8 Fisa de urgenta prespitaliceasca pentru echipajele de asistența medicală de urgenta sau prim ajutor calificat) is part of the order and is published in its folder, anexa-8/ (paragraphs), from document 100936 of the official web service.
-- Ordin sanatate nr. 2021/2008: Anexa nr. 9 (9 Indexul de codificare al urgențelor și regulamentul de alocare al resurselor și mijloacelor de intervenție după gradul de urgență din cadrul aplicației ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin sanatate nr. 2021/2008: Anexa nr. 10 (10 PROGRAMA ANALITICĂ pentru cursul de prim ajutor calificat, descarcerare și operațiuni de salvare ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin sanatate nr. 2021/2008: Anexa nr. 11 (11 Organigrama Serviciilor Publice de Ambulanță ┌────────────────┐ ┌───────────────┐ │Serv/Birou RUNOS├─┬────┤Manager general├──────┬────────────┐ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 2021/2008: Anexa nr. 9 (9 Indexul de codificare al urgențelor și regulamentul de alocare al resurselor și mijloacelor de intervenție după gradul de urgență din cadrul aplicației destinate dispecerizării apelurilor de urgentă) is part of the order and is published in its folder, anexa-9/ (paragraphs and tables), from document 100936 of the official web service.
+- Ordin sanatate nr. 2021/2008: Anexa nr. 10 (10 PROGRAMA ANALITICĂ pentru cursul de prim ajutor calificat, descarcerare și operațiuni de salvare) is part of the order and is published in its folder, anexa-10/ (paragraphs and tables), from document 100936 of the official web service.
+- Ordin sanatate nr. 2021/2008: Anexa nr. 11 (11 Organigrama Serviciilor Publice de Ambulanță) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin sanatate nr. 2021/2008: the publisher's note "*) Anexele nr. 1-11 se publică ulterior în Monitorul Oficial al României, Partea I, nr. 896 bis în afara abonamentului, care se poate achiziţiona de la Centrul de vânzări şi informare al Regiei Autono" sends a part of it to a "bis" issue or a facsimile, which the official web service's text leaves out; that part is not included. It will be added when a source for it is found.
 - Ordin sanatate nr. 2021/2008: the publisher's notes run into its text (*) În lipsa Dispeceratului Integrat) are not text.

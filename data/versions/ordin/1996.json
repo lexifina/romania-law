@@ -363,6 +363,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4055-1996",
+   "path": "ordin/educatie/1996/4055",
+   "short": "Ordin educatie nr. 4055/1996",
+   "title": "Ordinul nr. 4.055/1996 ORDIN Nr. 4.055 din 5 iunie 1996 pentru stabilirea Normelor privind acordarea de reduceri cu 50% ale tarifelor pentru transportul local în comun, de suprafața și subteran, precum și pentru transportul intern auto, feroviar și naval de care beneficiază elevii și studenții din învățământul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10700",
+   "versions": [
+    {
+     "from": "1996-06-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10700",
+     "sha256": "fb3dd3576ab891fafd57ccab22d926850800f4e4c19a1cf3a2975ae005315d6a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1015-1996",
    "path": "ordin/finante/1996/1015",
    "short": "Ordin finante nr. 1015/1996",
@@ -371,7 +386,7 @@
    "versions": [
     {
      "from": "1996-05-30",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10083",
      "sha256": "e166e9969178e516e1bcddb60db9f0f9bf1e34461f074b6ca44a4ab1fef28f63"
     }
@@ -416,7 +431,7 @@
    "versions": [
     {
      "from": "1996-08-14",
-     "units": 16,
+     "units": 28,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10208",
      "sha256": "c759ced82f79a706d85b4782fbb21a835e8d26115b358ebe2dd78a753bdf2ee6"
     }
@@ -581,7 +596,7 @@
    "versions": [
     {
      "from": "1996-11-18",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10660",
      "sha256": "3b4432002fb73a1426c925a80753092ad86eed2ea12aac789562f57dced33d55"
     }
@@ -791,7 +806,7 @@
    "versions": [
     {
      "from": "1996-12-04",
-     "units": 9,
+     "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10687",
      "sha256": "fa01e9c295da6715bf4ab9a60d4e3042e4f3eb1152b2a8d4673b1187a31b06e2"
     }
@@ -926,7 +941,7 @@
    "versions": [
     {
      "from": "1996-03-12",
-     "units": 13,
+     "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9089",
      "sha256": "b1034612842c2d3708a5ec1320fd081685b86dbfe01a7ff6b4bd49d292c4a1cf"
     }
@@ -971,7 +986,7 @@
    "versions": [
     {
      "from": "1996-04-23",
-     "units": 7,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9736",
      "sha256": "5ad73f17f5d901ccf0c30a901480deded1ddff5940e2e54816b5b4a32f60cc94"
     }
@@ -1046,7 +1061,7 @@
    "versions": [
     {
      "from": "1996-05-27",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10039",
      "sha256": "643cb173b1ba8d3039f2219abb30509ca9dd529c897a0149404d6eb7d338c24a"
     }

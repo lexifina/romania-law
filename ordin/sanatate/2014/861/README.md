@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 861/2014 · 1 versions, from 2014-07-28 (latest in force: 2014-07-28) · <https://legislatie.just.ro/Public/DetaliiDocument/160204>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 4 (4 - Model - CERERE pentru evaluarea tehnologiilor medicale în vederea susținerii propunerii de includere a DCI-urilor noi, DCI-urilor compensate cu extindere ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -24,6 +24,8 @@ Ordin sanatate nr. 861/2014 · 1 versions, from 2014-07-28 (latest in force: 201
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 
@@ -38,5 +40,5 @@ Act id: `ordin-sanatate-861-2014` (tags `ordin-sanatate-861-2014/<day>`; `python
 - Ordin sanatate nr. 861/2014: Anexa nr. 1 (1 CRITERII 23/07/2014) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 160204 of the official web service.
 - Ordin sanatate nr. 861/2014: Anexa nr. 2 (2 METODOLOGIE 23/07/2014) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 160204 of the official web service.
 - Ordin sanatate nr. 861/2014: Anexa nr. 3 (3 DOCUMENTAȚIA care trebuie depusă de solicitanți, instrumentele metodologice utilizate în procesul de evaluare privind includerea, extinderea indicațiilor, neincluderea sau excluderea medicamentelor) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 160204 of the official web service.
+- Ordin sanatate nr. 861/2014: Anexa nr. 4 (4 - Model - CERERE pentru evaluarea tehnologiilor medicale în vederea susținerii propunerii de includere a DCI-urilor noi, DCI-urilor compensate cu extindere de indicație, genericelor care nu au DCI c) is part of the order and is published in its folder, anexa-4/ (paragraphs and tables), from document 160204 of the official web service.
 - Ordin sanatate nr. 861/2014: Anexa nr. 5 (5 CADRUL GENERAL cu privire la includerea condiționată în Lista cuprinzând denumirile comune internaționale corespunzătoare medicamentelor de care beneficiază asigurații, cu sau fără contribuție perso) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 160204 of the official web service.
-- Ordin sanatate nr. 861/2014: Anexa nr. 4 (4 - Model - CERERE pentru evaluarea tehnologiilor medicale în vederea susținerii propunerii de includere a DCI-urilor noi, DCI-urilor compensate cu extindere ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

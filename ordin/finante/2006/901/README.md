@@ -2,7 +2,7 @@
 
 Ordin finante nr. 901/2006 · 1 versions, from 2006-08-16 (latest in force: 2006-08-16) · <https://legislatie.just.ro/Public/DetaliiDocument/74325>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 ROMÂNIA Ministerul Finanțelor Publice AGENTIA NAȚIONALA DE ADMINISTRARE FISCALA CERTIFICAT DE INREGISTRARE IN SCOPURI DE TVA ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -16,6 +16,8 @@ Ordin finante nr. 901/2006 · 1 versions, from 2006-08-16 (latest in force: 2006
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 
@@ -29,5 +31,5 @@ Act id: `ordin-finante-901-2006` (tags `ordin-finante-901-2006/<day>`; `python t
 - Ordin finante nr. 901/2006: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 901/2006: Anexa nr. 1 (1 PROCEDURA 05/06/2006) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 74325 of the official web service.
 - Ordin finante nr. 901/2006: Anexa nr. 2 (2 SIGLĂ ROMÂNIA - Ministerul Finanțelor Publice AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ D.G.F.P.......................... Nr. înregistrare.............. ADMINISTRAȚIA FINANȚELOR PUBLICE....) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 74325 of the official web service.
+- Ordin finante nr. 901/2006: Anexa nr. 3 (3 ROMÂNIA Ministerul Finanțelor Publice AGENTIA NAȚIONALA DE ADMINISTRARE FISCALA CERTIFICAT DE INREGISTRARE IN SCOPURI DE TVA) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 74325 of the official web service.
 - Ordin finante nr. 901/2006: Anexa nr. 4 (4 CARACTERISTICILE de tipărire, modul de difuzare, de utilizare și de arhivare ale formularului "Certificat de înregistrare în scopuri de TVA" 1. Denumire: Certificat de înregistrare în scopuri de TVA) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 74325 of the official web service.
-- Ordin finante nr. 901/2006: Anexa nr. 3 (3 ROMÂNIA Ministerul Finanțelor Publice AGENTIA NAȚIONALA DE ADMINISTRARE FISCALA CERTIFICAT DE INREGISTRARE IN SCOPURI DE TVA ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

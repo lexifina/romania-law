@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 1289/2008 · 1 versions, from 2008-07-22 (latest in force: 2008-07-22) · <https://legislatie.just.ro/Public/DetaliiDocument/95806>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 *Font 9* MINISTERUL SĂNĂTĂȚII PUBLICE AUTORITATEA DE SĂNĂTATE PUBLICĂ.............................................. COMISIA DE EVALUARE FIȘĂ DE REEVALUARE a ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,6 +19,8 @@ Ordin sanatate nr. 1289/2008 · 1 versions, from 2008-07-22 (latest in force: 20
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 
@@ -32,5 +34,5 @@ Act id: `ordin-sanatate-1289-2008` (tags `ordin-sanatate-1289-2008/<day>`; `pyth
 - Ordin sanatate nr. 1289/2008: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 1289/2008: Anexa nr. 1 (1 A. Indicatori de management al resurselor umane 1. Proporția medicilor din totalul personalului Gradul de realizare față de indicatorii asumați prin contract Punctajul acordat Peste 100% 91 - 100% 8) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 95806 of the official web service.
 - Ordin sanatate nr. 1289/2008: Anexa nr. 2 (2 CRITERII GENERALE DE MANAGEMENT Nr. crt. Criteriul de performanță Dimensiunile specifice criteriului analizat Punctajul acordat 1. Planificare a) stabilirea unei viziuni și misiuni realiste; b) elab) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 95806 of the official web service.
+- Ordin sanatate nr. 1289/2008: Anexa nr. 3 (3 *Font 9* MINISTERUL SĂNĂTĂȚII PUBLICE AUTORITATEA DE SĂNĂTATE PUBLICĂ.............................................. COMISIA DE EVALUARE FIȘĂ DE REEVALUARE a activității desfășurate de...............) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 95806 of the official web service.
 - Ordin sanatate nr. 1289/2008: Anexa nr. 4 (4 METODOLOGIE privind organizarea și desfășurarea reevaluării activității managerului spitalului public pentru perioada 1 ianuarie - 30 iunie 2008 1. Reevaluarea după 6 luni a activității managerului) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 95806 of the official web service; the service's copy of it as a document of its own (95807) reads the same words.
-- Ordin sanatate nr. 1289/2008: Anexa nr. 3 (3 *Font 9* MINISTERUL SĂNĂTĂȚII PUBLICE AUTORITATEA DE SĂNĂTATE PUBLICĂ.............................................. COMISIA DE EVALUARE FIȘĂ DE REEVALUARE a ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

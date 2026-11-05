@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 994/2004 · 1 versions, from 2004-12-03 (latest in force: 2004-12-03) · <https://legislatie.just.ro/Public/DetaliiDocument/57333>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 4 (IV SUPRAVEGHEREA EPIDEMIOLOGICA A INFECTIILOR NOSOCOMIALE 1. Consideratii generale. Supravegherea epidemiologica este activitatea sistematica și/sau continua ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -15,6 +15,8 @@ Ordin sanatate nr. 994/2004 · 1 versions, from 2004-12-03 (latest in force: 200
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 
@@ -29,6 +31,6 @@ Act id: `ordin-sanatate-994-2004` (tags `ordin-sanatate-994-2004/<day>`; `python
 - Ordin sanatate nr. 994/2004: Anexa nr. 1 (I CRITERIILE DE DEFINIRE A INFECTIEI NOSOCOMIALE Infectia nosocomiala este infectia contractată în spital sau în alte unități sanitare cu paturi și se referă la orice boala datorată microorganismelor,) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 57333 of the official web service.
 - Ordin sanatate nr. 994/2004: Anexa nr. 2 (II ATRIBUȚIILE ȘI RESPONSABILITĂȚILE INSTITUȚIONALE ȘI ALE PERSONALULUI DIN UNITĂȚILE SANITARE PUBLICE ȘI PRIVATE ÎN PREVENIREA ȘI CONTROLUL INFECTIILOR NOSOCOMIALE: I. Principiile fundamentarii activ) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 57333 of the official web service.
 - Ordin sanatate nr. 994/2004: Anexa nr. 3 (III DEFINIȚIILE DE CAZ PENTRU INFECTIILE NOSOCOMIALE: Grupele de Infectii Nosocomiale cu frecventa crescută: A) Infectiile căilor urinare a) Infectiile simptomatice ale căilor urinare... Prezenta obli) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 57333 of the official web service.
+- Ordin sanatate nr. 994/2004: Anexa nr. 4 (IV SUPRAVEGHEREA EPIDEMIOLOGICA A INFECTIILOR NOSOCOMIALE 1. Consideratii generale. Supravegherea epidemiologica este activitatea sistematica și/sau continua de colectare, analiza, prelucrare, interpr) is part of the order and is published in its folder, anexa-4/ (paragraphs and tables), from document 57333 of the official web service.
 - Ordin sanatate nr. 994/2004: Anexa nr. 5 (V PRECAUTIUNI UNIVERSALE (PU) SCOPUL aplicării PU: prevenirea transmiterii infectiilor cu cale de transmitere sanguina, la locul de muncă al personalului. CONCEPTUL de PU se referă la: - măsurile care) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 57333 of the official web service.
-- Ordin sanatate nr. 994/2004: Anexa nr. 4 (IV SUPRAVEGHEREA EPIDEMIOLOGICA A INFECTIILOR NOSOCOMIALE 1. Consideratii generale. Supravegherea epidemiologica este activitatea sistematica și/sau continua ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin sanatate nr. 994/2004: the publisher's notes run into its text (*) Se completează pentru fiecare caz nou de infectie nosocomiala (dacă un bolnav a avut doua sau mai multe infectii noso) are not text.

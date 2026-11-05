@@ -3,6 +3,66 @@
  "shard": "ordin/2021",
  "acts": [
   {
+   "slug": "ordin-agricultura-101-2021",
+   "path": "ordin/agricultura/2021/101",
+   "short": "Ordin agricultura nr. 101/2021",
+   "title": "Ordinul nr. 101/2021 pentru aprobarea modelului de contract de management privind gestionarea, utilizarea, întreținerea și exploatarea investițiilor specifice în agricultură finanțate de către Ministerul Agriculturii și Dezvoltării Rurale și pentru desemnarea reprezentantului Ministerului Agriculturii și Dezvoltării Rurale care încheie contractul de management cu directorul liceului tehnologic cu profil preponderent agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242723",
+   "versions": [
+    {
+     "from": "2021-05-24",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242723",
+     "sha256": "d70a3e73aa083c23af94c0eb2d4271149e3fd775e171c97136f7c359c15ca00a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-118-2021",
+   "path": "ordin/agricultura/2021/118",
+   "short": "Ordin agricultura nr. 118/2021",
+   "title": "Ordinul nr. 118/2021 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de recoltare înainte de coacere, eligibilă pentru finanțare în cadrul Programului național de sprijin în sectorul vitivinicol 2019-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243287",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243287",
+     "sha256": "d7795025b30404cddb80f76bdacfad1c7823ac568ee3af91859c489b5dfcc1db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-13-2021",
+   "path": "ordin/agricultura/2021/13",
+   "short": "Ordin agricultura nr. 13/2021",
+   "title": "Ordinul nr. 13/2021 pentru aprobarea nivelului comisioanelor de garantare pentru anul 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236120",
+   "versions": [
+    {
+     "from": "2021-01-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236120",
+     "sha256": "d514ac4b1f9fdbc6ae905887f4ac90b48b18a7158ecc5243433d577e96da8719"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-150-2021",
+   "path": "ordin/agricultura/2021/150",
+   "short": "Ordin agricultura nr. 150/2021",
+   "title": "Ordinul nr. 150/2021 privind aprobarea Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244916",
+   "versions": [
+    {
+     "from": "2021-07-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244916",
+     "sha256": "65f4092c7324d047f8503a3fb7c78caedfaef52e87b8ea082fcfd9ea09bea2d1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-151-2021",
    "path": "ordin/agricultura/2021/151",
    "short": "Ordin agricultura nr. 151/2021",
@@ -14,6 +74,66 @@
      "units": 27,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246297",
      "sha256": "77fd7764c5a33019fc577dfe62a2b136a3957429de06b57bcba2cf0cb8b490b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-174-2021",
+   "path": "ordin/agricultura/2021/174",
+   "short": "Ordin agricultura nr. 174/2021",
+   "title": "Ordinul nr. 174/2021 privind aprobarea Procedurii de verificare a conformității datelor cuprinse în caietul de sarcini în vederea acordării dreptului de utilizare a mențiunii de calitate facultative \"produs montan\" și de realizare a controlului în vederea verificării respectării legislației europene și naționale de către operatorii economici care au obținut dreptul de utilizare a respectivei mențiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245362",
+   "versions": [
+    {
+     "from": "2021-08-17",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245362",
+     "sha256": "d4b18c0100c5cd0746742da39452b609d5619d7519a89597dd111f2ab9e41d7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-175-2021",
+   "path": "ordin/agricultura/2021/175",
+   "short": "Ordin agricultura nr. 175/2021",
+   "title": "Ordinul nr. 175/2021 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de ajutor pentru depozitarea vinului în situații de criză, eligibilă pentru finanțare în cadrul Programului național de sprijin în sectorul vitivinicol 2019-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244968",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244968",
+     "sha256": "0216dbded57b455ec3545db2a8b5af1681f77cb1dddff5f7f6f0ee0878f831b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-176-2021",
+   "path": "ordin/agricultura/2021/176",
+   "short": "Ordin agricultura nr. 176/2021",
+   "title": "Ordinul nr. 176/2021 pentru aprobarea cantităților de motorină aferente perioadei 1 ianuarie 2021-31 martie 2021 determinate la plată și nedecontate de către Agenția de Plăți și Intervenție pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244917",
+   "versions": [
+    {
+     "from": "2021-07-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244917",
+     "sha256": "318f72b67038332802f9085d5200ed851bcc0d01db75dc0a5c57dd1934c1af75"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-178-2021",
+   "path": "ordin/agricultura/2021/178",
+   "short": "Ordin agricultura nr. 178/2021",
+   "title": "Ordinul nr. 178/2021 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de distilare a vinului în situații de criză, eligibilă pentru finanțare în cadrul Programului național de sprijin în sectorul vitivinicol 2019-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245256",
+   "versions": [
+    {
+     "from": "2021-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245256",
+     "sha256": "70e1a7a43cc5a9a9c6750e160e05a01560757f3b0379cd357da7157e44566e0d"
     }
    ]
   },
@@ -63,6 +183,156 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-261-2021",
+   "path": "ordin/agricultura/2021/261",
+   "short": "Ordin agricultura nr. 261/2021",
+   "title": "Ordinul nr. 261/2021 pentru aprobarea cantităților de motorină aferente perioadei 1 aprilie 2021-30 iunie 2021 determinate la plată și nedecontate de către Agenția de Plăți și Intervenție pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247211",
+   "versions": [
+    {
+     "from": "2021-10-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247211",
+     "sha256": "02ca058ce65fcf2c63388679d838cd58ec7a71a00fc0e7cb452a7013c9f09ade"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-262-2021",
+   "path": "ordin/agricultura/2021/262",
+   "short": "Ordin agricultura nr. 262/2021",
+   "title": "Ordinul nr. 262/2021 privind sistemul de sancțiuni aplicabil schemelor de plăți directe și ajutoarelor naționale tranzitorii în sectoarele vegetal și zootehnic, aferente cererilor unice de plată din anii de cerere 2021 și 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247472",
+   "versions": [
+    {
+     "from": "2021-10-18",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247472",
+     "sha256": "6b16be3a68e00f7bf487328e9310d293d98ec511d0d5c43c273613f4e6580d36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-27-2021",
+   "path": "ordin/agricultura/2021/27",
+   "short": "Ordin agricultura nr. 27/2021",
+   "title": "Ordinul nr. 27/2021 privind stabilirea tarifelor pentru efectuarea testelor și controlului, certificării, înregistrării, supravegherii, monitorizării și acreditării pentru producerea, prelucrarea și/sau comercializarea semințelor și a materialului săditor, precum și a tarifelor pentru efectuarea testelor de calitate a semințelor și a materialului săditor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238458",
+   "versions": [
+    {
+     "from": "2021-03-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238458",
+     "sha256": "d0fe4b1d23a14b568e103190d7c65f44b3fb8b6346dbe633aa062eaf7b26ad7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-292-2021",
+   "path": "ordin/agricultura/2021/292",
+   "short": "Ordin agricultura nr. 292/2021",
+   "title": "Ordinul nr. 292/2021 pentru aprobarea regulamentului și metodologiei de colectare, de înregistrare, de prelucrare și raportare a rezultatelor de clasificare a carcaselor, a prețurilor acestora și a unor categorii de animale vii, pe specii, în baza națională de date a clasificării, prin intermediul sistemului informatic, precum și a modalității de obținere a aplicațiilor informatice specifice de înregistrare și raportare a datelor și a parolei securizate de acces în sistemul informatic, furnizate de Comisia de clasificare a carcaselor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248355",
+   "versions": [
+    {
+     "from": "2021-11-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248355",
+     "sha256": "b5874d61680956fe8260ff85967113c5f28d223055c6483cc0ddb6f7ee544aa4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-293-2021",
+   "path": "ordin/agricultura/2021/293",
+   "short": "Ordin agricultura nr. 293/2021",
+   "title": "Ordinul nr. 293/2021 privind aprobarea termenelor și modelelor de cereri pentru înscrierea la cursurile de formare profesională pentru ocupația de clasificator carcase de bovine sau porcine sau ovine, documentele necesare înscrierii la aceste cursuri și obținerii atestatului de clasificator pentru specia pentru care a absolvit cursul, modelul formularului-tip pentru atestatul de clasificator, pe specii, precum și modelul Registrului de evidență al atestatelor de clasificator",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248277",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248277",
+     "sha256": "7e621e78f82f1c29d2c4cf952f48f2d1d7e7618398216fd01c64b39f9b9589be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-31-2021",
+   "path": "ordin/agricultura/2021/31",
+   "short": "Ordin agricultura nr. 31/2021",
+   "title": "Ordinul nr. 31/2021 pentru aprobarea procedurilor de autorizare a operatorilor economici care desfășoară activități și servicii în domeniul însămânțărilor artificiale la animale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238981",
+   "versions": [
+    {
+     "from": "2021-03-10",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238981",
+     "sha256": "f9584e17d16c13000e3b7d4b8b12365753cd5c77fdcd5a1cd6cbab43cab50a67"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-310-2021",
+   "path": "ordin/agricultura/2021/310",
+   "short": "Ordin agricultura nr. 310/2021",
+   "title": "Ordinul nr. 310/2021 privind unele măsuri aplicate începând cu anul 2021 în contextul efectelor pandemiei de COVID-19 asupra angajamentelor aferente măsurilor de mediu și climă și măsurii de bunăstare a animalelor din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248332",
+   "versions": [
+    {
+     "from": "2021-11-10",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248332",
+     "sha256": "adbc196b0c66102c098dca21649d00b10d1e42d6de4d40d1490c2c925cad9f57"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-312-2021",
+   "path": "ordin/agricultura/2021/312",
+   "short": "Ordin agricultura nr. 312/2021",
+   "title": "Ordinul nr. 312/2021 privind organizarea sistemului de control și certificare, de aprobare a organismelor de control și de supraveghere a activității acestora în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249004",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 72,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249004",
+     "sha256": "7625cae89ee692ce191ebdd52022988e4848dd47dbaa2e5778e3fdeefb99ea2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-323-2021",
+   "path": "ordin/agricultura/2021/323",
+   "short": "Ordin agricultura nr. 323/2021",
+   "title": "Ordinul nr. 323/2021 pentru aprobarea Normelor metodologice privind procedurile pentru recunoașterea societăților și exploatațiilor de ameliorare, aprobarea programelor de ameliorare și autorizarea părților terțe pentru testarea performanțelor și/sau evaluarea genetică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248678",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248678",
+     "sha256": "9bb3111eceb09490bb2a93315e8185852fed843f2bd9fa1eb66146f88a91d720"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-325-2021",
+   "path": "ordin/agricultura/2021/325",
+   "short": "Ordin agricultura nr. 325/2021",
+   "title": "Ordinul nr. 325/2021 privind stabilirea tarifelor pentru determinările practicate de Laboratorul Central pentru Controlul Calității și Igienei Vinului Valea Călugărească",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249933",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249933",
+     "sha256": "82b75222ed5ac8711fd5405595744c6ee348ecd88e36df162549bd604b735116"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-338-2021",
    "path": "ordin/agricultura/2021/338",
    "short": "Ordin agricultura nr. 338/2021",
@@ -78,6 +348,126 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-347-2021",
+   "path": "ordin/agricultura/2021/347",
+   "short": "Ordin agricultura nr. 347/2021",
+   "title": "Ordinul nr. 347/2021 pentru aprobarea Normelor tehnice de clasificare a carcaselor, de înregistrare și raportare a prețurilor de piață ale carcaselor și ale animalelor vii, pentru specia porcine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250440",
+   "versions": [
+    {
+     "from": "2022-01-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250440",
+     "sha256": "aabceb5be32144ceb31b934130631db4b22fe348ed250823faecf178fb9856dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-348-2021",
+   "path": "ordin/agricultura/2021/348",
+   "short": "Ordin agricultura nr. 348/2021",
+   "title": "Ordinul nr. 348/2021 privind stabilirea cotei aferente anului 2021 pentru decontarea cheltuielilor aferente consumului de energie electrică necesar funcționării agregatelor sau echipamentelor pentru irigații pentru care se asigură apa pentru irigații în baza contractelor multianuale/sezoniere încheiate cu Agenția Națională de Îmbunătățiri Funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249287",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249287",
+     "sha256": "3a08042352f743ddefabb105c0ba6ced7631662b28e6ebd730518202dbbf943a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-355-2021",
+   "path": "ordin/agricultura/2021/355",
+   "short": "Ordin agricultura nr. 355/2021",
+   "title": "Ordinul nr. 355/2021 pentru aprobarea încheierii de convenții cu instituțiile bancare și nebancare privind finanțarea unei scheme de ajutor de stat reglementate de Hotărârea Guvernului nr. 1.179/2014 privind instituirea unei scheme de ajutor de stat în sectorul creșterii animalelor și a procentului pe care Agenția de Plăți și Intervenție pentru Agricultură îl va înscrie în adeverința eliberată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249969",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249969",
+     "sha256": "2fb14bfe952053f561117ca027a813fabaf5b48304942261b023d1422ae684e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-36-2021",
+   "path": "ordin/agricultura/2021/36",
+   "short": "Ordin agricultura nr. 36/2021",
+   "title": "Ordinul nr. 36/2021 pentru aprobarea Ghidului solicitantului pentru măsura I.9 \"Încetarea temporară a activităților de pescuit\" din Programul operațional pentru pescuit și afaceri maritime 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238263",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238263",
+     "sha256": "2335535ca2ec2f10265fd94b67eec546caeedb6fd7fb336bffc5eb614b8d27fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-362-2021",
+   "path": "ordin/agricultura/2021/362",
+   "short": "Ordin agricultura nr. 362/2021",
+   "title": "Ordinul nr. 362/2021 pentru aprobarea Programului național privind realizarea și reactualizarea Sistemului național de monitorizare sol-teren pentru agricultură, a Normelor de conținut pentru studiile pedologice și agrochimice elaborate în vederea realizării și reactualizării periodice a Sistemului județean de monitorizare sol-teren pentru agricultură și a realizării Sistemului național de monitoring al calității solului în rețeaua de profile 8 x 8 km și a bazelor de date aferente, a Metodologiei privind realizarea și reactualizarea Sistemului județean de monitorizare sol-teren pentru agricultură și a Sistemului național de monitoring al calității solului în rețeaua de profile 8 x 8 km și a bazelor de date aferente, a Normelor de conținut privind realizarea Sistemului național de monitoring al calității solului în rețeaua de profile 8 x 8 km și a bazei de date aferente rețelei de profile 8 x 8 km, precum și realizarea bazei de date la nivel național aferente Sistemului județean de monitorizare sol-teren pentru agricultură și a Modului de finanțare a Sistemului județean de monitorizare sol-teren pentru agricultură, a Sistemului național de monitoring al calității solului în rețeaua de profile 8 x 8 km, precum și a bazelor de date aferente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250140",
+   "versions": [
+    {
+     "from": "2022-01-03",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250140",
+     "sha256": "4c887a9df2cc00674280c161df174b56edf880683bc0bd1169a8bc348cd29037"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-40-2021",
+   "path": "ordin/agricultura/2021/40",
+   "short": "Ordin agricultura nr. 40/2021",
+   "title": "Ordinul nr. 40/2021 pentru aprobarea Listei cu gradatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238806",
+   "versions": [
+    {
+     "from": "2021-03-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238806",
+     "sha256": "8cdf622ef4a52d764249a11ff935b8b9c648d5e9bc5dfcb6432debd452b932ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-45-2021",
+   "path": "ordin/agricultura/2021/45",
+   "short": "Ordin agricultura nr. 45/2021",
+   "title": "Ordinul nr. 45/2021 pentru aprobarea criteriilor de eligibilitate, condițiilor specifice și a modului de implementare a schemelor de plăți prevăzute la art. 1 alin. (2) și (3) și art. 35 alin. (3) din Ordonanța de urgență a Guvernului nr. 11/2021 pentru aprobarea schemelor de plăți și a unor instrumente de garantare care se aplică în agricultură în anii 2021 și 2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238469",
+   "versions": [
+    {
+     "from": "2021-03-01",
+     "units": 161,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238469",
+     "sha256": "d5ee293dc28116a2c36ea8c5296fcb5051c1e6da2d979d5843e396cb6f445821"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-46-2021",
+   "path": "ordin/agricultura/2021/46",
+   "short": "Ordin agricultura nr. 46/2021",
+   "title": "Ordinul nr. 46/2021 privind aprobarea formularului-tip al cererii unice de plată pentru anul 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238470",
+   "versions": [
+    {
+     "from": "2021-03-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238470",
+     "sha256": "3e63b516560970e8a9e2996cb91f7c35df7cba982bfe3614cd38e764e1f7c095"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-58-2021",
    "path": "ordin/agricultura/2021/58",
    "short": "Ordin agricultura nr. 58/2021",
@@ -89,6 +479,51 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239743",
      "sha256": "23e2d1f3eafcda9d145164a4a419eb51a116eff5dd5756996577ae0c6e472c45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-80-2021",
+   "path": "ordin/agricultura/2021/80",
+   "short": "Ordin agricultura nr. 80/2021",
+   "title": "Ordinul nr. 80/2021 privind aprobarea sistemelor de sancțiuni pentru măsura 14 \"Bunăstarea animalelor\" pachet a) - plăți în favoarea bunăstării porcinelor și pachet b) - plăți în favoarea bunăstării păsărilor din cadrul Programului Național de Dezvoltare Rurală 2014-2020 aferente cererilor de plată depuse începând cu anul 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/240950",
+   "versions": [
+    {
+     "from": "2021-04-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240950",
+     "sha256": "d58a7adbcfa0e5f3bfc99d60d53a2e812fdf3e955f4480beaebc2e858566f9c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-82-2021",
+   "path": "ordin/agricultura/2021/82",
+   "short": "Ordin agricultura nr. 82/2021",
+   "title": "Ordinul nr. 82/2021 pentru aprobarea cantităților de motorină aferente perioadei 1 iulie 2020-31 decembrie 2020 determinate la plată și nedecontate de către Agenția de Plăți și Intervenție pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/240883",
+   "versions": [
+    {
+     "from": "2021-04-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240883",
+     "sha256": "7f255c2af937b72bc4286ca9da35bfdaf427e8687f3bd4ad1d34d0e35f34c8b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-83-2021",
+   "path": "ordin/agricultura/2021/83",
+   "short": "Ordin agricultura nr. 83/2021",
+   "title": "Ordinul nr. 83/2021 pentru aprobarea Ghidului solicitantului pentru măsura IV.4 \"Prelucrarea produselor pescărești și de acvacultură - art. 69 alin. (3)\" din Programul operațional pentru pescuit și afaceri maritime 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/241199",
+   "versions": [
+    {
+     "from": "2021-04-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241199",
+     "sha256": "3023ee96e0bd35874f526bf7e4e08c65528e6c73276c003e1662d9cc7f2d6a85"
     }
    ]
   },
@@ -4323,6 +4758,186 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3009-2021",
+   "path": "ordin/educatie/2021/3009",
+   "short": "Ordin educatie nr. 3009/2021",
+   "title": "Ordinul nr. 3.009/2021 pentru modificarea și completarea Metodologiei de organizare și desfășurare a examenului de atestare a competențelor profesionale ale absolvenților claselor de matematică-informatică și matematică-informatică, intensiv informatică, aprobată prin Ordinul ministrului educației, cercetării și inovării nr. 4.843/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236121",
+   "versions": [
+    {
+     "from": "2021-01-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236121",
+     "sha256": "9ce725947bb192f56195b00c120903964795b7d697208812cb88f5edc53fe813"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3090-2021",
+   "path": "ordin/educatie/2021/3090",
+   "short": "Ordin educatie nr. 3090/2021",
+   "title": "Ordinul nr. 3.090/2021 pentru suspendarea activităților care presupun prezența fizică a preșcolarilor și elevilor în unitățile de învățământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236012",
+   "versions": [
+    {
+     "from": "2021-01-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236012",
+     "sha256": "2daa3bfdad1cb4d0a9c6bbdec417c6867a8a00d355121cca0fdbd60ca2db0696"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3108-2021",
+   "path": "ordin/educatie/2021/3108",
+   "short": "Ordin educatie nr. 3108/2021",
+   "title": "Ordinul nr. 3.108/2021 pentru completarea Regulamentului-cadru de organizare și funcționare a unităților de învățământ preuniversitar, aprobat prin Ordinul ministrului educației și cercetării nr 5.447/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236185",
+   "versions": [
+    {
+     "from": "2021-01-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236185",
+     "sha256": "27496a8b7cbc1f4ee7b033e96130bcaf1169a847aaa41b1eeee066d815c8c57e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3151-2021",
+   "path": "ordin/educatie/2021/3151",
+   "short": "Ordin educatie nr. 3151/2021",
+   "title": "Ordinul nr. 3.151/2021 privind modificarea Ordinului ministrului educației naționale nr. 4.511/2017 pentru aprobarea Normelor metodologice privind procurarea, păstrarea, folosirea, scoaterea din uz și casarea sigiliilor și a timbrului sec cu stema României de către inspectoratele școlare, casele corpului didactic și unitățile de învățământ preuniversitar de stat și particular acreditate/autorizate, care fac parte din sistemul național de învățământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236758",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236758",
+     "sha256": "67fdcba3698533f17f65351f12b2ebbf11e1c1e0e80d55ad7254452bffd692da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3160-2021",
+   "path": "ordin/educatie/2021/3160",
+   "short": "Ordin educatie nr. 3160/2021",
+   "title": "Ordinul nr. 3.160/2021 pentru modificarea și completarea Regulamentului privind regimul actelor de studii eliberate cadrelor didactice de către inspectoratele școlare și centrele de perfecționare, aprobat prin Ordinul ministrului educației naționale nr. 3.665/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236736",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236736",
+     "sha256": "1249cd659c2a702d6452fd11bdcc4f68ebf9e1b58dfb145863ab2483237de911"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3165-2021",
+   "path": "ordin/educatie/2021/3165",
+   "short": "Ordin educatie nr. 3165/2021",
+   "title": "Ordinul nr. 3.165/2021 pentru modificarea Metodologiei-cadru privind mobilitatea personalului didactic de predare din învățământul preuniversitar în anul școlar 2021-2022, aprobată prin Ordinul ministrului educației și cercetării nr. 5.991/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236635",
+   "versions": [
+    {
+     "from": "2021-01-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236635",
+     "sha256": "73d3f197d8b200c69f74ced8b37dc969b1e06e2c22ce5bd5f937ef12e52f7b04"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3173-2021",
+   "path": "ordin/educatie/2021/3173",
+   "short": "Ordin educatie nr. 3173/2021",
+   "title": "Ordinul nr. 3.173/2021 pentru completarea anexei la Ordinul ministrului educației naționale și cercetării științifice nr. 5.819/2016 privind aprobarea procedurii de elaborare a avizului conform pentru schimbarea destinației bazei materiale a instituțiilor și unităților de învățământ preuniversitar de stat, precum și condițiile necesare acordării acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/237009",
+   "versions": [
+    {
+     "from": "2021-02-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237009",
+     "sha256": "9f4d2bc90cbc9b8052e76a7d1309e2fe2782010b0c2db756ca0354beafc89af2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3174-2021",
+   "path": "ordin/educatie/2021/3174",
+   "short": "Ordin educatie nr. 3174/2021",
+   "title": "Ordinul nr. 3.174/2021 privind modificarea și completarea Metodologiei de organizare și desfășurare a examenului de certificare a calificării profesionale a absolvenților învățământului postliceal, aprobată prin Ordinul ministrului educației naționale și al ministrului delegat pentru învățământ superior, cercetare științifică și dezvoltare tehnologică nr. 5.005/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236808",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236808",
+     "sha256": "3b1c861f6f2cbbe8258fb48086f7a93c790a7f52365189b1d06c78b3df9133b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3189-2021",
+   "path": "ordin/educatie/2021/3189",
+   "short": "Ordin educatie nr. 3189/2021",
+   "title": "Ordinul nr. 3.189/2021 pentru modificarea și completarea Metodologiei de evaluare anuală a activității personalului didactic și didactic auxiliar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 6.143/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/237258",
+   "versions": [
+    {
+     "from": "2021-02-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237258",
+     "sha256": "62ab5459e297189afc9d6f5a81ad351ef6848afb8b6e69363b73b467855304e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3199-2021",
+   "path": "ordin/educatie/2021/3199",
+   "short": "Ordin educatie nr. 3199/2021",
+   "title": "Ordinul nr. 3.199/2021 pentru modificarea și completarea Metodologiei-cadru privind organizarea admiterii în ciclurile de studii universitare de licență, de master și de doctorat, aprobată prin Ordinul ministrului educației naționale și cercetării științifice nr. 6.102/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236905",
+   "versions": [
+    {
+     "from": "2021-02-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236905",
+     "sha256": "a9340e70aa6a08e2dcf946cf6750736176441b6e0236acc3d4794498c829b64d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3200-2021",
+   "path": "ordin/educatie/2021/3200",
+   "short": "Ordin educatie nr. 3200/2021",
+   "title": "Ordinul nr. 3.200/2021 pentru modificarea și completarea Metodologiei-cadru de organizare și desfășurare a examenelor de licență/diplomă și disertație, aprobată prin Ordinul ministrului educației naționale și cercetării științifice nr. 6.125/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236906",
+   "versions": [
+    {
+     "from": "2021-02-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236906",
+     "sha256": "c4d85dffa56f628af75b9da0ce6fbbb6d03e485d9357b890d4da746624238944"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3203-2021",
+   "path": "ordin/educatie/2021/3203",
+   "short": "Ordin educatie nr. 3203/2021",
+   "title": "Ordinul nr. 3.203/2021 pentru modificarea Ordinului ministrului educației și cercetării nr. 5.457/2020 privind organizarea și desfășurarea admiterii în învățământul liceal de stat pentru anul școlar 2021-2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236861",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236861",
+     "sha256": "dd63532627d76e7df43d6c885823d0d2302a8c0a34da96498a8e042cfc85fec7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3229-2021",
    "path": "ordin/educatie/2021/3229",
    "short": "Ordin educatie nr. 3229/2021",
@@ -4443,6 +5058,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3337-2021",
+   "path": "ordin/educatie/2021/3337",
+   "short": "Ordin educatie nr. 3337/2021",
+   "title": "Ordinul nr. 3.337/2021 pentru modificarea Ordinului ministrului educației și cercetării nr. 5.449/2020 privind organizarea, desfășurarea și calendarul admiterii în învățământul profesional de stat și în învățământul dual de stat pentru anul școlar 2021-2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238577",
+   "versions": [
+    {
+     "from": "2021-03-03",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238577",
+     "sha256": "4ea94afb0addc61b2caccc109e4d39c237e12151b157839aab5e7bce2be36e78"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3449-2021",
    "path": "ordin/educatie/2021/3449",
    "short": "Ordin educatie nr. 3449/2021",
@@ -4473,6 +5103,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3460-2021",
+   "path": "ordin/educatie/2021/3460",
+   "short": "Ordin educatie nr. 3460/2021",
+   "title": "Ordinul nr. 3.460/2021 pentru modificarea și completarea Normelor metodologice de aplicare a Programului național pilot de tip \"Școala după școală\", pentru elevii până la clasa a VIII-a inclusiv, aprobate prin Ordinul ministrului educației nr. 3.300/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238935",
+   "versions": [
+    {
+     "from": "2021-03-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238935",
+     "sha256": "078cdb7f771f80cce8ddf8667ead489a89e0912019185d8328a16537ecf9ebe2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3462-2021",
    "path": "ordin/educatie/2021/3462",
    "short": "Ordin educatie nr. 3462/2021",
@@ -4484,6 +5129,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239077",
      "sha256": "800b155086d03018c6c24bc0bfc0eb8109f1baa0b86c8d0483422593f7ae9f72"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3499-2021",
+   "path": "ordin/educatie/2021/3499",
+   "short": "Ordin educatie nr. 3499/2021",
+   "title": "Ordinul nr. 3.499/2021 pentru modificarea Ordinului ministrului educației nr. 3.449/2021 privind organizarea simulării evaluării naționale pentru absolvenții clasei a VIII-a și a simulării probelor scrise ale examenului național de bacalaureat, în anul școlar 2020-2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239742",
+   "versions": [
+    {
+     "from": "2021-03-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239742",
+     "sha256": "79822e059dd15190b99e1ef92c724d10cda97f8ae6478fb9485067ed7d45f791"
     }
    ]
   },
@@ -4518,6 +5178,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3558-2021",
+   "path": "ordin/educatie/2021/3558",
+   "short": "Ordin educatie nr. 3558/2021",
+   "title": "Ordinul nr. 3.558/2021 pentru modificarea și completarea Ordinului ministrului educației și cercetării nr. 3.125/2020 privind structura anului școlar 2020-2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/240152",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240152",
+     "sha256": "b41ed9c50af498fbac2b089cbc02eabbaf5a53e1d8346d05af2ea0f85aa55e3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3563-2021",
+   "path": "ordin/educatie/2021/3563",
+   "short": "Ordin educatie nr. 3563/2021",
+   "title": "Ordinul nr. 3.563/2021 pentru modificarea și completarea Regulamentului privind regimul actelor de studii și al documentelor școlare gestionate de unitățile de învățământ preuniversitar, aprobat prin Ordinul ministrului educației naționale și cercetării științifice nr. 3.844/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/240715",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240715",
+     "sha256": "9fe582020afc333e9477afd7220b18e7837fdc8507569c9679d97d72b70da26e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3611-2021",
    "path": "ordin/educatie/2021/3611",
    "short": "Ordin educatie nr. 3611/2021",
@@ -4529,6 +5219,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240448",
      "sha256": "89d608b09588665a0a80521a83c2e95aa341a6efe2f3470ddcfe33ac28d04634"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3647-2021",
+   "path": "ordin/educatie/2021/3647",
+   "short": "Ordin educatie nr. 3647/2021",
+   "title": "Ordinul nr. 3.647/2021 pentru modificarea Ordinului ministrului educației nr. 3.462/2021 privind aprobarea Calendarului de administrare a evaluărilor naționale la finalul claselor a II-a, a IV-a și a VI-a în anul școlar 2020-2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/240924",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/240924",
+     "sha256": "2da9d27d013c87c030d87a8774c87a564a5d0c91d395188ec75d4488fd9d6701"
     }
    ]
   },
@@ -4559,6 +5264,36 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241193",
      "sha256": "b43851b53e0e93f2df9cbb791a821f8d23942204af55b631d8eeec9d24e519f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3663-2021",
+   "path": "ordin/educatie/2021/3663",
+   "short": "Ordin educatie nr. 3663/2021",
+   "title": "Ordinul nr. 3.663/2021 pentru modificarea Ordinului ministrului educației și cercetării nr. 5.460/2020 privind aprobarea Metodologiei de organizare și desfășurare a examenului pentru obținerea atestatului de competență lingvistică pentru absolvenții claselor cu studiu intensiv și bilingv al unei limbi moderne și pentru absolvenții claselor cu predare în limbile minorităților, precum și a atestatului pentru predarea unei limbi moderne la grupe/clase din învățământul preșcolar și primar de către absolvenții claselor cu profil pedagogic, specializarea învățător-educatoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/241892",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241892",
+     "sha256": "9c4ebb51211c93328194b5d16e1b2a3bee57b6bff67060c82cb71e0839bf07e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3665-2021",
+   "path": "ordin/educatie/2021/3665",
+   "short": "Ordin educatie nr. 3665/2021",
+   "title": "Ordinul nr. 3.665/2021 pentru modificarea Ordinului ministrului educației naționale nr. 3.141/2019 privind înființarea, organizarea și funcționarea Comisiei Naționale pentru Desegregare și Incluziune Educațională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/241982",
+   "versions": [
+    {
+     "from": "2021-05-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241982",
+     "sha256": "957af6bb2fdfb2f9bfb177387698fe4195f9c0986b16617f8703715cd8b0f1ec"
     }
    ]
   },
@@ -4608,6 +5343,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3713-2021",
+   "path": "ordin/educatie/2021/3713",
+   "short": "Ordin educatie nr. 3713/2021",
+   "title": "Ordinul nr. 3.713/2021 pentru modificarea și completarea Metodologiei privind formarea continuă a personalului din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.561/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/241614",
+   "versions": [
+    {
+     "from": "2021-04-26",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241614",
+     "sha256": "35d4e9f112433e5dd5edca45bd2b0b111a9ac11552d563d1161cb9404b4c6130"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3723-2021",
    "path": "ordin/educatie/2021/3723",
    "short": "Ordin educatie nr. 3723/2021",
@@ -4619,6 +5369,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241875",
      "sha256": "897ab3625c8b15f3bfeb0268152d6831bd98ee3ad30d053888852fdcf0f9ffe7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3744-2021",
+   "path": "ordin/educatie/2021/3744",
+   "short": "Ordin educatie nr. 3744/2021",
+   "title": "Ordinul nr. 3.744/2021 pentru modificarea și completarea Ordinului ministrului educației și cercetării nr. 5.455/2020 privind organizarea și desfășurarea evaluării naționale pentru absolvenții clasei a VIII-a în anul școlar 2020-2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242136",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242136",
+     "sha256": "2a4e4f1d01f0d9f64cbd5d16e882a7f1a72eab8061123806625e2f1caa230943"
     }
    ]
   },
@@ -4668,6 +5433,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3751-2021",
+   "path": "ordin/educatie/2021/3751",
+   "short": "Ordin educatie nr. 3751/2021",
+   "title": "Ordinul nr. 3.751/2021 privind instituirea unor măsuri pentru organizarea și desfășurarea examenului de certificare a calificării absolvenților învățământului liceal, filiera tehnologică, precum și pentru modificarea Metodologiei de organizare și desfășurare a examenului de certificare a calificării absolvenților învățământului liceal, filiera tehnologică, aprobată prin Ordinul ministrului educației naționale nr. 4.434/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242126",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242126",
+     "sha256": "6cf33c2e309c011e1961d5481a39ce793346049338c3cd4a75c8d6b51cebcc80"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3752-2021",
    "path": "ordin/educatie/2021/3752",
    "short": "Ordin educatie nr. 3752/2021",
@@ -4709,6 +5489,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242872",
      "sha256": "fbb29c57b74675a9268e4fc5b001cc6e94f7a25a088596702d5f97c1834f2a32"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3770-2021",
+   "path": "ordin/educatie/2021/3770",
+   "short": "Ordin educatie nr. 3770/2021",
+   "title": "Ordinul nr. 3.770/2021 pentru modificarea Ordinului ministrului educației și cercetării nr. 5.459/2020 privind aprobarea graficului de desfășurare a examenelor de certificare a calificării profesionale a absolvenților din învățământul profesional și tehnic preuniversitar în anul școlar 2020-2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242151",
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242151",
+     "sha256": "b5ba2fd3a178dc49e1cc789cd547db8ddda900ad85b2c31ce1aaa6540e8ab078"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3775-2021",
+   "path": "ordin/educatie/2021/3775",
+   "short": "Ordin educatie nr. 3775/2021",
+   "title": "Ordinul nr. 3.775/2021 pentru modificarea și completarea Ordinului ministrului educației și cercetării nr. 5.449/2020 privind organizarea, desfășurarea și calendarul admiterii în învățământul profesional de stat și în învățământul dual de stat pentru anul școlar 2021-2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242128",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242128",
+     "sha256": "fd4ab4a0efb68ea1b01c6483b8d8c691825b8e632278ac2f6a81c3f77deacb18"
     }
    ]
   },
@@ -4773,6 +5583,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3852-2021",
+   "path": "ordin/educatie/2021/3852",
+   "short": "Ordin educatie nr. 3852/2021",
+   "title": "Ordinul nr. 3.852/2021 pentru modificarea și completarea Ordinului ministrului educației și cercetării nr. 5.453/2020 privind organizarea și desfășurarea examenului național de bacalaureat - 2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242912",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242912",
+     "sha256": "23f3b51d195f63b6d205604f413559357c9ab840ec413086c6098790548e0aff"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3857-2021",
    "path": "ordin/educatie/2021/3857",
    "short": "Ordin educatie nr. 3857/2021",
@@ -4784,6 +5609,36 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243145",
      "sha256": "a55cf1a92c0a7919247bd8f6d9a1c99bb58ebb4a915179c64a9cfd6489532a1f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3858-2021",
+   "path": "ordin/educatie/2021/3858",
+   "short": "Ordin educatie nr. 3858/2021",
+   "title": "Ordinul nr. 3.858/2021 pentru modificarea Metodologiei de organizare și desfășurare și structura probelor de aptitudini pentru admiterea în liceele vocaționale, prevăzută în anexa nr. 3 la Ordinul ministrului educației și cercetării nr. 5.457/2020 privind organizarea și desfășurarea admiterii în învățământul liceal de stat pentru anul școlar 2021-2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242943",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242943",
+     "sha256": "18566ae716ddf817e34aee34e76a3c0f1a81a2c9c4c891302cf6c076116bf921"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3859-2021",
+   "path": "ordin/educatie/2021/3859",
+   "short": "Ordin educatie nr. 3859/2021",
+   "title": "Ordinul nr. 3.859/2021 privind completarea Metodologiei de organizare și desfășurare a examenului de certificare a calificării absolvenților învățământului liceal, filiera vocațională, aprobată prin Ordinul ministrului educației naționale nr. 4.433/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242953",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/242953",
+     "sha256": "a00b0ba3202dd29386c19a127211f1c286fed70bd62afadc4b92b821cc373731"
     }
    ]
   },
@@ -4818,6 +5673,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3909-2021",
+   "path": "ordin/educatie/2021/3909",
+   "short": "Ordin educatie nr. 3909/2021",
+   "title": "Ordinul nr. 3.909/2021 privind modificarea Metodologiei de selecție a personalului din România pentru posturi didactice din cadrul sistemului școlilor europene, aprobată prin Ordinul ministrului educației naționale nr. 3.475/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243719",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243719",
+     "sha256": "23f239ab490df7cb1f1821768eb97ffcd6391d982f1013b53d618116d28b4f14"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3910-2021",
    "path": "ordin/educatie/2021/3910",
    "short": "Ordin educatie nr. 3910/2021",
@@ -4844,6 +5714,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243314",
      "sha256": "58bb302e54a0fefe18f821dc2879c847744434ec1638db224bf22810335b84fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3994-2021",
+   "path": "ordin/educatie/2021/3994",
+   "short": "Ordin educatie nr. 3994/2021",
+   "title": "Ordinul nr. 3.994/2021 pentru modificarea și completarea Procedurii privind modalitatea de derulare online a activităților de evaluare externă în vederea acordării autorizației de funcționare provizorie și a acreditării, respectiv a activităților de evaluare externă periodică pentru unitățile de învățământ preuniversitar de stat și particular, pe perioada stării de alertă, aprobată prin Ordinul ministrului educației și cercetării nr. 4.488/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243329",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243329",
+     "sha256": "3f28d0ee650ce4eb72cd40704a71012370e0d5cd2e60b2b9c44536b786c8bc6a"
     }
    ]
   },
@@ -4919,6 +5804,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245197",
      "sha256": "6df4d8b320ebb6a77544f59b9dfdc09f2fc9d10f12dee127bf2b9807db926a23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4594-2021",
+   "path": "ordin/educatie/2021/4594",
+   "short": "Ordin educatie nr. 4594/2021",
+   "title": "Ordinul nr. 4.594/2021 privind modificarea Metodologiei-cadru de organizare și înregistrare a programelor postuniversitare de către instituțiile de învățământ superior, aprobată prin Ordinul ministrului educației naționale, interimar, nr. 4.750/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245445",
+   "versions": [
+    {
+     "from": "2021-08-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245445",
+     "sha256": "7c2b5c2532c91078423242e2663362d476a3910ffa7af8f83ad7ebc0c86e6a81"
     }
    ]
   },
@@ -5013,6 +5913,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5195-2021",
+   "path": "ordin/educatie/2021/5195",
+   "short": "Ordin educatie nr. 5195/2021",
+   "title": "Ordinul nr. 5.195/2021 privind modificarea și completarea anexei la Ordinul ministrului educației nr. 4.597/2021 pentru aprobarea Metodologiei privind organizarea și desfășurarea concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246047",
+   "versions": [
+    {
+     "from": "2021-09-06",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246047",
+     "sha256": "020593ab0236bc197d7b79947a9232322e4fd3bfbaf32345f603b7a2f8d367a6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5196-2021",
    "path": "ordin/educatie/2021/5196",
    "short": "Ordin educatie nr. 5196/2021",
@@ -5024,6 +5939,21 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246048",
      "sha256": "6a7960d465f75005a5a68980f0df95073fc7983a76a4638b55da9aa978a27f31"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5215-2021",
+   "path": "ordin/educatie/2021/5215",
+   "short": "Ordin educatie nr. 5215/2021",
+   "title": "Ordinul nr. 5.215/2021 pentru modificarea Ordinului ministrului educației naționale și cercetării științifice nr. 6.156/2016 privind organizarea și desfășurarea anului pregătitor de limbă română pentru cetățenii străini",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246501",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246501",
+     "sha256": "9010d55911d792487263f864775a7b5d2b7e21f887ea7cf96bb0682f672f54d7"
     }
    ]
   },
@@ -5133,6 +6063,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5454-2021",
+   "path": "ordin/educatie/2021/5454",
+   "short": "Ordin educatie nr. 5454/2021",
+   "title": "Ordinul nr. 5.454/2021 pentru modificarea și completarea Metodologiei privind organizarea și desfășurarea concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat, aprobată prin Ordinul ministrului educației nr. 4.597/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247391",
+   "versions": [
+    {
+     "from": "2021-10-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247391",
+     "sha256": "fa8c738e830b2d89be3643385f20b724e9e1831eb6c9113f16d0c95d991c541b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5490-2021",
    "path": "ordin/educatie/2021/5490",
    "short": "Ordin educatie nr. 5490/2021",
@@ -5178,6 +6123,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5505-2021",
+   "path": "ordin/educatie/2021/5505",
+   "short": "Ordin educatie nr. 5505/2021",
+   "title": "Ordinul nr. 5.505/2021 privind modificarea și completarea anexei la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.052/2012 pentru aprobarea Normelor metodologice privind alocarea de fonduri de la bugetul de stat instituțiilor de învățământ superior de stat pentru organizarea și desfășurarea activităților extracurriculare - științifice, tehnice, cultural-artistice și sportive naționale, precum și a celor pentru studenții capabili de performanțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248372",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248372",
+     "sha256": "c256a90a6a537974e94083bb8c632444a82b4b2c3d8140ff3e37844f2251e85c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5511-2021",
    "path": "ordin/educatie/2021/5511",
    "short": "Ordin educatie nr. 5511/2021",
@@ -5219,6 +6179,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248271",
      "sha256": "db2603dcc2cd7b9e87fdef42d6bbd7b6350584b8f30517592248c7e2d63b5a94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5550-2021",
+   "path": "ordin/educatie/2021/5550",
+   "short": "Ordin educatie nr. 5550/2021",
+   "title": "Ordinul nr. 5.550/2021 pentru modificarea Regulamentului-cadru de organizare și funcționare a unităților de învățământ preuniversitar, aprobat prin Ordinul ministrului educației și cercetării nr. 5.447/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248272",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248272",
+     "sha256": "47e88c16e55b822646c86ad7d513d7bdff32e47be600e91a9603d43bac33000b"
     }
    ]
   },
@@ -5283,6 +6258,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5597-2021",
+   "path": "ordin/educatie/2021/5597",
+   "short": "Ordin educatie nr. 5597/2021",
+   "title": "Ordinul nr. 5.597/2021 pentru completarea Ordinului ministrului educației nr. 5.492/2021 privind stabilirea grupului de lucru responsabil de realizarea exercițiului național de metaranking",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248520",
+   "versions": [
+    {
+     "from": "2021-11-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248520",
+     "sha256": "7d82ea0cba50897f3cbb037d603dd11a02ec4bcaea0898f51af48132b457f04c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5606-2021",
    "path": "ordin/educatie/2021/5606",
    "short": "Ordin educatie nr. 5606/2021",
@@ -5309,6 +6299,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248583",
      "sha256": "a3ddf35c59d78936a03c72e92925ac4fa3692000865f3fa08c48ec299dcbf2a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5609-2021",
+   "path": "ordin/educatie/2021/5609",
+   "short": "Ordin educatie nr. 5609/2021",
+   "title": "Ordinul nr. 5.609/2021 pentru modificarea anexei nr. 2 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.219/2010 privind recunoașterea și echivalarea rezultatelor obținute la examene cu recunoaștere internațională pentru certificarea competențelor lingvistice în limbi străine și la examene cu recunoaștere europeană pentru certificarea competențelor digitale cu probele de evaluare a competențelor lingvistice într-o limbă de circulație internațională studiată pe parcursul învățământului liceal, respectiv de evaluare a competențelor digitale, din cadrul examenului de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250387",
+   "versions": [
+    {
+     "from": "2022-01-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250387",
+     "sha256": "f842b24d56309708c524df576774345205b2c372bb6cf929057f3576740f0ce1"
     }
    ]
   },

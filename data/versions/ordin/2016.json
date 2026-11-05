@@ -3,6 +3,51 @@
  "shard": "ordin/2016",
  "acts": [
   {
+   "slug": "ordin-agricultura-1002-2016",
+   "path": "ordin/agricultura/2016/1002",
+   "short": "Ordin agricultura nr. 1002/2016",
+   "title": "Ordinul nr. 1.002/2016 privind aprobarea schemei de ajutor de stat \"Servicii de silvomediu, servicii climatice și conservarea pădurilor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185569",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185569",
+     "sha256": "dd43a567a1e4475282298445db937d7024c4833cfaf3de17678ddd942a5736a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-116-2016",
+   "path": "ordin/agricultura/2016/116",
+   "short": "Ordin agricultura nr. 116/2016",
+   "title": "Ordinul nr. 116/2016 privind aprobarea Regulamentului de organizare și funcționare a Comitetului de selecție și a Comisiei de soluționare a contestațiilor pentru proiectele aferente măsurii 1 \"Acțiuni pentru transferul de cunoștințe și acțiuni de informare\" din Programul Național de Dezvoltare Rurală 2014-2020 (PNDR)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175665",
+   "versions": [
+    {
+     "from": "2016-02-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175665",
+     "sha256": "57eea0d97f8eb5d62ec8b85104bf7db7b91b33cbd7808d43b2fcf9295d1331c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-117-2016",
+   "path": "ordin/agricultura/2016/117",
+   "short": "Ordin agricultura nr. 117/2016",
+   "title": "Ordinul nr. 117/2016 pentru aprobarea Manualului de procedură privind achizițiile publice de servicii de consiliere finanțate prin Măsura 2 \"Servicii de consiliere, servicii de gestionare a fermei și servicii de înlocuire în cadrul fermei\", din cadrul Programului Național de Dezvoltare Rurală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175705",
+   "versions": [
+    {
+     "from": "2016-02-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175705",
+     "sha256": "5a239277cd595bea5172625005730a0589176a78b2c57b47939982fb128dd1d8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-154-2016",
    "path": "ordin/agricultura/2016/154",
    "short": "Ordin agricultura nr. 154/2016",
@@ -33,6 +78,66 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-202-2016",
+   "path": "ordin/agricultura/2016/202",
+   "short": "Ordin agricultura nr. 202/2016",
+   "title": "Ordinul nr. 202/2016 pentru aprobarea nivelului comisioanelor de garantare pentru anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175966",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175966",
+     "sha256": "da305e64fb8e3ed1822bd3ca90eda53c3070184306a6282bded404fa15b27664"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-2066-2016",
+   "path": "ordin/agricultura/2016/2066",
+   "short": "Ordin agricultura nr. 2066/2016",
+   "title": "Ordinul nr. 2.066/2016 privind aprobarea criteriilor de selecție și a modalității de organizare a concursului de ocupare a funcțiilor de atașat agricol din cadrul Ministerului Agriculturii și Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184396",
+   "versions": [
+    {
+     "from": "2016-12-08",
+     "units": 55,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184396",
+     "sha256": "940ed148d47ddb21697c918824c1513b9c1a4bdf887a979608631a0b8dd45d8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-236-2016",
+   "path": "ordin/agricultura/2016/236",
+   "short": "Ordin agricultura nr. 236/2016",
+   "title": "Ordinul nr. 236/2016 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de distilare voluntară a subproduselor vinicole, eligibilă pentru finanțare în cadrul Programului național de sprijin al României în sectorul vitivinicol 2014-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176158",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176158",
+     "sha256": "7d45d7a8751ddaa049fbe145065e408fdb35556617bd08b00b0bfb134c815b4e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-249-2016",
+   "path": "ordin/agricultura/2016/249",
+   "short": "Ordin agricultura nr. 249/2016",
+   "title": "Ordinul nr. 249/2016 privind aprobarea formularului-tip al cererii unice de plată pentru anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176156",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176156",
+     "sha256": "0fae6b5e3bfdb9e954380f49025f8890c059e036e795b5a9fd18be4607e2c1ad"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-284-2016",
    "path": "ordin/agricultura/2016/284",
    "short": "Ordin agricultura nr. 284/2016",
@@ -48,6 +153,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-285-2016",
+   "path": "ordin/agricultura/2016/285",
+   "short": "Ordin agricultura nr. 285/2016",
+   "title": "Ordinul nr. 285/2016 privind aprobarea schemei de ajutor de minimis \"Sprijin pentru servicii de consultanță în vederea implementării proiectelor de investiții, inclusiv în sectorul pomicol, pentru procesarea și marketingul produselor agricole în vederea obținerii de produse neagricole și a produselor din sectorul pomicol\", derulate prin schema de ajutor de stat \"Stimularea dezvoltării regionale prin realizarea de investiții, inclusiv în sectorul pomicol, pentru procesarea și marketingul produselor agricole în vederea obținerii de produse neagricole\", aferentă Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176542",
+   "versions": [
+    {
+     "from": "2016-03-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176542",
+     "sha256": "457fcf2b3fe29d67f60945d76e232ebf92ad64aee9ca05587e2c94f97cad659d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-286-2016",
+   "path": "ordin/agricultura/2016/286",
+   "short": "Ordin agricultura nr. 286/2016",
+   "title": "Ordinul nr. 286/2016 pentru aprobarea cantităților de motorină aferente trimestrului IV al anului 2015, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176536",
+   "versions": [
+    {
+     "from": "2016-03-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176536",
+     "sha256": "4ccea4c1d3d44f273f3efc63894fc0a7e0819156dbccf3432aa07214ef4ea8e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-30-2016",
+   "path": "ordin/agricultura/2016/30",
+   "short": "Ordin agricultura nr. 30/2016",
+   "title": "Ordinul nr. 30/2016 privind aprobarea Manualului de procedură pentru implementarea proiectelor finanțate prin măsura 20 \"Asistență tehnică\" descrisă în capitolul 15.6 din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175053",
+   "versions": [
+    {
+     "from": "2016-01-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175053",
+     "sha256": "1f95ff4e739024aeeea9759a0ea2f6bddece70cf7899f249cd72409f63e8c1de"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-358-2016",
    "path": "ordin/agricultura/2016/358",
    "short": "Ordin agricultura nr. 358/2016",
@@ -59,6 +209,141 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178199",
      "sha256": "cf1caa40a033b91c4771109e48e89b9404e85f4ff89f1012ce2a6fe07e5806e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-359-2016",
+   "path": "ordin/agricultura/2016/359",
+   "short": "Ordin agricultura nr. 359/2016",
+   "title": "Ordinul nr. 359/2016 privind aprobarea Listei cu cheltuielile eligibile, aferente funcționării Rețelei de informații contabile agricole - RICA, și activitățile desfășurate în acest sector conform cerințelor Comisiei Europene, finanțate din Fondul European de Garantare Agricolă - FEGA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177334",
+   "versions": [
+    {
+     "from": "2016-04-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177334",
+     "sha256": "1b4d5bb824e4918a4e3e447d2fc6008ffc50a9503ffd9abba47a30e9b8813c51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-364-2016",
+   "path": "ordin/agricultura/2016/364",
+   "short": "Ordin agricultura nr. 364/2016",
+   "title": "Ordinul nr. 364/2016 pentru aprobarea Normelor privind gestionarea sistemului autorizațiilor de plantare a viței-de-vie pentru struguri de vin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176985",
+   "versions": [
+    {
+     "from": "2016-03-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176985",
+     "sha256": "7f5ec6fc7d34f81ece224b4cecb01f278a8762dbd7c72a06ceb5a1bf3680b1ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-369-2016",
+   "path": "ordin/agricultura/2016/369",
+   "short": "Ordin agricultura nr. 369/2016",
+   "title": "Ordinul nr. 369/2016 privind condițiile de practicare a pescuitului recreativ/sportiv, regulamentul de practicare a pescuitului recreativ/sportiv, precum și modelele permiselor de pescuit recreativ/sportiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177165",
+   "versions": [
+    {
+     "from": "2016-04-05",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177165",
+     "sha256": "56afc0c23b4b890c721a5205482c59fd2a62612708925518ba3642e9573de601"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-377-2016",
+   "path": "ordin/agricultura/2016/377",
+   "short": "Ordin agricultura nr. 377/2016",
+   "title": "Ordinul nr. 377/2016 privind stabilirea indicatorilor pentru realizarea evaluării programului de încurajare a consumului de fructe proaspete în școli aferente perioadei dintre anii școlari 2010-2011 și 2015-2016 și a obligațiilor evaluatorului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177067",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177067",
+     "sha256": "4057bd99020690dbafe92d1060d23e289f494b805f176fc77ebb4cb5d8f3198f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-423-2016",
+   "path": "ordin/agricultura/2016/423",
+   "short": "Ordin agricultura nr. 423/2016",
+   "title": "Ordinul nr. 423/2016 pentru aprobarea Manualului de procedură pentru implementarea Măsurii 20 - \"Asistență tehnică\" și plata contractelor de achiziție publică finanțate prin Măsura 1 - \"Acțiuni pentru transferul de cunoștințe și acțiuni de informare\", Măsura 2 - \"Servicii de consiliere, servicii de gestionare a fermei și servicii de înlocuire în cadrul fermei\" și Măsura 20 - \"Asistență tehnică\" din cadrul PNDR 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177645",
+   "versions": [
+    {
+     "from": "2016-04-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177645",
+     "sha256": "eda35b43de0e01e3146230b22e81d97c0dc498006c67826ebfa8a0d8fed6514c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-431-2016",
+   "path": "ordin/agricultura/2016/431",
+   "short": "Ordin agricultura nr. 431/2016",
+   "title": "Ordinul nr. 431/2016 privind aprobarea sistemelor de sancțiuni pentru măsurile 10 \"Agromediu și climă\", 11 \"Agricultura ecologică\" și 13 \"Plăți pentru zone care se confruntă cu constrângeri naturale sau cu alte constrângeri specifice\" prevăzute în Programul Național de Dezvoltare Rurală 2014-2020 și pentru măsura 214 \"Plăți de agromediu\" prevăzută în Programul Național de Dezvoltare Rurală 2007-2013, aferente cererilor de plată depuse începând cu anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177594",
+   "versions": [
+    {
+     "from": "2016-04-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177594",
+     "sha256": "55ccb9697bff0d44233b591f9bcbda63fee58749eba3cdb9bd8f86552182bb9f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-440-2016",
+   "path": "ordin/agricultura/2016/440",
+   "short": "Ordin agricultura nr. 440/2016",
+   "title": "Ordinul nr. 440/2016 pentru aprobarea cantităților de motorină determinate la plată, utilizate și nedecontate în anul 2015, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177186",
+   "versions": [
+    {
+     "from": "2016-04-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177186",
+     "sha256": "7c37150c65feadee7404aa62377e7843b0ca7b47fe39793fb63a462196c1c0e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-476-2016",
+   "path": "ordin/agricultura/2016/476",
+   "short": "Ordin agricultura nr. 476/2016",
+   "title": "Ordinul nr. 476/2016 privind sistemul de sancțiuni aplicabil schemelor de plăți directe și ajutoarelor naționale tranzitorii în sectoarele vegetal și zootehnic, aferente cererilor unice de plată depuse la Agenția de Plăți și Intervenție pentru Agricultură, începând cu anul de cerere 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177316",
+   "versions": [
+    {
+     "from": "2016-04-07",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177316",
+     "sha256": "d3c17af4a8467fa3b410ee1a1bbba6a88a91a841c36124598da936c4bc4e1f03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-483-2016",
+   "path": "ordin/agricultura/2016/483",
+   "short": "Ordin agricultura nr. 483/2016",
+   "title": "Ordinul nr. 483/2016 pentru aprobarea Manualului de procedură privind efectuarea controlului pe teren pentru cererile unice de plată aferente măsurii 10, pachetul 8 \"Creșterea animalelor de fermă din rase locale în pericol de abandon\" din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177566",
+   "versions": [
+    {
+     "from": "2016-04-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177566",
+     "sha256": "ea82d94102a885f3ba36eacfd4cdb45a138e4534e6e98e97f6fa8cfba3eeb90b"
     }
    ]
   },
@@ -93,6 +378,141 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-548-2016",
+   "path": "ordin/agricultura/2016/548",
+   "short": "Ordin agricultura nr. 548/2016",
+   "title": "Ordinul nr. 548/2016 privind autorizarea operatorilor economici care desfășoară activități de distilare voluntară a subproduselor vinicole, măsură eligibilă pentru finanțare în cadrul Programului național de sprijin al României în sectorul vitivinicol 2014-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177538",
+   "versions": [
+    {
+     "from": "2016-04-14",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177538",
+     "sha256": "9711b19cc50723532ddbd520d39c02ac6812518efd6e236b4faa39981b12ce20"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-772-2016",
+   "path": "ordin/agricultura/2016/772",
+   "short": "Ordin agricultura nr. 772/2016",
+   "title": "Ordinul nr. 772/2016 privind cerințele referitoare la etichetarea, sigilarea și ambalarea materialului de înmulțire și plantare fructifer destinat producției de fructe, care intră în domeniul de aplicare al Directivei 2008/90/CE a Consiliului din 29 septembrie 2008 privind comercializarea materialului de înmulțire și plantare fructifer destinat producției de fructe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178757",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178757",
+     "sha256": "6bc06fa36607742500493a84a4356e20712aea4c94fbbd9fdfd4c982aef11c85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-782-2016",
+   "path": "ordin/agricultura/2016/782",
+   "short": "Ordin agricultura nr. 782/2016",
+   "title": "Ordinul nr. 782/2016 privind nominalizarea punctelor de debarcare și centrelor de primă vânzare autorizate pentru pescuitul comercial în Delta Dunării pe anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177970",
+   "versions": [
+    {
+     "from": "2016-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177970",
+     "sha256": "23313c088897b2842135ebc14c91d6a07511109c1c2e58e115558df124a1229d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-784-2016",
+   "path": "ordin/agricultura/2016/784",
+   "short": "Ordin agricultura nr. 784/2016",
+   "title": "Ordinul nr. 784/2016 privind cerințele specifice pentru genurile și speciile de plante fructifere menționate în anexa I la Directiva 2008/90/CE a Consiliului din 29 septembrie 2008 privind comercializarea materialului de înmulțire și plantare fructifer destinat producției de fructe, cerințele specifice pe care trebuie să le îndeplinească furnizorii și normele detaliate privind inspecțiile oficiale care intră în domeniul de aplicare al Directivei 2008/90/CE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178856",
+   "versions": [
+    {
+     "from": "2016-05-31",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178856",
+     "sha256": "5b7ce6e61a7d29971ff9348ca9b1ba794514caaf1a74a91e209750dc2499ddbe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-802-2016",
+   "path": "ordin/agricultura/2016/802",
+   "short": "Ordin agricultura nr. 802/2016",
+   "title": "Ordinul nr. 802/2016 privind recunoașterea Acordului interprofesional pentru sfecla de zahăr - recolta anului de comercializare 2016/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178382",
+   "versions": [
+    {
+     "from": "2016-05-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178382",
+     "sha256": "65615fdbe05264e49d68ba15665139d1de04d577b6100236850161c324d02008"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-807-2016",
+   "path": "ordin/agricultura/2016/807",
+   "short": "Ordin agricultura nr. 807/2016",
+   "title": "Ordinul nr. 807/2016 pentru aprobarea Normelor privind accesul la resursele acvatice vii din domeniul public al statului în vederea practicării pescuitului comercial în habitatele piscicole naturale, cu excepția ariilor naturale protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178644",
+   "versions": [
+    {
+     "from": "2016-05-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178644",
+     "sha256": "b6c571410743caffa1132f5ca50b93966aa3adbd0184fb39db9cd992c057412c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-816-2016",
+   "path": "ordin/agricultura/2016/816",
+   "short": "Ordin agricultura nr. 816/2016",
+   "title": "Ordinul nr. 816/2016 privind aprobarea Listei detaliate a cheltuielilor eligibile pentru operațiunile finanțate, inclusiv cheltuielile de personal ale Autorității de management, în cadrul Programului operațional pentru pescuit și afaceri maritime 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178769",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178769",
+     "sha256": "0bb36bd6dd20af4d2be3c615f5a7ae740acbec83f017b146ad316b164fa69620"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-819-2016",
+   "path": "ordin/agricultura/2016/819",
+   "short": "Ordin agricultura nr. 819/2016",
+   "title": "Ordinul nr. 819/2016 pentru aprobarea cantităților de motorină determinate la plată de către Agenția de Plăți și Intervenție pentru Agricultură, aferente perioadei 1 ianuarie 2016-31 martie 2016, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178930",
+   "versions": [
+    {
+     "from": "2016-06-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178930",
+     "sha256": "3cb4f5c333c3ddbed7e06426b77b2a38f3b013ebb392c528a8d640d3b74cf781"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-820-2016",
+   "path": "ordin/agricultura/2016/820",
+   "short": "Ordin agricultura nr. 820/2016",
+   "title": "Ordinul nr. 820/2016 privind desemnarea organismului de inspecție a echipamentelor de aplicare a produselor de protecție a plantelor de uz profesional și responsabilitățile acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179518",
+   "versions": [
+    {
+     "from": "2016-06-28",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179518",
+     "sha256": "2a1d3259efb2e477612ab8348db9788db09a0e2a75105ff13ec54ef278fd0bd9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-824-2016",
    "path": "ordin/agricultura/2016/824",
    "short": "Ordin agricultura nr. 824/2016",
@@ -104,6 +524,246 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179300",
      "sha256": "4a3228a06223ac50cb957d59f54c33ed50e1805c4e94efc69b4c313928dfef55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-826-2016",
+   "path": "ordin/agricultura/2016/826",
+   "short": "Ordin agricultura nr. 826/2016",
+   "title": "Ordinul nr. 826/2016 pentru aprobarea modelului cererilor de plată, precum și a modelului formularelor de accesare a clauzei de revizuire a angajamentelor încheiate în cadrul măsurii 215 - Plăți în favoarea bunăstării animalelor - pachetul a) porcine și pachetul b) păsări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179123",
+   "versions": [
+    {
+     "from": "2016-06-10",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179123",
+     "sha256": "70a67edfd08fc5844b58c42e90cdf8e084d6a5e2378b1d6a4b093f547d3c550a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-829-2016",
+   "path": "ordin/agricultura/2016/829",
+   "short": "Ordin agricultura nr. 829/2016",
+   "title": "Ordinul nr. 829/2016 privind aprobarea Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179689",
+   "versions": [
+    {
+     "from": "2016-07-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179689",
+     "sha256": "f868383051ee6bc7d1794f08294329d67b3bdf040a69da6d9d8f22c235877b15"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-832-2016",
+   "path": "ordin/agricultura/2016/832",
+   "short": "Ordin agricultura nr. 832/2016",
+   "title": "Ordinul nr. 832/2016 privind aprobarea componenței Comisiei pentru analiza solicitărilor pentru acordul prealabil privind plata anuală a cotizațiilor, respectiv a serviciilor lingvistice pentru organizațiile profesionale/interprofesionale neguvernamentale din sectorul agricol și agroalimentar, a regulamentului de organizare și funcționare a acesteia, a procedurilor specifice de implementare și control, precum și formularistica necesară aplicării schemei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179361",
+   "versions": [
+    {
+     "from": "2016-06-22",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179361",
+     "sha256": "1ba8f0d2ee03c6e36f78b319b5aed294e949f36f6b6ea4a9e2ac594aa1650d38"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-837-2016",
+   "path": "ordin/agricultura/2016/837",
+   "short": "Ordin agricultura nr. 837/2016",
+   "title": "Ordinul nr. 837/2016 privind aprobarea tarifelor pentru efectuarea inspecțiilor fitosanitare din domeniul protecției plantelor și carantinei fitosanitare și pentru controlul comercializării și utilizării produselor de protecție a plantelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/179788",
+   "versions": [
+    {
+     "from": "2016-08-05",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179788",
+     "sha256": "e91a330723e804002f8178c4a9a3756ed234f9c759db5197624f417d9716b6b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-857-2016",
+   "path": "ordin/agricultura/2016/857",
+   "short": "Ordin agricultura nr. 857/2016",
+   "title": "Ordinul nr. 857/2016 privind aprobarea schemei de ajutor de stat \"Sprijin pentru prima împădurire și crearea de suprafețe împădurite\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180451",
+   "versions": [
+    {
+     "from": "2016-07-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180451",
+     "sha256": "3eff73fd04ce186c0f120590c12d3cc0e46cc71b83d5cc696e58e8b2bda259cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-864-2016",
+   "path": "ordin/agricultura/2016/864",
+   "short": "Ordin agricultura nr. 864/2016",
+   "title": "Ordinul nr. 864/2016 privind aprobarea Procedurii de verificare a documentației pentru înregistrarea unei indicații geografice și dobândirea protecției băuturilor spirtoase, a Procedurii de declarare a opoziției la nivel național și a Procedurii de transmitere la nivelul Comisiei Europene a cererii de înregistrare a indicației geografice a băuturilor spirtoase, în vederea dobândirii protecției la nivelul Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180459",
+   "versions": [
+    {
+     "from": "2016-07-27",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180459",
+     "sha256": "2d33ef986d4ee8120a4ed7077798bf7dfd6364cb31e4015ff75f960851e65d2c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-867-2016",
+   "path": "ordin/agricultura/2016/867",
+   "short": "Ordin agricultura nr. 867/2016",
+   "title": "Ordinul nr. 867/2016 privind condițiile de acordare a autorizației speciale de pescuit în scop științific",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180824",
+   "versions": [
+    {
+     "from": "2016-08-10",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180824",
+     "sha256": "f225ee300ac9f8bf79d6992949a94ab0a7052069c398d46af4d37f923d8c9355"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-877-2016",
+   "path": "ordin/agricultura/2016/877",
+   "short": "Ordin agricultura nr. 877/2016",
+   "title": "Ordinul nr. 877/2016 privind aprobarea schemei de ajutor de stat \"Sprijin acordat întreprinderilor pentru investiții necesare dezvoltării, modernizării sau adaptării infrastructurii silvice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180680",
+   "versions": [
+    {
+     "from": "2016-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180680",
+     "sha256": "6e383a9a2ef4ed5b40b7014de38058c9062ecfc52db527885a97f97937bfe03c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-884-2016",
+   "path": "ordin/agricultura/2016/884",
+   "short": "Ordin agricultura nr. 884/2016",
+   "title": "Ordinul nr. 884/2016 privind înregistrarea furnizorilor și a soiurilor și lista comună a soiurilor care intră în domeniul de aplicare al Directivei 2008/90/CE a Consiliului din 29 septembrie 2008 privind comercializarea materialului de înmulțire și plantare fructifer destinat producției de fructe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181035",
+   "versions": [
+    {
+     "from": "2016-08-19",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181035",
+     "sha256": "8ce78209636363f75b6bd895ca63fb76071c56d546c8d61565ace7d813892701"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-895-2016",
+   "path": "ordin/agricultura/2016/895",
+   "short": "Ordin agricultura nr. 895/2016",
+   "title": "Ordinul nr. 895/2016 pentru aprobarea regulilor privind organizarea sistemului de inspecție și certificare, de aprobare a organismelor de inspecție și certificare/organismelor de control și de supraveghere a activității organismelor de control, în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181300",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181300",
+     "sha256": "2aba6cc2ba5b75f82615a5a1cfe7d030431f5860662c607e4e882ca6c5be1d4d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-903-2016",
+   "path": "ordin/agricultura/2016/903",
+   "short": "Ordin agricultura nr. 903/2016",
+   "title": "Ordinul nr. 903/2016 pentru aprobarea Procedurilor de control și verificare în vederea certificării vinurilor varietale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181382",
+   "versions": [
+    {
+     "from": "2016-09-01",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181382",
+     "sha256": "f2847dbf7bdb9ab459427c521bccc702b6f31da4a5f00dbed8069478fd7a20ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-905-2016",
+   "path": "ordin/agricultura/2016/905",
+   "short": "Ordin agricultura nr. 905/2016",
+   "title": "Ordinul nr. 905/2016 privind aprobarea sistemului de sancțiuni pentru cererile depuse de beneficiarii măsurii 215 \"Plăți privind bunăstarea animalelor - pachetul a) - porcine și pachetul b) - păsări\" din cadrul Programului Național de Dezvoltare Rurală 2007-2013 în conformitate cu prevederile art. 44 din Regulamentul delegat (UE) nr. 640/2014 al Comisiei din 11 martie 2014 de completare a Regulamentului (UE) nr. 1.306/2013 al Parlamentului European și al Consiliului în ceea ce privește Sistemul Integrat de Administrare și Control și condițiile pentru refuzarea sau retragerea plăților și pentru sancțiunile administrative aplicabile în cazul plăților directe, al sprijinului pentru dezvoltare rurală și al ecocondiționalității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181721",
+   "versions": [
+    {
+     "from": "2016-09-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181721",
+     "sha256": "de0445840d1ef065420e11b296e23415777e9f01f9eebf135d999b2b4dd222a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-909-2016",
+   "path": "ordin/agricultura/2016/909",
+   "short": "Ordin agricultura nr. 909/2016",
+   "title": "Ordinul nr. 909/2016 pentru stabilirea unor măsuri de sprijin excepționale cu caracter temporar pentru producătorii din sectorul fructe și legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181867",
+   "versions": [
+    {
+     "from": "2016-09-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181867",
+     "sha256": "443b568b036128ec556b42ef524aa5c73c76685bc4e4d1152ae98f8b3709f349"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-910-2016",
+   "path": "ordin/agricultura/2016/910",
+   "short": "Ordin agricultura nr. 910/2016",
+   "title": "Ordinul nr. 910/2016 privind recunoașterea Acordului interprofesional pentru struguri de vin, vin și produse pe bază de vin, recolta anului de comercializare 2016/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181899",
+   "versions": [
+    {
+     "from": "2016-09-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181899",
+     "sha256": "57259ecfa43d5ff722d23aa2bb4a42ebd3b951c2a1d8fffb7837163eb0614df5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-911-2016",
+   "path": "ordin/agricultura/2016/911",
+   "short": "Ordin agricultura nr. 911/2016",
+   "title": "Ordinul nr. 911/2016 privind aprobarea unor ajutoare pentru reducerea producției de lapte, precum și a modului de acordare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181776",
+   "versions": [
+    {
+     "from": "2016-09-19",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181776",
+     "sha256": "3f1644113732b7d3fba9cf47615cfb57cc745bd9e3a9f3f098d1de80249256f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-914-2016",
+   "path": "ordin/agricultura/2016/914",
+   "short": "Ordin agricultura nr. 914/2016",
+   "title": "Ordinul nr. 914/2016 privind aprobarea Schemei selecției clonale la soiurile de viță-de-vie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181933",
+   "versions": [
+    {
+     "from": "2016-09-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181933",
+     "sha256": "b9a0f35a0c9109fcd36868e0a0172646cf5508d93e3ccd7826a37442dacf7b80"
     }
    ]
   },
@@ -123,6 +783,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-934-2016",
+   "path": "ordin/agricultura/2016/934",
+   "short": "Ordin agricultura nr. 934/2016",
+   "title": "Ordinul nr. 934/2016 pentru aprobarea cantităților de motorină determinate la plată de către Agenția de Plăți și Intervenție pentru Agricultură, aferente perioadei 1 aprilie 2016-30 iunie 2016, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182650",
+   "versions": [
+    {
+     "from": "2016-10-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182650",
+     "sha256": "1b392c320b44cff8fa065845a9500e51d0f62a0eaa75d302f07a866597bcc29a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-966-2016",
+   "path": "ordin/agricultura/2016/966",
+   "short": "Ordin agricultura nr. 966/2016",
+   "title": "Ordinul nr. 966/2016 pentru aprobarea Normelor metodologice privind atestarea de către Ministerul Agriculturii și Dezvoltării Rurale a persoanelor fizice și juridice care își manifestă intenția de a efectua studii privind calitatea solului, altele decât cele prevăzute la art. 3 din Ordonanța de urgență a Guvernului nr. 38/2002 privind întocmirea și finanțarea studiilor pedologice și agrochimice și finanțarea Sistemului național de monitorizare sol-teren pentru agricultură, precum și sol-vegetație forestieră pentru silvicultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183508",
+   "versions": [
+    {
+     "from": "2016-11-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183508",
+     "sha256": "544be5f21f9aa2e228f0cbefe5d2a4bf208b8bdc502985c7d0edcbb6d4ee9a25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-974-2016",
+   "path": "ordin/agricultura/2016/974",
+   "short": "Ordin agricultura nr. 974/2016",
+   "title": "Ordinul nr. 974/2016 pentru aprobarea ghidurilor solicitantului aferente măsurilor I.6, I.23, II.2 și IV.4 din Programul operațional pentru pescuit și afaceri maritime 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184637",
+   "versions": [
+    {
+     "from": "2016-12-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184637",
+     "sha256": "e09473ac85cbf93de8f4afa1a5fdc08ff44c0de1850943f35c8f84277262ccf1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-986-2016",
    "path": "ordin/agricultura/2016/986",
    "short": "Ordin agricultura nr. 986/2016",
@@ -134,6 +839,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185157",
      "sha256": "491e771d053fc210b894b7d8ef7af19e23cf1890f475d494bdb3caa72dd77b0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-994-2016",
+   "path": "ordin/agricultura/2016/994",
+   "short": "Ordin agricultura nr. 994/2016",
+   "title": "Ordinul nr. 994/2016 privind actualizarea Băncii naționale de date analitice pentru fiecare an de producție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184631",
+   "versions": [
+    {
+     "from": "2016-12-14",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184631",
+     "sha256": "442313a4dadf068b4afba70fbad7b97abe4cb5845d1050e66464fcbeebce8050"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-999-2016",
+   "path": "ordin/agricultura/2016/999",
+   "short": "Ordin agricultura nr. 999/2016",
+   "title": "Ordinul nr. 999/2016 privind aprobarea sistemului de sancțiuni administrative pentru ecocondiționalitate aplicabil schemelor și măsurilor de sprijin pentru fermieri începând cu anul 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185098",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185098",
+     "sha256": "d42f3bbf1b1cd4c8297710d71af7354bcb53688989d9461c0b8749474efdbba6"
     }
    ]
   },
@@ -4923,6 +5658,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3019-2016",
+   "path": "ordin/educatie/2016/3019",
+   "short": "Ordin educatie nr. 3019/2016",
+   "title": "Ordinul nr. 3.019/2016 privind modificarea anexei nr. 1 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.644/2012 privind unele măsuri de organizare și funcționare a Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174886",
+   "versions": [
+    {
+     "from": "2016-01-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174886",
+     "sha256": "d2c90e69d2c500a67180458c7777ade041491f01bfe15a36a1314e60edd39835"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3048-2016",
    "path": "ordin/educatie/2016/3048",
    "short": "Ordin educatie nr. 3048/2016",
@@ -4994,6 +5744,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175409",
      "sha256": "759adfe9c2696112a9fb40ab5e601a0f900596fbf943f56476f99fb9a41e9dfa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3099-2016",
+   "path": "ordin/educatie/2016/3099",
+   "short": "Ordin educatie nr. 3099/2016",
+   "title": "Ordinul nr. 3.099/2016 pentru modificarea Metodologiei de organizare, desfășurare și finalizare a programului special de revalorizare a formării inițiale de asistent medical generalist, dobândită anterior datei de 1 ianuarie 2007, pentru absolvenții învățământului postliceal sanitar, aprobată prin Ordinul ministrului educației naționale nr. 5.114/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178573",
+   "versions": [
+    {
+     "from": "2016-05-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178573",
+     "sha256": "bdc163d96e4c58ec9f066ed6d01f2e71c9e794738732adf2ad5290435b1e29f7"
     }
    ]
   },
@@ -5088,6 +5853,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3540-2016",
+   "path": "ordin/educatie/2016/3540",
+   "short": "Ordin educatie nr. 3540/2016",
+   "title": "Ordinul nr. 3.540/2016 privind modificarea și completarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea funcțiilor de inspector școlar general, inspector școlar general adjunct din inspectoratele școlare și de director al casei corpului didactic, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.557/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177310",
+   "versions": [
+    {
+     "from": "2016-04-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177310",
+     "sha256": "397cb01c52f14a5d49cae8841b00dbcffd126f112ed7653b276b470aa2a62998"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3549-2016",
    "path": "ordin/educatie/2016/3549",
    "short": "Ordin educatie nr. 3549/2016",
@@ -5163,6 +5943,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3637-2016",
+   "path": "ordin/educatie/2016/3637",
+   "short": "Ordin educatie nr. 3637/2016",
+   "title": "Ordinul nr. 3.637/2016 pentru modificarea anexei la Ordinul ministrului educației naționale nr. 3.060/2014 privind aprobarea Condițiilor de organizare a taberelor, excursiilor, expedițiilor și a altor activități de timp liber în sistemul de învățământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177563",
+   "versions": [
+    {
+     "from": "2016-04-14",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177563",
+     "sha256": "ebcd7a9b9906d8426efb16399800638cb407265baedc855a92dc49116fb9e02f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3647-2016",
    "path": "ordin/educatie/2016/3647",
    "short": "Ordin educatie nr. 3647/2016",
@@ -5174,6 +5969,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177685",
      "sha256": "8cac19bfd6087133a84f1050909a4fe1c8d443ad7e8b446291c22b60ebe3ee8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3682-2016",
+   "path": "ordin/educatie/2016/3682",
+   "short": "Ordin educatie nr. 3682/2016",
+   "title": "Ordinul nr. 3.682/2016 pentru modificarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 5.219/2010 privind recunoașterea și echivalarea rezultatelor obținute la examene cu recunoaștere internațională pentru certificarea competențelor lingvistice în limbi străine și la examene cu recunoaștere europeană pentru certificarea competențelor digitale cu probele de evaluare a competențelor lingvistice într-o limbă de circulație internațională studiată pe parcursul învățământului liceal, respectiv de evaluare a competențelor digitale, din cadrul examenului de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178195",
+   "versions": [
+    {
+     "from": "2016-05-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178195",
+     "sha256": "f046df5a731ec0219e49ff32cd6078f3fbfa1695d826c8bb3231efb5a8ad3f93"
     }
    ]
   },
@@ -5313,6 +6123,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4576-2016",
+   "path": "ordin/educatie/2016/4576",
+   "short": "Ordin educatie nr. 4576/2016",
+   "title": "Ordinul nr. 4.576/2016 pentru completarea art. 9 din Metodologia de organizare și desfășurare a probelor specifice din cadrul examenului de bacalaureat, susținute de absolvenții secțiilor bilingve româno-spaniole, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.756/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180524",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180524",
+     "sha256": "856a7e431d0a597e18a8b2c131da05bf814e3be3399ceedd334415a3b1145678"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4742-2016",
    "path": "ordin/educatie/2016/4742",
    "short": "Ordin educatie nr. 4742/2016",
@@ -5399,6 +6224,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181766",
      "sha256": "44c3e8d4e3d25342ba2eadfcd1ab71231247631ea482d2f2de2647c898641d31"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5005-2016",
+   "path": "ordin/educatie/2016/5005",
+   "short": "Ordin educatie nr. 5005/2016",
+   "title": "Ordinul nr. 5.005/2016 privind modificarea Normelor metodologice de organizare și funcționare a programelor de conversie profesională a cadrelor didactice din învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181356",
+   "versions": [
+    {
+     "from": "2016-09-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181356",
+     "sha256": "04acb8d4c6c6ab951e08e429df7bebf47eae2dc23f896cf2d079358e2d695383"
     }
    ]
   },
@@ -5643,6 +6483,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5381-2016",
+   "path": "ordin/educatie/2016/5381",
+   "short": "Ordin educatie nr. 5381/2016",
+   "title": "Ordinul nr. 5.381/2016 pentru modificarea Regulamentului de organizare și funcționare al Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare, aprobat prin Ordinul ministrului educației naționale și cercetării științifice nr. 3.482/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182379",
+   "versions": [
+    {
+     "from": "2016-10-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182379",
+     "sha256": "660e9855eb12acf37108a9714f3a4895201797b160f7ad53db151f81f2d9847f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5382-2016",
    "path": "ordin/educatie/2016/5382",
    "short": "Ordin educatie nr. 5382/2016",
@@ -5658,6 +6513,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5386-2016",
+   "path": "ordin/educatie/2016/5386",
+   "short": "Ordin educatie nr. 5386/2016",
+   "title": "Ordinul nr. 5.386/2016 pentru modificarea și completarea Metodologiei privind formarea continuă a personalului din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.561/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184183",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184183",
+     "sha256": "b3e475af901b5458749a7c25c869655cde00127ac69136c0a28b665f06bdf5f4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5414-2016",
    "path": "ordin/educatie/2016/5414",
    "short": "Ordin educatie nr. 5414/2016",
@@ -5669,6 +6539,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182874",
      "sha256": "6b004abe998abb66b57b224b2008895452c44f2e8bb342f3b6bb8a8f5875ab9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5435-2016",
+   "path": "ordin/educatie/2016/5435",
+   "short": "Ordin educatie nr. 5435/2016",
+   "title": "Ordinul nr. 5.435/2016 pentru modificarea anexei la Ordinul ministrului educației și cercetării științifice nr. 5.613/2015 privind aprobarea modelului certificatului de absolvire utilizat la finalizarea programelor de educație permanentă de nivel postuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183433",
+   "versions": [
+    {
+     "from": "2016-11-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183433",
+     "sha256": "b8e6e6e156ad685f79a9c787e4244a695d46d0a334dfe096fb5f3f59df162da6"
     }
    ]
   },
@@ -5763,6 +6648,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5773-2016",
+   "path": "ordin/educatie/2016/5773",
+   "short": "Ordin educatie nr. 5773/2016",
+   "title": "Ordinul nr. 5.773/2016 privind modificarea Regulamentului de organizare și funcționare a Consiliului Național pentru Finanțarea Învățământului Superior, aprobat prin Ordinul ministrului educației și cercetării științifice nr. 4.403/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183985",
+   "versions": [
+    {
+     "from": "2016-11-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183985",
+     "sha256": "ed7f7f03c1898d157e0005e32d43c3cc7aab9b3ab8dd85650d32cf92b3b915a0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5777-2016",
    "path": "ordin/educatie/2016/5777",
    "short": "Ordin educatie nr. 5777/2016",
@@ -5804,6 +6704,36 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184567",
      "sha256": "fa8b16719bef5b1523f720eba8c29ba6b753f33ef129128e25a4b3044631041b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5896-2016",
+   "path": "ordin/educatie/2016/5896",
+   "short": "Ordin educatie nr. 5896/2016",
+   "title": "Ordinul nr. 5.896/2016 pentru completarea anexei nr. 1 la Ordinul ministrului educației naționale nr. 5.076/2014 pentru aprobarea Metodologiei privind recrutarea și selecția lectorilor de limba română care urmează să predea cursuri de limbă, literatură, cultură și civilizație românească în universități din străinătate și a Regulamentului privind funcționarea Corpului lectorilor în cadrul Institutului Limbii Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184640",
+   "versions": [
+    {
+     "from": "2016-12-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184640",
+     "sha256": "7b482fbabbdbe7dc14d0d51f5f120d1747c9ac62e163646e3630335636150d31"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5905-2016",
+   "path": "ordin/educatie/2016/5905",
+   "short": "Ordin educatie nr. 5905/2016",
+   "title": "Ordinul nr. 5.905/2016 pentru modificarea anexei nr. 2 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.219/2010 privind recunoașterea și echivalarea rezultatelor obținute la examene cu recunoaștere internațională pentru certificarea competențelor lingvistice în limbi străine și la examene cu recunoaștere europeană pentru certificarea competențelor digitale cu probele de evaluare a competențelor lingvistice într-o limbă de circulație internațională studiată pe parcursul învățământului liceal, respectiv de evaluare a competențelor digitale, din cadrul examenului de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189459",
+   "versions": [
+    {
+     "from": "2017-05-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189459",
+     "sha256": "05ad3574682c83f7eddc4903b4c4773a15c49d45459462df1cf40ccb9aa1c7e0"
     }
    ]
   },
@@ -6191,7 +7121,7 @@
    "versions": [
     {
      "from": "2016-07-29",
-     "units": 30,
+     "units": 34,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180514",
      "sha256": "2a3a62537993a52f866d87a8fae36ad08bbf6cda994def582c0c2a97d22815f8"
     }
@@ -6221,7 +7151,7 @@
    "versions": [
     {
      "from": "2016-07-26",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180429",
      "sha256": "c9d59addd13d07a1990b182c254d35fca5e893bc0a7ed3d4a13fcc4e5b488bfc"
     }
@@ -6371,7 +7301,7 @@
    "versions": [
     {
      "from": "2016-01-08",
-     "units": 7,
+     "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174716",
      "sha256": "319abce25bf9eed4a39b7b25403698be4e208fc3d11b9f0d2566b9c96eecacd9"
     }
@@ -6461,7 +7391,7 @@
    "versions": [
     {
      "from": "2016-02-25",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176135",
      "sha256": "05a21a7a104850701fcad13bed70fd5b0c8d0da71a717815dd2405f92eefced2"
     }
@@ -6596,7 +7526,7 @@
    "versions": [
     {
      "from": "2016-07-12",
-     "units": 15,
+     "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180012",
      "sha256": "04aee5bd318e2547289df48212566daf542725d0ac781f8b0be9efe81bef74de"
     }
@@ -6626,7 +7556,7 @@
    "versions": [
     {
      "from": "2016-11-15",
-     "units": 12,
+     "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183596",
      "sha256": "1160205ec378404b5e4c09d2b5fb575028d13da1636f362e09a16854a875e4ad"
     }
@@ -7031,7 +7961,7 @@
    "versions": [
     {
      "from": "2016-01-25",
-     "units": 8,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175249",
      "sha256": "542f0e62bd6e48dfeb63bd4a038aaba5ec024ff91e4946020f030f76925dd5d7"
     }
@@ -7121,7 +8051,7 @@
    "versions": [
     {
      "from": "2016-02-02",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175460",
      "sha256": "3dbf0eace2c559987a84a464bcf7e067d2c3a75fe5349b93a074b09902efc85d"
     }
@@ -7166,7 +8096,7 @@
    "versions": [
     {
      "from": "2016-01-26",
-     "units": 12,
+     "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175293",
      "sha256": "dc406fb691b7c1b3debacb560c297a706064ef6f1da0139cc3db714e6e652346"
     }
@@ -7721,7 +8651,7 @@
    "versions": [
     {
      "from": "2016-12-27",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185111",
      "sha256": "f8041fbe12e90da52bac058c62c77da72f8dd71f2e59a9fc9f4add25a618de0a"
     }
@@ -7976,7 +8906,7 @@
    "versions": [
     {
      "from": "2016-03-23",
-     "units": 34,
+     "units": 36,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176795",
      "sha256": "83fe02904697e65d637e8a8d217f4d8729f25902668eef39083345611d79aa21"
     }
@@ -8471,7 +9401,7 @@
    "versions": [
     {
      "from": "2016-07-06",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179777",
      "sha256": "3cb7cbf22cbe5ff1621ea92c396ff2de7e5ffeacb8e2451bd8c8ebe6b9a9651e"
     }
@@ -8606,7 +9536,7 @@
    "versions": [
     {
      "from": "2016-10-18",
-     "units": 4,
+     "units": 36,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182702",
      "sha256": "7dad0e4fa6602af4f3a0d7ba4d72ecaac023ed429a4130147f5beca11e9a0bbc"
     }
@@ -8621,7 +9551,7 @@
    "versions": [
     {
      "from": "2016-10-19",
-     "units": 4,
+     "units": 36,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182742",
      "sha256": "7105e95db9b14e7ed1edfb0412f87bf4b11c1227a663c6de6dc8962bddaa35f6"
     }
@@ -8636,7 +9566,7 @@
    "versions": [
     {
      "from": "2016-10-20",
-     "units": 4,
+     "units": 36,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182748",
      "sha256": "3c01fc096b054d97d0e7cd7cb20eec247afc0e119031c43604012eec74072a14"
     }
@@ -8666,7 +9596,7 @@
    "versions": [
     {
      "from": "2016-11-21",
-     "units": 13,
+     "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183763",
      "sha256": "b70aa0ddb07b67143a7f60c2501f893d3079e723b64fe8cc97a8f6ecd33882ff"
     }
@@ -8681,7 +9611,7 @@
    "versions": [
     {
      "from": "2016-11-25",
-     "units": 14,
+     "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183996",
      "sha256": "30bc906299a3996cbbf02b6e08041b7748e79dfe4cbbd0a8220856806a52ddb9"
     }
@@ -11786,7 +12716,7 @@
    "versions": [
     {
      "from": "2016-04-12",
-     "units": 20,
+     "units": 32,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177454",
      "sha256": "78c07e4fc55193e71738a3237c4a95ba701a7097fda631308c9673e77280371d"
     }
@@ -12491,7 +13421,7 @@
    "versions": [
     {
      "from": "2016-02-05",
-     "units": 7,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175614",
      "sha256": "fa8f5ac9fb14218803ef6f59a27d8052d3a36b0118885a12cfff121e9274be20"
     }
@@ -12536,7 +13466,7 @@
    "versions": [
     {
      "from": "2016-02-10",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175718",
      "sha256": "9c6ca4f7c88f151bae076fd8d9c496c05da61977cadc7029e8ede6dc32afd6cb"
     }
@@ -12566,7 +13496,7 @@
    "versions": [
     {
      "from": "2016-09-05",
-     "units": 10,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181478",
      "sha256": "7a0bb92b4574181cb0177e0cec9c31dc728503baf947ae8b70b475fb5ffeb8dc"
     }
@@ -12641,7 +13571,7 @@
    "versions": [
     {
      "from": "2016-02-10",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175744",
      "sha256": "f8cb64795c4dcab3b726b681e2572fab968b2dab0973f740728af8eb94bd6da5"
     }
@@ -12686,7 +13616,7 @@
    "versions": [
     {
      "from": "2017-01-04",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185438",
      "sha256": "38b2e6f3faa4eb7b1fbc75d20f338ec2c567394b2c8efe50878b49e85426455c"
     }
@@ -12806,7 +13736,7 @@
    "versions": [
     {
      "from": "2016-06-03",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178976",
      "sha256": "ea0e1473e4c97e257ad73b901b51347088583fd97cf8120431bda925c86b8104"
     }
@@ -12986,7 +13916,7 @@
    "versions": [
     {
      "from": "2016-10-07",
-     "units": 36,
+     "units": 38,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182397",
      "sha256": "e072d469c09bb2d5c78a872a1c885195d2a08bd13768067ef14a09808c05c1d6"
     }
@@ -13181,7 +14111,7 @@
    "versions": [
     {
      "from": "2016-11-22",
-     "units": 13,
+     "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183843",
      "sha256": "ce380fc0ef0e83b25f99a5eeec45daccd249d209e47160a68cccc76cbc7ea5be"
     }
@@ -13421,7 +14351,7 @@
    "versions": [
     {
      "from": "2016-12-21",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184936",
      "sha256": "cae24d2e7ca295f05281f503827dc0bf2e0cd8841a676b537c1eab3b31ebeb78"
     }
@@ -13436,7 +14366,7 @@
    "versions": [
     {
      "from": "2016-02-25",
-     "units": 15,
+     "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176137",
      "sha256": "8c778edb1b6664fa60997cc6523c7931d5bec3d73b658dc14ba837202c49a139"
     }
@@ -13466,7 +14396,7 @@
    "versions": [
     {
      "from": "2016-12-23",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185049",
      "sha256": "79e0d21c0bdef5482e52b696df649e8388d16b9ac5b3263fa3d9b2999dfc323a"
     }
@@ -13496,7 +14426,7 @@
    "versions": [
     {
      "from": "2017-01-09",
-     "units": 9,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185535",
      "sha256": "a488250679dfab2c60bb23fbfbf747cae8380f1a2ee63009bbecfc389ec2a972"
     }
@@ -13511,7 +14441,7 @@
    "versions": [
     {
      "from": "2017-01-03",
-     "units": 18,
+     "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185429",
      "sha256": "0e1d35a8c7e31ff95133d4fd4f9b7c38d5946700548065796b1beed6574399d8"
     }
@@ -13601,7 +14531,7 @@
    "versions": [
     {
      "from": "2016-03-08",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176379",
      "sha256": "8d5195cb4a79c1535e5f6578e2715e6f3c42a750a9208211abbc7c0878352368"
     }
@@ -13661,7 +14591,7 @@
    "versions": [
     {
      "from": "2016-03-25",
-     "units": 6,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176905",
      "sha256": "e28809f5d60e3c6c08a2201af9ec6e836a951284bfd2fb1d2a5b4e81d755e9af"
     }
@@ -13706,7 +14636,7 @@
    "versions": [
     {
      "from": "2016-03-30",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177042",
      "sha256": "3f43136c105f78da321ce31312d05cb6cf4cab4f65234c21b84e7f1f0bedb697"
     }
@@ -13766,7 +14696,7 @@
    "versions": [
     {
      "from": "2016-01-20",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175180",
      "sha256": "8c3000b6d31b65035c32cca010225effd79cb3eeda50b318131c0b527493627f"
     }
@@ -13856,7 +14786,7 @@
    "versions": [
     {
      "from": "2016-05-23",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178688",
      "sha256": "64871afae630b95427ef41e8c2f7711b415c9a06f5ed48a8916fc8d97229280a"
     }
@@ -13991,7 +14921,7 @@
    "versions": [
     {
      "from": "2016-07-01",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179643",
      "sha256": "7154c903f95ae341857cf2761b7dc6320b25e6db3ef2efb702ee68f829e3944d"
     }
@@ -14126,7 +15056,7 @@
    "versions": [
     {
      "from": "2016-08-16",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180898",
      "sha256": "95549a25e7d71491c7fc5cbdcdb557aa41b5aee76eb23d2ef91c3dd812d9bf9d"
     }
@@ -14141,7 +15071,7 @@
    "versions": [
     {
      "from": "2016-08-22",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181061",
      "sha256": "e2262363c4c2590bfc00bb6356f5580776f74d9a6837225c842e46ac2becc14b"
     }
@@ -14186,7 +15116,7 @@
    "versions": [
     {
      "from": "2016-09-02",
-     "units": 18,
+     "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181394",
      "sha256": "550b11238be6576bbc39662b7e29888b505f1999ed0404e63a802bbc2a9a6cd4"
     }

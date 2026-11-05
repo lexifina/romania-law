@@ -11,7 +11,7 @@
    "versions": [
     {
      "from": "2016-01-28",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175361",
      "sha256": "40e1d4b60c288b2ae65f42e5dff21b7e1ee43cf13846ad49393403abebfebf83"
     }
@@ -56,7 +56,7 @@
    "versions": [
     {
      "from": "2016-03-23",
-     "units": 53,
+     "units": 55,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176826",
      "sha256": "e79f4e1479acbfce6c6eda65ddf58260ea86d6fbb298b8a3f0b24707cb1c5317"
     }
@@ -131,7 +131,7 @@
    "versions": [
     {
      "from": "2016-11-28",
-     "units": 6,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184024",
      "sha256": "ede6fae27083c870c8c4d091e6a85918b6a41881d6bc948b21b2ac4bc4db7162"
     }

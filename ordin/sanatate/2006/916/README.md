@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 916/2006 · 1 versions, from 2006-09-06 (latest in force: 2006-09-06) · <https://legislatie.just.ro/Public/DetaliiDocument/74963>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (III SUPRAVEGHEREA EPIDEMIOLOGICĂ A INFECȚIILOR NOSOCOMIALE 1. Considerații generale Supravegherea epidemiologică este activitatea sistematică și/sau continuă ...): it is a table that the official text holds only flattened; Anexa nr. 5 (V METODOLOGIA DE SUPRAVEGHERE ȘI CONTROL AL ACCIDENTELOR CU EXPUNERE LA PRODUSE BIOLOGICE LA PERSONALUL CARE LUCREAZĂ ÎN DOMENIUL SANITAR 1. Justificare: În ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 5 (V METODOLOGIA DE SUPRAVEGHERE ȘI CONTROL AL ACCIDENTELOR CU EXPUNERE LA PRODUSE BIOLOGICE LA PERSONALUL CARE LUCREAZĂ ÎN DOMENIUL SANITAR 1. Justificare: În ...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,6 +20,8 @@ Ordin sanatate nr. 916/2006 · 1 versions, from 2006-09-06 (latest in force: 200
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 
@@ -33,7 +35,7 @@ Act id: `ordin-sanatate-916-2006` (tags `ordin-sanatate-916-2006/<day>`; `python
 - Ordin sanatate nr. 916/2006: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 916/2006: Anexa nr. 1 (I I. Criteriile de definire a infecției nosocomiale Infecția nosocomială (IN) este infecția contractată în unități sanitare cu paturi (de stat și private), care se referă la orice boală infecțioasă ce) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 74963 of the official web service.
 - Ordin sanatate nr. 916/2006: Anexa nr. 2 (II DEFINIȚIILE DE CAZ PENTRU INFECȚIILE NOSOCOMIALE: Grupele de Infecții Nosocomîale cu frecvență crescută) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 74963 of the official web service.
+- Ordin sanatate nr. 916/2006: Anexa nr. 3 (III SUPRAVEGHEREA EPIDEMIOLOGICĂ A INFECȚIILOR NOSOCOMIALE 1. Considerații generale Supravegherea epidemiologică este activitatea sistematică și/sau continuă de colectare, analiză, prelucrare, interpr) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 74963 of the official web service.
 - Ordin sanatate nr. 916/2006: Anexa nr. 4 (IV PRECAUTIUNI UNIVERSALE (PU) SCOPUL aplicării PU: prevenirea transmiterii infecțiilor cu cale de transmitere sanguină, la locul de muncă al personalului. CONCEPTUL de PU se referă la: - măsurile car) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 74963 of the official web service.
-- Ordin sanatate nr. 916/2006: Anexa nr. 3 (III SUPRAVEGHEREA EPIDEMIOLOGICĂ A INFECȚIILOR NOSOCOMIALE 1. Considerații generale Supravegherea epidemiologică este activitatea sistematică și/sau continuă ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin sanatate nr. 916/2006: Anexa nr. 5 (V METODOLOGIA DE SUPRAVEGHERE ȘI CONTROL AL ACCIDENTELOR CU EXPUNERE LA PRODUSE BIOLOGICE LA PERSONALUL CARE LUCREAZĂ ÎN DOMENIUL SANITAR 1. Justificare: În ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin sanatate nr. 916/2006: the publisher's notes run into its text (*) Se completează pentru fiecare caz nou de infecţie nosocomială (dacă un bolnav a avut două sau mai multe infecţii noso) are not text.

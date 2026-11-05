@@ -2,12 +2,14 @@
 
 Ordin munca nr. 936/2016 · 1 versions, from 2016-06-03 (latest in force: 2016-06-03) · <https://legislatie.just.ro/Public/DetaliiDocument/178976>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (LISTA ocupațiilor practicate în cadrul economiei naționale care modifică și completează Clasificarea ocupațiilor din România - nivel de ocupație (șase ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. I | [art-001.md](art-001.md) | 0 |  |
 | Art. II | [art-002.md](art-002.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-munca-936-2016` (tags `ordin-munca-936-2016/<day>`; `python tools/on.py <day> ordin-munca-936-2016`).
 
@@ -18,4 +20,4 @@ Act id: `ordin-munca-936-2016` (tags `ordin-munca-936-2016/<day>`; `python tools
 - Ordin munca nr. 936/2016: the first version is the order as published in Monitorul Oficial nr. 421 of 3 June 2016 (document 178976 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin munca nr. 936/2016: the signatures and the place and date line after its last article are not article text.
 - Ordin munca nr. 936/2016: a joint order of Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice nr. 936 din 12 May 2016; Institutul Național de Statistică nr. 448 din 23 May 2016. It is published once, here, under the issuer its EMITENT block lists first; `ordin-ins-448-2016` name it too (data/paths.json aliases).
-- Ordin munca nr. 936/2016: Anexa nr. 1 (LISTA ocupațiilor practicate în cadrul economiei naționale care modifică și completează Clasificarea ocupațiilor din România - nivel de ocupație (șase ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin munca nr. 936/2016: Anexa nr. 1 (LISTA ocupațiilor practicate în cadrul economiei naționale care modifică și completează Clasificarea ocupațiilor din România - nivel de ocupație (șase caractere)) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 178976 of the official web service.

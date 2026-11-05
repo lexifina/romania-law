@@ -3,6 +3,21 @@
  "shard": "ordin/2024",
  "acts": [
   {
+   "slug": "ordin-agricultura-1-2024",
+   "path": "ordin/agricultura/2024/1",
+   "short": "Ordin agricultura nr. 1/2024",
+   "title": "Ordinul nr. 1/2024 privind aprobarea nivelului comisioanelor de garantare pentru anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278059",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278059",
+     "sha256": "f908b4937a4f7e1c08a0ee99e3fed344a92591db32d764449bdcc5a30b34cba2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-101-2024",
    "path": "ordin/agricultura/2024/101",
    "short": "Ordin agricultura nr. 101/2024",
@@ -18,6 +33,171 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-102-2024",
+   "path": "ordin/agricultura/2024/102",
+   "short": "Ordin agricultura nr. 102/2024",
+   "title": "Ordinul nr. 102/2024 privind înregistrarea în Registrul unic de identificare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280442",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280442",
+     "sha256": "819264d2a92911fbe69602fb924fa3a3e8035f459916a35b9cb59344e71cca4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-106-2024",
+   "path": "ordin/agricultura/2024/106",
+   "short": "Ordin agricultura nr. 106/2024",
+   "title": "Ordinul nr. 106/2024 privind modalitatea de implementare, îndeplinirea criteriilor de eligibilitate, a condițiilor și altor cerințe specifice, inclusiv tipurile de documente justificative pentru intervențiile aferente sectoarelor vegetal și zootehnic prevăzute la art. 1 alin. (2) lit. a) și b) din Hotărârea Guvernului nr. 1.571/2022 privind stabilirea cadrului general de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic din cadrul Planului strategic PAC 2023-2027, finanțate din Fondul european de garantare agricolă și de la bugetul de stat, începând cu anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280173",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 129,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280173",
+     "sha256": "d6e94137e46f5f4862deebd84b045876f17686c0d8e8ecf8456607c213815fc1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-107-2024",
+   "path": "ordin/agricultura/2024/107",
+   "short": "Ordin agricultura nr. 107/2024",
+   "title": "Ordinul nr. 107/2024 privind implementarea măsurilor și intervențiilor compensatorii de mediu și climă din Programul Național de Dezvoltare Rurală 2014-2020 și din Planul strategic PAC 2023-2027, începând cu anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280176",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280176",
+     "sha256": "2bed6c3198781f32e9487ca7af85527b4f66813a87e71ac6d6ea2f4df92a1528"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-125-2024",
+   "path": "ordin/agricultura/2024/125",
+   "short": "Ordin agricultura nr. 125/2024",
+   "title": "Ordinul nr. 125/2024 pentru aprobarea criteriilor de eligibilitate, a documentelor justificative și a condițiilor pentru implementarea intervențiilor aferente sectoarelor vegetal și zootehnic prevăzute la art. 1 alin. (2) lit. c) din Hotărârea Guvernului nr. 1.571/2022 privind stabilirea cadrului general de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic din cadrul Planului strategic PAC 2023-2027, finanțate din Fondul european de garantare agricolă și de la bugetul de stat, începând cu anul de cerere 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280688",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280688",
+     "sha256": "e0665f73f768d124faa00267b00baa981e18c2264dd79f334fa9dff2d6e4331d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-127-2024",
+   "path": "ordin/agricultura/2024/127",
+   "short": "Ordin agricultura nr. 127/2024",
+   "title": "Ordinul nr. 127/2024 privind aprobarea formularului-tip al cererii de plată pentru anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280716",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280716",
+     "sha256": "99afb6f18458dd2b2e6970088a40135e5955d66ac75725f1a2a90d2990d4820a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-162-2024",
+   "path": "ordin/agricultura/2024/162",
+   "short": "Ordin agricultura nr. 162/2024",
+   "title": "Ordinul nr. 162/2024 pentru aprobarea \"Ghidului informativ privind Sistemul de identificare a parcelelor agricole - LPIS\", Ediția a II-a, 2024, Cod: GI - DIT-LPIS - SLPIS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282317",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282317",
+     "sha256": "876756eede53fcca74eae02551379de38a773bcd734828224d21a9940fc560e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-201-2024",
+   "path": "ordin/agricultura/2024/201",
+   "short": "Ordin agricultura nr. 201/2024",
+   "title": "Ordinul nr. 201/2024 pentru aprobarea schemei de ajutor de stat \"Investiții în tehnologii forestiere care îmbunătățesc reziliența și valoarea de mediu a ecosistemelor forestiere\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283162",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283162",
+     "sha256": "b278a7056679067aaee36e014380240717db00a0d46d75592d4af68910a3089f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-206-2024",
+   "path": "ordin/agricultura/2024/206",
+   "short": "Ordin agricultura nr. 206/2024",
+   "title": "Ordinul nr. 206/2024 pentru aprobarea cantităților de motorină aferente perioadei 1 ianuarie 2024-31 martie 2024, determinate la plată și nedecontate de către Agenția de Plăți și Intervenție pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283265",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283265",
+     "sha256": "412960b93230d9c9e5d8d3605e48c185a704a396936f333ab71a18d61de4bc87"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-225-2024",
+   "path": "ordin/agricultura/2024/225",
+   "short": "Ordin agricultura nr. 225/2024",
+   "title": "Ordinul nr. 225/2024 pentru aprobarea Regulilor privind utilizarea siglei \"ae\" specifice produselor ecologice controlate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284547",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284547",
+     "sha256": "717218854befe3a31c4c0eb0ca0c2a5cf11be63d4c76b5207f9c9964165fb4ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-233-2024",
+   "path": "ordin/agricultura/2024/233",
+   "short": "Ordin agricultura nr. 233/2024",
+   "title": "Ordinul nr. 233/2024 privind stabilirea normei anuale de venit pentru punctul gastronomic local, precum și a coeficienților de corecție ai acesteia, pentru anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283975",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283975",
+     "sha256": "28121e3c772efbddb3aee7edee7b51c6254436af15df671824b4a1bd91c6305a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-253-2024",
+   "path": "ordin/agricultura/2024/253",
+   "short": "Ordin agricultura nr. 253/2024",
+   "title": "Ordinul nr. 253/2024 privind aprobarea Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284819",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284819",
+     "sha256": "22a853f6947addae760008937a8e15518d71037ef763a9b87039e039093cccbd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-271-2024",
    "path": "ordin/agricultura/2024/271",
    "short": "Ordin agricultura nr. 271/2024",
@@ -29,6 +209,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285234",
      "sha256": "f8d88006502994d3ef2f5cbafe30fbe991701e4212a089c6a4beb868b6fa3348"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-272-2024",
+   "path": "ordin/agricultura/2024/272",
+   "short": "Ordin agricultura nr. 272/2024",
+   "title": "Ordinul nr. 272/2024 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 11/2024 privind gestionarea financiară a alocărilor din Fondul european pentru afaceri maritime, pescuit și acvacultură aferente politicii comune de pescuit și politicii maritime integrate la nivelul Uniunii Europene, precum și a fondurilor alocate de la bugetul de stat pentru perioada de programare 2021-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285355",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285355",
+     "sha256": "d7966d3ea343c1e0e48d669dc1f5cbc5f4b2d0831f6d6563595681ceb1b32a08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-278-2024",
+   "path": "ordin/agricultura/2024/278",
+   "short": "Ordin agricultura nr. 278/2024",
+   "title": "Ordinul nr. 278/2024 pentru aprobarea sistemului de sancțiuni aplicabil intervențiilor și ajutoarelor naționale tranzitorii în sectoarele vegetal și zootehnic, aferente cererilor de plată începând cu anul de cerere 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285277",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285277",
+     "sha256": "8c2cc3297359450d0c4b1fd5673198244dd1bc235ba2bb1c38578c13d37f1c24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-286-2024",
+   "path": "ordin/agricultura/2024/286",
+   "short": "Ordin agricultura nr. 286/2024",
+   "title": "Ordinul nr. 286/2024 privind aprobarea sistemelor de sancțiuni aferente intervențiilor cu caracter compensatoriu din cadrul Planului strategic PAC 2023-2027, gestionate prin Sistemul integrat de administrare și control, aplicabile cererilor de plată depuse începând cu anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285559",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285559",
+     "sha256": "d672ced30422821aa34ad4defd784ec078365106d822afcf1c62870dad9a42a3"
     }
    ]
   },
@@ -63,6 +288,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-353-2024",
+   "path": "ordin/agricultura/2024/353",
+   "short": "Ordin agricultura nr. 353/2024",
+   "title": "Ordinul nr. 353/2024 privind aprobarea componenței Comitetului consultativ pentru sectorul de acvacultură și a regulamentului de organizare și funcționare a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288729",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288729",
+     "sha256": "f24e182b1c85547fba7c5d032b3662e5e1247410b123e40fa6ce1f7ca1421ce8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-356-2024",
    "path": "ordin/agricultura/2024/356",
    "short": "Ordin agricultura nr. 356/2024",
@@ -74,6 +314,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289323",
      "sha256": "6edb8b3591b985478fcb2f457a2befa65cd4aa39f5fee6c5dc6c252b955bec85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-357-2024",
+   "path": "ordin/agricultura/2024/357",
+   "short": "Ordin agricultura nr. 357/2024",
+   "title": "Ordinul nr. 357/2024 pentru aprobarea Ghidului solicitantului aferent Acțiunii: 3.1.2 Cheltuieli de animare și funcționare, Selectarea strategiilor de dezvoltare locală plasate sub responsabilitatea comunității, versiunea 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288820",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288820",
+     "sha256": "2703e1d89d485368f32fef62de529fa75a84e5fcae541b9c995473d88684852a"
     }
    ]
   },
@@ -93,6 +348,66 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-378-2024",
+   "path": "ordin/agricultura/2024/378",
+   "short": "Ordin agricultura nr. 378/2024",
+   "title": "Ordinul nr. 378/2024 privind aprobarea în anul 2024 a realocării sumelor aferente intervențiilor din sectoarele apicol și vitivinicol din cadrul Planului strategic PAC 2023-2027 și stabilirea cuantumurilor unitare pentru intervențiile din sectorul apicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289293",
+   "versions": [
+    {
+     "from": "2024-10-09",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289293",
+     "sha256": "b91bfda30168084ba64872bac4430c3950560ef76fcee3c62c3e11de5aee938f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-405-2024",
+   "path": "ordin/agricultura/2024/405",
+   "short": "Ordin agricultura nr. 405/2024",
+   "title": "Ordinul nr. 405/2024 pentru aprobarea Ghidului solicitantului aferent acțiunii: 3.1.1 - Sprijin pregătitor pentru constituirea/consolidarea capacității grupurilor de acțiune locale și elaborarea strategiilor de dezvoltare locală pentru zonele în care se practică pescuitul și acvacultura, versiunea 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290327",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290327",
+     "sha256": "2e90f59413c41a10b6b52c296252bb294542ac87ab9f87be810b750fd286844d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-414-2024",
+   "path": "ordin/agricultura/2024/414",
+   "short": "Ordin agricultura nr. 414/2024",
+   "title": "Ordinul nr. 414/2024 privind stabilirea cotei pentru decontarea cheltuielilor aferente consumului de energie electrică pentru irigații, realizat în anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290535",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290535",
+     "sha256": "763f08a42d9ce988281eba4e13b4605b008d87d902df63946065df5d26b9c278"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-420-2024",
+   "path": "ordin/agricultura/2024/420",
+   "short": "Ordin agricultura nr. 420/2024",
+   "title": "Ordinul nr. 420/2024 privind aprobarea sistemelor de sancțiuni aplicabile cererilor de plată depuse începând cu anul 2024 pentru măsurile 10 \"Agromediu și climă\" și 11 \"Agricultura ecologică\" prevăzute în Programul Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291273",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291273",
+     "sha256": "cdd3defbae3e0fcc1f33bfb3d8a447b890473b84afdb6acbb4d236ee7232cd0b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-426-2024",
    "path": "ordin/agricultura/2024/426",
    "short": "Ordin agricultura nr. 426/2024",
@@ -104,6 +419,36 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294703",
      "sha256": "9153b74a2c77f923d7e42017813338d03f8a71e7af7fb86d3705a7e976213756"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-441-2024",
+   "path": "ordin/agricultura/2024/441",
+   "short": "Ordin agricultura nr. 441/2024",
+   "title": "Ordinul nr. 441/2024 pentru aprobarea Procedurii operaționale privind efectuarea controlului pe teren pentru cererile de plată aferente pachetului 8, măsura 10 \"Creșterea animalelor de fermă din rase locale în pericol de abandon\" din cadrul Programului Național de Dezvoltare Rurală 2014-2020/ intervenției DR-03 - Agromediu și climă - Creșterea animalelor de fermă din rase locale în pericol de abandon din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292073",
+   "versions": [
+    {
+     "from": "2024-12-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292073",
+     "sha256": "c3d96fa1b35758297bcfe23575c0cd1442d259595bd66a20bb07af56a9b49273"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-444-2024",
+   "path": "ordin/agricultura/2024/444",
+   "short": "Ordin agricultura nr. 444/2024",
+   "title": "Ordinul nr. 444/2024 privind stabilirea normei anuale de venit pentru punctul gastronomic local, precum și a coeficienților de corecție ai acesteia, pentru anul 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292107",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292107",
+     "sha256": "5b845cf942dbb5ef236b0e07b43bf858b07d6ca05a27ed16c31fed3a223ca968"
     }
    ]
   },
@@ -123,6 +468,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-521-2024",
+   "path": "ordin/agricultura/2024/521",
+   "short": "Ordin agricultura nr. 521/2024",
+   "title": "Ordinul nr. 521/2024 pentru aprobarea Sistemului de sancțiuni aplicabil pentru cererile de finanțare/plată, depuse conform angajamentelor ce fac obiectul schemei de ajutor de stat \"Silvomediu și climă\", aferentă intervenției DR-07 \"Silvomediu și climă\" din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292900",
+   "versions": [
+    {
+     "from": "2024-12-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292900",
+     "sha256": "b721b9fe6144b09764f874553e6dfe889659601ceebe451ffe47c5e90e6560f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-61-2024",
+   "path": "ordin/agricultura/2024/61",
+   "short": "Ordin agricultura nr. 61/2024",
+   "title": "Ordinul nr. 61/2024 privind stabilirea cotei pentru decontarea cheltuielilor aferente consumului de energie electrică pentru irigații, realizat în anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279057",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279057",
+     "sha256": "b63924a3a2372d46dcc1507af6fa76bb1bb21a81bf42a4c1342027a859073c02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-73-2024",
+   "path": "ordin/agricultura/2024/73",
+   "short": "Ordin agricultura nr. 73/2024",
+   "title": "Ordinul nr. 73/2024 pentru aprobarea cuantumului unitar al plăților directe aferente cererilor de plată depuse în anul 2023, finanțate din Fondul european de garantare agricolă prin intervențiile din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279432",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279432",
+     "sha256": "e45887568408d1901fdfbdb89d7b1aaa64c0e876b6319f8e5ff85d014a1bde7f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-75-2024",
    "path": "ordin/agricultura/2024/75",
    "short": "Ordin agricultura nr. 75/2024",
@@ -134,6 +524,36 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282331",
      "sha256": "98b9554dd5720ae2daf6ec9c54bc163e48bd7e075dd77ea0b8c688e1414514b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-88-2024",
+   "path": "ordin/agricultura/2024/88",
+   "short": "Ordin agricultura nr. 88/2024",
+   "title": "Ordinul nr. 88/2024 privind aprobarea Procedurii de acordare și plată a ajutoarelor de stat în cadrul schemei de ajutor de stat \"Creditul fermierului\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279533",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279533",
+     "sha256": "b105198ef671d3edd0e30990b7091046a12dc475ee371404f9e5a9f11de2bb6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-89-2024",
+   "path": "ordin/agricultura/2024/89",
+   "short": "Ordin agricultura nr. 89/2024",
+   "title": "Ordinul nr. 89/2024 pentru aprobarea cantităților de motorină aferente perioadei 1 octombrie 2023-31 decembrie 2023, determinate la plată și nedecontate de către Agenția de Plăți și Intervenție pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279551",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279551",
+     "sha256": "64c1ff8cbb6bba10521096d07f8d81c7b36bba1182ff4a01e81ef2d899730849"
     }
    ]
   },
@@ -4008,6 +4428,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3051-2024",
+   "path": "ordin/educatie/2024/3051",
+   "short": "Ordin educatie nr. 3051/2024",
+   "title": "Ordinul nr. 3.051/2024 privind aprobarea Procedurii pentru completarea declarațiilor de interese de către personalul didactic de predare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278285",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278285",
+     "sha256": "121a8953b3577f76e9a20a5bfd918271a7fcb4b785972ca36f9dbeb71c2e690f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3069-2024",
+   "path": "ordin/educatie/2024/3069",
+   "short": "Ordin educatie nr. 3069/2024",
+   "title": "Ordinul nr. 3.069/2024 pentru modificarea anexelor nr. 1 și 2 la Ordinul ministrului educației nr. 6.072/2023 privind aprobarea unor măsuri tranzitorii aplicabile la nivelul sistemului național de învățământ preuniversitar și superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278992",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278992",
+     "sha256": "7f4a27c2d4c865ba6a475409f6223cb5b0527395d39b7814512e9a70d8841ed5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3771-2024",
    "path": "ordin/educatie/2024/3771",
    "short": "Ordin educatie nr. 3771/2024",
@@ -4158,6 +4608,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4041-2024",
+   "path": "ordin/educatie/2024/4041",
+   "short": "Ordin educatie nr. 4041/2024",
+   "title": "Ordinul nr. 4.041/2024 privind modificarea și completarea Metodologiei de selecție a personalului din România pentru posturi didactice din cadrul sistemului școlilor europene, aprobată prin Ordinul ministrului educației naționale nr. 3.475/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280626",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280626",
+     "sha256": "b27df3fcacac5a3b99cb5f698f9fc0cdfb2cca91b627c642f738441128fd5b73"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4042-2024",
    "path": "ordin/educatie/2024/4042",
    "short": "Ordin educatie nr. 4042/2024",
@@ -4229,6 +4694,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281604",
      "sha256": "e879dc48f51ad2d40dd4ef4428b4d5772bc4884fe8d11346c536ee72f8d041d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4139-2024",
+   "path": "ordin/educatie/2024/4139",
+   "short": "Ordin educatie nr. 4139/2024",
+   "title": "Ordinul nr. 4.139/2024 pentru modificarea și completarea anexei la Ordinul ministrului educației și al ministrului agriculturii și dezvoltării rurale nr. 3.840/81/2024 privind aprobarea Listei unităților de învățământ preuniversitar incluse în Programul național \"Masă sănătoasă\" în anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/281642",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281642",
+     "sha256": "d46d5a1316d7d385a25e5e2715c47c2aa44f30b7b926bfd19031c182d4ce8f25"
     }
    ]
   },
@@ -4368,6 +4848,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4440-2024",
+   "path": "ordin/educatie/2024/4440",
+   "short": "Ordin educatie nr. 4440/2024",
+   "title": "Ordinul nr. 4.440/2024 pentru modificarea și completarea anexei la Ordinul ministrului educației nr. 4.072/2023 privind aprobarea Regulamentului de acordare a voucherelor de vacanță pentru unitățile/instituțiile de învățământ de stat, în Ministerul Educației și în alte instituții publice din subordinea/coordonarea acestuia, pentru anii 2023-2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283256",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283256",
+     "sha256": "df2128768d12294bb6bc6a376200a12e3e7af33440d82af33214dfbe3a98c2ff"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4441-2024",
    "path": "ordin/educatie/2024/4441",
    "short": "Ordin educatie nr. 4441/2024",
@@ -4454,6 +4949,36 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285395",
      "sha256": "74b00fb0f06b2f213f712af5e4471b00da7b11d2f1f0eef18f7b049f1fb16a18"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4622-2024",
+   "path": "ordin/educatie/2024/4622",
+   "short": "Ordin educatie nr. 4622/2024",
+   "title": "Ordinul nr. 4.622/2024 pentru modificarea Regulamentului de organizare și funcționare a Consiliului național al calificărilor, aprobat prin Ordinul ministrului educației nr. 4.403/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283976",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283976",
+     "sha256": "34b88efbb26441687149053433c329f24e621fd76c7e0313aa2454c5cdb82147"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4623-2024",
+   "path": "ordin/educatie/2024/4623",
+   "short": "Ordin educatie nr. 4623/2024",
+   "title": "Ordinul nr. 4.623/2024 pentru modificarea și completarea Metodologiei de acordare a creditelor transferabile în învățarea pe tot parcursul vieții, aprobată prin Ordinul ministrului educației nr. 6.768/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283977",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283977",
+     "sha256": "6c1f0f409dc56d0c4ac0301ac95a3cc2ac2a1d76613842e65a9fc3ec4c66ddbf"
     }
    ]
   },
@@ -4634,6 +5159,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285456",
      "sha256": "759b551a919f667ff9084d89c247065d3b12968440b0de5c9821c011bcd737eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5504-2024",
+   "path": "ordin/educatie/2024/5504",
+   "short": "Ordin educatie nr. 5504/2024",
+   "title": "Ordinul nr. 5.504/2024 privind modificarea și completarea anexei la Ordinul ministrului educației nr. 6.216/2022 pentru aprobarea Metodologiei privind constituirea consorțiilor pentru învățământ dual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285425",
+   "versions": [
+    {
+     "from": "2024-07-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285425",
+     "sha256": "7178bcb7e5b5cf9f4bb3faedd1a1ce3cbeffddbca805f59225528e37cd86ea4a"
     }
    ]
   },
@@ -4893,6 +5433,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-6184-2024",
+   "path": "ordin/educatie/2024/6184",
+   "short": "Ordin educatie nr. 6184/2024",
+   "title": "Ordinul nr. 6.184/2024 privind modificarea Ordinului ministrului educației nr. 3.497/2022 pentru aprobarea standardelor de echipare a unităților de învățământ preuniversitar cu echipamente tehnologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287941",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287941",
+     "sha256": "ae9dce32f97f0983dc8a91bdc72019324aa809f0ed2d89c05a4524a7dff80026"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-6194-2024",
    "path": "ordin/educatie/2024/6194",
    "short": "Ordin educatie nr. 6194/2024",
@@ -5058,6 +5613,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-6685-2024",
+   "path": "ordin/educatie/2024/6685",
+   "short": "Ordin educatie nr. 6685/2024",
+   "title": "Ordinul nr. 6.685/2024 pentru modificarea anexei nr. 1 la Metodologia privind constituirea consorțiilor pentru învățământ dual, aprobată prin Ordinul ministrului educației nr. 6.216/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289838",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289838",
+     "sha256": "56be93daedf1cdf53b46f037a30da9056d19b0ee172de45cd0bf97d73f1c0a45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6691-2024",
+   "path": "ordin/educatie/2024/6691",
+   "short": "Ordin educatie nr. 6691/2024",
+   "title": "Ordinul nr. 6.691/2024 pentru modificarea anexei la Ordinul ministrului educației nr. 5.518/2024 privind aprobarea Metodologiei-cadru de acordare a burselor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288829",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288829",
+     "sha256": "a70a6c4eb78d407ab2f5d7a224a43201a89dbeb0f53c0dcc27e56552c476d7a9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-6692-2024",
    "path": "ordin/educatie/2024/6692",
    "short": "Ordin educatie nr. 6692/2024",
@@ -5073,6 +5658,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-6786-2024",
+   "path": "ordin/educatie/2024/6786",
+   "short": "Ordin educatie nr. 6786/2024",
+   "title": "Ordinul nr. 6.786/2024 pentru completarea anexei la Ordinul ministrului educației nr. 5.552/2024 privind aprobarea Metodologiei privind condițiile de școlarizare a românilor de pretutindeni și a cetățenilor străini în cadrul instituțiilor de învățământ superior de stat, particulare și confesionale particulare acreditate din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288956",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288956",
+     "sha256": "69c4e1d23d55581afc5b50951169a64d304599b045b2249bced14e8217d39dfd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-6869-2024",
    "path": "ordin/educatie/2024/6869",
    "short": "Ordin educatie nr. 6869/2024",
@@ -5084,6 +5684,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289094",
      "sha256": "7e112e097a4b5210c62e15c8babc1f41b4ee52f5aa6513f002fb60a5b2f9d1b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7001-2024",
+   "path": "ordin/educatie/2024/7001",
+   "short": "Ordin educatie nr. 7001/2024",
+   "title": "Ordinul nr. 7.001/2024 pentru modificarea anexei la Ordinul ministrului educației nr. 6.443/2024 privind aprobarea listei unităților de învățământ preuniversitar care consemnează în format electronic situația școlară a elevilor în anul școlar 2024-2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289337",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289337",
+     "sha256": "457e43a93ea25685a07514c74bacbe72734c39884da6d1027d22528a1a2fe9bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7137-2024",
+   "path": "ordin/educatie/2024/7137",
+   "short": "Ordin educatie nr. 7137/2024",
+   "title": "Ordinul nr. 7.137/2024 pentru completarea Ordinului ministrului educației și al ministrului agriculturii și dezvoltării rurale nr. 3.840/81/2024 privind aprobarea Listei unităților de învățământ preuniversitar incluse în Programul național \"Masă sănătoasă\" în anul 2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289814",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289814",
+     "sha256": "f22ac1e5a081b8194bf0f0f45c4b39b29747cb26827b00f44a348f63ccca4b8f"
     }
    ]
   },
@@ -5223,6 +5853,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-7373-2024",
+   "path": "ordin/educatie/2024/7373",
+   "short": "Ordin educatie nr. 7373/2024",
+   "title": "Ordinul nr. 7.373/2024 privind completarea Ordinului ministrului educației nr. 3.020/2024 pentru aprobarea Regulamentului-cadru privind studiile universitare de doctorat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290875",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290875",
+     "sha256": "888d765ff23df141e9de1107d894fee97a161d2ade590a29132721cda266bfce"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-7386-2024",
    "path": "ordin/educatie/2024/7386",
    "short": "Ordin educatie nr. 7386/2024",
@@ -5313,6 +5958,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-7480-2024",
+   "path": "ordin/educatie/2024/7480",
+   "short": "Ordin educatie nr. 7480/2024",
+   "title": "Ordinul nr. 7.480/2024 privind modificarea Ordinului ministrului educației nr. 6.469/2022 pentru aprobarea Nomenclatorului de încadrare a calificărilor profesionale de nivel 3 și de nivel 4 conform Cadrului național al calificărilor, pe domenii de pregătire de bază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291974",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291974",
+     "sha256": "08a813c0329ff8e7e999f070c21645d257a9153c13beb2b5c2866799406c505c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-7482-2024",
    "path": "ordin/educatie/2024/7482",
    "short": "Ordin educatie nr. 7482/2024",
@@ -5343,6 +6003,51 @@
    ]
   },
   {
+   "slug": "ordin-educatie-7516-2024",
+   "path": "ordin/educatie/2024/7516",
+   "short": "Ordin educatie nr. 7516/2024",
+   "title": "Ordinul nr. 7.516/2024 privind modificarea Calendarului pentru acordarea unui ajutor financiar în vederea achiziționării de calculatoare pentru anul 2024, aprobat prin Ordinul ministrului educației nr. 4.138/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290303",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290303",
+     "sha256": "4c5f503850a22de4363318cb668a00bb5dcb39edb4a7e44f26afdf3c8a620a31"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7662-2024",
+   "path": "ordin/educatie/2024/7662",
+   "short": "Ordin educatie nr. 7662/2024",
+   "title": "Ordinul nr. 7.662/2024 pentru completarea anexei la Ordinul ministrului educației nr. 6.694/2024 privind aprobarea Regulamentului de organizare și funcționare a învățământului preuniversitar alternativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292406",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292406",
+     "sha256": "35ef7ce2775766291f4ca76f0cbea64a6c89831a01343e53ef0e3caa9a74983e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7694-2024",
+   "path": "ordin/educatie/2024/7694",
+   "short": "Ordin educatie nr. 7694/2024",
+   "title": "Ordinul nr. 7.694/2024 pentru modificarea și completarea anexelor nr. 2 și 3 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.219/2010 privind recunoașterea și echivalarea rezultatelor obținute la examene cu recunoaștere internațională pentru certificarea competențelor lingvistice în limbi străine și la examene cu recunoaștere europeană pentru certificarea competențelor digitale cu probele de evaluare a competențelor lingvistice într-o limbă de circulație internațională studiată pe parcursul învățământului liceal, respectiv de evaluare a competențelor digitale, din cadrul examenului de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295231",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295231",
+     "sha256": "fb429304e17f06fc2b2af223a06059479d9015664a9679713866b616f718ddd0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-7701-2024",
    "path": "ordin/educatie/2024/7701",
    "short": "Ordin educatie nr. 7701/2024",
@@ -5369,6 +6074,111 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292749",
      "sha256": "34b5f61cc8ff6383d29ffe62fdea7ba03473ceb355ea059b0a94445aaf391e53"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7723-2024",
+   "path": "ordin/educatie/2024/7723",
+   "short": "Ordin educatie nr. 7723/2024",
+   "title": "Ordinul nr. 7.723/2024 pentru modificarea Ordinului ministrului educației, cercetării și inovării nr. 3.410/2009 privind aprobarea planurilor-cadru de învățământ pentru clasele a IX-a-a XII-a, filierele teoretică și vocațională, cursuri de zi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292745",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292745",
+     "sha256": "880536d631e1802e6bc13d97da00119517341fc667c456d6efa4009c027dffef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7724-2024",
+   "path": "ordin/educatie/2024/7724",
+   "short": "Ordin educatie nr. 7724/2024",
+   "title": "Ordinul nr. 7.724/2024 pentru modificarea Ordinului ministrului educației, cercetării și inovării nr. 3.412/2009 privind aprobarea planurilor-cadru de învățământ pentru clasa a X-a, școala de arte și meserii, pentru clasa a X-a, ciclul inferior al liceului, filiera tehnologică, ruta directă de calificare, pentru clasa a XI-a, anul de completare, precum și pentru clasele a XI-a-a XII-a și a XII-a/a XIII-a, ciclul superior al liceului, filiera tehnologică, cursuri de zi și seral",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292466",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292466",
+     "sha256": "9de24bebeca06ffbac5dcad1e588780c04cfc5b28033e6c601ffe38dab058c1a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7725-2024",
+   "path": "ordin/educatie/2024/7725",
+   "short": "Ordin educatie nr. 7725/2024",
+   "title": "Ordinul nr. 7.725/2024 pentru modificarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 3.641/2011 privind aprobarea planurilor-cadru de învățământ pentru clasele a IX-a-a XII-a, filiera vocațională, profilul teologic, cultul ortodox, specializarea ghid turism religios",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292467",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292467",
+     "sha256": "c1baa1a0d522fc6083fc787c380c08a09fb60d54ebd9a6659a6a7a9ffc10471f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7726-2024",
+   "path": "ordin/educatie/2024/7726",
+   "short": "Ordin educatie nr. 7726/2024",
+   "title": "Ordinul nr. 7.726/2024 pentru modificarea Ordinului ministrului educației și cercetării nr. 4.051/2006 privind aprobarea Planurilor-cadru de învățământ pentru învățământul seral",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293181",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293181",
+     "sha256": "10f308e43d543b4c70919b970e6028f28c6e1656c475a8b21563fdb5873aa956"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7727-2024",
+   "path": "ordin/educatie/2024/7727",
+   "short": "Ordin educatie nr. 7727/2024",
+   "title": "Ordinul nr. 7.727/2024 pentru modificarea Ordinului ministrului educației naționale nr. 4.217/2018 privind aprobarea planurilor-cadru de învățământ pentru clasele a IX-a-a XII-a, filiera vocațională, profilul teologic, cultul romano-catolic de limbă maghiară, specializarea ghid turism religios",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292468",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292468",
+     "sha256": "193e0b501c86c852a0457efef7ca4ffd979b5ce25a91c4e6c229d7a1bcba8146"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7729-2024",
+   "path": "ordin/educatie/2024/7729",
+   "short": "Ordin educatie nr. 7729/2024",
+   "title": "Ordinul nr. 7.729/2024 pentru modificarea Ordinului ministrului educației, cercetării și inovării nr. 4.856/2009 privind aprobarea planurilor-cadru de învățământ pentru clasele a IX-a-a XII-a, filiera vocațională, profil artistic, specializarea conservare-restaurare bunuri culturale, cursuri de zi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292469",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292469",
+     "sha256": "d628b355ee087a9dc2bca0c5bbd8c114f684f3902e9dc4eeb14a47f1e86e12b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7731-2024",
+   "path": "ordin/educatie/2024/7731",
+   "short": "Ordin educatie nr. 7731/2024",
+   "title": "Ordinul nr. 7.731/2024 pentru modificarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 5.347/2011 privind aprobarea planurilor-cadru de învățământ pentru clasele a IX-a-a XII-a, filiera vocațională, profilul pedagogic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293176",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293176",
+     "sha256": "25481411d586a67a90ad5e74ac0cbd40f064502cbf8dd7d5717c3dad2ad5f434"
     }
    ]
   },
@@ -5474,6 +6284,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293755",
      "sha256": "5de2050bcaf65c2972202b917048892a61c303e1269163d33da88af9fc36d195"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7843-2024",
+   "path": "ordin/educatie/2024/7843",
+   "short": "Ordin educatie nr. 7843/2024",
+   "title": "Ordinul nr. 7.843/2024 privind modificarea și completarea Metodologiei-cadru de organizare și desfășurare a examenelor de absolvire, licență/diplomă și disertație, aprobată prin Ordinul ministrului educației nr. 3.691/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293115",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293115",
+     "sha256": "bdd5d4125ab1ef472f28467e31b0619a4f4f970724c6033be6c8bd767438e13f"
     }
    ]
   },
@@ -6899,6 +7724,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290058",
      "sha256": "e844b24fd29145da5ff387101044b11029e99c0c7c9b7a479f6dad12757d0406"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-fonduri-6849-2024",
+   "path": "ordin/fonduri/2024/6849",
+   "short": "Ordin fonduri nr. 6849/2024",
+   "title": "Ordinul nr. 6.849/2024 privind modificarea și completarea Procedurii specifice de distribuire a tichetelor sociale pe suport electronic pentru sprijin educațional, a Procedurii specifice de returnare a acestora către beneficiar - Ministerul Investițiilor și Proiectelor Europene, precum și a mecanismului de implementare aferent, aprobate prin Ordinul ministrului investițiilor și proiectelor europene și al ministrului educației nr. 56/3.038/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291244",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291244",
+     "sha256": "74daba7919d2e653e73df3e56d09ecc371e7e86aeb776a53d1b39c906329d44a"
     }
    ]
   },

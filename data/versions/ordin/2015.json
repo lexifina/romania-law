@@ -3,6 +3,66 @@
  "shard": "ordin/2015",
  "acts": [
   {
+   "slug": "ordin-agricultura-1005-2015",
+   "path": "ordin/agricultura/2015/1005",
+   "short": "Ordin agricultura nr. 1005/2015",
+   "title": "Ordinul nr. 1.005/2015 privind stabilirea persoanelor împuternicite să constate și să aplice sancțiunile prevăzute de Legea nr. 266/2002 privind producerea, prelucrarea, controlul și certificarea calității, comercializarea semințelor și a materialului săditor, precum și testarea și înregistrarea soiurilor de plante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168331",
+   "versions": [
+    {
+     "from": "2015-05-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168331",
+     "sha256": "21424b88de944a88d19cc29d0fff3fe6d7650f47cb21f02c226b553582f08343"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1051-2015",
+   "path": "ordin/agricultura/2015/1051",
+   "short": "Ordin agricultura nr. 1051/2015",
+   "title": "Ordinul nr. 1.051/2015 pentru aprobarea Ghidului informativ privind Sistemul de identificare a parcelelor agricole - LPIS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168305",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168305",
+     "sha256": "053110774ebbf133d49fc4fa0347a320bb35dafbbab3f25d3f88f1d8561a7b67"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-12-2015",
+   "path": "ordin/agricultura/2015/12",
+   "short": "Ordin agricultura nr. 12/2015",
+   "title": "Ordinul nr. 12/2015 privind aprobarea nivelului comisioanelor de garantare pentru anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164543",
+   "versions": [
+    {
+     "from": "2015-01-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164543",
+     "sha256": "89656a4471012b9042d62af85c0dd9cd79ee7e01cfe5e28f55c1446f9e337a36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1414-2015",
+   "path": "ordin/agricultura/2015/1414",
+   "short": "Ordin agricultura nr. 1414/2015",
+   "title": "Ordinul nr. 1.414/2015 privind aprobarea Regulamentului de organizare și funcționare al Comisiei pentru acordarea licențelor de depozit, a atribuțiilor și obligațiilor acesteia, precum și a componenței nominale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168563",
+   "versions": [
+    {
+     "from": "2015-06-05",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168563",
+     "sha256": "5f799b9f8fa320ee83fdc999fba2e9f274fa5fc939d2f4af4d5fc47abd4b0cad"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1565-2015",
    "path": "ordin/agricultura/2015/1565",
    "short": "Ordin agricultura nr. 1565/2015",
@@ -14,6 +74,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169531",
      "sha256": "ca2134ab129bbb1de6f33fc0a747e6c079bdb1a63aaa57b2e5b17de8eda6385c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1638-2015",
+   "path": "ordin/agricultura/2015/1638",
+   "short": "Ordin agricultura nr. 1638/2015",
+   "title": "Ordinul nr. 1.638/2015 pentru stabilirea condițiilor și a procedurii de înregistrare în Registrul prim-cumpărătorilor de lapte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169235",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169235",
+     "sha256": "fc8d1ff9556d719c42997dcf98ebd3d103852d0e40f5ef01a77b2a11ad31b459"
     }
    ]
   },
@@ -48,6 +123,126 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1725-2015",
+   "path": "ordin/agricultura/2015/1725",
+   "short": "Ordin agricultura nr. 1725/2015",
+   "title": "Ordinul nr. 1.725/2015 privind aprobarea Manualului de procedură pentru evaluarea, selectarea și contractarea cererilor de finanțare pentru proiecte aferente submăsurilor, măsurilor și schemelor de ajutor de stat sau de minimis aferente Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170019",
+   "versions": [
+    {
+     "from": "2015-07-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170019",
+     "sha256": "3efecb62b7f3ddec5f5ecdded03176d627b31604ef279dfe29aff29da37c72ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1731-2015",
+   "path": "ordin/agricultura/2015/1731",
+   "short": "Ordin agricultura nr. 1731/2015",
+   "title": "Ordinul nr. 1.731/2015 privind instituirea schemei de ajutor de minimis \"Sprijin acordat microîntreprinderilor și întreprinderilor mici din spațiul rural pentru înființarea și dezvoltarea activităților economice neagricole\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169832",
+   "versions": [
+    {
+     "from": "2015-07-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169832",
+     "sha256": "9abfe12859d8e8c510e33d4ac65e087e7758866d0ef978271604a5b1da9ca346"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1762-2015",
+   "path": "ordin/agricultura/2015/1762",
+   "short": "Ordin agricultura nr. 1762/2015",
+   "title": "Ordinul nr. 1.762/2015 privind aprobarea Procedurii de înregistrare și verificare a documentației pentru dobândirea protecției unui sistem de calitate a unui produs agricol și/sau alimentar, a Procedurii de declarare a opoziției la nivel național și a Procedurii de transmitere la nivelul Comisiei Europene a cererii de înregistrare a sistemelor de calitate ale produselor agricole și/sau alimentare, în vederea dobândirii protecției la nivelul Uniunii Europene, precum și a Regulilor specifice privind modelul și utilizarea logoului național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170657",
+   "versions": [
+    {
+     "from": "2015-08-18",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170657",
+     "sha256": "1d65a0463e6c146e0da86dc6d904b24f642bc992f2f417d616f8e40fac30706e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1803-2015",
+   "path": "ordin/agricultura/2015/1803",
+   "short": "Ordin agricultura nr. 1803/2015",
+   "title": "Ordinul nr. 1.803/2015 privind aprobarea Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170604",
+   "versions": [
+    {
+     "from": "2015-08-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170604",
+     "sha256": "0a49b7174a42f1cb27e50db767e6092882190db32347ae42a25eb48eff43a99b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1828-2015",
+   "path": "ordin/agricultura/2015/1828",
+   "short": "Ordin agricultura nr. 1828/2015",
+   "title": "Ordinul nr. 1.828/2015 privind aprobarea sistemelor de sancțiuni pentru măsurile 10 \"Plăți pentru agromediu și climă\", 11 \"Agricultura ecologică\" și 13 \"Plăți pentru zone care se confruntă cu constrângeri naturale sau cu alte constrângeri specifice\", prevăzute în PNDR 2014-2020, și pentru măsura 214 \"Plăți de agromediu\", prevăzută în PNDR 2007-2013, precum și pentru aprobarea sistemului de sancțiuni pentru ecocondiționalitate aplicabil acestora și schemelor de sprijin pe suprafață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170696",
+   "versions": [
+    {
+     "from": "2015-08-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170696",
+     "sha256": "d474c822f6eea5ba61cec661fbb59bdaf92a32720f88932437d43f7e6d03796f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1881-2015",
+   "path": "ordin/agricultura/2015/1881",
+   "short": "Ordin agricultura nr. 1881/2015",
+   "title": "Ordinul nr. 1.881/2015 privind stabilirea condițiilor în vederea introducerii sau punerii în circulație în România ori în anumite zone protejate din România, în scopuri experimentale sau științifice, și în vederea realizării de lucrări pentru selecții varietale a anumitor organisme de carantină dăunătoare, plante, produse vegetale și a altor obiecte prevăzute în anexele nr. I-V la Hotărârea Guvernului nr. 563/2007 pentru aprobarea normelor metodologice de aplicare a Ordonanței Guvernului nr. 136/2000 privind măsurile de protecție împotriva introducerii și răspândirii organismelor de carantină dăunătoare plantelor sau produselor vegetale în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171184",
+   "versions": [
+    {
+     "from": "2015-09-08",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171184",
+     "sha256": "0549743d1261869dab388a40397369d544622469602b0a4f9dedd890d6555aa6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1891-2015",
+   "path": "ordin/agricultura/2015/1891",
+   "short": "Ordin agricultura nr. 1891/2015",
+   "title": "Ordinul nr. 1.891/2015 privind aprobarea tarifelor pentru efectuarea analizelor și examenelor de laborator în vederea depistării și identificării organismelor dăunătoare și fenomenelor de fitotoxicitate la plante și produse vegetale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170938",
+   "versions": [
+    {
+     "from": "2015-09-26",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170938",
+     "sha256": "4b97cad0a9b42ca936ccddc16d0cb527c10c22a61e2e69d62622720ba8b75372"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1898-2015",
+   "path": "ordin/agricultura/2015/1898",
+   "short": "Ordin agricultura nr. 1898/2015",
+   "title": "Ordinul nr. 1.898/2015 privind organizarea și funcționarea Poliției Fitosanitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170932",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170932",
+     "sha256": "1c4163fdb259b6297ecebea544cbbc3748aba070e70b6aec6ef68a3c538da544"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1922-2015",
    "path": "ordin/agricultura/2015/1922",
    "short": "Ordin agricultura nr. 1922/2015",
@@ -59,6 +254,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171545",
      "sha256": "a04249bcbcefdb47a04e905996bb46a258ae8cd449db7a1db15230f5b98dc6ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1964-2015",
+   "path": "ordin/agricultura/2015/1964",
+   "short": "Ordin agricultura nr. 1964/2015",
+   "title": "Ordinul nr. 1.964/2015 privind aprobarea criteriilor și a condițiilor pentru aprobarea și desemnarea entităților mandatate potrivit art. 6 alin. (4) din Legea nr. 101/2014 privind măsuri de reglementare a depozitării semințelor de consum și a regimului certificatelor de depozit pentru acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171246",
+   "versions": [
+    {
+     "from": "2015-09-10",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171246",
+     "sha256": "bd588b8f81220fa8baf30f30662926cff6650ce30a980991be37b666a59b80ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1997-2015",
+   "path": "ordin/agricultura/2015/1997",
+   "short": "Ordin agricultura nr. 1997/2015",
+   "title": "Ordinul nr. 1.997/2015 privind aprobarea Manualului de procedură specifică pentru evaluarea, selectarea și contractarea cererilor de finanțare pentru proiecte aferente submăsurilor, măsurilor și schemelor de ajutor de stat sau de minimis aferente Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171666",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171666",
+     "sha256": "6cb3fc61c0543b9516a5231a798e569e79c322a26a7100f0e259553dfd63aa9a"
     }
    ]
   },
@@ -78,6 +303,201 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-2028-2015",
+   "path": "ordin/agricultura/2015/2028",
+   "short": "Ordin agricultura nr. 2028/2015",
+   "title": "Ordinul nr. 2.028/2015 pentru stabilirea termenului de conversie a drepturilor de plantare acordate producătorilor înainte de 31 decembrie 2015 și valabile la această dată în autorizații de plantare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171480",
+   "versions": [
+    {
+     "from": "2015-09-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171480",
+     "sha256": "8e40ad1921bade14b57cfbad8fb8b7afb1fc2768f74302781cca753539fc349b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-2032-2015",
+   "path": "ordin/agricultura/2015/2032",
+   "short": "Ordin agricultura nr. 2032/2015",
+   "title": "Ordinul nr. 2.032/2015 pentru stabilirea unor măsuri speciale de înregistrare în Registrul prim-cumpărătorilor de lapte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171662",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171662",
+     "sha256": "230bdbf5b7855c487e13f788a77a1b7269df7a0f5b051ee6283f8a79f32cb880"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-2111-2015",
+   "path": "ordin/agricultura/2015/2111",
+   "short": "Ordin agricultura nr. 2111/2015",
+   "title": "Ordinul nr. 2.111/2015 privind instituirea schemei de ajutor de minimis \"Sprijin pentru investiții în crearea și modernizarea infrastructurii de bază la scară mică în domeniul educațional și social\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172556",
+   "versions": [
+    {
+     "from": "2015-11-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172556",
+     "sha256": "3611e29f60f08ef9f02ee5ebe1aeeba75b57ffffbad858178f2e3cb9bfbaa2f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-2112-2015",
+   "path": "ordin/agricultura/2015/2112",
+   "short": "Ordin agricultura nr. 2112/2015",
+   "title": "Ordinul nr. 2.112/2015 privind instituirea schemei de ajutor de minimis \"Sprijin acordat pentru stimularea investițiilor asociate conservării patrimoniului și pentru menținerea tradițiilor și moștenirii spirituale\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172622",
+   "versions": [
+    {
+     "from": "2015-11-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172622",
+     "sha256": "7fd1c25a887d44f8e6df62f5f425808d16c1902b261bd907e1f7b8d432bc9d90"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-2134-2015",
+   "path": "ordin/agricultura/2015/2134",
+   "short": "Ordin agricultura nr. 2134/2015",
+   "title": "Ordinul nr. 2.134/2015 pentru stabilirea unor măsuri de sprijin excepționale cu caracter temporar pentru producătorii din sectorul fructe și legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172176",
+   "versions": [
+    {
+     "from": "2015-10-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172176",
+     "sha256": "d3f05850a038230c66b619bb655516f3b3aac1be475e96a05d7559a98282d84d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-2143-2015",
+   "path": "ordin/agricultura/2015/2143",
+   "short": "Ordin agricultura nr. 2143/2015",
+   "title": "Ordinul nr. 2.143/2015 privind aprobarea Manualului de procedură specifică pentru implementarea submăsurii 19.1 \"Sprijin pregătitor\" pentru elaborarea strategiilor de dezvoltare locală LEADER, cod manual M01-09.1, din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172361",
+   "versions": [
+    {
+     "from": "2015-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172361",
+     "sha256": "b0648c6044f39ea8a3d7c882277c645bca10549f007c90995565440dc361e151"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-2236-2015",
+   "path": "ordin/agricultura/2015/2236",
+   "short": "Ordin agricultura nr. 2236/2015",
+   "title": "Ordinul nr. 2.236/2015 pentru aprobarea cantităților de motorină aferente trimestrelor I și II ale anului 2015, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172436",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172436",
+     "sha256": "0fa8ec34ab1c953ef0514c62d2601fb3330e7fdc3a0b9ec997ac5ebbbd792043"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-2284-2015",
+   "path": "ordin/agricultura/2015/2284",
+   "short": "Ordin agricultura nr. 2284/2015",
+   "title": "Ordinul nr. 2.284/2015 pentru aprobarea manualelor de proceduri aferente activității specifice Agenției pentru Finanțarea Investițiilor Rurale de finanțare privind submăsurile, măsurile și schemele de ajutor de stat sau de minimis din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173594",
+   "versions": [
+    {
+     "from": "2015-12-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173594",
+     "sha256": "31f0fcd6505333543f7b85ec7eaff2f4b2ad9708e8b91478944fa0712efefe6e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-2343-2015",
+   "path": "ordin/agricultura/2015/2343",
+   "short": "Ordin agricultura nr. 2343/2015",
+   "title": "Ordinul nr. 2.343/2015 privind recunoașterea Acordului interprofesional pentru struguri de vin, vin și produse pe bază de vin, recolta anului de comercializare 2015/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173317",
+   "versions": [
+    {
+     "from": "2015-11-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173317",
+     "sha256": "adc2c974cd62bec43193a7d9607598e0bafb33c6ac3ab5f24aadb8be5a9d0080"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-2373-2015",
+   "path": "ordin/agricultura/2015/2373",
+   "short": "Ordin agricultura nr. 2373/2015",
+   "title": "Ordinul nr. 2.373/2015 privind aprobarea Manualului de procedură pentru evaluarea și selecția proiectelor depuse în cadrul apelurilor de propuneri de proiecte aferente măsurii 1 \"Acțiuni pentru transferul de cunoștințe și acțiuni de informare\" din cadrul Programului Național de Dezvoltare Rurală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173630",
+   "versions": [
+    {
+     "from": "2015-12-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173630",
+     "sha256": "e3636168fec1e45a3e62086b915309417ccdb88d59f4c3dbac91bb388511265a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-2425-2015",
+   "path": "ordin/agricultura/2015/2425",
+   "short": "Ordin agricultura nr. 2425/2015",
+   "title": "Ordinul nr. 2.425/2015 pentru aprobarea Procedurii de verificare și control privind schema de ajutor de stat pentru compensarea pagubelor cauzate de fenomenul meteorologic de secetă severă manifestat în perioada aprilie-septembrie 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173416",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173416",
+     "sha256": "0e65fcc678193a7f4b5b673f8d1fde11cfa365164b65c03149ff8c1a1d4215c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-2828-2015",
+   "path": "ordin/agricultura/2015/2828",
+   "short": "Ordin agricultura nr. 2828/2015",
+   "title": "Ordinul nr. 2.828/2015 pentru aprobarea cantităților de motorină aferente trimestrului III al anului 2015, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174112",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174112",
+     "sha256": "d9ba152a15c6c1bfcb888198d066e91b6718d3b1bb61ad1b85ac5014cb6c9a6a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-3060-2015",
+   "path": "ordin/agricultura/2015/3060",
+   "short": "Ordin agricultura nr. 3060/2015",
+   "title": "Ordinul nr. 3.060/2015 privind aprobarea criteriilor și a condițiilor pentru desemnarea administratorului cu atribuții în organizarea și gestionarea regimului certificatelor de depozit pe baza Registrului special al certificatelor de depozit, precum și în verificarea la depozitari a respectării regimului acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174693",
+   "versions": [
+    {
+     "from": "2016-01-07",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174693",
+     "sha256": "e90c32112a73b2d7188bd0ba931090cc466af6f9ee83ceda35384f84d017b257"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-307-2015",
    "path": "ordin/agricultura/2015/307",
    "short": "Ordin agricultura nr. 307/2015",
@@ -89,6 +509,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165634",
      "sha256": "25a567f67142e335569eb48ffc4b8fe6a1a2ab24563cdcaa1194b1a02fd16e30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-3433-2015",
+   "path": "ordin/agricultura/2015/3433",
+   "short": "Ordin agricultura nr. 3433/2015",
+   "title": "Ordinul nr. 3.433/2015 privind aprobarea schemei de ajutor de stat \"Stimularea dezvoltării regionale prin realizarea de investiții, inclusiv în sectorul pomicol, pentru procesarea și marketingul produselor agricole în vederea obținerii de produse neagricole\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174748",
+   "versions": [
+    {
+     "from": "2016-01-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174748",
+     "sha256": "7ed94fa81086eb58f316186494d47caee2b0f05858621440ee24d8badbb71324"
     }
    ]
   },
@@ -108,6 +543,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-385-2015",
+   "path": "ordin/agricultura/2015/385",
+   "short": "Ordin agricultura nr. 385/2015",
+   "title": "Ordinul nr. 385/2015 privind nominalizarea punctelor de debarcare și centrelor de primă vânzare autorizate pentru pescuitul comercial în Delta Dunării pe anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165713",
+   "versions": [
+    {
+     "from": "2015-02-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165713",
+     "sha256": "447a2679a68ffc555672f0899d7c4f39dcd3544bc06947a31b10a807d5d23bd9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-386-2015",
    "path": "ordin/agricultura/2015/386",
    "short": "Ordin agricultura nr. 386/2015",
@@ -119,6 +569,66 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166246",
      "sha256": "81d7e160f128016f8fe328b65b8d25f162dbb37a93ec3cd7637c06e124ec62f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-43-2015",
+   "path": "ordin/agricultura/2015/43",
+   "short": "Ordin agricultura nr. 43/2015",
+   "title": "Ordinul nr. 43/2015 pentru aprobarea modelului cererii de plată privind măsura 215 - pachet a) porcine - Plăți în favoarea bunăstării animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164760",
+   "versions": [
+    {
+     "from": "2015-01-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164760",
+     "sha256": "223d9cb9c63189a567fd95e33b30fa9e25ffb55a052c712942d89fa3802b91f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-442-2015",
+   "path": "ordin/agricultura/2015/442",
+   "short": "Ordin agricultura nr. 442/2015",
+   "title": "Ordinul nr. 442/2015 pentru aprobarea Listei cu gradatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165934",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165934",
+     "sha256": "e72c82c84a81fd6e0c7d0030a672d47ab654065f573f140412d6f4535ea3a6fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-557-2015",
+   "path": "ordin/agricultura/2015/557",
+   "short": "Ordin agricultura nr. 557/2015",
+   "title": "Ordinul nr. 557/2015 privind recunoașterea Acordului interprofesional pentru sfecla de zahăr - recolta anului de comercializare 2015/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167081",
+   "versions": [
+    {
+     "from": "2015-04-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167081",
+     "sha256": "f1e22a3134fa5290f8ac2aad8bbf62288a9d9f6551e2dd9f03dcf01a3a31bc67"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-558-2015",
+   "path": "ordin/agricultura/2015/558",
+   "short": "Ordin agricultura nr. 558/2015",
+   "title": "Ordinul nr. 558/2015 pentru aprobarea modelului legitimațiilor, al ștampilelor și al proceselor-verbale de control, constatare și sancționare a contravențiilor utilizate de către inspectorii Direcției monitorizare inspecții, verificare și control din cadrul Ministerului Agriculturii și Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166840",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166840",
+     "sha256": "050053d130be0ebab7899d22a8fae75cfcdf42f5773b40b4d0509b0eda9ad132"
     }
    ]
   },
@@ -153,6 +663,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-650-2015",
+   "path": "ordin/agricultura/2015/650",
+   "short": "Ordin agricultura nr. 650/2015",
+   "title": "Ordinul nr. 650/2015 privind nominalizarea punctelor de debarcare și a centrelor de primă vânzare în vederea practicării pescuitului comercial în habitatele piscicole naturale, cu excepția ariilor naturale protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167422",
+   "versions": [
+    {
+     "from": "2015-04-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167422",
+     "sha256": "af11fded119571ad8428bd201d620e8062968423fab0f969bc0b4b2488840eec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-708-2015",
+   "path": "ordin/agricultura/2015/708",
+   "short": "Ordin agricultura nr. 708/2015",
+   "title": "Ordinul nr. 708/2015 privind aprobarea Planului sectorial pentru cercetare-dezvoltare din domeniul agricol și de dezvoltare rurală al Ministerului Agriculturii și Dezvoltării Rurale, pe anii 2015-2018, \"Agricultură și Dezvoltare Rurală - ADER 2020\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167523",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167523",
+     "sha256": "8a5025bacea96bff660939eb04eef434281230b9def4d0d4981778ffa2cacb1c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-726-2015",
+   "path": "ordin/agricultura/2015/726",
+   "short": "Ordin agricultura nr. 726/2015",
+   "title": "Ordinul nr. 726/2015 privind aprobarea Ghidului pentru practici agricole benefice pentru climă și mediu în anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168040",
+   "versions": [
+    {
+     "from": "2015-05-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168040",
+     "sha256": "c85bcd28d096a4dbf918728ef750f9092e314cffd8229d697c9fe1cde41bdea3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-734-2015",
    "path": "ordin/agricultura/2015/734",
    "short": "Ordin agricultura nr. 734/2015",
@@ -164,6 +719,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171154",
      "sha256": "af2898b3f95bbf5d95f79c785c9879ce86722aed23745ca2a70705764ff2361d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-748-2015",
+   "path": "ordin/agricultura/2015/748",
+   "short": "Ordin agricultura nr. 748/2015",
+   "title": "Ordinul nr. 748/2015 privind aprobarea tarifelor pentru efectuarea analizelor și examenelor de laborator în domeniul fitosanitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167905",
+   "versions": [
+    {
+     "from": "2015-06-12",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167905",
+     "sha256": "5feb7899c4236161c769e3269a664af014eba8dda3542c5b0128c3df4d95a439"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-83-2015",
+   "path": "ordin/agricultura/2015/83",
+   "short": "Ordin agricultura nr. 83/2015",
+   "title": "Ordinul nr. 83/2015 pentru aprobarea Procedurilor specifice de implementare și control, precum și formularistica necesară aplicării schemei temporare de ajutor de stat, reglementată de Hotărârea Guvernului nr. 1.108/2014 privind acordarea unui ajutor de stat pentru motorina utilizată în agricultură în trimestrul IV al anului 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165170",
+   "versions": [
+    {
+     "from": "2015-01-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165170",
+     "sha256": "ba52f8cb6fd5f1ccdeaf8be82bd44faa463205a9a49cdf56239f0b1675d37d50"
     }
    ]
   },
@@ -4968,6 +5553,141 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3050-2015",
+   "path": "ordin/educatie/2015/3050",
+   "short": "Ordin educatie nr. 3050/2015",
+   "title": "Ordinul nr. 3.050/2015 privind modificarea anexei nr. 1 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.644/2012 privind unele măsuri de organizare și funcționare a Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164646",
+   "versions": [
+    {
+     "from": "2015-01-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164646",
+     "sha256": "7037e773650af9b1e517bd6cdadcf49165c6c258d1580a79f607a355a29e89d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3070-2015",
+   "path": "ordin/educatie/2015/3070",
+   "short": "Ordin educatie nr. 3070/2015",
+   "title": "Ordinul nr. 3.070/2015 pentru modificarea Metodologiei-cadru privind organizarea și funcționarea centrelor de consiliere și orientare în carieră în sistemul de învățământ superior din România, aprobată prin Ordinul ministrului educației naționale și al ministrului delegat pentru învățământ superior, cercetare științifică și dezvoltare tehnologică nr. 650/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164810",
+   "versions": [
+    {
+     "from": "2015-01-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164810",
+     "sha256": "467ed79fab16fd353a59bccdd79dd10f3bb4f7187cb5f7cfceeed2d0d9f8570b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3097-2015",
+   "path": "ordin/educatie/2015/3097",
+   "short": "Ordin educatie nr. 3097/2015",
+   "title": "Ordinul nr. 3.097/2015 privind aprobarea programei pentru acordarea gradelor didactice II și I în învățământ la specializarea Limba și Literatura Maghiară și metodica predării acesteia, profesori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167722",
+   "versions": [
+    {
+     "from": "2015-05-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167722",
+     "sha256": "277f52e32e25b7c2119b545b83cb9ed97744a2afc67ceeb78088e6eeedd576b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3121-2015",
+   "path": "ordin/educatie/2015/3121",
+   "short": "Ordin educatie nr. 3121/2015",
+   "title": "Ordinul nr. 3.121/2015 privind organizarea și desfășurarea procesului de obținere a atestatului de abilitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165563",
+   "versions": [
+    {
+     "from": "2015-02-10",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165563",
+     "sha256": "364add343ddd5f1acee5a9406bcdb10e9d16ffb3c7d72734768c9e1c1f7b8948"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3165-2015",
+   "path": "ordin/educatie/2015/3165",
+   "short": "Ordin educatie nr. 3165/2015",
+   "title": "Ordinul nr. 3.165/2015 pentru aprobarea Metodologiei-cadru privind organizarea admiterii în ciclurile de studii universitare de licență, de master și de doctorat pentru anul universitar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165840",
+   "versions": [
+    {
+     "from": "2015-02-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165840",
+     "sha256": "0ca5e3467415525cab11997090aadaeaf9df4b864824b9a9a0c123b398e4db07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3168-2015",
+   "path": "ordin/educatie/2015/3168",
+   "short": "Ordin educatie nr. 3168/2015",
+   "title": "Ordinul nr. 3.168/2015 privind aprobarea Calendarului desfășurării concursului de selecție a cadrelor didactice pentru constituirea corpului național de experți în management educațional, seria a 8-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165457",
+   "versions": [
+    {
+     "from": "2015-02-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165457",
+     "sha256": "d4f7de680bee88e19fabb6e11df0fee388a9e304d6036d7577f89f414ca9bbe8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3169-2015",
+   "path": "ordin/educatie/2015/3169",
+   "short": "Ordin educatie nr. 3169/2015",
+   "title": "Ordinul nr. 3.169/2015 privind modificarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea funcțiilor de inspector școlar general, inspector școlar general adjunct din inspectoratele școlare și de director al casei corpului didactic, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.557/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165485",
+   "versions": [
+    {
+     "from": "2015-02-06",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165485",
+     "sha256": "5239b8b68a819847264af4063771b18a3f4799abe5a48c11d96179c2b7afff03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3170-2015",
+   "path": "ordin/educatie/2015/3170",
+   "short": "Ordin educatie nr. 3170/2015",
+   "title": "Ordinul nr. 3.170/2015 privind aprobarea modelului de Standard ocupațional pentru educație și formare profesională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166477",
+   "versions": [
+    {
+     "from": "2015-03-18",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166477",
+     "sha256": "661b0b30cfa0582bdcdec9faf2a277e70811a0ff7e415bf525bd9aa37e248b18"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3171-2015",
+   "path": "ordin/educatie/2015/3171",
+   "short": "Ordin educatie nr. 3171/2015",
+   "title": "Ordinul nr. 3.171/2015 privind aprobarea Calendarului și a Metodologiei de înscriere a copiilor în învățământul primar pentru anul școlar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165538",
+   "versions": [
+    {
+     "from": "2015-02-09",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165538",
+     "sha256": "b8b00d35bac87c7991c6067a12f1a83892df373492a0251dfccd5ab6dbc3d29f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3177-2015",
    "path": "ordin/educatie/2015/3177",
    "short": "Ordin educatie nr. 3177/2015",
@@ -4976,9 +5696,969 @@
    "versions": [
     {
      "from": "2015-02-12",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165670",
      "sha256": "5b77cae20285c9302e945027c4def29bd945ed7014c9f5ec3a5420f0a543289f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3179-2015",
+   "path": "ordin/educatie/2015/3179",
+   "short": "Ordin educatie nr. 3179/2015",
+   "title": "Ordinul nr. 3.179/2015 privind aprobarea Metodologiei-cadru de organizare și desfășurare a examenelor de licență/diplomă și disertație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165932",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165932",
+     "sha256": "f9234d7a07822ab1bf1f9055d42be103d68a7c48911d750b2f96bb43359408d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3185-2015",
+   "path": "ordin/educatie/2015/3185",
+   "short": "Ordin educatie nr. 3185/2015",
+   "title": "Ordinul nr. 3.185/2015 privind aprobarea Metodologiei de alocare a fondurilor bugetare pentru finanțarea de bază și finanțarea suplimentară a instituțiilor de învățământ superior de stat din România, pentru anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165645",
+   "versions": [
+    {
+     "from": "2015-02-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165645",
+     "sha256": "cfd8a504fff39a8808b1e69d59885a3ec753fa215e7957d8de028c93d84b726a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3191-2015",
+   "path": "ordin/educatie/2015/3191",
+   "short": "Ordin educatie nr. 3191/2015",
+   "title": "Ordinul nr. 3.191/2015 pentru aprobarea Metodologiei privind recunoașterea automată a calității de conducător de doctorat, în România, pentru persoanele care au obținut această calitate în una dintre țările Uniunii Europene, ale Spațiului Economic European și în Confederația Elvețiană și în universități de prestigiu ale lumii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165787",
+   "versions": [
+    {
+     "from": "2015-02-18",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165787",
+     "sha256": "469706c06a0a240985581a3f5fc63d34e1d6a30530bcfa3c0f48268519e4e3fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3375-2015",
+   "path": "ordin/educatie/2015/3375",
+   "short": "Ordin educatie nr. 3375/2015",
+   "title": "Ordinul nr. 3.375/2015 pentru aprobarea Metodologiei privind transferul personalului didactic auxiliar și personalului nedidactic angajat în unitățile de învățământ preuniversitar de stat în anii 2015 și 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166590",
+   "versions": [
+    {
+     "from": "2015-03-24",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166590",
+     "sha256": "df582fa947417cb3bb277c3d3570cdd60829b34b3e40cbb9ccff5b746c1738f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3400-2015",
+   "path": "ordin/educatie/2015/3400",
+   "short": "Ordin educatie nr. 3400/2015",
+   "title": "Ordinul nr. 3.400/2015 privind modificarea și completarea Regulamentului-cadru de organizare și funcționare a inspectoratelor școlare, aprobat prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.530/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166866",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166866",
+     "sha256": "3d90f7c554a1ae5dbb3656aa1d2ae7b92d4c39707c595b950fb3519d2f50c509"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3542-2015",
+   "path": "ordin/educatie/2015/3542",
+   "short": "Ordin educatie nr. 3542/2015",
+   "title": "Ordinul nr. 3.542/2015 privind aprobarea programelor școlare pentru disciplinele opționale \"Joc și mișcare\", curriculum la decizia școlii pentru clasa pregătitoare, clasa I și clasa a II-a, \"Educație pentru prevenirea riscului rutier\", curriculum la decizia școlii pentru învățământul primar, \"Educație pentru dezvoltare\", curriculum la decizia școlii pentru liceu, \"Educație pentru drepturile de proprietate intelectuală\", curriculum la decizia școlii pentru liceu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167315",
+   "versions": [
+    {
+     "from": "2015-04-22",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167315",
+     "sha256": "33ce30387dc0303f6c9617477a27e0261632eec9c68c67dab501bbac2887bdac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3572-2015",
+   "path": "ordin/educatie/2015/3572",
+   "short": "Ordin educatie nr. 3572/2015",
+   "title": "Ordinul nr. 3.572/2015 privind publicarea Metodologiei de nominalizare a reprezentanților federațiilor studențești, reprezentantului patronatului și, respectiv, al sindicatului din învățământul superior în Consiliul Agenției Române de Asigurare a Calității în Învățământul Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167466",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167466",
+     "sha256": "8948d5e2a2532434e947fea8645c0fb0e9475920854774227679224664f998ac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3676-2015",
+   "path": "ordin/educatie/2015/3676",
+   "short": "Ordin educatie nr. 3676/2015",
+   "title": "Ordinul nr. 3.676/2015 pentru modificarea Ordinului ministrului educației naționale nr. 4.432/2014 privind organizarea și desfășurarea admiterii în învățământul liceal și profesional de stat pentru anul școlar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167186",
+   "versions": [
+    {
+     "from": "2015-04-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167186",
+     "sha256": "4c3405553088568b8f38fc551d9978278b4af5a21a908239d866eaabeb7b3293"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3678-2015",
+   "path": "ordin/educatie/2015/3678",
+   "short": "Ordin educatie nr. 3678/2015",
+   "title": "Ordinul nr. 3.678/2015 privind aprobarea Metodologiei de întocmire, completare și valorificare a raportului de evaluare la finalul clasei pregătitoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167184",
+   "versions": [
+    {
+     "from": "2015-04-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167184",
+     "sha256": "519f8d4bbb18b74fe94787e7b117066c0226661d02c94370337eec3f41866122"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3684-2015",
+   "path": "ordin/educatie/2015/3684",
+   "short": "Ordin educatie nr. 3684/2015",
+   "title": "Ordinul nr. 3.684/2015 privind aprobarea Planurilor de învățământ pentru cultura de specialitate și pregătirea practică din aria curriculară Tehnologii, precum și pentru stagiul de pregătire practică (curriculum în dezvoltare locală - CDL), pentru clasele a X-a și a XI-a, învățământ profesional de stat cu durata de 3 ani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168770",
+   "versions": [
+    {
+     "from": "2015-06-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168770",
+     "sha256": "6a794e22e067aa7149230bc0b62a1322be04b72f883f431ad791b1508b9914b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3731-2015",
+   "path": "ordin/educatie/2015/3731",
+   "short": "Ordin educatie nr. 3731/2015",
+   "title": "Ordinul nr. 3.731/2015 privind aprobarea calendarului sesiunii speciale de bacalaureat 2015 pentru absolvenții de liceu participanți la loturile naționale lărgite ce se pregătesc pentru olimpiadele și concursurile internaționale, precum și pentru absolvenții de liceu care susțin examenul de admitere în universitățile din străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167672",
+   "versions": [
+    {
+     "from": "2015-05-05",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167672",
+     "sha256": "a6e6d3c2d03e83d67df9bbcbf9b713f6452044cf71c8d418a98148e99789bdfb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3751-2015",
+   "path": "ordin/educatie/2015/3751",
+   "short": "Ordin educatie nr. 3751/2015",
+   "title": "Ordinul nr. 3.751/2015 de aprobare a Metodologiei-cadru referitoare la procesul de stabilire și de alegere a structurilor și funcțiilor de conducere la nivelul instituțiilor din sistemul național de învățământ superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168048",
+   "versions": [
+    {
+     "from": "2015-05-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168048",
+     "sha256": "add63cb1079869f94d56ab1918b1fc8149e186162e46e2287615dc17b1543eff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3782-2015",
+   "path": "ordin/educatie/2015/3782",
+   "short": "Ordin educatie nr. 3782/2015",
+   "title": "Ordinul nr. 3.782/2015 privind aprobarea Metodologiei de primire la studii și școlarizare a cetățenilor străini din state terțe UE în unitățile de învățământ preuniversitar/instituțiile de învățământ superior acreditate/autorizate provizoriu, în anul școlar/universitar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168596",
+   "versions": [
+    {
+     "from": "2015-06-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168596",
+     "sha256": "fb042af4a16c7be7e6ced60f609b9a101ddd7f74c27c3cfc893173fac1cc3b0f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3800-2015",
+   "path": "ordin/educatie/2015/3800",
+   "short": "Ordin educatie nr. 3800/2015",
+   "title": "Ordinul nr. 3.800/2015 privind aprobarea Procedurilor de înscriere a organizațiilor furnizoare de educație, care organizează și desfășoară, pe teritoriul României, activități de învățământ corespunzătoare unui sistem educațional din altă țară, în Registrul special al organizațiilor furnizoare de educație care organizează și desfășoară, pe teritoriul României, activități de învățământ corespunzătoare unui sistem educațional din altă țară și de recunoaștere a studiilor efectuate de elevii școlarizați în cadrul acestor unități de învățământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168059",
+   "versions": [
+    {
+     "from": "2015-05-19",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168059",
+     "sha256": "62d1c0724c34e9f4a3b71110e651733e30c696b9b1a9ba66803e113d8d3fad7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3802-2015",
+   "path": "ordin/educatie/2015/3802",
+   "short": "Ordin educatie nr. 3802/2015",
+   "title": "Ordinul nr. 3.802/2015 privind modificarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea funcției de inspector școlar din inspectoratele școlare, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.558/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167867",
+   "versions": [
+    {
+     "from": "2015-05-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167867",
+     "sha256": "c27bcd6cc95bfa40d569fd341f33e5c26486e758767989295208f4e39603188d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3805-2015",
+   "path": "ordin/educatie/2015/3805",
+   "short": "Ordin educatie nr. 3805/2015",
+   "title": "Ordinul nr. 3.805/2015 privind fuziunea prin absorbție a unității de învățământ preuniversitar particular Grădinița \"Bel Sorriso\" din localitatea Voluntari de către unitatea de învățământ preuniversitar particular Școala Primară \"Bel Sorriso\" din localitatea Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168087",
+   "versions": [
+    {
+     "from": "2015-05-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168087",
+     "sha256": "58401d7258a31fff2aa47bac537527c2c153e2bcf4d9e1074afc18dfbaffd92d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3806-2015",
+   "path": "ordin/educatie/2015/3806",
+   "short": "Ordin educatie nr. 3806/2015",
+   "title": "Ordinul nr. 3.806/2015 privind fuziunea prin absorbție a unității de învățământ preuniversitar particular Școala \"Pro Ingenio\" din localitatea Bragadiru de către unitatea de învățământ preuniversitar particular Școala Gimnazială \"Pro Ingenio\" din localitatea Bragadiru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168061",
+   "versions": [
+    {
+     "from": "2015-05-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168061",
+     "sha256": "ec795f73a145713af46a3519eace64660fe96f18164e63856002ee1323a78273"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3814-2015",
+   "path": "ordin/educatie/2015/3814",
+   "short": "Ordin educatie nr. 3814/2015",
+   "title": "Ordinul nr. 3.814/2015 privind sesiunea specială de evaluare națională 2015 pentru elevii din clasa a VIII-a, participanți la loturile naționale de pregătire pentru olimpiadele și concursurile internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167941",
+   "versions": [
+    {
+     "from": "2015-05-14",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167941",
+     "sha256": "28611e047176f7f2e30c92fa0469b7ec09603aa1183b792c42afa5e2de20b776"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3822-2015",
+   "path": "ordin/educatie/2015/3822",
+   "short": "Ordin educatie nr. 3822/2015",
+   "title": "Ordinul nr. 3.822/2015 pentru aprobarea schemei de ajutor de stat \"Finanțarea activităților de cercetare-dezvoltare și inovare (CDI) și a investițiilor în CDI prin Programul operațional Competitivitate (POC)\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168272",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168272",
+     "sha256": "70c1718cb0fa0f1ccd49bd1ff358d6244c01cd70f26990dc920f20fc660e6a46"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3823-2015",
+   "path": "ordin/educatie/2015/3823",
+   "short": "Ordin educatie nr. 3823/2015",
+   "title": "Ordinul nr. 3.823/2015 pentru aprobarea schemei de ajutor de minimis \"Ajutor de minimis pentru sprijinirea START-UP-urilor și SPIN-OFF-urilor inovatoare\" aferentă Programului operațional Competitivitate (POC)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168651",
+   "versions": [
+    {
+     "from": "2015-06-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168651",
+     "sha256": "4fec010bd7e539ae40da1317c9959fc82369cfb7f20052304e4527ad16cf22b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3888-2015",
+   "path": "ordin/educatie/2015/3888",
+   "short": "Ordin educatie nr. 3888/2015",
+   "title": "Ordinul nr. 3.888/2015 privind aprobarea Metodologiei de alocare a fondurilor bugetare pentru finanțarea de bază și finanțarea suplimentară a instituțiilor de învățământ superior de stat din România, pentru anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169005",
+   "versions": [
+    {
+     "from": "2015-06-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169005",
+     "sha256": "f65bf800359904734a5d27be2cc0903ac7aef25214fd25093e119bf3f7761856"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3889-2015",
+   "path": "ordin/educatie/2015/3889",
+   "short": "Ordin educatie nr. 3889/2015",
+   "title": "Ordinul nr. 3.889/2015 privind aprobarea Metodologiei de alocare a fondurilor bugetare pentru finanțarea de bază și finanțarea suplimentară a instituțiilor de învățământ superior de stat din România, pentru pilotare în anul 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169156",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169156",
+     "sha256": "525bc7c5dd9638676d019733d3c72a6d125e6af550fab311c841440a452c170e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4239-2015",
+   "path": "ordin/educatie/2015/4239",
+   "short": "Ordin educatie nr. 4239/2015",
+   "title": "Ordinul nr. 4.239/2015 privind aprobarea planurilor-cadru de învățământ pentru clasele a IX-a-a XI-a, învățământul profesional cu durata de 3 ani, profilul teologic, cultul ortodox, specializarea dascăl-catehet, a listei disciplinelor de specialitate și a programelor școlare din curriculumul diferențiat pentru clasele a IX-a-a XI-a, învățământul profesional cu durata de 3 ani, profilul teologic, cultul ortodox, specializarea dascăl-catehet, și pentru completarea anexei nr. 3 la Ordinul ministrului educației naționale nr. 3.731/2014 privind aprobarea Planurilor de învățământ pentru cultura de specialitate și pregătirea practică săptămânală din aria curriculară Tehnologii, precum și pentru stagiile de pregătire practică, curriculum în dezvoltare locală - CDL, pentru clasa a IX-a, învățământ profesional de stat cu durata de 3 ani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169876",
+   "versions": [
+    {
+     "from": "2015-07-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169876",
+     "sha256": "a9f0647aef69090a51d3ce10cea3d84d25e63b2eb6114e3dab5befb16b1b36e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4265-2015",
+   "path": "ordin/educatie/2015/4265",
+   "short": "Ordin educatie nr. 4265/2015",
+   "title": "Ordinul nr. 4.265/2015 pentru modificarea și completarea Ordinului ministrului educației naționale nr. 4.430/2014 privind organizarea și desfășurarea examenului de bacalaureat național - 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169082",
+   "versions": [
+    {
+     "from": "2015-06-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169082",
+     "sha256": "2a759e87ff40bbba89d959803df47e6d844039585e2bf9ec2ecc9f0de8a2ddbd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4342-2015",
+   "path": "ordin/educatie/2015/4342",
+   "short": "Ordin educatie nr. 4342/2015",
+   "title": "Ordinul nr. 4.342/2015 pentru aprobarea Metodologiei-cadru privind organizarea și funcționarea învățământului terțiar nonuniversitar, organizat la nivelul colegiilor din cadrul instituțiilor de învățământ superior acreditate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169830",
+   "versions": [
+    {
+     "from": "2015-07-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169830",
+     "sha256": "84e0db208a095514972dab7bd39e41438c3ff06595e1509289ec537a7871fd53"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4395-2015",
+   "path": "ordin/educatie/2015/4395",
+   "short": "Ordin educatie nr. 4395/2015",
+   "title": "Ordinul nr. 4.395/2015 privind aprobarea planurilor-cadru de învățământ pentru clasele a IX-a-a XII-a, învățământ liceal, filiera vocațională, profilul teologic, cultul greco-catolic, specializarea ghid turism religios, a listei disciplinelor de specialitate din curriculumul diferențiat pentru clasele a IX-a-a XII-a, învățământul liceal, filiera vocațională, profilul teologic, cultul greco-catolic, specializarea ghid turism religios și a programelor școlare pentru disciplinele care fac parte din curriculumul diferențiat pentru clasele a IX-a-a XII-a, învățământul liceal, filiera vocațională, profilul teologic, cultul greco-catolic, specializarea ghid turism religios",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169848",
+   "versions": [
+    {
+     "from": "2015-07-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169848",
+     "sha256": "87e09333b1bf338c8ded1247e669295bfee5e281484bfedae0f086240dfee701"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4403-2015",
+   "path": "ordin/educatie/2015/4403",
+   "short": "Ordin educatie nr. 4403/2015",
+   "title": "Ordinul nr. 4.403/2015 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Național pentru Finanțarea Învățământului Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169852",
+   "versions": [
+    {
+     "from": "2015-07-17",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169852",
+     "sha256": "89374c5ec7b8dd5f86dbd7cae474ca35f4ee0ae47b3acabe9d7c4965eb1ba235"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4456-2015",
+   "path": "ordin/educatie/2015/4456",
+   "short": "Ordin educatie nr. 4456/2015",
+   "title": "Ordinul nr. 4.456/2015 privind aprobarea Cadrului general de organizare și funcționare a structurilor parteneriale consultative pentru învățământul profesional și tehnic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170619",
+   "versions": [
+    {
+     "from": "2015-08-14",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170619",
+     "sha256": "d55603cbd08371bbb7da85751fcdb3f6a686f739ac2f20d8a2ef1815a0b783d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4458-2015",
+   "path": "ordin/educatie/2015/4458",
+   "short": "Ordin educatie nr. 4458/2015",
+   "title": "Ordinul nr. 4.458/2015 privind aprobarea Metodologiei de monitorizare directă a Universității \"Bioterra\" din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/169834",
+   "versions": [
+    {
+     "from": "2015-07-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169834",
+     "sha256": "8bafaf8c839d3e88c21fe84a69ecc5f98632322e2f9ec470c6ee27d8875e8950"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4487-2015",
+   "path": "ordin/educatie/2015/4487",
+   "short": "Ordin educatie nr. 4487/2015",
+   "title": "Ordinul nr. 4.487/2015 pentru modificarea anexei nr. 2 la Ordinul ministrului educației naționale nr. 5.559/2013 privind regimul manualelor școlare în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170251",
+   "versions": [
+    {
+     "from": "2015-08-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170251",
+     "sha256": "c4cbfebc700e677902187e5b8938e1f11b2dca6ed11a05d05405e6551ea9f9e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4496-2015",
+   "path": "ordin/educatie/2015/4496",
+   "short": "Ordin educatie nr. 4496/2015",
+   "title": "Ordinul nr. 4.496/2015 privind structura anului școlar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170167",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170167",
+     "sha256": "4a87fc0fae6c09d7a70a98332cbfd277069adc9902b90c254390e6a0c9fb32c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4621-2015",
+   "path": "ordin/educatie/2015/4621",
+   "short": "Ordin educatie nr. 4621/2015",
+   "title": "Ordinul nr. 4.621/2015 pentru modificarea și completarea Metodologiei-cadru de organizare și funcționare a consiliului de administrație din unitățile de învățământ preuniversitar, aprobată prin Ordinul ministrului educației naționale nr. 4.619/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170402",
+   "versions": [
+    {
+     "from": "2015-08-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170402",
+     "sha256": "608176c18665d4267461bdecf1f5f800a7e2a6f8c931e6ca8c430c68348b4994"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4624-2015",
+   "path": "ordin/educatie/2015/4624",
+   "short": "Ordin educatie nr. 4624/2015",
+   "title": "Ordinul nr. 4.624/2015 pentru modificarea anexei nr. 1 la Regulamentul de organizare și funcționare a unităților care oferă activitate extrașcolară, aprobat prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.567/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170370",
+   "versions": [
+    {
+     "from": "2015-08-07",
+     "units": 61,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170370",
+     "sha256": "638f7f16d1c452f7b17548de1f93f183ddbc3d17a5b0d2e4d43a098c5d92f63d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4686-2015",
+   "path": "ordin/educatie/2015/4686",
+   "short": "Ordin educatie nr. 4686/2015",
+   "title": "Ordinul nr. 4.686/2015 privind aprobarea schemei de ajutor de minimis pentru sprijinirea \"Parteneriatelor pentru transfer de cunoștințe\" prin Programul operațional \"Competitivitate\" (POC)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170660",
+   "versions": [
+    {
+     "from": "2015-08-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170660",
+     "sha256": "0b22e7ac9aed3d0e4db28e30d17b14d6c96d910eabc3e066fdf47432a9394504"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4711-2015",
+   "path": "ordin/educatie/2015/4711",
+   "short": "Ordin educatie nr. 4711/2015",
+   "title": "Ordinul nr. 4.711/2015 privind aprobarea unor programe școlare pentru ciclul superior al liceului, filiera vocațională, profil pedagogic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171165",
+   "versions": [
+    {
+     "from": "2015-09-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171165",
+     "sha256": "05107709d1fa7f66dff19782b15549ef733f7a171f8ef8452371a6509f9f41e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4712-2015",
+   "path": "ordin/educatie/2015/4712",
+   "short": "Ordin educatie nr. 4712/2015",
+   "title": "Ordinul nr. 4.712/2015 privind aprobarea Calendarului desfășurării concursului de selecție a cadrelor didactice pentru constituirea corpului național de experți în management educațional, seria a 9-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170701",
+   "versions": [
+    {
+     "from": "2015-08-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170701",
+     "sha256": "e60166c3044cf6f222e71761d4e2efb4aa921115707bc53dfe03ca3c56bcad81"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4716-2015",
+   "path": "ordin/educatie/2015/4716",
+   "short": "Ordin educatie nr. 4716/2015",
+   "title": "Ordinul nr. 4.716/2015 privind aprobarea Metodologiei de evaluare a inspectorilor școlari și a fișei de evaluare-cadru a inspectorului școlar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170948",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170948",
+     "sha256": "57c4cae63a57e2b1a480ab66f996d407020b0323dff39f519decb776724408a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4822-2015",
+   "path": "ordin/educatie/2015/4822",
+   "short": "Ordin educatie nr. 4822/2015",
+   "title": "Ordinul nr. 4.822/2015 privind înființarea Centrului Național de Excelență Brașov pentru pregătirea elevelor la disciplina sportivă handbal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171107",
+   "versions": [
+    {
+     "from": "2015-09-03",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171107",
+     "sha256": "7184c46c597da1713522b9f16650d5b9136cba3befb688e0c4a899725dda8d14"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5079-2015",
+   "path": "ordin/educatie/2015/5079",
+   "short": "Ordin educatie nr. 5079/2015",
+   "title": "Ordinul nr. 5.079/2015 pentru modificarea Ordinului ministrului educației și cercetării științifice nr. 4.496/2015 privind structura anului școlar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171241",
+   "versions": [
+    {
+     "from": "2015-09-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171241",
+     "sha256": "44fe5955d6d9819bb397abbf802c97c7f8d17eb8ee572bf9a0c102636ef25e62"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5080-2015",
+   "path": "ordin/educatie/2015/5080",
+   "short": "Ordin educatie nr. 5080/2015",
+   "title": "Ordinul nr. 5.080/2015 privind organizarea și desfășurarea examenului de bacalaureat național - 2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171334",
+   "versions": [
+    {
+     "from": "2015-09-15",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171334",
+     "sha256": "a347e704bd4427b355faab3f4ee19362f996188cde560be918baed723ccf1285"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5081-2015",
+   "path": "ordin/educatie/2015/5081",
+   "short": "Ordin educatie nr. 5081/2015",
+   "title": "Ordinul nr. 5.081/2015 privind organizarea și desfășurarea evaluării naționale pentru absolvenții clasei a VIII-a în anul școlar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171341",
+   "versions": [
+    {
+     "from": "2015-09-15",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171341",
+     "sha256": "bf3b4f1fd9341ce75ac3739c696b5cc6de57c5a2235be6aa262ecee1fa5f2948"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5082-2015",
+   "path": "ordin/educatie/2015/5082",
+   "short": "Ordin educatie nr. 5082/2015",
+   "title": "Ordinul nr. 5.082/2015 privind organizarea și desfășurarea admiterii în învățământul liceal și profesional de stat pentru anul școlar 2016-2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171465",
+   "versions": [
+    {
+     "from": "2015-09-22",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171465",
+     "sha256": "23233ed7ded9343c4aabcb0f4da9a9f74b2ffe7f846df6aab18abd61e6c54a4a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5086-2015",
+   "path": "ordin/educatie/2015/5086",
+   "short": "Ordin educatie nr. 5086/2015",
+   "title": "Ordinul nr. 5.086/2015 privind aprobarea graficului de desfășurare a examenelor de certificare a calificării profesionale a absolvenților din învățământul profesional și tehnic preuniversitar în anul școlar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171756",
+   "versions": [
+    {
+     "from": "2015-10-02",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171756",
+     "sha256": "4b2764ec06ebe22e441092581e098e3aef716c1e69a4c1cbd8d7139a31316db5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5087-2015",
+   "path": "ordin/educatie/2015/5087",
+   "short": "Ordin educatie nr. 5087/2015",
+   "title": "Ordinul nr. 5.087/2015 privind modificarea Metodologiei de organizare și desfășurare a examenului de certificare a calificării absolvenților învățământului liceal, filiera vocațională, aprobată prin Ordinul ministrului educației naționale nr. 4.433/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171778",
+   "versions": [
+    {
+     "from": "2015-10-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171778",
+     "sha256": "775beb7687eb0ce9372ffefbd75f551fc525bff2b63145e3efad60fb70cbf086"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5088-2015",
+   "path": "ordin/educatie/2015/5088",
+   "short": "Ordin educatie nr. 5088/2015",
+   "title": "Ordinul nr. 5.088/2015 pentru modificarea anexei nr. 2 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.219/2010 privind recunoașterea și echivalarea rezultatelor obținute la examene cu recunoaștere internațională pentru certificarea competențelor lingvistice în limbi străine și la examene cu recunoaștere europeană pentru certificarea competențelor digitale cu probele de evaluare a competențelor lingvistice într-o limbă de circulație internațională studiată pe parcursul învățământului liceal, respectiv de evaluare a competențelor digitale, din cadrul examenului de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171786",
+   "versions": [
+    {
+     "from": "2015-10-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171786",
+     "sha256": "a8d1b15409e08659ab5579cb8fb3e672b98a73de9ec68957e1a57f60fb406d22"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5113-2015",
+   "path": "ordin/educatie/2015/5113",
+   "short": "Ordin educatie nr. 5113/2015",
+   "title": "Ordinul nr. 5.113/2015 privind aprobarea programei școlare pentru disciplina Limba turcă - limba modernă 2, clasele a V-a - a VIII-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172007",
+   "versions": [
+    {
+     "from": "2015-10-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172007",
+     "sha256": "3bed82688271644b464c65cd53bca2db6f02909db9f9cbc3ffbc356fd63fa603"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5160-2015",
+   "path": "ordin/educatie/2015/5160",
+   "short": "Ordin educatie nr. 5160/2015",
+   "title": "Ordinul nr. 5.160/2015 privind organizarea de programe de studii postuniversitare de educație permanentă de către instituțiile de învățământ superior acreditate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172437",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172437",
+     "sha256": "78241ca6441c7cd66f19e5b8b85e7ab52a3fb9bc0dad6c977af18747f74cfdc6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5231-2015",
+   "path": "ordin/educatie/2015/5231",
+   "short": "Ordin educatie nr. 5231/2015",
+   "title": "Ordinul nr. 5.231/2015 pentru aprobarea Procedurii privind alegerea reprezentantului elevilor în consiliul de administrație al unităților de învățământ preuniversitar din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171379",
+   "versions": [
+    {
+     "from": "2015-09-17",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171379",
+     "sha256": "208f25a29abac0d3d06729f1082cb688815591555119600631a295a3c1e7b7dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5232-2015",
+   "path": "ordin/educatie/2015/5232",
+   "short": "Ordin educatie nr. 5232/2015",
+   "title": "Ordinul nr. 5.232/2015 privind aprobarea Metodologiei de organizare a predării disciplinei Religie în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171548",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171548",
+     "sha256": "728377083a8a2dd438d90b279a8ec5405122fdd36408819f0320cc557dcf7fd0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5237-2015",
+   "path": "ordin/educatie/2015/5237",
+   "short": "Ordin educatie nr. 5237/2015",
+   "title": "Ordinul nr. 5.237/2015 pentru modificarea Metodologiei-cadru privind mobilitatea personalului didactic din învățământul preuniversitar în anul școlar 2015-2016, aprobată prin Ordinul ministrului educației naționale nr. 4.895/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171456",
+   "versions": [
+    {
+     "from": "2015-09-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171456",
+     "sha256": "13405f08fe7a25459f5fffe73bdc17707d1e5989062c12b937a58eb7efbb1fb0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5238-2015",
+   "path": "ordin/educatie/2015/5238",
+   "short": "Ordin educatie nr. 5238/2015",
+   "title": "Ordinul nr. 5.238/2015 pentru modificarea Metodologiei de organizare și desfășurare a concursurilor de ocupare a posturilor didactice/catedrelor care se vacantează pe parcursul anului școlar în unitățile de învățământ preuniversitar, aprobată prin Ordinul ministrului educației naționale nr. 4.959/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171457",
+   "versions": [
+    {
+     "from": "2015-09-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171457",
+     "sha256": "982e2fa047efd4f33458c85fd9c409f656f1f62b4145cb7fac7b8e67dc814407"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5239-2015",
+   "path": "ordin/educatie/2015/5239",
+   "short": "Ordin educatie nr. 5239/2015",
+   "title": "Ordinul nr. 5.239/2015 pentru modificarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea posturilor didactice/catedrelor vacante/rezervate în unitățile de învățământ particular din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.625/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171458",
+   "versions": [
+    {
+     "from": "2015-09-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171458",
+     "sha256": "fb8eeaf69c05b75d93a4143305faa58915ca1da4e21848329138935ed6576d8c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5268-2015",
+   "path": "ordin/educatie/2015/5268",
+   "short": "Ordin educatie nr. 5268/2015",
+   "title": "Ordinul nr. 5.268/2015 pentru aprobarea Metodologiei privind echivalarea de către inspectoratele școlare județene și Inspectoratul Școlar al Municipiului București a perioadelor de studii efectuate în străinătate și la organizațiile furnizoare de educație, care organizează și desfășoară pe teritoriul României activități de învățământ corespunzătoare unui sistem educațional din altă țară, înscrise în Registrul special al Agenției Române de Asigurare a Calității în Învățământul Preuniversitar și pentru aprobarea modelului atestatului de echivalare a studiilor efectuate în străinătate și în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171701",
+   "versions": [
+    {
+     "from": "2015-10-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171701",
+     "sha256": "7e33df49167e103a21e0989fc9d33c25678f9188fcb7d32df7a0656ed65cf04e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5269-2015",
+   "path": "ordin/educatie/2015/5269",
+   "short": "Ordin educatie nr. 5269/2015",
+   "title": "Ordinul nr. 5.269/2015 privind aprobarea Metodologiei de recunoaștere și echivalare a diplomelor și certificatelor obținute la absolvirea studiilor universitare de nivel licență, master sau postuniversitare la instituții acreditate de învățământ superior din străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171747",
+   "versions": [
+    {
+     "from": "2015-10-02",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171747",
+     "sha256": "c6afb0782370d7b3123386f8913a4b5142e6c1a2af4ea0bcd6adc369223b1914"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5272-2015",
+   "path": "ordin/educatie/2015/5272",
+   "short": "Ordin educatie nr. 5272/2015",
+   "title": "Ordinul nr. 5.272/2015 privind aprobarea Procedurii de aprobare a necesarului de formulare tipizate care atestă finalizarea studiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171618",
+   "versions": [
+    {
+     "from": "2015-09-28",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171618",
+     "sha256": "67a3f98162f1326b029056f6825ba6fd609738513cfcf7a396cc0652f1a750cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5286-2015",
+   "path": "ordin/educatie/2015/5286",
+   "short": "Ordin educatie nr. 5286/2015",
+   "title": "Ordinul nr. 5.286/2015 privind aprobarea Planului de învățământ pentru programul de pregătire psihopedagogică și metodică și a normelor metodologice de organizare și desfășurare a programului de pregătire psihopedagogică și metodică a maiștrilor instructori absolvenți de școli postliceale/colegii din învățământul terțiar nonuniversitar/școli de maiștri în domeniu și a antrenorilor absolvenți de liceu urmat de o școală de antrenori, școli postliceale ori colegii de învățământ terțiar nonuniversitar de profil, cu specializarea în ramura de sport respectivă, în vederea certificării pentru profesia didactică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171757",
+   "versions": [
+    {
+     "from": "2015-10-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171757",
+     "sha256": "2f98ed7de40a94781ca2412dfb094cdb080f61ac07069b2589c1fa1c50e220c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5287-2015",
+   "path": "ordin/educatie/2015/5287",
+   "short": "Ordin educatie nr. 5287/2015",
+   "title": "Ordinul nr. 5.287/2015 privind modificarea și completarea Metodologiei de organizare și desfășurare a examenului național de definitivare în învățământ, aprobată prin Ordinul ministrului educației naționale nr. 4.802/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171755",
+   "versions": [
+    {
+     "from": "2015-10-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171755",
+     "sha256": "62456853f425316cf7be18be0d644f1668c5edb05abc4967de1e34517cc31c10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5380-2015",
+   "path": "ordin/educatie/2015/5380",
+   "short": "Ordin educatie nr. 5380/2015",
+   "title": "Ordinul nr. 5.380/2015 privind modificarea Regulamentului de organizare și funcționare a Consiliului Național pentru Finanțarea Învățământului Superior, aprobat prin Ordinul ministrului educației și cercetării științifice nr. 4.403/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171807",
+   "versions": [
+    {
+     "from": "2015-10-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171807",
+     "sha256": "f85c1a84a384ed464299c18118973099d0fd84ac702080f8a917deb224ef067f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5439-2015",
+   "path": "ordin/educatie/2015/5439",
+   "short": "Ordin educatie nr. 5439/2015",
+   "title": "Ordinul nr. 5.439/2015 pentru modificarea Metodologiei privind formarea continuă a personalului din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.561/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172212",
+   "versions": [
+    {
+     "from": "2015-10-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172212",
+     "sha256": "3c9de52762d3c44903e9f47295c3bc243d748127a90d956f0c9264764ff35fbd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5442-2015",
+   "path": "ordin/educatie/2015/5442",
+   "short": "Ordin educatie nr. 5442/2015",
+   "title": "Ordinul nr. 5.442/2015 privind modificarea Metodologiei de acreditare și evaluare periodică a furnizorilor de formare continuă și a programelor de formare oferite de aceștia, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.564/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172450",
+   "versions": [
+    {
+     "from": "2015-11-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172450",
+     "sha256": "6a51f57cfc100eb5cb47279e58ba37ea3ae2700e103c5a727f2ef0d3227cc9e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5480-2015",
+   "path": "ordin/educatie/2015/5480",
+   "short": "Ordin educatie nr. 5480/2015",
+   "title": "Ordinul nr. 5.480/2015 pentru aprobarea Calendarului activităților prevăzute în Metodologia privind echivalarea pe baza ECTS/SECT a învățământului universitar de scurtă durată, realizat prin colegiul cu durata de 3 ani sau institutul pedagogic cu durată de 3 ani, cu ciclul I de studii universitare de licență, pentru cadrele didactice din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.553/2011, sesiunea 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172243",
+   "versions": [
+    {
+     "from": "2015-10-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172243",
+     "sha256": "7edc9a95a59da8fc2d2d8b43d1a356083e4fb65f95a5642df93638625dcdadac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5481-2015",
+   "path": "ordin/educatie/2015/5481",
+   "short": "Ordin educatie nr. 5481/2015",
+   "title": "Ordinul nr. 5.481/2015 pentru aprobarea Regulamentului privind regimul atestatelor de formare continuă a personalului didactic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172446",
+   "versions": [
+    {
+     "from": "2015-11-28",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172446",
+     "sha256": "8c2356ccea74ffa292532f3f8b6859d5c53b99daa6d56829560677ea2b3e091c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5510-2015",
+   "path": "ordin/educatie/2015/5510",
+   "short": "Ordin educatie nr. 5510/2015",
+   "title": "Ordinul nr. 5.510/2015 privind aprobarea Calendarului de organizare și desfășurare a examenului național de definitivare în învățământ în anul școlar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172340",
+   "versions": [
+    {
+     "from": "2015-10-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172340",
+     "sha256": "bb7f6e1828b8c4326164c8d35115c35b94a4a65b6c1be78ea168a0de99a1f149"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5530-2015",
+   "path": "ordin/educatie/2015/5530",
+   "short": "Ordin educatie nr. 5530/2015",
+   "title": "Ordinul nr. 5.530/2015 privind completarea Normelor metodologice pentru vizarea actelor de studii și a anexelor la actele de studii emise de instituțiile de învățământ superior din România, aprobate prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.436/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172399",
+   "versions": [
+    {
+     "from": "2015-10-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172399",
+     "sha256": "69bc7feb97b3679292326dbe3ec9868e0e8c94b7811ee26798425218bc3ccd76"
     }
    ]
   },
@@ -4998,6 +6678,81 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5558-2015",
+   "path": "ordin/educatie/2015/5558",
+   "short": "Ordin educatie nr. 5558/2015",
+   "title": "Ordinul nr. 5.558/2015 privind aprobarea programelor pentru susținerea examenului național de definitivare în învățământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172946",
+   "versions": [
+    {
+     "from": "2015-11-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172946",
+     "sha256": "d2357b655ee5ecfc6d56d9075f5ba35e1c4890cd83625a66691dd656e87ecfbc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5559-2015",
+   "path": "ordin/educatie/2015/5559",
+   "short": "Ordin educatie nr. 5559/2015",
+   "title": "Ordinul nr. 5.559/2015 pentru aprobarea Metodologiei-cadru privind mobilitatea personalului didactic de predare din învățământul preuniversitar în anul școlar 2016-2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172970",
+   "versions": [
+    {
+     "from": "2015-11-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172970",
+     "sha256": "aefb3d7b9a047f9b068d0eb25aa37f6d1069e2533d020a7c4681984b4cc456b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5575-2015",
+   "path": "ordin/educatie/2015/5575",
+   "short": "Ordin educatie nr. 5575/2015",
+   "title": "Ordinul nr. 5.575/2015 privind aprobarea unor programe pentru concursul național de ocupare a posturilor didactice/catedrelor declarate vacante/rezervate în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173926",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173926",
+     "sha256": "a5a43133dfd7a62c74e9d95613591a924f15978b698b949c457d90069795c7d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5602-2015",
+   "path": "ordin/educatie/2015/5602",
+   "short": "Ordin educatie nr. 5602/2015",
+   "title": "Ordinul nr. 5.602/2015 pentru modificarea și completarea Ordinului ministrului educației, cercetării și tineretului nr. 2.713/2007 referitor la aprobarea standardului de pregătire profesională, a planului de învățământ și a programei școlare pentru calificarea asistent medical generalist pentru care se asigură pregătirea prin învățământul preuniversitar postliceal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173397",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173397",
+     "sha256": "39be1b75193cbc05e61da6c58f20c21913b02b591403c99125d5560fa33500ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5613-2015",
+   "path": "ordin/educatie/2015/5613",
+   "short": "Ordin educatie nr. 5613/2015",
+   "title": "Ordinul nr. 5.613/2015 privind aprobarea modelului certificatului de absolvire utilizat la finalizarea programelor de educație permanentă de nivel postuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173265",
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173265",
+     "sha256": "e9508553e3b35cb453b2af1923406ce82f6c4d5d3ad0a2e8cb956d278e01cdb7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5629-2015",
    "path": "ordin/educatie/2015/5629",
    "short": "Ordin educatie nr. 5629/2015",
@@ -5009,6 +6764,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173228",
      "sha256": "b2f41a0e4ee04e0e20d28a96e25f4dc49edeae9e6f7de36b85d482dc02906ea3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5638-2015",
+   "path": "ordin/educatie/2015/5638",
+   "short": "Ordin educatie nr. 5638/2015",
+   "title": "Ordinul nr. 5.638/2015 pentru modificarea Metodologiei privind eliberarea, pentru cetățenii care au studiat în România, a adeverinței de conformitate a studiilor cu prevederile Directivei 2005/36/CE a Parlamentului European și a Consiliului din 7 septembrie 2005 privind recunoașterea calificărilor profesionale, în vederea desfășurării activității didactice în străinătate, aprobată prin Ordinul ministrului educației naționale nr. 3.590/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173389",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173389",
+     "sha256": "133499848e652fed30cf2ca371d50e444714feea88fdd0f00f019217194e72d4"
     }
    ]
   },
@@ -5103,6 +6873,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5860-2015",
+   "path": "ordin/educatie/2015/5860",
+   "short": "Ordin educatie nr. 5860/2015",
+   "title": "Ordinul nr. 5.860/2015 pentru modificarea anexei nr. 1 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.644/2012 privind unele măsuri de organizare și funcționare a Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173750",
+   "versions": [
+    {
+     "from": "2015-12-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173750",
+     "sha256": "27bed2dec445c2df29bdd80297ba184eb7220e3eb96b324dcbb50686df69d84b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5873-2015",
+   "path": "ordin/educatie/2015/5873",
+   "short": "Ordin educatie nr. 5873/2015",
+   "title": "Ordinul nr. 5.873/2015 pentru abrogarea Ordinului ministrului educației, cercetării, tineretului și sportului, interimar, nr. 4.393/2012 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Național de Etică a Cercetării Științifice, Dezvoltării Tehnologice și Inovării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173649",
+   "versions": [
+    {
+     "from": "2015-12-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173649",
+     "sha256": "3d2b63ba84ae3c90712fc4937e1fd627964065d9688f7ecdea44d52fb327d7d5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5992-2015",
    "path": "ordin/educatie/2015/5992",
    "short": "Ordin educatie nr. 5992/2015",
@@ -5114,6 +6914,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174259",
      "sha256": "05390356f9ce0e6a0172dfead9c2dac54b2b4007ed4233f0534fc99795503988"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6020-2015",
+   "path": "ordin/educatie/2015/6020",
+   "short": "Ordin educatie nr. 6020/2015",
+   "title": "Ordinul nr. 6.020/2015 privind modificarea anexei la Ordinul ministrului educației și cercetării științifice nr. 3.170/2015 privind aprobarea modelului de Standard ocupațional pentru educație și formare profesională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175052",
+   "versions": [
+    {
+     "from": "2016-01-19",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175052",
+     "sha256": "5bfd0985e1e49817d944f29373b388d5c3595372e5bde6cd4dda907730991fb4"
     }
    ]
   },
@@ -5231,7 +7046,7 @@
    "versions": [
     {
      "from": "2015-10-05",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171774",
      "sha256": "1ab5079757557661a84c48b215c049db54e3ab0bb109cb39d80cb9447f385285"
     }
@@ -5666,7 +7481,7 @@
    "versions": [
     {
      "from": "2015-04-01",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166896",
      "sha256": "599255cae1749951877a989bf686ad8000f81004cd067d31b3150dc8b6521053"
     }
@@ -5681,7 +7496,7 @@
    "versions": [
     {
      "from": "2015-04-03",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166976",
      "sha256": "7b87c51c9e898315a43f7bc2f515396e2f59fcdad37f3c5cb8e16711f3163a3d"
     }
@@ -6086,7 +7901,7 @@
    "versions": [
     {
      "from": "2015-05-08",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167821",
      "sha256": "541e58df3aa61462ae1b2bd0a63edfbca952dbb7067bbab87bd8f4501576d5d0"
     }
@@ -6146,7 +7961,7 @@
    "versions": [
     {
      "from": "2015-04-29",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167546",
      "sha256": "b15b2b389ee57abbdbb93bd75af7e9eb683ef34d3dfc0129dec8c1110c1bae65"
     }
@@ -6326,7 +8141,7 @@
    "versions": [
     {
      "from": "2015-06-22",
-     "units": 9,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169004",
      "sha256": "35ce9254f9b2b47dd8ba6635f7226576e876233820190daf37ab463477e057b4"
     }
@@ -6401,7 +8216,7 @@
    "versions": [
     {
      "from": "2015-06-28",
-     "units": 2,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169191",
      "sha256": "fa767de3edd9bcc96a4d07b6f76209ec1bebda31cb198e908c5152f8156fca08"
     }
@@ -6686,7 +8501,7 @@
    "versions": [
     {
      "from": "2015-01-30",
-     "units": 7,
+     "units": 21,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165249",
      "sha256": "65500a1e4b26880d221d99d8fe4b3312e6a72305c39800a9057fbcdc01f07750"
     }
@@ -7841,7 +9656,7 @@
    "versions": [
     {
      "from": "2015-09-24",
-     "units": 4,
+     "units": 36,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171576",
      "sha256": "4da3dd47b9c98b4db2d4ad6b96753b23bc1d4e0bbb6394e454a7f589f6f92360"
     }
@@ -7856,7 +9671,7 @@
    "versions": [
     {
      "from": "2015-09-15",
-     "units": 4,
+     "units": 36,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171342",
      "sha256": "d3811c12b1f16658a1ce5eda401c4f39e54939d69eb231fe9d15d4ae4c5fc021"
     }
@@ -7871,7 +9686,7 @@
    "versions": [
     {
      "from": "2015-09-22",
-     "units": 4,
+     "units": 36,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171441",
      "sha256": "10f9852f5b9f7d6caac4a339b04c37d9543a39b03f0af886b9b21b0dc205011c"
     }
@@ -8006,7 +9821,7 @@
    "versions": [
     {
      "from": "2015-03-12",
-     "units": 8,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166330",
      "sha256": "80073d2a71f5715adbbba7fa84ce52d85ed41d6d5caf3c0095791570e724641d"
     }
@@ -8801,7 +10616,7 @@
    "versions": [
     {
      "from": "2015-03-09",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166196",
      "sha256": "18549d43d09fe7c18b708c0ca93019a59b7436f4e3aecf424e2d0b06e1250e2e"
     }
@@ -8921,7 +10736,7 @@
    "versions": [
     {
      "from": "2015-10-22",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172297",
      "sha256": "091985677ad90fd0d2dbbb20f643df1110b6958d4dbbf1d49429a883f85664e6"
     }
@@ -8981,7 +10796,7 @@
    "versions": [
     {
      "from": "2015-11-27",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173482",
      "sha256": "9fbe321c31ba14e9c6b66626ca82cb96e2acbe970a370fd2b6386b090c0f1d6c"
     }
@@ -9011,7 +10826,7 @@
    "versions": [
     {
      "from": "2015-11-13",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172967",
      "sha256": "480d1c545048fe0cd43503d6dfda95e699af1ef35a53618cccdb943222569556"
     }
@@ -9086,7 +10901,7 @@
    "versions": [
     {
      "from": "2015-03-25",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166643",
      "sha256": "dc8e8bb445f708e4a0781b3cd982626c6265de03f50c890a2805d1da075191e4"
     }
@@ -9401,7 +11216,7 @@
    "versions": [
     {
      "from": "2015-10-21",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172211",
      "sha256": "fdfe8eba3ff8b531a8eb97978827379af89745387e866365b1cfa17df2da298a"
     }
@@ -9446,7 +11261,7 @@
    "versions": [
     {
      "from": "2015-10-26",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172355",
      "sha256": "659a5b8aec2fb9ae5b94164281879e159e5d1fe2e770d43a28eb4d131d68afa5"
     }
@@ -9461,7 +11276,7 @@
    "versions": [
     {
      "from": "2015-11-05",
-     "units": 8,
+     "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172701",
      "sha256": "835751aa638aa80b122c83231b47cbd2f23a4d8725e6497d1e8f52d61daacddb"
     }
@@ -9476,7 +11291,7 @@
    "versions": [
     {
      "from": "2015-11-03",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172574",
      "sha256": "15e8be49dd407e1fc2a1ee537f398387821f549e9518fca9ede88b7e652e768a"
     }
@@ -9566,7 +11381,7 @@
    "versions": [
     {
      "from": "2015-02-24",
-     "units": 22,
+     "units": 30,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165944",
      "sha256": "bb10208fe6fef9bc701683016881697dc02d16877a811483e5c8f90713581181"
     }
@@ -9686,7 +11501,7 @@
    "versions": [
     {
      "from": "2016-01-06",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174638",
      "sha256": "a76c2ef29ed2326a1393244df97e72dce85e2eeaf133412a89d6199cd44ecfaf"
     }
@@ -9701,7 +11516,7 @@
    "versions": [
     {
      "from": "2015-12-30",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174497",
      "sha256": "59d830178a5084a5dbef3d514cf6e46900c6115cf40eff1d8f4a12b064ad8cc3"
     }
@@ -9866,7 +11681,7 @@
    "versions": [
     {
      "from": "2015-03-18",
-     "units": 7,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166463",
      "sha256": "ec82e6e13d61e907cb83a7b0d01403c6b2bf2a3abfa40ddca5a5e61d2afa5f7e"
     }
@@ -9881,7 +11696,7 @@
    "versions": [
     {
      "from": "2015-01-14",
-     "units": 15,
+     "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164635",
      "sha256": "28334dc15f01c2b70219eb4e64fc882eca8ddcde5a3303620a3e07837e857e9f"
     }
@@ -9926,7 +11741,7 @@
    "versions": [
     {
      "from": "2015-03-24",
-     "units": 14,
+     "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166592",
      "sha256": "28c83dafb9791a4b92f3e0849bbf8863873dc95bb0faaae40dc69093e36a38b5"
     }
@@ -9986,7 +11801,7 @@
    "versions": [
     {
      "from": "2015-04-14",
-     "units": 18,
+     "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167154",
      "sha256": "a2899c3482245a1bcf64f117d526efe75bb919eccb68a8349c426fb82b462994"
     }
@@ -10151,7 +11966,7 @@
    "versions": [
     {
      "from": "2015-04-15",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167176",
      "sha256": "7cd6c81e197d3fa24262401aa73c25a313ae1c1d23f85d33f6a20702c871900c"
     }
@@ -10196,7 +12011,7 @@
    "versions": [
     {
      "from": "2015-04-14",
-     "units": 6,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167148",
      "sha256": "fca1b9f91927de984b9913a2960f0f2b6c40223e0bd25af927f88bede291d7dc"
     }
@@ -10556,7 +12371,7 @@
    "versions": [
     {
      "from": "2015-06-08",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168610",
      "sha256": "3e69d7a71adb1bc631c4b33cf5a94c62b85f9d8baf1d314309c1f30f037c63f5"
     }
@@ -10631,7 +12446,7 @@
    "versions": [
     {
      "from": "2015-06-18",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168954",
      "sha256": "ec3c6bf994356d902b992afb7a60587793ccd43d4f6d235439b6c01b4d056358"
     }
@@ -10736,7 +12551,7 @@
    "versions": [
     {
      "from": "2015-02-16",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165711",
      "sha256": "fa513ae3400812aab7dfd3a3223ec3766c5e45a461b2ca8c519997e4efd97156"
     }
@@ -10826,7 +12641,7 @@
    "versions": [
     {
      "from": "2015-07-16",
-     "units": 33,
+     "units": 45,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169827",
      "sha256": "e8bd598321b31f22b3bdfcfb4fc8fad133ca852716e3db87e6ef8d7119451408"
     }
@@ -10856,7 +12671,7 @@
    "versions": [
     {
      "from": "2015-07-24",
-     "units": 5,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170039",
      "sha256": "8a2c413498e44b9681a92f736d1d9f4a8b2d69cdd8a437781e0a1a50f9c02ec2"
     }
@@ -10871,7 +12686,7 @@
    "versions": [
     {
      "from": "2015-07-24",
-     "units": 33,
+     "units": 43,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170008",
      "sha256": "c02d1b501c1d62f4ce2dc132bfc2458b6e21ea203965011c86b0df4c39bdb777"
     }
@@ -10931,7 +12746,7 @@
    "versions": [
     {
      "from": "2015-08-03",
-     "units": 12,
+     "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170263",
      "sha256": "56354f81f473681e62b3c1286f6aaa67eaa0727a6ac6fb58d574c5876001e66d"
     }

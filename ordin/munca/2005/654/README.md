@@ -2,7 +2,7 @@
 
 Ordin munca nr. 654/2005 · 1 versions, from 2005-09-16 (latest in force: 2005-09-16) · <https://legislatie.just.ro/Public/DetaliiDocument/65062>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 GRILA DE EVALUARE Denumirea asociației/fundației solicitante_________________________________ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -13,6 +13,8 @@ Ordin munca nr. 654/2005 · 1 versions, from 2005-09-16 (latest in force: 2005-0
 | Art. 5 | [art-005.md](art-005.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
 Act id: `ordin-munca-654-2005` (tags `ordin-munca-654-2005/<day>`; `python tools/on.py <day> ordin-munca-654-2005`).
 
@@ -23,4 +25,4 @@ Act id: `ordin-munca-654-2005` (tags `ordin-munca-654-2005/<day>`; `python tools
 - Ordin munca nr. 654/2005: the first version is the order as published in Monitorul Oficial nr. 839 of 16 September 2005 (document 65062 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin munca nr. 654/2005: the signatures and the place and date line after its last article are not article text.
 - Ordin munca nr. 654/2005: Anexa nr. 1 (1 REGULAMENT 02/09/2005) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 65062 of the official web service.
-- Ordin munca nr. 654/2005: Anexa nr. 2 (2 GRILA DE EVALUARE Denumirea asociației/fundației solicitante_________________________________ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin munca nr. 654/2005: Anexa nr. 2 (2 GRILA DE EVALUARE Denumirea asociației/fundației solicitante_________________________________ Adresa_____________________________________________________________________ Persoană de contact_________) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 65062 of the official web service.

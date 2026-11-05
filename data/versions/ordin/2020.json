@@ -48,6 +48,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-126-2020",
+   "path": "ordin/agricultura/2020/126",
+   "short": "Ordin agricultura nr. 126/2020",
+   "title": "Ordinul nr. 126/2020 privind aprobarea sistemelor de sancțiuni pentru măsura 14 \"Bunăstarea animalelor\" pachetul a) - Plăți în favoarea bunăstării porcinelor și pachetul b) - Plăți în favoarea bunăstării păsărilor din cadrul Programului Național de Dezvoltare Rurală 2014-2020 aferente cererilor de plată depuse începând cu anul 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226533",
+   "versions": [
+    {
+     "from": "2020-06-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226533",
+     "sha256": "560b5892b1c677b7cb105cacd24dcd1640ff3a7deec2d2ecbc9d7fa7649eb4c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-134-2020",
+   "path": "ordin/agricultura/2020/134",
+   "short": "Ordin agricultura nr. 134/2020",
+   "title": "Ordinul nr. 134/2020 privind aprobarea Criteriilor de autorizare a stupinelor de elită și a stupinelor de multiplicare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225966",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225966",
+     "sha256": "81a75947b3cf0ba94ecd9940f03e9fee081f85848ff2d2412dd8509478b90eb7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-137-2020",
+   "path": "ordin/agricultura/2020/137",
+   "short": "Ordin agricultura nr. 137/2020",
+   "title": "Ordinul nr. 137/2020 privind aprobarea sistemului de sancțiuni aplicabil începând cu anul 2020 pentru cererile de sprijin/plată depuse conform angajamentelor ce fac obiectul schemei de ajutor de stat \"Servicii de silvomediu, servicii climatice și conservarea pădurilor\", aferentă măsurii 15 \"Servicii de silvomediu, servicii climatice și conservarea pădurilor\", submăsura 15.1 \"Plăți pentru angajamente de silvomediu\" din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226503",
+   "versions": [
+    {
+     "from": "2020-06-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226503",
+     "sha256": "309b432c9d03c373846a5a23a2b8a0de5c4d870a3b7edc416c8d4fbc0b06933c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-143-2020",
    "path": "ordin/agricultura/2020/143",
    "short": "Ordin agricultura nr. 143/2020",
@@ -59,6 +104,81 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226505",
      "sha256": "e23301f581863f8a864a6c6603df101ddd3750d71da0713ff25bde1ea160eda4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-182-2020",
+   "path": "ordin/agricultura/2020/182",
+   "short": "Ordin agricultura nr. 182/2020",
+   "title": "Ordinul nr. 182/2020 privind aprobarea Normelor de prevenire și stingere a incendiilor specifice activităților sectoarelor din domeniul agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228008",
+   "versions": [
+    {
+     "from": "2020-08-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228008",
+     "sha256": "2b8249793cc4f29c8d96780e2229dc5de2aa772af4b4c8eeed30f504b707e865"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-193-2020",
+   "path": "ordin/agricultura/2020/193",
+   "short": "Ordin agricultura nr. 193/2020",
+   "title": "Ordinul nr. 193/2020 privind aprobarea Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229017",
+   "versions": [
+    {
+     "from": "2020-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229017",
+     "sha256": "32412480652f3d99af69d6cd9e4bdda7a5b08b2731bacae4452b79d58a5beebb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-21-2020",
+   "path": "ordin/agricultura/2020/21",
+   "short": "Ordin agricultura nr. 21/2020",
+   "title": "Ordinul nr. 21/2020 pentru aprobarea nivelului comisioanelor de garantare pentru anul 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222523",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222523",
+     "sha256": "2053428279e527dfad4cb02c8007e4bf8d6478fb5ebb175a879cb3553d5c3ac1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-211-2020",
+   "path": "ordin/agricultura/2020/211",
+   "short": "Ordin agricultura nr. 211/2020",
+   "title": "Ordinul nr. 211/2020 privind organizarea și funcționarea registrului cumpărătorilor înregistrați din sectorul pescăresc la Marea Neagră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228711",
+   "versions": [
+    {
+     "from": "2020-08-07",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228711",
+     "sha256": "a1dd59f66a4bb6bc0b9510b3ac5ea6cf78c36ba8cb8ac55d7d2ca0e39e1468af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-212-2020",
+   "path": "ordin/agricultura/2020/212",
+   "short": "Ordin agricultura nr. 212/2020",
+   "title": "Ordinul nr. 212/2020 pentru aprobarea cantităților de motorină aferente perioadelor 31 iulie 2019-30 septembrie 2019 și 1 ianuarie 2020-31 martie 2020, determinate la plată și nedecontate de către Agenția de Plăți și Intervenție pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228491",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228491",
+     "sha256": "cc7dd5b26e6d664fb166d9dcfc751912b73d6bb3844f9fb112051970ef4508fb"
     }
    ]
   },
@@ -78,6 +198,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-240-2020",
+   "path": "ordin/agricultura/2020/240",
+   "short": "Ordin agricultura nr. 240/2020",
+   "title": "Ordinul nr. 240/2020 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de distilare a vinului în situații de criză, eligibilă pentru finanțare în cadrul Programului național de sprijin în sectorul vitivinicol 2019-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229614",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229614",
+     "sha256": "3a93673c8ce6f078058ee89b47dcc25c59beb93302989c535e882e3f86790b0f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-25-2020",
    "path": "ordin/agricultura/2020/25",
    "short": "Ordin agricultura nr. 25/2020",
@@ -89,6 +224,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224803",
      "sha256": "f55b83b11701644069d5dd300ae2be44b35002cdc2f4065a3dc641f4c106e36e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-273-2020",
+   "path": "ordin/agricultura/2020/273",
+   "short": "Ordin agricultura nr. 273/2020",
+   "title": "Ordinul nr. 273/2020 pentru aprobarea Listei soiurilor de struguri de vin care pot fi plantate, replantate, altoite pe teritoriul României în scopul producerii vinului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230618",
+   "versions": [
+    {
+     "from": "2020-10-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230618",
+     "sha256": "a574323b753397f60f09b15574d86d3ecc7cf5a3cf65b13787b73bdce31e766d"
     }
    ]
   },
@@ -108,6 +258,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-294-2020",
+   "path": "ordin/agricultura/2020/294",
+   "short": "Ordin agricultura nr. 294/2020",
+   "title": "Ordinul nr. 294/2020 privind stabilirea metodologiei de calcul al suprafețelor de terenuri cultivate cu soiuri de plante pentru producția destinată furajării animalelor corespunzătoare numărului de animale deținute de contribuabili, persoane fizice/membri ai asocierilor fără personalitate juridică, care nu generează venit impozabil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/238855",
+   "versions": [
+    {
+     "from": "2021-03-05",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/238855",
+     "sha256": "f466e8d695e4be48ea034e6cb83ae0a1096360d50d72d70fb3945c0b11c624c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-304-2020",
+   "path": "ordin/agricultura/2020/304",
+   "short": "Ordin agricultura nr. 304/2020",
+   "title": "Ordinul nr. 304/2020 pentru aprobarea Procedurii de selecție a organizațiilor profesionale din sectorul agricol și agroalimentar în grupurile de dialog civil naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232538",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232538",
+     "sha256": "03f3b76ad61a80d089e0afd95d9ec36ff04368f580acde1e7290862fe2fdc910"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-311-2020",
    "path": "ordin/agricultura/2020/311",
    "short": "Ordin agricultura nr. 311/2020",
@@ -119,6 +299,51 @@
      "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237160",
      "sha256": "9820bd076327dcb5ce37fd72a8f0952725b5867f256c72dcf8478631189dec48"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-316-2020",
+   "path": "ordin/agricultura/2020/316",
+   "short": "Ordin agricultura nr. 316/2020",
+   "title": "Ordinul nr. 316/2020 pentru aprobarea Ghidului solicitantului pentru măsura II.11 \"Măsuri de sănătate publică\" din Programul operațional pentru pescuit și afaceri maritime 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232937",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232937",
+     "sha256": "97b4a4a6b92b7564cbfcd8e23758617fef4af00f88cf2259a83866862d98ae0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-323-2020",
+   "path": "ordin/agricultura/2020/323",
+   "short": "Ordin agricultura nr. 323/2020",
+   "title": "Ordinul nr. 323/2020 privind aprobarea Normelor metodologice de aplicare a Legii apiculturii nr. 383/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233608",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233608",
+     "sha256": "e7284ff5fe3e6a4a99acc265728947fd98d97787ded8d92bea9fb649e1a70878"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-347-2020",
+   "path": "ordin/agricultura/2020/347",
+   "short": "Ordin agricultura nr. 347/2020",
+   "title": "Ordinul nr. 347/2020 pentru aprobarea cantităților de motorină aferente perioadei 1 aprilie 2020-30 iunie 2020, determinate la plată și nedecontate de către Agenția de Plăți și Intervenție pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235351",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235351",
+     "sha256": "1542738051c08edb1d9cde902fd19a515b741254bbc03d3e6338a9eae5e09c1b"
     }
    ]
   },
@@ -138,6 +363,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-42-2020",
+   "path": "ordin/agricultura/2020/42",
+   "short": "Ordin agricultura nr. 42/2020",
+   "title": "Ordinul nr. 42/2020 privind aprobarea tarifelor pentru efectuarea lucrărilor de examinare a soiurilor pentru care se solicită înscrierea în Catalogul oficial al soiurilor de plante de cultură din România și în Lista recomandată a soiurilor, precum și pentru verificarea purității varietale a soiurilor multiplicate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224703",
+   "versions": [
+    {
+     "from": "2020-04-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224703",
+     "sha256": "b05165aab2bc490924f1a9f690d7851177d9a1e769fbecd75327e241b5a21c8f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-43-2020",
    "path": "ordin/agricultura/2020/43",
    "short": "Ordin agricultura nr. 43/2020",
@@ -149,6 +389,36 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223480",
      "sha256": "3889cfd65b93b2d06ac7c8d56d9c4947b199c0c740ea0d165f1eb9b6a849b53b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-50-2020",
+   "path": "ordin/agricultura/2020/50",
+   "short": "Ordin agricultura nr. 50/2020",
+   "title": "Ordinul nr. 50/2020 privind aprobarea tarifelor pentru procedurile de examinare în vederea acordării protecției noilor soiuri de plante, eliberarea brevetului pentru soi și înregistrarea denumirii soiurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224651",
+   "versions": [
+    {
+     "from": "2020-04-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224651",
+     "sha256": "4da97a7320f26ef18b7d6a38b7081df9ea5d2193e33d11c0ddbdb6c67a9f2a99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-52-2020",
+   "path": "ordin/agricultura/2020/52",
+   "short": "Ordin agricultura nr. 52/2020",
+   "title": "Ordinul nr. 52/2020 privind aprobarea formularului-tip al cererii unice de plată pentru anul 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223219",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223219",
+     "sha256": "d20df14ff5ecb0a5d0c7991ffa36b4d277476d74ec867e673f85f4a17a29e5c3"
     }
    ]
   },
@@ -4968,6 +5238,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3063-2020",
+   "path": "ordin/educatie/2020/3063",
+   "short": "Ordin educatie nr. 3063/2020",
+   "title": "Ordinul nr. 3.063/2020 pentru modificarea și completarea Metodologiei-cadru de organizare și înregistrare a programelor postuniversitare de către instituțiile de învățământ superior, aprobată prin Ordinul ministrului educației naționale nr. 4.750/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222654",
+   "versions": [
+    {
+     "from": "2020-02-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222654",
+     "sha256": "1de023e25eb44e90b536ec87b4d3d84f8a108fedbd58c498312eb4b8a2172fa0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3066-2020",
    "path": "ordin/educatie/2020/3066",
    "short": "Ordin educatie nr. 3066/2020",
@@ -5088,6 +5373,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3237-2020",
+   "path": "ordin/educatie/2020/3237",
+   "short": "Ordin educatie nr. 3237/2020",
+   "title": "Ordinul nr. 3.237/2020 pentru modificarea alineatului (1) al articolului 2 din Ordinul ministrului educației naționale nr. 3.714/2018 privind aprobarea Regulamentului de organizare, funcționare și operaționalizare a Registrului Matricol Unic al Universităților din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223272",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223272",
+     "sha256": "3696cf3486e9ec11649ea5be7fdcd2362ca2f97204de375f0b6ac82431a113ed"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3244-2020",
    "path": "ordin/educatie/2020/3244",
    "short": "Ordin educatie nr. 3244/2020",
@@ -5133,6 +5433,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3309-2020",
+   "path": "ordin/educatie/2020/3309",
+   "short": "Ordin educatie nr. 3309/2020",
+   "title": "Ordinul nr. 3.309/2020 pentru modificarea Criteriilor generale de admitere în învățământul postliceal, aprobate prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.346/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223381",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223381",
+     "sha256": "a0ec576de40ca0c4671e9c85d271d1bad39dbe247aa0a3002cee12174f31f2c7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3310-2020",
    "path": "ordin/educatie/2020/3310",
    "short": "Ordin educatie nr. 3310/2020",
@@ -5159,6 +5474,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223522",
      "sha256": "25cc4fa2e2e3375cea334f5ebdeb5948f25130bd0049d36a06745da7238dc41f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3374-2020",
+   "path": "ordin/educatie/2020/3374",
+   "short": "Ordin educatie nr. 3374/2020",
+   "title": "Ordinul nr. 3.374/2020 pentru completarea Centralizatorului privind disciplinele din învățământul preuniversitar, domeniile și specializările absolvenților învățământului liceal pedagogic, postliceal și superior, probele de concurs valabile pentru încadrarea personalului didactic din învățământul preuniversitar, precum și disciplinele pentru examenul național de definitivare în învățământ 2020, aprobat prin Ordinul ministrului educației și cercetării nr. 3.092/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223928",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223928",
+     "sha256": "a7c0b63f7e347a3a79d9aa6597d3e8a79cff33a2076772db54e035cbab15f46f"
     }
    ]
   },
@@ -5223,6 +5553,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4019-2020",
+   "path": "ordin/educatie/2020/4019",
+   "short": "Ordin educatie nr. 4019/2020",
+   "title": "Ordinul nr. 4.019/2020 privind suspendarea organizării și desfășurării evaluărilor naționale la finalul claselor a II-a, a IV-a și a VI-a, a simulării evaluării naționale pentru absolvenții clasei a VIII-a și a simulării probelor scrise ale examenului de bacalaureat național, în anul școlar 2019-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224775",
+   "versions": [
+    {
+     "from": "2020-04-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224775",
+     "sha256": "a771a442450e888d20511ef82e344d57fc5c99e82f257efbe03a0b3223bb273b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4020-2020",
    "path": "ordin/educatie/2020/4020",
    "short": "Ordin educatie nr. 4020/2020",
@@ -5234,6 +5579,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224746",
      "sha256": "7d74fade3995811974880539af2c55a52732026b377d5d3e385eca4439fc6e9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4032-2020",
+   "path": "ordin/educatie/2020/4032",
+   "short": "Ordin educatie nr. 4032/2020",
+   "title": "Ordinul nr. 4.032/2020 privind modificarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225405",
+   "versions": [
+    {
+     "from": "2020-05-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225405",
+     "sha256": "6b3c26fb95939f1928169e0a65bf1e5a47d8355f97a56e00695d9cbb1b893024"
     }
    ]
   },
@@ -5253,6 +5613,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4205-2020",
+   "path": "ordin/educatie/2020/4205",
+   "short": "Ordin educatie nr. 4205/2020",
+   "title": "Ordinul nr. 4.205/2020 pentru modificarea și completarea Metodologiei-cadru privind organizarea admiterii în ciclurile de studii universitare de licență, de master și de doctorat, aprobată prin Ordinul ministrului educației naționale și cercetării științifice nr. 6.102/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225480",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225480",
+     "sha256": "4d09bad8dccce32902b3c19cde9f9311f6f577edef711715a4dde8573641288f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4206-2020",
    "path": "ordin/educatie/2020/4206",
    "short": "Ordin educatie nr. 4206/2020",
@@ -5264,6 +5639,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225481",
      "sha256": "994a3a2682b8d5c03caac55ded6ecb1dd6ad8b101c4fae2904cb4fda83d702a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4216-2020",
+   "path": "ordin/educatie/2020/4216",
+   "short": "Ordin educatie nr. 4216/2020",
+   "title": "Ordinul nr. 4.216/2020 pentru completarea Metodologiei-cadru de organizare și înregistrare a programelor postuniversitare de către instituțiile de învățământ superior, aprobată prin Ordinul ministrului educației naționale nr. 4.750/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225885",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225885",
+     "sha256": "01981b88af5a397895de063c5e5dec72afd6e97d041b2a8f67fd1e99c3880395"
     }
    ]
   },
@@ -5298,6 +5688,66 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4244-2020",
+   "path": "ordin/educatie/2020/4244",
+   "short": "Ordin educatie nr. 4244/2020",
+   "title": "Ordinul nr. 4.244/2020 pentru modificarea și completarea calendarului și a metodologiei de înscriere a copiilor în învățământul primar pentru anul școlar 2020-2021, aprobate prin Ordinul ministrului educației și cercetării nr. 3.277/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225581",
+   "versions": [
+    {
+     "from": "2020-05-14",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225581",
+     "sha256": "eaf86af2f1427fe9030a0c8288f375276dc50fb7758432e49d77c694785f3e42"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4247-2020",
+   "path": "ordin/educatie/2020/4247",
+   "short": "Ordin educatie nr. 4247/2020",
+   "title": "Ordinul nr. 4.247/2020 pentru modificarea și completarea Metodologiei de evaluare anuală a activității personalului didactic și didactic auxiliar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 6.143/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225888",
+   "versions": [
+    {
+     "from": "2020-05-19",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225888",
+     "sha256": "e44ad96de911dd4039ec0ecd3821db235f4a06f2e3c9c6be7950141e75b5bed1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4249-2020",
+   "path": "ordin/educatie/2020/4249",
+   "short": "Ordin educatie nr. 4249/2020",
+   "title": "Ordinul nr. 4.249/2020 pentru modificarea și completarea Regulamentului-cadru de organizare și funcționare a unităților de învățământ preuniversitar, aprobat prin Ordinul ministrului educației naționale și cercetării științifice nr. 5.079/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225806",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225806",
+     "sha256": "9f69b2d446f77b538c28c4d3b46f70bf62ce82c9a8236231c477976b7611b72f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4253-2020",
+   "path": "ordin/educatie/2020/4253",
+   "short": "Ordin educatie nr. 4253/2020",
+   "title": "Ordinul nr. 4.253/2020 pentru modificarea anexei la Ordinul ministrului educației și cercetării nr. 3.241/2020 privind aprobarea Calendarului activităților prevăzute în Metodologia privind echivalarea pe baza ECTS/SECT a învățământului universitar de scurtă durată, realizat prin colegiul cu durata de 3 ani sau institutul pedagogic cu durată de 3 ani, cu ciclul I de studii universitare de licență, pentru cadrele didactice din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.553/2011, sesiunea 2019-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225807",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225807",
+     "sha256": "f2ca80a5f1bf9398f5f1e3bb827662dd50ab923232b3d6b5ce6a4cb7f2a7e28a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4259-2020",
    "path": "ordin/educatie/2020/4259",
    "short": "Ordin educatie nr. 4259/2020",
@@ -5309,6 +5759,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225851",
      "sha256": "0c4afce9817bf1a1763378f2d6dfb1472d8082a124d7cbfaf45804a8dbde4495"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4261-2020",
+   "path": "ordin/educatie/2020/4261",
+   "short": "Ordin educatie nr. 4261/2020",
+   "title": "Ordinul nr. 4.261/2020 pentru modificarea Metodologiei și criteriilor privind acordarea gradației de merit personalului didactic din învățământul preuniversitar de stat în sesiunea 2020, aprobate prin Ordinul ministrului educației și cercetării nr. 3.307/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225969",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225969",
+     "sha256": "deda50c1f7901f90060fc45c365af13ead2f92af4046b8c55f86b24a2faff235"
     }
    ]
   },
@@ -5358,6 +5823,66 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4300-2020",
+   "path": "ordin/educatie/2020/4300",
+   "short": "Ordin educatie nr. 4300/2020",
+   "title": "Ordinul nr. 4.300/2020 privind completarea Metodologiei-cadru de organizare și desfășurare a examenului național de definitivare în învățământ, aprobată prin Ordinul ministrului educației naționale nr. 5.211/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226060",
+   "versions": [
+    {
+     "from": "2020-05-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226060",
+     "sha256": "db3c9afbf5671830b7fa31b29da06f097419dfeb3055e2a4f4510864c05acc8b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4302-2020",
+   "path": "ordin/educatie/2020/4302",
+   "short": "Ordin educatie nr. 4302/2020",
+   "title": "Ordinul nr. 4.302/2020 pentru modificarea și completarea Metodologiei-cadru privind mobilitatea personalului didactic de predare din învățământul preuniversitar în anul școlar 2020-2021, aprobată prin Ordinul ministrului educației și cercetării nr. 5.259/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226097",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226097",
+     "sha256": "570b60dfb0d406e2ecb0a2039d8324605e193796c8e40d3adbc140f8d7046905"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4303-2020",
+   "path": "ordin/educatie/2020/4303",
+   "short": "Ordin educatie nr. 4303/2020",
+   "title": "Ordinul nr. 4.303/2020 pentru modificarea și completarea Metodologiei privind formarea continuă a personalului din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.561/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226068",
+   "versions": [
+    {
+     "from": "2020-05-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226068",
+     "sha256": "9ea5ed9e9139a4f8e323cc6f6c68599a2504869894a26632fb970d57ad3174dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4307-2020",
+   "path": "ordin/educatie/2020/4307",
+   "short": "Ordin educatie nr. 4307/2020",
+   "title": "Ordinul nr. 4.307/2020 pentru modificarea și completarea Ordinului ministrului educației naționale nr. 4.950/2019 privind organizarea și desfășurarea examenului de bacalaureat național - 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226069",
+   "versions": [
+    {
+     "from": "2020-05-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226069",
+     "sha256": "8233a2cf89de58825fdda5aa9299fbb0e9dff62523ff09ceb0261f9da167c376"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4316-2020",
    "path": "ordin/educatie/2020/4316",
    "short": "Ordin educatie nr. 4316/2020",
@@ -5369,6 +5894,111 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226145",
      "sha256": "5e2d91180194ad39c3caa55e5ff574987aa3e083a46b40311197885128008517"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4317-2020",
+   "path": "ordin/educatie/2020/4317",
+   "short": "Ordin educatie nr. 4317/2020",
+   "title": "Ordinul nr. 4.317/2020 pentru modificarea și completarea Ordinului ministrului educației naționale, interimar, nr. 4.948/2019 privind organizarea și desfășurarea admiterii în învățământul liceal de stat pentru anul școlar 2020-2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226090",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226090",
+     "sha256": "3498a14d40e20f8a32f1c64b8a461eacca59b6d8b58dc2410e342b83b089bfce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4321-2020",
+   "path": "ordin/educatie/2020/4321",
+   "short": "Ordin educatie nr. 4321/2020",
+   "title": "Ordinul nr. 4.321/2020 privind modificarea și completarea Metodologiei de organizare și desfășurare a examenului de certificare a calificării profesionale pentru absolvenții învățământului profesional cu durata de 3 ani, aprobată prin Ordinul ministrului educației naționale nr. 4.435/2014, pentru anul școlar 2019-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226098",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226098",
+     "sha256": "308ad1ffc31805dba161869ca1d5221a1a3efc5b7253b7a1b2117dc2f9f42886"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4322-2020",
+   "path": "ordin/educatie/2020/4322",
+   "short": "Ordin educatie nr. 4322/2020",
+   "title": "Ordinul nr. 4.322/2020 pentru modificarea și completarea Ordinului ministrului educației naționale nr. 4.434/2014 privind aprobarea Metodologiei de organizare și desfășurare a examenului de certificare a calificării absolvenților învățământului liceal, filiera tehnologică, pentru anul școlar 2019-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226070",
+   "versions": [
+    {
+     "from": "2020-05-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226070",
+     "sha256": "a2bc602952345c363a429fa07db0244e3284130d6e0335ba367dcc44630afa83"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4323-2020",
+   "path": "ordin/educatie/2020/4323",
+   "short": "Ordin educatie nr. 4323/2020",
+   "title": "Ordinul nr. 4.323/2020 privind modificarea Metodologiei de organizare și desfășurare a examenului de certificare a calificării profesionale a absolvenților ciclului inferior al liceului care au urmat stagiile de pregătire practică, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.222/2011, pentru anul școlar 2019-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226075",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226075",
+     "sha256": "4b9581cfd1f5858efd939cabb7a730482dbd51ae44d0e67a7a54f2538ffac446"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4324-2020",
+   "path": "ordin/educatie/2020/4324",
+   "short": "Ordin educatie nr. 4324/2020",
+   "title": "Ordinul nr. 4.324/2020 pentru modificarea și completarea Metodologiei de organizare și funcționare a învățământului profesional de stat, aprobată prin Ordinul ministrului educației naționale și cercetării științifice nr. 5.033/2016, pentru anul școlar 2020-2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226061",
+   "versions": [
+    {
+     "from": "2020-05-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226061",
+     "sha256": "d0bbf5f32ec1a978cd9449f27b4bfe7041cef1a4a06e23a8f4464a7a19e5bd2c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4325-2020",
+   "path": "ordin/educatie/2020/4325",
+   "short": "Ordin educatie nr. 4325/2020",
+   "title": "Ordinul nr. 4.325/2020 pentru modificarea și completarea Ordinului ministrului educației naționale nr. 5.087/2019 privind organizarea, desfășurarea și calendarul admiterii în învățământul profesional de stat și în învățământul dual pentru anul școlar 2020-2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226039",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226039",
+     "sha256": "e5f44c86947e4882e569ecf4c098b121a3df945a9f36fe4640cb894a426dd1c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4326-2020",
+   "path": "ordin/educatie/2020/4326",
+   "short": "Ordin educatie nr. 4326/2020",
+   "title": "Ordinul nr. 4.326/2020 pentru completarea Metodologiei de organizare și desfășurare a admiterii în învățământul profesional de stat, aprobată prin Ordinul ministrului educației naționale și cercetării științifice nr. 5.068/2016, pentru anul școlar 2020-2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226086",
+   "versions": [
+    {
+     "from": "2020-05-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226086",
+     "sha256": "83657a7241ba1d6dba70a9765bffb223e244b6c536cbbc7c4ed30b8341e47340"
     }
    ]
   },
@@ -5448,6 +6078,51 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4440-2020",
+   "path": "ordin/educatie/2020/4440",
+   "short": "Ordin educatie nr. 4440/2020",
+   "title": "Ordinul nr. 4.440/2020 pentru modificarea și completarea Ordinului ministrului educației naționale nr. 4.916/2019 privind organizarea și desfășurarea evaluării naționale pentru absolvenții clasei a VIII-a în anul școlar 2019-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226649",
+   "versions": [
+    {
+     "from": "2020-06-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226649",
+     "sha256": "59e79b6f99dfe5c7316eda3e20e78f3660c9c48f6b1b0a4c7b2ec932304127bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4441-2020",
+   "path": "ordin/educatie/2020/4441",
+   "short": "Ordin educatie nr. 4441/2020",
+   "title": "Ordinul nr. 4.441/2020 pentru modificarea și completarea Ordinului ministrului educației naționale nr. 4.950/2019 privind organizarea și desfășurarea examenului de bacalaureat național - 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226650",
+   "versions": [
+    {
+     "from": "2020-06-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226650",
+     "sha256": "cec803afebc323cd71407c7d403e368f1f5d179fe12de3d457e4c174448eb5bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4450-2020",
+   "path": "ordin/educatie/2020/4450",
+   "short": "Ordin educatie nr. 4450/2020",
+   "title": "Ordinul nr. 4.450/2020 privind modificarea și completarea Metodologiei de organizare și desfășurare a examenului de certificare a calificării absolvenților învățământului liceal, filiera vocațională, aprobată prin Ordinul ministrului educației naționale nr. 4.433/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226637",
+   "versions": [
+    {
+     "from": "2020-06-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226637",
+     "sha256": "a257272ec814b6e7127e62e2b902e5a7aa38ab6daa63ce76041951b736f6a4f6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4461-2020",
    "path": "ordin/educatie/2020/4461",
    "short": "Ordin educatie nr. 4461/2020",
@@ -5478,6 +6153,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4494-2020",
+   "path": "ordin/educatie/2020/4494",
+   "short": "Ordin educatie nr. 4494/2020",
+   "title": "Ordinul nr. 4.494/2020 privind modificarea și completarea Metodologiei de organizare și desfășurare a examenului de certificare a calificării profesionale a absolvenților învățământului postliceal, aprobată prin Ordinul ministrului educației naționale și al ministrului delegat pentru învățământ superior, cercetare științifică și dezvoltare tehnologică nr. 5.005/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226713",
+   "versions": [
+    {
+     "from": "2020-06-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226713",
+     "sha256": "ef99c672bc30e5a4e77fb5de0bd2ad3e4e767bade7da7f4bbbf27ef9316506d7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4524-2020",
    "path": "ordin/educatie/2020/4524",
    "short": "Ordin educatie nr. 4524/2020",
@@ -5489,6 +6179,81 @@
      "units": 29,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226903",
      "sha256": "c62ae056594058908cb95e396791389b312f4a61c3f929abc9281e0cf8cf2802"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4532-2020",
+   "path": "ordin/educatie/2020/4532",
+   "short": "Ordin educatie nr. 4532/2020",
+   "title": "Ordinul nr. 4.532/2020 pentru modificarea și completarea Ordinului ministrului educației naționale, interimar, nr. 4.948/2019 privind organizarea și desfășurarea admiterii în învățământul liceal de stat pentru anul școlar 2020-2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226867",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226867",
+     "sha256": "743183c6ba83df41325adc4eaca0bae4c0cd7d6cdb68f99339dec1467430cc7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4549-2020",
+   "path": "ordin/educatie/2020/4549",
+   "short": "Ordin educatie nr. 4549/2020",
+   "title": "Ordinul nr. 4.549/2020 pentru suspendarea organizării și desfășurării unor activități prevăzute în anexa nr. 19 la Metodologia-cadru privind mobilitatea personalului didactic de predare din învățământul preuniversitar în anul școlar 2020-2021, aprobată prin Ordinul ministrului educației și cercetării nr. 5.259/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226881",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226881",
+     "sha256": "e1b9e7b3a3ee162335822d4d7ef2c852f34f2cf76fb3cb6ec69a8f9184c23061"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4567-2020",
+   "path": "ordin/educatie/2020/4567",
+   "short": "Ordin educatie nr. 4567/2020",
+   "title": "Ordinul nr. 4.567/2020 pentru completarea anexei nr. 1 la Ordinul ministrului educației naționale nr. 3.556/2017 privind aprobarea Metodologiei-cadru de organizare și desfășurare a admiterii în învățământul dual pentru calificări profesionale de nivel 3, conform Cadrului național al calificărilor și a Calendarului admiterii în învățământul profesional dual de stat pentru calificări profesionale de nivel 3, conform Cadrului național al calificărilor, pentru anul școlar 2017-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227099",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227099",
+     "sha256": "2cea41a53ff53ae4fc64e9772793a0d3c19933325ca502200863289bc4fc9acf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4596-2020",
+   "path": "ordin/educatie/2020/4596",
+   "short": "Ordin educatie nr. 4596/2020",
+   "title": "Ordinul nr. 4.596/2020 pentru completarea Regulamentului privind regimul actelor de studii și al documentelor școlare gestionate de unitățile de învățământ preuniversitar, aprobat prin Ordinul ministrului educației naționale și cercetării științifice nr. 3.844/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227409",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227409",
+     "sha256": "c64b08260c44623475b9ac0522785a032dd2eaf13649a783fe3882d3155141bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4617-2020",
+   "path": "ordin/educatie/2020/4617",
+   "short": "Ordin educatie nr. 4617/2020",
+   "title": "Ordinul nr. 4.617/2020 pentru modificarea și completarea Ordinului ministrului educației naționale nr. 5.087/2019 privind organizarea, desfășurarea și calendarul admiterii în învățământul profesional de stat și în învățământul dual pentru anul școlar 2020-2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227016",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227016",
+     "sha256": "fe0d7b8818ea785d804ffd7b98fff62eabe31ab0c01c67d2e691f7dd74a1cde6"
     }
    ]
   },
@@ -5508,6 +6273,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4667-2020",
+   "path": "ordin/educatie/2020/4667",
+   "short": "Ordin educatie nr. 4667/2020",
+   "title": "Ordinul nr. 4.667/2020 pentru modificarea anexei nr. 19 la Metodologia-cadru privind mobilitatea personalului didactic de predare din învățământul preuniversitar în anul școlar 2020-2021, aprobată prin Ordinul ministrului educației și cercetării nr. 5.259/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227649",
+   "versions": [
+    {
+     "from": "2020-07-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227649",
+     "sha256": "46016af433d996dd927bcf408601d942b87d2e18a1ddc70e5ed6a7504bb13d5e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4679-2020",
    "path": "ordin/educatie/2020/4679",
    "short": "Ordin educatie nr. 4679/2020",
@@ -5519,6 +6299,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227704",
      "sha256": "bea9c3f30d653a17f52c0f32d0571bbdeb39419c1b4e067d5f7caee6487f1a61"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4680-2020",
+   "path": "ordin/educatie/2020/4680",
+   "short": "Ordin educatie nr. 4680/2020",
+   "title": "Ordinul nr. 4.680/2020 pentru modificarea Ordinului ministrului educației naționale nr. 4.950/2019 privind organizarea și desfășurarea examenului de bacalaureat național - 2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227710",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227710",
+     "sha256": "8d5977cbfdc1a392725a36316bb464b214c26cfac7baf6c1f8b43357b1d1f6e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4714-2020",
+   "path": "ordin/educatie/2020/4714",
+   "short": "Ordin educatie nr. 4714/2020",
+   "title": "Ordinul nr. 4.714/2020 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului educației naționale și al ministrului delegat pentru învățământ superior, cercetare științifică și dezvoltare tehnologică nr. 5.076/2014 pentru aprobarea Metodologiei privind recrutarea și selecția lectorilor de limba română care urmează să predea cursuri de limbă, literatură, cultură și civilizație românească în universități din străinătate și a Regulamentului privind funcționarea Corpului lectorilor în cadrul Institutului Limbii Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228493",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228493",
+     "sha256": "ac2cf1022950c4ab8878846e91729e08ffc0491ff232862c21569e398b27ab58"
     }
    ]
   },
@@ -5748,6 +6558,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5528-2020",
+   "path": "ordin/educatie/2020/5528",
+   "short": "Ordin educatie nr. 5528/2020",
+   "title": "Ordinul nr. 5.528/2020 privind modificarea Metodologiei pentru înființarea și organizarea programelor de master didactic, aprobată prin Ordinul ministrului educației și cercetării nr. 4.524/2020 privind înființarea și organizarea programelor universitare de master didactic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230334",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230334",
+     "sha256": "9158ead21128bc78bf4a4012d98cc6e698e7104a9d25d16fdd88730b09297fea"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5545-2020",
    "path": "ordin/educatie/2020/5545",
    "short": "Ordin educatie nr. 5545/2020",
@@ -5823,6 +6648,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5585-2020",
+   "path": "ordin/educatie/2020/5585",
+   "short": "Ordin educatie nr. 5585/2020",
+   "title": "Ordinul nr. 5.585/2020 pentru modificarea anexei nr. 1 la Ordinul ministrului educației și cercetării nr. 4.655/2020 privind aprobarea Regulamentului de organizare și funcționare al Consiliului Național de Etică a Cercetării Științifice, Dezvoltării Tehnologice și Inovării, precum și a componenței nominale a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230643",
+   "versions": [
+    {
+     "from": "2020-10-06",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230643",
+     "sha256": "993013eec6619d5412ec49206270b8e1c81088aacd1831cb1025d64745fc4248"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5599-2020",
    "path": "ordin/educatie/2020/5599",
    "short": "Ordin educatie nr. 5599/2020",
@@ -5838,6 +6678,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5618-2020",
+   "path": "ordin/educatie/2020/5618",
+   "short": "Ordin educatie nr. 5618/2020",
+   "title": "Ordinul nr. 5.618/2020 pentru completarea anexei la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.568/2011 privind aprobarea Regulamentului de organizare și funcționare a unităților de învățământ cu program sportiv integrat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230440",
+   "versions": [
+    {
+     "from": "2020-09-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230440",
+     "sha256": "943ba2d7e797b199e2b2261531e3f5891c3147fb04906eac2474b17167ebc451"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5619-2020",
+   "path": "ordin/educatie/2020/5619",
+   "short": "Ordin educatie nr. 5619/2020",
+   "title": "Ordinul nr. 5.619/2020 pentru modificarea anexei la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.570/2011 privind aprobarea Regulamentului de organizare și funcționare a unităților de învățământ cu program sportiv suplimentar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230441",
+   "versions": [
+    {
+     "from": "2020-09-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230441",
+     "sha256": "ea5e39765d0058c8ec16dcc17f9e562bcc33ae2db42b2e5fc6ae04c581ad56ed"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5620-2020",
    "path": "ordin/educatie/2020/5620",
    "short": "Ordin educatie nr. 5620/2020",
@@ -5849,6 +6719,21 @@
      "units": 35,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230519",
      "sha256": "0cc2bbe1409c5dee7841cd0a0e8a2c92916b1947fad39e0a8564fbd5f9918848"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5629-2020",
+   "path": "ordin/educatie/2020/5629",
+   "short": "Ordin educatie nr. 5629/2020",
+   "title": "Ordinul nr. 5.629/2020 pentru modificarea Ordinului ministrului educației naționale și cercetării științifice nr. 6.156/2016 privind organizarea și desfășurarea anului pregătitor de limbă română pentru cetățenii străini",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230896",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230896",
+     "sha256": "bf576536f0f1940e4647005ee64a8aff76d012b73f29230008ac449b7e9624da"
     }
    ]
   },
@@ -5898,6 +6783,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5736-2020",
+   "path": "ordin/educatie/2020/5736",
+   "short": "Ordin educatie nr. 5736/2020",
+   "title": "Ordinul nr. 5.736/2020 privind modificarea Metodologiei de primire la studii și școlarizare a cetățenilor străini începând cu anul școlar/universitar 2017-2018, aprobată prin Ordinul ministrului educației naționale nr. 3.473/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/231565",
+   "versions": [
+    {
+     "from": "2020-10-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/231565",
+     "sha256": "466d418f0b0cbaf93c1d79dcb7a82da56a6c6d3c6c45c05b83586cf08313cf96"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5737-2020",
    "path": "ordin/educatie/2020/5737",
    "short": "Ordin educatie nr. 5737/2020",
@@ -5924,6 +6824,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232690",
      "sha256": "c9c66c9550b4871f0fb4e667d22f4590e18b2963e43b7853fb8a5dc2717ae2ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5924-2020",
+   "path": "ordin/educatie/2020/5924",
+   "short": "Ordin educatie nr. 5924/2020",
+   "title": "Ordinul nr. 5.924/2020 pentru suspendarea prevederilor Ordinului ministrului educației, cercetării, tineretului și sportului nr. 3.035/2012 privind aprobarea Metodologiei-cadru de organizare și desfășurare a competițiilor școlare și a Regulamentului de organizare a activităților cuprinse în calendarul activităților educative, școlare și extrașcolare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232727",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232727",
+     "sha256": "403562ef61622386edc15cf6e3cf0d47b696966440ad0cbb9694e54e270efa37"
     }
    ]
   },
@@ -5958,6 +6873,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5972-2020",
+   "path": "ordin/educatie/2020/5972",
+   "short": "Ordin educatie nr. 5972/2020",
+   "title": "Ordinul nr. 5.972/2020 pentru suspendarea activităților care presupun prezența fizică a preșcolarilor și elevilor în unitățile de învățământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232755",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232755",
+     "sha256": "1f0111bf54e9d5feb8df0ecb5bb77ba45a537a05306ed6cc782f8f724abeba64"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5976-2020",
    "path": "ordin/educatie/2020/5976",
    "short": "Ordin educatie nr. 5976/2020",
@@ -5969,6 +6899,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234366",
      "sha256": "13378ab2b4c0122b94d2badf5ed1a2e3d353403d66e83bf0e510ac5b7743b4f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5977-2020",
+   "path": "ordin/educatie/2020/5977",
+   "short": "Ordin educatie nr. 5977/2020",
+   "title": "Ordinul nr. 5.977/2020 privind suspendarea aplicării unor prevederi ale Regulamentului-cadru de organizare și funcționare a unităților de învățământ preuniversitar, aprobat prin Ordinul ministrului educației și cercetării nr. 5.447/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232960",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232960",
+     "sha256": "66fc8362b4df543358eb1766844e29682ade751e7314cec518c17b5edb23f034"
     }
    ]
   },
@@ -5988,6 +6933,51 @@
    ]
   },
   {
+   "slug": "ordin-educatie-6018-2020",
+   "path": "ordin/educatie/2020/6018",
+   "short": "Ordin educatie nr. 6018/2020",
+   "title": "Ordinul nr. 6.018/2020 pentru modificarea și completarea Ordinului ministrului educației naționale nr. 3.103/2019 privind regimul manualelor școlare în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234441",
+   "versions": [
+    {
+     "from": "2020-12-09",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234441",
+     "sha256": "d813026d253581fdd5fa226aed203ff2ef7381c7ec69874f6b76f263239cfec4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6037-2020",
+   "path": "ordin/educatie/2020/6037",
+   "short": "Ordin educatie nr. 6037/2020",
+   "title": "Ordinul nr. 6.037/2020 privind modificarea art. 1 din Ordinul ministrului educației naționale nr. 3.141/2019 privind înființarea, organizarea și funcționarea Comisiei Naționale pentru Desegregare și Incluziune Educațională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235040",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235040",
+     "sha256": "20f838c4985b1ff9793eabe5ba99d79a840b860b006ec1ed6f4b239daee16869"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6100-2020",
+   "path": "ordin/educatie/2020/6100",
+   "short": "Ordin educatie nr. 6100/2020",
+   "title": "Ordinul nr. 6.100/2020 privind modificarea anexei la Ordinul ministrului educației naționale nr. 3.475/2017 pentru aprobarea Metodologiei de înscriere și înregistrare a calificărilor din învățământul superior în Registrul Național al Calificărilor din Învățământul Superior (RNCIS)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235137",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235137",
+     "sha256": "52122372fab62436ef4f8ee2a2b8834c6df969e4c861b1173f49b84ec2a74d0f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-6106-2020",
    "path": "ordin/educatie/2020/6106",
    "short": "Ordin educatie nr. 6106/2020",
@@ -5999,6 +6989,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235577",
      "sha256": "9fa34ccdd4ebb97267f779923d3862123b8277cd51e21c883ee465102710635d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6122-2020",
+   "path": "ordin/educatie/2020/6122",
+   "short": "Ordin educatie nr. 6122/2020",
+   "title": "Ordinul nr. 6.122/2020 privind modificarea Ordinului ministrului educației și cercetării nr. 5.972/2020 pentru suspendarea activităților care presupun prezența fizică a preșcolarilor și elevilor în unitățile de învățământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234350",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234350",
+     "sha256": "a31aa7d71005d3ce86e2d0f9ac856515ca48e963933362e5c1a5186b7e3dc064"
     }
    ]
   },
@@ -6044,6 +7049,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235731",
      "sha256": "07259c679145839177f89cb2163a7be0998dcc61f866d7fd6c5df35486d92065"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6368-2020",
+   "path": "ordin/educatie/2020/6368",
+   "short": "Ordin educatie nr. 6368/2020",
+   "title": "Ordinul nr. 6.368/2020 privind modificarea Deciziei președintelui Autorității Naționale pentru Cercetare Științifică și Inovare nr. 9.281/2015 pentru aprobarea schemelor de ajutor de stat asociate Planului Național de Cercetare Dezvoltare și Inovare 2015-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235880",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235880",
+     "sha256": "9f0dd7665e1da2cc926e8768048983634a1b2e1b863e5edf4d86644f587b187b"
     }
    ]
   },

@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 1501/2016 · 1 versions, from 2017-01-09 (latest in force: 2017-01-09) · <https://legislatie.just.ro/Public/DetaliiDocument/185535>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Chestionarul de feedback al pacientului *Font 8* ┌─────────────────────────────────────────────────────────────────────┬───────────────────────┐ │ Întrebare ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -13,6 +13,8 @@ Ordin sanatate nr. 1501/2016 · 1 versions, from 2017-01-09 (latest in force: 20
 | Art. 5 | [art-005.md](art-005.md) | 0 |  |
 | Art. 6 | [art-006.md](art-006.md) | 0 |  |
 | Art. 7 | [art-007.md](art-007.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
@@ -24,5 +26,5 @@ Act id: `ordin-sanatate-1501-2016` (tags `ordin-sanatate-1501-2016/<day>`; `pyth
 - Ordin sanatate nr. 1501/2016: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin sanatate nr. 1501/2016: the first version is the order as published in Monitorul Oficial nr. 18 of 9 January 2017 (document 185535 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 1501/2016: the signatures and the place and date line after its last article are not article text.
+- Ordin sanatate nr. 1501/2016: Anexa nr. 1 (1 Chestionarul de feedback al pacientului *Font 8*) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 185535 of the official web service.
 - Ordin sanatate nr. 1501/2016: Anexa nr. 2 (2 Notă de informare privind protecția datelor cu caracter personal În cursul furnizării serviciilor medicale, Ministerul Sănătății și instituțiile cu personalitate juridică din subordinea acestuia au) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 185535 of the official web service.
-- Ordin sanatate nr. 1501/2016: Anexa nr. 1 (1 Chestionarul de feedback al pacientului *Font 8* ┌─────────────────────────────────────────────────────────────────────┬───────────────────────┐ │ Întrebare ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

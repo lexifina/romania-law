@@ -63,6 +63,96 @@
    ]
   },
   {
+   "slug": "instructiuni-educatie-1-2011",
+   "path": "instructiuni/educatie/2011/1",
+   "short": "Instrucțiuni educatie nr. 1/2011",
+   "title": "Instrucțiunile nr. 1/2011 privind menținerea în activitate ca titular peste vârsta standard de pensionare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126237",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126237",
+     "sha256": "1686cd849d82f2f7a5d3d83ef94daa77b56671d96b4d169645ca5f25aab0c018"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-educatie-2-2011",
+   "path": "instructiuni/educatie/2011/2",
+   "short": "Instrucțiuni educatie nr. 2/2011",
+   "title": "Instrucțiunile nr. 2/2011 privind decontarea navetei cadrelor didactice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126238",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126238",
+     "sha256": "ad87379ae1851be1f39c9cce00d6ffd91431d6de141bc0d0ee604b24b50957e6"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-educatie-3-2011",
+   "path": "instructiuni/educatie/2011/3",
+   "short": "Instrucțiuni educatie nr. 3/2011",
+   "title": "Instrucțiunile nr. 3/2011 pentru punerea în aplicare a art. 253 din Legea educației naționale nr. 1/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126287",
+   "versions": [
+    {
+     "from": "2011-02-18",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126287",
+     "sha256": "2aba6d091962819dc92939c202c5615e117ef02899dee9674cacba0cb6d57104"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-educatie-4-2011",
+   "path": "instructiuni/educatie/2011/4",
+   "short": "Instrucțiuni educatie nr. 4/2011",
+   "title": "Instrucțiunile nr. 4/2011 privind finanțarea cheltuielilor pentru examinarea medicală obligatorie periodică a salariaților din învățământul preuniversitar de stat, cu excepția celei care, potrivit legii, se efectuează gratuit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127210",
+   "versions": [
+    {
+     "from": "2011-03-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127210",
+     "sha256": "e31388a4fd102804608f2f6ad34ea95c9fd50c16380ac01f30d45a02ceda3733"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-educatie-5-2011",
+   "path": "instructiuni/educatie/2011/5",
+   "short": "Instrucțiuni educatie nr. 5/2011",
+   "title": "Instrucțiunile nr. 5/2011 privind ocuparea posturilor didactice/catedrelor care se vacantează pe parcursul anului școlar 2011-2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131839",
+   "versions": [
+    {
+     "from": "2011-09-30",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131839",
+     "sha256": "3e6259d5bfa3ca2bf852a171869abff723feab1e5f1f8908d44b60b1949aaa49"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-educatie-6-2011",
+   "path": "instructiuni/educatie/2011/6",
+   "short": "Instrucțiuni educatie nr. 6/2011",
+   "title": "Instrucțiunile nr. 6/2011 privind funcționarea formațiunilor de studiu în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132079",
+   "versions": [
+    {
+     "from": "2011-10-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132079",
+     "sha256": "f9e35ad3d9b27b81c2d8ecbfcae09f91561a1c41406209984b0c89e43c75600b"
+    }
+   ]
+  },
+  {
    "slug": "instructiuni-interne-171-2011",
    "path": "instructiuni/interne/2011/171",
    "short": "Instrucțiuni interne nr. 171/2011",

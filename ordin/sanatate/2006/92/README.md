@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 92/2006 · 1 versions, from 2006-02-23 (latest in force: 2006-02-23) · <https://legislatie.just.ro/Public/DetaliiDocument/69260>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 6 (6 DECLARAȚIA deținătorului autorizației de punere pe piața privind conformitatea documentației de autorizare a medicamentului trimisa la ANM cu cerințele ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -32,6 +32,8 @@ Ordin sanatate nr. 92/2006 · 1 versions, from 2006-02-23 (latest in force: 2006
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 | Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
 | Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
 | Anexa nr. 8 (what it is) | [anexa-8/README.md](anexa-8/README.md) | 0 |  |
@@ -50,6 +52,6 @@ Act id: `ordin-sanatate-92-2006` (tags `ordin-sanatate-92-2006/<day>`; `python t
 - Ordin sanatate nr. 92/2006: Anexa nr. 3 (3 DECLARAȚIA deținătorului autorizației de punere pe piața privind identitatea documentației de autorizare a medicamentului transmisă la ANM, cu documentația de autorizare trimisa la autoritatea compe) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 69260 of the official web service.
 - Ordin sanatate nr. 92/2006: Anexa nr. 4 (4 DECLARAȚIA deținătorului autorizației de punere pe piața privind identitatea documentației de autorizare a medicamentului aflată la ANM după depunerea completărilor cu documentația de autorizare tri) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 69260 of the official web service.
 - Ordin sanatate nr. 92/2006: Anexa nr. 5 (5 DECLARAȚIA deținătorului autorizației de punere pe piața privind identitatea documentației aflată la ANM ca urmare a transmiterii unei documentații complet noi, cu documentația de autorizare trimisa) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 69260 of the official web service.
+- Ordin sanatate nr. 92/2006: Anexa nr. 6 (6 DECLARAȚIA deținătorului autorizației de punere pe piața privind conformitatea documentației de autorizare a medicamentului trimisa la ANM cu cerințele Directivei 2001/83/CE Medicamentul autorizat î) is part of the order and is published in its folder, anexa-6/ (paragraphs and tables), from document 69260 of the official web service.
 - Ordin sanatate nr. 92/2006: Anexa nr. 7 (7 DECLARAȚIA deținătorului autorizației de punere pe piața privind conformitatea documentației aflată la ANM după depunerea completărilor, cu cerințele Directivei 2001/83/CE Medicamentul autorizat în) is part of the order and is published in its folder, anexa-7/ (paragraphs), from document 69260 of the official web service.
 - Ordin sanatate nr. 92/2006: Anexa nr. 8 (8 DECLARAȚIA deținătorului autorizației de punere pe piața privind conformitatea documentației aflată la ANM ca urmare a transmiterii unei documentații complet noi, cu cerințele Directivei 2001/83/CE) is part of the order and is published in its folder, anexa-8/ (paragraphs), from document 69260 of the official web service.
-- Ordin sanatate nr. 92/2006: Anexa nr. 6 (6 DECLARAȚIA deținătorului autorizației de punere pe piața privind conformitatea documentației de autorizare a medicamentului trimisa la ANM cu cerințele ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

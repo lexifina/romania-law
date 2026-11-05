@@ -2,13 +2,15 @@
 
 Ordin finante nr. 972/1996 · 1 versions, from 1996-05-27 (latest in force: 1996-05-27) · <https://legislatie.just.ro/Public/DetaliiDocument/10039>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. It states that it applies from 1 May 1996, before its publication; dated here by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 1 (NORME METODOLOGICE pentru aplicarea prevederilor referitoare la executarea silită a creanțelor bugetare din Ordonanța Guvernului nr. 11/1996): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. It states that it applies from 1 May 1996, before its publication; dated here by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1 | [art-001.md](art-001.md) | 0 |  |
 | Art. 2 | [art-002.md](art-002.md) | 0 |  |
 | Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-finante-972-1996` (tags `ordin-finante-972-1996/<day>`; `python tools/on.py <day> ordin-finante-972-1996`).
 
@@ -18,4 +20,4 @@ Act id: `ordin-finante-972-1996` (tags `ordin-finante-972-1996/<day>`; `python t
 - Ordin finante nr. 972/1996: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin finante nr. 972/1996: the first version is the order as published in Monitorul Oficial nr. 107 of 27 May 1996 (document 10039 of the official web service), in force on its day of publication: it states that it applies from 1 May 1996, before its publication, and is dated here by its publication in the Monitorul Oficial.
 - Ordin finante nr. 972/1996: the signatures and the place and date line after its last article are not article text.
-- Ordin finante nr. 972/1996: Anexa nr. 1 (NORME METODOLOGICE pentru aplicarea prevederilor referitoare la executarea silită a creanțelor bugetare din Ordonanța Guvernului nr. 11/1996) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 972/1996: Anexa nr. 1 (NORME METODOLOGICE pentru aplicarea prevederilor referitoare la executarea silită a creanțelor bugetare din Ordonanța Guvernului nr. 11/1996) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 10039 of the official web service.

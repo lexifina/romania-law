@@ -2,7 +2,7 @@
 
 Ordin finante nr. 1706/2006 · 1 versions, from 2007-01-01 (latest in force: 2007-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/76433>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 SOLICITARE DE VERIFICARE a valabilătății codului de înregistrare în scopuri de TVA și a datelor de identificare ale persoanelor înregistrate în scopuri de ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -15,6 +15,8 @@ Ordin finante nr. 1706/2006 · 1 versions, from 2007-01-01 (latest in force: 200
 | Art. 7 | [art-007.md](art-007.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
@@ -33,8 +35,8 @@ Act id: `ordin-finante-1706-2006` (tags `ordin-finante-1706-2006/<day>`; `python
 - Ordin finante nr. 1706/2006: the first version is the order as published in Monitorul Oficial nr. 894 of 2 November 2006 (document 76433 of the official web service), in force on 1 January 2007, the day it states for itself.
 - Ordin finante nr. 1706/2006: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 1706/2006: Anexa nr. 1 (1 PROCEDURĂ DE SOLICITARE a verificării valabilității codului de înregistrare în scopuri de TVA și a datelor de identificare ale persoanelor înregistrate în scopuri de TVA în celelalte state membre, d) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 76433 of the official web service.
+- Ordin finante nr. 1706/2006: Anexa nr. 2 (2 SOLICITARE DE VERIFICARE a valabilătății codului de înregistrare în scopuri de TVA și a datelor de identificare ale persoanelor înregistrate în scopuri de TVA în celelalte state membre) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 76433 of the official web service.
 - Ordin finante nr. 1706/2006: Anexa nr. 3 (3 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția Generală a Finanțelor Publice a Județului........ / Direcția generală de administrare a marilor contribuabili Nr. de) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 76433 of the official web service.
 - Ordin finante nr. 1706/2006: Anexa nr. 4 (4 INSTRUCȚIUNI pentru completarea formularului "Solicitare de verificare a valabilității codului de înregistrare în scopuri de TVA și a datelor de identificare ale persoanelor înregistrate în scopuri) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 76433 of the official web service.
 - Ordin finante nr. 1706/2006: Anexa nr. 5 (5 INSTRUCȚIUNI pentru completarea formularului "Răspuns la solicitarea de verificare a valabilității codului de înregistrare în scopuri de TVA și a datelor de identificare ale persoanelor înregistrate) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 76433 of the official web service.
 - Ordin finante nr. 1706/2006: Anexa nr. 6 (6 Caracteristicile de tipărire, modul de difuzare, de utilizare și de arhivare a formularului "Solicitare de verificare a valabilității codului de înregistrare în scopuri de TVA și a datelor de identi) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 76433 of the official web service.
-- Ordin finante nr. 1706/2006: Anexa nr. 2 (2 SOLICITARE DE VERIFICARE a valabilătății codului de înregistrare în scopuri de TVA și a datelor de identificare ale persoanelor înregistrate în scopuri de ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

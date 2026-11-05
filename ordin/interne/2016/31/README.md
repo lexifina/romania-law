@@ -2,7 +2,7 @@
 
 Ordin interne nr. 31/2016 · 1 versions, from 2016-03-23 (latest in force: 2016-03-23) · <https://legislatie.just.ro/Public/DetaliiDocument/176795>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (1b MODEL *Font 8* ROMÂNIA MINISTERUL/INSTITUȚIA............ Exemplarul nr..... Nr........ din.................. SITUAȚIA SOLDELOR/SALARIILOR LUNARE BRUTE ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -37,6 +37,8 @@ Ordin interne nr. 31/2016 · 1 versions, from 2016-03-23 (latest in force: 2016-
 | Anexa nr. 1, Art. 24 | [anexa-1/art-024.md](anexa-1/art-024.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4, Art. 1 | [anexa-4/art-001.md](anexa-4/art-001.md) | 0 |  |
 | Anexa nr. 4, Art. 2 | [anexa-4/art-002.md](anexa-4/art-002.md) | 0 |  |
@@ -52,6 +54,6 @@ Act id: `ordin-interne-31-2016` (tags `ordin-interne-31-2016/<day>`; `python too
 - Ordin interne nr. 31/2016: a joint order of Ministerul Afacerilor Interne nr. 31 din 12 February 2016; Ministerul Apărării Naționale nr. M.25 din 15 February 2016; Ministerul Justiției nr. 999 din 21 March 2016; Serviciul Român de Informații nr. 8.148 din 12 February 2016; Serviciul de Informații Externe nr. 237 din 16 February 2016; Serviciul de Telecomunicații Speciale nr. 259 din 10 March 2016; Serviciul de Protecție și Pază nr. 221 din 17 February 2016. It is published once, here, under the issuer its EMITENT block lists first; `ordin-justitie-999-2016`, `ordin-sri-8148-2016`, `ordin-sie-237-2016`, `ordin-sts-259-2016`, `ordin-spp-221-2016` name it too (data/paths.json aliases).
 - Ordin interne nr. 31/2016: Anexa nr. 1 (1 PROCEDURA de recalculare a pensiilor militare de stat) is part of the order and is published in its folder, anexa-1/ (24 articles), from document 176795 of the official web service.
 - Ordin interne nr. 31/2016: Anexa nr. 2 (1a - Model - CERERE pentru alegerea perioadei de 6 luni consecutive, din ultimii 5 ani de activitate, în vederea recalculării/ actualizării pensiei militare de stat Către..............................) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 176795 of the official web service.
+- Ordin interne nr. 31/2016: Anexa nr. 3 (1b MODEL *Font 8* ROMÂNIA MINISTERUL/INSTITUȚIA............ Exemplarul nr..... Nr........ din.................. SITUAȚIA SOLDELOR/SALARIILOR LUNARE BRUTE REALIZATE LA FUNCȚIA DE BAZĂ, ACTUALIZATE, în) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 176795 of the official web service.
 - Ordin interne nr. 31/2016: Anexa nr. 4 (2 PROCEDURA de actualizare a pensiilor militare de stat) is part of the order and is published in its folder, anexa-4/ (2 articles), from document 176795 of the official web service.
-- Ordin interne nr. 31/2016: Anexa nr. 3 (1b MODEL *Font 8* ROMÂNIA MINISTERUL/INSTITUȚIA............ Exemplarul nr..... Nr........ din.................. SITUAȚIA SOLDELOR/SALARIILOR LUNARE BRUTE ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin interne nr. 31/2016: the publisher's notes run into its text (*) Se completează doar în cazul beneficiarilor pensiilor de urmaş.; *1) Având în vedere prevederile legale care reglementează salarizarea militarilor, poliţiştilor şi funcţionarilor public) are not text.

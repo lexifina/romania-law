@@ -2,7 +2,7 @@
 
 Ordin mediu nr. 133/2009 · 1 versions, from 2009-03-05 (latest in force: 2009-03-05) · <https://legislatie.just.ro/Public/DetaliiDocument/103014>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 ┌───────────────────────────────────────────┐ │MINISTERUL FINANȚELOR PUBLICE │ │AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ │ │Unitatea ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ D.G.F.P.........../A.F.P...../DGAMC Str...... nr...., localitatea........ ÎNȘTIINȚARE ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 4 (4 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ D.G.F.P.........../A.F.P...../DGAMC Str...... nr...., localitatea........ ÎNȘTIINȚARE ...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,6 +14,8 @@ Ordin mediu nr. 133/2009 · 1 versions, from 2009-03-05 (latest in force: 2009-0
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
 Act id: `ordin-mediu-133-2009` (tags `ordin-mediu-133-2009/<day>`; `python tools/on.py <day> ordin-mediu-133-2009`).
 
@@ -26,6 +28,6 @@ Act id: `ordin-mediu-133-2009` (tags `ordin-mediu-133-2009/<day>`; `python tools
 - Ordin mediu nr. 133/2009: a joint order of Ministerul Mediului nr. 133 din 26 February 2009; Ministerul Finanțelor Publice nr. 360 din 26 February 2009. It is published once, here, under the issuer its EMITENT block lists first; `ordin-finante-360-2009` name it too (data/paths.json aliases).
 - Ordin mediu nr. 133/2009: Anexa nr. 1 (1 PROCEDURI) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 103014 of the official web service.
 - Ordin mediu nr. 133/2009: Anexa nr. 2 (2 CERERE de restituire a unor sume reprezentând diferențe de taxă pe poluare pentru autovehicule Nr............ Către...................................... (organul fiscal competent) Subsemnatul/Subsc) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 103014 of the official web service.
-- Ordin mediu nr. 133/2009: Anexa nr. 3 (3 ┌───────────────────────────────────────────┐ │MINISTERUL FINANȚELOR PUBLICE │ │AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ │ │Unitatea ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin mediu nr. 133/2009: Anexa nr. 3 (3) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 103014 of the official web service.
 - Ordin mediu nr. 133/2009: Anexa nr. 4 (4 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ D.G.F.P.........../A.F.P...../DGAMC Str...... nr...., localitatea........ ÎNȘTIINȚARE ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin mediu nr. 133/2009: the publisher's notes run into its text (*) Vor fi indicate dispoziţiile legale pe care s-a întemeiat cererea de restituire.) are not text.

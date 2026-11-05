@@ -48,6 +48,126 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-160-2008",
+   "path": "ordin/agricultura/2008/160",
+   "short": "Ordin agricultura nr. 160/2008",
+   "title": "Ordinul nr. 160/2008 privind aprobarea Procedurii de înregistrare și verificare a documentației pentru dobândirea protecției unei specialități tradiționale garantate, a Procedurii de declarare a opoziției la nivel național și a Procedurii de transmitere la nivelul Comisiei Europene a cererii de înregistrare a specialității tradiționale garantate, în vederea dobândirii protecției la nivelul Uniunii Europene, precum și a Regulilor specifice privind modelul și utilizarea logoului național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90660",
+   "versions": [
+    {
+     "from": "2008-03-25",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90660",
+     "sha256": "fca9df6074ae2d01c667dc486a8edce7483be3c312f9383a3ff48282bb4a76e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-170-2008",
+   "path": "ordin/agricultura/2008/170",
+   "short": "Ordin agricultura nr. 170/2008",
+   "title": "Ordinul nr. 170/2008 privind aprobarea Suplimentului nr. 2 al Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90902",
+   "versions": [
+    {
+     "from": "2008-03-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90902",
+     "sha256": "78f8990a09dd0a7bbdfe8023ded106a5f597e723ca51f469549601caac9cbcb6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-211-2008",
+   "path": "ordin/agricultura/2008/211",
+   "short": "Ordin agricultura nr. 211/2008",
+   "title": "Ordinul nr. 211/2008 privind aprobarea schemelor de ajutor de stat \"Stimularea IMM-urilor care procesează produse agricole în vederea obținerii unor produse alimentare, altele decât cele prevăzute în anexa 1 la Tratatul CE, precum și a celor care desfășoară activități de procesare a produselor agricole în vederea obținerii și utilizării surselor de energie regenerabilă și a biocombustibililor\" și \"Stimularea microîntreprinderilor din domeniul prelucrării primare a produselor forestiere lemnoase și nelemnoase\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91049",
+   "versions": [
+    {
+     "from": "2008-04-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91049",
+     "sha256": "7a0c6c128b12a3225b948b070bc76156f24230d3ee815140ef5c7869180b512d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-216-2008",
+   "path": "ordin/agricultura/2008/216",
+   "short": "Ordin agricultura nr. 216/2008",
+   "title": "Ordinul nr. 216/2008 privind aprobarea Criteriilor de acordare a licenței pentru gestionarii fondurilor de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91371",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91371",
+     "sha256": "4ec64184cfba5d43888af137f99d59ba782f8f888d4fc29f5f01a54e3681558e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-218-2008",
+   "path": "ordin/agricultura/2008/218",
+   "short": "Ordin agricultura nr. 218/2008",
+   "title": "Ordinul nr. 218/2008 pentru aprobarea Regulamentului privind atribuirea dreptului de gestionare a faunei cinegetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91269",
+   "versions": [
+    {
+     "from": "2008-04-11",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91269",
+     "sha256": "2a1d289bf906cec8a5869b7d550380ce33f090c466ebc1539b17e14e2695fc27"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-219-2008",
+   "path": "ordin/agricultura/2008/219",
+   "short": "Ordin agricultura nr. 219/2008",
+   "title": "Ordinul nr. 219/2008 pentru aprobarea modelului-cadru al contractului de gestionare a faunei cinegetice de pe suprafața fondurilor de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91402",
+   "versions": [
+    {
+     "from": "2008-04-16",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91402",
+     "sha256": "24407ce3a5401392f92d1d626e02d47bdc136f5d5e03031f6965bf0786fb71bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-222-2008",
+   "path": "ordin/agricultura/2008/222",
+   "short": "Ordin agricultura nr. 222/2008",
+   "title": "Ordinul nr. 222/2008 pentru aprobarea Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 148/2007 privind reglementarea unor măsuri financiare pentru stimularea gradului de absorbție a fondurilor alocate pentru agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91535",
+   "versions": [
+    {
+     "from": "2008-04-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91535",
+     "sha256": "4a9bebd58bb43a0b711761de0d9a302b21c7c48a8b096d38d84c621dfc4c7065"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-224-2008",
+   "path": "ordin/agricultura/2008/224",
+   "short": "Ordin agricultura nr. 224/2008",
+   "title": "Ordinul nr. 224/2008 pentru aprobarea Normelor metodologice privind condițiile de comercializare cu amănuntul a vinului de masă în vrac",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94773",
+   "versions": [
+    {
+     "from": "2008-06-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94773",
+     "sha256": "05484cb0d11ef30e1a1930aa23a870ff3cfe90a27b7bd3b9efbe7b6423ec8793"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-226-2008",
    "path": "ordin/agricultura/2008/226",
    "short": "Ordin agricultura nr. 226/2008",
@@ -59,6 +179,231 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91380",
      "sha256": "c100e574dffa81d145b13b8478e37f02d5887c70c7de50d92d6e197c850dccfd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-236-2008",
+   "path": "ordin/agricultura/2008/236",
+   "short": "Ordin agricultura nr. 236/2008",
+   "title": "Ordinul nr. 236/2008 privind aprobarea Instrucțiunilor pentru stabilirea procedurii privind gestionarea fondurilor nerambursabile destinate finanțării politicii agricole comune, alocate de la Comunitatea Europeană, precum și a fondurilor de cofinanțare și prefinanțare alocate de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97185",
+   "versions": [
+    {
+     "from": "2008-09-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97185",
+     "sha256": "002771e79af7577144db3fee05f1d4799b8ac8a44e416c7e82252f719b6010e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-238-2008",
+   "path": "ordin/agricultura/2008/238",
+   "short": "Ordin agricultura nr. 238/2008",
+   "title": "Ordinul nr. 238/2008 pentru aprobarea modificării anexei la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 562/2006 privind aprobarea Manualului operațional pentru schema competitivă de granturi derulată cu sprijinul proiectului \"Modernizarea sistemului de informare și cunoaștere în agricultură\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92560",
+   "versions": [
+    {
+     "from": "2008-05-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92560",
+     "sha256": "ef1ed0a75df49cff8ad579a14297f913f7eecdf2e29b95c43c3707006c66002a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-242-2008",
+   "path": "ordin/agricultura/2008/242",
+   "short": "Ordin agricultura nr. 242/2008",
+   "title": "Ordinul nr. 242/2008 privind denaturarea stocurilor excedentare de zahăr în vederea utilizării în hrana animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92802",
+   "versions": [
+    {
+     "from": "2008-05-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92802",
+     "sha256": "2485fc110f5afae927ba0536d06c14107e1d86c89d2f3a3ce7a4ef45feced6b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-243-2008",
+   "path": "ordin/agricultura/2008/243",
+   "short": "Ordin agricultura nr. 243/2008",
+   "title": "Ordinul nr. 243/2008 privind recunoașterea Acordului interprofesional pentru sfecla de zahăr - recolta anului de comercializare 2008-2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92374",
+   "versions": [
+    {
+     "from": "2008-05-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92374",
+     "sha256": "50f51ec9bce39e195b3a9245aee4183311a476d5a51a6dc7bd5d5d890a15da05"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-246-2008",
+   "path": "ordin/agricultura/2008/246",
+   "short": "Ordin agricultura nr. 246/2008",
+   "title": "Ordinul nr. 246/2008 privind stabilirea modului de implementare, a condițiilor specifice și a criteriilor de eligibilitate pentru aplicarea schemelor de plăți directe și plăți naționale directe complementare în sectorul vegetal, pentru acordarea sprijinului aferent măsurilor de agromediu și zone defavorizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91842",
+   "versions": [
+    {
+     "from": "2008-04-25",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91842",
+     "sha256": "0f8e9ff07f805e5beef19937d1b46082aa18dff4df15016e5b770505f1f397a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-247-2008",
+   "path": "ordin/agricultura/2008/247",
+   "short": "Ordin agricultura nr. 247/2008",
+   "title": "Ordinul nr. 247/2008 privind aprobarea Normelor de aplicare a programelor de restructurare/reconversie a plantațiilor viticole, derulate cu sprijin comunitar pentru campaniile 2008/2009-2013/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92442",
+   "versions": [
+    {
+     "from": "2008-05-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92442",
+     "sha256": "ce88167c8322bcf991053806a974494058b3f4ca70adff2d31328b07eb65bf2d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-253-2008",
+   "path": "ordin/agricultura/2008/253",
+   "short": "Ordin agricultura nr. 253/2008",
+   "title": "Ordinul nr. 253/2008 privind aprobarea Suplimentului nr. 3 al Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92804",
+   "versions": [
+    {
+     "from": "2008-05-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92804",
+     "sha256": "32f7e5d804755559af215e1412673aa42501c697f9875d972421b75b5e09509c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-279-2008",
+   "path": "ordin/agricultura/2008/279",
+   "short": "Ordin agricultura nr. 279/2008",
+   "title": "Ordinul nr. 279/2008 privind aprobarea cotelor de recoltă pentru speciile cerb comun, cerb lopătar, căprior, capră neagră și muflon pentru sezonul de vânătoare 15 mai 2008 - 14 mai 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92958",
+   "versions": [
+    {
+     "from": "2008-05-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92958",
+     "sha256": "d1c2d3cdf875b85e45a34078ff513b77e3c4ac81674bc3d85e712e31aa64e451"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-3-2008",
+   "path": "ordin/agricultura/2008/3",
+   "short": "Ordin agricultura nr. 3/2008",
+   "title": "Ordinul nr. 3/2008 privind aprobarea Suplimentului nr. 1 al Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89018",
+   "versions": [
+    {
+     "from": "2008-01-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89018",
+     "sha256": "8a359da809154d638bce032aaa10293a29c812484bfd3ad222d8a1c82274f3e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-321-2008",
+   "path": "ordin/agricultura/2008/321",
+   "short": "Ordin agricultura nr. 321/2008",
+   "title": "Ordinul nr. 321/2008 privind aprobarea componenței și a modului de organizare și funcționare a Comisiei pentru derularea mecanismului de acordare a sprijinului financiar de la bugetul de stat prin Programul de creștere a competitivității produselor agroalimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93328",
+   "versions": [
+    {
+     "from": "2008-05-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93328",
+     "sha256": "645ccd51b040de450962f730a159cc186a45b371704b82cdf0dcdbe0d67a340a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-324-2008",
+   "path": "ordin/agricultura/2008/324",
+   "short": "Ordin agricultura nr. 324/2008",
+   "title": "Ordinul nr. 324/2008 pentru aprobarea Listei cu gradatori autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93487",
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93487",
+     "sha256": "34690a2a0aae681dba43872c3de0845e2fe1196b2b208847f0c3743169f2371e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-331-2008",
+   "path": "ordin/agricultura/2008/331",
+   "short": "Ordin agricultura nr. 331/2008",
+   "title": "Ordinul nr. 331/2008 privind practicarea pescuitului recreativ/sportiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93485",
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93485",
+     "sha256": "7f9a717782e200830add3ab00a58500f50f29fcf901a3cdc3cb1b92c620f7535"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-332-2008",
+   "path": "ordin/agricultura/2008/332",
+   "short": "Ordin agricultura nr. 332/2008",
+   "title": "Ordinul nr. 332/2008 privind înscrierea unităților de producție din acvacultură în Registrul unităților de acvacultură și eliberarea licenței de acvacultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93609",
+   "versions": [
+    {
+     "from": "2008-06-02",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93609",
+     "sha256": "b1350fe6bd9af448b7517b407817aeb97d1424611552753264063bd1bc4042c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-333-2008",
+   "path": "ordin/agricultura/2008/333",
+   "short": "Ordin agricultura nr. 333/2008",
+   "title": "Ordinul nr. 333/2008 pentru aprobarea Normelor privind accesul la resursele acvatice vii în vederea practicării pescuitului comercial al resurselor acvatice vii din domeniul public al statului, în apele maritime interioare și în apele continentale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95164",
+   "versions": [
+    {
+     "from": "2008-07-02",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95164",
+     "sha256": "fe1a818321922cae479a8e39db669851c1d938cd1cf4bb15e4447dbc8202dda8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-342-2008",
+   "path": "ordin/agricultura/2008/342",
+   "short": "Ordin agricultura nr. 342/2008",
+   "title": "Ordinul nr. 342/2008 privind dimensiunile minime individuale ale resurselor acvatice vii din domeniul public al statului, pe specii, care pot fi capturate din mediul acvatic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93564",
+   "versions": [
+    {
+     "from": "2008-06-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93564",
+     "sha256": "522fe62e4be7deaf8baab849e633189a189f92e78206bc313f99fd01598fdc96"
     }
    ]
   },
@@ -78,6 +423,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-353-2008",
+   "path": "ordin/agricultura/2008/353",
+   "short": "Ordin agricultura nr. 353/2008",
+   "title": "Ordinul nr. 353/2008 pentru aprobarea Regulamentului privind autorizarea, organizarea și practicarea vânătorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95203",
+   "versions": [
+    {
+     "from": "2008-07-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95203",
+     "sha256": "717f06bafa22ddd564cb9cb71bd6eaaab51747b85e3b67c1f94ccd70565e6fb6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-368-2008",
    "path": "ordin/agricultura/2008/368",
    "short": "Ordin agricultura nr. 368/2008",
@@ -89,6 +449,66 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95142",
      "sha256": "734517ca12254b35658ec83c4a95a8cf8f7f811df809d67262083ae2aa2fabc2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-405-2008",
+   "path": "ordin/agricultura/2008/405",
+   "short": "Ordin agricultura nr. 405/2008",
+   "title": "Ordinul nr. 405/2008 privind condițiile de acordare a autorizației speciale de pescuit în scop științific",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94337",
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94337",
+     "sha256": "39565eab84ac4802067c8ba06706108fc539bfbc295658fde138c9b4647d5eec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-413-2008",
+   "path": "ordin/agricultura/2008/413",
+   "short": "Ordin agricultura nr. 413/2008",
+   "title": "Ordinul nr. 413/2008 privind aprobarea Criteriilor de acreditare a stupinei de multiplicare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94776",
+   "versions": [
+    {
+     "from": "2008-06-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94776",
+     "sha256": "430fd23025e148c1617635fbb57b66b1c35f987ec757f08b27c0e435311f8d94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-420-2008",
+   "path": "ordin/agricultura/2008/420",
+   "short": "Ordin agricultura nr. 420/2008",
+   "title": "Ordinul nr. 420/2008 privind stabilirea atribuțiilor Inspecției de Stat pentru Controlul Tehnic în Producerea și Valorificarea Legumelor și Fructelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95554",
+   "versions": [
+    {
+     "from": "2008-07-11",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95554",
+     "sha256": "4f52d9698cc102806be951aae79a6313531384da845e3a6245b5fb11a666dd83"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-430-2008",
+   "path": "ordin/agricultura/2008/430",
+   "short": "Ordin agricultura nr. 430/2008",
+   "title": "Ordinul nr. 430/2008 pentru aprobarea tipurilor de investiții și a plafoanelor maxime ale creditelor ce se acordă în anul 2008, în condițiile Legii nr. 231/2005 privind stimularea investițiilor în agricultură, industrie alimentară, silvicultură, piscicultură, precum și în activități nonagricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95349",
+   "versions": [
+    {
+     "from": "2008-07-07",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95349",
+     "sha256": "99bc33dca0500ce8c4d89660e5d38cc961e25181e3e381edce561b97a09f2ab3"
     }
    ]
   },
@@ -108,6 +528,456 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-445-2008",
+   "path": "ordin/agricultura/2008/445",
+   "short": "Ordin agricultura nr. 445/2008",
+   "title": "Ordinul nr. 445/2008 pentru aprobarea Normelor metodologice privind organizarea și funcționarea Sistemului Informațional pentru Piața Produselor Agricole și Alimentare și a metodologiilor de colectare, prelucrare, interpretare și difuzare a datelor statistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95982",
+   "versions": [
+    {
+     "from": "2008-07-25",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95982",
+     "sha256": "b9d22162b40307b30e9d5450c30e708be87b7e508a2fb95d644f75d261941400"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-449-2008",
+   "path": "ordin/agricultura/2008/449",
+   "short": "Ordin agricultura nr. 449/2008",
+   "title": "Ordinul nr. 449/2008 privind caracteristicile tehnice, condițiile de folosire a uneltelor admise la pescuitul comercial și metodele de pescuit comercial în apele maritime și continentale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96775",
+   "versions": [
+    {
+     "from": "2008-08-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96775",
+     "sha256": "a1e91d53a137caa38ab9a77ce0c326dc21a1d359425b2a3ac875a3c000064b7d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-457-2008",
+   "path": "ordin/agricultura/2008/457",
+   "short": "Ordin agricultura nr. 457/2008",
+   "title": "Ordinul nr. 457/2008 privind aprobarea cotelor de recoltă pentru speciile de mamifere, altele decât cerb comun, cerb lopătar, căprior, capră neagră și muflon, și de păsări admise la vânătoare pentru sezonul de vânătoare 2008-2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96247",
+   "versions": [
+    {
+     "from": "2008-08-04",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96247",
+     "sha256": "2ef3bfe21b5cd3abcacdc39bb3a352b5484d652c4f08366c1e270cf24536d338"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-470-2008",
+   "path": "ordin/agricultura/2008/470",
+   "short": "Ordin agricultura nr. 470/2008",
+   "title": "Ordinul nr. 470/2008 pentru aprobarea Normelor privind acordarea ajutorului comunitar pentru procesarea primară a tulpinilor de în și de cânepă pentru fibre în anul de piață 2008-2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96350",
+   "versions": [
+    {
+     "from": "2008-08-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96350",
+     "sha256": "729225f2dadbe6851d82acbcfadc739a62016df159bb278c17d418b47f2e1bc1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-487-2008",
+   "path": "ordin/agricultura/2008/487",
+   "short": "Ordin agricultura nr. 487/2008",
+   "title": "Ordinul nr. 487/2008 privind aprobarea Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96895",
+   "versions": [
+    {
+     "from": "2008-08-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96895",
+     "sha256": "93e6368b9c62a766354f937901ce571dac2733bb526d542cad12c8fc7182f447"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-498-2008",
+   "path": "ordin/agricultura/2008/498",
+   "short": "Ordin agricultura nr. 498/2008",
+   "title": "Ordinul nr. 498/2008 privind aprobarea Planurilor de conturi și a monografiilor pentru reflectarea în contabilitate a fondurilor nerambursabile destinate finanțării politicii agricole comune, alocate de la Comunitatea Europeană, precum și a fondurilor de cofinanțare și prefinanțare alocate de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98563",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98563",
+     "sha256": "213d8736c7e0678be2dc3525c10464e6041c77b9c4598dd638f5ba8a5d39e3a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-503-2008",
+   "path": "ordin/agricultura/2008/503",
+   "short": "Ordin agricultura nr. 503/2008",
+   "title": "Ordinul nr. 503/2008 privind stabilirea cuantumului contribuției anticipate ce se plătește ca procent din tariful anual, din tariful de livrare a apei pentru irigații și ca procent din costurile cu energia electrică necesară pompării apei pentru irigații pentru sezonul de irigații 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96994",
+   "versions": [
+    {
+     "from": "2008-08-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96994",
+     "sha256": "57f696122268d6dbda4fab11c15bcd0fe173f16ae5d1504891251d33585669bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-567-2008",
+   "path": "ordin/agricultura/2008/567",
+   "short": "Ordin agricultura nr. 567/2008",
+   "title": "Ordinul nr. 567/2008 pentru aprobarea Schemei de ajutor de minimis \"Sprijinirea activităților economice în vederea diversificării economiei rurale și a creșterii calității vieții în spațiul rural\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97410",
+   "versions": [
+    {
+     "from": "2008-09-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97410",
+     "sha256": "4edd32bfadd69695548e2577ae41fec6c056ada79ab5a1ed13e4bc779ce3fc31"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-572-2008",
+   "path": "ordin/agricultura/2008/572",
+   "short": "Ordin agricultura nr. 572/2008",
+   "title": "Ordinul nr. 572/2008 pentru aprobarea Normelor de aplicare a schemei de defrișare a plantațiilor viticole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97190",
+   "versions": [
+    {
+     "from": "2008-09-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97190",
+     "sha256": "15fd3445dd5c170fa3faa1193398dc0c22c445e384f799764c3a0e7654529d99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-580-2008",
+   "path": "ordin/agricultura/2008/580",
+   "short": "Ordin agricultura nr. 580/2008",
+   "title": "Ordinul nr. 580/2008 privind retragerea sub control a subproduselor vitivinicole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97438",
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97438",
+     "sha256": "655ba207612c47a7cf32309968569146966b4430c2fb27d64291a90f962e3787"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-581-2008",
+   "path": "ordin/agricultura/2008/581",
+   "short": "Ordin agricultura nr. 581/2008",
+   "title": "Ordinul nr. 581/2008 pentru aprobarea Normelor privind acordarea sprijinului financiar producătorilor de vin care utilizează must de struguri concentrat și/sau must de struguri concentrat rectificat în vederea creșterii tăriei alcoolice naturale a strugurilor proaspeți, a mustului de struguri, a mustului de struguri parțial fermentat și a vinului nou aflat încă în fermentație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97513",
+   "versions": [
+    {
+     "from": "2008-09-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97513",
+     "sha256": "00b15d5801cdc98d570d414651cd6bab77ac5c86434da6fa65b2cef1a8636815"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-582-2008",
+   "path": "ordin/agricultura/2008/582",
+   "short": "Ordin agricultura nr. 582/2008",
+   "title": "Ordinul nr. 582/2008 privind aprobarea Listei resurselor genetice animale în stare critică, în pericol de dispariție și a celor vulnerabile, care sunt supuse programelor de conservare și utilizare în anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97551",
+   "versions": [
+    {
+     "from": "2008-09-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97551",
+     "sha256": "15c7e14ff97241f687937c5e6a9d6245477fad26bb5b87b95bf054bd8926c1e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-583-2008",
+   "path": "ordin/agricultura/2008/583",
+   "short": "Ordin agricultura nr. 583/2008",
+   "title": "Ordinul nr. 583/2008 pentru aprobarea Metodologiei privind organizarea și funcționarea sistemului informațional integrat de urmărire a materialelor lemnoase (SUMAL) și obligațiile operatorilor economici legate de acesta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97531",
+   "versions": [
+    {
+     "from": "2008-09-23",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97531",
+     "sha256": "bd0024b40e348b4c5cdc7a2ef49d554d7693cd953f3465a0c173d5be849adea4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-584-2008",
+   "path": "ordin/agricultura/2008/584",
+   "short": "Ordin agricultura nr. 584/2008",
+   "title": "Ordinul nr. 584/2008 pentru aprobarea condițiilor și a procedurii de emitere, suspendare sau retragere a acordului de distribuire și utilizare a formularelor cu regim special și a sigiliilor-crotalii pentru identificarea pomilor de Crăciun",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97503",
+   "versions": [
+    {
+     "from": "2008-09-22",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97503",
+     "sha256": "11d44d036526593972040efb80d5815a826e3667e000dd77493415682922fa15"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-6-2008",
+   "path": "ordin/agricultura/2008/6",
+   "short": "Ordin agricultura nr. 6/2008",
+   "title": "Ordinul nr. 6/2008 privind aprobarea nivelului comisioanelor de garantare pentru anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88762",
+   "versions": [
+    {
+     "from": "2008-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88762",
+     "sha256": "ed99c1c2d230c5e28259ac1b972b58155292baa4c54d04e6de2d9e5b9abc2ce5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-605-2008",
+   "path": "ordin/agricultura/2008/605",
+   "short": "Ordin agricultura nr. 605/2008",
+   "title": "Ordinul nr. 605/2008 privind aprobarea Listei cu rasele de lapte, carne sau pielicele, din speciile ovine și caprine, care se pot achiziționa în baza Hotărârii Guvernului nr. 1.099/2008 privind susținerea din fonduri bugetare, în anul 2008, a achiziției de berbeci și/sau țapi pentru reproducție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97777",
+   "versions": [
+    {
+     "from": "2008-10-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97777",
+     "sha256": "62ed2ab9443a00eeaafad6ae27bdf452899e1675951f6d72aed6133f32cbc653"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-606-2008",
+   "path": "ordin/agricultura/2008/606",
+   "short": "Ordin agricultura nr. 606/2008",
+   "title": "Ordinul nr. 606/2008 pentru aprobarea Instrucțiunilor privind termenele, modalitățile și perioadele de colectare, scoatere și transport al materialului lemnos",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98366",
+   "versions": [
+    {
+     "from": "2008-10-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98366",
+     "sha256": "13a00d26f648cbf52726a1884baa54c3036d0f09eb424c041052e1f62f82f120"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-61-2008",
+   "path": "ordin/agricultura/2008/61",
+   "short": "Ordin agricultura nr. 61/2008",
+   "title": "Ordinul nr. 61/2008 privind stabilirea procedurilor pentru efectuarea controalelor fitosanitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89416",
+   "versions": [
+    {
+     "from": "2008-02-11",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89416",
+     "sha256": "b63739b73da883b7eb1b95432ac7ef7c07aea497409f1704f54b3335366af52a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-620-2008",
+   "path": "ordin/agricultura/2008/620",
+   "short": "Ordin agricultura nr. 620/2008",
+   "title": "Ordinul nr. 620/2008 privind aprobarea Instrucțiunilor pentru stabilirea procedurii privind gestionarea fondurilor nerambursabile alocate de la Comunitatea Europeană din Fondul European pentru Pescuit și a fondurilor de cofinanțare și prefinanțare alocate de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100985",
+   "versions": [
+    {
+     "from": "2009-01-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100985",
+     "sha256": "13f7fae43f70f5f9381357449670de1b7c62a822c6a33ff89e6a9df05550ebb5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-624-2008",
+   "path": "ordin/agricultura/2008/624",
+   "short": "Ordin agricultura nr. 624/2008",
+   "title": "Ordinul nr. 624/2008 pentru repartizarea cotelor de producție de zahăr și izoglucoză și necesarul tradițional de aprovizionare în anul comercial 2008-2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98096",
+   "versions": [
+    {
+     "from": "2008-10-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98096",
+     "sha256": "9973e9d65a100b84d071824753edb24c359e2db208ce0ba1d2f5e5c838d3ec53"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-64-b-2008",
+   "path": "ordin/agricultura/2008/64-b",
+   "short": "Ordin agricultura nr. 64/B/2008",
+   "title": "Ordinul nr. 64/B/2008 privind aprobarea formularului de cerere de plată pentru schemele de sprijin pe suprafață pentru anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89479",
+   "versions": [
+    {
+     "from": "2008-02-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89479",
+     "sha256": "d8d28a73f2480edbb4a5693d71e707ed106eb8771602fbf6dfe39050b989613e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-642-2008",
+   "path": "ordin/agricultura/2008/642",
+   "short": "Ordin agricultura nr. 642/2008",
+   "title": "Ordinul nr. 642/2008 pentru aprobarea normelor metodologice de acordare a sprijinului financiar, prevăzute de Hotărârea Guvernului nr. 1.195/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98543",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98543",
+     "sha256": "16899a3d8c947303c7caf5c7287c0d66a2da4c96eb2cf70d3b4b35c2b855fbbe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-649-2008",
+   "path": "ordin/agricultura/2008/649",
+   "short": "Ordin agricultura nr. 649/2008",
+   "title": "Ordinul nr. 649/2008 privind aprobarea Metodologiei de acordare a compensației pentru pierderea de venit corespunzătoare suprafețelor efectiv ocupate cu perdele forestiere de protecție înființate pe terenurile agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99068",
+   "versions": [
+    {
+     "from": "2008-11-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99068",
+     "sha256": "e394e33c7c8e98cdd5f3f5bf84643af57f8a9467818e32f98612248135f409e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-66-2008",
+   "path": "ordin/agricultura/2008/66",
+   "short": "Ordin agricultura nr. 66/2008",
+   "title": "Ordinul nr. 66/2008 privind aprobarea sumelor, a condițiilor și a modului de acordare a acestor sume pentru achiziția materialului seminal congelat de taur și a agentului criogenic folosit la conservare în anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89304",
+   "versions": [
+    {
+     "from": "2008-02-05",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89304",
+     "sha256": "86296c731b37fae611d9d15c010c7c17dba3fd4809e2e59d96d5c71bb00e221b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-67-2008",
+   "path": "ordin/agricultura/2008/67",
+   "short": "Ordin agricultura nr. 67/2008",
+   "title": "Ordinul nr. 67/2008 privind nominalizarea agenților de dăunare pentru a căror acțiune de combatere Ministerul Agriculturii și Dezvoltării Rurale alocă fonduri de la buget conform prevederilor art. 7 din Legea nr. 37/2006 privind reorganizarea activității de protecție a plantelor și carantină fitosanitară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89412",
+   "versions": [
+    {
+     "from": "2008-02-08",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89412",
+     "sha256": "5cd2156b5d0455c91e47a860c8d240bf14aba4761406f43b4157ae1c1613f80e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-670-2008",
+   "path": "ordin/agricultura/2008/670",
+   "short": "Ordin agricultura nr. 670/2008",
+   "title": "Ordinul nr. 670/2008 privind aprobarea listei ocoalelor silvice care asigură la cerere, pe bază de contract, servicii silvice pentru proprietarii de fond forestier persoane fizice și juridice care nu și-au constituit ocoale silvice private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99590",
+   "versions": [
+    {
+     "from": "2008-12-10",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99590",
+     "sha256": "bcc5165b23baeedfc023a91c84bdd9c565c8f04e19aebefdcd98a6c41dc89451"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-69-2008",
+   "path": "ordin/agricultura/2008/69",
+   "short": "Ordin agricultura nr. 69/2008",
+   "title": "Ordinul nr. 69/2008 privind aprobarea structurii serviciilor specifice prin care se constituie veniturile proprii ale Agenției Naționale de Consultanță Agricolă și ale unităților subordonate acesteia, cuantumului tarifelor și modalităților de încasare și de utilizare a fondurilor pentru anul 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89468",
+   "versions": [
+    {
+     "from": "2008-02-11",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89468",
+     "sha256": "b7973a833888d23d704c36a343a0d3fed4329baca1c59e0b4c4098160d2e2892"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-694-2008",
+   "path": "ordin/agricultura/2008/694",
+   "short": "Ordin agricultura nr. 694/2008",
+   "title": "Ordinul nr. 694/2008 privind condițiile de recunoaștere a organizațiilor de producători și a grupurilor de producători recunoscute preliminar în sectorul fructe și legume, precum și modul de accesare a sprijinului financiar de către acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99623",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99623",
+     "sha256": "5c61890ea4cb4e763f1da78ecaa9b3d574e8632c0b50aaed0baad20a791e58aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-695-2008",
+   "path": "ordin/agricultura/2008/695",
+   "short": "Ordin agricultura nr. 695/2008",
+   "title": "Ordinul nr. 695/2008 privind stabilirea Condițiilor de aprobare a cumpărătorilor de lapte de vacă și a formularului de cerere pentru aprobarea și înscrierea acestora în Registrul cumpărătorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99516",
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99516",
+     "sha256": "017ec9eeaddd399f616be66a3c4f8d161fee48ec48fde437a339e15de2e51f68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-696-2008",
+   "path": "ordin/agricultura/2008/696",
+   "short": "Ordin agricultura nr. 696/2008",
+   "title": "Ordinul nr. 696/2008 pentru aprobarea Procedurii privind constituirea și autorizarea ocoalelor silvice și atribuțiile acestora, modelul documentelor de constituire, organizare și funcționare, precum și conținutul Registrului național al administratorilor de păduri și al ocoalelor silvice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100079",
+   "versions": [
+    {
+     "from": "2008-12-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100079",
+     "sha256": "9bc731d6f7b8fa58ef477b0292bd757da8db5ad7224fad87a152a32b83c2122c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-706-2008",
    "path": "ordin/agricultura/2008/706",
    "short": "Ordin agricultura nr. 706/2008",
@@ -119,6 +989,186 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100690",
      "sha256": "e8d5a4a313e731870445a3debec00a858cd613cbeedb84f2cd7ad76ac45efe2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-715-2008",
+   "path": "ordin/agricultura/2008/715",
+   "short": "Ordin agricultura nr. 715/2008",
+   "title": "Ordinul nr. 715/2008 pentru aprobarea prețului mediu al unui metru cub de masă lemnoasă pe picior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99793",
+   "versions": [
+    {
+     "from": "2009-01-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99793",
+     "sha256": "363ce5504514b64ffd8cd3b46d5694f145f53c4464bfce3924a63110574c4bad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-717-2008",
+   "path": "ordin/agricultura/2008/717",
+   "short": "Ordin agricultura nr. 717/2008",
+   "title": "Ordinul nr. 717/2008 privind aprobarea tarifelor pentru efectuarea lucrărilor de examinare a soiurilor pentru care se solicită înscrierea în Catalogul oficial național al soiurilor de plante de cultură din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99987",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99987",
+     "sha256": "1e71d77bbc9af70d283614de8f13859a1203ae96b8a2b8f6f35bd50775dd1be0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-728-2008",
+   "path": "ordin/agricultura/2008/728",
+   "short": "Ordin agricultura nr. 728/2008",
+   "title": "Ordinul nr. 728/2008 privind aprobarea regulamentului de organizare și funcționare, a structurii organizatorice și a statului de funcții ale Oficiului Național al Denumirilor de Origine pentru Vinuri (ONDOV)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100480",
+   "versions": [
+    {
+     "from": "2008-12-18",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100480",
+     "sha256": "33e2a83f5c7b62d0b7461578632ace876e0c26c44b05e8c37c6db27f2384694e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-734-2008",
+   "path": "ordin/agricultura/2008/734",
+   "short": "Ordin agricultura nr. 734/2008",
+   "title": "Ordinul nr. 734/2008 pentru aprobarea Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 41/2008 privind sprijinul financiar pentru pierderi cauzate de înghețul târziu de primăvară în pomicultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100360",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100360",
+     "sha256": "505722565542cfc655203f38e610d5b1aab2bd9b5e96e81db53e7059b663fd63"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-744-2008",
+   "path": "ordin/agricultura/2008/744",
+   "short": "Ordin agricultura nr. 744/2008",
+   "title": "Ordinul nr. 744/2008 pentru aprobarea nivelului comisioanelor de garantare pentru anul 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100755",
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100755",
+     "sha256": "e83ec808e73fbde7f8a2c39111da8c441e0879a4989b80e657c4c31532aa88c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-746-2008",
+   "path": "ordin/agricultura/2008/746",
+   "short": "Ordin agricultura nr. 746/2008",
+   "title": "Ordinul nr. 746/2008 pentru aprobarea Listei cu gradatori autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100971",
+   "versions": [
+    {
+     "from": "2009-01-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100971",
+     "sha256": "b26de141c6cc688d34eb3021723a25b77edaad0bc9d1ff0461eed128f935ae7d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-753-2008",
+   "path": "ordin/agricultura/2008/753",
+   "short": "Ordin agricultura nr. 753/2008",
+   "title": "Ordinul nr. 753/2008 privind condițiile de practicare a pescuitului recreativ/sportiv în bazinele piscicole naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100772",
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100772",
+     "sha256": "068fcadd3701c27e2d5ef9196f15827880da506bb28657feebaaec6f5c01dc53"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-756-2008",
+   "path": "ordin/agricultura/2008/756",
+   "short": "Ordin agricultura nr. 756/2008",
+   "title": "Ordinul nr. 756/2008 privind aprobarea Normelor metodologice de acordare a sprijinului financiar producătorilor din sectorul vitivinicol pentru asigurarea recoltei de struguri pentru vin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100749",
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100749",
+     "sha256": "ae6cf53fe199dafe599507eb5a3b7aa70ab9331c0ac6574be635aacae90e09c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-761-2008",
+   "path": "ordin/agricultura/2008/761",
+   "short": "Ordin agricultura nr. 761/2008",
+   "title": "Ordinul nr. 761/2008 privind aprobarea Condițiilor de emitere a certificatului pentru carne de bovine adulte - masculi, conform Regulamentului (CE) nr. 433/2007, a certificatului pentru carne dezosată sferturi posterioare de bovine adulte - masculi și a certificatului pentru carne dezosată sferturi anterioare de bovine adulte - masculi, conform Regulamentului (CE) nr. 1.359/2007, precum și a celor de verificare și supraveghere a produselor care fac obiectul certificatelor până în momentul plasării acestora sub un regim vamal în vederea exportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101066",
+   "versions": [
+    {
+     "from": "2009-01-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101066",
+     "sha256": "710ca21c21251e0a40123b5006967c75c4d04f4baedadf59a4095073281d87a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-762-2008",
+   "path": "ordin/agricultura/2008/762",
+   "short": "Ordin agricultura nr. 762/2008",
+   "title": "Ordinul nr. 762/2008 pentru aprobarea modelului autorizației de înființare și funcționare a crescătoriilor de vânat și a complexurilor de vânătoare și al documentelor legale de proveniență a exemplarelor de vânat care intră și ies în/din crescătoriile de vânat și complexurile de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100995",
+   "versions": [
+    {
+     "from": "2009-01-05",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100995",
+     "sha256": "d02415df5a540027e05c701377158e9419b4d14bcaae39ce718a559de1e6eebb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-763-2008",
+   "path": "ordin/agricultura/2008/763",
+   "short": "Ordin agricultura nr. 763/2008",
+   "title": "Ordinul nr. 763/2008 pentru aprobarea conținutului, modelului și procedurii de înscriere în Registrul național al asociațiilor de proprietari de păduri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100912",
+   "versions": [
+    {
+     "from": "2008-12-31",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100912",
+     "sha256": "611a664b954a079389df457072bf77a79d2b3ea75be46d686c646babc6ee234a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-91-2008",
+   "path": "ordin/agricultura/2008/91",
+   "short": "Ordin agricultura nr. 91/2008",
+   "title": "Ordinul nr. 91/2008 privind modalitatea de acordare a plăților tranzitorii pentru tomate destinate procesării și aprobarea prim-procesatorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89592",
+   "versions": [
+    {
+     "from": "2008-02-14",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89592",
+     "sha256": "94c055a556614f3a18162d28fb14d3381901d3eb1dd8718294b8bce5be94836e"
     }
    ]
   },
@@ -3663,6 +4713,936 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3007-2008",
+   "path": "ordin/educatie/2008/3007",
+   "short": "Ordin educatie nr. 3007/2008",
+   "title": "Ordinul nr. 3.007/2008 pentru aprobarea Centralizatorului privind disciplinele de învățământ, domeniile și specializările, precum și probele de concurs valabile pentru încadrarea personalului didactic din învățământul preuniversitar 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89078",
+   "versions": [
+    {
+     "from": "2008-01-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89078",
+     "sha256": "a8a37c2c9eabb06e15b0787e369a44de0a2da69da1318ef42e7b6605603c5f9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3152-2008",
+   "path": "ordin/educatie/2008/3152",
+   "short": "Ordin educatie nr. 3152/2008",
+   "title": "Ordinul nr. 3.152/2008 privind aprobarea Regulamentului de organizare a cursurilor de limba română și atestare a nivelului de cunoștințe de limba română și a Programei analitice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89698",
+   "versions": [
+    {
+     "from": "2008-02-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89698",
+     "sha256": "4bcbc3e94347270527d1f9affcd1ab9d7ae2254bbda63dcf5cae3e103c3b537f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3154-2008",
+   "path": "ordin/educatie/2008/3154",
+   "short": "Ordin educatie nr. 3154/2008",
+   "title": "Ordinul nr. 3.154/2008 pentru modificarea și înlocuirea anexei nr. 2 la Ordinul ministrului educației și cercetării nr. 5.771/2006 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Național al Cercetării Științifice din Învățământul Superior (C.N.C.S.I.S.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89771",
+   "versions": [
+    {
+     "from": "2008-02-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89771",
+     "sha256": "784eda2dc57c6c6caddab23e5efe8bd9809cc07dc41f9ad163ea485c81fb968a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3173-2008",
+   "path": "ordin/educatie/2008/3173",
+   "short": "Ordin educatie nr. 3173/2008",
+   "title": "Ordinul nr. 3.173/2008 pentru modificarea Ordinului ministrului educației și cercetării nr. 3.904/2006 privind organizarea și funcționarea Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89971",
+   "versions": [
+    {
+     "from": "2008-02-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89971",
+     "sha256": "a27a0392c43836ae158b1eaf698e301c5dafc1eee8ca690839bd234a33c6dddb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3315-2008",
+   "path": "ordin/educatie/2008/3315",
+   "short": "Ordin educatie nr. 3315/2008",
+   "title": "Ordinul nr. 3.315/2008 privind criteriile generale de organizare și desfășurare a admiterii în ciclul de studii universitare de licență, de masterat și de doctorat pentru anul universitar 2008-2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90500",
+   "versions": [
+    {
+     "from": "2008-03-20",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90500",
+     "sha256": "225a08449e38cc730287713443ff4ee03bec85e626e306737f806ec282c79237"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3325-2008",
+   "path": "ordin/educatie/2008/3325",
+   "short": "Ordin educatie nr. 3325/2008",
+   "title": "Ordinul nr. 3.325/2008 privind repartizarea cifrelor de școlarizare pe instituții de învățământ superior, în vederea admiterii la studii în anul universitar 2008-2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90680",
+   "versions": [
+    {
+     "from": "2008-03-25",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90680",
+     "sha256": "d724c1d8ca4b46b832c23a16d0f23fd2f4e3cda55ab769aace153be595f459c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3361-2008",
+   "path": "ordin/educatie/2008/3361",
+   "short": "Ordin educatie nr. 3361/2008",
+   "title": "Ordinul nr. 3.361/2008 privind comasarea prin absorbție a unității de învățământ preuniversitar particular Grădinița \"Mark Twain International School\" din Voluntari de către unitatea de învățământ preuniversitar particular Mark Twain International School din Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90503",
+   "versions": [
+    {
+     "from": "2008-03-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90503",
+     "sha256": "6505d2bb50f66e4ff1299c2d0dd63567b7f2548be7a32d339d669bea9c9de19c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3390-2008",
+   "path": "ordin/educatie/2008/3390",
+   "short": "Ordin educatie nr. 3390/2008",
+   "title": "Ordinul nr. 3.390/2008 pentru aprobarea publicării anexelor nr. 18 și 20 la Centralizatorul privind disciplinele de învățământ, domeniile și specializările, precum și probele de concurs valabile pentru încadrarea personalului didactic din învățământul preuniversitar 2008, cuprinzând disciplinele/modulele corespunzătoare profilului posturilor/catedrelor cuprinse în aria curriculară Tehnologii pentru pregătire și instruire practică și discipline tehnologice din domeniul sănătate și asistență pedagogică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90604",
+   "versions": [
+    {
+     "from": "2008-03-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90604",
+     "sha256": "8d0dc15ea92ffdeea9435dea3c3e3065462636130d107fb665ea074db4e60791"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3565-2008",
+   "path": "ordin/educatie/2008/3565",
+   "short": "Ordin educatie nr. 3565/2008",
+   "title": "Ordinul nr. 3.565/2008 privind aprobarea Procedurilor de înscriere a organizațiilor furnizoare de educație, care organizează și desfășoară pe teritoriul României activități de învățământ corespunzătoare unui sistem educațional din altă țară, în Registrul special al organizațiilor furnizoare de educație care organizează și desfășoară pe teritoriul României activități de învățământ corespunzătoare unui sistem educațional din altă țară și de recunoaștere a studiilor efectuate de elevii școlarizați în cadrul acestor unități de învățământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91382",
+   "versions": [
+    {
+     "from": "2008-04-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91382",
+     "sha256": "895824aef60b373e013867ca40389c5edf373d985772bbb636335bbba34e780c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3628-2008",
+   "path": "ordin/educatie/2008/3628",
+   "short": "Ordin educatie nr. 3628/2008",
+   "title": "Ordinul nr. 3.628/2008 privind aprobarea programelor de studii universitare de masterat evaluate de Agenția Română de Asigurare a Calității în Învățământul Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91651",
+   "versions": [
+    {
+     "from": "2008-04-21",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91651",
+     "sha256": "13ee20f0f6c21163f66c7b4de9c7320cb10b88731c7bdef8f5132b9a907448f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3939-2008",
+   "path": "ordin/educatie/2008/3939",
+   "short": "Ordin educatie nr. 3939/2008",
+   "title": "Ordinul nr. 3.939/2008 pentru modificarea Ordinului ministrului educației, cercetării și tineretului nr. 1.871/2007 privind Metodologia de organizare și desfășurare a probei anticipate susținute de elevii claselor a XI-a și a probelor susținute de elevii claselor a XII-a din secțiile bilingve francofone pentru obținerea mențiunii speciale \"secție bilingvă francofonă\" la bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92879",
+   "versions": [
+    {
+     "from": "2008-05-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92879",
+     "sha256": "8f21daac6ccbbdc20cf0c1592a7868ee9f4cfd6fd58238f24f3ac0529fdb387e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3955-2008",
+   "path": "ordin/educatie/2008/3955",
+   "short": "Ordin educatie nr. 3955/2008",
+   "title": "Ordinul nr. 3.955/2008 privind aprobarea Cadrului general de organizare a stagiilor de practică în cadrul programelor de studii universitare de licență și de masterat și a Convenției-cadru privind efectuarea stagiului de practică în cadrul programelor de studii universitare de licență sau masterat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94000",
+   "versions": [
+    {
+     "from": "2008-06-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94000",
+     "sha256": "c606206da3d530ad35fbb83b79be0459f105034ff5b1d45862a460a989b181d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4276-2008",
+   "path": "ordin/educatie/2008/4276",
+   "short": "Ordin educatie nr. 4276/2008",
+   "title": "Ordinul nr. 4.276/2008 pentru aprobarea Calendarului activităților de selecție și repartizare a personalului didactic implicat în cadrul Proiectului privind predarea cursului de Limbă, cultură și civilizație românească în unități de învățământ din state membre ale Uniunii Europene pentru anul școlar 2008-2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93683",
+   "versions": [
+    {
+     "from": "2008-06-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93683",
+     "sha256": "3b80458382beca7f82f9e51394c83afaef3523f9ef94dd25c0894e7ce122f658"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4277-2008",
+   "path": "ordin/educatie/2008/4277",
+   "short": "Ordin educatie nr. 4277/2008",
+   "title": "Ordinul nr. 4.277/2008 pentru aprobarea Metodologiei Proiectului privind predarea cursului de Limbă, cultură și civilizație românească în unități de învățământ din state membre ale Uniunii Europene și a instrumentelor de lucru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93708",
+   "versions": [
+    {
+     "from": "2008-06-05",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93708",
+     "sha256": "3dcd97cb6b3b5507ff3096c5738a241532e9c9d77a34ea83e4eb9a991c1df4db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4298-2008",
+   "path": "ordin/educatie/2008/4298",
+   "short": "Ordin educatie nr. 4298/2008",
+   "title": "Ordinul nr. 4.298/2008 privind modificarea Regulamentului de organizare și desfășurare a concursurilor pentru ocuparea posturilor de lectori români în străinătate, aprobat prin Ordinul ministrului educației și cercetării nr. 4.547/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93726",
+   "versions": [
+    {
+     "from": "2008-06-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93726",
+     "sha256": "7754535d4247e0969f44d5d4ed89a258d1c5c0b5ba1b85fc65cdd3c0255112d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4316-2008",
+   "path": "ordin/educatie/2008/4316",
+   "short": "Ordin educatie nr. 4316/2008",
+   "title": "Ordinul nr. 4.316/2008 privind aprobarea Programului de studii psihopedagogice în vederea certificării pentru profesia didactică prin Departamentul pentru pregătirea personalului didactic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95489",
+   "versions": [
+    {
+     "from": "2008-07-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95489",
+     "sha256": "570a51f9ef0c90270eb15f50deef4cc2a3d451f77cced396e7f27d1b4d214c7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4339-2008",
+   "path": "ordin/educatie/2008/4339",
+   "short": "Ordin educatie nr. 4339/2008",
+   "title": "Ordinul nr. 4.339/2008 privind modificarea și completarea anexei la Ordinul ministrului educației și cercetării nr. 5.435/2006 pentru aprobarea Regulamentului privind acordarea de distincții și premii personalului didactic din învățământul preuniversitar de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95478",
+   "versions": [
+    {
+     "from": "2008-07-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95478",
+     "sha256": "1e75a13b366737afc5b47862e743ffb6608c594c989959c3da45af3a003e6435"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4644-2008",
+   "path": "ordin/educatie/2008/4644",
+   "short": "Ordin educatie nr. 4644/2008",
+   "title": "Ordinul nr. 4.644/2008 pentru modificarea Ordinului ministrului educației, cercetării și tineretului nr. 3.628/2008 privind aprobarea programelor de studii universitare de masterat evaluate de Agenția Română de Asigurare a Calității în Învățământul Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96080",
+   "versions": [
+    {
+     "from": "2008-07-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96080",
+     "sha256": "4ed4671eab9a8011977d090bf9290e7abe0e164e00d8da71026a1d629f0e4d4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4653-2008",
+   "path": "ordin/educatie/2008/4653",
+   "short": "Ordin educatie nr. 4653/2008",
+   "title": "Ordinul nr. 4.653/2008 pentru aprobarea Metodologiei privind recrutarea, selecția, încadrarea și evaluarea lectorilor români care urmează să predea cursuri de limbă, cultură și civilizație românească la universități din străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95838",
+   "versions": [
+    {
+     "from": "2008-07-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95838",
+     "sha256": "a9bfb88a966324195550c1fd9b2907805f6a51f3958c0e7dfdb6a132421d61be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4872-2008",
+   "path": "ordin/educatie/2008/4872",
+   "short": "Ordin educatie nr. 4872/2008",
+   "title": "Ordinul nr. 4.872/2008 privind aprobarea Certificatului de absolvire a Departamentului pentru pregătirea personalului didactic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96152",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96152",
+     "sha256": "cca69cadf9254d33a310799a064534f61ffb45e37217994031c24a46a3c97ce8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4898-2008",
+   "path": "ordin/educatie/2008/4898",
+   "short": "Ordin educatie nr. 4898/2008",
+   "title": "Ordinul nr. 4.898/2008 pentru modificarea Ordinului ministrului educației și cercetării nr. 4.839/2004 privind criteriile specifice și metodologia de acordare a sprijinului financiar în cadrul Programului național de protecție socială \"Bani de liceu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96473",
+   "versions": [
+    {
+     "from": "2008-08-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96473",
+     "sha256": "b032ccfbb02cc18b05195d6337cde44f5078ab28a1c4748702ce98cf853d45c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4931-2008",
+   "path": "ordin/educatie/2008/4931",
+   "short": "Ordin educatie nr. 4931/2008",
+   "title": "Ordinul nr. 4.931/2008 pentru aprobarea Metodologiei privind transferul și recunoașterea rezultatelor învățării dobândite de elevii din învățământul profesional și tehnic prin stagiile de pregătire practică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97847",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97847",
+     "sha256": "7a47c42d4409e84ffa16a0ed1b5d6ca647c7584430c725feb724097af7834bf6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4936-2008",
+   "path": "ordin/educatie/2008/4936",
+   "short": "Ordin educatie nr. 4936/2008",
+   "title": "Ordinul nr. 4.936/2008 privind modificarea și completarea Ordinului ministrului educației, cercetării și tineretului nr. 4.644/2008 pentru modificarea Ordinului ministrului educației, cercetării și tineretului nr. 3.628/2008 privind aprobarea programelor de studii universitare de masterat evaluate de Agenția Română de Asigurare a Calității în Învățământul Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96618",
+   "versions": [
+    {
+     "from": "2008-08-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96618",
+     "sha256": "d6cd86d7681476f2dc61dae2943b2025653270f09e2d3a193096260362ec38f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5056-2008",
+   "path": "ordin/educatie/2008/5056",
+   "short": "Ordin educatie nr. 5056/2008",
+   "title": "Ordinul nr. 5.056/2008 privind aplicarea prevederilor legale referitoare la înființarea și organizarea programelor universitare de masterat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97443",
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97443",
+     "sha256": "4d8c690dfe9f35eb7ef17af80f9b48c61da3d9ce0292b486576c1ba44335627d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5082-2008",
+   "path": "ordin/educatie/2008/5082",
+   "short": "Ordin educatie nr. 5082/2008",
+   "title": "Ordinul nr. 5.082/2008 privind modificarea anexei la Ordinul ministrului educației, cercetării și tineretului nr. 4.276/2008 pentru aprobarea Calendarului activităților de selecție și repartizare a personalului didactic implicat în cadrul Proiectului privind predarea cursului de Limbă, cultură și civilizație românească în unități de învățământ din state membre ale Uniunii Europene pentru anul școlar 2008-2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97220",
+   "versions": [
+    {
+     "from": "2008-09-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97220",
+     "sha256": "37dd9edcc09a537613ba56064815a3cec699385adef334145154519b27dbe9cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5109-2008",
+   "path": "ordin/educatie/2008/5109",
+   "short": "Ordin educatie nr. 5109/2008",
+   "title": "Ordinul nr. 5.109/2008 privind înființarea Centralei Rețelei Firmelor de Exercițiu/Întreprinderilor Simulate din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97357",
+   "versions": [
+    {
+     "from": "2008-09-15",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97357",
+     "sha256": "4c0960b197b9431683de25be21990a25b101807ae10d5801fd63f2a5fa834293"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5116-2008",
+   "path": "ordin/educatie/2008/5116",
+   "short": "Ordin educatie nr. 5116/2008",
+   "title": "Ordinul nr. 5.116/2008 pentru modificarea Ordinului ministrului educației, cercetării și tineretului nr. 3.152/2008 privind aprobarea Regulamentului de organizare a cursurilor de limba română și atestare a nivelului de cunoștințe de limba română și a Programei analitice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97225",
+   "versions": [
+    {
+     "from": "2008-09-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97225",
+     "sha256": "7166769817fd272a8a6143e8976fc23dca624e00f274d8c4cc983b5b874edfff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5166-2008",
+   "path": "ordin/educatie/2008/5166",
+   "short": "Ordin educatie nr. 5166/2008",
+   "title": "Ordinul nr. 5.166/2008 privind aprobarea metodologiei de organizare și desfășurare și a Calendarului admiterii în învățământul liceal și profesional de stat pentru anul școlar 2009-2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97737",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97737",
+     "sha256": "e94b2354949d45e5bb09ef82b36fa14045aa5d4e39057503a99e6ebeb37b4e74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5168-2008",
+   "path": "ordin/educatie/2008/5168",
+   "short": "Ordin educatie nr. 5168/2008",
+   "title": "Ordinul nr. 5.168/2008 privind aprobarea calendarului și a Metodologiei de organizare și desfășurare a examenului de bacalaureat - 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97922",
+   "versions": [
+    {
+     "from": "2008-10-09",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97922",
+     "sha256": "a24986b9b95abccab442213678d0d1ae6b1e162db85d851b6216c5eb13d1fb72"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5176-2008",
+   "path": "ordin/educatie/2008/5176",
+   "short": "Ordin educatie nr. 5176/2008",
+   "title": "Ordinul nr. 5.176/2008 privind aprobarea curriculumului pentru grupele din învățământul special preșcolar - pedagogie curativă, care integrează copii cu deficiențe severe, profunde sau asociate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99739",
+   "versions": [
+    {
+     "from": "2008-12-02",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99739",
+     "sha256": "3a5f43b78ebfbdd888d068e82bcc4f19535a983f0d848a9d7b0b0972c6778323"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5177-2008",
+   "path": "ordin/educatie/2008/5177",
+   "short": "Ordin educatie nr. 5177/2008",
+   "title": "Ordinul nr. 5.177/2008 pentru modificarea și completarea Ordinului ministrului educației, cercetării și tineretului nr. 5.168/2008 privind aprobarea calendarului și a Metodologiei de organizare și desfășurare a examenului de bacalaureat - 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100003",
+   "versions": [
+    {
+     "from": "2008-12-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100003",
+     "sha256": "42cea57e4244f4db4fde0e5e98abde594c2885e48e82ae903fa0e202e0996bd6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5229-2008",
+   "path": "ordin/educatie/2008/5229",
+   "short": "Ordin educatie nr. 5229/2008",
+   "title": "Ordinul nr. 5.229/2008 privind aprobarea programelor școlare revizuite pentru discipline de studiu din aria curriculară Om și Societate: religie, clasele I - a IV-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100863",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100863",
+     "sha256": "815a940de7adcd67c525fbc8c4b7cd624a08b149d425fe4ac192847b671d153c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5230-2008",
+   "path": "ordin/educatie/2008/5230",
+   "short": "Ordin educatie nr. 5230/2008",
+   "title": "Ordinul nr. 5.230/2008 privind aprobarea programelor școlare revizuite pentru discipline de studiu din aria curriculară Om și Societate: religie, clasele a IX-a - a XII-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100864",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100864",
+     "sha256": "f9d9550797356805c4ae3bc296ea153e5bf40ff1eb16ecf234e5e8668ed4b6d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5233-2008",
+   "path": "ordin/educatie/2008/5233",
+   "short": "Ordin educatie nr. 5233/2008",
+   "title": "Ordinul nr. 5.233/2008 privind aprobarea Curriculumului pentru educația timpurie a copiilor cu vârsta cuprinsă între naștere și 6/7 ani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100855",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100855",
+     "sha256": "7d593d6a7ce502452d67e95e7c5286b6cd018d2605418985bc0e23537cee67f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5236-2008",
+   "path": "ordin/educatie/2008/5236",
+   "short": "Ordin educatie nr. 5236/2008",
+   "title": "Ordinul nr. 5.236/2008 privind aprobarea curriculumului pentru grupele de învățământ special - pedagogie curativă, care integrează elevi/tineri cu deficiențe severe, profunde sau asociate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99740",
+   "versions": [
+    {
+     "from": "2008-12-02",
+     "units": 62,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99740",
+     "sha256": "02dcb31c97528a83fe88c4f49d80b8aea91156c7084a6996343c292c19daa34d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5242-2008",
+   "path": "ordin/educatie/2008/5242",
+   "short": "Ordin educatie nr. 5242/2008",
+   "title": "Ordinul nr. 5.242/2008 cu privire la aprobarea programelor școlare pentru clasele a V-a și a VI-a la disciplina \"Limba și literatura italiană maternă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100398",
+   "versions": [
+    {
+     "from": "2008-12-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100398",
+     "sha256": "eb8488960cebe6c7bb362c4a32dc0c2c50b0f208dc2194cea575a327d185b01e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5255-2008",
+   "path": "ordin/educatie/2008/5255",
+   "short": "Ordin educatie nr. 5255/2008",
+   "title": "Ordinul nr. 5.255/2008 privind aprobarea programei școlare, curriculum diferențiat, filiera vocațională, profil teologic româno-catolic de limbă română",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100941",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100941",
+     "sha256": "6a7ecda8189ed268d63bdd001f8fb293437bd8ba079f27cd130e52fb955a7058"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5256-2008",
+   "path": "ordin/educatie/2008/5256",
+   "short": "Ordin educatie nr. 5256/2008",
+   "title": "Ordinul nr. 5.256/2008 privind aprobarea programelor școlare, curriculum diferențiat, filiera vocațională, profil teologic greco-catolic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100942",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100942",
+     "sha256": "264ffb02c97c042ef21e10271d6cb1b1c0e9dd46904a0593e01ed4583e4f76ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5257-2008",
+   "path": "ordin/educatie/2008/5257",
+   "short": "Ordin educatie nr. 5257/2008",
+   "title": "Ordinul nr. 5.257/2008 privind aprobarea programelor școlare, curriculum diferențiat, filiera vocațională, profil teologic unitarian",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100943",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100943",
+     "sha256": "5b3ffba3b28cd1aab91b3413e021d1cb4355fa8dc45d0ddf69cf8a5c9e1139e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5258-2008",
+   "path": "ordin/educatie/2008/5258",
+   "short": "Ordin educatie nr. 5258/2008",
+   "title": "Ordinul nr. 5.258/2008 privind aprobarea programelor școlare, curriculum diferențiat, filiera vocațională, profil teologic reformat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100899",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100899",
+     "sha256": "320af45a743b58b3a15226bdf169950a75342e942eb11d60d42409b74a152f5d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5289-2008",
+   "path": "ordin/educatie/2008/5289",
+   "short": "Ordin educatie nr. 5289/2008",
+   "title": "Ordinul nr. 5.289/2008 privind diploma de licență și suplimentul la diplomă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97412",
+   "versions": [
+    {
+     "from": "2008-09-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97412",
+     "sha256": "4e39e5e70914dd1d39cb7103d77669d932052f29216719d9e2852f7062f6e2dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5390-2008",
+   "path": "ordin/educatie/2008/5390",
+   "short": "Ordin educatie nr. 5390/2008",
+   "title": "Ordinul nr. 5.390/2008 pentru aprobarea Metodologiei privind elaborarea testelor de evaluare a cunoștințelor de Limba română",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98608",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98608",
+     "sha256": "b13ffd6d7608586434898838b5f910818fb7659fcb5840e8fc459af1238745fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5484-2008",
+   "path": "ordin/educatie/2008/5484",
+   "short": "Ordin educatie nr. 5484/2008",
+   "title": "Ordinul nr. 5.484/2008 pentru modificarea Ordinului ministrului educației, cercetării și tineretului nr. 3.628/2008 privind aprobarea programelor de studii universitare de masterat evaluate de Agenția Română de Asigurare a Calității în Învățământul Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98271",
+   "versions": [
+    {
+     "from": "2008-10-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98271",
+     "sha256": "9646223d2121057406b0cfe6b03c7fd0e0fd5ae65a725e9bbb9a9f67bd3a7ed6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5538-2008",
+   "path": "ordin/educatie/2008/5538",
+   "short": "Ordin educatie nr. 5538/2008",
+   "title": "Ordinul nr. 5.538/2008 pentru modificarea Ordinului ministrului educației, cercetării și tineretului nr. 3.628/2008 privind aprobarea programelor de studii universitare de masterat evaluate de Agenția Română de Asigurare a Calității în Învățământul Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98758",
+   "versions": [
+    {
+     "from": "2008-11-03",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98758",
+     "sha256": "a834e512e18ab55e770f1fe0ccbdda5666d15c1265def9382dbc2bfe5d394046"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5689-2008",
+   "path": "ordin/educatie/2008/5689",
+   "short": "Ordin educatie nr. 5689/2008",
+   "title": "Ordinul nr. 5.689/2008 privind aprobarea Regulamentului de organizare și funcționare a centrelor de documentare și informare, a Fișei-cadru a postului de profesor documentarist și a Fișei-cadru de evaluare a profesorului documentarist",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99269",
+   "versions": [
+    {
+     "from": "2008-11-18",
+     "units": 64,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99269",
+     "sha256": "6d2d396d2def5de75ce631dae76ec3c7fc4a89714f2939febea7d3a097d12e8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5702-2008",
+   "path": "ordin/educatie/2008/5702",
+   "short": "Ordin educatie nr. 5702/2008",
+   "title": "Ordinul nr. 5.702/2008 pentru aplicarea prevederilor art. 1 alin. (1) lit. a) și c) din Ordonanța Guvernului nr. 15/2008 privind creșterile salariale ce se vor acorda în anul 2008 personalului din învățământ pentru modificarea valorii de multiplicare a coeficientului 1,000 în perioada 1 octombrie-31 decembrie 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98538",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98538",
+     "sha256": "e6fdfc0bb59e93e1b32a78fcf813f61732e1bfdeae4d914c2fa9bc7cfed25d2f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5730-2008",
+   "path": "ordin/educatie/2008/5730",
+   "short": "Ordin educatie nr. 5730/2008",
+   "title": "Ordinul nr. 5.730/2008 privind aprobarea Metodologiei și a criteriilor de acordare a gradației de merit și a salariului de merit în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99224",
+   "versions": [
+    {
+     "from": "2008-11-17",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99224",
+     "sha256": "1bfb573c8bfd68c23b442a82b7d75ebb8eb0528c53d7eefd6a7249def4683a36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5742-2008",
+   "path": "ordin/educatie/2008/5742",
+   "short": "Ordin educatie nr. 5742/2008",
+   "title": "Ordinul nr. 5.742/2008 privind Calendarul mișcării personalului didactic din învățământul preuniversitar pentru anul școlar 2009-2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99030",
+   "versions": [
+    {
+     "from": "2008-11-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99030",
+     "sha256": "ca4db7adcc8628a292a1a70cd0e289aca87af98a877dc89da8d33a1d107621da"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5743-2008",
+   "path": "ordin/educatie/2008/5743",
+   "short": "Ordin educatie nr. 5743/2008",
+   "title": "Ordinul nr. 5.743/2008 pentru aprobarea Metodologiei privind mișcarea personalului didactic din învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99047",
+   "versions": [
+    {
+     "from": "2008-11-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99047",
+     "sha256": "e8b35e3d67f27a09e7721a9c0495444c633753916013ba179a77be126783ffd0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5869-2008",
+   "path": "ordin/educatie/2008/5869",
+   "short": "Ordin educatie nr. 5869/2008",
+   "title": "Ordinul nr. 5.869/2008 pentru modalitatea de aplicare a unor prevederi ale Ordonanței Guvernului nr. 15/2008 privind creșterile salariale ce se vor acorda în anul 2008 personalului din învățământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99176",
+   "versions": [
+    {
+     "from": "2008-11-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99176",
+     "sha256": "090132b94a160825af400e6294b109d58516bc7ab349091af77e8e4d2430d2ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5897-2008",
+   "path": "ordin/educatie/2008/5897",
+   "short": "Ordin educatie nr. 5897/2008",
+   "title": "Ordinul nr. 5.897/2008 pentru completarea Sistemului de evaluare privind conferirea titlului de conferențiar universitar, aprobat prin Ordinul ministrului educației și cercetării nr. 5.099/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99610",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99610",
+     "sha256": "9180a0164f5e65bb1ca2510cf1af1e781c414b6d75d99d23070366de7eadf538"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5898-2008",
+   "path": "ordin/educatie/2008/5898",
+   "short": "Ordin educatie nr. 5898/2008",
+   "title": "Ordinul nr. 5.898/2008 pentru completarea Sistemului de evaluare privind conferirea titlului de cercetător științific gradul I, aprobat prin Ordinul ministrului educației și cercetării nr. 5.100/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99611",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99611",
+     "sha256": "c8991472e431319b18f10b6197b94fd7125fc5a5a61f8f5e76ea10d05720646a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5899-2008",
+   "path": "ordin/educatie/2008/5899",
+   "short": "Ordin educatie nr. 5899/2008",
+   "title": "Ordinul nr. 5.899/2008 pentru completarea Sistemului de evaluare privind conferirea titlului de cercetător științific gradul II, aprobat prin Ordinul ministrului educației și cercetării nr. 5.101/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99612",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99612",
+     "sha256": "7ebde8f27431de650c0bd71d3f2df6d523cf10f9aa6c782e714d4aafae095339"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5907-2008",
+   "path": "ordin/educatie/2008/5907",
+   "short": "Ordin educatie nr. 5907/2008",
+   "title": "Ordinul nr. 5.907/2008 privind aprobarea Programei la disciplina Limba și literatura maghiară - profesori pentru Concursul național unic pentru ocuparea posturilor didactice declarate vacante în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99750",
+   "versions": [
+    {
+     "from": "2008-12-02",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99750",
+     "sha256": "7953a96c3d9572a0cf267a930851da0f620d02d41362d487902b571c095968ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5908-2008",
+   "path": "ordin/educatie/2008/5908",
+   "short": "Ordin educatie nr. 5908/2008",
+   "title": "Ordinul nr. 5.908/2008 privind aprobarea Programei la disciplina Limba și literatura română și universală pentru copii și metodica predării activităților de limba română - educatoare în grădinițele de copii cu predare în limbile minorităților, pentru Concursul național unic pentru ocuparea posturilor didactice declarate vacante în învățământul preuniversitar, și a Programei la disciplina Limba și literatura română și universală pentru copii și metodica predării limbii și literaturii române la clasele cu predare în limbile minorităților - institutori/învățători, pentru Concursul național unic pentru ocuparea posturilor didactice declarate vacante în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100004",
+   "versions": [
+    {
+     "from": "2008-12-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100004",
+     "sha256": "4c8848aa9c8687df3240f2338175104ab99106d7ebc05dd84b79c8502a4071ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5909-2008",
+   "path": "ordin/educatie/2008/5909",
+   "short": "Ordin educatie nr. 5909/2008",
+   "title": "Ordinul nr. 5.909/2008 privind aprobarea Programei la disciplina Limba și literatura maghiară și metodica predării activităților instructiv-educative în grădinița de copii - educatoare pentru Concursul național unic pentru ocuparea posturilor didactice declarate vacante în învățământul preuniversitar și a Programei la disciplina Limba și literatura maghiară și metodica predării limbii și literaturii maghiare - institutori/învățători pentru Concursul național unic pentru ocuparea posturilor didactice declarate vacante în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99764",
+   "versions": [
+    {
+     "from": "2008-12-03",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99764",
+     "sha256": "5c8d06e3aaeb17f4b12f6a441245ffacca27a628cff07eb87d6cc387050bdd4b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5913-2008",
+   "path": "ordin/educatie/2008/5913",
+   "short": "Ordin educatie nr. 5913/2008",
+   "title": "Ordinul nr. 5.913/2008 pentru aprobarea Metodologiei privind regimul manualelor școlare în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101358",
+   "versions": [
+    {
+     "from": "2009-01-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101358",
+     "sha256": "446e4a15e25c09a7e85cf83c6480da7a3fee1ee5e12b7c817b3022138faf8bd3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6020-2008",
+   "path": "ordin/educatie/2008/6020",
+   "short": "Ordin educatie nr. 6020/2008",
+   "title": "Ordinul nr. 6.020/2008 privind aprobarea Programei pentru definitivare în învățământ la Limba și literatura română și universală pentru copii - educatoare în grădinițele cu predare în limbile minorităților, Programei pentru definitivare în învățământ la Limba și literatura română și universală pentru copii și metodica predării limbii și literaturii române la clasele cu predare în limbile minorităților - institutori/învățători, Programei pentru obținerea gradului didactic II la Limba și literatura română și universală pentru copii și metodica predării activităților de limba română - educatoare în grădinițele cu predare în limbile minorităților, Programei pentru obținerea gradului didactic II la Limba și literatura română și universală pentru copii și metodica predării limbii și literaturii române la clasele cu predare în limbile minorităților - institutori/învățători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100459",
+   "versions": [
+    {
+     "from": "2008-12-18",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100459",
+     "sha256": "82c3270894a8ddc892c821da94717a8c4db5a8618130d7680c68b0ade14c9413"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6058-2008",
+   "path": "ordin/educatie/2008/6058",
+   "short": "Ordin educatie nr. 6058/2008",
+   "title": "Ordinul nr. 6.058/2008 pentru abrogarea Ordinului ministrului educației naționale nr. 5.036/1999 privind aprobarea Regulamentului de organizare și funcționare a Agenției Manageriale de Cercetare Științifică, Inovare și Transfer Tehnologic - Politehnica (AMCSIT - Politehnica) și a Ordinului ministrului educației și cercetării nr. 5.653/2004 pentru modificarea Ordinului ministrului educației naționale nr. 5.036/1999 privind aprobarea Regulamentului de organizare și funcționare a Agenției Manageriale de Cercetare Științifică, Inovare și Transfer Tehnologic - Politehnica (AMCSIT - Politehnica)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102292",
+   "versions": [
+    {
+     "from": "2009-02-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102292",
+     "sha256": "1fa899d99a179a272c03484999ab623d67f19d1e4d246bf72e3af52f81e728f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6076-2008",
+   "path": "ordin/educatie/2008/6076",
+   "short": "Ordin educatie nr. 6076/2008",
+   "title": "Ordinul nr. 6.076/2008 privind aprobarea Regulamentului de organizare și desfășurare a concursului național de acordare a burselor \"Titu Maiorescu\" pentru efectuarea de stagii de studii de masterat/doctorat sau de cercetare în străinătate, în vederea formării de specialiști în domeniile de interes ale Uniunii Europene, instituite prin Hotărârea Guvernului nr. 1.212/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100136",
+   "versions": [
+    {
+     "from": "2008-12-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100136",
+     "sha256": "3a2d4b710e59d4389441413db8ede2ef4528983481466ecc6e28bd1f0b3f68e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6200-2008",
+   "path": "ordin/educatie/2008/6200",
+   "short": "Ordin educatie nr. 6200/2008",
+   "title": "Ordinul nr. 6.200/2008 pentru modificarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 769/2005 privind acordarea unor burse de studii unor studenți cu domiciliul în mediul rural, aprobate prin Ordinul ministrului educației și cercetării nr. 4.923/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101146",
+   "versions": [
+    {
+     "from": "2009-01-09",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101146",
+     "sha256": "04c5754b0ec314e8c3888d5528c3e34027e901a7c68bf66e2c44aa67ddbd25ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6219-2008",
+   "path": "ordin/educatie/2008/6219",
+   "short": "Ordin educatie nr. 6219/2008",
+   "title": "Ordinul nr. 6.219/2008 privind modificarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea posturilor/catedrelor didactice vacante din unitățile de învățământ particular din învățământul preuniversitar, aprobate prin Ordinul ministrului educației și cercetării nr. 5.656/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100918",
+   "versions": [
+    {
+     "from": "2008-12-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100918",
+     "sha256": "642e79f0003814d1da08337562065dabe6c7cc00567e8e7025c50dc3ea049285"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1059-2008",
    "path": "ordin/finante/2008/1059",
    "short": "Ordin finante nr. 1059/2008",
@@ -3686,7 +5666,7 @@
    "versions": [
     {
      "from": "2008-04-18",
-     "units": 7,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91503",
      "sha256": "410651db73747d1789b28b470032d0d7065ffc82492830f060bce115c568716e"
     }
@@ -3926,7 +5906,7 @@
    "versions": [
     {
      "from": "2008-05-13",
-     "units": 5,
+     "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92711",
      "sha256": "69e6581fa7b7f5d6dc779fed615b28e4468967cb7c57b20e8a2ed3c384069103"
     }
@@ -4046,7 +6026,7 @@
    "versions": [
     {
      "from": "2008-07-23",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95896",
      "sha256": "f049e91e438961091d3d056d1c11bb9664df19d53b1dc3b6ac51eee88e9645de"
     }
@@ -4076,7 +6056,7 @@
    "versions": [
     {
      "from": "2008-07-27",
-     "units": 9,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94897",
      "sha256": "744d5c2de6193a32dc5eca985e05001088b71c5ab78b56011d6ee9be0b4004bd"
     }
@@ -4211,7 +6191,7 @@
    "versions": [
     {
      "from": "2008-07-23",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95898",
      "sha256": "af71edda333ce45fb844c9f41600a2570d69cab5cd75c70fdfec8c2260471d77"
     }
@@ -4856,7 +6836,7 @@
    "versions": [
     {
      "from": "2008-12-23",
-     "units": 10,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100763",
      "sha256": "f5c6485b3b909bc7e7988a5212d32c4a03d8e4e90899b0db9e1c2eeca2e9af37"
     }
@@ -4886,7 +6866,7 @@
    "versions": [
     {
      "from": "2008-12-23",
-     "units": 17,
+     "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100712",
      "sha256": "744eb70a2f5313d308c11fe372544d61f95ac9d1cdc59ab1f2c650ec9631f27f"
     }
@@ -4916,7 +6896,7 @@
    "versions": [
     {
      "from": "2009-01-01",
-     "units": 6,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100828",
      "sha256": "6d9d07277df72ffd2995c4b62e9e8325162072a16198a2dae67ebd69afd7aec5"
     }
@@ -5036,7 +7016,7 @@
    "versions": [
     {
      "from": "2008-02-20",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89752",
      "sha256": "aa0f1c5961caaf4f891c45a5954b4686ce66a97891abf1902b14ddc7663c282c"
     }
@@ -5261,7 +7241,7 @@
    "versions": [
     {
      "from": "2008-02-08",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89410",
      "sha256": "7f1113f8019678485dd5bb57b3a0fc25a91b2a903098bf89ffa012d8304f1e3d"
     }
@@ -7721,7 +9701,7 @@
    "versions": [
     {
      "from": "2009-01-05",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101008",
      "sha256": "5ddd6527ff740af86576a2c4c519add6a092be2941ba7ef50e2f2b9fc2ee2356"
     }
@@ -8006,7 +9986,7 @@
    "versions": [
     {
      "from": "2008-08-14",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96547",
      "sha256": "7a5b8db8f3c5943ab185456837ec0d2af35e3e4655c9d901c3b69342c35f29c5"
     }
@@ -8021,7 +10001,7 @@
    "versions": [
     {
      "from": "2008-07-29",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96060",
      "sha256": "b8d66d13e94dac1756ea818f390a1fb316fd68ea3779963dafaea228d686bde5"
     }
@@ -8081,7 +10061,7 @@
    "versions": [
     {
      "from": "2008-12-16",
-     "units": 16,
+     "units": 32,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100406",
      "sha256": "5e00ea9e0a593b0bef892eb42f976cb1d18972caeabe3ff2896782ed4bccd86a"
     }
@@ -8336,7 +10316,7 @@
    "versions": [
     {
      "from": "2008-06-05",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93684",
      "sha256": "02ad13540ff93de3d3fb9966e9bbd296976051778a235881f05a9e13ae498119"
     }
@@ -8561,7 +10541,7 @@
    "versions": [
     {
      "from": "2008-07-22",
-     "units": 15,
+     "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95806",
      "sha256": "78f1ac3d60a01beb44d6a0f7783cde1ceaeecaeda90189b4e31261e0693bc57f"
     }
@@ -8651,7 +10631,7 @@
    "versions": [
     {
      "from": "2008-08-12",
-     "units": 18,
+     "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96496",
      "sha256": "bcc9acd0c66738adc371f08b787c267de5837cb896585e8dcea7923e9cb2714e"
     }
@@ -9506,7 +11486,7 @@
    "versions": [
     {
      "from": "2008-12-30",
-     "units": 127,
+     "units": 131,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100936",
      "sha256": "443f7064cbf4b1763eddd2ce282fad3ece24eec64a6f89fdbaa31fc7911a035f"
     }
@@ -9536,7 +11516,7 @@
    "versions": [
     {
      "from": "2009-01-07",
-     "units": 23,
+     "units": 27,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101064",
      "sha256": "87081192eab46c32ee74d18040f25338d344b5b4fcedb9b27f3b020b8a011334"
     }
@@ -9626,7 +11606,7 @@
    "versions": [
     {
      "from": "2008-03-07",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90150",
      "sha256": "686e2eb42dedc84947728bd6e495ecd5788d14c3b427720853fcf7764018fbb0"
     }
@@ -9686,7 +11666,7 @@
    "versions": [
     {
      "from": "2008-03-20",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90515",
      "sha256": "bf3316c18a827e7c4159a9000487db74fccfb0e12f2bec07bc0307eeb0c6bf7f"
     }
@@ -9836,7 +11816,7 @@
    "versions": [
     {
      "from": "2008-04-01",
-     "units": 73,
+     "units": 77,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90937",
      "sha256": "f297017a57cd8b7a980c8e59f36217ededfa6c08d1509b6344279ca5571f933b"
     }
@@ -9896,7 +11876,7 @@
    "versions": [
     {
      "from": "2008-04-02",
-     "units": 13,
+     "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90994",
      "sha256": "c697432510196cdb67ec280c152ae7859bd840eb1472970fcfe65d3c90580ea6"
     }

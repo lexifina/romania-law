@@ -2,13 +2,15 @@
 
 Ordin finante nr. 475/2003 · 1 versions, from 2003-04-12 (latest in force: 2003-04-12) · <https://legislatie.just.ro/Public/DetaliiDocument/43117>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌────────────────────────────────────────────────────────────────────────────┐ │┌────────────────────┐┌─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┐┌───┐┌────────────────────┐│ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1 | [art-001.md](art-001.md) | 0 |  |
 | Art. 2 | [art-002.md](art-002.md) | 0 |  |
 | Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-finante-475-2003` (tags `ordin-finante-475-2003/<day>`; `python tools/on.py <day> ordin-finante-475-2003`).
 
@@ -18,4 +20,4 @@ Act id: `ordin-finante-475-2003` (tags `ordin-finante-475-2003/<day>`; `python t
 - Ordin finante nr. 475/2003: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin finante nr. 475/2003: the first version is the order as published in Monitorul Oficial nr. 255 of 12 April 2003 (document 43117 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin finante nr. 475/2003: the signatures and the place and date line after its last article are not article text.
-- Ordin finante nr. 475/2003: Anexa nr. 1 (1 ┌────────────────────────────────────────────────────────────────────────────┐ │┌────────────────────┐┌─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┬─┐┌───┐┌────────────────────┐│ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 475/2003: Anexa nr. 1 (1) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 43117 of the official web service.

@@ -2,7 +2,7 @@
 
 Ordin finante nr. 545/2005 · 1 versions, from 2005-05-16 (latest in force: 2005-05-16) · <https://legislatie.just.ro/Public/DetaliiDocument/61646>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (I Ministerul Finanțelor Publice [Sigla Agentiei] Agentia Naționala de Administrare Fiscala Administratia Finanțelor Publice........ Numar de operator de date ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -13,6 +13,8 @@ Ordin finante nr. 545/2005 · 1 versions, from 2005-05-16 (latest in force: 2005
 | Art. 5 | [art-005.md](art-005.md) | 0 |  |
 | Art. 6 | [art-006.md](art-006.md) | 0 |  |
 | Art. 7 | [art-007.md](art-007.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
@@ -24,6 +26,6 @@ Act id: `ordin-finante-545-2005` (tags `ordin-finante-545-2005/<day>`; `python t
 - Ordin finante nr. 545/2005: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin finante nr. 545/2005: the first version is the order as published in Monitorul Oficial nr. 411 of 16 May 2005 (document 61646 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin finante nr. 545/2005: the signatures and the place and date line after its last article are not article text.
+- Ordin finante nr. 545/2005: Anexa nr. 1 (I Ministerul Finanțelor Publice [Sigla Agentiei] Agentia Naționala de Administrare Fiscala Administratia Finanțelor Publice........ Numar de operator de date Nr. înregistrare....... cu caracter person) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 61646 of the official web service.
 - Ordin finante nr. 545/2005: Anexa nr. 2 (II CARACTERISTICI DE TIPARIRE, MODUL DE DIFUZARE, DE UTILIZARE ȘI DE PASTRARE A FORMULARELOR Decizie de impunere anuală pentru veniturile realizate de persoanele fizice române cu domiciliul în România) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 61646 of the official web service.
-- Ordin finante nr. 545/2005: Anexa nr. 1 (I Ministerul Finanțelor Publice [Sigla Agentiei] Agentia Naționala de Administrare Fiscala Administratia Finanțelor Publice........ Numar de operator de date ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin finante nr. 545/2005: the publisher's notes run into its text (*) În situaţia în care suma rezultată este negativa se preia la rândul 21.b Cod 14.13.02.13/a) are not text.

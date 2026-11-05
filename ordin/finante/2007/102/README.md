@@ -2,7 +2,7 @@
 
 Ordin finante nr. 102/2007 · 1 versions, from 2007-05-17 (latest in force: 2007-05-17) · <https://legislatie.just.ro/Public/DetaliiDocument/82127>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 5 (5 (Anexa nr. 12 la metodologie) SIGLA Cerere de aplicare a regimului special de rambursare a taxei pe valoarea adăugată I. DATE DE IDENTIFICARE A PERSOANEI ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,6 +22,8 @@ Ordin finante nr. 102/2007 · 1 versions, from 2007-05-17 (latest in force: 2007
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 | Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
 | Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 | Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
@@ -39,6 +41,6 @@ Act id: `ordin-finante-102-2007` (tags `ordin-finante-102-2007/<day>`; `python t
 - Ordin finante nr. 102/2007: Anexa nr. 2 (2 (Anexa nr. 5 la metodologie) MINISTERUL ECONOMIEI ȘI FINANȚELOR AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția Generală a Finanțelor Publice................... Administrația Finanțelor Publice..) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 82127 of the official web service.
 - Ordin finante nr. 102/2007: Anexa nr. 3 (3 (Anexa nr. 10 la metodologie) MINISTERUL ECONOMIEI ȘI FINANȚELOR AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția generală de administrare a marilor contribuabili Nr............./.................) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 82127 of the official web service.
 - Ordin finante nr. 102/2007: Anexa nr. 4 (4 (Anexa nr. 11 la metodologie) MINISTERUL ECONOMIEI ȘI FINANȚELOR AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția Generală a Finanțelor Publice a Județului............. Administrația finanțelor pu) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 82127 of the official web service.
+- Ordin finante nr. 102/2007: Anexa nr. 5 (5 (Anexa nr. 12 la metodologie) SIGLA Cerere de aplicare a regimului special de rambursare a taxei pe valoarea adăugată I. DATE DE IDENTIFICARE A PERSOANEI IMPOZABILE DENUMIRE/NUME, PRENUME COD DE IDE) is part of the order and is published in its folder, anexa-5/ (paragraphs and tables), from document 82127 of the official web service.
 - Ordin finante nr. 102/2007: Anexa nr. 6 (6 (Anexa nr. 13 la metodologie) MINISTERUL ECONOMIEI ȘI FINANȚELOR AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția Generală a Finanțelor Publice......................... Administrația Finanțelor Pu) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 82127 of the official web service.
 - Ordin finante nr. 102/2007: Anexa nr. 7 (7 (Anexa nr. 14 la metodologie) MINISTERUL ECONOMIEI ȘI FINANȚELOR AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția Generală a Finanțelor Publice............................... Administrația Finanțe) is part of the order and is published in its folder, anexa-7/ (paragraphs), from document 82127 of the official web service.
-- Ordin finante nr. 102/2007: Anexa nr. 5 (5 (Anexa nr. 12 la metodologie) SIGLA Cerere de aplicare a regimului special de rambursare a taxei pe valoarea adăugată I. DATE DE IDENTIFICARE A PERSOANEI ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

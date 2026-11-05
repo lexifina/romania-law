@@ -3,6 +3,21 @@
  "shard": "ordin/2023",
  "acts": [
   {
+   "slug": "ordin-agricultura-1-2023",
+   "path": "ordin/agricultura/2023/1",
+   "short": "Ordin agricultura nr. 1/2023",
+   "title": "Ordinul nr. 1/2023 privind aprobarea nivelului comisioanelor de garantare pentru anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263769",
+   "versions": [
+    {
+     "from": "2023-01-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263769",
+     "sha256": "76d36cef7e0ad66ae849575d20a67d14eb1a607dced2cdfec94d8f719a46518c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-10-2023",
    "path": "ordin/agricultura/2023/10",
    "short": "Ordin agricultura nr. 10/2023",
@@ -14,6 +29,81 @@
      "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264431",
      "sha256": "3edfba24ee67266b8a0323959ff695181a78f666d23dce1491f547622c1790b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-105-2023",
+   "path": "ordin/agricultura/2023/105",
+   "short": "Ordin agricultura nr. 105/2023",
+   "title": "Ordinul nr. 105/2023 pentru aprobarea criteriilor de eligibilitate, documentelor justificative, condițiilor și modului de implementare a intervențiilor aferente sectorului apicol prevăzute la art. 1 alin. (2) lit. e) din Hotărârea Guvernului nr. 1.571/2022 privind stabilirea cadrului general de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic din cadrul Planului strategic PAC 2023-2027, finanțate din Fondul european de garantare agricolă și de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266559",
+   "versions": [
+    {
+     "from": "2023-04-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266559",
+     "sha256": "2a0a7afa6e4e747272d6d289e2264c135b2b3c269cf52cdedf23ba88e5d5d488"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-117-2023",
+   "path": "ordin/agricultura/2023/117",
+   "short": "Ordin agricultura nr. 117/2023",
+   "title": "Ordinul nr. 117/2023 privind criteriile de eligibilitate, documentele justificative, condițiile și modul de implementare a intervenției IS-V-01 „Restructurarea și reconversia plantațiilor viticole” din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266363",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266363",
+     "sha256": "28387b963914464f9622296a506e140ae71509d1890cfa7e3c0f7892f8b4cb52"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-146-2023",
+   "path": "ordin/agricultura/2023/146",
+   "short": "Ordin agricultura nr. 146/2023",
+   "title": "Ordinul nr. 146/2023 privind aprobarea Planului sectorial pentru cercetare-dezvoltare din domeniul agricol și de dezvoltare rurală al Ministerului Agriculturii și Dezvoltării Rurale, pe anii 2023-2026, \"Agricultură și Dezvoltare Rurală - ADER 2026\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267172",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267172",
+     "sha256": "0ee841d3ccdebe109ce4a7f7a9394750e600a9c19d3a774b19a67761da55ea02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-148-2023",
+   "path": "ordin/agricultura/2023/148",
+   "short": "Ordin agricultura nr. 148/2023",
+   "title": "Ordinul nr. 148/2023 privind criteriile de eligibilitate, documentele justificative, condițiile și modul de implementare a intervenției IS-V-03 \"Asigurarea recoltelor\" din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267246",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267246",
+     "sha256": "07af390f61c2beb233075947496bf428f563b708bcabeebe294287817ac52442"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-177-2023",
+   "path": "ordin/agricultura/2023/177",
+   "short": "Ordin agricultura nr. 177/2023",
+   "title": "Ordinul nr. 177/2023 pentru aprobarea Ghidului informativ privind Sistemul de identificare a parcelelor agricole - LPIS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267595",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267595",
+     "sha256": "7bd61d1bffdcf48b46bd499161fcdecc78096cebd169e97b18224ef67ac4f98b"
     }
    ]
   },
@@ -33,6 +123,111 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-2-2023",
+   "path": "ordin/agricultura/2023/2",
+   "short": "Ordin agricultura nr. 2/2023",
+   "title": "Ordinul nr. 2/2023 pentru aprobarea Procedurii de notificare a Comisiei Europene și a celorlalte state membre ale Uniunii Europene privind organismele de evaluare a conformității produselor fertilizante care nu dețin marcaj CE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263908",
+   "versions": [
+    {
+     "from": "2023-01-12",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263908",
+     "sha256": "6c391580b53f8ca2aa1094014da3821d825d13369d830181bc8523584ffc76c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-201-2023",
+   "path": "ordin/agricultura/2023/201",
+   "short": "Ordin agricultura nr. 201/2023",
+   "title": "Ordinul nr. 201/2023 privind aprobarea sistemelor de sancțiuni pentru Intervenția DR 06 \"Bunăstarea animalelor\" pachet a) - porcine și pachet b) - păsări din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270907",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270907",
+     "sha256": "0ffdd103b8729037a15de69c7684ba5df0a80d26ea37c6a4e15fc0d3952d4757"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-216-2023",
+   "path": "ordin/agricultura/2023/216",
+   "short": "Ordin agricultura nr. 216/2023",
+   "title": "Ordinul nr. 216/2023 pentru aprobarea cantităților de motorină aferente perioadei 1 ianuarie 2023-31 martie 2023, determinate la plată și nedecontate de către Agenția de Plăți și Intervenție pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270891",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270891",
+     "sha256": "70e207907334bc03daebd6cd76827d106720087ec27aac89dd9122ae4153b379"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-243-2023",
+   "path": "ordin/agricultura/2023/243",
+   "short": "Ordin agricultura nr. 243/2023",
+   "title": "Ordinul nr. 243/2023 privind aprobarea schemei de ajutor de minimis \"Sprijin pentru punerea în aplicare a strategiilor de dezvoltare locală plasate sub responsabilitatea comunității\", aferentă Programului operațional pentru pescuit și afaceri maritime 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271351",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271351",
+     "sha256": "23078132a1d1accda64ac32baf12abc9c061e2d9c532aec58386aa0223491ebc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-252-2023",
+   "path": "ordin/agricultura/2023/252",
+   "short": "Ordin agricultura nr. 252/2023",
+   "title": "Ordinul nr. 252/2023 pentru aprobarea modelului documentelor prevăzute la art. 19 din Hotărârea Guvernului nr. 523/2023 privind instituirea unei scheme de ajutor de stat pentru reducerea accizei la motorina utilizată în acvacultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271660",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271660",
+     "sha256": "773e6743c5a3c651d95f5c6fc7d67947e7da2ee858019e6d6a15a65976643540"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-283-2023",
+   "path": "ordin/agricultura/2023/283",
+   "short": "Ordin agricultura nr. 283/2023",
+   "title": "Ordinul nr. 283/2023 privind aprobarea Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271968",
+   "versions": [
+    {
+     "from": "2023-07-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271968",
+     "sha256": "1343c43703baa65d144fb76d221506e82bec70f087763b8c479936870aa7cab2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-3-2023",
+   "path": "ordin/agricultura/2023/3",
+   "short": "Ordin agricultura nr. 3/2023",
+   "title": "Ordinul nr. 3/2023 pentru aprobarea componenței nominale și a regulamentului de organizare și funcționare a Comisiei de aprobare a organismelor de evaluare a conformității produselor fertilizante care nu dețin marcaj CE",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263873",
+   "versions": [
+    {
+     "from": "2023-01-12",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263873",
+     "sha256": "2e4e3284a55ea1fd7aad904af090ed89425b34827181e2bcb85d5972a57df5b4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-309-2023",
    "path": "ordin/agricultura/2023/309",
    "short": "Ordin agricultura nr. 309/2023",
@@ -44,6 +239,36 @@
      "units": 28,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274642",
      "sha256": "b6ac9746a6ff30861aad091311d75b50eb8efd30cad4952e7259f914dcfe9c3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-32-2023",
+   "path": "ordin/agricultura/2023/32",
+   "short": "Ordin agricultura nr. 32/2023",
+   "title": "Ordinul nr. 32/2023 privind aprobarea denumirilor comerciale ale speciilor de pești și altor viețuitoare acvatice, acceptate pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264550",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264550",
+     "sha256": "dbc34b36843470cc7c2d168cc36763cd7a44c3f3d4cd56f3374dcba75ba8bdb8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-346-2023",
+   "path": "ordin/agricultura/2023/346",
+   "short": "Ordin agricultura nr. 346/2023",
+   "title": "Ordinul nr. 346/2023 pentru aprobarea criteriilor de calificare privind capacitatea ofertanților, a factorilor de evaluare și a caietului de sarcini aferente atribuirii acordului-cadru/contractului de achiziție publică de produse - fructe, legume, lapte și produse lactate și produse de panificație în cadrul Programului pentru școli al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274249",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274249",
+     "sha256": "e561bd0ea4897089502462ee7c5bf04cf717745cb3970cc96f020650473aae34"
     }
    ]
   },
@@ -63,6 +288,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-350-2023",
+   "path": "ordin/agricultura/2023/350",
+   "short": "Ordin agricultura nr. 350/2023",
+   "title": "Ordinul nr. 350/2023 pentru aprobarea Normelor privind recunoașterea organizațiilor de producători și a altor forme asociative din sectorul fructelor și legumelor și modul de accesare a sprijinului financiar de către acestea, din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274290",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 74,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274290",
+     "sha256": "dbbe935a7c05d44872de6559d3d6d4e0377422b8b5e6ecbb76c97f842a5ae9ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-359-2023",
+   "path": "ordin/agricultura/2023/359",
+   "short": "Ordin agricultura nr. 359/2023",
+   "title": "Ordinul nr. 359/2023 pentru aprobarea cantităților de motorină aferente perioadei 1 aprilie 2023 - 30 iunie 2023, determinate la plată și nedecontate de către Agenția de Plăți și Intervenție pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274266",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274266",
+     "sha256": "eb1a28d009b343f4bb02e4e893d9f5db3047b670f58bd79b503a159a958198da"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-380-2023",
    "path": "ordin/agricultura/2023/380",
    "short": "Ordin agricultura nr. 380/2023",
@@ -74,6 +329,51 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275833",
      "sha256": "3affdc3203c48c73dac5cf0a3ec6dd1e1467272d28c31a45fff845fee3828ca8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-390-2023",
+   "path": "ordin/agricultura/2023/390",
+   "short": "Ordin agricultura nr. 390/2023",
+   "title": "Ordinul nr. 390/2023 privind aprobarea Sistemului de sancțiuni aplicabil cererilor de plată depuse de fermieri începând cu anul 2023 pentru intervenția DR10 - \"Zone afectate de constrângeri naturale semnificative\" din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274752",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274752",
+     "sha256": "1e35839537d23a115c2a558253f01cac7a8ef59296423b756d0a7f699bf553d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-393-2023",
+   "path": "ordin/agricultura/2023/393",
+   "short": "Ordin agricultura nr. 393/2023",
+   "title": "Ordinul nr. 393/2023 privind aprobarea Sistemului de sancțiuni administrative pentru condiționalitate începând cu anul de cerere 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274712",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274712",
+     "sha256": "0cd7a3b6c7039e86e69fb352b49219708e5cb85e73482095e6a2ba97cf71a3a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-437-2023",
+   "path": "ordin/agricultura/2023/437",
+   "short": "Ordin agricultura nr. 437/2023",
+   "title": "Ordinul nr. 437/2023 pentru aprobarea Procedurii de lucru prin care se stabilește cadrul juridic, administrativ și operațional, în temeiul căruia se asigură schimbul de informații și date necesare pentru implementarea prevederilor titlului IV capitolul III din Regulamentul (UE) 2021/2.116 al Parlamentului European și al Consiliului din 2 decembrie 2021 privind finanțarea, gestionarea și monitorizarea politicii agricole comune și de abrogare a Regulamentului (UE) nr. 1.306/2013, dintre Ministerul Agriculturii și Dezvoltării Rurale și Agenția de Plăți și Intervenție pentru Agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275515",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275515",
+     "sha256": "5258ea42b1b3a065ae063d5f4f7c4f1475bedb2263139d36f785ae5b64e7f3f2"
     }
    ]
   },
@@ -93,6 +393,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-483-2023",
+   "path": "ordin/agricultura/2023/483",
+   "short": "Ordin agricultura nr. 483/2023",
+   "title": "Ordinul nr. 483/2023 pentru aprobarea sistemului de sancțiuni aplicabil intervențiilor și ajutoarelor naționale tranzitorii în sectoarele vegetal și zootehnic, aferente cererilor de plată începând cu anul de cerere 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276251",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276251",
+     "sha256": "6fa1c4d478191d45df8a12405ea8c6499239b21b965e755ccb829c33b61498b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-499-2023",
+   "path": "ordin/agricultura/2023/499",
+   "short": "Ordin agricultura nr. 499/2023",
+   "title": "Ordinul nr. 499/2023 pentru aprobarea Procedurii privind acordarea garanțiilor pentru beneficiarii Programului național de dezvoltare și susținere a industriei alimentare INVESTALIM aferent perioadei 2023-2026, regulile de gestionare a plafonului de garantare, criteriile de eligibilitate pentru acordarea garanțiilor, garanțiile suplimentare aferente creditului, plata garanțiilor, recuperarea creanțelor, dispozițiile privind transparența, monitorizarea și raportarea, precum și a modelelor convenției de garantare și convenției de implementare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278244",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278244",
+     "sha256": "40e3b2133eee7ac5d4af997423d630d1db7f87bafb950353341455cf25a10955"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-500-2023",
+   "path": "ordin/agricultura/2023/500",
+   "short": "Ordin agricultura nr. 500/2023",
+   "title": "Ordinul nr. 500/2023 privind controlul oficial al calității semințelor prin testarea soiurilor nemodificate genetic privind impurificarea cu organisme modificate genetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277513",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277513",
+     "sha256": "5e4ef7d57c0bfe853a610686611e17dcbb65e94629a1c3be1a5e65a807f11357"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-54-2023",
    "path": "ordin/agricultura/2023/54",
    "short": "Ordin agricultura nr. 54/2023",
@@ -104,6 +449,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265382",
      "sha256": "2075306bc201c2998be60e4a3704f3dc9b97be8cd75d0977c3a9d7ef1fb1f305"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-553-2023",
+   "path": "ordin/agricultura/2023/553",
+   "short": "Ordin agricultura nr. 553/2023",
+   "title": "Ordinul nr. 553/2023 privind aprobarea cantităților de motorină aferente perioadei 1 iulie 2023-30 septembrie 2023 determinate la plată și nedecontate de către Agenția de Plăți și Intervenție pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277505",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277505",
+     "sha256": "71bf91a3aeb26c4abed43c447d6523ca3b158114e468132de68fd3153444e620"
     }
    ]
   },
@@ -123,6 +483,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-57-2023",
+   "path": "ordin/agricultura/2023/57",
+   "short": "Ordin agricultura nr. 57/2023",
+   "title": "Ordinul nr. 57/2023 privind aprobarea modelelor cererilor de plată pentru intervenția DR-06 - Bunăstarea animalelor din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265127",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265127",
+     "sha256": "aacc59ff60872316e4d13e7b77c2ea21b99da724fc53fffccdf7a5afa30941ed"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-59-2023",
    "path": "ordin/agricultura/2023/59",
    "short": "Ordin agricultura nr. 59/2023",
@@ -134,6 +509,141 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267232",
      "sha256": "effd1dbba8c13ee9bc28789b9b432b131badc15f38ba57b9c0b3ee7ad3965de2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-62-2023",
+   "path": "ordin/agricultura/2023/62",
+   "short": "Ordin agricultura nr. 62/2023",
+   "title": "Ordinul nr. 62/2023 pentru aprobarea cantităților de motorină aferente perioadei 1 octombrie 2022-31 decembrie 2022 determinate la plată și nedecontate de către Agenția de Plăți și Intervenție pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265124",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265124",
+     "sha256": "f250dc7c5bea749023483e3dea607395a77fc984abbb75d881deca7679411052"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-70-2023",
+   "path": "ordin/agricultura/2023/70",
+   "short": "Ordin agricultura nr. 70/2023",
+   "title": "Ordinul nr. 70/2023 pentru aprobarea Schemei de ajutor de stat privind sprijinirea investițiilor în noi capacități de producere a energiei electrice din surse regenerabile pentru autoconsumul întreprinderilor din cadrul sectorului agricol și industriei alimentare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270121",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270121",
+     "sha256": "49b69c1cb361d1af4da20fd9d99b12f5c8adc399f5d8fdd4024cfaa4212b7db0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-71-2023",
+   "path": "ordin/agricultura/2023/71",
+   "short": "Ordin agricultura nr. 71/2023",
+   "title": "Ordinul nr. 71/2023 pentru instituirea bazei de date naționale privind constituirea unei liste a materialului de reproducere a plantelor ecologic și în conversie și/sau cartofi de sămânță, a animalelor și păsărilor ecologice și a animalelor tinere de acvacultură ecologice, destinat comerțului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265322",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265322",
+     "sha256": "dea9e4855f6131c84f0135169d65010093df923153cd3bc31a5b80acdfc0a656"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-80-2023",
+   "path": "ordin/agricultura/2023/80",
+   "short": "Ordin agricultura nr. 80/2023",
+   "title": "Ordinul nr. 80/2023 privind criteriile de eligibilitate, documentele justificative, condițiile și modul de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic prevăzute la art. 1 alin. (2) lit. a)-c) din Hotărârea Guvernului nr. 1.571/2022 privind stabilirea cadrului general de implementare a intervențiilor aferente sectoarelor vegetal și zootehnic din cadrul Planului strategic PAC 2023-2027, finanțate din Fondul european de garantare agricolă și de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265381",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 120,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265381",
+     "sha256": "c4d764161c04ff3bc53a0f40a649761cfa14c72e2aca10e533dc32de554588e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-82-2023",
+   "path": "ordin/agricultura/2023/82",
+   "short": "Ordin agricultura nr. 82/2023",
+   "title": "Ordinul nr. 82/2023 privind stabilirea modului de implementare a măsurilor compensatorii de mediu și climă din Programul Național de Dezvoltare Rurală 2014-2020 și a intervenției DR-10 din Planul strategic PAC 2023-2027, începând cu anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265379",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265379",
+     "sha256": "771bdb4b3c579f84b5ed7b41d6a1e7f98744d87c88e48f57a98e06fbf070de36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-83-2023",
+   "path": "ordin/agricultura/2023/83",
+   "short": "Ordin agricultura nr. 83/2023",
+   "title": "Ordinul nr. 83/2023 privind aprobarea formularului-tip al cererii de plată pentru anul 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265380",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265380",
+     "sha256": "142a06a6ad075a30eeb8d6998171e8c9537d591211c512e6434b7bb56b287402"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-86-2023",
+   "path": "ordin/agricultura/2023/86",
+   "short": "Ordin agricultura nr. 86/2023",
+   "title": "Ordinul nr. 86/2023 pentru aprobarea formularelor, a procedurii detaliate și a frecvenței de colectare a datelor prevăzute la art. 3 alin. (3) din Legea laptelui și a produselor lactate nr. 307/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265521",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265521",
+     "sha256": "d0fc25adc1aa2e8e9b55ed3f2387312b4f918a08c5387e60a7543a6aa44a65ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-87-2023",
+   "path": "ordin/agricultura/2023/87",
+   "short": "Ordin agricultura nr. 87/2023",
+   "title": "Ordinul nr. 87/2023 pentru aprobarea încheierii de convenții cu instituțiile bancare și nebancare privind finanțarea unei scheme de ajutor de stat reglementate de Hotărârea Guvernului nr. 1.179/2014 privind instituirea unei scheme de ajutor de stat în sectorul creșterii animalelor și a procentului pe care Agenția de Plăți și Intervenție pentru Agricultură îl va înscrie în adeverința eliberată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265477",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265477",
+     "sha256": "729f2a8e15ae26a6308ab7ad1081b65041134a3ae737d4c0ae18d205d56a25ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-91-2023",
+   "path": "ordin/agricultura/2023/91",
+   "short": "Ordin agricultura nr. 91/2023",
+   "title": "Ordinul nr. 91/2023 privind nominalizarea și autorizarea punctelor de debarcare și centrelor de primă vânzare pentru debarcarea și comercializarea capturilor de pește obținute din pescuit comercial în habitatele piscicole naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265607",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265607",
+     "sha256": "7c2cd84f3f77b387d98f108bab4d9321b7996713362dc1c12074671eadc7817a"
     }
    ]
   },
@@ -4428,6 +4938,51 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3139-2023",
+   "path": "ordin/educatie/2023/3139",
+   "short": "Ordin educatie nr. 3139/2023",
+   "title": "Ordinul nr. 3.139/2023 pentru modificarea Metodologiei de organizare și desfășurare a examenului de certificare a calificării profesionale a absolvenților ciclului inferior al liceului care au urmat stagiile de pregătire practică, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.222/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265111",
+   "versions": [
+    {
+     "from": "2023-02-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265111",
+     "sha256": "bfaa59eebcefab166881fb5fd615aa26bd014e206263262475374a9b18f8e67b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3262-2023",
+   "path": "ordin/educatie/2023/3262",
+   "short": "Ordin educatie nr. 3262/2023",
+   "title": "Ordinul nr. 3.262/2023 pentru modificarea anexei nr. 2 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.219/2010 privind recunoașterea și echivalarea rezultatelor obținute la examene cu recunoaștere internațională pentru certificarea competențelor lingvistice în limbi străine și la examene cu recunoaștere europeană pentru certificarea competențelor digitale cu probele de evaluare a competențelor lingvistice într-o limbă de circulație internațională studiată pe parcursul învățământului liceal, respectiv de evaluare a competențelor digitale, din cadrul examenului de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264696",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264696",
+     "sha256": "b4d10ccd345b49fc0c51252486a5ca12c552574c52dc98cb9f03739b360f96db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3613-2023",
+   "path": "ordin/educatie/2023/3613",
+   "short": "Ordin educatie nr. 3613/2023",
+   "title": "Ordinul nr. 3.613/2023 privind modificarea anexei la Ordinul ministrului educației nr. 6.216/2022 pentru aprobarea Metodologiei privind constituirea consorțiilor pentru învățământ dual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/264609",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264609",
+     "sha256": "e3ca0b8538e0fa123c4faefc1375dce93d22115c686af9736b58843de3846634"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3629-2023",
    "path": "ordin/educatie/2023/3629",
    "short": "Ordin educatie nr. 3629/2023",
@@ -4439,6 +4994,96 @@
      "units": 41,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/264620",
      "sha256": "bdd095eea01cdb72f56892d04f5a2402daf31bf1c3b9d791c3c6190a8476ec79"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3664-2023",
+   "path": "ordin/educatie/2023/3664",
+   "short": "Ordin educatie nr. 3664/2023",
+   "title": "Ordinul nr. 3.664/2023 pentru modificarea Ordinului ministrului educației, cercetării și inovării nr. 3.412/2009 privind aprobarea planurilor-cadru de învățământ pentru clasa a X-a, școala de arte și meserii, pentru clasa a X-a, ciclul inferior al liceului, filiera tehnologică, ruta directă de calificare, pentru clasa a XI-a, anul de completare, precum și pentru clasele a XI-a-a XII-a și a XII-a/a XIII-a, ciclul superior al liceului, filiera tehnologică, cursuri de zi și seral",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265257",
+   "versions": [
+    {
+     "from": "2023-02-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265257",
+     "sha256": "1d9e2e21e55787c13ce944e3ecf0c80b9eb82c1cae91c42c654cd9d09d09f3f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3667-2023",
+   "path": "ordin/educatie/2023/3667",
+   "short": "Ordin educatie nr. 3667/2023",
+   "title": "Ordinul nr. 3.667/2023 pentru modificarea Ordinului ministrului educației, cercetării și inovării nr. 3.410/2009 privind aprobarea planurilor-cadru de învățământ pentru clasele a IX-a-a XII-a, filierele teoretică și vocațională, cursuri de zi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265324",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265324",
+     "sha256": "175554f27ac6225cc165477fbee4af6ca2d2057033d275a08249fa7fbfd24afa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3668-2023",
+   "path": "ordin/educatie/2023/3668",
+   "short": "Ordin educatie nr. 3668/2023",
+   "title": "Ordinul nr. 3.668/2023 pentru modificarea Ordinului ministrului educației naționale nr. 5.121/2014 privind aprobarea planurilor-cadru de învățământ pentru clasele a IX-a-a XII-a, filiera vocațională, profilul teologic, cultul romano-catolic, specializarea ghid turism religios, și a programelor școlare din curriculumul diferențiat pentru clasele a IX-a-a XII-a, filiera vocațională, profilul teologic, cultul romano-catolic, specializarea ghid turism religios",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265279",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265279",
+     "sha256": "44873875c2c5eccd5b496073ab456e7fe823a31c45d931d51fc66191f601ca99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3671-2023",
+   "path": "ordin/educatie/2023/3671",
+   "short": "Ordin educatie nr. 3671/2023",
+   "title": "Ordinul nr. 3.671/2023 pentru modificarea Ordinului ministrului educației, cercetării și inovării nr. 4.856/2009 privind aprobarea planurilor-cadru de învățământ pentru clasele a IX-a-a XII-a, filiera vocațională, profil artistic, specializarea conservare-restaurare bunuri culturale, cursuri de zi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265280",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265280",
+     "sha256": "71e74fa8877cb62c61f08b163e914093171247416c043dd2844e021b657ea06c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3672-2023",
+   "path": "ordin/educatie/2023/3672",
+   "short": "Ordin educatie nr. 3672/2023",
+   "title": "Ordinul nr. 3.672/2023 pentru modificarea Ordinului ministrului educației naționale nr. 4.217/2018 privind aprobarea planurilor-cadru de învățământ pentru clasele a IX-a-a XII-a, filiera vocațională, profilul teologic, cultul romano-catolic de limbă maghiară, specializarea ghid turism religios",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265281",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265281",
+     "sha256": "c609fe6951e8e0643ad2aa67d888fad1a74637c4f1fa4ec1e4e68f7113475011"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3673-2023",
+   "path": "ordin/educatie/2023/3673",
+   "short": "Ordin educatie nr. 3673/2023",
+   "title": "Ordinul nr. 3.673/2023 pentru modificarea Ordinului ministrului educației și cercetării științifice nr. 4.395/2015 privind aprobarea planurilor-cadru de învățământ pentru clasele a IX-a-a XII-a, învățământ liceal, filiera vocațională, profilul teologic, cultul greco-catolic, specializarea ghid turism religios, a listei disciplinelor de specialitate din curriculumul diferențiat pentru clasele a IX-a-a XII-a, învățământul liceal, filiera vocațională, profilul teologic, cultul greco-catolic, specializarea ghid turism religios și a programelor școlare pentru disciplinele care fac parte din curriculumul diferențiat pentru clasele a IX-a-a XII-a, învățământul liceal, filiera vocațională, profilul teologic, cultul greco-catolic, specializarea ghid turism religios",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265282",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265282",
+     "sha256": "cb3b8000d1c5db072d31c9cbbce5e2829d431bd21ef2d0fe1c89f7d315f571ad"
     }
    ]
   },
@@ -4469,6 +5114,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265430",
      "sha256": "a45f6c9202bae6f0d47f358b332f8fe932e62166826fb42593647d67b6824159"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3710-2023",
+   "path": "ordin/educatie/2023/3710",
+   "short": "Ordin educatie nr. 3710/2023",
+   "title": "Ordinul nr. 3.710/2023 pentru completarea Ordinului ministrului educației nr. 3.505/2022 privind structura anului școlar 2022-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265265",
+   "versions": [
+    {
+     "from": "2023-02-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265265",
+     "sha256": "9c67621807dd96a9d1bdb936d70571d726f1b5b1a1677c326ba0b6838a7f926b"
     }
    ]
   },
@@ -4548,6 +5208,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3797-2023",
+   "path": "ordin/educatie/2023/3797",
+   "short": "Ordin educatie nr. 3797/2023",
+   "title": "Ordinul nr. 3.797/2023 pentru modificarea și completarea Statutului elevului, aprobat prin Ordinul ministrului educației naționale și cercetării științifice nr. 4.742/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266071",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266071",
+     "sha256": "5858090a634370662c36433f329bf887480b9783dff228ac58752f3533d29bda"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3860-2023",
    "path": "ordin/educatie/2023/3860",
    "short": "Ordin educatie nr. 3860/2023",
@@ -4623,6 +5298,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3930-2023",
+   "path": "ordin/educatie/2023/3930",
+   "short": "Ordin educatie nr. 3930/2023",
+   "title": "Ordinul nr. 3.930/2023 pentru modificarea și completarea Ordinului ministrului educației nr. 5.242/2022 privind organizarea și desfășurarea examenului național de bacalaureat - 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267218",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267218",
+     "sha256": "14247fd984bc2e6fba45716cd50c331f4eb52e716e09f02bf2155ff12681e130"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3941-2023",
    "path": "ordin/educatie/2023/3941",
    "short": "Ordin educatie nr. 3941/2023",
@@ -4683,6 +5373,51 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4262-2023",
+   "path": "ordin/educatie/2023/4262",
+   "short": "Ordin educatie nr. 4262/2023",
+   "title": "Ordinul nr. 4.262/2023 pentru completarea Ordinului ministrului educației nr. 5.241/2022 privind organizarea și desfășurarea evaluării naționale pentru absolvenții clasei a VIII-a, în anul școlar 2022-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270524",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270524",
+     "sha256": "0fcbef21b1aec35b41e86198a5e0e943dfbb97b5485f1437713b069c1be58c19"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4300-2023",
+   "path": "ordin/educatie/2023/4300",
+   "short": "Ordin educatie nr. 4300/2023",
+   "title": "Ordinul nr. 4.300/2023 pentru modificarea Ordinului ministrului educației nr. 5.359/2022 privind aprobarea Calendarului de administrare a evaluărilor naționale la finalul claselor a II-a, a IV-a și a VI-a în anul școlar 2022-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270607",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270607",
+     "sha256": "bb1a26abf2313ba065567a7682e654416beba42ef2f5063c0a4d3da8c6b3a8bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4315-2023",
+   "path": "ordin/educatie/2023/4315",
+   "short": "Ordin educatie nr. 4315/2023",
+   "title": "Ordinul nr. 4.315/2023 pentru modificarea și completarea anexei la Ordinul ministrului educației nr. 3.704/2023 privind aprobarea Calendarului înscrierii în învățământul primar pentru anul școlar 2023-2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270775",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270775",
+     "sha256": "8bea20b5966af2a87d6d1812e47520ba3de54686b788b40ac08840939e722cfa"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4319-2023",
    "path": "ordin/educatie/2023/4319",
    "short": "Ordin educatie nr. 4319/2023",
@@ -4694,6 +5429,111 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270895",
      "sha256": "e44879f800b078def225de01a33c3ec225811aa97ef8cd0042c35b5b99f93592"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4320-2023",
+   "path": "ordin/educatie/2023/4320",
+   "short": "Ordin educatie nr. 4320/2023",
+   "title": "Ordinul nr. 4.320/2023 pentru modificarea anexei nr. 1 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.720/2012 privind organizarea și desfășurarea probelor specifice susținute de elevii secțiilor bilingve francofone în vederea obținerii mențiunii speciale \"secție bilingvă francofonă\" pe diploma de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270846",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270846",
+     "sha256": "0c2bdfd8af9b7c145fe677225af3b284b8400149b2e5e415edab648332279d29"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4321-2023",
+   "path": "ordin/educatie/2023/4321",
+   "short": "Ordin educatie nr. 4321/2023",
+   "title": "Ordinul nr. 4.321/2023 pentru modificarea Ordinului ministrului educației nr. 5.359/2022 privind aprobarea Calendarului de administrare a evaluărilor naționale la finalul claselor a II-a, a IV-a și a VI-a în anul școlar 2022-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270844",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270844",
+     "sha256": "f77462bd386f64b9d0be037828bcda7004026c5f6b4441bcbb8a609519e50278"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4323-2023",
+   "path": "ordin/educatie/2023/4323",
+   "short": "Ordin educatie nr. 4323/2023",
+   "title": "Ordinul nr. 4.323/2023 pentru completarea Ordinului ministrului educației și cercetării nr. 5.460/2020 privind aprobarea Metodologiei de organizare și desfășurare a examenului pentru obținerea atestatului de competență lingvistică pentru absolvenții claselor cu studiu intensiv și bilingv al unei limbi moderne și pentru absolvenții claselor cu predare în limbile minorităților, precum și a atestatului pentru predarea unei limbi moderne la grupe/clase din învățământul preșcolar și primar de către absolvenții claselor cu profil pedagogic, specializarea învățător-educatoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270873",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270873",
+     "sha256": "325f78bbcc700d99055cfb9f15f8c446262ba741e65713753ef4b78ef990b35a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4325-2023",
+   "path": "ordin/educatie/2023/4325",
+   "short": "Ordin educatie nr. 4325/2023",
+   "title": "Ordinul nr. 4.325/2023 pentru modificarea Ordinului ministrului educației nr. 4.759/2022 privind aprobarea graficului de desfășurare a examenelor de certificare a calificării profesionale a absolvenților din învățământul profesional și tehnic preuniversitar în anul școlar 2022-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270874",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270874",
+     "sha256": "748dbeb38a61e190152d0d825a029c7bd03a79b64a57e8baa903064d7c1434bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4338-2023",
+   "path": "ordin/educatie/2023/4338",
+   "short": "Ordin educatie nr. 4338/2023",
+   "title": "Ordinul nr. 4.338/2023 pentru completarea Metodologiei de organizare și desfășurare a examenului de atestare a competențelor profesionale ale absolvenților claselor de matematică-informatică și matematică-informatică, intensiv informatică, aprobată prin Ordinul ministrului educației, cercetării și inovării nr. 4.843/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270875",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270875",
+     "sha256": "ded3efbe734bb7efc450bf0bfcea2dcaf875eb60a4ef31f593009ba5e49ee439"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4339-2023",
+   "path": "ordin/educatie/2023/4339",
+   "short": "Ordin educatie nr. 4339/2023",
+   "title": "Ordinul nr. 4.339/2023 pentru completarea Ordinului ministrului educației nr. 3.505/2022 privind structura anului școlar 2022-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270876",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270876",
+     "sha256": "a5430518252a75f39d1ad91c4e4b116b424b0d21127d6ba5dbd2f64018f7a096"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4340-2023",
+   "path": "ordin/educatie/2023/4340",
+   "short": "Ordin educatie nr. 4340/2023",
+   "title": "Ordinul nr. 4.340/2023 pentru completarea Metodologiei de organizare și desfășurare a examenului de certificare a calificării absolvenților învățământului liceal, filiera vocațională, aprobată prin Ordinul ministrului educației naționale nr. 4.433/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270892",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270892",
+     "sha256": "6d89a1c4fdf68a439fa27fe1714c647af286cf7f177f548ba9e4cce12c9a5c8d"
     }
    ]
   },
@@ -4713,6 +5553,66 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4396-2023",
+   "path": "ordin/educatie/2023/4396",
+   "short": "Ordin educatie nr. 4396/2023",
+   "title": "Ordinul nr. 4.396/2023 pentru modificarea anexei la Ordinul ministrului educației nr. 5.723/2022 privind aprobarea Calendarului de organizare și desfășurare a examenului național pentru definitivare în învățământul preuniversitar, în anul școlar 2022-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270920",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270920",
+     "sha256": "d28a1cd5f402aa6dd83b025bee9f8e9709eb6e2b0bb692ccf19491ee7d5d349b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4400-2023",
+   "path": "ordin/educatie/2023/4400",
+   "short": "Ordin educatie nr. 4400/2023",
+   "title": "Ordinul nr. 4.400/2023 pentru completarea Metodologiei privind formarea continuă a personalului din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.561/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270921",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270921",
+     "sha256": "105ed8a11b704be7030b9eb4c0e615cf1c5be3688cc25f5397083dd733288deb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4430-2023",
+   "path": "ordin/educatie/2023/4430",
+   "short": "Ordin educatie nr. 4430/2023",
+   "title": "Ordinul nr. 4.430/2023 pentru modificarea și completarea Regulamentului-cadru de organizare și funcționare a unităților de învățământ preuniversitar, aprobat prin Ordinul ministrului educației nr. 4.183/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271060",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271060",
+     "sha256": "747a98194f79d8cf52a08f1903ac05a8f3500bffc7ad7ada5863fcadd28c4b57"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4436-2023",
+   "path": "ordin/educatie/2023/4436",
+   "short": "Ordin educatie nr. 4436/2023",
+   "title": "Ordinul nr. 4.436/2023 pentru modificarea anexei la Ordinul ministrului educației naționale nr. 3.392/2017 privind stabilirea Criteriilor generale de acordare a burselor și a altor forme de sprijin material pentru studenții și cursanții din învățământul superior de stat, învățământ cu frecvență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271447",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271447",
+     "sha256": "124f535d4b99850ad549f798d12b28e8ce77ff14b2c0a628bbbd04a49658221b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4438-2023",
    "path": "ordin/educatie/2023/4438",
    "short": "Ordin educatie nr. 4438/2023",
@@ -4728,6 +5628,81 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4439-2023",
+   "path": "ordin/educatie/2023/4439",
+   "short": "Ordin educatie nr. 4439/2023",
+   "title": "Ordinul nr. 4.439/2023 pentru modificarea și completarea Ordinului ministrului educației nr. 3.505/2022 privind structura anului școlar 2022-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271155",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271155",
+     "sha256": "b70ee64b86ac6d0151c033d2d83c4a649c4fff7bf839017b0c08fa564d7b5aa1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4457-2023",
+   "path": "ordin/educatie/2023/4457",
+   "short": "Ordin educatie nr. 4457/2023",
+   "title": "Ordinul nr. 4.457/2023 pentru completarea Regulamentului privind organizarea și funcționarea învățământului preuniversitar de artă, aprobat prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.569/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271240",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271240",
+     "sha256": "3168a6ca4ecff01b6772c2f6bfa75e84f5308fdd39a56c110db8269ba208de30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4475-2023",
+   "path": "ordin/educatie/2023/4475",
+   "short": "Ordin educatie nr. 4475/2023",
+   "title": "Ordinul nr. 4.475/2023 pentru completarea Metodologiei-cadru privind mobilitatea personalului didactic de predare din învățământul preuniversitar în anul școlar 2023-2024, aprobată prin Ordinul ministrului educației nr. 6.218/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271360",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271360",
+     "sha256": "ba091de5746ed4d2a6ffbaa7266df1f2ad743a54429028bd1c56c65819ec5649"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4478-2023",
+   "path": "ordin/educatie/2023/4478",
+   "short": "Ordin educatie nr. 4478/2023",
+   "title": "Ordinul nr. 4.478/2023 pentru completarea Metodologiei privind formarea continuă a personalului din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.561/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271361",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271361",
+     "sha256": "0b1f20f19c8f4ecc6172e8df2541f61ce32f255742d84d508793bae7a7e2e421"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4480-2023",
+   "path": "ordin/educatie/2023/4480",
+   "short": "Ordin educatie nr. 4480/2023",
+   "title": "Ordinul nr. 4.480/2023 pentru modificarea Ordinului ministrului educației nr. 4.366/2023 privind pilotarea evaluării digitalizate a lucrărilor scrise din cadrul evaluării naționale pentru absolvenții clasei a VIII-a și al examenului național de bacalaureat - 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/271272",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271272",
+     "sha256": "77af7130aec272f65ded93f23f6dbc566f01a5af11170ec35958ed3b86115112"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4494-2023",
    "path": "ordin/educatie/2023/4494",
    "short": "Ordin educatie nr. 4494/2023",
@@ -4739,6 +5714,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/271876",
      "sha256": "d027a62afccf79be774fcb9b712d38de30f3efa21add0a1b1569f16224e66f6d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4968-2023",
+   "path": "ordin/educatie/2023/4968",
+   "short": "Ordin educatie nr. 4968/2023",
+   "title": "Ordinul nr. 4.968/2023 pentru modificarea Ordinului ministrului educației naționale și cercetării științifice nr. 6.156/2016 privind organizarea și desfășurarea anului pregătitor de limbă română pentru cetățenii străini",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272020",
+   "versions": [
+    {
+     "from": "2023-07-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272020",
+     "sha256": "81b2841ba0c0984518180a1ff662db0dea0e10c96a6fd3d44323a5cb7cfed314"
     }
    ]
   },
@@ -5043,6 +6033,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-6435-2023",
+   "path": "ordin/educatie/2023/6435",
+   "short": "Ordin educatie nr. 6435/2023",
+   "title": "Ordinul nr. 6.435/2023 pentru modificarea anexei la Ordinul ministrului educației nr. 5.601/2023 privind implementarea catalogului electronic în școli-pilot",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/274994",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/274994",
+     "sha256": "259cd8d38a5be6a10896e7c043accbf59071f20045c87d6d09cf1d9f2df3466f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-6451-2023",
    "path": "ordin/educatie/2023/6451",
    "short": "Ordin educatie nr. 6451/2023",
@@ -5084,6 +6089,21 @@
      "units": 28,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275166",
      "sha256": "b99d73ca4e1728cc6d1f175d699d07e85df693e08d620e29101cafcf2e386b57"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6464-2023",
+   "path": "ordin/educatie/2023/6464",
+   "short": "Ordin educatie nr. 6464/2023",
+   "title": "Ordinul nr. 6.464/2023 pentru modificarea și completarea Ordinului ministrului educației nr. 6.173/2022 privind constituirea Corpului național de profesori mentori din învățământul preuniversitar și înființarea Registrului național al profesorilor mentori din învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275102",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275102",
+     "sha256": "9edb297143f4155b06dd95591c7195a1ecbeb84e836a4593c379ba547fde2790"
     }
    ]
   },
@@ -5148,6 +6168,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-6559-2023",
+   "path": "ordin/educatie/2023/6559",
+   "short": "Ordin educatie nr. 6559/2023",
+   "title": "Ordinul nr. 6.559/2023 pentru modificarea Ordinului ministrului educației nr. 6.151/2023 privind aprobarea graficului de desfășurare a examenelor de certificare a calificării profesionale a absolvenților din învățământul profesional și tehnic preuniversitar în anul școlar 2023-2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275725",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275725",
+     "sha256": "1ba9004c6786301fec059e5a73b241eca2a90ebdfe51bbeddd8cb7ea9fb148eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6655-2023",
+   "path": "ordin/educatie/2023/6655",
+   "short": "Ordin educatie nr. 6655/2023",
+   "title": "Ordinul nr. 6.655/2023 pentru modificarea Ordinului ministrului educației naționale nr. 4.869/2014 privind aprobarea Regulamentului de organizare și funcționare, a Organigramei și a Statului de funcții ale Institutului Limbii Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276937",
+   "versions": [
+    {
+     "from": "2023-12-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276937",
+     "sha256": "1b5080713875ebaee00505d25a6264ce6f69b7f849aa8ad117b6b476c5ec4387"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-6663-2023",
    "path": "ordin/educatie/2023/6663",
    "short": "Ordin educatie nr. 6663/2023",
@@ -5204,6 +6254,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277019",
      "sha256": "cc8990675d543eef7de1c80d47c0957a3a2f9579ebce2b01a87887e85f2ab824"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6742-2023",
+   "path": "ordin/educatie/2023/6742",
+   "short": "Ordin educatie nr. 6742/2023",
+   "title": "Ordinul nr. 6.742/2023 pentru modificarea anexei la Ordinul ministrului educației nr. 6.463/2023 privind aprobarea Criteriilor generale de acordare a burselor și a altor forme de sprijin financiar de la bugetul de stat pentru studenții și cursanții din învățământul superior de stat, învățământ cu frecvență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/277154",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/277154",
+     "sha256": "060e53e839e1e0339a9b7123447eb0fbf1e04052c02c3e5ff29b72d82368cbbf"
     }
    ]
   },

@@ -3,6 +3,96 @@
  "shard": "ordin/2006",
  "acts": [
   {
+   "slug": "ordin-agricultura-100-2006",
+   "path": "ordin/agricultura/2006/100",
+   "short": "Ordin agricultura nr. 100/2006",
+   "title": "Ordinul nr. 100/2006 pentru aprobarea Listei obiectivelor de investiții, criteriile tehnice de acordare, precum și plafonul maxim al creditelor ce se acordă în anul 2006, în condițiile Legii nr. 231/2005 privind stimularea investițiilor în agricultura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69361",
+   "versions": [
+    {
+     "from": "2006-02-27",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69361",
+     "sha256": "3acd84650704c7452e0b6729ce1d9daaf7852f7b01bb57b687310c67fbc22ea7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-103-2006",
+   "path": "ordin/agricultura/2006/103",
+   "short": "Ordin agricultura nr. 103/2006",
+   "title": "Ordinul nr. 103/2006 privind recunoașterea Consiliului pe produs \"Tutun și produse din tutun\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69400",
+   "versions": [
+    {
+     "from": "2006-02-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69400",
+     "sha256": "25cb324556fbe16cd39587946f6b760bd88e983bf6a1450ea4d4a75960a65825"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-11-2006",
+   "path": "ordin/agricultura/2006/11",
+   "short": "Ordin agricultura nr. 11/2006",
+   "title": "Ordinul nr. 11/2006 privind recunoașterea Consiliului pe produs \"Plante medicinale și aromatice și produse prelucrate și procesate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68159",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68159",
+     "sha256": "7e9d44ee02ffe08e6ad6d2f646d01e596eb87bc647a98ca6a29f9bc07e4c418b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-126-2006",
+   "path": "ordin/agricultura/2006/126",
+   "short": "Ordin agricultura nr. 126/2006",
+   "title": "Ordinul nr. 126/2006 privind recunoașterea Consiliului pe produs \"Carne de porc și produse procesate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69591",
+   "versions": [
+    {
+     "from": "2006-03-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69591",
+     "sha256": "2a6ae43f10406b72464c10a85e4f23fafa561a0f7002725c798fee7a365f7246"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-128-2006",
+   "path": "ordin/agricultura/2006/128",
+   "short": "Ordin agricultura nr. 128/2006",
+   "title": "Ordinul nr. 128/2006 privind aprobarea Normelor tehnice pentru producerea și comercializarea vinurilor spumante cu denumire de origine controlată (DOC) și a nivelului sumelor percepute ca taxe pentru eliberarea Autorizației de producător de struguri destinați obținerii de vinuri spumante cu denumire de origine controlată (DOC) și a Certificatului de atestare a dreptului de comercializare a vinurilor spumante cu denumire de origine controlată (DOC)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69787",
+   "versions": [
+    {
+     "from": "2006-03-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69787",
+     "sha256": "cc996aeaa32a3c8cd0bd1868712054b8bbe6d1fca20c5949f27f18e98e07bea6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-13-2006",
+   "path": "ordin/agricultura/2006/13",
+   "short": "Ordin agricultura nr. 13/2006",
+   "title": "Ordinul nr. 13/2006 pentru aprobarea Normei privind animalele de reproducție din specia porcine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68991",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68991",
+     "sha256": "e2d7bbcbcd6945cff2b4166a55dcc3d4ca70f4b161aef50de9e7ee31ce42818a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-134-2006",
    "path": "ordin/agricultura/2006/134",
    "short": "Ordin agricultura nr. 134/2006",
@@ -14,6 +104,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71718",
      "sha256": "c70cc855253a9e8412a6eaf6f3eb883f24c2fef52272e5afd73f3213ccddd5f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-135-2006",
+   "path": "ordin/agricultura/2006/135",
+   "short": "Ordin agricultura nr. 135/2006",
+   "title": "Ordinul nr. 135/2006 pentru prelungirea perioadei de vânare la specia fazan (Phasianus colchicus), pentru sezonul de vânătoare 15 mai 2005 - 14 mai 2006, până la data de 15 martie 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69423",
+   "versions": [
+    {
+     "from": "2006-03-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69423",
+     "sha256": "7463dba6a3c83f55bf89b7b4b69e460aeaf9c229d2e2ea63d45cefab75aa3bdc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-14-2006",
+   "path": "ordin/agricultura/2006/14",
+   "short": "Ordin agricultura nr. 14/2006",
+   "title": "Ordinul nr. 14/2006 pentru aprobarea metodelor de monitorizare a performantelor și metodelor pentru estimarea valorii de ameliorare a animalelor de reproducție de rasa pura și hibrizi din specia porcine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68992",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68992",
+     "sha256": "167adc2167b64ce5ef7666fb18f8a000391290c7a74c7da8aab4b1c964301495"
     }
    ]
   },
@@ -33,6 +153,111 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-15-2006",
+   "path": "ordin/agricultura/2006/15",
+   "short": "Ordin agricultura nr. 15/2006",
+   "title": "Ordinul nr. 15/2006 pentru aprobarea Normelor de apreciere a porcinelor de reproducție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68993",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68993",
+     "sha256": "ea7797fea80a8e1a099f249c2905d09c1393edc8f161f821ea45dd3abde4051a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-150-2006",
+   "path": "ordin/agricultura/2006/150",
+   "short": "Ordin agricultura nr. 150/2006",
+   "title": "Ordinul nr. 150/2006 pentru aprobarea procedurilor privind deschiderea contingentelor tarifare la importul în România al unor sortimente de carne de porc și carne de pasăre originare din Uniunea Europeană (UE) și a modului de administrare a acestor contingente în perioada 1 martie - 31 decembrie 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69424",
+   "versions": [
+    {
+     "from": "2006-03-01",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69424",
+     "sha256": "471a0b083ba5ba1671d0ff59a9b44ed096e5f8fe5a4914d151886849bae9e6bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-157-2006",
+   "path": "ordin/agricultura/2006/157",
+   "short": "Ordin agricultura nr. 157/2006",
+   "title": "Ordinul nr. 157/2006 privind aprobarea Normelor metodologice de aplicare a Ordonanței Guvernului nr. 12/2006 pentru aprobarea măsurilor privind susținerea finanțării documentațiilor tehnice pentru proiectele din cadrul măsurii 2.1 \"Dezvoltarea și îmbunătățirea infrastructurii rurale\" din Programul SAPARD, de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70091",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70091",
+     "sha256": "ad0113a7c389e9158f34b9b8b80ee4a24995596557ef25f97a1a780f5b329cb6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-17-2006",
+   "path": "ordin/agricultura/2006/17",
+   "short": "Ordin agricultura nr. 17/2006",
+   "title": "Ordinul nr. 17/2006 pentru aprobarea Normei cu privire la animalele de reproducție de rasa pura din specia bovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68994",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68994",
+     "sha256": "6b71d4caba79766a60ffcf9e435ccb47eaca6551f7e885b28287c36be26b55de"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-171-2006",
+   "path": "ordin/agricultura/2006/171",
+   "short": "Ordin agricultura nr. 171/2006",
+   "title": "Ordinul nr. 171/2006 privind aprobarea Normelor de aplicare a Ordonanței Guvernului nr. 37/2005 privind recunoașterea și funcționarea grupurilor și organizațiilor de producători, pentru comercializarea produselor agricole și silvice, aprobată cu modificări și completări prin Legea nr. 338/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70266",
+   "versions": [
+    {
+     "from": "2006-03-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70266",
+     "sha256": "21762e0f7a356f3fc56d12498de3714dd1bfb7b3511a74c43af1045bb2287be1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-172-2006",
+   "path": "ordin/agricultura/2006/172",
+   "short": "Ordin agricultura nr. 172/2006",
+   "title": "Ordinul nr. 172/2006 pentru aprobarea normelor metodologice privind procedurile de aplicare a sistemului de intervenție pe piața cerealelor, referitoare la evaluarea și monitorizarea cerealelor deținute în stocuri publice de intervenție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70093",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70093",
+     "sha256": "8a5afaa80db7064255030796e66211678af8a580264e49be774bd5732d3b9492"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-19-2006",
+   "path": "ordin/agricultura/2006/19",
+   "short": "Ordin agricultura nr. 19/2006",
+   "title": "Ordinul nr. 19/2006 pentru aprobarea Normelor de apreciere a bovinelor de reproducție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68996",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68996",
+     "sha256": "89ece35e01db5f0231ab5cc34a3157e6779567afba0fec8807e1514152b8eca1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-191-2006",
    "path": "ordin/agricultura/2006/191",
    "short": "Ordin agricultura nr. 191/2006",
@@ -44,6 +269,96 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70649",
      "sha256": "e5fb8ce7948921e09d5b2092a83953673497756a99537f2eb1b5d32c2ba7c42c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-193-2006",
+   "path": "ordin/agricultura/2006/193",
+   "short": "Ordin agricultura nr. 193/2006",
+   "title": "Ordinul nr. 193/2006 privind recunoașterea Consiliului pe produs \"Miere de albine, alte produse apicole și produse procesate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70100",
+   "versions": [
+    {
+     "from": "2006-03-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70100",
+     "sha256": "5b78585332f37a2bbc544564f82cc0580e1a61e9e653f142b67db45fc42de01b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-194-2006",
+   "path": "ordin/agricultura/2006/194",
+   "short": "Ordin agricultura nr. 194/2006",
+   "title": "Ordinul nr. 194/2006 privind schimbarea sediului Sucursalei Teritoriale Olt - Argeș a Administrației Naționale a Îmbunătățirilor Funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70060",
+   "versions": [
+    {
+     "from": "2006-03-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70060",
+     "sha256": "3f2eb24c2e09a7e3bf1c25b8d128bbf6a9a90a8eb87b40c1ae5846fa89d093c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-196-2006",
+   "path": "ordin/agricultura/2006/196",
+   "short": "Ordin agricultura nr. 196/2006",
+   "title": "Ordinul nr. 196/2006 pentru aprobarea Instrucțiunilor privind avizarea și autorizarea funcționării ocoalelor silvice pentru gospodărirea pădurilor proprietate privată a persoanelor fizice și juridice și a celor proprietate publică aparținând unităților administrativ-teritoriale și pentru autorizarea personalului silvic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70142",
+   "versions": [
+    {
+     "from": "2006-03-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70142",
+     "sha256": "92b151377991b11099d715d707b03f0f29ec8ea5c0e518d4ca4333835a7fa120"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-2-2006",
+   "path": "ordin/agricultura/2006/2",
+   "short": "Ordin agricultura nr. 2/2006",
+   "title": "Ordinul nr. 2/2006 privind recunoașterea Consiliului pe produs \"Flori, plante ornamentale și arhitectură peisageră\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68147",
+   "versions": [
+    {
+     "from": "2006-01-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68147",
+     "sha256": "68b8f4c9fa8348d800ecf61e25fc1f3902dafb90ed86f4b704fe46b658eb4bd1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-20-2006",
+   "path": "ordin/agricultura/2006/20",
+   "short": "Ordin agricultura nr. 20/2006",
+   "title": "Ordinul nr. 20/2006 pentru aprobarea Normei cu privire la animalele de reproducție de rasa pura din speciile ovine și caprine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68997",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68997",
+     "sha256": "b9fd6642fc54a3a4b30126a21f88e925593f6d6e62e760b754cd4b4a330fe593"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-21-2006",
+   "path": "ordin/agricultura/2006/21",
+   "short": "Ordin agricultura nr. 21/2006",
+   "title": "Ordinul nr. 21/2006 pentru aprobarea Normei privind metodele de monitorizare a performantelor și metodele pentru estimarea valorii de ameliorare a animalelor de reproducție de rasa pura din speciile ovine și caprine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68998",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68998",
+     "sha256": "6b012f9702d9ff2c8b5cc99a3e7a7c5e942209d48bdba0435f087c010913a4ab"
     }
    ]
   },
@@ -63,6 +378,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-218-2006",
+   "path": "ordin/agricultura/2006/218",
+   "short": "Ordin agricultura nr. 218/2006",
+   "title": "Ordinul nr. 218/2006 pentru aprobarea Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 20/2006 privind sprijinul direct al statului acordat producătorilor agricoli din sectorul vegetal în anul 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70559",
+   "versions": [
+    {
+     "from": "2006-04-06",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70559",
+     "sha256": "fabcdd8a3fcac2a6696a3eae55c1630f3a05a4e0e3bf4b8ffb86157407f5e240"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-219-2006",
+   "path": "ordin/agricultura/2006/219",
+   "short": "Ordin agricultura nr. 219/2006",
+   "title": "Ordinul nr. 219/2006 privind aprobarea sumelor pe speciile de animale pentru care se acordă subvenții în conformitate cu prevederile Hotărârii Guvernului nr. 1.853/2005 privind sprijinul direct al statului prin acordarea de subvenții, în anul 2006, producătorilor agricoli din sectorul animalier și din sectorul piscicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70389",
+   "versions": [
+    {
+     "from": "2006-03-31",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70389",
+     "sha256": "7e9f69a38ac13e39978c4c60f28507d8a40e62ea14a0d3b9849265abdcbf9d08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-22-2006",
+   "path": "ordin/agricultura/2006/22",
+   "short": "Ordin agricultura nr. 22/2006",
+   "title": "Ordinul nr. 22/2006 pentru aprobarea Normelor de apreciere a ovinelor și caprinelor de reproducție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68999",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68999",
+     "sha256": "12fae8c52311525ecfeab45fac5e9c969d4aa7b84d6e5a3f969c13518e4132a0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-221-2006",
    "path": "ordin/agricultura/2006/221",
    "short": "Ordin agricultura nr. 221/2006",
@@ -78,6 +438,126 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-222-2006",
+   "path": "ordin/agricultura/2006/222",
+   "short": "Ordin agricultura nr. 222/2006",
+   "title": "Ordinul nr. 222/2006 pentru aprobarea Regulamentului privind autorizarea spațiilor de depozitare pentru produse agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70521",
+   "versions": [
+    {
+     "from": "2006-04-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70521",
+     "sha256": "9e801c63f0e7af13712ba5fded363f4bbd0e853e9dbff3bbf312ae79751ba6a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-225-2006",
+   "path": "ordin/agricultura/2006/225",
+   "short": "Ordin agricultura nr. 225/2006",
+   "title": "Ordinul nr. 225/2006 privind aprobarea Zonării soiurilor nobile de viță-de-vie roditoare admise în cultură în arealele viticole din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70862",
+   "versions": [
+    {
+     "from": "2006-04-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70862",
+     "sha256": "ccee464e012f0f84a7d728876fc637e3f7b20c4df8228f26a62775bdbc738912"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-227-2006",
+   "path": "ordin/agricultura/2006/227",
+   "short": "Ordin agricultura nr. 227/2006",
+   "title": "Ordinul nr. 227/2006 privind amplasarea și dimensiunile zonelor de protecție adiacente infrastructurii de îmbunătățiri funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70513",
+   "versions": [
+    {
+     "from": "2006-04-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70513",
+     "sha256": "ded1371bb121ae07af4a1d7fb373a36637c91e2fb6d608eb72755bceee0e7d15"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-228-2006",
+   "path": "ordin/agricultura/2006/228",
+   "short": "Ordin agricultura nr. 228/2006",
+   "title": "Ordinul nr. 228/2006 privind aprobarea Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 25/2006 pentru aprobarea nivelului sprijinului acordat producătorilor agricoli pentru achiziționarea de motorină în vederea efectuării lucrărilor agricole mecanizate de înființare și întreținere a unor culturi agricole ce se înființează în primăvara anului 2006, precum și pentru aprobarea suplimentării cu suma de 200 milioane lei (RON) a Programului \"Dezvoltarea durabilă a sectorului vegetal, a sectorului zootehnic și piscicol, precum și alte programe pe care Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale trebuie să le pună în aplicare\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70517",
+   "versions": [
+    {
+     "from": "2006-04-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70517",
+     "sha256": "9d7809021dc675c1e518d2e475ea719799d35ef3de55be312dd81f07939270c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-231-2006",
+   "path": "ordin/agricultura/2006/231",
+   "short": "Ordin agricultura nr. 231/2006",
+   "title": "Ordinul nr. 231/2006 pentru aprobarea Normei tehnice interne cu privire la gestionarea durabilă a resurselor acvatice vii din apele de munte gestionate de Regia Națională a Pădurilor - Romsilva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70664",
+   "versions": [
+    {
+     "from": "2006-04-10",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70664",
+     "sha256": "8a3e71f7d8e3c71a26595b581f219485a43e70a943f29762d38044d78d07aedd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-237-2006",
+   "path": "ordin/agricultura/2006/237",
+   "short": "Ordin agricultura nr. 237/2006",
+   "title": "Ordinul nr. 237/2006 privind autorizarea cultivatorilor de plante modificate genetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70838",
+   "versions": [
+    {
+     "from": "2006-04-14",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70838",
+     "sha256": "975dd8abcb8d9f516236a3ce354213a0c2a1cdb496af28884ac7022887746647"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-243-2006",
+   "path": "ordin/agricultura/2006/243",
+   "short": "Ordin agricultura nr. 243/2006",
+   "title": "Ordinul nr. 243/2006 privind stabilirea măsurilor finanțate din Fondul european agricol pentru dezvoltare rurală, care vor fi implementate de către Agenția de Plăți pentru Dezvoltare Rurală și Pescuit și, respectiv, Agenția de Plăți și Intervenție pentru Agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71021",
+   "versions": [
+    {
+     "from": "2006-04-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71021",
+     "sha256": "4dc490e042824ca39b28dc35393cedfc8173d3de601b0008711f894b5d8637d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-246-2006",
+   "path": "ordin/agricultura/2006/246",
+   "short": "Ordin agricultura nr. 246/2006",
+   "title": "Ordinul nr. 246/2006 pentru stabilirea Listei ciupercilor comestibile din flora spontană a căror recoltare sau achiziție și comercializare sunt permise",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71123",
+   "versions": [
+    {
+     "from": "2006-04-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71123",
+     "sha256": "75671acfe7c304852c5bebd8ed8549cfe74fe85116dfa7951d5ec4c10eff7511"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-262-2006",
    "path": "ordin/agricultura/2006/262",
    "short": "Ordin agricultura nr. 262/2006",
@@ -89,6 +569,81 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71226",
      "sha256": "2a9cc1cff6235842e1c691dc0d8a7c4c37190e3bf9a47fc761e85b624c399e16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-264-2006",
+   "path": "ordin/agricultura/2006/264",
+   "short": "Ordin agricultura nr. 264/2006",
+   "title": "Ordinul nr. 264/2006 pentru prelungirea perioadei de recoltare și colectare a masei lemnoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71183",
+   "versions": [
+    {
+     "from": "2006-05-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71183",
+     "sha256": "470199dd195da5a6c2d34da86289488782167697162727809da22f42ee4adf15"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-272-2006",
+   "path": "ordin/agricultura/2006/272",
+   "short": "Ordin agricultura nr. 272/2006",
+   "title": "Ordinul nr. 272/2006 pentru aprobarea conținutului minim al protocolului de transmitere, fără plată, a infrastructurii de îmbunătățiri funciare aparținând domeniului privat al statului, aflată în administrarea Administrației ori în administrarea sau în folosința societăților comerciale, stațiunilor și institutelor de cercetare și producție agricolă, unităților de învățământ agricol, situată pe teritoriul organizației, în proprietatea acelei organizații și a conținutului minim al protocolului de transmitere a infrastructurii de îmbunătățiri funciare din domeniul public al statului, alta decât cea de irigații, cu excepția celei principale sau a celei de prim ordin, situată pe teritoriul unei organizații, ori de transmitere a infrastructurii de îmbunătățiri funciare din domeniul public al statului din cadrul unei părți autonome funcțional dintr-o amenajare sau a unei întregi amenajări de îmbunătățiri funciare aflate în proprietatea publică a statului ori a unităților administrativ-teritoriale, situată pe teritoriul unei federații, în folosința gratuită a acelei organizații sau federații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71157",
+   "versions": [
+    {
+     "from": "2006-05-02",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71157",
+     "sha256": "c043f20939911576d42647b8dcfdadb752d8d04accd56a2f1bda27e368e4863e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-277-2006",
+   "path": "ordin/agricultura/2006/277",
+   "short": "Ordin agricultura nr. 277/2006",
+   "title": "Ordinul nr. 277/2006 pentru aprobarea Normelor metodologice privind autorizarea laboratoarelor în vederea executării de analize pentru vinurile și celelalte produse pe bază de must și vin ce urmează a fi expediate în scopul comercializării pe piața internă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71207",
+   "versions": [
+    {
+     "from": "2006-05-03",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71207",
+     "sha256": "2b0d2f48089d500a82098f24d8d626edf46646cc1e3a6657d34936e31c65a1ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-279-2006",
+   "path": "ordin/agricultura/2006/279",
+   "short": "Ordin agricultura nr. 279/2006",
+   "title": "Ordinul nr. 279/2006 privind revizuirea volumului maxim de masă lemnoasă pe picior care poate fi recoltată în anul 2006, pe categorii de resurse și pe destinații, și repartizarea acestuia pe județe, pentru pădurile proprietate publică a unităților administrativ-teritoriale, pădurile proprietate privată a persoanelor fizice și juridice de drept privat și pentru vegetația forestieră situată pe terenuri din afara fondului forestier național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71479",
+   "versions": [
+    {
+     "from": "2006-05-09",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71479",
+     "sha256": "1ca3a8015471820cf0477a8538e9464236db9b5e14f6f2bdba60f734091b0435"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-307-2006",
+   "path": "ordin/agricultura/2006/307",
+   "short": "Ordin agricultura nr. 307/2006",
+   "title": "Ordinul nr. 307/2006 privind recunoașterea Consiliului pe produs \"Carne, lapte, lână și produse procesate de la ovine și caprine\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71618",
+   "versions": [
+    {
+     "from": "2006-05-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71618",
+     "sha256": "281332681d35d41ef41e28ca7c488519bc10aab7f58d5c599953ecb13079a81a"
     }
    ]
   },
@@ -119,6 +674,21 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73372",
      "sha256": "2ab0d2dab7122198dc236b77f5d3cf98a4bf5d0b569e840ef7a53e7562decdcf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-331-2006",
+   "path": "ordin/agricultura/2006/331",
+   "short": "Ordin agricultura nr. 331/2006",
+   "title": "Ordinul nr. 331/2006 privind aprobarea condițiilor de atestare, a procedurilor de înregistrare și de eliberare a atestatelor de fermă familială cu caracter comercial, precum și a modelului acestui atestat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72107",
+   "versions": [
+    {
+     "from": "2006-05-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72107",
+     "sha256": "fbbd82bfd54c3e51dff63abfa0a47b7d8eb330381b3fd58cbaaadfa1ea540450"
     }
    ]
   },
@@ -378,6 +948,96 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-360-2006",
+   "path": "ordin/agricultura/2006/360",
+   "short": "Ordin agricultura nr. 360/2006",
+   "title": "Ordinul nr. 360/2006 pentru aprobarea cuantumului tarifelor care constituie veniturile proprii ale Autorității Hipice Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72315",
+   "versions": [
+    {
+     "from": "2006-06-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72315",
+     "sha256": "04f184c4005ea10bdc57e367ea458aa2ccc4fcf7c5499645505f861f0a4a96ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-370-2006",
+   "path": "ordin/agricultura/2006/370",
+   "short": "Ordin agricultura nr. 370/2006",
+   "title": "Ordinul nr. 370/2006 privind aprobarea Catalogului oficial al soiurilor de plante de cultura din România pentru anul 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72802",
+   "versions": [
+    {
+     "from": "2006-06-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72802",
+     "sha256": "47b28f1014578587678bb1b5afa96567f947fe0c0b733f33a7231b87206e0d9a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-373-2006",
+   "path": "ordin/agricultura/2006/373",
+   "short": "Ordin agricultura nr. 373/2006",
+   "title": "Ordinul nr. 373/2006 pentru aprobarea Listei cuprinzând centrele de intervenție pentru cereale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72673",
+   "versions": [
+    {
+     "from": "2006-06-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72673",
+     "sha256": "454ae76f6a64dea22b5071b65dd047732ce26be86eba3046643c4d245301d71e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-413-2006",
+   "path": "ordin/agricultura/2006/413",
+   "short": "Ordin agricultura nr. 413/2006",
+   "title": "Ordinul nr. 413/2006 privind recunoașterea Consiliului pe produs \"Carne de bovine și produse procesate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72767",
+   "versions": [
+    {
+     "from": "2006-06-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72767",
+     "sha256": "83e5c63833408c98bf47f72b9290a034fa4244cdf05641bab69b4508e5c557fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-416-2006",
+   "path": "ordin/agricultura/2006/416",
+   "short": "Ordin agricultura nr. 416/2006",
+   "title": "Ordinul nr. 416/2006 pentru aprobarea prețului mediu al unui metru cub de masa lemnoasă pe picior, pe baza căruia se calculează valoarea despăgubirilor pentru pagubele produse fondului forestier și vegetației forestiere din afară fondului forestier, pentru calculul despăgubirilor care se acordă pentru funcțiile de protecție asigurate de păduri, precum și pentru calculul obligațiilor bănești aferente scoaterii de terenuri din fondul forestier național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72726",
+   "versions": [
+    {
+     "from": "2006-06-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72726",
+     "sha256": "794ed34cd2d676ee72d37766683a3025d87aab18bbb97e9024169811a2c4973f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-438-2006",
+   "path": "ordin/agricultura/2006/438",
+   "short": "Ordin agricultura nr. 438/2006",
+   "title": "Ordinul nr. 438/2006 privind schimbarea sediului Sucursalei Teritoriale Mureș-Olt a Administrației Naționale a Îmbunătățirilor Funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73289",
+   "versions": [
+    {
+     "from": "2006-07-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73289",
+     "sha256": "b5f210e660983554fbd73905db096960b7e62b416f175127a7ee73987a9e9374"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-446-2006",
    "path": "ordin/agricultura/2006/446",
    "short": "Ordin agricultura nr. 446/2006",
@@ -389,6 +1049,66 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73709",
      "sha256": "1bfc0dbe0e275e250a6807079b6fd7eb99221498bd6a8c982b4fe67fd377a5ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-449-2006",
+   "path": "ordin/agricultura/2006/449",
+   "short": "Ordin agricultura nr. 449/2006",
+   "title": "Ordinul nr. 449/2006 pentru aprobarea Procedurilor, condițiilor și regulilor privind acreditarea oficială a persoanelor pentru efectuarea inspecțiilor în câmp în vederea certificării unor culturi semincere sub supraveghere oficială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74108",
+   "versions": [
+    {
+     "from": "2006-08-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74108",
+     "sha256": "68c8644158e87b2a5b1ed1005ec768a7db9c1d7fa8e0daa48fcc7c1bd7ad7ec5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-450-2006",
+   "path": "ordin/agricultura/2006/450",
+   "short": "Ordin agricultura nr. 450/2006",
+   "title": "Ordinul nr. 450/2006 pentru aprobarea Procedurilor, condițiilor și regulilor privind acreditarea oficială a laboratoarelor pentru testarea semințelor sub supraveghere oficială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74116",
+   "versions": [
+    {
+     "from": "2006-08-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74116",
+     "sha256": "57f3eef4ccfb2d2fc1d2988fffe8292703fd58823c1af9e379e5f75b237fc4fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-451-2006",
+   "path": "ordin/agricultura/2006/451",
+   "short": "Ordin agricultura nr. 451/2006",
+   "title": "Ordinul nr. 451/2006 pentru aprobarea Procedurilor, condițiilor și regulilor privind acreditarea oficială a persoanelor pentru a preleva eșantioane de semințe în vederea efectuării testelor de laborator sub supraveghere oficială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74119",
+   "versions": [
+    {
+     "from": "2006-08-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74119",
+     "sha256": "293cbff9f4d4696754967eac9086a430a2560fe460f5a15e62b051051e79b72c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-454-2006",
+   "path": "ordin/agricultura/2006/454",
+   "short": "Ordin agricultura nr. 454/2006",
+   "title": "Ordinul nr. 454/2006 privind aprobarea Metodologiei de decontare a cheltuielilor prevăzute la art. 35 din Legea nr. 1/2000 pentru reconstituirea dreptului de proprietate asupra terenurilor agricole și celor forestiere, solicitate potrivit prevederilor Legii fondului funciar nr. 18/1991 și ale Legii nr. 169/1997, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73498",
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73498",
+     "sha256": "9a0c18b5479f387e7bb92d60b7499377cb0ce28400d55984597be27c675c3a05"
     }
    ]
   },
@@ -408,6 +1128,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-464-2006",
+   "path": "ordin/agricultura/2006/464",
+   "short": "Ordin agricultura nr. 464/2006",
+   "title": "Ordinul nr. 464/2006 pentru aprobarea Normelor privind organizarea stud-book-ului, certificarea originii și comerțul cu ecvidee de rasă pură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74414",
+   "versions": [
+    {
+     "from": "2006-08-21",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74414",
+     "sha256": "e8472b6996d650058edcc0d78a5b5a49e9b993f39b20b8dcfaf7cf30de732f39"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-465-2006",
+   "path": "ordin/agricultura/2006/465",
+   "short": "Ordin agricultura nr. 465/2006",
+   "title": "Ordinul nr. 465/2006 privind prețul de referință la grâu, convenit în cadrul Consiliului cereale și produse procesate din cereale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73488",
+   "versions": [
+    {
+     "from": "2006-07-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73488",
+     "sha256": "ecf90388298a56b61b949b8049e28287a06aabb4abb2b89af29c1fcf6268aeaf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-468-2006",
+   "path": "ordin/agricultura/2006/468",
+   "short": "Ordin agricultura nr. 468/2006",
+   "title": "Ordinul nr. 468/2006 pentru aprobarea formularului-tip al cererilor, precum și a procedurii de acordare a cotelor și înscriere în Registrul cotelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73549",
+   "versions": [
+    {
+     "from": "2006-07-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73549",
+     "sha256": "0d13068e7e52d2c129dc21a19085e75d596f60a917cd81470627accaa797e56f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-502-2006",
    "path": "ordin/agricultura/2006/502",
    "short": "Ordin agricultura nr. 502/2006",
@@ -419,6 +1184,51 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74232",
      "sha256": "a19307f2f1564dd72f1c824c0ef6b42955921783cb9e7d85a5d5c3d4f41d5702"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-527-2006",
+   "path": "ordin/agricultura/2006/527",
+   "short": "Ordin agricultura nr. 527/2006",
+   "title": "Ordinul nr. 527/2006 privind recunoașterea Consiliului pe produs \"Alcool și distilate, băuturi spirtoase, țuică, rachiu și vinars\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74105",
+   "versions": [
+    {
+     "from": "2006-08-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74105",
+     "sha256": "0e478fa21243209ad600a4c58d433cabd65fec6ddc1cfba657e2ee367185af20"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-555-2006",
+   "path": "ordin/agricultura/2006/555",
+   "short": "Ordin agricultura nr. 555/2006",
+   "title": "Ordinul nr. 555/2006 privind aprobarea criteriilor de eligibilitate și a modalităților de plată a alocațiilor pentru programele de conservare și utilizare a resurselor genetice în stare critică, în pericol de dispariție și a celor vulnerabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74553",
+   "versions": [
+    {
+     "from": "2006-08-23",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74553",
+     "sha256": "4eb06bebf1a67b1dee6e7dc31080544eec638d61eea3f8018ab8a87821d44732"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-557-2006",
+   "path": "ordin/agricultura/2006/557",
+   "short": "Ordin agricultura nr. 557/2006",
+   "title": "Ordinul nr. 557/2006 privind aprobarea Listei standardelor naționale armonizate pentru materialele forestiere de reproducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74399",
+   "versions": [
+    {
+     "from": "2006-08-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74399",
+     "sha256": "d3a2b086047cd63d69e022bf721ff25db2cd33e62f29e6e93398bb5d514ed384"
     }
    ]
   },
@@ -438,6 +1248,126 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-562-2006",
+   "path": "ordin/agricultura/2006/562",
+   "short": "Ordin agricultura nr. 562/2006",
+   "title": "Ordinul nr. 562/2006 privind aprobarea Manualului operațional pentru schema competitivă de granturi derulată cu sprijinul proiectului \"Modernizarea sistemului de informare și cunoaștere în agricultură\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74803",
+   "versions": [
+    {
+     "from": "2006-09-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74803",
+     "sha256": "f5ebcf93686a4ff4b18c533d693c5209707dfeb1b2bb59e7e567dabb1f995da5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-564-2006",
+   "path": "ordin/agricultura/2006/564",
+   "short": "Ordin agricultura nr. 564/2006",
+   "title": "Ordinul nr. 564/2006 privind aprobarea normelor de cheltuieli finanțate de la bugetul de stat, prin bugetul Ministerului Agriculturii, Pădurilor și Dezvoltării Rurale, pentru întreținerea cabalinelor din categoria Herghelia Națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75244",
+   "versions": [
+    {
+     "from": "2006-09-19",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75244",
+     "sha256": "f25e9ef31b2760288a88b9cd4c12a5afc057c3e536ab46d3be36db09196bef74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-582-2006",
+   "path": "ordin/agricultura/2006/582",
+   "short": "Ordin agricultura nr. 582/2006",
+   "title": "Ordinul nr. 582/2006 pentru aprobarea Listei cu gradatori autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74658",
+   "versions": [
+    {
+     "from": "2006-08-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74658",
+     "sha256": "f936df635a8e735d3d234fa02a0e3a8763e62fa9bb530e38c5dea1239db427e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-591-2006",
+   "path": "ordin/agricultura/2006/591",
+   "short": "Ordin agricultura nr. 591/2006",
+   "title": "Ordinul nr. 591/2006 privind organizarea și funcționarea Inspecției de stat pentru controlul tehnic în producerea și valorificarea legumelor și fructelor, în vederea executării controalelor de conformitate pentru fructe și legume proaspete",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75584",
+   "versions": [
+    {
+     "from": "2006-11-02",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75584",
+     "sha256": "1a3afa4f688ca82538f78b13a1ef1b69edca48e3104ee34c6a3b57a9b8da5b55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-592-2006",
+   "path": "ordin/agricultura/2006/592",
+   "short": "Ordin agricultura nr. 592/2006",
+   "title": "Ordinul nr. 592/2006 privind efectuarea controlului de conformitate cu standardele de comercializare la legumele și fructele proaspete",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74924",
+   "versions": [
+    {
+     "from": "2006-10-07",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74924",
+     "sha256": "ad972930ed4ebbcde313f3275ae8112480142ecd65c811c840b9910e7e1caf24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-604-2006",
+   "path": "ordin/agricultura/2006/604",
+   "short": "Ordin agricultura nr. 604/2006",
+   "title": "Ordinul nr. 604/2006 privind stabilirea tarifelor pentru efectuarea controlului în vederea certificării culturilor de sămânță și material săditor, înregistrării, supravegherii, monitorizării și acreditării unor activități ale operatorilor economici pentru producerea, prelucrarea și/sau comercializarea semințelor și materialului săditor, precum și a tarifelor pentru testele de calitate și alte prestații privind certificarea semințelor și materialului săditor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74896",
+   "versions": [
+    {
+     "from": "2006-09-11",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74896",
+     "sha256": "c2577755ec32e1ea217efdc7d84a3f6c4737cd847506387ee3784c24bb8f69cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-607-2006",
+   "path": "ordin/agricultura/2006/607",
+   "short": "Ordin agricultura nr. 607/2006",
+   "title": "Ordinul nr. 607/2006 pentru aprobarea produselor agricole care beneficiază de plăți naționale directe complementare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74733",
+   "versions": [
+    {
+     "from": "2006-08-31",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74733",
+     "sha256": "5c1071d5dca70472e7c28ab6cae2cc21ec9e85f11df9d5f4c2963cdc75a59a8c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-61-2006",
+   "path": "ordin/agricultura/2006/61",
+   "short": "Ordin agricultura nr. 61/2006",
+   "title": "Ordinul nr. 61/2006 pentru aprobarea Registrului soiurilor de struguri de vin existente în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68736",
+   "versions": [
+    {
+     "from": "2006-02-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68736",
+     "sha256": "19ebfa00aadbadebe1b6cbbb0a25e7e85d0c97c4777dcaa1db484b422f18b9f8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-617-2006",
    "path": "ordin/agricultura/2006/617",
    "short": "Ordin agricultura nr. 617/2006",
@@ -453,6 +1383,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-621-2006",
+   "path": "ordin/agricultura/2006/621",
+   "short": "Ordin agricultura nr. 621/2006",
+   "title": "Ordinul nr. 621/2006 privind recunoașterea prevederilor Acordului interprofesional pentru grupa de produse struguri, must, vin și produse procesate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74982",
+   "versions": [
+    {
+     "from": "2006-09-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74982",
+     "sha256": "4898544989205f9ba53e13b6e377cf187e918ccc1bbc5f2bbec8d1ca877ed5d7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-625-2006",
    "path": "ordin/agricultura/2006/625",
    "short": "Ordin agricultura nr. 625/2006",
@@ -464,6 +1409,51 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75975",
      "sha256": "92ecd7e0cca44709e380be39a73ccc08b5607cdeb486dc921602ac20ac65a923"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-626-2006",
+   "path": "ordin/agricultura/2006/626",
+   "short": "Ordin agricultura nr. 626/2006",
+   "title": "Ordinul nr. 626/2006 pentru stabilirea condițiilor minime de desfășurare a inspecțiilor fitosanitare în România la posturi de inspecție, altele decât cele de la locul de destinație, pentru plante, produse vegetale sau alte obiecte care provin din țări terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75001",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75001",
+     "sha256": "c8256716182039f94d255a25c508049591159dac988ecd9b94fe1b19d823a990"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-627-2006",
+   "path": "ordin/agricultura/2006/627",
+   "short": "Ordin agricultura nr. 627/2006",
+   "title": "Ordinul nr. 627/2006 pentru aprobarea Normelor metodologice de aplicare a Ordonanței Guvernului nr. 45/2006 privind acordarea unor facilități financiare producătorilor agricoli care dețin suprafețe de pajiști în zona montană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75018",
+   "versions": [
+    {
+     "from": "2006-09-12",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75018",
+     "sha256": "2bf79ea9cae8cadd689ebec29fe02bfb9656f9f16e38e5b00c54bf735f1d4e04"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-631-2006",
+   "path": "ordin/agricultura/2006/631",
+   "short": "Ordin agricultura nr. 631/2006",
+   "title": "Ordinul nr. 631/2006 privind controlul și certificarea calității semințelor prin testarea soiurilor nemodificate genetic și care pot fi impurificate cu soiuri modificate genetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75003",
+   "versions": [
+    {
+     "from": "2006-09-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75003",
+     "sha256": "e9641b751d1d5116bbad5ca4c7f7c38fe9db616be4ee1e308fa7471840bed253"
     }
    ]
   },
@@ -494,6 +1484,186 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75163",
      "sha256": "5822691c92eec25d84f2900b16e08c53bb1bb60a443652c5f615f687fe8e2436"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-648-2006",
+   "path": "ordin/agricultura/2006/648",
+   "short": "Ordin agricultura nr. 648/2006",
+   "title": "Ordinul nr. 648/2006 privind autorizarea laboratorului în vederea executării de analize pentru îngrășămintele care circulă pe piață, a inspectorilor împuterniciți să execute controlul, privind aprobarea modelului de legitimație, a indicativului ștampilei și a zonei de exercitare a acestei activități",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75889",
+   "versions": [
+    {
+     "from": "2006-10-12",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75889",
+     "sha256": "10e3b60cbac56791893ad1984a697539b3996fe86c36ea942cd280d6ff16a440"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-653-2006",
+   "path": "ordin/agricultura/2006/653",
+   "short": "Ordin agricultura nr. 653/2006",
+   "title": "Ordinul nr. 653/2006 privind combaterea râiei negre a cartofului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75604",
+   "versions": [
+    {
+     "from": "2006-10-04",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75604",
+     "sha256": "2e3c28e176ac6d8db01b5aecad3ee305c55ad1bdf2c82bde8f15f27a89a71ea9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-657-2006",
+   "path": "ordin/agricultura/2006/657",
+   "short": "Ordin agricultura nr. 657/2006",
+   "title": "Ordinul nr. 657/2006 privind aprobarea prețului indicativ, prețului de referință și prețului de bază pentru strugurii de vin din soiuri nobile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75618",
+   "versions": [
+    {
+     "from": "2006-10-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75618",
+     "sha256": "ef7cdeb7ce83d063c1503cad812ea96e37a0c69b50e6b3eb18d96afaeb8bd057"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-662-2006",
+   "path": "ordin/agricultura/2006/662",
+   "short": "Ordin agricultura nr. 662/2006",
+   "title": "Ordinul nr. 662/2006 privind aprobarea Planului sectorial de cercetare-dezvoltare pe anii 2006-2010 al Ministerului Agriculturii, Pădurilor și Dezvoltării Rurale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75946",
+   "versions": [
+    {
+     "from": "2006-10-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75946",
+     "sha256": "3c3842701badd6cb6bb4a2f6e3d41f60a40b34afd42f90e39e5355e9b712c2f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-676-2006",
+   "path": "ordin/agricultura/2006/676",
+   "short": "Ordin agricultura nr. 676/2006",
+   "title": "Ordinul nr. 676/2006 pentru aprobarea cuantumului estimat al plafonului maxim la hectar, unitar la nivel național, al subvențiilor de la bugetul de stat ce se acordă pentru acoperirea cheltuielilor necesare desfășurării activității de irigații pentru sezonul de irigații al anului 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76167",
+   "versions": [
+    {
+     "from": "2006-10-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76167",
+     "sha256": "3365a0386622e3abf779798ff581cb41efcbb5c372ad5d03c170fbfd36b517cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-682-2006",
+   "path": "ordin/agricultura/2006/682",
+   "short": "Ordin agricultura nr. 682/2006",
+   "title": "Ordinul nr. 682/2006 privind aprobarea Grilei de parametri pentru negocierea prețului de livrare al laptelui de vacă materie primă, stabilită de reprezentanții producătorilor și ai cumpărătorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75930",
+   "versions": [
+    {
+     "from": "2006-10-13",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75930",
+     "sha256": "18a8571db8b8a9f296d4c0a639308c57507f0f57bf7df980fcdc2d24057c1af1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-689-2006",
+   "path": "ordin/agricultura/2006/689",
+   "short": "Ordin agricultura nr. 689/2006",
+   "title": "Ordinul nr. 689/2006 privind revizuirea volumului maxim de masă lemnoasă pe picior care poate fi recoltată în anul 2006, pe categorii de resurse și pe destinații, și repartizarea acestuia pe județe, pentru pădurile proprietate publică a unităților administrativ-teritoriale, pădurile proprietate privată a persoanelor fizice și juridice de drept privat și pentru vegetația forestieră situată pe terenuri din afara fondului forestier național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76066",
+   "versions": [
+    {
+     "from": "2006-10-20",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76066",
+     "sha256": "91b390c28322a6fe523eba22bc4101e914541806a281b401d201e289d0f4b325"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-690-2006",
+   "path": "ordin/agricultura/2006/690",
+   "short": "Ordin agricultura nr. 690/2006",
+   "title": "Ordinul nr. 690/2006 privind aprobarea deciziilor pentru acordarea dreptului de producere a vinurilor cu denumire de origine controlată (DOC) și aprobarea deciziilor pentru acordarea dreptului de producere a vinurilor spumante cu denumire de origine controlată (DOC)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76072",
+   "versions": [
+    {
+     "from": "2006-10-20",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76072",
+     "sha256": "b22ffb6b152a1cf1d8c37ed9a6312d6d5d9036c371fb83d020a03ee8b6eea3dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-691-2006",
+   "path": "ordin/agricultura/2006/691",
+   "short": "Ordin agricultura nr. 691/2006",
+   "title": "Ordinul nr. 691/2006 pentru aprobarea modificării limitelor minime ale extractului sec nereducător pentru vinurile cu denumire de origine controlată (DOC-CMD) prevăzute la art. 43 alin. (1) lit. e) pct. 5 și 6 din Normele metodologice de aplicare a Legii viei și vinului în sistemul organizării comune a pieței vitivinicole nr. 244/2002, aprobate prin Hotărârea Guvernului nr. 1.134/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76105",
+   "versions": [
+    {
+     "from": "2006-10-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76105",
+     "sha256": "eb70c0fe0a264e92f9afa25dd987738756211d197e4ca72f1a9afecfc2e76f70"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-70-2006",
+   "path": "ordin/agricultura/2006/70",
+   "short": "Ordin agricultura nr. 70/2006",
+   "title": "Ordinul nr. 70/2006 pentru aprobarea Normelor metodologice privind procedurile de aplicare a sistemului de intervenție pe piața cerealelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69414",
+   "versions": [
+    {
+     "from": "2006-02-28",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69414",
+     "sha256": "d36269da8812519864a92e27996dc1d9dc48087abbd52cb357ca279697f858ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-718-2006",
+   "path": "ordin/agricultura/2006/718",
+   "short": "Ordin agricultura nr. 718/2006",
+   "title": "Ordinul nr. 718/2006 privind aprobarea prețurilor pentru cabalinele trecute în categoria Herghelia Națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76316",
+   "versions": [
+    {
+     "from": "2006-10-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76316",
+     "sha256": "1787e4a6103de3957136de8cc5853d1f6a551cfa1387ea815afb8c357692fa2a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-730-2006",
+   "path": "ordin/agricultura/2006/730",
+   "short": "Ordin agricultura nr. 730/2006",
+   "title": "Ordinul nr. 730/2006 pentru aprobarea radierii soiurilor de soia modificate genetic din Catalogul oficial al soiurilor de plante de cultură din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76715",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76715",
+     "sha256": "e1a71145b12d7afafa22fcecf2a1e4627a61d11dbf2688d81d30ba3e47963036"
     }
    ]
   },
@@ -543,6 +1713,66 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-762-2006",
+   "path": "ordin/agricultura/2006/762",
+   "short": "Ordin agricultura nr. 762/2006",
+   "title": "Ordinul nr. 762/2006 privind aprobarea repartizării sumelor necesare pentru susținerea achiziției de animale de reproducție, pe specii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77020",
+   "versions": [
+    {
+     "from": "2006-11-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77020",
+     "sha256": "b7277d08a669c1ef0054e44231255df4b16c24ecbbf616140e2288be537648e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-765-2006",
+   "path": "ordin/agricultura/2006/765",
+   "short": "Ordin agricultura nr. 765/2006",
+   "title": "Ordinul nr. 765/2006 pentru aprobarea Listei cuprinzând societățile de asigurare și asigurare-reasigurare care practică asigurări pentru culturi agricole, animale, păsări, familii de albine și pești, agreate de Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale, pentru anul agricol 2006-2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77196",
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77196",
+     "sha256": "e2a9b34520c038051ede817a9febaa46452aa0060e348f7d89acab6b450bd9cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-769-2006",
+   "path": "ordin/agricultura/2006/769",
+   "short": "Ordin agricultura nr. 769/2006",
+   "title": "Ordinul nr. 769/2006 pentru aprobarea Metodologiei privind limitarea răspunderii patrimoniale a personalului de pază a pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77333",
+   "versions": [
+    {
+     "from": "2006-12-04",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77333",
+     "sha256": "7aeb684a3e56a433f9f18ffcd7ca3781f9122317f15c7d31f876ba5afc8e9d68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-786-2006",
+   "path": "ordin/agricultura/2006/786",
+   "short": "Ordin agricultura nr. 786/2006",
+   "title": "Ordinul nr. 786/2006 privind aprobarea Listei resurselor genetice animale în stare critică, în pericol de dispariție și a celor vulnerabile, care sunt supuse programelor de conservare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77668",
+   "versions": [
+    {
+     "from": "2006-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77668",
+     "sha256": "083f78d60a741f61be6f23e0ca15f9b0a5f792362bd3a25b16502a46fccbcb53"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-791-2006",
    "path": "ordin/agricultura/2006/791",
    "short": "Ordin agricultura nr. 791/2006",
@@ -554,6 +1784,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78101",
      "sha256": "7b7cdf01a686c2be2a5732251ddbb0ccb4c527b3dbabe8b6983d05cb5b20e06b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-8-2006",
+   "path": "ordin/agricultura/2006/8",
+   "short": "Ordin agricultura nr. 8/2006",
+   "title": "Ordinul nr. 8/2006 pentru aprobarea Regulilor privind testarea și înregistrarea soiurilor de viță-de-vie, pomi fructiferi și plante ornamentale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69413",
+   "versions": [
+    {
+     "from": "2006-03-30",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69413",
+     "sha256": "810967a9706835a7d3ae631525897c13658220b240d6aeef517d78facc90e84c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-803-2006",
+   "path": "ordin/agricultura/2006/803",
+   "short": "Ordin agricultura nr. 803/2006",
+   "title": "Ordinul nr. 803/2006 privind aprobarea formularului de cerere de plată pentru schemele de sprijin pe suprafață pentru anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78131",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78131",
+     "sha256": "2e8ae9f87ba19920b087f1a1f00fbbd7d8dc235a387384bcf50a2a0e60850874"
     }
    ]
   },
@@ -573,6 +1833,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-805-2006",
+   "path": "ordin/agricultura/2006/805",
+   "short": "Ordin agricultura nr. 805/2006",
+   "title": "Ordinul nr. 805/2006 privind aprobarea repartizării pe județe a volumului maxim de lemn pe picior care poate fi recoltat în anul 2007 din pădurile proprietate publică a unităților administrativ-teritoriale, din pădurile proprietate privată a persoanelor juridice de drept privat și a persoanelor fizice și din vegetația forestieră situată pe terenuri din afara fondului forestier național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78553",
+   "versions": [
+    {
+     "from": "2007-01-12",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78553",
+     "sha256": "4bc378c02dd69d41f8deedffda514d6045a88335f26702128f52f28c0460e930"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-81-2006",
+   "path": "ordin/agricultura/2006/81",
+   "short": "Ordin agricultura nr. 81/2006",
+   "title": "Ordinul nr. 81/2006 privind aprobarea structurii serviciilor specifice și a tarifelor prin care se constituie veniturile proprii ale Agenției Naționale de Consultanță Agricolă, a cuantumului tarifelor, precum și a modalităților de încasare și de utilizare a fondurilor pentru anul 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69051",
+   "versions": [
+    {
+     "from": "2006-02-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69051",
+     "sha256": "72adc5c204dbb35964701bcc4787f1e7a13866327c601f03de9a03c2d310cb6a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-810-2006",
    "path": "ordin/agricultura/2006/810",
    "short": "Ordin agricultura nr. 810/2006",
@@ -588,6 +1878,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-816-2006",
+   "path": "ordin/agricultura/2006/816",
+   "short": "Ordin agricultura nr. 816/2006",
+   "title": "Ordinul nr. 816/2006 pentru repartizarea cotelor de producție de zahăr și izoglucoză",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78359",
+   "versions": [
+    {
+     "from": "2006-12-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78359",
+     "sha256": "0171c3d313ec15f662ed98f0294ebbfc92789ff2ffcbcaeeb1c208df1c76334f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-850-2006",
+   "path": "ordin/agricultura/2006/850",
+   "short": "Ordin agricultura nr. 850/2006",
+   "title": "Ordinul nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78080",
+   "versions": [
+    {
+     "from": "2006-12-30",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78080",
+     "sha256": "228dbd59c44c6d275257a00cd4c80304056122bddad4617c05c1cedac6c2457f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-851-2006",
    "path": "ordin/agricultura/2006/851",
    "short": "Ordin agricultura nr. 851/2006",
@@ -599,6 +1919,51 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78496",
      "sha256": "bda7b11510bbc3f6ae6979b22935cf29ef561b47d7d7f31097d6ce7dd5faa7f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-88-2006",
+   "path": "ordin/agricultura/2006/88",
+   "short": "Ordin agricultura nr. 88/2006",
+   "title": "Ordinul nr. 88/2006 pentru aprobarea Normelor metodologice privind atestarea persoanelor fizice și juridice care efectuează proiectarea și/sau execută lucrări de îmbunătățiri funciare din domeniul silvic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69126",
+   "versions": [
+    {
+     "from": "2006-02-20",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69126",
+     "sha256": "886bee098c1b6bdc624d415782334cf0db4f44812feef19fa28aad087e75c4d4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-94-2006",
+   "path": "ordin/agricultura/2006/94",
+   "short": "Ordin agricultura nr. 94/2006",
+   "title": "Ordinul nr. 94/2006 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 1.853/2005 privind sprijinul direct al statului prin acordarea de subvenții, în anul 2006, producătorilor agricoli din sectorul animalier și din sectorul piscicol, precum și a condițiilor de acordare a subvențiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69325",
+   "versions": [
+    {
+     "from": "2006-02-24",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69325",
+     "sha256": "a5d0a26c8a60acb0c16830835c45545d4d60ce81e3289c528dc0df40bf7ac167"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-96-2006",
+   "path": "ordin/agricultura/2006/96",
+   "short": "Ordin agricultura nr. 96/2006",
+   "title": "Ordinul nr. 96/2006 privind aprobarea contractului-tip de cultură a tutunului brut și a modului de înregistrare a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69295",
+   "versions": [
+    {
+     "from": "2006-02-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69295",
+     "sha256": "9f543e30e660ec771822c4b57a3f28e7740778d7d942b56b1ea6dc7a827a3fc5"
     }
    ]
   },
@@ -5478,6 +6843,231 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3142-2006",
+   "path": "ordin/educatie/2006/3142",
+   "short": "Ordin educatie nr. 3142/2006",
+   "title": "Ordinul nr. 3.142/2006 privind aprobarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69290",
+   "versions": [
+    {
+     "from": "2006-02-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69290",
+     "sha256": "c8f2a1772efaeaaf495c388cdaefd1126cf2e1d66f62f880ed1f069487ae97f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3251-2006",
+   "path": "ordin/educatie/2006/3251",
+   "short": "Ordin educatie nr. 3251/2006",
+   "title": "Ordinul nr. 3.251/2006 privind organizarea instruirii practice, pe grupe, în anul școlar 2006-2007, în unitățile de învățământ preuniversitar asistate în cadrul programelor de modernizare a învățământului profesional și tehnic PHARE și în cele implicate în proiectele Ministerului Educației și Cercetării de colaborare bilaterală cu Austria",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69305",
+   "versions": [
+    {
+     "from": "2006-09-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69305",
+     "sha256": "0e7f3db39d3f80db2b1f0565c7571dd640029de583233cbb0084e53c0ead18d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3281-2006",
+   "path": "ordin/educatie/2006/3281",
+   "short": "Ordin educatie nr. 3281/2006",
+   "title": "Ordinul nr. 3.281/2006 privind funcționarea învățământului preuniversitar cu predare simultană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/69396",
+   "versions": [
+    {
+     "from": "2006-09-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69396",
+     "sha256": "1d71f7dd6d52263644681ef730a71789af490525b606273b12ddd854f9671226"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3364-2006",
+   "path": "ordin/educatie/2006/3364",
+   "short": "Ordin educatie nr. 3364/2006",
+   "title": "Ordinul nr. 3.364/2006 pentru aprobarea publicării anexelor nr. 1-19 la Centralizatorul privind disciplinele de învățământ, domeniile și specializările, precum și probele de concurs, valabil pentru încadrarea personalului didactic din învățământul preuniversitar 2006, cuprinzând disciplinele/modulele corespunzătoare profilului posturilor/catedrelor din aria curriculară tehnologii-discipline tehnologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70000",
+   "versions": [
+    {
+     "from": "2006-03-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70000",
+     "sha256": "ece064ae2f3dff5fac0aa277e991369e7e29af8de950b44a2ebc747b2a9e7d60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3418-2006",
+   "path": "ordin/educatie/2006/3418",
+   "short": "Ordin educatie nr. 3418/2006",
+   "title": "Ordinul nr. 3.418/2006 privind aprobarea Metodologiei de organizare și desfășurare a concursului de ocupare a funcțiilor de inspector școlar de specialitate/inspector școlar de la inspectoratele școlare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70203",
+   "versions": [
+    {
+     "from": "2006-03-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70203",
+     "sha256": "8ecf60009b91a72780547b11879aec221449dda6abb0a0e5d11baa72567dfdf5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3568-2006",
+   "path": "ordin/educatie/2006/3568",
+   "short": "Ordin educatie nr. 3568/2006",
+   "title": "Ordinul nr. 3.568/2006 pentru aprobarea Regulamentului privind atribuțiile, competența și funcționarea Consiliului Centrului Național pentru Burse de Studii în Străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/70945",
+   "versions": [
+    {
+     "from": "2006-04-19",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/70945",
+     "sha256": "ddddf4f1c630ac483d4705914a7e3ff525830f6b4f57b202eaa930fad680f152"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3817-2006",
+   "path": "ordin/educatie/2006/3817",
+   "short": "Ordin educatie nr. 3817/2006",
+   "title": "Ordinul nr. 3.817/2006 privind structura anului școlar 2006-2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71979",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71979",
+     "sha256": "2d67854393aad344d7c45d756a5d0ea42454b719ce72cac64da851d6d5cb2a7c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3860-2006",
+   "path": "ordin/educatie/2006/3860",
+   "short": "Ordin educatie nr. 3860/2006",
+   "title": "Ordinul nr. 3.860/2006 privind aprobarea bugetelor de venituri și cheltuieli ale institutelor naționale de cercetare-dezvoltare din coordonarea Autorității Naționale pentru Cercetare Științifică pe anul 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71626",
+   "versions": [
+    {
+     "from": "2006-05-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71626",
+     "sha256": "7b8d011a581a7ddc2fd37c901cf35ac0ce58d94d0d9ce65e6de84fb0c230b882"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3904-2006",
+   "path": "ordin/educatie/2006/3904",
+   "short": "Ordin educatie nr. 3904/2006",
+   "title": "Ordinul nr. 3.904/2006 privind organizarea și funcționarea Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72042",
+   "versions": [
+    {
+     "from": "2006-05-24",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72042",
+     "sha256": "67fe456810cb1d31d5e937ccace2a7472dc46d4770bbc92d533c42e1451a7bc8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3905-2006",
+   "path": "ordin/educatie/2006/3905",
+   "short": "Ordin educatie nr. 3905/2006",
+   "title": "Ordinul nr. 3.905/2006 pentru aplicarea art. 34-37 și 44 din Legea nr. 128/1997 privind Statutul personalului didactic, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72228",
+   "versions": [
+    {
+     "from": "2006-05-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72228",
+     "sha256": "e049525074b2231ef257cc512b5e8bd470b4d42a3f46cd57286093925a5f2e18"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3915-2006",
+   "path": "ordin/educatie/2006/3915",
+   "short": "Ordin educatie nr. 3915/2006",
+   "title": "Ordinul nr. 3.915/2006 privind modul de plată a personalului care face parte din comisiile organizate pentru admiterea absolvenților clasei a VIII-a în învățământul liceal și profesional de stat pentru anul școlar 2006-2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71932",
+   "versions": [
+    {
+     "from": "2006-05-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71932",
+     "sha256": "22625a1b5cbb7844b727b0e573fd69bd9dce3f6126b5700b3d5078d3cc6d1176"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4106-2006",
+   "path": "ordin/educatie/2006/4106",
+   "short": "Ordin educatie nr. 4106/2006",
+   "title": "Ordinul nr. 4.106/2006 privind modificarea anexei la Ordinul ministrului educației și cercetării nr. 4.399/2005 pentru echivalarea funcțiilor și gradelor de cercetare-dezvoltare dobândite anterior intrarii în vigoare a Legii nr. 319/2003 privind Statutul personalului de cercetare-dezvoltare, cu funcțiile corespunzătoare gradelor profesionale de cercetare-dezvoltare stabilite prin Legea nr. 319/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72701",
+   "versions": [
+    {
+     "from": "2006-06-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72701",
+     "sha256": "bc4b61a01f7fd39d0268bee2a0bb0e3761cb652c97865d0038a76fc78d223d5c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4521-2006",
+   "path": "ordin/educatie/2006/4521",
+   "short": "Ordin educatie nr. 4521/2006",
+   "title": "Ordinul nr. 4.521/2006 privind aprobarea Normelor de aplicare a Hotărârii Guvernului nr. 527/2005 privind participarea și contribuția financiară a României la programele de cercetare ale Fundației Europene pentru Știință (ESF)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74677",
+   "versions": [
+    {
+     "from": "2006-08-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74677",
+     "sha256": "f83563a892a8dc9111810e61bce3ba0a876d41f2548568c6de859cdc72e39fc7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4739-2006",
+   "path": "ordin/educatie/2006/4739",
+   "short": "Ordin educatie nr. 4739/2006",
+   "title": "Ordinul nr. 4.739/2006 privind modificarea și completarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea funcțiilor de inspector școlar general/inspector școlar general adjunct din inspectoratele școlare și de director al casei corpului didactic, aprobată prin Ordinul ministrului educației și cercetării nr. 5.351/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73918",
+   "versions": [
+    {
+     "from": "2006-07-31",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73918",
+     "sha256": "9d6e7f2de9e56e644f91bc59a9f734bbc3097a99df05f210b849631c5e8d2f8f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4843-2006",
+   "path": "ordin/educatie/2006/4843",
+   "short": "Ordin educatie nr. 4843/2006",
+   "title": "Ordinul nr. 4.843/2006 privind domeniile pentru studii universitare de doctorat, sistemul de criterii și metodologia de evaluare a instituțiilor de învățământ superior pentru aprobarea organizării studiilor universitare de doctorat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74234",
+   "versions": [
+    {
+     "from": "2006-08-11",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74234",
+     "sha256": "278f5738f0406f8abe25c3ccbbd4757e78377d576c2228b25b66132012635dbb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4844-2006",
    "path": "ordin/educatie/2006/4844",
    "short": "Ordin educatie nr. 4844/2006",
@@ -5489,6 +7079,291 @@
      "units": 53,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74136",
      "sha256": "e2fd9e86e94fa89a6e9fe32bcf37ca5b0f285996a0db5de3b2377d726f6ba47f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4868-2006",
+   "path": "ordin/educatie/2006/4868",
+   "short": "Ordin educatie nr. 4868/2006",
+   "title": "Ordinul nr. 4.868/2006 privind suplimentul la diplomă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74391",
+   "versions": [
+    {
+     "from": "2006-08-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74391",
+     "sha256": "e85c06045997cb3000614aa3e412781cc24580f03116181cdde0d3bc4bb6b280"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4940-2006",
+   "path": "ordin/educatie/2006/4940",
+   "short": "Ordin educatie nr. 4940/2006",
+   "title": "Ordinul nr. 4.940/2006 privind aprobarea Metodologiei de autorizare, suspendare și anulare a autorizației de funcționare a parcului științific și tehnologic și a Procedurii de admitere în parcul științific și tehnologic a agenților economici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75350",
+   "versions": [
+    {
+     "from": "2006-09-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75350",
+     "sha256": "a4054ac7801de16efc0f9dd0def18a68ad39fb7bc586c0166cce6cfb66ede022"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5001-2006",
+   "path": "ordin/educatie/2006/5001",
+   "short": "Ordin educatie nr. 5001/2006",
+   "title": "Ordinul nr. 5.001/2006 privind aprobarea calendarului, a programelor și a metodologiei de organizare și desfășurare a testelor naționale, în vederea accesului absolvenților clasei a VIII-a în clasa a IX-a a anului școlar 2007-2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74761",
+   "versions": [
+    {
+     "from": "2006-09-01",
+     "units": 58,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74761",
+     "sha256": "de581b4ca23846c67fe157bdcddc0f66a90944427b83910d544a1292cebb0bd7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5002-2006",
+   "path": "ordin/educatie/2006/5002",
+   "short": "Ordin educatie nr. 5002/2006",
+   "title": "Ordinul nr. 5.002/2006 privind aprobarea calendarului și a Metodologiei de organizare și desfășurare a examenului de bacalaureat - 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74762",
+   "versions": [
+    {
+     "from": "2006-09-01",
+     "units": 77,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74762",
+     "sha256": "fe5cdf6edf93ae40834d9f143e385383e7d092825d524f12fdea234858b50ad9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5003-2006",
+   "path": "ordin/educatie/2006/5003",
+   "short": "Ordin educatie nr. 5003/2006",
+   "title": "Ordinul nr. 5.003/2006 privind disciplinele și programele pentru examenul de bacalaureat - 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74763",
+   "versions": [
+    {
+     "from": "2006-09-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74763",
+     "sha256": "c1dced9c219fee669d099e927bceffef41acf634b7c4fbf8bba3b2bb868f2429"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5262-2006",
+   "path": "ordin/educatie/2006/5262",
+   "short": "Ordin educatie nr. 5262/2006",
+   "title": "Ordinul nr. 5.262/2006 privind aprobarea Procedurilor de organizare și desfășurare a admiterii în învățământul liceal și profesional de stat pentru anul școlar 2007 - 2008 și a Calendarului admiterii în învățământul liceal și profesional de stat pentru anul școlar 2007 - 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78364",
+   "versions": [
+    {
+     "from": "2006-12-22",
+     "units": 72,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78364",
+     "sha256": "88711b8886c40d7286faabccf173edef5865929ec8bf4cb8f3cfe0c059f3c4bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5337-2006",
+   "path": "ordin/educatie/2006/5337",
+   "short": "Ordin educatie nr. 5337/2006",
+   "title": "Ordinul nr. 5.337/2006 privind aprobarea Codului de etică profesională al experților în evaluare și acreditare ai Agenției Române de Asigurare a Calității în Învățământul Preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76185",
+   "versions": [
+    {
+     "from": "2006-10-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76185",
+     "sha256": "d238941a4bb753a60f1ff802675ae0d8f25e761e827b1cfb25fbce7bddbef649"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5338-2006",
+   "path": "ordin/educatie/2006/5338",
+   "short": "Ordin educatie nr. 5338/2006",
+   "title": "Ordinul nr. 5.338/2006 pentru aprobarea Metodologiei privind criteriile de selecție și de formare a experților înscriși în Registrul Agenției Române de Asigurare a Calității în Învățământul Preuniversitar al experților în evaluare și acreditare și a Programului de formare pentru experții în evaluare și acreditare ai Agenției Române de Asigurare a Calității în Învățământul Preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76198",
+   "versions": [
+    {
+     "from": "2006-10-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76198",
+     "sha256": "5398e0a80a9123b1851b3fcae8d383efa8b2194f196d5c56ceb1c6bfba384b9c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5383-2006",
+   "path": "ordin/educatie/2006/5383",
+   "short": "Ordin educatie nr. 5383/2006",
+   "title": "Ordinul nr. 5.383/2006 pentru modificarea Ordinului ministrului educației și cercetării nr. 4.839/2004 privind criteriile specifice și metodologia de acordare a sprijinului financiar în cadrul Programului național de protecție socială \"Bani de liceu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76349",
+   "versions": [
+    {
+     "from": "2006-10-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76349",
+     "sha256": "e64cfc51ba4eaee564b7faaf63b91aeab68fc5f770fb86f7a9fa4b6192928d22"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5435-2006",
+   "path": "ordin/educatie/2006/5435",
+   "short": "Ordin educatie nr. 5435/2006",
+   "title": "Ordinul nr. 5.435/2006 pentru aprobarea Regulamentului privind acordarea de distincții și premii personalului didactic din învățământul preuniversitar de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79231",
+   "versions": [
+    {
+     "from": "2007-02-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79231",
+     "sha256": "e8a6a9fdf5df1183557bff54c2276f804df3b3afbcccf86d8ae72490a0087caf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5526-2006",
+   "path": "ordin/educatie/2006/5526",
+   "short": "Ordin educatie nr. 5526/2006",
+   "title": "Ordinul nr. 5.526/2006 pentru modificarea și completarea ordinelor ministrului educației și cercetării nr. 5.002/2006 și nr. 5.003/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77509",
+   "versions": [
+    {
+     "from": "2006-12-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77509",
+     "sha256": "6cdd0ae99aa804a21043c4f11a9a8a15856f8f1d975295605a7f48db55bc01aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5601-2006",
+   "path": "ordin/educatie/2006/5601",
+   "short": "Ordin educatie nr. 5601/2006",
+   "title": "Ordinul nr. 5.601/2006 privind aprobarea Calendarului mișcării personalului didactic de predare și pregătire/instruire practică din învățământul preuniversitar pentru anul școlar 2007-2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76792",
+   "versions": [
+    {
+     "from": "2006-11-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76792",
+     "sha256": "f32e22b6c0fa4b5d24ff5940ff35c8a926671a97cbe2c63e25d8e9d9f5291200"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5602-2006",
+   "path": "ordin/educatie/2006/5602",
+   "short": "Ordin educatie nr. 5602/2006",
+   "title": "Ordinul nr. 5.602/2006 pentru aprobarea Metodologiei privind mișcarea personalului didactic de predare și pregătire/instruire practică din învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76793",
+   "versions": [
+    {
+     "from": "2006-11-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76793",
+     "sha256": "52f73739e3c3dd1e50896ffc82efb2fc22ed34ab77800b03280446bbcb793122"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5603-2006",
+   "path": "ordin/educatie/2006/5603",
+   "short": "Ordin educatie nr. 5603/2006",
+   "title": "Ordinul nr. 5.603/2006 privind aprobarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea posturilor didactice/catedrelor declarate vacante în unitățile de învățământ preuniversitar din județele nominalizate în Hotărârea Guvernului nr. 1.942/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76794",
+   "versions": [
+    {
+     "from": "2006-11-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76794",
+     "sha256": "9347a5b8ba190b2be436113b34362f21d326a99c44ca5bd803e22c9378f79a8c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5612-2006",
+   "path": "ordin/educatie/2006/5612",
+   "short": "Ordin educatie nr. 5612/2006",
+   "title": "Ordinul nr. 5.612/2006 privind aprobarea programelor pentru ocuparea posturilor didactice vacante în învățământul preuniversitar la Limba și literatura bulgara - educatoare și învățători, Limba și literatura maghiara materna - educatoare, învățători și profesori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78806",
+   "versions": [
+    {
+     "from": "2007-01-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78806",
+     "sha256": "004d452f79f23d4bbeb012dd230ea644d174a0f95aa0016fc4ba0f8ba504acd2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5617-2006",
+   "path": "ordin/educatie/2006/5617",
+   "short": "Ordin educatie nr. 5617/2006",
+   "title": "Ordinul nr. 5.617/2006 privind modificarea și completarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat, aprobată prin Ordinul ministrului educației și cercetării nr. 3.142/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77549",
+   "versions": [
+    {
+     "from": "2006-12-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77549",
+     "sha256": "0bccd0c1f4827d267c95e5fd9519ac7f4ea410e1ef27adafb298aaaca5941838"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5667-2006",
+   "path": "ordin/educatie/2006/5667",
+   "short": "Ordin educatie nr. 5667/2006",
+   "title": "Ordinul nr. 5.667/2006 privind aprobarea Atestatului de pregătire psihopedagogică și a Certificatului de acordare a gradelor didactice pentru maiștrii-instructori și antrenorii din învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77566",
+   "versions": [
+    {
+     "from": "2006-12-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77566",
+     "sha256": "a26ac7c5e2b53df681714569a3e453e39b03d0475740d45529c8efc339f7dcbf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5669-2006",
+   "path": "ordin/educatie/2006/5669",
+   "short": "Ordin educatie nr. 5669/2006",
+   "title": "Ordinul nr. 5.669/2006 privind aprobarea Metodologiei și a criteriilor de acordare a gradației de merit și a salariului de merit în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77653",
+   "versions": [
+    {
+     "from": "2006-12-12",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77653",
+     "sha256": "3f0e446028bd4881a8e8a6cb8f2bbbae4c65a0b6d7d9ccadff9f8b42fa279fac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5771-2006",
+   "path": "ordin/educatie/2006/5771",
+   "short": "Ordin educatie nr. 5771/2006",
+   "title": "Ordinul nr. 5.771/2006 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Național al Cercetării Științifice din Învățământul Superior (C.N.C.S.I.S.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78301",
+   "versions": [
+    {
+     "from": "2007-01-04",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78301",
+     "sha256": "f3bf0b0e87fbac405b3a3030c1901ea27551aac20318e928fe6621eaf2c23323"
     }
    ]
   },
@@ -5621,7 +7496,7 @@
    "versions": [
     {
      "from": "2006-07-11",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73375",
      "sha256": "fa9e1484f7c2e7af57748f4f303452e2256c6da6bc1bd667e3a2cc03dff1567c"
     }
@@ -5771,7 +7646,7 @@
    "versions": [
     {
      "from": "2006-08-24",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74662",
      "sha256": "933c33b7e341746e383fb6e65ade8357cd312d4d3d56359554d13dd96bfefea3"
     }
@@ -5801,7 +7676,7 @@
    "versions": [
     {
      "from": "2006-09-12",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75047",
      "sha256": "fb0e3f98b6fa124290b14999baa0453b50522c52ff2056842b16c8ec520e0000"
     }
@@ -5861,7 +7736,7 @@
    "versions": [
     {
      "from": "2006-02-06",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68692",
      "sha256": "8ff3f42b959431c2eb9ac5cc3d8255168628c31962aa0dcfcfe62ab5b8f3d0f7"
     }
@@ -5891,7 +7766,7 @@
    "versions": [
     {
      "from": "2006-12-27",
-     "units": 18,
+     "units": 46,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78173",
      "sha256": "4f770b439a4c90254878640a08b10176e631999ce1a81b3445687231ce5bb399"
     }
@@ -5996,7 +7871,7 @@
    "versions": [
     {
      "from": "2006-02-21",
-     "units": 4,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69133",
      "sha256": "5903ce7bf05860e925bff488159a98da911f0df54a841854133c5b531cb84714"
     }
@@ -6026,7 +7901,7 @@
    "versions": [
     {
      "from": "2007-01-01",
-     "units": 17,
+     "units": 19,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76433",
      "sha256": "d83521936c3783f4c3ab1c6005338c4fab8de8c42ac25c776719e030ef205b81"
     }
@@ -6131,7 +8006,7 @@
    "versions": [
     {
      "from": "2006-11-27",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77160",
      "sha256": "ce6a7274dc317defebab5c5b9372e01abe9839b6e92de927746667f737adc87e"
     }
@@ -6236,7 +8111,7 @@
    "versions": [
     {
      "from": "2006-12-29",
-     "units": 9,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78129",
      "sha256": "4ef7ffc2da34133f59cef32b090e27a09ea4f2ee1d9a9ed4acc2f653070ff176"
     }
@@ -6281,7 +8156,7 @@
    "versions": [
     {
      "from": "2007-01-03",
-     "units": 10,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78288",
      "sha256": "d1ad50ca1f345b4322c8f3379faa0364c3b7bdff20121e4ddf17d34b5e488340"
     }
@@ -6311,7 +8186,7 @@
    "versions": [
     {
      "from": "2007-01-31",
-     "units": 10,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79131",
      "sha256": "3f168121bbfa40c2fa8ee0f01b03ed488da7b2ea61e19624413c72a97c4a4a74"
     }
@@ -6356,7 +8231,7 @@
    "versions": [
     {
      "from": "2007-01-01",
-     "units": 6,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78114",
      "sha256": "75d4015d35f0bebc3fbaac0cdadde08b2f82ccd68cccc144d8cd1185bacf1a5f"
     }
@@ -6731,7 +8606,7 @@
    "versions": [
     {
      "from": "2006-05-24",
-     "units": 53,
+     "units": 57,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72041",
      "sha256": "808501b0d91ca370cb3a1d03e66c13b1fd1927c271fc40a9e0cd5625129a1656"
     }
@@ -6806,7 +8681,7 @@
    "versions": [
     {
      "from": "2006-08-16",
-     "units": 12,
+     "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74325",
      "sha256": "1aa45c889fb9570023daae970c79fedd9fdb50032a77ff9812b58df08d063b79"
     }
@@ -6821,7 +8696,7 @@
    "versions": [
     {
      "from": "2006-06-15",
-     "units": 8,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72653",
      "sha256": "e254a46878b728626ef6eab8ee0bf2d02dee25654468ebdc9ec2749d4d702def"
     }
@@ -6881,7 +8756,7 @@
    "versions": [
     {
      "from": "2006-06-15",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72662",
      "sha256": "4b8363bf6ed98a46ab0dfbb82f8fa7e58a41c5b20044082fe88f830d556aa965"
     }
@@ -9716,7 +11591,7 @@
    "versions": [
     {
      "from": "2006-10-25",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76224",
      "sha256": "e8407b57db2b5a683489647d7a597190b1460601ef9493c2d9bf7a21e9dbe884"
     }
@@ -10331,7 +12206,7 @@
    "versions": [
     {
      "from": "2007-01-09",
-     "units": 21,
+     "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78551",
      "sha256": "4318f58115c55d6e17e82ff7d9fe78268d583b1068e1dfd6149e1f3189bb4f75"
     }
@@ -11621,7 +13496,7 @@
    "versions": [
     {
      "from": "2006-09-06",
-     "units": 16,
+     "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74963",
      "sha256": "7fbc001089b3de2b8249af44695af6a472b753503ea8c5d325d3c4d6d1624694"
     }
@@ -11666,7 +13541,7 @@
    "versions": [
     {
      "from": "2006-02-23",
-     "units": 30,
+     "units": 32,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/69260",
      "sha256": "53101633260182c68e7ee4a10e3d96f850a18a8d4117b1c9ef4a9aead8c4d57f"
     }

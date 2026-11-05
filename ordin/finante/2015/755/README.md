@@ -2,12 +2,16 @@
 
 Ordin finante nr. 755/2015 · 1 versions, from 2015-06-28 (latest in force: 2015-06-28) · <https://legislatie.just.ro/Public/DetaliiDocument/169191>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 (Anexa A la regulament) COMPANIA NAȚIONALĂ COMISIA DE TRAGERE LOTERIA ROMÂNĂ" - S.A. LOTERIA BONURILOR FISCALE PROCES-VERBAL pentru consemnarea referatelor ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 (Anexa A^1 la regulament) COMPANIA NAȚIONALĂ COMISIA DE TRAGERE LOTERIA ROMÂNĂ" - S.A. LOTERIA BONURILOR FISCALE PROCES-VERBAL pentru consemnarea numărului ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. I | [art-001.md](art-001.md) | 0 |  |
 | Art. II | [art-002.md](art-002.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
 Act id: `ordin-finante-755-2015` (tags `ordin-finante-755-2015/<day>`; `python tools/on.py <day> ordin-finante-755-2015`).
 
@@ -17,5 +21,5 @@ Act id: `ordin-finante-755-2015` (tags `ordin-finante-755-2015/<day>`; `python t
 - Ordin finante nr. 755/2015: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin finante nr. 755/2015: the first version is the order as published in Monitorul Oficial nr. 463 of 26 June 2015 (document 169191 of the official web service), in force on 28 June 2015, the day it states for itself.
 - Ordin finante nr. 755/2015: the signatures and the place and date line after its last article are not article text.
-- Ordin finante nr. 755/2015: Anexa nr. 1 (1 (Anexa A la regulament) COMPANIA NAȚIONALĂ COMISIA DE TRAGERE LOTERIA ROMÂNĂ" - S.A. LOTERIA BONURILOR FISCALE PROCES-VERBAL pentru consemnarea referatelor ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin finante nr. 755/2015: Anexa nr. 2 (2 (Anexa A^1 la regulament) COMPANIA NAȚIONALĂ COMISIA DE TRAGERE LOTERIA ROMÂNĂ" - S.A. LOTERIA BONURILOR FISCALE PROCES-VERBAL pentru consemnarea numărului ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 755/2015: Anexa nr. 1 (1 (Anexa A la regulament) COMPANIA NAȚIONALĂ COMISIA DE TRAGERE LOTERIA ROMÂNĂ" - S.A. LOTERIA BONURILOR FISCALE PROCES-VERBAL pentru consemnarea referatelor tragerilor aferente Loteriei bonurilor fis) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 169191 of the official web service.
+- Ordin finante nr. 755/2015: Anexa nr. 2 (2 (Anexa A^1 la regulament) COMPANIA NAȚIONALĂ COMISIA DE TRAGERE LOTERIA ROMÂNĂ" - S.A. LOTERIA BONURILOR FISCALE PROCES-VERBAL pentru consemnarea numărului unic de înregistrare atribuit bonurilor fi) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 169191 of the official web service.

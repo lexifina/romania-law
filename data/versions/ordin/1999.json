@@ -1038,6 +1038,81 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3264-1999",
+   "path": "ordin/educatie/1999/3264",
+   "short": "Ordin educatie nr. 3264/1999",
+   "title": "Ordinul nr. 3.264/1999 pentru aprobarea Normelor metodologice de încadrare a personalului didactic, didactic auxiliar și nedidactic în casele corpului didactic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17780",
+   "versions": [
+    {
+     "from": "1999-04-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17780",
+     "sha256": "e0b3f0373d24bebc177065dd4f2d655e59492d13c2f227af1b18eacaa5384946"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3509-1999",
+   "path": "ordin/educatie/1999/3509",
+   "short": "Ordin educatie nr. 3509/1999",
+   "title": "Ordinul nr. 3.509/1999 privind organizarea examenului de licența pentru specializările autorizate să funcționeze provizoriu (care nu sunt acreditate)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18568",
+   "versions": [
+    {
+     "from": "1999-06-29",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18568",
+     "sha256": "9f14a266a69529d564097ab3593ebd4e169f96006b053d36661881952d8e9d7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4863-1999",
+   "path": "ordin/educatie/1999/4863",
+   "short": "Ordin educatie nr. 4863/1999",
+   "title": "Ordinul nr. 4.863/1999 privind aprobarea Metodologiei formării continue a personalului didactic din învățământul preuniversitar începând cu anul școlar 1999/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19956",
+   "versions": [
+    {
+     "from": "1999-11-19",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19956",
+     "sha256": "a2452128cee49e15fb1ca8deeab33f3c19c70cd9f4168f6f906a5fada10f90d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5036-1999",
+   "path": "ordin/educatie/1999/5036",
+   "short": "Ordin educatie nr. 5036/1999",
+   "title": "Ordinul nr. 5.036/1999 privind aprobarea Regulamentului de organizare și funcționare a Agenției Manageriale de Cercetare Științifică, Inovare și Transfer Tehnologic - Politehnica (AMCSIT - Politehnica)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21194",
+   "versions": [
+    {
+     "from": "2000-02-28",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21194",
+     "sha256": "f308a6bef253f43837628e7ec1889a763539b2a3d59b6f3f44d7193b2af479cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5124-1999",
+   "path": "ordin/educatie/1999/5124",
+   "short": "Ordin educatie nr. 5124/1999",
+   "title": "Ordinul nr. 5.124/1999 privind examenul de finalizare a studiilor în învățământul superior de scurta și lungă durata",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20554",
+   "versions": [
+    {
+     "from": "2000-01-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20554",
+     "sha256": "b20668bfe8d46689dc35fec485b205e232f99db6f2e351efdd4012838aec2409"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1042-1999",
    "path": "ordin/finante/1999/1042",
    "short": "Ordin finante nr. 1042/1999",
@@ -1121,7 +1196,7 @@
    "versions": [
     {
      "from": "1999-10-25",
-     "units": 12,
+     "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19681",
      "sha256": "a74be9ef0d604101b05a3ffcecb2f7480bb925f11b4f22f2684730af91cf211f"
     }
@@ -1376,7 +1451,7 @@
    "versions": [
     {
      "from": "2000-01-11",
-     "units": 18,
+     "units": 42,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20563",
      "sha256": "d93a93d8b8563e00be11acb4d522cdd039f4ba6c4e4e02c448cbbf2e78b9679c"
     }
@@ -1406,7 +1481,7 @@
    "versions": [
     {
      "from": "2000-02-11",
-     "units": 24,
+     "units": 28,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20921",
      "sha256": "570089f76cb7363f472f129663336328f73a1ce3f8181951975388159006dd8a"
     }

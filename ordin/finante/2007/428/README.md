@@ -2,7 +2,7 @@
 
 Ordin finante nr. 428/2007 · 1 versions, from 2007-06-25 (latest in force: 2007-06-25) · <https://legislatie.just.ro/Public/DetaliiDocument/83138>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 7 (1g): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,6 +22,8 @@ Ordin finante nr. 428/2007 · 1 versions, from 2007-06-25 (latest in force: 2007
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 | Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
 | Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
+| Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
+| Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
 
 Act id: `ordin-finante-428-2007` (tags `ordin-finante-428-2007/<day>`; `python tools/on.py <day> ordin-finante-428-2007`).
 
@@ -37,4 +39,4 @@ Act id: `ordin-finante-428-2007` (tags `ordin-finante-428-2007/<day>`; `python t
 - Ordin finante nr. 428/2007: Anexa nr. 4 (1c) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 83138 of the official web service.
 - Ordin finante nr. 428/2007: Anexa nr. 5 (1d) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 83138 of the official web service.
 - Ordin finante nr. 428/2007: Anexa nr. 6 (1e) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 83138 of the official web service.
-- Ordin finante nr. 428/2007: Anexa nr. 7 (1g) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 428/2007: Anexa nr. 7 (1g) is part of the order and is published in its folder, anexa-7/ (paragraphs and tables), from document 83138 of the official web service.

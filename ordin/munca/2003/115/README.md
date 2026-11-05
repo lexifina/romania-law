@@ -2,7 +2,7 @@
 
 Ordin munca nr. 115/2003 · 1 versions, from 2003-05-06 (latest in force: 2003-05-06) · <https://legislatie.just.ro/Public/DetaliiDocument/43639>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (MODEL RAPORT DE ACTIVITATE PE ULTIMII 3 ANI a asociației, fundației sau federației care solicita acordarea statutului de utilitate publică 1. DATE PRIVIND ...): it is a table that the official text holds only flattened; Anexa nr. 4 (la Raportul de activitate pe ultimii 3 ani FIȘA NR.: PRIVIND ACTIVITĂȚILE ÎN INTERES GENERAL ȘI/SAU COMUNITAR DESFĂȘURATE Se completează pentru fiecare ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,6 +20,10 @@ Ordin munca nr. 115/2003 · 1 versions, from 2003-05-06 (latest in force: 2003-0
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 
@@ -33,6 +37,6 @@ Act id: `ordin-munca-115-2003` (tags `ordin-munca-115-2003/<day>`; `python tools
 - Ordin munca nr. 115/2003: the signatures and the place and date line after its last article are not article text.
 - Ordin munca nr. 115/2003: Anexa nr. 1 (CRITERII din 9 aprilie 2003 specifice de acordare a statutului de utilitate publică) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 43640 of the official web service.
 - Ordin munca nr. 115/2003: Anexa nr. 2 (Lista documentelor solicitate asociațiilor, fundațiilor și federațiilor în vederea recunoașterii ca fiind de utilitate publică 1. Raportul de activitate pe ultimii 3 ani, în conformitate cu modelul pr) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 43639 of the official web service.
+- Ordin munca nr. 115/2003: Anexa nr. 3 (MODEL RAPORT DE ACTIVITATE PE ULTIMII 3 ANI a asociației, fundației sau federației care solicita acordarea statutului de utilitate publică 1. DATE PRIVIND ASOCIAȚIA/FUNDAȚIA/FEDERAȚIA DENUMIREA ASOCIA) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 43639 of the official web service.
+- Ordin munca nr. 115/2003: Anexa nr. 4 (la Raportul de activitate pe ultimii 3 ani FIȘA NR.: PRIVIND ACTIVITĂȚILE ÎN INTERES GENERAL ȘI/SAU COMUNITAR DESFĂȘURATE Se completează pentru fiecare activitate 1. Denumirea activității 2. Scop: 3.) is part of the order and is published in its folder, anexa-4/ (paragraphs and tables), from document 43639 of the official web service.
 - Ordin munca nr. 115/2003: Anexa nr. 5 (REGULAMENT din 9 aprilie 2003 pentru evaluarea de către direcțiile generale de muncă și solidaritate socială teritoriale în vederea acordării statutului de utilitate publică) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 43641 of the official web service.
-- Ordin munca nr. 115/2003: Anexa nr. 3 (MODEL RAPORT DE ACTIVITATE PE ULTIMII 3 ANI a asociației, fundației sau federației care solicita acordarea statutului de utilitate publică 1. DATE PRIVIND ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin munca nr. 115/2003: Anexa nr. 4 (la Raportul de activitate pe ultimii 3 ani FIȘA NR.: PRIVIND ACTIVITĂȚILE ÎN INTERES GENERAL ȘI/SAU COMUNITAR DESFĂȘURATE Se completează pentru fiecare ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

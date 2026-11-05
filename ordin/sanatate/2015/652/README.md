@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 652/2015 · 1 versions, from 2015-06-08 (latest in force: 2015-06-08) · <https://legislatie.just.ro/Public/DetaliiDocument/168610>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 Calendar privind organizarea și desfășurarea examenului de grad principal, sesiunea 2015 *Font 8* ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -12,6 +12,8 @@ Ordin sanatate nr. 652/2015 · 1 versions, from 2015-06-08 (latest in force: 201
 | Art. 4 | [art-004.md](art-004.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
 Act id: `ordin-sanatate-652-2015` (tags `ordin-sanatate-652-2015/<day>`; `python tools/on.py <day> ordin-sanatate-652-2015`).
 
@@ -22,4 +24,4 @@ Act id: `ordin-sanatate-652-2015` (tags `ordin-sanatate-652-2015/<day>`; `python
 - Ordin sanatate nr. 652/2015: the first version is the order as published in Monitorul Oficial nr. 400 of 8 June 2015 (document 168610 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 652/2015: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 652/2015: Anexa nr. 1 (1 NORMA 21/05/2015) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 168610 of the official web service.
-- Ordin sanatate nr. 652/2015: Anexa nr. 2 (2 Calendar privind organizarea și desfășurarea examenului de grad principal, sesiunea 2015 *Font 8* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 652/2015: Anexa nr. 2 (2 Calendar privind organizarea și desfășurarea examenului de grad principal, sesiunea 2015 *Font 8*) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 168610 of the official web service.

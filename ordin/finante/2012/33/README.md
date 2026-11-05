@@ -2,7 +2,7 @@
 
 Ordin finante nr. 33/2012 · 1 versions, from 2012-01-16 (latest in force: 2012-01-16) · <https://legislatie.just.ro/Public/DetaliiDocument/134550>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 MINISTERUL FINANȚELOR PUBLICE SIGLA AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ SIGLA MFP Direcția Generală a Finanțelor Publice a........ ANAF Administrația ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -16,6 +16,8 @@ Ordin finante nr. 33/2012 · 1 versions, from 2012-01-16 (latest in force: 2012-
 | Art. 8 | [art-008.md](art-008.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
@@ -28,5 +30,5 @@ Act id: `ordin-finante-33-2012` (tags `ordin-finante-33-2012/<day>`; `python too
 - Ordin finante nr. 33/2012: the first version is the order as published in Monitorul Oficial nr. 33 of 16 January 2012 (document 134550 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin finante nr. 33/2012: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 33/2012: Anexa nr. 1 (1 PROCEDURA de certificare a declarației privind nedeductibilitatea TVA aferente cheltuielilor cuprinse în cererea de rambursare 1. Prezenta procedură se aplică persoanelor care solicită autorității d) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 134550 of the official web service; the service's copy of it as a document of its own (134551) reads the same words.
+- Ordin finante nr. 33/2012: Anexa nr. 2 (2 MINISTERUL FINANȚELOR PUBLICE SIGLA AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ SIGLA MFP Direcția Generală a Finanțelor Publice a........ ANAF Administrația Finanțelor Publice a.............. Adresa) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 134550 of the official web service.
 - Ordin finante nr. 33/2012: Anexa nr. 3 (3 CARACTERISTICILE DE TIPĂRIRE, modul de utilizare și de păstrare a formularului "Certificat privind nedeductibilitatea TVA aferente cheltuielilor cuprinse în cererea de rambursare" Denumirea formular) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 134550 of the official web service.
-- Ordin finante nr. 33/2012: Anexa nr. 2 (2 MINISTERUL FINANȚELOR PUBLICE SIGLA AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ SIGLA MFP Direcția Generală a Finanțelor Publice a........ ANAF Administrația ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

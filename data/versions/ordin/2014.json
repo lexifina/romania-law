@@ -3,6 +3,36 @@
  "shard": "ordin/2014",
  "acts": [
   {
+   "slug": "ordin-agricultura-1090-2014",
+   "path": "ordin/agricultura/2014/1090",
+   "short": "Ordin agricultura nr. 1090/2014",
+   "title": "Ordinul nr. 1.090/2014 privind recunoașterea Acordului interprofesional pentru sfecla de zahăr - recolta anului de comercializare 2014/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160144",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160144",
+     "sha256": "0fdfa6fbe7d3790c3b8e8fd2f459fcc8d936c5e725b0fa96162e1772be512141"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1186-2014",
+   "path": "ordin/agricultura/2014/1186",
+   "short": "Ordin agricultura nr. 1186/2014",
+   "title": "Ordinul nr. 1.186/2014 pentru aprobarea normelor tehnice de implementare a Normelor metodologice pentru aplicarea prevederilor Legii nr. 297/2013 privind stabilirea relațiilor contractuale din sectorul laptelui și al produselor lactate, precum și recunoașterea organizațiilor de producători din sectorul laptelui și al produselor lactate, aprobate prin Hotărârea Guvernului nr. 441/2014, referitoare la condițiile specifice care trebuie îndeplinite de organizațiile de producători din sectorul laptelui și al produselor lactate/asociațiile organizațiilor de producători în relațiile contractuale, precum și la criteriile tehnice necesare recunoașterii acestora în vederea negocierilor prevăzute prin Regulamentul (UE) nr. 1.308/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 de instituire a unei organizări comune a piețelor produselor agricole și de abrogare a Regulamentelor (CEE) nr. 922/72, (CEE) nr. 234/79, (CE) nr. 1.037/2001 și (CE) nr. 1.234/2007 ale Consiliului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160257",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160257",
+     "sha256": "445f3da44b727b0965605f5048d785259757f0760b0dee85d0c18b24bc412a14"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1281-2014",
    "path": "ordin/agricultura/2014/1281",
    "short": "Ordin agricultura nr. 1281/2014",
@@ -14,6 +44,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161034",
      "sha256": "46d0ea3dc20e57135c2f3ac821c7bfd4d7bd9314d8923600cab8cc48046d82ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1329-2014",
+   "path": "ordin/agricultura/2014/1329",
+   "short": "Ordin agricultura nr. 1329/2014",
+   "title": "Ordinul nr. 1.329/2014 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de asigurare a recoltei de struguri pentru vin, eligibilă pentru finanțare în cadrul Programului național de sprijin al României în sectorul vitivinicol 2014-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161028",
+   "versions": [
+    {
+     "from": "2014-09-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161028",
+     "sha256": "4f19a3093c14ad93796d669f29bacb2db8eb03bd7d7d0a14a7573ec2694a1587"
     }
    ]
   },
@@ -63,6 +108,141 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1426-2014",
+   "path": "ordin/agricultura/2014/1426",
+   "short": "Ordin agricultura nr. 1426/2014",
+   "title": "Ordinul nr. 1.426/2014 privind aprobarea Normelor metodologice pentru elaborarea protocoalelor de transmitere/predare-preluare a infrastructurii de îmbunătățiri funciare din domeniul public sau privat al statului de la Agenția Națională de Îmbunătățiri Funciare la organizația de îmbunătățiri funciare sau federația de organizații de îmbunătățiri funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162118",
+   "versions": [
+    {
+     "from": "2014-10-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162118",
+     "sha256": "13652049e4f26aa9db2e1f48fc31dfc6f4482a36c37720acde88a8e71c80d454"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1438-2014",
+   "path": "ordin/agricultura/2014/1438",
+   "short": "Ordin agricultura nr. 1438/2014",
+   "title": "Ordinul nr. 1.438/2014 privind aprobarea sistemelor de sancțiuni pentru măsura 215 \"Plăți privind bunăstarea animalelor\" din cadrul Programului Național de Dezvoltare Rurală 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161940",
+   "versions": [
+    {
+     "from": "2014-10-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161940",
+     "sha256": "7b23ef446943e2535e7239501bf5107d8d28c8dc5ed2597942330d98ab129f0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1456-2014",
+   "path": "ordin/agricultura/2014/1456",
+   "short": "Ordin agricultura nr. 1456/2014",
+   "title": "Ordinul nr. 1.456/2014 pentru aprobarea încheierii convențiilor privind finanțarea schemei decuplate de producție în sectorul carne din cadrul ajutoarelor naționale tranzitorii, la specia bovine, precum și a cuantumului de plată înscris în adeverință",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161647",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161647",
+     "sha256": "2440db2e1400524e58e0b0f248cbb2620ade21cc8fce847b577190479664301d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1463-2014",
+   "path": "ordin/agricultura/2014/1463",
+   "short": "Ordin agricultura nr. 1463/2014",
+   "title": "Ordinul nr. 1.463/2014 privind desemnarea organismului de inspecție a echipamentelor de aplicare a produselor de protecție a plantelor și responsabilitățile acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162225",
+   "versions": [
+    {
+     "from": "2014-10-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162225",
+     "sha256": "33af88f00ab3543ef839f960ab956be2f5e84ed1aaf63178d2d23ec0f2460dd9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1468-2014",
+   "path": "ordin/agricultura/2014/1468",
+   "short": "Ordin agricultura nr. 1468/2014",
+   "title": "Ordinul nr. 1.468/2014 pentru aprobarea cantităților de motorină aferente trimestrului II - 2014, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162130",
+   "versions": [
+    {
+     "from": "2014-10-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162130",
+     "sha256": "a0abe9b8045f01481b6a241508ad6620e0f31aaecaa786cd57471726c714037e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1470-2014",
+   "path": "ordin/agricultura/2014/1470",
+   "short": "Ordin agricultura nr. 1470/2014",
+   "title": "Ordinul nr. 1.470/2014 pentru aprobarea Listei obiectivelor de investiții pentru care se acordă microcredite potrivit art. 14 alin. (1) lit. a) din Ordonanța de urgență a Guvernului nr. 43/2013 privind unele măsuri pentru dezvoltarea și susținerea fermelor de familie și facilitarea accesului la finanțare al fermierilor, în anul 2014, și criteriilor tehnice necesare microcreditării în condițiile art. 14 alin. (1) lit. c) din același act normativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161949",
+   "versions": [
+    {
+     "from": "2014-10-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161949",
+     "sha256": "180cc3e130b4f68f0efaae0a23e087312906634a88431f1462e556f7c74ddcf5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1472-2014",
+   "path": "ordin/agricultura/2014/1472",
+   "short": "Ordin agricultura nr. 1472/2014",
+   "title": "Ordinul nr. 1.472/2014 pentru aprobarea încheierii convențiilor privind finanțarea schemei cuplate de producție în sectorul ovine/caprine din cadrul ajutoarelor naționale tranzitorii, precum și a cuantumului de plată înscris în adeverință",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161797",
+   "versions": [
+    {
+     "from": "2014-10-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161797",
+     "sha256": "5033caf21e763ef5f0c4672e0f777c93f77cfe7bceb5274584d500c7fa65a55a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1505-2014",
+   "path": "ordin/agricultura/2014/1505",
+   "short": "Ordin agricultura nr. 1505/2014",
+   "title": "Ordinul nr. 1.505/2014 pentru aprobarea denumirii, sediului și competenței teritoriale a unităților de administrare din alcătuirea filialelor de îmbunătățiri funciare ale Agenției Naționale de Îmbunătățiri Funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162167",
+   "versions": [
+    {
+     "from": "2014-10-15",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162167",
+     "sha256": "18d2f3deac12ee74d8c079886dc23cc879f37195b555bc163c2ea12fbe7695e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1510-2014",
+   "path": "ordin/agricultura/2014/1510",
+   "short": "Ordin agricultura nr. 1510/2014",
+   "title": "Ordinul nr. 1.510/2014 pentru stabilirea unor măsuri excepționale cu caracter temporar de sprijinire a producătorilor din sectorul fructe și legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161958",
+   "versions": [
+    {
+     "from": "2014-10-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161958",
+     "sha256": "8e4c25f674d218c9ad70848ae8436d9d3ff8d91b58bb592d8016ab1274931f77"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1541-2014",
    "path": "ordin/agricultura/2014/1541",
    "short": "Ordin agricultura nr. 1541/2014",
@@ -78,6 +258,96 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1562-2014",
+   "path": "ordin/agricultura/2014/1562",
+   "short": "Ordin agricultura nr. 1562/2014",
+   "title": "Ordinul nr. 1.562/2014 pentru aprobarea Procedurii de retragere sub control a subproduselor vitivinicole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162329",
+   "versions": [
+    {
+     "from": "2014-10-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162329",
+     "sha256": "0688f3f117555eda47ea4bb48a2fda64a12fc039743ab64a2ef7cd1d3a21f9fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1573-2014",
+   "path": "ordin/agricultura/2014/1573",
+   "short": "Ordin agricultura nr. 1573/2014",
+   "title": "Ordinul nr. 1.573/2014 privind controlul oficial al calității semințelor prin testarea soiurilor nemodificate genetic privind impurificarea cu organisme modificate genetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162634",
+   "versions": [
+    {
+     "from": "2015-06-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162634",
+     "sha256": "79bf10876fc052ac75769f251a1eb9f7a8eb383bc3082142836ad86d1bc6be1f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1588-2014",
+   "path": "ordin/agricultura/2014/1588",
+   "short": "Ordin agricultura nr. 1588/2014",
+   "title": "Ordinul nr. 1.588/2014 privind aprobarea tarifelor pentru efectuarea analizelor și examenelor de laborator, în vederea depistării și identificării organismelor dăunătoare plantelor și produselor vegetale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162490",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162490",
+     "sha256": "d5c3572ae8ed82e24b7e91f4b79b30c918a11bf303b4abcd5a53eee16de6299f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1600-2014",
+   "path": "ordin/agricultura/2014/1600",
+   "short": "Ordin agricultura nr. 1600/2014",
+   "title": "Ordinul nr. 1.600/2014 pentru stabilirea unor măsuri excepționale suplimentare cu caracter temporar pentru producătorii din sectorul fructe și legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162452",
+   "versions": [
+    {
+     "from": "2014-10-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162452",
+     "sha256": "6e7294b3ff8b001455828b8671944aeda1095f04f2ca47d0094c945c417537a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1763-2014",
+   "path": "ordin/agricultura/2014/1763",
+   "short": "Ordin agricultura nr. 1763/2014",
+   "title": "Ordinul nr. 1.763/2014 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de restructurare/reconversie a plantațiilor viticole, eligibilă pentru finanțare în cadrul Programului Național de Sprijin al României în sectorul vitivinicol 2014-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162962",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162962",
+     "sha256": "d1e953851d09db5389bc96e1d80babb066fd41703c422831358ca8319e8fc96f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1801-2014",
+   "path": "ordin/agricultura/2014/1801",
+   "short": "Ordin agricultura nr. 1801/2014",
+   "title": "Ordinul nr. 1.801/2014 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de investiții, eligibilă pentru finanțare în cadrul Programului național de sprijin al României în sectorul vitivinicol 2014-2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163144",
+   "versions": [
+    {
+     "from": "2014-11-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163144",
+     "sha256": "c784b9fc5a087d8e3e56f507eb7050cea4ccf104817024f9cb9941c7111020b3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1846-2014",
    "path": "ordin/agricultura/2014/1846",
    "short": "Ordin agricultura nr. 1846/2014",
@@ -89,6 +359,51 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163578",
      "sha256": "864307bb32f74c844e8427ca7c3fe490ec8b79e500920f34d379413134057889"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1900-2014",
+   "path": "ordin/agricultura/2014/1900",
+   "short": "Ordin agricultura nr. 1900/2014",
+   "title": "Ordinul nr. 1.900/2014 pentru aprobarea cantităților de motorină aferente trimestrului III - 2014, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163997",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163997",
+     "sha256": "51a08788dc57f8fd3f346587d2c1eda1417cb713d1ff1f120b2a07bb383ca475"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1946-2014",
+   "path": "ordin/agricultura/2014/1946",
+   "short": "Ordin agricultura nr. 1946/2014",
+   "title": "Ordinul nr. 1.946/2014 pentru aprobarea Procedurii privind modul de realizare a notificării produselor finite pe bază de plante medicinale, aromatice și produse ale stupului care se notifică de către operatorii din domeniu și se încadrează ca suplimente alimentare, produse de uz intern sau extern, exclusiv produsele cosmetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164195",
+   "versions": [
+    {
+     "from": "2014-12-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164195",
+     "sha256": "30450735871e3662f9f942875d817025231cda2ff9f4d41df46c18d6bba0d385"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1977-2014",
+   "path": "ordin/agricultura/2014/1977",
+   "short": "Ordin agricultura nr. 1977/2014",
+   "title": "Ordinul nr. 1.977/2014 pentru aprobarea componenței Comitetului consultativ pentru sectorul pescăresc și a regulamentului de organizare și funcționare a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164437",
+   "versions": [
+    {
+     "from": "2015-01-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164437",
+     "sha256": "eee21b020f41137ed287167cc776b2dc18e15174399a276f0dfd9db09038aad8"
     }
    ]
   },
@@ -123,6 +438,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-258-2014",
+   "path": "ordin/agricultura/2014/258",
+   "short": "Ordin agricultura nr. 258/2014",
+   "title": "Ordinul nr. 258/2014 privind aprobarea sistemelor de sancțiuni pentru măsura 215 \"Plăți privind bunăstarea animalelor - pachet b) - păsări\" din Programul Național de Dezvoltare Rurală 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155668",
+   "versions": [
+    {
+     "from": "2014-02-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155668",
+     "sha256": "14c45303e0ff2ca14331ca45721791d7433c28bd755f334f48bb5af26c2ccb83"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-273-2014",
+   "path": "ordin/agricultura/2014/273",
+   "short": "Ordin agricultura nr. 273/2014",
+   "title": "Ordinul nr. 273/2014 privind aprobarea formularului-tip de cerere unică de plată pe suprafață pentru anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155937",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155937",
+     "sha256": "8ff2ed86c7ceaacb4f69ba1060a361afa6932eaf6780f5de0735d2b11590e0cc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-309-2014",
    "path": "ordin/agricultura/2014/309",
    "short": "Ordin agricultura nr. 309/2014",
@@ -138,6 +483,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-310-2014",
+   "path": "ordin/agricultura/2014/310",
+   "short": "Ordin agricultura nr. 310/2014",
+   "title": "Ordinul nr. 310/2014 privind recunoașterea Organizației Interprofesionale Carne de Porc - O.I.C.P. ca organizație interprofesională pe filiera \"carne de porc\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155879",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155879",
+     "sha256": "48c4039963b65b0c401789ed01af84326f1d19bf6b49352625f43fbc951ca4d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-340-2014",
+   "path": "ordin/agricultura/2014/340",
+   "short": "Ordin agricultura nr. 340/2014",
+   "title": "Ordinul nr. 340/2014 privind aprobarea Listei specialiștilor împuterniciți să constate contravențiile și să aplice sancțiunile prevăzute la art. 83 din Legea îmbunătățirilor funciare nr. 138/2004, precum și pentru aprobarea modelului legitimației de identificare a acestora și a modelului procesului-verbal de constatare a contravențiilor și de aplicare a sancțiunilor în domeniul îmbunătățirilor funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156296",
+   "versions": [
+    {
+     "from": "2014-03-12",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156296",
+     "sha256": "118a79d6046e6a1daa60c0b94109550ac85e38364b0c88bbc214e268d9e655e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-348-2014",
+   "path": "ordin/agricultura/2014/348",
+   "short": "Ordin agricultura nr. 348/2014",
+   "title": "Ordinul nr. 348/2014 pentru aprobarea cuantumului tarifelor încasate în urma serviciilor prestate de către Agenția Națională pentru Ameliorare și Reproducție în Zootehnie \"Prof. Dr. G. K. Constantinescu\" asociațiilor/organizațiilor crescătorilor de animale sau oricăror altor beneficiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156067",
+   "versions": [
+    {
+     "from": "2014-03-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156067",
+     "sha256": "c2436a2c9407769911e8bbf13c9cccbcb92bc0b58f944229332b181c7645db49"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-394-2014",
    "path": "ordin/agricultura/2014/394",
    "short": "Ordin agricultura nr. 394/2014",
@@ -149,6 +539,36 @@
      "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157023",
      "sha256": "aadd299f508444b7d9dd153296e9396c2dd1a902504f238bca211b19387e07d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-431-2014",
+   "path": "ordin/agricultura/2014/431",
+   "short": "Ordin agricultura nr. 431/2014",
+   "title": "Ordinul nr. 431/2014 pentru aprobarea cantităților de motorină aferente trimestrului IV-2013, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157020",
+   "versions": [
+    {
+     "from": "2014-04-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157020",
+     "sha256": "8e43680f796c71c4d4c725f8d57913ee1dfaba5308bffaa538df6476daf707f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-437-2014",
+   "path": "ordin/agricultura/2014/437",
+   "short": "Ordin agricultura nr. 437/2014",
+   "title": "Ordinul nr. 437/2014 pentru aprobarea nivelului maxim al cheltuielilor administrative ale fondurilor mutuale eligibile pentru sprijin financiar din fonduri publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156749",
+   "versions": [
+    {
+     "from": "2014-03-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156749",
+     "sha256": "4ada683d7bf4854b5fb51773241007710d8f99a4e01fd4913f83c63d44af0edf"
     }
    ]
   },
@@ -183,6 +603,81 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-568-2014",
+   "path": "ordin/agricultura/2014/568",
+   "short": "Ordin agricultura nr. 568/2014",
+   "title": "Ordinul nr. 568/2014 pentru aprobarea reducerilor și excluderilor aplicabile cererilor de plată a ajutorului specific acordat producătorilor de lapte și de carne de ovine/caprine din zonele defavorizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157529",
+   "versions": [
+    {
+     "from": "2014-04-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157529",
+     "sha256": "00e55cf6a82c682c8713610864ac28953db0063f6835a45a51ac6eeb14133717"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-573-2014",
+   "path": "ordin/agricultura/2014/573",
+   "short": "Ordin agricultura nr. 573/2014",
+   "title": "Ordinul nr. 573/2014 pentru aprobarea modului de implementare, a condițiilor specifice, a criteriilor de eligibilitate, a termenilor de referință și a modelului de cerere pentru acordarea ajutoarelor naționale tranzitorii în sectorul zootehnic la speciile bovine și ovine/caprine și a ajutoarelor specifice pentru producătorii de lapte și de carne de vită și producătorii de lapte și de carne de ovine/caprine din zonele defavorizate, în anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157543",
+   "versions": [
+    {
+     "from": "2014-04-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157543",
+     "sha256": "c951f1ec2c42773f7ceb9380a1424a8341c90756ad6020c1d83ddf316b428210"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-617-2014",
+   "path": "ordin/agricultura/2014/617",
+   "short": "Ordin agricultura nr. 617/2014",
+   "title": "Ordinul nr. 617/2014 pentru aprobarea Listei cu rasele de taurine de carne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157907",
+   "versions": [
+    {
+     "from": "2014-05-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157907",
+     "sha256": "bdbbc6bb55f6ae1ca8bb3fc34ca5d3609357bfeab4d92cc940935c745a231a27"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-703-2014",
+   "path": "ordin/agricultura/2014/703",
+   "short": "Ordin agricultura nr. 703/2014",
+   "title": "Ordinul nr. 703/2014 privind stabilirea tarifelor pentru efectuarea testelor și controlului, certificării, înregistrării, supravegherii, monitorizării și acreditării pentru producerea, prelucrarea și/sau comercializarea semințelor și a materialului săditor, precum și a tarifelor pentru efectuarea testelor de calitate a semințelor și a materialului săditor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158249",
+   "versions": [
+    {
+     "from": "2014-05-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158249",
+     "sha256": "96aabc55eccb8ca0860dd45b3c7b81971c14a44f490d3ab9e3004b10692bb1f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-704-2014",
+   "path": "ordin/agricultura/2014/704",
+   "short": "Ordin agricultura nr. 704/2014",
+   "title": "Ordinul nr. 704/2014 pentru aprobarea modelului cererii de ajutor privind măsura 215 Plăți privind bunăstarea animalelor - pachet a) - Plăți în favoarea bunăstării porcinelor și pachet b) - Plăți în favoarea bunăstării păsărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158273",
+   "versions": [
+    {
+     "from": "2014-05-16",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158273",
+     "sha256": "ea5eb0440818e4066afef3a12107cf710102cd98e775e7e30324202adcb9170c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-719-2014",
    "path": "ordin/agricultura/2014/719",
    "short": "Ordin agricultura nr. 719/2014",
@@ -213,6 +708,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-839-2014",
+   "path": "ordin/agricultura/2014/839",
+   "short": "Ordin agricultura nr. 839/2014",
+   "title": "Ordinul nr. 839/2014 pentru aprobarea Normelor tehnice de clasificare a carcaselor de porci",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158588",
+   "versions": [
+    {
+     "from": "2014-07-27",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158588",
+     "sha256": "15f71950244237d99a78d1783055b680c67615df046ba114f1e42084c97bbe08"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-852-2014",
    "path": "ordin/agricultura/2014/852",
    "short": "Ordin agricultura nr. 852/2014",
@@ -224,6 +734,66 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158963",
      "sha256": "a7fe340764d9fe17a99f0ab37cc02484aa55ada2f0119d041a37bd47605efabf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-855-2014",
+   "path": "ordin/agricultura/2014/855",
+   "short": "Ordin agricultura nr. 855/2014",
+   "title": "Ordinul nr. 855/2014 privind aprobarea sistemelor de sancțiuni pentru măsurile 211 \"Sprijin pentru zona montană defavorizată\", 212 \"Sprijin pentru zone defavorizate, altele decât zona montană\" și 214 \"Plăți de agromediu\" din Programul național de dezvoltare rurală 2007-2013, precum și pentru nerespectarea ecocondiționalității în cadrul măsurilor 211, 212, 214 și schemelor de sprijin pe suprafață aferente cererilor de plată depuse începând cu anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158872",
+   "versions": [
+    {
+     "from": "2014-06-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158872",
+     "sha256": "844eca5f9db3fa974eae95c3c7601312c95d86744c0d7ddec622c6ee5b262776"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-89-2014",
+   "path": "ordin/agricultura/2014/89",
+   "short": "Ordin agricultura nr. 89/2014",
+   "title": "Ordinul nr. 89/2014 privind aprobarea nivelului comisioanelor de garantare pentru anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154832",
+   "versions": [
+    {
+     "from": "2014-01-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154832",
+     "sha256": "eca69511bef17fc9cdd7cc8af9d83384e49a142461083e76c5614d7d5b6ea388"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-898-2014",
+   "path": "ordin/agricultura/2014/898",
+   "short": "Ordin agricultura nr. 898/2014",
+   "title": "Ordinul nr. 898/2014 privind aprobarea Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159468",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159468",
+     "sha256": "2c4b5035a6807eb61ea60cc5ffaddf137a72cabf1518d03a0cc4cd9c2604c37f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-994-2014",
+   "path": "ordin/agricultura/2014/994",
+   "short": "Ordin agricultura nr. 994/2014",
+   "title": "Ordinul nr. 994/2014 pentru aprobarea cantităților de motorină aferente trimestrului I - 2014, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159918",
+   "versions": [
+    {
+     "from": "2014-07-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159918",
+     "sha256": "1b255b0805800acf0bc2f1cbe126fe3a4d8d2db0f3fd66be4db5f62805ce4c00"
     }
    ]
   },
@@ -4578,6 +5148,441 @@
    ]
   },
   {
+   "slug": "ordin-educatie-146-2014",
+   "path": "ordin/educatie/2014/146",
+   "short": "Ordin educatie nr. 146/2014",
+   "title": "Ordinul nr. 146/2014 privind aprobarea Procedurii specifice de evaluare externă periodică a domeniilor de studii universitare de master acreditate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157018",
+   "versions": [
+    {
+     "from": "2014-04-02",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157018",
+     "sha256": "529e9b614541bbf70b0011403b0e7f0f7e2b37ca682b214306390b4bbc4af0eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-183-2014",
+   "path": "ordin/educatie/2014/183",
+   "short": "Ordin educatie nr. 183/2014",
+   "title": "Ordinul nr. 183/2014 privind aprobarea Metodologiei-cadru de organizare și desfășurare a examenelor de licență/diplomă și disertație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157646",
+   "versions": [
+    {
+     "from": "2014-04-24",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157646",
+     "sha256": "d1ff22d6efb97695431fb3cb973a43ed78989850a8bda72bb21de6b2d2009b85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-252-2014",
+   "path": "ordin/educatie/2014/252",
+   "short": "Ordin educatie nr. 252/2014",
+   "title": "Ordinul nr. 252/2014 privind aprobarea Regulamentului de organizare și funcționare a Colegiului Consultativ pentru Cercetare-Dezvoltare și Inovare și componența nominală a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159005",
+   "versions": [
+    {
+     "from": "2014-06-16",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159005",
+     "sha256": "2b4a46d662d73d3177894ee09964543976174701e1e9ad6cf0fb5adb80730588"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3032-2014",
+   "path": "ordin/educatie/2014/3032",
+   "short": "Ordin educatie nr. 3032/2014",
+   "title": "Ordinul nr. 3.032/2014 privind schimbarea denumirii unității de învățământ preuniversitar particular Școala Europeană București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155327",
+   "versions": [
+    {
+     "from": "2014-02-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155327",
+     "sha256": "cef0402e4e6cce09538c322cf29c47a422697eb611fcdd3294eb12006e168785"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3039-2014",
+   "path": "ordin/educatie/2014/3039",
+   "short": "Ordin educatie nr. 3039/2014",
+   "title": "Ordinul nr. 3.039/2014 privind aprobarea regulamentului de organizare și funcționare și a organigramei Bibliotecii Centrale Universitare \"Carol I\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156596",
+   "versions": [
+    {
+     "from": "2014-03-21",
+     "units": 100,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156596",
+     "sha256": "825e7e7b37e5b141d5a3b9d04b3a7dd3c9841aae9f7e654f9967e56011246ed2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3046-2014",
+   "path": "ordin/educatie/2014/3046",
+   "short": "Ordin educatie nr. 3046/2014",
+   "title": "Ordinul nr. 3.046/2014 privind aprobarea programelor pentru susținerea examenului național de definitivare în învățământ la specializările Limba și literatura portugheză, Istoria și tradițiile minorității maghiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155413",
+   "versions": [
+    {
+     "from": "2014-02-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155413",
+     "sha256": "483d6034c1678168f40f88f6fe00558f80d99b0c58797da2323c9fb000cda00d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3060-2014",
+   "path": "ordin/educatie/2014/3060",
+   "short": "Ordin educatie nr. 3060/2014",
+   "title": "Ordinul nr. 3.060/2014 privind aprobarea Condițiilor de organizare a taberelor, excursiilor, expedițiilor și a altor activități de timp liber în sistemul de învățământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155344",
+   "versions": [
+    {
+     "from": "2014-02-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155344",
+     "sha256": "c1bf7bec5de5f6a501ebf78e3ab764207277cca2540d270edf9db3e55639b8cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3074-2014",
+   "path": "ordin/educatie/2014/3074",
+   "short": "Ordin educatie nr. 3074/2014",
+   "title": "Ordinul nr. 3.074/2014 pentru abrogarea Ordinului ministrului apărării naționale și al ministrului educației și cercetării nr. M.137/36.797/2004 privind perfecționarea personalului militar profesionalizat în domeniul limbilor străine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155639",
+   "versions": [
+    {
+     "from": "2014-02-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155639",
+     "sha256": "1e7db06cbbfc29c4bd92ce166b247db7d3c945175533a2dc4b371010eb78c777"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3076-2014",
+   "path": "ordin/educatie/2014/3076",
+   "short": "Ordin educatie nr. 3076/2014",
+   "title": "Ordinul nr. 3.076/2014 privind organizarea și desfășurarea simulării evaluării naționale pentru elevii clasei a VIII-a și a simulării probelor scrise ale examenului de bacalaureat național, în anul școlar 2013-2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155556",
+   "versions": [
+    {
+     "from": "2014-02-17",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155556",
+     "sha256": "7099c6c984fc8324f34daa6f174116629af6534f79525566c340ef978f7c8064"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3081-2014",
+   "path": "ordin/educatie/2014/3081",
+   "short": "Ordin educatie nr. 3081/2014",
+   "title": "Ordinul nr. 3.081/2014 privind aprobarea constituirii a 3 grupuri de lucru româno-germane și a unui Comitet de coordonare pentru cooperarea în învățământul profesional și tehnic dintre România și Baden-Wurttemberg, Germania",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155866",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155866",
+     "sha256": "41bdcf62d85cfbbd59d01d86dfcb9b4851a66e83f417ec50b34c60bf098c5eac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3111-2014",
+   "path": "ordin/educatie/2014/3111",
+   "short": "Ordin educatie nr. 3111/2014",
+   "title": "Ordinul nr. 3.111/2014 privind aprobarea Calendarului și a Metodologiei de înscriere a copiilor în învățământul primar pentru anul școlar 2014-2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155527",
+   "versions": [
+    {
+     "from": "2014-02-17",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155527",
+     "sha256": "30853741553aca3d9a7fd6ab99bcbb3570056ba63794b446b273deb9e2d5ad9b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3136-2014",
+   "path": "ordin/educatie/2014/3136",
+   "short": "Ordin educatie nr. 3136/2014",
+   "title": "Ordinul nr. 3.136/2014 privind organizarea, funcționarea, admiterea și calendarul admiterii în învățământul profesional de stat cu durata de 3 ani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155710",
+   "versions": [
+    {
+     "from": "2014-02-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155710",
+     "sha256": "d20b00c47f27935b31693ecc0e6f67a35113af8d00b4cf87a250579afcd33c4b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3152-2014",
+   "path": "ordin/educatie/2014/3152",
+   "short": "Ordin educatie nr. 3152/2014",
+   "title": "Ordinul nr. 3.152/2014 privind aprobarea planurilor-cadru de învățământ pentru învățământul profesional de stat cu durata de 3 ani, clasele a IX-a, a X-a și a XI-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156712",
+   "versions": [
+    {
+     "from": "2014-03-25",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156712",
+     "sha256": "5d47bce10e94703e12da64ebdf0d7b8111b680ad65442633111e78474d119646"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3218-2014",
+   "path": "ordin/educatie/2014/3218",
+   "short": "Ordin educatie nr. 3218/2014",
+   "title": "Ordinul nr. 3.218/2014 privind aprobarea planurilor-cadru de învățământ pentru învățământul profesional special și a notei de fundamentare privind elaborarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157522",
+   "versions": [
+    {
+     "from": "2014-04-17",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157522",
+     "sha256": "943006ea34be8e0522dbb083d1ce61d66ced14428fce9181e5fa265d2e0fc1ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3240-2014",
+   "path": "ordin/educatie/2014/3240",
+   "short": "Ordin educatie nr. 3240/2014",
+   "title": "Ordinul nr. 3.240/2014 pentru modificarea și completarea Metodologiei privind formarea continuă a personalului din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.561/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158030",
+   "versions": [
+    {
+     "from": "2014-05-08",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158030",
+     "sha256": "14647d2de1c0dd05b34545a83b6fddc8eec83f459c858fcf55bacde6f1893bc2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3275-2014",
+   "path": "ordin/educatie/2014/3275",
+   "short": "Ordin educatie nr. 3275/2014",
+   "title": "Ordinul nr. 3.275/2014 pentru modificarea Metodologiei-cadru privind mobilitatea personalului didactic din învățământul preuniversitar în anul școlar 2014-2015, aprobată prin Ordinul ministrului educației naționale nr. 5.451/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157355",
+   "versions": [
+    {
+     "from": "2014-04-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157355",
+     "sha256": "99c00254875c35b14ea824a5ad1ca211a353c44192508a1a9e8c94aa7a12c64f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3289-2014",
+   "path": "ordin/educatie/2014/3289",
+   "short": "Ordin educatie nr. 3289/2014",
+   "title": "Ordinul nr. 3.289/2014 privind aprobarea calendarului sesiunii speciale a examenului de bacalaureat - 2014 pentru absolvenții de liceu participanți la loturile naționale lărgite ce se pregătesc pentru olimpiadele și concursurile internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157817",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157817",
+     "sha256": "767741e8926416f77eafe7f016b4413dbf0f0b09138c49d597ba98ea1004adf9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3334-2014",
+   "path": "ordin/educatie/2014/3334",
+   "short": "Ordin educatie nr. 3334/2014",
+   "title": "Ordinul nr. 3.334/2014 privind aprobarea Metodologiei de organizare și desfășurare a evaluărilor naționale la finalul claselor a II-a, a IV-a și a VI-a în anul școlar 2013-2014 și a Calendarului de administrare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157808",
+   "versions": [
+    {
+     "from": "2014-04-29",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157808",
+     "sha256": "e490a53ee27ecc9be53d226b66ebb2a8895f8da5ab1f715628ab3e1259125367"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3366-2014",
+   "path": "ordin/educatie/2014/3366",
+   "short": "Ordin educatie nr. 3366/2014",
+   "title": "Ordinul nr. 3.366/2014 privind aprobarea Calendarului desfășurării concursului de selecție a cadrelor didactice pentru constituirea corpului național de experți în management educațional, seria a 6-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158808",
+   "versions": [
+    {
+     "from": "2014-06-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158808",
+     "sha256": "79fdfb5068488d665e587ea364bcbb891ca8f0b13699e7932ee7f1e9efeefc01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3387-2014",
+   "path": "ordin/educatie/2014/3387",
+   "short": "Ordin educatie nr. 3387/2014",
+   "title": "Ordinul nr. 3.387/2014 privind transferarea unității de învățământ preuniversitar particular Grădinița \"Little London\" din localitatea Voluntari de la persoana juridică Fundația \"Țara Minunilor\" din localitatea Voluntari la persoana juridică Asociația \"Fabiola Hosu\" din localitatea Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158083",
+   "versions": [
+    {
+     "from": "2014-05-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158083",
+     "sha256": "95081fbfda1001b428dc5334c44083710fe586315d9c171fe8d225368993665d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3410-2014",
+   "path": "ordin/educatie/2014/3410",
+   "short": "Ordin educatie nr. 3410/2014",
+   "title": "Ordinul nr. 3.410/2014 privind înființarea Centrului Județean de Excelență Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158242",
+   "versions": [
+    {
+     "from": "2014-05-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158242",
+     "sha256": "123197a84f0c46b7a629aead86cc303581a5e3b231e6fb2405a8fbc34293a892"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3590-2014",
+   "path": "ordin/educatie/2014/3590",
+   "short": "Ordin educatie nr. 3590/2014",
+   "title": "Ordinul nr. 3.590/2014 pentru aprobarea Metodologiei privind eliberarea, pentru cetățenii care au studiat în România, a adeverinței de conformitate a studiilor cu prevederile Directivei 2005/36/CE a Parlamentului European și a Consiliului din 7 septembrie 2005 privind recunoașterea calificărilor profesionale, în vederea desfășurării activității didactice în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159211",
+   "versions": [
+    {
+     "from": "2014-06-23",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159211",
+     "sha256": "0237bcf2853e8e396ebf6ed46cc696e366d2b5ee0dbd932833b3a0b80cfb380e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3593-2014",
+   "path": "ordin/educatie/2014/3593",
+   "short": "Ordin educatie nr. 3593/2014",
+   "title": "Ordinul nr. 3.593/2014 pentru aprobarea Metodologiei privind elaborarea și aprobarea curriculumului școlar - planuri-cadru de învățământ și programe școlare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159483",
+   "versions": [
+    {
+     "from": "2014-07-02",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159483",
+     "sha256": "f20dfcfb65284b3fd15f28e9a5d36307e75f99f1fafa02df6daefe388bda9ee3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3637-2014",
+   "path": "ordin/educatie/2014/3637",
+   "short": "Ordin educatie nr. 3637/2014",
+   "title": "Ordinul nr. 3.637/2014 privind structura anului școlar 2014-2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159432",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159432",
+     "sha256": "31fa46913ebfc06b2ce36cf752c342048d7bc8274986681ba6914a7c4aa02a9a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3731-2014",
+   "path": "ordin/educatie/2014/3731",
+   "short": "Ordin educatie nr. 3731/2014",
+   "title": "Ordinul nr. 3.731/2014 privind aprobarea Planurilor de învățământ pentru cultura de specialitate și pregătirea practică săptămânală din aria curriculară Tehnologii, precum și pentru stagiile de pregătire practică, curriculum în dezvoltare locală - CDL, pentru clasa a IX-a, învățământ profesional de stat cu durata de 3 ani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161114",
+   "versions": [
+    {
+     "from": "2014-09-05",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161114",
+     "sha256": "665a1764591479fa9ce8ae9d1bba77052eeda9983e5fdc84b824ee38e3ac1fee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3838-2014",
+   "path": "ordin/educatie/2014/3838",
+   "short": "Ordin educatie nr. 3838/2014",
+   "title": "Ordinul nr. 3.838/2014 pentru modificarea și completarea unor acte normative din sistemul național de învățământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159815",
+   "versions": [
+    {
+     "from": "2014-07-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159815",
+     "sha256": "8e0697ddb8c36927a597e58f521f173d40e2d71a4345069cad2242976b84590b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3973-2014",
+   "path": "ordin/educatie/2014/3973",
+   "short": "Ordin educatie nr. 3973/2014",
+   "title": "Ordinul nr. 3.973/2014 privind echivalarea nivelurilor de calificare obținute prin sistemul național de învățământ și formarea profesională a adulților, anterior momentului intrării în vigoare a Cadrului național al calificărilor, cu nivelurile de calificare stabilite prin Cadrul național al calificărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160559",
+   "versions": [
+    {
+     "from": "2014-08-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160559",
+     "sha256": "f031369df92f11e31576d0072c6397482a30d317c9a7b6cc1b32ed7e941ffa80"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3975-2014",
+   "path": "ordin/educatie/2014/3975",
+   "short": "Ordin educatie nr. 3975/2014",
+   "title": "Ordinul nr. 3.975/2014 privind înființarea Centrului Județean de Excelență Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160535",
+   "versions": [
+    {
+     "from": "2014-08-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160535",
+     "sha256": "7dd77cfd4012baff7753ff1141aead43411113f386d10d673f52c08650f898de"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4314-2014",
+   "path": "ordin/educatie/2014/4314",
+   "short": "Ordin educatie nr. 4314/2014",
+   "title": "Ordinul nr. 4.314/2014 privind aprobarea Calendarului desfășurării concursului de selecție a cadrelor didactice pentru constituirea corpului național de experți în management educațional, seria a 7-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160671",
+   "versions": [
+    {
+     "from": "2014-08-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160671",
+     "sha256": "42275c6aa25b04f5874cb8714970a45c88ce984eeef28dde6b361b021ecbf18c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4317-2014",
    "path": "ordin/educatie/2014/4317",
    "short": "Ordin educatie nr. 4317/2014",
@@ -4589,6 +5594,756 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160826",
      "sha256": "2622997b22ff05058847ec3b451acd1e3a1dee011aa206500b146942cdbb5b4b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4386-2014",
+   "path": "ordin/educatie/2014/4386",
+   "short": "Ordin educatie nr. 4386/2014",
+   "title": "Ordinul nr. 4.386/2014 privind fuziunea prin absorbție a unității de învățământ preuniversitar particular Școala Primară \"Olga Gudynn\" din localitatea Voluntari de către unitatea de învățământ preuniversitar particular Olga Gudynn International School din localitatea Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161078",
+   "versions": [
+    {
+     "from": "2014-09-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161078",
+     "sha256": "3cecd5c8f8f7dcaa9e246f8059b6233b45aef85fd7fa09f0215742fc88088533"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4420-2014",
+   "path": "ordin/educatie/2014/4420",
+   "short": "Ordin educatie nr. 4420/2014",
+   "title": "Ordinul nr. 4.420/2014 pentru modificarea art. 38 alin. (1) din Metodologia de organizare și desfășurare a examenului de certificare a calificării profesionale pentru absolvenții învățământului profesional cu durata de 2 ani, aprobată prin Ordinul ministrului educației naționale nr. 4.888/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161314",
+   "versions": [
+    {
+     "from": "2014-09-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161314",
+     "sha256": "677db9c5d6a6152b1cb38346c7e719d0bb4cf94ff609fabdd25f0ac4287a49d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4421-2014",
+   "path": "ordin/educatie/2014/4421",
+   "short": "Ordin educatie nr. 4421/2014",
+   "title": "Ordinul nr. 4.421/2014 pentru modificarea Metodologiei de organizare și desfășurare a examenului de certificare a calificării profesionale a absolvenților ciclului inferior al liceului care au urmat stagiile de pregătire practică, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.222/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161090",
+   "versions": [
+    {
+     "from": "2014-09-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161090",
+     "sha256": "30666bd8c6e7ce2fa52f173dc173a76d8458bd6bae54a3e153f0c0fc647c7d71"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4422-2014",
+   "path": "ordin/educatie/2014/4422",
+   "short": "Ordin educatie nr. 4422/2014",
+   "title": "Ordinul nr. 4.422/2014 privind aprobarea programei școlare pentru disciplina opțională \"De-a arhitectura. Educație pentru arhitectură și mediu construit\", clasa a III-a sau a IV-a, învățământ primar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161108",
+   "versions": [
+    {
+     "from": "2014-09-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161108",
+     "sha256": "b7b4d855b690d17555aab9cbda07bfe55aabf70ba1f94bbae5def2b9db61fe42"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4423-2014",
+   "path": "ordin/educatie/2014/4423",
+   "short": "Ordin educatie nr. 4423/2014",
+   "title": "Ordinul nr. 4.423/2014 privind aprobarea programelor școlare pentru învățământul liceal, curriculum diferențiat, filiera vocațională, profilul artistic, specializarea Muzică, la disciplinele: Muzică vocală de jazz - muzică ușoară, clasele a IX-a, a X-a, a XI-a și a XII-a, și Istoria jazzului, clasele a XI-a și a XII-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161204",
+   "versions": [
+    {
+     "from": "2014-09-10",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161204",
+     "sha256": "9c7892df24b81ffa3ab3a9db0a2f84668d19dc8d8709da0a7bbc0dacadf5c05e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4424-2014",
+   "path": "ordin/educatie/2014/4424",
+   "short": "Ordin educatie nr. 4424/2014",
+   "title": "Ordinul nr. 4.424/2014 privind aprobarea Metodologiei de organizare a secțiilor bilingve francofone incluse în proiectul bilateral franco-român \"De la învățământul bilingv către filierele universitare francofone\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161120",
+   "versions": [
+    {
+     "from": "2014-09-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161120",
+     "sha256": "b152dbfee6fe6dede85f7e9803b1f293fbee1eddf274019a64b108330601d445"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4430-2014",
+   "path": "ordin/educatie/2014/4430",
+   "short": "Ordin educatie nr. 4430/2014",
+   "title": "Ordinul nr. 4.430/2014 privind organizarea și desfășurarea examenului de bacalaureat național - 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161052",
+   "versions": [
+    {
+     "from": "2014-09-04",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161052",
+     "sha256": "f014efaba5a98e74882c69457122b7e6c9cc85da22d31a350b3198b05bd7f888"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4431-2014",
+   "path": "ordin/educatie/2014/4431",
+   "short": "Ordin educatie nr. 4431/2014",
+   "title": "Ordinul nr. 4.431/2014 privind organizarea și desfășurarea evaluării naționale pentru absolvenții clasei a VIII-a în anul școlar 2014-2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161053",
+   "versions": [
+    {
+     "from": "2014-09-04",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161053",
+     "sha256": "6e854f38de8663ddd3433d834c9a890f2436ebb4b33e24b409b24b626486a0e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4432-2014",
+   "path": "ordin/educatie/2014/4432",
+   "short": "Ordin educatie nr. 4432/2014",
+   "title": "Ordinul nr. 4.432/2014 privind organizarea și desfășurarea admiterii în învățământul liceal și profesional de stat pentru anul școlar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161054",
+   "versions": [
+    {
+     "from": "2014-09-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161054",
+     "sha256": "0f59c5d365355a5446847821093d7ce349348fbc5f8982bef2f8d1d9e04cda08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4433-2014",
+   "path": "ordin/educatie/2014/4433",
+   "short": "Ordin educatie nr. 4433/2014",
+   "title": "Ordinul nr. 4.433/2014 privind aprobarea Metodologiei de organizare și desfășurare a examenului de certificare a calificării absolvenților învățământului liceal, filiera vocațională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161411",
+   "versions": [
+    {
+     "from": "2014-09-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161411",
+     "sha256": "2de342a89cb099e8dda9d1427427d7ad8c52e643782f0d78b51799dcb50defec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4434-2014",
+   "path": "ordin/educatie/2014/4434",
+   "short": "Ordin educatie nr. 4434/2014",
+   "title": "Ordinul nr. 4.434/2014 privind aprobarea Metodologiei de organizare și desfășurare a examenului de certificare a calificării absolvenților învățământului liceal, filiera tehnologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161167",
+   "versions": [
+    {
+     "from": "2014-09-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161167",
+     "sha256": "9324ac5699fa344d0cce26ad7a38a5b31ecbbdb111552f6690d467b600a26eb0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4435-2014",
+   "path": "ordin/educatie/2014/4435",
+   "short": "Ordin educatie nr. 4435/2014",
+   "title": "Ordinul nr. 4.435/2014 privind aprobarea Metodologiei de organizare și desfășurare a examenului de certificare a calificării profesionale pentru absolvenții învățământului profesional cu durata de 3 ani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162335",
+   "versions": [
+    {
+     "from": "2014-10-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162335",
+     "sha256": "931121b1e779ec2ef5ab281d6a7abfd33043402827e8e4b0bb90b79b2a8f7607"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4437-2014",
+   "path": "ordin/educatie/2014/4437",
+   "short": "Ordin educatie nr. 4437/2014",
+   "title": "Ordinul nr. 4.437/2014 pentru aprobarea precizărilor privind programele școlare în învățământul profesional de stat cu durata de 3 ani și în învățământul profesional special, începând cu anul școlar 2014-2015, precum și pentru aprobarea programei școlare pentru Consiliere și orientare, curriculum diferențiat pentru învățământul profesional de stat cu durata de 3 ani, clasele a IX-a, a X-a și a XI-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161522",
+   "versions": [
+    {
+     "from": "2014-09-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161522",
+     "sha256": "814d53b386c5954527b6c8ca30e6441202fe0a06481e8a050f0d3d53773a9d08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4464-2014",
+   "path": "ordin/educatie/2014/4464",
+   "short": "Ordin educatie nr. 4464/2014",
+   "title": "Ordinul nr. 4.464/2014 privind aprobarea graficului de desfășurare a examenelor de certificare a calificării profesionale a absolvenților din învățământul profesional și tehnic preuniversitar în anul școlar 2014-2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162501",
+   "versions": [
+    {
+     "from": "2014-10-28",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162501",
+     "sha256": "e0c7502acb0cd8d6a76d0ea7264a1619579941cadf6125e47fc30528032d368f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4542-2014",
+   "path": "ordin/educatie/2014/4542",
+   "short": "Ordin educatie nr. 4542/2014",
+   "title": "Ordinul nr. 4.542/2014 pentru aprobarea Metodologiei-cadru privind organizarea și funcționarea învățământului terțiar nonuniversitar, organizat la nivelul colegiilor din cadrul instituțiilor de învățământ superior acreditate, în anul școlar 2014-2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161156",
+   "versions": [
+    {
+     "from": "2014-09-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161156",
+     "sha256": "07f58ad7c9fbdebc9d032f249603985119620b8bbc5dadd9e451d389c5834baf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4552-2014",
+   "path": "ordin/educatie/2014/4552",
+   "short": "Ordin educatie nr. 4552/2014",
+   "title": "Ordinul nr. 4.552/2014 privind înființarea Centrului Național de Excelență Focșani pentru pregătirea elevilor la disciplina sportivă judo și pentru aprobarea Regulamentului de organizare și funcționare a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161346",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161346",
+     "sha256": "685e3bdacf55c80c714406a1c2254aaf16a64534e5a2537a35f8de7ee3c31725"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4553-2014",
+   "path": "ordin/educatie/2014/4553",
+   "short": "Ordin educatie nr. 4553/2014",
+   "title": "Ordinul nr. 4.553/2014 pentru aprobarea Calendarului activităților prevăzute în Metodologia privind echivalarea pe baza ECTS/SECT a învățământului universitar de scurtă durată, realizat prin colegiul cu durata de 3 ani sau institutul pedagogic cu durată de 3 ani, cu ciclul I de studii universitare de licență, pentru cadrele didactice din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.553/2011, sesiunea 2014-2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161479",
+   "versions": [
+    {
+     "from": "2014-09-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161479",
+     "sha256": "9f0dbc6e2a8fe8910f44065e8052f9bcbb78d0818b3c6f4959763d5f6e0c7ab2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4634-2014",
+   "path": "ordin/educatie/2014/4634",
+   "short": "Ordin educatie nr. 4634/2014",
+   "title": "Ordinul nr. 4.634/2014 privind înființarea Centrului Județean de Excelență Neamț",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161696",
+   "versions": [
+    {
+     "from": "2014-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161696",
+     "sha256": "b768ca37ac764550252894886566d4e85a86039e56be105f5796885ed8a6461f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4774-2014",
+   "path": "ordin/educatie/2014/4774",
+   "short": "Ordin educatie nr. 4774/2014",
+   "title": "Ordinul nr. 4.774/2014 privind aprobarea înființării comisiilor naționale de specialitate și regulamentului de organizare și funcționare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162310",
+   "versions": [
+    {
+     "from": "2014-10-21",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162310",
+     "sha256": "915c1d08188d457f260e15fad71b88430656360c9934a1abb65140d43713d5c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4776-2014",
+   "path": "ordin/educatie/2014/4776",
+   "short": "Ordin educatie nr. 4776/2014",
+   "title": "Ordinul nr. 4.776/2014 privind înființarea Centrului Județean de Excelență Covasna",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162439",
+   "versions": [
+    {
+     "from": "2014-10-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162439",
+     "sha256": "603bfa00f55eda04c7671d54fd7c920fec52b6a66510cd6267549780d17850f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4801-2014",
+   "path": "ordin/educatie/2014/4801",
+   "short": "Ordin educatie nr. 4801/2014",
+   "title": "Ordinul nr. 4.801/2014 privind aprobarea Calendarului de organizare și desfășurare a examenului național de definitivare în învățământ în anul școlar 2014-2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162396",
+   "versions": [
+    {
+     "from": "2014-10-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162396",
+     "sha256": "f4c14652c2d6942bb9817f6611bdbea8744032d12f84ad4a8d9e84c0dc34c8cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4802-2014",
+   "path": "ordin/educatie/2014/4802",
+   "short": "Ordin educatie nr. 4802/2014",
+   "title": "Ordinul nr. 4.802/2014 privind aprobarea Metodologiei de organizare și desfășurare a examenului național de definitivare în învățământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162397",
+   "versions": [
+    {
+     "from": "2014-10-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162397",
+     "sha256": "425e5a9b3772d23dab1cf80fcb4ff800ef4ef8cf01eb10f924956d34f7d2b205"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4825-2014",
+   "path": "ordin/educatie/2014/4825",
+   "short": "Ordin educatie nr. 4825/2014",
+   "title": "Ordinul nr. 4.825/2014 privind aprobarea Planului-cadru de învățământ al alternativei educaționale Waldorf pentru învățământul primar, a listelor și a programelor școlare pentru clasa pregătitoare, clasa I și clasa a II-a, alternativa educațională Waldorf",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164360",
+   "versions": [
+    {
+     "from": "2015-01-06",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164360",
+     "sha256": "9b99de9f796dbf61d112692c0fe47744e6fa5e1d0ffc11c66b8b0ddf43df3dad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4854-2014",
+   "path": "ordin/educatie/2014/4854",
+   "short": "Ordin educatie nr. 4854/2014",
+   "title": "Ordinul nr. 4.854/2014 privind aprobarea Metodologiei de transfer al personalului didactic auxiliar și al personalului nedidactic în anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162780",
+   "versions": [
+    {
+     "from": "2014-11-06",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162780",
+     "sha256": "aa5b1299c695abb6780e603291de903cd6d52a2e7bb306419c95e3a9f1c79e7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4869-2014",
+   "path": "ordin/educatie/2014/4869",
+   "short": "Ordin educatie nr. 4869/2014",
+   "title": "Ordinul nr. 4.869/2014 privind aprobarea Regulamentului de organizare și funcționare, a Organigramei și a Statului de funcții ale Institutului Limbii Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163525",
+   "versions": [
+    {
+     "from": "2014-12-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163525",
+     "sha256": "ce36804223c827f6170b387ee49185aa2f3b5d649e298c96311d9bc8a5312ede"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4893-2014",
+   "path": "ordin/educatie/2014/4893",
+   "short": "Ordin educatie nr. 4893/2014",
+   "title": "Ordinul nr. 4.893/2014 pentru aprobarea Metodologiei și a criteriilor privind acordarea gradației de merit personalului didactic din învățământul preuniversitar de stat, sesiunea 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164686",
+   "versions": [
+    {
+     "from": "2015-01-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164686",
+     "sha256": "fc4c89c35eb896be4d1f328b4a923407adba4a7469e6d8b15620dc0abb85331e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4895-2014",
+   "path": "ordin/educatie/2014/4895",
+   "short": "Ordin educatie nr. 4895/2014",
+   "title": "Ordinul nr. 4.895/2014 pentru aprobarea Metodologiei-cadru privind mobilitatea personalului didactic din învățământul preuniversitar în anul școlar 2015-2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163247",
+   "versions": [
+    {
+     "from": "2014-11-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163247",
+     "sha256": "b524158e15f2cf986b9273f08d234aff23e3999e77a8435fb6061c94a9c0a9ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5001-2014",
+   "path": "ordin/educatie/2014/5001",
+   "short": "Ordin educatie nr. 5001/2014",
+   "title": "Ordinul nr. 5.001/2014 privind aprobarea programelor școlare pentru disciplina Religie, învățământ primar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164653",
+   "versions": [
+    {
+     "from": "2015-01-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164653",
+     "sha256": "cd76cfb8d078746ffeae5adfd0fb4be9c88b4e9f3666d5a96b5a7921c55d84be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5003-2014",
+   "path": "ordin/educatie/2014/5003",
+   "short": "Ordin educatie nr. 5003/2014",
+   "title": "Ordinul nr. 5.003/2014 privind aprobarea programelor școlare pentru învățământ primar, clasele a III-a și a IV-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164578",
+   "versions": [
+    {
+     "from": "2015-01-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164578",
+     "sha256": "4c520a7e4e159e8d887e130b8dd78f7defbdee9f46cee0d83315c340fb8731c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5004-2014",
+   "path": "ordin/educatie/2014/5004",
+   "short": "Ordin educatie nr. 5004/2014",
+   "title": "Ordinul nr. 5.004/2014 privind aprobarea programelor școlare pentru discipline de pregătire sportivă practică, învățământ primar, clasele I-a II-a și clasele a III-a-a IV-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164525",
+   "versions": [
+    {
+     "from": "2015-01-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164525",
+     "sha256": "0cba7935e774ae8a4b9cfe2ed8b9930686e94ac206aa03ead84564e1c7033fb8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5005-2014",
+   "path": "ordin/educatie/2014/5005",
+   "short": "Ordin educatie nr. 5005/2014",
+   "title": "Ordinul nr. 5.005/2014 privind aprobarea Metodologiei de organizare și desfășurare a examenului de certificare a calificării profesionale a absolvenților învățământului postliceal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164145",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164145",
+     "sha256": "1305a48ed09a9e879e54d00afaf4ecd1348e2b4e3d3f1a0b5a3104f8cd1f5914"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5076-2014",
+   "path": "ordin/educatie/2014/5076",
+   "short": "Ordin educatie nr. 5076/2014",
+   "title": "Ordinul nr. 5.076/2014 pentru aprobarea Metodologiei privind recrutarea și selecția lectorilor de limba română care urmează să predea cursuri de limbă, literatură, cultură și civilizație românească în universități din străinătate și a Regulamentului privind funcționarea Corpului lectorilor în cadrul Institutului Limbii Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164223",
+   "versions": [
+    {
+     "from": "2014-12-29",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164223",
+     "sha256": "02e554768fe630bb5119f23cdfebd2d4b9229ba03adcd006f54ddad686e196f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5078-2014",
+   "path": "ordin/educatie/2014/5078",
+   "short": "Ordin educatie nr. 5078/2014",
+   "title": "Ordinul nr. 5.078/2014 privind recrutarea și selecția cadrelor didactice pentru predarea disciplinei opționale \"Educație prin șah\" în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163809",
+   "versions": [
+    {
+     "from": "2014-12-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163809",
+     "sha256": "f730762cf97da7ff2009b6aa737a51ebf00b42a4cf122960921652ced399b04a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5108-2014",
+   "path": "ordin/educatie/2014/5108",
+   "short": "Ordin educatie nr. 5108/2014",
+   "title": "Ordinul nr. 5.108/2014 pentru modificarea Metodologiei-cadru privind mobilitatea personalului didactic din învățământul preuniversitar în anul școlar 2015-2016, aprobată prin Ordinul ministrului educației naționale nr. 4.895/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163938",
+   "versions": [
+    {
+     "from": "2014-12-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163938",
+     "sha256": "5fe84cdb70901323afc81c077482561625c847514399472d403879af03e59527"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5109-2014",
+   "path": "ordin/educatie/2014/5109",
+   "short": "Ordin educatie nr. 5109/2014",
+   "title": "Ordinul nr. 5.109/2014 pentru aprobarea Centralizatorului privind disciplinele de învățământ, domeniile și specializările, precum și probele de concurs valabile pentru încadrarea personalului didactic din învățământul preuniversitar 2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164406",
+   "versions": [
+    {
+     "from": "2015-01-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164406",
+     "sha256": "4160f7244dca81b9a16b567593e099b631e9de9300f4f5b548ddaf15049c8b5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5113-2014",
+   "path": "ordin/educatie/2014/5113",
+   "short": "Ordin educatie nr. 5113/2014",
+   "title": "Ordinul nr. 5.113/2014 pentru aprobarea Metodologiei privind managementul riscurilor de corupție în cadrul Ministerului Educației Naționale și al instituțiilor și unităților subordonate/coordonate a căror activitate vizează învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164400",
+   "versions": [
+    {
+     "from": "2015-01-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164400",
+     "sha256": "d044ffa4095d4bd8927d6f33bb090bd89c64b42aac1ea177148532ffe9d85ce7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5114-2014",
+   "path": "ordin/educatie/2014/5114",
+   "short": "Ordin educatie nr. 5114/2014",
+   "title": "Ordinul nr. 5.114/2014 privind aprobarea Metodologiei de organizare, desfășurare și finalizare a programului special de revalorizare a formării inițiale de asistent medical generalist, dobândită anterior datei de 1 ianuarie 2007, pentru absolvenții învățământului postliceal sanitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164395",
+   "versions": [
+    {
+     "from": "2015-01-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164395",
+     "sha256": "2231626472226ab29879ca873c3e2195d4763588a96766734bcb9516ab222436"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5115-2014",
+   "path": "ordin/educatie/2014/5115",
+   "short": "Ordin educatie nr. 5115/2014",
+   "title": "Ordinul nr. 5.115/2014 privind aprobarea Regulamentului de organizare și funcționare a unităților de învățământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164557",
+   "versions": [
+    {
+     "from": "2015-01-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164557",
+     "sha256": "96eb7f856848972272a8ac04c7e30ffa7551796e7c3ffe2266aa4610cb75658d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5120-2014",
+   "path": "ordin/educatie/2014/5120",
+   "short": "Ordin educatie nr. 5120/2014",
+   "title": "Ordinul nr. 5.120/2014 pentru modificarea Metodologiei privind echivalarea pe baza ECTS/SECT a învățământului universitar de scurtă durată, realizat prin colegiul cu durata de 3 ani sau institutul pedagogic cu durată de 3 ani, cu ciclul I de studii universitare de licență, pentru cadrele didactice din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.553/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164150",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164150",
+     "sha256": "411728dd4b6ac55654d72b6e68d6121807068306380c4e5c4da10a4c8630b364"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5121-2014",
+   "path": "ordin/educatie/2014/5121",
+   "short": "Ordin educatie nr. 5121/2014",
+   "title": "Ordinul nr. 5.121/2014 privind aprobarea planurilor-cadru de învățământ pentru clasele a IX-a - a XII-a, filiera vocațională, profilul teologic, cultul romano-catolic, specializarea ghid turism religios, și a programelor școlare din curriculumul diferențiat pentru clasele a IX-a - a XII-a, filiera vocațională, profilul teologic, cultul romano-catolic, specializarea ghid turism religios",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164678",
+   "versions": [
+    {
+     "from": "2015-01-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164678",
+     "sha256": "049b331e5c53960bb4b0fc05ea8b1a66fa3100d0da2ec7a2bc1fa3281fa1630c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5123-2014",
+   "path": "ordin/educatie/2014/5123",
+   "short": "Ordin educatie nr. 5123/2014",
+   "title": "Ordinul nr. 5.123/2014 privind aprobarea Metodologiei de organizare și desfășurare a evaluărilor naționale la finalul claselor a II-a, a IV-a și a VI-a în anul școlar 2014-2015 și pentru aprobarea Calendarului de administrare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164134",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164134",
+     "sha256": "087eb6315c700abaf6c0b0aef0736ebe6b7eeafec74d80adae94ca2a484e4b11"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5138-2014",
+   "path": "ordin/educatie/2014/5138",
+   "short": "Ordin educatie nr. 5138/2014",
+   "title": "Ordinul nr. 5.138/2014 pentru aprobarea Regulamentului de organizare și desfășurare a examenului de promovare a personalului contractual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164817",
+   "versions": [
+    {
+     "from": "2015-01-21",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164817",
+     "sha256": "14fbf0d43a5690df93abc4f0ffc4f845914671d6af48dbea6bef3e7e8016f260"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5144-2014",
+   "path": "ordin/educatie/2014/5144",
+   "short": "Ordin educatie nr. 5144/2014",
+   "title": "Ordinul nr. 5.144/2014 privind organizarea și desfășurarea simulării evaluării naționale pentru elevii clasei a VIII-a și a simulării probelor scrise ale examenului de bacalaureat național, în anul școlar 2014-2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164456",
+   "versions": [
+    {
+     "from": "2015-01-08",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164456",
+     "sha256": "27d2559130e9579495656fafb4ee876e5180721473495fbc5b048ebf3209d40f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5204-2014",
+   "path": "ordin/educatie/2014/5204",
+   "short": "Ordin educatie nr. 5204/2014",
+   "title": "Ordinul nr. 5.204/2014 privind aprobarea Metodologiei de înscriere și înregistrare a calificărilor din învățământul superior în Registrul Național al Calificărilor din Învățământul Superior (RNCIS)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164561",
+   "versions": [
+    {
+     "from": "2015-01-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164561",
+     "sha256": "7fc585db571a85efd47d40ce79aaade68849653037ccc42485d106a7cfee1367"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-650-2014",
+   "path": "ordin/educatie/2014/650",
+   "short": "Ordin educatie nr. 650/2014",
+   "title": "Ordinul nr. 650/2014 pentru aprobarea Metodologiei-cadru privind organizarea și funcționarea centrelor de consiliere și orientare în carieră în sistemul de învățământ superior din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163184",
+   "versions": [
+    {
+     "from": "2014-11-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163184",
+     "sha256": "bdc55b77f613f5a18538673a330b70baa5d628c1d60bb45e164f10fabc62c51f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-651-2014",
+   "path": "ordin/educatie/2014/651",
+   "short": "Ordin educatie nr. 651/2014",
+   "title": "Ordinul nr. 651/2014 pentru aprobarea Metodologiei privind mobilitatea academică a studenților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163182",
+   "versions": [
+    {
+     "from": "2014-11-24",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163182",
+     "sha256": "e4e61748dfa80038a4123d804d8a91afed6beedd1268e465330d7d0596f931b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-657-2014",
+   "path": "ordin/educatie/2014/657",
+   "short": "Ordin educatie nr. 657/2014",
+   "title": "Ordinul nr. 657/2014 pentru aprobarea Regulamentului privind regimul actelor de studii în sistemul de învățământ superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163446",
+   "versions": [
+    {
+     "from": "2014-12-02",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163446",
+     "sha256": "f04015830042e40988a66e965cb3058ac9e2df67381fb25ffe975cd1f0db59ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-668-2014",
+   "path": "ordin/educatie/2014/668",
+   "short": "Ordin educatie nr. 668/2014",
+   "title": "Ordinul nr. 668/2014 privind aprobarea Metodologiei de alocare a fondurilor bugetare pentru finanțarea de bază și finanțarea suplimentară a instituțiilor de învățământ superior de stat din România pentru anul 2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163584",
+   "versions": [
+    {
+     "from": "2014-12-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163584",
+     "sha256": "dbfc393dcd9687daf12d70b37c9329855fd50c93bd061db15abc9f2983e9a2b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-672-2014",
+   "path": "ordin/educatie/2014/672",
+   "short": "Ordin educatie nr. 672/2014",
+   "title": "Ordinul nr. 672/2014 privind transferul de locuri între cicluri de studii universitare și numărul de locuri - granturi de studii (anul I) finanțate de la bugetul de stat din instituțiile de învățământ superior de stat, pentru anul universitar 2014-2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163580",
+   "versions": [
+    {
+     "from": "2014-12-04",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163580",
+     "sha256": "dc3e01989e8d1cd56af0121feb34b6721dd620211ee8267ee54ec87fd2f2aead"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-701-2014",
+   "path": "ordin/educatie/2014/701",
+   "short": "Ordin educatie nr. 701/2014",
+   "title": "Ordinul nr. 701/2014 privind publicarea Procedurii de selectare, prin concurs, a membrilor Consiliului Agenției Române de Asigurare a Calității în Învățământul Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/163871",
+   "versions": [
+    {
+     "from": "2014-12-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163871",
+     "sha256": "49042edb0b7da5bfad0dcf207b8c39794102c87f82458e1c70ad0c57fb5629b8"
     }
    ]
   },
@@ -4826,7 +6581,7 @@
    "versions": [
     {
      "from": "2014-10-07",
-     "units": 2,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161929",
      "sha256": "4dab155e64075be00de5ea63377ac2e7a6f6fd90a9357f9d55d0d73b1c9ccce9"
     }
@@ -5021,7 +6776,7 @@
    "versions": [
     {
      "from": "2014-12-22",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164071",
      "sha256": "1ad49010e1d7fba2cecd76baaf2174d25fe473d15f11e3b1760c75b762ae3ccf"
     }
@@ -5276,7 +7031,7 @@
    "versions": [
     {
      "from": "2014-01-16",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154572",
      "sha256": "b01e27be0beaf874b1c59273218660c8b9e4cd626f7015a6a60c2c0bcec35d90"
     }
@@ -7136,7 +8891,7 @@
    "versions": [
     {
      "from": "2014-08-04",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160392",
      "sha256": "3c6cd43644eedeec772d3b66f187c90c53c07aceba87a133980d80af67def345"
     }
@@ -7181,7 +8936,7 @@
    "versions": [
     {
      "from": "2014-08-26",
-     "units": 3,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160827",
      "sha256": "f8ad503d716a7266b8e0ed409b2e9b18f7833b34c146be5ed119f9ed5d51e9a0"
     }
@@ -7256,7 +9011,7 @@
    "versions": [
     {
      "from": "2014-10-16",
-     "units": 4,
+     "units": 36,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162218",
      "sha256": "cbc5c904b66b52157655d9756ae1ca94003a8489f5d056717fe0b5523578db42"
     }
@@ -7271,7 +9026,7 @@
    "versions": [
     {
      "from": "2014-10-27",
-     "units": 4,
+     "units": 36,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162515",
      "sha256": "417bbd4251943954f1f9ceb5e4c25cc893872b114e082d72f5c037120af9ac79"
     }
@@ -7286,7 +9041,7 @@
    "versions": [
     {
      "from": "2014-11-05",
-     "units": 4,
+     "units": 36,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162762",
      "sha256": "555ab1a7465f54ba31374e02a660d523ee21ef41519f14a49a6cf2bc3d31f008"
     }
@@ -8621,7 +10376,7 @@
    "versions": [
     {
      "from": "2014-08-28",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160917",
      "sha256": "488d878560689a37c9ee5c7dd4087e8a9a4ed2fce272d675227e9e06f1e0ce52"
     }
@@ -8651,7 +10406,7 @@
    "versions": [
     {
      "from": "2014-09-26",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161622",
      "sha256": "ecbf9205b5d81f3933213d404c6a4f31ec9fe13e4cab36074c40008f16db7ffa"
     }
@@ -8681,7 +10436,7 @@
    "versions": [
     {
      "from": "2014-10-09",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161973",
      "sha256": "0e71fb06a6a9c61f5a7eef856d14cf488093a12fcf3f5cdbdfb26b986a1dd80d"
     }
@@ -8786,7 +10541,7 @@
    "versions": [
     {
      "from": "2014-03-05",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156099",
      "sha256": "45a9014cb247459064dda58450d30fcfe319568e064494ef6ab2631f4f52f60f"
     }
@@ -9011,7 +10766,7 @@
    "versions": [
     {
      "from": "2014-09-15",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161317",
      "sha256": "7f66fb2a9dfa0c7a4b178c41d4181680409a1caaeeced6af6e6ddcd26913f3f7"
     }
@@ -9191,7 +10946,7 @@
    "versions": [
     {
      "from": "2014-10-22",
-     "units": 20,
+     "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162362",
      "sha256": "a067bef1452265006ed1ba1deb5b2402310c20892457a2ba00226a495d9d40d0"
     }
@@ -9221,7 +10976,7 @@
    "versions": [
     {
      "from": "2014-10-23",
-     "units": 14,
+     "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162416",
      "sha256": "43378341394f36dc4caea8e6ddeab8cfaa7e58f0e80c3a6ec62d121f79595e2e"
     }
@@ -9266,7 +11021,7 @@
    "versions": [
     {
      "from": "2014-10-22",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162354",
      "sha256": "a69dfae73f65a510adadbbe435d5828960711f31edd6b436703ccc8c1c9d9838"
     }
@@ -9461,7 +11216,7 @@
    "versions": [
     {
      "from": "2014-12-12",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163760",
      "sha256": "fb0dc8a505718d9e12b2fe11bf0acf2d1149df8a07183b4ca3bfcfd142de4fb6"
     }
@@ -9476,7 +11231,7 @@
    "versions": [
     {
      "from": "2014-12-12",
-     "units": 11,
+     "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163765",
      "sha256": "144ebfb21d2e942788d10b41000ab90e6a87a3cc2de375ba0fe797d359c6ad64"
     }
@@ -9521,7 +11276,7 @@
    "versions": [
     {
      "from": "2014-12-29",
-     "units": 34,
+     "units": 36,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164199",
      "sha256": "fc8ff867cb4c0fce5b796b92caab99ed6f9f90da72d57aaea359d4e1bf67a34e"
     }
@@ -9566,7 +11321,7 @@
    "versions": [
     {
      "from": "2014-12-23",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164178",
      "sha256": "c97aee7cbe60ed1210fd863bc14514e2ff24e2fbc151ed1ea071475ba5454bf4"
     }
@@ -9611,7 +11366,7 @@
    "versions": [
     {
      "from": "2015-01-07",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164404",
      "sha256": "8a5cb640be26bb4b88f3340d465fef27bbed363f3e85c40cec8dc4d2051fbf17"
     }
@@ -9896,7 +11651,7 @@
    "versions": [
     {
      "from": "2014-04-08",
-     "units": 4,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157225",
      "sha256": "e987bc795bf97d7132ed4373a132775625db1ecf74b7a8523d7eafed4812ea7c"
     }
@@ -9971,7 +11726,7 @@
    "versions": [
     {
      "from": "2014-07-09",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159748",
      "sha256": "4d712e73e050b0d4cf387e18c3539fad0d6842d8eb04b57617a09592de1ae5f3"
     }
@@ -10211,7 +11966,7 @@
    "versions": [
     {
      "from": "2014-05-30",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158684",
      "sha256": "14dc2524db47f9c44aeb8b7149a4c38bd8fbab4b635cb98213e871cf045db80f"
     }
@@ -10256,7 +12011,7 @@
    "versions": [
     {
      "from": "2014-06-06",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158856",
      "sha256": "1c87409c4361a8252671aa5e074bf1be7c4624d8fd176a1054b6dcbd8021b641"
     }
@@ -10406,7 +12161,7 @@
    "versions": [
     {
      "from": "2014-07-01",
-     "units": 28,
+     "units": 30,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159478",
      "sha256": "fe3ec82b0959fa63671b4f608c74c027fd5b7d1e14e00b3b93839c9e55e615f8"
     }
@@ -10436,7 +12191,7 @@
    "versions": [
     {
      "from": "2014-11-09",
-     "units": 33,
+     "units": 37,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162038",
      "sha256": "dd9901fbca7132acc4379057eb074a90e57f1e0880acf811af53733b2b14662c"
     }
@@ -10496,7 +12251,7 @@
    "versions": [
     {
      "from": "2014-07-28",
-     "units": 20,
+     "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160204",
      "sha256": "64e6f62993cea7d383c100bcef2501c7cdaafe52ca885d4979b5fb8a4d54d428"
     }
@@ -10541,7 +12296,7 @@
    "versions": [
     {
      "from": "2014-08-07",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160503",
      "sha256": "1237031e05778e621dd7d0e8e11d8f29e33a6f60e84703350edbc096240fdc15"
     }
@@ -11051,7 +12806,7 @@
    "versions": [
     {
      "from": "2014-12-08",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/163625",
      "sha256": "999ced6ecc9fdf2b09aaef3a5a2a38cd19d35e1e23f4a7434ffdbdb26ea3fa3b"
     }

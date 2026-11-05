@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "precizari/1998",
+"acts": [
+{
+"slug": "precizari-educatie-27031-1998",
+"path": "precizari/educatie/1998/27031",
+"kind": "precizari",
+"year": "1998",
+"number": "27031",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizările nr. 27.031/1998 cu privire la condițiile necesare ocupării funcției didactice de institutor",
+"short": "Precizări educatie nr. 27031/1998",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1998-04-27",
+"latest": "1998-04-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/14588",
+"issuer": "educatie",
+"joint": []
+},
+{
+"slug": "precizari-educatie-27034-1998",
+"path": "precizari/educatie/1998/27034",
+"kind": "precizari",
+"year": "1998",
+"number": "27034",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizările nr. 27.034/1998 referitoare la stabilirea vechimii în învățământ pentru persoanele provenite din alte sectoare de activitate, care au profesat în specialitatea înscrisă pe diploma de studii",
+"short": "Precizări educatie nr. 27034/1998",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1998-04-27",
+"latest": "1998-04-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/14590",
+"issuer": "educatie",
+"joint": []
+}
+]
+}

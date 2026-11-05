@@ -153,6 +153,96 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1305-2005",
+   "path": "ordin/agricultura/2005/1305",
+   "short": "Ordin agricultura nr. 1305/2005",
+   "title": "Ordinul nr. 1.305/2005 pentru aprobarea modelului de uniformă de serviciu a personalului silvic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68909",
+   "versions": [
+    {
+     "from": "2006-02-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68909",
+     "sha256": "9a9b9007181efb1f60907b72e9936bde319c694600423c230b38b05daf98c8d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1306-2005",
+   "path": "ordin/agricultura/2005/1306",
+   "short": "Ordin agricultura nr. 1306/2005",
+   "title": "Ordinul nr. 1.306/2005 privind aprobarea Procedurii de aprobare, modificare, anulare și casare a actelor de punere în valoare pentru produsele lemnoase provenite din fondul forestier, altul decât cel proprietate publică a statului, precum și din vegetația forestieră din afara fondului forestier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67856",
+   "versions": [
+    {
+     "from": "2006-01-13",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67856",
+     "sha256": "cfabc97a7e122b560d8ac6f701a2072d749f2afafd087fc648db599fd86db6f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1345-2005",
+   "path": "ordin/agricultura/2005/1345",
+   "short": "Ordin agricultura nr. 1345/2005",
+   "title": "Ordinul nr. 1.345/2005 privind recunoașterea Consiliului pe produs \"Sfeclă de zahăr, zahăr și produse procesate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67767",
+   "versions": [
+    {
+     "from": "2006-01-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67767",
+     "sha256": "629981d48caff287c0421031496896c2802f16c811fc9c490fc0ff988fc7096b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1350-2005",
+   "path": "ordin/agricultura/2005/1350",
+   "short": "Ordin agricultura nr. 1350/2005",
+   "title": "Ordinul nr. 1.350/2005 privind aprobarea Listei societăților de asigurare și asigurare-reasigurare care practică asigurări pentru culturi agricole, animale, păsări, familii de albine și pești, agreate de Ministerul Agriculturii, Pădurilor și Dezvoltării Rurale, pentru anul agricol 2005-2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67633",
+   "versions": [
+    {
+     "from": "2006-01-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67633",
+     "sha256": "53266710fd3f4f8aef1d5644e02ef02435c48794668a243735822efaad7cfe7d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1363-2005",
+   "path": "ordin/agricultura/2005/1363",
+   "short": "Ordin agricultura nr. 1363/2005",
+   "title": "Ordinul nr. 1.363/2005 privind aprobarea prețurilor de referință pentru anul 2006, pe baza cărora se stabilește contravaloarea materialelor lemnoase ce nu se găsesc, la a cărei plată este obligat contravenientul în cazurile de aplicare a sancțiunilor prevăzute de art. 4 alin. (1) lit. g) din Hotărârea Guvernului nr. 427/2004 privind aprobarea Normelor privind circulația materialelor lemnoase și controlul circulației acestora și al instalațiilor de transformat lemn rotund",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67755",
+   "versions": [
+    {
+     "from": "2006-01-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67755",
+     "sha256": "09161b0ffebf957eee61abe22ec999d2bd65b343b9a4d50d40d6873f26c81ad1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1388-2005",
+   "path": "ordin/agricultura/2005/1388",
+   "short": "Ordin agricultura nr. 1388/2005",
+   "title": "Ordinul nr. 1.388/2005 privind stabilirea Condițiilor de aprobare a cumpărătorilor de lapte de vacă și a formularului de cerere pentru aprobarea și înscrierea acestora în Registrul cumpărătorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67921",
+   "versions": [
+    {
+     "from": "2006-01-13",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67921",
+     "sha256": "5b639718a1faa358fb2382d66ff284af49f5de73521666711ed95d201f1d6ed4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-143-2005",
    "path": "ordin/agricultura/2005/143",
    "short": "Ordin agricultura nr. 143/2005",
@@ -5328,6 +5418,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3032-2005",
+   "path": "ordin/educatie/2005/3032",
+   "short": "Ordin educatie nr. 3032/2005",
+   "title": "Ordinul nr. 3.032/2005 pentru aprobarea Regulamentului privind acordarea de distincții și premii personalului didactic din învățământul preuniversitar de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58834",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58834",
+     "sha256": "6c47aa099641037507bb04ed210c5355714eb4da3c779f7f89eb30238c22a5bc"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3327-2005",
    "path": "ordin/educatie/2005/3327",
    "short": "Ordin educatie nr. 3327/2005",
@@ -5351,7 +5456,7 @@
    "versions": [
     {
      "from": "2005-05-10",
-     "units": 14,
+     "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61561",
      "sha256": "50d3ad8870397813147d2d731cc2c45bd0b55f42dad06108eb064ca6f5d17397"
     }
@@ -5373,6 +5478,306 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3502-2005",
+   "path": "ordin/educatie/2005/3502",
+   "short": "Ordin educatie nr. 3502/2005",
+   "title": "Ordinul nr. 3.502/2005 pentru aprobarea Regulamentului privind actele de studii și documentele școlare în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61147",
+   "versions": [
+    {
+     "from": "2005-04-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61147",
+     "sha256": "4f913175d99c18734272e514989aad0617700936e51650dee7dd378170acfa31"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3632-2005",
+   "path": "ordin/educatie/2005/3632",
+   "short": "Ordin educatie nr. 3632/2005",
+   "title": "Ordinul nr. 3.632/2005 pentru completarea Ordinului ministrului educației și cercetării nr. 4.847 bis/2004 privind aprobarea Metodologiei pentru utilizarea funcției didactice auxiliare de administrator financiar (patrimoniu) și echivalarea acesteia cu funcțiile de specialitate prevăzute la cap. I lit. a) și c) din anexa nr. V/1 și cu unele funcții cuprinse în anexa nr. V/2 la Ordonanța de urgență a Guvernului nr. 191/2002, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60435",
+   "versions": [
+    {
+     "from": "2005-04-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60435",
+     "sha256": "c73a018b32e8edb92656a2b263b6447fd8e358ae688b608fa03f8da7e8ecfb4d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3669-2005",
+   "path": "ordin/educatie/2005/3669",
+   "short": "Ordin educatie nr. 3669/2005",
+   "title": "Ordinul nr. 3.669/2005 pentru modificarea și completarea Ordinului ministrului educației și cercetării nr. 5.262/2004 privind aprobarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea posturilor/catedrelor didactice vacante din unitățile de învățământ preuniversitar din județele-pilot",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60354",
+   "versions": [
+    {
+     "from": "2005-03-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60354",
+     "sha256": "b010fdb2ba50eaa7172f50a99b3ebe7e49629a78fe7e539662e2f4652c84c2a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3690-2005",
+   "path": "ordin/educatie/2005/3690",
+   "short": "Ordin educatie nr. 3690/2005",
+   "title": "Ordinul nr. 3.690/2005 cu privire la structura anului școlar 2005-2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60436",
+   "versions": [
+    {
+     "from": "2005-04-04",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60436",
+     "sha256": "61145938902dec0ac8b7af74d5270d70cdf3da1c1369c28d18a39bf8336ecf59"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3861-2005",
+   "path": "ordin/educatie/2005/3861",
+   "short": "Ordin educatie nr. 3861/2005",
+   "title": "Ordinul nr. 3.861/2005 privind înființarea programelor de cercetare postdoctorală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61589",
+   "versions": [
+    {
+     "from": "2005-05-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61589",
+     "sha256": "0d11cee2a585ab9b3ce5f91a5097c0eeda81664f40036a194f4748057e1a0adf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3972-2005",
+   "path": "ordin/educatie/2005/3972",
+   "short": "Ordin educatie nr. 3972/2005",
+   "title": "Ordinul nr. 3.972/2005 privind sesiunea specială de bacalaureat 2005 pentru elevii de clasa a XII-a participanți la loturile olimpice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62133",
+   "versions": [
+    {
+     "from": "2005-06-03",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62133",
+     "sha256": "6dbe7d1f477a72521e1b555657f8f510c60aa73ff70c58fdcbc150091aea18ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3973-2005",
+   "path": "ordin/educatie/2005/3973",
+   "short": "Ordin educatie nr. 3973/2005",
+   "title": "Ordinul nr. 3.973/2005 cu privire la aprobarea Metodologiei de elaborare, avizare și aprobare a standardelor de pregătire profesională și a curriculumului pentru învățământul postliceal și a Reperelor metodologice pentru proiectarea standardelor de pregătire profesională și a curriculumului pentru învățământul postliceal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62187",
+   "versions": [
+    {
+     "from": "2005-06-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62187",
+     "sha256": "81d7e2401832cc9bc33296b3ebf37f48c915bd07bc82e2b40ab7345f94366890"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3974-2005",
+   "path": "ordin/educatie/2005/3974",
+   "short": "Ordin educatie nr. 3974/2005",
+   "title": "Ordinul nr. 3.974/2005 privind aprobarea Manualului de scriere a unităților de competență, elaborat în cadrul Programului PHARE 2001 de modernizare a învățământului profesional și tehnic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62217",
+   "versions": [
+    {
+     "from": "2005-06-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62217",
+     "sha256": "26941f051674bfab7263abf6cf65dd1028745829e326c44069b7dac5f927135b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3993-2005",
+   "path": "ordin/educatie/2005/3993",
+   "short": "Ordin educatie nr. 3993/2005",
+   "title": "Ordinul nr. 3.993/2005 privind constituirea Registrului național al experților în învățământul superior și cercetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61364",
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61364",
+     "sha256": "ae4245a531f1746b215fdb6916f69d8ee522c05e4071cc6f25f246aa9eae814e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4046-2005",
+   "path": "ordin/educatie/2005/4046",
+   "short": "Ordin educatie nr. 4046/2005",
+   "title": "Ordinul nr. 4.046/2005 privind sesiunea specială de teste naționale 2005 pentru elevii de clasa a VIII-a participanți la lotul olimpic sportiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61840",
+   "versions": [
+    {
+     "from": "2005-05-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61840",
+     "sha256": "db6fa2e306295e89a41235ebde1caf85ea18ea903d58702b92383cd67d670076"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4058-2005",
+   "path": "ordin/educatie/2005/4058",
+   "short": "Ordin educatie nr. 4058/2005",
+   "title": "Ordinul nr. 4.058/2005 privind aprobarea Metodologiei de organizare și desfășurare a concursului pentru funcțiile de director și director adjunct din învățământul preuniversitar de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62071",
+   "versions": [
+    {
+     "from": "2005-05-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62071",
+     "sha256": "4a037379af9004f4f63d2b5d417dc21ca92f32020d42c32ac7e53328c55aa39c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4399-2005",
+   "path": "ordin/educatie/2005/4399",
+   "short": "Ordin educatie nr. 4399/2005",
+   "title": "Ordinul nr. 4.399/2005 pentru echivalarea funcțiilor și gradelor de cercetare-dezvoltare dobândite anterior intrării în vigoare a Legii nr. 319/2003 privind Statutul personalului de cercetare-dezvoltare, cu funcțiile corespunzătoare gradelor profesionale de cercetare-dezvoltare stabilite prin Legea nr. 319/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63194",
+   "versions": [
+    {
+     "from": "2005-07-15",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63194",
+     "sha256": "d2d641bec4418275f764e2aef7bb4bc1e81d4f4f68adccbd791878d9a2ab70f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4491-2005",
+   "path": "ordin/educatie/2005/4491",
+   "short": "Ordin educatie nr. 4491/2005",
+   "title": "Ordinul nr. 4.491/2005 privind organizarea și desfășurarea studiilor universitare de doctorat începând cu anul universitar 2005/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62965",
+   "versions": [
+    {
+     "from": "2005-07-07",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62965",
+     "sha256": "4537d16432b9e371817e93d23899fb70d74d58c48fbbfafa0c3a592b5711b1b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4492-2005",
+   "path": "ordin/educatie/2005/4492",
+   "short": "Ordin educatie nr. 4492/2005",
+   "title": "Ordinul nr. 4.492/2005 privind promovarea eticii profesionale în universități",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63007",
+   "versions": [
+    {
+     "from": "2005-07-11",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63007",
+     "sha256": "80fa5f5df000afed4ecaa52ad9221fa6a8e04c123abb3d46f34f47679119a077"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4561-2005",
+   "path": "ordin/educatie/2005/4561",
+   "short": "Ordin educatie nr. 4561/2005",
+   "title": "Ordinul nr. 4.561/2005 privind recunoașterea definitivării în învățământ și a gradelor didactice II și I potrivit prevederilor Legii nr. 128/1997 privind Statutul personalului didactic, modificată și completată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63730",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63730",
+     "sha256": "3b7c73288a9f964e69b90ee82dabb61e32831770bcb49836ba374f080e3600b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4626-2005",
+   "path": "ordin/educatie/2005/4626",
+   "short": "Ordin educatie nr. 4626/2005",
+   "title": "Ordinul nr. 4.626/2005 privind aprobarea Metodologiei de recuperare a documentelor pierdute, distruse ori deteriorate și de taxare a serviciilor și a nerespectării termenelor de restituire a publicațiilor împrumutate din bibliotecile cuprinse în rețeaua învățământului, precum și a Precizărilor privind calculul valoric al acestor documente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63880",
+   "versions": [
+    {
+     "from": "2005-08-03",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63880",
+     "sha256": "01f18106c5106bcf9204bb8eb53407e7895730e2b7e961ffdf8f7f665ca3181f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4655-2005",
+   "path": "ordin/educatie/2005/4655",
+   "short": "Ordin educatie nr. 4655/2005",
+   "title": "Ordinul nr. 4.655/2005 pentru aprobarea Metodologiei privind evaluarea unităților de învățământ preuniversitar în vederea acreditării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64377",
+   "versions": [
+    {
+     "from": "2005-08-22",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64377",
+     "sha256": "8a843635ae3bd06400895014e61a7661b370f9c5801acebc94f0b7c9492d64d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4680-2005",
+   "path": "ordin/educatie/2005/4680",
+   "short": "Ordin educatie nr. 4680/2005",
+   "title": "Ordinul nr. 4.680/2005 pentru completarea Ordinului ministrului educației și cercetării nr. 4.547/2004 privind aprobarea Regulamentului de organizare și desfășurare a concursurilor pentru ocuparea posturilor de lectori români în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65939",
+   "versions": [
+    {
+     "from": "2005-11-16",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65939",
+     "sha256": "4d5cce59171c8a256bc16280dbbe64f186c9c58e5e0141ef3a9c5f5f3c0cccbb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4788-2005",
+   "path": "ordin/educatie/2005/4788",
+   "short": "Ordin educatie nr. 4788/2005",
+   "title": "Ordinul nr. 4.788/2005 pentru salarizarea funcției de maistru instructor cu studii superioare de lungă și scurtă durată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64426",
+   "versions": [
+    {
+     "from": "2005-09-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64426",
+     "sha256": "4cf5ae0cb8ed6773fa7ae6623b0823f2b2ad85a163bb32495f3b2650ef8b41b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4805-2005",
+   "path": "ordin/educatie/2005/4805",
+   "short": "Ordin educatie nr. 4805/2005",
+   "title": "Ordinul nr. 4.805/2005 privind continuarea activității de către persoanele care ocupă posturi didactice în învățământul superior în temeiul excepției instituite prin art. 141 și 142 din Legea nr. 128/1997 privind Statutul personalului didactic, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64427",
+   "versions": [
+    {
+     "from": "2005-08-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64427",
+     "sha256": "900ccd00834beda57d7da3e67c844d5619d744a180eed4325ca4981912ad9134"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4840-2005",
    "path": "ordin/educatie/2005/4840",
    "short": "Ordin educatie nr. 4840/2005",
@@ -5384,6 +5789,291 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64935",
      "sha256": "31d03584ce964430bf5ec81d176a13e1658f1a807209cfbca0a3fe9ad06297df"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4871-2005",
+   "path": "ordin/educatie/2005/4871",
+   "short": "Ordin educatie nr. 4871/2005",
+   "title": "Ordinul nr. 4.871/2005 cu privire la aprobarea Calendarului și a Metodologiei de organizare și desfășurare a testelor naționale, susținute în vederea accesului absolvenților clasei a VIII-a în clasa a IX-a a anului școlar 2006-2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64915",
+   "versions": [
+    {
+     "from": "2005-09-09",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64915",
+     "sha256": "2de91624ccfdded9f459d067ff32bd2c6f85205c0ddf087e05be393c84c2ed2c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4872-2005",
+   "path": "ordin/educatie/2005/4872",
+   "short": "Ordin educatie nr. 4872/2005",
+   "title": "Ordinul nr. 4.872/2005 privind aprobarea Calendarului examenului de bacalaureat - 2006 și a Metodologiei de organizare și desfășurare a examenului de bacalaureat - 2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65041",
+   "versions": [
+    {
+     "from": "2005-09-15",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65041",
+     "sha256": "4bb591abc10685886b6e0f231ab7e479da654228d7a7fd87997f66fca8c4c367"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4923-2005",
+   "path": "ordin/educatie/2005/4923",
+   "short": "Ordin educatie nr. 4923/2005",
+   "title": "Ordinul nr. 4.923/2005 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 769/2005 privind acordarea unor burse de studii unor studenți cu domiciliul în mediul rural",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65191",
+   "versions": [
+    {
+     "from": "2005-09-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65191",
+     "sha256": "a74278c1e48bc314841dca5fea338a03f2513700e1a863ab4c04c7ef5d721dc3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4925-2005",
+   "path": "ordin/educatie/2005/4925",
+   "short": "Ordin educatie nr. 4925/2005",
+   "title": "Ordinul nr. 4.925/2005 pentru aprobarea Regulamentului de organizare și funcționare a unităților de învățământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65325",
+   "versions": [
+    {
+     "from": "2005-09-29",
+     "units": 175,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65325",
+     "sha256": "6477737da30ebf6d07c60020f9986163f98a77abee43fbc827a3d1bde855e56d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5020-2005",
+   "path": "ordin/educatie/2005/5020",
+   "short": "Ordin educatie nr. 5020/2005",
+   "title": "Ordinul nr. 5.020/2005 privind aprobarea Metodologiei de organizare și desfășurare a admiterii în învățământul liceal și profesional de stat pentru anul școlar 2006-2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35075",
+   "versions": [
+    {
+     "from": "2005-10-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35075",
+     "sha256": "b7aac50bcc5f9dfe433276b5e2c0d9b3af4434df217c15987de5b8e002a4ce7c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5021-2005",
+   "path": "ordin/educatie/2005/5021",
+   "short": "Ordin educatie nr. 5021/2005",
+   "title": "Ordinul nr. 5.021/2005 pentru aprobarea Metodologiei privind continuarea studiilor după finalizarea învățământului obligatoriu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31799",
+   "versions": [
+    {
+     "from": "2005-10-18",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31799",
+     "sha256": "7f2b0bb2808093f3fb3eeb06cd1456b5f46f5bcb25a2077f458336be66a667cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5051-2005",
+   "path": "ordin/educatie/2005/5051",
+   "short": "Ordin educatie nr. 5051/2005",
+   "title": "Ordinul nr. 5.051/2005 privind aprobarea graficului de desfășurare a examenelor de certificare/absolvire a învățământului profesional, liceal filieră tehnologică și postliceal în anul școlar 2005-2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31721",
+   "versions": [
+    {
+     "from": "2005-10-13",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31721",
+     "sha256": "fbb8c4d22dee10c00d0189c4e81a8643c7f5b03add3ecff140a84776b015b2a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5098-2005",
+   "path": "ordin/educatie/2005/5098",
+   "short": "Ordin educatie nr. 5098/2005",
+   "title": "Ordinul nr. 5.098/2005 pentru aprobarea Sistemului de evaluare privind conferirea titlului de profesor universitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34936",
+   "versions": [
+    {
+     "from": "2005-10-21",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34936",
+     "sha256": "dc329d2a23f67c7b53369cdc870591bec319e3c17652d8d4b7378a16a31d93a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5099-2005",
+   "path": "ordin/educatie/2005/5099",
+   "short": "Ordin educatie nr. 5099/2005",
+   "title": "Ordinul nr. 5.099/2005 pentru aprobarea Sistemului de evaluare privind conferirea titlului de conferențiar universitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34950",
+   "versions": [
+    {
+     "from": "2005-10-21",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34950",
+     "sha256": "4a8f6add956f4a2bad6af0db91bdc567f1190f5bc84176ff2fe55b7b9a5bcd76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5100-2005",
+   "path": "ordin/educatie/2005/5100",
+   "short": "Ordin educatie nr. 5100/2005",
+   "title": "Ordinul nr. 5.100/2005 pentru aprobarea Sistemului de evaluare privind conferirea titlului de cercetător științific gradul I",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34951",
+   "versions": [
+    {
+     "from": "2005-10-21",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34951",
+     "sha256": "980ded2831e97e41459d4ae2c8dac34cbaa859369135c05137627cc2776c6e88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5101-2005",
+   "path": "ordin/educatie/2005/5101",
+   "short": "Ordin educatie nr. 5101/2005",
+   "title": "Ordinul nr. 5.101/2005 pentru aprobarea Sistemului de evaluare privind conferirea titlului de cercetător științific gradul II",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34952",
+   "versions": [
+    {
+     "from": "2005-10-21",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34952",
+     "sha256": "ee42f4447f379387a26d07a155d28e625b81c4dfd6068e484808124477124f5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5351-2005",
+   "path": "ordin/educatie/2005/5351",
+   "short": "Ordin educatie nr. 5351/2005",
+   "title": "Ordinul nr. 5.351/2005 privind aprobarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea funcțiilor de inspector școlar general/inspector școlar general adjunct din inspectoratele școlare și de director al casei corpului didactic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65692",
+   "versions": [
+    {
+     "from": "2005-11-07",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65692",
+     "sha256": "f5b8613fd60a4130d035206e0210ce2e855d4c92b36758d1f8c22e2c67df1907"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5357-2005",
+   "path": "ordin/educatie/2005/5357",
+   "short": "Ordin educatie nr. 5357/2005",
+   "title": "Ordinul nr. 5.357/2005 pentru aprobarea Normelor metodologice privind înscrierea la studii universitare de doctorat a cetățenilor străini începând cu anul universitar 2005-2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67693",
+   "versions": [
+    {
+     "from": "2006-01-05",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67693",
+     "sha256": "17f43d709bc446dde4cab07afaba0c3ddc10f1d182615f1b0a05eb43f68cc70a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5419-2005",
+   "path": "ordin/educatie/2005/5419",
+   "short": "Ordin educatie nr. 5419/2005",
+   "title": "Ordinul nr. 5.419/2005 privind aprobarea Metodologiei de organizare și desfășurare a examenului de certificare a competențelor profesionale pentru obținerea certificatului de calificare profesională nivel 1 și nivel 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66448",
+   "versions": [
+    {
+     "from": "2005-12-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66448",
+     "sha256": "6d985dd4e94446407903c2992169f423730e7bbe43b9645cce569faf89b91233"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5440-2005",
+   "path": "ordin/educatie/2005/5440",
+   "short": "Ordin educatie nr. 5440/2005",
+   "title": "Ordinul nr. 5.440/2005 privind aprobarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea posturilor/ catedrelor didactice declarate vacante în unitățile de învățământ preuniversitar din județele-pilot",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66273",
+   "versions": [
+    {
+     "from": "2005-11-28",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66273",
+     "sha256": "cffb565ed173941a1ee0d956ef148ba97b82dce98dcf6f5dff864e822c656811"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5441-2005",
+   "path": "ordin/educatie/2005/5441",
+   "short": "Ordin educatie nr. 5441/2005",
+   "title": "Ordinul nr. 5.441/2005 pentru aprobarea Metodologiei privind mișcarea personalului didactic din învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66464",
+   "versions": [
+    {
+     "from": "2005-11-30",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66464",
+     "sha256": "c6e3d8c6892ca4e13b3e8a4787d698c1ba3e989e16e8255edb65f00badb6bf2c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5442-2005",
+   "path": "ordin/educatie/2005/5442",
+   "short": "Ordin educatie nr. 5442/2005",
+   "title": "Ordinul nr. 5.442/2005 privind aprobarea Calendarului mișcării personalului didactic din învățământul preuniversitar pentru anul scolar 2006/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66078",
+   "versions": [
+    {
+     "from": "2005-11-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66078",
+     "sha256": "26106dbc0fbfdd483ef0bc7d5ebdd578192cc7aab0a74193409627c0e1519575"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5462-2005",
+   "path": "ordin/educatie/2005/5462",
+   "short": "Ordin educatie nr. 5462/2005",
+   "title": "Ordinul nr. 5.462/2005 privind programele valabile pentru concursul național unic pentru ocuparea posturilor didactice declarate vacante în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66452",
+   "versions": [
+    {
+     "from": "2005-12-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66452",
+     "sha256": "eada673681f3a3e0b802691dc088d24dd859124c0d13d60435fa638769f87924"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5466-2005",
+   "path": "ordin/educatie/2005/5466",
+   "short": "Ordin educatie nr. 5466/2005",
+   "title": "Ordinul nr. 5.466/2005 privind aprobarea Metodologiei și a criteriilor de acordare a gradației de merit și a salariului de merit în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66198",
+   "versions": [
+    {
+     "from": "2005-11-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66198",
+     "sha256": "dc96f0429fe0c30a040f43bad48bdcf9dc51608ae0accddd8c2b8cc02fc0aab7"
     }
    ]
   },
@@ -6146,7 +6836,7 @@
    "versions": [
     {
      "from": "2005-03-29",
-     "units": 10,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60356",
      "sha256": "23f25bcd6cbcb62dda7611d1e2d398c58b048fefcfefaceb0b49144a22e74234"
     }
@@ -6356,7 +7046,7 @@
    "versions": [
     {
      "from": "2005-05-05",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61350",
      "sha256": "3ffebe601a946baf946e04d608fc7a88a772e38091d73918170f3e1c6d020496"
     }
@@ -6371,7 +7061,7 @@
    "versions": [
     {
      "from": "2005-05-16",
-     "units": 9,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61646",
      "sha256": "290e82c4c8a2c56f3e5b144c6b271ec620427063842f4ce8a6cbdaff1f65f74d"
     }
@@ -6806,7 +7496,7 @@
    "versions": [
     {
      "from": "2005-08-03",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63901",
      "sha256": "be16b0d07e3ed04a728c6c02a663c982e44734238429d210d5f03228b5409bf7"
     }
@@ -8486,7 +9176,7 @@
    "versions": [
     {
      "from": "2005-09-09",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64903",
      "sha256": "8b9e09f419a7888bc1b9e38491e3e58e0ee89d82c6eb6f03e10ed996bba76b90"
     }
@@ -8531,7 +9221,7 @@
    "versions": [
     {
      "from": "2005-09-16",
-     "units": 7,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65062",
      "sha256": "b198d70f1fd0dbe3a3639d8b51ddbe6ca211338228411b3143593f10a64712d8"
     }
@@ -8981,7 +9671,7 @@
    "versions": [
     {
      "from": "2005-11-16",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65968",
      "sha256": "b65f74f35430ab2398b1b26b3a6786ffd5f1dc76ff19ed80e68aa21608ec851c"
     }
@@ -9221,7 +9911,7 @@
    "versions": [
     {
      "from": "2006-01-26",
-     "units": 20,
+     "units": 24,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68208",
      "sha256": "6c0daf29006000011cf1d33e2176e8fe7856ce2e9ebf031c53534d8bd2a1f2c9"
     }
@@ -9791,7 +10481,7 @@
    "versions": [
     {
      "from": "2005-05-31",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62087",
      "sha256": "2ce7ab8689ad272d27db1836bf33e31384901d4ae1bb8a6dcfdde800a15d1eba"
     }
@@ -9881,7 +10571,7 @@
    "versions": [
     {
      "from": "2005-06-29",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62701",
      "sha256": "32118b1a6d640294262f235f9f7204ac6d51c57471011d0cb90bc48d5a41e08b"
     }
@@ -9926,7 +10616,7 @@
    "versions": [
     {
      "from": "2005-02-14",
-     "units": 146,
+     "units": 150,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59214",
      "sha256": "87bfad20925578c2a35c15c41b410bd173b5492cb428ce113a9c9efc804e3591"
     }

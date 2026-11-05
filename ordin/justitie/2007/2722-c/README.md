@@ -2,7 +2,7 @@
 
 Ordin justitie nr. 2722/C/2007 · 1 versions, from 2007-11-15 (latest in force: 2007-11-15) · <https://legislatie.just.ro/Public/DetaliiDocument/86988>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (A ┌─────────────────────────┬──────────────────────────────────┬─────────────────┐ │I. │II. CERERE │III. │ │ │ [] înregistrare în registrul │ │ │ │ comerțului ...): it is a table that the official text holds only flattened; Anexa nr. 4 (B ┌────────────────────┬────────────────────────────────┬────────────────────────┐ │ I. │ II. MODEL 1 │ III. │ │ │ │ │ │ │ │ OFICIUL REGISTRULUI │ │ Spre ...): it is a table that the official text holds only flattened; Anexa nr. 5 (C ┌────────────────────┬────────────────────────────────┬────────────────────────┐ │ I. │ II. MODEL 2 │ III. │ │ │ │ │ │ │ │ OFICIUL REGISTRULUI │ │ Spre ...): it is a table that the official text holds only flattened; Anexa nr. 6 (D ┌────────────────────┬────────────────────────────────┬────────────────────────┐ │ I. │ II. MODEL 3 │ III. │ │ │ │ │ │ │ │ OFICIUL REGISTRULUI │ │ Spre ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (A): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,6 +18,12 @@ Ordin justitie nr. 2722/C/2007 · 1 versions, from 2007-11-15 (latest in force: 
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 
 Act id: `ordin-justitie-2722-c-2007` (tags `ordin-justitie-2722-c-2007/<day>`; `python tools/on.py <day> ordin-justitie-2722-c-2007`).
 
@@ -29,7 +35,7 @@ Act id: `ordin-justitie-2722-c-2007` (tags `ordin-justitie-2722-c-2007/<day>`; `
 - Ordin justitie nr. 2722/C/2007: the signatures and the place and date line after its last article are not article text.
 - Ordin justitie nr. 2722/C/2007: Anexa nr. 2 (A1 Nr. intrare:......... data........... REFERITOR LA ÎNREGISTRAREA FISCALĂ DECLAR URMĂTOARELE*1): I. DATE PRIVIND VECTORUL FISCAL 1. [] Taxa pe valoarea adăugată*2) 1.1. Cifra de afaceri estimată a s) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 86988 of the official web service.
 - Ordin justitie nr. 2722/C/2007: Anexa nr. 3 (A2 Nr. intrare:.......... data:.............. REFERITOR LA INVESTIȚIA STRĂINĂ, pentru evidența statistică, declar următoarele: 1. Investiție străină în total capital: total................... echivale) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 86988 of the official web service.
-- Ordin justitie nr. 2722/C/2007: Anexa nr. 1 (A ┌─────────────────────────┬──────────────────────────────────┬─────────────────┐ │I. │II. CERERE │III. │ │ │ [] înregistrare în registrul │ │ │ │ comerțului ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin justitie nr. 2722/C/2007: Anexa nr. 4 (B ┌────────────────────┬────────────────────────────────┬────────────────────────┐ │ I. │ II. MODEL 1 │ III. │ │ │ │ │ │ │ │ OFICIUL REGISTRULUI │ │ Spre ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin justitie nr. 2722/C/2007: Anexa nr. 5 (C ┌────────────────────┬────────────────────────────────┬────────────────────────┐ │ I. │ II. MODEL 2 │ III. │ │ │ │ │ │ │ │ OFICIUL REGISTRULUI │ │ Spre ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin justitie nr. 2722/C/2007: Anexa nr. 6 (D ┌────────────────────┬────────────────────────────────┬────────────────────────┐ │ I. │ II. MODEL 3 │ III. │ │ │ │ │ │ │ │ OFICIUL REGISTRULUI │ │ Spre ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin justitie nr. 2722/C/2007: Anexa nr. 4 (B) is part of the order and is published in its folder, anexa-4/ (paragraphs and tables), from document 86988 of the official web service.
+- Ordin justitie nr. 2722/C/2007: Anexa nr. 5 (C) is part of the order and is published in its folder, anexa-5/ (paragraphs and tables), from document 86988 of the official web service.
+- Ordin justitie nr. 2722/C/2007: Anexa nr. 6 (D) is part of the order and is published in its folder, anexa-6/ (paragraphs and tables), from document 86988 of the official web service.
+- Ordin justitie nr. 2722/C/2007: Anexa nr. 1 (A) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

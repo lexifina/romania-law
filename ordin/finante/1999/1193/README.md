@@ -2,7 +2,7 @@
 
 Ordin finante nr. 1193/1999 · 1 versions, from 1999-10-25 (latest in force: 1999-10-25) · <https://legislatie.just.ro/Public/DetaliiDocument/19681>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 1 (1 Modelele și conținutul formularelor: 1. Fișa fiscală 1 (pentru venituri din salarii la funcția de baza - FF1) 2. Fișa fiscală 2 (pentru venituri din salarii, ...): it is a table that the official text holds only flattened; Anexa nr. 3 (4 STAT DE SALARII (cod 14-5-1 și cod 14-5-1/a) STAT DE SALARII (fără elementele componente ale salariului total - cod 14-5-1/c, cod 14-5-1/k și cod 14-5-1/l) ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 1 (1 Modelele și conținutul formularelor: 1. Fișa fiscală 1 (pentru venituri din salarii la funcția de baza - FF1) 2. Fișa fiscală 2 (pentru venituri din salarii, ...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -16,6 +16,8 @@ Ordin finante nr. 1193/1999 · 1 versions, from 1999-10-25 (latest in force: 199
 | Art. 8 | [art-008.md](art-008.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 
@@ -28,7 +30,7 @@ Act id: `ordin-finante-1193-1999` (tags `ordin-finante-1193-1999/<day>`; `python
 - Ordin finante nr. 1193/1999: the first version is the order as published in Monitorul Oficial nr. 517 of 25 October 1999 (document 19681 of the official web service), in force on its day of publication: no in-force day is stated, so it is dated by its publication in the Monitorul Oficial.
 - Ordin finante nr. 1193/1999: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 1193/1999: Anexa nr. 2 (3 CARACTERISTICILE DE TIPĂRIRE, MODUL DE DIFUZARE, UTILIZARE ȘI PĂSTRARE A FIȘELOR FISCALE 1. Denumire formular: Fișa fiscală 1 (pentru funcția de baza - FF1) Cod: 14.13.01.13/1 Format - exemplarul ca) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 19681 of the official web service.
+- Ordin finante nr. 1193/1999: Anexa nr. 3 (4 STAT DE SALARII (cod 14-5-1 și cod 14-5-1/a) STAT DE SALARII (fără elementele componente ale salariului total - cod 14-5-1/c, cod 14-5-1/k și cod 14-5-1/l) 1. Servește ca: - document pentru calculul) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 19681 of the official web service.
 - Ordin finante nr. 1193/1999: Anexa nr. 4 (5 CONDIȚII pentru transmiterea fișelor fiscale pe cale electronică 1. Condiții generale Fișele fiscale în format electronic se depun la aceleași termene ca și formularele tipărite de fise fiscale (FF1) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 19681 of the official web service.
 - Ordin finante nr. 1193/1999: Anexa nr. 1 (1 Modelele și conținutul formularelor: 1. Fișa fiscală 1 (pentru venituri din salarii la funcția de baza - FF1) 2. Fișa fiscală 2 (pentru venituri din salarii, ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin finante nr. 1193/1999: Anexa nr. 3 (4 STAT DE SALARII (cod 14-5-1 și cod 14-5-1/a) STAT DE SALARII (fără elementele componente ale salariului total - cod 14-5-1/c, cod 14-5-1/k și cod 14-5-1/l) ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin finante nr. 1193/1999: the publisher's notes run into its text (*) Se completează domiciliul angajatului la data de 31 decembrie a anului fiscal.) are not text.

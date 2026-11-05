@@ -3,6 +3,21 @@
  "shard": "ordin/2009",
  "acts": [
   {
+   "slug": "ordin-agricultura-102-2009",
+   "path": "ordin/agricultura/2009/102",
+   "short": "Ordin agricultura nr. 102/2009",
+   "title": "Ordinul nr. 102/2009 pentru aprobarea tipurilor de investiții și a plafoanelor maxime ale creditelor ce se acordă în anul 2009, în condițiile Legii nr. 231/2005 privind stimularea investițiilor în agricultură, industrie alimentară, silvicultură, piscicultură, precum și în activități nonagricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102965",
+   "versions": [
+    {
+     "from": "2009-03-03",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102965",
+     "sha256": "908d020479dbc717391daec24792e6320609444c4ec907017066e8f0b9027a58"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-104-2009",
    "path": "ordin/agricultura/2009/104",
    "short": "Ordin agricultura nr. 104/2009",
@@ -14,6 +29,201 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103990",
      "sha256": "794764f2cc959c30f279154c919c3e3d2b1a2a2b783ee7ed6b2bf4e52abad3fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-14-2009",
+   "path": "ordin/agricultura/2009/14",
+   "short": "Ordin agricultura nr. 14/2009",
+   "title": "Ordinul nr. 14/2009 privind Procedura de stabilire a derogărilor de la măsurile de protecție a speciilor de floră și de faună sălbatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103490",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103490",
+     "sha256": "3f9988590cf1a4661ddc94d35b92c14a20735861f483aa6d24a032de39c38390"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-164-2009",
+   "path": "ordin/agricultura/2009/164",
+   "short": "Ordin agricultura nr. 164/2009",
+   "title": "Ordinul nr. 164/2009 privind recunoașterea Acordului interprofesional pentru sfecla de zahăr - recolta anului de comercializare 2009/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103494",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103494",
+     "sha256": "55146ea1b6b150edd4120cedb8e5718c53d5a2f1aab9149aeb9e5e635e6ed507"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-182-2009",
+   "path": "ordin/agricultura/2009/182",
+   "short": "Ordin agricultura nr. 182/2009",
+   "title": "Ordinul nr. 182/2009 pentru aprobarea Normelor metodologice privind atestarea persoanelor fizice și juridice care își manifestă intenția de a desfășura, pe terenuri din domeniul agricol, activități de îmbunătățiri funciare, studii, proiectare, executare de lucrări și servicii și/sau de fabricăre a instalațiilor de irigat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104471",
+   "versions": [
+    {
+     "from": "2009-04-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104471",
+     "sha256": "d0c6f40d027e6183c4c408edd8bf496afade76e0bb8897ca862686e5e9d9ca13"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-19-2009",
+   "path": "ordin/agricultura/2009/19",
+   "short": "Ordin agricultura nr. 19/2009",
+   "title": "Ordinul nr. 19/2009 privind aprobarea sumelor, a condițiilor și a modului de acordare a acestor sume pentru achiziția materialului seminal congelat de taur și a agentului criogenic folosit la conservare în anul 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102078",
+   "versions": [
+    {
+     "from": "2009-02-04",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102078",
+     "sha256": "2de550e41eac93f1ba1963d1bbeea6b2a69a2ee438dfef1f0ce52daf770217b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-190-2009",
+   "path": "ordin/agricultura/2009/190",
+   "short": "Ordin agricultura nr. 190/2009",
+   "title": "Ordinul nr. 190/2009 pentru aprobarea Procedurii privind stabilirea și plata impozitului pe veniturile bănești din agricultură realizate prin valorificarea produselor vândute către unități specializate pentru colectare, unități de procesare industrială sau către alte unități, pentru utilizare ca atare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109267",
+   "versions": [
+    {
+     "from": "2009-07-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109267",
+     "sha256": "863e0630792b8d130b584d195ab266cb2ba09718b2de1e45a47af950632b641f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-198-2009",
+   "path": "ordin/agricultura/2009/198",
+   "short": "Ordin agricultura nr. 198/2009",
+   "title": "Ordinul nr. 198/2009 pentru aprobarea Procedurii privind constituirea și autorizarea ocoalelor silvice și atribuțiile acestora, modelul documentelor de constituire, organizare și funcționare, precum și conținutul Registrului național al administratorilor de păduri și al ocoalelor silvice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104549",
+   "versions": [
+    {
+     "from": "2009-04-09",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104549",
+     "sha256": "78c9bf2b487a9c64562af2051a8197e987a0f7675094f79cd6319da654635994"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-226-2009",
+   "path": "ordin/agricultura/2009/226",
+   "short": "Ordin agricultura nr. 226/2009",
+   "title": "Ordinul nr. 226/2009 privind aprobarea structurii serviciilor specifice prin care se constituie veniturile proprii ale Agenției Naționale de Consultanță Agricolă și ale unităților subordonate acesteia, structurii și cuantumului tarifelor, precum și a modalităților de încasare și de utilizare a fondurilor pentru anul 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110693",
+   "versions": [
+    {
+     "from": "2009-08-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110693",
+     "sha256": "56534db9e7cce3b1b629fa37fa02d7b1ddb0f82a7fbf1d77db13446f54fd7210"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-239-2009",
+   "path": "ordin/agricultura/2009/239",
+   "short": "Ordin agricultura nr. 239/2009",
+   "title": "Ordinul nr. 239/2009 privind interdicția pescuitului în timpul nopții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105359",
+   "versions": [
+    {
+     "from": "2009-05-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105359",
+     "sha256": "789d8285f39ec71a1926062bce7bde101e7adfed376cbc3889d3c77f9c416b24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-25-2009",
+   "path": "ordin/agricultura/2009/25",
+   "short": "Ordin agricultura nr. 25/2009",
+   "title": "Ordinul nr. 25/2009 pentru aprobarea Metodologiei de stabilire a echivalenței valorice a terenurilor și de calcul al obligațiilor bănești pentru scoaterea definitivă sau ocuparea temporară a terenurilor din fondul forestier național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102527",
+   "versions": [
+    {
+     "from": "2009-02-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102527",
+     "sha256": "b0cfec3db76627e1a9d4694d6257a6ebefa909be1a246c718f5a681e6651a015"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-277-2009",
+   "path": "ordin/agricultura/2009/277",
+   "short": "Ordin agricultura nr. 277/2009",
+   "title": "Ordinul nr. 277/2009 privind schimbarea sediului Sucursalei Teritoriale Olt - Argeș a Administrației Naționale a Îmbunătățirilor Funciare R.A.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105774",
+   "versions": [
+    {
+     "from": "2009-05-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105774",
+     "sha256": "4e36b4025a53781cca6384da1d1125d15a42137e2cc879eb89222e8bbd84505b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-288-2009",
+   "path": "ordin/agricultura/2009/288",
+   "short": "Ordin agricultura nr. 288/2009",
+   "title": "Ordinul nr. 288/2009 privind aprobarea Normelor metodologice de aplicare a sistemului de restituiri la export pentru produsele agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105576",
+   "versions": [
+    {
+     "from": "2009-05-11",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105576",
+     "sha256": "2e0ca12225d389b3fd3dc42e2f6d47d2259f1e7593ef6e4dbdc0016aeb59253d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-322-2009",
+   "path": "ordin/agricultura/2009/322",
+   "short": "Ordin agricultura nr. 322/2009",
+   "title": "Ordinul nr. 322/2009 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 461/2009 privind reglementarea unor măsuri financiare pentru stimularea gradului de absorbție a fondurilor alocate pentru agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106402",
+   "versions": [
+    {
+     "from": "2009-06-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106402",
+     "sha256": "8064094ef66401fba3b9691d5dd131c00c14532f9ed120f2ec8bbe69e49d74fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-328-2009",
+   "path": "ordin/agricultura/2009/328",
+   "short": "Ordin agricultura nr. 328/2009",
+   "title": "Ordinul nr. 328/2009 privind aprobarea tarifelor pentru efectuarea testelor de examinare a purității genetice a hibrizilor și liniilor parentale de porumb și floarea-soarelui prin electroforeză pe gel de amidon",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106340",
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106340",
+     "sha256": "1ff332e7126c110fd9d532cacdd6a2cfd0e159c0e4717499d5d68e5532427fcc"
     }
    ]
   },
@@ -33,6 +243,201 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-335-2009",
+   "path": "ordin/agricultura/2009/335",
+   "short": "Ordin agricultura nr. 335/2009",
+   "title": "Ordinul nr. 335/2009 privind aprobarea unor derogări pentru acceptarea populațiilor locale și a soiurilor de plante agricole amenințate de eroziunea genetică adaptate natural la condițiile locale și regionale și pentru comercializarea semințelor și cartofului pentru sămânță ale acestor populații locale și soiuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106376",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106376",
+     "sha256": "9db71606f5526dc2cb29c18a36f02b3fbff27df8345775a809b26942b08dbb11"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-339-2009",
+   "path": "ordin/agricultura/2009/339",
+   "short": "Ordin agricultura nr. 339/2009",
+   "title": "Ordinul nr. 339/2009 privind aprobarea Suplimentului nr. 1 al Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106392",
+   "versions": [
+    {
+     "from": "2009-05-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106392",
+     "sha256": "73be2309850432d82de5edb0e0a9b31b4a970d0894648a0033fe3eb50b2ddea9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-38-2009",
+   "path": "ordin/agricultura/2009/38",
+   "short": "Ordin agricultura nr. 38/2009",
+   "title": "Ordinul nr. 38/2009 privind organizarea și funcționarea Poliției Fitosanitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102810",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102810",
+     "sha256": "f87613997d6a964fcc4e49f43e6d3cfcab77d49b8bb5b309aa9f4218c3a700a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-380-2009",
+   "path": "ordin/agricultura/2009/380",
+   "short": "Ordin agricultura nr. 380/2009",
+   "title": "Ordinul nr. 380/2009 privind condițiile de acordare a autorizației speciale de pescuit în scop științific",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/107237",
+   "versions": [
+    {
+     "from": "2009-06-22",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/107237",
+     "sha256": "6020c2aee2b3f451e0f0c12d1caaf22024bc505f9b836433802d8bde79af6b94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-383-2009",
+   "path": "ordin/agricultura/2009/383",
+   "short": "Ordin agricultura nr. 383/2009",
+   "title": "Ordinul nr. 383/2009 privind aprobarea normelor tehnice pentru omologarea raselor, liniilor, hibrizilor și noilor creații biologice la animalele domestice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108038",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108038",
+     "sha256": "2e9e71e5adcba7278606f3d369bf524c5e2a33862f48ad7ae4c3dc600be7c047"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-384-2009",
+   "path": "ordin/agricultura/2009/384",
+   "short": "Ordin agricultura nr. 384/2009",
+   "title": "Ordinul nr. 384/2009 privind aprobarea sistemului de sancțiuni pentru măsurile 214 \"Plăți de agro-mediu\", 211 \"Sprijin pentru zona montană defavorizată\" și 212 \"Sprijin pentru zone defavorizate, altele decât zona montană\" din Programul Național de Dezvoltare Rurală 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110182",
+   "versions": [
+    {
+     "from": "2009-08-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110182",
+     "sha256": "92efb54436928dac348dbd058d4a2d0c05db592caa3e1214957e5f3020d206c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-390-2009",
+   "path": "ordin/agricultura/2009/390",
+   "short": "Ordin agricultura nr. 390/2009",
+   "title": "Ordinul nr. 390/2009 pentru aprobarea Metodologiei de autorizare a operatorilor din cadrul sectorului de legume și fructe proaspete, în vederea folosirii regimului de autocontrol și de utilizare a logoului comunitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109373",
+   "versions": [
+    {
+     "from": "2009-07-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109373",
+     "sha256": "51c1cb2ae6bf44b453b28735b504591a40abacc4fe2af8b8232c37e1d40e557d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-392-2009",
+   "path": "ordin/agricultura/2009/392",
+   "short": "Ordin agricultura nr. 392/2009",
+   "title": "Ordinul nr. 392/2009 privind aprobarea listei cu cheltuieli eligibile pentru proiectele finanțate în cadrul Programului Operațional pentru Pescuit 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109313",
+   "versions": [
+    {
+     "from": "2009-07-07",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109313",
+     "sha256": "83920aa4e6f150ea13bf02995a39e5b13697c232d0bf9431a88a0221c11e42f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-4-2009",
+   "path": "ordin/agricultura/2009/4",
+   "short": "Ordin agricultura nr. 4/2009",
+   "title": "Ordinul nr. 4/2009 pentru aprobarea Normelor privind accesul la resursele acvatice vii din domeniul public al statului în vederea practicării pescuitului comercial în apele maritime interioare și în apele continentale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101438",
+   "versions": [
+    {
+     "from": "2009-01-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101438",
+     "sha256": "0cccc7a87bf5b755c4a81ee4d2ce4aff03f1bb5134cb9e9a46265e586408bc6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-441-2009",
+   "path": "ordin/agricultura/2009/441",
+   "short": "Ordin agricultura nr. 441/2009",
+   "title": "Ordinul nr. 441/2009 privind aprobarea Normelor metodologice de agreare a persoanelor fizice și juridice experți evaluatori autorizați de către Asociația Națională a Evaluatorilor din România, care desfășoară activități de evaluare a terenurilor forestiere și agricole supuse exproprierii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109419",
+   "versions": [
+    {
+     "from": "2009-07-10",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109419",
+     "sha256": "84e15bf1af3481c3365fe11f8a455b68db0c1d3be70f307f54a351e882912555"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-444-2009",
+   "path": "ordin/agricultura/2009/444",
+   "short": "Ordin agricultura nr. 444/2009",
+   "title": "Ordinul nr. 444/2009 privind aprobarea Planului de ajustare a efortului de pescuit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109849",
+   "versions": [
+    {
+     "from": "2009-07-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109849",
+     "sha256": "1dcd5baa3e717b8c235016f6bba42c1d9a50b0995d741177a0cd9d1d89ec64ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-453-2009",
+   "path": "ordin/agricultura/2009/453",
+   "short": "Ordin agricultura nr. 453/2009",
+   "title": "Ordinul nr. 453/2009 privind instituirea procedurii de administrare specială la Societatea Comercială \"Agroprodcom\" - S.A. Odorheiu Secuiesc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109833",
+   "versions": [
+    {
+     "from": "2009-07-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109833",
+     "sha256": "7a1cc6ab954a66665784917d43168c41a31a0fa79cd2594f6643e2d285cfb632"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-464-2009",
+   "path": "ordin/agricultura/2009/464",
+   "short": "Ordin agricultura nr. 464/2009",
+   "title": "Ordinul nr. 464/2009 privind aprobarea Listei cuprinzând rasele de lapte, carne sau pielicele, din speciile ovine și caprine, care se pot achiziționa în baza Hotărârii Guvernului nr. 700/2009 pentru susținerea din fonduri bugetare, în anul 2009, a achiziției de masculi pentru reproducție din speciile ovine și/sau caprine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109756",
+   "versions": [
+    {
+     "from": "2009-07-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109756",
+     "sha256": "7524a17c6e9879be272fc6d4c26db32648358349572e52b363e1862c4ce9ad40"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-481-2009",
    "path": "ordin/agricultura/2009/481",
    "short": "Ordin agricultura nr. 481/2009",
@@ -44,6 +449,81 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110229",
      "sha256": "4d9b116cd6ce916ee1efbc24c8ecb9e4cfa3a74ad8dec6abfc39c864edf4a2b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-487-2009",
+   "path": "ordin/agricultura/2009/487",
+   "short": "Ordin agricultura nr. 487/2009",
+   "title": "Ordinul nr. 487/2009 pentru aprobarea modelului de carnet de viticultor și implementarea acestuia în domeniul comercializării producției de struguri pentru vin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110052",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110052",
+     "sha256": "6640c0cbc75a343e35769fb7a1587002ea528054d398e44fa4ecc2743c0e3670"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-536-2009",
+   "path": "ordin/agricultura/2009/536",
+   "short": "Ordin agricultura nr. 536/2009",
+   "title": "Ordinul nr. 536/2009 pentru aprobarea Listei raselor de câini admise la vânătoare în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110879",
+   "versions": [
+    {
+     "from": "2009-08-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110879",
+     "sha256": "65350f9e423b86718e3b9c865c0bda7e17ce309a07b8398954d8fa6470fb956d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-537-2009",
+   "path": "ordin/agricultura/2009/537",
+   "short": "Ordin agricultura nr. 537/2009",
+   "title": "Ordinul nr. 537/2009 privind aprobarea Suplimentului nr. 2 al Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110971",
+   "versions": [
+    {
+     "from": "2009-09-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110971",
+     "sha256": "44beef1cd37518376bd0aeb0ee19a6163374f075871a36da754183f04d8e6810"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-539-2009",
+   "path": "ordin/agricultura/2009/539",
+   "short": "Ordin agricultura nr. 539/2009",
+   "title": "Ordinul nr. 539/2009 pentru aprobarea regimului permiselor de vânătoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110977",
+   "versions": [
+    {
+     "from": "2009-09-02",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110977",
+     "sha256": "55712c518922ffc70c1fb4487eac28e3615cc66cb8129ef7522504db56015f14"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-540-2009",
+   "path": "ordin/agricultura/2009/540",
+   "short": "Ordin agricultura nr. 540/2009",
+   "title": "Ordinul nr. 540/2009 pentru aprobarea modelului de proces-verbal de constatare a contravențiilor și aplicare a sancțiunilor în domeniul cinegetic, prevăzut de Legea vânătorii și a protecției fondului cinegetic nr. 407/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110885",
+   "versions": [
+    {
+     "from": "2009-09-27",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110885",
+     "sha256": "00109e6c2345cc5e27461bc71fcd88d94fdbc5035174e3a6dccb880836f6a6c5"
     }
    ]
   },
@@ -63,6 +543,81 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-576-2009",
+   "path": "ordin/agricultura/2009/576",
+   "short": "Ordin agricultura nr. 576/2009",
+   "title": "Ordinul nr. 576/2009 pentru aprobarea Metodologiei, criteriilor de atestare și a Comisiei de atestare a persoanelor fizice și juridice care realizează proiectarea de drumuri forestiere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111485",
+   "versions": [
+    {
+     "from": "2009-09-28",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111485",
+     "sha256": "5966272f664421df26e3cb7eb7d5896af3b830ddf99f9422712d086078157b26"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-6-2009",
+   "path": "ordin/agricultura/2009/6",
+   "short": "Ordin agricultura nr. 6/2009",
+   "title": "Ordinul nr. 6/2009 privind aprobarea prețurilor de referință pentru anul 2009, folosite la calculul contravalorii materialelor lemnoase prevăzute la art. 4 alin. (7) din Hotărârea Guvernului nr. 996/2008 pentru aprobarea Normelor referitoare la proveniența, circulația și comercializarea materialelor lemnoase, la regimul spațiilor de depozitare a materialelor lemnoase și al instalațiilor de prelucrat lemn rotund",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101482",
+   "versions": [
+    {
+     "from": "2009-01-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101482",
+     "sha256": "622add446860e6b8dcfdaf72ee9625f35a0e5c95f6a77e0d8949a3c3f3da4cc9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-614-2009",
+   "path": "ordin/agricultura/2009/614",
+   "short": "Ordin agricultura nr. 614/2009",
+   "title": "Ordinul nr. 614/2009 pentru repartizarea cotelor de producție de zahăr din sfeclă de zahăr în anul comercial 2009-2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111783",
+   "versions": [
+    {
+     "from": "2009-10-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111783",
+     "sha256": "4d6addaf141b3c54e21d67ed5f74229b6773992a42d160be509bfd18b55f5617"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-634-2009",
+   "path": "ordin/agricultura/2009/634",
+   "short": "Ordin agricultura nr. 634/2009",
+   "title": "Ordinul nr. 634/2009 privind aprobarea Listei resurselor genetice animale în stare critică, în pericol de dispariție și a celor vulnerabile, care sunt supuse programelor de conservare și utilizare în anul 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112337",
+   "versions": [
+    {
+     "from": "2009-10-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112337",
+     "sha256": "599a4fc4dc0990e5f9963e3a75e90ba50b842b64d5d6b305462aaf553b4c8ffc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-639-2009",
+   "path": "ordin/agricultura/2009/639",
+   "short": "Ordin agricultura nr. 639/2009",
+   "title": "Ordinul nr. 639/2009 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 1.210/2009 privind reglementarea unor măsuri financiare temporare pentru stimularea gradului de absorbție a fondurilor alocate pentru agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112453",
+   "versions": [
+    {
+     "from": "2009-10-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112453",
+     "sha256": "df19b3ac32156a0693c2c333d5c4a1faf66722aa32efab0213c7d40736a12e07"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-683-2009",
    "path": "ordin/agricultura/2009/683",
    "short": "Ordin agricultura nr. 683/2009",
@@ -74,6 +629,36 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114866",
      "sha256": "8fe32d9d234c5f2cfbfd920d44b65eb3343c2eec3fe9edc6c918d909a83ae366"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-695-2009",
+   "path": "ordin/agricultura/2009/695",
+   "short": "Ordin agricultura nr. 695/2009",
+   "title": "Ordinul nr. 695/2009 privind aprobarea nivelului comisioanelor de acordare a scrisorilor de garanție pentru anul 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113499",
+   "versions": [
+    {
+     "from": "2009-11-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113499",
+     "sha256": "a2ba319ec4c2653fe5d6354ac6507e285d888a25ccda15208d0de38bbf5c8f35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-765-2009",
+   "path": "ordin/agricultura/2009/765",
+   "short": "Ordin agricultura nr. 765/2009",
+   "title": "Ordinul nr. 765/2009 pentru aprobarea Normei cu privire la animalele de reproducție de rasă pură din specia bovine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114917",
+   "versions": [
+    {
+     "from": "2009-12-28",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114917",
+     "sha256": "e95f07a7bc99d3bd99c85d77d9cbc5293c28360676f20892874d1e9ea4e59d34"
     }
    ]
   },
@@ -93,6 +678,66 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-768-2009",
+   "path": "ordin/agricultura/2009/768",
+   "short": "Ordin agricultura nr. 768/2009",
+   "title": "Ordinul nr. 768/2009 cu privire la înființarea paginilor de internet informative care conțin liste de unități aprobate de autoritatea competentă în conformitate cu legislația din domeniul zootehnic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114950",
+   "versions": [
+    {
+     "from": "2009-12-28",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114950",
+     "sha256": "eb3a2385f76378421350315e7fac88c7ae8442229082e041235faf57909bce9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-769-2009",
+   "path": "ordin/agricultura/2009/769",
+   "short": "Ordin agricultura nr. 769/2009",
+   "title": "Ordinul nr. 769/2009 privind aprobarea Metodologiei de înregistrare a operatorilor economici și eliberare a autorizației pentru producerea, prelucrarea și/sau comercializarea semințelor și materialului săditor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114945",
+   "versions": [
+    {
+     "from": "2009-12-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114945",
+     "sha256": "480383936d9787ea5d892859d5ca0a1cec439cdee8a269d18d6d45cc25081738"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-80-2009",
+   "path": "ordin/agricultura/2009/80",
+   "short": "Ordin agricultura nr. 80/2009",
+   "title": "Ordinul nr. 80/2009 privind aprobarea formularului-tip de cerere unică de plată pe suprafață pentru anul 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102701",
+   "versions": [
+    {
+     "from": "2009-02-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102701",
+     "sha256": "c69ae194351fca8da32ebbc67f1a59918f2858e9ecb9ad7cc70c0655e32b17d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-83-2009",
+   "path": "ordin/agricultura/2009/83",
+   "short": "Ordin agricultura nr. 83/2009",
+   "title": "Ordinul nr. 83/2009 privind stabilirea condițiilor de acordare a cotei individuale de lapte din rezerva națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103031",
+   "versions": [
+    {
+     "from": "2009-03-05",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103031",
+     "sha256": "dd92765165938c89a7a3727644c3caccb9be2cd886f05c340cfe763d75e29fb5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-84-2009",
    "path": "ordin/agricultura/2009/84",
    "short": "Ordin agricultura nr. 84/2009",
@@ -104,6 +749,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103134",
      "sha256": "78d245189e6bd29900f70e92e63eb29f7f021c10d5e461ac9a5cb8e719285708"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-85-2009",
+   "path": "ordin/agricultura/2009/85",
+   "short": "Ordin agricultura nr. 85/2009",
+   "title": "Ordinul nr. 85/2009 privind aprobarea Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104326",
+   "versions": [
+    {
+     "from": "2009-04-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104326",
+     "sha256": "832c833989d8f655ed21d12facbae7abcc0ba172d2d061563228b7877f4d1b01"
     }
    ]
   },
@@ -2523,6 +3183,21 @@
    ]
   },
   {
+   "slug": "ordin-cultura-2249-2009",
+   "path": "ordin/cultura/2009/2249",
+   "short": "Ordin cultura nr. 2249/2009",
+   "title": "Ordinul nr. 2.249/2009 pentru aprobarea formularelor tipizate generale de bibliotecă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111817",
+   "versions": [
+    {
+     "from": "2009-10-02",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111817",
+     "sha256": "e359c8a05cfc382def35ea48cba626ebe1052881ac4bfb425239be60c8a7df3d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-dezvoltare-1020-2009",
    "path": "ordin/dezvoltare/2009/1020",
    "short": "Ordin dezvoltare nr. 1020/2009",
@@ -3753,6 +4428,741 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3110-2009",
+   "path": "ordin/educatie/2009/3110",
+   "short": "Ordin educatie nr. 3110/2009",
+   "title": "Ordinul nr. 3.110/2009 privind aprobarea Regulamentului de organizare și funcționare a Institutului Limbii Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103266",
+   "versions": [
+    {
+     "from": "2009-03-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103266",
+     "sha256": "105fd7e37295d9fcddaf54f4f9040a7d0604a8177633a1268862dfd7ed104ca8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3312-2009",
+   "path": "ordin/educatie/2009/3312",
+   "short": "Ordin educatie nr. 3312/2009",
+   "title": "Ordinul nr. 3.312/2009 privind aprobarea Planurilor de învățământ pentru cultura de specialitate, pregătire practică și stagii de pregătire practică, din aria curriculară Tehnologii, pentru clasa a IX-a a liceului tehnologic, cursuri de zi și seral",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104796",
+   "versions": [
+    {
+     "from": "2009-04-15",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104796",
+     "sha256": "bd38f3036f3e4a80d6a5e1ceefa536a999d42d7d89dc6a85b7a1c2aaa462b43e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3313-2009",
+   "path": "ordin/educatie/2009/3313",
+   "short": "Ordin educatie nr. 3313/2009",
+   "title": "Ordinul nr. 3.313/2009 privind aprobarea planurilor de învățământ pentru cultura de specialitate, pregătire practică și stagii de pregătire practică, din aria curriculară Tehnologii, pentru clasa a X-a a școlii de arte și meserii, clasa a XI-a an de completare, clasele a XI-a/a XII-a și a XII-a/a XIII-a, ciclul superior al liceului tehnologic, și a planurilor de învățământ pentru cultura de specialitate, clasa a X-a liceu tehnologic, cursuri de zi și serale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110556",
+   "versions": [
+    {
+     "from": "2009-08-17",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110556",
+     "sha256": "66eb001fa0b1338db27891b8bcc19c4711597b7374fce155e81b21bb1d7c1af9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3317-2009",
+   "path": "ordin/educatie/2009/3317",
+   "short": "Ordin educatie nr. 3317/2009",
+   "title": "Ordinul nr. 3.317/2009 pentru modificarea Calendarului mișcării personalului didactic din învățământul preuniversitar pentru anul școlar 2009-2010, aprobat prin Ordinul ministrului educației, cercetării și tineretului nr. 5.742/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103519",
+   "versions": [
+    {
+     "from": "2009-03-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103519",
+     "sha256": "eeacad4226ee91b150af2ba19de01a3ffa15ef2787507f7246dd1d1bc4f5da4e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3410-2009",
+   "path": "ordin/educatie/2009/3410",
+   "short": "Ordin educatie nr. 3410/2009",
+   "title": "Ordinul nr. 3.410/2009 privind aprobarea planurilor-cadru de învățământ pentru clasele a IX-a-a XII-a, filierele teoretică și vocațională, cursuri de zi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110234",
+   "versions": [
+    {
+     "from": "2009-08-05",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110234",
+     "sha256": "636c9d1711838ce38869f704617e17bbf54216f1ee504de86a578d0242c50037"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3411-2009",
+   "path": "ordin/educatie/2009/3411",
+   "short": "Ordin educatie nr. 3411/2009",
+   "title": "Ordinul nr. 3.411/2009 privind aprobarea planurilor-cadru de învățământ pentru clasa a IX-a, ciclul inferior al liceului, filiera tehnologică, învățământ de zi și învățământ seral",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105903",
+   "versions": [
+    {
+     "from": "2009-05-18",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105903",
+     "sha256": "323c54795adea8b30a49c24d6265211ef1bdf5d0ab35f98bf80755b3f8711e25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3414-2009",
+   "path": "ordin/educatie/2009/3414",
+   "short": "Ordin educatie nr. 3414/2009",
+   "title": "Ordinul nr. 3.414/2009 privind aprobarea Planului-cadru de învățământ pentru învățământul special - clasele a IX-a-a XI-a, ciclul inferior al liceului, filiera tehnologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104003",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104003",
+     "sha256": "ddd6510f9bc103cf2e2922ee991b4fde39294f26dbcc2a4daa69d220d86be1ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3423-2009",
+   "path": "ordin/educatie/2009/3423",
+   "short": "Ordin educatie nr. 3423/2009",
+   "title": "Ordinul nr. 3.423/2009 privind aprobarea planurilor de învățământ pentru cultura de specialitate, pregătire practică și stagii de pregătire practică, din aria curriculară Tehnologii, pentru clasele a XI-a - a XII-a și a XII-a - a XIII-a, ciclul superior al liceului, filiera tehnologică, cursuri de zi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109657",
+   "versions": [
+    {
+     "from": "2009-07-17",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109657",
+     "sha256": "1d5e141d157ccbf7c0928d50b8d19675f283814f9940dfe52e2520621ec20197"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3457-2009",
+   "path": "ordin/educatie/2009/3457",
+   "short": "Ordin educatie nr. 3457/2009",
+   "title": "Ordinul nr. 3.457/2009 pentru modificarea Regulamentului privind organizarea, funcționarea și atribuțiile Colegiului Central de Disciplină de la nivelul Ministerului Educației, Cercetării și Tineretului și ale colegiilor de disciplină de la nivelul inspectoratelor școlare județene, aprobat prin Ordinul ministrului educației, cercetării și tineretului nr. 847/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105059",
+   "versions": [
+    {
+     "from": "2009-04-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105059",
+     "sha256": "7ea9355cd798129efd18d2d41f9351e022548045cebf2a58f730d81bfa48154e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3548-2009",
+   "path": "ordin/educatie/2009/3548",
+   "short": "Ordin educatie nr. 3548/2009",
+   "title": "Ordinul nr. 3.548/2009 privind modificarea unor ordine ale ministrului educației, cercetării și tineretului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104798",
+   "versions": [
+    {
+     "from": "2009-04-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104798",
+     "sha256": "588dfe07b2380f9cd9e8d48c611be8e382eacdafe634b9478748bbed2fc8c05d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3608-2009",
+   "path": "ordin/educatie/2009/3608",
+   "short": "Ordin educatie nr. 3608/2009",
+   "title": "Ordinul nr. 3.608/2009 cu privire la aprobarea disciplinelor de specializare din curriculumul diferențiat pentru clasele a IX-a-a XII-a, ciclurile inferior și superior ale liceului, filiera vocațională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106607",
+   "versions": [
+    {
+     "from": "2009-06-04",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106607",
+     "sha256": "70e485b35ea446c851fd4925bf1a5582ebe9e0561738655c5d2c2bda845487e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3671-2009",
+   "path": "ordin/educatie/2009/3671",
+   "short": "Ordin educatie nr. 3671/2009",
+   "title": "Ordinul nr. 3.671/2009 privind aprobarea Calendarului sesiunii speciale de bacalaureat 2009 pentru elevii de clasa a XII-a participanți la loturile olimpice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105425",
+   "versions": [
+    {
+     "from": "2009-05-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105425",
+     "sha256": "c1d13e45dea5dd3a85ba4512365f2fe93bd85d6681c772af6283244d81b32e31"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3733-2009",
+   "path": "ordin/educatie/2009/3733",
+   "short": "Ordin educatie nr. 3733/2009",
+   "title": "Ordinul nr. 3.733/2009 privind aprobarea Metodologiei de organizare și desfășurare a examenelor de certificare a calificării profesionale a absolvenților din învățământul profesional și tehnic preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109658",
+   "versions": [
+    {
+     "from": "2009-07-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109658",
+     "sha256": "2df0df12639c4fecc3b43ee03ad790bbe5fdbb204b08058417347ed5f2933ad1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3765-2009",
+   "path": "ordin/educatie/2009/3765",
+   "short": "Ordin educatie nr. 3765/2009",
+   "title": "Ordinul nr. 3.765/2009 pentru modificarea și completarea Ordinului ministrului educației, cercetării și tineretului nr. 5.166/2008 privind aprobarea metodologiei de organizare și desfășurare și a Calendarului admiterii în învățământul liceal și profesional de stat pentru anul școlar 2009-2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105841",
+   "versions": [
+    {
+     "from": "2009-05-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105841",
+     "sha256": "1eedd931055628a0ae1794ec6a984f28c0f44ee038ad2638705d901bab90e114"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3845-2009",
+   "path": "ordin/educatie/2009/3845",
+   "short": "Ordin educatie nr. 3845/2009",
+   "title": "Ordinul nr. 3.845/2009 privind aprobarea modelului pentru Registrul de evidență a rezultatelor activităților de cercetare-dezvoltare și a Metodologiei de înregistrare a rezultatelor activității de cercetare-dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108189",
+   "versions": [
+    {
+     "from": "2009-06-29",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108189",
+     "sha256": "e8683ac9aeffac07319c2ee9f0ddf3527b1bcd2a90e32b9ea9ee35440680543a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4043-2009",
+   "path": "ordin/educatie/2009/4043",
+   "short": "Ordin educatie nr. 4043/2009",
+   "title": "Ordinul nr. 4.043/2009 pentru modificarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea posturilor didactice/catedrelor declarate vacante în unitățile de învățământ preuniversitar din municipiul București și județele nominalizate în Ordinul ministrului educației, cercetării și tineretului nr. 5.573/2008, aprobată prin Ordinul ministrului educației, cercetării și tineretului nr. 5.741/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105877",
+   "versions": [
+    {
+     "from": "2009-05-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105877",
+     "sha256": "afd43427ead91f736bb405d42ac7340efbee50abb62203b3e310ce601c1370ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4354-2009",
+   "path": "ordin/educatie/2009/4354",
+   "short": "Ordin educatie nr. 4354/2009",
+   "title": "Ordinul nr. 4.354/2009 privind desfășurarea bacalaureatului bilingv spaniol susținut de elevii de la secțiile bilingve spaniole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/108022",
+   "versions": [
+    {
+     "from": "2009-06-23",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/108022",
+     "sha256": "d0ed5bca143ad455e6326964b0e788d5b1aff9b94612e5c3c4ba40c20a560329"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4356-2009",
+   "path": "ordin/educatie/2009/4356",
+   "short": "Ordin educatie nr. 4356/2009",
+   "title": "Ordinul nr. 4.356/2009 cu privire la structura anului școlar 2009-2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110088",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110088",
+     "sha256": "1e3392245dc59976bef7dcf8af2bbeca835d8b2e220f234fc9f790f0856aa706"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4394-2009",
+   "path": "ordin/educatie/2009/4394",
+   "short": "Ordin educatie nr. 4394/2009",
+   "title": "Ordinul nr. 4.394/2009 pentru completarea Metodologiei privind elaborarea testelor de evaluare a cunoștințelor de Limba română, aprobată prin Ordinul ministrului educației, cercetării și tineretului nr. 5.390/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109562",
+   "versions": [
+    {
+     "from": "2009-07-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109562",
+     "sha256": "aca8b81dc9099373a12378ab0cf4dfd824e498ab80e684f55fecf1435ca10182"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4430-2009",
+   "path": "ordin/educatie/2009/4430",
+   "short": "Ordin educatie nr. 4430/2009",
+   "title": "Ordinul nr. 4.430/2009 privind utilizarea Cadrului național al calificărilor din învățământul superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110224",
+   "versions": [
+    {
+     "from": "2009-08-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110224",
+     "sha256": "7a617c6f52846759176ca4784ec279e3e38efcee9dd857191cf0c8f16dcc9ac1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4595-2009",
+   "path": "ordin/educatie/2009/4595",
+   "short": "Ordin educatie nr. 4595/2009",
+   "title": "Ordinul nr. 4.595/2009 privind aprobarea criteriilor de performanță pentru evaluarea cadrelor didactice din învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110369",
+   "versions": [
+    {
+     "from": "2009-08-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110369",
+     "sha256": "5a04785b854c8e1de2bb71a86cc5fc632cbf1b5048013108b579232d927a634a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4651-2009",
+   "path": "ordin/educatie/2009/4651",
+   "short": "Ordin educatie nr. 4651/2009",
+   "title": "Ordinul nr. 4.651/2009 pentru completarea Ordinului ministrului educației, cercetării și inovării nr. 3.331/2009 privind criteriile generale de organizare și desfășurare a admiterii în ciclul de studii universitare de licență, de masterat și de doctorat pentru anul universitar 2009-2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110578",
+   "versions": [
+    {
+     "from": "2009-08-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110578",
+     "sha256": "e63c491d9b1fc5730429773f69a31a8feb59e7ceac1bac7eb5f3c7956c853503"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4843-2009",
+   "path": "ordin/educatie/2009/4843",
+   "short": "Ordin educatie nr. 4843/2009",
+   "title": "Ordinul nr. 4.843/2009 privind aprobarea Metodologiei de organizare și desfășurare a examenului de atestare a competențelor profesionale ale absolvenților claselor de matematică-informatică și matematică-informatică, intensiv informatică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112281",
+   "versions": [
+    {
+     "from": "2009-10-15",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112281",
+     "sha256": "7cfcc69039c3048dde84ea87c95f4131eb9034e83943fed2c22ed976567a6d36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4846-2009",
+   "path": "ordin/educatie/2009/4846",
+   "short": "Ordin educatie nr. 4846/2009",
+   "title": "Ordinul nr. 4.846/2009 cu privire la organizarea și desfășurarea evaluării naționale pentru elevii clasei a VIII-a în anul școlar 2009-2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112706",
+   "versions": [
+    {
+     "from": "2009-10-27",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112706",
+     "sha256": "0e18659c410fe28acefa25055a0f7ace20af9287e131f3a5ee155ca8bde91d1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4853-2009",
+   "path": "ordin/educatie/2009/4853",
+   "short": "Ordin educatie nr. 4853/2009",
+   "title": "Ordinul nr. 4.853/2009 privind aprobarea Metodologiei de organizare și desfășurare a examenului pentru obținerea atestatului de competență lingvistică pentru absolvenții claselor cu studiu intensiv și bilingv al unei limbi străine și pentru absolvenții claselor cu predare în limbile minorităților, precum și a atestatului pentru predarea unei limbi străine la clasele I-IV de către absolvenții claselor cu profil pedagogic, specializarea învățători-educatoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112178",
+   "versions": [
+    {
+     "from": "2009-10-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112178",
+     "sha256": "b3365147ad3586ae2a79cba2ee5344ee2a7f12eceff07cb0cd1a2ce01a180167"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4856-2009",
+   "path": "ordin/educatie/2009/4856",
+   "short": "Ordin educatie nr. 4856/2009",
+   "title": "Ordinul nr. 4.856/2009 privind aprobarea planurilor-cadru de învățământ pentru clasele a IX-a-a XII-a, filiera vocațională, profil artistic, specializarea conservare-restaurare bunuri culturale, cursuri de zi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111901",
+   "versions": [
+    {
+     "from": "2009-10-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111901",
+     "sha256": "ca349a0cf629af4b3566b6495408c2578068b23a45735ec8b9753eaf2949ec71"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4857-2009",
+   "path": "ordin/educatie/2009/4857",
+   "short": "Ordin educatie nr. 4857/2009",
+   "title": "Ordinul nr. 4.857/2009 privind aprobarea programelor școlare pentru clasa a IX-a, ciclul inferior al liceului, filiera tehnologică - domeniile de pregătire de bază, a standardelor de pregătire profesională, a planurilor de învățământ și a programelor școlare pentru unele calificări profesionale de nivel 2, 3 și 3 avansat pentru care se asigură pregătirea prin învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112273",
+   "versions": [
+    {
+     "from": "2009-10-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112273",
+     "sha256": "da3942b125b9071f9331cf73084273d6433124c6e9c07f37ba4cc3a0770bac33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5092-2009",
+   "path": "ordin/educatie/2009/5092",
+   "short": "Ordin educatie nr. 5092/2009",
+   "title": "Ordinul nr. 5.092/2009 pentru modificarea și completarea Ordinului ministrului educației și cercetării nr. 4.839/2004 privind criteriile specifice și metodologia de acordare a sprijinului financiar în cadrul Programului național de protecție socială \"Bani de liceu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111404",
+   "versions": [
+    {
+     "from": "2009-09-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111404",
+     "sha256": "e896c926f31fc4a14a071b4267ca51a525bcdc2d6bdd8a1693a0314186b648a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5097-2009",
+   "path": "ordin/educatie/2009/5097",
+   "short": "Ordin educatie nr. 5097/2009",
+   "title": "Ordinul nr. 5.097/2009 privind aprobarea programelor școlare pentru disciplinele de studiu din învățământul preuniversitar secundar inferior, ciclul gimnazial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113162",
+   "versions": [
+    {
+     "from": "2009-11-09",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113162",
+     "sha256": "60b06bc740eb7915004fd6f36c36e81699c234b1bfeed67049a302db3d32948c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5098-2009",
+   "path": "ordin/educatie/2009/5098",
+   "short": "Ordin educatie nr. 5098/2009",
+   "title": "Ordinul nr. 5.098/2009 privind aprobarea de programe școlare pentru discipline de studiu din învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113168",
+   "versions": [
+    {
+     "from": "2009-11-09",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113168",
+     "sha256": "8acfb1d726b7c961bea35eefeac0ed6bc6bbcb15148325656120d156ac37e83d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5099-2009",
+   "path": "ordin/educatie/2009/5099",
+   "short": "Ordin educatie nr. 5099/2009",
+   "title": "Ordinul nr. 5.099/2009 privind aprobarea de programe școlare pentru discipline de studiu din învățământul liceal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113205",
+   "versions": [
+    {
+     "from": "2009-11-10",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113205",
+     "sha256": "d67c97053e71e75f93b0db415a4ec79d82923bc76cb629d16dfae72aabb1e3c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5202-2009",
+   "path": "ordin/educatie/2009/5202",
+   "short": "Ordin educatie nr. 5202/2009",
+   "title": "Ordinul nr. 5.202/2009 pentru aprobarea Metodologiei privind dreptul studenților înmatriculați la Universitatea \"Spiru Haret\" din București în anul I, în perioada 2005-2008, la formele de învățământ la distanță și cu frecvență redusă, de a continua studiile la specializări/programe de studii autorizate să funcționeze provizoriu sau acreditate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111479",
+   "versions": [
+    {
+     "from": "2009-09-28",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111479",
+     "sha256": "60493c5b037f9e7b9e0169b8bae48b40b58c0e4a92be2d031cbd26d6917c955b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5262-2009",
+   "path": "ordin/educatie/2009/5262",
+   "short": "Ordin educatie nr. 5262/2009",
+   "title": "Ordinul nr. 5.262/2009 privind secțiile/școlile speciale germane din România, finalizate cu Diplomă de acces general în învățământul superior german și Diplomă de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112586",
+   "versions": [
+    {
+     "from": "2009-10-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112586",
+     "sha256": "17d044ff7c36e439d733432d919f22c2d9c2589520b2925a6bfba4bcaf074a90"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5351-2009",
+   "path": "ordin/educatie/2009/5351",
+   "short": "Ordin educatie nr. 5351/2009",
+   "title": "Ordinul nr. 5.351/2009 privind aprobarea Metodologiei Proiectului Ministerului Educației, Cercetării și Inovării privind predarea cursului de Limbă, cultură și civilizație românească în unități de învățământ din state membre ale Uniunii Europene și a instrumentelor de lucru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111812",
+   "versions": [
+    {
+     "from": "2009-10-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111812",
+     "sha256": "b7547e0e761264b173036738eac757b5d222301ce469037ee7793a90685b68b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5356-2009",
+   "path": "ordin/educatie/2009/5356",
+   "short": "Ordin educatie nr. 5356/2009",
+   "title": "Ordinul nr. 5.356/2009 privind programele de studii universitare de masterat înființate prin hotărâri ale senatelor instituțiilor de învățământ superior în baza Legii învățământului nr. 84/1995, a Legii nr. 2/2008 privind modificarea Legii învățământului nr. 84/1995, republicată, și a Ordonanței de urgență a Guvernului nr. 89/2008 pentru modificarea Legii învățământului nr. 84/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111842",
+   "versions": [
+    {
+     "from": "2009-10-02",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111842",
+     "sha256": "a8513d9d01fd89c85c9112df0c5fd7fa2f90887039b7f7df3c12d7ca1feefe0f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5394-2009",
+   "path": "ordin/educatie/2009/5394",
+   "short": "Ordin educatie nr. 5394/2009",
+   "title": "Ordinul nr. 5.394/2009 pentru modificarea Ordinului ministrului educației, cercetării și tineretului nr. 3.628/2008 privind aprobarea programelor de studii universitare de masterat evaluate de Agenția Română de Asigurare a Calității în Învățământul Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112408",
+   "versions": [
+    {
+     "from": "2009-10-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112408",
+     "sha256": "94fdb5edf9b063f367d39fe460e3d09aa9aa816109958881c348ceeca8337aa0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5507-2009",
+   "path": "ordin/educatie/2009/5507",
+   "short": "Ordin educatie nr. 5507/2009",
+   "title": "Ordinul nr. 5.507/2009 privind aprobarea Calendarului examenului de bacalaureat - 2010, a Metodologiei de organizare și desfășurare a examenului de bacalaureat - 2010, precum și a Atribuțiilor membrilor comisiilor de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113117",
+   "versions": [
+    {
+     "from": "2009-11-05",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113117",
+     "sha256": "69782cfaad52ea858dc5e0b12d095e63a95047ee97fd7ef3f36b1b7fc816754c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5508-2009",
+   "path": "ordin/educatie/2009/5508",
+   "short": "Ordin educatie nr. 5508/2009",
+   "title": "Ordinul nr. 5.508/2009 privind disciplinele și programele pentru examenul de bacalaureat - 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113113",
+   "versions": [
+    {
+     "from": "2009-11-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113113",
+     "sha256": "eebb38879e9fc1b19e3cdbfb507327ba7124b1656c9f1835c00592fcde9c0e58"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5619-2009",
+   "path": "ordin/educatie/2009/5619",
+   "short": "Ordin educatie nr. 5619/2009",
+   "title": "Ordinul nr. 5.619/2009 pentru modificarea anexei nr. 3 la Ordinul ministrului educației, cercetării și tineretului nr. 2.268/2007 privind aplicarea Programului \"A doua șansă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112501",
+   "versions": [
+    {
+     "from": "2009-10-21",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112501",
+     "sha256": "8ce3d7e6c4490f004fa8e85b26eb933b5d79604df0ee292c27431bec5e44e920"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5720-2009",
+   "path": "ordin/educatie/2009/5720",
+   "short": "Ordin educatie nr. 5720/2009",
+   "title": "Ordinul nr. 5.720/2009 privind aprobarea Metodologiei formării continue a personalului didactic din învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113032",
+   "versions": [
+    {
+     "from": "2009-11-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113032",
+     "sha256": "7a049d1f0b96fc2140eeefcd1681938f1648b3c7fd573128f575cba0b860dd15"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5793-2009",
+   "path": "ordin/educatie/2009/5793",
+   "short": "Ordin educatie nr. 5793/2009",
+   "title": "Ordinul nr. 5.793/2009 privind aprobarea Metodologiei de organizare și desfășurare a probelor specifice susținute de elevii secțiilor bilingve francofone în vederea obținerii mențiunii speciale \"secție bilingvă francofonă\" pe diploma de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113208",
+   "versions": [
+    {
+     "from": "2009-11-10",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113208",
+     "sha256": "cd4ed245fe7a6ea7e968d149549a6d3425adf7103997b315f7c3fd9beaede141"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5794-2009",
+   "path": "ordin/educatie/2009/5794",
+   "short": "Ordin educatie nr. 5794/2009",
+   "title": "Ordinul nr. 5.794/2009 privind aprobarea metodologiilor de recunoaștere și echivalare a rezultatelor obținute la examene cu recunoaștere internațională pentru certificarea competențelor lingvistice în limbi străine și la examene cu recunoaștere europeană pentru certificarea competențelor digitale cu probele de evaluare a competenței lingvistice într-o limbă de circulație internațională studiată pe parcursul învățământului liceal, respectiv de evaluare a competențelor digitale, din cadrul examenului de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113411",
+   "versions": [
+    {
+     "from": "2009-11-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113411",
+     "sha256": "423874e63a55d160b8b933fc58f23a127f33f060611c04624331149940d5531c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5880-2009",
+   "path": "ordin/educatie/2009/5880",
+   "short": "Ordin educatie nr. 5880/2009",
+   "title": "Ordinul nr. 5.880/2009 privind aprobarea Programei pentru ocuparea posturilor didactice vacante în învățământul preuniversitar la Religia ortodoxă de rit vechi (ruși lipoveni) și metodica predării religiei ortodoxe de rit vechi - profesori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113453",
+   "versions": [
+    {
+     "from": "2009-11-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113453",
+     "sha256": "1a9ecc018f57d0aa7bbe03b928f905d9e5dfe3e4a1a4e23fb7e315ee7c5b9632"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5886-2009",
+   "path": "ordin/educatie/2009/5886",
+   "short": "Ordin educatie nr. 5886/2009",
+   "title": "Ordinul nr. 5.886/2009 privind Calendarul mișcării personalului didactic din învățământul preuniversitar pentru anul școlar 2010-2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113348",
+   "versions": [
+    {
+     "from": "2009-11-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113348",
+     "sha256": "e8290f46d00b0fc5676602fe2f7c2cff92ef9b86c7158395e1c0b6c8a6df1fdf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5913-2009",
+   "path": "ordin/educatie/2009/5913",
+   "short": "Ordin educatie nr. 5913/2009",
+   "title": "Ordinul nr. 5.913/2009 privind aprobarea de programe școlare pentru discipline pentru curriculum diferențiat în învățământul liceal, la filiera vocațională, profil pedagogic și profil artistic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115250",
+   "versions": [
+    {
+     "from": "2010-01-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115250",
+     "sha256": "f02f182c20967aaf83029b9aa30d93951aa5f1a2e3c23d3c86a8088d0dcb925a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5925-2009",
+   "path": "ordin/educatie/2009/5925",
+   "short": "Ordin educatie nr. 5925/2009",
+   "title": "Ordinul nr. 5.925/2009 pentru aprobarea metodologiei privind organizarea și desfășurarea cursului de inițiere în limba română și școlarizarea copiilor străinilor și a procedurilor referitoare la elaborarea, aprobarea și distribuirea programelor și manualelor cursului de inițiere în limba română pentru copiii străinilor care au dobândit o formă de protecție sau un drept de ședere în România, precum și ai cetățenilor statelor membre ale Uniunii Europene și ale Spațiului Economic European",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114349",
+   "versions": [
+    {
+     "from": "2009-12-10",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114349",
+     "sha256": "f6359503bbc1b9ac95baf58f15ebeeb0b7bf4243c17340ef709276d922ce60cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6052-2009",
+   "path": "ordin/educatie/2009/6052",
+   "short": "Ordin educatie nr. 6052/2009",
+   "title": "Ordinul nr. 6.052/2009 pentru aprobarea Centralizatorului privind disciplinele de învățământ, domeniile și specializările, precum și probele de concurs valabile pentru încadrarea personalului didactic din învățământul preuniversitar 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115020",
+   "versions": [
+    {
+     "from": "2009-12-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115020",
+     "sha256": "b15d48accbd2f31a4ad17767b6767877c8dc67f1f53b82a5ca333caa6cb1bd4e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6054-2009",
+   "path": "ordin/educatie/2009/6054",
+   "short": "Ordin educatie nr. 6054/2009",
+   "title": "Ordinul nr. 6.054/2009 privind aprobarea Metodologiei și a criteriilor de acordare a gradației de merit în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114666",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114666",
+     "sha256": "d1cc7de46deaaddfc91b00a83134bfc4058614e3ca9d825b045bfd913285d753"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6226-2009",
+   "path": "ordin/educatie/2009/6226",
+   "short": "Ordin educatie nr. 6226/2009",
+   "title": "Ordinul nr. 6.226/2009 pentru aprobarea Regulamentului de organizare și funcționare a cluburilor sportive studențești din subordinea Ministerului Educației, Cercetării și Inovării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114935",
+   "versions": [
+    {
+     "from": "2009-12-29",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114935",
+     "sha256": "c711e414eed846f4742d150364e7dfacda23c2881bac7df1a40af974288f9ac8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1059-2009",
    "path": "ordin/finante/2009/1059",
    "short": "Ordin finante nr. 1059/2009",
@@ -4691,7 +6101,7 @@
    "versions": [
     {
      "from": "2009-05-27",
-     "units": 2,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106284",
      "sha256": "136e5243943ca6d65b959a35977839a6a9c697ac225efd16f369bf714c46199e"
     }
@@ -6236,7 +7646,7 @@
    "versions": [
     {
      "from": "2009-03-05",
-     "units": 8,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103014",
      "sha256": "6af12024e72b2f139b5eb9b80fa0b8038b3b60ccf0e3b73eb51bf76692995b06"
     }
@@ -7751,7 +9161,7 @@
    "versions": [
     {
      "from": "2009-04-16",
-     "units": 13,
+     "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104830",
      "sha256": "34949909c4a73d5e3f91ca54c3b85593b2cda44e7cc4adc539b89afe14579866"
     }
@@ -8006,7 +9416,7 @@
    "versions": [
     {
      "from": "2009-06-15",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106920",
      "sha256": "e5210e42a1f96f5da1ae2655beca44095aefbb56604141b8f20618f13a1e6a6f"
     }
@@ -8021,7 +9431,7 @@
    "versions": [
     {
      "from": "2009-07-01",
-     "units": 7,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109198",
      "sha256": "f2dba08f74607d202ec0a9fc36b1ad20f4c5c7adae3c3145607432e694b5a6d2"
     }

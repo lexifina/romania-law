@@ -2,7 +2,7 @@
 
 Ordin finante nr. 2332/2001 · 1 versions, from 2002-01-21 (latest in force: 2002-01-21) · <https://legislatie.just.ro/Public/DetaliiDocument/33466>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (PRECIZARI 28/12/2001): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -10,6 +10,8 @@ Ordin finante nr. 2332/2001 · 1 versions, from 2002-01-21 (latest in force: 200
 | Art. 2 | [art-002.md](art-002.md) | 0 |  |
 | Art. 3 | [art-003.md](art-003.md) | 0 |  |
 | Art. 4 | [art-004.md](art-004.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-finante-2332-2001` (tags `ordin-finante-2332-2001/<day>`; `python tools/on.py <day> ordin-finante-2332-2001`).
 
@@ -19,4 +21,4 @@ Act id: `ordin-finante-2332-2001` (tags `ordin-finante-2332-2001/<day>`; `python
 - Ordin finante nr. 2332/2001: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin finante nr. 2332/2001: the first version is the order as published in Monitorul Oficial nr. 40 of 21 January 2002 (document 33466 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin finante nr. 2332/2001: the signatures and the place and date line after its last article are not article text.
-- Ordin finante nr. 2332/2001: Anexa nr. 1 (PRECIZARI 28/12/2001) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 2332/2001: Anexa nr. 1 (PRECIZĂRI din 28 decembrie 2001 privind unele măsuri referitoare la încheierea exercițiului financiar pe anul 2001 la persoanele juridice care, potrivit prevederilor Legii contabilității nr. 82/1991, ...) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 33467 of the official web service.

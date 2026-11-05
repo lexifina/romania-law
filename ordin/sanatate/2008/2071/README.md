@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 2071/2008 · 1 versions, from 2009-01-07 (latest in force: 2009-01-07) · <https://legislatie.just.ro/Public/DetaliiDocument/101064>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 FORMULAR DE NOTIFICARE pentru schema de testare a competenței pentru laboratoare de analize medicale 1. Date despre solicitant 1.1. Denumirea: 1.2. Adresa: ...): it is a table that the official text holds only flattened; Anexa nr. 6 (6 LISTA schemelor de testare a competenței pentru laboratoarele medicale notificate *Font 7* ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -25,10 +25,14 @@ Ordin sanatate nr. 2071/2008 · 1 versions, from 2009-01-07 (latest in force: 20
 | Anexa nr. 1, Art. 7 | [anexa-1/art-007.md](anexa-1/art-007.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 
 Act id: `ordin-sanatate-2071-2008` (tags `ordin-sanatate-2071-2008/<day>`; `python tools/on.py <day> ordin-sanatate-2071-2008`).
 
@@ -40,7 +44,7 @@ Act id: `ordin-sanatate-2071-2008` (tags `ordin-sanatate-2071-2008/<day>`; `pyth
 - Ordin sanatate nr. 2071/2008: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 2071/2008: Anexa nr. 1 (1 Procedură de notificare a schemelor de testare a competenței pentru laboratoarele de analize medicale) is part of the order and is published in its folder, anexa-1/ (7 articles), from document 101064 of the official web service.
 - Ordin sanatate nr. 2071/2008: Anexa nr. 2 (2 GLOSAR DE TERMENI a) Notificare - procedura prin care o schemă de testare a competenței pentru laboratoare medicale este adusă la cunoștința și luată în evidența Ministerului Sănătății Publice cu sc) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 101064 of the official web service.
+- Ordin sanatate nr. 2071/2008: Anexa nr. 3 (3 FORMULAR DE NOTIFICARE pentru schema de testare a competenței pentru laboratoare de analize medicale 1. Date despre solicitant 1.1. Denumirea: 1.2. Adresa: 1.3. Telefon: 1.4. Fax: 1.5. E-mail: 1.6.) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 101064 of the official web service.
 - Ordin sanatate nr. 2071/2008: Anexa nr. 4 (4 MINISTERUL SĂNĂTĂȚII PUBLICE AUTORITATEA DE SĂNĂTATE PUBLICĂ ADEVERINȚĂ DE NOTIFICARE Nr......... din................. În baza formularului de notificare înregistrat la nr.................. din.....) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 101064 of the official web service.
 - Ordin sanatate nr. 2071/2008: Anexa nr. 5 (5 a) LISTA... cuprinzând documentele care trebuie depuse împreună cu formularul de notificare pentru notificarea inițială I. În calitate de organizator al schemei de testare a competenței: 1. copie de) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 101064 of the official web service.
-- Ordin sanatate nr. 2071/2008: Anexa nr. 3 (3 FORMULAR DE NOTIFICARE pentru schema de testare a competenței pentru laboratoare de analize medicale 1. Date despre solicitant 1.1. Denumirea: 1.2. Adresa: ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin sanatate nr. 2071/2008: Anexa nr. 6 (6 LISTA schemelor de testare a competenței pentru laboratoarele medicale notificate *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 2071/2008: Anexa nr. 6 (6 LISTA schemelor de testare a competenței pentru laboratoarele medicale notificate *Font 7*) is part of the order and is published in its folder, anexa-6/ (paragraphs and tables), from document 101064 of the official web service.

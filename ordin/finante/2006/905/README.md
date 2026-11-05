@@ -2,7 +2,7 @@
 
 Ordin finante nr. 905/2006 · 1 versions, from 2006-06-15 (latest in force: 2006-06-15) · <https://legislatie.just.ro/Public/DetaliiDocument/72653>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 *Font 8* Nr. înregistrare.................. Data........ "Declaratie privind datele de identificare ale antrepozitarului și antrepozitului fiscal" (atasati ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -12,6 +12,8 @@ Ordin finante nr. 905/2006 · 1 versions, from 2006-06-15 (latest in force: 2006
 | Art. 4 | [art-004.md](art-004.md) | 0 |  |
 | Art. 5 | [art-005.md](art-005.md) | 0 |  |
 | Art. 6 | [art-006.md](art-006.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
@@ -23,5 +25,5 @@ Act id: `ordin-finante-905-2006` (tags `ordin-finante-905-2006/<day>`; `python t
 - Ordin finante nr. 905/2006: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin finante nr. 905/2006: the first version is the order as published in Monitorul Oficial nr. 519 of 15 June 2006 (document 72653 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin finante nr. 905/2006: the signatures and the place and date line after its last article are not article text.
+- Ordin finante nr. 905/2006: Anexa nr. 1 (1 *Font 8* Nr. înregistrare.................. Data........ "Declaratie privind datele de identificare ale antrepozitarului și antrepozitului fiscal" (atasati numărul suplimentar de pagini necesar pent) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 72653 of the official web service.
 - Ordin finante nr. 905/2006: Anexa nr. 2 (2 INSTRUCTIUNI de completare a "Declarației privind datele de identificare ale antrepozitarului și antrepozitului fiscal" 1. Antrepozitarii autorizati la data intrarii în vigoare a prezentului ordin,) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 72653 of the official web service.
-- Ordin finante nr. 905/2006: Anexa nr. 1 (1 *Font 8* Nr. înregistrare.................. Data........ "Declaratie privind datele de identificare ale antrepozitarului și antrepozitului fiscal" (atasati ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

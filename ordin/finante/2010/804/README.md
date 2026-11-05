@@ -2,7 +2,7 @@
 
 Ordin finante nr. 804/2010 · 1 versions, from 2010-03-31 (latest in force: 2010-03-31) · <https://legislatie.just.ro/Public/DetaliiDocument/117566>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 5 (2): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -17,6 +17,8 @@ Ordin finante nr. 804/2010 · 1 versions, from 2010-03-31 (latest in force: 2010
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 
 Act id: `ordin-finante-804-2010` (tags `ordin-finante-804-2010/<day>`; `python tools/on.py <day> ordin-finante-804-2010`).
 
@@ -30,4 +32,4 @@ Act id: `ordin-finante-804-2010` (tags `ordin-finante-804-2010/<day>`; `python t
 - Ordin finante nr. 804/2010: Anexa nr. 2 (1a)) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 117566 of the official web service.
 - Ordin finante nr. 804/2010: Anexa nr. 3 (1b)) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 117566 of the official web service.
 - Ordin finante nr. 804/2010: Anexa nr. 4 (1c)) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 117566 of the official web service.
-- Ordin finante nr. 804/2010: Anexa nr. 5 (2) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 804/2010: Anexa nr. 5 (2) is part of the order and is published in its folder, anexa-5/ (paragraphs and tables), from document 117566 of the official web service.

@@ -948,6 +948,51 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4701-2000",
+   "path": "ordin/educatie/2000/4701",
+   "short": "Ordin educatie nr. 4701/2000",
+   "title": "Ordinul nr. 4.701/2000 privind aprobarea Metodologiei de echivalare a examenului de capacitate pentru promoțiile anterioare anului 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26274",
+   "versions": [
+    {
+     "from": "2001-01-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26274",
+     "sha256": "57d0091b84c52f7859c51391f9310802cc7a6b2c7c97141729464a5835db18e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5235-2000",
+   "path": "ordin/educatie/2000/5235",
+   "short": "Ordin educatie nr. 5235/2000",
+   "title": "Ordinul nr. 5.235/2000 privind aprobarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea posturilor/catedrelor didactice vacante din unitățile de învățământ reprezentative din învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26633",
+   "versions": [
+    {
+     "from": "2001-02-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26633",
+     "sha256": "afcf3927b320ceb04b957e148c55db66f88517676f7da6f5a6f88dd98cc27132"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5236-2000",
+   "path": "ordin/educatie/2000/5236",
+   "short": "Ordin educatie nr. 5236/2000",
+   "title": "Ordinul nr. 5.236/2000 privind aprobarea Metodologiei de organizare și desfășurare a concursului din 16-17 iulie 2001 pentru ocuparea posturilor didactice vacante din învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26641",
+   "versions": [
+    {
+     "from": "2001-02-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26641",
+     "sha256": "5c1baf6f9db148a6a5e26847fabcb9dbac71f93535a7c7ed2a73bd8b814e25a8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1013-2000",
    "path": "ordin/finante/2000/1013",
    "short": "Ordin finante nr. 1013/2000",
@@ -2771,7 +2816,7 @@
    "versions": [
     {
      "from": "2000-10-20",
-     "units": 3,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24704",
      "sha256": "20bb69dd44deab49f7c44188abb327410c5e391753c9528cc80ffc255782b8a1"
     }

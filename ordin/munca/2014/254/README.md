@@ -2,12 +2,14 @@
 
 Ordin munca nr. 254/2014 · 1 versions, from 2014-03-05 (latest in force: 2014-03-05) · <https://legislatie.just.ro/Public/DetaliiDocument/156099>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 ((Anexa la Ordinul nr. 594/2013) LISTA standardelor române care adoptă standardele europene armonizate referitoare la echipamentele individuale de protecție*1)): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. I | [art-001.md](art-001.md) | 0 |  |
 | Art. II | [art-002.md](art-002.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-munca-254-2014` (tags `ordin-munca-254-2014/<day>`; `python tools/on.py <day> ordin-munca-254-2014`).
 
@@ -17,4 +19,4 @@ Act id: `ordin-munca-254-2014` (tags `ordin-munca-254-2014/<day>`; `python tools
 - Ordin munca nr. 254/2014: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin munca nr. 254/2014: the first version is the order as published in Monitorul Oficial nr. 159 of 5 March 2014 (document 156099 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin munca nr. 254/2014: the signatures and the place and date line after its last article are not article text.
-- Ordin munca nr. 254/2014: Anexa nr. 1 ((Anexa la Ordinul nr. 594/2013) LISTA standardelor române care adoptă standardele europene armonizate referitoare la echipamentele individuale de protecție*1)) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin munca nr. 254/2014: Anexa nr. 1 ((Anexa la Ordinul nr. 594/2013) LISTA standardelor române care adoptă standardele europene armonizate referitoare la echipamentele individuale de protecție*1)) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 156099 of the official web service.

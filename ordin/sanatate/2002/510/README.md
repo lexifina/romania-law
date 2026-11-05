@@ -2,13 +2,15 @@
 
 Ordin sanatate nr. 510/2002 · 1 versions, from 2002-07-25 (latest in force: 2002-07-25) · <https://legislatie.just.ro/Public/DetaliiDocument/37619>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (NORMA 05/07/2002): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1 | [art-001.md](art-001.md) | 0 |  |
 | Art. 2 | [art-002.md](art-002.md) | 0 |  |
 | Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-sanatate-510-2002` (tags `ordin-sanatate-510-2002/<day>`; `python tools/on.py <day> ordin-sanatate-510-2002`).
 
@@ -19,4 +21,4 @@ Act id: `ordin-sanatate-510-2002` (tags `ordin-sanatate-510-2002/<day>`; `python
 - Ordin sanatate nr. 510/2002: the first version is the order as published in Monitorul Oficial nr. 546 of 25 July 2002 (document 37619 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 510/2002: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 510/2002: a joint order of Ministerul Sănătății și Familiei nr. 510 din 5 July 2002; Casa Naționala de Asigurări de Sănătate nr. 190 din 3 July 2002. It is published once, here, under the issuer its EMITENT block lists first; `ordin-cnas-190-2002` name it too (data/paths.json aliases).
-- Ordin sanatate nr. 510/2002: Anexa nr. 1 (NORMA 05/07/2002) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 510/2002: Anexa nr. 1 (NORME METODOLOGICE din 5 iulie 2002 privind încheierea și derularea contractelor de achiziții publice pentru medicamente și/sau materiale sanitare specifice, necesare realizării programelor, ...) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 37620 of the official web service.

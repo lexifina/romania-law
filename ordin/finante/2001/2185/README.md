@@ -2,7 +2,7 @@
 
 Ordin finante nr. 2185/2001 · 1 versions, from 2001-11-22 (latest in force: 2001-11-22) · <https://legislatie.just.ro/Public/DetaliiDocument/32333>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 6 (6 Furnizor........................... Cumpărător................................................................................................. (denumirea, ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,6 +20,8 @@ Ordin finante nr. 2185/2001 · 1 versions, from 2001-11-22 (latest in force: 200
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 
 Act id: `ordin-finante-2185-2001` (tags `ordin-finante-2185-2001/<day>`; `python tools/on.py <day> ordin-finante-2185-2001`).
 
@@ -34,4 +36,4 @@ Act id: `ordin-finante-2185-2001` (tags `ordin-finante-2185-2001/<day>`; `python
 - Ordin finante nr. 2185/2001: Anexa nr. 3 (3 FACTURA FISCALĂ - furnizor S.C. RONDOCARTON S.R.L., se găsește publicată la pag. 8 în Monitorul Oficial al României, Partea I, nr. 746 din 22 noiembrie 2001.) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 32333 of the official web service.
 - Ordin finante nr. 2185/2001: Anexa nr. 4 (4 FACTURA FISCALĂ - furnizor ROMCONSERV S.R.L., se găsește publicată la pag. 9 în Monitorul Oficial al României, Partea I, nr. 746 din 22 noiembrie 2001. FACTURA FISCALĂ (cod CONSERV 14-4-10/A) Formul) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 32333 of the official web service.
 - Ordin finante nr. 2185/2001: Anexa nr. 5 (5 Formularul tipizat al BILETULUI DE CĂLĂTORIE se găsește publicat la pagina 11 din Monitorul Oficial al României, Partea I, nr. 746 din 22 noiembrie 2001. BILET DE CĂLĂTORIE (cod TRAUTO 14-4-1/a) For) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 32333 of the official web service.
-- Ordin finante nr. 2185/2001: Anexa nr. 6 (6 Furnizor........................... Cumpărător................................................................................................. (denumirea, ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 2185/2001: Anexa nr. 6 (6 Furnizor........................... Cumpărător................................................................................................. (denumirea, forma juridică) (denumirea, forma juridică) is part of the order and is published in its folder, anexa-6/ (paragraphs and tables), from document 32333 of the official web service.

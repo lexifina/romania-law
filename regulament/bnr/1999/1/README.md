@@ -2,7 +2,7 @@
 
 Regulament bnr nr. 1/1999 · 1 versions, from 2000-02-01 (latest in force: 2000-02-01) · <https://legislatie.just.ro/Public/DetaliiDocument/20278>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌──┐ │F1│ └──┘ FIȘA de acreditare la Centrala Riscurilor Bancare a persoanelor autorizate sa transmită și sa receptioneze informații de risc bancar Nr....... ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 F4 A SITUAȚIA riscului global privind persoanele recenzate pentru luna........ anul....... Către Persoana declaranta............................ ...): it is a table that the official text holds only flattened; Anexa nr. 7 (7 F7 Nr....... Data........ LISTA cuprinzând erorile privind informația de risc bancar pentru luna........ anul....... Persoana ...): it is a table that the official text holds only flattened; Anexa nr. 8 (8 Nr....... Data........ F8 SESIZARE DE CORECTIE pentru luna....... anul....... Persoana declaranta........................ Cod........................ ...): it is a table that the official text holds only flattened; Anexa nr. 9 (9 Nr....... Data..... ┌────┐ │ F9 │ └────┘ CERERE DE CONCILIERE pentru luna...... anul...... ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened; Anexa nr. 9 (9 Nr....... Data.....): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -26,10 +26,16 @@ Regulament bnr nr. 1/1999 · 1 versions, from 2000-02-01 (latest in force: 2000-
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 | Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
 | Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
+| Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
+| Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
+| Anexa nr. 8 (what it is) | [anexa-8/README.md](anexa-8/README.md) | 0 |  |
+| Anexa nr. 8 | [anexa-8/text.md](anexa-8/text.md) | 0 |  |
 
 Act id: `regulament-bnr-1-1999` (tags `regulament-bnr-1-1999/<day>`; `python tools/on.py <day> regulament-bnr-1-1999`).
 
@@ -41,10 +47,10 @@ Act id: `regulament-bnr-1-1999` (tags `regulament-bnr-1-1999/<day>`; `python too
 - Regulament bnr nr. 1/1999: the signatures and the place and date line after its last article are not article text.
 - Regulament bnr nr. 1/1999: Anexa nr. 2 (2 F2 Nr....... Data........... FORMULAR de raportare a debitorilor pentru luna....... anul...... Persoana declaranta........................... Cod........................................... Debitor N) is part of the regulation and is published in its folder, anexa-2/ (paragraphs), from document 20278 of the official web service.
 - Regulament bnr nr. 1/1999: Anexa nr. 3 (3 F3 Nr....... Data.............. FORMULAR de raportare a riscurilor individuale pentru luna......... anul....... Persoana declaranta....................... Cod.......................................) is part of the regulation and is published in its folder, anexa-3/ (paragraphs), from document 20278 of the official web service.
+- Regulament bnr nr. 1/1999: Anexa nr. 4 (4 F4 A SITUAȚIA riscului global privind persoanele recenzate pentru luna........ anul....... Către Persoana declaranta............................ Cod............................................ Refer) is part of the regulation and is published in its folder, anexa-4/ (paragraphs and tables), from document 20278 of the official web service.
 - Regulament bnr nr. 1/1999: Anexa nr. 5 (5 F5 ACORD de consultare a bazei de date a Centralei Riscurilor Bancare Nr.......... [][][][][][][][] (data emiterii) 1. Persoana [][][][][][][][][][][][][][][][][][][][][][][][][][][][] Codul de iden) is part of the regulation and is published in its folder, anexa-5/ (paragraphs), from document 20278 of the official web service.
 - Regulament bnr nr. 1/1999: Anexa nr. 6 (6 F6 CERERE de consultare a bazei de date a Centralei Riscurilor Bancare Nr....... [][][][][][][][] (data emiterii) 1. Persoana declaranta................ Cod.................. în baza 2. Acordului de) is part of the regulation and is published in its folder, anexa-6/ (paragraphs), from document 20278 of the official web service.
-- Regulament bnr nr. 1/1999: Anexa nr. 1 (1 ┌──┐ │F1│ └──┘ FIȘA de acreditare la Centrala Riscurilor Bancare a persoanelor autorizate sa transmită și sa receptioneze informații de risc bancar Nr....... ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Regulament bnr nr. 1/1999: Anexa nr. 4 (4 F4 A SITUAȚIA riscului global privind persoanele recenzate pentru luna........ anul....... Către Persoana declaranta............................ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Regulament bnr nr. 1/1999: Anexa nr. 7 (7 F7 Nr....... Data........ LISTA cuprinzând erorile privind informația de risc bancar pentru luna........ anul....... Persoana ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Regulament bnr nr. 1/1999: Anexa nr. 8 (8 Nr....... Data........ F8 SESIZARE DE CORECTIE pentru luna....... anul....... Persoana declaranta........................ Cod........................ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Regulament bnr nr. 1/1999: Anexa nr. 9 (9 Nr....... Data..... ┌────┐ │ F9 │ └────┘ CERERE DE CONCILIERE pentru luna...... anul...... ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament bnr nr. 1/1999: Anexa nr. 7 (7 F7 Nr....... Data........ LISTA cuprinzând erorile privind informația de risc bancar pentru luna........ anul....... Persoana declaranta........................... Cod...............................) is part of the regulation and is published in its folder, anexa-7/ (paragraphs and tables), from document 20278 of the official web service.
+- Regulament bnr nr. 1/1999: Anexa nr. 8 (8 Nr....... Data........ F8 SESIZARE DE CORECTIE pentru luna....... anul....... Persoana declaranta........................ Cod........................) is part of the regulation and is published in its folder, anexa-8/ (paragraphs and tables), from document 20278 of the official web service.
+- Regulament bnr nr. 1/1999: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament bnr nr. 1/1999: Anexa nr. 9 (9 Nr....... Data.....) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 1096/2016 · 1 versions, from 2016-10-07 (latest in force: 2016-10-07) · <https://legislatie.just.ro/Public/DetaliiDocument/182397>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 (Anexa nr. 5 la Ordinul ministrului sănătății nr. 914/2006) Dotarea minimă pentru acordarea serviciilor de urgență *Font 9* ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -42,6 +42,8 @@ Ordin sanatate nr. 1096/2016 · 1 versions, from 2016-10-07 (latest in force: 20
 | Anexa nr. 1, Art. 29 | [anexa-1/art-029.md](anexa-1/art-029.md) | 0 |  |
 | Anexa nr. 1, Art. 30 | [anexa-1/art-030.md](anexa-1/art-030.md) | 0 |  |
 | Anexa nr. 1, Art. 31 | [anexa-1/art-031.md](anexa-1/art-031.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
 Act id: `ordin-sanatate-1096-2016` (tags `ordin-sanatate-1096-2016/<day>`; `python tools/on.py <day> ordin-sanatate-1096-2016`).
 
@@ -52,4 +54,4 @@ Act id: `ordin-sanatate-1096-2016` (tags `ordin-sanatate-1096-2016/<day>`; `pyth
 - Ordin sanatate nr. 1096/2016: the first version is the order as published in Monitorul Oficial nr. 791 of 7 October 2016 (document 182397 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 1096/2016: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 1096/2016: Anexa nr. 1 (1 (Anexa nr. 4 la Ordinul ministrului sănătății nr. 914/2006) NORME privind asigurarea condițiilor generale de igienă) is part of the order and is published in its folder, anexa-1/ (31 articles), from document 182397 of the official web service.
-- Ordin sanatate nr. 1096/2016: Anexa nr. 2 (2 (Anexa nr. 5 la Ordinul ministrului sănătății nr. 914/2006) Dotarea minimă pentru acordarea serviciilor de urgență *Font 9* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 1096/2016: Anexa nr. 2 (2 (Anexa nr. 5 la Ordinul ministrului sănătății nr. 914/2006) Dotarea minimă pentru acordarea serviciilor de urgență *Font 9*) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 182397 of the official web service.

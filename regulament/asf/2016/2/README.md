@@ -2,7 +2,7 @@
 
 Regulament asf nr. 2/2016 · 1 versions, from 2016-03-23 (latest in force: 2016-03-23) · <https://legislatie.just.ro/Public/DetaliiDocument/176826>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (Declarație privind aplicarea principiilor de guvernanță corporativă *Font 8* ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -59,6 +59,8 @@ Regulament asf nr. 2/2016 · 1 versions, from 2016-03-23 (latest in force: 2016-
 | Art. 51 | [art-051.md](art-051.md) | 0 |  |
 | Art. 52 | [art-052.md](art-052.md) | 0 |  |
 | Art. 53 | [art-053.md](art-053.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `regulament-asf-2-2016` (tags `regulament-asf-2-2016/<day>`; `python tools/on.py <day> regulament-asf-2-2016`).
 
@@ -68,4 +70,4 @@ Act id: `regulament-asf-2-2016` (tags `regulament-asf-2-2016/<day>`; `python too
 - Regulament asf nr. 2/2016: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Regulament asf nr. 2/2016: the first version is the regulation as published in Monitorul Oficial nr. 216 of 23 March 2016 (document 176826 of the official web service), in force on its day of publication, as it states.
 - Regulament asf nr. 2/2016: the signatures and the place and date line after its last article are not article text.
-- Regulament asf nr. 2/2016: Anexa nr. 1 (Declarație privind aplicarea principiilor de guvernanță corporativă *Font 8* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament asf nr. 2/2016: Anexa nr. 1 (Declarație privind aplicarea principiilor de guvernanță corporativă *Font 8*) is part of the regulation and is published in its folder, anexa-1/ (paragraphs and tables), from document 176826 of the official web service.

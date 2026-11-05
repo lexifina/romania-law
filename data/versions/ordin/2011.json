@@ -3,6 +3,81 @@
  "shard": "ordin/2011",
  "acts": [
   {
+   "slug": "ordin-agricultura-111-2011",
+   "path": "ordin/agricultura/2011/111",
+   "short": "Ordin agricultura nr. 111/2011",
+   "title": "Ordinul nr. 111/2011 privind recunoașterea Organizației Naționale Interprofesionale Vitivinicole - O.N.I.V. ca organizație interprofesională pe filiera \"struguri, vin, produse pe bază de vin\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128632",
+   "versions": [
+    {
+     "from": "2011-05-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128632",
+     "sha256": "e66dd15d6dc7a4bdf3e89fab95113d5522636e6d0ec127a6821986a201cda9c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-119-2011",
+   "path": "ordin/agricultura/2011/119",
+   "short": "Ordin agricultura nr. 119/2011",
+   "title": "Ordinul nr. 119/2011 pentru aprobarea Sistemului unitar de identificare a stupinelor și stupilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129057",
+   "versions": [
+    {
+     "from": "2011-06-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129057",
+     "sha256": "c4e85eb1fbd70ef226a0d4abc17760649e93cc0699910d874145de8ee2e94c66"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-120-2011",
+   "path": "ordin/agricultura/2011/120",
+   "short": "Ordin agricultura nr. 120/2011",
+   "title": "Ordinul nr. 120/2011 pentru aprobarea Normelor metodologice privind calculul și plata tarifelor pentru serviciile de îmbunătățiri funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130483",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130483",
+     "sha256": "aaa58f87515aceaab45ac20d91b399635babcd28e8f5ffa83ee9631e513c9161"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-122-2011",
+   "path": "ordin/agricultura/2011/122",
+   "short": "Ordin agricultura nr. 122/2011",
+   "title": "Ordinul nr. 122/2011 pentru aprobarea cantităților de motorină aferente trimestrului I al anului 2011, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129374",
+   "versions": [
+    {
+     "from": "2011-06-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129374",
+     "sha256": "e05defded00e9fa971c1837f62b12231b9a3bcfc37cdd9f77c1fff00a67d8ed8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-124-2011",
+   "path": "ordin/agricultura/2011/124",
+   "short": "Ordin agricultura nr. 124/2011",
+   "title": "Ordinul nr. 124/2011 privind aprobarea Planului sectorial pentru cercetare-dezvoltare din domeniul agricol și de dezvoltare rurală al Ministerului Agriculturii și Dezvoltării Rurale, pe anii 2011-2014, \"Agricultură și Dezvoltare Rurală - Orizont PAC 2020\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129109",
+   "versions": [
+    {
+     "from": "2011-06-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129109",
+     "sha256": "6841ecaf9056e1c3c9368cc3c431145b9548c27c3c0c5d906e8bde1cfcaf02c7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-131-2011",
    "path": "ordin/agricultura/2011/131",
    "short": "Ordin agricultura nr. 131/2011",
@@ -14,6 +89,111 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130237",
      "sha256": "c98ac748bb2dcdf9fbe0cdbd664d9b82c6da4b5f1f9f93e6e0f08d0b1829b0be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-15-2011",
+   "path": "ordin/agricultura/2011/15",
+   "short": "Ordin agricultura nr. 15/2011",
+   "title": "Ordinul nr. 15/2011 privind condițiile de practicare a pescuitului recreativ/sportiv, regulamentul de practicare a pescuitului recreativ/sportiv, precum și modelele permiselor de pescuit recreativ/sportiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125669",
+   "versions": [
+    {
+     "from": "2011-01-28",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125669",
+     "sha256": "27f7eb8a46b8cbbff197820409bf47361f8df589725958c6e1874393702882f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-157-2011",
+   "path": "ordin/agricultura/2011/157",
+   "short": "Ordin agricultura nr. 157/2011",
+   "title": "Ordinul nr. 157/2011 pentru aprobarea Normelor metodologice privind calculul și plata tarifelor pentru serviciile de îmbunătățiri funciare, altele decât irigațiile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130184",
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130184",
+     "sha256": "ace901d965bd141830a7bbe1e02f611a139fbe615058a547aff02c6178e202fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-160-2011",
+   "path": "ordin/agricultura/2011/160",
+   "short": "Ordin agricultura nr. 160/2011",
+   "title": "Ordinul nr. 160/2011 privind recunoașterea Organizației interprofesionale pentru carne de pasăre, ouă și procesate din acestea ca organizație interprofesională pe filiera \"carne de pasăre, ouă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129661",
+   "versions": [
+    {
+     "from": "2011-06-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129661",
+     "sha256": "ca3b1d78a8e4cb455c43e3b87a51dba116bf208bd2ad452cff510d444bc68e36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-162-2011",
+   "path": "ordin/agricultura/2011/162",
+   "short": "Ordin agricultura nr. 162/2011",
+   "title": "Ordinul nr. 162/2011 privind instituirea unor măsuri excepționale cu caracter temporar de sprijinire a sectorului fructelor și legumelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129695",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129695",
+     "sha256": "06f7b979541720b6b6a5108bfa740b67666790210835283b24c8f0c9473b9784"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-17-2011",
+   "path": "ordin/agricultura/2011/17",
+   "short": "Ordin agricultura nr. 17/2011",
+   "title": "Ordinul nr. 17/2011 privind aprobarea reducerilor și excluderilor aplicabile cererilor de plată a ajutorului specific pentru îmbunătățirea calității produselor agricole în sectorul de agricultură ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125758",
+   "versions": [
+    {
+     "from": "2011-02-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125758",
+     "sha256": "c817ab9df1b324bb3f7e669ef63ee72df747a06e6b94f0847f575f983564ef2c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-170-2011",
+   "path": "ordin/agricultura/2011/170",
+   "short": "Ordin agricultura nr. 170/2011",
+   "title": "Ordinul nr. 170/2011 privind aprobarea Ghidului de bună practică pentru cultivarea și recoltarea plantelor medicinale și aromatice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130334",
+   "versions": [
+    {
+     "from": "2011-07-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130334",
+     "sha256": "7c1ff1347b5cac35f7f44425cd9d32ce5dd010ef510993d335fa5a46f14d2f71"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-18-2011",
+   "path": "ordin/agricultura/2011/18",
+   "short": "Ordin agricultura nr. 18/2011",
+   "title": "Ordinul nr. 18/2011 privind aprobarea Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125977",
+   "versions": [
+    {
+     "from": "2011-02-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125977",
+     "sha256": "c4eccd5b57f19b50378cc8e5431c989616aaf668761a63e3c385aacb1b0b4ec3"
     }
    ]
   },
@@ -33,6 +213,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-182-2011",
+   "path": "ordin/agricultura/2011/182",
+   "short": "Ordin agricultura nr. 182/2011",
+   "title": "Ordinul nr. 182/2011 privind aprobarea repartizării cotelor de producție de zahăr din sfeclă de zahăr începând cu anul de comercializare 2011-2012 pentru societățile comerciale acreditate producătoare de zahăr",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130394",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130394",
+     "sha256": "6b9171f40f97bd8a70d1a40c5be0f8343aba85e2d7349c381290afa34ede2628"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-187-2011",
    "path": "ordin/agricultura/2011/187",
    "short": "Ordin agricultura nr. 187/2011",
@@ -44,6 +239,126 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131799",
      "sha256": "09bf176702de385177164c3595aebb9880f53ed72c0011b1ad6ccc79c1f31f01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-203-2011",
+   "path": "ordin/agricultura/2011/203",
+   "short": "Ordin agricultura nr. 203/2011",
+   "title": "Ordinul nr. 203/2011 pentru aprobarea cantităților de motorină aferente trimestrului II al anului 2011, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131538",
+   "versions": [
+    {
+     "from": "2011-09-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131538",
+     "sha256": "7057a0b46eb7ff073e40ce7f1a0becdc30b56b9a6868d0e9843b089d2ed40416"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-22-2011",
+   "path": "ordin/agricultura/2011/22",
+   "short": "Ordin agricultura nr. 22/2011",
+   "title": "Ordinul nr. 22/2011 privind reorganizarea Registrului fermelor, care devine Registrul unic de identificare, în vederea accesării măsurilor reglementate de politica agricolă comună",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126308",
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126308",
+     "sha256": "9c4e2ce92e0f693b0b3359f5ebf7ae98f7f0803e152997993e7d9e95e1a300d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-253-2011",
+   "path": "ordin/agricultura/2011/253",
+   "short": "Ordin agricultura nr. 253/2011",
+   "title": "Ordinul nr. 253/2011 privind stabilirea anumitor derogări pentru comercializarea amestecurilor de semințe de plante furajere destinate a fi utilizate pentru protecția mediului natural în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132988",
+   "versions": [
+    {
+     "from": "2011-11-17",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132988",
+     "sha256": "027b39f3a70bda8c24ee4b3c154452283a8e173f2fa70f8157190a305492d892"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-266-2011",
+   "path": "ordin/agricultura/2011/266",
+   "short": "Ordin agricultura nr. 266/2011",
+   "title": "Ordinul nr. 266/2011 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 1.141/2011 privind reglementarea unor măsuri financiare temporare pentru stimularea gradului de absorbție a fondurilor alocate pentru agricultură aferente schemelor de plăți directe și pentru măsuri de piață în agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133647",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133647",
+     "sha256": "874cbfc155adbe2f6ed9091e6fe11c17525a2d8158420cffbf7c19f97ca10d7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-267-2011",
+   "path": "ordin/agricultura/2011/267",
+   "short": "Ordin agricultura nr. 267/2011",
+   "title": "Ordinul nr. 267/2011 pentru aprobarea cantităților de motorină aferente trimestrului III al anului 2011, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133655",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133655",
+     "sha256": "c965e7308a59319b6618a26fd3a52c2e8a47a7b7a4ae11f3eeaa9c20237542a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-269-2011",
+   "path": "ordin/agricultura/2011/269",
+   "short": "Ordin agricultura nr. 269/2011",
+   "title": "Ordinul nr. 269/2011 privind recunoașterea Organizației Interprofesionale Naționale Prodcom Legume-Fructe din România ca organizație interprofesională pe filiera \"legume și fructe proaspete și procesate\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133374",
+   "versions": [
+    {
+     "from": "2011-12-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133374",
+     "sha256": "b349af3620ecced27ab9720c69e0174a9314aca185dec45ed24a328604c41153"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-275-2011",
+   "path": "ordin/agricultura/2011/275",
+   "short": "Ordin agricultura nr. 275/2011",
+   "title": "Ordinul nr. 275/2011 privind aprobarea sistemelor de sancțiuni pentru măsurile 211 \"Sprijin pentru zona montană defavorizată\", 212 \"Sprijin pentru zone defavorizate, altele decât zona montană\" și 214 \"Plăți de agromediu\" din Programul național de dezvoltare rurală 2007-2013, aferente cererilor de plată depuse începând cu anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133879",
+   "versions": [
+    {
+     "from": "2011-12-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133879",
+     "sha256": "0e0422f9208dc08ea4664b08b3108df3d618662213236c6f19eacb08bb418945"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-278-2011",
+   "path": "ordin/agricultura/2011/278",
+   "short": "Ordin agricultura nr. 278/2011",
+   "title": "Ordinul nr. 278/2011 privind aprobarea Programului național privind realizarea Sistemului național de monitorizare sol-teren pentru agricultură, a Normelor de conținut pentru studiile pedologice și agrochimice elaborate în vederea realizării și reactualizării periodice a Sistemului județean de monitorizare sol-teren pentru agricultură și a realizării Sistemului național de monitoring al calității solului în rețeaua de profile 8x8 km și bazele de date aferente, a Metodologiei privind realizarea și reactualizarea Sistemului județean de monitorizare sol-teren pentru agricultură și a Sistemului național de monitoring al calității solului în rețeaua de profile 8x8 km și a bazelor de date aferente, a Normelor de conținut privind realizarea Sistemului național de monitoring al calității solului în rețeaua de profile 8x8 km și a Bazei de date aferente rețelei de profile 8x8 km, precum și realizarea bazei de date la nivel național aferente Sistemului județean de monitorizare sol-teren pentru agricultură și a Modului de finanțare a Sistemului județean de monitorizare sol-teren pentru agricultură, a Sistemului național de monitoring al calității solului în rețeaua de profile 8x8 km, precum și a bazelor de date aferente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134131",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134131",
+     "sha256": "2da05c99f61cd7f34b36d7ffbc9863d2f3819df81e879c1280a0434d262214e1"
     }
    ]
   },
@@ -63,6 +378,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-295-2011",
+   "path": "ordin/agricultura/2011/295",
+   "short": "Ordin agricultura nr. 295/2011",
+   "title": "Ordinul nr. 295/2011 privind desemnarea unui compartiment specializat în domeniul infrastructurilor critice naționale/infrastructurilor critice europene, condus de un ofițer de legătură pentru securitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134422",
+   "versions": [
+    {
+     "from": "2012-01-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134422",
+     "sha256": "01bb574ae8113bf01c5e403a61a627fd0e7e58ab66b09a4696ed3c41155e20f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-32-2011",
+   "path": "ordin/agricultura/2011/32",
+   "short": "Ordin agricultura nr. 32/2011",
+   "title": "Ordinul nr. 32/2011 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 65/2011 privind reglementarea unor măsuri financiare temporare pentru stimularea gradului de absorbție a fondurilor alocate pentru agricultură aferente schemelor de plăți directe și pentru măsuri de piață în agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126293",
+   "versions": [
+    {
+     "from": "2011-02-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126293",
+     "sha256": "e3cb9d7b93cb36ca64e75475a197f0896cdd7d3c2d7f36a96fc68aa804524648"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-33-2011",
    "path": "ordin/agricultura/2011/33",
    "short": "Ordin agricultura nr. 33/2011",
@@ -74,6 +419,51 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126380",
      "sha256": "cfd223f05bded53a567a9f8ed8696f9afc6dbd158eb7e45ca75b00cbc24714d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-34-2011",
+   "path": "ordin/agricultura/2011/34",
+   "short": "Ordin agricultura nr. 34/2011",
+   "title": "Ordinul nr. 34/2011 pentru aprobarea Regulamentului privind organizarea controlului de calitate și fitosanitar la importul și exportul semințelor și materialului săditor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126197",
+   "versions": [
+    {
+     "from": "2011-02-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126197",
+     "sha256": "747923e76f106bb778f1e213ca0e1b4d91723c37cdf0dfd9b072aa542e5a4f60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-36-2011",
+   "path": "ordin/agricultura/2011/36",
+   "short": "Ordin agricultura nr. 36/2011",
+   "title": "Ordinul nr. 36/2011 privind practicarea pescuitului comercial de calcan în Marea Neagră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126318",
+   "versions": [
+    {
+     "from": "2011-02-22",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126318",
+     "sha256": "797fb96cce1c7eba29f15f489b98275589ab0ab3f56dbfe1a89870251af76636"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-4-2011",
+   "path": "ordin/agricultura/2011/4",
+   "short": "Ordin agricultura nr. 4/2011",
+   "title": "Ordinul nr. 4/2011 pentru aprobarea cantităților de motorină aferente trimestrului III 2010 care beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125282",
+   "versions": [
+    {
+     "from": "2011-01-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125282",
+     "sha256": "6acf1f075352786d38da433d7ea806e3345a214f76c07232e15d454753143b22"
     }
    ]
   },
@@ -93,6 +483,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-45-2011",
+   "path": "ordin/agricultura/2011/45",
+   "short": "Ordin agricultura nr. 45/2011",
+   "title": "Ordinul nr. 45/2011 privind aprobarea formularului-tip de cerere unică de plată pe suprafață pentru anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126447",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126447",
+     "sha256": "2a5c3206af57cfb3ffd6c2777ff1cd2445e48e1aa9d5627798300015b6cde191"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-48-2011",
    "path": "ordin/agricultura/2011/48",
    "short": "Ordin agricultura nr. 48/2011",
@@ -108,6 +513,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-59-2011",
+   "path": "ordin/agricultura/2011/59",
+   "short": "Ordin agricultura nr. 59/2011",
+   "title": "Ordinul nr. 59/2011 pentru aprobarea procedurilor privind cerințele specifice pentru producerea, certificarea și comercializarea semințelor de cereale, plante oleaginoase și pentru fibre și plante furajere în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127104",
+   "versions": [
+    {
+     "from": "2011-03-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127104",
+     "sha256": "9a215d93070130ae76a482fc4a9817acc3aac272d1685ddf6989968174ada29b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-66-2011",
+   "path": "ordin/agricultura/2011/66",
+   "short": "Ordin agricultura nr. 66/2011",
+   "title": "Ordinul nr. 66/2011 pentru aprobarea Normelor metodologice de aplicare a mecanismului de compensare de către Agenția de Plăți și Intervenție pentru Agricultură a debitelor și creanțelor beneficiarilor Fondului european de garantare agricolă și ai Fondului european agricol de dezvoltare rurală, precum și ai fondurilor de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127417",
+   "versions": [
+    {
+     "from": "2011-04-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127417",
+     "sha256": "5bb05af272b7f57cec7c7ac49fb8b77667c8f8178282b79c32363383a58c83e1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-79-2011",
    "path": "ordin/agricultura/2011/79",
    "short": "Ordin agricultura nr. 79/2011",
@@ -119,6 +554,81 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128719",
      "sha256": "0c4c34970353d4ec970923e063995bc05827267ac701c65800bb769f8ab93eea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-85-2011",
+   "path": "ordin/agricultura/2011/85",
+   "short": "Ordin agricultura nr. 85/2011",
+   "title": "Ordinul nr. 85/2011 privind aprobarea Suplimentului nr. 1 al Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2011, aprobat prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 18/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127868",
+   "versions": [
+    {
+     "from": "2011-04-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127868",
+     "sha256": "c329ae3c7487ab32f2e2b6f078497f3d8c1c9f0b644e2448908ac46e9c28d423"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-87-2011",
+   "path": "ordin/agricultura/2011/87",
+   "short": "Ordin agricultura nr. 87/2011",
+   "title": "Ordinul nr. 87/2011 privind recunoașterea Acordului interprofesional pentru sfecla de zahăr - recolta anului de comercializare 2011/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127925",
+   "versions": [
+    {
+     "from": "2011-04-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127925",
+     "sha256": "d15dc1a86d36ceb40f89545c001f0eed5431051a9c0d4dfcfc8a21ff082cc164"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-916-2011",
+   "path": "ordin/agricultura/2011/916",
+   "short": "Ordin agricultura nr. 916/2011",
+   "title": "Ordinul nr. 916/2011 pentru aprobarea Regulamentului privind evaluarea performanțelor profesionale individuale, promovarea și avansarea personalului contractual din aparatul propriu al Ministerului Agriculturii și Dezvoltării Rurale, precum și din cadrul unităților care funcționează în subordinea ori sub autoritatea acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129160",
+   "versions": [
+    {
+     "from": "2011-06-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129160",
+     "sha256": "4d14cc81ceea4cd86e168e0909c49ca8b91639d842de3dc1fef87f2fda99c54d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-96-2011",
+   "path": "ordin/agricultura/2011/96",
+   "short": "Ordin agricultura nr. 96/2011",
+   "title": "Ordinul nr. 96/2011 pentru aprobarea componenței, organizării și funcționării Comitetului consultativ pentru sectorul pescăresc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128224",
+   "versions": [
+    {
+     "from": "2011-05-05",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128224",
+     "sha256": "c338984f04737ec28888fbab99a69151c803225569feffa1ed7d75d835aaa98d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-99-2011",
+   "path": "ordin/agricultura/2011/99",
+   "short": "Ordin agricultura nr. 99/2011",
+   "title": "Ordinul nr. 99/2011 privind recunoașterea Organizației Interprofesionale pe Produs \"Cereale și Produse Derivate\" din România - O.I.P.C.P.D.R. ca organizație interprofesională pe filiera cereale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128030",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128030",
+     "sha256": "a929ff533b4de953aaea8ce646d4e341744febae22e6ca9c30e278adc1825d57"
     }
    ]
   },
@@ -2958,6 +3468,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-610-2011",
+   "path": "ordin/comunicatii/2011/610",
+   "short": "Ordin comunicatii nr. 610/2011",
+   "title": "Ordinul nr. 610/2011 privind stabilirea criteriilor sectoriale și pragurilor critice aferente pentru identificarea infrastructurilor critice naționale din sectorul tehnologia informației și comunicațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133253",
+   "versions": [
+    {
+     "from": "2011-11-29",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133253",
+     "sha256": "a721ab460c9ea10f282f1964e604e4d6d3cfe34e5071fd0a472f9fa412a81696"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-40-2011",
    "path": "ordin/concurenta/2011/40",
    "short": "Ordin concurenta nr. 40/2011",
@@ -4098,6 +4623,291 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3151-2011",
+   "path": "ordin/educatie/2011/3151",
+   "short": "Ordin educatie nr. 3151/2011",
+   "title": "Ordinul nr. 3.151/2011 privind aprobarea programelor de religie reformată pentru susținerea examenului de definitivare în învățământ și a gradului didactic II",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126288",
+   "versions": [
+    {
+     "from": "2011-02-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126288",
+     "sha256": "0e4bc5c08354f120de3bc43b505bfa4fcb7df9229261b9faacbe696a67d3e281"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3184-2011",
+   "path": "ordin/educatie/2011/3184",
+   "short": "Ordin educatie nr. 3184/2011",
+   "title": "Ordinul nr. 3.184/2011 pentru aprobarea Centralizatorului privind disciplinele de învățământ, domeniile și specializările, precum și probele de concurs valabile pentru încadrarea personalului didactic din învățământul preuniversitar 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126084",
+   "versions": [
+    {
+     "from": "2011-02-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126084",
+     "sha256": "9e4597df1e6c38bdf8e1e2d794053fc70f7d4356cbc2dc2c7c2a0e90899f1feb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3641-2011",
+   "path": "ordin/educatie/2011/3641",
+   "short": "Ordin educatie nr. 3641/2011",
+   "title": "Ordinul nr. 3.641/2011 privind aprobarea planurilor-cadru de învățământ pentru clasele a IX-a-a XII-a, filiera vocațională, profilul teologic, cultul ortodox, specializarea ghid turism religios",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126765",
+   "versions": [
+    {
+     "from": "2011-03-14",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126765",
+     "sha256": "3adf8e68199867dae4d914a0a9448c5663fcd830af7114757af104ef4d12fb28"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3643-2011",
+   "path": "ordin/educatie/2011/3643",
+   "short": "Ordin educatie nr. 3643/2011",
+   "title": "Ordinul nr. 3.643/2011 privind înființarea Centrului Național de Excelență Blaj pentru pregătirea elevelor la disciplina sportivă volei și pentru aprobarea regulamentului de organizare și funcționare a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126370",
+   "versions": [
+    {
+     "from": "2011-02-23",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126370",
+     "sha256": "2994aebcd94ebdfde7b83a0bd050ec29cd2b82715d3d386aa08907f09a97da95"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3646-2011",
+   "path": "ordin/educatie/2011/3646",
+   "short": "Ordin educatie nr. 3646/2011",
+   "title": "Ordinul nr. 3.646/2011 privind aprobarea programelor școlare pentru stagiile de pregătire practică în vederea dobândirii unei calificări profesionale de nivel 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130139",
+   "versions": [
+    {
+     "from": "2011-07-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130139",
+     "sha256": "742d0bf9c81d0e5e8357012ee387469c93752d8bfd777a82e60a8d10fe065f93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3753-2011",
+   "path": "ordin/educatie/2011/3753",
+   "short": "Ordin educatie nr. 3753/2011",
+   "title": "Ordinul nr. 3.753/2011 privind aprobarea unor măsuri tranzitorii în sistemul național de învățământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126086",
+   "versions": [
+    {
+     "from": "2011-02-09",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126086",
+     "sha256": "4fe055da26f05267ca929cc9c9dce16b7d311431e8de82d1fbcdd893c9a2610d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3759-2011",
+   "path": "ordin/educatie/2011/3759",
+   "short": "Ordin educatie nr. 3759/2011",
+   "title": "Ordinul nr. 3.759/2011 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare și a structurii acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126376",
+   "versions": [
+    {
+     "from": "2011-02-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126376",
+     "sha256": "ff9eec7c77b3cb0cc6e1d60c646dc7261a6fd8a0b68892a9a77bc162219c0229"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3761-2011",
+   "path": "ordin/educatie/2011/3761",
+   "short": "Ordin educatie nr. 3761/2011",
+   "title": "Ordinul nr. 3.761/2011 privind aprobarea componenței nominale a panelurilor pe domenii fundamentale ale Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126375",
+   "versions": [
+    {
+     "from": "2011-02-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126375",
+     "sha256": "87a3217c777b87ce19a72de5b500c6961efcba599e3c58c0e047df1106540527"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3888-2011",
+   "path": "ordin/educatie/2011/3888",
+   "short": "Ordin educatie nr. 3888/2011",
+   "title": "Ordinul nr. 3.888/2011 pentru aprobarea Normelor procedurale interne privind achiziția publică de servicii hoteliere, campinguri și alte tipuri de cazare decât cea hotelieră și a serviciilor de restaurant și de servire a mâncării, pentru activitățile organizate de Ministerul Educației, Cercetării, Tineretului și Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126917",
+   "versions": [
+    {
+     "from": "2011-03-18",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126917",
+     "sha256": "6daabb01ea0fefb44816a7d6bfb140c4971b55738003f5552842a95b2cd5da5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3890-2011",
+   "path": "ordin/educatie/2011/3890",
+   "short": "Ordin educatie nr. 3890/2011",
+   "title": "Ordinul nr. 3.890/2011 privind aprobarea Normelor metodologice de aplicare a Legii nr. 235/2010 pentru acordarea burselor de merit olimpic internațional elevilor premiați la olimpiadele școlare internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127236",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127236",
+     "sha256": "5baddb4aa999530389e4a926a919bcb43fc9f57cf0794064e2051aed6e0653dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3991-2011",
+   "path": "ordin/educatie/2011/3991",
+   "short": "Ordin educatie nr. 3991/2011",
+   "title": "Ordinul nr. 3.991/2011 privind sesiunea specială de bacalaureat 2011 pentru absolvenții de liceu participanți la loturile naționale lărgite ce se pregătesc pentru olimpiadele și concursurile internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127489",
+   "versions": [
+    {
+     "from": "2011-04-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127489",
+     "sha256": "4f06973885f02ddf642c09a81f12f33608587567cbdd9611e866527c52430257"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4016-2011",
+   "path": "ordin/educatie/2011/4016",
+   "short": "Ordin educatie nr. 4016/2011",
+   "title": "Ordinul nr. 4.016/2011 pentru completarea Ordinului ministrului educației și cercetării nr. 4.839/2004 privind criteriile specifice și metodologia de acordare a sprijinului financiar în cadrul Programului național de protecție socială \"Bani de liceu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128021",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128021",
+     "sha256": "b2bf08488dc5314b6471026ff611efbc2479e38f344261d4033f354087f23b05"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4033-2011",
+   "path": "ordin/educatie/2011/4033",
+   "short": "Ordin educatie nr. 4033/2011",
+   "title": "Ordinul nr. 4.033/2011 privind metodologia-cadru de organizare a examenelor de finalizare a studiilor în învățământul superior - examene de absolvire, licență, diplomă, selecție, disertație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128213",
+   "versions": [
+    {
+     "from": "2011-05-05",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128213",
+     "sha256": "7691924724f309074aaf3e92da12194a415f1548655080371f9871efe15133db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4061-2011",
+   "path": "ordin/educatie/2011/4061",
+   "short": "Ordin educatie nr. 4061/2011",
+   "title": "Ordinul nr. 4.061/2011 privind cadrul general de organizare și desfășurare a admiterii în ciclurile de studii universitare de licență, de master și de doctorat pentru anul universitar 2011-2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128226",
+   "versions": [
+    {
+     "from": "2011-05-05",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128226",
+     "sha256": "dbd90e4baa16342f5af09f5f54539ee85f1269694ee078c684a9638e28832b28"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4062-2011",
+   "path": "ordin/educatie/2011/4062",
+   "short": "Ordin educatie nr. 4062/2011",
+   "title": "Ordinul nr. 4.062/2011 privind metodologia-cadru de organizare a referendumului la nivel de universități pentru alegerea modalității de desemnare a rectorului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128106",
+   "versions": [
+    {
+     "from": "2011-05-03",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128106",
+     "sha256": "46b3a8a95a6ed62d9f0ea235b14019897f5647afa169724b6f0469de17cf4254"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4070-2011",
+   "path": "ordin/educatie/2011/4070",
+   "short": "Ordin educatie nr. 4070/2011",
+   "title": "Ordinul nr. 4.070/2011 pentru modificarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 4.034/2010 privind structura anului școlar 2010-2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127900",
+   "versions": [
+    {
+     "from": "2011-04-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127900",
+     "sha256": "d175b6280c4ff86256d008d0f14e7ddb5e4e97b9cb9045a8c91a987638bfc551"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4087-2011",
+   "path": "ordin/educatie/2011/4087",
+   "short": "Ordin educatie nr. 4087/2011",
+   "title": "Ordinul nr. 4.087/2011 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Național pentru Dezvoltare și Inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128160",
+   "versions": [
+    {
+     "from": "2011-05-04",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128160",
+     "sha256": "1072b49c6aa02e7d9fe90f93b382fe7bf684aa047ef9d30714dcdc225eb46aa4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4345-2011",
+   "path": "ordin/educatie/2011/4345",
+   "short": "Ordin educatie nr. 4345/2011",
+   "title": "Ordinul nr. 4.345/2011 privind modificarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 4.799/2010 privind organizarea și desfășurarea examenului de bacalaureat - 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129101",
+   "versions": [
+    {
+     "from": "2011-06-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129101",
+     "sha256": "96290ef93356fa1133abb906d831a4ae07831b3433cf2e8255223431cf0b79ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4556-2011",
+   "path": "ordin/educatie/2011/4556",
+   "short": "Ordin educatie nr. 4556/2011",
+   "title": "Ordinul nr. 4.556/2011 privind modificarea anexei la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 3.927/2010 pentru aprobarea Metodologiei Proiectului Ministerului Educației, Cercetării, Tineretului și Sportului privind predarea cursului de Limbă, cultură și civilizație românească în unități de învățământ din state membre ale Uniunii Europene și instrumentele de lucru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130433",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130433",
+     "sha256": "100c4715d6e92cf762ddd4e495ef62bb876843271165d2777fe77393b058de40"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4576-2011",
    "path": "ordin/educatie/2011/4576",
    "short": "Ordin educatie nr. 4576/2011",
@@ -4113,6 +4923,306 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4581-2011",
+   "path": "ordin/educatie/2011/4581",
+   "short": "Ordin educatie nr. 4581/2011",
+   "title": "Ordinul nr. 4.581/2011 privind aprobarea înființării Centrului Național Universitar de Excelență Târgu Mureș pentru pregătirea elevelor/studentelor la disciplina sportivă volei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130460",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130460",
+     "sha256": "1321ef4d46208724439e44564cbc9c5e41d01ee5404e35b5da37e3287586b725"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4587-2011",
+   "path": "ordin/educatie/2011/4587",
+   "short": "Ordin educatie nr. 4587/2011",
+   "title": "Ordinul nr. 4.587/2011 privind aprobarea criteriilor sectoriale și a pragurilor critice aferente în scopul identificării infrastructurilor critice naționale din sectorul Spațiu și cercetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130357",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130357",
+     "sha256": "690897bc7abdec041330aea6842d43ccd396ed27750e56dacfe77233db350e03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4660-2011",
+   "path": "ordin/educatie/2011/4660",
+   "short": "Ordin educatie nr. 4660/2011",
+   "title": "Ordinul nr. 4.660/2011 pentru modificarea și completarea Metodologiei privind mișcarea personalului didactic din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.616/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130224",
+   "versions": [
+    {
+     "from": "2011-07-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130224",
+     "sha256": "f0a5b52cc12c03ec49e05b0e6399726da9737a0022e8d258ac04ce7ff81fa6db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4661-2011",
+   "path": "ordin/educatie/2011/4661",
+   "short": "Ordin educatie nr. 4661/2011",
+   "title": "Ordinul nr. 4.661/2011 pentru modificarea și completarea Calendarului mișcării personalului didactic din învățământul preuniversitar pentru anul școlar 2011-2012, aprobat prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.615/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130225",
+   "versions": [
+    {
+     "from": "2011-07-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130225",
+     "sha256": "50356c50d387126daaed2568ae225e74d515c20edeeb15761a8a2435c56f8d91"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4691-2011",
+   "path": "ordin/educatie/2011/4691",
+   "short": "Ordin educatie nr. 4691/2011",
+   "title": "Ordinul nr. 4.691/2011 privind aprobarea standardelor minimale necesare și obligatorii pentru conferirea titlurilor didactice din învățământul superior, a gradelor profesionale de cercetare-dezvoltare și a atestatului de abilitare, pentru domeniile științifice aferente panelului pe domenii fundamentale P4 - Științe sociale din cadrul Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130403",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130403",
+     "sha256": "5c5c7e4c0c5e2d861d1032d7d82b2abfd9f7b096a4a66eb45be781f43d1de137"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4692-2011",
+   "path": "ordin/educatie/2011/4692",
+   "short": "Ordin educatie nr. 4692/2011",
+   "title": "Ordinul nr. 4.692/2011 privind aprobarea standardelor minimale necesare și obligatorii pentru conferirea titlurilor didactice din învățământul superior, a gradelor profesionale de cercetare-dezvoltare și a atestatului de abilitare, pentru domeniile științifice aferente panelului pe domenii fundamentale P5 - Arte și științe umaniste din cadrul Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130443",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130443",
+     "sha256": "aa8a031f3ceb8adeea635ffef690c560c99d8f23663cf8567bf92768858867d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4786-2011",
+   "path": "ordin/educatie/2011/4786",
+   "short": "Ordin educatie nr. 4786/2011",
+   "title": "Ordinul nr. 4.786/2011 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Național pentru Finanțarea Învățământului Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130739",
+   "versions": [
+    {
+     "from": "2011-08-11",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130739",
+     "sha256": "fb96e19a6004a1c2cdf9e2d46447c5f7072a562972dc45acb85e9cb25d30c32a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4860-2011",
+   "path": "ordin/educatie/2011/4860",
+   "short": "Ordin educatie nr. 4860/2011",
+   "title": "Ordinul nr. 4.860/2011 pentru modificarea Metodologiei privind mișcarea personalului didactic din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.616/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130941",
+   "versions": [
+    {
+     "from": "2011-08-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130941",
+     "sha256": "96f890b73297382dc0a3d5cb9f46995ce869f6ec8da893071b4f64b9d7587270"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4864-2011",
+   "path": "ordin/educatie/2011/4864",
+   "short": "Ordin educatie nr. 4864/2011",
+   "title": "Ordinul nr. 4.864/2011 privind aprobarea Regulamentului de organizare și funcționare, a statului de funcții și a organigramei Unității Executive pentru Finanțarea Învățământului Superior, a Cercetării, Dezvoltării și Inovării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130870",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130870",
+     "sha256": "4fa22e3b3cd90f61c132a021d13edafd80649062e1223be3b19c7011686f7087"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4865-2011",
+   "path": "ordin/educatie/2011/4865",
+   "short": "Ordin educatie nr. 4865/2011",
+   "title": "Ordinul nr. 4.865/2011 privind aprobarea Normelor metodologice pentru stabilirea obligației didactice de predare a personalului de conducere din inspectoratele școlare, unitățile de învățământ, unitățile conexe, precum și a personalului de îndrumare și control din inspectoratele școlare și a personalului didactic din casele corpului didactic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131019",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131019",
+     "sha256": "a26ba6db53ef361d1fa918fec92a7fed6a12e1c93e437fc1b8af296c3a1f6666"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5218-2011",
+   "path": "ordin/educatie/2011/5218",
+   "short": "Ordin educatie nr. 5218/2011",
+   "title": "Ordinul nr. 5.218/2011 privind organizarea și desfășurarea examenului de bacalaureat - 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131143",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131143",
+     "sha256": "29e8a2b5797ad36521d91e7de732948a76993153f691554dee7dd69c95c66360"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5219-2011",
+   "path": "ordin/educatie/2011/5219",
+   "short": "Ordin educatie nr. 5219/2011",
+   "title": "Ordinul nr. 5.219/2011 privind organizarea și desfășurarea evaluării naționale pentru absolvenții clasei a VIII-a în anul școlar 2011-2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131137",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131137",
+     "sha256": "6045228d3b8465ee50b6517ebc473b0e6758fe87dee74367cab1c7ba67d89f22"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5220-2011",
+   "path": "ordin/educatie/2011/5220",
+   "short": "Ordin educatie nr. 5220/2011",
+   "title": "Ordinul nr. 5.220/2011 privind organizarea și desfășurarea admiterii în învățământul liceal de stat pentru anul școlar 2012-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131144",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131144",
+     "sha256": "e10a7d4a586fa5ef28534c5c58bcd1623138809e040fa5fd3b1bd4a4db1e06ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5222-2011",
+   "path": "ordin/educatie/2011/5222",
+   "short": "Ordin educatie nr. 5222/2011",
+   "title": "Ordinul nr. 5.222/2011 privind aprobarea Metodologiei de organizare și desfășurare a examenului de certificare a calificării profesionale a absolvenților ciclului inferior al liceului care au urmat stagiile de pregătire practică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131145",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131145",
+     "sha256": "fc2dfde96e07d7a067c379eb7124c42bbeeeea2fd67ab1aedf7217a2d161e965"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5224-2011",
+   "path": "ordin/educatie/2011/5224",
+   "short": "Ordin educatie nr. 5224/2011",
+   "title": "Ordinul nr. 5.224/2011 privind aprobarea programelor de studii universitare de masterat evaluate de Agenția Română de Asigurare a Calității în Învățământul Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131138",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131138",
+     "sha256": "510b9a9eb78c22833320f9e150f29b47018ff012f628142612f3598d3a0f1214"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5248-2011",
+   "path": "ordin/educatie/2011/5248",
+   "short": "Ordin educatie nr. 5248/2011",
+   "title": "Ordinul nr. 5.248/2011 privind aplicarea Programului \"A doua șansă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132127",
+   "versions": [
+    {
+     "from": "2011-10-13",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132127",
+     "sha256": "b9fc3f365ca50ccc9b36e5a8d3da837c168f6b7c3c20d1c1b127f8ab30cd3d83"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5250-2011",
+   "path": "ordin/educatie/2011/5250",
+   "short": "Ordin educatie nr. 5250/2011",
+   "title": "Ordinul nr. 5.250/2011 privind comasarea prin absorbție a unității de învățământ preuniversitar particular Grupul Școlar de Cooperație din Alba Iulia de către unitatea de învățământ preuniversitar particular Școala Postliceală de Afaceri din Alba Iulia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131859",
+   "versions": [
+    {
+     "from": "2011-10-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131859",
+     "sha256": "6f70ffc33d292408b8313044e8a2648fee4f64c4cc4a855ec3704b6be3dea633"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5262-2011",
+   "path": "ordin/educatie/2011/5262",
+   "short": "Ordin educatie nr. 5262/2011",
+   "title": "Ordinul nr. 5.262/2011 privind constatarea rezultatelor clasificării universităților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131262",
+   "versions": [
+    {
+     "from": "2011-09-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131262",
+     "sha256": "8fbe62364d5a9af751b1db503500f9ad153231f7b94c16adb0ef6582bbe0aed2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5271-2011",
+   "path": "ordin/educatie/2011/5271",
+   "short": "Ordin educatie nr. 5271/2011",
+   "title": "Ordinul nr. 5.271/2011 privind repartizarea cifrei de școlarizare pentru ciclul de studii universitare de master în vederea admiterii la studii în anul universitar 2011-2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131266",
+   "versions": [
+    {
+     "from": "2011-09-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131266",
+     "sha256": "099be0ae41876552c40333eaae1e61ba577340f8a21c082b52793daab1a53494"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5272-2011",
+   "path": "ordin/educatie/2011/5272",
+   "short": "Ordin educatie nr. 5272/2011",
+   "title": "Ordinul nr. 5.272/2011 privind repartizarea cifrei de școlarizare pentru ciclul de studii universitare de doctorat în vederea admiterii la studii în anul universitar 2011-2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131267",
+   "versions": [
+    {
+     "from": "2011-09-06",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131267",
+     "sha256": "ad64ffcf1d7e8be2c39c1856f46e270995a3c09e088e077e15712815764b3a0d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5298-2011",
    "path": "ordin/educatie/2011/5298",
    "short": "Ordin educatie nr. 5298/2011",
@@ -4124,6 +5234,741 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134496",
      "sha256": "7b2ae8fff75ee80ccb3e1e7a84bc493cca8fb18e1ff48e4d6ae6a68792012a57"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5344-2011",
+   "path": "ordin/educatie/2011/5344",
+   "short": "Ordin educatie nr. 5344/2011",
+   "title": "Ordinul nr. 5.344/2011 privind comasarea prin absorbție a unității de învățământ preuniversitar particular Liceul \"Cronos\" din București de către unitatea de învățământ preuniversitar particular Școala Postliceală \"Cronos\" din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131865",
+   "versions": [
+    {
+     "from": "2011-10-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131865",
+     "sha256": "64283a05814b0c0a001d583ea0ea56a1fa178e43f5822ba83b042dc49aa6394f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5346-2011",
+   "path": "ordin/educatie/2011/5346",
+   "short": "Ordin educatie nr. 5346/2011",
+   "title": "Ordinul nr. 5.346/2011 privind aprobarea Criteriilor generale de admitere în învățământul postliceal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132076",
+   "versions": [
+    {
+     "from": "2011-10-11",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132076",
+     "sha256": "1dc6bee8fce9ae244d92f14bf5a76a7c7b331308df8d1d96639bdec6f08744cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5349-2011",
+   "path": "ordin/educatie/2011/5349",
+   "short": "Ordin educatie nr. 5349/2011",
+   "title": "Ordinul nr. 5.349/2011 privind aprobarea Metodologiei de organizare a Programului \"Școala după școală\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132317",
+   "versions": [
+    {
+     "from": "2011-10-20",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132317",
+     "sha256": "b7205b04e5c19a23933e4f7b748a5f72da8ed811329e09771b871a9def26806a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5436-2011",
+   "path": "ordin/educatie/2011/5436",
+   "short": "Ordin educatie nr. 5436/2011",
+   "title": "Ordinul nr. 5.436/2011 privind aprobarea Normelor metodologice pentru vizarea actelor de studii și a anexelor la actele de studii emise de instituțiile de învățământ superior din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131938",
+   "versions": [
+    {
+     "from": "2011-10-05",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131938",
+     "sha256": "5d31f0a499ee387fca9f69ba61bb266491292ff431b44134731a372bded9783c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5483-2011",
+   "path": "ordin/educatie/2011/5483",
+   "short": "Ordin educatie nr. 5483/2011",
+   "title": "Ordinul nr. 5.483/2011 pentru modificarea anexelor nr. 1-3 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.224/2011 privind aprobarea programelor de studii universitare de masterat evaluate de Agenția Română de Asigurare a Calității în Învățământul Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131867",
+   "versions": [
+    {
+     "from": "2011-10-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131867",
+     "sha256": "ab45152bbd06cb92baff8efb5f2acdbf9c568ef783fbfc2802c8c40fb17ade08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5484-2011",
+   "path": "ordin/educatie/2011/5484",
+   "short": "Ordin educatie nr. 5484/2011",
+   "title": "Ordinul nr. 5.484/2011 pentru aprobarea Metodologiei privind recunoașterea și echivalarea competențelor profesionale dobândite formal, nonformal sau informal de către cadrele didactice care ocupă funcții de educatori/educatoare, institutori/institutoare, învățători/învățătoare, maistru-instructor, antrenor, în vederea ocupării funcției didactice de profesor pentru învățământul preșcolar, profesor pentru învățământul primar, profesor de instruire practică, respectiv profesor-antrenor în cluburile sportive școlare, palatele și cluburile copiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132300",
+   "versions": [
+    {
+     "from": "2011-10-19",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132300",
+     "sha256": "ff0259f41666099dd6bed9b7c90062ea50edc0094111552da406721625789bac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5486-2011",
+   "path": "ordin/educatie/2011/5486",
+   "short": "Ordin educatie nr. 5486/2011",
+   "title": "Ordinul nr. 5.486/2011 pentru aprobarea Metodologiei și a criteriilor privind acordarea gradației de merit în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132352",
+   "versions": [
+    {
+     "from": "2011-10-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132352",
+     "sha256": "d79e84a04c826ee3455dbbade3dbfeadad11f77380b49cbad6e361988bfd87fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5487-2011",
+   "path": "ordin/educatie/2011/5487",
+   "short": "Ordin educatie nr. 5487/2011",
+   "title": "Ordinul nr. 5.487/2011 pentru aprobarea Regulamentului privind recunoașterea în învățământul terțiar nonuniversitar a studiilor obținute în cadrul învățământului liceal - filiera tehnologică sau vocațională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132381",
+   "versions": [
+    {
+     "from": "2011-10-24",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132381",
+     "sha256": "245bf7eeb0f88ac95bf74fe24cc325bad98de30838937e401ac50605f203b7ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5488-2011",
+   "path": "ordin/educatie/2011/5488",
+   "short": "Ordin educatie nr. 5488/2011",
+   "title": "Ordinul nr. 5.488/2011 privind aprobarea Regulamentului-cadru pentru organizarea și funcționarea consorțiilor școlare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132279",
+   "versions": [
+    {
+     "from": "2011-10-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132279",
+     "sha256": "067710d6aeac226c078ed8d4e7536de8f10a265e563a42b55c61fe5b743502c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5489-2011",
+   "path": "ordin/educatie/2011/5489",
+   "short": "Ordin educatie nr. 5489/2011",
+   "title": "Ordinul nr. 5.489/2011 pentru aprobarea Metodologiei privind promovarea a 2 ani de studii într-un an școlar în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132304",
+   "versions": [
+    {
+     "from": "2011-10-19",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132304",
+     "sha256": "278513a943b9c799988e5620679b159069ec86e99084d43dd3a0ddb2b1e4fa33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5514-2011",
+   "path": "ordin/educatie/2011/5514",
+   "short": "Ordin educatie nr. 5514/2011",
+   "title": "Ordinul nr. 5.514/2011 privind aprobarea Regulamentului de organizare și funcționare a Colegiului Consultativ pentru Cercetare-Dezvoltare și Inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132009",
+   "versions": [
+    {
+     "from": "2011-10-07",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132009",
+     "sha256": "dd65b3c1581ee225d41fa27334c172f40a922adf4338763182a48e794463f8ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5528-2011",
+   "path": "ordin/educatie/2011/5528",
+   "short": "Ordin educatie nr. 5528/2011",
+   "title": "Ordinul nr. 5.528/2011 privind aprobarea programelor școlare integrate prin care se realizează educația de bază în cadrul programului \"A doua șansă\" - învățământ primar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132562",
+   "versions": [
+    {
+     "from": "2011-11-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132562",
+     "sha256": "a3ca2b14ecd4533bff3ae625271d2065d612e0cbcbbd3d6db3d267b55ae538f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5530-2011",
+   "path": "ordin/educatie/2011/5530",
+   "short": "Ordin educatie nr. 5530/2011",
+   "title": "Ordinul nr. 5.530/2011 privind aprobarea Regulamentului-cadru de organizare și funcționare a inspectoratelor școlare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132312",
+   "versions": [
+    {
+     "from": "2011-10-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132312",
+     "sha256": "96cf4d36c558fb2ec82d1d87ac74281aabfe8812a0db714969afde77d9668f55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5545-2011",
+   "path": "ordin/educatie/2011/5545",
+   "short": "Ordin educatie nr. 5545/2011",
+   "title": "Ordinul nr. 5.545/2011 privind aprobarea Metodologiei de organizare și funcționare a claselor cu frecvență redusă în învățământul preuniversitar obligatoriu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132063",
+   "versions": [
+    {
+     "from": "2011-10-11",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132063",
+     "sha256": "72c7cd41ce915246dcab5452928145bedb2582c2ed309ced77aee6c3d48078b7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5546-2011",
+   "path": "ordin/educatie/2011/5546",
+   "short": "Ordin educatie nr. 5546/2011",
+   "title": "Ordinul nr. 5.546/2011 privind aprobarea Metodologiei pentru acordarea titlului \"Profesorul anului\" în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132083",
+   "versions": [
+    {
+     "from": "2011-10-11",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132083",
+     "sha256": "9a7a4031ee316a7b417abdbf6c56ae0d56ee2e4d595746f7159e1d9dfcb52730"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5547-2011",
+   "path": "ordin/educatie/2011/5547",
+   "short": "Ordin educatie nr. 5547/2011",
+   "title": "Ordinul nr. 5.547/2011 privind aprobarea Regulamentului de inspecție a unităților de învățământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132387",
+   "versions": [
+    {
+     "from": "2011-10-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132387",
+     "sha256": "569d3a881ce83e662ca0cdba8aa9b0adef2d2a94c621b05584fb080c5a9d2439"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5549-2011",
+   "path": "ordin/educatie/2011/5549",
+   "short": "Ordin educatie nr. 5549/2011",
+   "title": "Ordinul nr. 5.549/2011 pentru aprobarea Metodologiei privind organizarea și desfășurarea concursului de selecție a cadrelor didactice pentru constituirea corpului național de experți în management educațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132350",
+   "versions": [
+    {
+     "from": "2011-10-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132350",
+     "sha256": "1e7ec2730abd48a4d12d621c4a97d9af9fb614e56d6a722c4e387ea78a401d58"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5550-2011",
+   "path": "ordin/educatie/2011/5550",
+   "short": "Ordin educatie nr. 5550/2011",
+   "title": "Ordinul nr. 5.550/2011 privind aprobarea Regulamentului de organizare și funcționare a Consiliului național de etică din învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132145",
+   "versions": [
+    {
+     "from": "2011-10-13",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132145",
+     "sha256": "022e1a3086fd36936b1a60fdcaf77fe51cdd7bcd7b067a47879172db63eca7d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5552-2011",
+   "path": "ordin/educatie/2011/5552",
+   "short": "Ordin educatie nr. 5552/2011",
+   "title": "Ordinul nr. 5.552/2011 pentru modificarea anexei nr. 1 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 3.753/2011 privind aprobarea unor măsuri tranzitorii în sistemul național de învățământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132045",
+   "versions": [
+    {
+     "from": "2011-10-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132045",
+     "sha256": "780340378bd29a0401a69c05077dfa06a19f80a51fe25621b18fffe3cde97cfd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5554-2011",
+   "path": "ordin/educatie/2011/5554",
+   "short": "Ordin educatie nr. 5554/2011",
+   "title": "Ordinul nr. 5.554/2011 privind aprobarea Regulamentului de organizare și funcționare a casei corpului didactic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132296",
+   "versions": [
+    {
+     "from": "2011-10-19",
+     "units": 113,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132296",
+     "sha256": "70d5e46829ab2c0e0b8da413ce702edda332ee8df9e33b3671e7fd0eb562338a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5555-2011",
+   "path": "ordin/educatie/2011/5555",
+   "short": "Ordin educatie nr. 5555/2011",
+   "title": "Ordinul nr. 5.555/2011 pentru aprobarea Regulamentului privind organizarea și funcționarea centrelor județene/al municipiului București de resurse și asistență educațională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132489",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132489",
+     "sha256": "fcddead3b63ec83cf8cc28a54ee668e4a32c8969a08f347844aa4e4a84ebfe4a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5556-2011",
+   "path": "ordin/educatie/2011/5556",
+   "short": "Ordin educatie nr. 5556/2011",
+   "title": "Ordinul nr. 5.556/2011 privind aprobarea Regulamentului de organizare și funcționare a bibliotecilor școlare și a centrelor de documentare și informare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132502",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132502",
+     "sha256": "349e1caec6c1aae1798feddf5597c712356fc92358d316b7df4cd24740b7d7d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5557-2011",
+   "path": "ordin/educatie/2011/5557",
+   "short": "Ordin educatie nr. 5557/2011",
+   "title": "Ordinul nr. 5.557/2011 privind aprobarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea funcțiilor de inspector școlar general, inspector școlar general adjunct din inspectoratele școlare și de director al casei corpului didactic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132454",
+   "versions": [
+    {
+     "from": "2011-10-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132454",
+     "sha256": "a7e9fc2c0cb8bb426c7f4709a822e9334215fd8eeeb7523a7b196b49a7fab4c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5558-2011",
+   "path": "ordin/educatie/2011/5558",
+   "short": "Ordin educatie nr. 5558/2011",
+   "title": "Ordinul nr. 5.558/2011 privind aprobarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea funcției de inspector școlar din inspectoratele școlare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132289",
+   "versions": [
+    {
+     "from": "2011-10-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132289",
+     "sha256": "82b42d498f6164ae2c36122ef26e4e2c6f2c7adb2b4789793391e1e39225d2e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5559-2011",
+   "path": "ordin/educatie/2011/5559",
+   "short": "Ordin educatie nr. 5559/2011",
+   "title": "Ordinul nr. 5.559/2011 pentru aprobarea Normelor metodologice privind efectuarea concediului de odihnă al personalului didactic din învățământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132154",
+   "versions": [
+    {
+     "from": "2011-10-13",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132154",
+     "sha256": "1ec09c8ffcdd0d8fa371c6c20f1936efa9bf1b4728ae41fa295fb8bb3fc63886"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5560-2011",
+   "path": "ordin/educatie/2011/5560",
+   "short": "Ordin educatie nr. 5560/2011",
+   "title": "Ordinul nr. 5.560/2011 pentru aprobarea Metodologiei-cadru privind mobilitatea personalului didactic din învățământul preuniversitar în anul școlar 2012-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132473",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132473",
+     "sha256": "df4ca09f98e59c677eb02a7ec825211a88c8eac7171cdcd98eb28407e106599b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5562-2011",
+   "path": "ordin/educatie/2011/5562",
+   "short": "Ordin educatie nr. 5562/2011",
+   "title": "Ordinul nr. 5.562/2011 pentru aprobarea Metodologiei privind sistemul de acumulare, recunoaștere și echivalare a creditelor profesionale transferabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132675",
+   "versions": [
+    {
+     "from": "2011-11-04",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132675",
+     "sha256": "b0dc189528d65466423d9a6a223cb300b5a06c228b65c415ef1cff6a454b1abd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5563-2011",
+   "path": "ordin/educatie/2011/5563",
+   "short": "Ordin educatie nr. 5563/2011",
+   "title": "Ordinul nr. 5.563/2011 privind aprobarea Condițiilor de constituire a rețelei permanente de unități de învățământ în vederea realizării pregătirii practice din cadrul masterului didactic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132723",
+   "versions": [
+    {
+     "from": "2011-11-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132723",
+     "sha256": "32aeace2ca335c049a1f2bd5a853dd4646aff284de02099d0ac0dc38b33a5729"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5564-2011",
+   "path": "ordin/educatie/2011/5564",
+   "short": "Ordin educatie nr. 5564/2011",
+   "title": "Ordinul nr. 5.564/2011 privind aprobarea Metodologiei de acreditare și evaluare periodică a furnizorilor de formare continuă și a programelor de formare oferite de aceștia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132729",
+   "versions": [
+    {
+     "from": "2011-11-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132729",
+     "sha256": "65adc7fb3a31d0c4254c87ef1dae8a379b1c903a70ebbeee4bf9eb46cca2cba2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5565-2011",
+   "path": "ordin/educatie/2011/5565",
+   "short": "Ordin educatie nr. 5565/2011",
+   "title": "Ordinul nr. 5.565/2011 pentru aprobarea Regulamentului privind regimul actelor de studii și al documentelor școlare gestionate de unitățile de învățământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132547",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 65,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132547",
+     "sha256": "14f0b9db212b8264aac25fec32607c10a953f6bdbe46cbd7ea01bf2d67d5ab94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5567-2011",
+   "path": "ordin/educatie/2011/5567",
+   "short": "Ordin educatie nr. 5567/2011",
+   "title": "Ordinul nr. 5.567/2011 pentru aprobarea Regulamentului de organizare și funcționare a unităților care oferă activitate extrașcolară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132761",
+   "versions": [
+    {
+     "from": "2011-11-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132761",
+     "sha256": "0db33e2d5db05fb19be68b38ff51c12c0482044bba5500520924a22455e35a7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5568-2011",
+   "path": "ordin/educatie/2011/5568",
+   "short": "Ordin educatie nr. 5568/2011",
+   "title": "Ordinul nr. 5.568/2011 privind aprobarea Regulamentului de organizare și funcționare a unităților de învățământ cu program sportiv integrat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132700",
+   "versions": [
+    {
+     "from": "2011-11-04",
+     "units": 67,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132700",
+     "sha256": "496baf617e4ad0c3458ba2444c81857f3acf13289f8ee73083796c54be342414"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5569-2011",
+   "path": "ordin/educatie/2011/5569",
+   "short": "Ordin educatie nr. 5569/2011",
+   "title": "Ordinul nr. 5.569/2011 pentru aprobarea Regulamentului privind organizarea și funcționarea învățământului preuniversitar de artă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132650",
+   "versions": [
+    {
+     "from": "2011-11-03",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132650",
+     "sha256": "fefd29387fd536bc795c354a20f35c9df22eb26db40ef3919a6f3f15e30ba24c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5571-2011",
+   "path": "ordin/educatie/2011/5571",
+   "short": "Ordin educatie nr. 5571/2011",
+   "title": "Ordinul nr. 5.571/2011 privind aprobarea Regulamentului de organizare și funcționare a învățământului preuniversitar alternativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132658",
+   "versions": [
+    {
+     "from": "2011-11-03",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132658",
+     "sha256": "5e23c9f5ae6c9bdec72154791ae5d586150b0f7ae59eca9b7120f7db3805e9c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5572-2011",
+   "path": "ordin/educatie/2011/5572",
+   "short": "Ordin educatie nr. 5572/2011",
+   "title": "Ordinul nr. 5.572/2011 pentru aprobarea Regulamentului privind constituirea Registrului național al performanțelor sportive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132803",
+   "versions": [
+    {
+     "from": "2011-11-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132803",
+     "sha256": "9cb051cb2768011a7dc0f9bf838bc5f1e3c7df239bb19a2388146998c19309ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5573-2011",
+   "path": "ordin/educatie/2011/5573",
+   "short": "Ordin educatie nr. 5573/2011",
+   "title": "Ordinul nr. 5.573/2011 privind aprobarea Regulamentului de organizare și funcționare a învățământului special și special integrat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132704",
+   "versions": [
+    {
+     "from": "2011-11-07",
+     "units": 113,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132704",
+     "sha256": "7d11c559a0905f7c74039a590652a8d56b2171da661aeea00f5188451410a8d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5574-2011",
+   "path": "ordin/educatie/2011/5574",
+   "short": "Ordin educatie nr. 5574/2011",
+   "title": "Ordinul nr. 5.574/2011 pentru aprobarea Metodologiei privind organizarea serviciilor de sprijin educațional pentru copiii, elevii și tinerii cu cerințe educaționale speciale integrați în învățământul de masă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132679",
+   "versions": [
+    {
+     "from": "2011-11-04",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132679",
+     "sha256": "e3b855dc2ba9f8e2f9c6731eddee05bac1dda47527f0ccffe647940cb7eb794e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5575-2011",
+   "path": "ordin/educatie/2011/5575",
+   "short": "Ordin educatie nr. 5575/2011",
+   "title": "Ordinul nr. 5.575/2011 pentru aprobarea Metodologiei-cadru privind școlarizarea la domiciliu, respectiv înființarea de grupe/clase în spitale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132839",
+   "versions": [
+    {
+     "from": "2011-11-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132839",
+     "sha256": "091bdea0a95119f725f42967af5ef7dadafb84e4f70d3a1b0c5b60d5eb58af77"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5576-2011",
+   "path": "ordin/educatie/2011/5576",
+   "short": "Ordin educatie nr. 5576/2011",
+   "title": "Ordinul nr. 5.576/2011 privind aprobarea Criteriilor generale de acordare a burselor elevilor din învățământul preuniversitar de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132567",
+   "versions": [
+    {
+     "from": "2011-11-01",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132567",
+     "sha256": "84618f8ee46285da1ac86c7a655ea30833afd1b6ea46b419772c5c64f893d77c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5689-2011",
+   "path": "ordin/educatie/2011/5689",
+   "short": "Ordin educatie nr. 5689/2011",
+   "title": "Ordinul nr. 5.689/2011 pentru modificarea comisiilor de specialitate ale Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132415",
+   "versions": [
+    {
+     "from": "2011-10-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132415",
+     "sha256": "cc5f4296e7f951fd4380b2d5955a81d98b8067a16f073961f39f6be8bbf71545"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5690-2011",
+   "path": "ordin/educatie/2011/5690",
+   "short": "Ordin educatie nr. 5690/2011",
+   "title": "Ordinul nr. 5.690/2011 pentru aprobarea Metodologiei privind dobândirea automată a calității de conducător de doctorat în România pentru persoanele care au obținut această calitate în statele membre ale Uniunii Europene, ale Spațiului Economic European și Confederația Elvețiană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132423",
+   "versions": [
+    {
+     "from": "2011-10-25",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132423",
+     "sha256": "5a5b102291332d525cbd567ede811cb351e283a945b0d3f3398fd2b9cb6a94dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5691-2011",
+   "path": "ordin/educatie/2011/5691",
+   "short": "Ordin educatie nr. 5691/2011",
+   "title": "Ordinul nr. 5.691/2011 privind aprobarea Regulamentului de funcționare a Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare în vederea evaluării tezelor de abilitare și a modelului Cererii-tip pentru susținerea tezei de abilitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132468",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 58,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132468",
+     "sha256": "72772038dfaa8d7bc6752d3ae77002b60df76fdf8b54f15c3b9506ce0bd2bdf2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6141-2011",
+   "path": "ordin/educatie/2011/6141",
+   "short": "Ordin educatie nr. 6141/2011",
+   "title": "Ordinul nr. 6.141/2011 privind aprobarea structurii și a Regulamentului de organizare și funcționare a Unității pentru Finanțarea Învățământului Preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133020",
+   "versions": [
+    {
+     "from": "2011-11-19",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133020",
+     "sha256": "a3e72e20922d5762c93a972288ab301ea493da549262fbb8d64a9ab3f87911fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6276-2011",
+   "path": "ordin/educatie/2011/6276",
+   "short": "Ordin educatie nr. 6276/2011",
+   "title": "Ordinul nr. 6.276/2011 pentru modificarea Ordinului ministrului educației, cercetării și tineretului nr. 3.152/2008 privind aprobarea Regulamentului de organizare a cursurilor de limba română și atestare a nivelului de cunoștințe de limba română și a Programei analitice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133112",
+   "versions": [
+    {
+     "from": "2011-11-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133112",
+     "sha256": "d3de5bbcc1df30aba36a9fb96c8c030d9943010504ec26539418579c9afa3460"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6551-2011",
+   "path": "ordin/educatie/2011/6551",
+   "short": "Ordin educatie nr. 6551/2011",
+   "title": "Ordinul nr. 6.551/2011 privind documentele școlare și universitare oficiale care se întocmesc numai în limba română",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133915",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133915",
+     "sha256": "e866d1382fed07364e115a0380d50a7bd67a9c93a90b7501b6dcd99db247baa3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6552-2011",
+   "path": "ordin/educatie/2011/6552",
+   "short": "Ordin educatie nr. 6552/2011",
+   "title": "Ordinul nr. 6.552/2011 pentru aprobarea Metodologiei privind evaluarea, asistența psihoeducațională, orientarea școlară și orientarea profesională a copiilor, a elevilor și a tinerilor cu cerințe educaționale speciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134644",
+   "versions": [
+    {
+     "from": "2012-01-19",
+     "units": 72,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134644",
+     "sha256": "4048b2626aa2872ef294575f99e866be1be67982d88b15544228a7124c13967f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6563-2011",
+   "path": "ordin/educatie/2011/6563",
+   "short": "Ordin educatie nr. 6563/2011",
+   "title": "Ordinul nr. 6.563/2011 pentru aprobarea Calendarului activităților prevăzute în Metodologia privind echivalarea pe baza ECTS/SECT a învățământului universitar de scurtă durată, realizat prin colegiul cu durata de 3 ani sau institutul pedagogic cu durată de 3 ani, cu ciclul I de studii universitare de licență, pentru cadrele didactice din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.553/2011, sesiunea 2012, și a Calendarului activităților prevăzute în Metodologia privind recunoașterea și echivalarea competențelor profesionale dobândite formal, nonformal sau informal de către cadrele didactice care ocupă funcții de educatori/educatoare, institutori/institutoare, învățători/învățătoare, maistru-instructor, antrenor, în vederea ocupării funcției didactice de profesor pentru învățământul preșcolar, profesor pentru învățământul primar, profesor de instruire practică, respectiv profesor-antrenor în cluburile sportive școlare, palatele și cluburile copiilor, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.484/2011, sesiunea 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134126",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134126",
+     "sha256": "73569af0cde7ae5e6eac6226dfbce66a547c6f4aa9dff35ca9fb70069f84afa9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6575-2011",
+   "path": "ordin/educatie/2011/6575",
+   "short": "Ordin educatie nr. 6575/2011",
+   "title": "Ordinul nr. 6.575/2011 pentru aprobarea Procedurii privind gestionarea și eliberarea atestatelor de echivalare pe baza ECTS/SECT a învățământului universitar de scurtă durată, realizat prin colegiul cu durata de 3 ani sau institutul pedagogic cu durată de 3 ani, cu ciclul I de studii universitare de licență, pentru cadrele didactice din învățământul preuniversitar, și a Procedurii privind gestionarea și eliberarea atestatelor de recunoaștere și echivalare a competențelor dobândite formal, nonformal și informal de către cadrele didactice care ocupă funcții de educatori/educatoare, institutori/institutoare, învățători/învățătoare, maistru-instructor, antrenor, în vederea ocupării funcției didactice de profesor pentru învățământul preșcolar, profesor pentru învățământul primar, profesor de instruire practică, respectiv profesor-antrenor în cluburile sportive școlare, palatele și cluburile copiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134259",
+   "versions": [
+    {
+     "from": "2012-01-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134259",
+     "sha256": "e551c22cd47ac31c8c41463536b0700ec3b5e8ece6f5dfbc0d53f95a06d57bb3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6687-2011",
+   "path": "ordin/educatie/2011/6687",
+   "short": "Ordin educatie nr. 6687/2011",
+   "title": "Ordinul nr. 6.687/2011 pentru modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.224/2011 privind aprobarea programelor de studii universitare de masterat evaluate de Agenția Română de Asigurare a Calității în Învățământul Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135256",
+   "versions": [
+    {
+     "from": "2012-02-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135256",
+     "sha256": "a8dad8b6b7db8656fb2663f172f942092b80f833da1790b71b04e1884ee9d7bd"
     }
    ]
   },
@@ -4286,7 +6131,7 @@
    "versions": [
     {
      "from": "2011-04-05",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127460",
      "sha256": "b7f7c4aeda3bbb6a1026f30d337271545b9255e36872ea196ea172d5019f907e"
     }
@@ -4736,7 +6581,7 @@
    "versions": [
     {
      "from": "2011-08-31",
-     "units": 13,
+     "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131148",
      "sha256": "f8b3702d39599ec147b690a40291df5e1dd2f2d2d8f5b68a7f9244ef6921a032"
     }
@@ -4946,7 +6791,7 @@
    "versions": [
     {
      "from": "2011-10-31",
-     "units": 41,
+     "units": 49,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132534",
      "sha256": "1ba0b1cc5c1334223417dde24fc472675e04d50870dde24a14c1bc94940e694e"
     }
@@ -4961,7 +6806,7 @@
    "versions": [
     {
      "from": "2011-10-28",
-     "units": 7,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132527",
      "sha256": "789efeb47707d3f1f4140d5554ec88bc4f3bfb5ee420dde549d62ef9ac73afa7"
     }
@@ -5006,7 +6851,7 @@
    "versions": [
     {
      "from": "2011-12-01",
-     "units": 9,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133088",
      "sha256": "b8a4796fcec1e5505084ed10418e0b3bfdebb3b1e058d6427185da36534362e4"
     }
@@ -5096,7 +6941,7 @@
    "versions": [
     {
      "from": "2011-01-10",
-     "units": 7,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125143",
      "sha256": "590f42701d941be8c6af269f0c25cc9b6e73158ad235d7049101271c1f1556b2"
     }
@@ -6161,7 +8006,7 @@
    "versions": [
     {
      "from": "2011-02-21",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126291",
      "sha256": "7bf5b6ba1b2feeafac186ca06e31f083c2a4cea19284055511a17470ece1e602"
     }
@@ -6251,7 +8096,7 @@
    "versions": [
     {
      "from": "2011-01-17",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125319",
      "sha256": "e3a18e494e68bc9cbf350d07e435193c16cca700f5903672bcf16088801329d8"
     }
@@ -8291,7 +10136,7 @@
    "versions": [
     {
      "from": "2011-06-29",
-     "units": 4,
+     "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129662",
      "sha256": "3972fc67336e42851d7aa704a9ef154e4b84cffe1df7a2490d360ebe319d0d57"
     }
@@ -8546,7 +10391,7 @@
    "versions": [
     {
      "from": "2011-09-05",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131225",
      "sha256": "3ad969341d11f6920f6e286fa3fa268cc150bcaa54617c29ca846c1a00223d17"
     }
@@ -9491,7 +11336,7 @@
    "versions": [
     {
      "from": "2011-04-07",
-     "units": 7,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127560",
      "sha256": "cd89f0fd376b1ba4f99feb6c6c3d395ac540c253c80b2111f6832d4f5a8521b3"
     }

@@ -2,7 +2,7 @@
 
 Ordin munca nr. 499/2008 · 1 versions, from 2008-12-16 (latest in force: 2008-12-16) · <https://legislatie.just.ro/Public/DetaliiDocument/100406>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (CONTRACT DE FINANȚARE - model - Numărul de identificare a contractului: POSDRU/Call/DMI/S/Nr. Titlul proiectului: Nr. de înregistrare AMPOSDRU: ...): it is a table that the official text holds only flattened; Anexa nr. 2 (1): it is a table that the official text holds only flattened; Anexa nr. 5 (4): it is a table that the official text holds only flattened; Anexa nr. 6 (5): it is a table that the official text holds only flattened; Anexa nr. 8 (7): it is a table that the official text holds only flattened; Anexa nr. 9 (8): it is a table that the official text holds only flattened; Anexa nr. 12 (11): it is a table that the official text holds only flattened; Anexa nr. 13 (12): it is a table that the official text holds only flattened; Anexa nr. 15 (14): it is a table that the official text holds only flattened; Anexa nr. 16 (15): it is a table that the official text holds only flattened; Anexa nr. 17 (16): it is a table that the official text holds only flattened; Anexa nr. 18 (17): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (CONTRACT DE FINANȚARE - model - Numărul de identificare a contractului: POSDRU/Call/DMI/S/Nr. Titlul proiectului: Nr. de înregistrare AMPOSDRU: ...): it is a table that the official text holds only flattened; Anexa nr. 2 (1): it is a table that the official text holds only flattened; Anexa nr. 16 (15): it is a table that the official text holds only flattened; Anexa nr. 18 (17): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,14 +14,30 @@ Ordin munca nr. 499/2008 · 1 versions, from 2008-12-16 (latest in force: 2008-1
 | Anexa nr. 10 | [anexa-10/text.md](anexa-10/text.md) | 0 |  |
 | Anexa nr. 11 (what it is) | [anexa-11/README.md](anexa-11/README.md) | 0 |  |
 | Anexa nr. 11 | [anexa-11/text.md](anexa-11/text.md) | 0 |  |
+| Anexa nr. 12 (what it is) | [anexa-12/README.md](anexa-12/README.md) | 0 |  |
+| Anexa nr. 12 | [anexa-12/text.md](anexa-12/text.md) | 0 |  |
+| Anexa nr. 13 (what it is) | [anexa-13/README.md](anexa-13/README.md) | 0 |  |
+| Anexa nr. 13 | [anexa-13/text.md](anexa-13/text.md) | 0 |  |
 | Anexa nr. 14 (what it is) | [anexa-14/README.md](anexa-14/README.md) | 0 |  |
 | Anexa nr. 14 | [anexa-14/text.md](anexa-14/text.md) | 0 |  |
+| Anexa nr. 15 (what it is) | [anexa-15/README.md](anexa-15/README.md) | 0 |  |
+| Anexa nr. 15 | [anexa-15/text.md](anexa-15/text.md) | 0 |  |
+| Anexa nr. 17 (what it is) | [anexa-17/README.md](anexa-17/README.md) | 0 |  |
+| Anexa nr. 17 | [anexa-17/text.md](anexa-17/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
+| Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
+| Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
 | Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
 | Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
+| Anexa nr. 8 (what it is) | [anexa-8/README.md](anexa-8/README.md) | 0 |  |
+| Anexa nr. 8 | [anexa-8/text.md](anexa-8/text.md) | 0 |  |
+| Anexa nr. 9 (what it is) | [anexa-9/README.md](anexa-9/README.md) | 0 |  |
+| Anexa nr. 9 | [anexa-9/text.md](anexa-9/text.md) | 0 |  |
 
 Act id: `ordin-munca-499-2008` (tags `ordin-munca-499-2008/<day>`; `python tools/on.py <day> ordin-munca-499-2008`).
 
@@ -33,19 +49,19 @@ Act id: `ordin-munca-499-2008` (tags `ordin-munca-499-2008/<day>`; `python tools
 - Ordin munca nr. 499/2008: the signatures and the place and date line after its last article are not article text.
 - Ordin munca nr. 499/2008: Anexa nr. 3 (2) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 100406 of the official web service.
 - Ordin munca nr. 499/2008: Anexa nr. 4 (3) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 100406 of the official web service.
+- Ordin munca nr. 499/2008: Anexa nr. 5 (4) is part of the order and is published in its folder, anexa-5/ (paragraphs and tables), from document 100406 of the official web service.
+- Ordin munca nr. 499/2008: Anexa nr. 6 (5) is part of the order and is published in its folder, anexa-6/ (paragraphs and tables), from document 100406 of the official web service.
 - Ordin munca nr. 499/2008: Anexa nr. 7 (6) is part of the order and is published in its folder, anexa-7/ (paragraphs), from document 100406 of the official web service.
+- Ordin munca nr. 499/2008: Anexa nr. 8 (7) is part of the order and is published in its folder, anexa-8/ (paragraphs and tables), from document 100406 of the official web service.
+- Ordin munca nr. 499/2008: Anexa nr. 9 (8) is part of the order and is published in its folder, anexa-9/ (paragraphs and tables), from document 100406 of the official web service.
 - Ordin munca nr. 499/2008: Anexa nr. 10 (9) is part of the order and is published in its folder, anexa-10/ (paragraphs), from document 100406 of the official web service.
 - Ordin munca nr. 499/2008: Anexa nr. 11 (10) is part of the order and is published in its folder, anexa-11/ (paragraphs), from document 100406 of the official web service.
+- Ordin munca nr. 499/2008: Anexa nr. 12 (11) is part of the order and is published in its folder, anexa-12/ (paragraphs and tables), from document 100406 of the official web service.
+- Ordin munca nr. 499/2008: Anexa nr. 13 (12) is part of the order and is published in its folder, anexa-13/ (paragraphs and tables), from document 100406 of the official web service.
 - Ordin munca nr. 499/2008: Anexa nr. 14 (13) is part of the order and is published in its folder, anexa-14/ (paragraphs), from document 100406 of the official web service.
+- Ordin munca nr. 499/2008: Anexa nr. 15 (14) is part of the order and is published in its folder, anexa-15/ (paragraphs and tables), from document 100406 of the official web service.
+- Ordin munca nr. 499/2008: Anexa nr. 17 (16) is part of the order and is published in its folder, anexa-17/ (paragraphs and tables), from document 100406 of the official web service.
 - Ordin munca nr. 499/2008: Anexa nr. 1 (CONTRACT DE FINANȚARE - model - Numărul de identificare a contractului: POSDRU/Call/DMI/S/Nr. Titlul proiectului: Nr. de înregistrare AMPOSDRU: ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin munca nr. 499/2008: Anexa nr. 2 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin munca nr. 499/2008: Anexa nr. 5 (4) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin munca nr. 499/2008: Anexa nr. 6 (5) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin munca nr. 499/2008: Anexa nr. 8 (7) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin munca nr. 499/2008: Anexa nr. 9 (8) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin munca nr. 499/2008: Anexa nr. 12 (11) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin munca nr. 499/2008: Anexa nr. 13 (12) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin munca nr. 499/2008: Anexa nr. 15 (14) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin munca nr. 499/2008: Anexa nr. 16 (15) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin munca nr. 499/2008: Anexa nr. 17 (16) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin munca nr. 499/2008: Anexa nr. 18 (17) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

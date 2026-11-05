@@ -2,7 +2,7 @@
 
 Ordin finante nr. 214/2013 · 1 versions, from 2013-02-20 (latest in force: 2013-02-20) · <https://legislatie.just.ro/Public/DetaliiDocument/145658>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 Gradul de realizare a veniturilor proprii mii lei ┌────┬────────────────────────────────┬────────────────────────┬─────┬────────────────────────────┬─────┐ ...): it is a table that the official text holds only flattened; Anexa nr. 7 (7 Programul de reducere a arieratelor cu prezentarea surselor Mii lei ...): it is a table that the official text holds only flattened; Anexa nr. 8 (8 Situația datoriilor rezultate din împrumuturile contractate Mii lei ...): it is a table that the official text holds only flattened; Anexa nr. 9 (9 Măsuri de îmbunătățire a rezultatului brut și reducere a arieratelor ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 Gradul de realizare a veniturilor proprii mii lei): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -23,6 +23,12 @@ Ordin finante nr. 214/2013 · 1 versions, from 2013-02-20 (latest in force: 2013
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 | Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
 | Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
+| Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
+| Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
+| Anexa nr. 8 (what it is) | [anexa-8/README.md](anexa-8/README.md) | 0 |  |
+| Anexa nr. 8 | [anexa-8/text.md](anexa-8/text.md) | 0 |  |
+| Anexa nr. 9 (what it is) | [anexa-9/README.md](anexa-9/README.md) | 0 |  |
+| Anexa nr. 9 | [anexa-9/text.md](anexa-9/text.md) | 0 |  |
 
 Act id: `ordin-finante-214-2013` (tags `ordin-finante-214-2013/<day>`; `python tools/on.py <day> ordin-finante-214-2013`).
 
@@ -37,9 +43,9 @@ Act id: `ordin-finante-214-2013` (tags `ordin-finante-214-2013/<day>`; `python t
 - Ordin finante nr. 214/2013: Anexa nr. 4 (4 Repartizarea pe trimestre a indicatorilor economico-financiari mii lei Nr.Crt. INDICATORI Nr. Propuneri an curent (N) Trim I Trim II Trim III Trim IV 0 1 Rd. 2 3 4 5 6 I. VENITURI TOTALE (Rd.2+Rd.23) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 145658 of the official web service.
 - Ordin finante nr. 214/2013: Anexa nr. 5 (5 Programul de investiții, dotări și sursele de finanțare mii lei INDICATORI Data an precedent (N-1) Valoare finali- zării Aprobat Realizat/ an an an inves- Preliminat curent N+1 N+2 tiției (N) 0 1 2) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 145658 of the official web service.
 - Ordin finante nr. 214/2013: Anexa nr. 6 (6 Programul de reducere a stocurilor Mii lei Nr. Sold la Intrări Ieșiri 01.01.- crt. Stocuri 31.12.an 01.01 - 31.12.an curent (N) Sold la Sold la Sold la precedent 31.12.an 31.12.an 31.12.an 31.12.an) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 145658 of the official web service.
+- Ordin finante nr. 214/2013: Anexa nr. 7 (7 Programul de reducere a arieratelor cu prezentarea surselor Mii lei) is part of the order and is published in its folder, anexa-7/ (paragraphs and tables), from document 145658 of the official web service.
+- Ordin finante nr. 214/2013: Anexa nr. 8 (8 Situația datoriilor rezultate din împrumuturile contractate Mii lei) is part of the order and is published in its folder, anexa-8/ (paragraphs and tables), from document 145658 of the official web service.
+- Ordin finante nr. 214/2013: Anexa nr. 9 (9 Măsuri de îmbunătățire a rezultatului brut și reducere a arieratelor) is part of the order and is published in its folder, anexa-9/ (paragraphs and tables), from document 145658 of the official web service.
 - Ordin finante nr. 214/2013: Anexa nr. 10 (10 INSTRUCȚIUNI de completare a bugetului de venituri și cheltuieli și a anexelor de fundamentare a acestuia de către operatorii economici cu patrimoniu/capital integral/majoritar deținut direct sau i) is part of the order and is published in its folder, anexa-10/ (paragraphs), from document 145658 of the official web service.
-- Ordin finante nr. 214/2013: Anexa nr. 3 (3 Gradul de realizare a veniturilor proprii mii lei ┌────┬────────────────────────────────┬────────────────────────┬─────┬────────────────────────────┬─────┐ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin finante nr. 214/2013: Anexa nr. 7 (7 Programul de reducere a arieratelor cu prezentarea surselor Mii lei ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin finante nr. 214/2013: Anexa nr. 8 (8 Situația datoriilor rezultate din împrumuturile contractate Mii lei ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin finante nr. 214/2013: Anexa nr. 9 (9 Măsuri de îmbunătățire a rezultatului brut și reducere a arieratelor ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 214/2013: Anexa nr. 3 (3 Gradul de realizare a veniturilor proprii mii lei) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin finante nr. 214/2013: the publisher's notes run into its text (*) Nu se vor lua în considerare veniturile din subvenţii sau transferuri, precum şi veniturile care nu se transformă în ) are not text.

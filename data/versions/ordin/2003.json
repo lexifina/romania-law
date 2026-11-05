@@ -2831,7 +2831,7 @@
    "versions": [
     {
      "from": "2003-06-26",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44674",
      "sha256": "70b545ba72e480c1a07a25ed1f0d220e904e1482a9b1d011a86f0891e02edfe9"
     }
@@ -4068,6 +4068,141 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3215-2003",
+   "path": "ordin/educatie/2003/3215",
+   "short": "Ordin educatie nr. 3215/2003",
+   "title": "Ordinul nr. 3.215/2003 pentru aprobarea Metodologiei privind acordarea gradației de merit în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42068",
+   "versions": [
+    {
+     "from": "2003-03-03",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42068",
+     "sha256": "7c1633b778b276fb727df498ff3890f3de55526589aebc64dba6744252b9ec24"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3571-2003",
+   "path": "ordin/educatie/2003/3571",
+   "short": "Ordin educatie nr. 3571/2003",
+   "title": "Ordinul nr. 3.571/2003 privind punerea în aplicare a dispozițiilor Ordonanței Guvernului nr. 26/2000 cu privire la asociații și fundații, modificată și completată prin Ordonanța Guvernului nr. 37/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42978",
+   "versions": [
+    {
+     "from": "2003-04-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42978",
+     "sha256": "b96b4a931871552933cfe0a704246ff74d39d9a5614e61c189ab9f215f440a33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4501-2003",
+   "path": "ordin/educatie/2003/4501",
+   "short": "Ordin educatie nr. 4501/2003",
+   "title": "Ordinul nr. 4.501/2003 pentru aprobarea Normelor metodologice privind înscrierea la studii a cetățenilor străini, a cetățenilor străini de origine etnică română și a cetățenilor români cu domiciliul în străinătate la instituțiile de învățământ superior particular acreditate din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47298",
+   "versions": [
+    {
+     "from": "2003-10-30",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47298",
+     "sha256": "79edb1ab18a3f42a17e4180daba00f395b02daceb31f529c6945810817bfd68a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4633-2003",
+   "path": "ordin/educatie/2003/4633",
+   "short": "Ordin educatie nr. 4633/2003",
+   "title": "Ordinul nr. 4.633/2003 pentru aprobarea unor modele de documente necesare aprobării, contractării și monitorizării unor proiecte de integrare economică și culturală între România și Republica Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47050",
+   "versions": [
+    {
+     "from": "2003-10-20",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47050",
+     "sha256": "f60d5ea46a53b8ab33f776a677ae8b3f8c775755b6efbd30181b2a49ab0f9737"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4785-2003",
+   "path": "ordin/educatie/2003/4785",
+   "short": "Ordin educatie nr. 4785/2003",
+   "title": "Ordinul nr. 4.785/2003 privind aprobarea Calendarului și a Metodologiei de organizare și desfășurare a examenului de bacalaureat - 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50716",
+   "versions": [
+    {
+     "from": "2004-03-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50716",
+     "sha256": "d296af6d36cea83bdee4106a4b98eaf41e222bb05da7b5aee91d88ed4c60c815"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4786-2003",
+   "path": "ordin/educatie/2003/4786",
+   "short": "Ordin educatie nr. 4786/2003",
+   "title": "Ordinul nr. 4.786/2003 privind disciplinele și programele pentru examenul de bacalaureat 2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50742",
+   "versions": [
+    {
+     "from": "2004-03-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50742",
+     "sha256": "141e0260c1f6ab4217bb201429fa8ccf9c1941891bed0781272f2667113906c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4787-2003",
+   "path": "ordin/educatie/2003/4787",
+   "short": "Ordin educatie nr. 4787/2003",
+   "title": "Ordinul nr. 4.787/2003 pentru aprobarea Calendarului și a Metodologiei de organizare și desfășurare a testelor naționale organizate în vederea accesului absolvenților clasei a Viii-a m clasa a IX-a a anului școlar 2004-2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50718",
+   "versions": [
+    {
+     "from": "2004-03-25",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50718",
+     "sha256": "ebdfda8700ec3c2fbb0ac38166d8ca0fcf914027140353e78952aaadf0f46b19"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4789-2003",
+   "path": "ordin/educatie/2003/4789",
+   "short": "Ordin educatie nr. 4789/2003",
+   "title": "Ordinul nr. 4.789/2003 privind măsuri de aplicare și corelare a planului-cadru de învățământ pentru învățământul profesional, liceal - filiera tehnologică și postliceal cu structura anului școlar 2003-2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46174",
+   "versions": [
+    {
+     "from": "2003-09-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46174",
+     "sha256": "5647c400a153114debf18bcbee7755e0b00497f2869f3a305f34a83dac2d8b84"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4923-2003",
+   "path": "ordin/educatie/2003/4923",
+   "short": "Ordin educatie nr. 4923/2003",
+   "title": "Ordinul nr. 4.923/2003 pentru aprobarea Regulamentului privind organizarea și funcționarea centrelor și a cabinetelor de asistența psihopedagogică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46734",
+   "versions": [
+    {
+     "from": "2003-10-07",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46734",
+     "sha256": "ea069c16768191e03e4fc2feaffcaeb8f9908add0edae247beb3bc49de07548c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5253-2003",
    "path": "ordin/educatie/2003/5253",
    "short": "Ordin educatie nr. 5253/2003",
@@ -4079,6 +4214,186 @@
      "units": 55,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47466",
      "sha256": "8961a64225f599b701ae89b8ffafabc33fcf9c3f3377247ac5a2dcb67819b618"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5281-2003",
+   "path": "ordin/educatie/2003/5281",
+   "short": "Ordin educatie nr. 5281/2003",
+   "title": "Ordinul nr. 5.281/2003 pentru aprobarea Normelor metodologice privind organizarea și exercitarea activității de audit public intern în structura Ministerului Educației, Cercetării și Tineretului și în unitățile aflate în subordinea sau coordonarea Ministerului Educației, Cercetării și Tineretului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48308",
+   "versions": [
+    {
+     "from": "2003-12-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48308",
+     "sha256": "e603e1211b5f8fae5ab9b066c618657fead4c940e614ac4a73a636cffa0ff3ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5441-2003",
+   "path": "ordin/educatie/2003/5441",
+   "short": "Ordin educatie nr. 5441/2003",
+   "title": "Ordinul nr. 5.441/2003 privind aprobarea Regulamentului de organizare și funcționare al Comisiei pentru Manifestări Științifice și Expoziționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49116",
+   "versions": [
+    {
+     "from": "2004-01-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49116",
+     "sha256": "7216ff75bdbc6be2c021392fc41b99adba2a0d7a9027aaf111452e95b6dcff25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5442-2003",
+   "path": "ordin/educatie/2003/5442",
+   "short": "Ordin educatie nr. 5442/2003",
+   "title": "Ordinul nr. 5.442/2003 privind aprobarea Metodologiei de autorizare, suspendare și anulare a autorizației de funcționare a parcului științific și tehnologic și a Procedurii de admitere în parcul științific și tehnologic a agenților economici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48639",
+   "versions": [
+    {
+     "from": "2003-12-22",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48639",
+     "sha256": "6717ede30b23554a2f4838b0fb405cb3e8cd86f85c59c526f9aecb47bed1eb8d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5443-2003",
+   "path": "ordin/educatie/2003/5443",
+   "short": "Ordin educatie nr. 5443/2003",
+   "title": "Ordinul nr. 5.443/2003 pentru aprobarea Normelor metodologice privind aplicarea unor măsuri de stimulare pentru participarea la cel de-al șaselea Program-cadru al Comunității Europene pentru cercetare, dezvoltare tehnologică și activități demonstrative (PC 6) și la cel de-al șaselea Program-cadru al Comunității Europene a Energiei Atomice (PC 6 EURATOM)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48529",
+   "versions": [
+    {
+     "from": "2003-12-18",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48529",
+     "sha256": "4bb5bc63d60180baf6f1d318b5438bfd6f24113aaf7e4926e1ffb6e4c2fbc535"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5468-2003",
+   "path": "ordin/educatie/2003/5468",
+   "short": "Ordin educatie nr. 5468/2003",
+   "title": "Ordinul nr. 5.468/2003 privind aprobarea Metodologiei și a criteriilor de acordare a gradației de merit și a salariului de merit în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49545",
+   "versions": [
+    {
+     "from": "2004-02-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49545",
+     "sha256": "66b7b2460dec8c91a05fb3254522e5f0630975ca836c1916aa643a869f80ca67"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5514-2003",
+   "path": "ordin/educatie/2003/5514",
+   "short": "Ordin educatie nr. 5514/2003",
+   "title": "Ordinul nr. 5.514/2003 privind Metodologia de organizare și desfășurare a admiterii în învățământul liceal și profesional de stat pentru anul școlar 2004-2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50794",
+   "versions": [
+    {
+     "from": "2004-03-30",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50794",
+     "sha256": "bb4dccedb7ddc8521c69ac0d6eaf4d535e26fccf75da930092cfd162ef16683c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5545-2003",
+   "path": "ordin/educatie/2003/5545",
+   "short": "Ordin educatie nr. 5545/2003",
+   "title": "Ordinul nr. 5.545/2003 privind aprobarea utilizării sigiliului și a matriței timbru sec cu titulatura \"Ministerul Educației, Cercetării și Tineretului\" pe formularele/tipizatele actelor de studii cu titulatura \"Ministerul Educației și Cercetării\" de către instituțiile de învățământ superior de stat și particular acreditate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48309",
+   "versions": [
+    {
+     "from": "2003-12-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48309",
+     "sha256": "b2975b42e07aa04a0cdc88c5d069741786accad1ca94930e1f2b0179e80065b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5643-2003",
+   "path": "ordin/educatie/2003/5643",
+   "short": "Ordin educatie nr. 5643/2003",
+   "title": "Ordinul nr. 5.643/2003 privind aprobarea Calendarului mișcării personalului didactic în anul școlar 2004-2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49548",
+   "versions": [
+    {
+     "from": "2004-02-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49548",
+     "sha256": "39c483911187b388383f14b9f7c6e05c3aef15d2c93810a9fdf028b6ec973489"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5644-2003",
+   "path": "ordin/educatie/2003/5644",
+   "short": "Ordin educatie nr. 5644/2003",
+   "title": "Ordinul nr. 5.644/2003 pentru aprobarea Metodologiei privind mișcarea personalului didactic din învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49630",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49630",
+     "sha256": "4f5271c75fa72d488f0ffc5508461a3113254b04cb13d537866be9b6c3c5c127"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7049-2003",
+   "path": "ordin/educatie/2003/7049",
+   "short": "Ordin educatie nr. 7049/2003",
+   "title": "Ordinul nr. 7.049/2003 privind aprobarea Regulamentului de organizare și funcționare al Comisiei pentru subvenționarea literaturii tehnico-științifice și a modelului contractului de finanțare pentru subvenționarea literaturii tehnico-științifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43177",
+   "versions": [
+    {
+     "from": "2003-04-15",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43177",
+     "sha256": "0d7dacaafc3866192f83e8f5d489948fc01326fb5f3f5b807c63f3bb704f635f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7079-2003",
+   "path": "ordin/educatie/2003/7079",
+   "short": "Ordin educatie nr. 7079/2003",
+   "title": "Ordinul nr. 7.079/2003 pentru aprobarea Normelor metodologice privind protecția informațiilor clasificate din domeniul cercetării științifice și dezvoltării tehnologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43191",
+   "versions": [
+    {
+     "from": "2003-04-16",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43191",
+     "sha256": "76195005bfdbf0a3b66f391a15f820f2412fd20f8a7cb6c30699702d08ec565c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7148-2003",
+   "path": "ordin/educatie/2003/7148",
+   "short": "Ordin educatie nr. 7148/2003",
+   "title": "Ordinul nr. 7.148/2003 pentru aprobarea Instrucțiunilor privind modul de echivalare a funcțiilor și gradelor de cercetare-dezvoltare dobândite de către personalul de cercetare-dezvoltare anterior intrării în vigoare a Ordonanței Guvernului nr. 65/2002 cu funcțiile corespunzătoare gradelor profesionale de cercetare-dezvoltare stabilite prin Ordonanța Guvernului nr. 65/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44543",
+   "versions": [
+    {
+     "from": "2003-06-20",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44543",
+     "sha256": "295c6587c7fd1fa317d025e01238da5c17b44e8f4728b4feff9eb11cd2eb6e46"
     }
    ]
   },
@@ -4691,7 +5006,7 @@
    "versions": [
     {
      "from": "2004-01-22",
-     "units": 15,
+     "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49271",
      "sha256": "842454db2f294ca7bc02595e70eb6d483fa0710054f18c48f7fec912d0b104b2"
     }
@@ -4826,7 +5141,7 @@
    "versions": [
     {
      "from": "2004-01-08",
-     "units": 13,
+     "units": 15,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48922",
      "sha256": "084f8c4db0b7d50756f054f8e553a0026cc96d52fc402dd8a0c65867e1531825"
     }
@@ -4841,7 +5156,7 @@
    "versions": [
     {
      "from": "2004-01-09",
-     "units": 7,
+     "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48972",
      "sha256": "d8a969589f8bf6fbebf072ca5fb38d9fc0113393a250014847b78d1dab536ab1"
     }
@@ -5171,7 +5486,7 @@
    "versions": [
     {
      "from": "2003-04-12",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43117",
      "sha256": "8b2209e3470b31902538fae16f3353108f623c439462df5d07c1104dd68af485"
     }
@@ -5336,7 +5651,7 @@
    "versions": [
     {
      "from": "2003-05-09",
-     "units": 9,
+     "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43609",
      "sha256": "863262cea230976d5dc404db2537997c18acc5a63bdbb04fd342e248e60cc0d7"
     }
@@ -6041,7 +6356,7 @@
    "versions": [
     {
      "from": "2003-05-06",
-     "units": 16,
+     "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43639",
      "sha256": "fc1c419f8236e559904bf592c63f808443fd44947c296116bf991b70800262ac"
     }
@@ -6761,7 +7076,7 @@
    "versions": [
     {
      "from": "2003-12-24",
-     "units": 2,
+     "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48845",
      "sha256": "861dcc4306845bc1922e219f15a5c2d70ca7cd0e01de08ac0b9adb29b87ffde1"
     }
@@ -7106,7 +7421,7 @@
    "versions": [
     {
      "from": "2003-03-26",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42683",
      "sha256": "dd075f0e55e10b0965b8be1b56d78ace6081583354a509e3ef8e6178e402a222"
     }
@@ -7121,7 +7436,7 @@
    "versions": [
     {
      "from": "2003-04-09",
-     "units": 24,
+     "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42986",
      "sha256": "fb0d2e44ab4522832992bd57d5b00ca4d2bed4116c1d443d158652084ca2c6c3"
     }
@@ -7286,7 +7601,7 @@
    "versions": [
     {
      "from": "2003-05-19",
-     "units": 12,
+     "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43778",
      "sha256": "877334195769ec68e05cc7890cf8c22c1211e93c289093a0620718dd9af6c99e"
     }
@@ -7601,7 +7916,7 @@
    "versions": [
     {
      "from": "2003-09-19",
-     "units": 8,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46318",
      "sha256": "d4369b516ccc5bd0d26f5f20d880c13fd44a00b07bc993948cd9d27642e0199a"
     }

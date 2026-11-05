@@ -2,12 +2,14 @@
 
 Ordin munca nr. 2196/2015 · 1 versions, from 2015-11-27 (latest in force: 2015-11-27) · <https://legislatie.just.ro/Public/DetaliiDocument/173482>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (LISTA ocupațiilor practicate în cadrul economiei naționale care modifică și completează Clasificarea ocupațiilor din România - nivel de ocupație (șase ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. I | [art-001.md](art-001.md) | 0 |  |
 | Art. II | [art-002.md](art-002.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-munca-2196-2015` (tags `ordin-munca-2196-2015/<day>`; `python tools/on.py <day> ordin-munca-2196-2015`).
 
@@ -18,4 +20,4 @@ Act id: `ordin-munca-2196-2015` (tags `ordin-munca-2196-2015/<day>`; `python too
 - Ordin munca nr. 2196/2015: the first version is the order as published in Monitorul Oficial nr. 892 of 27 November 2015 (document 173482 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin munca nr. 2196/2015: the signatures and the place and date line after its last article are not article text.
 - Ordin munca nr. 2196/2015: a joint order of Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice nr. 2.196 din 5 November 2015; Institutul Național de Statistică nr. 513 din 13 November 2015. It is published once, here, under the issuer its EMITENT block lists first; `ordin-ins-513-2015` name it too (data/paths.json aliases).
-- Ordin munca nr. 2196/2015: Anexa nr. 1 (LISTA ocupațiilor practicate în cadrul economiei naționale care modifică și completează Clasificarea ocupațiilor din România - nivel de ocupație (șase ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin munca nr. 2196/2015: Anexa nr. 1 (LISTA ocupațiilor practicate în cadrul economiei naționale care modifică și completează Clasificarea ocupațiilor din România - nivel de ocupație (șase caractere)) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 173482 of the official web service.

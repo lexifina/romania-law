@@ -3,6 +3,21 @@
  "shard": "ordin/2012",
  "acts": [
   {
+   "slug": "ordin-agricultura-110-2012",
+   "path": "ordin/agricultura/2012/110",
+   "short": "Ordin agricultura nr. 110/2012",
+   "title": "Ordinul nr. 110/2012 privind aprobarea Suplimentului nr. 1 al Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2012, aprobat prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 3/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138482",
+   "versions": [
+    {
+     "from": "2012-05-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138482",
+     "sha256": "a1abb335ad9de053992d6178659855b7184cbcc3fc6f820ec5f6f1451d77ce2c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-116-2012",
    "path": "ordin/agricultura/2012/116",
    "short": "Ordin agricultura nr. 116/2012",
@@ -14,6 +29,51 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138721",
      "sha256": "3a80f3fe8ba429767ffdd1786a6b472c8251cbd0778f7e7d0cde1d038c18d555"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-126-2012",
+   "path": "ordin/agricultura/2012/126",
+   "short": "Ordin agricultura nr. 126/2012",
+   "title": "Ordinul nr. 126/2012 privind aprobarea Manualului de gradare pentru semințe de consum",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139544",
+   "versions": [
+    {
+     "from": "2012-07-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139544",
+     "sha256": "6c3e3ff0dc8ee2f3fcc3b5681748abf7fca52d5a19c329a78af5782d46f22e7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-128-2012",
+   "path": "ordin/agricultura/2012/128",
+   "short": "Ordin agricultura nr. 128/2012",
+   "title": "Ordinul nr. 128/2012 pentru aprobarea Normelor privind accesul la resursele acvatice vii din domeniul public al statului în vederea practicării pescuitului comercial în habitatele piscicole naturale, cu excepția ariilor naturale protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138829",
+   "versions": [
+    {
+     "from": "2012-06-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138829",
+     "sha256": "5b2630337a03cd9a6a223c1cb0ed62f8bf7529f8e459d73f64da4f915a50d3fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-134-2012",
+   "path": "ordin/agricultura/2012/134",
+   "short": "Ordin agricultura nr. 134/2012",
+   "title": "Ordinul nr. 134/2012 pentru aprobarea cantităților de motorină aferente trimestrului I al anului 2012, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139514",
+   "versions": [
+    {
+     "from": "2012-07-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139514",
+     "sha256": "090d1407fd889941968f4d404d444f04416defec2902f8c6ce15972f1de352af"
     }
    ]
   },
@@ -33,6 +93,216 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-141-2012",
+   "path": "ordin/agricultura/2012/141",
+   "short": "Ordin agricultura nr. 141/2012",
+   "title": "Ordinul nr. 141/2012 pentru aprobarea Procedurilor, condițiilor și regulilor privind autorizarea oficială a laboratoarelor pentru testarea semințelor oficial și sub supraveghere oficială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140155",
+   "versions": [
+    {
+     "from": "2012-08-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140155",
+     "sha256": "01a84aecfdf9cc0ae9d42be1f700599f2f3acee7bbda65ddb962f84cbc8dde08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-149-2012",
+   "path": "ordin/agricultura/2012/149",
+   "short": "Ordin agricultura nr. 149/2012",
+   "title": "Ordinul nr. 149/2012 pentru aprobarea modelului cererii de ajutor privind măsura 2.1.5 - Plăți privind bunăstarea animalelor - porcine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139712",
+   "versions": [
+    {
+     "from": "2012-07-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139712",
+     "sha256": "4e9688e4685e984fdaca0ed8d98d067b94e1465599c4ba46e06e173a32cf6456"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-150-2012",
+   "path": "ordin/agricultura/2012/150",
+   "short": "Ordin agricultura nr. 150/2012",
+   "title": "Ordinul nr. 150/2012 privind aprobarea Regulamentului pentru aplicarea Legii nr. 255/1998 privind protecția noilor soiuri de plante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141092",
+   "versions": [
+    {
+     "from": "2012-09-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141092",
+     "sha256": "bcd982ac620ee66bf2d02d477da1f13641ec05021c9aa8246611872b98d94328"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-16-2012",
+   "path": "ordin/agricultura/2012/16",
+   "short": "Ordin agricultura nr. 16/2012",
+   "title": "Ordinul nr. 16/2012 privind aprobarea Metodologiei și a formularisticii necesare punerii în aplicare a prevederilor Ordonanței Guvernului nr. 25/2010 pentru instituirea unei scheme de ajutor de stat temporare privind asigurarea accesului la finanțare în agricultură, inclusiv modul de calcul al ratei dobânzii la credit necesare pentru calculul subvenției, al ratei de referință și al valorii nominale a subvenției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134985",
+   "versions": [
+    {
+     "from": "2012-02-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134985",
+     "sha256": "68fec89cc35344562aebfde879a213905de6d3260c9c520c37eddfd70e89d850"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-161-2012",
+   "path": "ordin/agricultura/2012/161",
+   "short": "Ordin agricultura nr. 161/2012",
+   "title": "Ordinul nr. 161/2012 privind aprobarea sistemelor de sancțiuni pentru măsurile 211 \"Sprijin pentru zona montană defavorizată\", 212 \"Sprijin pentru zone defavorizate, altele decât zona montană\" și 214 \"Plăți de agromediu\" din Programul național de dezvoltare rurală 2007-2013, precum și pentru nerespectarea eco-condiționalității în cadrul schemelor de sprijin pe suprafață pentru Pilonul I aferente cererilor de plată depuse începând cu anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141325",
+   "versions": [
+    {
+     "from": "2012-09-18",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141325",
+     "sha256": "89647c04533a1ad73594f26d1c85c2fa2115e9cd91f5d05b9e3e42d9be532dd2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-163-2012",
+   "path": "ordin/agricultura/2012/163",
+   "short": "Ordin agricultura nr. 163/2012",
+   "title": "Ordinul nr. 163/2012 privind aprobarea Normelor tehnice pentru producerea vinurilor cu indicație geografică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140522",
+   "versions": [
+    {
+     "from": "2012-08-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140522",
+     "sha256": "30af525f8985b0f8e8aa44f9713aa34f3e3f50dfdb4872a473ffb06485e5f4d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-164-2012",
+   "path": "ordin/agricultura/2012/164",
+   "short": "Ordin agricultura nr. 164/2012",
+   "title": "Ordinul nr. 164/2012 privind stabilirea nivelului taxei pentru acordarea drepturilor de plantare din rezervele județene și din rezerva națională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140459",
+   "versions": [
+    {
+     "from": "2012-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140459",
+     "sha256": "3a785e9a28a9db0d07a35c6d1d2756c415d3aecd2cdf1b46d7d33f62d798785a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-165-2012",
+   "path": "ordin/agricultura/2012/165",
+   "short": "Ordin agricultura nr. 165/2012",
+   "title": "Ordinul nr. 165/2012 privind stabilirea cuantumului taxei pentru autorizarea anuală a plantațiilor viticole destinate obținerii de struguri pentru producerea de vinuri cu indicație geografică, a cuantumului taxei pentru atestarea dreptului de utilizare a indicației geografice pentru comercializarea vinurilor cu indicație geografică și aprobarea introducerii însemnului de certificare a calității vinurilor cu indicație geografică îmbuteliate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140564",
+   "versions": [
+    {
+     "from": "2012-09-15",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140564",
+     "sha256": "3ffd633798164b547b4a6985653cf8b2994fe3966dcb4eecef7f461693680354"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-166-2012",
+   "path": "ordin/agricultura/2012/166",
+   "short": "Ordin agricultura nr. 166/2012",
+   "title": "Ordinul nr. 166/2012 pentru aprobarea Normelor privind gestionarea, procedura și condițiile de acordare a drepturilor de plantare nouă, replantare sau plantare pe o rezervă a viței-de-vie pentru struguri de vin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140641",
+   "versions": [
+    {
+     "from": "2012-08-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140641",
+     "sha256": "57af002eda50fc50ec30b4aafdd6b8d45022bcbad292664a04a4e69d312758d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-168-2012",
+   "path": "ordin/agricultura/2012/168",
+   "short": "Ordin agricultura nr. 168/2012",
+   "title": "Ordinul nr. 168/2012 pentru aprobarea Listei cu rasele de taurine de carne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140263",
+   "versions": [
+    {
+     "from": "2012-08-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140263",
+     "sha256": "83b67617a541b4d1146d0ee2d01451b12c7b65b2cad6497a40cfde741212d616"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-181-2012",
+   "path": "ordin/agricultura/2012/181",
+   "short": "Ordin agricultura nr. 181/2012",
+   "title": "Ordinul nr. 181/2012 pentru aprobarea regulilor privind organizarea sistemului de inspecție și certificare în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140852",
+   "versions": [
+    {
+     "from": "2012-08-27",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140852",
+     "sha256": "121f7b524feb1a735a3807cac672488d29435b29ee11a716145c6193087e051d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-192-2012",
+   "path": "ordin/agricultura/2012/192",
+   "short": "Ordin agricultura nr. 192/2012",
+   "title": "Ordinul nr. 192/2012 pentru aprobarea Normelor tehnice privind situația sintetică tehnico-economică a performanțelor anuale ale organizației de îmbunătățiri funciare și ale federațiilor de organizații de îmbunătățiri funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140935",
+   "versions": [
+    {
+     "from": "2012-08-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140935",
+     "sha256": "65a498ca358ff9c1d99a62d8c37fd50229b6398655ec23c06f50fbfa90ef1b16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-2-2012",
+   "path": "ordin/agricultura/2012/2",
+   "short": "Ordin agricultura nr. 2/2012",
+   "title": "Ordinul nr. 2/2012 privind aprobarea tarifelor pentru procedurile de examinare în vederea acordării protecției juridice a soiurilor, eliberarea brevetului pentru soi și înregistrarea denumirii soiurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134546",
+   "versions": [
+    {
+     "from": "2012-01-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134546",
+     "sha256": "e52953cd45cc9b5d491655a9aaa9758feaeebe98ab417c1a00aaa440c9bddc5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-209-2012",
+   "path": "ordin/agricultura/2012/209",
+   "short": "Ordin agricultura nr. 209/2012",
+   "title": "Ordinul nr. 209/2012 pentru nominalizarea punctelor de debarcare și a centrelor de primă vânzare de pe teritoriul Rezervației Biosferei \"Delta Dunării\" pe anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141398",
+   "versions": [
+    {
+     "from": "2012-09-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141398",
+     "sha256": "1ec2d70fbbaa928549ff8a887d9ed42baadc727e139be87c3efbcdef1c69c34d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-213-2012",
    "path": "ordin/agricultura/2012/213",
    "short": "Ordin agricultura nr. 213/2012",
@@ -44,6 +314,171 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142998",
      "sha256": "ba673598c3bb6e324a19e5c68022baebe99cf188e529b3002b0315b1d5bec34f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-214-2012",
+   "path": "ordin/agricultura/2012/214",
+   "short": "Ordin agricultura nr. 214/2012",
+   "title": "Ordinul nr. 214/2012 pentru aprobarea încheierii convențiilor privind finanțarea schemelor de plăți naționale directe complementare în sectorul zootehnic, la speciile bovine și ovine/caprine, precum și a cuantumului de plată înscris în adeverință",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141521",
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141521",
+     "sha256": "2c1f15d639032443e5884d4ec7049f3a704fb2ce0de921b20cbc2c94da702eb1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-217-2012",
+   "path": "ordin/agricultura/2012/217",
+   "short": "Ordin agricultura nr. 217/2012",
+   "title": "Ordinul nr. 217/2012 privind recunoașterea Acordului interprofesional pentru struguri de vin, vin și produse pe bază de vin - recolta anului de comercializare 2012/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141969",
+   "versions": [
+    {
+     "from": "2012-10-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141969",
+     "sha256": "2e8a3180fa01b22b0544f62086916f704bc969fecbd1c7ca7dfc003b1f3b3fba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-222-2012",
+   "path": "ordin/agricultura/2012/222",
+   "short": "Ordin agricultura nr. 222/2012",
+   "title": "Ordinul nr. 222/2012 pentru nominalizarea punctelor de debarcare și a centrelor de primă vânzare în vederea practicării pescuitului comercial în habitatele piscicole naturale, cu excepția ariilor naturale protejate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142125",
+   "versions": [
+    {
+     "from": "2012-10-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142125",
+     "sha256": "4c0a647accab96f6079997e2adcc46db3ff80c42b22403719d654c7cb2d87e51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-228-2012",
+   "path": "ordin/agricultura/2012/228",
+   "short": "Ordin agricultura nr. 228/2012",
+   "title": "Ordinul nr. 228/2012 privind aprobarea modelului Cererii de ajutor privind măsura 215 - Plăți privind bunăstarea animalelor - pachetul b) păsări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141998",
+   "versions": [
+    {
+     "from": "2012-10-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141998",
+     "sha256": "f1e503a4f03699337ebae928fab88bae377e0dc4d06cafa90004e568fdcd336b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-233-2012",
+   "path": "ordin/agricultura/2012/233",
+   "short": "Ordin agricultura nr. 233/2012",
+   "title": "Ordinul nr. 233/2012 pentru aprobarea Schemei de ajutor de minimis \"Îmbunătățirea condițiilor de mediu în spațiul rural prin folosirea și gospodărirea durabilă a terenurilor prin împădurire\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142317",
+   "versions": [
+    {
+     "from": "2012-10-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142317",
+     "sha256": "960220cf26106b3bdfbd8871e3b820c71d14e6b386697016fa35c4d39c005eeb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-239-2012",
+   "path": "ordin/agricultura/2012/239",
+   "short": "Ordin agricultura nr. 239/2012",
+   "title": "Ordinul nr. 239/2012 pentru aprobarea modelului Cererii de ajutor privind măsura 215 - Plăți privind bunăstarea animalelor pachetul b) - păsări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142849",
+   "versions": [
+    {
+     "from": "2012-11-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142849",
+     "sha256": "77998a2591b8532754be8f75e30ee8babe84c8c162ad9d04cfdabf0410574813"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-243-2012",
+   "path": "ordin/agricultura/2012/243",
+   "short": "Ordin agricultura nr. 243/2012",
+   "title": "Ordinul nr. 243/2012 privind furnizarea fructelor proaspete în școli",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142690",
+   "versions": [
+    {
+     "from": "2012-11-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142690",
+     "sha256": "b5528c23052a2c3e73e517f504b6b5b6f980a6de208de32c19acae0962e38e57"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-258-2012",
+   "path": "ordin/agricultura/2012/258",
+   "short": "Ordin agricultura nr. 258/2012",
+   "title": "Ordinul nr. 258/2012 pentru aprobarea cantităților de motorină aferente trimestrului III al anului 2012 ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143892",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143892",
+     "sha256": "a8dd0b5e8eb00cf3879a33f58c1704201aad483993de07f977de39e15ba9c247"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-268-2012",
+   "path": "ordin/agricultura/2012/268",
+   "short": "Ordin agricultura nr. 268/2012",
+   "title": "Ordinul nr. 268/2012 privind aprobarea contractului-tip de cultură a tutunului brut",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144244",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144244",
+     "sha256": "b3f88ea5d926c16c91081f1c8e32a836f1e3338b74d5633d09f907aba6fbf493"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-269-2012",
+   "path": "ordin/agricultura/2012/269",
+   "short": "Ordin agricultura nr. 269/2012",
+   "title": "Ordinul nr. 269/2012 pentru aprobarea nivelului comisioanelor de garantare pentru anul 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144649",
+   "versions": [
+    {
+     "from": "2013-01-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144649",
+     "sha256": "d175b938ecc4731a8f10e4cf42708aa2d1050912944e9b6d97c628ca0e8cc621"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-3-2012",
+   "path": "ordin/agricultura/2012/3",
+   "short": "Ordin agricultura nr. 3/2012",
+   "title": "Ordinul nr. 3/2012 privind aprobarea Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134626",
+   "versions": [
+    {
+     "from": "2012-01-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134626",
+     "sha256": "0f014582f0af55c263828d7599f8fc7a1b3b0ffc290e2edafab65977e9351a85"
     }
    ]
   },
@@ -78,6 +513,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-37-2012",
+   "path": "ordin/agricultura/2012/37",
+   "short": "Ordin agricultura nr. 37/2012",
+   "title": "Ordinul nr. 37/2012 privind aprobarea formularului-tip de cerere unică de plată pe suprafață pentru anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135699",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135699",
+     "sha256": "f052cac11774ccae866c61ad6ae7d96774de1e401878e473dcff2b3c592ba3b1"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-39-2012",
    "path": "ordin/agricultura/2012/39",
    "short": "Ordin agricultura nr. 39/2012",
@@ -108,6 +558,81 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-42-2012",
+   "path": "ordin/agricultura/2012/42",
+   "short": "Ordin agricultura nr. 42/2012",
+   "title": "Ordinul nr. 42/2012 pentru aprobarea cantităților de motorină aferente trimestrului IV al anului 2011 ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136221",
+   "versions": [
+    {
+     "from": "2012-03-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136221",
+     "sha256": "6a63b356da57a200e8c85491c84cf8f477287162528fb09ade7cda40f3a32095"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-53-2012",
+   "path": "ordin/agricultura/2012/53",
+   "short": "Ordin agricultura nr. 53/2012",
+   "title": "Ordinul nr. 53/2012 pentru aprobarea Listei gradatorilor autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136227",
+   "versions": [
+    {
+     "from": "2012-03-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136227",
+     "sha256": "ed62a5a8b2b32d1ffed6a07d10e9efbe8d9f17c51f3e57a65b4705bc20592871"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-6-2012",
+   "path": "ordin/agricultura/2012/6",
+   "short": "Ordin agricultura nr. 6/2012",
+   "title": "Ordinul nr. 6/2012 pentru aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 11/2012 privind reglementarea unor măsuri financiare temporare pentru stimularea gradului de absorbție a fondurilor alocate pentru agricultură aferente schemelor de plăți directe și pentru măsuri de piață în agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135338",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135338",
+     "sha256": "4e84e470fd1ae95d7f4fc815116d7024d425d45ffa0232c3f363a156a1a999e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-60-2012",
+   "path": "ordin/agricultura/2012/60",
+   "short": "Ordin agricultura nr. 60/2012",
+   "title": "Ordinul nr. 60/2012 privind recunoașterea Acordului interprofesional pentru sfecla de zahăr - recolta anului de comercializare 2012/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136664",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136664",
+     "sha256": "8f2e7352500524b63e7871b844eaaef4413b044616e09535af2cc3f8d660ec0f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-61-2012",
+   "path": "ordin/agricultura/2012/61",
+   "short": "Ordin agricultura nr. 61/2012",
+   "title": "Ordinul nr. 61/2012 privind autorizarea și controlul cultivatorilor de plante modificate genetic și măsuri pentru asigurarea coexistenței plantelor modificate genetic cu cele convenționale și ecologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136712",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136712",
+     "sha256": "ef7d1d1d9bda61e833bd98e4a0c7368e32bf65e7d6e8e1d633c30fabd1e838fd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-66-2012",
    "path": "ordin/agricultura/2012/66",
    "short": "Ordin agricultura nr. 66/2012",
@@ -119,6 +644,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137438",
      "sha256": "e2044773e95c6845bc81dd48fd44dbb59d4aed8ef023863e4f0da5593428d3ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-74-2012",
+   "path": "ordin/agricultura/2012/74",
+   "short": "Ordin agricultura nr. 74/2012",
+   "title": "Ordinul nr. 74/2012 privind autorizarea unităților prim-procesatoare de tutun brut",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137140",
+   "versions": [
+    {
+     "from": "2012-04-13",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137140",
+     "sha256": "0377570f98c550dbf082e853520113b2d53430b043c8333612640771c3a962a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-75-2012",
+   "path": "ordin/agricultura/2012/75",
+   "short": "Ordin agricultura nr. 75/2012",
+   "title": "Ordinul nr. 75/2012 privind autorizarea exercitării pescuitului sturionilor în scopul reproducerii artificiale pentru obținerea de puiet pentru acvacultură și popularea de susținere a bazinelor piscicole naturale, precum și în scop științific",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137148",
+   "versions": [
+    {
+     "from": "2012-04-13",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137148",
+     "sha256": "514c2a17488e076c6b933b035f397529442b2350656e82fc9ce490faba3aa6f5"
     }
    ]
   },
@@ -2538,6 +3093,21 @@
    ]
   },
   {
+   "slug": "ordin-comunicatii-213-2012",
+   "path": "ordin/comunicatii/2012/213",
+   "short": "Ordin comunicatii nr. 213/2012",
+   "title": "Ordinul nr. 213/2012 pentru aprobarea Metodologiei de identificare a infrastructurilor critice naționale din sectorul tehnologia informației și comunicații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138362",
+   "versions": [
+    {
+     "from": "2012-05-24",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138362",
+     "sha256": "b64fc404b5624e3c07f93aac9afad15e20179622a31606f779960b02ec82c038"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-101-2012",
    "path": "ordin/concurenta/2012/101",
    "short": "Ordin concurenta nr. 101/2012",
@@ -3603,6 +4173,306 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3035-2012",
+   "path": "ordin/educatie/2012/3035",
+   "short": "Ordin educatie nr. 3035/2012",
+   "title": "Ordinul nr. 3.035/2012 privind aprobarea Metodologiei-cadru de organizare și desfășurare a competițiilor școlare și a Regulamentului de organizare a activităților cuprinse în calendarul activităților educative, școlare și extrașcolare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134825",
+   "versions": [
+    {
+     "from": "2012-01-27",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134825",
+     "sha256": "6ffe35746500fae4680aecd14f8f66850da2350134fb99b70db7cf6cc428b3fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3062-2012",
+   "path": "ordin/educatie/2012/3062",
+   "short": "Ordin educatie nr. 3062/2012",
+   "title": "Ordinul nr. 3.062/2012 privind aprobarea Metodologiei de organizare a claselor din învățământul preuniversitar în regim simultan",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134922",
+   "versions": [
+    {
+     "from": "2012-02-02",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134922",
+     "sha256": "b9602d5067fa0bac793c5d292635b604132c51906a5d09e03d17ef555d3bf43a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3064-2012",
+   "path": "ordin/educatie/2012/3064",
+   "short": "Ordin educatie nr. 3064/2012",
+   "title": "Ordinul nr. 3.064/2012 pentru aprobarea Metodologiei privind cuprinderea copiilor în clasa pregătitoare și în clasa I pentru anul școlar 2012-2013 și a Calendarului înscrierii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134774",
+   "versions": [
+    {
+     "from": "2012-01-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134774",
+     "sha256": "525df4e3222c10bf9394ff42dc3049c2cc61e732f8044d764c6207dc2ce7dfd0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3157-2012",
+   "path": "ordin/educatie/2012/3157",
+   "short": "Ordin educatie nr. 3157/2012",
+   "title": "Ordinul nr. 3.157/2012 pentru modificarea și completarea Metodologiei-cadru privind mobilitatea personalului didactic din învățământul preuniversitar în anul școlar 2012-2013, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.560/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134947",
+   "versions": [
+    {
+     "from": "2012-02-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134947",
+     "sha256": "ab46b1f33169351f5c1a84bca4b1f46e07b54a205d89a1d51e661bbb21a32e17"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3158-2012",
+   "path": "ordin/educatie/2012/3158",
+   "short": "Ordin educatie nr. 3158/2012",
+   "title": "Ordinul nr. 3.158/2012 privind aprobarea Listei universităților de prestigiu din alte state",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134987",
+   "versions": [
+    {
+     "from": "2012-02-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134987",
+     "sha256": "96d8567b25175d151bef795f51905186a8625dd8d8199f6969d458ad5bf06fa3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3163-2012",
+   "path": "ordin/educatie/2012/3163",
+   "short": "Ordin educatie nr. 3163/2012",
+   "title": "Ordinul nr. 3.163/2012 privind aprobarea Metodologiei-cadru de organizare și funcționare a programelor postuniversitare de formare și dezvoltare profesională continuă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135335",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135335",
+     "sha256": "ddbf037a6668a3b678e2b4bbad54b3fced10f8609d395816f09b1cf5189417ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3168-2012",
+   "path": "ordin/educatie/2012/3168",
+   "short": "Ordin educatie nr. 3168/2012",
+   "title": "Ordinul nr. 3.168/2012 privind organizarea și funcționarea învățământului profesional cu durata de 2 ani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135044",
+   "versions": [
+    {
+     "from": "2012-02-07",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135044",
+     "sha256": "faf0705f0c3a5e2cf64441ef342307c3daf5eb99f691d9c64db1f9b5bea58275"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3199-2012",
+   "path": "ordin/educatie/2012/3199",
+   "short": "Ordin educatie nr. 3199/2012",
+   "title": "Ordinul nr. 3.199/2012 pentru aprobarea Metodologiei privind eliberarea pentru profesiile nereglementate în România a adeverinței de conformitate a studiilor cu prevederile Directivei 2005/36/CE a Parlamentului European și a Consiliului din 7 septembrie 2005 privind recunoașterea calificărilor profesionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135332",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135332",
+     "sha256": "50de00101617ef21554de16088df3635310477916de0686552e348e661f43caa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3202-2012",
+   "path": "ordin/educatie/2012/3202",
+   "short": "Ordin educatie nr. 3202/2012",
+   "title": "Ordinul nr. 3.202/2012 pentru aprobarea Centralizatorului privind disciplinele de învățământ, domeniile și specializările, precum și probele de concurs valabile pentru încadrarea personalului didactic din învățământul preuniversitar 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135593",
+   "versions": [
+    {
+     "from": "2012-02-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135593",
+     "sha256": "523b7c54880a889e699dd9d1131b1a5b32df6f638e65ae781bfb2f3c12215358"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3223-2012",
+   "path": "ordin/educatie/2012/3223",
+   "short": "Ordin educatie nr. 3223/2012",
+   "title": "Ordinul nr. 3.223/2012 pentru aprobarea Metodologiei de recunoaștere a perioadelor de studii efectuate în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135437",
+   "versions": [
+    {
+     "from": "2012-02-16",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135437",
+     "sha256": "be1abc70fb3775678e4fad767a488f1080fee3fe7c7c54f4b200344460f67904"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3283-2012",
+   "path": "ordin/educatie/2012/3283",
+   "short": "Ordin educatie nr. 3283/2012",
+   "title": "Ordinul nr. 3.283/2012 pentru modificarea și completarea Procedurii de atribuire a denumirilor unităților de învățământ din sistemul național de învățământ preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 6.564/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135688",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135688",
+     "sha256": "c4c95f9da586a15b2b24721310481363b6da3219071e07a8008eedfd22e7376b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3295-2012",
+   "path": "ordin/educatie/2012/3295",
+   "short": "Ordin educatie nr. 3295/2012",
+   "title": "Ordinul nr. 3.295/2012 privind aprobarea Calendarului desfășurării concursului de selecție a cadrelor didactice pentru constituirea corpului național de experți în management educațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135644",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135644",
+     "sha256": "27fb2300c2c209a124427da81a07af83582edbff86e18ae6cc87b9dff75f6d6a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3313-2012",
+   "path": "ordin/educatie/2012/3313",
+   "short": "Ordin educatie nr. 3313/2012",
+   "title": "Ordinul nr. 3.313/2012 privind cadrul general de organizare și desfășurare a admiterii în ciclurile de studii universitare de licență, de master și de doctorat pentru anul universitar 2012-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136107",
+   "versions": [
+    {
+     "from": "2012-03-13",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136107",
+     "sha256": "d2ef8861146e218cdd3d34a9bd159d4de5c30a9f2ffece2c2d162ba57ceff4f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3342-2012",
+   "path": "ordin/educatie/2012/3342",
+   "short": "Ordin educatie nr. 3342/2012",
+   "title": "Ordinul nr. 3.342/2012 privind aprobarea unor programe pentru acordarea definitivării în învățământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135946",
+   "versions": [
+    {
+     "from": "2012-03-06",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135946",
+     "sha256": "8ded386c7836e866e8bbb0b14333d50557e4488dff4c67ab2cced17a21c7953f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3365-2012",
+   "path": "ordin/educatie/2012/3365",
+   "short": "Ordin educatie nr. 3365/2012",
+   "title": "Ordinul nr. 3.365/2012 privind comasarea prin absorbție a unității de învățământ preuniversitar particular Liceul Particular nr. 1 din Arad de către unitatea de învățământ preuniversitar particular Școala Postliceală \"Vasile Goldiș\" din Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137003",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137003",
+     "sha256": "7e23b07c72f6d49e1ab750f9a83f623d5446f30726199719a0841cc90b34d067"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3366-2012",
+   "path": "ordin/educatie/2012/3366",
+   "short": "Ordin educatie nr. 3366/2012",
+   "title": "Ordinul nr. 3.366/2012 privind comasarea prin absorbție a unității de învățământ preuniversitar particular Liceul Economic \"Țara de Sus\" din Vatra Dornei de către unitatea de învățământ preuniversitar particular Școala Postliceală Sanitară \"Țara de Sus\" din Vatra Dornei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137004",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137004",
+     "sha256": "107a065b31b14ff7417c0fa7b739c918df5a463e81842e5c29ebaaca62e39a32"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3367-2012",
+   "path": "ordin/educatie/2012/3367",
+   "short": "Ordin educatie nr. 3367/2012",
+   "title": "Ordinul nr. 3.367/2012 privind comasarea prin absorbție a unităților de învățământ preuniversitar particular Grădinița \"Țăndărică 1\" din Cluj-Napoca, Grădinița \"Țăndărică 2\" din Cluj-Napoca, Grădinița \"Țăndărică 3\" din Cluj-Napoca și Grădinița \"Țăndărică 4\" din Cluj-Napoca de către unitatea de învățământ preuniversitar particular Școala \"Elf\" din Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136470",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136470",
+     "sha256": "c8799b35096a0a5c493e41de7f84116f685f8566d49daeb57ddb066524592ff5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3438-2012",
+   "path": "ordin/educatie/2012/3438",
+   "short": "Ordin educatie nr. 3438/2012",
+   "title": "Ordinul nr. 3.438/2012 pentru aprobarea Metodologiei de organizare și administrare a evaluării elevilor la finalul clasei a IV-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136011",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136011",
+     "sha256": "313334594647d0a8648504a48538716555ec34a8ebd212e97c586fd86f860bd7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3439-2012",
+   "path": "ordin/educatie/2012/3439",
+   "short": "Ordin educatie nr. 3439/2012",
+   "title": "Ordinul nr. 3.439/2012 pentru aprobarea Metodologiei de organizare a evaluării elevilor la finalul clasei a VI-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136069",
+   "versions": [
+    {
+     "from": "2012-03-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136069",
+     "sha256": "0dd09c5820ac044109823e580f4fc3f27e36a27365ae67888927a463c1941921"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3450-2012",
+   "path": "ordin/educatie/2012/3450",
+   "short": "Ordin educatie nr. 3450/2012",
+   "title": "Ordinul nr. 3.450/2012 pentru modificarea anexei la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 3.295/2012 privind aprobarea Calendarului desfășurării concursului de selecție a cadrelor didactice pentru constituirea corpului național de experți în management educațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135972",
+   "versions": [
+    {
+     "from": "2012-03-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135972",
+     "sha256": "dde7474fe901fd9004906d089c993c61568f79b543a0f2eb3b413d2dc7a5b58a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3461-2012",
    "path": "ordin/educatie/2012/3461",
    "short": "Ordin educatie nr. 3461/2012",
@@ -3614,6 +4484,456 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136714",
      "sha256": "29140c17b39f77033783197f74910396938676d900cb301762bb0a282263acae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3462-2012",
+   "path": "ordin/educatie/2012/3462",
+   "short": "Ordin educatie nr. 3462/2012",
+   "title": "Ordinul nr. 3.462/2012 privind aprobarea Metodologiei organizării și desfășurării activităților de educație fizică și sport în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136273",
+   "versions": [
+    {
+     "from": "2012-03-19",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136273",
+     "sha256": "6d3ab17e086f374c29c492ab285f9d4df4fce5f7c1be19abed2746b443a2f31d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3470-2012",
+   "path": "ordin/educatie/2012/3470",
+   "short": "Ordin educatie nr. 3470/2012",
+   "title": "Ordinul nr. 3.470/2012 pentru modificarea anexei la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.576/2011 privind aprobarea Criteriilor generale de acordare a burselor elevilor din învățământul preuniversitar de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136217",
+   "versions": [
+    {
+     "from": "2012-03-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136217",
+     "sha256": "5fee72c04d23a67a1a84067d733740bc6ab861cb6e0211350d96a4b62fb58583"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3504-2012",
+   "path": "ordin/educatie/2012/3504",
+   "short": "Ordin educatie nr. 3504/2012",
+   "title": "Ordinul nr. 3.504/2012 privind aprobarea Regulamentului de funcționare a Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare în vederea validării tezelor de doctorat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136886",
+   "versions": [
+    {
+     "from": "2012-04-04",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136886",
+     "sha256": "b8a8e6eccaaf1dbadfc68ec58eb1213daa6768e61da3a506cdeae0d5ecdd3384"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3539-2012",
+   "path": "ordin/educatie/2012/3539",
+   "short": "Ordin educatie nr. 3539/2012",
+   "title": "Ordinul nr. 3.539/2012 privind aprobarea contractului de pregătire practică a elevilor din învățământul profesional și tehnic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136513",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136513",
+     "sha256": "84abb82ffe6103e59284c8f7823074177a35d73a4c04bddf32049fa9eec349ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3579-2012",
+   "path": "ordin/educatie/2012/3579",
+   "short": "Ordin educatie nr. 3579/2012",
+   "title": "Ordinul nr. 3.579/2012 privind modificarea Normelor metodologice pentru vizarea actelor de studii și a anexelor la actele de studii emise de instituțiile de învățământ superior din România, aprobate prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.436/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136939",
+   "versions": [
+    {
+     "from": "2012-04-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136939",
+     "sha256": "a07f599005f83591d1435d6abd435c258d2df4984920ab0971fb2adbd0a3476c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3656-2012",
+   "path": "ordin/educatie/2012/3656",
+   "short": "Ordin educatie nr. 3656/2012",
+   "title": "Ordinul nr. 3.656/2012 privind aprobarea programelor școlare pentru clasa pregătitoare din învățământul primar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138068",
+   "versions": [
+    {
+     "from": "2012-05-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138068",
+     "sha256": "b966883b1baa77b8551fa9345ecf38acdd0789a6862d130fce8342c65b76c73a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3666-2012",
+   "path": "ordin/educatie/2012/3666",
+   "short": "Ordin educatie nr. 3666/2012",
+   "title": "Ordinul nr. 3.666/2012 privind aprobarea Codului drepturilor și obligațiilor studentului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136843",
+   "versions": [
+    {
+     "from": "2012-04-04",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136843",
+     "sha256": "5f799411edda98475c23cafdc275ce9762b30ec17e04edef600e2966475e939e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3677-2012",
+   "path": "ordin/educatie/2012/3677",
+   "short": "Ordin educatie nr. 3677/2012",
+   "title": "Ordinul nr. 3.677/2012 privind echivalarea și recunoașterea actelor de studii obținute în străinătate care nu corespund celor 3 cicluri de studii universitare tip Bologna implementate în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137048",
+   "versions": [
+    {
+     "from": "2012-04-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137048",
+     "sha256": "cf6bcb61ba954bd40f1f4adbf24fcbbaedbf8e7626cf0fd68287728422eee886"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3693-2012",
+   "path": "ordin/educatie/2012/3693",
+   "short": "Ordin educatie nr. 3693/2012",
+   "title": "Ordinul nr. 3.693/2012 privind înființarea Consiliului Național de Statistică și Prognoză a Învățământului Superior și pentru aprobarea regulamentului de organizare și funcționare a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137230",
+   "versions": [
+    {
+     "from": "2012-04-19",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137230",
+     "sha256": "de44dce3d9d2c41495b0c0100e2d63cfd720333f84cb2c650fad15da3a8271f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3720-2012",
+   "path": "ordin/educatie/2012/3720",
+   "short": "Ordin educatie nr. 3720/2012",
+   "title": "Ordinul nr. 3.720/2012 privind comasarea prin absorbție a unității de învățământ preuniversitar particular Grădinița cu program normal \"Curcubeul\" din localitatea Matca de către unitatea de învățământ preuniversitar particular Școala Primară Adventistă \"Matca\" din localitatea Matca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137565",
+   "versions": [
+    {
+     "from": "2012-05-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137565",
+     "sha256": "121dea11c1120c9479f1ab2785ab0451ad68771a26675c5d77d5770f62fa43d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3749-2012",
+   "path": "ordin/educatie/2012/3749",
+   "short": "Ordin educatie nr. 3749/2012",
+   "title": "Ordinul nr. 3.749/2012 privind aprobarea planurilor de învățământ pentru cultura de specialitate, pregătirea practică și stagiile de pregătire practică din aria curriculară Tehnologii pentru clasa a X-a, învățământ profesional de 2 ani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137739",
+   "versions": [
+    {
+     "from": "2012-05-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137739",
+     "sha256": "7166ee8159d198a0c2b90b759d1457645b6335fa982013d6be3dac4b1bac067f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3778-2012",
+   "path": "ordin/educatie/2012/3778",
+   "short": "Ordin educatie nr. 3778/2012",
+   "title": "Ordinul nr. 3.778/2012 privind modificarea comisiilor de specialitate ale Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137607",
+   "versions": [
+    {
+     "from": "2012-05-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137607",
+     "sha256": "8811c205a979be52c99dedf8b290792228b4b770701b576bf3dc989dbd4f352a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3794-2012",
+   "path": "ordin/educatie/2012/3794",
+   "short": "Ordin educatie nr. 3794/2012",
+   "title": "Ordinul nr. 3.794/2012 privind structura anului școlar 2012-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137590",
+   "versions": [
+    {
+     "from": "2012-05-05",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137590",
+     "sha256": "15b128dcee31a9e1f1938ae69e82bd7b04f71292b6893cbe5232d089804a558f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3837-2012",
+   "path": "ordin/educatie/2012/3837",
+   "short": "Ordin educatie nr. 3837/2012",
+   "title": "Ordinul nr. 3.837/2012 pentru modificarea Metodologiei Proiectului Ministerului Educației, Cercetării, Tineretului și Sportului privind predarea cursului de Limbă, cultură și civilizație românească în unități de învățământ din state membre ale Uniunii Europene și a instrumentelor de lucru, aprobate prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 3.927/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137946",
+   "versions": [
+    {
+     "from": "2012-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137946",
+     "sha256": "bfe11c1212005ce94ebacfec7a7b24186f57e582a7b8cf883e0d25806c3ed3cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3841-2012",
+   "path": "ordin/educatie/2012/3841",
+   "short": "Ordin educatie nr. 3841/2012",
+   "title": "Ordinul nr. 3.841/2012 pentru aprobarea condițiilor privind organizarea masterului didactic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138001",
+   "versions": [
+    {
+     "from": "2012-05-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138001",
+     "sha256": "cd24d3d78a1d8a2e501184be5d8cfa14e63afa459a99a62ab0759a6f9e5135ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3843-2012",
+   "path": "ordin/educatie/2012/3843",
+   "short": "Ordin educatie nr. 3843/2012",
+   "title": "Ordinul nr. 3.843/2012 privind aprobarea programei școlare pentru disciplina opțională \"Fii activ, pregătește-ți accesul către succes!\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138020",
+   "versions": [
+    {
+     "from": "2012-05-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138020",
+     "sha256": "34b3fe05b2d26858c7d5c5ea0d17b217fde0fe7396ed93a5b051652457adede6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3850-2012",
+   "path": "ordin/educatie/2012/3850",
+   "short": "Ordin educatie nr. 3850/2012",
+   "title": "Ordinul nr. 3.850/2012 privind aprobarea Metodologiei pentru evaluarea externă în vederea autorizării provizorii, acreditării și pentru evaluarea periodică a școlilor doctorale, pe domenii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137737",
+   "versions": [
+    {
+     "from": "2012-05-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137737",
+     "sha256": "022d99ed562b2171ee01755ef9160243665130ab3b5b7d5adc81b6d644a33ce4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3866-2012",
+   "path": "ordin/educatie/2012/3866",
+   "short": "Ordin educatie nr. 3866/2012",
+   "title": "Ordinul nr. 3.866/2012 pentru aprobarea Regulamentului privind organizarea, funcționarea și atribuțiile Colegiului Central de Disciplină al Ministerului Educației, Cercetării, Tineretului și Sportului și ale colegiilor de disciplină de pe lângă inspectoratele școlare județene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137719",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137719",
+     "sha256": "74dc45797242f92b0f5c5632d5d495494569404ed0c8ebb912cefe858925782e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3879-2012",
+   "path": "ordin/educatie/2012/3879",
+   "short": "Ordin educatie nr. 3879/2012",
+   "title": "Ordinul nr. 3.879/2012 privind înființarea Consiliului de Etică și Management Universitar și aprobarea Regulamentului de organizare și funcționare a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138144",
+   "versions": [
+    {
+     "from": "2012-05-21",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138144",
+     "sha256": "dd7f02046b68b4ba9895c82b02d98fcd5fad623fc82822920dee99b44bfd8378"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3886-2012",
+   "path": "ordin/educatie/2012/3886",
+   "short": "Ordin educatie nr. 3886/2012",
+   "title": "Ordinul nr. 3.886/2012 privind aprobarea criteriilor de diferențiere între instituțiile de învățământ superior de stat, precum și în interiorul acestora, în vederea stabilirii cuantumului indemnizațiilor pentru funcțiile didactice de conducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137767",
+   "versions": [
+    {
+     "from": "2012-05-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137767",
+     "sha256": "d2aa3d106249334504724e96eedf7df0d67d01c93502df87000d5727af321b0f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3894-2012",
+   "path": "ordin/educatie/2012/3894",
+   "short": "Ordin educatie nr. 3894/2012",
+   "title": "Ordinul nr. 3.894/2012 pentru aprobarea Metodologiei privind recunoașterea diplomei de doctor și a titlului de doctor în științe sau într-un domeniu profesional, obținute la instituții acreditate de învățământ superior sau de cercetare-dezvoltare din străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137752",
+   "versions": [
+    {
+     "from": "2012-05-10",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137752",
+     "sha256": "16b25bb62bbbed3c40659d0ccb4b238eaa4ca2e8d800b9971f6d021e8039551a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3952-2012",
+   "path": "ordin/educatie/2012/3952",
+   "short": "Ordin educatie nr. 3952/2012",
+   "title": "Ordinul nr. 3.952/2012 pentru reglementarea unor măsuri privind finalizarea studiilor în învățământul superior pentru situațiile prevăzute la art. 361 alin. (4) și (5) din Legea educației naționale nr. 1/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137784",
+   "versions": [
+    {
+     "from": "2012-05-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137784",
+     "sha256": "1033de680bdb9a7b95f647c78f7b6e36e99a3fcddf6e06ed09546a5e3491fce0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3960-2012",
+   "path": "ordin/educatie/2012/3960",
+   "short": "Ordin educatie nr. 3960/2012",
+   "title": "Ordinul nr. 3.960/2012 privind aprobarea programei școlare pentru disciplina opțională \"Dezvoltarea abilităților de viață\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138216",
+   "versions": [
+    {
+     "from": "2012-05-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138216",
+     "sha256": "b5a1470bf6581b8a0190d8a1b39043130bb24d61bf2accc4b4047c7ea3931fcc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3961-2012",
+   "path": "ordin/educatie/2012/3961",
+   "short": "Ordin educatie nr. 3961/2012",
+   "title": "Ordinul nr. 3.961/2012 privind aprobarea programei școlare pentru cursul opțional Lectura și abilitățile de viață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137798",
+   "versions": [
+    {
+     "from": "2012-05-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137798",
+     "sha256": "042086f1ab4f1d5aa97de999a2960fb6122e59427feea38182d815e189038e02"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3973-2012",
+   "path": "ordin/educatie/2012/3973",
+   "short": "Ordin educatie nr. 3973/2012",
+   "title": "Ordinul nr. 3.973/2012 pentru aprobarea Metodologiei privind eliberarea pentru cadrele didactice din România a adeverinței de conformitate a studiilor cu prevederile Directivei 2005/36/CE a Parlamentului European și a Consiliului din 7 septembrie 2005 privind recunoașterea calificărilor profesionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138380",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138380",
+     "sha256": "f51d4c56cb5ff2f3c4a42a51387604199552d0a924049ca5141708ef4abd00a4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3998-2012",
+   "path": "ordin/educatie/2012/3998",
+   "short": "Ordin educatie nr. 3998/2012",
+   "title": "Ordinul nr. 3.998/2012 privind aprobarea Metodologiei de alocare a fondurilor bugetare pentru finanțarea de bază și finanțarea suplimentară a instituțiilor de învățământ superior de stat din România pentru anul 2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137728",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137728",
+     "sha256": "432530f4e0b0b42fe7d32a5fa18ca8d5c0eef884510e29a2dc1237299d5707b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4085-2012",
+   "path": "ordin/educatie/2012/4085",
+   "short": "Ordin educatie nr. 4085/2012",
+   "title": "Ordinul nr. 4.085/2012 privind sesiunea specială de evaluare națională 2012 pentru elevii din clasa a VIII-a participanți la loturile naționale de pregătire pentru olimpiadele și concursurile internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138425",
+   "versions": [
+    {
+     "from": "2012-05-29",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138425",
+     "sha256": "ec2bdc0cd5453720911da97b3222f0607f9012cb2f2ddec5c74b08bb685e3e88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4111-2012",
+   "path": "ordin/educatie/2012/4111",
+   "short": "Ordin educatie nr. 4111/2012",
+   "title": "Ordinul nr. 4.111/2012 pentru modificarea Metodologiei privind echivalarea pe baza ECTS/SECT a învățământului universitar de scurtă durată, realizat prin colegiul cu durata de 3 ani sau institutul pedagogic cu durată de 3 ani, cu ciclul I de studii universitare de licență, pentru cadrele didactice din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.553/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138387",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138387",
+     "sha256": "dd968d7271c8ffe29d4d9e44e23d9c683194a8ae1064c7f44822fd7ad3c454e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4121-2012",
+   "path": "ordin/educatie/2012/4121",
+   "short": "Ordin educatie nr. 4121/2012",
+   "title": "Ordinul nr. 4.121/2012 pentru aprobarea Calendarului activităților prevăzute în Metodologia privind echivalarea pe baza ECTS/SECT a învățământului universitar de scurtă durată, realizat prin colegiul cu durata de 3 ani sau institutul pedagogic cu durată de 3 ani, cu ciclul I de studii universitare de licență, pentru cadrele didactice din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.553/2011, sesiunea 2012, seria a 2-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138388",
+   "versions": [
+    {
+     "from": "2012-05-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138388",
+     "sha256": "07163b1ac9f1d38c8bd37d1805a2eb94e9225d37468a8d9c974166a54b9d0c97"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4171-2012",
+   "path": "ordin/educatie/2012/4171",
+   "short": "Ordin educatie nr. 4171/2012",
+   "title": "Ordinul nr. 4.171/2012 privind aprobarea Calendarului desfășurării concursului de selecție a cadrelor didactice pentru constituirea corpului național de experți în management educațional, sesiunea 2012, seria a 2-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138433",
+   "versions": [
+    {
+     "from": "2012-05-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138433",
+     "sha256": "4116a3df7ab131755f632d404d23d626d9e856c9d15024b8412405bd7bc7a17b"
     }
    ]
   },
@@ -3633,6 +4953,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4334-2012",
+   "path": "ordin/educatie/2012/4334",
+   "short": "Ordin educatie nr. 4334/2012",
+   "title": "Ordinul nr. 4.334/2012 privind repartizarea cifrei de școlarizare pentru studii universitare de licență în vederea admiterii la studii în anul universitar 2012-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138719",
+   "versions": [
+    {
+     "from": "2012-06-11",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138719",
+     "sha256": "d872d5bb20bcbee29e7dc67fff31d84b6b63d2b29119fc73c1ca9da996ba100e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4345-2012",
+   "path": "ordin/educatie/2012/4345",
+   "short": "Ordin educatie nr. 4345/2012",
+   "title": "Ordinul nr. 4.345/2012 pentru modificarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 3.313/2012 privind cadrul general de organizare și desfășurare a admiterii în ciclurile de studii universitare de licență, de master și de doctorat pentru anul universitar 2012-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138711",
+   "versions": [
+    {
+     "from": "2012-06-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138711",
+     "sha256": "44c2e9713d3780b604ad7a0ff450ae540e7e806384bffc4d24c022cef51b245e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4478-2012",
    "path": "ordin/educatie/2012/4478",
    "short": "Ordin educatie nr. 4478/2012",
@@ -3648,6 +4998,411 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4529-2012",
+   "path": "ordin/educatie/2012/4529",
+   "short": "Ordin educatie nr. 4529/2012",
+   "title": "Ordinul nr. 4.529/2012 privind repartizarea cifrei de școlarizare pentru studii universitare de master în vederea admiterii la studii în anul universitar 2012 - 2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139190",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139190",
+     "sha256": "2e2988761b4ec8f1bb779289b4ded9894f9ec50d36376fbd18ed212b3d34a031"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4607-2012",
+   "path": "ordin/educatie/2012/4607",
+   "short": "Ordin educatie nr. 4607/2012",
+   "title": "Ordinul nr. 4.607/2012 pentru completarea Regulamentului de organizare și funcționare a unităților de învățământ preuniversitar, aprobat prin Ordinul ministrului educației și cercetării nr. 4.925/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139186",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139186",
+     "sha256": "7f9dbfef29cd874d5090b8873a787793984de99031dc9478ba433155ded13cea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4608-2012",
+   "path": "ordin/educatie/2012/4608",
+   "short": "Ordin educatie nr. 4608/2012",
+   "title": "Ordinul nr. 4.608/2012 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare și a structurii acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139191",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139191",
+     "sha256": "635dfd138fd2fa9564285859ed794ec4047ae836ac67b3d69c1772aedda8bcec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4616-2012",
+   "path": "ordin/educatie/2012/4616",
+   "short": "Ordin educatie nr. 4616/2012",
+   "title": "Ordinul nr. 4.616/2012 privind aprobarea Metodologiei de monitorizare specială a instituțiilor de învățământ superior persoane juridice de drept privat și de utilitate publică, înființate prin Legea nr. 58/2012 privind înființarea Universității \"Sapientia\" din municipiul Cluj-Napoca, județul Cluj, și Legea nr. 59/2012 privind înființarea Universității Agora din municipiul Oradea, județul Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139662",
+   "versions": [
+    {
+     "from": "2012-07-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139662",
+     "sha256": "0072965065c6c4b39287131feadca142b2c620753eed00fab1498ee287033056"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4681-2012",
+   "path": "ordin/educatie/2012/4681",
+   "short": "Ordin educatie nr. 4681/2012",
+   "title": "Ordinul nr. 4.681/2012 privind aprobarea curriculumului pentru cultura de specialitate, pregătire practică și stagii de pregătire practică din aria curriculară Tehnologii pentru clasa a X-a, învățământ profesional de 2 ani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140804",
+   "versions": [
+    {
+     "from": "2012-08-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140804",
+     "sha256": "fd1b172709c067999d8df4818a89858717e3b8934884157b8965632d5c64bd3f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4805-2012",
+   "path": "ordin/educatie/2012/4805",
+   "short": "Ordin educatie nr. 4805/2012",
+   "title": "Ordinul nr. 4.805/2012 pentru modificarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 3.365/2012 privind comasarea prin absorbție a unității de învățământ preuniversitar particular Liceul Particular nr. 1 din Arad de către unitatea de învățământ preuniversitar particular Școala Postliceală \"Vasile Goldiș\" din Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140098",
+   "versions": [
+    {
+     "from": "2012-07-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140098",
+     "sha256": "b65174636ec6829c427356de97c2adeec33c63d3202c7567a5ff26f515e37048"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4838-2012",
+   "path": "ordin/educatie/2012/4838",
+   "short": "Ordin educatie nr. 4838/2012",
+   "title": "Ordinul nr. 4.838/2012 pentru modificarea și completarea Metodologiei privind organizarea și desfășurarea concursului de selecție a cadrelor didactice pentru constituirea corpului național de experți în management educațional, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.549/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140278",
+   "versions": [
+    {
+     "from": "2012-08-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140278",
+     "sha256": "dbe8e7af7d44bc89512b3ea59139c55a1de5a83464e5acffb32e7c4ba3442d4d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4872-2012",
+   "path": "ordin/educatie/2012/4872",
+   "short": "Ordin educatie nr. 4872/2012",
+   "title": "Ordinul nr. 4.872/2012 pentru modificarea anexei nr. 1 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.720/2012 privind organizarea și desfășurarea probelor specifice susținute de elevii secțiilor bilingve francofone în vederea obținerii mențiunii speciale \"secție bilingvă francofonă\" pe diploma de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151217",
+   "versions": [
+    {
+     "from": "2013-09-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151217",
+     "sha256": "a71e32e146cfc6f271344035b8d556d9ee47ed253f004bffe2f3929e7d00a63e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4892-2012",
+   "path": "ordin/educatie/2012/4892",
+   "short": "Ordin educatie nr. 4892/2012",
+   "title": "Ordinul nr. 4.892/2012 pentru abrogarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 3.886/2012 privind aprobarea criteriilor de diferențiere între instituțiile de învățământ superior de stat, precum și în interiorul acestora, în vederea stabilirii cuantumului indemnizațiilor pentru funcțiile didactice de conducere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140360",
+   "versions": [
+    {
+     "from": "2012-08-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140360",
+     "sha256": "e14e884c5f8203c06974fbdd160b1dc3dd6ac7643d786ef0a5b15cc32fbd6c3f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4964-2012",
+   "path": "ordin/educatie/2012/4964",
+   "short": "Ordin educatie nr. 4964/2012",
+   "title": "Ordinul nr. 4.964/2012 privind divizarea parțială a unității de învățământ preuniversitar particular Mark Twain International School din Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140703",
+   "versions": [
+    {
+     "from": "2012-08-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140703",
+     "sha256": "9c1209c9462169ffc1f8ee10de97fa8b1961c6c6bb2ff2d8057b5cd58b52907c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4969-2012",
+   "path": "ordin/educatie/2012/4969",
+   "short": "Ordin educatie nr. 4969/2012",
+   "title": "Ordinul nr. 4.969/2012 privind aprobarea Calendarului desfășurării concursului de selecție a cadrelor didactice pentru constituirea corpului național de experți în management educațional, sesiunea 2012, seria a 3-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140279",
+   "versions": [
+    {
+     "from": "2012-08-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140279",
+     "sha256": "3033d3b67f6b3affb84a80e351d2fb86f2c77b58177db0a1ef690c0a9369ab2c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5223-2012",
+   "path": "ordin/educatie/2012/5223",
+   "short": "Ordin educatie nr. 5223/2012",
+   "title": "Ordinul nr. 5.223/2012 pentru modificarea Metodologiei Proiectului Ministerului Educației, Cercetării, Tineretului și Sportului privind predarea cursului de Limbă, cultură și civilizație românească în unități de învățământ din state membre ale Uniunii Europene și instrumentele de lucru, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 3.927/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140595",
+   "versions": [
+    {
+     "from": "2012-08-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140595",
+     "sha256": "d77ac54977425eb1c277342807e1e5c3de85aa898ecac979af11d14a1d3c4cb8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5310-2012",
+   "path": "ordin/educatie/2012/5310",
+   "short": "Ordin educatie nr. 5310/2012",
+   "title": "Ordinul nr. 5.310/2012 pentru recunoașterea dreptului cadrelor didactice care dețin titlul de profesor universitar/conferențiar universitar de a participa la concursurile organizate în vederea ocupării unor posturi în învățământul superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140679",
+   "versions": [
+    {
+     "from": "2012-08-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140679",
+     "sha256": "d12a2d91f608354d2867ace5f0c77c0089795e502296148c0be320d317db8da9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5370-2012",
+   "path": "ordin/educatie/2012/5370",
+   "short": "Ordin educatie nr. 5370/2012",
+   "title": "Ordinul nr. 5.370/2012 pentru aprobarea modelului certificatului de atestare a competențelor profesionale și al suplimentului descriptiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140889",
+   "versions": [
+    {
+     "from": "2012-08-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140889",
+     "sha256": "b32abad322db16c1852b1f59f8fb17caa4b7c79fc0b929298c4ae65508c2e772"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5411-2012",
+   "path": "ordin/educatie/2012/5411",
+   "short": "Ordin educatie nr. 5411/2012",
+   "title": "Ordinul nr. 5.411/2012 pentru modificarea art. 5 din Normele metodologice privind efectuarea concediului de odihnă al personalului didactic din învățământ, aprobate prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.559/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141387",
+   "versions": [
+    {
+     "from": "2012-09-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141387",
+     "sha256": "2c54bee740be508c5fc783596f029013683ad29cdb957eaaca547245bd89bd11"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5606-2012",
+   "path": "ordin/educatie/2012/5606",
+   "short": "Ordin educatie nr. 5606/2012",
+   "title": "Ordinul nr. 5.606/2012 privind organizarea și desfășurarea evaluării naționale pentru absolvenții clasei a VIII-a în anul școlar 2012-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141272",
+   "versions": [
+    {
+     "from": "2012-09-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141272",
+     "sha256": "b52d2759dc20aa8b1935992f0874f1df69bf4971f64e47faea873a1b181e078e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5608-2012",
+   "path": "ordin/educatie/2012/5608",
+   "short": "Ordin educatie nr. 5608/2012",
+   "title": "Ordinul nr. 5.608/2012 privind organizarea și desfășurarea admiterii în învățământul liceal de stat pentru anul școlar 2013-2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141278",
+   "versions": [
+    {
+     "from": "2012-09-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141278",
+     "sha256": "521830299d4de9729a4d3cf0ab1796d77079efa94b7e28ed6ffebff100dfac72"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5624-2012",
+   "path": "ordin/educatie/2012/5624",
+   "short": "Ordin educatie nr. 5624/2012",
+   "title": "Ordinul nr. 5.624/2012 pentru aprobarea Metodologiei de organizare și desfășurare a concursurilor de ocupare a posturilor didactice/catedrelor care se vacantează pe parcursul anului școlar 2012-2013 în unitățile de învățământ preuniversitar de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141282",
+   "versions": [
+    {
+     "from": "2012-09-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141282",
+     "sha256": "08baad2dc16fbc90cb93419e856c940e89f290debdc69d61f0f6d391f7d6799c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5625-2012",
+   "path": "ordin/educatie/2012/5625",
+   "short": "Ordin educatie nr. 5625/2012",
+   "title": "Ordinul nr. 5.625/2012 privind aprobarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea posturilor didactice/catedrelor vacante/rezervate în unitățile de învățământ particular din învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142401",
+   "versions": [
+    {
+     "from": "2012-10-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142401",
+     "sha256": "333ed3bd77fe702e941270e09248587f5cce7e5f1a640d724fe76bcf88226299"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5635-2012",
+   "path": "ordin/educatie/2012/5635",
+   "short": "Ordin educatie nr. 5635/2012",
+   "title": "Ordinul nr. 5.635/2012 privind structura anului școlar 2012-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141237",
+   "versions": [
+    {
+     "from": "2012-09-13",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141237",
+     "sha256": "c02965b774680d26b3473ca5c5ca0f075c2e8dfd23f5e67ac6f0be023fe0ceec"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5644-2012",
+   "path": "ordin/educatie/2012/5644",
+   "short": "Ordin educatie nr. 5644/2012",
+   "title": "Ordinul nr. 5.644/2012 privind unele măsuri de organizare și funcționare a Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141090",
+   "versions": [
+    {
+     "from": "2012-09-07",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141090",
+     "sha256": "d399611ba4b7fd762562b6005a394f7eecdf620bb3282ef146d2223b09f77a83"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5671-2012",
+   "path": "ordin/educatie/2012/5671",
+   "short": "Ordin educatie nr. 5671/2012",
+   "title": "Ordinul nr. 5.671/2012 pentru aprobarea Metodologiei privind studiul în limba maternă și al Limbii și literaturii materne, al Limbii și literaturii române, studiul Istoriei și tradițiilor minorităților naționale și al Educației muzicale în limba maternă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141310",
+   "versions": [
+    {
+     "from": "2012-09-17",
+     "units": 75,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141310",
+     "sha256": "09b5df6adacb64086db4b3b0809145daffa2bc68839f3f6608c51d4d62019c92"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5720-2012",
+   "path": "ordin/educatie/2012/5720",
+   "short": "Ordin educatie nr. 5720/2012",
+   "title": "Ordinul nr. 5.720/2012 privind organizarea și desfășurarea probelor specifice susținute de elevii secțiilor bilingve francofone în vederea obținerii mențiunii speciale \"secție bilingvă francofonă\" pe diploma de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142290",
+   "versions": [
+    {
+     "from": "2012-10-25",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142290",
+     "sha256": "7abfa0188034af402bcb319127da73c1fdb05edb7b1948a435d8f40436e68ad1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5745-2012",
+   "path": "ordin/educatie/2012/5745",
+   "short": "Ordin educatie nr. 5745/2012",
+   "title": "Ordinul nr. 5.745/2012 privind aprobarea Metodologiei-cadru de organizare a programelor de formare psihopedagogică în vederea certificării competențelor pentru profesia didactică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141312",
+   "versions": [
+    {
+     "from": "2012-09-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141312",
+     "sha256": "f419ba3745328a57ab1b698f591d954aec3f5102ac02c4bda5a672a710df1898"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5755-2012",
+   "path": "ordin/educatie/2012/5755",
+   "short": "Ordin educatie nr. 5755/2012",
+   "title": "Ordinul nr. 5.755/2012 privind aprobarea planurilor-cadru pentru învățământul primar, ciclul achizițiilor fundamentale - clasa pregătitoare, învățământ special",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142085",
+   "versions": [
+    {
+     "from": "2012-10-17",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142085",
+     "sha256": "0fe8981d64aa0047eb8821fb3cea04987c2ce0ad3f78f12ea990728e95ec8eaf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5756-2012",
+   "path": "ordin/educatie/2012/5756",
+   "short": "Ordin educatie nr. 5756/2012",
+   "title": "Ordinul nr. 5.756/2012 privind aprobarea Metodologiei de organizare și desfășurare a probelor specifice din cadrul examenului de bacalaureat, susținute de absolvenții secțiilor bilingve româno-spaniole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142762",
+   "versions": [
+    {
+     "from": "2012-11-13",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142762",
+     "sha256": "76ff69e8735e4db39c8ac8a4d451441df1e245cd1628d4bd9c645574be0218a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5773-2012",
+   "path": "ordin/educatie/2012/5773",
+   "short": "Ordin educatie nr. 5773/2012",
+   "title": "Ordinul nr. 5.773/2012 pentru aprobarea Metodologiei de întocmire, completare și valorificare a raportului de evaluare a dezvoltării fizice, socio-emoționale, cognitive, a limbajului și a comunicării, precum și a dezvoltării capacităților și atitudinilor de învățare, la finalul clasei pregătitoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141402",
+   "versions": [
+    {
+     "from": "2012-09-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141402",
+     "sha256": "29151af13aec94498918f8f299c1fea351bc882b2e54e9443aecacd667946d91"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5817-2012",
    "path": "ordin/educatie/2012/5817",
    "short": "Ordin educatie nr. 5817/2012",
@@ -3659,6 +5414,366 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142419",
      "sha256": "2f0c532b28b28585a75d88b4f63f42ceee32d33efb146160edec3292fd0de9c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5823-2012",
+   "path": "ordin/educatie/2012/5823",
+   "short": "Ordin educatie nr. 5823/2012",
+   "title": "Ordinul nr. 5.823/2012 pentru modificarea și completarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 4.945/2012 privind domeniile și programele de studii universitare de masterat evaluate de Agenția Română de Asigurare a Calității în Învățământul Superior organizate în cadrul instituțiilor de învățământ superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141558",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141558",
+     "sha256": "351e255ec18ed70819387d8820a772f9fbfe614a758d87a99add1a79ea5953a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5866-2012",
+   "path": "ordin/educatie/2012/5866",
+   "short": "Ordin educatie nr. 5866/2012",
+   "title": "Ordinul nr. 5.866/2012 privind aprobarea programelor școlare de Limba și literatura italiană maternă pentru clasele a IX-a și a X-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142554",
+   "versions": [
+    {
+     "from": "2012-11-05",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142554",
+     "sha256": "b35a146e00fbd1e24bd05eb40f62392a4ebc141ae8d49a5fe38029b396843646"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5867-2012",
+   "path": "ordin/educatie/2012/5867",
+   "short": "Ordin educatie nr. 5867/2012",
+   "title": "Ordinul nr. 5.867/2012 privind aprobarea Programei școlare de Limba și literatura italiană maternă pentru clasa a VIII-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142702",
+   "versions": [
+    {
+     "from": "2012-11-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142702",
+     "sha256": "e4492fd47e47f7bc9ec351f4c4d86de973e705f0d72c34f17d81ab468ef642ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5910-2012",
+   "path": "ordin/educatie/2012/5910",
+   "short": "Ordin educatie nr. 5910/2012",
+   "title": "Ordinul nr. 5.910/2012 pentru aprobarea Metodologiei de organizare a evaluării elevilor la finalul clasei a VI-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144841",
+   "versions": [
+    {
+     "from": "2013-01-22",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144841",
+     "sha256": "daf3a3e3250d654161df4e3a400152f1ebc7e688bb18aff0ca93d08d4ea4d9d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5956-2012",
+   "path": "ordin/educatie/2012/5956",
+   "short": "Ordin educatie nr. 5956/2012",
+   "title": "Ordinul nr. 5.956/2012 privind înființarea Centrului Județean de Excelență Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142199",
+   "versions": [
+    {
+     "from": "2012-10-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142199",
+     "sha256": "64a624bad8aa19a130c81426ce7d95b9f210df6d85730e27f6bac81941fbdb82"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5958-2012",
+   "path": "ordin/educatie/2012/5958",
+   "short": "Ordin educatie nr. 5958/2012",
+   "title": "Ordinul nr. 5.958/2012 privind înființarea Centrului Județean de Excelență Satu Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142200",
+   "versions": [
+    {
+     "from": "2012-10-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142200",
+     "sha256": "0d0bfc1d0e1bf3016653847cb01d442b7e6567b6d2aa059d77217361bf65b4d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6018-2012",
+   "path": "ordin/educatie/2012/6018",
+   "short": "Ordin educatie nr. 6018/2012",
+   "title": "Ordinul nr. 6.018/2012 privind înființarea Centrului Județean de Excelență Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142201",
+   "versions": [
+    {
+     "from": "2012-10-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142201",
+     "sha256": "905e637a6fe4dc68fa92ce0042f8325971963cd37e85ec748a194e1e83530dba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6053-2012",
+   "path": "ordin/educatie/2012/6053",
+   "short": "Ordin educatie nr. 6053/2012",
+   "title": "Ordinul nr. 6.053/2012 privind aprobarea și avizarea unor manuale școlare pentru învățământul în limbile minorităților naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142884",
+   "versions": [
+    {
+     "from": "2012-11-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142884",
+     "sha256": "cc68bc8992c7f1df86ab8570a40c3fa7ce3b6a39ea1f1c245a26023f00193144"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6151-2012",
+   "path": "ordin/educatie/2012/6151",
+   "short": "Ordin educatie nr. 6151/2012",
+   "title": "Ordinul nr. 6.151/2012 privind înființarea Centrului Național de Excelență Baia Mare pentru pregătirea elevilor și elevelor la disciplina sportivă rugby",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143497",
+   "versions": [
+    {
+     "from": "2012-12-07",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143497",
+     "sha256": "5b10f8439b3c6e57bb9964764e6d6ea1377aa682af2f6c63f1297eb38d2f9b06"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6152-2012",
+   "path": "ordin/educatie/2012/6152",
+   "short": "Ordin educatie nr. 6152/2012",
+   "title": "Ordinul nr. 6.152/2012 privind modificarea Regulamentului de organizare și funcționare a unităților de învățământ preuniversitar aprobat prin Ordinul ministrului educației și cercetării nr. 4.925/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143033",
+   "versions": [
+    {
+     "from": "2012-11-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143033",
+     "sha256": "0e8bb5d3e532813d3ace7c81996d0430ba5ae256c922a4ddaaeb55a20c3f2954"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6211-2012",
+   "path": "ordin/educatie/2012/6211",
+   "short": "Ordin educatie nr. 6211/2012",
+   "title": "Ordinul nr. 6.211/2012 pentru aprobarea Metodologiei și a criteriilor privind acordarea gradației de merit în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144455",
+   "versions": [
+    {
+     "from": "2013-01-09",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144455",
+     "sha256": "045bf8a7566abcd7f7a229f10e1f763bed636ad1ee63d9f0651bbe7981528191"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6239-2012",
+   "path": "ordin/educatie/2012/6239",
+   "short": "Ordin educatie nr. 6239/2012",
+   "title": "Ordinul nr. 6.239/2012 pentru aprobarea Metodologiei-cadru privind mobilitatea personalului didactic din învățământul preuniversitar în anul școlar 2013-2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145060",
+   "versions": [
+    {
+     "from": "2013-01-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145060",
+     "sha256": "e1e5e33d2cae40eed12b1bb3898ee56ded2bb58f7ebe06aa60edaf2d88c24c0e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6246-2012",
+   "path": "ordin/educatie/2012/6246",
+   "short": "Ordin educatie nr. 6246/2012",
+   "title": "Ordinul nr. 6.246/2012 privind modificarea și completarea anexei nr. 1 la Metodologia pentru primirea la studii și școlarizarea cetățenilor străini din state terțe UE în învățământul de stat și particular acreditat din România, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 6.000/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143227",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143227",
+     "sha256": "cea1d9391b842fdb50bdf9331ed4962c89cd58f12636ed319705f9ebf44c77e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6251-2012",
+   "path": "ordin/educatie/2012/6251",
+   "short": "Ordin educatie nr. 6251/2012",
+   "title": "Ordinul nr. 6.251/2012 pentru aprobarea Regulamentului-cadru privind organizarea, desfășurarea și normarea activităților didactice la formele de învățământ la distanță și cu frecvență redusă la nivelul învățământului superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143602",
+   "versions": [
+    {
+     "from": "2012-12-11",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143602",
+     "sha256": "94b5347ce207141b965787fc54b8d4cc6dc40207f9303011cd4a2201bbfb63a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6265-2012",
+   "path": "ordin/educatie/2012/6265",
+   "short": "Ordin educatie nr. 6265/2012",
+   "title": "Ordinul nr. 6.265/2012 pentru finanțarea prin granturi a studenților înmatriculați în anul universitar 2012-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143762",
+   "versions": [
+    {
+     "from": "2012-12-13",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143762",
+     "sha256": "f62a058b72cdcc16d1b78f33dd8d32b295b78a8ce94968768ebd1ea0ac1797ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6327-2012",
+   "path": "ordin/educatie/2012/6327",
+   "short": "Ordin educatie nr. 6327/2012",
+   "title": "Ordinul nr. 6.327/2012 privind aprobarea graficului de desfășurare a examenelor de certificare a învățământului profesional și tehnic preuniversitar în anul școlar 2012-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143974",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143974",
+     "sha256": "62a7bb7f7dce04d00582de9a924d6c076e93150608b225bb832d236cc15d65b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6370-2012",
+   "path": "ordin/educatie/2012/6370",
+   "short": "Ordin educatie nr. 6370/2012",
+   "title": "Ordinul nr. 6.370/2012 privind modificarea Normelor metodologice pentru stabilirea obligației didactice de predare a personalului de conducere din inspectoratele școlare, unitățile de învățământ, unitățile conexe, precum și a personalului de îndrumare și control din inspectoratele școlare și a personalului didactic din casele corpului didactic, aprobate prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 4.865/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144154",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144154",
+     "sha256": "8b84da3043f7df7a83c059b8b3a48af63d192dfc30a77d9b37733e6fb84a64fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6389-2012",
+   "path": "ordin/educatie/2012/6389",
+   "short": "Ordin educatie nr. 6389/2012",
+   "title": "Ordinul nr. 6.389/2012 privind aprobarea Programei de evaluare națională pentru elevii clasei a VIII-a la disciplina limba și literatura italiană maternă și a Programei de bacalaureat național la disciplina limba turcă modernă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144403",
+   "versions": [
+    {
+     "from": "2013-01-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144403",
+     "sha256": "24cfd3e80ce1dea7b234e8dbd2d3448f1af2399eb6ec22e5e00f34bf89dcaf10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6501-2012",
+   "path": "ordin/educatie/2012/6501",
+   "short": "Ordin educatie nr. 6501/2012",
+   "title": "Ordinul nr. 6.501/2012 pentru completarea Metodologiei-cadru de organizare a programelor de formare psihopedagogică în vederea certificării competențelor pentru profesia didactică, aprobată prin Ordinului ministrului educației, cercetării, tineretului și sportului nr. 5.745/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144023",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144023",
+     "sha256": "e84f3b1153020ee2ed2d8ffcb778084e26a377038e213544d71cef9d8d456027"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6513-2012",
+   "path": "ordin/educatie/2012/6513",
+   "short": "Ordin educatie nr. 6513/2012",
+   "title": "Ordinul nr. 6.513/2012 privind fuziunea prin absorbție a unității de învățământ preuniversitar particular Grădinița cu program prelungit \"Aricel\" din localitatea Voluntari de către unitatea de învățământ preuniversitar particular Școala Primară \"Sfânta Maria\" din localitatea Voluntari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144024",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144024",
+     "sha256": "c6630dacb19799b9e0bdfd413209244ac1a88fc4d74273c42a8191bcc673fe1e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6517-2012",
+   "path": "ordin/educatie/2012/6517",
+   "short": "Ordin educatie nr. 6517/2012",
+   "title": "Ordinul nr. 6.517/2012 privind aprobarea Metodologiei de evaluare externă a calității educației în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144423",
+   "versions": [
+    {
+     "from": "2013-01-08",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144423",
+     "sha256": "a14d0af26714a2a33d371ba4587cc2467c504b0a10d05145dad1cc700d52d597"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6521-2012",
+   "path": "ordin/educatie/2012/6521",
+   "short": "Ordin educatie nr. 6521/2012",
+   "title": "Ordinul nr. 6.521/2012 privind echivalarea competențelor profesionale și transversale dobândite în cadrul calificărilor academice de Teologie socială și Teologie asistență socială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143970",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143970",
+     "sha256": "c78907bb11b4f37972260c47ae3f60411afdd02bf7430b6408ed9982ee78a084"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6573-2012",
+   "path": "ordin/educatie/2012/6573",
+   "short": "Ordin educatie nr. 6573/2012",
+   "title": "Ordinul nr. 6.573/2012 pentru modificarea anexei nr. 1 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.644/2012 privind unele măsuri de organizare și funcționare a Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144238",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144238",
+     "sha256": "aba8ff0e66e50483c9d90fca46b03447487488c251ae1ae80c50bff0a3065ae2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6576-2012",
+   "path": "ordin/educatie/2012/6576",
+   "short": "Ordin educatie nr. 6576/2012",
+   "title": "Ordinul nr. 6.576/2012 pentru aprobarea Metodologiei de organizare a evaluării competențelor fundamentale la finalul clasei a II-a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144819",
+   "versions": [
+    {
+     "from": "2013-01-21",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144819",
+     "sha256": "d66a19a7917ae15c1cf50333daadbcc9ad2e726b75cca0fa7280e8453f9db59e"
     }
    ]
   },
@@ -4331,7 +6446,7 @@
    "versions": [
     {
      "from": "2012-01-16",
-     "units": 12,
+     "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134550",
      "sha256": "8be0792805ffe7d6540378d47cee01489d2d52b0c75b319b8221e1d8d7e090c5"
     }
@@ -6641,7 +8756,7 @@
    "versions": [
     {
      "from": "2012-01-20",
-     "units": 14,
+     "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134691",
      "sha256": "72394fbb9e4bd6f2b86e170403c702dc7f5927cc4c4ce4c0dbe15d87a5310bb8"
     }
@@ -7076,7 +9191,7 @@
    "versions": [
     {
      "from": "2012-10-22",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/142190",
      "sha256": "1a97414a5d165a0d8d59bd1bdc4246ecc7adbd127a724874e6c84755fd2bcef8"
     }
@@ -7736,7 +9851,7 @@
    "versions": [
     {
      "from": "2012-03-26",
-     "units": 10,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136553",
      "sha256": "5c6116643c93fed3c3dc04b37174fb8330254e3c01a25a9b97cddcd27c41726d"
     }
@@ -8126,7 +10241,7 @@
    "versions": [
     {
      "from": "2012-07-02",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139259",
      "sha256": "a0a24802ca2f2724d2b87c72ca49341363e10ab5274d8335510ba90ddda2adb2"
     }

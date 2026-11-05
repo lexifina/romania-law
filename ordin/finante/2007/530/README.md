@@ -2,7 +2,7 @@
 
 Ordin finante nr. 530/2007 · 1 versions, from 2007-04-20 (latest in force: 2007-04-20) · <https://legislatie.just.ro/Public/DetaliiDocument/81318>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 [SIGLA] Cerere de rambursare pentru persoanele impozabile neinregistrate în scopuri de TVA în România, stabilite în afara Comunității 313 ANUL: PERIOADA: - ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -16,6 +16,8 @@ Ordin finante nr. 530/2007 · 1 versions, from 2007-04-20 (latest in force: 2007
 | Art. 8 | [art-008.md](art-008.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
@@ -32,8 +34,8 @@ Act id: `ordin-finante-530-2007` (tags `ordin-finante-530-2007/<day>`; `python t
 - Ordin finante nr. 530/2007: the first version is the order as published in Monitorul Oficial nr. 267 of 20 April 2007 (document 81318 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin finante nr. 530/2007: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 530/2007: Anexa nr. 1 (1 PROCEDURA 03/04/2007) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 81318 of the official web service.
+- Ordin finante nr. 530/2007: Anexa nr. 2 (2 [SIGLA] Cerere de rambursare pentru persoanele impozabile neinregistrate în scopuri de TVA în România, stabilite în afara Comunității 313 ANUL: PERIOADA: - DATE DE IDENTIFICARE A SOLICITANTULUI DENU) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 81318 of the official web service.
 - Ordin finante nr. 530/2007: Anexa nr. 3 (3 INSTRUCȚIUNI pentru completarea Cererii de rambursare pentru persoanele impozabile neînregistrate în scopuri de TVA în România, stabilite în afara Comunității 1. Cererea de rambursare se depune de c) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 81318 of the official web service.
 - Ordin finante nr. 530/2007: Anexa nr. 4 (4 CARACTERISTICILE DE TIPĂRIRE, modul de difuzare, utilizare și păstrare a Cererii de rambursare pentru persoanele impozabile neînregistrate în scopuri de TVA în România, stabilite în afara Comunități) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 81318 of the official web service.
 - Ordin finante nr. 530/2007: Anexa nr. 5 (5 MINISTERUL FINANȚELOR PUBLICE AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Direcția generală a finanțelor publice........................ Administrația finanțelor publice..............................) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 81318 of the official web service.
-- Ordin finante nr. 530/2007: Anexa nr. 2 (2 [SIGLA] Cerere de rambursare pentru persoanele impozabile neinregistrate în scopuri de TVA în România, stabilite în afara Comunității 313 ANUL: PERIOADA: - ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin finante nr. 530/2007: the publisher's notes run into its text (*) A - achiziţie, I - import, S - prestări servicii) are not text.

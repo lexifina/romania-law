@@ -3,6 +3,96 @@
  "shard": "ordin/2010",
  "acts": [
   {
+   "slug": "ordin-agricultura-107-2010",
+   "path": "ordin/agricultura/2010/107",
+   "short": "Ordin agricultura nr. 107/2010",
+   "title": "Ordinul nr. 107/2010 privind aprobarea Planului de ajustare a efortului de pescuit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119515",
+   "versions": [
+    {
+     "from": "2010-06-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119515",
+     "sha256": "c3de0c4247506c881fc5b3abb82d97584c40262ca05b8739054cd5fab9d02a91"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-119-2010",
+   "path": "ordin/agricultura/2010/119",
+   "short": "Ordin agricultura nr. 119/2010",
+   "title": "Ordinul nr. 119/2010 privind aprobarea Procedurii preliminare de înregistrare a cererilor de protecție a noilor denumiri de origine, a indicațiilor geografice și a mențiunilor tradiționale ale produselor vitivinicole la nivel național și de modificare a condițiilor specifice ale produselor vitivinicole obținute într-o denumire de origine controlată sau o indicație geografică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119129",
+   "versions": [
+    {
+     "from": "2010-05-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119129",
+     "sha256": "05b5eb73ada3140430a2bee1f8488191d958ce7efc8adf646887b2db40990f50"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-12-2010",
+   "path": "ordin/agricultura/2010/12",
+   "short": "Ordin agricultura nr. 12/2010",
+   "title": "Ordinul nr. 12/2010 privind aprobarea schemei de ajutor de stat \"Stimularea dezvoltării regionale prin realizarea de investiții pentru procesarea produselor agricole și forestiere în vederea obținerii de produse neagricole\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115833",
+   "versions": [
+    {
+     "from": "2010-02-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115833",
+     "sha256": "ee7e822c2e3027c762cd493be5bf242048032f3fdb24089873f3c5b7493fef38"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-123-2010",
+   "path": "ordin/agricultura/2010/123",
+   "short": "Ordin agricultura nr. 123/2010",
+   "title": "Ordinul nr. 123/2010 privind stabilirea anumitor derogări pentru acceptarea populațiilor locale și a soiurilor de legume care sunt cultivate, în mod tradițional, în localități și regiuni specifice și care sunt amenințate de eroziune genetică și a soiurilor de legume lipsite de valoare intrinsecă pentru producția agricolă comercială, dar create pentru a fi cultivate în condiții speciale, precum și pentru comercializarea semințelor acestor populații locale și soiuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119387",
+   "versions": [
+    {
+     "from": "2010-06-08",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119387",
+     "sha256": "9488c421844e244905226aabe4103b34c38f9796ff915fc5fddd815028791b12"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-126-2010",
+   "path": "ordin/agricultura/2010/126",
+   "short": "Ordin agricultura nr. 126/2010",
+   "title": "Ordinul nr. 126/2010 pentru aprobarea Procedurilor specifice de implementare și control, precum și a formularisticii necesare privind acordarea ajutorului de stat pentru motorina utilizată în agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119100",
+   "versions": [
+    {
+     "from": "2010-05-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119100",
+     "sha256": "18e72960c45138eac11a125d1e119f23fa8db1ccc2cbf28fb9b3693291a2fee5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-139-2010",
+   "path": "ordin/agricultura/2010/139",
+   "short": "Ordin agricultura nr. 139/2010",
+   "title": "Ordinul nr. 139/2010 privind controlul nematozilor cu chiști ai cartofului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119774",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119774",
+     "sha256": "153c974159ebfa96a38de2c88dcf31359fc89d6421c4cdbf47230296c9257604"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-144-2010",
    "path": "ordin/agricultura/2010/144",
    "short": "Ordin agricultura nr. 144/2010",
@@ -14,6 +104,66 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121594",
      "sha256": "c5bc71ac69cc68496e7107bb7886540fb197e7626ad8da73543d568b3aa9b525"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-149-2010",
+   "path": "ordin/agricultura/2010/149",
+   "short": "Ordin agricultura nr. 149/2010",
+   "title": "Ordinul nr. 149/2010 privind comercializarea semințelor de cereale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119982",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119982",
+     "sha256": "1a6483a8bd21c22f8e14b9d4d42ce7de0bc95338051d1030e63baca2e683ce3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-15-2010",
+   "path": "ordin/agricultura/2010/15",
+   "short": "Ordin agricultura nr. 15/2010",
+   "title": "Ordinul nr. 15/2010 privind aprobarea Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116214",
+   "versions": [
+    {
+     "from": "2010-02-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116214",
+     "sha256": "13fecbfc6d3ce30ca63a8a6a1498b90d0e36f137d25f07f2734a4f33cd152de5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-150-2010",
+   "path": "ordin/agricultura/2010/150",
+   "short": "Ordin agricultura nr. 150/2010",
+   "title": "Ordinul nr. 150/2010 privind comercializarea semințelor de plante oleaginoase și pentru fibre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119984",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119984",
+     "sha256": "f77124675c0ddf1d4119e1aa54d30a4abdf4a15a6942ac9b0847cd9c3383e91a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-155-2010",
+   "path": "ordin/agricultura/2010/155",
+   "short": "Ordin agricultura nr. 155/2010",
+   "title": "Ordinul nr. 155/2010 privind producerea în vederea comercializării și comercializarea semințelor de plante furajere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120069",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120069",
+     "sha256": "b5075a629337beba7e5feb615968904a93fdded34790273a63f76586592f1e9e"
     }
    ]
   },
@@ -33,6 +183,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-20-2010",
+   "path": "ordin/agricultura/2010/20",
+   "short": "Ordin agricultura nr. 20/2010",
+   "title": "Ordinul nr. 20/2010 privind condițiile de practicare a pescuitului recreativ/sportiv, regulamentul de practicare a pescuitului recreativ/sportiv, precum și modelele permiselor de pescuit sportiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115785",
+   "versions": [
+    {
+     "from": "2010-02-02",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115785",
+     "sha256": "0b134f28a35f57bf2130f171027e49d7f76a84103b46f92a2644e1d37ff62b00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-202-2010",
+   "path": "ordin/agricultura/2010/202",
+   "short": "Ordin agricultura nr. 202/2010",
+   "title": "Ordinul nr. 202/2010 pentru aprobarea cantităților de motorină aferente trimestrului II 2010, care beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122051",
+   "versions": [
+    {
+     "from": "2010-09-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122051",
+     "sha256": "ef8ec7baca55bd279e7111cce387b89049cdb06947ea707970519ce6e09d25a4"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-203-2010",
    "path": "ordin/agricultura/2010/203",
    "short": "Ordin agricultura nr. 203/2010",
@@ -44,6 +224,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122631",
      "sha256": "66307b4cf9221918b17baab80ed46d6655770aab7500727258be911d84de3af5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-215-2010",
+   "path": "ordin/agricultura/2010/215",
+   "short": "Ordin agricultura nr. 215/2010",
+   "title": "Ordinul nr. 215/2010 privind stabilirea modului de implementare, a condițiilor specifice, a criteriilor de eligibilitate și a termenilor de referință pentru aplicarea schemelor de plăți naționale directe complementare în sectorul zootehnic la specia bovine, în acord cu reglementările comunitare în domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122463",
+   "versions": [
+    {
+     "from": "2010-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122463",
+     "sha256": "f487dab39f72814f7fb1f3d1c03ae85d9bfe3e2cfd9a36ce6fe15295c0fd9c60"
     }
    ]
   },
@@ -63,6 +258,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-218-2010",
+   "path": "ordin/agricultura/2010/218",
+   "short": "Ordin agricultura nr. 218/2010",
+   "title": "Ordinul nr. 218/2010 privind aprobarea Normelor tehnice pentru desfășurarea activității Inspecției de stat în zootehnie, modelului legitimației, al ștampilei și al procesului-verbal de constatare și sancționare a contravențiilor la normele zootehnice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122584",
+   "versions": [
+    {
+     "from": "2010-10-05",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122584",
+     "sha256": "bf97917f351f446384c3baf93f7e07f59092100fe683306fef6234ac4520d174"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-22-2010",
    "path": "ordin/agricultura/2010/22",
    "short": "Ordin agricultura nr. 22/2010",
@@ -74,6 +284,66 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118028",
      "sha256": "d4dcba2c4a7782bd98ae8dfd51b19a31651ef76cf6a9d872c82321640f37720e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-221-2010",
+   "path": "ordin/agricultura/2010/221",
+   "short": "Ordin agricultura nr. 221/2010",
+   "title": "Ordinul nr. 221/2010 privind aprobarea repartizării cotelor de producție de zahăr din sfeclă de zahăr în anul comercial 2010-2011 pentru societățile comerciale acreditate producătoare de zahăr",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122510",
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122510",
+     "sha256": "279d8b8b48c309072aa9bd7fd3777c2e29193d9408d40124b5336a01c71a01b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-230-2010",
+   "path": "ordin/agricultura/2010/230",
+   "short": "Ordin agricultura nr. 230/2010",
+   "title": "Ordinul nr. 230/2010 pentru aprobarea Procedurii de lucru privind implementarea Regulamentului (CE) nr. 485/2008 al Consiliului din 26 mai 2008 privind controalele efectuate de statele membre cu privire la operațiunile care fac parte din sistemul de finanțare prin Fondul european de garantare agricolă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122779",
+   "versions": [
+    {
+     "from": "2010-10-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122779",
+     "sha256": "2b2ff7c66be82894b61c3644d2259227e3e91f42a9c54289b0c66d1005a4c2d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-231-2010",
+   "path": "ordin/agricultura/2010/231",
+   "short": "Ordin agricultura nr. 231/2010",
+   "title": "Ordinul nr. 231/2010 pentru aprobarea conținutului minim al protocolului de transmitere, fără plată, a infrastructurii de îmbunătățiri funciare aparținând domeniului privat al statului, aflată în administrarea Administrației Naționale a Îmbunătățirilor Funciare ori în administrarea sau în folosința societăților comerciale, stațiunilor și institutelor de cercetare și producție agricolă, unităților de învățământ agricol, situată pe teritoriul organizației, în proprietatea acelei organizații, și a conținutului minim al protocolului de transmitere a infrastructurii de îmbunătățiri funciare din domeniul public al statului, alta decât cea de irigații, cu excepția celei principale sau a celei de prim ordin, situată pe teritoriul unei organizații, ori de transmitere a infrastructurii de îmbunătățiri funciare din domeniul public al statului din cadrul unei părți autonome funcțional dintr-o amenajare sau a unei întregi amenajări de îmbunătățiri funciare aflate în proprietatea publică a statului ori a unităților administrativ-teritoriale, situată pe teritoriul unei federații, în folosința gratuită a acelei organizații sau federații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123683",
+   "versions": [
+    {
+     "from": "2010-11-17",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123683",
+     "sha256": "224cc93309845847150b5796aebba2d26d4f9d88a1ff2081dc6802237810e033"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-236-2010",
+   "path": "ordin/agricultura/2010/236",
+   "short": "Ordin agricultura nr. 236/2010",
+   "title": "Ordinul nr. 236/2010 pentru aprobarea Listei gradatorilor autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123211",
+   "versions": [
+    {
+     "from": "2010-11-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123211",
+     "sha256": "c4ec4b090d8b2b579948cb0536e574343532b94d86a40a1358bcd43e17ea768c"
     }
    ]
   },
@@ -104,6 +374,51 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124834",
      "sha256": "917a81b76a3f98149496628e0089cb3f060958ddacc09774e0219de2a224390f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-27-2010",
+   "path": "ordin/agricultura/2010/27",
+   "short": "Ordin agricultura nr. 27/2010",
+   "title": "Ordinul nr. 27/2010 privind aprobarea nivelului comisioanelor de garantare pentru anul 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116215",
+   "versions": [
+    {
+     "from": "2010-02-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116215",
+     "sha256": "adbd5385fbfc126fb8782c15fb571f4d67305f309ed542853daf208249e2f766"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-271-2010",
+   "path": "ordin/agricultura/2010/271",
+   "short": "Ordin agricultura nr. 271/2010",
+   "title": "Ordinul nr. 271/2010 pentru aprobarea nivelului comisioanelor de garantare pentru anul 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124437",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124437",
+     "sha256": "472384622fc6f4d1b83f897ff6b1cc6c15e97361bfee874bffc25a0c4d2d079a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-272-2010",
+   "path": "ordin/agricultura/2010/272",
+   "short": "Ordin agricultura nr. 272/2010",
+   "title": "Ordinul nr. 272/2010 privind aprobarea Listei laboratoarelor desemnate pentru efectuarea analizelor în cadrul controlului oficial în sectorul vitivinicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124485",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124485",
+     "sha256": "6cf915ec3ceb1a22c918317367e4f0f768a316c7a752d26e5573dfab56c484dd"
     }
    ]
   },
@@ -153,6 +468,66 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-348-2010",
+   "path": "ordin/agricultura/2010/348",
+   "short": "Ordin agricultura nr. 348/2010",
+   "title": "Ordinul nr. 348/2010 de stabilire a atribuțiilor Direcției generale pescuit - Autoritatea de management pentru Programul Operațional pentru Pescuit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117550",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117550",
+     "sha256": "4c1b5bb6cb0efa473a5fb49196d252ac1e8bcc5e48a47af0a10019420c6353c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-36-2010",
+   "path": "ordin/agricultura/2010/36",
+   "short": "Ordin agricultura nr. 36/2010",
+   "title": "Ordinul nr. 36/2010 privind practicarea pescuitului comercial de calcan în Marea Neagră pentru anul 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116394",
+   "versions": [
+    {
+     "from": "2010-02-22",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116394",
+     "sha256": "780bc97f583dab7cadde6cf2b241648fbe0e9831b5116bfbc317c3d1dec53607"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-41-2010",
+   "path": "ordin/agricultura/2010/41",
+   "short": "Ordin agricultura nr. 41/2010",
+   "title": "Ordinul nr. 41/2010 privind aprobarea formularului-tip de cerere unică de plată pe suprafață pentru anul 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116608",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116608",
+     "sha256": "d1f26ab77a5e69918fca4e56218673b251e5c6a9efbf75333c5b8da7e402e248"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-5-2010",
+   "path": "ordin/agricultura/2010/5",
+   "short": "Ordin agricultura nr. 5/2010",
+   "title": "Ordinul nr. 5/2010 privind aprobarea nivelului comisioanelor de garantare datorate de beneficiarii publici eligibili ai FEADR în anul 2010 pentru scrisorile de garantare emise de fondurile de garantare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115407",
+   "versions": [
+    {
+     "from": "2010-01-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115407",
+     "sha256": "2fc1724420b82d2fdc16f7c0743d513c90705c435ef1cc2c9f379e1ac624cee7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-51-2010",
    "path": "ordin/agricultura/2010/51",
    "short": "Ordin agricultura nr. 51/2010",
@@ -164,6 +539,111 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119983",
      "sha256": "4f935856333be4aa0b0383a9356f1be676ed43bf99be82aa6a1251382c5e497b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-56-2010",
+   "path": "ordin/agricultura/2010/56",
+   "short": "Ordin agricultura nr. 56/2010",
+   "title": "Ordinul nr. 56/2010 privind recunoașterea Acordului interprofesional pentru sfecla de zahăr - recolta anului de comercializare 2010/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117029",
+   "versions": [
+    {
+     "from": "2010-03-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117029",
+     "sha256": "8c79204f78fdc1dc4d568c2cbb09e669f00941d1ab282d8584ec85441bfa199f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-6-2010",
+   "path": "ordin/agricultura/2010/6",
+   "short": "Ordin agricultura nr. 6/2010",
+   "title": "Ordinul nr. 6/2010 privind stabilirea programului de lucru și a numărului de posturi necesare efectuării controlului fitosanitar vamal pentru inspectoratele de carantină fitosanitară vamală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115447",
+   "versions": [
+    {
+     "from": "2010-01-31",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115447",
+     "sha256": "0f1d4a7fa99518dce9652f75c7560646ecaca2dbb6b8e742727b3699809d6ff6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-65-2010",
+   "path": "ordin/agricultura/2010/65",
+   "short": "Ordin agricultura nr. 65/2010",
+   "title": "Ordinul nr. 65/2010 pentru aprobarea regulilor privind organizarea sistemului de inspecție și certificare, de aprobare a organismelor de inspecție și certificare și de supraveghere a activității organismelor de control",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117543",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117543",
+     "sha256": "e8bf50293f78b998929498611b22d993d0fe5bd8f86b5ae96cbea83581792e52"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-7-2010",
+   "path": "ordin/agricultura/2010/7",
+   "short": "Ordin agricultura nr. 7/2010",
+   "title": "Ordinul nr. 7/2010 pentru aprobarea Normelor privind accesul la resursele acvatice vii din domeniul public al statului în vederea practicării pescuitului comercial în habitatele piscicole naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115673",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115673",
+     "sha256": "1bf99677ec5fd67bde97fd72f6dd39cb82e6d0441ed5eb75b0475839290d3275"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-70-2010",
+   "path": "ordin/agricultura/2010/70",
+   "short": "Ordin agricultura nr. 70/2010",
+   "title": "Ordinul nr. 70/2010 privind pescuitul reproducătorilor vii de sturioni în vederea folosirii acestora în scopul reproducerii artificiale pentru obținerea de puiet pentru acvacultură și popularea de susținere a bazinelor piscicole naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117520",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117520",
+     "sha256": "b6298c4a68e1eee56c9fed7a7c5e66e2f16ce8e43a70c7a5a080bfec17472028"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-74-2010",
+   "path": "ordin/agricultura/2010/74",
+   "short": "Ordin agricultura nr. 74/2010",
+   "title": "Ordinul nr. 74/2010 pentru aprobarea Listei cu gradatori autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117488",
+   "versions": [
+    {
+     "from": "2010-03-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117488",
+     "sha256": "961909ac70cf69231b7282b62e6e8e71ae2c549f9400fbe279344fc61ab193f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-75-2010",
+   "path": "ordin/agricultura/2010/75",
+   "short": "Ordin agricultura nr. 75/2010",
+   "title": "Ordinul nr. 75/2010 privind aprobarea sistemului de sancțiuni pentru măsurile 211 \"Sprijin pentru zona montană defavorizată\", 212 \"Sprijin pentru zone defavorizate, altele decât zona montană\" și 214 \"Plăți de agro-mediu\" din Programul național de dezvoltare rurală 2007-2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117723",
+   "versions": [
+    {
+     "from": "2010-04-07",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117723",
+     "sha256": "accfdcff805cf26db5a861d5c106bea18cac4281852e4fe6ac9d9cf63a1d2db5"
     }
    ]
   },
@@ -183,6 +663,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-80-2010",
+   "path": "ordin/agricultura/2010/80",
+   "short": "Ordin agricultura nr. 80/2010",
+   "title": "Ordinul nr. 80/2010 pentru aprobarea Normelor privind recepția, sistemul de evidență, controlul conformității, prezentarea și etichetarea în vederea comercializării cu amănuntul a produselor vitivinicole vrac, provenite din import sau comerțul intracomunitar, în vederea asigurării trasabilității acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118132",
+   "versions": [
+    {
+     "from": "2010-04-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118132",
+     "sha256": "c6e7b08122224a4e4d796e12eabc0ef7eb9217cb8a6e065ef967b409527b42cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-82-2010",
+   "path": "ordin/agricultura/2010/82",
+   "short": "Ordin agricultura nr. 82/2010",
+   "title": "Ordinul nr. 82/2010 privind comercializarea materialului de înmulțire și plantare fructifer destinat producției de fructe, pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117734",
+   "versions": [
+    {
+     "from": "2012-09-30",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117734",
+     "sha256": "73f0bd8b98f253efb47716c6ca6ea65d2d20300f0863724eac9d1518ad21971c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-83-2010",
    "path": "ordin/agricultura/2010/83",
    "short": "Ordin agricultura nr. 83/2010",
@@ -194,6 +704,21 @@
      "units": 25,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119067",
      "sha256": "6eab30a882b63669f162ea6b74e0ca4b04ee5a9c0de8dd0e5f2897f78afe0f63"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-85-2010",
+   "path": "ordin/agricultura/2010/85",
+   "short": "Ordin agricultura nr. 85/2010",
+   "title": "Ordinul nr. 85/2010 privind aprobarea Specificațiilor tehnice pentru procedurile de atribuire a contractelor de furnizare a fructelor în școli",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117790",
+   "versions": [
+    {
+     "from": "2010-04-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117790",
+     "sha256": "ced9925a380401c1bf5fe498559c55853ff9b42f212cd9cc370f8a86a3f32ff7"
     }
    ]
   },
@@ -239,6 +764,21 @@
      "units": 60,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122272",
      "sha256": "f00f57b03270791299c0b7c1684d8eb15c872f73581a339672157e352d0be7d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-98-2010",
+   "path": "ordin/agricultura/2010/98",
+   "short": "Ordin agricultura nr. 98/2010",
+   "title": "Ordinul nr. 98/2010 privind stabilirea modului de implementare, a condițiilor specifice și a criteriilor de eligibilitate pentru aplicarea schemelor de plăți naționale directe complementare în sectorul zootehnic la speciile ovine/caprine, în acord cu reglementările comunitare în domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118248",
+   "versions": [
+    {
+     "from": "2010-04-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118248",
+     "sha256": "4728fe376075525fac7f698888dea6c4a30c1f16c38eed92f4b0bfa416066975"
     }
    ]
   },
@@ -3716,7 +4256,7 @@
    "versions": [
     {
      "from": "2010-05-03",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118395",
      "sha256": "6f5f6f0fceb9ead93c2e98970ba57beafc18db948801720648ee78c1484aa7aa"
     }
@@ -4593,6 +5133,756 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3033-2010",
+   "path": "ordin/educatie/2010/3033",
+   "short": "Ordin educatie nr. 3033/2010",
+   "title": "Ordinul nr. 3.033/2010 pentru completarea Ordinului ministrului educației, cercetării și inovării nr. 3.331/2009 privind criteriile generale de organizare și desfășurare a admiterii în ciclul de studii universitare de licență, de masterat și de doctorat pentru anul universitar 2009-2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115576",
+   "versions": [
+    {
+     "from": "2010-01-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115576",
+     "sha256": "49c053cfd20067ebbd8a818ec72de6e5893d00473196b46dbea880ff4fd560cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3066-2010",
+   "path": "ordin/educatie/2010/3066",
+   "short": "Ordin educatie nr. 3066/2010",
+   "title": "Ordinul nr. 3.066/2010 privind aprobarea Metodologiei de organizare și desfășurare a probelor specifice din cadrul examenului de bacalaureat, susținute de absolvenții secțiilor bilingve româno-spaniole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115865",
+   "versions": [
+    {
+     "from": "2010-02-05",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115865",
+     "sha256": "92c425196df3554efbdab407d413e3d8718151c256cf1a5f76096f714ebeb114"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3074-2010",
+   "path": "ordin/educatie/2010/3074",
+   "short": "Ordin educatie nr. 3074/2010",
+   "title": "Ordinul nr. 3.074/2010 privind aprobarea Calendarului de organizare și desfășurare a concursului național de acordare a bursei de studii postuniversitare în străinătate \"Theodor Aman\" pentru domeniul artelor plastice, în anul universitar 2010-2011, și a listei instituțiilor de învățământ universitar din care provin candidații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116697",
+   "versions": [
+    {
+     "from": "2010-03-02",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116697",
+     "sha256": "9d169837e6745b679271f3b2f1d52458947b53c260c5a0f0a59084e9d52029ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3081-2010",
+   "path": "ordin/educatie/2010/3081",
+   "short": "Ordin educatie nr. 3081/2010",
+   "title": "Ordinul nr. 3.081/2010 privind aprobarea planului-cadru de învățământ pentru clasa a X-a, ciclul inferior al liceului, filiera tehnologică, învățământ de zi și învățământ seral",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116272",
+   "versions": [
+    {
+     "from": "2010-02-17",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116272",
+     "sha256": "1b19f598b7e6503fd395287abc4880a3673aa39badf3064327c4e24de358aaad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3142-2010",
+   "path": "ordin/educatie/2010/3142",
+   "short": "Ordin educatie nr. 3142/2010",
+   "title": "Ordinul nr. 3.142/2010 privind aprobarea calendarului sesiunilor speciale și a metodologiei speciale de organizare și desfășurare a examenului de bacalaureat - 2010, pentru absolvenții din promoțiile anterioare anului 2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116811",
+   "versions": [
+    {
+     "from": "2010-03-05",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116811",
+     "sha256": "bbd35cec7a4f31343ec4e235cb70596fbc7b2dff6a1ef2a457cd2a0cd322e0c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3235-2010",
+   "path": "ordin/educatie/2010/3235",
+   "short": "Ordin educatie nr. 3235/2010",
+   "title": "Ordinul nr. 3.235/2010 privind aprobarea specializărilor de nivel universitar care conferă dreptul absolvenților liceelor pedagogice de a ocupa funcțiile didactice de profesor în învățământul preșcolar și profesor în învățământul primar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116606",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116606",
+     "sha256": "152601c627f634488cd2fd3f70fbffc175801b69c5e13146fae3c7c30848b466"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3236-2010",
+   "path": "ordin/educatie/2010/3236",
+   "short": "Ordin educatie nr. 3236/2010",
+   "title": "Ordinul nr. 3.236/2010 pentru aprobarea anexelor nr. 1-21 la Centralizatorul privind disciplinele de învățământ, domeniile și specializările, precum și probele de concurs, valabile pentru încadrarea personalului didactic din învățământul preuniversitar 2010, aprobat prin Ordinul ministrului educației, cercetării și inovării, interimar, nr. 6.052/2009, cuprinzând disciplinele/modulele corespunzătoare profilului posturilor/catedrelor din aria curriculară tehnologii - discipline tehnologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116924",
+   "versions": [
+    {
+     "from": "2010-03-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116924",
+     "sha256": "1cf1aea49455e8892ff416e2ac6eb7ae9642efe4ea6358a9cd31803a6c92a058"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3240-2010",
+   "path": "ordin/educatie/2010/3240",
+   "short": "Ordin educatie nr. 3240/2010",
+   "title": "Ordinul nr. 3.240/2010 privind reglementarea recunoașterii funcțiilor didactice din învățământul universitar obținute într-o instituție de învățământ universitar acreditată într-un stat membru al Uniunii Europene, Spațiului Economic European și în Confederația Elvețiană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116541",
+   "versions": [
+    {
+     "from": "2010-02-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116541",
+     "sha256": "807ef4cf1704efa43e53eedba264c9550dac561aeae99ccbe6badc27e050c51c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3425-2010",
+   "path": "ordin/educatie/2010/3425",
+   "short": "Ordin educatie nr. 3425/2010",
+   "title": "Ordinul nr. 3.425/2010 privind divizarea unității de învățământ preuniversitar particular Școala \"Genesis\" București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117343",
+   "versions": [
+    {
+     "from": "2010-03-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117343",
+     "sha256": "fd65142dd38024a36dd49eed73ba9674018fc6ec043e39713420e99a3ef7d09a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3567-2010",
+   "path": "ordin/educatie/2010/3567",
+   "short": "Ordin educatie nr. 3567/2010",
+   "title": "Ordinul nr. 3.567/2010 privind modificarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat, aprobată prin Ordinul ministrului educației și cercetării nr. 3.142/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118002",
+   "versions": [
+    {
+     "from": "2010-04-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118002",
+     "sha256": "896109e3c792e1cb0b6f93d6c7f2921417bce833c3a6fb95f7ad5c15dfe2f430"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3633-2010",
+   "path": "ordin/educatie/2010/3633",
+   "short": "Ordin educatie nr. 3633/2010",
+   "title": "Ordinul nr. 3.633/2010 privind aprobarea Metodologiei de monitorizare specială a Universității \"Apollonia\" din Iași",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120050",
+   "versions": [
+    {
+     "from": "2010-07-02",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120050",
+     "sha256": "0444ff62856699ef51fffe5f7699465cd206766cb087e3e8163916c16d50539c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3743-2010",
+   "path": "ordin/educatie/2010/3743",
+   "short": "Ordin educatie nr. 3743/2010",
+   "title": "Ordinul nr. 3.743/2010 privind sesiunea specială de bacalaureat 2010 pentru absolvenții de liceu participanți la loturile naționale lărgite ce se pregătesc pentru olimpiadele și concursurile internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118669",
+   "versions": [
+    {
+     "from": "2010-05-12",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118669",
+     "sha256": "07ebbdaf3a4390d7490ef521618754b8088d60f661e329d41602c8579c802b75"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3848-2010",
+   "path": "ordin/educatie/2010/3848",
+   "short": "Ordin educatie nr. 3848/2010",
+   "title": "Ordinul nr. 3.848/2010 pentru completarea anexei nr. 2 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 3.743/2010 privind sesiunea specială de bacalaureat 2010 pentru absolvenții de liceu participanți la loturile naționale lărgite ce se pregătesc pentru olimpiadele și concursurile internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119414",
+   "versions": [
+    {
+     "from": "2010-06-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119414",
+     "sha256": "8819f3b79fde986583558b0f2506b0a525662e82c9fb67a4238da3b344a84d33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3853-2010",
+   "path": "ordin/educatie/2010/3853",
+   "short": "Ordin educatie nr. 3853/2010",
+   "title": "Ordinul nr. 3.853/2010 privind repartizarea cifrelor de școlarizare pe instituții de învățământ superior, în vederea admiterii la studii în anul universitar 2010-2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120024",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120024",
+     "sha256": "96b14119f28baddb6c46fb27e344f8cb08614928cba120c0534ee49db68f6d3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3855-2010",
+   "path": "ordin/educatie/2010/3855",
+   "short": "Ordin educatie nr. 3855/2010",
+   "title": "Ordinul nr. 3.855/2010 privind criteriile generale de organizare și desfășurare a admiterii în ciclul de studii universitare de licență, de masterat și de doctorat pentru anul universitar 2010-2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119282",
+   "versions": [
+    {
+     "from": "2010-06-04",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119282",
+     "sha256": "795b96174aae6cdd7e2aa40bb98738bcc291935e65984543093971c9d7143223"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3927-2010",
+   "path": "ordin/educatie/2010/3927",
+   "short": "Ordin educatie nr. 3927/2010",
+   "title": "Ordinul nr. 3.927/2010 pentru aprobarea Metodologiei Proiectului Ministerului Educației, Cercetării, Tineretului și Sportului privind predarea cursului de Limbă, cultură și civilizație românească în unități de învățământ din state membre ale Uniunii Europene și instrumentele de lucru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119601",
+   "versions": [
+    {
+     "from": "2010-06-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119601",
+     "sha256": "2924dec90efe7314b83270cd3293d831a97de40063b115ecc71d39fb5688f370"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3979-2010",
+   "path": "ordin/educatie/2010/3979",
+   "short": "Ordin educatie nr. 3979/2010",
+   "title": "Ordinul nr. 3.979/2010 pentru modificarea Ordinului ministrului educației, cercetării și inovării nr. 5.507/2009 privind aprobarea Calendarului examenului de bacalaureat - 2010, a Metodologiei de organizare și desfășurare a examenului de bacalaureat - 2010, precum și a Atribuțiilor membrilor comisiilor de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119093",
+   "versions": [
+    {
+     "from": "2010-05-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119093",
+     "sha256": "aa6b0e41d66189c155077402384672794c9923284f9df110cd212188a068cf5e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4034-2010",
+   "path": "ordin/educatie/2010/4034",
+   "short": "Ordin educatie nr. 4034/2010",
+   "title": "Ordinul nr. 4.034/2010 privind structura anului școlar 2010-2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119591",
+   "versions": [
+    {
+     "from": "2010-06-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119591",
+     "sha256": "7830ef3c22caddd75a05f8df3f9508941bafdcd8fe859213add7fa5aa205cdb1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4106-2010",
+   "path": "ordin/educatie/2010/4106",
+   "short": "Ordin educatie nr. 4106/2010",
+   "title": "Ordinul nr. 4.106/2010 privind modificarea și completarea Regulamentului de organizare și funcționare a unităților de învățământ preuniversitar, aprobat prin Ordinul ministrului educației și cercetării nr. 4.925/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119451",
+   "versions": [
+    {
+     "from": "2010-06-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119451",
+     "sha256": "d8bde4dca82ed8cc699fd620c6e2607a738282a2fe619fda1341ac2bf1073884"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4140-2010",
+   "path": "ordin/educatie/2010/4140",
+   "short": "Ordin educatie nr. 4140/2010",
+   "title": "Ordinul nr. 4.140/2010 pentru modificarea Regulamentului privind acordarea de distincții și premii personalului didactic din învățământul preuniversitar de stat, aprobat prin Ordinul ministrului educației și cercetării nr. 5.435/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119550",
+   "versions": [
+    {
+     "from": "2010-06-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119550",
+     "sha256": "d2f20b8f32005bf58daebf62633dda6dd856b21bc19eb197a682fa37c96d01c8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4151-2010",
+   "path": "ordin/educatie/2010/4151",
+   "short": "Ordin educatie nr. 4151/2010",
+   "title": "Ordinul nr. 4.151/2010 privind diploma de master și suplimentul la diplomă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120025",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120025",
+     "sha256": "2564a003431608099909f68568d4733462c8b70a775de8985da0efaaac6abe1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4230-2010",
+   "path": "ordin/educatie/2010/4230",
+   "short": "Ordin educatie nr. 4230/2010",
+   "title": "Ordinul nr. 4.230/2010 pentru aprobarea Procedurii de închiriere a bunurilor imobile din domeniul public al statului, aflate în administrarea Ministerului Educației, Cercetării, Tineretului și Sportului, prin Autoritatea Națională pentru Sport și Tineret, și pentru aprobarea Contractului-cadru de închiriere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119742",
+   "versions": [
+    {
+     "from": "2010-06-22",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119742",
+     "sha256": "a077533c19645c964eea86aa1edbff7d3e1a3a48ec8a3bd5e434f0734457ca6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4235-2010",
+   "path": "ordin/educatie/2010/4235",
+   "short": "Ordin educatie nr. 4235/2010",
+   "title": "Ordinul nr. 4.235/2010 pentru aprobarea Metodologiei privind monitorizarea specială a Universității \"Spiru Haret\" din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119781",
+   "versions": [
+    {
+     "from": "2010-06-23",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119781",
+     "sha256": "79739c1174f7f01fedec679a8e586eb76a39f7a28c7946b0d7ebbaec32971ed9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4247-2010",
+   "path": "ordin/educatie/2010/4247",
+   "short": "Ordin educatie nr. 4247/2010",
+   "title": "Ordinul nr. 4.247/2010 pentru aprobarea Regulamentului de organizare și funcționare a Consiliului național al elevilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120357",
+   "versions": [
+    {
+     "from": "2010-07-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120357",
+     "sha256": "5ef23578e763a5545b313ec4465f3e24f6a423671c5659b34f6f0c4f985f4ba6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4433-2010",
+   "path": "ordin/educatie/2010/4433",
+   "short": "Ordin educatie nr. 4433/2010",
+   "title": "Ordinul nr. 4.433/2010 pentru modificarea Metodologiei privind mișcarea personalului didactic din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării și inovării, interimar, nr. 5.885/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120396",
+   "versions": [
+    {
+     "from": "2010-07-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120396",
+     "sha256": "cb8d18d72bb6b3fca21a838e32993ce154275bb72c3017b1d551af755a4650fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4434-2010",
+   "path": "ordin/educatie/2010/4434",
+   "short": "Ordin educatie nr. 4434/2010",
+   "title": "Ordinul nr. 4.434/2010 privind modificarea Calendarului mișcării personalului didactic din învățământul preuniversitar pentru anul școlar 2010-2011, aprobat prin Ordinul ministrului educației, cercetării și inovării, interimar, nr. 5.886/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120394",
+   "versions": [
+    {
+     "from": "2010-07-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120394",
+     "sha256": "52bbcb84424f0ef77ece8781a81f2a3c133d9d488021d7cf50e09cc81225b93b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4627-2010",
+   "path": "ordin/educatie/2010/4627",
+   "short": "Ordin educatie nr. 4627/2010",
+   "title": "Ordinul nr. 4.627/2010 privind instituirea Diplomei de excelență instituțională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121452",
+   "versions": [
+    {
+     "from": "2010-08-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121452",
+     "sha256": "6e9cfb6f60adc0141aa06b565347a95d9ab29a88ec6588602adf4027968faf69"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4630-2010",
+   "path": "ordin/educatie/2010/4630",
+   "short": "Ordin educatie nr. 4630/2010",
+   "title": "Ordinul nr. 4.630/2010 privind aprobarea programelor de studii universitare de masterat evaluate de Agenția Română de Asigurare a Calității în Învățământul Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121699",
+   "versions": [
+    {
+     "from": "2010-08-23",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121699",
+     "sha256": "5533832bb8a00601f032d13c90041dc4f7914f2b912f65c87c9f6a7feb1e5d29"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4713-2010",
+   "path": "ordin/educatie/2010/4713",
+   "short": "Ordin educatie nr. 4713/2010",
+   "title": "Ordinul nr. 4.713/2010 privind aprobarea Regulamentului de organizare și funcționare a casei corpului didactic și a Metodologiei de încadrare a personalului didactic și didactic auxiliar în casele corpului didactic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122039",
+   "versions": [
+    {
+     "from": "2010-09-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122039",
+     "sha256": "c899bcc5837d4a21aaaa1ddacd356c39200cf6063302085cb65d99d493605d09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4799-2010",
+   "path": "ordin/educatie/2010/4799",
+   "short": "Ordin educatie nr. 4799/2010",
+   "title": "Ordinul nr. 4.799/2010 privind organizarea și desfășurarea examenului de bacalaureat - 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125523",
+   "versions": [
+    {
+     "from": "2011-01-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125523",
+     "sha256": "0f153e8941b5d8e5006e901510f88a2dc22e81acfdca5d1bd8e5516dccdcc8a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4800-2010",
+   "path": "ordin/educatie/2010/4800",
+   "short": "Ordin educatie nr. 4800/2010",
+   "title": "Ordinul nr. 4.800/2010 privind aprobarea listei disciplinelor și a programelor pentru examenul de bacalaureat - 2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125593",
+   "versions": [
+    {
+     "from": "2011-01-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125593",
+     "sha256": "7ded85838137168e634ab2a2b22e3a3ad7ba5052b8e9064634ae149e0c5fb63f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4801-2010",
+   "path": "ordin/educatie/2010/4801",
+   "short": "Ordin educatie nr. 4801/2010",
+   "title": "Ordinul nr. 4.801/2010 privind organizarea și desfășurarea evaluării naționale pentru elevii clasei a VIII-a în anul școlar 2010-2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122365",
+   "versions": [
+    {
+     "from": "2010-09-23",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122365",
+     "sha256": "38458212238c9fc38e1aa97eb0d205304d649d33859bcc0fd997cfe1f7ccac08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4802-2010",
+   "path": "ordin/educatie/2010/4802",
+   "short": "Ordin educatie nr. 4802/2010",
+   "title": "Ordinul nr. 4.802/2010 privind organizarea și desfășurarea admiterii în învățământul liceal de stat pentru anul școlar 2011-2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122366",
+   "versions": [
+    {
+     "from": "2010-09-23",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122366",
+     "sha256": "0206f0fb416e287cafa141f3dd44c94a98a2b34d31739fd87acfc5fc0666e5f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5106-2010",
+   "path": "ordin/educatie/2010/5106",
+   "short": "Ordin educatie nr. 5106/2010",
+   "title": "Ordinul nr. 5.106/2010 pentru aprobarea Normelor metodologice privind modul de realizare a raportului de activitate în vederea obținerii gradației de merit pentru personalul didactic de predare din învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122191",
+   "versions": [
+    {
+     "from": "2010-09-15",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122191",
+     "sha256": "85463d9c52b8cd87a7d93c0de74cecb73fbafd45a8f292cc6795ff94a55622d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5217-2010",
+   "path": "ordin/educatie/2010/5217",
+   "short": "Ordin educatie nr. 5217/2010",
+   "title": "Ordinul nr. 5.217/2010 privind organizarea și desfășurarea probelor specifice susținute de elevii secțiilor bilingve francofone în vederea obținerii mențiunii speciale \"secție bilingvă francofonă\" pe diploma de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123382",
+   "versions": [
+    {
+     "from": "2010-11-09",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123382",
+     "sha256": "6322ea749ed9b82096fa0069ce17e66e6cfd2804c3260571ffc78fb4c12f595e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5218-2010",
+   "path": "ordin/educatie/2010/5218",
+   "short": "Ordin educatie nr. 5218/2010",
+   "title": "Ordinul nr. 5.218/2010 privind aprobarea Metodologiei de organizare și desfășurare a probelor specifice din cadrul examenului de bacalaureat susținute de absolvenții secțiilor bilingve româno-spaniole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122777",
+   "versions": [
+    {
+     "from": "2010-10-18",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122777",
+     "sha256": "4c2857cb83adecca6ca807593c8dafecd25e2f8f73c49ab261c6ba8f0bfebd37"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5219-2010",
+   "path": "ordin/educatie/2010/5219",
+   "short": "Ordin educatie nr. 5219/2010",
+   "title": "Ordinul nr. 5.219/2010 privind recunoașterea și echivalarea rezultatelor obținute la examene cu recunoaștere internațională pentru certificarea competențelor lingvistice în limbi străine și la examene cu recunoaștere europeană pentru certificarea competențelor digitale cu probele de evaluare a competențelor lingvistice într-o limbă de circulație internațională studiată pe parcursul învățământului liceal, respectiv de evaluare a competențelor digitale, din cadrul examenului de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122852",
+   "versions": [
+    {
+     "from": "2010-10-20",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122852",
+     "sha256": "f9d915c98fb9ee3ed69960767b1ae097c280236a466d49089b3e38e39a620559"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5239-2010",
+   "path": "ordin/educatie/2010/5239",
+   "short": "Ordin educatie nr. 5239/2010",
+   "title": "Ordinul nr. 5.239/2010 pentru modificarea și completarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 4.630/2010 privind aprobarea programelor de studii universitare de masterat evaluate de Agenția Română de Asigurare a Calității în Învățământul Superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122775",
+   "versions": [
+    {
+     "from": "2010-10-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122775",
+     "sha256": "7d2889ede4208c6615bf49aaf5e2f560941eef736f42cf28a2d30050e764d7a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5328-2010",
+   "path": "ordin/educatie/2010/5328",
+   "short": "Ordin educatie nr. 5328/2010",
+   "title": "Ordinul nr. 5.328/2010 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Național de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare și a structurii acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123093",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123093",
+     "sha256": "d3f799a263576d82a0ef057b278b31c9b136404d5208c7f8a01056c7fb2ac8e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5385-2010",
+   "path": "ordin/educatie/2010/5385",
+   "short": "Ordin educatie nr. 5385/2010",
+   "title": "Ordinul nr. 5.385/2010 privind aprobarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea funcțiilor de director general și director general adjunct la bibliotecile centrale universitare și de director general la Biblioteca Pedagogică Națională \"I.C. Petrescu\" din București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123023",
+   "versions": [
+    {
+     "from": "2010-10-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123023",
+     "sha256": "eeebfbf1963e41f8bbcba5bf693df2ba47922f5a7a0157be582fe1dc0e8f1adb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5438-2010",
+   "path": "ordin/educatie/2010/5438",
+   "short": "Ordin educatie nr. 5438/2010",
+   "title": "Ordinul nr. 5.438/2010 privind înființarea Centrului național de excelență Reghin pentru pregătirea elevelor și elevilor la disciplina dans sportiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123737",
+   "versions": [
+    {
+     "from": "2010-11-19",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123737",
+     "sha256": "5c28ffaee3476d408aa711d88d0e422b8c0086fceffea176f891f2ae0d7e3d79"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5573-2010",
+   "path": "ordin/educatie/2010/5573",
+   "short": "Ordin educatie nr. 5573/2010",
+   "title": "Ordinul nr. 5.573/2010 pentru modificarea anexelor nr. 1 și 2 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 3.853/2010 privind repartizarea cifrelor de școlarizare pe instituții de învățământ superior, în vederea admiterii la studii în anul universitar 2010-2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124435",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124435",
+     "sha256": "e33485f0af2177d385ae0c541300aeba3c113b3eb91be8abbb24bc64b72210b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5615-2010",
+   "path": "ordin/educatie/2010/5615",
+   "short": "Ordin educatie nr. 5615/2010",
+   "title": "Ordinul nr. 5.615/2010 privind aprobarea Calendarului mișcării personalului didactic din învățământul preuniversitar pentru anul școlar 2011-2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123566",
+   "versions": [
+    {
+     "from": "2010-11-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123566",
+     "sha256": "5dab3b71906dbbf75a74d8ae6ca1646ecce685c1146b3effb315b95c575ba2e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5616-2010",
+   "path": "ordin/educatie/2010/5616",
+   "short": "Ordin educatie nr. 5616/2010",
+   "title": "Ordinul nr. 5.616/2010 pentru aprobarea Metodologiei privind mișcarea personalului didactic din învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123565",
+   "versions": [
+    {
+     "from": "2010-11-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123565",
+     "sha256": "a3075f9fa430e0fd22f8183f67cebf33f3e541a2676e570398f2b45c77b1b4d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5617-2010",
+   "path": "ordin/educatie/2010/5617",
+   "short": "Ordin educatie nr. 5617/2010",
+   "title": "Ordinul nr. 5.617/2010 privind aprobarea Metodologiei și a criteriilor de acordare a gradației de merit în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123945",
+   "versions": [
+    {
+     "from": "2010-11-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123945",
+     "sha256": "55eca293d5171a60ff617ac8450df621a5fd0f8eff1ace00790d918e91a80d4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5619-2010",
+   "path": "ordin/educatie/2010/5619",
+   "short": "Ordin educatie nr. 5619/2010",
+   "title": "Ordinul nr. 5.619/2010 privind modificarea Ordinului ministrului educației și cercetării nr. 4.925/2005 pentru aprobarea Regulamentului de organizare și funcționare a unităților de învățământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124186",
+   "versions": [
+    {
+     "from": "2010-12-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124186",
+     "sha256": "4e926b93def9cf5f92cac170f1edcd2c54984ccbab71771706fc1598c8a0d7bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5686-2010",
+   "path": "ordin/educatie/2010/5686",
+   "short": "Ordin educatie nr. 5686/2010",
+   "title": "Ordinul nr. 5.686/2010 privind aprobarea Calendarului de organizare și desfășurare a concursului național de acordare a bursei de studii postuniversitare în străinătate \"Theodor Aman\" pentru domeniul artelor plastice, în anul universitar 2011-2012, și a Listei instituțiilor de învățământ universitar care au specializări acreditate sau autorizate să funcționeze provizoriu din care provin candidații la concursul național de acordare a bursei de studii postuniversitare în străinătate \"Theodor Aman\" pentru domeniul artelor plastice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124797",
+   "versions": [
+    {
+     "from": "2010-12-28",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124797",
+     "sha256": "0d1d683c74aefe1de86d1473b60d31dd969e7e8ebbe1c907abf98cfaa91efe9a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5730-2010",
+   "path": "ordin/educatie/2010/5730",
+   "short": "Ordin educatie nr. 5730/2010",
+   "title": "Ordinul nr. 5.730/2010 privind aprobarea Metodologiei de organizare și desfășurare a stagiilor de pregătire practică pentru dobândirea calificării profesionale de nivel 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124224",
+   "versions": [
+    {
+     "from": "2010-12-08",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124224",
+     "sha256": "8e67156c440019ec0d416e6393eea5a03ec044e8c0a28e22143927487ccc3ffc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5800-2010",
+   "path": "ordin/educatie/2010/5800",
+   "short": "Ordin educatie nr. 5800/2010",
+   "title": "Ordinul nr. 5.800/2010 pentru aprobarea Regulamentului de organizare și funcționare a cluburilor sportive studențești din subordinea directă a Ministerului Educației, Cercetării, Tineretului și Sportului și a secțiilor pe ramuri de sport care funcționează în cadrul acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124697",
+   "versions": [
+    {
+     "from": "2010-12-24",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124697",
+     "sha256": "9bed596202da9af673e85b0104cada1863176e2fe82159cb0d64a7a7c246fd5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5803-2010",
+   "path": "ordin/educatie/2010/5803",
+   "short": "Ordin educatie nr. 5803/2010",
+   "title": "Ordinul nr. 5.803/2010 privind aprobarea modelelor diplomei de licență, diplomei de arhitect și suplimentului la diplomă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124677",
+   "versions": [
+    {
+     "from": "2010-12-24",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124677",
+     "sha256": "5927b74739f3574d2a3689f7f75e4c725ce661a6ef24f3457b43121b443e38a6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-externe-1410-2010",
    "path": "ordin/externe/2010/1410",
    "short": "Ordin externe nr. 1410/2010",
@@ -4871,7 +6161,7 @@
    "versions": [
     {
      "from": "2010-07-30",
-     "units": 4,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121059",
      "sha256": "83f501c5579dc4611fa84ecddaf013c8f9639344dd7717419f899e3407151883"
     }
@@ -5066,7 +6356,7 @@
    "versions": [
     {
      "from": "2010-08-17",
-     "units": 16,
+     "units": 20,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121533",
      "sha256": "b3736ce46db9388f9db0c6e3839289cc0560ce73f09de6839c789b245dff8aa0"
     }
@@ -5576,7 +6866,7 @@
    "versions": [
     {
      "from": "2010-03-31",
-     "units": 11,
+     "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117566",
      "sha256": "63d2240bc8f8f12774ae98edfe52e9f6d8ed66b78f80e95ec5a05409c0e9398a"
     }
@@ -5591,7 +6881,7 @@
    "versions": [
     {
      "from": "2010-03-19",
-     "units": 13,
+     "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117239",
      "sha256": "218eeef64245112f441db49f1fd8f9b9fa61074528f4bc6325a2f968feea42df"
     }
@@ -9296,7 +10586,7 @@
    "versions": [
     {
      "from": "2010-09-20",
-     "units": 15,
+     "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122288",
      "sha256": "5844cad73a352fee6a5ae0d256f19a4a14ae5da8993a40fe707ab5d5ef5dda03"
     }
@@ -9521,7 +10811,7 @@
    "versions": [
     {
      "from": "2010-11-19",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123747",
      "sha256": "7c054113e8e729d05efac2b8fc62edba3c59a0b592e8c9111fd1897095577b50"
     }
@@ -10376,7 +11666,7 @@
    "versions": [
     {
      "from": "2010-06-10",
-     "units": 10,
+     "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119433",
      "sha256": "9ab9b0a5d983f432cd754a7c75be9c3620e25b3746563270bde142f0873f6cbc"
     }

@@ -2,7 +2,7 @@
 
 Ordin finante nr. 3659/2008 · 1 versions, from 2009-01-01 (latest in force: 2009-01-01) · <https://legislatie.just.ro/Public/DetaliiDocument/100828>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Referință*: AA_RA_aaaaaaaaaaaa_rrrrrrrrrrrr_20AALLZZ_x(xxx)_RI * Numărul de referință: - AA: codul ISO al statului membru (SM) al autorității solicitante - ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 Referință*: AA_RA_aaaaaaaaaaaa_rrrrrrrrrrrr_20AALLZZ_x(xxx)_RN * Numărul de referință: - AA: codul ISO al statului membru (SM) al autorității solicitante - ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 Referință*: AA_RA_aaaaaaaaaaaa_rrrrrrrrrrrr_20AALLZZ_x(xxx)_RR * Numărul de referință: - AA: codul ISO a) statului membru (SM) al autorității solicitante - ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -12,6 +12,12 @@ Ordin finante nr. 3659/2008 · 1 versions, from 2009-01-01 (latest in force: 200
 | Art. 4 | [art-004.md](art-004.md) | 0 |  |
 | Art. 5 | [art-005.md](art-005.md) | 0 |  |
 | Art. 6 | [art-006.md](art-006.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
 Act id: `ordin-finante-3659-2008` (tags `ordin-finante-3659-2008/<day>`; `python tools/on.py <day> ordin-finante-3659-2008`).
 
@@ -21,6 +27,6 @@ Act id: `ordin-finante-3659-2008` (tags `ordin-finante-3659-2008/<day>`; `python
 - Ordin finante nr. 3659/2008: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin finante nr. 3659/2008: the first version is the order as published in Monitorul Oficial nr. 878 of 24 December 2008 (document 100828 of the official web service), in force on 1 January 2009, the day it states for itself.
 - Ordin finante nr. 3659/2008: the signatures and the place and date line after its last article are not article text.
-- Ordin finante nr. 3659/2008: Anexa nr. 1 (1 Referință*: AA_RA_aaaaaaaaaaaa_rrrrrrrrrrrr_20AALLZZ_x(xxx)_RI * Numărul de referință: - AA: codul ISO al statului membru (SM) al autorității solicitante - ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin finante nr. 3659/2008: Anexa nr. 2 (2 Referință*: AA_RA_aaaaaaaaaaaa_rrrrrrrrrrrr_20AALLZZ_x(xxx)_RN * Numărul de referință: - AA: codul ISO al statului membru (SM) al autorității solicitante - ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin finante nr. 3659/2008: Anexa nr. 3 (3 Referință*: AA_RA_aaaaaaaaaaaa_rrrrrrrrrrrr_20AALLZZ_x(xxx)_RR * Numărul de referință: - AA: codul ISO a) statului membru (SM) al autorității solicitante - ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 3659/2008: Anexa nr. 1 (1 Referință*: AA_RA_aaaaaaaaaaaa_rrrrrrrrrrrr_20AALLZZ_x(xxx)_RI * Numărul de referință: - AA: codul ISO al statului membru (SM) al autorității solicitante - RA: codul ISO al SM al autorității solicit) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 100828 of the official web service.
+- Ordin finante nr. 3659/2008: Anexa nr. 2 (2 Referință*: AA_RA_aaaaaaaaaaaa_rrrrrrrrrrrr_20AALLZZ_x(xxx)_RN * Numărul de referință: - AA: codul ISO al statului membru (SM) al autorității solicitante - RA: codul ISO al SM al autorității solicit) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 100828 of the official web service.
+- Ordin finante nr. 3659/2008: Anexa nr. 3 (3 Referință*: AA_RA_aaaaaaaaaaaa_rrrrrrrrrrrr_20AALLZZ_x(xxx)_RR * Numărul de referință: - AA: codul ISO a) statului membru (SM) al autorității solicitante - RA: codul ISO al SM al autorității solicit) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 100828 of the official web service.

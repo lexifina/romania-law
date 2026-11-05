@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 800/2014 · 1 versions, from 2014-11-09 (latest in force: 2014-11-09) · <https://legislatie.just.ro/Public/DetaliiDocument/162038>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 PLANUL NAȚIONAL de implementare a Regulamentului sanitar internațional 2005 (RSI 2005) în România *Font 7* ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 PUNCTELE DE INTRARE desemnate să îndeplinească cerințele Regulamentului sanitar internațional 2005 ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: text printed after its signature (106 words, likely an annex or a table) is not included.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -35,8 +35,12 @@ Ordin sanatate nr. 800/2014 · 1 versions, from 2014-11-09 (latest in force: 201
 | Art. 27 | [art-027.md](art-027.md) | 0 |  |
 | Art. 28 | [art-028.md](art-028.md) | 0 |  |
 | Art. 29 | [art-029.md](art-029.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 
@@ -49,7 +53,8 @@ Act id: `ordin-sanatate-800-2014` (tags `ordin-sanatate-800-2014/<day>`; `python
 - Ordin sanatate nr. 800/2014: the first version is the order as published in Monitorul Oficial nr. 741 of 10 October 2014 (document 162038 of the official web service), in force on 9 November 2014, the day it states for itself.
 - Ordin sanatate nr. 800/2014: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 800/2014: a joint order of Ministerul Sănătății nr. 800 din 3 July 2014; Ministerul Afacerilor Interne nr. 135 din 21 August 2014; Ministerul Dezvoltării Regionale și Administrației Publice nr. 1.638 din 11 September 2014; Ministerul Transporturilor nr. 1.200 din 16 July 2014; Ministerul Agriculturii și Dezvoltării Rurale nr. 1.350 din 29 August 2014; Ministerul Finanțelor Publice nr. 1.327 din 30 September 2014; Ministerul Mediului și Schimbărilor Climatice nr. 1.530 din 9 September 2014; Ministerul Apărării Naționale nr. M.102 din 16 September 2014; Ministerul Afacerilor Externe nr. 1.948 din 6 October 2014; Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor nr. 158 din 18 September 2014; Comisia Națională pentru Controlul Activităților Nucleare nr. 125 din 18 August 2014. It is published once, here, under the issuer its EMITENT block lists first; `ordin-interne-135-2014`, `ordin-dezvoltare-1638-2014`, `ordin-transporturi-1200-2014`, `ordin-agricultura-1350-2014`, `ordin-finante-1327-2014`, `ordin-mediu-1530-2014`, `ordin-aparare-1948-2014`, `ordin-ansvsa-158-2014`, `ordin-cncan-125-2014` name it too (data/paths.json aliases).
+- Ordin sanatate nr. 800/2014: Anexa nr. 1 (1 PLANUL NAȚIONAL de implementare a Regulamentului sanitar internațional 2005 (RSI 2005) în România *Font 7*) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 162038 of the official web service.
 - Ordin sanatate nr. 800/2014: Anexa nr. 2 (2 SCHEMA FLUXULUI INFORMAȚIONAL conform Hotărârii Guvernului nr. 758/2009 pentru punerea în aplicare a Regulamentului sanitar internațional 2005) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 162038 of the official web service.
+- Ordin sanatate nr. 800/2014: Anexa nr. 3 (3 PUNCTELE DE INTRARE desemnate să îndeplinească cerințele Regulamentului sanitar internațional 2005) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 162038 of the official web service.
 - Ordin sanatate nr. 800/2014: Anexa nr. 4 (4 Cerințele pe care trebuie să le îndeplinească punctele de intrare desemnate, conform prevederilor Regulamentului sanitar internațional 2005 (RSI 2005) Cerințe permanente 1. Să dispună de servicii me) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 162038 of the official web service.
-- Ordin sanatate nr. 800/2014: Anexa nr. 1 (1 PLANUL NAȚIONAL de implementare a Regulamentului sanitar internațional 2005 (RSI 2005) în România *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin sanatate nr. 800/2014: Anexa nr. 3 (3 PUNCTELE DE INTRARE desemnate să îndeplinească cerințele Regulamentului sanitar internațional 2005 ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 800/2014: the official text prints 106 more words after the signature, with no annex heading of their own; they are not included. They will be added when they can be published as an annex in full.

@@ -2,12 +2,14 @@
 
 Ordin dezvoltare nr. 5687/2017 · 1 versions, from 2017-09-04 (latest in force: 2017-09-04) · <https://legislatie.just.ro/Public/DetaliiDocument/192821>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 ((Anexa la normele metodologice) Fișă de fundamentare Proiect propus la finanțare/finanțat din fonduri europene FEDR/IPA II/ENI *Font 9* Ordonator de credite ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. I | [art-001.md](art-001.md) | 0 |  |
 | Art. II | [art-002.md](art-002.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-dezvoltare-5687-2017` (tags `ordin-dezvoltare-5687-2017/<day>`; `python tools/on.py <day> ordin-dezvoltare-5687-2017`).
 
@@ -18,4 +20,4 @@ Act id: `ordin-dezvoltare-5687-2017` (tags `ordin-dezvoltare-5687-2017/<day>`; `
 - Ordin dezvoltare nr. 5687/2017: the first version is the order as published in Monitorul Oficial nr. 713 of 4 September 2017 (document 192821 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin dezvoltare nr. 5687/2017: the signatures and the place and date line after its last article are not article text.
 - Ordin dezvoltare nr. 5687/2017: a joint order of Ministerul Dezvoltării Regionale, Administrației Publice și Fondurilor Europene nr. 5.687 din 16 August 2017; Ministerul Finanțelor Publice nr. 1.799 din 24 August 2017. It is published once, here, under the issuer its EMITENT block lists first; `ordin-finante-1799-2017` name it too (data/paths.json aliases).
-- Ordin dezvoltare nr. 5687/2017: Anexa nr. 1 ((Anexa la normele metodologice) Fișă de fundamentare Proiect propus la finanțare/finanțat din fonduri europene FEDR/IPA II/ENI *Font 9* Ordonator de credite ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin dezvoltare nr. 5687/2017: Anexa nr. 1 ((Anexa la normele metodologice) Fișă de fundamentare Proiect propus la finanțare/finanțat din fonduri europene FEDR/IPA II/ENI *Font 9* Ordonator de credite Departamentul (care propune/implementează p) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 192821 of the official web service.

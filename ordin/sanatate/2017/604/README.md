@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 604/2017 · 1 versions, from 2017-06-29 (latest in force: 2017-06-29) · <https://legislatie.just.ro/Public/DetaliiDocument/190617>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 ((Anexa nr. 2 la Ordinul nr. 10/ 368/ 11/2010) Antet Data emiterii....................... AVIZ Nr....... BIO/TP... În conformitate cu Ordinul ministrului ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -12,6 +12,8 @@ Ordin sanatate nr. 604/2017 · 1 versions, from 2017-06-29 (latest in force: 201
 | Art. IV | [art-004.md](art-004.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
@@ -27,6 +29,6 @@ Act id: `ordin-sanatate-604-2017` (tags `ordin-sanatate-604-2017/<day>`; `python
 - Ordin sanatate nr. 604/2017: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 604/2017: a joint order of Ministerul Sănătății nr. 604 din 26 May 2017; Ministerul Mediului nr. 880 din 14 June 2017; Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor nr. 78 din 27 June 2017. It is published once, here, under the issuer its EMITENT block lists first; `ordin-mediu-880-2017`, `ordin-ansvsa-78-2017` name it too (data/paths.json aliases).
 - Ordin sanatate nr. 604/2017: Anexa nr. 1 ((Anexa nr. 1 la Ordinul nr. 10/ 368/ 11/2010) Firma...................................., în calitate de producător |_|, reprezentant al producătorului |_|, importator autorizat |_|, solicit eliberarea) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 190617 of the official web service.
+- Ordin sanatate nr. 604/2017: Anexa nr. 2 ((Anexa nr. 2 la Ordinul nr. 10/ 368/ 11/2010) Antet Data emiterii....................... AVIZ Nr....... BIO/TP... În conformitate cu Ordinul ministrului sănătății, al ministrului mediului și pădurilor) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 190617 of the official web service.
 - Ordin sanatate nr. 604/2017: Anexa nr. 3 ((Anexa nr. 3 la Ordinul nr. 10/ 368/ 11/2010) Antet Data emiterii............. AVIZ DE EXTINDERE În conformitate cu art....... din Ordinul ministrului sănătății, al ministrului mediului și pădurilor ș) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 190617 of the official web service.
 - Ordin sanatate nr. 604/2017: Anexa nr. 4 ((Anexa nr. 4 la Ordinul nr. 10/ 368/ 11/2010) Domnule Președinte, Firma............................................................, în calitate de producător |_|, reprezentant al producătorului |_|,) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 190617 of the official web service.
-- Ordin sanatate nr. 604/2017: Anexa nr. 2 ((Anexa nr. 2 la Ordinul nr. 10/ 368/ 11/2010) Antet Data emiterii....................... AVIZ Nr....... BIO/TP... În conformitate cu Ordinul ministrului ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

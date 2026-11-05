@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 1527/2014 · 1 versions, from 2014-12-29 (latest in force: 2014-12-29) · <https://legislatie.just.ro/Public/DetaliiDocument/164199>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 7 (7 DECLARAȚIE DE INTERESE ┌──────────────────────────────────────┬───────────────────────────────────────┐ │Numele │Prenumele │ ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -38,6 +38,8 @@ Ordin sanatate nr. 1527/2014 · 1 versions, from 2014-12-29 (latest in force: 20
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 | Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
 | Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
+| Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
+| Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
 | Anexa nr. 8 (what it is) | [anexa-8/README.md](anexa-8/README.md) | 0 |  |
 | Anexa nr. 8 | [anexa-8/text.md](anexa-8/text.md) | 0 |  |
 
@@ -55,6 +57,6 @@ Act id: `ordin-sanatate-1527-2014` (tags `ordin-sanatate-1527-2014/<day>`; `pyth
 - Ordin sanatate nr. 1527/2014: Anexa nr. 4 (4 MINISTERUL SĂNĂTĂȚII AGENȚIA NAȚIONALĂ DE TRANSPLANT NOTIFICARE privind neîndeplinirea criteriilor de acreditare nr........... din.............. Către unitatea sanitară..............................) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 164199 of the official web service.
 - Ordin sanatate nr. 1527/2014: Anexa nr. 5 (5 MINISTERUL SĂNĂTĂȚII AGENȚIA NAȚIONALĂ DE TRANSPLANT Nr.................... DECIZIE privind acreditarea unității sanitare....................... Ca urmare a cererii unității sanitare................) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 164199 of the official web service.
 - Ordin sanatate nr. 1527/2014: Anexa nr. 6 (6 MINISTERUL SĂNĂTĂȚII AGENȚIA NAȚIONALĂ DE TRANSPLANT Nr.................... DECIZIE privind suspendarea activității/revocarea acreditării unității sanitare...........................................) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 164199 of the official web service.
+- Ordin sanatate nr. 1527/2014: Anexa nr. 7 (7 DECLARAȚIE DE INTERESE) is part of the order and is published in its folder, anexa-7/ (paragraphs and tables), from document 164199 of the official web service.
 - Ordin sanatate nr. 1527/2014: Anexa nr. 8 (8 ANGAJAMENT DE CONFIDENȚIALITATE al membrilor comisiei de evaluare Subsemnatul/Subsemnata,.........................., având profesia de................... la....................., membru al Comisiei) is part of the order and is published in its folder, anexa-8/ (paragraphs), from document 164199 of the official web service.
-- Ordin sanatate nr. 1527/2014: Anexa nr. 7 (7 DECLARAȚIE DE INTERESE ┌──────────────────────────────────────┬───────────────────────────────────────┐ │Numele │Prenumele │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin sanatate nr. 1527/2014: the publisher's notes run into its text (*) Pentru unităţile sanitare care deţin acreditarea Comisiei Naţionale de Acreditare a Spitalelor.; *) Se menţionează, punctual şi explicit, situaţia constatată cu ocazia efectuării inspecţiei, conform datelor consemnate; *1) Pentru activităţile prevăzute la pct. 1 vor fi trecute explicit denumirile organului/organelor şi/sau ţesutului/ţesu; *2) Pentru situaţia prevăzută la art. 6 alin. (6) din ordin.) are not text.

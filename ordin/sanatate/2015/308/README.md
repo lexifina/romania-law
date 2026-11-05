@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 308/2015 · 1 versions, from 2015-03-24 (latest in force: 2015-03-24) · <https://legislatie.just.ro/Public/DetaliiDocument/166592>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (Tipurile de dispozitive medicale supuse controlului prin verificare periodică și periodicitatea verificărilor ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,6 +20,8 @@ Ordin sanatate nr. 308/2015 · 1 versions, from 2015-03-24 (latest in force: 201
 | Art. 12 | [art-012.md](art-012.md) | 0 |  |
 | Art. 13 | [art-013.md](art-013.md) | 0 |  |
 | Art. 14 | [art-014.md](art-014.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-sanatate-308-2015` (tags `ordin-sanatate-308-2015/<day>`; `python tools/on.py <day> ordin-sanatate-308-2015`).
 
@@ -29,4 +31,4 @@ Act id: `ordin-sanatate-308-2015` (tags `ordin-sanatate-308-2015/<day>`; `python
 - Ordin sanatate nr. 308/2015: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin sanatate nr. 308/2015: the first version is the order as published in Monitorul Oficial nr. 194 of 24 March 2015 (document 166592 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 308/2015: the signatures and the place and date line after its last article are not article text.
-- Ordin sanatate nr. 308/2015: Anexa nr. 1 (Tipurile de dispozitive medicale supuse controlului prin verificare periodică și periodicitatea verificărilor ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 308/2015: Anexa nr. 1 (Tipurile de dispozitive medicale supuse controlului prin verificare periodică și periodicitatea verificărilor) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 166592 of the official web service.

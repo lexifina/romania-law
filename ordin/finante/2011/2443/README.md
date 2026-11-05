@@ -2,7 +2,7 @@
 
 Ordin finante nr. 2443/2011 · 1 versions, from 2011-08-31 (latest in force: 2011-08-31) · <https://legislatie.just.ro/Public/DetaliiDocument/131148>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 Unitatea: Date preliminare Date revizuite Date finale DATE privind stocurile și subvenții pentru investiții pe perioada................. - lei - ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -13,6 +13,8 @@ Ordin finante nr. 2443/2011 · 1 versions, from 2011-08-31 (latest in force: 201
 | Art. 5 | [art-005.md](art-005.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
@@ -29,7 +31,7 @@ Act id: `ordin-finante-2443-2011` (tags `ordin-finante-2443-2011/<day>`; `python
 - Ordin finante nr. 2443/2011: the first version is the order as published in Monitorul Oficial nr. 618 of 31 August 2011 (document 131148 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin finante nr. 2443/2011: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 2443/2011: Anexa nr. 1 (1 Unitatea: Date preliminare Date revizuite Date finale DATE privind rezultatele financiare pe perioada......... - lei - Denumirea indicatorului Nr. rd. Realizările cumulate la sfârșitul perioadei B 1) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 131148 of the official web service.
+- Ordin finante nr. 2443/2011: Anexa nr. 2 (2 Unitatea: Date preliminare Date revizuite Date finale DATE privind stocurile și subvenții pentru investiții pe perioada................. - lei -) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 131148 of the official web service.
 - Ordin finante nr. 2443/2011: Anexa nr. 3 (3 Unitatea: Date preliminare Date revizuite Date finale SITUAȚIA ACTIVELOR IMOBILIZATE pe perioada.......... Valorile brute Indicatori ESA Denumirea indicatorului Nr. crt. Creșteri Reduceri Total Achi) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 131148 of the official web service.
 - Ordin finante nr. 2443/2011: Anexa nr. 4 (4 Unitatea: Date preliminare Date revizuite Date finale DATE privind creanțele și angajamentele financiare pe perioada.................. - lei - CREANȚE Nr. rând Sold la începutul anului Sold la sfârș) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 131148 of the official web service.
 - Ordin finante nr. 2443/2011: Anexa nr. 5 (5 Unitatea: Date preliminare Date revizuite Date finale SITUAȚIA împrumuturilor contractate în nume propriu pe perioada................ - lei - Nr. crt. Indicatori Denumirea creditorului Valuta împrum) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 131148 of the official web service.
-- Ordin finante nr. 2443/2011: Anexa nr. 2 (2 Unitatea: Date preliminare Date revizuite Date finale DATE privind stocurile și subvenții pentru investiții pe perioada................. - lei - ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

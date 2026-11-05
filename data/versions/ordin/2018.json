@@ -3,6 +3,111 @@
  "shard": "ordin/2018",
  "acts": [
   {
+   "slug": "ordin-agricultura-10-2018",
+   "path": "ordin/agricultura/2018/10",
+   "short": "Ordin agricultura nr. 10/2018",
+   "title": "Ordinul nr. 10/2018 pentru aprobarea Procedurii de recunoaștere a operatorilor economici care desfășoară activități privind fabricarea zahărului din sfeclă de zahăr și/sau din rafinarea zahărului brut din trestie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196792",
+   "versions": [
+    {
+     "from": "2018-01-18",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196792",
+     "sha256": "601c0f918a9a12817447de6c24e9a285633375d35d652723a717ec8bb5beb89f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1041-2018",
+   "path": "ordin/agricultura/2018/1041",
+   "short": "Ordin agricultura nr. 1041/2018",
+   "title": "Ordinul nr. 1.041/2018 pentru aprobarea modelului Cererii de plată privind măsura 14 \"Bunăstarea animalelor\" din cadrul Programului Național de Dezvoltare Rurală 2014-2020 - pachetul a) Plăți în favoarea bunăstării porcinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200615",
+   "versions": [
+    {
+     "from": "2018-05-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200615",
+     "sha256": "56c51481f233266ec702751ab4df345351cf2d47807847bbec9f97802d3c874b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1056-2018",
+   "path": "ordin/agricultura/2018/1056",
+   "short": "Ordin agricultura nr. 1056/2018",
+   "title": "Ordinul nr. 1.056/2018 pentru aprobarea Procedurii privind emiterea și eliberarea avizelor necesare introducerii în intravilan a terenurilor agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201042",
+   "versions": [
+    {
+     "from": "2018-05-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201042",
+     "sha256": "088891ee6badd46c2b0d331425ec4e37983f53c713e4027f3c7b2ce353430560"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1192-2018",
+   "path": "ordin/agricultura/2018/1192",
+   "short": "Ordin agricultura nr. 1192/2018",
+   "title": "Ordinul nr. 1.192/2018 pentru aprobarea cantităților de motorină aferente perioadei 1 ianuarie 2018-31 martie 2018, determinate la plată de către Agenția de Plăți și Intervenție pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201424",
+   "versions": [
+    {
+     "from": "2018-06-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201424",
+     "sha256": "508949fce8907f804f5b8a33c57313aac8a35bf46eb74636fb74125eda4384f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1198-2018",
+   "path": "ordin/agricultura/2018/1198",
+   "short": "Ordin agricultura nr. 1198/2018",
+   "title": "Ordinul nr. 1.198/2018 pentru aprobarea schemei de ajutor de stat \"Stimularea dezvoltării regionale prin realizarea de investiții, inclusiv în sectorul pomicol, pentru procesarea și marketingul produselor agricole în vederea obținerii de produse neagricole\" în cadrul PNDR 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201721",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201721",
+     "sha256": "615eac0537935e8bab63ed1a974f6c49092779004c8ea4e1ab2bca781023e4a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1205-2018",
+   "path": "ordin/agricultura/2018/1205",
+   "short": "Ordin agricultura nr. 1205/2018",
+   "title": "Ordinul nr. 1.205/2018 pentru aprobarea Nominalizării arealelor viticole și încadrării localităților pe regiuni viticole, podgorii și centre viticole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201889",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201889",
+     "sha256": "dec8fc481095f6363b90d65157b02b4e105440b47f3cf6bafa71e01ce632315b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1220-2018",
+   "path": "ordin/agricultura/2018/1220",
+   "short": "Ordin agricultura nr. 1220/2018",
+   "title": "Ordinul nr. 1.220/2018 privind aprobarea Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203096",
+   "versions": [
+    {
+     "from": "2018-07-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203096",
+     "sha256": "79700cdc36f7a2713ebbe0150dca7db81b9cac455b03e458ec4c319e6fd7bba0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1259-2018",
    "path": "ordin/agricultura/2018/1259",
    "short": "Ordin agricultura nr. 1259/2018",
@@ -18,6 +123,66 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1290-2018",
+   "path": "ordin/agricultura/2018/1290",
+   "short": "Ordin agricultura nr. 1290/2018",
+   "title": "Ordinul nr. 1.290/2018 privind aprobarea Ghidului solicitantului pentru măsura VIII 1 Supravegherea maritimă integrată din POPAM 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204220",
+   "versions": [
+    {
+     "from": "2018-08-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204220",
+     "sha256": "4fdc020065fdd452375eda57025f1b9864e5c6d27198061cd526ff92cc41a397"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1297-2018",
+   "path": "ordin/agricultura/2018/1297",
+   "short": "Ordin agricultura nr. 1297/2018",
+   "title": "Ordinul nr. 1.297/2018 privind inspectorii fitosanitari împuterniciți să elibereze certificate fitosanitare pentru plante, produse vegetale sau alte obiecte destinate exportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203732",
+   "versions": [
+    {
+     "from": "2018-08-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203732",
+     "sha256": "23759da2c42ba5f4f264050d14f0b82edae72be3b600dbc27153a712d5d16448"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1339-2018",
+   "path": "ordin/agricultura/2018/1339",
+   "short": "Ordin agricultura nr. 1339/2018",
+   "title": "Ordinul nr. 1.339/2018 privind recunoașterea Acordului interprofesional pentru struguri de vin, vin și produse pe bază de vin, recolta anului de comercializare 2018/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204401",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204401",
+     "sha256": "c5f079cc35155a5e38d9adcbf6fe395749417593e2612caea73530b8096ec0a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1353-2018",
+   "path": "ordin/agricultura/2018/1353",
+   "short": "Ordin agricultura nr. 1353/2018",
+   "title": "Ordinul nr. 1.353/2018 pentru instituirea schemei de ajutor de minimis \"Împrumuturi cu partajarea riscului la nivel de portofoliu finanțate din Programul Național de Dezvoltare Rurală\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204758",
+   "versions": [
+    {
+     "from": "2018-09-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204758",
+     "sha256": "520afc9db0700e5aafd6dc5478cb548d620a8a5a258091feb2fc576628f0165a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-1356-2018",
    "path": "ordin/agricultura/2018/1356",
    "short": "Ordin agricultura nr. 1356/2018",
@@ -29,6 +194,186 @@
      "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210414",
      "sha256": "b3a9cc182dff33192217fddcb9f60b68c66a36c8f20f16ab4cbb8c647f8e8408"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1366-2018",
+   "path": "ordin/agricultura/2018/1366",
+   "short": "Ordin agricultura nr. 1366/2018",
+   "title": "Ordinul nr. 1.366/2018 pentru aprobarea Procedurii privind scoaterea din circuitul agricol a pajiștilor permanente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204814",
+   "versions": [
+    {
+     "from": "2018-09-17",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204814",
+     "sha256": "c7375b85ae7906b18b6a550340145f9ed6adb201c83ffe7f43ba22d9bbb7e4f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1393-2018",
+   "path": "ordin/agricultura/2018/1393",
+   "short": "Ordin agricultura nr. 1393/2018",
+   "title": "Ordinul nr. 1.393/2018 pentru aprobarea cantităților de motorină determinate la plată de către Agenția de Plăți și Intervenție pentru Agricultură, aferente perioadei 1 aprilie 2018-30 iunie 2018, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205206",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205206",
+     "sha256": "0a6796fdf65da5d0ad6143b049abd361fb93eaa8e926341a3403d9dda10ff618"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1404-2018",
+   "path": "ordin/agricultura/2018/1404",
+   "short": "Ordin agricultura nr. 1404/2018",
+   "title": "Ordinul nr. 1.404/2018 pentru aprobarea modelului documentelor cuprinse în Hotărârea Guvernului nr. 748/2018 privind instituirea unei scheme de ajutor de stat pentru reducerea accizei la motorina utilizată în acvacultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205481",
+   "versions": [
+    {
+     "from": "2018-10-05",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205481",
+     "sha256": "f17a15a02b8a76d5bee9e30a0761315a67c2c4dd93620671a8fce6ffbbcd410c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1412-2018",
+   "path": "ordin/agricultura/2018/1412",
+   "short": "Ordin agricultura nr. 1412/2018",
+   "title": "Ordinul nr. 1.412/2018 pentru aprobarea Regulamentului privind recunoașterea organismelor de inspecție și certificare a produselor agricole sau alimentare și de supraveghere a activității organismelor de inspecție și certificare a produselor agricole sau alimentare care vor dobândi protecția indicațiilor geografice protejate (I.G.P.), a denumirilor de origine protejate (D.O.P.) și a specialităților tradiționale garantate (S.T.G.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206293",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206293",
+     "sha256": "f7c25d2a51564e74364efd1f0b2e4f6a99c01a93633e384a195eed34046937e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1440-2018",
+   "path": "ordin/agricultura/2018/1440",
+   "short": "Ordin agricultura nr. 1440/2018",
+   "title": "Ordinul nr. 1.440/2018 pentru aprobarea Normelor metodologice privind gestionarea, stabilirea domeniilor, precum și modul de utilizare a Fondului de ameliorare a fondului funciar, constituit potrivit anexei nr. 1 din Legea fondului funciar nr. 18/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206300",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206300",
+     "sha256": "98ff9acc33e2142a108f54f2f738f285a9b7afe91d95b02d22d9a9014875a79f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1466-2018",
+   "path": "ordin/agricultura/2018/1466",
+   "short": "Ordin agricultura nr. 1466/2018",
+   "title": "Ordinul nr. 1.466/2018 pentru aprobarea sistemelor de sancțiuni aplicabile cererilor de plată aferente angajamentelor ce fac obiectul schemei de ajutor de stat \"Sprijin pentru prima împădurire și crearea de suprafețe împădurite\", aferentă măsurii 08 \"Investiții în dezvoltarea zonelor împădurite și în îmbunătățirea viabilității pădurilor\", submăsura 8.1 \"Împăduriri și crearea de suprafețe împădurite\" din cadrul Programului Național de Dezvoltare Rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/207321",
+   "versions": [
+    {
+     "from": "2018-11-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/207321",
+     "sha256": "568cea14d47350ffe11c29e659f7c6b31b78d3a5efc030e0fa48a51dfc3fb913"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1474-2018",
+   "path": "ordin/agricultura/2018/1474",
+   "short": "Ordin agricultura nr. 1474/2018",
+   "title": "Ordinul nr. 1.474/2018 pentru aprobarea valorii totale a schemei \"Ajutor de minimis pentru aplicarea programului de susținere a crescătorilor de ovine pentru comercializarea lânii\", aprobată prin Hotărârea Guvernului nr. 500/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/207318",
+   "versions": [
+    {
+     "from": "2018-11-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/207318",
+     "sha256": "898e042933d85107262d1103d22511842cd1548b4e1504add5fe8c5bdb72c916"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1481-2018",
+   "path": "ordin/agricultura/2018/1481",
+   "short": "Ordin agricultura nr. 1481/2018",
+   "title": "Ordinul nr. 1.481/2018 pentru aprobarea cantităților de motorină determinate la plată de către Agenția de Plăți și Intervenție pentru Agricultură, utilizate și nedecontate, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208634",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208634",
+     "sha256": "f5a7c87d7cce338265099811707bd6565f052c92e80174a0d4842bf08c54bb3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1502-2018",
+   "path": "ordin/agricultura/2018/1502",
+   "short": "Ordin agricultura nr. 1502/2018",
+   "title": "Ordinul nr. 1.502/2018 privind aprobarea sistemelor de sancțiuni pentru măsura 14 - Bunăstarea animalelor - pachet a) - porcine și pachet b) - păsări din Programul Național de Dezvoltare Rurală 2014-2020 pentru cererile de plată depuse începând cu anul 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210011",
+   "versions": [
+    {
+     "from": "2019-01-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210011",
+     "sha256": "8ae80adca392f4df8cc22a811a51cf3dea83dc9172dad1e3c4d9ccef53a0cf07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1508-2018",
+   "path": "ordin/agricultura/2018/1508",
+   "short": "Ordin agricultura nr. 1508/2018",
+   "title": "Ordinul nr. 1.508/2018 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de restructurare/reconversie a plantațiilor viticole, eligibilă pentru finanțare în cadrul Programului național de sprijin în sectorul vitivinicol 2019-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209042",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209042",
+     "sha256": "86e4933c4f04b416fe09dad3c983ccfa9029c362d4cd9f98feeb0cbcaca46816"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1516-2018",
+   "path": "ordin/agricultura/2018/1516",
+   "short": "Ordin agricultura nr. 1516/2018",
+   "title": "Ordinul nr. 1.516/2018 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de asigurare a recoltei de struguri pentru vin, eligibilă pentru finanțare în cadrul Programului național de sprijin în sectorul vitivinicol 2019-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209414",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209414",
+     "sha256": "11f2cbccdb9f7596b8fe285de135c31c4ecedff3c0bb5d600c93837081a56930"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1523-2018",
+   "path": "ordin/agricultura/2018/1523",
+   "short": "Ordin agricultura nr. 1523/2018",
+   "title": "Ordinul nr. 1.523/2018 pentru aprobarea sistemului de sancțiuni aplicabil cererilor de plată aferente angajamentelor ce fac obiectul schemei de ajutor de stat \"Servicii de silvomediu, servicii climatice și conservarea pădurilor\", măsurii 15 \"Servicii de silvomediu, servicii climatice și conservarea pădurilor\", submăsurii 15.1 \"Plăți pentru angajamente de silvomediu\" din cadrul Programului național de dezvoltare rurală 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209428",
+   "versions": [
+    {
+     "from": "2018-12-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209428",
+     "sha256": "e58b4a7b5daed106286bb92a22bf9c05fb2d365cb26c0381180677cc78f3c576"
     }
    ]
   },
@@ -63,6 +408,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-1529-2018",
+   "path": "ordin/agricultura/2018/1529",
+   "short": "Ordin agricultura nr. 1529/2018",
+   "title": "Ordinul nr. 1.529/2018 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de promovare a vinurilor, eligibilă pentru finanțare în cadrul Programului național de sprijin în sectorul vitivinicol 2019-2023, și pentru aprobarea modelului de contract privind punerea în aplicare a programelor de promovare a vinurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209949",
+   "versions": [
+    {
+     "from": "2019-01-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209949",
+     "sha256": "7fe3e367d3d8624e6793c24b0dcab078e922d4515e8c8e8e5da968198be0a269"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-1531-2018",
+   "path": "ordin/agricultura/2018/1531",
+   "short": "Ordin agricultura nr. 1531/2018",
+   "title": "Ordinul nr. 1.531/2018 pentru aprobarea Normelor metodologice privind condițiile de punere în aplicare a măsurii de investiții, eligibilă pentru finanțare în cadrul Programului național de sprijin în sectorul vitivinicol 2019-2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209937",
+   "versions": [
+    {
+     "from": "2019-01-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209937",
+     "sha256": "04fe26110f8906ec9e7b89f994ede3b0ded315816b71e447cf3c18eb233bd78d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-18-2018",
    "path": "ordin/agricultura/2018/18",
    "short": "Ordin agricultura nr. 18/2018",
@@ -74,6 +449,81 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198759",
      "sha256": "5758134d4a1a4e63c86b538dd40ed2a60928d224e71ff65d6068115aa2e47067"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-19-2018",
+   "path": "ordin/agricultura/2018/19",
+   "short": "Ordin agricultura nr. 19/2018",
+   "title": "Ordinul nr. 19/2018 privind aprobarea documentației standardizate de atribuire a contractelor/acordurilor-cadru de furnizare a fructelor, legumelor și produselor lactate și produselor de panificație în cadrul Programului pentru școli al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197525",
+   "versions": [
+    {
+     "from": "2018-02-07",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197525",
+     "sha256": "263d20f0731651859fdec7524c19267a13e1f37beca0ac50118a2ece30d8e0c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-208-2018",
+   "path": "ordin/agricultura/2018/208",
+   "short": "Ordin agricultura nr. 208/2018",
+   "title": "Ordinul nr. 208/2018 privind aprobarea schemei de ajutor de minimis \"Sprijin pentru punerea în aplicare a strategiilor de dezvoltare locală plasate sub responsabilitatea comunității\", aferentă Programului operațional pentru pescuit și afaceri maritime 2014-2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199004",
+   "versions": [
+    {
+     "from": "2018-03-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199004",
+     "sha256": "0d8762f294232ebeb56aa95f7b5f7ca1e8f657bcde7ce340332cc946a2d54dd0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-34-2018",
+   "path": "ordin/agricultura/2018/34",
+   "short": "Ordin agricultura nr. 34/2018",
+   "title": "Ordinul nr. 34/2018 pentru aprobarea nivelului comisioanelor de garantare pentru anul 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197567",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197567",
+     "sha256": "c49f8d14b0af92554e51d3ef2e897ccca820ea40e63a159632217a9559a47d86"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-35-2018",
+   "path": "ordin/agricultura/2018/35",
+   "short": "Ordin agricultura nr. 35/2018",
+   "title": "Ordinul nr. 35/2018 pentru aprobarea cantităților de motorină aferente perioadei 1 iulie 2017-30 septembrie 2017, determinate la plată de către Agenția de Plăți și Intervenție pentru Agricultură, utilizate și nedecontate în anul 2017, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197622",
+   "versions": [
+    {
+     "from": "2018-02-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197622",
+     "sha256": "5a508ddf99cab643903d308e91b5c01397677cbaccdbad48e80d5008960a3fa6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-39-2018",
+   "path": "ordin/agricultura/2018/39",
+   "short": "Ordin agricultura nr. 39/2018",
+   "title": "Ordinul nr. 39/2018 privind aprobarea formularului-tip al cererii unice de plată pentru anul 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197977",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197977",
+     "sha256": "70d33b0ecc7dd60a71d66c30b5fe95388ba2085cde577a8fccaf8185dcf9956e"
     }
    ]
   },
@@ -123,6 +573,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-556-2018",
+   "path": "ordin/agricultura/2018/556",
+   "short": "Ordin agricultura nr. 556/2018",
+   "title": "Ordinul nr. 556/2018 pentru aprobarea cantităților de motorină aferente perioadei 1 octombrie 2017-31 decembrie 2017, determinate la plată de către Agenția de Plăți și Intervenție pentru Agricultură, utilizate și nedecontate în anul 2017, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199529",
+   "versions": [
+    {
+     "from": "2018-04-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199529",
+     "sha256": "2acd5ed89a05191812f52eac2c3b07b2e019c16ff776445e7ea317964b25ff39"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-582-2018",
+   "path": "ordin/agricultura/2018/582",
+   "short": "Ordin agricultura nr. 582/2018",
+   "title": "Ordinul nr. 582/2018 pentru aprobarea Listei cu gradatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199872",
+   "versions": [
+    {
+     "from": "2018-04-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199872",
+     "sha256": "8a9972df0e737c147fd28873fa5f7fa277df310743dc0a4b708a14baa5fbfb0e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-590-2018",
+   "path": "ordin/agricultura/2018/590",
+   "short": "Ordin agricultura nr. 590/2018",
+   "title": "Ordinul nr. 590/2018 pentru aprobarea modelului de contract de vânzare a cerealelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199905",
+   "versions": [
+    {
+     "from": "2018-04-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199905",
+     "sha256": "8d1adc4e11fa617371f48c31998da97f483f7385285b0015cec3dff94d70bcfd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-8-2018",
    "path": "ordin/agricultura/2018/8",
    "short": "Ordin agricultura nr. 8/2018",
@@ -134,6 +629,21 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198053",
      "sha256": "6ec8a7e022396c205159ef3c2ea9fff8e2ef5a3d1b9426b5ff4033f4bf2dc666"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-83-2018",
+   "path": "ordin/agricultura/2018/83",
+   "short": "Ordin agricultura nr. 83/2018",
+   "title": "Ordinul nr. 83/2018 pentru aprobarea Procedurii privind scoaterea definitivă sau temporară din circuitul agricol a terenurilor situate în extravilanul localităților, precum și pentru aprobarea Procedurii privind restituirea tarifului achitat la Fondul de ameliorare a fondului funciar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198189",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198189",
+     "sha256": "a398985be088dc06d8cb0f768236571d99465d6605b644598983a99ffefad2d3"
     }
    ]
   },
@@ -4953,6 +5463,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3017-2018",
+   "path": "ordin/educatie/2018/3017",
+   "short": "Ordin educatie nr. 3017/2018",
+   "title": "Ordinul nr. 3.017/2018 pentru modificarea și completarea Metodologiei-cadru privind mobilitatea personalului didactic de predare din învățământul preuniversitar în anul școlar 2018-2019, aprobată prin Ordinul ministrului educației naționale nr. 5.485/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196823",
+   "versions": [
+    {
+     "from": "2018-01-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196823",
+     "sha256": "83b78235ee4bb82fc8f20f30f6d27a2e8ac232144a9e526c7e6921b67471221b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3020-2018",
    "path": "ordin/educatie/2018/3020",
    "short": "Ordin educatie nr. 3020/2018",
@@ -5054,6 +5579,51 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197844",
      "sha256": "5380c3c128ce78e1ac93d1b4fd30daf1769cb019fa138ef3c5dd79eef01bd4e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3194-2018",
+   "path": "ordin/educatie/2018/3194",
+   "short": "Ordin educatie nr. 3194/2018",
+   "title": "Ordinul nr. 3.194/2018 privind modificarea Metodologiei de înscriere și înregistrare a calificărilor din învățământul superior în Registrul Național al Calificărilor din Învățământul Superior (RNCIS), aprobată prin Ordinul ministrului educației naționale nr. 3.475/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198031",
+   "versions": [
+    {
+     "from": "2018-02-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198031",
+     "sha256": "9908d8125ec9680f06535d75a2c0c6e85c2767bcef4d05865e8238f70dd662d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3217-2018",
+   "path": "ordin/educatie/2018/3217",
+   "short": "Ordin educatie nr. 3217/2018",
+   "title": "Ordinul nr. 3.217/2018 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului educației și cercetării științifice nr. 5.268/2015 pentru aprobarea Metodologiei privind echivalarea de către inspectoratele școlare județene și Inspectoratul Școlar al Municipiului București a perioadelor de studii efectuate în străinătate și la organizațiile furnizoare de educație, care organizează și desfășoară pe teritoriul României activități de învățământ corespunzătoare unui sistem educațional din altă țară, înscrise în Registrul special al Agenției Române de Asigurare a Calității în Învățământul Preuniversitar și pentru aprobarea modelului atestatului de echivalare a studiilor efectuate în străinătate și în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198236",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198236",
+     "sha256": "dcc72a9f5cdb2cba784a4be12b5344956a405fd89c1b30b991d22c1969e019fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3218-2018",
+   "path": "ordin/educatie/2018/3218",
+   "short": "Ordin educatie nr. 3218/2018",
+   "title": "Ordinul nr. 3.218/2018 pentru modificarea Metodologiei de organizare a predării disciplinei Religie în învățământul preuniversitar, aprobată prin Ordinul ministrului educației și cercetării științifice nr. 5.232/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198533",
+   "versions": [
+    {
+     "from": "2018-03-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198533",
+     "sha256": "9dbff8c35060d4d933f24e90d5748eb13e56d4b9bbe0ef5867732f43b8654aaa"
     }
    ]
   },
@@ -5223,6 +5793,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3529-2018",
+   "path": "ordin/educatie/2018/3529",
+   "short": "Ordin educatie nr. 3529/2018",
+   "title": "Ordinul nr. 3.529/2018 pentru modificarea Metodologiei privind fundamentarea cifrei de școlarizare pentru învățământul preuniversitar de stat, evidența efectivelor de preșcolari și elevi școlarizați în unitățile de învățământ particular, precum și emiterea avizului conform în vederea organizării rețelei unităților de învățământ preuniversitar pentru anul școlar 2018-2019, aprobată prin Ordinul ministrului educației naționale nr. 5.472/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199863",
+   "versions": [
+    {
+     "from": "2018-04-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199863",
+     "sha256": "be826184099b8d787ea02c9637c9b188ed258ee448bf5abdae485cdd0b88b80e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3560-2018",
    "path": "ordin/educatie/2018/3560",
    "short": "Ordin educatie nr. 3560/2018",
@@ -5234,6 +5819,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200288",
      "sha256": "4287c13c3f1f6127be260827cd3db591665afd58aca303f9d83757ecd57bba4b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3565-2018",
+   "path": "ordin/educatie/2018/3565",
+   "short": "Ordin educatie nr. 3565/2018",
+   "title": "Ordinul nr. 3.565/2018 pentru modificarea Normelor metodologice privind procurarea, păstrarea, folosirea, scoaterea din uz și casarea sigiliilor și a timbrului sec cu stema României de către inspectoratele școlare, casele corpului didactic și unitățile de învățământ preuniversitar de stat și particular acreditate/autorizate, care fac parte din sistemul național de învățământ preuniversitar, aprobate prin Ordinul ministrului educației naționale nr. 4.511/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200341",
+   "versions": [
+    {
+     "from": "2018-05-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200341",
+     "sha256": "d8240f2e3c5872057ae940ad1c017c26ce9aca9fdd320fd5042a67ff77e92f75"
     }
    ]
   },
@@ -5358,6 +5958,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3768-2018",
+   "path": "ordin/educatie/2018/3768",
+   "short": "Ordin educatie nr. 3768/2018",
+   "title": "Ordinul nr. 3.768/2018 pentru modificarea anexei la Ordinul ministrului educației naționale nr. 4.774/2014 privind aprobarea înființării comisiilor naționale de specialitate și regulamentului de organizare și funcționare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201730",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201730",
+     "sha256": "5bd896b705d4ba87a0ae696a17726bc4592f190092776413d77b407dfc189028"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3900-2018",
    "path": "ordin/educatie/2018/3900",
    "short": "Ordin educatie nr. 3900/2018",
@@ -5369,6 +5984,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203182",
      "sha256": "ef5b093e12196ab790856bd899d89bc45e8389780b3af5367974da59b1489cd3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3914-2018",
+   "path": "ordin/educatie/2018/3914",
+   "short": "Ordin educatie nr. 3914/2018",
+   "title": "Ordinul nr. 3.914/2018 privind modificarea Regulamentului de organizare și funcționare a Consiliului Național pentru Finanțarea Învățământului Superior, aprobat prin Ordinul ministrului educației și cercetării științifice nr. 4.403/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201717",
+   "versions": [
+    {
+     "from": "2018-06-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201717",
+     "sha256": "ffe31f765330320e898ddc223d8fc428c4176b24c765ed1bb9d2e9f8a800c34c"
     }
    ]
   },
@@ -5388,6 +6018,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4005-2018",
+   "path": "ordin/educatie/2018/4005",
+   "short": "Ordin educatie nr. 4005/2018",
+   "title": "Ordinul nr. 4.005/2018 pentru modificarea Regulamentului privind regimul actelor de studii și al documentelor școlare gestionate de unitățile de învățământ preuniversitar, aprobat prin Ordinul ministrului educației naționale și cercetării științifice nr. 3.844/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202161",
+   "versions": [
+    {
+     "from": "2018-07-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202161",
+     "sha256": "5b961ad7b71d897600e1492f68b7645acd3cdfcd8e3300bfb03c9d26855d0f4f"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4046-2018",
    "path": "ordin/educatie/2018/4046",
    "short": "Ordin educatie nr. 4046/2018",
@@ -5399,6 +6044,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202730",
      "sha256": "9a098492bb0a6831d1262db9fe04d4226cebd1a0a146766036e5e90145df7ad0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4110-2018",
+   "path": "ordin/educatie/2018/4110",
+   "short": "Ordin educatie nr. 4110/2018",
+   "title": "Ordinul nr. 4.110/2018 pentru modificarea anexei nr. 4 la Regulamentul de organizare și funcționare a unităților de învățământ cu program sportiv suplimentar, aprobat prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.570/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202747",
+   "versions": [
+    {
+     "from": "2018-07-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202747",
+     "sha256": "1237e8cc888a0d08c23cf3e87aaf0497ef22eef0d881829c39f78780f883de6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4129-2018",
+   "path": "ordin/educatie/2018/4129",
+   "short": "Ordin educatie nr. 4129/2018",
+   "title": "Ordinul nr. 4.129/2018 privind modificarea și completarea anexei la Ordinul ministrului educației naționale nr. 3.850/2017 pentru aprobarea Metodologiei-cadru de organizare a programelor de formare psihopedagogică prin departamentele de specialitate din cadrul instituțiilor de învățământ superior acreditate în vederea certificării competențelor pentru profesia didactică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203245",
+   "versions": [
+    {
+     "from": "2018-07-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203245",
+     "sha256": "ef6aa16306264217e405631b7d5f52d4927a2ae5df7f37ecc6457975a0293ef8"
     }
    ]
   },
@@ -5478,6 +6153,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4215-2018",
+   "path": "ordin/educatie/2018/4215",
+   "short": "Ordin educatie nr. 4215/2018",
+   "title": "Ordinul nr. 4.215/2018 pentru modificarea art. 17 din Ordinul ministrului educației naționale nr. 3.622/2018 privind aprobarea planurilor-cadru pentru învățământul special preșcolar, primar și gimnazial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204042",
+   "versions": [
+    {
+     "from": "2018-08-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204042",
+     "sha256": "fff45af952f36c66b342b94b27b8057ef9d497b4b9224e931c9151ba85b7b085"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4217-2018",
    "path": "ordin/educatie/2018/4217",
    "short": "Ordin educatie nr. 4217/2018",
@@ -5489,6 +6179,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203943",
      "sha256": "725df6451c1a079a66ae06e0fe25827c8d65a995c08bf8b506863706547c3bb0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4451-2018",
+   "path": "ordin/educatie/2018/4451",
+   "short": "Ordin educatie nr. 4451/2018",
+   "title": "Ordinul nr. 4.451/2018 privind modificarea și completarea Ordinului ministrului educației naționale și al ministrului delegat pentru învățământ superior, cercetare științifică și dezvoltare tehnologică nr. 5.076/2014 pentru aprobarea Metodologiei privind recrutarea și selecția lectorilor de limba română care urmează să predea cursuri de limbă, literatură, cultură și civilizație românească în universități din străinătate și a Regulamentului privind funcționarea Corpului lectorilor în cadrul Institutului Limbii Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205865",
+   "versions": [
+    {
+     "from": "2018-10-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205865",
+     "sha256": "d35308fae3c4241cd727e06b4f8fb9af1454f46a121c779b11b47ac83c544f1d"
     }
    ]
   },
@@ -5564,6 +6269,21 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204544",
      "sha256": "218e497da68382c5e889f5bc3a5e12b42d880d497fde0714b3aaf37669972a72"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4828-2018",
+   "path": "ordin/educatie/2018/4828",
+   "short": "Ordin educatie nr. 4828/2018",
+   "title": "Ordinul nr. 4.828/2018 pentru modificarea și completarea Ordinului ministrului educației naționale și cercetării științifice nr. 3.590/2016 privind aprobarea planurilor-cadru de învățământ pentru învățământul gimnazial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/204760",
+   "versions": [
+    {
+     "from": "2018-09-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/204760",
+     "sha256": "2455737294d50a24eb3ec8c4883286f2486b0c592b55e7c3a2e5067cb7f80a4a"
     }
    ]
   },
@@ -5673,6 +6393,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5350-2018",
+   "path": "ordin/educatie/2018/5350",
+   "short": "Ordin educatie nr. 5350/2018",
+   "title": "Ordinul nr. 5.350/2018 pentru modificarea Normelor metodologice privind întocmirea proiectului de încadrare, respectiv a planului de încadrare a personalului didactic de predare din unitățile de învățământ preuniversitar și încadrarea în regim de plata cu ora a personalului didactic de predare din învățământul preuniversitar, aprobate prin Ordinul ministrului educației naționale nr. 4.165/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206226",
+   "versions": [
+    {
+     "from": "2018-10-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206226",
+     "sha256": "d299ec2bba436cde789aec26b0b4cdf2490d5be580d97748e25d592982c61b88"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5365-2018",
    "path": "ordin/educatie/2018/5365",
    "short": "Ordin educatie nr. 5365/2018",
@@ -5733,6 +6468,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5415-2018",
+   "path": "ordin/educatie/2018/5415",
+   "short": "Ordin educatie nr. 5415/2018",
+   "title": "Ordinul nr. 5.415/2018 pentru modificarea și completarea Normelor metodologice privind salarizarea prin plata cu ora pentru personalul didactic de predare, de conducere, de îndrumare și control, precum și pentru cadrele didactice metodiste din unitățile de învățământ preuniversitar de stat și unitățile conexe, aprobate prin Ordinul ministrului educației naționale nr. 4.827/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206911",
+   "versions": [
+    {
+     "from": "2018-11-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206911",
+     "sha256": "4d505a0f77476a722deafb357733938f8fb8997101104ae6d95999d4e7a226a8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5454-2018",
    "path": "ordin/educatie/2018/5454",
    "short": "Ordin educatie nr. 5454/2018",
@@ -5744,6 +6494,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208009",
      "sha256": "30da8d25d5be569bf09706e47111670be6ba8949565b0c82a2c5efeba8c4307a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5461-2018",
+   "path": "ordin/educatie/2018/5461",
+   "short": "Ordin educatie nr. 5461/2018",
+   "title": "Ordinul nr. 5.461/2018 pentru modificarea și completarea Procedurii de atribuire a denumirilor unităților de învățământ din sistemul național de învățământ preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 6.564/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/207082",
+   "versions": [
+    {
+     "from": "2018-11-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/207082",
+     "sha256": "5a7f4d331c4bdd6c768376c8f43e1b9f9412cdedc6292b068501729f888f820b"
     }
    ]
   },
@@ -5774,6 +6539,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210030",
      "sha256": "cd054d0ca04ef3a42b1d2a3cc26ffd3af21053593f98840ad9eeb111573ced10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5728-2018",
+   "path": "ordin/educatie/2018/5728",
+   "short": "Ordin educatie nr. 5728/2018",
+   "title": "Ordinul nr. 5.728/2018 pentru modificarea și completarea Metodologiei-cadru privind mobilitatea personalului didactic de predare din învățământul preuniversitar în anul școlar 2019-2020, aprobată prin Ordinul ministrului interimar al educației naționale nr. 5.460/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209685",
+   "versions": [
+    {
+     "from": "2019-01-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209685",
+     "sha256": "be44db2eaeacd67103347374acf9e368ed9afa26bc99fc9aed493ee8f7637be5"
     }
    ]
   },

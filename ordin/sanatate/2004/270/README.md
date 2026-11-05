@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 270/2004 · 1 versions, from 2004-04-30 (latest in force: 2004-04-30) · <https://legislatie.just.ro/Public/DetaliiDocument/51567>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 LISTA echipamentelor, materialelor și medicamentelor minime obligatorii pentru dotarea mijloacelor de intervenție pentru asistența medicală de urgență ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -21,6 +21,8 @@ Ordin sanatate nr. 270/2004 · 1 versions, from 2004-04-30 (latest in force: 200
 | Art. 13 | [art-013.md](art-013.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
@@ -33,5 +35,5 @@ Act id: `ordin-sanatate-270-2004` (tags `ordin-sanatate-270-2004/<day>`; `python
 - Ordin sanatate nr. 270/2004: the first version is the order as published in Monitorul Oficial nr. 382 of 30 April 2004 (document 51567 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 270/2004: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 270/2004: Anexa nr. 1 (1 SERVICIUL de asistență medicală de urgență prespitalicească și transport sanitar Definiție: serviciu autorizat de către Ministerul Sănătății, care acordă asistență medicală de urgență prespitaliceas) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 51567 of the official web service.
+- Ordin sanatate nr. 270/2004: Anexa nr. 2 (2 LISTA echipamentelor, materialelor și medicamentelor minime obligatorii pentru dotarea mijloacelor de intervenție pentru asistența medicală de urgență prespitalicească, primul ajutor și transport sa) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 51567 of the official web service.
 - Ordin sanatate nr. 270/2004: Anexa nr. 3 (3 FURNIZORII de servicii medicale de urgență prespitalicească și de transport sanitar I. Pot efectua servicii de asistență medicală de urgență prespitalicească și prim ajutor numai: - serviciile publi) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 51567 of the official web service.
-- Ordin sanatate nr. 270/2004: Anexa nr. 2 (2 LISTA echipamentelor, materialelor și medicamentelor minime obligatorii pentru dotarea mijloacelor de intervenție pentru asistența medicală de urgență ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

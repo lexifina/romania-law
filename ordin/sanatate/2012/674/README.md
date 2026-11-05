@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 674/2012 · 1 versions, from 2012-07-02 (latest in force: 2012-07-02) · <https://legislatie.just.ro/Public/DetaliiDocument/139259>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 MODELUL formularului de prescripție medicală electronică pentru medicamente cu și fără contribuție personală în tratamentul ambulatoriu I. Componentă ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 LISTA abrevierilor pentru țările cu care România are acorduri, înțelegeri, convenții sau protocoale internaționale cu prevederi în domeniul sănătății și ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 MODELUL formularului de prescripție medicală electronică pentru medicamente cu și fără contribuție personală în tratamentul ambulatoriu I. Componentă ...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -12,6 +12,8 @@ Ordin sanatate nr. 674/2012 · 1 versions, from 2012-07-02 (latest in force: 201
 | Art. 4 | [art-004.md](art-004.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
 Act id: `ordin-sanatate-674-2012` (tags `ordin-sanatate-674-2012/<day>`; `python tools/on.py <day> ordin-sanatate-674-2012`).
 
@@ -23,5 +25,5 @@ Act id: `ordin-sanatate-674-2012` (tags `ordin-sanatate-674-2012/<day>`; `python
 - Ordin sanatate nr. 674/2012: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 674/2012: a joint order of Ministerul Sănătății nr. 674 din 29 June 2012; Casa Națională de Asigurări de Sănătate nr. 252 din 28 June 2012. It is published once, here, under the issuer its EMITENT block lists first; `ordin-cnas-252-2012` name it too (data/paths.json aliases).
 - Ordin sanatate nr. 674/2012: Anexa nr. 2 (2 NORMA 28/06/2012) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 139259 of the official web service.
+- Ordin sanatate nr. 674/2012: Anexa nr. 3 (3 LISTA abrevierilor pentru țările cu care România are acorduri, înțelegeri, convenții sau protocoale internaționale cu prevederi în domeniul sănătății și statele membre ale Uniunii Europene și ale Sp) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 139259 of the official web service.
 - Ordin sanatate nr. 674/2012: Anexa nr. 1 (1 MODELUL formularului de prescripție medicală electronică pentru medicamente cu și fără contribuție personală în tratamentul ambulatoriu I. Componentă ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin sanatate nr. 674/2012: Anexa nr. 3 (3 LISTA abrevierilor pentru țările cu care România are acorduri, înțelegeri, convenții sau protocoale internaționale cu prevederi în domeniul sănătății și ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

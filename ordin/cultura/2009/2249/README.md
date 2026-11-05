@@ -1,0 +1,42 @@
+# Ordinul nr. 2.249/2009 pentru aprobarea formularelor tipizate generale de bibliotecă
+
+Ordin cultura nr. 2249/2009 · 1 versions, from 2009-10-02 (latest in force: 2009-10-02) · <https://legislatie.just.ro/Public/DetaliiDocument/111817>
+
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 *Font 7* Buletin de cerere): it is a table that the official text holds only flattened; Anexa nr. 2 (2 *Font 7* Declarație de pierdere a documentelor): it is a table that the official text holds only flattened; Anexa nr. 3 (3 *Font 7* Fișa contract de împrumut): it is a table that the official text holds only flattened; Anexa nr. 4 (4 *Font 7* Fișă de înscriere la bibliotecă): it is a table that the official text holds only flattened; Anexa nr. 5 (5 *Font 7* Fișa de lichidare a împrumuturilor de documente (pentru bibliotecile universitare cu filiale)): it is a table that the official text holds only flattened; Anexa nr. 6 (6 Înștiințare de restituire): it is a table that the official text holds only flattened; Anexa nr. 7 (7 *Font 7* PERMIS DE ACCES (pentru biblioteci informatizate)): it is a table that the official text holds only flattened; Anexa nr. 8 (8 *Font 7* PERMIS DE ACCES (pentru biblioteci neinformatizate)): it is a table that the official text holds only flattened; Anexa nr. 11 (11 *Font 7* RAPORT STATISTIC DE UTILIZARE A BIBLIOTECII ÎN ANUL....... BIBLIOTECA........................................................ ...): it is a table that the official text holds only flattened.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Anexa nr. 10 (what it is) | [anexa-10/README.md](anexa-10/README.md) | 0 |  |
+| Anexa nr. 10 | [anexa-10/text.md](anexa-10/text.md) | 0 |  |
+| Anexa nr. 12 (what it is) | [anexa-12/README.md](anexa-12/README.md) | 0 |  |
+| Anexa nr. 12 | [anexa-12/text.md](anexa-12/text.md) | 0 |  |
+| Anexa nr. 13 (what it is) | [anexa-13/README.md](anexa-13/README.md) | 0 |  |
+| Anexa nr. 13 | [anexa-13/text.md](anexa-13/text.md) | 0 |  |
+| Anexa nr. 9 (what it is) | [anexa-9/README.md](anexa-9/README.md) | 0 |  |
+| Anexa nr. 9 | [anexa-9/text.md](anexa-9/text.md) | 0 |  |
+
+Act id: `ordin-cultura-2249-2009` (tags `ordin-cultura-2249-2009/<day>`; `python tools/on.py <day> ordin-cultura-2249-2009`).
+
+## Decisions made by hand
+
+- Ordin cultura nr. 2249/2009: added from the official web service of the Portalul legislativ (FreeWebService) as the order as published (document 111817, retrieved 2026-11-03). Whether later acts amended it has not yet been checked against the official full-text search; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
+- Ordin cultura nr. 2249/2009: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
+- Ordin cultura nr. 2249/2009: the first version is the order as published in Monitorul Oficial nr. 653 of 2 October 2009 (document 111817 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
+- Ordin cultura nr. 2249/2009: the signatures and the place and date line after its last article are not article text.
+- Ordin cultura nr. 2249/2009: a joint order of Ministerul Culturii, Cultelor și Patrimoniului Național nr. 2.249 din 9 June 2009; Ministerul Educației, Cercetării și Inovării nr. 4.775 din 20 August 2009. It is published once, here, under the issuer its EMITENT block lists first; `ordin-educatie-4775-2009` name it too (data/paths.json aliases).
+- Ordin cultura nr. 2249/2009: Anexa nr. 9 (9 REGISTRUL DE ÎNSCRIERE A CITITORILOR (pentru biblioteci neinformatizate) *Font 8*) is part of the order and is published in its folder, anexa-9/ (paragraphs and tables), from document 111817 of the official web service.
+- Ordin cultura nr. 2249/2009: Anexa nr. 10 (10 CAIET DE EVIDENȚĂ A ACTIVITĂȚII DE BIBLIOTECĂ NOTE EXPLICATIVE 1. ALTE DOCUMENTE - Orice alte documente nonelectronice în afară de cele menționate deja (de exemplu: dioramele și alte documente trid) is part of the order and is published in its folder, anexa-10/ (paragraphs), from document 111817 of the official web service.
+- Ordin cultura nr. 2249/2009: Anexa nr. 12 (12 RAPORT STATISTIC ANUAL) is part of the order and is published in its folder, anexa-12/ (paragraphs), from document 111817 of the official web service.
+- Ordin cultura nr. 2249/2009: Anexa nr. 13 (13 REGISTRUL DE MIȘCARE A FONDURILOR NOTE EXPLICATIVE I. CATEGORII DE DOCUMENTE 1. PUBLICAȚIE SERIALĂ = document tipărit sau nu, care apare în fascicule succesive, înlănțuindu-se, în general, numeric) is part of the order and is published in its folder, anexa-13/ (paragraphs), from document 111817 of the official web service.
+- Ordin cultura nr. 2249/2009: Anexa nr. 1 (1 *Font 7* Buletin de cerere) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cultura nr. 2249/2009: Anexa nr. 2 (2 *Font 7* Declarație de pierdere a documentelor) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cultura nr. 2249/2009: Anexa nr. 3 (3 *Font 7* Fișa contract de împrumut) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cultura nr. 2249/2009: Anexa nr. 4 (4 *Font 7* Fișă de înscriere la bibliotecă) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cultura nr. 2249/2009: Anexa nr. 5 (5 *Font 7* Fișa de lichidare a împrumuturilor de documente (pentru bibliotecile universitare cu filiale)) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cultura nr. 2249/2009: Anexa nr. 6 (6 Înștiințare de restituire) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cultura nr. 2249/2009: Anexa nr. 7 (7 *Font 7* PERMIS DE ACCES (pentru biblioteci informatizate)) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cultura nr. 2249/2009: Anexa nr. 8 (8 *Font 7* PERMIS DE ACCES (pentru biblioteci neinformatizate)) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cultura nr. 2249/2009: Anexa nr. 11 (11 *Font 7* RAPORT STATISTIC DE UTILIZARE A BIBLIOTECII ÎN ANUL....... BIBLIOTECA........................................................ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin cultura nr. 2249/2009: the publisher's notes run into its text (*) Inclusiv diviziunea 004 Ştiinţa şi tehnologia calculatoarelor; *) Tabelele cu evidenţa documentelor difuzate în luna ....../anul ......, se găsesc în Monitorul Oficial al României, Pa; *) Tabelele cu ieşirea documentelor, se găsesc în Monitorul Oficial al României, Partea I, nr. 653 din 2 octombrie 2009,; *) Tabelele cu intrarea documentelor, se găsesc în Monitorul Oficial al României, Partea I, nr. 653 din 2 octombrie 2009; *) Tabelele cuprinzând recapitularea, se găsesc în Monitorul Oficial al României, Partea I, nr. 653 din 2 octombrie 2009; *) Tabelul cu evidenţa altor servicii oferite în luna ...../anul ......, se găseşte în Monitorul Oficial al României, Pa; *) Tabelul cu evidenţa utilizatorilor înscrişi în luna ...../anul ......, se găseşte în Monitorul Oficial al României, P; *) Tabelul cu evidenţa utilizării bibliotecii în luna ...../anul ......, se găseşte în Monitorul Oficial al României, Pa; *) Tabelul cu raportul statistic anual, se găseşte în Monitorul Oficial al României, Partea I, nr. 653 din 2 octombrie 2) are not text.

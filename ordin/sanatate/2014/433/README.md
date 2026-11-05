@@ -2,12 +2,14 @@
 
 Ordin sanatate nr. 433/2014 · 1 versions, from 2014-07-09 (latest in force: 2014-07-09) · <https://legislatie.just.ro/Public/DetaliiDocument/159748>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Notă...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 Notă...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 Notă...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 Notă...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 Notă...): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. I | [art-001.md](art-001.md) | 0 |  |
 | Art. II | [art-002.md](art-002.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
@@ -20,7 +22,7 @@ Act id: `ordin-sanatate-433-2014` (tags `ordin-sanatate-433-2014/<day>`; `python
 - Ordin sanatate nr. 433/2014: the first version is the order as published in Monitorul Oficial nr. 513 of 9 July 2014 (document 159748 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 433/2014: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 433/2014: a joint order of Ministerul Sănătății nr. 433 din 17 April 2014; Ministerul Mediului și Schimbărilor Climatice nr. 1.042 din 1 July 2014; Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor nr. 92 din 4 July 2014. It is published once, here, under the issuer its EMITENT block lists first; `ordin-mediu-1042-2014`, `ordin-ansvsa-92-2014` name it too (data/paths.json aliases).
+- Ordin sanatate nr. 433/2014: Anexa nr. 2 (2 Notă...) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 159748 of the official web service.
 - Ordin sanatate nr. 433/2014: Anexa nr. 3 (3 Notă...) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 159748 of the official web service.
 - Ordin sanatate nr. 433/2014: Anexa nr. 1 (1 Notă...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin sanatate nr. 433/2014: Anexa nr. 2 (2 Notă...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin sanatate nr. 433/2014: Anexa nr. 4 (4 Notă...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

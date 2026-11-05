@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 476/2017 · 1 versions, from 2017-05-18 (latest in force: 2017-05-18) · <https://legislatie.just.ro/Public/DetaliiDocument/189360>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 6 (Parcursul pacientului cu arsuri în interiorul sistemului medical adecvat vârstei - adult/pediatrie *Font 7* ...): it is a table that the official text holds only flattened; Anexa nr. 7 (Activități, competențe, acțiuni în unitățile funcționale și în compartimentele pentru arși Unitatea funcțională pentru arși se regăsește în structura unor ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -31,6 +31,10 @@ Ordin sanatate nr. 476/2017 · 1 versions, from 2017-05-18 (latest in force: 201
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
+| Anexa nr. 6 (what it is) | [anexa-6/README.md](anexa-6/README.md) | 0 |  |
+| Anexa nr. 6 | [anexa-6/text.md](anexa-6/text.md) | 0 |  |
+| Anexa nr. 7 (what it is) | [anexa-7/README.md](anexa-7/README.md) | 0 |  |
+| Anexa nr. 7 | [anexa-7/text.md](anexa-7/text.md) | 0 |  |
 
 Act id: `ordin-sanatate-476-2017` (tags `ordin-sanatate-476-2017/<day>`; `python tools/on.py <day> ordin-sanatate-476-2017`).
 
@@ -45,6 +49,6 @@ Act id: `ordin-sanatate-476-2017` (tags `ordin-sanatate-476-2017/<day>`; `python
 - Ordin sanatate nr. 476/2017: Anexa nr. 3 (A. Dotări cu echipamente, aparatură și consumabile ale centrelor pentru arși și ale unităților funcționale pentru arși La nivelul centrelor pentru arși vor exista: 1. aparatură și echipamente în sala) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 189360 of the official web service.
 - Ordin sanatate nr. 476/2017: Anexa nr. 4 (Atribuțiile, activitățile și serviciile desfășurate la nivelul centrului pentru arși Centrul pentru arși coordonează și îngrijirile ambulatorii la pacienți, asigurând și conexiuni cu structurile care) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 189360 of the official web service.
 - Ordin sanatate nr. 476/2017: Anexa nr. 5 (Criterii de internare, reinternare, transfer/externare din centrul pentru arși Criteriile de internare în centrul pentru arși sunt următoarele: a) &gt;10% arsuri grad 2 (adulți și copii);... b) arsuri) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 189360 of the official web service.
-- Ordin sanatate nr. 476/2017: Anexa nr. 6 (Parcursul pacientului cu arsuri în interiorul sistemului medical adecvat vârstei - adult/pediatrie *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin sanatate nr. 476/2017: Anexa nr. 7 (Activități, competențe, acțiuni în unitățile funcționale și în compartimentele pentru arși Unitatea funcțională pentru arși se regăsește în structura unor ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 476/2017: Anexa nr. 6 (Parcursul pacientului cu arsuri în interiorul sistemului medical adecvat vârstei - adult/pediatrie *Font 7*) is part of the order and is published in its folder, anexa-6/ (paragraphs and tables), from document 189360 of the official web service.
+- Ordin sanatate nr. 476/2017: Anexa nr. 7 (Activități, competențe, acțiuni în unitățile funcționale și în compartimentele pentru arși Unitatea funcțională pentru arși se regăsește în structura unor spitale de urgență și se află în relații prof) is part of the order and is published in its folder, anexa-7/ (paragraphs and tables), from document 189360 of the official web service.
 - Ordin sanatate nr. 476/2017: the publisher's note "*) Ordinul ministrului sănătăţii nr. 1.427/2004 nu a fost publicat în Monitorul Oficial al României, Partea I." is not text; the annexes it names are not published in Monitorul Oficial and are not part of this record.

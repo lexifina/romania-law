@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 1706/2007 · 1 versions, from 2007-10-25 (latest in force: 2007-10-25) · <https://legislatie.just.ro/Public/DetaliiDocument/86455>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (2 POSTURILE MINIME necesare funcționării UPU și a CPU și atribuțiile de bază obligatorii ale fiecărui post I. Posturile minime obligatorii pentru operarea UPU ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 FIȘA UPU/CPU SPITAL): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 FIȘA UPU/CPU SPITAL): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -121,6 +121,8 @@ Ordin sanatate nr. 1706/2007 · 1 versions, from 2007-10-25 (latest in force: 20
 | Art. 113 | [art-113.md](art-113.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 
@@ -133,6 +135,6 @@ Act id: `ordin-sanatate-1706-2007` (tags `ordin-sanatate-1706-2007/<day>`; `pyth
 - Ordin sanatate nr. 1706/2007: the first version is the order as published in Monitorul Oficial nr. 724 of 25 October 2007 (document 86455 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 1706/2007: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 1706/2007: Anexa nr. 1 (1 CLASIFICAREA, ORGANIZAREA ȘI DOTAREA UPU și a CPU Spațiile și dotarea aferentă UPU tip I UPU tip II CPU I. Spațiul pentru primire/triaj + + + Amplasare a) Se află la intrare în UPU/CPU. b) Din spați) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 86455 of the official web service.
+- Ordin sanatate nr. 1706/2007: Anexa nr. 2 (2 POSTURILE MINIME necesare funcționării UPU și a CPU și atribuțiile de bază obligatorii ale fiecărui post I. Posturile minime obligatorii pentru operarea UPU și a CPU, cu excepția situației în care U) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 86455 of the official web service.
 - Ordin sanatate nr. 1706/2007: Anexa nr. 4 (4 MODELUL RAPORTULUI DE GARDĂ Unitatea sanitară __________________________________ RAPORT DE GARDĂ UPU/CPU Nr. _____din___/___/200_ Începutul turei Sfârșitul turei orele____ din __/__/200_ orele____di) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 86455 of the official web service.
-- Ordin sanatate nr. 1706/2007: Anexa nr. 2 (2 POSTURILE MINIME necesare funcționării UPU și a CPU și atribuțiile de bază obligatorii ale fiecărui post I. Posturile minime obligatorii pentru operarea UPU ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin sanatate nr. 1706/2007: Anexa nr. 3 (3 FIȘA UPU/CPU SPITAL) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

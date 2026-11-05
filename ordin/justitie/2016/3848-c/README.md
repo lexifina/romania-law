@@ -2,7 +2,7 @@
 
 Ordin justitie nr. 3848/C/2016 · 1 versions, from 2016-11-21 (latest in force: 2016-11-21) · <https://legislatie.just.ro/Public/DetaliiDocument/183763>
 
-**Status:** Published as it appeared in the Monitorul Oficial; the official full-text search on 4 November 2026 finds no act changing it. Not included yet: Anexa nr. 1 (NORME privind articolele de curățenie și igienă individuală și colectivă asigurate de către administrația locului de deținere ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; the official full-text search on 4 November 2026 finds no act changing it.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,6 +19,8 @@ Ordin justitie nr. 3848/C/2016 · 1 versions, from 2016-11-21 (latest in force: 
 | Art. 11 | [art-011.md](art-011.md) | 0 |  |
 | Art. 12 | [art-012.md](art-012.md) | 0 |  |
 | Art. 13 | [art-013.md](art-013.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-justitie-3848-c-2016` (tags `ordin-justitie-3848-c-2016/<day>`; `python tools/on.py <day> ordin-justitie-3848-c-2016`).
 
@@ -28,4 +30,4 @@ Act id: `ordin-justitie-3848-c-2016` (tags `ordin-justitie-3848-c-2016/<day>`; `
 - Ordin justitie nr. 3848/C/2016: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin justitie nr. 3848/C/2016: the first version is the order as published in Monitorul Oficial nr. 933 of 21 November 2016 (document 183763 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin justitie nr. 3848/C/2016: the signatures and the place and date line after its last article are not article text.
-- Ordin justitie nr. 3848/C/2016: Anexa nr. 1 (NORME privind articolele de curățenie și igienă individuală și colectivă asigurate de către administrația locului de deținere ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin justitie nr. 3848/C/2016: Anexa nr. 1 (NORME privind articolele de curățenie și igienă individuală și colectivă asigurate de către administrația locului de deținere) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 183763 of the official web service.

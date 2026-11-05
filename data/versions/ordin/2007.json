@@ -3,6 +3,51 @@
  "shard": "ordin/2007",
  "acts": [
   {
+   "slug": "ordin-agricultura-2-2007",
+   "path": "ordin/agricultura/2007/2",
+   "short": "Ordin agricultura nr. 2/2007",
+   "title": "Ordinul nr. 2/2007 privind aprobarea prețurilor de referință pentru anul 2007 folosite la calculul contravalorii materialelor lemnoase prevăzute la art. 4 alin. (6) din Hotărârea Guvernului nr. 427/2004 pentru aprobarea Normelor privind circulația materialelor lemnoase și controlul circulației acestora și al instalațiilor de transformat lemn rotund",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78744",
+   "versions": [
+    {
+     "from": "2007-01-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78744",
+     "sha256": "032f4f62379151878ab4db2aa46db3a91d0bbb1bd44dc877b0ccc292bb0d5a76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-211-2007",
+   "path": "ordin/agricultura/2007/211",
+   "short": "Ordin agricultura nr. 211/2007",
+   "title": "Ordinul nr. 211/2007 pentru aprobarea Normelor de aplicare a programelor de restructurare/reconversie a plantațiilor viticole, pentru campaniile 2006-2007 și 2007-2008, derulate cu sprijin comunitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80385",
+   "versions": [
+    {
+     "from": "2007-03-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80385",
+     "sha256": "f015536459df8eb0dc2b2e124cd8ee7fe55f262218ea020fc74a1f15ea7c3e08"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-219-2007",
+   "path": "ordin/agricultura/2007/219",
+   "short": "Ordin agricultura nr. 219/2007",
+   "title": "Ordinul nr. 219/2007 pentru aprobarea regulilor privind înregistrarea operatorilor în agricultura ecologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80982",
+   "versions": [
+    {
+     "from": "2007-04-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80982",
+     "sha256": "699a70e4c3d0b9dfef04ebd33a336c410daba54214e6fb1459d6e06d0e437f64"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-237-2007",
    "path": "ordin/agricultura/2007/237",
    "short": "Ordin agricultura nr. 237/2007",
@@ -18,6 +63,51 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-239-2007",
+   "path": "ordin/agricultura/2007/239",
+   "short": "Ordin agricultura nr. 239/2007",
+   "title": "Ordinul nr. 239/2007 pentru aprobarea Normelor metodologice privind atestarea persoanelor juridice pentru a desfășura activități de îmbunătățiri funciare pe terenuri din domeniul agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81253",
+   "versions": [
+    {
+     "from": "2007-04-18",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81253",
+     "sha256": "0ae80b1c4e81f3e594f4f2476732cd819ffb2c4bd2724e62cb3f6d23b251f5d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-295-2007",
+   "path": "ordin/agricultura/2007/295",
+   "short": "Ordin agricultura nr. 295/2007",
+   "title": "Ordinul nr. 295/2007 pentru stabilirea modului de implementare, a condițiilor specifice și a criteriilor de eligibilitate pentru aplicarea schemelor de plăți naționale directe complementare în sectorul zootehnic, în acord cu reglementările comunitare în domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81504",
+   "versions": [
+    {
+     "from": "2007-04-27",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81504",
+     "sha256": "21239906cf16866b97f03b86fea1bb89c7b4330ead24592522765da1469023e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-325-2007",
+   "path": "ordin/agricultura/2007/325",
+   "short": "Ordin agricultura nr. 325/2007",
+   "title": "Ordinul nr. 325/2007 pentru aprobarea Normelor privind atribuirea dreptului de pescuit în scop comercial în bazinele piscicole naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82843",
+   "versions": [
+    {
+     "from": "2007-06-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82843",
+     "sha256": "65eafe7462079edb692d45ad14d0e1809f6def2b28a6f5789c0872100ef55358"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-337-2007",
    "path": "ordin/agricultura/2007/337",
    "short": "Ordin agricultura nr. 337/2007",
@@ -29,6 +119,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83637",
      "sha256": "d854ec162877210f30507aee611dc25af927b4b8d30c9fdc98dacd33a4289c45"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-338-2007",
+   "path": "ordin/agricultura/2007/338",
+   "short": "Ordin agricultura nr. 338/2007",
+   "title": "Ordinul nr. 338/2007 privind recunoașterea Acordului interprofesional pentru sfecla de zahăr - recolta anului de comercializare 2007-2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81538",
+   "versions": [
+    {
+     "from": "2007-05-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81538",
+     "sha256": "c895d9897e7643b07b0014cd31906a7ac8c75d980b30610c9e60e8034a068547"
     }
    ]
   },
@@ -93,6 +198,246 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-351-2007",
+   "path": "ordin/agricultura/2007/351",
+   "short": "Ordin agricultura nr. 351/2007",
+   "title": "Ordinul nr. 351/2007 pentru aprobarea modelului Caietului fermierului privind evidența efectivului vacilor de lapte și a producțiilor, care trebuie ținut de către producătorii care vând lapte și produse lactate consumatorilor, cărora DACL le acordă cotă individuală pentru vânzări directe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82098",
+   "versions": [
+    {
+     "from": "2007-05-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82098",
+     "sha256": "8abe319fd2b052b074d16d98b6a150bc2994bf58f3a7f076d827e99452a4c418"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-355-2007",
+   "path": "ordin/agricultura/2007/355",
+   "short": "Ordin agricultura nr. 355/2007",
+   "title": "Ordinul nr. 355/2007 privind aprobarea criteriilor de încadrare, delimitării și listei unităților administrativ-teritoriale din zona montană defavorizată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82029",
+   "versions": [
+    {
+     "from": "2007-05-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82029",
+     "sha256": "9ed17ef993028820f26688905a3fd7155d711ab84ae3d94bd664ac2b03beafaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-378-2007",
+   "path": "ordin/agricultura/2007/378",
+   "short": "Ordin agricultura nr. 378/2007",
+   "title": "Ordinul nr. 378/2007 privind măsurile pentru combaterea și prevenirea răspândirii păduchelui din San Jose",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82348",
+   "versions": [
+    {
+     "from": "2007-05-28",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82348",
+     "sha256": "063cdd8287c03d14ea5c16002e55c657da6feb9eab0029d942addbf10cce9fc4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-498-2007",
+   "path": "ordin/agricultura/2007/498",
+   "short": "Ordin agricultura nr. 498/2007",
+   "title": "Ordinul nr. 498/2007 privind instituirea procedurii de administrare specială la Societatea Comercială \"Piscicola Zau\" - S.A. din localitatea Zau de Câmpie, județul Mureș",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83214",
+   "versions": [
+    {
+     "from": "2007-06-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83214",
+     "sha256": "00e8d12daf484ff3d0979afd11f9daf3bc5bc7d6f872c7ec964c1f5396f20910"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-5-2007",
+   "path": "ordin/agricultura/2007/5",
+   "short": "Ordin agricultura nr. 5/2007",
+   "title": "Ordinul nr. 5/2007 pentru stabilirea Listei cantitaților specifice ale produselor agroalimentare deținute în stoc la 1 ianuarie 2007, a căror depășire creează obligația transmiterii declarațiilor de stoc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78669",
+   "versions": [
+    {
+     "from": "2007-01-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78669",
+     "sha256": "bd9adac1cb5acfb18dd723bfa4d17bc394f08b050674c8128707f9615d46a3d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-514-2007",
+   "path": "ordin/agricultura/2007/514",
+   "short": "Ordin agricultura nr. 514/2007",
+   "title": "Ordinul nr. 514/2007 privind practicarea pescuitului recreativ/sportiv în bazinele piscicole naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83353",
+   "versions": [
+    {
+     "from": "2007-07-04",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83353",
+     "sha256": "dbea04390595b63fb894083a3111a2c5323f618f4bf20843d98165c3ba60ed97"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-549-2007",
+   "path": "ordin/agricultura/2007/549",
+   "short": "Ordin agricultura nr. 549/2007",
+   "title": "Ordinul nr. 549/2007 privind stabilirea modului de implementare, a condițiilor specifice și a criteriilor de eligibilitate pentru aplicarea schemei de plăți directe pe suprafața pentru culturi energetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83648",
+   "versions": [
+    {
+     "from": "2007-07-17",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83648",
+     "sha256": "42c2eac6d5326a190f56ce9f0ac3074061b16a4cfe46c6ef2e9968c9d9c58c15"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-56-2007",
+   "path": "ordin/agricultura/2007/56",
+   "short": "Ordin agricultura nr. 56/2007",
+   "title": "Ordinul nr. 56/2007 privind aprobarea schimbării denumirii unor soiuri înregistrate anterior în Catalogul oficial al plantelor de cultură din România, pentru a corespunde reglementărilor Comunității Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79310",
+   "versions": [
+    {
+     "from": "2007-02-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79310",
+     "sha256": "974af95a681b0c5e0dc2f47b53905db678c3900daf82e41357f5d96f0f9a3d73"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-579-2007",
+   "path": "ordin/agricultura/2007/579",
+   "short": "Ordin agricultura nr. 579/2007",
+   "title": "Ordinul nr. 579/2007 privind stabilirea modelelor de certificate fitosanitare sau de certificate fitosanitare pentru reexport oficiale, care însoțesc plantele, produsele vegetale sau alte obiecte care provin din țări terțe și care sunt menționate în Hotărârea Guvernului nr. 563/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83841",
+   "versions": [
+    {
+     "from": "2007-07-25",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83841",
+     "sha256": "1faa71872f2317c4f26118f92b6c9eeb8478018f51d290388aa8e94b048a7445"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-580-2007",
+   "path": "ordin/agricultura/2007/580",
+   "short": "Ordin agricultura nr. 580/2007",
+   "title": "Ordinul nr. 580/2007 privind procedura de înregistrare a producătorilor și importatorilor de plante, produse vegetale sau alte obiecte și de stabilire a anumitor obligații pentru aceștia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83852",
+   "versions": [
+    {
+     "from": "2007-07-25",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83852",
+     "sha256": "a97da968f14bcd29d53bf813d93b9f91c0658b21c94f203a82ce3b1b6017ef9c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-581-2007",
+   "path": "ordin/agricultura/2007/581",
+   "short": "Ordin agricultura nr. 581/2007",
+   "title": "Ordinul nr. 581/2007 privind recunoașterea zonelor protejate expuse anumitor riscuri fitosanitare în Comunitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83856",
+   "versions": [
+    {
+     "from": "2007-07-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83856",
+     "sha256": "a80154983e5eaf5f13932f1209320d1832621f5c118a03e2b3b5ce7f27a33c7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-583-2007",
+   "path": "ordin/agricultura/2007/583",
+   "short": "Ordin agricultura nr. 583/2007",
+   "title": "Ordinul nr. 583/2007 privind stabilirea unui grad de standardizare pentru pașapoartele fitosanitare utilizate pentru circulația anumitor plante, produse vegetale sau alte obiecte în Comunitate și stabilirea procedurilor detaliate de eliberare a pașapoartelor fitosanitare, condițiilor și procedurilor detaliate de înlocuire a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83831",
+   "versions": [
+    {
+     "from": "2007-07-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83831",
+     "sha256": "577e07578a133876f393fa3f2aa111eaffdf77df959e3819b6afd0202d07b504"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-584-2007",
+   "path": "ordin/agricultura/2007/584",
+   "short": "Ordin agricultura nr. 584/2007",
+   "title": "Ordinul nr. 584/2007 privind stabilirea regulilor pentru circulația anumitor plante, produse vegetale sau altor obiecte printr-o zonă protejată și pentru circulația acestor plante, produse vegetale sau altor obiecte originare dintr-o zonă protejată și care circulă într-o astfel de zonă protejată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83837",
+   "versions": [
+    {
+     "from": "2007-07-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83837",
+     "sha256": "d2155b4b0ccf3bfa0ca5f5193726b77698bd260ae2e0a07f56e8768cdf7149bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-585-2007",
+   "path": "ordin/agricultura/2007/585",
+   "short": "Ordin agricultura nr. 585/2007",
+   "title": "Ordinul nr. 585/2007 privind controlul de identitate și controlul fitosanitar ale plantelor, produselor vegetale sau ale altor obiecte, prevăzute în partea B din anexa nr. V la Hotărârea Guvernului nr. 563/2007, care pot fi efectuate în alt loc decât punctul de intrare în Comunitate sau într-un loc apropiat acestuia, și care specifică condițiile legate de aceste controale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83882",
+   "versions": [
+    {
+     "from": "2007-07-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83882",
+     "sha256": "c8e2008f9657784ec7a536e1f26f55bc66e9a0cd1e744f54c5c0b778c5528906"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-586-2007",
+   "path": "ordin/agricultura/2007/586",
+   "short": "Ordin agricultura nr. 586/2007",
+   "title": "Ordinul nr. 586/2007 privind controlul bacteriei Ralstonia solanacearum (Smith) Yabuuchi et al.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84159",
+   "versions": [
+    {
+     "from": "2007-08-02",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84159",
+     "sha256": "2a7371024861cbd7b6ef525b0cb8e09b45a2936e7b6891be80edd955a2c67e50"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-601-2007",
+   "path": "ordin/agricultura/2007/601",
+   "short": "Ordin agricultura nr. 601/2007",
+   "title": "Ordinul nr. 601/2007 privind aprobarea modificării anexei N la Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 850/2006 pentru aprobarea normelor metodologice privind modul de acordare a sprijinului financiar pentru activitățile din sectorul vegetal, zootehnic, al îmbunătățirilor funciare și al organizării și sistematizării teritoriului, precum și condițiile de eligibilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84721",
+   "versions": [
+    {
+     "from": "2007-08-23",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84721",
+     "sha256": "bd4445133007d76f730ccac1c4dfd1be03065098521026b599b459a88c3b2aef"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-640-2007",
    "path": "ordin/agricultura/2007/640",
    "short": "Ordin agricultura nr. 640/2007",
@@ -123,6 +468,336 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-68-2007",
+   "path": "ordin/agricultura/2007/68",
+   "short": "Ordin agricultura nr. 68/2007",
+   "title": "Ordinul nr. 68/2007 pentru aprobarea Listei cuprinzând gradatorii autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79403",
+   "versions": [
+    {
+     "from": "2007-02-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79403",
+     "sha256": "10a640636d3c2c2e0305081de836f259ab50710895c15fe97856ef8f0ec40536"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-682-2007",
+   "path": "ordin/agricultura/2007/682",
+   "short": "Ordin agricultura nr. 682/2007",
+   "title": "Ordinul nr. 682/2007 pentru aprobarea Normelor privind acordarea ajutorului comunitar pentru procesarea primară a tulpinilor de în și de cânepă pentru fibre în anul de piață 2007-2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84847",
+   "versions": [
+    {
+     "from": "2007-08-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84847",
+     "sha256": "ed5b8142487221b9c283ed37bba57cded31de3b8581aef3c23fe2b17d6ec306b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-684-2007",
+   "path": "ordin/agricultura/2007/684",
+   "short": "Ordin agricultura nr. 684/2007",
+   "title": "Ordinul nr. 684/2007 privind recunoașterea organizațiilor de producători și a grupurilor de producători recunoscute preliminar în sectorul fructe și legume",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84797",
+   "versions": [
+    {
+     "from": "2007-08-27",
+     "units": 100,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84797",
+     "sha256": "126f7749baaad0fe17f648800925d9cd9dea567b0033c05bcd2b6aadd4549fe3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-685-2007",
+   "path": "ordin/agricultura/2007/685",
+   "short": "Ordin agricultura nr. 685/2007",
+   "title": "Ordinul nr. 685/2007 pentru stabilirea condițiilor în vederea introducerii sau punerii în circulație în România ori în anumite zone protejate din România, în scopuri experimentale sau științifice și lucrări pentru selecții varietale, a anumitor organisme de carantină dăunătoare, plante, produse vegetale și alte obiecte prevăzute în anexele nr. I-V la Hotărârea Guvernului nr. 563/2007 pentru aprobarea normelor metodologice de aplicare a Ordonanței Guvernului nr. 136/2000 privind măsurile de protecție împotriva introducerii și răspândirii organismelor de carantină dăunătoare plantelor sau produselor vegetale în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85222",
+   "versions": [
+    {
+     "from": "2007-09-07",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85222",
+     "sha256": "886a91083c81dcaca8f0fa8c2e0155827109373878a0493b1b35af1362ffd3de"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-686-2007",
+   "path": "ordin/agricultura/2007/686",
+   "short": "Ordin agricultura nr. 686/2007",
+   "title": "Ordinul nr. 686/2007 privind procedura de încasare a tarifelor fitosanitare stabilite în anexa nr. VIII la Hotărârea Guvernului nr. 563/2007 pentru efectuarea controalelor documentare, de identitate și fitosanitare la plantele, produsele vegetale și alte obiecte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84748",
+   "versions": [
+    {
+     "from": "2007-10-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84748",
+     "sha256": "4e69d6c96ca07e0b679228e665698960ac327369c754f6a4198df0749f0acf39"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-688-2007",
+   "path": "ordin/agricultura/2007/688",
+   "short": "Ordin agricultura nr. 688/2007",
+   "title": "Ordinul nr. 688/2007 pentru aprobarea Regulilor privind organizarea sistemului de inspecție și certificare, de aprobare a organismelor de inspecție și certificare și de supraveghere a activității organismelor de control",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84905",
+   "versions": [
+    {
+     "from": "2007-08-30",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84905",
+     "sha256": "bd91c96c5b719d66730a183157f3ecf516c89ad5fc2c4ae0c60b2bc8dae0b39b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-689-2007",
+   "path": "ordin/agricultura/2007/689",
+   "short": "Ordin agricultura nr. 689/2007",
+   "title": "Ordinul nr. 689/2007 pentru aprobarea cuantumului estimat al plafonului maxim la hectar, unitar la nivel național, al subvențiilor de la bugetul de stat ce se acordă pentru acoperirea cheltuielilor necesare desfășurării activității de irigații pentru sezonul de irigații al anului 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84698",
+   "versions": [
+    {
+     "from": "2007-08-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84698",
+     "sha256": "2cb703e6e9d431d049a9277045973a2f553400cfbe49f286a2acccc84afd4f3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-690-2007",
+   "path": "ordin/agricultura/2007/690",
+   "short": "Ordin agricultura nr. 690/2007",
+   "title": "Ordinul nr. 690/2007 privind stabilirea cuantumului contribuției anticipate ce se plătește ca procent din tariful anual, din tariful de livrare a apei pentru irigații și ca procent din costurile cu energia electrică necesară pompării apei pentru irigații pentru sezonul de irigații 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84699",
+   "versions": [
+    {
+     "from": "2007-08-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84699",
+     "sha256": "4ddac552ad62e7d8f879faac67bfc0a03724fbbb474e79f7febfc36b86c16733"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-697-2007",
+   "path": "ordin/agricultura/2007/697",
+   "short": "Ordin agricultura nr. 697/2007",
+   "title": "Ordinul nr. 697/2007 privind aprobarea Normelor de acordare a ajutorului comunitar pentru furnizarea laptelui și a anumitor produse lactate în instituțiile școlare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85649",
+   "versions": [
+    {
+     "from": "2007-09-26",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85649",
+     "sha256": "d66abd6c19e681fe25e4b6fb8f0c34654e1128e182bec00021f6c348f71fe36b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-698-2007",
+   "path": "ordin/agricultura/2007/698",
+   "short": "Ordin agricultura nr. 698/2007",
+   "title": "Ordinul nr. 698/2007 privind extinderea procedurii de înregistrare a producătorilor unor plante care nu sunt prevăzute în partea A a anexei nr. V la Hotărârea Guvernului nr. 563/2007 sau a depozitelor colective ori a centrelor de expediere din zonele de producție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84960",
+   "versions": [
+    {
+     "from": "2007-08-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84960",
+     "sha256": "ba870b9cd9257a1f846f5debb50b58bc6ee18e5f3f27740e35722ced515cc771"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-700-2007",
+   "path": "ordin/agricultura/2007/700",
+   "short": "Ordin agricultura nr. 700/2007",
+   "title": "Ordinul nr. 700/2007 pentru aprobarea Normelor metodologice de aplicare a Ordonanței Guvernului nr. 31/2007 privind reglementarea unor măsuri financiare pentru stimularea gradului de absorbție a fondurilor alocate prin Programul SAPARD",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85123",
+   "versions": [
+    {
+     "from": "2007-09-05",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85123",
+     "sha256": "bc50379e2a70f3cf21b054a575c1b8ac8bf9e424504ad391b4ce14af56a31c5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-72-2007",
+   "path": "ordin/agricultura/2007/72",
+   "short": "Ordin agricultura nr. 72/2007",
+   "title": "Ordinul nr. 72/2007 privind aprobarea modelelor formularelor utilizate pentru declararea stocurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79554",
+   "versions": [
+    {
+     "from": "2007-02-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79554",
+     "sha256": "e9a3307f3e6e771ff1b6b38afda62f814c86edf24ef57e86b1eb71ee96ce70fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-723-2007",
+   "path": "ordin/agricultura/2007/723",
+   "short": "Ordin agricultura nr. 723/2007",
+   "title": "Ordinul nr. 723/2007 privind unele măsuri pentru aplicarea art. 74 din Regulamentul (CE) nr. 796/2004 al Comisiei din 21 aprilie 2004 de stabilire a normelor de aplicare a condiționării, modulării și a sistemului integrat de gestiune și control, prevăzute de Regulamentul (CE) nr. 1.782/2003 al Consiliului din 29 septembrie 2003 de stabilire a normelor comune pentru schemele de sprijin direct în cadrul politicii agricole comune și de stabilire a anumitor scheme de sprijin pentru agricultori, referitor la transferul exploatațiilor agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85505",
+   "versions": [
+    {
+     "from": "2007-09-20",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85505",
+     "sha256": "10191eb38c756b5531b43ffa576fc5a486da6a665bc04a6a09dd991d4a05414e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-756-2007",
+   "path": "ordin/agricultura/2007/756",
+   "short": "Ordin agricultura nr. 756/2007",
+   "title": "Ordinul nr. 756/2007 privind inspectorii fitosanitari împuterniciți să elibereze certificate fitosanitare pentru plante, produse vegetale sau alte obiecte destinate exportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85353",
+   "versions": [
+    {
+     "from": "2007-09-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85353",
+     "sha256": "374896450250d4561b53c1e0acf598cef606437721f9ce8d35cf0a6f663533f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-762-2007",
+   "path": "ordin/agricultura/2007/762",
+   "short": "Ordin agricultura nr. 762/2007",
+   "title": "Ordinul nr. 762/2007 privind instituirea procedurii de administrare specială la Societatea Națională \"Îmbunătățiri Funciare\" - S.A. București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85126",
+   "versions": [
+    {
+     "from": "2007-09-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85126",
+     "sha256": "f93b8a634f0e64fe0c9f9b6527822d58f9d9eb7df253b54602dd92c96146ebe6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-764-2007",
+   "path": "ordin/agricultura/2007/764",
+   "short": "Ordin agricultura nr. 764/2007",
+   "title": "Ordinul nr. 764/2007 pentru aprobarea Listei cu gradatori autorizați",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85260",
+   "versions": [
+    {
+     "from": "2007-09-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85260",
+     "sha256": "e9b11ae8bde2735a0d73dcfcc812b945baa75eafcd4a5024717fcefc86e16045"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-766-2007",
+   "path": "ordin/agricultura/2007/766",
+   "short": "Ordin agricultura nr. 766/2007",
+   "title": "Ordinul nr. 766/2007 pentru aprobarea Normelor metodologice privind modul de prevenire, constatare, evaluare și aprobare a pierderilor provocate de fenomene meteorologice periculoase și de alți factori vătămători fondului forestier național, vegetației forestiere din afara fondului forestier național și obiectivelor instalate în acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85548",
+   "versions": [
+    {
+     "from": "2007-09-21",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85548",
+     "sha256": "5ab0e4cbbbd6cf2fb8c38a45963125ccf2541443625b4a20009828baf97a3e9a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-767-2007",
+   "path": "ordin/agricultura/2007/767",
+   "short": "Ordin agricultura nr. 767/2007",
+   "title": "Ordinul nr. 767/2007 privind aprobarea Listei resurselor genetice animale în stare critică, în pericol de dispariție și a celor vulnerabile, care sunt supuse programelor de conservare în anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85805",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85805",
+     "sha256": "1b0d05a96e32fba64b524d801d13e9bbd30ae02405dcfce8798a013156b699af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-772-2007",
+   "path": "ordin/agricultura/2007/772",
+   "short": "Ordin agricultura nr. 772/2007",
+   "title": "Ordinul nr. 772/2007 privind criteriile de recunoaștere a organizațiilor de producători din sectorul pescuitului și acvaculturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86176",
+   "versions": [
+    {
+     "from": "2007-10-17",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86176",
+     "sha256": "751bed7c50137996d88f2f079d9b4d569a769d9f127b332781fcf7d3f155e9c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-796-2007",
+   "path": "ordin/agricultura/2007/796",
+   "short": "Ordin agricultura nr. 796/2007",
+   "title": "Ordinul nr. 796/2007 privind aplicarea măsurii de retragere sub control a subproduselor vitivinicole pentru campania viticolă 2007-2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85809",
+   "versions": [
+    {
+     "from": "2007-10-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85809",
+     "sha256": "4db8dd392f586beede22ad941273cf7acd62d1c6bb5291b866f905fe47a6a6bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-797-2007",
+   "path": "ordin/agricultura/2007/797",
+   "short": "Ordin agricultura nr. 797/2007",
+   "title": "Ordinul nr. 797/2007 pentru constituirea băncii de date analitice în vederea creării cazierului vinicol pentru fiecare an de producție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85738",
+   "versions": [
+    {
+     "from": "2007-09-28",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85738",
+     "sha256": "c457415514cd25f18865825a63e5057a1b1aa626212b158540c98bed3fe82ba7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-824-2007",
+   "path": "ordin/agricultura/2007/824",
+   "short": "Ordin agricultura nr. 824/2007",
+   "title": "Ordinul nr. 824/2007 pentru aprobarea Normelor de acordare a ajutorului comunitar crescătorilor de viermi de mătase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85940",
+   "versions": [
+    {
+     "from": "2007-10-08",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85940",
+     "sha256": "0eb542b90bb8cd9f6212662f2d6b1e1b55e9ad9b865e474b05db7d44ae99df70"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-832-2007",
    "path": "ordin/agricultura/2007/832",
    "short": "Ordin agricultura nr. 832/2007",
@@ -134,6 +809,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84088",
      "sha256": "a668b088eae6b99687d16d28741a7c7cc22fc835164012a66bbd49f933150e62"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-901-2007",
+   "path": "ordin/agricultura/2007/901",
+   "short": "Ordin agricultura nr. 901/2007",
+   "title": "Ordinul nr. 901/2007 privind revizuirea volumului maxim de lemn pe picior care poate fi recoltat în anul 2007 pe categorii de resurse și pe destinații și repartizarea acestuia pe județe, pentru pădurile proprietate publică a unităților administrativ-teritoriale, pădurile proprietate privată a persoanelor fizice și juridice de drept privat și pentru vegetația forestieră situată pe terenuri din afara fondului forestier național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86629",
+   "versions": [
+    {
+     "from": "2007-11-05",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86629",
+     "sha256": "eacaa58c1355d92b132c1fb13a01265f2fab39e52659a124660a237964fbfe97"
     }
    ]
   },
@@ -153,6 +843,66 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-906-2007",
+   "path": "ordin/agricultura/2007/906",
+   "short": "Ordin agricultura nr. 906/2007",
+   "title": "Ordinul nr. 906/2007 privind aprobarea Procedurii de înregistrare și verificare a documentației pentru dobândirea protecției unei indicații geografice sau denumiri de origine a unui produs agricol ori alimentar, Procedurii de declarare a opoziției la nivel național și a Procedurii de transmitere la nivelul Comisiei Europene a cererii de înregistrare a indicațiilor geografice sau denumirilor de origine ale produselor agricole ori alimentare, în vederea dobândirii protecției la nivelul Uniunii Europene, precum și a Regulilor specifice privind modelul și utilizarea logoului național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86690",
+   "versions": [
+    {
+     "from": "2007-11-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86690",
+     "sha256": "f9cd6c380b9746f69525530b3c985850dc5e1c92ce548bbda5aa2324b2852e00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-917-2007",
+   "path": "ordin/agricultura/2007/917",
+   "short": "Ordin agricultura nr. 917/2007",
+   "title": "Ordinul nr. 917/2007 pentru aprobarea modelului-cadru al actului adițional care se încheie la contractele de gestionare a fondurilor de vânătoare aflate în derulare la data intrării în vigoare a Legii vânătorii și a protecției fondului cinegetic nr. 407/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87122",
+   "versions": [
+    {
+     "from": "2007-11-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87122",
+     "sha256": "3cadc66c84e968f71ccff1680fb8ff634a2d364c6b2090f7078818562f967247"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-933-2007",
+   "path": "ordin/agricultura/2007/933",
+   "short": "Ordin agricultura nr. 933/2007",
+   "title": "Ordinul nr. 933/2007 privind aprobarea prețului mediu al unui metru cub de masă lemnoasă pe picior, pe baza căruia se calculează valoarea despăgubirilor pentru pagubele produse fondului forestier și vegetației forestiere din afara fondului forestier, pentru calculul despăgubirilor care se acordă pentru funcțiile de protecție asigurate de păduri, precum și pentru calculul obligațiilor bănești aferente scoaterii de terenuri din fondul forestier național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87747",
+   "versions": [
+    {
+     "from": "2007-12-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87747",
+     "sha256": "9ab642c0152162c7f529fa822d5a5e28beac8ea3bfb8bb00b1589654d49462bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-97-2007",
+   "path": "ordin/agricultura/2007/97",
+   "short": "Ordin agricultura nr. 97/2007",
+   "title": "Ordinul nr. 97/2007 privind aprobarea structurii serviciilor și a tarifelor prin care se constituie veniturile proprii ale Agenției Naționale de Consultanță Agricolă și a unităților subordonate acesteia, a cuantumului tarifelor, precum și a modalităților de încasare și de utilizare a fondurilor pentru anul 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82202",
+   "versions": [
+    {
+     "from": "2007-05-22",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82202",
+     "sha256": "bd4735880bfa41045d931825d4219c693c597e2f007d4f0149ff9e1c3d9dde99"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-972-2007",
    "path": "ordin/agricultura/2007/972",
    "short": "Ordin agricultura nr. 972/2007",
@@ -164,6 +914,21 @@
      "units": 14,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88925",
      "sha256": "d37eb7726a808beb57c297f5af819d3f3ce38982e86f6c2bd5fb82a0473f1950"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-976-2007",
+   "path": "ordin/agricultura/2007/976",
+   "short": "Ordin agricultura nr. 976/2007",
+   "title": "Ordinul nr. 976/2007 pentru aprobarea prețurilor de referință pentru anul 2008, folosite la calculul contravalorii materialelor lemnoase prevăzute la art. 4 alin. (6) din Hotărârea Guvernului nr. 427/2004 pentru aprobarea Normelor privind circulația materialelor lemnoase și controlul circulației acestora și al instalațiilor de transformat lemn rotund",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88217",
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88217",
+     "sha256": "2fb306099d9204816d69466c6086dc85818fd79b3a88e81b79b5d14f982b54fc"
     }
    ]
   },
@@ -4098,6 +4863,876 @@
    ]
   },
   {
+   "slug": "ordin-educatie-1016-2007",
+   "path": "ordin/educatie/2007/1016",
+   "short": "Ordin educatie nr. 1016/2007",
+   "title": "Ordinul nr. 1.016/2007 privind Metodologia de organizare și desfășurare a probei anticipate susținute de elevii claselor a XI-a din secțiile bilingve francofone care participă la Proiectul-pilot \"De la învățământul bilingv către filierele francofone\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83539",
+   "versions": [
+    {
+     "from": "2007-07-12",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83539",
+     "sha256": "e074193e08a606539969cc94e058336fb11eed03314da8931dc3ed58e433f679"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1077-2007",
+   "path": "ordin/educatie/2007/1077",
+   "short": "Ordin educatie nr. 1077/2007",
+   "title": "Ordinul nr. 1.077/2007 privind repartizarea cifrei de școlarizare pe instituții de învățământ superior, în vederea admiterii la studii în anul universitar 2007-2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83355",
+   "versions": [
+    {
+     "from": "2007-07-04",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83355",
+     "sha256": "fdf73f3816d4c5d4f5f506584ddf2ab5261d6fb39bb1b86f2a340ec5325ce237"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1097-2007",
+   "path": "ordin/educatie/2007/1097",
+   "short": "Ordin educatie nr. 1097/2007",
+   "title": "Ordinul nr. 1.097/2007 privind modificarea Ordinului ministrului educației și cercetării nr. 847/2007 pentru aprobarea Regulamentului privind organizarea, funcționarea și atribuțiile Colegiului Central de Disciplină de la nivelul Ministerului Educației și Cercetării și ale colegiilor de disciplină de la nivelul inspectoratelor școlare județene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82516",
+   "versions": [
+    {
+     "from": "2007-06-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82516",
+     "sha256": "b5e092af15e7fe8f85c1404b2774617c65ef6e271fcb388b2a08e0520189db29"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1189-2007",
+   "path": "ordin/educatie/2007/1189",
+   "short": "Ordin educatie nr. 1189/2007",
+   "title": "Ordinul nr. 1.189/2007 privind aprobarea Regulamentului de organizare și funcționare a fermei didactice din unitățile de învățământ preuniversitar și a Regulamentului de organizare și dotării minimale pentru ferma didactică agroturistică montană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83879",
+   "versions": [
+    {
+     "from": "2007-07-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83879",
+     "sha256": "8f5aee78d345ce6694da62df2e3aacb93647b85305a297545b6fb234264d3e7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1305-2007",
+   "path": "ordin/educatie/2007/1305",
+   "short": "Ordin educatie nr. 1305/2007",
+   "title": "Ordinul nr. 1.305/2007 pentru aprobarea Regulamentului privind acordarea de distincții și premii personalului didactic și de cercetare, precum și bibliotecarilor din învățământul superior de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83592",
+   "versions": [
+    {
+     "from": "2007-07-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83592",
+     "sha256": "745dcdb512f21be82886dee0cbce0163f53e828c226682f4dff577ce0f532f1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1350-2007",
+   "path": "ordin/educatie/2007/1350",
+   "short": "Ordin educatie nr. 1350/2007",
+   "title": "Ordinul nr. 1.350/2007 pentru aprobarea metodologiilor de calcul al drepturilor salariale care se acordă personalului didactic încadrat pe funcțiile din anexele la Ordonanța Guvernului nr. 11/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83963",
+   "versions": [
+    {
+     "from": "2007-07-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83963",
+     "sha256": "630d69bc1d3d88270d875922c2a3f4c64a5f578eea6f7643537739795582deb8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1486-2007",
+   "path": "ordin/educatie/2007/1486",
+   "short": "Ordin educatie nr. 1486/2007",
+   "title": "Ordinul nr. 1.486/2007 privind comasarea prin absorbție a unității de învățământ preuniversitar particular Grădinița \"Junior\" București de către unitatea de învățământ preuniversitar particular Școala \"Genesis\" București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88162",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88162",
+     "sha256": "87fa210c97ede0c6cd86293fcf91ff95b19c1c2116ed88c7c878d30c87a2486f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1525-2007",
+   "path": "ordin/educatie/2007/1525",
+   "short": "Ordin educatie nr. 1525/2007",
+   "title": "Ordinul nr. 1.525/2007 privind aprobarea Calendarului de organizare și desfășurare a concursului național de acordare a bursei de studii postuniversitare în străinătate \"Theodor Aman\" pentru domeniul artelor plastice în anul universitar 2007-2008 și a Listei instituțiilor de învățământ universitar din care provin candidații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85476",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85476",
+     "sha256": "85d1521779c1bc4508a1101aa52377a632ab76f0e12fb45620d38c311ef084d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1529-2007",
+   "path": "ordin/educatie/2007/1529",
+   "short": "Ordin educatie nr. 1529/2007",
+   "title": "Ordinul nr. 1.529/2007 privind dezvoltarea problematicii diversității în curriculumul național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85748",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85748",
+     "sha256": "ebcf3c0f9181ebee3ff948e793d4f3827acc2a65949109dbd96ab4a058b1c966"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1539-2007",
+   "path": "ordin/educatie/2007/1539",
+   "short": "Ordin educatie nr. 1539/2007",
+   "title": "Ordinul nr. 1.539/2007 privind normele de încadrare și de activitate ale mediatorului școlar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85753",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85753",
+     "sha256": "ccf08df87c78e2485e129b222749f5f0a7c512aae4825753637d2066197d2666"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1540-2007",
+   "path": "ordin/educatie/2007/1540",
+   "short": "Ordin educatie nr. 1540/2007",
+   "title": "Ordinul nr. 1.540/2007 privind interzicerea segregării școlare a copiilor romi și aprobarea Metodologiei pentru prevenirea și eliminarea segregării școlare a copiilor romi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86054",
+   "versions": [
+    {
+     "from": "2007-10-11",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86054",
+     "sha256": "40d12357afc41b868fb4bf2131a85a2d1dd94304779e738ca4b8f7b7ffa4bf82"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1552-2007",
+   "path": "ordin/educatie/2007/1552",
+   "short": "Ordin educatie nr. 1552/2007",
+   "title": "Ordinul nr. 1.552/2007 privind aprobarea criteriilor generale de admitere în învățământul postliceal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84320",
+   "versions": [
+    {
+     "from": "2007-08-09",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84320",
+     "sha256": "b9de8413a87fba009261e11703b3d97a3d92285fc206e078cc16abd9dc9d49b4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1560-2007",
+   "path": "ordin/educatie/2007/1560",
+   "short": "Ordin educatie nr. 1560/2007",
+   "title": "Ordinul nr. 1.560/2007 pentru aprobarea Protocolului privind asigurarea cadrului de colaborare în vederea dezvoltării continue și funcționării performante a sistemului național de educație fizică și sport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84963",
+   "versions": [
+    {
+     "from": "2007-08-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84963",
+     "sha256": "b4d5a267a891e1e0899538a737644256eaf08b1d9d20b6257907f9b1e88d36a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-161-2007",
+   "path": "ordin/educatie/2007/161",
+   "short": "Ordin educatie nr. 161/2007",
+   "title": "Ordinul nr. 161/2007 pentru completarea Ordinului ministrului educației și cercetării nr. 5.669/2006 privind aprobarea Metodologiei și a criteriilor de acordare a gradației de merit și a salariului de merit în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79021",
+   "versions": [
+    {
+     "from": "2007-01-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79021",
+     "sha256": "9004729db052f5a6edb1c1b54076a753d023f7553f987481863f22fdae8cc7e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1700-2007",
+   "path": "ordin/educatie/2007/1700",
+   "short": "Ordin educatie nr. 1700/2007",
+   "title": "Ordinul nr. 1.700/2007 privind aprobarea Metodologiei de aplicare a Proiectului-pilot și aprobarea Comisiei de selecție a personalului implicat în predarea de cursuri de limbă, cultură și civilizație românească în unități școlare din Republica Italiană și Regatul Spaniei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84676",
+   "versions": [
+    {
+     "from": "2007-08-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84676",
+     "sha256": "d86cc024e972d779c70a5dabf225c86dc77de65f684fe8f5dd45d8f338782a3d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1805-2007",
+   "path": "ordin/educatie/2007/1805",
+   "short": "Ordin educatie nr. 1805/2007",
+   "title": "Ordinul nr. 1.805/2007 privind confirmarea sau reconfirmarea calității de conducător de doctorat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86408",
+   "versions": [
+    {
+     "from": "2007-10-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86408",
+     "sha256": "f2efc8e77ec5b278d3af97d2815fd4e332427d0ea54667af019589c1f0f2079e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1863-2007",
+   "path": "ordin/educatie/2007/1863",
+   "short": "Ordin educatie nr. 1863/2007",
+   "title": "Ordinul nr. 1.863/2007 privind aprobarea Metodologiei de organizare și desfășurare a examenului de certificare pentru obținerea certificatului de calificare profesională de nivel 3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85552",
+   "versions": [
+    {
+     "from": "2007-09-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85552",
+     "sha256": "ff8b4bf8e1f9640063a57c09efc771fcf1a98c597669e783186e4b7368d9acf5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1867-2007",
+   "path": "ordin/educatie/2007/1867",
+   "short": "Ordin educatie nr. 1867/2007",
+   "title": "Ordinul nr. 1.867/2007 privind organizarea și desfășurarea tezelor cu subiect unic pentru clasele a VII-a și a VIII-a în anul școlar 2007-2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86000",
+   "versions": [
+    {
+     "from": "2007-10-09",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86000",
+     "sha256": "bafac39eefd58075d5c15c3e2462b9c78015f641b75faa2580a443c3db104d2d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1868-2007",
+   "path": "ordin/educatie/2007/1868",
+   "short": "Ordin educatie nr. 1868/2007",
+   "title": "Ordinul nr. 1.868/2007 privind aprobarea procedurilor de organizare și desfășurare și a Calendarului admiterii în învățământul liceal și profesional de stat pentru anul școlar 2008-2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86824",
+   "versions": [
+    {
+     "from": "2007-11-09",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86824",
+     "sha256": "270215fee965e21127446dc583915b7eaea0120bbc685244bbe5449b6e9df51a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1869-2007",
+   "path": "ordin/educatie/2007/1869",
+   "short": "Ordin educatie nr. 1869/2007",
+   "title": "Ordinul nr. 1.869/2007 privind aprobarea Calendarului și a Metodologiei de organizare și desfășurare a examenului de bacalaureat - 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86189",
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86189",
+     "sha256": "5bf42006982da0f55fbf092eac822b4c1d68b61d496ae5890a8ba34f5c1465c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1870-2007",
+   "path": "ordin/educatie/2007/1870",
+   "short": "Ordin educatie nr. 1870/2007",
+   "title": "Ordinul nr. 1.870/2007 privind disciplinele și programele pentru examenul de bacalaureat - 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86877",
+   "versions": [
+    {
+     "from": "2007-11-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86877",
+     "sha256": "fa0fc16ac95e113ccc9c37977c92e4331f65167d7d4995a63c8980549a8acce9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1871-2007",
+   "path": "ordin/educatie/2007/1871",
+   "short": "Ordin educatie nr. 1871/2007",
+   "title": "Ordinul nr. 1.871/2007 privind Metodologia de organizare și desfășurare a probei anticipate susținute de elevii claselor a XI-a și a probelor susținute de elevii claselor a XII-a din secțiile bilingve francofone pentru obținerea mențiunii speciale \"secție bilingvă francofonă\" la bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86249",
+   "versions": [
+    {
+     "from": "2007-10-18",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86249",
+     "sha256": "846d88ac7112477541b6ce5ddf279885d352b609de6aacc2905350dc2086fab1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-1981-2007",
+   "path": "ordin/educatie/2007/1981",
+   "short": "Ordin educatie nr. 1981/2007",
+   "title": "Ordinul nr. 1.981/2007 pentru modificarea anexei nr. 1 la Ordinul ministrului educației, cercetării și tineretului și al ministrului culturii și cultelor nr. 1.525/2.418/2007 privind aprobarea Calendarului de organizare și desfășurare a concursului național de acordare a bursei de studii postuniversitare în străinătate \"Theodor Aman\" pentru domeniul artelor plastice în anul universitar 2007-2008 și a Listei instituțiilor de învățământ universitar din care provin candidații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85477",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85477",
+     "sha256": "8560a17a20b7344b43166c968d81916ed093afbcd9a94e365e62441011fa5ffe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2171-2007",
+   "path": "ordin/educatie/2007/2171",
+   "short": "Ordin educatie nr. 2171/2007",
+   "title": "Ordinul nr. 2.171/2007 pentru aprobarea Normelor privind procedura în cazul neacordării atestării/reatestării sau acreditării/reacreditării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85884",
+   "versions": [
+    {
+     "from": "2007-10-04",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85884",
+     "sha256": "9b49a88beb919fd412071c60e57b02c93b42082cc4d85e60205b428b6bc3d9c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2268-2007",
+   "path": "ordin/educatie/2007/2268",
+   "short": "Ordin educatie nr. 2268/2007",
+   "title": "Ordinul nr. 2.268/2007 privind aplicarea Programului \"A doua șansă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87116",
+   "versions": [
+    {
+     "from": "2007-11-21",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87116",
+     "sha256": "33e46b3325b9330a0e369097e6d42f0ac5e4f6361483a233cc9112db9cd8b660"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2290-2007",
+   "path": "ordin/educatie/2007/2290",
+   "short": "Ordin educatie nr. 2290/2007",
+   "title": "Ordinul nr. 2.290/2007 pentru modificarea Ordinului ministrului educației și cercetării nr. 3.281/2006 privind funcționarea învățământului preuniversitar cu predare simultană",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86958",
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86958",
+     "sha256": "0644beaf8b9e2a1735195314a9125069a20cc6253c929543718c0701bbd26e03"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2354-2007",
+   "path": "ordin/educatie/2007/2354",
+   "short": "Ordin educatie nr. 2354/2007",
+   "title": "Ordinul nr. 2.354/2007 privind aprobarea graficului de desfășurare a examenelor de absolvire/certificare a învățământului profesional, liceal - filiera tehnologică și postliceal în anul școlar 2007-2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86289",
+   "versions": [
+    {
+     "from": "2007-10-23",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86289",
+     "sha256": "7e6481a531ce1884afd515a6be7050baf0475950818d6462c04490e3e7e6fab1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2378-2007",
+   "path": "ordin/educatie/2007/2378",
+   "short": "Ordin educatie nr. 2378/2007",
+   "title": "Ordinul nr. 2.378/2007 pentru aprobarea Regulamentului privind organizarea și desfășurarea concursului național pentru acordarea bursei de studii postuniversitare în străinătate \"Theodor Aman\" pentru domeniul artelor plastice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85481",
+   "versions": [
+    {
+     "from": "2007-09-19",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85481",
+     "sha256": "87a1b12acc5a9344d0f5666b1b89476b656f613f00a6ae16ad0ea482e656af44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2414-2007",
+   "path": "ordin/educatie/2007/2414",
+   "short": "Ordin educatie nr. 2414/2007",
+   "title": "Ordinul nr. 2.414/2007 pentru aprobarea Normelor metodologice privind procedura de avizare a acordului de primire pentru cercetătorii din țări terțe în scopul desfășurării în România de activități de cercetare-dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86745",
+   "versions": [
+    {
+     "from": "2007-11-08",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86745",
+     "sha256": "3ffc3a013a0a287d31a9c5d504e06ea4ed2ce6635df23ff942c598c3b9a68206"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2436-2007",
+   "path": "ordin/educatie/2007/2436",
+   "short": "Ordin educatie nr. 2436/2007",
+   "title": "Ordinul nr. 2.436/2007 cu privire la organizarea unei sesiuni speciale a testelor naționale pentru absolvenții gimnaziului de până în anul 2007 inclusiv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86730",
+   "versions": [
+    {
+     "from": "2007-11-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86730",
+     "sha256": "0870364a5067e6d2a2345156e38493f849de0f16354865fa93186ac2190141f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2529-2007",
+   "path": "ordin/educatie/2007/2529",
+   "short": "Ordin educatie nr. 2529/2007",
+   "title": "Ordinul nr. 2.529/2007 privind aprobarea programelor pentru concursul național unic pentru ocuparea posturilor didactice declarate vacante în învățământul preuniversitar în anul școlar 2008-2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87149",
+   "versions": [
+    {
+     "from": "2007-11-22",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87149",
+     "sha256": "9133132121452ec0c30f48b10cf381d2ab98b97c36a66995ffb75927b02a2309"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2530-2007",
+   "path": "ordin/educatie/2007/2530",
+   "short": "Ordin educatie nr. 2530/2007",
+   "title": "Ordinul nr. 2.530/2007 privind aprobarea programelor pentru ocuparea posturilor didactice vacante în învățământul preuniversitar la Limba și literatura slovacă - educatoare, învățători, profesori, Limba și literatura turcă - institutori, profesori, Limba și literatura rusă maternă - profesori, Limba și literatura germană - educatoare, învățători, profesori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87980",
+   "versions": [
+    {
+     "from": "2007-12-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87980",
+     "sha256": "bfe5df478d4e7861829cb3c79034439f221bcebb7c55fcdbfe8138f01e73c2c4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2538-2007",
+   "path": "ordin/educatie/2007/2538",
+   "short": "Ordin educatie nr. 2538/2007",
+   "title": "Ordinul nr. 2.538/2007 privind organizarea și desfășurarea alegerilor conducerilor academice din învățământul superior acreditat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86612",
+   "versions": [
+    {
+     "from": "2007-11-02",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86612",
+     "sha256": "d1090422f76315ef78477311d00ece45e105f8d5084af567e7e518cd982822a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2572-2007",
+   "path": "ordin/educatie/2007/2572",
+   "short": "Ordin educatie nr. 2572/2007",
+   "title": "Ordinul nr. 2.572/2007 privind aprobarea Calendarului mișcării personalului didactic din învățământul preuniversitar pentru anul școlar 2008-2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86978",
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86978",
+     "sha256": "e2445973da8b00e99b1025aebe5a0c483dd2031550d14bd8c2994aeff603ef30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2573-2007",
+   "path": "ordin/educatie/2007/2573",
+   "short": "Ordin educatie nr. 2573/2007",
+   "title": "Ordinul nr. 2.573/2007 pentru aprobarea Metodologiei privind mișcarea personalului didactic din învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86979",
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86979",
+     "sha256": "b9fcbda3b19548d8bb961486d6169fdb14aa332b1ebe72e3570328cc97b2dbde"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2574-2007",
+   "path": "ordin/educatie/2007/2574",
+   "short": "Ordin educatie nr. 2574/2007",
+   "title": "Ordinul nr. 2.574/2007 privind aprobarea Metodologiei de organizare și desfășurare a concursului pentru ocuparea posturilor didactice/catedrelor declarate vacante în unitățile de învățământ preuniversitar din județele nominalizate în Hotărârea Guvernului nr. 1.942/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86980",
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86980",
+     "sha256": "6e0d2d2af40c8059c354515c986f9bcf2b1837e5d46111b1b64323ad149995d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2575-2007",
+   "path": "ordin/educatie/2007/2575",
+   "short": "Ordin educatie nr. 2575/2007",
+   "title": "Ordinul nr. 2.575/2007 privind aprobarea Metodologiei și criteriilor de acordare a gradației de merit și a salariului de merit în învățământul preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87125",
+   "versions": [
+    {
+     "from": "2007-11-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87125",
+     "sha256": "1b48e3008be9fe23c334264bef8a7de063c301d39d3b51b9af5c854b2e07d354"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2600-2007",
+   "path": "ordin/educatie/2007/2600",
+   "short": "Ordin educatie nr. 2600/2007",
+   "title": "Ordinul nr. 2.600/2007 privind aprobarea Programei pentru ocuparea posturilor didactice vacante în învățământul preuniversitar la Istoria și tradițiile minorității maghiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87348",
+   "versions": [
+    {
+     "from": "2007-11-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87348",
+     "sha256": "291da51f40c4b4909e0319b258239a1cfbb70f3bf715a86b6b955022d0531188"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2602-2007",
+   "path": "ordin/educatie/2007/2602",
+   "short": "Ordin educatie nr. 2602/2007",
+   "title": "Ordinul nr. 2.602/2007 privind aprobarea Programei pentru concursul de ocupare a posturilor didactice/catedrelor vacante din învățământul preuniversitar la disciplina Religie ortodoxă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87966",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87966",
+     "sha256": "56d9ed0a9908723d8be97d968a186adc6d45dbc9ea564e4f666ed3c693b7a449"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2687-2007",
+   "path": "ordin/educatie/2007/2687",
+   "short": "Ordin educatie nr. 2687/2007",
+   "title": "Ordinul nr. 2.687/2007 privind aprobarea programelor revizuite pentru susținerea examenelor de acordare a definitivării în învățământ și a gradelor didactice II și I",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89767",
+   "versions": [
+    {
+     "from": "2008-02-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89767",
+     "sha256": "51f869309398185b33f2c5281735893b73d20f34e962bee23c19d44c963d1b48"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2758-2007",
+   "path": "ordin/educatie/2007/2758",
+   "short": "Ordin educatie nr. 2758/2007",
+   "title": "Ordinul nr. 2.758/2007 privind aprobarea calendarului de desfășurare a concursului național de acordare a bursei de studii postuniversitare în străinătate \"Theodor Aman\" pentru domeniul artelor plastice în anul universitar 2008-2009 și a listei instituțiilor de învățământ universitar din care provin candidații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88582",
+   "versions": [
+    {
+     "from": "2008-01-11",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88582",
+     "sha256": "274b37c8a08d6820222cbab7aec07fcbfddc2a770cbafcbc2aa4015877e102d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2779-2007",
+   "path": "ordin/educatie/2007/2779",
+   "short": "Ordin educatie nr. 2779/2007",
+   "title": "Ordinul nr. 2.779/2007 pentru modificarea și completarea Ordinului ministrului educației, cercetării și tineretului nr. 1.868/2007 privind aprobarea procedurilor de organizare și desfășurare și a Calendarului admiterii în învățământul liceal și profesional pentru anul școlar 2008-2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88497",
+   "versions": [
+    {
+     "from": "2008-01-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88497",
+     "sha256": "2593d60823bb3010fa909cb10b04aadb878354b95e02d2177c46b07bfe46da22"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-2782-2007",
+   "path": "ordin/educatie/2007/2782",
+   "short": "Ordin educatie nr. 2782/2007",
+   "title": "Ordinul nr. 2.782/2007 referitor la aprobarea Regulamentului de organizare și funcționare a Consiliului național al elevilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89231",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89231",
+     "sha256": "4a24ec51bae2267d5cbc53c4510c14a50aeefbbf1b5e94d527c0f367994bf2eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-295-2007",
+   "path": "ordin/educatie/2007/295",
+   "short": "Ordin educatie nr. 295/2007",
+   "title": "Ordinul nr. 295/2007 privind cadrul general de organizare a examenelor de finalizare a studiilor în învățământul superior - examene de absolvire, licență, diplomă, selecție, disertație și de finalizare a programelor de pregătire universitară avansată din cadrul studiilor universitare de doctorat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79758",
+   "versions": [
+    {
+     "from": "2007-03-15",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79758",
+     "sha256": "46fbd88ff07b2ecda13670f9c905a734dcd3822bb78cd53417933dbf77e1592f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-307-2007",
+   "path": "ordin/educatie/2007/307",
+   "short": "Ordin educatie nr. 307/2007",
+   "title": "Ordinul nr. 307/2007 cu privire la organizarea și desfășurarea tezelor cu subiect unic la clasa a VII-a în anul școlar 2006-2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79736",
+   "versions": [
+    {
+     "from": "2007-02-22",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79736",
+     "sha256": "1c117f57d3a8236b2213b570a6c53fbd06d379401d8c035d7b6b3b7570128797"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-308-2007",
+   "path": "ordin/educatie/2007/308",
+   "short": "Ordin educatie nr. 308/2007",
+   "title": "Ordinul nr. 308/2007 privind criteriile generale de organizare și desfășurare a admiterii în ciclul de studii universitare de licență, de masterat și de doctorat pentru anul universitar 2007-2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79759",
+   "versions": [
+    {
+     "from": "2007-02-23",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79759",
+     "sha256": "04fce8493491206b8fd37b07f0e95286cb2ca3f704e891bfb63405e3e4949740"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-329-2007",
+   "path": "ordin/educatie/2007/329",
+   "short": "Ordin educatie nr. 329/2007",
+   "title": "Ordinul nr. 329/2007 privind aplicarea normelor metodologice pentru elevii care beneficiază de decontarea cheltuielilor de transport ca urmare a faptului că nu pot fi școlarizați în localitatea de domiciliu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79795",
+   "versions": [
+    {
+     "from": "2007-02-26",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79795",
+     "sha256": "2f1ec90e1a257ded9aa9c56e4d307a86b49778c888365df30d4bdaa89bf20211"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-356-2007",
+   "path": "ordin/educatie/2007/356",
+   "short": "Ordin educatie nr. 356/2007",
+   "title": "Ordinul nr. 356/2007 pentru aprobarea Precizărilor metodologice cu privire la reconfirmarea sau confirmarea calității de conducător de doctorat, corespondența între domeniile de studii universitare de doctorat, precum și nomenclatorul multilingv al domeniilor de studii universitare de doctorat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80851",
+   "versions": [
+    {
+     "from": "2007-04-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80851",
+     "sha256": "f078e057a93946c1da3bde2d30cc786859c193834b8f46e4f341cb8947ce0822"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-402-2007",
+   "path": "ordin/educatie/2007/402",
+   "short": "Ordin educatie nr. 402/2007",
+   "title": "Ordinul nr. 402/2007 cu privire la structura anului școlar 2007-2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80458",
+   "versions": [
+    {
+     "from": "2007-03-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80458",
+     "sha256": "3af39d9e08313aefb8951fe88986084521b517b0762e53c3f06cb834e2a78ca3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-634-2007",
+   "path": "ordin/educatie/2007/634",
+   "short": "Ordin educatie nr. 634/2007",
+   "title": "Ordinul nr. 634/2007 privind organizarea și desfășurarea bacalaureatului român - filiera bilingv-francofonă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83482",
+   "versions": [
+    {
+     "from": "2007-07-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83482",
+     "sha256": "4970bb24a3cb4a51f0ab4c9d6f2a351009f408e13a2349ca11677ceb2b2e4ca6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-760-2007",
+   "path": "ordin/educatie/2007/760",
+   "short": "Ordin educatie nr. 760/2007",
+   "title": "Ordinul nr. 760/2007 privind eliberarea actelor de studii postliceale absolvenților cursurilor de echivalare, cu durata de un an, cursuri organizate în baza Hotărârii Guvernului nr. 797/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81783",
+   "versions": [
+    {
+     "from": "2007-05-08",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81783",
+     "sha256": "5afe0f841ba4972ac9cd28c12b78e6f2f56546eeb35e0b0f87db9cc766e596e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-847-2007",
+   "path": "ordin/educatie/2007/847",
+   "short": "Ordin educatie nr. 847/2007",
+   "title": "Ordinul nr. 847/2007 pentru aprobarea Regulamentului privind organizarea, funcționarea și atribuțiile Colegiului Central de Disciplină de la nivelul Ministerului Educației și Cercetării și ale colegiilor de disciplină de la nivelul inspectoratelor școlare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81505",
+   "versions": [
+    {
+     "from": "2007-04-27",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81505",
+     "sha256": "cf6d13fdc88725b9ea1e0332634fcdfab515c9fa6a91ca79923fd125c6221b5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-932-2007",
+   "path": "ordin/educatie/2007/932",
+   "short": "Ordin educatie nr. 932/2007",
+   "title": "Ordinul nr. 932/2007 privind sesiunea specială de teste naționale 2007 pentru elevii de clasa a VIII-a participanți la loturile olimpice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81843",
+   "versions": [
+    {
+     "from": "2007-05-10",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81843",
+     "sha256": "a1de44f83ae5236e5c35f0c6c236f7f8974b38d0f30394b3e28c4676a49b61f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-933-2007",
+   "path": "ordin/educatie/2007/933",
+   "short": "Ordin educatie nr. 933/2007",
+   "title": "Ordinul nr. 933/2007 privind sesiunea specială de bacalaureat 2007, pentru elevii din clasa a XII-a participanți la loturile olimpice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82214",
+   "versions": [
+    {
+     "from": "2007-05-22",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82214",
+     "sha256": "10188493b9d7b321e4fbde88038f8b47dd6eefda3dc90886a6f47585ebdff6cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-955-2007",
+   "path": "ordin/educatie/2007/955",
+   "short": "Ordin educatie nr. 955/2007",
+   "title": "Ordinul nr. 955/2007 privind modul de plată a personalului didactic care face parte din comisiile pentru testele naționale, bacalaureat și absolvire a învățământului profesional și postliceal - sesiunile anului 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83877",
+   "versions": [
+    {
+     "from": "2007-07-26",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83877",
+     "sha256": "0bbbab90a658b371a566917c1821bcaf47e0dbe95b9983d09fc03ad3b4cab609"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-956-2007",
+   "path": "ordin/educatie/2007/956",
+   "short": "Ordin educatie nr. 956/2007",
+   "title": "Ordinul nr. 956/2007 privind modul de plată a personalului didactic care face parte din comisiile pentru organizarea și desfășurarea admiterii în învățământul liceal și profesional de stat pentru anul școlar 2007-2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83878",
+   "versions": [
+    {
+     "from": "2007-07-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83878",
+     "sha256": "d970f4a1fed98470c9ac15e8e45e43915d8df0a63a8a7ca843082dc28514bd0d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-972-2007",
+   "path": "ordin/educatie/2007/972",
+   "short": "Ordin educatie nr. 972/2007",
+   "title": "Ordinul nr. 972/2007 pentru completarea Ordinului ministrului educației, cercetării și tineretului nr. 933/2007 privind sesiunea specială de bacalaureat 2007, pentru elevii din clasa a XII-a participanți la loturile olimpice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82432",
+   "versions": [
+    {
+     "from": "2007-05-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82432",
+     "sha256": "eada432707c4ef8a1c11a85a580c0317e9335e38c847cc9fa1ff2f379cc5c796"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-973-2007",
+   "path": "ordin/educatie/2007/973",
+   "short": "Ordin educatie nr. 973/2007",
+   "title": "Ordinul nr. 973/2007 pentru modificarea și completarea Ordinului ministrului educației și cercetării nr. 4.547/2004 privind aprobarea Regulamentului de organizare și desfășurare a concursurilor pentru ocuparea posturilor de lectori români în străinătate, cu completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82149",
+   "versions": [
+    {
+     "from": "2007-05-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82149",
+     "sha256": "22b261133162a03dcf12e320e2b22c2ac4d5258f151720755f3cadba73642d0d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-externe-2036-2007",
    "path": "ordin/externe/2007/2036",
    "short": "Ordin externe nr. 2036/2007",
@@ -4121,7 +5756,7 @@
    "versions": [
     {
      "from": "2007-05-17",
-     "units": 20,
+     "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82127",
      "sha256": "7c6896db49cef60195c1f455cc838c5ce621d5f31fad22aec2b992de0d6f6e11"
     }
@@ -4331,7 +5966,7 @@
    "versions": [
     {
      "from": "2007-05-21",
-     "units": 16,
+     "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82200",
      "sha256": "8cc2bf72720915a7562389b10c0096081fe7990d025f622e34ae50999ef4df38"
     }
@@ -4616,7 +6251,7 @@
    "versions": [
     {
      "from": "2007-07-05",
-     "units": 30,
+     "units": 46,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83401",
      "sha256": "08a13db49d97bb26ba0038fb49feb82add7a5ce5fc27bf1875be81b60f1c2eee"
     }
@@ -4931,7 +6566,7 @@
    "versions": [
     {
      "from": "2008-01-01",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87979",
      "sha256": "a993ecc817026e13aeeddf2bffd3bb6c8a161f36b2456746acab52a1504709c4"
     }
@@ -5081,7 +6716,7 @@
    "versions": [
     {
      "from": "2007-02-26",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79815",
      "sha256": "1332d1011dbea8d8646ad9457cb3f732855549d6d5eccb465e897a44994a1184"
     }
@@ -5111,7 +6746,7 @@
    "versions": [
     {
      "from": "2007-03-13",
-     "units": 11,
+     "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80195",
      "sha256": "37856a4a43999996a5f92682ce20fbbf4ffb2f2f475224b875ced0b86cbed1a7"
     }
@@ -5201,7 +6836,7 @@
    "versions": [
     {
      "from": "2007-06-11",
-     "units": 19,
+     "units": 23,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82722",
      "sha256": "a1baccc4383f28890ac0f35e68e7cf5d07a3b66a4c222aee89c7429f3076bfef"
     }
@@ -5351,7 +6986,7 @@
    "versions": [
     {
      "from": "2007-06-25",
-     "units": 16,
+     "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83138",
      "sha256": "efae5655b4407c5426d37ee77a7f5cb52bd386bfe481b39884aceaea92f60ebc"
     }
@@ -5396,7 +7031,7 @@
    "versions": [
     {
      "from": "2007-07-02",
-     "units": 3,
+     "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83314",
      "sha256": "f403b5473a9483014f8603162ca13157e6aa30ba1ac46e20566be4b216da54fa"
     }
@@ -5456,7 +7091,7 @@
    "versions": [
     {
      "from": "2007-04-05",
-     "units": 8,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80983",
      "sha256": "7ef0c8418e5860d396c88bcae97171487663488ee76b94791649660112b6f401"
     }
@@ -5576,7 +7211,7 @@
    "versions": [
     {
      "from": "2007-04-17",
-     "units": 20,
+     "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81240",
      "sha256": "b2daea08f2bfc81fc89cdd445ee8c38daa92f8c54b89a4a33ecd84498ed67611"
     }
@@ -5591,7 +7226,7 @@
    "versions": [
     {
      "from": "2007-04-20",
-     "units": 16,
+     "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81318",
      "sha256": "93e8dd9cb6e22f813d346693eda8ce40d01838f861628e6447420085bca668a0"
     }
@@ -5651,7 +7286,7 @@
    "versions": [
     {
      "from": "2007-07-23",
-     "units": 14,
+     "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83795",
      "sha256": "f4f20bf5ee7feb158af78ce05f22f5cc61683b7936e87e65bcbff294b271c5a9"
     }
@@ -6926,7 +8561,7 @@
    "versions": [
     {
      "from": "2007-11-15",
-     "units": 12,
+     "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86988",
      "sha256": "e5cfca618c1576381dd052721ce874461fec8fbcfbfd8b8c295d14c6b4fbbbb3"
     }
@@ -7856,7 +9491,7 @@
    "versions": [
     {
      "from": "2007-02-21",
-     "units": 5,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79667",
      "sha256": "4d75132cfab47cd2ff83f0899cafe556d7a76c2102441ef9f2753d336036dbfd"
     }
@@ -8441,7 +10076,7 @@
    "versions": [
     {
      "from": "2007-07-20",
-     "units": 6,
+     "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83746",
      "sha256": "9bbc3f445339d256e1a2d375363cb70354451a028c7f43bb73b2fecaed6cb2ec"
     }
@@ -8501,7 +10136,7 @@
    "versions": [
     {
      "from": "2007-09-06",
-     "units": 7,
+     "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85176",
      "sha256": "b7017e59fe0c26fe77705d0fad68130ebd55de841199a723bf68054bdb9006b6"
     }
@@ -8816,7 +10451,7 @@
    "versions": [
     {
      "from": "2007-10-23",
-     "units": 4,
+     "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86316",
      "sha256": "974652edccbfd7143dbe44316585995cc407347db174f010d67257cbd44e3f13"
     }
@@ -9056,7 +10691,7 @@
    "versions": [
     {
      "from": "2007-10-25",
-     "units": 117,
+     "units": 119,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86455",
      "sha256": "e9c7bfd10d37aa1de89f28d6b4b776cdb7fcf092bb64549ab579605160a50908"
     }

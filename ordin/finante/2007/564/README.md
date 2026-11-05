@@ -2,7 +2,7 @@
 
 Ordin finante nr. 564/2007 · 1 versions, from 2007-07-23 (latest in force: 2007-07-23) · <https://legislatie.just.ro/Public/DetaliiDocument/83795>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌────────────┬─────────────────────────────────────────┬───────────────────────┐ │ │ DECLARAȚIE INFORMATIVĂ │ Ministerul Economiei │ │ │ PRIVIND VENITURILE ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 Informația se prezintă pe suport magnetic cu următoarele caracteristici: Tip: - CD-R (Compact Disc Recordable) Capacitate: 700 MB Format: ISO/IEC DIS ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -18,6 +18,8 @@ Ordin finante nr. 564/2007 · 1 versions, from 2007-07-23 (latest in force: 2007
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
+| Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
+| Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 
@@ -31,7 +33,7 @@ Act id: `ordin-finante-564-2007` (tags `ordin-finante-564-2007/<day>`; `python t
 - Ordin finante nr. 564/2007: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 564/2007: Anexa nr. 2 (2 INSTRUCȚIUNI de completare a formularului "Declarație informativă privind veniturile din economii obținute din România de persoane fizice rezidente în state membre ale Uniunii Europene, țări terțe ș) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 83795 of the official web service.
 - Ordin finante nr. 564/2007: Anexa nr. 3 (3 BORDEROU de însoțire a declarației informative privind veniturile din economii obținute din România de persoane fizice rezidente în state membre ale Uniunii Europene, țări terțe și teritorii depende) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 83795 of the official web service.
+- Ordin finante nr. 564/2007: Anexa nr. 4 (4 Informația se prezintă pe suport magnetic cu următoarele caracteristici: Tip: - CD-R (Compact Disc Recordable) Capacitate: 700 MB Format: ISO/IEC DIS 9660:1999 Sesiune simplă Informația se furnizeaz) is part of the order and is published in its folder, anexa-4/ (paragraphs and tables), from document 83795 of the official web service.
 - Ordin finante nr. 564/2007: Anexa nr. 5 (5 CARACTERISTICILE DE TIPĂRIRE modul de difuzare, utilizare și păstrare ale formularului 1. Denumire: Declarație informativă privind veniturile din economii obținute din România de persoane fizice rez) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 83795 of the official web service.
-- Ordin finante nr. 564/2007: Anexa nr. 1 (1 ┌────────────┬─────────────────────────────────────────┬───────────────────────┐ │ │ DECLARAȚIE INFORMATIVĂ │ Ministerul Economiei │ │ │ PRIVIND VENITURILE ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin finante nr. 564/2007: Anexa nr. 4 (4 Informația se prezintă pe suport magnetic cu următoarele caracteristici: Tip: - CD-R (Compact Disc Recordable) Capacitate: 700 MB Format: ISO/IEC DIS ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 564/2007: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin finante nr. 564/2007: the publisher's notes run into its text (*) Se completează cu "x" în cazul depunerii declaraţiei informative rectificative.; **) Se înscrie suma totală pe tipuri de monedă.) are not text.

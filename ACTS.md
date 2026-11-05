@@ -12468,13 +12468,13 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 27909 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 20507 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Government decisions (HG) | 27920 | [`data/acts/hg/`](data/acts/hg/) |
+| Ministerial and authority orders (ordine) | 22496 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 724 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 554 | [`data/acts/regulament/`](data/acts/regulament/) |
-| Instructions (instrucțiuni) | 176 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
-| Clarifications (precizări) | 32 | [`data/acts/precizari/`](data/acts/precizari/) |
-| Methodologies (metodologii) | 1 | [`data/acts/metodologie/`](data/acts/metodologie/) |
+| Instructions (instrucțiuni) | 183 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
+| Clarifications (precizări) | 34 | [`data/acts/precizari/`](data/acts/precizari/) |
+| Methodologies (metodologii) | 3 | [`data/acts/metodologie/`](data/acts/metodologie/) |
 | Criteria (criterii) | 2 | [`data/acts/criterii/`](data/acts/criterii/) |
 | Central Electoral Bureau decisions, regulations and results (BEC) | 290 | [`data/acts/decizie-bec/`](data/acts/decizie-bec/) |
 | Permanent Electoral Authority decisions (AEP) | 201 | [`data/acts/hotarare-aep/`](data/acts/hotarare-aep/) |

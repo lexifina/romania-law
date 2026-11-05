@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "metodologie/1998",
+"acts": [
+{
+"slug": "metodologie-educatie-27032-1998",
+"path": "metodologie/educatie/1998/27032",
+"kind": "metodologie",
+"year": "1998",
+"number": "27032",
+"withdrawn_by": null,
+"reason": null,
+"title": "Metodologia nr. 27.032/1998 privind completarea catedrelor cu alte discipline decât specializarea dobândită prin studii",
+"short": "Metodologie educatie nr. 27032/1998",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1998-04-27",
+"latest": "1998-04-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/14586",
+"issuer": "educatie",
+"joint": []
+},
+{
+"slug": "metodologie-educatie-27033-1998",
+"path": "metodologie/educatie/1998/27033",
+"kind": "metodologie",
+"year": "1998",
+"number": "27033",
+"withdrawn_by": null,
+"reason": null,
+"title": "Metodologia nr. 27.033/1998 privind organizarea pregătirii instructorilor-animatori [conform art. 8 lit. e) din Legea nr. 128/1997 privind Statutul personalului didactic]",
+"short": "Metodologie educatie nr. 27033/1998",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1998-04-27",
+"latest": "1998-04-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/14595",
+"issuer": "educatie",
+"joint": []
+}
+]
+}

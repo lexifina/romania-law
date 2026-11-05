@@ -2,7 +2,7 @@
 
 Ordin finante nr. 2541/1998 · 1 versions, from 1999-02-10 (latest in force: 1999-02-10) · <https://legislatie.just.ro/Public/DetaliiDocument/16960>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. No in-force day is stated; dated by its publication in the Monitorul Oficial.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -10,6 +10,8 @@ Ordin finante nr. 2541/1998 · 1 versions, from 1999-02-10 (latest in force: 199
 | Art. 2 | [art-002.md](art-002.md) | 0 |  |
 | Art. 3 | [art-003.md](art-003.md) | 0 |  |
 | Art. 4 | [art-004.md](art-004.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
@@ -31,11 +33,11 @@ Act id: `ordin-finante-2541-1998` (tags `ordin-finante-2541-1998/<day>`; `python
 - Ordin finante nr. 2541/1998: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin finante nr. 2541/1998: the first version is the order as published in Monitorul Oficial nr. 58 of 10 February 1999 (document 16960 of the official web service), in force on its day of publication: no in-force day is stated, so it is dated by its publication in the Monitorul Oficial.
 - Ordin finante nr. 2541/1998: the signatures and the place and date line after its last article are not article text.
+- Ordin finante nr. 2541/1998: Anexa nr. 1 (1) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 16960 of the official web service.
 - Ordin finante nr. 2541/1998: Anexa nr. 2 (2) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 16960 of the official web service.
 - Ordin finante nr. 2541/1998: Anexa nr. 3 (3) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 16960 of the official web service.
 - Ordin finante nr. 2541/1998: Anexa nr. 4 (4) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 16960 of the official web service.
 - Ordin finante nr. 2541/1998: Anexa nr. 5 (5) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 16960 of the official web service.
 - Ordin finante nr. 2541/1998: Anexa nr. 6 (6) is part of the order and is published in its folder, anexa-6/ (paragraphs), from document 16960 of the official web service.
 - Ordin finante nr. 2541/1998: Anexa nr. 7 (7) is part of the order and is published in its folder, anexa-7/ (paragraphs), from document 16960 of the official web service.
-- Ordin finante nr. 2541/1998: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin finante nr. 2541/1998: the publisher's notes run into its text (*) Procesul-verbal se foloseşte adaptat şi pentru mediul rural şi se întocmeşte în doua exemplare: un exemplar rămâne la; *) Se completeaza şi de către persoanele fizice autorizate.; *) Se va completa pentru fiecare grup de clădiri din aceeaşi perioadă de vechime a clădirii.; **) Se aplica norma pentru construcţia la subsolul căreia sunt amplasate.; **) Se va completa avându-se în vedere datele din actele de proprietate, din schite sau din planuri.; ***) Valoarea impozabilă se reduce în raport cu perioada în care au fost realizate.) are not text.

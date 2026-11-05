@@ -2,7 +2,7 @@
 
 Regulament bnr nr. 1/2002 · 1 versions, from 2004-09-02 (latest in force: 2004-09-02) · <https://legislatie.just.ro/Public/DetaliiDocument/54872>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. It states that it applies from 15 February 2002, before its publication; dated here by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 1 (1 ┌───────────┐2' ┌──────────┐3' ┌────────────┐ │ Sucursala │ z │TransFonD │ z │ Sucursala │ │ TransFonD ├─────&gt;│ Centrala ├─────&gt; │ TransFonD │ ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 ┌─────────────────────────────────────────┬───────────────────────────────┬────┐ │ │ │Sim-│ │ │ │bol │ │ │ │cont│ │ │ │ana-│ │ │ │li- │ │ │ │tic │ │ Tip ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4a ┌───────────┐ ┌──────────┐ z+1 ┌────────────┐ │ Sucursala │ z+1 │TransFonD │&lt;──────┤ Sucursala │ │ TransFonD │&lt;): it is a table that the official text holds only flattened; Anexa nr. 5 (4b ┌───────────┐ ┌──────────┐ z+2 ┌────────────┐ │ Sucursala │ z+2 │TransFonD │&lt;──────┤ Sucursala │ │ TransFonD │&lt;): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. It states that it applies from 15 February 2002, before its publication; dated here by its publication in the Monitorul Oficial. Not included yet: Anexa nr. 1 (1): it is a table that the official text holds only flattened; Anexa nr. 4 (4a): it is a table that the official text holds only flattened; Anexa nr. 5 (4b): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -44,6 +44,8 @@ Regulament bnr nr. 1/2002 · 1 versions, from 2004-09-02 (latest in force: 2004-
 | Art. 36 | [art-036.md](art-036.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
 Act id: `regulament-bnr-1-2002` (tags `regulament-bnr-1-2002/<day>`; `python tools/on.py <day> regulament-bnr-1-2002`).
 
@@ -54,7 +56,7 @@ Act id: `regulament-bnr-1-2002` (tags `regulament-bnr-1-2002/<day>`; `python too
 - Regulament bnr nr. 1/2002: the first version is the regulation as published in Monitorul Oficial nr. 811 of 2 September 2004 (document 54872 of the official web service), in force on its day of publication: it states that it applies from 15 February 2002, before its publication, and is dated here by its publication in the Monitorul Oficial.
 - Regulament bnr nr. 1/2002: the signatures and the place and date line after its last article are not article text.
 - Regulament bnr nr. 1/2002: Anexa nr. 2 (2 Tip plata de mare valoare Interval de receptie al plăților de mare valoare Ora decontarii finale și irevoca- bile Interval de eliberare a extraselor de cont instrucțiuni de transfer-credit între par) is part of the regulation and is published in its folder, anexa-2/ (paragraphs), from document 54872 of the official web service.
-- Regulament bnr nr. 1/2002: Anexa nr. 1 (1 ┌───────────┐2' ┌──────────┐3' ┌────────────┐ │ Sucursala │ z │TransFonD │ z │ Sucursala │ │ TransFonD ├─────&gt;│ Centrala ├─────&gt; │ TransFonD │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Regulament bnr nr. 1/2002: Anexa nr. 3 (3 ┌─────────────────────────────────────────┬───────────────────────────────┬────┐ │ │ │Sim-│ │ │ │bol │ │ │ │cont│ │ │ │ana-│ │ │ │li- │ │ │ │tic │ │ Tip ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Regulament bnr nr. 1/2002: Anexa nr. 4 (4a ┌───────────┐ ┌──────────┐ z+1 ┌────────────┐ │ Sucursala │ z+1 │TransFonD │&lt;──────┤ Sucursala │ │ TransFonD │&lt;) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Regulament bnr nr. 1/2002: Anexa nr. 5 (4b ┌───────────┐ ┌──────────┐ z+2 ┌────────────┐ │ Sucursala │ z+2 │TransFonD │&lt;──────┤ Sucursala │ │ TransFonD │&lt;) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament bnr nr. 1/2002: Anexa nr. 3 (3) is part of the regulation and is published in its folder, anexa-3/ (paragraphs and tables), from document 54872 of the official web service.
+- Regulament bnr nr. 1/2002: Anexa nr. 1 (1) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament bnr nr. 1/2002: Anexa nr. 4 (4a) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Regulament bnr nr. 1/2002: Anexa nr. 5 (4b) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

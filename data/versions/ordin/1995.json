@@ -318,6 +318,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5692-1995",
+   "path": "ordin/educatie/1995/5692",
+   "short": "Ordin educatie nr. 5692/1995",
+   "title": "Ordinul nr. 5.692/1995 pentru aprobarea Normelor privind organizarea, desfășurarea și finanțarea activităților din taberele studențești gratuite de odihnă, de creație și sportive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7645",
+   "versions": [
+    {
+     "from": "1995-12-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7645",
+     "sha256": "63de0f59158502356b1a6284e0248da8887c74b5f2a91cf2ab851d2f791edf6d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-106-1995",
    "path": "ordin/finante/1995/106",
    "short": "Ordin finante nr. 106/1995",
@@ -581,7 +596,7 @@
    "versions": [
     {
      "from": "1996-01-19",
-     "units": 14,
+     "units": 22,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7638",
      "sha256": "a92d2e28e7779327a1fa45399476205ee4294c524edd0577dadaf0f81e1d0f41"
     }
@@ -1061,7 +1076,7 @@
    "versions": [
     {
      "from": "1995-12-27",
-     "units": 5,
+     "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6942",
      "sha256": "e7165e1c9d6f66725fe8619f71704bd447e434a72d1fe128d8e4c8e09fcc5d95"
     }
@@ -1076,7 +1091,7 @@
    "versions": [
     {
      "from": "1996-03-15",
-     "units": 90,
+     "units": 94,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6953",
      "sha256": "f954b882d8625bec314e47927cef8b19f56ff3ea396bb18595b4cadeae15eb1f"
     }

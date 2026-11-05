@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 1349/2008 · 1 versions, from 2008-08-12 (latest in force: 2008-08-12) · <https://legislatie.just.ro/Public/DetaliiDocument/96496>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. In force in stages: dated by its earliest day, 12 August 2008; later days are not yet shown as versions: "(1) Prezentul ordin intră în vigoare la data publicării în Monitorul Oficial al României, Partea I, cu excepția art. 5, 6 și 7, care intră în vigoare la data de 1 ianuarie 2009. (2) La data intrării în vigoare a prezentului ordin se abrogă art. 2 din Ordinul ministrului sănătății și al ministrului a". Not included yet: Anexa nr. 1 (1 Formatul general de raportare a informațiilor cu privire la ingredientele utilizate în procesul de fabricație a produselor din tutun, precum și cantitățile ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 Datele toxicologice disponibile producătorului sau importatorului referitoare la ingredientele utilizate în procesul de fabricație a produselor din tutun ...): it is a table that the official text holds only flattened; Anexa nr. 3 (3 Formatul general de raportare a informațiilor cu privire la ingredientele utilizate în procesul de fabricație a produselor din tutun în vederea informării ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. In force in stages: dated by its earliest day, 12 August 2008; later days are not yet shown as versions: "(1) Prezentul ordin intră în vigoare la data publicării în Monitorul Oficial al României, Partea I, cu excepția art. 5, 6 și 7, care intră în vigoare la data de 1 ianuarie 2009. (2) La data intrării în vigoare a prezentului ordin se abrogă art. 2 din Ordinul ministrului sănătății și al ministrului a".
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -20,6 +20,12 @@ Ordin sanatate nr. 1349/2008 · 1 versions, from 2008-08-12 (latest in force: 20
 | Art. 12 | [art-012.md](art-012.md) | 0 |  |
 | Art. 13 | [art-013.md](art-013.md) | 0 |  |
 | Art. 14 | [art-014.md](art-014.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
 | Anexa nr. 4 | [anexa-4/text.md](anexa-4/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
@@ -33,8 +39,8 @@ Act id: `ordin-sanatate-1349-2008` (tags `ordin-sanatate-1349-2008/<day>`; `pyth
 - Ordin sanatate nr. 1349/2008: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin sanatate nr. 1349/2008: the first version is the order as published in Monitorul Oficial nr. 601 of 12 August 2008 (document 96496 of the official web service), in force on its day of publication, as it states.
 - Ordin sanatate nr. 1349/2008: the signatures and the place and date line after its last article are not article text.
+- Ordin sanatate nr. 1349/2008: Anexa nr. 1 (1 Formatul general de raportare a informațiilor cu privire la ingredientele utilizate în procesul de fabricație a produselor din tutun, precum și cantitățile și motivul utilizării acestora, în vederea) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 96496 of the official web service.
+- Ordin sanatate nr. 1349/2008: Anexa nr. 2 (2 Datele toxicologice disponibile producătorului sau importatorului referitoare la ingredientele utilizate în procesul de fabricație a produselor din tutun *Font 7*) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 96496 of the official web service.
+- Ordin sanatate nr. 1349/2008: Anexa nr. 3 (3 Formatul general de raportare a informațiilor cu privire la ingredientele utilizate în procesul de fabricație a produselor din tutun în vederea informării publicului larg *Font 7*) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 96496 of the official web service.
 - Ordin sanatate nr. 1349/2008: Anexa nr. 4 (4 DECLARAȚIE PE PROPRIA RĂSPUNDERE DE CONFORMITATE cu privire la ingredientele utilizate în procesul de fabricație a produselor din tutun Subsemnatul/Subsemnata,.......................................) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 96496 of the official web service.
 - Ordin sanatate nr. 1349/2008: Anexa nr. 5 (5 DATELE DE IDENTIFICARE a producătorului sau importatorului de produse din tutun 1. Coordonatele producătorului: - numele persoanei juridice care produce produsul din tutun; - adresa, țara, codul poș) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 96496 of the official web service.
-- Ordin sanatate nr. 1349/2008: Anexa nr. 1 (1 Formatul general de raportare a informațiilor cu privire la ingredientele utilizate în procesul de fabricație a produselor din tutun, precum și cantitățile ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin sanatate nr. 1349/2008: Anexa nr. 2 (2 Datele toxicologice disponibile producătorului sau importatorului referitoare la ingredientele utilizate în procesul de fabricație a produselor din tutun ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin sanatate nr. 1349/2008: Anexa nr. 3 (3 Formatul general de raportare a informațiilor cu privire la ingredientele utilizate în procesul de fabricație a produselor din tutun în vederea informării ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

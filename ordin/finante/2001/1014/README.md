@@ -2,7 +2,7 @@
 
 Ordin finante nr. 1014/2001 · 1 versions, from 2001-07-04 (latest in force: 2001-07-04) · <https://legislatie.just.ro/Public/DetaliiDocument/29363>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 2 (La Formularul de ofertă Valoarea maximă a lucrărilor executate de subcontractanți......... (% din prețul total ofertat) 2. Garanția de bună execuție va fi ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,6 +14,8 @@ Ordin finante nr. 1014/2001 · 1 versions, from 2001-07-04 (latest in force: 200
 | Art. 6 | [art-006.md](art-006.md) | 0 |  |
 | Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
 Act id: `ordin-finante-1014-2001` (tags `ordin-finante-1014-2001/<day>`; `python tools/on.py <day> ordin-finante-1014-2001`).
 
@@ -25,5 +27,5 @@ Act id: `ordin-finante-1014-2001` (tags `ordin-finante-1014-2001/<day>`; `python
 - Ordin finante nr. 1014/2001: the signatures and the place and date line after its last article are not article text.
 - Ordin finante nr. 1014/2001: a joint order of Ministerul Finanțelor Publice nr. 1.014 din 6 June 2001; Ministerul Lucrărilor Publice, Transporturilor și Locuinței nr. 874 din 12 June 2001. It is published once, here, under the issuer its EMITENT block lists first; `ordin-dezvoltare-874-2001` name it too (data/paths.json aliases).
 - Ordin finante nr. 1014/2001: Anexa nr. 1 (DOCUMENTAȚIA STANDARD pentru elaborarea și prezentarea ofertei pentru achiziția publică de lucrări) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 29363 of the official web service.
-- Ordin finante nr. 1014/2001: Anexa nr. 2 (La Formularul de ofertă Valoarea maximă a lucrărilor executate de subcontractanți......... (% din prețul total ofertat) 2. Garanția de bună execuție va fi ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin finante nr. 1014/2001: Anexa nr. 2 (La Formularul de ofertă Valoarea maximă a lucrărilor executate de subcontractanți......... (% din prețul total ofertat) 2. Garanția de bună execuție va fi constituită sub forma:.......... în cuantum d) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 29363 of the official web service.
 - Ordin finante nr. 1014/2001: the publisher's notes run into its text (*) Articolele de lucrări vor fi comasate în cadrul listelor de cantităţi, avându-se în vedere respectarea simultană, pe ; *) Formularul se utilizează numai în cazul aplicării procedurii de licitaţie deschisă.; *) Formularul se utilizează numai în cazul aplicării procedurii de licitaţie restrânsă sau de negociere competitivă (eta; *) Formularul se utilizează numai în cazul aplicării procedurii de licitaţie restrânsă sau de negociere competitivă cu a; *) Se completează fise distincte pentru fiecare contract, care vor fi confirmate, la cererea comisiei de evaluare, prin ) are not text.

@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 849/2003 · 1 versions, from 2003-09-19 (latest in force: 2003-09-19) · <https://legislatie.just.ro/Public/DetaliiDocument/46318>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 ┌──────────────────────────────────────────────────────────────────────────────┐ │ REGIM SPECIAL │ │ M/F [] Ambulatoriu Specialitate [] Spital [] │ │ ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 ┌──────────────────────────────────────────────────────────────────────────────┐ │ REGIM SPECIAL STUPEFIANTE │ │ │ │ M/F [] Ambulatoriu Specialitate [] ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -12,6 +12,10 @@ Ordin sanatate nr. 849/2003 · 1 versions, from 2003-09-19 (latest in force: 200
 | Art. 4 | [art-004.md](art-004.md) | 0 |  |
 | Art. 5 | [art-005.md](art-005.md) | 0 |  |
 | Art. 6 | [art-006.md](art-006.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
@@ -24,6 +28,6 @@ Act id: `ordin-sanatate-849-2003` (tags `ordin-sanatate-849-2003/<day>`; `python
 - Ordin sanatate nr. 849/2003: the first version is the order as published in Monitorul Oficial nr. 665 of 19 September 2003 (document 46318 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 849/2003: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 849/2003: a joint order of Ministerul Sănătății nr. 849 din 12 September 2003; Casa Naționala de Asigurări de Sănătate nr. 297 din 1 July 2003. It is published once, here, under the issuer its EMITENT block lists first; `ordin-cnas-297-2003` name it too (data/paths.json aliases).
+- Ordin sanatate nr. 849/2003: Anexa nr. 1 (1) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 46318 of the official web service.
+- Ordin sanatate nr. 849/2003: Anexa nr. 2 (2) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 46318 of the official web service.
 - Ordin sanatate nr. 849/2003: Anexa nr. 3 (3 NORME METODOLOGICE privind utilizarea și modul de completare a formularelor de prescripție medicală cu regim special pentru medicamente cu și fără contribuție personală, precum și pentru cele cu tim) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 46318 of the official web service; the service's copy of it as a document of its own (46319, 46333) reads the same words.
-- Ordin sanatate nr. 849/2003: Anexa nr. 1 (1 ┌──────────────────────────────────────────────────────────────────────────────┐ │ REGIM SPECIAL │ │ M/F [] Ambulatoriu Specialitate [] Spital [] │ │ ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin sanatate nr. 849/2003: Anexa nr. 2 (2 ┌──────────────────────────────────────────────────────────────────────────────┐ │ REGIM SPECIAL STUPEFIANTE │ │ │ │ M/F [] Ambulatoriu Specialitate [] ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

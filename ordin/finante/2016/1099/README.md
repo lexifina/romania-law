@@ -2,7 +2,7 @@
 
 Ordin finante nr. 1099/2016 · 1 versions, from 2016-07-29 (latest in force: 2016-07-29) · <https://legislatie.just.ro/Public/DetaliiDocument/180514>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (Annex no. 1 Anul fiscal/Perioada fiscală...... Fiscal year/Fiscal period Nr. și data înregistrării la autoritatea fiscală* Number and date of registration at ...): it is a table that the official text holds only flattened; Anexa nr. 2 (Annex no. 2 Anul fiscal/Perioada fiscală...... Fiscal year/Fiscal period Numărul și data înregistrării la autoritatea fiscală* Number and date of registration ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -32,6 +32,10 @@ Ordin finante nr. 1099/2016 · 1 versions, from 2016-07-29 (latest in force: 201
 | Art. 24 | [art-024.md](art-024.md) | 0 |  |
 | Art. 25 | [art-025.md](art-025.md) | 0 |  |
 | Art. 26 | [art-026.md](art-026.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 4 (what it is) | [anexa-4/README.md](anexa-4/README.md) | 0 |  |
@@ -45,7 +49,7 @@ Act id: `ordin-finante-1099-2016` (tags `ordin-finante-1099-2016/<day>`; `python
 - Ordin finante nr. 1099/2016: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin finante nr. 1099/2016: the first version is the order as published in Monitorul Oficial nr. 577 of 29 July 2016 (document 180514 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin finante nr. 1099/2016: the signatures and the place and date line after its last article are not article text.
+- Ordin finante nr. 1099/2016: Anexa nr. 1 (Annex no. 1 Anul fiscal/Perioada fiscală...... Fiscal year/Fiscal period Nr. și data înregistrării la autoritatea fiscală* Number and date of registration at the tax authority*............/...........) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 180514 of the official web service.
+- Ordin finante nr. 1099/2016: Anexa nr. 2 (Annex no. 2 Anul fiscal/Perioada fiscală...... Fiscal year/Fiscal period Numărul și data înregistrării la autoritatea fiscală* Number and date of registration at the tax authority*............/.......) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 180514 of the official web service.
 - Ordin finante nr. 1099/2016: Anexa nr. 3 (Annex no. 3 ROMÂNIA MINISTERUL FINANȚELOR PUBLICE Ministry of Public Finance AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Național Agency for Tax Administration Adresa:............................. Addre) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 180514 of the official web service.
 - Ordin finante nr. 1099/2016: Anexa nr. 4 (Annex no. 4 ROMÂNIA MINISTERUL FINANȚELOR PUBLICE Ministry of Public Finance AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ Național Agency for Tax Administration Adresa:............................. Addre) is part of the order and is published in its folder, anexa-4/ (paragraphs), from document 180514 of the official web service.
-- Ordin finante nr. 1099/2016: Anexa nr. 1 (Annex no. 1 Anul fiscal/Perioada fiscală...... Fiscal year/Fiscal period Nr. și data înregistrării la autoritatea fiscală* Number and date of registration at ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin finante nr. 1099/2016: Anexa nr. 2 (Annex no. 2 Anul fiscal/Perioada fiscală...... Fiscal year/Fiscal period Numărul și data înregistrării la autoritatea fiscală* Number and date of registration ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

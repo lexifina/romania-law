@@ -2,13 +2,15 @@
 
 Ordin dezvoltare nr. 1203/2010 · 1 versions, from 2010-05-03 (latest in force: 2010-05-03) · <https://legislatie.just.ro/Public/DetaliiDocument/118395>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (----- (Anexa nr. 9^1 la normele metodologice)): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. I | [art-001.md](art-001.md) | 0 |  |
 | Art. II | [art-002.md](art-002.md) | 0 |  |
 | Art. III | [art-003.md](art-003.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 
 Act id: `ordin-dezvoltare-1203-2010` (tags `ordin-dezvoltare-1203-2010/<day>`; `python tools/on.py <day> ordin-dezvoltare-1203-2010`).
 
@@ -19,4 +21,4 @@ Act id: `ordin-dezvoltare-1203-2010` (tags `ordin-dezvoltare-1203-2010/<day>`; `
 - Ordin dezvoltare nr. 1203/2010: the first version is the order as published in Monitorul Oficial nr. 289 of 3 May 2010 (document 118395 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin dezvoltare nr. 1203/2010: the signatures and the place and date line after its last article are not article text.
 - Ordin dezvoltare nr. 1203/2010: a joint order of Ministerul Dezvoltării Regionale și Turismului nr. 1.203 din 26 March 2010; Ministerul Finanțelor Publice nr. 927 din 8 April 2010; Ministerul Administrației și Internelor nr. 103 din 22 April 2010. It is published once, here, under the issuer its EMITENT block lists first; `ordin-finante-927-2010`, `ordin-interne-103-2010` name it too (data/paths.json aliases).
-- Ordin dezvoltare nr. 1203/2010: Anexa nr. 1 (----- (Anexa nr. 9^1 la normele metodologice)) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin dezvoltare nr. 1203/2010: Anexa nr. 1 (----- (Anexa nr. 9^1 la normele metodologice)) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 118395 of the official web service.

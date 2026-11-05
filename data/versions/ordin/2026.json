@@ -3,6 +3,51 @@
  "shard": "ordin/2026",
  "acts": [
   {
+   "slug": "ordin-agricultura-140-2026",
+   "path": "ordin/agricultura/2026/140",
+   "short": "Ordin agricultura nr. 140/2026",
+   "title": "Ordinul nr. 140/2026 privind aprobarea Sistemului de sancțiuni administrative pentru condiționalitate socială prevăzută în Planul strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309981",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309981",
+     "sha256": "adb182454d77e31f2a53ccd0cae74147a089b1ded38088c2dcb15b33a5c6f534"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-142-2026",
+   "path": "ordin/agricultura/2026/142",
+   "short": "Ordin agricultura nr. 142/2026",
+   "title": "Ordinul nr. 142/2026 pentru aprobarea Îndrumarului metodologic privind achizițiile efectuate de beneficiarii privați finanțați din Fondul pentru modernizare prin \"Schema de ajutor de stat privind sprijinirea investițiilor în noi capacități de producere a energiei electrice din surse regenerabile pentru autoconsumul întreprinderilor din cadrul sectorului agricol și industriei alimentare\" gestionată de Agenția pentru Finanțarea Investițiilor Rurale, cod ÎA, ediția I/revizia 0",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310026",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310026",
+     "sha256": "c98a7a180a2939205ad614f7b230c4c98b85cb3d7525340c6e308af48ac40c32"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-147-2026",
+   "path": "ordin/agricultura/2026/147",
+   "short": "Ordin agricultura nr. 147/2026",
+   "title": "Ordinul nr. 147/2026 privind aprobarea Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311060",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311060",
+     "sha256": "d341f20a5c21d9eccd2055e72afd3c80b6fb99366c913f4ce9fdaa4d5d209f5d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-149-2026",
    "path": "ordin/agricultura/2026/149",
    "short": "Ordin agricultura nr. 149/2026",
@@ -14,6 +59,66 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310965",
      "sha256": "8e6457440451291afbc86d82d0c0041d87d8c0785c7a799eb42542ac759cd2f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-154-2026",
+   "path": "ordin/agricultura/2026/154",
+   "short": "Ordin agricultura nr. 154/2026",
+   "title": "Ordinul nr. 154/2026 privind stabilirea cotei pentru decontarea cheltuielilor aferente consumului de energie electrică pentru irigații realizat în anul 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310368",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310368",
+     "sha256": "0b27f860f2baa96aed3fbe5e607b19024ba9758d68bf027d58bcc2de06b753f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-168-2026",
+   "path": "ordin/agricultura/2026/168",
+   "short": "Ordin agricultura nr. 168/2026",
+   "title": "Ordinul nr. 168/2026 pentru aprobarea Ghidului solicitantului aferent acțiunii: 1.4.1 - Sprijinirea implementării unui sistem eficient de control, inspecție și executare privind activitățile de pescuit, versiunea 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311241",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311241",
+     "sha256": "e9f09990b9dceb96b11820c9ba53e37c02da8c5d5236cee2157d68a92b8fb637"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-198-2026",
+   "path": "ordin/agricultura/2026/198",
+   "short": "Ordin agricultura nr. 198/2026",
+   "title": "Ordinul nr. 198/2026 pentru aprobarea Metodologiei pentru costuri simplificate privind acordarea sprijinului financiar pentru serviciile de mediu furnizate de fermele de acvacultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312294",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312294",
+     "sha256": "c9c749f2b97ff809be6f71f7761d17abb0b62fc3bc0fe9bb832b96ae4cfcf1e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-200-2026",
+   "path": "ordin/agricultura/2026/200",
+   "short": "Ordin agricultura nr. 200/2026",
+   "title": "Ordinul nr. 200/2026 pentru aprobarea Ghidului solicitantului aferent acțiunii 2.1.4 - Servicii de mediu, versiunea 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312462",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312462",
+     "sha256": "160cd784622fd286ff498e216972cd0f55ae7c17476b63cad3c0ab75cf30984e"
     }
    ]
   },
@@ -33,6 +138,126 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-209-2026",
+   "path": "ordin/agricultura/2026/209",
+   "short": "Ordin agricultura nr. 209/2026",
+   "title": "Ordinul nr. 209/2026 pentru aprobarea cantităților de motorină aferente perioadei 1 ianuarie 2026-31 martie 2026, determinate la plată și nedecontate de către Agenția de Plăți și Intervenție pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313155",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313155",
+     "sha256": "cff1c068180196b621b9d14b0e0b887620df99b8cfb400b04395cd4cb7763fb4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-213-2026",
+   "path": "ordin/agricultura/2026/213",
+   "short": "Ordin agricultura nr. 213/2026",
+   "title": "Ordinul nr. 213/2026 pentru aprobarea Regulamentului privind recunoașterea organismelor delegate și supravegherea activității acestor organisme pentru băuturi spirtoase desemnate prin indicații geografice înregistrate sau care urmează să obțină protecția ca indicație geografică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313412",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313412",
+     "sha256": "7afb2f34977acd373aa1f8f61438a203c98ce12933e1081b8cc870c5ea90a608"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-224-2026",
+   "path": "ordin/agricultura/2026/224",
+   "short": "Ordin agricultura nr. 224/2026",
+   "title": "Ordinul nr. 224/2026 pentru aprobarea sistemului de sancțiuni aplicabil intervențiilor și ajutoarelor naționale tranzitorii în sectoarele vegetal și zootehnic, aferente cererilor de plată începând cu anul de cerere 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313349",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313349",
+     "sha256": "772af18684be666c1fe9c0b11f80bc7dda03f21f45ffa35577c2d32db5d80252"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-260-2026",
+   "path": "ordin/agricultura/2026/260",
+   "short": "Ordin agricultura nr. 260/2026",
+   "title": "Ordinul nr. 260/2026 privind accesul la resursele acvatice vii din domeniul public al statului în vederea practicării pescuitului recreativ în habitatele acvatice naturale, cu excepția Rezervației Biosferei \"Delta Dunării\", modul de eliberare a permiselor de pescuit recreativ și valabilitatea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314050",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314050",
+     "sha256": "deb45ad195dc5eda23c3aed8a503b520def41e3750b520f2ffa6033cf0bcab30"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-261-2026",
+   "path": "ordin/agricultura/2026/261",
+   "short": "Ordin agricultura nr. 261/2026",
+   "title": "Ordinul nr. 261/2026 privind stabilirea tarifelor pentru efectuarea testelor și controlului, certificării, înregistrării, supravegherii, monitorizării și acreditării pentru producerea, prelucrarea și/sau comercializarea semințelor și a materialului săditor, precum și a tarifelor pentru efectuarea testelor de calitate a semințelor și a materialului săditor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314753",
+   "versions": [
+    {
+     "from": "2026-09-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314753",
+     "sha256": "2eebacca6256ead3d762757dee7dea32922a5c02e45ba312d8675b655a86ca84"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-277-2026",
+   "path": "ordin/agricultura/2026/277",
+   "short": "Ordin agricultura nr. 277/2026",
+   "title": "Ordinul nr. 277/2026 pentru aprobarea cantităților de motorină aferente perioadei 1 aprilie 2026-30 iunie 2026, determinate la plată și nedecontate de către Agenția de Plăți și Intervenție pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314838",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314838",
+     "sha256": "a07e1d1983b9f47911b42fff1aa7fecc9461d59a9c4eb7ce16043a877764e149"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-286-2026",
+   "path": "ordin/agricultura/2026/286",
+   "short": "Ordin agricultura nr. 286/2026",
+   "title": "Ordinul nr. 286/2026 pentru aprobarea în anul 2026 a realocării sumelor aferente intervențiilor din sectorul apicol din cadrul Planului strategic PAC 2023-2027 și stabilirea cuantumurilor unitare pentru intervențiile din sectorul apicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315108",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315108",
+     "sha256": "26c7339d72f8b680f86b264fb98c616def4dfcaec819905d3eec9af8dc73535c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-288-2026",
+   "path": "ordin/agricultura/2026/288",
+   "short": "Ordin agricultura nr. 288/2026",
+   "title": "Ordinul nr. 288/2026 privind aprobarea în anul 2026 a realocării sumelor și stabilirea condițiilor de acordare a avansului pentru plățile directe finanțate din FEGA, din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315121",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315121",
+     "sha256": "cdb17a9f7f19c3c3b372edafa2bd43158028cbf6a87be86a807365b112121afb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-33-2026",
    "path": "ordin/agricultura/2026/33",
    "short": "Ordin agricultura nr. 33/2026",
@@ -48,6 +273,81 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-35-2026",
+   "path": "ordin/agricultura/2026/35",
+   "short": "Ordin agricultura nr. 35/2026",
+   "title": "Ordinul nr. 35/2026 pentru aprobarea unor proceduri specifice înregistrării indicațiilor geografice sau a specialităților tradiționale garantate, pentru produse agricole, prevăzute de Hotărârea Guvernului nr. 963/2025 privind stabilirea cadrului instituțional și a unor măsuri pentru punerea în aplicare a Regulamentului (UE) 2024/1.143 al Parlamentului European și al Consiliului din 11 aprilie 2024 privind indicațiile geografice pentru vin, băuturi spirtoase și produse agricole, precum și privind specialitățile tradiționale garantate și mențiunile facultative de calitate pentru produsele agricole, de modificare a Regulamentelor (UE) nr. 1.308/2013, (UE) 2019/787 și (UE) 2019/1.753 și de abrogare a Regulamentului (UE) nr. 1.151/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307956",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307956",
+     "sha256": "c2833fcf840b9b2355251cafa4840805848f0daea9332db4510d87078b3ef95e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-42-2026",
+   "path": "ordin/agricultura/2026/42",
+   "short": "Ordin agricultura nr. 42/2026",
+   "title": "Ordinul nr. 42/2026 pentru aprobarea cuantumului unitar al plăților directe aferente cererilor de plată depuse în anul 2025, finanțate din Fondul european de garantare agricolă prin intervențiile din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307456",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307456",
+     "sha256": "63e66f82ac573362230bba9117e2e8edb7cbb42b169f130327fec3a3fb3104c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-49-2026",
+   "path": "ordin/agricultura/2026/49",
+   "short": "Ordin agricultura nr. 49/2026",
+   "title": "Ordinul nr. 49/2026 pentru aprobarea Regulamentului privind recunoașterea organismelor delegate și supravegherea activității acestor organisme pentru produse agricole desemnate prin indicații geografice sau specialități tradiționale garantate înregistrate sau care urmează să obțină protecția pe un sistem de calitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308117",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308117",
+     "sha256": "31d457865df4b71f1dbb4a4ea60049a729e7df4d2c077a0d617ebf85a71a2064"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-5-2026",
+   "path": "ordin/agricultura/2026/5",
+   "short": "Ordin agricultura nr. 5/2026",
+   "title": "Ordinul nr. 5/2026 privind nominalizarea punctelor de debarcare și centrelor de primă vânzare pentru debarcarea și comercializarea capturilor de pește obținute din pescuit comercial în habitatele acvatice naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306467",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306467",
+     "sha256": "a2f33ccbcfa2b94e541db3dc8bd75b8d849389e3d404f9861823051222abf4ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-57-2026",
+   "path": "ordin/agricultura/2026/57",
+   "short": "Ordin agricultura nr. 57/2026",
+   "title": "Ordinul nr. 57/2026 privind aprobarea denumirilor comerciale ale speciilor de pești și altor viețuitoare acvatice, acceptate pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308153",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308153",
+     "sha256": "3acfce7d90b50703e179ed094187bc2525b11757a486c2a67423a1202a6d7c02"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-59-2026",
    "path": "ordin/agricultura/2026/59",
    "short": "Ordin agricultura nr. 59/2026",
@@ -59,6 +359,81 @@
      "units": 13,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308954",
      "sha256": "2a01392eac5b7cbbfa2f912e06d8e5435358af5a8cceac68350de8f52118ef1e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-67-2026",
+   "path": "ordin/agricultura/2026/67",
+   "short": "Ordin agricultura nr. 67/2026",
+   "title": "Ordinul nr. 67/2026 privind aprobarea formularului-tip al cererii de plată pentru anul 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308212",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308212",
+     "sha256": "de957b793d515a2558c03b709f76da46a22828dbe7097c69542bbe88f932548e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-81-2026",
+   "path": "ordin/agricultura/2026/81",
+   "short": "Ordin agricultura nr. 81/2026",
+   "title": "Ordinul nr. 81/2026 pentru aprobarea unor proceduri specifice pentru înregistrarea indicațiilor geografice și dobândirea protecției băuturilor spirtoase, prevăzute de Hotărârea Guvernului nr. 537/2022 privind stabilirea cadrului instituțional și a măsurilor pentru punerea în aplicare a Regulamentului (UE) 2019/787 al Parlamentului European și al Consiliului din 17 aprilie 2019 privind definirea, descrierea, prezentarea și etichetarea băuturilor spirtoase, utilizarea denumirilor băuturilor spirtoase în prezentarea și etichetarea altor produse alimentare, protecția indicațiilor geografice ale băuturilor spirtoase, utilizarea alcoolului etilic și a distilatelor de origine agricolă în băuturile alcoolice și de abrogare a Regulamentului (CE) nr. 110/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308390",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308390",
+     "sha256": "64d80654e0520ee861b6c55c3ab1613d683f6b5107afaac5d2681bf51d34dac7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-9-2026",
+   "path": "ordin/agricultura/2026/9",
+   "short": "Ordin agricultura nr. 9/2026",
+   "title": "Ordinul nr. 9/2026 privind aprobarea nivelului comisioanelor de garantare pentru anul 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306568",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306568",
+     "sha256": "07245ea42a1edd1897f94c7af19c36852746c57a4b049a26c4f975919cf5f811"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-93-2026",
+   "path": "ordin/agricultura/2026/93",
+   "short": "Ordin agricultura nr. 93/2026",
+   "title": "Ordinul nr. 93/2026 privind aprobarea Sistemului de sancțiuni aplicabil pentru cererile de plată depuse pentru intervenția DR-08 \"Împăduriri - întreținerea și îngrijirea suprafețelor împădurite\" din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308952",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308952",
+     "sha256": "3ebfe31ed681f9aa74289c374f509d2dc8f506775ce046b38fe2adc6425da03f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-96-2026",
+   "path": "ordin/agricultura/2026/96",
+   "short": "Ordin agricultura nr. 96/2026",
+   "title": "Ordinul nr. 96/2026 pentru aprobarea cantităților de motorină aferente perioadei 1 iulie 2025-30 septembrie 2025 și perioadei 1 octombrie 2025-31 decembrie 2025, determinate la plată și nedecontate de către Agenția de Plăți și Intervenție pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308404",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308404",
+     "sha256": "94f1d3be080b133b9531067aa7787265d28b8e8ce2f25219c523facde0c06047"
     }
    ]
   },
@@ -3498,6 +3873,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3007-2026",
+   "path": "ordin/educatie/2026/3007",
+   "short": "Ordin educatie nr. 3007/2026",
+   "title": "Ordinul nr. 3.007/2026 pentru completarea Ordinului ministrului educației și cercetării nr. 6.056/2025 privind aprobarea graficului de desfășurare a examenelor de certificare a calificării profesionale a absolvenților din învățământul profesional și tehnic preuniversitar în anul școlar 2025-2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306322",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306322",
+     "sha256": "67d0c40220c773c156e3dcb123c2bfcc0b5866470e325cecc46139755879de59"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3008-2026",
    "path": "ordin/educatie/2026/3008",
    "short": "Ordin educatie nr. 3008/2026",
@@ -3509,6 +3899,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306721",
      "sha256": "8e8dee8f06389d83f45e536a516565821ca038dc5b32d5eb3e9fde3cff905a01"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3010-2026",
+   "path": "ordin/educatie/2026/3010",
+   "short": "Ordin educatie nr. 3010/2026",
+   "title": "Ordinul nr. 3.010/2026 pentru completarea Regulamentului privind regimul actelor de studii și al documentelor școlare gestionate de unitățile de învățământ preuniversitar, aprobat prin Ordinul ministrului educației nr. 4.634/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306407",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306407",
+     "sha256": "a03e7d3e3d517ae20694f182e5ab656248f8584d013dd72fb028db557858854c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3151-2026",
+   "path": "ordin/educatie/2026/3151",
+   "short": "Ordin educatie nr. 3151/2026",
+   "title": "Ordinul nr. 3.151/2026 privind modificarea anexei la Ordinul ministrului educației nr. 6.469/2022 pentru aprobarea Nomenclatorului de încadrare a calificărilor profesionale de nivel 3 și de nivel 4 conform Cadrului național al calificărilor, pe domenii de pregătire de bază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307121",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307121",
+     "sha256": "5a2ee4b8bac07b10c2d44b3d8f0f7ba49c0d71ba0dda346e1de12150fd264bc8"
     }
    ]
   },
@@ -3588,6 +4008,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3214-2026",
+   "path": "ordin/educatie/2026/3214",
+   "short": "Ordin educatie nr. 3214/2026",
+   "title": "Ordinul nr. 3.214/2026 pentru modificarea și completarea Regulamentului-cadru privind studiile universitare de doctorat, aprobat prin Ordinul ministrului educației nr. 3.020/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307950",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307950",
+     "sha256": "8a4999c95e9bf44e2d1cabe2ffb7676a37e65b3b5646c23967aa43d50658358c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3224-2026",
+   "path": "ordin/educatie/2026/3224",
+   "short": "Ordin educatie nr. 3224/2026",
+   "title": "Ordinul nr. 3.224/2026 privind modificarea și completarea Ordinului ministrului educației și cercetării nr. 6.930/2025 pentru aprobarea programelor școlare asociate disciplinelor prevăzute în Ordinul ministrului educației și cercetării nr. 4.350/2025 privind aprobarea planurilor-cadru pentru învățământul liceal cu frecvență zi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307542",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307542",
+     "sha256": "02c2fef24f5fa9d5de8a08fd6ac73a5ec0a6de94a3349f56b2b04b5e5fc71131"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3226-2026",
    "path": "ordin/educatie/2026/3226",
    "short": "Ordin educatie nr. 3226/2026",
@@ -3648,6 +4098,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3350-2026",
+   "path": "ordin/educatie/2026/3350",
+   "short": "Ordin educatie nr. 3350/2026",
+   "title": "Ordinul nr. 3.350/2026 pentru completarea Metodologiei privind formarea continuă a personalului din învățământul preuniversitar, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.561/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308011",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308011",
+     "sha256": "cac534b613e7d3bd0440e432a1ccb2f4b37459653dc7603992db8cd7ed5d631d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3360-2026",
    "path": "ordin/educatie/2026/3360",
    "short": "Ordin educatie nr. 3360/2026",
@@ -3674,6 +4139,36 @@
      "units": 60,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309048",
      "sha256": "c6056bf7ddd86a9f83811b2d56cf55cc737efbb91bf682c2d94ede6deb450c1e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3461-2026",
+   "path": "ordin/educatie/2026/3461",
+   "short": "Ordin educatie nr. 3461/2026",
+   "title": "Ordinul nr. 3.461/2026 pentru modificarea și completarea Procesului de autorizare/acreditare a centrelor de evaluare a competențelor profesionale obținute în contexte de învățare nonformală și informală, aprobat prin Ordinul ministrului educației și cercetării nr. 6.390/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309743",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309743",
+     "sha256": "6e5f9872e999bff138515a953dc1e88187c6378a542fdb0f3a2d0752fde64747"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3463-2026",
+   "path": "ordin/educatie/2026/3463",
+   "short": "Ordin educatie nr. 3463/2026",
+   "title": "Ordinul nr. 3.463/2026 pentru modificarea anexei nr. 1 la Ordinul ministrului educației și cercetării nr. 6.932/2025 privind aprobarea planurilor-cadru pentru învățământul liceal cu predare în limbile minorităților naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308938",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308938",
+     "sha256": "e31c360ee71a98eb61490750f439d02b39e33650b0627537ff6724ca61ead6d1"
     }
    ]
   },
@@ -3708,6 +4203,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3706-2026",
+   "path": "ordin/educatie/2026/3706",
+   "short": "Ordin educatie nr. 3706/2026",
+   "title": "Ordinul nr. 3.706/2026 pentru modificarea și completarea Metodologiei-cadru de înscriere a copiilor în unități de învățământ preuniversitar cu personalitate juridică cu grupe de nivel preșcolar și/sau antepreșcolar și în servicii de educație timpurie complementare, aprobată prin Ordinul ministrului educației nr. 4.018/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309969",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309969",
+     "sha256": "5ed51c8744a1a79b493a3da089a732d816036e05463f27977311043c3eb82444"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3707-2026",
    "path": "ordin/educatie/2026/3707",
    "short": "Ordin educatie nr. 3707/2026",
@@ -3719,6 +4229,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309970",
      "sha256": "79c3d9fec34b798ab09b0c2b810caad067fa507c77cfb63b91a2b7c7ed1b98f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3708-2026",
+   "path": "ordin/educatie/2026/3708",
+   "short": "Ordin educatie nr. 3708/2026",
+   "title": "Ordinul nr. 3.708/2026 pentru modificarea și completarea Ordinului ministrului educației și cercetării nr. 6.058/2025 privind organizarea și desfășurarea evaluării naționale pentru absolvenții clasei a VIII-a în anul școlar 2025-2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309745",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309745",
+     "sha256": "ae6493684a834778f05ef140087c1a501ebe376416407714d215862bd45add3e"
     }
    ]
   },
@@ -3764,6 +4289,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310372",
      "sha256": "bdea684648d5189f55641a7b8171c6229c54d74ed59bade72a7676106d8b16f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3865-2026",
+   "path": "ordin/educatie/2026/3865",
+   "short": "Ordin educatie nr. 3865/2026",
+   "title": "Ordinul nr. 3.865/2026 pentru modificarea și completarea Metodologiei privind recunoașterea diplomei de doctor și a titlului de doctor în științe sau într-un domeniu profesional obținute în străinătate, aprobată prin Ordinul ministrului educației nr. 7.234/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310922",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310922",
+     "sha256": "eea78a5fe61fb4eceaa01c3ac779ba16c90c3f83b3a3771b6093570e42cc43fd"
     }
    ]
   },
@@ -3843,6 +4383,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4091-2026",
+   "path": "ordin/educatie/2026/4091",
+   "short": "Ordin educatie nr. 4091/2026",
+   "title": "Ordinul nr. 4.091/2026 pentru modificarea Regulamentului-cadru privind studiile universitare de doctorat, aprobat prin Ordinul ministrului educației nr. 3.020/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311362",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311362",
+     "sha256": "4ed6bec8cf7b234705dfb8cbe7739b45387c612ab133a8d39acae6c8d909868b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4092-2026",
+   "path": "ordin/educatie/2026/4092",
+   "short": "Ordin educatie nr. 4092/2026",
+   "title": "Ordinul nr. 4.092/2026 pentru modificarea Metodologiei privind analizarea procedurii administrative desfășurate la nivelul instituțiilor organizatoare de studii universitare de doctorat pentru acordarea diplomei de doctor, aprobată prin Ordinul ministrului educației și cercetării nr. 3.741/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311363",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311363",
+     "sha256": "6cfc9b98bd9ba06e34e69bceeecee4612c7b51c35cf8dcca86690ac0de3a9be6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4106-2026",
    "path": "ordin/educatie/2026/4106",
    "short": "Ordin educatie nr. 4106/2026",
@@ -3854,6 +4424,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312441",
      "sha256": "479b0c55301955e98c286d4e993e65d9c8563cda9ba541ad6b41ced48900b02d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4109-2026",
+   "path": "ordin/educatie/2026/4109",
+   "short": "Ordin educatie nr. 4109/2026",
+   "title": "Ordinul nr. 4.109/2026 pentru modificarea Metodologiei privind evaluarea activității manageriale desfășurate de către inspectorii școlari generali, inspectorii școlari generali adjuncți din inspectoratele școlare și directorii caselor corpului didactic, aprobată prin Ordinul ministrului educației naționale nr. 4.315/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311963",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311963",
+     "sha256": "2f79eb933f8f273b1220ce6a1fae1e12258c0dc9dcf459db3e6d7d9d9b76d36c"
     }
    ]
   },
@@ -3888,6 +4473,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4261-2026",
+   "path": "ordin/educatie/2026/4261",
+   "short": "Ordin educatie nr. 4261/2026",
+   "title": "Ordinul nr. 4.261/2026 pentru modificarea și completarea Regulamentului-cadru de organizare și funcționare a unităților de învățământ preuniversitar, aprobat prin Ordinul ministrului educației nr. 5.726/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312069",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312069",
+     "sha256": "fff4353a7cbdebbeff37cb612857c52ef602c7ac16f6d0446f861404eed17cf6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4265-2026",
    "path": "ordin/educatie/2026/4265",
    "short": "Ordin educatie nr. 4265/2026",
@@ -3899,6 +4499,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312096",
      "sha256": "9d62f48fdc65863d9c2231b61d7a7398d5f2f1e4516f34d56523b56d6f6d2a68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4270-2026",
+   "path": "ordin/educatie/2026/4270",
+   "short": "Ordin educatie nr. 4270/2026",
+   "title": "Ordinul nr. 4.270/2026 pentru modificarea anexei nr. 1 la Ordinul ministrului educației și cercetării nr. 6.059/2025 privind organizarea și desfășurarea examenului național de bacalaureat - 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311899",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311899",
+     "sha256": "efdd1072e50127304eaa10624c87a3cc436d9c366883fcad0fdf32589aadb8ac"
     }
    ]
   },
@@ -3944,6 +4559,51 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312365",
      "sha256": "e344d56b3963ed5af75eca8dd6fb0ea6d1ae755eb315193d647de1d005669c4e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4394-2026",
+   "path": "ordin/educatie/2026/4394",
+   "short": "Ordin educatie nr. 4394/2026",
+   "title": "Ordinul nr. 4.394/2026 privind modificarea și completarea Normelor metodologice de organizare și funcționare a programelor postuniversitare de conversie profesională a cadrelor didactice din învățământul preuniversitar, aprobate prin Ordinul ministrului educației nr. 7.877/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312273",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312273",
+     "sha256": "804e7b8413ca84ffc3648e715665e3a7899b118748ae5579c103bf7728384837"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4420-2026",
+   "path": "ordin/educatie/2026/4420",
+   "short": "Ordin educatie nr. 4420/2026",
+   "title": "Ordinul nr. 4.420/2026 pentru modificarea anexei nr. 2 la Ordinul ministrului educației și cercetării nr. 3.722/2026 privind aprobarea planurilor-cadru alternative și a listei unităților de învățământ incluse în Programul național pentru pilotarea sistemică de planuri-cadru în învățământul liceal de stat, particular și confesional, înființat prin Ordinul ministrului educației și cercetării nr. 4.444/2025, începând cu anul școlar 2026-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312408",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312408",
+     "sha256": "230d3febbec1c3abc841e3c95a4bb40afb9c4d7bb3302f6cf9a06bf521dc1c85"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4462-2026",
+   "path": "ordin/educatie/2026/4462",
+   "short": "Ordin educatie nr. 4462/2026",
+   "title": "Ordinul nr. 4.462/2026 privind modificarea anexei nr. 2 la Ordinul ministrului educației nr. 5.760/2024 pentru aprobarea Regulamentului de organizare și funcționare a Comisiei Naționale de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare (CNATDCU)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313189",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313189",
+     "sha256": "ce782fe6d10000e1787ec4879b69ee7344e65e7c2d080d97c2683f74b7cb00ff"
     }
    ]
   },
@@ -4113,6 +4773,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4689-2026",
+   "path": "ordin/educatie/2026/4689",
+   "short": "Ordin educatie nr. 4689/2026",
+   "title": "Ordinul nr. 4.689/2026 pentru modificarea anexei la Ordinul ministrului educației nr. 5.516/2024 privind organizarea și desfășurarea anului pregătitor de limba română pentru cetățenii străini",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313595",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313595",
+     "sha256": "31e702c418353efb878bca14990989ae9d9a94fe5fb8cd95c6efbe284a8cd4f8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4690-2026",
    "path": "ordin/educatie/2026/4690",
    "short": "Ordin educatie nr. 4690/2026",
@@ -4199,6 +4874,36 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314053",
      "sha256": "5f1048130400d418b1fbc4a1e43a1c11225b335e42f2278d580eb56f62658363"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5111-2026",
+   "path": "ordin/educatie/2026/5111",
+   "short": "Ordin educatie nr. 5111/2026",
+   "title": "Ordinul nr. 5.111/2026 pentru modificarea anexei nr. 2 la Ordinul ministrului educației naționale nr. 3.393/2017 privind aprobarea programelor școlare pentru învățământul gimnazial",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313823",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313823",
+     "sha256": "82864fee3531e5203163f72d35ebd11d58df26589d0ad7a49d26e4b9a97bf47d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5170-2026",
+   "path": "ordin/educatie/2026/5170",
+   "short": "Ordin educatie nr. 5170/2026",
+   "title": "Ordinul nr. 5.170/2026 pentru modificarea și completarea Regulamentului intern de organizare și funcționare a Autorității Naționale pentru Cercetare, aprobat prin Ordinul ministrului educației și cercetării nr. 4.038/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313843",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313843",
+     "sha256": "21c30580554bc177a9ea39c9ae123766b0016ca9b74e0871b001a80b0aba1f13"
     }
    ]
   },
@@ -4293,6 +4998,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5523-2026",
+   "path": "ordin/educatie/2026/5523",
+   "short": "Ordin educatie nr. 5523/2026",
+   "title": "Ordinul nr. 5.523/2026 pentru modificarea Ordinului ministrului educației și cercetării nr. 4.482/2025 privind înființarea, organizarea și funcționarea Comisiei Naționale pentru Desegregare Școlară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314373",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314373",
+     "sha256": "6166b78ee726b82826d52efd9fbad88f5979fb8573e9eebb90a4a80e4d72815d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5581-2026",
    "path": "ordin/educatie/2026/5581",
    "short": "Ordin educatie nr. 5581/2026",
@@ -4364,6 +5084,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314579",
      "sha256": "1ad11d4678b0400057ef1c26f655642ee35867db0142160cd4b4b1fd78d8b839"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5641-2026",
+   "path": "ordin/educatie/2026/5641",
+   "short": "Ordin educatie nr. 5641/2026",
+   "title": "Ordinul nr. 5.641/2026 pentru modificarea și completarea Regulamentului de organizare și funcționare a Consiliului Național al Elevilor, aprobat prin Ordinul ministrului educației nr. 5.428/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314819",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314819",
+     "sha256": "d4ae26846e99b495b65147ecf8ffc7edb2487d6ce2512fa6f3e8c8d1499cf489"
     }
    ]
   },
@@ -4458,6 +5193,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5809-2026",
+   "path": "ordin/educatie/2026/5809",
+   "short": "Ordin educatie nr. 5809/2026",
+   "title": "Ordinul nr. 5.809/2026 pentru modificarea Ordinului ministrului educației și cercetării nr. 4.616/2026 privind aprobarea programelor școlare asociate disciplinelor prevăzute în planurile-cadru pentru învățământul liceal special",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315624",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315624",
+     "sha256": "79d2b671883e229554baae453cf440e96d8f36708f16b297540de02d349317ef"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5814-2026",
    "path": "ordin/educatie/2026/5814",
    "short": "Ordin educatie nr. 5814/2026",
@@ -4499,6 +5249,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315719",
      "sha256": "92261cec24fbe04717ba5a8a242001c85d61083641517fcb7ac0904af07d5053"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-5832-2026",
+   "path": "ordin/educatie/2026/5832",
+   "short": "Ordin educatie nr. 5832/2026",
+   "title": "Ordinul nr. 5.832/2026 pentru modificarea și completarea Metodologiei privind criteriile și procedurile de evaluare și certificare a evaluatorilor de competențe profesionale, a evaluatorilor de evaluatori și a evaluatorilor externi, aprobată prin Ordinul ministrului educației nr. 7.432/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315731",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315731",
+     "sha256": "8eb2c7abb8036d8247e5cae2e68c52a8f8461af5cf78f759700fd8b1c15db0ce"
     }
    ]
   },

@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 698/2009 · 1 versions, from 2009-07-01 (latest in force: 2009-07-01) · <https://legislatie.just.ro/Public/DetaliiDocument/109198>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 UNITATEA SANITARĂ:................................... 1.1. Program P1.A: SUBPROGRAMUL DE TRATAMENT ȘI MONITORIZARE A PERSOANELOR CU INFECȚIE HIV/SIDA ȘI ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 CASA DE ASIGURĂRI DE SĂNĂTATE............................................... 1.1. Program P1.A: SUBPROGRAMUL DE TRATAMENT ȘI MONITORIZARE A PERSOANELOR CU ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -11,6 +11,10 @@ Ordin sanatate nr. 698/2009 · 1 versions, from 2009-07-01 (latest in force: 200
 | Art. 3 | [art-003.md](art-003.md) | 0 |  |
 | Art. 4 | [art-004.md](art-004.md) | 0 |  |
 | Art. 5 | [art-005.md](art-005.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 | Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
 | Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 
@@ -23,6 +27,6 @@ Act id: `ordin-sanatate-698-2009` (tags `ordin-sanatate-698-2009/<day>`; `python
 - Ordin sanatate nr. 698/2009: the first version is the order as published in Monitorul Oficial nr. 453 of 1 July 2009 (document 109198 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 698/2009: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 698/2009: a joint order of Ministerul Sănătății nr. 698 din 4 June 2009; Casa Națională de Asigurări de Sănătate nr. 636 din 20 May 2009. It is published once, here, under the issuer its EMITENT block lists first; `ordin-cnas-636-2009` name it too (data/paths.json aliases).
+- Ordin sanatate nr. 698/2009: Anexa nr. 1 (1 UNITATEA SANITARĂ:................................... 1.1. Program P1.A: SUBPROGRAMUL DE TRATAMENT ȘI MONITORIZARE A PERSOANELOR CU INFECȚIE HIV/SIDA ȘI TRATAMENTUL POSTEXPUNERE Raportare pentru....) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 109198 of the official web service.
+- Ordin sanatate nr. 698/2009: Anexa nr. 2 (2 CASA DE ASIGURĂRI DE SĂNĂTATE............................................... 1.1. Program P1.A: SUBPROGRAMUL DE TRATAMENT ȘI MONITORIZARE A PERSOANELOR CU INFECȚIE HIV/SIDA ȘI TRATAMENTUL POSTEXPUNE) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 109198 of the official web service.
 - Ordin sanatate nr. 698/2009: Anexa nr. 3 (3 METODOLOGIA transmiterii rapoartelor aferente programelor/subprogramelor naționale de sănătate cu scop curativ Unitățile sanitare nominalizate de Ministerul Sănătății să deruleze programe/subprogram) is part of the order and is published in its folder, anexa-3/ (paragraphs), from document 109198 of the official web service; the service's copy of it as a document of its own (109199, 109201) reads the same words.
-- Ordin sanatate nr. 698/2009: Anexa nr. 1 (1 UNITATEA SANITARĂ:................................... 1.1. Program P1.A: SUBPROGRAMUL DE TRATAMENT ȘI MONITORIZARE A PERSOANELOR CU INFECȚIE HIV/SIDA ȘI ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin sanatate nr. 698/2009: Anexa nr. 2 (2 CASA DE ASIGURĂRI DE SĂNĂTATE............................................... 1.1. Program P1.A: SUBPROGRAMUL DE TRATAMENT ȘI MONITORIZARE A PERSOANELOR CU ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.

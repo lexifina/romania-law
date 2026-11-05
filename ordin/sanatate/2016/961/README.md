@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 961/2016 · 1 versions, from 2016-09-02 (latest in force: 2016-09-02) · <https://legislatie.just.ro/Public/DetaliiDocument/181394>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 3 (3 PROCEDURILE RECOMANDATE pentru dezinfecția mâinilor, în funcție de nivelul de risc *Font 8* ...): it is a table that the official text holds only flattened; Anexa nr. 4 (4 METODELE de aplicare a dezinfectantelor chimice în funcție de suportul care urmează să fie tratat *Font 8* ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 4 (4 METODELE de aplicare a dezinfectantelor chimice în funcție de suportul care urmează să fie tratat *Font 8*): it is a table that the official text holds only flattened.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,6 +22,8 @@ Ordin sanatate nr. 961/2016 · 1 versions, from 2016-09-02 (latest in force: 201
 | Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
 | Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
 | Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
+| Anexa nr. 3 (what it is) | [anexa-3/README.md](anexa-3/README.md) | 0 |  |
+| Anexa nr. 3 | [anexa-3/text.md](anexa-3/text.md) | 0 |  |
 | Anexa nr. 5 (what it is) | [anexa-5/README.md](anexa-5/README.md) | 0 |  |
 | Anexa nr. 5 | [anexa-5/text.md](anexa-5/text.md) | 0 |  |
 
@@ -35,7 +37,7 @@ Act id: `ordin-sanatate-961-2016` (tags `ordin-sanatate-961-2016/<day>`; `python
 - Ordin sanatate nr. 961/2016: the signatures and the place and date line after its last article are not article text.
 - Ordin sanatate nr. 961/2016: Anexa nr. 1 (1 NORMA 19/08/2016) is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 181394 of the official web service.
 - Ordin sanatate nr. 961/2016: Anexa nr. 2 (2 TEHNICA DE LUCRU ȘI INTERPRETARE pentru testele de evaluare a eficienței procedurii de curățenie și dezinfecție I. Definiții Teste de autocontrol = teste efectuate de o unitate sanitară în vederea c) is part of the order and is published in its folder, anexa-2/ (paragraphs), from document 181394 of the official web service.
+- Ordin sanatate nr. 961/2016: Anexa nr. 3 (3 PROCEDURILE RECOMANDATE pentru dezinfecția mâinilor, în funcție de nivelul de risc *Font 8*) is part of the order and is published in its folder, anexa-3/ (paragraphs and tables), from document 181394 of the official web service.
 - Ordin sanatate nr. 961/2016: Anexa nr. 5 (5 METODE DE EVALUARE a derulării și eficienței procesului de sterilizare I. Indicatori fizico-chimici 1. Indicatorii fizico-chimici pentru controlul sterilizării se prezintă în mai multe forme: bandel) is part of the order and is published in its folder, anexa-5/ (paragraphs), from document 181394 of the official web service.
-- Ordin sanatate nr. 961/2016: Anexa nr. 3 (3 PROCEDURILE RECOMANDATE pentru dezinfecția mâinilor, în funcție de nivelul de risc *Font 8* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin sanatate nr. 961/2016: Anexa nr. 4 (4 METODELE de aplicare a dezinfectantelor chimice în funcție de suportul care urmează să fie tratat *Font 8* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 961/2016: Anexa nr. 4 (4 METODELE de aplicare a dezinfectantelor chimice în funcție de suportul care urmează să fie tratat *Font 8*) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
 - Ordin sanatate nr. 961/2016: the publisher's note "*) În cazul în care dezinfectantul se aplică prin pulverizare se va utiliza cantitatea specificată în aviz pentru a fi utilizată pentru un m² sau un mc la timpii recomandaţi. **) Ordinul ministrului s" is not text; the annexes it names are not published in Monitorul Oficial and are not part of this record.

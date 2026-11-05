@@ -3,6 +3,21 @@
  "shard": "ordin/2025",
  "acts": [
   {
+   "slug": "ordin-agricultura-117-2025",
+   "path": "ordin/agricultura/2025/117",
+   "short": "Ordin agricultura nr. 117/2025",
+   "title": "Ordinul nr. 117/2025 pentru aprobarea \" Ghidului informativ privind Sistemul de identificare a parcelelor agricole - LPIS\", Ediția I, 2025, Cod: GI-DIT-LPIS-SLPIS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295889",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295889",
+     "sha256": "959c651c886957a3ab8c3d4dd7d3ab8fbd9b98042c2a06b4b3dab36e7452484a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-144-2025",
    "path": "ordin/agricultura/2025/144",
    "short": "Ordin agricultura nr. 144/2025",
@@ -33,6 +48,111 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-165-2025",
+   "path": "ordin/agricultura/2025/165",
+   "short": "Ordin agricultura nr. 165/2025",
+   "title": "Ordinul nr. 165/2025 pentru aprobarea măsurilor privind exploatarea prin pescuit comercial a resurselor acvatice vii din habitatele acvatice naturale, cu excepția celor din Rezervația Biosferei „Delta Dunării”",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297876",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297876",
+     "sha256": "2e85290fd1bf3163a64ab83f3c9be271b8373268a2d6557fd3c601fc435adf9c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-187-2025",
+   "path": "ordin/agricultura/2025/187",
+   "short": "Ordin agricultura nr. 187/2025",
+   "title": "Ordinul nr. 187/2025 pentru aprobarea Ghidului solicitantului aferent acțiunii: 1.1.1 - Modernizarea Portului Midia, versiunea 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298531",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298531",
+     "sha256": "8593f97314fff9027912e3e52a546ea61f737d830241ada502168e8308481a89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-190-2025",
+   "path": "ordin/agricultura/2025/190",
+   "short": "Ordin agricultura nr. 190/2025",
+   "title": "Ordinul nr. 190/2025 pentru aprobarea Ghidului solicitantului aferent acțiunii: 2.1.1 - Investiții în acvacultură, versiunea 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298522",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298522",
+     "sha256": "bf20b7fd868cedadb2c7c054cb3d5f6b65bb4abc58c946f5b50e7ee3ca33e4e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-191-2025",
+   "path": "ordin/agricultura/2025/191",
+   "short": "Ordin agricultura nr. 191/2025",
+   "title": "Ordinul nr. 191/2025 pentru aprobarea Ghidului solicitantului aferent acțiunii: 2.2.1 - Prelucrarea/Procesarea produselor pescărești și de acvacultură, versiunea 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298538",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298538",
+     "sha256": "09bfbbd01e13950d2d9491d3fe0994a6902cec96243ccd72523982eb467cabbd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-20-2025",
+   "path": "ordin/agricultura/2025/20",
+   "short": "Ordin agricultura nr. 20/2025",
+   "title": "Ordinul nr. 20/2025 pentru aprobarea Normelor privind modul de accesare a sprijinului financiar din cadrul Planului strategic PAC 2023-2027, de către organizațiile de producători și alte forme asociative din sectorul fructelor și legumelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294168",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294168",
+     "sha256": "07a1c1f193a77ae0b35732fca4acd2749386366426c4c716569726150c73cdbc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-206-2025",
+   "path": "ordin/agricultura/2025/206",
+   "short": "Ordin agricultura nr. 206/2025",
+   "title": "Ordinul nr. 206/2025 pentru aprobarea schemei de ajutor de minimis denumită \"LEADER - Dezvoltarea locală plasată sub responsabilitatea comunității\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298993",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298993",
+     "sha256": "8fd98cf9fb61f28d4f88b6a81803e0c2c13d143a5c1e72cf5a8d08fcda78cdea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-215-2025",
+   "path": "ordin/agricultura/2025/215",
+   "short": "Ordin agricultura nr. 215/2025",
+   "title": "Ordinul nr. 215/2025 privind aprobarea Catalogului oficial al soiurilor de plante de cultură din România pentru anul 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299255",
+   "versions": [
+    {
+     "from": "2025-06-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299255",
+     "sha256": "73cdb8bd6ce5beb140ec42e5a3fecee3411b07bbc4ceae2ae73dcbe7063023af"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-22-2025",
    "path": "ordin/agricultura/2025/22",
    "short": "Ordin agricultura nr. 22/2025",
@@ -44,6 +164,21 @@
      "units": 64,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295794",
      "sha256": "072e689484c49f51a1bdd0972da17b56f7d11cb9b4bad061be6d50d57a450333"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-223-2025",
+   "path": "ordin/agricultura/2025/223",
+   "short": "Ordin agricultura nr. 223/2025",
+   "title": "Ordinul nr. 223/2025 pentru aprobarea Ghidului solicitantului aferent acțiunii: 3.1.2 - Cheltuieli de animare și funcționare - Selectarea strategiilor de dezvoltare locală plasate sub responsabilitatea comunității, versiunea 2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299300",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299300",
+     "sha256": "42fb68158e91599e1b339112eaff346a1c073c66842030a000e849fbf8e255aa"
     }
    ]
   },
@@ -63,6 +198,36 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-244-2025",
+   "path": "ordin/agricultura/2025/244",
+   "short": "Ordin agricultura nr. 244/2025",
+   "title": "Ordinul nr. 244/2025 pentru aprobarea schemei de ajutor de stat \"Investiții pentru procesarea și marketingul produselor agricole în vederea obținerii unor produse alimentare și produse transformate, altele decât cele prevăzute în anexa I a Tratatului de funcționare a Uniunii Europene\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299902",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299902",
+     "sha256": "e1ed7dea8828945bb7d17ff15ba07b16008f9e373b2f73a51de736fcd6236cf2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-249-2025",
+   "path": "ordin/agricultura/2025/249",
+   "short": "Ordin agricultura nr. 249/2025",
+   "title": "Ordinul nr. 249/2025 pentru aprobarea modelului de contract de management privind gestionarea, utilizarea, întreținerea și exploatarea investițiilor specifice în agricultură finanțate de către Ministerul Agriculturii și Dezvoltării Rurale și pentru desemnarea reprezentantului Ministerului Agriculturii și Dezvoltării Rurale care încheie contractul de management cu directorul colegiului/liceului tehnologic cu profil preponderent agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301163",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301163",
+     "sha256": "ed165988e33dd2139ad9ac600a14dbae73937d27c8e2b4b65f6815a0f6a19705"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-260-2025",
    "path": "ordin/agricultura/2025/260",
    "short": "Ordin agricultura nr. 260/2025",
@@ -74,6 +239,201 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302868",
      "sha256": "d482166e99b22691e20615dcc852a6b4591f598882262da73a95ab9b41ab6350"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-268-2025",
+   "path": "ordin/agricultura/2025/268",
+   "short": "Ordin agricultura nr. 268/2025",
+   "title": "Ordinul nr. 268/2025 pentru aprobarea sistemului de sancțiuni aplicabil intervențiilor și ajutoarelor naționale tranzitorii în sectoarele vegetal și zootehnic, aferente cererilor de plată începând cu anul de cerere 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301207",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301207",
+     "sha256": "025789a82c795bd58af8ffd61c1f4923505162065fcd74c17e09314d5baa2ccd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-269-2025",
+   "path": "ordin/agricultura/2025/269",
+   "short": "Ordin agricultura nr. 269/2025",
+   "title": "Ordinul nr. 269/2025 pentru aprobarea cantităților de motorină aferente perioadei 1 ianuarie 2025-31 martie 2025, determinate la plată și nedecontate de către Agenția de Plăți și Intervenție pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301208",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301208",
+     "sha256": "e4dd6a6478f446d851e37f1f106d31c71bee80296ce85c961713a6c3ef717e0f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-274-2025",
+   "path": "ordin/agricultura/2025/274",
+   "short": "Ordin agricultura nr. 274/2025",
+   "title": "Ordinul nr. 274/2025 privind aprobarea sistemelor de sancțiuni pentru Intervenția DR 06 \"Bunăstarea animalelor\" - pachetul a) porcine și pachetul b) păsări din cadrul Planului strategic PAC 2023-2027 aplicabile cererilor de plată depuse începând cu anul 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301376",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301376",
+     "sha256": "215117420509b28867aa48a79d16ba13267ab1e05dfa508cb11d071dbeacf4d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-3-2025",
+   "path": "ordin/agricultura/2025/3",
+   "short": "Ordin agricultura nr. 3/2025",
+   "title": "Ordinul nr. 3/2025 pentru aprobarea nivelului comisioanelor de garantare pentru anul 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293545",
+   "versions": [
+    {
+     "from": "2025-01-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293545",
+     "sha256": "1130eb7aec29d0578c803c29b930c5f55df20fe5d3a2e69402a8eac626111c86"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-344-2025",
+   "path": "ordin/agricultura/2025/344",
+   "short": "Ordin agricultura nr. 344/2025",
+   "title": "Ordinul nr. 344/2025 privind aprobarea în anul 2025 a realocării sumelor și stabilirea condițiilor de acordare a avansului pentru plățile directe finanțate din Fondul european de garantare agricolă (FEGA), din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302961",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302961",
+     "sha256": "ccc0a5e06e1c52a004121b222d8eee54e2d93f358869030d6b9fc0080d6402ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-347-2025",
+   "path": "ordin/agricultura/2025/347",
+   "short": "Ordin agricultura nr. 347/2025",
+   "title": "Ordinul nr. 347/2025 pentru aprobarea în anul 2025 a realocării sumelor aferente intervențiilor din sectoarele apicol și vitivinicol din cadrul Planului strategic PAC 2023-2027 și stabilirea cuantumurilor unitare pentru intervențiile din sectorul apicol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302962",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302962",
+     "sha256": "38890f91fba55e6fa604c1068ac2960c926c7e0a79231a48190704d34e584c3f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-372-2025",
+   "path": "ordin/agricultura/2025/372",
+   "short": "Ordin agricultura nr. 372/2025",
+   "title": "Ordinul nr. 372/2025 pentru aprobarea Normelor tehnice privind organizarea și desfășurarea montei naturale autorizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304079",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304079",
+     "sha256": "a9162b800965cfb2dfa6506b644b222cd7e01bf63103816b52569616a1806c88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-38-2025",
+   "path": "ordin/agricultura/2025/38",
+   "short": "Ordin agricultura nr. 38/2025",
+   "title": "Ordinul nr. 38/2025 pentru aprobarea listei punctelor de control, altele decât postul de control la frontieră, în care Autoritatea Națională Fitosanitară poate efectua controale de identitate și controale fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294734",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294734",
+     "sha256": "24789150a37b7cae3c88ad8eb25dfbe216de99356c5ed8c0f15c9d2baa5c4f36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-386-2025",
+   "path": "ordin/agricultura/2025/386",
+   "short": "Ordin agricultura nr. 386/2025",
+   "title": "Ordinul nr. 386/2025 privind stabilirea normei anuale de venit pentru punctul gastronomic local, precum și a coeficienților de corecție ai acesteia, pentru anul 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304623",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304623",
+     "sha256": "037a20b261cd5a9601472ac935431954d3bcbfef5e568bd6b8064d6f92098022"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-390-2025",
+   "path": "ordin/agricultura/2025/390",
+   "short": "Ordin agricultura nr. 390/2025",
+   "title": "Ordinul nr. 390/2025 pentru aprobarea Ghidului solicitantului aferent acțiunii 1.4.2 - Susținerea colectării și gestionării datelor privind sectorul pescăresc, versiunea 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304752",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304752",
+     "sha256": "90a9a4b338bd2342118f6afaab0f2d253d7ad787c1d112204948e271f0e13bf1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-392-2025",
+   "path": "ordin/agricultura/2025/392",
+   "short": "Ordin agricultura nr. 392/2025",
+   "title": "Ordinul nr. 392/2025 pentru aprobarea Ghidului solicitantului aferent acțiunii: 1.1.2 - Puncte de debarcare și adăposturi pescărești, versiunea 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305006",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305006",
+     "sha256": "f88579b455436af4a3abb0f23ebf89b30d42c5ad3d29500e5ffc22e547ffcc70"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-424-2025",
+   "path": "ordin/agricultura/2025/424",
+   "short": "Ordin agricultura nr. 424/2025",
+   "title": "Ordinul nr. 424/2025 privind criteriile de eligibilitate, documentele justificative, condițiile și modul de implementare a intervenției IS-V-01 \"Restructurarea și reconversia plantațiilor viticole\" din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306355",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306355",
+     "sha256": "adde36ce93ea392b3c2132004c532e81e8616227c46f91d48eb98ba66fec6656"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-49-2025",
+   "path": "ordin/agricultura/2025/49",
+   "short": "Ordin agricultura nr. 49/2025",
+   "title": "Ordinul nr. 49/2025 privind modalitatea de implementare a intervenției IS-V-02 \"Investiții în active corporale și necorporale\" și a intervenției IS-V-07 \"Investiții în active corporale și necorporale menite să sporească durabilitatea producției de vin\" din cadrul Planului strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294813",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294813",
+     "sha256": "de0c506d5bda6a01ef7161c35cb6fcb2c4ee6701cf2f087270a361e3f71b987e"
     }
    ]
   },
@@ -104,6 +464,81 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295363",
      "sha256": "7da26b5728dceb1f8dfcc8e9a2b60b8558e9e494c0df46de69d8e5f8c9acbe7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-73-2025",
+   "path": "ordin/agricultura/2025/73",
+   "short": "Ordin agricultura nr. 73/2025",
+   "title": "Ordinul nr. 73/2025 privind aprobarea formularului-tip al cererii de plată pentru anul 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294995",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294995",
+     "sha256": "1052eca915639658629f9cf62778196fd6da13c468a04790d6f96f2bd5e6d139"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-8-2025",
+   "path": "ordin/agricultura/2025/8",
+   "short": "Ordin agricultura nr. 8/2025",
+   "title": "Ordinul nr. 8/2025 privind aprobarea Procedurii de aplicare a dispozițiilor art. II din Legea nr. 197/2024 pentru aprobarea Ordonanței de urgență a Guvernului nr. 11/2024 privind gestionarea financiară a alocărilor din Fondul european pentru afaceri maritime, pescuit și acvacultură aferente politicii comune de pescuit și politicii maritime integrate la nivelul Uniunii Europene, precum și a fondurilor alocate de la bugetul de stat pentru perioada de programare 2021-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293750",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293750",
+     "sha256": "2e57e369269474c1bb0bc7078e81eb49c55df56d010b688d8473f05b38fea6f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-87-2025",
+   "path": "ordin/agricultura/2025/87",
+   "short": "Ordin agricultura nr. 87/2025",
+   "title": "Ordinul nr. 87/2025 pentru aprobarea cantităților de motorină aferente perioadei 1 iulie 2024-30 septembrie 2024, determinate la plată și nedecontate de către Agenția de Plăți și Intervenție pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295160",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295160",
+     "sha256": "f08e1f89be71b5c6a4a3b5b68976c9c8986d28848e024f33989eef95f00b7e35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-97-2025",
+   "path": "ordin/agricultura/2025/97",
+   "short": "Ordin agricultura nr. 97/2025",
+   "title": "Ordinul nr. 97/2025 pentru aprobarea Ghidului solicitantului aferent acțiunii: 2.2.1 - Prelucrarea/Procesarea produselor pescărești și de acvacultură, versiunea 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295954",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295954",
+     "sha256": "3cb277578599a9b3eb8d2957fbcd760f90aabe7d533900394f693d4277d647a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-98-2025",
+   "path": "ordin/agricultura/2025/98",
+   "short": "Ordin agricultura nr. 98/2025",
+   "title": "Ordinul nr. 98/2025 pentru aprobarea Ghidului solicitantului aferent acțiunii: 2.1.1 - Investiții în acvacultură, versiunea 1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295947",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295947",
+     "sha256": "3b8d1c651274f087cd222a470accc49cf2e28d49ead4a61070d7fc05a68013d7"
     }
    ]
   },
@@ -3693,6 +4128,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3108-2025",
+   "path": "ordin/educatie/2025/3108",
+   "short": "Ordin educatie nr. 3108/2025",
+   "title": "Ordinul nr. 3.108/2025 pentru completarea Metodologiei de organizare și desfășurare a examenului de certificare a calificării absolvenților învățământului liceal, filiera vocațională, aprobată prin Ordinul ministrului educației naționale nr. 4.433/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295766",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295766",
+     "sha256": "e910e0e4444fd68d59ec7f53f738680e6d59f8f8c9e789c1a1c0f1b7f213e98e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3148-2025",
    "path": "ordin/educatie/2025/3148",
    "short": "Ordin educatie nr. 3148/2025",
@@ -3704,6 +4154,21 @@
      "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294206",
      "sha256": "e4cb57a01ba4ab05f2462aa3218ed1ca0a785992d683ebac10bca3c967445e95"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3185-2025",
+   "path": "ordin/educatie/2025/3185",
+   "short": "Ordin educatie nr. 3185/2025",
+   "title": "Ordinul nr. 3.185/2025 pentru modificarea anexei nr. 2 la Ordinul ministrului cercetării, inovării și digitalizării nr. 498/2021 privind aprobarea componenței nominale și a Regulamentului de organizare și funcționare al Colegiului Consultativ pentru Cercetare-Dezvoltare și Inovare al Ministerului Cercetării, Inovării și Digitalizării cu atribuții pentru activitatea de cercetare-dezvoltare și inovare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294716",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294716",
+     "sha256": "24d9a1e9a1bc5c950cac3d558fdc68fbb037b36e2c1444365b94b184dd0a77c3"
     }
    ]
   },
@@ -3798,6 +4263,51 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3495-2025",
+   "path": "ordin/educatie/2025/3495",
+   "short": "Ordin educatie nr. 3495/2025",
+   "title": "Ordinul nr. 3.495/2025 privind modificarea Metodologiei de alocare a fondurilor bugetare pentru finanțarea de bază și finanțarea suplimentară a instituțiilor de învățământ superior de stat din România, pentru anul 2025, aprobată prin Ordinul ministrului educației nr. 7.845/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295697",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295697",
+     "sha256": "b7b9cef845ac1ffbdd9adfed9a401e92206d9d86965db98c4ef98f2402537c96"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3531-2025",
+   "path": "ordin/educatie/2025/3531",
+   "short": "Ordin educatie nr. 3531/2025",
+   "title": "Ordinul nr. 3.531/2025 pentru modificarea Ordinului ministrului educației naționale nr. 3.122/2019 privind stabilirea tipurilor de calificări profesionale de nivelurile 3 și 4 ale Cadrului național al calificărilor și a corespondenței dintre acestea, din cadrul aceluiași profil la învățământul liceal filiera tehnologică și din cadrul învățământului profesional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295894",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295894",
+     "sha256": "fa2b09ee50daf93a8f817b206ad7b886d36333c025c9bebe907a2912841a390b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3533-2025",
+   "path": "ordin/educatie/2025/3533",
+   "short": "Ordin educatie nr. 3533/2025",
+   "title": "Ordinul nr. 3.533/2025 privind modificarea și completarea Metodologiei de selecție a personalului din România pentru posturi didactice din cadrul sistemului școlilor europene, aprobată prin Ordinul ministrului educației naționale nr. 3.475/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295741",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295741",
+     "sha256": "76ac1cf1be20c69865409f5716b9898226242384738b4e78c2edc876cb9d2baf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3534-2025",
    "path": "ordin/educatie/2025/3534",
    "short": "Ordin educatie nr. 3534/2025",
@@ -3813,6 +4323,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3537-2025",
+   "path": "ordin/educatie/2025/3537",
+   "short": "Ordin educatie nr. 3537/2025",
+   "title": "Ordinul nr. 3.537/2025 privind modificarea și completarea Metodologiei de acordare a atestatului de abilitare, aprobată prin Ordinul ministrului educației nr. 3.998/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295742",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295742",
+     "sha256": "240097a092dd9f438097ef6542ac60e1737148fbcb3839533d161628420f1cac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3560-2025",
+   "path": "ordin/educatie/2025/3560",
+   "short": "Ordin educatie nr. 3560/2025",
+   "title": "Ordinul nr. 3.560/2025 pentru modificarea și completarea Regulamentului de organizare și funcționare a Comisiei Naționale de Atestare a Titlurilor, Diplomelor și Certificatelor Universitare (CNATDCU), aprobat prin Ordinul ministrului educației nr. 5.760/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295906",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295906",
+     "sha256": "5c00686b0d1c1e242942ecc4c1de36716cf9eb5ca6b7f0f273a92daff01cd63c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3577-2025",
    "path": "ordin/educatie/2025/3577",
    "short": "Ordin educatie nr. 3577/2025",
@@ -3824,6 +4364,36 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295759",
      "sha256": "112acfa7612a5e3bca7047acc5febc1a975050ce55f52e1079e212f363b0ec07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3599-2025",
+   "path": "ordin/educatie/2025/3599",
+   "short": "Ordin educatie nr. 3599/2025",
+   "title": "Ordinul nr. 3.599/2025 privind modificarea anexei la Ordinul ministrului educației nr. 6.216/2022 pentru aprobarea Metodologiei privind constituirea consorțiilor pentru învățământ dual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296425",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296425",
+     "sha256": "ec51720633ee4fd3f246240f1332440ab1e114259f665b2d40000fc772897b88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3712-2025",
+   "path": "ordin/educatie/2025/3712",
+   "short": "Ordin educatie nr. 3712/2025",
+   "title": "Ordinul nr. 3.712/2025 pentru completarea anexei nr. 2 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.219/2010 privind recunoașterea și echivalarea rezultatelor obținute la examene cu recunoaștere internațională pentru certificarea competențelor lingvistice în limbi străine și la examene cu recunoaștere europeană pentru certificarea competențelor digitale cu probele de evaluare a competențelor lingvistice într-o limbă de circulație internațională studiată pe parcursul învățământului liceal, respectiv de evaluare a competențelor digitale, din cadrul examenului de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296445",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296445",
+     "sha256": "e9947fa5e247d5176ecba36c21b6dbda5b5833992767a66dbfcfbf82c8848926"
     }
    ]
   },
@@ -4113,6 +4683,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4273-2025",
+   "path": "ordin/educatie/2025/4273",
+   "short": "Ordin educatie nr. 4273/2025",
+   "title": "Ordinul nr. 4.273/2025 pentru modificarea Ordinului ministrului educației nr. 6.477/2024 privind aprobarea graficului de desfășurare a examenelor de certificare a calificării profesionale a absolvenților din învățământul profesional și tehnic preuniversitar în anul școlar 2024-2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299196",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299196",
+     "sha256": "4bb6438f75b52d8dda777bec824d3f0e75da5669e5f11a020cd91bc0ee1fce67"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4341-2025",
+   "path": "ordin/educatie/2025/4341",
+   "short": "Ordin educatie nr. 4341/2025",
+   "title": "Ordinul nr. 4.341/2025 privind aprobarea unor instrucțiuni de aplicare a Hotărârii Guvernului nr. 138/2024 pentru aprobarea Normelor metodologice privind evaluarea performanței pentru integrarea activității de cercetare științifică și dezvoltare tehnologică a organizațiilor de cercetare, precum și pentru stabilirea criteriilor de selectare a experților evaluatori prevăzute la art. 19 din Legea nr. 25/2023 privind integrarea voluntară a organizațiilor de cercetare, dezvoltare și inovare din România în Spațiul European de Cercetare, precum și pentru modificarea Ordonanței Guvernului nr. 57/2002 privind cercetarea științifică și dezvoltarea tehnologică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299424",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299424",
+     "sha256": "e188d84a319f69cf8142e307281a7b9a380041fdc93215a3c98c33cb371c518e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4444-2025",
    "path": "ordin/educatie/2025/4444",
    "short": "Ordin educatie nr. 4444/2025",
@@ -4139,6 +4739,21 @@
      "units": 40,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299873",
      "sha256": "828f30422b389a01f582062c91e58a55c3989356bf2c09487e85099032f7dab1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4498-2025",
+   "path": "ordin/educatie/2025/4498",
+   "short": "Ordin educatie nr. 4498/2025",
+   "title": "Ordinul nr. 4.498/2025 pentru modificarea Regulamentului-cadru de organizare și funcționare a unităților de învățământ preuniversitar, aprobat prin Ordinul ministrului educației nr. 5.726/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299837",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299837",
+     "sha256": "93d406298303952d5336012c3e1e9af7e10c119c23b8b3a0cbbd1b8f25279285"
     }
    ]
   },
@@ -4248,6 +4863,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-5415-2025",
+   "path": "ordin/educatie/2025/5415",
+   "short": "Ordin educatie nr. 5415/2025",
+   "title": "Ordinul nr. 5.415/2025 pentru modificarea Metodologiei privind organizarea claselor în regim simultan, aprobată prin Ordinul ministrului educației nr. 3.036/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301668",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301668",
+     "sha256": "06645da6a268a22416e438b05d11113fb35b42bc9e021019abe333e787c88399"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-5420-2025",
    "path": "ordin/educatie/2025/5420",
    "short": "Ordin educatie nr. 5420/2025",
@@ -4338,6 +4968,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-6035-2025",
+   "path": "ordin/educatie/2025/6035",
+   "short": "Ordin educatie nr. 6035/2025",
+   "title": "Ordinul nr. 6.035/2025 pentru modificarea anexei la Ordinul ministrului educației nr. 5.516/2024 privind organizarea și desfășurarea anului pregătitor de limba română pentru cetățenii străini",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301875",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301875",
+     "sha256": "e80f6353e12a4a509a4664554f9eb0876af9db8db84eb92e22c64705082cf9f8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-6049-2025",
    "path": "ordin/educatie/2025/6049",
    "short": "Ordin educatie nr. 6049/2025",
@@ -4349,6 +4994,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302359",
      "sha256": "b8c28117a36ae62ac36f5e114887cbcd852523581f0fcc8ac4a5d9b7b8eb62d9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6055-2025",
+   "path": "ordin/educatie/2025/6055",
+   "short": "Ordin educatie nr. 6055/2025",
+   "title": "Ordinul nr. 6.055/2025 pentru modificarea Regulamentului-cadru de organizare și funcționare a unităților de învățământ preuniversitar, aprobat prin Ordinul ministrului educației nr. 5.726/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301883",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301883",
+     "sha256": "f7336886969b386f37b2903955a8d4ae98b3bc487e791a1eff4b5d8a23798a98"
     }
    ]
   },
@@ -4653,6 +5313,36 @@
    ]
   },
   {
+   "slug": "ordin-educatie-6223-2025",
+   "path": "ordin/educatie/2025/6223",
+   "short": "Ordin educatie nr. 6223/2025",
+   "title": "Ordinul nr. 6.223/2025 pentru modificarea anexei nr. 1 la Metodologia privind constituirea consorțiilor pentru învățământ dual, aprobată prin Ordinul ministrului educației nr. 6.216/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302332",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302332",
+     "sha256": "563854dd383d9994ed1a9805e22fe99994ffeda7358dd3ff831a0b77e183e2d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6226-2025",
+   "path": "ordin/educatie/2025/6226",
+   "short": "Ordin educatie nr. 6226/2025",
+   "title": "Ordinul nr. 6.226/2025 pentru completarea Regulamentului-cadru de organizare și funcționare a unităților de învățământ preuniversitar, aprobat prin Ordinul ministrului educației nr. 5.726/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302026",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302026",
+     "sha256": "cb67e620cf0d0b01e12dc176589100391e7d208a407a51015cfc52062a7ebb8e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-6376-2025",
    "path": "ordin/educatie/2025/6376",
    "short": "Ordin educatie nr. 6376/2025",
@@ -4743,6 +5433,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-6427-2025",
+   "path": "ordin/educatie/2025/6427",
+   "short": "Ordin educatie nr. 6427/2025",
+   "title": "Ordinul nr. 6.427/2025 privind modificarea și completarea Ordinului ministrului educației și cercetării nr. 5.205/2025 pentru aprobarea listei instituțiilor de învățământ superior acreditate care organizează, în anul universitar 2025-2026, Programul de formare psihopedagogică în vederea certificării competențelor pentru profesia didactică (nivelurile I și II)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302733",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302733",
+     "sha256": "f4551ed4d35a8a999bb8850b58018907ebebd33a214fe04141f3ef03f91f20d0"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-6572-2025",
    "path": "ordin/educatie/2025/6572",
    "short": "Ordin educatie nr. 6572/2025",
@@ -4754,6 +5459,36 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304057",
      "sha256": "b6bee75e6f68f0ec4c10628db24057d0f97a4cd2628b5078ec6cd5f5ff2c6710"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6586-2025",
+   "path": "ordin/educatie/2025/6586",
+   "short": "Ordin educatie nr. 6586/2025",
+   "title": "Ordinul nr. 6.586/2025 pentru modificarea și completarea anexei la Ordinul ministrului educației nr. 4.620/2024 privind aprobarea Metodologiei de recunoaștere și echivalare a actelor de studii de nivel preuniversitar obținute în străinătate și la organizațiile furnizoare de educație care școlarizează în baza unui curriculum al altui stat, pe teritoriul României, activități de învățământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304081",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304081",
+     "sha256": "b47cdeb14cbf8d6292fb7fea0d08a5da1e978791e27228379b1ba3b7e11f5392"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6627-2025",
+   "path": "ordin/educatie/2025/6627",
+   "short": "Ordin educatie nr. 6627/2025",
+   "title": "Ordinul nr. 6.627/2025 pentru modificarea și completarea Metodologiei de recunoaștere și echivalare a actelor de studii universitare de scurtă durată, licență, masterat sau postuniversitare eliberate de instituții acreditate de învățământ superior din străinătate, aprobată prin Ordinul ministrului educației nr. 5.508/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304100",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304100",
+     "sha256": "e4a2484a95daf19847b687d2fdae0ffd73a64cd3a49cd2b62899bd747f2ea91a"
     }
    ]
   },
@@ -4833,6 +5568,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-6718-2025",
+   "path": "ordin/educatie/2025/6718",
+   "short": "Ordin educatie nr. 6718/2025",
+   "title": "Ordinul nr. 6.718/2025 privind modificarea anexei la Ordinul ministrului educației naționale și al ministrului agriculturii și dezvoltării rurale nr. 4.215/296/2019 pentru aprobarea listei liceelor tehnologice cu profil preponderent agricol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304701",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304701",
+     "sha256": "65b1cbd8bf3312c3cee196cb9729e2003a388c1c30831df4d22967cba55d3459"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-6727-2025",
    "path": "ordin/educatie/2025/6727",
    "short": "Ordin educatie nr. 6727/2025",
@@ -4859,6 +5609,36 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304983",
      "sha256": "4d2c8a571f0a68cecf96ea6d44e9eca742ef1bcd0b360f311d854cb730e3882c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6815-2025",
+   "path": "ordin/educatie/2025/6815",
+   "short": "Ordin educatie nr. 6815/2025",
+   "title": "Ordinul nr. 6.815/2025 pentru modificarea anexei nr. 2 la Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.219/2010 privind recunoașterea și echivalarea rezultatelor obținute la examene cu recunoaștere internațională pentru certificarea competențelor lingvistice în limbi străine și la examene cu recunoaștere europeană pentru certificarea competențelor digitale cu probele de evaluare a competențelor lingvistice într-o limbă de circulație internațională studiată pe parcursul învățământului liceal, respectiv de evaluare a competențelor digitale, din cadrul examenului de bacalaureat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305139",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305139",
+     "sha256": "1fd8f5e2ad78396b200fb686d6a6bfb7fc7672e8ceea23e81530c3217cb9c5e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6823-2025",
+   "path": "ordin/educatie/2025/6823",
+   "short": "Ordin educatie nr. 6823/2025",
+   "title": "Ordinul nr. 6.823/2025 pentru modificarea și completarea Ordinului ministrului educației și cercetării nr. 5.414/2025 privind aprobarea baremelor pentru activitatea de evaluare, cazarea și transportul experților evaluatori independenți și stabilirea indemnizației membrilor Comisiei de evaluare a performanței pentru integrarea activității de cercetare științifică și dezvoltare tehnologică a organizațiilor de cercetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305040",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305040",
+     "sha256": "b686e6dd3db815c866251e49bf52fbaeca6985e12bc1ee446b41269d1bb1b4a6"
     }
    ]
   },
@@ -4893,6 +5673,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-6855-2025",
+   "path": "ordin/educatie/2025/6855",
+   "short": "Ordin educatie nr. 6855/2025",
+   "title": "Ordinul nr. 6.855/2025 pentru modificarea anexei la Ordinul ministrului cercetării, inovării și digitalizării nr. 21.451/2022 privind aprobarea Schemei de ajutor de stat \"Centrul de competență\", aferentă Planului național de redresare și reziliență al României, pilonul III, componenta C9 \"Suport pentru sectorul privat, cercetare, dezvoltare și inovare\", investiția 5 \"Înființarea și operaționalizarea centrelor de competență\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305131",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305131",
+     "sha256": "ad063a87ca46300e2856b2197fc5b51f89ba175a202e716418d03a4d718c749e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-6873-2025",
    "path": "ordin/educatie/2025/6873",
    "short": "Ordin educatie nr. 6873/2025",
@@ -4904,6 +5699,36 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305577",
      "sha256": "909f70ed03acfb8338677e511c10aeb7b4bcc5ccb863eb99f851a705acd3497f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6882-2025",
+   "path": "ordin/educatie/2025/6882",
+   "short": "Ordin educatie nr. 6882/2025",
+   "title": "Ordinul nr. 6.882/2025 pentru modificarea și completarea Regulamentului-cadru privind organizarea și funcționarea comisiilor de etică universitară, aprobat prin Ordinul ministrului educației nr. 6.869/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305600",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305600",
+     "sha256": "1354f3daff7290b937b186deed2329813301163350c9fb685878636fb19a2edc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6884-2025",
+   "path": "ordin/educatie/2025/6884",
+   "short": "Ordin educatie nr. 6884/2025",
+   "title": "Ordinul nr. 6.884/2025 privind modificarea Ordinului ministrului educației nr. 6.469/2022 pentru aprobarea Nomenclatorului de încadrare a calificărilor profesionale de nivel 3 și de nivel 4 conform Cadrului național al calificărilor, pe domenii de pregătire de bază",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305595",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305595",
+     "sha256": "dfd23b51cd615e79a0fbe8819c19191f4a6067850229318166771759ce5d133c"
     }
    ]
   },
@@ -4938,6 +5763,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-6912-2025",
+   "path": "ordin/educatie/2025/6912",
+   "short": "Ordin educatie nr. 6912/2025",
+   "title": "Ordinul nr. 6.912/2025 pentru completarea anexei la Ordinul ministrului educației nr. 4.500/2024 privind aprobarea Normelor metodologice pentru vizarea actelor de studii, a anexelor la actele de studii și a documentelor școlare universitare emise de instituțiile de învățământ superior din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305719",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305719",
+     "sha256": "c5e921a4de7806183119033bc1eaabf054d590446bfd94fd3505ad10ed39925c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-6930-2025",
    "path": "ordin/educatie/2025/6930",
    "short": "Ordin educatie nr. 6930/2025",
@@ -4964,6 +5804,36 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306278",
      "sha256": "d211257aafcb9b2f9b59ee08fe066a518be29d1e03fa4bc02228be44bc4fdc04"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6974-2025",
+   "path": "ordin/educatie/2025/6974",
+   "short": "Ordin educatie nr. 6974/2025",
+   "title": "Ordinul nr. 6.974/2025 pentru modificarea și completarea Metodologiei de asigurare a omologării mijloacelor de învățământ, aprobată prin Ordinul ministrului educației nr. 7.442/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306254",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306254",
+     "sha256": "3edb8bf89d2a7d8cf9b0d0d6bc3e255a45f561ed57c1d63b9f9db5ea158e8669"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-6975-2025",
+   "path": "ordin/educatie/2025/6975",
+   "short": "Ordin educatie nr. 6975/2025",
+   "title": "Ordinul nr. 6.975/2025 pentru modificarea Metodologiei privind mobilitatea academică a studenților, aprobată prin Ordinul ministrului educației nr. 4.262/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306311",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306311",
+     "sha256": "8d8290f30f16749c47037519c6117d5fa27d3305b48cf421576be48387481b56"
     }
    ]
   },
@@ -5009,6 +5879,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306314",
      "sha256": "dba84f4c9d8063440ffa7801b01b3911835745275dc276d8e4c396a93b99240e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7106-2025",
+   "path": "ordin/educatie/2025/7106",
+   "short": "Ordin educatie nr. 7106/2025",
+   "title": "Ordinul nr. 7.106/2025 pentru modificarea Ordinului ministrului educației nr. 7.844/2024 privind aprobarea Metodologiei de acordare a subvențiilor cămine-cantine destinate studenților, precum și a subvenției pentru cazare acordate studenților care aleg altă formă de cazare decât căminele instituțiilor de învățământ superior de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306224",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306224",
+     "sha256": "241049809fc8a0123be1a2f87ae610cb9cb3cb33b91a896a2da34ef5872f3ae5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7111-2025",
+   "path": "ordin/educatie/2025/7111",
+   "short": "Ordin educatie nr. 7111/2025",
+   "title": "Ordinul nr. 7.111/2025 pentru modificarea anexei la Ordinul ministrului educației și cercetării și al ministrului agriculturii și dezvoltării rurale nr. 3.352/70/2025 privind aprobarea Listei unităților de învățământ preuniversitar incluse în Programul național \"Masă sănătoasă\" în anul 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306265",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306265",
+     "sha256": "82af07bbcee1fe07966cbe4477d74631944ec04594a427cccd49a47b35eb3bbf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-7119-2025",
+   "path": "ordin/educatie/2025/7119",
+   "short": "Ordin educatie nr. 7119/2025",
+   "title": "Ordinul nr. 7.119/2025 pentru modificarea anexei la Ordinul ministrului cercetării, inovării și digitalizării nr. 20.466/2022 privind aprobarea Schemei de ajutor de stat \"Acordare granturi pentru posesorii de certificate de excelență Marie Skłodowska Curie\", asociată Planului național de redresare și reziliență al României, pilonul III, componenta C9, 2021-2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306225",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306225",
+     "sha256": "66e0cbe20c9827dc09aa5d6241158d10cd9a6467587d0d57b4e8983514d2b86e"
     }
    ]
   },

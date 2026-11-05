@@ -2,7 +2,7 @@
 
 Ordin sanatate nr. 1258/2016 · 1 versions, from 2016-11-22 (latest in force: 2016-11-22) · <https://legislatie.just.ro/Public/DetaliiDocument/183843>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied. Not included yet: Anexa nr. 1 (1 1. Modelul de formular electronic pentru achizițiile publice realizate prin proceduri de atribuire reglementate de Legea nr. 98/2016 privind achizițiile ...): it is a table that the official text holds only flattened; Anexa nr. 2 (2 Modelul de formular electronic pentru stadiul de execuție a contractelor încheiate în urma aplicării procedurilor de achiziție publică *Font 7* ...): it is a table that the official text holds only flattened.
+**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,6 +19,10 @@ Ordin sanatate nr. 1258/2016 · 1 versions, from 2016-11-22 (latest in force: 20
 | Art. 11 | [art-011.md](art-011.md) | 0 |  |
 | Art. 12 | [art-012.md](art-012.md) | 0 |  |
 | Art. 13 | [art-013.md](art-013.md) | 0 |  |
+| Anexa nr. 1 (what it is) | [anexa-1/README.md](anexa-1/README.md) | 0 |  |
+| Anexa nr. 1 | [anexa-1/text.md](anexa-1/text.md) | 0 |  |
+| Anexa nr. 2 (what it is) | [anexa-2/README.md](anexa-2/README.md) | 0 |  |
+| Anexa nr. 2 | [anexa-2/text.md](anexa-2/text.md) | 0 |  |
 
 Act id: `ordin-sanatate-1258-2016` (tags `ordin-sanatate-1258-2016/<day>`; `python tools/on.py <day> ordin-sanatate-1258-2016`).
 
@@ -28,5 +32,5 @@ Act id: `ordin-sanatate-1258-2016` (tags `ordin-sanatate-1258-2016/<day>`; `pyth
 - Ordin sanatate nr. 1258/2016: built by Lexifina with the default rules for an order known from the official web service alone, and no ruling made for this act alone: two readings of its text agree, no word of its articles is lost, and the issuer, number and in-force day are those the service gives.
 - Ordin sanatate nr. 1258/2016: the first version is the order as published in Monitorul Oficial nr. 938 of 22 November 2016 (document 183843 of the official web service), in force on its day of publication: it states no day of its own, and an order is in force on publication in Monitorul Oficial (Legea nr. 24/2000 art. 12 alin. (3), as for Government decisions).
 - Ordin sanatate nr. 1258/2016: the signatures and the place and date line after its last article are not article text.
-- Ordin sanatate nr. 1258/2016: Anexa nr. 1 (1 1. Modelul de formular electronic pentru achizițiile publice realizate prin proceduri de atribuire reglementate de Legea nr. 98/2016 privind achizițiile ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
-- Ordin sanatate nr. 1258/2016: Anexa nr. 2 (2 Modelul de formular electronic pentru stadiul de execuție a contractelor încheiate în urma aplicării procedurilor de achiziție publică *Font 7* ...) is not included yet: it is a table that the official text holds only flattened. It will be added when it can be published in full.
+- Ordin sanatate nr. 1258/2016: Anexa nr. 1 (1 1. Modelul de formular electronic pentru achizițiile publice realizate prin proceduri de atribuire reglementate de Legea nr. 98/2016 privind achizițiile publice) is part of the order and is published in its folder, anexa-1/ (paragraphs and tables), from document 183843 of the official web service.
+- Ordin sanatate nr. 1258/2016: Anexa nr. 2 (2 Modelul de formular electronic pentru stadiul de execuție a contractelor încheiate în urma aplicării procedurilor de achiziție publică *Font 7*) is part of the order and is published in its folder, anexa-2/ (paragraphs and tables), from document 183843 of the official web service.
