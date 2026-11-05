@@ -1,0 +1,40 @@
+{
+"country": "RO",
+"shard": "ue/1977",
+"acts": [
+{
+"slug": "ue-directiva-249-1977",
+"path": "ue/directiva/1977/249",
+"kind": "ue",
+"year": "1977",
+"number": "249",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 22 martie 1977 de facilitare a exercitării efective a libertății de a presta servicii de către avocați",
+"short": "Directiva 77/249/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1977-03-24",
+"latest": "1977-03-24",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31977L0249"
+},
+{
+"slug": "ue-directiva-486-1977",
+"path": "ue/directiva/1977/486",
+"kind": "ue",
+"year": "1977",
+"number": "486",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 25 iulie 1977 privind educația copiilor lucrătorilor migranți",
+"short": "Directiva 77/486/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1977-08-02",
+"latest": "1977-08-02",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31977L0486"
+}
+]
+}

@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "ue/2021",
+ "acts": [
+  {
+   "slug": "ue-directiva-1159-2021",
+   "path": "ue/directiva/2021/1159",
+   "short": "Directiva (UE) 2021/1159",
+   "title": "Directiva (UE) 2021/1159 a Consiliului din 13 iulie 2021 de modificare a Directivei 2006/112/CE în ceea ce privește scutirile temporare aplicate importurilor și anumitor livrări de bunuri sau prestări de servicii, ca răspuns la pandemia de COVID-19",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L1159",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7d042518-e52b-11eb-a1a5-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f14aaed5cb1dfe04bbd8b8fe9eb8566f1877db878c18e25ad395a4846a263514"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1187-2021",
+   "path": "ue/directiva/2021/1187",
+   "short": "Directiva (UE) 2021/1187",
+   "title": "Directiva (UE) 2021/1187 a Parlamentului European și a Consiliului din 7 iulie 2021 privind măsurile de raționalizare în scopul înregistrării de progrese în direcția realizării rețelei transeuropene de transport (TEN-T)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L1187",
+   "versions": [
+    {
+     "from": "2021-08-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/04357b2c-e8f4-11eb-93a8-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "486d3893f028ff2d40aafaa75fe33d1bcaa27cb7f4ea487488a3affe85c100ac"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1233-2021",
+   "path": "ue/directiva/2021/1233",
+   "short": "Directiva (UE) 2021/1233",
+   "title": "Directiva (UE) 2021/1233 a Parlamentului European și a Consiliului din 14 iulie 2021 de modificare a Directivei (UE) 2017/2397 în ceea ce privește măsurile tranzitorii pentru recunoașterea certificatelor țărilor terțe (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L1233",
+   "versions": [
+    {
+     "from": "2021-07-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9cfe6cf8-f0d2-11eb-a71c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6141ee51a34d5ebe9ac28fbc71bff60eafa4033f140d5f18a9657d090034419f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1883-2021",
+   "path": "ue/directiva/2021/1883",
+   "short": "Directiva (UE) 2021/1883",
+   "title": "Directiva (UE) 2021/1883 a Parlamentului European și a Consiliului din 20 octombrie 2021 privind condițiile de intrare și de ședere a resortisanților țărilor terțe pentru ocuparea unor locuri de muncă înalt calificate și de abrogare a Directivei 2009/50/CE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L1883",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4e281c8d-37c1-11ec-8daf-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "5764cb008cbeb77d6c8960506180946bf9e953882e8f67ee5977c9d1aebfc311"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2101-2021",
+   "path": "ue/directiva/2021/2101",
+   "short": "Directiva (UE) 2021/2101",
+   "title": "Directiva (UE) 2021/2101 a Parlamentului European și a Consiliului din 24 noiembrie 2021 de modificare a Directivei 2013/34/UE în ceea ce privește prezentarea, de către anumite întreprinderi și sucursale, de informații privind impozitul pe profit (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L2101",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0ff35c6c-5249-11ec-91ac-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0d2774c5fe1d1747683865d1ab52ddfc25cf8fe4fd5baf6070a23a102df03bff"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2118-2021",
+   "path": "ue/directiva/2021/2118",
+   "short": "Directiva (UE) 2021/2118",
+   "title": "Directiva (UE) 2021/2118 a Parlamentului European și a Consiliului din 24 noiembrie 2021 de modificare a Directivei 2009/103/CE privind asigurarea de răspundere civilă auto și controlul obligației de asigurare a acestei răspunderi (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L2118",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3ab7a2f0-5313-11ec-91ac-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8b392ea196d08b76b4ff201d6d1dc648247ec186ad2a59e7d6740ef7191f0696"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2167-2021",
+   "path": "ue/directiva/2021/2167",
+   "short": "Directiva (UE) 2021/2167",
+   "title": "Directiva (UE) 2021/2167 a Parlamentului European și a Consiliului din 24 noiembrie 2021 privind administratorii de credite și cumpărătorii de credite și de modificare a Directivelor 2008/48/CE și 2014/17/UE (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L2167",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9ef90c76-57c8-11ec-91ac-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "09fa03438a0407704c2df53a701eb11aadcc8110fffa7924d65ead9a8ca47293"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2261-2021",
+   "path": "ue/directiva/2021/2261",
+   "short": "Directiva (UE) 2021/2261",
+   "title": "Directiva (UE) 2021/2261 a Parlamentului European și a Consiliului din 15 decembrie 2021 de modificare a Directivei 2009/65/CE în ceea ce privește utilizarea documentelor cu informații esențiale de către societățile de administrare a organismelor de plasament colectiv în valori mobiliare (OPCVM) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L2261",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2ac26096-6137-11ec-9c6c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "41f9230fd89ce2db74d98cf38f9ec1783c49b0babc010d157d25f658a140c9d4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-338-2021",
+   "path": "ue/directiva/2021/338",
+   "short": "Directiva (UE) 2021/338",
+   "title": "Directiva (UE) 2021/338 a Parlamentului European și a Consiliului din 16 februarie 2021 de modificare a Directivei 2014/65/UE în ceea ce privește cerințele în materie de informații, guvernanța produselor și limitele pozițiilor, precum și a Directivelor 2013/36/UE și (UE) 2019/878 în ceea ce privește aplicarea acestora în cazul firmelor de investiții, pentru a contribui la redresarea în urma crizei provocate de COVID-19 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L0338",
+   "versions": [
+    {
+     "from": "2021-02-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/efdc0d7c-77d4-11eb-9ac9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "33caa7324204499e8cd41d6fe9a206049a8ad80fbf0b8c160b2a87d5a5f9c691"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-514-2021",
+   "path": "ue/directiva/2021/514",
+   "short": "Directiva (UE) 2021/514",
+   "title": "Directiva (UE) 2021/514 a Consiliului din 22 martie 2021 de modificare a Directivei 2011/16/UE privind cooperarea administrativă în domeniul fiscal",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L0514",
+   "versions": [
+    {
+     "from": "2021-04-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/935ecf13-8d0c-11eb-b85c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "547f09f5f0643d123d1807564b1c9eeb7e4502c13079c31e30bcfc8298392058"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-555-2021",
+   "path": "ue/directiva/2021/555",
+   "short": "Directiva (UE) 2021/555",
+   "title": "Directiva (UE) 2021/555 a Parlamentului European și a Consiliului din 24 martie 2021 privind controlul achiziționării și deținerii de arme (text codificat)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32021L0555",
+   "versions": [
+    {
+     "from": "2021-04-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9cd1c24a-967e-11eb-b85c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8c0acaab5d9225b0b72309d5dc12cef0436eb3e2764c652889f639a847c3b6ee"
+    }
+   ]
+  }
+ ]
+}

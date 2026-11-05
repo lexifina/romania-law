@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "ue/2008",
+ "acts": [
+  {
+   "slug": "ue-directiva-101-2008",
+   "path": "ue/directiva/2008/101",
+   "short": "Directiva 2008/101/CE",
+   "title": "Directiva 2008/101/CE a Parlamentului European și a Consiliului din 19 noiembrie 2008 de modificare a Directivei 2003/87/CE pentru a include activitățile de aviație în schema de comercializare a certificatelor de emisii de gaze cu efect de seră în cadrul Comunității (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0101",
+   "versions": [
+    {
+     "from": "2009-02-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/174ef6bb-5ada-469a-9a4e-c0e7f6d284a2.0019.02/DOC_1",
+     "sha256": "84ad53ffc2f405681b87cc7f6c9701edef7826984a5beb5a1aa20041c782e03f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-104-2008",
+   "path": "ue/directiva/2008/104",
+   "short": "Directiva 2008/104/CE",
+   "title": "Directiva 2008/104/CE a Parlamentului European și a Consiliului din 19 noiembrie 2008 privind munca prin agent de muncă temporară",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0104",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ffa0ca58-234b-4c3d-a558-276cc9647192.0019.02/DOC_1",
+     "sha256": "ded3bc7902d0169a46a6546148e1c52f9996000631ec77c13600f4727307fe8d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-105-2008",
+   "path": "ue/directiva/2008/105",
+   "short": "Directiva 2008/105/CE",
+   "title": "Directiva 2008/105/CE a Parlamentului European și a Consiliului din 16 decembrie 2008 privind standardele de calitate a mediului în domeniul apei, de modificare și de abrogare a Directivelor 82/176/CEE, 83/513/CEE, 84/156/CEE, 84/491/CEE, 86/280/CEE ale Consiliului și de modificare a Directivei 2000/60/CE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0105",
+   "versions": [
+    {
+     "from": "2009-01-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/66d82696-784f-4a55-9060-678e1076ae7d.0019.02/DOC_1",
+     "sha256": "5fed22d2b28ad8834a2153a6069d4b3d6e54cefa0805a260792564cfe1512135"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-109-2008",
+   "path": "ue/directiva/2008/109",
+   "short": "Directiva 2008/109/CE",
+   "title": "Directiva 2008/109/CE a Comisiei din 28 noiembrie 2008 de modificare a anexei IV la Directiva 2000/29/CE a Consiliului privind măsurile de protecție împotriva introducerii în Comunitate a unor organisme dăunătoare plantelor sau produselor vegetale și împotriva răspândirii lor în Comunitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0109",
+   "versions": [
+    {
+     "from": "2008-12-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f721b8d6-6bec-4f02-beb2-994d31968e10.0019.03/DOC_1",
+     "sha256": "d850c2158848ec83d37a1a386ca6e39e6de2abae552634577ad38a6959e71852"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-112-2008",
+   "path": "ue/directiva/2008/112",
+   "short": "Directiva 2008/112/CE",
+   "title": "Directiva 2008/112/CE a Parlamentului European și a Consiliului din 16 decembrie 2008 de modificare a Directivelor 76/768/CEE, 88/378/CEE, 1999/13/CE ale Consiliului și a Directivelor 2000/53/CE, 2002/96/CE și 2004/42/CE ale Parlamentului European și ale Consiliului, pentru a le adapta Regulamentului (CE) nr. 1272/2008 privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0112",
+   "versions": [
+    {
+     "from": "2009-01-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/95f55a34-8efe-42ad-911f-e967702c3b9c.0019.03/DOC_1",
+     "sha256": "bbc02f4847a5c50a3bc1e908a55306b4679c3d7000571f6e4990e700f37ec4b0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-115-2008",
+   "path": "ue/directiva/2008/115",
+   "short": "Directiva 2008/115/CE",
+   "title": "Directiva 2008/115/CE a Parlamentului European și a Consiliului din 16 decembrie 2008 privind standardele și procedurile comune aplicabile în statele membre pentru returnarea resortisanților țărilor terțe aflați în situație de ședere ilegală",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0115",
+   "versions": [
+    {
+     "from": "2009-01-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aa906ab4-6639-4882-8a7e-90176cd8e7d6.0019.02/DOC_1",
+     "sha256": "413f1553225d9f32348cfd4212ddb7c8320be997786791383ea0d8f9897f702c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-117-2008",
+   "path": "ue/directiva/2008/117",
+   "short": "Directiva 2008/117/CE",
+   "title": "Directiva 2008/117/CE a Consiliului din 16 decembrie 2008 de modificare a Directivei 2006/112/CE privind sistemul comun al taxei pe valoarea adăugată, în vederea combaterii fraudei fiscale legate de operațiunile intracomunitare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0117",
+   "versions": [
+    {
+     "from": "2009-01-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/58131914-9c58-4154-8a04-f7da3601eca9.0019.02/DOC_1",
+     "sha256": "43215c880573a21c953383b4bc816e29b48790e74c1f7679483471773a973bce"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-122-2008",
+   "path": "ue/directiva/2008/122",
+   "short": "Directiva 2008/122/CE",
+   "title": "Directiva 2008/122/CE a Parlamentului European și a Consiliului din 14 ianuarie 2009 privind protecția consumatorilor în ceea ce privește anumite aspecte referitoare la contractele privind dreptul de folosință a bunurilor pe durată limitată, la contractele privind produsele de vacanță cu drept de folosință pe termen lung, precum și la contractele de revânzare și de schimb (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0122",
+   "versions": [
+    {
+     "from": "2009-02-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/639a8b44-f0cc-4743-aef2-7d2857ee8d9c.0019.02/DOC_1",
+     "sha256": "c695cac0d18caea766cf9be2edf53690023a1a6281874edf8c87670457c9bb44"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-33-2008",
+   "path": "ue/directiva/2008/33",
+   "short": "Directiva 2008/33/CE",
+   "title": "Directiva 2008/33/CE a Parlamentului European și a Consiliului din 11 martie 2008 de modificare a Directivei 2000/53/CE privind vehiculele scoase din uz, în ceea ce privește competențele de executare conferite Comisiei",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0033",
+   "versions": [
+    {
+     "from": "2008-03-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d76000ac-005b-4083-aa5c-a62aaaaa2978.0019.02/DOC_1",
+     "sha256": "805a86f604add9e361be4592638460e2265201331d20a500ebd3245614bc177f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-43-2008",
+   "path": "ue/directiva/2008/43",
+   "short": "Directiva 2008/43/CE",
+   "title": "Directiva 2008/43/CE a Comisiei din 4 aprilie 2008 de instituire, în temeiul Directivei 93/15/CEE, a unui sistem de identificare și trasabilitate a explozivilor de uz civil (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0043",
+   "versions": [
+    {
+     "from": "2008-04-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/09e1d1d5-5d96-44ab-8c15-40417ac43dba.0019.03/DOC_1",
+     "sha256": "cc85823dfbfa3bc9343b6dcfcb2d4a7128116bab6822e7260ca2357ca4ac2219"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-44-2008",
+   "path": "ue/directiva/2008/44",
+   "short": "Directiva 2008/44/CE",
+   "title": "Directiva 2008/44/CE a Comisiei din 4 aprilie 2008 de modificare a Directivei 91/414 CEE a Consiliului în vederea includerii substanțelor active bentiavalicarb, boscalid, carvonă, fluoxastrobin, Paecilomyces lilacinus și protioconazol (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0044",
+   "versions": [
+    {
+     "from": "2008-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/699fa709-f8d4-48ba-b57e-ec2a711ea74f.0019.02/DOC_1",
+     "sha256": "f5ea92cf8f5761dc331cff12e974324eb2c812abef8cd2e57affd3f3720dbb00"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-47-2008",
+   "path": "ue/directiva/2008/47",
+   "short": "Directiva 2008/47/CE",
+   "title": "Directiva 2008/47/CE a Comisiei din 8 aprilie 2008 de modificare, în scopul adaptării la progresul tehnic, a Directivei 75/324/CEE a Consiliului privind apropierea legislațiilor statelor membre referitoare la generatoarele de aerosoli (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0047",
+   "versions": [
+    {
+     "from": "2008-04-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bbd5a236-f4e4-4867-8612-6ba6f128eaee.0019.04/DOC_1",
+     "sha256": "e95c297435a53503c32e37ffb5b6e15f38e321d257965f53fc70e53a5bc8606f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-48-2008",
+   "path": "ue/directiva/2008/48",
+   "short": "Directiva 2008/48/CE",
+   "title": "Directiva 2008/48/CE a Parlamentului European și a Consiliului din 23 aprilie 2008 privind contractele de credit pentru consumatori și de abrogare a Directivei 87/102/CEE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0048",
+   "versions": [
+    {
+     "from": "2008-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e4945793-f1f9-4527-8a2e-9060378fc302.0019.04/DOC_1",
+     "sha256": "0e6cf67b0275c7e7b86d0cf1b5793ae9839d9fdef848d9eb66e31cc98b0336f0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-50-2008",
+   "path": "ue/directiva/2008/50",
+   "short": "Directiva 2008/50/CE",
+   "title": "Directiva 2008/50/CE a Parlamentului European și a Consiliului din 21 mai 2008 privind calitatea aerului înconjurător și un aer mai curat pentru Europa",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0050",
+   "versions": [
+    {
+     "from": "2008-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/13ad7ff4-6d84-45a6-bfe7-bc93232559d0.0019.02/DOC_1",
+     "sha256": "a5c60b60857ec043c7a334cf0612aaaa5da03678f3c31ee029f7eef4648e9884"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-52-2008",
+   "path": "ue/directiva/2008/52",
+   "short": "Directiva 2008/52/CE",
+   "title": "Directiva 2008/52/CE a Parlamentului European și a Consiliului din 21 mai 2008 privind anumite aspecte ale medierii în materie civilă și comercială",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0052",
+   "versions": [
+    {
+     "from": "2008-06-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/765b7161-8950-44ca-9b48-03ef5954ce8a.0019.03/DOC_1",
+     "sha256": "4254033a4285af1b2e4952f37ff79b4f648c48c67256890dd67dba70a1edd7c4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-56-2008",
+   "path": "ue/directiva/2008/56",
+   "short": "Directiva 2008/56/CE",
+   "title": "Directiva 2008/56/CE a Parlamentului European și a Consiliului din 17 iunie 2008 de instituire a unui cadru de acțiune comunitară în domeniul politicii privind mediul marin (Directiva-cadru Strategia pentru mediul marin ) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32008L0056",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6a6b2a43-24c4-47b6-a602-40ca8c461a82.0019.02/DOC_1",
+     "sha256": "4dee92b07e7bd6eee28cef75afbd006f3e1e57999ad99200022dbaab1217b2c6"
+    }
+   ]
+  }
+ ]
+}

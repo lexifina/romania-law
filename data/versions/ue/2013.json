@@ -1,0 +1,351 @@
+{
+ "country": "RO",
+ "shard": "ue/2013",
+ "acts": [
+  {
+   "slug": "ue-directiva-1-2013",
+   "path": "ue/directiva/2013/1",
+   "short": "Directiva 2013/1/UE",
+   "title": "Directiva 2013/1/UE a Consiliului din 20 decembrie 2012 de modificare a Directivei 93/109/CE în ceea ce privește anumite norme de exercitare a dreptului de a fi ales pentru Parlamentul European pentru cetățenii Uniunii care au reședința într-un stat membru în care nu sunt resortisanți",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0001",
+   "versions": [
+    {
+     "from": "2013-01-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1f1b957b-6944-11e2-9294-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "9debf48245b54af4c149b476a3333bce6cb55f083777df1c600c0e30e530c362"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-10-2013",
+   "path": "ue/directiva/2013/10",
+   "short": "Directiva 2013/10/UE",
+   "title": "Directiva 2013/10/UE a Comisiei din 19 martie 2013 de modificare a Directivei 75/324/CEE a Consiliului privind apropierea legislațiilor statelor membre referitoare la generatoarele de aerosoli în vederea adaptării dispozițiilor privind etichetarea la Regulamentul (CE) nr. 1272/2008 al Parlamentului European și al Consiliului privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0010",
+   "versions": [
+    {
+     "from": "2013-04-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8eb63e33-9152-11e2-b5c3-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "681ef1f42eb976121ef8e332a1a469b69ff80e33e9c03c71412dc5de99196128"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-11-2013",
+   "path": "ue/directiva/2013/11",
+   "short": "Directiva 2013/11/UE",
+   "title": "Directiva 2013/11/UE a Parlamentului European și a Consiliului din 21 mai 2013 privind soluționarea alternativă a litigiilor în materie de consum și de modificare a Regulamentului (CE) nr. 2006/2004 și a Directivei 2009/22/CE (Directiva privind SAL în materie de consum)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0011",
+   "versions": [
+    {
+     "from": "2013-07-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2f3efba7-fb97-41b2-953a-69c6080dfbcc.0005.02/DOC_1",
+     "sha256": "9f99fa510bcb50d5c3c0fdd7cc247d68822ddcc200106888c329f60fef4430a1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-13-2013",
+   "path": "ue/directiva/2013/13",
+   "short": "Directiva 2013/13/UE",
+   "title": "Directiva 2013/13/UE a Consiliului din 13 mai 2013 de adaptare a anumitor directive în domeniul fiscalității, având în vedere aderarea Republicii Croația",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0013",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/35721da6-c76d-11e2-ac91-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c6a5947ac8a7e68d68ca46746ff3c8b514218e7a42a4a4fc59dda50458b662e3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-14-2013",
+   "path": "ue/directiva/2013/14",
+   "short": "Directiva 2013/14/UE",
+   "title": "Directiva 2013/14/UE a Parlamentului European și a Consiliului din 21 mai 2013 de modificare a Directivei 2003/41/CE privind activitățile și supravegherea instituțiilor pentru furnizarea de pensii ocupaționale, a Directivei 2009/65/CE de coordonare a actelor cu putere de lege și a actelor administrative privind organismele de plasament colectiv în valori mobiliare (OPCVM) și a Directivei 2011/61/UE privind administratorii fondurilor de investiții alternative în ceea ce privește încrederea excesivă acordată ratingurilor de credit Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0014",
+   "versions": [
+    {
+     "from": "2013-06-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/312a62cc-cc1f-11e2-8725-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "d26df958ae6a649f44f150858362fbe96d80c80f8f5f448624fb5202e0276845"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-15-2013",
+   "path": "ue/directiva/2013/15",
+   "short": "Directiva 2013/15/UE",
+   "title": "Directiva 2013/15/UE a Consiliului din 13 mai 2013 de adaptare a anumitor directive în domeniul liberei circulații a mărfurilor, având în vedere aderarea Republicii Croația",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0015",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/400e5dd4-d1c2-11e2-9b1a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "36246713fdda08590272e5bdcd9286d5c62e8e21deab1605ae92c70142efb88f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-22-2013",
+   "path": "ue/directiva/2013/22",
+   "short": "Directiva 2013/22/UE",
+   "title": "Directiva 2013/22/UE a Consiliului din 13 mai 2013 de adaptare a anumitor directive în domeniul politicii privind transporturile, având în vedere aderarea Republicii Croația",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0022",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/014c8d82-d1c6-11e2-9b1a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b3e2772c7751bc1b4c262c8b66330426eeba987ec463d53da2bdffbf8a408e05"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-25-2013",
+   "path": "ue/directiva/2013/25",
+   "short": "Directiva 2013/25/UE",
+   "title": "Directiva 2013/25/UE a Consiliului din 13 mai 2013 de adaptare a anumitor directive în domeniul dreptului la liberă stabilire și în cel al libertății de a presta servicii, având în vedere aderarea Republicii Croația",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0025",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/43ca6238-d1c7-11e2-9b1a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "b6a5c367d300cbf87d69076aa5216f4f1b421bbaf6ead88573c00453372f22a2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-28-2013",
+   "path": "ue/directiva/2013/28",
+   "short": "Directiva 2013/28/UE",
+   "title": "Directiva 2013/28/UE a Comisiei din 17 mai 2013 de modificare a anexei II la Directiva 2000/53/CE a Parlamentului European și a Consiliului privind vehiculele scoase din uz Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0028",
+   "versions": [
+    {
+     "from": "2013-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0aed1072-c2ba-11e2-ab01-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "356e97808608ba1efdf0c44f514db186ef91b6d8699606eb5c75c807e5a0334a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-29-2013",
+   "path": "ue/directiva/2013/29",
+   "short": "Directiva 2013/29/UE",
+   "title": "Directiva 2013/29/UE a Parlamentului European și a Consiliului din 12 iunie 2013 privind armonizarea legislației statelor membre referitoare la punerea la dispoziție pe piață a articolelor pirotehnice (reformare) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0029",
+   "versions": [
+    {
+     "from": "2013-06-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bdfc585e-dff1-11e2-9165-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3b72f8b1a79b5199db804754fe74dd4ffc42bc016a0abcf5ff7ffccbf49354b3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-30-2013",
+   "path": "ue/directiva/2013/30",
+   "short": "Directiva 2013/30/UE",
+   "title": "Directiva 2013/30/UE a Parlamentului European și a Consiliului din 12 iunie 2013 privind siguranța operațiunilor petroliere și gaziere offshore și de modificare a Directivei 2004/35/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0030",
+   "versions": [
+    {
+     "from": "2013-07-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/31df3ef0-dff2-11e2-9165-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4dd880ba906dd6dc127e656738d8adac61eba9f98ca426a095a2d241555da7a8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-35-2013",
+   "path": "ue/directiva/2013/35",
+   "short": "Directiva 2013/35/UE",
+   "title": "Directiva 2013/35/UE a Parlamentului European și a Consiliului din 26 iunie 2013 privind cerințele minime de sănătate și securitate referitoare la expunerea lucrătorilor la riscuri generate de agenții fizici (câmpuri electromagnetice) [a douăzecea directivă specială în sensul articolului 16 alineatul (1) din Directiva 89/391/CEE] și de abrogare a Directivei 2004/40/CE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0035",
+   "versions": [
+    {
+     "from": "2013-06-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/52fb4c35-e08c-11e2-9165-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "e5907bcbb92ae35a6acafd6ad2f210801877c08af1d5a146bbbbe688cce5678e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-36-2013",
+   "path": "ue/directiva/2013/36",
+   "short": "Directiva 2013/36/UE",
+   "title": "Directiva 2013/36/UE a Parlamentului European și a Consiliului din 26 iunie 2013 cu privire la accesul la activitatea instituțiilor de credit și supravegherea prudențială a instituțiilor de credit și a firmelor de investiții, de modificare a Directivei 2002/87/CE și de abrogare a Directivelor 2006/48/CE și 2006/49/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0036",
+   "versions": [
+    {
+     "from": "2013-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2ff66fd7-df0b-11e2-9165-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1eda30cfd40b31381ba1e70e2c59ef513e69a9ed61caf4bc395c5b64d027ec37"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-38-2013",
+   "path": "ue/directiva/2013/38",
+   "short": "Directiva 2013/38/UE",
+   "title": "Directiva 2013/38/UE a Parlamentului European și a Consiliului din 12 august 2013 de modificare a Directivei 2009/16/CE privind controlul statului portului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0038",
+   "versions": [
+    {
+     "from": "2013-08-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/47ba284d-04b9-11e3-a352-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "06a137f4d87e5e695a1cae3886555aab87b7dbddef7c6dd90ccdc3cce01664ab"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-39-2013",
+   "path": "ue/directiva/2013/39",
+   "short": "Directiva 2013/39/UE",
+   "title": "Directiva 2013/39/UE a Parlamentului European și a Consiliului din 12 august 2013 de modificare a Directivelor 2000/60/CE și 2008/105/CE în ceea ce privește substanțele prioritare din domeniul politicii apei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0039",
+   "versions": [
+    {
+     "from": "2013-09-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/296e91b8-4610-11e3-ae03-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f0da9c19739d821846e06786219a5365b216789cefc3cf7ecff20c47fd65081b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-40-2013",
+   "path": "ue/directiva/2013/40",
+   "short": "Directiva 2013/40/UE",
+   "title": "Directiva 2013/40/UE a Parlamentului European și a Consiliului din 12 august 2013 privind atacurile împotriva sistemelor informatice și de înlocuire a Deciziei-cadru 2005/222/JAI a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0040",
+   "versions": [
+    {
+     "from": "2013-09-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/959ded30-04ba-11e3-a352-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "5aad3fcb722cfe6c57411ebae861f67fcb673799372c1e8d5587679f6c3b7e0f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-47-2013",
+   "path": "ue/directiva/2013/47",
+   "short": "Directiva 2013/47/UE",
+   "title": "Directiva 2013/47/UE a Comisiei din 2 octombrie 2013 de modificare a Directivei 2006/126/CE a Parlamentului European și a Consiliului privind permisele de conducere Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0047",
+   "versions": [
+    {
+     "from": "2013-10-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f72a5858-2c06-11e3-8d1c-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "5784b0c099dc81459b3309b037306a2be3cec13643f80bcaa3e7002444d9df08"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-48-2013",
+   "path": "ue/directiva/2013/48",
+   "short": "Directiva 2013/48/UE",
+   "title": "Directiva 2013/48/UE a Parlamentului European și a Consiliului din 22 octombrie 2013 privind dreptul de a avea acces la un avocat în cadrul procedurilor penale și al procedurilor privind mandatul european de arestare, precum și dreptul ca o persoană terță să fie informată în urma privării de libertate și dreptul de a comunica cu persoane terțe și cu autorități consulare în timpul privării de libertate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0048",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/96a8d611-46bc-11e3-ae03-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c560ae7e6ed1da34c7f8482e7bf95b8cf10937aa9495f2d8cad3c01aa3549386"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-50-2013",
+   "path": "ue/directiva/2013/50",
+   "short": "Directiva 2013/50/UE",
+   "title": "Directiva 2013/50/UE a Parlamentului European și a Consiliului din 22 octombrie 2013 de modificare a Directivei 2004/109/CE a Parlamentului European și a Consiliului privind armonizarea obligațiilor de transparență în ceea ce privește informația referitoare la emitenții ale căror valori mobiliare sunt admise la tranzacționare pe o piață reglementată, a Directivei 2003/71/CE a Parlamentului European și a Consiliului privind prospectul care trebuie publicat în cazul unei oferte publice de valori mobiliare sau pentru admiterea valorilor mobiliare la tranzacționare și a Directivei 2007/14/CE a Comisiei de stabilire a normelor de aplicare a anumitor dispoziții ale Directivei 2004/109/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0050",
+   "versions": [
+    {
+     "from": "2013-11-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ddbaa742-46bc-11e3-ae03-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "14b4e09d5b3b65803e0a5a4bbbdb80fd5a333eecc2a935c7bf50f628be672a98"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-51-2013",
+   "path": "ue/directiva/2013/51",
+   "short": "Directiva 2013/51/Euratom",
+   "title": "Directiva 2013/51/Euratom a Consiliului din 22 octombrie 2013 de stabilire a unor cerințe de protecție a sănătății populației în ceea ce privește substanțele radioactive din apa destinată consumului uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0051",
+   "versions": [
+    {
+     "from": "2013-11-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0853a633-478c-11e3-ae03-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8b808f93bdb058ae9460572529f30744598fb858dcc58c328cba5f64749ff739"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-53-2013",
+   "path": "ue/directiva/2013/53",
+   "short": "Directiva 2013/53/UE",
+   "title": "Directiva 2013/53/UE a Parlamentului European și a Consiliului din 20 noiembrie 2013 privind ambarcațiunile de agrement și motovehiculele nautice și de abrogare a Directivei 94/25/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0053",
+   "versions": [
+    {
+     "from": "2014-01-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/68dca22c-76d8-11e3-b889-01aa75ed71a1.0020.05/DOC_1",
+     "sha256": "b052348d382b924db462e476fb3adf5cf9ec71d3fbde011f7c9fba30cb85b574"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-55-2013",
+   "path": "ue/directiva/2013/55",
+   "short": "Directiva 2013/55/UE",
+   "title": "Directiva 2013/55/UE a Parlamentului European și a Consiliului din 20 noiembrie 2013 de modificare a Directivei 2005/36/CE privind recunoașterea calificărilor profesionale și a Regulamentului (UE) nr. 1024/2012 privind cooperarea administrativă prin intermediul Sistemului de informare al pieței interne ( „Regulamentul IMI” ) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0055",
+   "versions": [
+    {
+     "from": "2014-01-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7508086d-76dc-11e3-b889-01aa75ed71a1.0020.05/DOC_1",
+     "sha256": "bd766ced321aa68e0a172161893722eae8aff6e20b1ede3aaf816a49a5b761c3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-59-2013",
+   "path": "ue/directiva/2013/59",
+   "short": "Directiva 2013/59/Euratom",
+   "title": "Directiva 2013/59/Euratom a Consiliului din 5 decembrie 2013 de stabilire a normelor de securitate de bază privind protecția împotriva pericolelor prezentate de expunerea la radiațiile ionizante și de abrogare a Directivelor 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom și 2003/122/Euratom",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32013L0059",
+   "versions": [
+    {
+     "from": "2014-02-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/65527fd1-7f55-11e3-b889-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "480575748ee6d0385503a08fb3a450a7d3c3e2ca1e086b1b791508fac17206ff"
+    }
+   ]
+  }
+ ]
+}

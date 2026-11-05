@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "ue/1996",
+ "acts": [
+  {
+   "slug": "ue-directiva-30-1996",
+   "path": "ue/directiva/1996/30",
+   "short": "Directiva 96/30/CE",
+   "title": "Directiva 96/30/CE a Consiliului din 13 mai 1996 de modificare a Directivei 94/80/CE de stabilire a modalităților de exercitare a dreptului de a alege și de a fi ales la alegerile locale pentru cetățenii Uniunii care au reședința într-un stat membru a cărui cetățenie nu o dețin",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31996L0030",
+   "versions": [
+    {
+     "from": "1996-05-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9a00c8ae-f873-4dcd-bcb3-ce94e97b3b35.0022.05/DOC_1",
+     "sha256": "29e59284bf866f07ca6bc1ad114000bdcd2590bc655d74b1a64ab2a8e3f81a5f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-40-1996",
+   "path": "ue/directiva/1996/40",
+   "short": "Directiva 96/40/CE",
+   "title": "Directiva 96/40/CE a Comisiei din 25 iunie 1996 de instituire a unui model comun de carte de identitate pentru inspectorii care desfășoară controlul de stat în port (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31996L0040",
+   "versions": [
+    {
+     "from": "1996-08-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ea0b330a-5014-45e3-8a66-0bd8773a1008.0022.04/DOC_3",
+     "sha256": "1cadc0d6adef7e389b6981d3b03b5ab9b718cf21bb1287597697f461576ccbbe"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-53-1996",
+   "path": "ue/directiva/1996/53",
+   "short": "Directiva 96/53/CE",
+   "title": "Directiva 96/53/CE a Consiliului din 25 iulie 1996 de stabilire, pentru anumite vehicule rutiere care circulă în interiorul Comunității, a dimensiunilor maxime autorizate în traficul național și internațional și a greutății maxime autorizate în traficul internațional",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31996L0053",
+   "versions": [
+    {
+     "from": "1996-09-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/998acf36-d456-4481-b216-96106e8254c5.0022.01/DOC_1",
+     "sha256": "73b2c047b44a53df6c68dfffc91ed026335fa6aec15c0c1b78309d7c7bfb30a8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-59-1996",
+   "path": "ue/directiva/1996/59",
+   "short": "Directiva 96/59/CE",
+   "title": "Directiva 96/59/CE a Consiliului din 16 septembrie 1996 privind eliminarea bifenililor policlorurați și a terfenililor policlorurați (PCB/TPC)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31996L0059",
+   "versions": [
+    {
+     "from": "1996-09-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/55e57f8b-e936-4b5a-ad57-74f73c891c78.0022.04/DOC_1",
+     "sha256": "b69eaeb50e87c5b0627aa20accb81cb224ce7d9fd7490bbca30a49569970e24e"
+    }
+   ]
+  }
+ ]
+}

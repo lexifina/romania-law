@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "ue/2004",
+ "acts": [
+  {
+   "slug": "ue-directiva-10-2004",
+   "path": "ue/directiva/2004/10",
+   "short": "Directiva 2004/10/CE",
+   "title": "Directiva 2004/10/CE a Parlamentului European și a Consiliului din 11 februarie 2004 privind armonizarea actelor cu putere de lege și actelor administrative referitoare la aplicarea principiilor bunei practici de laborator și verificarea aplicării acestora la testele efectuate asupra substanțelor chimice (versiunea codificată)Text cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0010",
+   "versions": [
+    {
+     "from": "2004-03-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fdf7e627-e1c2-44d0-af8e-bda96bb1e3c6.0022.03/DOC_1",
+     "sha256": "9f110520d20750c3b0786cf496985759f4cb51f9b6a1c633519d4aed2f46a942"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-101-2004",
+   "path": "ue/directiva/2004/101",
+   "short": "Directiva 2004/101/CE",
+   "title": "Directiva 2004/101/CE a Parlamentului European și a Consiliului din 27 octombrie 2004 de modificare a Directivei 2003/87/CE de stabilire a unei scheme de comercializare a certificatelor de emisii de gaze cu efect de seră în cadrul Comunității, în temeiul mecanismelor bazate pe proiectul din Protocolul de la Kyoto Text cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0101",
+   "versions": [
+    {
+     "from": "2004-11-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/912318ef-854a-40c7-9d7d-6e33da06a321.0022.03/DOC_1",
+     "sha256": "98d249e06581d35800119b862d23ca655437d3a4a4da7758e31bcb74e4ca94c6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-105-2004",
+   "path": "ue/directiva/2004/105",
+   "short": "Directiva 2004/105/CE",
+   "title": "Directiva 2004/105/CE a Comisiei din 15 octombrie 2004 de stabilire a modelelor de certificate fitosanitare sau de certificate fitosanitare de reexport oficiale, care însoțesc plantele, produsele vegetale sau alte obiecte reglementate de Directiva 2000/29/CE a Consiliului, provenind din țări terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0105",
+   "versions": [
+    {
+     "from": "2004-11-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7174e447-635c-4140-9099-92849423ea6c.0022.04/DOC_1",
+     "sha256": "ed55ffbd0c5b52f972e43d648635ee40c300abe3961fba03aead07a1dd6967fc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-107-2004",
+   "path": "ue/directiva/2004/107",
+   "short": "Directiva 2004/107/CE",
+   "title": "Directiva 2004/107/CE a Parlamentului European și a Consiliului din 15 decembrie 2004 privind arsenicul, cadmiul, mercurul, nichelul și hidrocarburile aromatice policiclice în aerul înconjurător",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0107",
+   "versions": [
+    {
+     "from": "2005-02-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/26e2ff35-62bb-4c29-9d22-0fbd8642f440.0022.04/DOC_2",
+     "sha256": "4601038cebb8ab8238b6f71e4b1ebe1fe02ee487fc6a9a056c213024a4b8d546"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-109-2004",
+   "path": "ue/directiva/2004/109",
+   "short": "Directiva 2004/109/CE",
+   "title": "Directiva 2004/109/CE a Parlamentului European și a Consiliului din 15 decembrie 2004 privind armonizarea obligațiilor de transparență în ceea ce privește informația referitoare la emitenții ale căror valori mobiliare sunt admise la tranzacționare pe o piață reglementată și de modificare a Directivei 2001/34/CE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0109",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/222f03e7-c991-408f-a0f1-f9b680b6433f.0022.03/DOC_1",
+     "sha256": "b4005bf83ed037633a25e4c8ebec3494f51f3120417a4668dc059e986401963b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-113-2004",
+   "path": "ue/directiva/2004/113",
+   "short": "Directiva 2004/113/CE",
+   "title": "Directiva 2004/113/CE a Consiliului din 13 decembrie 2004 de aplicare a principiului egalității de tratament între femei și bărbați privind accesul la bunuri și servicii și furnizarea de bunuri și servicii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0113",
+   "versions": [
+    {
+     "from": "2004-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6453f632-1c70-4449-b8b8-be25c8045a79.0022.03/DOC_1",
+     "sha256": "aaafcc5230838d6628e272a88d95885bc69410a6cf16dd3a08b5161be8f9d4ea"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-23-2004",
+   "path": "ue/directiva/2004/23",
+   "short": "Directiva 2004/23/CE",
+   "title": "Directiva 2004/23/CE a Parlamentului European și a Consiliului din 31 martie 2004 privind stabilirea standardelor de calitate și securitate pentru donarea, obținerea, controlul, prelucrarea, conservarea, stocarea și distribuirea țesuturilor și a celulelor umane",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0023",
+   "versions": [
+    {
+     "from": "2004-04-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1589d23a-1fd2-40aa-83cb-b8641cb53165.0022.03/DOC_1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-24-2004",
+   "path": "ue/directiva/2004/24",
+   "short": "Directiva 2004/24/CE",
+   "title": "Directiva 2004/24/CE a Parlamentului European și a Consiliului din 31 martie 2004 de modificare, în ceea ce privește medicamentele tradiționale din plante, a Directivei 2001/83/CE de instituire a unui cod comunitar cu privire la medicamentele de uz uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0024",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ea5c3b2d-5c21-4bab-8242-68a00fd3df08.0022.04/DOC_1",
+     "sha256": "e2d57ce38eade654e3fc683c35424334d47302de19012c38b4a07cb8bb72e7c8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-25-2004",
+   "path": "ue/directiva/2004/25",
+   "short": "Directiva 2004/25/CE",
+   "title": "Directiva 2004/25/CE a Parlamentului European și a Consiliului din 21 aprilie 2004 privind ofertele publice de cumpărareText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0025",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/35eff5d1-4ef3-449f-8c12-26e7b85856ed.0022.04/DOC_1",
+     "sha256": "09fba5e65f074ce5c81ecbc29277468b1fc6fd9971bb734dddb62e0a88075617"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-27-2004",
+   "path": "ue/directiva/2004/27",
+   "short": "Directiva 2004/27/CE",
+   "title": "Directiva 2004/27/CE a Parlamentului European și a Consiliului din 31 martie 2004 de modificare a Directivei 2001/83/CE de instituire a unui cod comunitar cu privire la medicamentele de uz umanText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0027",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/61bbe31e-fc11-4f11-b2a7-e175a7529f8d.0022.04/DOC_1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-33-2004",
+   "path": "ue/directiva/2004/33",
+   "short": "Directiva 2004/33/CE",
+   "title": "Directiva 2004/33/CE a Comisiei din 22 martie 2004 de punere în aplicare a Directivei 2002/98/CE a Parlamentului European și a Consiliului în ceea ce privește anumite cerințe tehnice pentru sânge și componente sanguineText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0033",
+   "versions": [
+    {
+     "from": "2004-04-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/988971b9-6595-4519-8969-8a72ee12bf31.0022.03/DOC_14",
+     "sha256": "2b1d63e028ba528b8e77582fab74d7feed6ea0e957c1777f659cc29a4c6a70f9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-35-2004",
+   "path": "ue/directiva/2004/35",
+   "short": "Directiva 2004/35/CE",
+   "title": "Directiva 2004/35/CE a Parlamentului European și a Consiliului din 21 aprilie 2004 privind răspunderea pentru mediul înconjurător în legătură cu prevenirea și repararea daunelor aduse mediului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0035",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ab920b5e-50a6-49c9-8ffc-880a6bbfc20f.0022.03/DOC_5",
+     "sha256": "d7b067ee9a01d3a62248fe427fb81ce0543688aa9a9b90672e47f087ebc0ff4f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-37-2004",
+   "path": "ue/directiva/2004/37",
+   "short": "Directiva 2004/37/CE",
+   "title": "Directiva 2004/37/CE a Parlamentului European și a Consiliului din 29 aprilie 2004 privind protecția lucrătorilor împotriva riscurilor legate de expunerea la agenți cancerigeni sau mutageni la locul de muncă [a șasea directivă specială în sensul articolului 16 alineatul (1) din Directiva 89/391/CEE a Consiliului] (versiune codificată)Text cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0037",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/308eb2e0-b58b-4464-abb4-bcf98a4eb0e1.0022.03/DOC_1",
+     "sha256": "394799a54049437cd3615ab34e9deec024728dd06216275277d5ffc25c71a5d2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-38-2004",
+   "path": "ue/directiva/2004/38",
+   "short": "Directiva 2004/38/CE",
+   "title": "Directiva 2004/38/CE a Parlamentului European și a Consiliului din 29 aprilie 2004 privind dreptul la liberă circulație și ședere pe teritoriul statelor membre pentru cetățenii Uniunii și membrii familiilor acestora, de modificare a Regulamentului (CEE) nr. 1612/68 și de abrogare a Directivelor 64/221/CEE, 68/360/CEE, 72/194/CEE, 73/148/CEE, 75/34/CEE, 75/35/CEE, 90/364/CEE, 90/365/CEE și 93/96/CEEText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0038",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a1435737-300a-4760-8462-03db75b27caa.0022.04/DOC_1",
+     "sha256": "64835b166b91b9ece34929a822d8eb764bb5d2bfdc637c2b4ea7e82ac92947f0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-42-2004",
+   "path": "ue/directiva/2004/42",
+   "short": "Directiva 2004/42/CE",
+   "title": "Directiva 2004/42/CE a Parlamentului European și a Consiliului din 21 aprilie 2004 privind limitarea emisiilor de compuși organici volatili cauzate de utilizarea de solvenți organici în anumite vopsele și lacuri și în produsele de refinisare a vehiculelor și de modificare a Directivei 1999/13/CE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0042",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/08b98185-31f7-4dad-8e41-e643b82e6870.0022.03/DOC_1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-48-2004",
+   "path": "ue/directiva/2004/48",
+   "short": "Directiva 2004/48/CE",
+   "title": "Directiva 2004/48/CE a Parlamentului European și a Consiliului din 29 aprilie 2004 privind respectarea drepturilor de proprietate intelectualăText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0048",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c5da2d9b-495e-4618-a6c8-c6400c00f1f9.0022.04/DOC_1",
+     "sha256": "6f8344d6357701a22c62bcf56c4d60f7ac5bbde63f5778b9ca876499817166d3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-54-2004",
+   "path": "ue/directiva/2004/54",
+   "short": "Directiva 2004/54/CE",
+   "title": "Directiva 2004/54/CE a Parlamentului European și a Consiliului din 29 aprilie 2004 privind cerințele minime de siguranță pentru tunelurile din Rețeaua rutieră transeuropeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32004L0054",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3681d17d-ec25-4d1a-b189-01af9633e04c.0022.01/DOC_1",
+     "sha256": "0689a99fcd3f04bc647c8d74151c4e7f11159c17b207e506cc9e8ca78f179fd9"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "ue/2010",
+ "acts": [
+  {
+   "slug": "ue-directiva-13-2010",
+   "path": "ue/directiva/2010/13",
+   "short": "Directiva 2010/13/UE",
+   "title": "Directiva 2010/13/UE a Parlamentului European și a Consiliului din 10 martie 2010 privind coordonarea anumitor dispoziții stabilite prin acte cu putere de lege sau acte administrative în cadrul statelor membre cu privire la furnizarea de servicii mass-media audiovizuale (Directiva serviciilor mass-media audiovizuale) (Versiune codificată) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0013",
+   "versions": [
+    {
+     "from": "2010-05-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3b777bc6-6709-4884-9925-7e47f5607281.0019.02/DOC_1",
+     "sha256": "33c1aa4378ca00a104174fd09526fad4afee69312ec248b21a07e604516e79c1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-24-2010",
+   "path": "ue/directiva/2010/24",
+   "short": "Directiva 2010/24/UE",
+   "title": "Directiva 2010/24/UE a Consiliului din 16 martie 2010 privind asistența reciprocă în materie de recuperare a creanțelor legate de impozite, taxe și alte măsuri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0024",
+   "versions": [
+    {
+     "from": "2010-04-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9d591360-c832-4ca7-b9b9-fcaae395ef00.0019.02/DOC_1",
+     "sha256": "4a379ea2ffcb4f51fcf064fb3fa3d55b50e8b1d9f3dbfbbc6b3cdf1937bd70ab"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-32-2010",
+   "path": "ue/directiva/2010/32",
+   "short": "Directiva 2010/32/UE",
+   "title": "Directiva 2010/32/UE a Consiliului din 10 mai 2010 de punere în aplicare a Acordului-cadru privind prevenirea rănilor provocate de obiecte ascuțite în sectorul spitalicesc și în cel al asistenței medicale, încheiat între HOSPEEM și EPSU (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0032",
+   "versions": [
+    {
+     "from": "2010-06-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0625d896-5949-42ba-a9c4-94251a05941b.0019.02/DOC_1",
+     "sha256": "3dd451c28acc034a236883ad9cb6effa6a512979a335e718bad6f71265c782bf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-35-2010",
+   "path": "ue/directiva/2010/35",
+   "short": "Directiva 2010/35/UE",
+   "title": "Directiva 2010/35/UE a Parlamentului European și a Consiliului din 16 iunie 2010 privind echipamentele sub presiune transportabile și de abrogare a Directivelor 76/767/CEE, 84/525/CEE, 84/526/CEE, 84/527/CEE și 1999/36/CE ale Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0035",
+   "versions": [
+    {
+     "from": "2010-07-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e2a940ba-4b38-4e50-8ea5-526166f61b9a.0019.03/DOC_1",
+     "sha256": "eea3f59946ede9dbf4511aa1e6a01c5ded829fd13c49d6011ae4547e9c909ad0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-40-2010",
+   "path": "ue/directiva/2010/40",
+   "short": "Directiva 2010/40/UE",
+   "title": "Directiva 2010/40/UE a Parlamentului European și a Consiliului din 7 iulie 2010 privind cadrul pentru implementarea sistemelor de transport inteligente în domeniul transportului rutier și pentru interfețele cu alte moduri de transport Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0040",
+   "versions": [
+    {
+     "from": "2010-08-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c2d58141-334a-4cd8-be0f-b9b9840d2efd.0019.02/DOC_1",
+     "sha256": "dd8e99561c477a61af10a57c2e4a4b74d6dc2d932c60cabfeeecd48b041fae82"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-41-2010",
+   "path": "ue/directiva/2010/41",
+   "short": "Directiva 2010/41/UE",
+   "title": "Directiva 2010/41/UE a Parlamentului European și a Consiliului din 7 iulie 2010 privind aplicarea principiului egalității de tratament între bărbații și femeile care desfășoară o activitate independentă și de abrogare a Directivei 86/613/CEE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0041",
+   "versions": [
+    {
+     "from": "2010-08-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cdae43ec-ffff-4c51-a502-747a805b600d.0009.02/DOC_1",
+     "sha256": "6c0a52b0d164bf558eefa587e28486274d7cea97514f004eeaa9badee1b668f9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-43-2010",
+   "path": "ue/directiva/2010/43",
+   "short": "Directiva 2010/43/UE",
+   "title": "Directiva 2010/43/UE a Comisiei din 1 iulie 2010 de punere în aplicare a Directivei 2009/65/CE a Parlamentului European și a Consiliului în ceea ce privește cerințele organizatorice, conflictele de interese, regulile de conduită, administrarea riscului și conținutul acordului dintre depozitar și societatea de administrare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0043",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6798cf7f-22ce-432a-9206-779e3e934866.0019.02/DOC_1",
+     "sha256": "ba70024aac9f3ef76bf19af1ec43c74d7b02325c7cf925862931e52cde6662d8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-44-2010",
+   "path": "ue/directiva/2010/44",
+   "short": "Directiva CELEX 32010L0044",
+   "title": "Directiva 2010/42/UE a Comisiei din 1 iulie 2010 de punere în aplicare a Directivei 2009/65/CE a Parlamentului European și a Consiliului în ceea ce privește anumite dispoziții referitoare la fuziunile fondurilor, structurile de tip „master-feeder” și procedura de notificare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0044",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ab28ccfa-0484-4c4b-9f81-dcd7bdd20bef.0019.03/DOC_1",
+     "sha256": "bb9e1d0f2a33c2b9b11b55676f918817a7aae62309d68f18cd85ae205044477c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-45-2010",
+   "path": "ue/directiva/2010/45",
+   "short": "Directiva 2010/45/UE",
+   "title": "Directiva 2010/45/UE a Consiliului din 13 iulie 2010 de modificare a Directivei 2006/112/CE privind sistemul comun al taxei pe valoarea adăugată în ceea ce privește normele privind facturarea",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0045",
+   "versions": [
+    {
+     "from": "2010-08-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/981d10de-816f-4396-b1e6-d0719a69e181.0007.02/DOC_1",
+     "sha256": "5c0e6ca07d389be5ca8d63069bbcd84b750e8197a18140da39086b44fdc15c6a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-53-2010",
+   "path": "ue/directiva/2010/53",
+   "short": "Directiva CELEX 32010L0053",
+   "title": "Directiva 2010/45/UE a Parlamentului European și a Consiliului din 7 iulie 2010 privind standardele de calitate și siguranță referitoare la organele umane destinate transplantului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32010L0053",
+   "versions": [
+    {
+     "from": "2010-08-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f377fef4-4956-4125-bc35-b042842d64db.0012.03/DOC_1",
+     "sha256": "80a4dc76dbcedff313b49edb2849d5500f6e5f55eb8cdd19728dddcff3e4f5cb"
+    }
+   ]
+  }
+ ]
+}

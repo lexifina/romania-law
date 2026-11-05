@@ -1,0 +1,23 @@
+{
+"country": "RO",
+"shard": "ue/1978",
+"acts": [
+{
+"slug": "ue-directiva-142-1978",
+"path": "ue/directiva/1978/142",
+"kind": "ue",
+"year": "1978",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 30 ianuarie 1978 de apropiere a legislațiilor statelor membre privind materialele și obiectele care conțin monomerul clorură de vinil și care vin în contact cu produsele alimentare",
+"short": "Directiva 78/142/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1978-02-01",
+"latest": "1978-02-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31978L0142"
+}
+]
+}

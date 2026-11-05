@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "ue/2007",
+ "acts": [
+  {
+   "slug": "ue-directiva-19-2007",
+   "path": "ue/directiva/2007/19",
+   "short": "Directiva 2007/19/CE",
+   "title": "Directiva 2007/19/CE a Comisiei din 30 martie 2007 de modificare a Directivei 2002/72/CE privind materialele și obiectele din material plastic destinate să vină în contact cu produsele alimentare și a Directivei 85/572/CEE a Consiliului de stabilire a listei de simulanți utilizați pentru testarea migrării constituenților materialelor și obiectelor din material plastic care vin în contact cu produsele alimentare (Text cu relevanță pentru SEE )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0019",
+   "versions": [
+    {
+     "from": "2007-04-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/630d80a3-0b55-4e64-97b6-a2461e7aec86.0018.03/DOC_1",
+     "sha256": "dfe40d8074c761b3886847225034c9d3dcbbfaf6af4aaf0209175a128621f315"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2-2007",
+   "path": "ue/directiva/2007/2",
+   "short": "Directiva 2007/2/CE",
+   "title": "Directiva 2007/2/CE a Parlamentului European și a Consiliului din 14 martie 2007 de instituire a unei infrastructuri pentru informații spațiale în Comunitatea Europeană (Inspire)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0002",
+   "versions": [
+    {
+     "from": "2007-05-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1521e39a-a206-41fb-afb0-ac8973511bf8.0019.02/DOC_1",
+     "sha256": "d737708837161e85a7323f8262c8ccd77c876108465a13e5ce1b7c19ed5c5c52"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-30-2007",
+   "path": "ue/directiva/2007/30",
+   "short": "Directiva 2007/30/CE",
+   "title": "Directiva 2007/30/CE a Parlamentului European și a Consiliului din 20 iunie 2007 de modificare a Directivei 89/391/CEE a Consiliului, a directivelor speciale ale acesteia și a Directivelor 83/477/CEE, 91/383/CEE, 92/29/CEE și 94/33/CE ale Consiliului în vederea simplificării și a raționalizării rapoartelor privind punerea în aplicare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0030",
+   "versions": [
+    {
+     "from": "2007-06-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e51a0237-5e67-4021-b7d8-1dc1d89d5cdc.0019.02/DOC_1",
+     "sha256": "627a31f00329e3e34314e8b99462352867849c55c3e85e44a8bdd226c6f7f5e9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-36-2007",
+   "path": "ue/directiva/2007/36",
+   "short": "Directiva 2007/36/CE",
+   "title": "Directiva 2007/36/CE a Parlamentului European și a Consiliului din 11 iulie 2007 privind exercitarea anumitor drepturi ale acționarilor în cadrul societăților comerciale cotate la bursă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0036",
+   "versions": [
+    {
+     "from": "2007-08-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2624447f-8c17-4208-8889-a98c49d39339.0019.02/DOC_1",
+     "sha256": "6d46df22c686fe91dbf3a20ecf5ba82ccb7794e579fe6feee84235ef6e8fb447"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-42-2007",
+   "path": "ue/directiva/2007/42",
+   "short": "Directiva 2007/42/CE",
+   "title": "Directiva 2007/42/CE a Comisiei din 29 iunie 2007 privind materialele și obiectele fabricate din folie de celuloză regenerată care vin în contact cu produsele alimentare (versiune codificată) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0042",
+   "versions": [
+    {
+     "from": "2007-07-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/06436cae-5867-4271-8b3e-03378c02a0b0.0019.04/DOC_1",
+     "sha256": "8b2e3df1b549bb2dd83b98aeef0a4941f6cdcc67f004bbb222562d8756906c86"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-45-2007",
+   "path": "ue/directiva/2007/45",
+   "short": "Directiva 2007/45/CE",
+   "title": "Directiva 2007/45/CE a Parlamentului European și a Consiliului din 5 septembrie 2007 de stabilire a normelor privind cantitățile nominale ale produselor preambalate, de abrogare a Directivelor 75/106/CEE și 80/232/CEE ale Consiliului, și de modificare a Directivei 76/211/CEE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0045",
+   "versions": [
+    {
+     "from": "2007-10-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a5290b1f-1bdf-4ddd-a847-044460eed64e.0019.03/DOC_1",
+     "sha256": "a7ac4a060f035ffe8aa64f71ba16c3ed073be11f72dc2699b32ce89fe3c62ae6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-59-2007",
+   "path": "ue/directiva/2007/59",
+   "short": "Directiva 2007/59/CE",
+   "title": "Directiva 2007/59/CE a Parlamentului European și a Consiliului din 23 octombrie 2007 privind certificarea mecanicilor de locomotivă care conduc locomotive și trenuri în sistemul feroviar comunitar",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32007L0059",
+   "versions": [
+    {
+     "from": "2007-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/40923248-5509-41b9-9c89-4b6fdeb2ba80.0019.02/DOC_1",
+     "sha256": "b0212a74679456de60b037cfe6f510ea4e491fb521ee199fe716da58d0d1f521"
+    }
+   ]
+  }
+ ]
+}

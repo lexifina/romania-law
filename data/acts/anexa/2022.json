@@ -1,0 +1,40 @@
+{
+"country": "RO",
+"shard": "anexa/2022",
+"acts": [
+{
+"slug": "anexa-legea-304-2022-anexa-1",
+"path": "anexa/legea-304-2022/anexa-1",
+"kind": "anexa",
+"year": "2022",
+"number": "legea-304-2022/anexa-1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Anexa nr. 1 la Legea nr. 304/2022: Judecătoriile, tribunalele, curțile de apel, parchetele de pe lângă acestea, circumscripțiile și localitățile de reședință",
+"short": "Anexa nr. 1 la Legea nr. 304/2022",
+"code": null,
+"status": "consolidated form of 31.12.2025 (Portalul legislativ), later changes not yet recorded",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261410"
+},
+{
+"slug": "anexa-legea-304-2022-anexa-2",
+"path": "anexa/legea-304-2022/anexa-2",
+"kind": "anexa",
+"year": "2022",
+"number": "legea-304-2022/anexa-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Anexa nr. 2 la Legea nr. 304/2022: Circumscripțiile instanțelor militare, ale parchetelor de pe lângă acestea și localitățile de reședință",
+"short": "Anexa nr. 2 la Legea nr. 304/2022",
+"code": null,
+"status": "consolidated form of 31.12.2025 (Portalul legislativ), later changes not yet recorded",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261410"
+}
+]
+}

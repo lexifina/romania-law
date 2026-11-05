@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "ue/2023",
+ "acts": [
+  {
+   "slug": "ue-directiva-1544-2023",
+   "path": "ue/directiva/2023/1544",
+   "short": "Directiva (UE) 2023/1544",
+   "title": "Directiva (UE) 2023/1544 a Parlamentului European și a Consiliului din 12 iulie 2023 de stabilire a unor norme armonizate privind desemnarea sediilor desemnate și numirea reprezentanților legali în scopul obținerii de probe electronice în cadrul procedurilor penale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L1544",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3a2d3206-2ce4-11ee-95a2-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "d28c3113a1dad843a74e305d2dae8ecc718d9ee574e3ac1b8286941b52101412"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-175-2023",
+   "path": "ue/directiva/2023/175",
+   "short": "Directiva (UE) 2023/175",
+   "title": "Directiva (UE) 2023/175 a Comisiei din 26 ianuarie 2023 de modificare a Directivei 2009/32/CE a Parlamentului European și a Consiliului în ceea ce privește 2-metiloxolanul (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L0175",
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b2c42091-9de6-11ed-b508-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7848c64b4387c4c1c1cecaf9e924718169514097a42a2aa0bdde9474a3754923"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1791-2023",
+   "path": "ue/directiva/2023/1791",
+   "short": "Directiva (UE) 2023/1791",
+   "title": "Directiva (UE) 2023/1791 a Parlamentului European și a Consiliului din 13 septembrie 2023 privind eficiența energetică și de modificare a Regulamentului (UE) 2023/955 (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L1791",
+   "versions": [
+    {
+     "from": "2023-10-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0e432499-5752-11ee-9220-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "cf072e66e557a90c45265f2cff7935f269e99630bc5677216d5addb59c090d84"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2123-2023",
+   "path": "ue/directiva/2023/2123",
+   "short": "Directiva (UE) 2023/2123",
+   "title": "Directiva (UE) 2023/2123 a Parlamentului European și a Consiliului din 4 octombrie 2023 de modificare a Deciziei 2005/671/JAI a Consiliului în ceea ce privește alinierea acesteia la normele Uniunii privind protecția datelor cu caracter personal",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L2123",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/06d9f5e6-67d0-11ee-9220-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "cefe3b111811ca0482778d5878033d81ff3ccc3f931cbda4f707d97efa6ace68"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2225-2023",
+   "path": "ue/directiva/2023/2225",
+   "short": "Directiva (UE) 2023/2225",
+   "title": "Directiva (UE) 2023/2225 a Parlamentului European și a Consiliului din 18 octombrie 2023 privind contractele de credit de consum și de abrogare a Directivei 2008/48/CE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L2225",
+   "versions": [
+    {
+     "from": "2023-11-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/12d92010-76c8-11ee-99ba-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "659549760e950f850399e7ae5f2a09353a884ae80bf84fc0f5308c0dfc7de297"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2226-2023",
+   "path": "ue/directiva/2023/2226",
+   "short": "Directiva (UE) 2023/2226",
+   "title": "Directiva (UE) 2023/2226 a Consiliului din 17 octombrie 2023 de modificare a Directivei 2011/16/UE privind cooperarea administrativă în domeniul fiscal",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L2226",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/57cf0896-7206-11ee-9220-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "44e2c36f0c8e7ad1b492e5a91ed89bb2ae8bf08ebb1d8ee42cddecaeb4af2155"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2413-2023",
+   "path": "ue/directiva/2023/2413",
+   "short": "Directiva (UE) 2023/2413",
+   "title": "Directiva (UE) 2023/2413 a Parlamentului European și a Consiliului din 18 octombrie 2023 de modificare a Directivei (UE) 2018/2001, a Regulamentului (UE) 2018/1999 și a Directivei 98/70/CE în ceea ce privește promovarea energiei din surse regenerabile și de abrogare a Directivei (UE) 2015/652 a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L2413",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dc3cfdf8-778e-11ee-99ba-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "30eacbaf4e399c137b7c445d854a24c2b0b989d2fe5cfcbd074435098bfb35ca"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2661-2023",
+   "path": "ue/directiva/2023/2661",
+   "short": "Directiva (UE) 2023/2661",
+   "title": "Directiva (UE) 2023/2661 a Parlamentului European și a Consiliului din 22 noiembrie 2023 de modificare a Directivei 2010/40/UE privind cadrul pentru implementarea sistemelor de transport inteligente în domeniul transportului rutier și pentru interfețele cu alte moduri de transport (Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L2661",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aba7930a-8f22-11ee-8aa6-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "a44ce49b6d8df6111a0e62bf0711896c185e5c1d947bf4a19d953b0daeadc95d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2668-2023",
+   "path": "ue/directiva/2023/2668",
+   "short": "Directiva (UE) 2023/2668",
+   "title": "Directiva (UE) 2023/2668 a Parlamentului European și a Consiliului din 22 noiembrie 2023 de modificare a Directivei 2009/148/CE privind protecția lucrătorilor împotriva riscurilor legate de expunerea la azbest la locul de muncă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L2668",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bacbeacf-8f22-11ee-8aa6-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "895ffc8547970bb7d2b283d4ae3b211ea0dcbcb721e2eddc193e7695039d8fb8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2673-2023",
+   "path": "ue/directiva/2023/2673",
+   "short": "Directiva (UE) 2023/2673",
+   "title": "Directiva (UE) 2023/2673 a Parlamentului European și a Consiliului din 22 noiembrie 2023 de modificare a Directivei 2011/83/UE în ceea ce privește contractele de servicii financiare încheiate la distanță și de abrogare a Directivei 2002/65/CE (Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L2673",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ba0121b2-8d8f-11ee-8aa6-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "18da43d6f81adfa660d1427d6b5a22f81c56bec6c1c44627b6f05337ed38db79"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2843-2023",
+   "path": "ue/directiva/2023/2843",
+   "short": "Directiva (UE) 2023/2843",
+   "title": "Directiva (UE) 2023/2843 a Parlamentului European și a Consiliului din 13 decembrie 2023 de modificare a Directivelor 2011/99/UE și 2014/41/UE ale Parlamentului European și ale Consiliului, a Directivei 2003/8/CE a Consiliului și a Deciziilor-cadru 2002/584/JAI, 2003/577/JAI, 2005/214/JAI, 2006/783/JAI, 2008/909/JAI, 2008/947/JAI, 2009/829/JAI și 2009/948/JAI ale Consiliului, în ceea ce privește digitalizarea cooperării judiciare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L2843",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d0cf5fce-a459-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "0798119ffcd8d45e7a1b91867e399c57a5697a8686da866b9ff327666f522a71"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2864-2023",
+   "path": "ue/directiva/2023/2864",
+   "short": "Directiva (UE) 2023/2864",
+   "title": "Directiva (UE) 2023/2864 a Parlamentului European și a Consiliului din 13 decembrie 2023 de modificare a anumitor directive în ceea ce privește înființarea și funcționarea punctului unic de acces european (Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023L2864",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e995b108-9ed8-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "44c65cfbf2e86da8ad695969aaa3712e779b502ec153e83db5eb702782825e03"
+    }
+   ]
+  }
+ ]
+}

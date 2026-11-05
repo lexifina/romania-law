@@ -1,0 +1,636 @@
+{
+ "country": "RO",
+ "shard": "ue/2024",
+ "acts": [
+  {
+   "slug": "ue-directiva-1069-2024",
+   "path": "ue/directiva/2024/1069",
+   "short": "Directiva (UE) 2024/1069",
+   "title": "Directiva (UE) 2024/1069 a Parlamentului European și a Consiliului din 11 aprilie 2024 privind protecția împotriva cererilor vădit neîntemeiate sau a procedurilor judiciare abuzive împotriva persoanelor implicate în acțiuni de mobilizare publică („acțiuni strategice în justiție împotriva mobilizării publice”)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1069",
+   "versions": [
+    {
+     "from": "2024-05-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bc256fa1-fb8b-11ee-a251-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ea67977117bdf85e4901fbcdb604454af048317b26259dd5817bccdf0a716071"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1174-2024",
+   "path": "ue/directiva/2024/1174",
+   "short": "Directiva (UE) 2024/1174",
+   "title": "Directiva (UE) 2024/1174 a Parlamentului European și a Consiliului din 11 aprilie 2024 de modificare a Directivei 2014/59/UE și a Regulamentului (UE) nr. 806/2014 în ceea ce privește anumite aspecte ale cerinței minime de fonduri proprii și datorii eligibile (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1174",
+   "versions": [
+    {
+     "from": "2024-05-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f1695171-0041-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b1f22168ae7413e1527de8e3b343b6c0a7d4c1b2b0f16a15a5140b490fbbd7db"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1203-2024",
+   "path": "ue/directiva/2024/1203",
+   "short": "Directiva (UE) 2024/1203",
+   "title": "Directiva (UE) 2024/1203 a Parlamentului European și a Consiliului din 11 aprilie 2024 privind protecția mediului prin intermediul dreptului penal și de înlocuire a Directivelor 2008/99/CE și 2009/123/CE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1203",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4fb3a2ec-068e-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b243b39807eedfaf9de18caa3e95b59839f19acac7f8c366e3cc57cab517fd3b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1226-2024",
+   "path": "ue/directiva/2024/1226",
+   "short": "Directiva (UE) 2024/1226",
+   "title": "Directiva (UE) 2024/1226 a Parlamentului European și a Consiliului din 24 aprilie 2024 privind definirea infracțiunilor și a sancțiunilor pentru încălcarea măsurilor restrictive ale Uniunii și de modificare a Directivei (UE) 2018/1673",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1226",
+   "versions": [
+    {
+     "from": "2024-05-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/44aa9524-05c9-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "edfd182f6b8a133e1a509bf580b0157833c3e988a11f74e1916b916b26a2e2bd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1233-2024",
+   "path": "ue/directiva/2024/1233",
+   "short": "Directiva (UE) 2024/1233",
+   "title": "Directiva (UE) 2024/1233 a Parlamentului European și a Consiliului din 24 aprilie 2024 privind o procedură unică de solicitare a unui permis unic pentru resortisanții țărilor terțe în vederea șederii și ocupării unui loc de muncă pe teritoriul statelor membre și un set comun de drepturi pentru lucrătorii din țările terțe cu ședere legală pe teritoriul unui stat membru (reformare)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1233",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0e6d5222-068f-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4622795d5a6db34ce1978f426233fc8e532c819b532e711f753a29f04215f25b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1260-2024",
+   "path": "ue/directiva/2024/1260",
+   "short": "Directiva (UE) 2024/1260",
+   "title": "Directiva (UE) 2024/1260 a Parlamentului European și a Consiliului din 24 aprilie 2024 privind recuperarea și confiscarea activelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1260",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/341173be-081c-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "adf7b0ee6d242fc2b1f2cda182ca960a0b7e5e30a5e55cbc0ee07fb6c7caf485"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1265-2024",
+   "path": "ue/directiva/2024/1265",
+   "short": "Directiva (UE) 2024/1265",
+   "title": "Directiva (UE) 2024/1265 a Consiliului din 29 aprilie 2024 de modificare a Directivei 2011/85/UE privind cerințele referitoare la cadrele bugetare ale statelor membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1265",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2d2b0aa4-068f-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2962f4b2ba107f5284aca4ff5bf26f1eb3c90a7ae65e94635f434d65180d2904"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1275-2024",
+   "path": "ue/directiva/2024/1275",
+   "short": "Directiva (UE) 2024/1275",
+   "title": "Directiva (UE) 2024/1275 a Parlamentului European și a Consiliului din 24 aprilie 2024 privind performanța energetică a clădirilor (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1275",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2b15980c-0cd4-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ea8be22fa4d41df131c6b3f12822e459fe3bd1acf1cb1cb1b83b338243fa14d3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1306-2024",
+   "path": "ue/directiva/2024/1306",
+   "short": "Directiva (UE) 2024/1306",
+   "title": "Directiva (UE) 2024/1306 a Parlamentului European și a Consiliului din 29 aprilie 2024 de modificare a Directivei 2013/34/UE în ceea ce privește termenele pentru adoptarea standardelor de raportare privind durabilitatea pentru anumite sectoare și pentru anumite întreprinderi din țări terțe (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1306",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/28f6136b-0cd4-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f5ef9d37b8241cd2c4aa6b2b4f316b52296889c0334c70325116656baba303ec"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1346-2024",
+   "path": "ue/directiva/2024/1346",
+   "short": "Directiva (UE) 2024/1346",
+   "title": "Directiva (UE) 2024/1346 a Parlamentului European și a Consiliului din 14 mai 2024 de stabilire a standardelor pentru primirea solicitanților de protecție internațională",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1346",
+   "versions": [
+    {
+     "from": "2024-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/09f9074b-17d6-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2b2e0401d4a8cb6d9eb624d01de64af70494f402b0ca81534410232f70149e8c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1385-2024",
+   "path": "ue/directiva/2024/1385",
+   "short": "Directiva (UE) 2024/1385",
+   "title": "Directiva (UE) 2024/1385 a Parlamentului European și a Consiliului din 14 mai 2024 privind combaterea violenței împotriva femeilor și a violenței domestice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1385",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/51d63356-1968-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7a63c8d500d39b9f889f0119f5b994154d07caaacc4273768d4a320e8d39585e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1438-2024",
+   "path": "ue/directiva/2024/1438",
+   "short": "Directiva (UE) 2024/1438",
+   "title": "Directiva (UE) 2024/1438 a Parlamentului European și a Consiliului din 14 mai 2024 de modificare a Directivei 2001/110/CE a Consiliului privind mierea, a Directivei 2001/112/CE a Consiliului privind sucurile de fructe și anumite produse similare destinate consumului uman, a Directivei 2001/113/CE a Consiliului privind gemurile, jeleurile și marmeladele de fructe și piureul de castane îndulcit destinate alimentației umane și a Directivei 2001/114/CE a Consiliului privind anumite tipuri de lapte conservat, parțial sau integral deshidratat și destinat consumului uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1438",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/263d0199-1968-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "55bc248efdcad1549c38345118ebb8d54843c2bf52e7046a015b5d240e5e3b3b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1499-2024",
+   "path": "ue/directiva/2024/1499",
+   "short": "Directiva (UE) 2024/1499",
+   "title": "Directiva (UE) 2024/1499 a Consiliului din 7 mai 2024 privind standardele aplicabile organismelor de promovare a egalității în domeniul egalității de tratament între persoane, fără deosebire de rasă sau origine etnică, în domeniul egalității de tratament în materie de încadrare în muncă și de ocupare a forței de muncă, indiferent de religie sau convingeri, handicap, vârstă sau orientare sexuală și în domeniul egalității de tratament între femei și bărbați în materie de securitate socială și în ceea ce privește accesul la bunuri și servicii și furnizarea de bunuri și servicii și de modificare a Directivelor 2000/43/CE și 2004/113/CE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1499",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/13fff8fc-1d56-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9687c29ee59f7c916074d5074295ee29b2eceeeaf217d0f9fa6ba38070ef44f2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1500-2024",
+   "path": "ue/directiva/2024/1500",
+   "short": "Directiva (UE) 2024/1500",
+   "title": "Directiva (UE) 2024/1500 a Parlamentului European și a Consiliului din 14 mai 2024 privind standardele aplicabile organismelor de promovare a egalității de tratament și a egalității de șanse între femei și bărbați în materie de încadrare în muncă și de ocupare a forței de muncă și de modificare a Directivelor 2006/54/CE și 2010/41/UE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1500",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/04dd27d1-1d56-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "61c3e0538ad1c7f625861c99d542e0216e8a7232f46d77834b791f7a19de1a04"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1619-2024",
+   "path": "ue/directiva/2024/1619",
+   "short": "Directiva (UE) 2024/1619",
+   "title": "Directiva (UE) 2024/1619 a Parlamentului European și a Consiliului din 31 mai 2024 de modificare a Directivei 2013/36/UE în ceea ce privește competențele de supraveghere, sancțiunile, sucursalele din țări terțe și riscurile de mediu, sociale și de guvernanță (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1619",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9b76b72a-2dd4-11ef-a61b-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "92c32da0dd84045f9ee42124b44c3a07eada3c1c237f790b01cd269faceb3066"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1640-2024",
+   "path": "ue/directiva/2024/1640",
+   "short": "Directiva (UE) 2024/1640",
+   "title": "Directiva (UE) 2024/1640 a Parlamentului European și a Consiliului din 31 mai 2024 privind mecanismele care trebuie instituite de statele membre pentru prevenirea utilizării sistemului financiar în scopul spălării banilor sau finanțării terorismului, de modificare a Directivei (UE) 2019/1937 și de modificare și abrogare a Directivei (UE) 2015/849 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1640",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/698476cd-2dd4-11ef-a61b-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "63896375d5cbf3bcd8f0444deeb0892b6aafe24d2115ba8623d68a0be26d7586"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1654-2024",
+   "path": "ue/directiva/2024/1654",
+   "short": "Directiva (UE) 2024/1654",
+   "title": "Directiva (UE) 2024/1654 a Parlamentului European și a Consiliului din 31 mai 2024 de modificare a Directivei (UE) 2019/1153 în ceea ce privește accesul autorităților competente la registrele centralizate de conturi bancare prin intermediul sistemului de interconectare și măsurile tehnice de facilitare a utilizării evidențelor tranzacțiilor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1654",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/214cea40-2dd4-11ef-a61b-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "be3cc5fda9b2f9344978a61a7572f0420c10ccacbc3204b05c0340a55a78feb6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1711-2024",
+   "path": "ue/directiva/2024/1711",
+   "short": "Directiva (UE) 2024/1711",
+   "title": "Directiva (UE) 2024/1711 a Parlamentului European și a Consiliului din 13 iunie 2024 de modificare a Directivelor (UE) 2018/2001 și (UE) 2019/944 în ceea ce privește îmbunătățirea organizării pieței energiei electrice a Uniunii (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1711",
+   "versions": [
+    {
+     "from": "2024-07-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/10e921be-3357-11ef-b441-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f82969f7be4f4bec4ae4be3bf2218c9948069a4fd4b88d3d3513a33f3d28766b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1712-2024",
+   "path": "ue/directiva/2024/1712",
+   "short": "Directiva (UE) 2024/1712",
+   "title": "Directiva (UE) 2024/1712 a Parlamentului European și a Consiliului din 13 iunie 2024 de modificare a Directivei 2011/36/UE privind prevenirea și combaterea traficului de persoane și protejarea victimelor acestuia",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1712",
+   "versions": [
+    {
+     "from": "2024-07-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4bf06ba8-3204-11ef-a61b-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "619d7ec47932037ae3abc76046987ed522d9df359f0051b50eb97311cad7d0e0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1760-2024",
+   "path": "ue/directiva/2024/1760",
+   "short": "Directiva (UE) 2024/1760",
+   "title": "Directiva (UE) 2024/1760 a Parlamentului European și a Consiliului din 13 iunie 2024 privind diligența necesară în materie de durabilitate a întreprinderilor și de modificare a Directivei (UE) 2019/1937 și a Regulamentului (UE) 2023/2859 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1760",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a416fd73-3a66-11ef-a1cb-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "bc1b9b417b5663c9e3b9edbcdd14d18811bf40e3be636039c4f9a94a4ffadf15"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1785-2024",
+   "path": "ue/directiva/2024/1785",
+   "short": "Directiva (UE) 2024/1785",
+   "title": "Directiva (UE) 2024/1785 a Parlamentului European și a Consiliului din 24 aprilie 2024 de modificare a Directivei 2010/75/UE a Parlamentului European și a Consiliului privind emisiile industriale (prevenirea și controlul integrat al poluării) și a Directivei 1999/31/CE a Consiliului privind depozitele de deșeuri (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1785",
+   "versions": [
+    {
+     "from": "2024-08-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/830ebb2d-4242-11ef-865a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "66fad1787e2a8682ed7964c3e31c8a6def5cdeb20b1751c9fcfd917527512c8a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1788-2024",
+   "path": "ue/directiva/2024/1788",
+   "short": "Directiva (UE) 2024/1788",
+   "title": "Directiva (UE) 2024/1788 a Parlamentului European și a Consiliului din 13 iunie 2024 privind normele comune pentru piețele interne în sectorul gazelor din surse regenerabile, al gazelor naturale și al hidrogenului, de modificare a Directivei (UE) 2023/1791 și de abrogare a Directivei 2009/73/CE (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1788",
+   "versions": [
+    {
+     "from": "2024-08-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f07e2c67-4242-11ef-865a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6264b0c785b3f245898c8702ee99e8a21e8f317dfe1d8da0c173407afbc7de7b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1799-2024",
+   "path": "ue/directiva/2024/1799",
+   "short": "Directiva (UE) 2024/1799",
+   "title": "Directiva (UE) 2024/1799 a Parlamentului European și a Consiliului din 13 iunie 2024 privind normele comune de promovare a reparării bunurilor și de modificare a Regulamentului (UE) 2017/2394 și a Directivelor (UE) 2019/771 și (UE) 2020/1828 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L1799",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c106003f-3e56-11ef-ab8f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "10b1b74d4d24eec064662598eae179a7e56734157156e5c20489067da690b3f2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2749-2024",
+   "path": "ue/directiva/2024/2749",
+   "short": "Directiva (UE) 2024/2749",
+   "title": "Directiva (UE) 2024/2749 a Parlamentului European și a Consiliului din 9 octombrie 2024 de modificare a Directivelor 2000/14/CE, 2006/42/CE, 2010/35/UE, 2014/29/UE, 2014/30/UE, 2014/33/UE, 2014/34/UE, 2014/35/UE, 2014/53/UE și 2014/68/UE în ceea ce privește procedurile de urgență pentru evaluarea conformității, prezumția de conformitate, adoptarea specificațiilor comune și supravegherea pieței ca urmare a unei situații de urgență pe piața internă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L2749",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b5fe24f3-9d79-11ef-85f0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b6b6e336fde3516e4768340700e75c02c1f31b23943c073697587608e39b305d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2808-2024",
+   "path": "ue/directiva/2024/2808",
+   "short": "Directiva (UE) 2024/2808",
+   "title": "Directiva (UE) 2024/2808 a Parlamentului European și a Consiliului din 23 octombrie 2024 de modificare a Directivei 2014/62/UE în ceea ce privește anumite cerințe de raportare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L2808",
+   "versions": [
+    {
+     "from": "2024-11-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f3434640-9a53-11ef-a130-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7e5eb08d7e18ddc3c1655b5a060584c91e0238f1dc6ff0e0f1cf3e271bb2773b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2810-2024",
+   "path": "ue/directiva/2024/2810",
+   "short": "Directiva (UE) 2024/2810",
+   "title": "Directiva (UE) 2024/2810 a Parlamentului European și a Consiliului din 23 octombrie 2024 privind structurile de acțiuni cu drepturi de vot multiple din societățile care solicită admiterea acțiunilor lor la tranzacționare în cadrul unui sistem multilateral de tranzacționare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L2810",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4e14a849-a229-11ef-85f0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "aa23f6477c86cc1f5bab916fabb2eee2ef47c71644589613e72ac4562226518d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2811-2024",
+   "path": "ue/directiva/2024/2811",
+   "short": "Directiva (UE) 2024/2811",
+   "title": "Directiva (UE) 2024/2811 a Parlamentului European și a Consiliului din 23 octombrie 2024 de modificare a Directivei 2014/65/UE pentru a face piețele publice de capital din Uniune mai atractive pentru întreprinderi și a facilita accesul la capital al întreprinderilor mici și mijlocii și de abrogare a Directivei 2001/34/CE (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L2811",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/36846669-a229-11ef-85f0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "da18a9fb01b6233674b40184a8c00eb736c6806807c9d32a190843f1e3d15c48"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2823-2024",
+   "path": "ue/directiva/2024/2823",
+   "short": "Directiva (UE) 2024/2823",
+   "title": "Directiva (UE) 2024/2823 a Parlamentului European și a Consiliului din 23 octombrie 2024 privind protecția juridică a desenelor și modelelor industriale (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L2823",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/03e5f920-a54e-11ef-85f0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8aafee529a345938590418ed7a670a382aebdbe96e813365d311d74af2a72398"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2831-2024",
+   "path": "ue/directiva/2024/2831",
+   "short": "Directiva (UE) 2024/2831",
+   "title": "Directiva (UE) 2024/2831 a Parlamentului European și a Consiliului din 23 octombrie 2024 privind îmbunătățirea condițiilor de muncă în cadrul muncii pe platforme (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L2831",
+   "versions": [
+    {
+     "from": "2024-12-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/564844cf-9fd2-11ef-85f0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "07a6a5b74c3ebbe81bc8e68111e2714946497a76d6f63c29d6db62f4b77e5d04"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2839-2024",
+   "path": "ue/directiva/2024/2839",
+   "short": "Directiva (UE) 2024/2839",
+   "title": "Directiva (UE) 2024/2839 a Parlamentului European și a Consiliului din 23 octombrie 2024 de modificare a Directivelor 1999/2/CE, 2000/14/CE, 2011/24/UE și 2014/53/UE în ceea ce privește anumite cerințe de raportare în domeniul produselor și ingredientelor alimentare, al zgomotului exterior, al drepturilor pacienților și al echipamentelor radio (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L2839",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/edafb9b4-9ca8-11ef-85f0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f998fd9129a12896715dafed15d22681d2f9f560e41eec17cc994c32dfb3d45e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2841-2024",
+   "path": "ue/directiva/2024/2841",
+   "short": "Directiva (UE) 2024/2841",
+   "title": "Directiva (UE) 2024/2841 a Parlamentului European și a Consiliului din 23 octombrie 2024 de instituire a cardului european pentru dizabilitate și a cardului european de parcare pentru persoanele cu dizabilități (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L2841",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/403c3171-a229-11ef-85f0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "24ba1a92055472e2a024281e659a062cc328dd861af49041db3a96c2ff75935c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2842-2024",
+   "path": "ue/directiva/2024/2842",
+   "short": "Directiva (UE) 2024/2842",
+   "title": "Directiva (UE) 2024/2842 a Parlamentului European și a Consiliului din 23 octombrie 2024 de extindere a Directivei (UE) 2024/2841 la resortisanții țărilor terțe aflați în situație de ședere legală într-un stat membru",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L2842",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4dd46af8-a229-11ef-85f0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "16b1ad3207ec953e6466dfd461ddd794b8402a5ed262d5142c7a99253c49ee10"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2853-2024",
+   "path": "ue/directiva/2024/2853",
+   "short": "Directiva (UE) 2024/2853",
+   "title": "Directiva (UE) 2024/2853 a Parlamentului European și a Consiliului din 23 octombrie 2024 privind răspunderea pentru produsele cu defecte și de abrogare a Directivei 85/374/CEE a Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L2853",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/10bdc8d8-a54e-11ef-85f0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9be24174f440752b85efcdb69f99a501fe6bd719a12d6851f33846d7a572517a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2881-2024",
+   "path": "ue/directiva/2024/2881",
+   "short": "Directiva (UE) 2024/2881",
+   "title": "Directiva (UE) 2024/2881 a Parlamentului European și a Consiliului din 23 octombrie 2024 privind calitatea aerului înconjurător și un aer mai curat pentru Europa (reformare)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L2881",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3e442e84-a6e2-11ef-85f0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "62ebf559154c603b9849e96ce437309a494af5595f81624446fddde83dde90f5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2994-2024",
+   "path": "ue/directiva/2024/2994",
+   "short": "Directiva (UE) 2024/2994",
+   "title": "Directiva (UE) 2024/2994 a Parlamentului European și a Consiliului din 27 noiembrie 2024 de modificare a Directivelor 2009/65/CE, 2013/36/UE și (UE) 2019/2034 în ceea ce privește tratamentul riscului de concentrare rezultat din expuneri față de contrapărți centrale și al riscului de contraparte pentru tranzacțiile cu instrumente financiare derivate compensate la nivel central (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L2994",
+   "versions": [
+    {
+     "from": "2024-12-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ef90f649-b1e0-11ef-acb1-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "5eca38a2f12661aec8d58053783a1e9c3be5baca2329e192b9b2c51bbfe7eef1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-3017-2024",
+   "path": "ue/directiva/2024/3017",
+   "short": "Directiva (UE) 2024/3017",
+   "title": "Directiva (UE) 2024/3017 a Parlamentului European și a Consiliului din 27 noiembrie 2024 de modificare a Directivei 2009/18/CE a Parlamentului European și a Consiliului de instituire a principiilor fundamentale care reglementează investigarea accidentelor din sectorul de transport maritim, precum și de abrogare a Regulamentului (UE) nr. 1286/2011 al Comisiei (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L3017",
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3c234547-b373-11ef-acb1-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c92f89209af38373a179df818d261b19c712a4af1b1c4ab5cb67915bfb346b97"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-3019-2024",
+   "path": "ue/directiva/2024/3019",
+   "short": "Directiva (UE) 2024/3019",
+   "title": "Directiva (UE) 2024/3019 a Parlamentului European și a Consiliului din 27 noiembrie 2024 privind epurarea apelor uzate urbane (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L3019",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f7f912ae-b829-11ef-91ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c3c01e2312aba4e09e9af452942dd4900743dd089c9c66db8a0f596d0d6a7653"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-3099-2024",
+   "path": "ue/directiva/2024/3099",
+   "short": "Directiva (UE) 2024/3099",
+   "title": "Directiva (UE) 2024/3099 a Parlamentului European și a Consiliului din 27 noiembrie 2024 de modificare a Directivei 2009/16/CE privind controlul statului portului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L3099",
+   "versions": [
+    {
+     "from": "2025-01-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/82c29cfe-bb4e-11ef-91ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b76c6ceb862f0bda55873e90976796fb8f30399a3de14cafa8224b6e75636eb5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-3100-2024",
+   "path": "ue/directiva/2024/3100",
+   "short": "Directiva (UE) 2024/3100",
+   "title": "Directiva (UE) 2024/3100 a Parlamentului European și a Consiliului din 27 noiembrie 2024 de modificare a Directivei 2009/21/CE privind respectarea obligațiilor statelor de pavilion (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L3100",
+   "versions": [
+    {
+     "from": "2025-01-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ab4326f0-bb4f-11ef-91ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "055468beb91227fe1da0505bd0b5f16820756f15ae316dbf298a4bf142c2c508"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-3101-2024",
+   "path": "ue/directiva/2024/3101",
+   "short": "Directiva (UE) 2024/3101",
+   "title": "Directiva (UE) 2024/3101 a Parlamentului European și a Consiliului din 27 noiembrie 2024 de modificare a Directivei 2005/35/CE privind poluarea cauzată de nave și introducerea unor sancțiuni administrative pentru încălcări (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L3101",
+   "versions": [
+    {
+     "from": "2025-01-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/41acc746-bb4e-11ef-91ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8e74a15fc993c01e4ac4ea61a27e973ee6cd143fa71285f780f563b8b71eba9e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-3237-2024",
+   "path": "ue/directiva/2024/3237",
+   "short": "Directiva (UE) 2024/3237",
+   "title": "Directiva (UE) 2024/3237 a Parlamentului European și a Consiliului din 19 decembrie 2024 de modificare a Directivei (UE) 2015/413 de facilitare a schimbului transfrontalier de informații privind încălcările normelor de circulație care afectează siguranța rutieră (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L3237",
+   "versions": [
+    {
+     "from": "2025-01-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/be8bb436-c64e-11ef-91ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f8330dded90c4e98ea5fc027f464f679be07f0f0e11f2c53739113f0b42565da"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-505-2024",
+   "path": "ue/directiva/2024/505",
+   "short": "Directiva (UE) 2024/505",
+   "title": "Directiva (UE) 2024/505 a Parlamentului European și a Consiliului din 7 februarie 2024 de modificare a Directivei 2005/36/CE în ceea ce privește recunoașterea calificărilor profesionale ale asistenților medicali generaliști formați în România (Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024L0505",
+   "versions": [
+    {
+     "from": "2024-03-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cd63e106-c947-11ee-95d9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "c3a8370f2300c8b005c508233f5c46c00091a645ff900c71245f94d7772d8541"
+    }
+   ]
+  }
+ ]
+}

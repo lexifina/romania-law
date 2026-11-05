@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "ue/2017",
+ "acts": [
+  {
+   "slug": "ue-directiva-1132-2017",
+   "path": "ue/directiva/2017/1132",
+   "short": "Directiva (UE) 2017/1132",
+   "title": "Directiva (UE) 2017/1132 a Parlamentului European și a Consiliului din 14 iunie 2017 privind anumite aspecte ale dreptului societăților comerciale (text codificat) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L1132",
+   "versions": [
+    {
+     "from": "2017-07-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eba5bed3-5d59-11e7-954d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9fb3d826d02e749ce70ba25c1d21153c47449a998378d82e1da0f567c40221e4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1371-2017",
+   "path": "ue/directiva/2017/1371",
+   "short": "Directiva (UE) 2017/1371",
+   "title": "Directiva (UE) 2017/1371 a Parlamentului European și a Consiliului din 5 iulie 2017 privind combaterea fraudelor îndreptate împotriva intereselor financiare ale Uniunii prin mijloace de drept penal",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L1371",
+   "versions": [
+    {
+     "from": "2017-08-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b1c12097-7363-11e7-b2f2-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "477c943bbbc191069132d195f61e97c7f5eac91d91761f38362f315a41501c57"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1564-2017",
+   "path": "ue/directiva/2017/1564",
+   "short": "Directiva (UE) 2017/1564",
+   "title": "Directiva (UE) 2017/1564 a Parlamentului European și a Consiliului din 13 septembrie 2017 privind anumite utilizări permise ale anumitor opere și ale altor obiecte ale protecției prin drept de autor și drepturi conexe în beneficiul persoanelor nevăzătoare, cu deficiențe de vedere sau cu dificultăți de citire a materialelor imprimate și de modificare a Directivei 2001/29/CE privind armonizarea anumitor aspecte ale dreptului de autor și drepturilor conexe în societatea informațională",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L1564",
+   "versions": [
+    {
+     "from": "2017-10-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3161e378-9dcb-11e7-b92d-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "bfad055e447241c42f783aa457d34c22bfa9c3796a615e9c5cf3f4fee11972b6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1572-2017",
+   "path": "ue/directiva/2017/1572",
+   "short": "Directiva (UE) 2017/1572",
+   "title": "Directiva (UE) 2017/1572 a Comisiei din 15 septembrie 2017 de completare a Directivei 2001/83/CE a Parlamentului European și a Consiliului în ceea ce privește principiile și orientările vizând buna practică de fabricație a medicamentelor de uz uman (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L1572",
+   "versions": [
+    {
+     "from": "2017-10-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/743ec719-9aa2-11e7-b92d-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f80d6641b0f8582809f616e3061fa495e1dfda0e6c8e7b582b5fb3bf9a21da7a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-159-2017",
+   "path": "ue/directiva/2017/159",
+   "short": "Directiva (UE) 2017/159",
+   "title": "Directiva (UE) 2017/159 a Consiliului din 19 decembrie 2016 de punere în aplicare a Acordului referitor la punerea în aplicare a Convenției din 2007 a Organizației Internaționale a Muncii privind munca în domeniul pescuitului încheiat la 21 mai 2012 între Confederația Generală a Cooperativelor Agricole din Uniunea Europeană (COGECA), Federația Europeană a Lucrătorilor din Transporturi (ETF) și Asociația Organizațiilor Naționale ale Întreprinderilor de Pescuit din Uniunea Europeană („Europêche”) (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L0159",
+   "versions": [
+    {
+     "from": "2017-11-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/28dd0be0-e74a-11e6-ad7c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "43c33c41867b4f5572efe2f2ac6bd79a479a2c25dc062314758b8f6b9aaf553b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-164-2017",
+   "path": "ue/directiva/2017/164",
+   "short": "Directiva (UE) 2017/164",
+   "title": "Directiva (UE) 2017/164 a Comisiei din 31 ianuarie 2017 de stabilire a unei a patra liste de valori-limită orientative de expunere profesională în temeiul Directivei 98/24/CE a Consiliului și de modificare a Directivelor 91/322/CEE, 2000/39/CE și 2009/161/UE ale Comisiei (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L0164",
+   "versions": [
+    {
+     "from": "2017-02-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fa045aac-e847-11e6-ad7c-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "521ba8389c0e0644a2244775d1ecbf4ac680c5ef300c0fd11e93e84e9fb184c8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1852-2017",
+   "path": "ue/directiva/2017/1852",
+   "short": "Directiva (UE) 2017/1852",
+   "title": "Directiva (UE) 2017/1852 a Consiliului din 10 octombrie 2017 privind mecanismele de soluționare a litigiilor fiscale în Uniunea Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L1852",
+   "versions": [
+    {
+     "from": "2017-11-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/60a2b186-b095-11e7-837e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a7610db92285bd6f58cf9616305658edf0010433993ca2ba6d6b960dba779d17"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2054-2017",
+   "path": "ue/directiva/2017/2054",
+   "short": "Directiva (UE) 2017/2054",
+   "title": "Directiva (UE) 2017/2054 a Comisiei din 8 noiembrie 2017 de modificare a Directivei 2009/43/CE a Parlamentului European și a Consiliului în ceea ce privește lista produselor din domeniul apărării (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L2054",
+   "versions": [
+    {
+     "from": "2017-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1d5d13ac-d174-11e7-a5b9-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c29797dfac07b01608450c41bcb1d723a5cf4e3f792aba4151dbaec5c1b44392"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2096-2017",
+   "path": "ue/directiva/2017/2096",
+   "short": "Directiva (UE) 2017/2096",
+   "title": "Directiva (UE) 2017/2096 a Comisiei din 15 noiembrie 2017 de modificare a anexei II la Directiva 2000/53/CE a Parlamentului European și a Consiliului privind vehiculele scoase din uz (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L2096",
+   "versions": [
+    {
+     "from": "2017-12-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1983cbf0-caa2-11e7-8e69-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "42fa8491f5df89b25d15d87652b5822178aff74d42f7f97b881c3c83bc25428c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2102-2017",
+   "path": "ue/directiva/2017/2102",
+   "short": "Directiva (UE) 2017/2102",
+   "title": "Directiva (UE) 2017/2102 a Parlamentului European și a Consiliului din 15 noiembrie 2017 de modificare a Directivei 2011/65/UE privind restricțiile de utilizare a anumitor substanțe periculoase în echipamentele electrice și electronice (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L2102",
+   "versions": [
+    {
+     "from": "2017-12-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5710d532-ce6c-11e7-a5d5-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f57880fafff5da306954eaef7f7ae8c9f4ddd08130ac00ee5e801a2ed1357570"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2103-2017",
+   "path": "ue/directiva/2017/2103",
+   "short": "Directiva (UE) 2017/2103",
+   "title": "Directiva (UE) 2017/2103 a Parlamentului European și a Consiliului din 15 noiembrie 2017 de modificare a Deciziei-cadru 2004/757/JAI a Consiliului pentru a include noi substanțe psihoactive în definiția termenului „drog” și de abrogare a Deciziei 2005/387/JAI a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L2103",
+   "versions": [
+    {
+     "from": "2017-11-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8b7e0184-ce6c-11e7-a5d5-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "778094de04fd5b2c44fbe15bf2ceba1a9f8a77b80301bb1b38325f0d521d96c8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2108-2017",
+   "path": "ue/directiva/2017/2108",
+   "short": "Directiva (UE) 2017/2108",
+   "title": "Directiva (UE) 2017/2108 a Parlamentului European și a Consiliului din 15 noiembrie 2017 de modificare a Directivei 2009/45/CE privind normele și standardele de siguranță pentru navele de pasageri (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L2108",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1cd1d8dc-d594-11e7-a5b9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "8be853eadcf200bc7f34d4af8bfaf2ae67a2b126a3f23a79aaaa55f534296612"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2109-2017",
+   "path": "ue/directiva/2017/2109",
+   "short": "Directiva (UE) 2017/2109",
+   "title": "Directiva (UE) 2017/2109 a Parlamentului European și a Consiliului din 15 noiembrie 2017 de modificare a Directivei 98/41/CE a Consiliului privind înregistrarea persoanelor care călătoresc la bordul navelor de pasageri care operează în porturile de destinație sau de plecare din statele membre ale Comunității și a Directivei 2010/65/UE a Parlamentului European și a Consiliului privind formalitățile de raportare aplicabile navelor la sosirea în și/sau la plecarea din porturile statelor membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L2109",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5b8745bb-d593-11e7-a5b9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "d74987d7ad8dd7a405bc33f18168bbfe0bc5d9094cd0e9d9ffbf6ab372b57c39"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2110-2017",
+   "path": "ue/directiva/2017/2110",
+   "short": "Directiva (UE) 2017/2110",
+   "title": "Directiva (UE) 2017/2110 a Parlamentului European și a Consiliului din 15 noiembrie 2017 privind un sistem de inspecții pentru operarea în condiții de siguranță a navelor de pasageri de tip ro-ro și a ambarcațiunilor de pasageri de mare viteză care desfășoară servicii regulate și de modificare a Directivei 2009/16/CE și de abrogare a Directivei 1999/35/CE a Consiliului (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L2110",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b9da7574-d593-11e7-a5b9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "27faaf1ce70db24f1b2aefbfd43c96a41f3f5c83728c2c0b04cbd392f453ec85"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2397-2017",
+   "path": "ue/directiva/2017/2397",
+   "short": "Directiva (UE) 2017/2397",
+   "title": "Directiva (UE) 2017/2397 a Parlamentului European și a Consiliului din 12 decembrie 2017 privind recunoașterea calificărilor profesionale în domeniul navigației interioare și de abrogare a Directivelor 91/672/CEE și 96/50/CE ale Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L2397",
+   "versions": [
+    {
+     "from": "2018-01-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7aae2eb1-eac2-11e7-9749-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "16af8e2d2db0d91f7204e5e6bc93a16b5a709ad37e60158359f59e700cbdc5ea"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2398-2017",
+   "path": "ue/directiva/2017/2398",
+   "short": "Directiva (UE) 2017/2398",
+   "title": "Directiva (UE) 2017/2398 a Parlamentului European și a Consiliului din 12 decembrie 2017 de modificare a Directivei 2004/37/CE privind protecția lucrătorilor împotriva riscurilor legate de expunerea la agenți cancerigeni sau mutageni la locul de muncă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L2398",
+   "versions": [
+    {
+     "from": "2018-01-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/72269bbb-eac1-11e7-9749-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1a564f8c4e9cbe01e7a5413f8a94be644cad5898a8995fb10a82d2e3526304e2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2399-2017",
+   "path": "ue/directiva/2017/2399",
+   "short": "Directiva (UE) 2017/2399",
+   "title": "Directiva (UE) 2017/2399 a Parlamentului European și a Consiliului din 12 decembrie 2017 de modificare a Directivei 2014/59/UE în ceea ce privește rangul instrumentelor de datorie negarantate în ierarhia creanțelor în caz de insolvență",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L2399",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d337b2ed-eac1-11e7-9749-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "70a8c37876678231f023e4f68f8a0284b2358b814b898831a958c000bfaa20b4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2455-2017",
+   "path": "ue/directiva/2017/2455",
+   "short": "Directiva (UE) 2017/2455",
+   "title": "Directiva (UE) 2017/2455 a Consiliului din 5 decembrie 2017 de modificare a Directivei 2006/112/CE și a Directivei 2009/132/CE în ceea ce privește anumite obligații privind taxa pe valoarea adăugată pentru prestările de servicii și vânzările de bunuri la distanță",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L2455",
+   "versions": [
+    {
+     "from": "2018-01-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/89f830b5-ec67-11e7-9749-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "1000724de4f8a584102e6d66f4ac4278d704df1d12da8600e4433933f25933c7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-433-2017",
+   "path": "ue/directiva/2017/433",
+   "short": "Directiva (UE) 2017/433",
+   "title": "Directiva (UE) 2017/433 a Comisiei din 7 martie 2017 de modificare a Directivei 2009/43/CE a Parlamentului European și a Consiliului în ceea ce privește lista produselor din domeniul apărării (Text cu relevanță pentru SEE. )",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L0433",
+   "versions": [
+    {
+     "from": "2017-04-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/eb781efe-0949-11e7-8a35-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3c7a70c5ddcf20681e04bf52a5376b08abb50277a9b6b260c4eaa0d71a7898dc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-541-2017",
+   "path": "ue/directiva/2017/541",
+   "short": "Directiva (UE) 2017/541",
+   "title": "Directiva (UE) 2017/541 a Parlamentului European și a Consiliului din 15 martie 2017 privind combaterea terorismului și de înlocuire a Deciziei-cadru 2002/475/JAI a Consiliului și de modificare a Deciziei 2005/671/JAI a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32017L0541",
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/34a6d237-15d3-11e7-808e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b9a560740bef5b3ed8269b99026a175ba122ec162d2d055caedb1d0c7018f5cc"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "ue/1976",
+ "acts": [
+  {
+   "slug": "ue-directiva-211-1976",
+   "path": "ue/directiva/1976/211",
+   "short": "Directiva 76/211/CEE",
+   "title": "Directiva Consiliului din 20 ianuarie 1976 privind apropierea legislațiilor statelor membre referitoare la preambalarea, în funcție de masă sau volum, a anumitor produse preambalate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31976L0211",
+   "versions": [
+    {
+     "from": "1976-01-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/44798b8e-5f24-4025-9961-846fed3ea4e4.0022.04/DOC_66",
+     "sha256": "c37427a80b76098f0745c1a4802f18a9c47d61e07f46b7c4550dc73108c31d21"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "anexa/2013",
+ "acts": [
+  {
+   "slug": "anexa-ordin-justitie-359-c-2013-anexa-1",
+   "path": "anexa/ordin-justitie-359-c-2013/anexa-1",
+   "short": "Anexa nr. 1 la Ordinul ministrului justiției nr. 359/C/2013",
+   "title": "Anexa nr. 1 la Ordinul ministrului justiției nr. 359/C/2013: Formular de cerere (cereri cu valoare redusă)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145100",
+   "versions": [
+    {
+     "from": "2013-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145100",
+     "sha256": "acbb5ded7810815ea6f3f52b1f85a915e8247c963c1d3c0087bacc032b563ddf"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-359-c-2013-anexa-2",
+   "path": "anexa/ordin-justitie-359-c-2013/anexa-2",
+   "short": "Anexa nr. 2 la Ordinul ministrului justiției nr. 359/C/2013",
+   "title": "Anexa nr. 2 la Ordinul ministrului justiției nr. 359/C/2013: Formular pentru completarea și/sau rectificarea formularului de cerere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145100",
+   "versions": [
+    {
+     "from": "2013-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145100",
+     "sha256": "acbb5ded7810815ea6f3f52b1f85a915e8247c963c1d3c0087bacc032b563ddf"
+    }
+   ]
+  },
+  {
+   "slug": "anexa-ordin-justitie-359-c-2013-anexa-3",
+   "path": "anexa/ordin-justitie-359-c-2013/anexa-3",
+   "short": "Anexa nr. 3 la Ordinul ministrului justiției nr. 359/C/2013",
+   "title": "Anexa nr. 3 la Ordinul ministrului justiției nr. 359/C/2013: Formular de răspuns",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145100",
+   "versions": [
+    {
+     "from": "2013-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145100",
+     "sha256": "acbb5ded7810815ea6f3f52b1f85a915e8247c963c1d3c0087bacc032b563ddf"
+    }
+   ]
+  }
+ ]
+}

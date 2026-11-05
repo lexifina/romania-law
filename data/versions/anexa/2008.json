@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "anexa/2008",
+ "acts": [
+  {
+   "slug": "anexa-oug-51-2008-anexa",
+   "path": "anexa/oug-51-2008/anexa",
+   "short": "Anexă la Ordonanța de urgență a Guvernului nr. 51/2008",
+   "title": "Anexă la Ordonanța de urgență a Guvernului nr. 51/2008: Formular pentru cererea de asistență judiciară în alt stat membru al Uniunii Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91863",
+   "versions": [
+    {
+     "from": "2008-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91863",
+     "sha256": "994cee7ff6db0359d49956cd7121ba6f87baacdd2f38dc82f1df1ef624f666c2"
+    }
+   ]
+  }
+ ]
+}

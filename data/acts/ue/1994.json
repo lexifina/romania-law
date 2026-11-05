@@ -1,0 +1,80 @@
+{
+"country": "RO",
+"shard": "ue/1994",
+"acts": [
+{
+"slug": "ue-directiva-1-1994",
+"path": "ue/directiva/1994/1",
+"kind": "ue",
+"year": "1994",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 94/1/CE a Comisiei din 6 ianuarie 1994 de adaptare tehnică a Directivei 75/324/CEE a Consiliului privind apropierea legislațiilor statelor membre referitoare la generatoarele de aerosoli",
+"short": "Directiva 94/1/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1994-02-17",
+"latest": "1994-02-17",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31994L0001"
+},
+{
+"slug": "ue-directiva-11-1994",
+"path": "ue/directiva/1994/11",
+"kind": "ue",
+"year": "1994",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 94/11/CE a Parlamentului European și a Consiliului din 23 martie 1994 de apropiere a actelor cu putere de lege și a actelor administrative ale statelor membre referitoare la etichetarea materialelor folosite la producerea principalelor componente ale articolelor de încălțăminte destinate vânzării către consumatori",
+"short": "Directiva 94/11/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1994-05-09",
+"latest": "1994-05-09",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31994L0011",
+"flags": {
+"figures_missing": 7
+}
+},
+{
+"slug": "ue-directiva-22-1994",
+"path": "ue/directiva/1994/22",
+"kind": "ue",
+"year": "1994",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 94/22/CE a Parlamentului European și a Consiliului din 30 mai 1994 privind condițiile de acordare și folosire a autorizațiilor de prospectare, explorare și extracție a hidrocarburilor",
+"short": "Directiva 94/22/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1994-06-30",
+"latest": "1994-06-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31994L0022",
+"flags": {
+"end_of_validity": "1993-06-30"
+}
+},
+{
+"slug": "ue-directiva-33-1994",
+"path": "ue/directiva/1994/33",
+"kind": "ue",
+"year": "1994",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva 94/33/CE a Consiliului din 22 iunie 1994 privind protecția tinerilor la locul de muncă",
+"short": "Directiva 94/33/CE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1994-09-09",
+"latest": "1994-09-09",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31994L0033"
+}
+]
+}

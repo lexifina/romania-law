@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "ue/1989",
+ "acts": [
+  {
+   "slug": "ue-directiva-105-1989",
+   "path": "ue/directiva/1989/105",
+   "short": "Directiva 89/105/CEE",
+   "title": "Directiva Consiliului din 21 decembrie 1988 privind transparența măsurilor care reglementează stabilirea prețurilor medicamentelor de uz uman și includerea acestora în domeniul de aplicare al sistemelor naționale de asigurări de sănătate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31989L0105",
+   "versions": [
+    {
+     "from": "1988-12-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/daf5b7f2-c848-4b7f-a77b-f9ab8e340155.0022.03/DOC_1",
+     "sha256": "f76cd5422e858a54d497e3bd63d465384be42a7ef8fdc429a721a70c269431f5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-108-1989",
+   "path": "ue/directiva/1989/108",
+   "short": "Directiva 89/108/CEE",
+   "title": "Directiva Consiliului din 21 decembrie 1988 privind apropierea legislațiilor statelor membre referitoare la alimentele congelate rapid destinate consumului uman",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31989L0108",
+   "versions": [
+    {
+     "from": "1989-01-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a3dbdcc9-0c2a-48c4-9478-27430938d371.0022.04/DOC_2",
+     "sha256": "97bab4a401ea37ba03a7620de3a72d3acb1e5c4ffe537065d69a2a731ab4d2d8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-117-1989",
+   "path": "ue/directiva/1989/117",
+   "short": "Directiva 89/117/CEE",
+   "title": "Directiva Consiliului din 13 februarie 1989 privind obligațiile în materie de publicare a documentelor contabile anuale ale sucursalelor, stabilite într-un stat membru, ale instituțiilor de credit și instituțiilor financiare cu sediul social în afara statului membru respectiv",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31989L0117",
+   "versions": [
+    {
+     "from": "1989-01-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/54756faf-1c3f-4cd6-aeec-4b2f8b5afc7d.0022.04/DOC_1",
+     "sha256": "089d0ea9b00804106da39d7ed0b8b636d3b8e2664c016013948bfee2af955a76"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-391-1989",
+   "path": "ue/directiva/1989/391",
+   "short": "Directiva 89/391/CEE",
+   "title": "Directiva Consiliului din 12 iunie 1989 privind punerea în aplicare de măsuri pentru promovarea îmbunătățirii securității și sănătății lucrătorilor la locul de muncă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31989L0391",
+   "versions": [
+    {
+     "from": "1989-06-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3c966801-b944-46d2-9034-b8c9e37b86c3.0022.03/DOC_1",
+     "sha256": "c422964f210b0a61b7bb499b6aa91d1a901a39e6908fd95e82c9766350fb2542"
+    }
+   ]
+  }
+ ]
+}

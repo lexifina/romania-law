@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "ue/1987",
+ "acts": [
+  {
+   "slug": "ue-directiva-217-1987",
+   "path": "ue/directiva/1987/217",
+   "short": "Directiva 87/217/CEE",
+   "title": "Directiva Consiliului din 19 martie 1987 privind prevenirea și reducerea poluării mediului cu azbest",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0217",
+   "versions": [
+    {
+     "from": "1987-03-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1a1dfb02-11b8-4ca5-95f3-9f77c15a152d.0022.03/DOC_13",
+     "sha256": "fa17764171b7fa2c628f717c5c6451366924c2bf6e792beeda935e08210642ab"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-354-1987",
+   "path": "ue/directiva/1987/354",
+   "short": "Directiva 87/354/CEE",
+   "title": "Directiva Consiliului din 25 iunie 1987 de modificare a anumitor directive privind apropierea legislațiilor statelor membre referitoare la produsele industriale în ceea ce privește siglele distinctive atribuite statelor membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0354",
+   "versions": [
+    {
+     "from": "1987-06-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2e428cb1-0776-40c0-91dc-2faeb9442fa1.0020.03/DOC_25",
+     "sha256": "8e20d3434705c288b4806421a8b9ded36ea5c7fbbd8bf345148446ed6c4319b0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-54-1987",
+   "path": "ue/directiva/1987/54",
+   "short": "Directiva 87/54/CEE",
+   "title": "Directiva Consiliului din 16 decembrie 1986 privind protecția juridică a topografiilor produselor din materiale semiconductoare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0054",
+   "versions": [
+    {
+     "from": "1986-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1bab118e-761b-4900-9e00-7717acccecf7.0022.03/DOC_101",
+     "sha256": "53ad839cbf04920db78cead7e8e13be90e902f15820cee3ec0f2e610eb0400be"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-540-1987",
+   "path": "ue/directiva/1987/540",
+   "short": "Directiva 87/540/CEE",
+   "title": "Directiva Consiliului din 9 noiembrie 1987 privind inițierea profesiei de operator de transport de mărfuri pe cale navigabilă în transportul național și internațional și privind recunoașterea reciprocă a diplomelor, certificatelor și altor titluri oficiale de calificare pentru această activitate",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0540",
+   "versions": [
+    {
+     "from": "1987-11-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d6aa49d2-2827-4d05-916c-66761748d63c.0022.03/DOC_1",
+     "sha256": "c0cd98656d30c299a78f495e374d227c5259e5279e584a76b395d6f1f4eeb3c0"
+    }
+   ]
+  }
+ ]
+}

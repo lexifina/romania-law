@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "ue/1992",
+ "acts": [
+  {
+   "slug": "ue-directiva-104-1992",
+   "path": "ue/directiva/1992/104",
+   "short": "Directiva 92/104/CE",
+   "title": "Directiva 92/104/CEE a Consiliului din 3 decembrie 1992 privind cerințele minime pentru îmbunătățirea securității și protecției sănătății lucrătorilor din industria extractivă de suprafață și în subteran [a douăsprezecea directivă specială în sensul articolului 16 alineatul (1) din Directiva 89/391/CEE]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0104",
+   "versions": [
+    {
+     "from": "1992-12-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4d942bca-a539-4956-97d5-c112d1bdf1dc.0020.03/DOC_5",
+     "sha256": "bb5fa616bb56d291b4a5d10a9b1d74ec7669b50c3cc47753602a81d7239ebd84"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-106-1992",
+   "path": "ue/directiva/1992/106",
+   "short": "Directiva 92/106/CE",
+   "title": "Directiva 92/106/CEE a Consiliului din 7 decembrie 1992 privind stabilirea de norme comune pentru anumite tipuri de transporturi combinate de mărfuri între state membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0106",
+   "versions": [
+    {
+     "from": "1992-12-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5a0d6fb9-ccbf-481a-b988-38370950521d.0013.03/DOC_1",
+     "sha256": "26856ca2946386458565662ff332a784f3a6b1135c92b9db4c6833c673bb8a77"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-13-1992",
+   "path": "ue/directiva/1992/13",
+   "short": "Directiva CELEX 31992L0013",
+   "title": "Council Directive 92/13/EEC of 25 February 1992 coordinating the laws, regulations and administrative provisions relating to the application of Community rules on the procurement procedures of entities operating in the water, energy, transport and telecommunications sectors",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0013",
+   "versions": [
+    {
+     "from": "1992-03-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8811836f-091b-4b4d-9349-906147ea02e9.0021.04/DOC_1",
+     "sha256": "778f8dc3bedc49337462d559ff1f0614968059b1b442c85a72779d9d22e9f24c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-29-1992",
+   "path": "ue/directiva/1992/29",
+   "short": "Directiva 92/29/CE",
+   "title": "Directiva 92/29/CEE a Consiliului din 31 martie 1992 privind cerințele minime de securitate și sănătate pentru promovarea unei mai bune asistențe medicale la bordul navelor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0029",
+   "versions": [
+    {
+     "from": "1992-04-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/902b2a1d-a441-478b-990d-868c804b1b7a.0022.03/DOC_1",
+     "sha256": "b30062c5b242d4590339fd68c99db32657a5d346012ec95718b9ac1cf4013a8a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-42-1992",
+   "path": "ue/directiva/1992/42",
+   "short": "Directiva 92/42/CE",
+   "title": "Directiva 92/42/CEE a Consiliului din 21 mai 1992 privind cerințele de randament pentru cazanele noi de apă caldă cu combustie lichidă sau gazoasă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0042",
+   "versions": [
+    {
+     "from": "1992-06-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c13fc54c-86d8-4809-838c-76183117c2c5.0022.03/DOC_8",
+     "sha256": "4f8d1f98dd64ace1f8783e9926de1de174028e7b50592ffdc169483ad991d3d3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-43-1992",
+   "path": "ue/directiva/1992/43",
+   "short": "Directiva 92/43/CE",
+   "title": "Directiva 92/43/CEE a Consiliului din 21 mai 1992 privind conservarea habitatelor naturale și a speciilor de faună și floră sălbatică",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0043",
+   "versions": [
+    {
+     "from": "1992-06-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/226d5e34-b115-4d2f-a54c-d66aa5385fda.0022.03/DOC_2",
+     "sha256": "c2a0f8c0d6c2cbf63f7e9a9d9c7ec47a2066045ad5f42caa37fa865f1144245b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-57-1992",
+   "path": "ue/directiva/1992/57",
+   "short": "Directiva 92/57/CE",
+   "title": "Directiva 92/57/CEE a Consiliului din 24 iunie 1992 privind cerințele minime de securitate și sănătate care se aplică pe șantierele temporare sau mobile [a opta directivă specială în sensul articolului 16 alineatul (1) din Directiva 89/391/CEE]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0057",
+   "versions": [
+    {
+     "from": "1992-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/90334d6e-364c-4f0e-a46e-51b8256d0e23.0022.03/DOC_1",
+     "sha256": "1c556ac9056325537e83b3e820ccbea0d2650a9d8b5ecf73fc0b732b45b82e17"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-58-1992",
+   "path": "ue/directiva/1992/58",
+   "short": "Directiva 92/58/CE",
+   "title": "Directiva 92/58/CEE a Consiliului din 24 iunie 1992 privind cerințele minime pentru semnalizarea desecuritate și sănătate la locul de muncă [a noua directivă specială în sensul articolului 16 alineatul (1) din Directiva 89/391/CEE]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31992L0058",
+   "versions": [
+    {
+     "from": "1992-07-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b8d3071d-249a-4740-81f6-6bad9a6bf509.0022.03/DOC_39",
+     "sha256": "723a06971ca3b4384bffbb1314525a58626f69a395126d47cb673e86277afe69"
+    }
+   ]
+  }
+ ]
+}

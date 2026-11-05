@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "ue/2020",
+ "acts": [
+  {
+   "slug": "ue-directiva-1057-2020",
+   "path": "ue/directiva/2020/1057",
+   "short": "Directiva (UE) 2020/1057",
+   "title": "Directiva (UE) 2020/1057 a Parlamentului European și a Consiliului din 15 iulie 2020 de stabilire a unor norme specifice cu privire la Directiva 96/71/CE și la Directiva 2014/67/UE privind detașarea conducătorilor auto în sectorul transportului rutier și de modificare a Directivei 2006/22/CE în ceea ce privește cerințele de control și a Regulamentului (UE) nr. 1024/2012",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L1057",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b31fd962-d2f9-11ea-adf7-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "474f86b093649b1bb3eae3cd9d141f07e1940859082d56d2cc2561b7c96c3b82"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1151-2020",
+   "path": "ue/directiva/2020/1151",
+   "short": "Directiva (UE) 2020/1151",
+   "title": "Directiva (UE) 2020/1151 a Consiliului din 29 iulie 2020 de modificare a Directivei 92/83/CEE privind armonizarea structurilor accizelor la alcool și băuturi alcoolice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L1151",
+   "versions": [
+    {
+     "from": "2020-08-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6b1e39cd-d6e1-11ea-adf7-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "864a4ff4fe5bba633f6d165c45b37501e4ca0e48820130ece03d496f8bf0791c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1504-2020",
+   "path": "ue/directiva/2020/1504",
+   "short": "Directiva (UE) 2020/1504",
+   "title": "Directiva (UE) 2020/1504 a Parlamentului European și a Consiliului din 7 octombrie 2020 de modificare a Directivei 2014/65/UE privind piețele instrumentelor financiare (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L1504",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a6cf6d5b-1299-11eb-9a54-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "2a942aa2a37509402c103a16f6001a0943da85ef5ad7d106382b9df006e3c87c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1756-2020",
+   "path": "ue/directiva/2020/1756",
+   "short": "Directiva (UE) 2020/1756",
+   "title": "Directiva (UE) 2020/1756 a Consiliului din 20 noiembrie 2020 de modificare a Directivei 2006/112/CE privind sistemul comun al taxei pe valoarea adăugată în ceea ce privește identificarea persoanelor impozabile în Irlanda de Nord",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L1756",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/19c4d58f-2ef4-11eb-b27b-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0b4542068d210328b988408895877f1c5e16b8d70b88b17f2ddd18b3c4ea39d3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1828-2020",
+   "path": "ue/directiva/2020/1828",
+   "short": "Directiva (UE) 2020/1828",
+   "title": "Directiva (UE) 2020/1828 a Parlamentului European și a Consiliului din 25 noiembrie 2020 privind acțiunile în reprezentare pentru protecția intereselor colective ale consumatorilor și de abrogare a Directivei 2009/22/CE (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L1828",
+   "versions": [
+    {
+     "from": "2020-12-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b5ff45c2-35f4-11eb-b27b-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1b8cde51369bb0c5d00fe717b524a0b5217387d2a9a933ce136eb6f7c7e755d2"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2020-2020",
+   "path": "ue/directiva/2020/2020",
+   "short": "Directiva (UE) 2020/2020",
+   "title": "Directiva (UE) 2020/2020 a Consiliului din 7 decembrie 2020 de modificare a Directivei 2006/112/CE în ceea ce privește măsurile temporare privind taxa pe valoarea adăugată aplicabilă vaccinurilor împotriva COVID-19 și dispozitivelor medicale pentru diagnostic in vitro aferente, ca răspuns la pandemia de COVID-19",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L2020",
+   "versions": [
+    {
+     "from": "2020-12-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a0736ca7-3b7a-11eb-b27b-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "ed632ada967d40288f8940ef0263a6c689b6424f566a04dd584b29d4f4d33ff9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2088-2020",
+   "path": "ue/directiva/2020/2088",
+   "short": "Directiva (UE) 2020/2088",
+   "title": "Directiva (UE) 2020/2088 a Comisiei din 11 decembrie 2020 de modificare a anexei II la Directiva 2009/48/CE a Parlamentului European și a Consiliului în ceea ce privește etichetarea substanțelor de parfumare alergene în jucării (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L2088",
+   "versions": [
+    {
+     "from": "2021-01-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bc1be3e7-3eb1-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8fdebacb0ae37ae3864193f7ce1d55a1e1044a9e1c3b48882040394ed37435e1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2089-2020",
+   "path": "ue/directiva/2020/2089",
+   "short": "Directiva (UE) 2020/2089",
+   "title": "Directiva (UE) 2020/2089 a Comisiei din 11 decembrie 2020 de modificare a anexei II la Directiva 2009/48/CE a Parlamentului European și a Consiliului în ceea ce privește interzicerea substanțelor de parfumare alergene în jucării (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L2089",
+   "versions": [
+    {
+     "from": "2021-01-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e643d248-3eb1-11eb-b27b-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "70c41e96c017bbdac41085c545b0a254bdb1a36131484f57a9300087401f8aa8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2184-2020",
+   "path": "ue/directiva/2020/2184",
+   "short": "Directiva (UE) 2020/2184",
+   "title": "Directiva (UE) 2020/2184 a Parlamentului European și a Consiliului din 16 decembrie 2020 privind calitatea apei destinate consumului uman (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L2184",
+   "versions": [
+    {
+     "from": "2021-01-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7e65c36f-44c0-11eb-b59f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "db4ad53b5abdc9aea50f0d59e00b0c8ec59b0704372220099c8fe98577168d95"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-262-2020",
+   "path": "ue/directiva/2020/262",
+   "short": "Directiva (UE) 2020/262",
+   "title": "Directiva (UE) 2020/262 a Consiliului din 19 decembrie 2019 de stabilire a regimului general al accizelor (reformare)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L0262",
+   "versions": [
+    {
+     "from": "2020-03-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/15258319-5935-11ea-8b81-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "cb38972219d199bcf88528bcf7a1bc705a915268979447b5cda03271bb9f0182"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-284-2020",
+   "path": "ue/directiva/2020/284",
+   "short": "Directiva (UE) 2020/284",
+   "title": "Directiva (UE) 2020/284 a Consiliului din 18 februarie 2020 de modificare a Directivei 2006/112/CE în ceea ce privește introducerea anumitor cerințe pentru prestatorii de servicii de plată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L0284",
+   "versions": [
+    {
+     "from": "2020-03-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/64784e3f-5c56-11ea-8b81-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c97bf3d97104082cdada960b4a38bd1f0493ede2d199c2397db01de61c47efe9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-285-2020",
+   "path": "ue/directiva/2020/285",
+   "short": "Directiva (UE) 2020/285",
+   "title": "Directiva (UE) 2020/285 a Consiliului din 18 februarie 2020 de modificare a Directivei 2006/112/CE privind sistemul comun al taxei pe valoarea adăugată în ceea ce privește regimul special pentru întreprinderile mici și a Regulamentului (UE) nr. 904/2010 în ceea ce privește cooperarea administrativă și schimbul de informații în scopul monitorizării aplicării corecte a regimului special pentru întreprinderile mici",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L0285",
+   "versions": [
+    {
+     "from": "2020-03-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/95e6b981-5c56-11ea-8b81-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "14d2a4313c2ce275eb3fa7800ac4f15f21daba04ffff5395053ff7cd5065c15e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-367-2020",
+   "path": "ue/directiva/2020/367",
+   "short": "Directiva (UE) 2020/367",
+   "title": "Directiva (UE) 2020/367 a Comisiei din 4 martie 2020 de modificare a anexei III la Directiva 2002/49/CE a Parlamentului European și a Consiliului în ceea ce privește stabilirea metodelor de evaluare a efectelor dăunătoare ale zgomotului ambiental (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32020L0367",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/14caf5ee-5ead-11ea-b735-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "dd86a47151687c4857fd5686b0a3250dbd0b68dfa148a8996aa7263b0f30b804"
+    }
+   ]
+  }
+ ]
+}

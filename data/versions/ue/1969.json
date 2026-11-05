@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "ue/1969",
+ "acts": [
+  {
+   "slug": "ue-directiva-493-1969",
+   "path": "ue/directiva/1969/493",
+   "short": "Directiva 69/493/CEE",
+   "title": "Directiva Consiliului din 15 decembrie 1969 privind apropierea legislațiilor statelor membre referitoare la sticla cristal",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31969L0493",
+   "versions": [
+    {
+     "from": "1969-12-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5676d686-f732-410f-af45-142245959a8b.0022.03/DOC_10",
+     "sha256": "b32a410cc141f5a67525410409353b1b2046c1d347c4112a4be3f1a1c41950ec"
+    }
+   ]
+  }
+ ]
+}

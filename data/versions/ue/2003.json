@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "ue/2003",
+ "acts": [
+  {
+   "slug": "ue-directiva-10-2003",
+   "path": "ue/directiva/2003/10",
+   "short": "Directiva 2003/10/CE",
+   "title": "Directiva 2003/10/CE a Parlamentului European și a Consiliului din 6 februarie 2003 privind cerințele minime de securitate și sănătate referitoare la expunerea lucrătorilor la riscuri generate de agenți fizici (zgomot) [a șaptesprezecea directivă specială în sensul articolului 16 alineatul (1) din Directiva 89/391/CEE]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0010",
+   "versions": [
+    {
+     "from": "2003-02-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d190beed-159a-4320-a27d-3877be067cda.0022.03/DOC_1",
+     "sha256": "4cea2de01184d2b728312c75a6d0d08e6b8d7225858e48c65f047a87e19c604c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-109-2003",
+   "path": "ue/directiva/2003/109",
+   "short": "Directiva 2003/109/CE",
+   "title": "Directiva 2003/109/CE a Consiliului din 25 noiembrie 2003 privind statutul resortisanților țărilor terțe care sunt rezidenți pe termen lung",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0109",
+   "versions": [
+    {
+     "from": "2004-01-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/414218cf-0353-43cc-a688-53958405ad0d.0022.04/DOC_1",
+     "sha256": "c9ceabcc4d9127384f58e3046ea11c5da8556c90505dfba3f3cf35355735a107"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-110-2003",
+   "path": "ue/directiva/2003/110",
+   "short": "Directiva 2003/110/CE",
+   "title": "Directiva 2003/110/CE a Consiliului din 25 noiembrie 2003 privind asistența la tranzit în cadrul măsurilor de îndepărtare pe cale aeriană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0110",
+   "versions": [
+    {
+     "from": "2003-12-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/abe7049d-c5c1-46be-aba3-7e093eae2885.0022.05/DOC_2",
+     "sha256": "7be06d1ec06cbef4e8739905cb4ab8c9eee3c30885ae29e173dac8ed837bd55f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-12-2003",
+   "path": "ue/directiva/2003/12",
+   "short": "Directiva 2003/12/CE",
+   "title": "Directiva 2003/12/CE a Comisiei din 3 februarie 2003 de reclasificare a implanturilor mamare în cadrul Directivei 93/42/CEE privind dispozitivele medicaleText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0012",
+   "versions": [
+    {
+     "from": "2003-02-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a358bc35-b3d4-4bae-b293-79d850a0cdf2.0022.04/DOC_69",
+     "sha256": "4b75459244f96370c644b68cf1b2955f0d0b2767a4dc31156233feb7beacc6aa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-127-2003",
+   "path": "ue/directiva/2003/127",
+   "short": "Directiva 2003/127/CE",
+   "title": "Directiva 2003/127/CE a Comisiei din 23 decembrie 2003 de modificare a Directivei 1999/37/CE a Consiliului privind documentele de înmatriculare pentru vehicule (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0127",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/08ac8388-ee48-441b-b44b-96eb56ad3be2.0022.03/DOC_1",
+     "sha256": "097aebc1351ad17d83433ed27e8e02cc06c76fb80ba065a6c82767be930681c5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-17-2003",
+   "path": "ue/directiva/2003/17",
+   "short": "Directiva 2003/17/CE",
+   "title": "Directiva 2003/17/CE a Parlamentului European și a Consiliului din 3 martie 2003 de modificare a Directivei 98/70/CE privind calitatea benzinelor și a motorinelorText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0017",
+   "versions": [
+    {
+     "from": "2003-03-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cd61d396-adce-49b0-a4b8-603618a21819.0022.04/DOC_31",
+     "sha256": "46b3c62f9e41cb0170b6706e9e696b778659457552ddb7f59ae775536bf321e0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-20-2003",
+   "path": "ue/directiva/2003/20",
+   "short": "Directiva 2003/20/CE",
+   "title": "Directiva 2003/20/CE a Parlamentului European și a Consiliului din 8 aprilie 2003 de modificare a Directivei 91/671/CEE a Consiliului privind apropierea legislațiilor statelor membre referitoare la utilizarea obligatorie a centurilor de siguranță în vehiculele cu masa de sub 3,5 tone",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0020",
+   "versions": [
+    {
+     "from": "2003-05-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7e400fad-287c-479d-bad1-0bf46b61d93a.0022.03/DOC_2",
+     "sha256": "da96978c080e33edb034c23ab15ea9e3e00869db5666e25e36c0c4df3fb7fb88"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-33-2003",
+   "path": "ue/directiva/2003/33",
+   "short": "Directiva 2003/33/CE",
+   "title": "Directiva 2003/33/CE a Parlamentului European și a Consiliului din 26 mai 2003 privind armonizarea actelor cu putere de lege și a actelor administrative ale statelor membre în materie de publicitate și sponsorizare în favoarea produselor din tutunText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0033",
+   "versions": [
+    {
+     "from": "2003-06-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/05e42d13-4c16-467d-a901-910c691ab2f0.0022.03/DOC_1",
+     "sha256": "44bbf40d2ddd62886d841b780dcc36e769ecba613e21d9a2b8ff581990c96abb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-35-2003",
+   "path": "ue/directiva/2003/35",
+   "short": "Directiva 2003/35/CE",
+   "title": "Directiva 2003/35/CE a Parlamentului European și a Consiliului din 26 mai 2003 de instituire a participării publicului la elaborarea anumitor planuri și programe privind mediul și de modificare a directivelor 85/337/CEE și 96/61/CE ale Consiliului în ceea ce privește participarea publicului și accesul la justiție",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0035",
+   "versions": [
+    {
+     "from": "2003-06-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4a80a6c9-cdb3-4e27-a721-d5df1a0535bc.0022.03/DOC_1",
+     "sha256": "02cf51ccb05ea9913b033b63992aff38e195b0aefb868e3b35c244d7a7ab0755"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-4-2003",
+   "path": "ue/directiva/2003/4",
+   "short": "Directiva 2003/4/CE",
+   "title": "Directiva 2003/4/CE a Parlamentului European și a Consiliului din 28 ianuarie 2003 privind accesul publicului la informațiile despre mediu și de abrogare a Directivei 90/313/CEE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0004",
+   "versions": [
+    {
+     "from": "2003-02-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/65bee8e7-6e37-49c9-a431-67083fe22157.0022.03/DOC_3",
+     "sha256": "10ae0b89d58969b3181a78902f78aace8bf31e2dbc73384e68230ecca92f9993"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-40-2003",
+   "path": "ue/directiva/2003/40",
+   "short": "Directiva 2003/40/CE",
+   "title": "Directiva 2003/40/CE a Comisiei din 16 mai 2003 de stabilire a listei, limitelor de concentrație și cerințelor de etichetare pentru constituenții apelor minerale naturale, precum și a condițiilor de utilizare a aerului îmbogățit cu ozon pentru apele minerale naturale și apele de izvor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0040",
+   "versions": [
+    {
+     "from": "2003-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1ddc0621-7e4c-4fac-bc2b-3cd4a50e78a3.0022.04/DOC_65",
+     "sha256": "7aad874a45ed19f4a605d1b64ea9ae634f511ea58b49beef01bb6785c0c2de41"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-49-2003",
+   "path": "ue/directiva/2003/49",
+   "short": "Directiva 2003/49/CE",
+   "title": "Directiva 2003/49/CE a Consiliului din 3 iunie 2003 privind sistemul comun de impozitare, aplicabil plăților de dobânzi și de redevențe efectuate între societăți asociate din state membre diferite",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32003L0049",
+   "versions": [
+    {
+     "from": "2003-06-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/08e483c8-4af3-431c-8963-9e6ebe5dab89.0022.04/DOC_1",
+     "sha256": "6b0c0be1499657bb0aa1b303a08737e300cfa9bc70c2ea23e6ac0ec1cd4a68a5"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "ue/2001",
+ "acts": [
+  {
+   "slug": "ue-directiva-18-2001",
+   "path": "ue/directiva/2001/18",
+   "short": "Directiva 2001/18/CE",
+   "title": "Directiva 2001/18/CE a Parlamentului European și a Consiliului din 12 martie 2001 privind diseminarea deliberată în mediu a organismelor modificate genetic și de abrogare a Directivei 90/220/CEE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0018",
+   "versions": [
+    {
+     "from": "2001-04-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/303dd4fa-07a8-4d20-86a8-0baaf0518d22.0022.04/DOC_1",
+     "sha256": "cff8a1198575e3ada27cf6827f18770257468c829100de31c34df9a31812993b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2-2001",
+   "path": "ue/directiva/2001/2",
+   "short": "Directiva 2001/2/CE",
+   "title": "Directiva 2001/2/CE a Comisiei din 4 ianuarie 2001 de adaptare la progresul tehnic a Directivei 1999/36/CE a Consiliului privind echipamentele sub presiune destinate transportului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0002",
+   "versions": [
+    {
+     "from": "2001-01-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/529dc4cd-e8e9-4afa-b216-b3d1ce673ce3.0022.01/DOC_1",
+     "sha256": "0973c5b14aa12a1fa0b29523837783e432a1a7d888693a3dc46c704a7ea2982a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-23-2001",
+   "path": "ue/directiva/2001/23",
+   "short": "Directiva 2001/23/CE",
+   "title": "Directiva 2001/23/CE a Consiliului din 12 martie 2001 privind apropierea legislației statelor membre referitoare la menținerea drepturilor lucrătorilor în cazul transferului de întreprinderi, unități sau părți de întreprinderi sau unități",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0023",
+   "versions": [
+    {
+     "from": "2001-04-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/41905bd3-15dc-4d03-b8a1-762092683ce0.0022.03/DOC_6",
+     "sha256": "06c7fbd2997cf18ce6c9cedb7ec43752589bbf6f4cdf367544d7625191daea75"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-24-2001",
+   "path": "ue/directiva/2001/24",
+   "short": "Directiva 2001/24/CE",
+   "title": "Directiva 2001/24/CE a Parlamentului European și a Consiliului din 4 aprilie 2001 privind reorganizarea și lichidarea instituțiilor de credit",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0024",
+   "versions": [
+    {
+     "from": "2001-05-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/94e11f23-3f8b-4df9-a02f-3233c5d9305e.0022.03/DOC_1",
+     "sha256": "b8b2df5b394caf70450e3e7a6d9eabca80cb9fb47eb79646175a5c210c9f0225"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-29-2001",
+   "path": "ue/directiva/2001/29",
+   "short": "Directiva 2001/29/CE",
+   "title": "Directiva 2001/29/CE a Parlamentului European și a Consiliului din 22 mai 2001 privind armonizarea anumitor aspecte ale dreptului de autor și drepturilor conexe în societatea informațională",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0029",
+   "versions": [
+    {
+     "from": "2001-06-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1bf23c45-f5fa-44c4-be78-4101edfd675c.0022.03/DOC_1",
+     "sha256": "dc953e5fc53e8be299f574b09825a613b6fe31e93d765c881d59f1441f4e7a00"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-34-2001",
+   "path": "ue/directiva/2001/34",
+   "short": "Directiva 2001/34/CE",
+   "title": "Directiva 2001/34/CE a Parlamentului European și a Consiliului din 28 mai 2001 privind admiterea valorilor mobiliare la cota oficială a unei burse de valori și informațiile care trebuie publicate cu privire la aceste valori mobiliare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0034",
+   "versions": [
+    {
+     "from": "2001-07-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cd163d27-373c-4665-954b-6e3d00ed3c82.0022.03/DOC_1",
+     "sha256": "f32af8a6623daba17267b442122df646ad3ac151f239c3d6c5ea318832ff385f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-40-2001",
+   "path": "ue/directiva/2001/40",
+   "short": "Directiva 2001/40/CE",
+   "title": "Directiva 2001/40/CE a Consiliului din 28 mai 2001 privind recunoașterea reciprocă a deciziilor de îndepărtare a resortisanților țărilor terțe",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0040",
+   "versions": [
+    {
+     "from": "2001-06-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bfc0b5ec-e06a-4e22-8d01-7f5d0616271d.0022.01/DOC_1",
+     "sha256": "8f035755b67ffb9317e9d3a8488b35d32e38d874ab25b137611f56925fe956e0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-42-2001",
+   "path": "ue/directiva/2001/42",
+   "short": "Directiva 2001/42/CE",
+   "title": "Directiva 2001/42/CE a Parlamentului European și a Consiliului din 27 iunie 2001 privind evaluarea efectelor anumitor planuri și programe asupra mediului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0042",
+   "versions": [
+    {
+     "from": "2001-07-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d7661277-9738-421d-b872-6f07e1abf968.0022.04/DOC_2",
+     "sha256": "95c52dda6371eee7b1ea778036b29bda344dba6ebe6ddcaf3e02b160c270d731"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-51-2001",
+   "path": "ue/directiva/2001/51",
+   "short": "Directiva 2001/51/CE",
+   "title": "Directiva 2001/51/CE a Consiliului din 28 iunie 2001 de completare a dispozițiilor prevăzute la articolul 26 din Convenția de punere în aplicare a Acordului Schengen din 14 iunie 1985",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0051",
+   "versions": [
+    {
+     "from": "2001-08-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/69d1e8be-519b-451c-b985-97ca45784ca7.0022.01/DOC_1",
+     "sha256": "985d22125f27245d6e46dafe82e6a1d2183d165239e9a2e31215620627139706"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-55-2001",
+   "path": "ue/directiva/2001/55",
+   "short": "Directiva 2001/55/CE",
+   "title": "Directiva 2001/55/CE a Consiliului din 20 iulie 2001 privind standardele minime pentru acordarea protecției temporare, în cazul unui aflux masiv de persoane strămutate, și măsurile de promovare a unui echilibru între eforturile statelor membre pentru primirea acestor persoane și suportarea consecințelor acestei primiri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32001L0055",
+   "versions": [
+    {
+     "from": "2001-08-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c73f3c3d-13b6-4e10-a3ff-472aee1bdfa4.0022.01/DOC_1",
+     "sha256": "2aef40ea0994ecc38b60903729d633c6031da5f8a14b60b303e728ceb5c3dac2"
+    }
+   ]
+  }
+ ]
+}

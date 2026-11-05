@@ -1,0 +1,40 @@
+{
+"country": "RO",
+"shard": "ue/1984",
+"acts": [
+{
+"slug": "ue-directiva-500-1984",
+"path": "ue/directiva/1984/500",
+"kind": "ue",
+"year": "1984",
+"number": "500",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 15 octombrie 1984 de apropiere a legislațiilor statelor membre privind obiectele din ceramică ce vin în contact cu produsele alimentare",
+"short": "Directiva 84/500/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1984-10-17",
+"latest": "1984-10-17",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31984L0500"
+},
+{
+"slug": "ue-directiva-568-1984",
+"path": "ue/directiva/1984/568",
+"kind": "ue",
+"year": "1984",
+"number": "568",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 27 noiembrie 1984 privind obligațiile reciproce ale organismelor de asigurare a creditelor la export ale statelor membre care acționează în numele sau cu sprijinul statului, ori ale serviciilor publice care acționează în locul acestor organisme, în cazul garantării comune a unui contract care include unul sau mai multe subcontracte în unul sau mai multe state membre ale Comunităților Europene",
+"short": "Directiva 84/568/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1984-12-03",
+"latest": "1984-12-03",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31984L0568"
+}
+]
+}

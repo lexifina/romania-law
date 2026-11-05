@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "ue/2025",
+ "acts": [
+  {
+   "slug": "ue-directiva-1-2025",
+   "path": "ue/directiva/2025/1",
+   "short": "Directiva (UE) 2025/1",
+   "title": "Directiva (UE) 2025/1 a Parlamentului European și a Consiliului din 27 noiembrie 2024 de instituire a unui cadru pentru redresarea și rezoluția întreprinderilor de asigurare și de reasigurare și de modificare a Directivelor 2002/47/CE, 2004/25/CE, 2007/36/CE, 2014/59/UE și (UE) 2017/1132 și a Regulamentelor (UE) nr. 1094/2010, (UE) nr. 648/2012, (UE) nr. 806/2014 și (UE) 2017/1129 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L0001",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/097810a7-cd61-11ef-be2a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "58d54f1cdb05941d052e20690b0dafeb26fdcf65f7d51b05f51ba047693a2616"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1237-2025",
+   "path": "ue/directiva/2025/1237",
+   "short": "Directiva (UE) 2025/1237",
+   "title": "Directiva (UE) 2025/1237 a Parlamentului European și a Consiliului din 17 iunie 2025 de modificare a Directivei 92/43/CEE a Consiliului în ceea ce privește statutul de protecție a lupului (Canis lupus)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L1237",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b8be9e46-5093-11f0-a9d0-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "381ba600eb0d1b5a2f698ceb0b930762184ec6c08c38ba2ec18ced2cb6719405"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1442-2025",
+   "path": "ue/directiva/2025/1442",
+   "short": "Directiva (UE) 2025/1442",
+   "title": "Directiva (UE) 2025/1442 a Comisiei din 18 iulie 2025 de modificare a Directivei 2006/111/CE în ceea ce privește obligațiile de raportare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L1442",
+   "versions": [
+    {
+     "from": "2025-08-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0b155b4e-65cf-11f0-bf4e-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "0cd7c7e221cd7b78583fa17f68094253ceae0d068c28e259fad7e89bd4a669dc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1539-2025",
+   "path": "ue/directiva/2025/1539",
+   "short": "Directiva (UE) 2025/1539",
+   "title": "Directiva (UE) 2025/1539 a Consiliului din 18 iulie 2025 de modificare a Directivei 2006/112/CE în ceea ce privește normele în materie de TVA referitoare la persoanele impozabile care facilitează vânzările la distanță de bunuri importate și aplicarea regimului special de TVA pentru vânzările la distanță de bunuri importate din teritorii terțe sau țări terțe și regimul special pentru declararea și plata TVA la import",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L1539",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b3fadcf4-68ef-11f0-bf4e-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4d663a107c8156b1bf863c2bf85c2b7ba9cc19d7d103fa226b8f76628f045baa"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1788-2025",
+   "path": "ue/directiva/2025/1788",
+   "short": "Directiva (UE) 2025/1788",
+   "title": "Directiva (UE) 2025/1788 a Consiliului din 24 iunie 2025 de stabilire a dispozițiilor detaliate de exercitare a dreptului de a alege și de a fi ales în Parlamentul European de către cetățenii Uniunii care își au reședința într-un stat membru și care nu sunt resortisanți ai acestuia (reformare)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L1788",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3504575e-8c4e-11f0-bfe2-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "c9c5e27a68666328662f467d550926dc9fb784ce016879ef051f472c3eb8d8ec"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1892-2025",
+   "path": "ue/directiva/2025/1892",
+   "short": "Directiva (UE) 2025/1892",
+   "title": "Directiva (UE) 2025/1892 a Parlamentului European și a Consiliului din 10 septembrie 2025 de modificare a Directivei 2008/98/CE privind deșeurile (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L1892",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/86745ca1-9a71-11f0-97c8-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9809285f169b7c217b6d77e9473467cac8a4910d55cdb00b31eb71d3c9fa6e7c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2-2025",
+   "path": "ue/directiva/2025/2",
+   "short": "Directiva (UE) 2025/2",
+   "title": "Directiva (UE) 2025/2 a Parlamentului European și a Consiliului din 27 noiembrie 2024 de modificare a Directivei 2009/138/CE în ceea ce privește proporționalitatea, calitatea supravegherii, raportarea, măsurile referitoare la garanțiile pe termen lung, instrumentele macroprudențiale, riscurile legate de durabilitate, supravegherea la nivel de grup și supravegherea transfrontalieră și de modificare a Directivelor 2002/87/CE și 2013/34/UE (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L0002",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/083c5c55-cd61-11ef-be2a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e979986d96c08842e9334363262b8b0acb4eb96f6e164e4bd9ec18b5547efce5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2205-2025",
+   "path": "ue/directiva/2025/2205",
+   "short": "Directiva (UE) 2025/2205",
+   "title": "Directiva (UE) 2025/2205 a Parlamentului European și a Consiliului din 22 octombrie 2025 privind permisele de conducere, de modificare a Regulamentului (UE) 2018/1724 al Parlamentului European și al Consiliului și a Directivei (UE) 2022/2561 a Parlamentului European și a Consiliului și de abrogare a Directivei 2006/126/CE a Parlamentului European și a Consiliului și a Regulamentului (UE) nr. 383/2012 al Comisiei (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L2205",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5ae85a87-b9ed-11f0-b37f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f1d6b2b6f92f6d661d43d8030363e0cb7de8565ae90f60767633209e3115d31f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2206-2025",
+   "path": "ue/directiva/2025/2206",
+   "short": "Directiva (UE) 2025/2206",
+   "title": "Directiva (UE) 2025/2206 a Parlamentului European și a Consiliului din 22 octombrie 2025 de modificare a Directivei (UE) 2025/2205 în ceea ce privește anumite decăderi din dreptul de a conduce autovehicule",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L2206",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6e3aa491-b9ed-11f0-b37f-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b9c115a67b6f1ebf1a4d11cd63dfe0fd0b985c9a8b8972aed52b0b44432022f1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2360-2025",
+   "path": "ue/directiva/2025/2360",
+   "short": "Directiva (UE) 2025/2360",
+   "title": "Directiva (UE) 2025/2360 a Parlamentului European și a Consiliului din 12 noiembrie 2025 privind monitorizarea și reziliența solului (Directiva privind monitorizarea solului)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L2360",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8768d7c8-ca68-11f0-8da2-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6f3755fe4225d8aa294c53cfe9856c9e2a6ba56cbd716e2fb8340b37372ea275"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2450-2025",
+   "path": "ue/directiva/2025/2450",
+   "short": "Directiva (UE) 2025/2450",
+   "title": "Directiva (UE) 2025/2450 a Parlamentului European și a Consiliului din 26 noiembrie 2025 de modificare a Directivei 2009/38/CE în ceea ce privește instituirea și funcționarea comitetelor europene de întreprindere și asigurarea respectării efective a drepturilor la informare și consultare la nivel transnațional (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L2450",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7e1a587d-d632-11f0-8da2-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "0e30b1dce74fceeb7e16bb616602a4a9ae93ab22aff6d15bcba1fd0ccc4d48fe"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2456-2025",
+   "path": "ue/directiva/2025/2456",
+   "short": "Directiva (UE) 2025/2456",
+   "title": "Directiva (UE) 2025/2456 a Parlamentului European și a Consiliului din 26 noiembrie 2025 de modificare a Directivei 2011/65/UE în ceea ce privește reatribuirea sarcinilor științifice și tehnice Agenției Europene pentru Produse Chimice (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L2456",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a1e20364-d704-11f0-8da2-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "562c615d8379b9ef06ed67dd65e8628b40bd29e18c95ab155f8bc01fb26fd142"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2459-2025",
+   "path": "ue/directiva/2025/2459",
+   "short": "Directiva (UE) 2025/2459",
+   "title": "Directiva (UE) 2025/2459 a Parlamentului European și a Consiliului din 26 noiembrie 2025 de modificare a Directivei 1999/62/CE în ceea ce privește prelungirea perioadei în care vehiculele grele cu emisii zero pot beneficia de rate semnificativ reduse ale taxelor de utilizare a infrastructurii sau ale taxelor de utilizare ori de scutiri de la plata acestora (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L2459",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/59b2121a-d0b7-11f0-8da2-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "92a1b903c2ae42328760ec2043994e52234fd40f39a20349102b810d77cd6dd1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2482-2025",
+   "path": "ue/directiva/2025/2482",
+   "short": "Directiva (UE) 2025/2482",
+   "title": "Directiva (UE) 2025/2482 a Parlamentului European și a Consiliului din 26 noiembrie 2025 de modificare a Directivei 2005/44/CE privind serviciile de informații fluviale (RIS) armonizate pe căile navigabile interioare de pe teritoriul Comunității",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L2482",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a36484b8-d704-11f0-8da2-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "20d58052c500fa24edb6ccb0aabb0f409c03eda0bf96847c05d0da69d3d2e7cc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-25-2025",
+   "path": "ue/directiva/2025/25",
+   "short": "Directiva (UE) 2025/25",
+   "title": "Directiva (UE) 2025/25 a Parlamentului European și a Consiliului din 19 decembrie 2024 de modificare a Directivelor 2009/102/CE și (UE) 2017/1132 în ceea ce privește extinderea și îmbunătățirea suplimentară a utilizării instrumentelor și proceselor digitale în domeniul dreptului societăților (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L0025",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3def3caa-cef6-11ef-be2a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "08cd7e0ccec40aef505b0eecb2b95b9b366f6f51aee43f9110584ee937fc71dd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2647-2025",
+   "path": "ue/directiva/2025/2647",
+   "short": "Directiva (UE) 2025/2647",
+   "title": "Directiva (UE) 2025/2647 a Parlamentului European și a Consiliului din 16 decembrie 2025 de modificare a Directivei 2013/11/UE privind soluționarea alternativă a litigiilor în materie de consum, precum și a Directivelor (UE) 2015/2302, (UE) 2019/2161 și (UE) 2020/1828 ca urmare a desființării Platformei europene de soluționare online a litigiilor (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L2647",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d52ccfeb-e530-11f0-8b3a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "365eeb486c67e48a492a1dd816d0b941af46c91dad48fe13eed5b9c931a707fc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-425-2025",
+   "path": "ue/directiva/2025/425",
+   "short": "Directiva (UE) 2025/425",
+   "title": "Directiva (UE) 2025/425 a Consiliului din 18 februarie 2025 de modificare a Directivei 2006/112/CE în ceea ce privește certificatul electronic de scutire de taxa pe valoarea adăugată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L0425",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/23a50223-f575-11ef-b7db-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "97a88f6e917a452b59a994b46e6c3e4f0900b1d77b89091ec9dedce233919e13"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-50-2025",
+   "path": "ue/directiva/2025/50",
+   "short": "Directiva (UE) 2025/50",
+   "title": "Directiva (UE) 2025/50 a Consiliului din 10 decembrie 2024 privind reducerea mai rapidă și mai sigură a surplusului de impozit reținut la sursă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L0050",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ea7cc772-cef5-11ef-be2a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "cb6b0bd3b3178aae1633cd9301abfaaec609ee3639a45b0b2564202c71855482"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-516-2025",
+   "path": "ue/directiva/2025/516",
+   "short": "Directiva (UE) 2025/516",
+   "title": "Directiva (UE) 2025/516 a Consiliului din 11 martie 2025 de modificare a Directivei 2006/112/CE în ceea ce privește normele în materie de TVA pentru era digitală",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025L0516",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fcfae9d6-0919-11f0-b1a3-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b488a1deb17acbaf2f8190e1e956799c4916692dec6a611a3c37a86abc80e090"
+    }
+   ]
+  }
+ ]
+}

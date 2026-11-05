@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "ue/1980",
+ "acts": [
+  {
+   "slug": "ue-directiva-181-1980",
+   "path": "ue/directiva/1980/181",
+   "short": "Directiva 80/181/CEE",
+   "title": "Directiva Consiliului din 20 decembrie 1979 privind apropierea legislațiilor statelor membre referitoare la unitățile de măsură și de abrogare a Directivei 71/354/CEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31980L0181",
+   "versions": [
+    {
+     "from": "1979-12-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/75b5f593-012d-4185-a4cb-3459275c7a73.0022.04/DOC_43",
+     "sha256": "d3c3e7ce59844b13bccecc0ac7eefcef732b485a177f81c97e25ef0bfa217950"
+    }
+   ]
+  }
+ ]
+}

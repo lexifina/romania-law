@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "ue/1974",
+ "acts": [
+  {
+   "slug": "ue-directiva-556-1974",
+   "path": "ue/directiva/1974/556",
+   "short": "Directiva 74/556/CEE",
+   "title": "Directiva Consiliului din 4 iunie 1974 de stabilire a normelor de aplicare privind măsurile tranzitorii din domeniul activităților de comerț și de distribuție a produselor toxice și activităților de utilizare profesională a acestor produse, inclusiv activitățile de intermediari",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31974L0556",
+   "versions": [
+    {
+     "from": "1974-10-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5120b5be-6380-4112-a9c6-f620a57216b4.0022.04/DOC_1",
+     "sha256": "c57aa48a6bba10e4dcd9eaea88e1b4ce8109c650787a232831239a4f2219a0c3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-557-1974",
+   "path": "ue/directiva/1974/557",
+   "short": "Directiva 74/557/CEE",
+   "title": "Directiva Consiliului din 4 iunie 1974 privind realizarea libertății de stabilire și a libertății de a presta servicii pentru activitățile independente și activitățile intermediarilor din comerțul și distribuția produselor toxice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31974L0557",
+   "versions": [
+    {
+     "from": "1974-10-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5e131871-f71f-4b6a-927b-cef5e43bd9e8.0022.03/DOC_1",
+     "sha256": "bfeedb8dae05237e8203d08fe2d80c20eb2d3c98a69a0b5ec11d91cb066b336b"
+    }
+   ]
+  }
+ ]
+}

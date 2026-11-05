@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "ue/2000",
+ "acts": [
+  {
+   "slug": "ue-directiva-14-2000",
+   "path": "ue/directiva/2000/14",
+   "short": "Directiva 2000/14/CE",
+   "title": "Directiva 2000/14/CE a Parlamentului European și a Consiliului din 8 mai 2000 privind apropierea legislațiilor statelor membre referitoare la zgomotul emis de echipamentele utilizate în exterior",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0014",
+   "versions": [
+    {
+     "from": "2000-07-03",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d3c5dd69-9bd0-11e4-872e-01aa75ed71a1.0022.03/DOC_1",
+     "sha256": "8b60ab2e5b89c26e80f5e29408e2642ee3e7e4b7ca8b6d4cde66249b564797dc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-31-2000",
+   "path": "ue/directiva/2000/31",
+   "short": "Directiva 2000/31/CE",
+   "title": "Directiva 2000/31/CE a Parlamentului European și a Consiliului din 8 iunie 2000 privind anumite aspecte juridice ale serviciilor societății informaționale, în special ale comerțului electronic, pe piața internă (directiva privind comerțul electronic)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0031",
+   "versions": [
+    {
+     "from": "2000-07-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b244164f-dd29-48e9-9063-a86ef4ea7ad9.0022.04/DOC_7",
+     "sha256": "4600b2ebe1744a91327368b4105ece965b07462bd5f7cef4fd4a591e760619eb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-39-2000",
+   "path": "ue/directiva/2000/39",
+   "short": "Directiva 2000/39/CE",
+   "title": "Directiva 2000/39/CE a Comisiei din 8 iunie 2000 de stabilire a primei liste de valori-limită orientative ale expunerii profesionale în aplicarea Directivei 98/24/CE a Consiliului privind protecția sănătății și a securității lucrătorilor împotriva riscurilor legate de prezența agenților chimici la locul de muncă (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0039",
+   "versions": [
+    {
+     "from": "2000-07-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fa230182-5136-4b7f-91e9-59b92b88d569.0022.03/DOC_1",
+     "sha256": "3e5477fe82133adfe8fc97d6510703155113dc32d747425e58ad3c7cb228ee5b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-43-2000",
+   "path": "ue/directiva/2000/43",
+   "short": "Directiva 2000/43/CE",
+   "title": "Directiva 2000/43/CE a Consiliului din 29 iunie 2000 de punere în aplicare a principiului egalității de tratament între persoane, fără deosebire de rasă sau origine etnică",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0043",
+   "versions": [
+    {
+     "from": "2000-07-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b8766eeb-05aa-41d9-935a-1c83402d3b1e.0022.03/DOC_1",
+     "sha256": "af46a0e53f0e0318467a59fe744ff75289cbf0e8cbf2fa6297e9ffb7b65d0238"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-53-2000",
+   "path": "ue/directiva/2000/53",
+   "short": "Directiva 2000/53/CE",
+   "title": "Directiva 2000/53/CE a Parlamentului European și a Consiliului din 18 septembrie 2000 privind vehiculele scoase din uz",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0053",
+   "versions": [
+    {
+     "from": "2000-10-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/02fa83cf-bf28-4afc-8f9f-eb201bd61813.0022.03/DOC_2",
+     "sha256": "909c60799a3dc683714ea40ab66fc6e476330ed1baba194432d2c4c572055d2e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-54-2000",
+   "path": "ue/directiva/2000/54",
+   "short": "Directiva 2000/54/CE",
+   "title": "Directiva 2000/54/CE a Parlamentului European și a Consiliului din 18 septembrie 2000 privind protecția lucrătorilor împotriva riscurilor legate de expunerea la agenți biologici la locul de muncă [a șaptea directivă specială în sensul articolului 16 alineatul (1) din Directiva 89/391/CEE]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32000L0054",
+   "versions": [
+    {
+     "from": "2000-11-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4e97e2e4-4e7a-4683-abd4-f4ed61e36622.0022.03/DOC_1",
+     "sha256": "15a0841798fa31bcbc985fc2fcc35f76cc00af10fef1a543da9c853e4646386a"
+    }
+   ]
+  }
+ ]
+}

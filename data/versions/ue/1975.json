@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "ue/1975",
+ "acts": [
+  {
+   "slug": "ue-directiva-324-1975",
+   "path": "ue/directiva/1975/324",
+   "short": "Directiva 75/324/CEE",
+   "title": "Directiva Consiliului din 20 mai 1975 privind apropierea legislațiilor statelor membre referitoare la generatoarele de aerosoli",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31975L0324",
+   "versions": [
+    {
+     "from": "1975-05-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/69687c1e-b458-44a2-a637-cde4c9b1ffec.0022.01/DOC_1",
+     "sha256": "5f2434c6b8c76f1783f0858b7ab9c182824fae726b933f148f8f88c87a09629d"
+    }
+   ]
+  }
+ ]
+}

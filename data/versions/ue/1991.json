@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "ue/1991",
+ "acts": [
+  {
+   "slug": "ue-directiva-271-1991",
+   "path": "ue/directiva/1991/271",
+   "short": "Directiva 91/271/CEE",
+   "title": "Directiva Consiliului din 21 mai 1991 privind tratarea apelor urbane reziduale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991L0271",
+   "versions": [
+    {
+     "from": "1991-05-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/34860b42-95cc-4a57-b998-2e445d5befa9.0022.04/DOC_3",
+     "sha256": "d20adc50bf9a6125a408985caf1fa3c5ffe52f28ff2c04928dd76b0d9107bb05"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-322-1991",
+   "path": "ue/directiva/1991/322",
+   "short": "Directiva 91/322/CEE",
+   "title": "Directiva Comisiei din 29 mai 1991 privind stabilirea valorilor limită cu caracter orientativ prin aplicarea Directivei 80/1107/CEE a Consiliului privind protecția lucrătorilor împotriva riscurilor legate de expunerea la agenți chimici, fizici și biologici la locul de muncă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991L0322",
+   "versions": [
+    {
+     "from": "1991-06-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4e508ca2-cf2a-4fb7-b726-39a4f36762d2.0022.03/DOC_1",
+     "sha256": "d3fb1133bf5c42b4aaa5e077e91b1862b12c900e4bf135b7c50b610a71ac7abe"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-383-1991",
+   "path": "ue/directiva/1991/383",
+   "short": "Directiva 91/383/CEE",
+   "title": "Directiva Consiliului din 25 iunie 1991 de completare a măsurilor destinate să promoveze îmbunătățirea securității și sănătății la locul de muncă în cazul lucrătorilor care au un raport de muncă pe durată determinată sau un raport de muncă temporară",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31991L0383",
+   "versions": [
+    {
+     "from": "1991-07-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/37acf4ba-bf12-4bcb-bc06-ead0767905be.0022.03/DOC_1",
+     "sha256": "fd87185b967045784971923587f8971d4984fa1b51e6676180708d903f2a0846"
+    }
+   ]
+  }
+ ]
+}

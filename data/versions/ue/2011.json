@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "ue/2011",
+ "acts": [
+  {
+   "slug": "ue-directiva-15-2011",
+   "path": "ue/directiva/2011/15",
+   "short": "Directiva 2011/15/UE",
+   "title": "Directiva 2011/15/UE a Comisiei din 23 februarie 2011 de modificare a Directivei 2002/59/CE a Parlamentului European și a Consiliului de instituire a unui sistem comunitar de monitorizare și informare privind traficul navelor maritime Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0015",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1cc7f048-acb7-47cc-bfbb-e1e3846f6113.0020.03/DOC_2",
+     "sha256": "82440d361dee9da468f52e11a7fe3eadddef7a1f3d5b3b1c263a1d7e40e082d3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-16-2011",
+   "path": "ue/directiva/2011/16",
+   "short": "Directiva 2011/16/UE",
+   "title": "Directiva 2011/16/UE a Consiliului din 15 februarie 2011 privind cooperarea administrativă în domeniul fiscal și de abrogare a Directivei 77/799/CEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0016",
+   "versions": [
+    {
+     "from": "2011-03-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9c0b4723-7e53-4595-9fa7-1b78e5ddf337.0013.03/DOC_1",
+     "sha256": "a84672e91c3212e5107aba03dd44f684fc5a50ce3519e3db1f11f69939f79108"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-24-2011",
+   "path": "ue/directiva/2011/24",
+   "short": "Directiva 2011/24/UE",
+   "title": "Directiva 2011/24/UE a Parlamentului European și a Consiliului din 9 martie 2011 privind aplicarea drepturilor pacienților în cadrul asistenței medicale transfrontaliere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0024",
+   "versions": [
+    {
+     "from": "2011-04-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/377ab800-836b-4fde-85ff-2e4aac7dee94.0022.03/DOC_1",
+     "sha256": "f2b49aabc481c017620fcae9f3a196fe2777a38722795b65653f91c397fb5369"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-36-2011",
+   "path": "ue/directiva/2011/36",
+   "short": "Directiva 2011/36/UE",
+   "title": "Directiva 2011/36/UE a Parlamentului European și a Consiliului din 5 aprilie 2011 privind prevenirea și combaterea traficului de persoane și protejarea victimelor acestuia, precum și de înlocuire a Deciziei-cadru 2002/629/JAI a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0036",
+   "versions": [
+    {
+     "from": "2011-04-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/af510dcd-979a-469a-9ec5-e3f18e6e5997.0001.03/DOC_1",
+     "sha256": "1b946e30088358ca6cde0ac63e9d605c3d18b70c0ae907dcce7d392187929609"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-37-2011",
+   "path": "ue/directiva/2011/37",
+   "short": "Directiva 2011/37/UE",
+   "title": "Directiva 2011/37/UE a Comisiei din 30 martie 2011 de modificare a anexei II la Directiva 2000/53/CE a Parlamentului European și a Consiliului privind vehiculele scoase din uz Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0037",
+   "versions": [
+    {
+     "from": "2011-04-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8b07d8db-8f4a-46c0-941d-8f1ad22094ed.0004.03/DOC_1",
+     "sha256": "a62b2cd1d367e9c9d5519db4d0c2727a3f0e6b7064ec3c7bb067a236eaaacf8f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-51-2011",
+   "path": "ue/directiva/2011/51",
+   "short": "Directiva 2011/51/UE",
+   "title": "Directiva 2011/51/UE a Parlamentului European și a Consiliului din 11 mai 2011 de modificare a Directivei 2003/109/CE a Consiliului în vederea extinderii domeniului său de aplicare la beneficiarii de protecție internațională Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32011L0051",
+   "versions": [
+    {
+     "from": "2011-05-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/30405f11-a566-41e9-b3d7-9201626f27d2.0018.03/DOC_1",
+     "sha256": "bb804ade1b8f6995376efb32aa76b64596b8df71e749eda09670cb7904f71f46"
+    }
+   ]
+  }
+ ]
+}

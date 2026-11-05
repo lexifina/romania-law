@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "ue/2022",
+ "acts": [
+  {
+   "slug": "ue-directiva-1999-2022",
+   "path": "ue/directiva/2022/1999",
+   "short": "Directiva (UE) 2022/1999",
+   "title": "Directiva (UE) 2022/1999 a Parlamentului European și a Consiliului din 19 octombrie 2022 privind procedurile unitare de control în transportul rutier de mărfuri periculoase (codificare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L1999",
+   "versions": [
+    {
+     "from": "2022-11-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/088da2c9-5337-11ed-92ed-01aa75ed71a1.0020.02/DOC_1",
+     "sha256": "d1fe4dc4e5b421416e14a0f2d57959f650c2cabe64b586e2acffa2b7aed12db1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2041-2022",
+   "path": "ue/directiva/2022/2041",
+   "short": "Directiva (UE) 2022/2041",
+   "title": "Directiva (UE) 2022/2041 a Parlamentului European și a Consiliului din 19 octombrie 2022 privind salariile minime adecvate în Uniunea Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L2041",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/97ee19ca-543f-11ed-92ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "27f22b676ccc8f4dd81001825b76a10cc5a3464d757355787b68d56ddeb69d90"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-211-2022",
+   "path": "ue/directiva/2022/211",
+   "short": "Directiva (UE) 2022/211",
+   "title": "Directiva (UE) 2022/211 a Parlamentului European și a Consiliului din 16 februarie 2022 de modificare a Deciziei-cadru 2002/465/JAI a Consiliului în ceea ce privește alinierea acesteia la normele Uniunii privind protecția datelor cu caracter personal",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0211",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/34d75307-909b-11ec-b4e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7a437734e0afd3c8ac2c57a462dde84dcba9064689a628013a0f895c48dec1cc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-228-2022",
+   "path": "ue/directiva/2022/228",
+   "short": "Directiva (UE) 2022/228",
+   "title": "Directiva (UE) 2022/228 a Parlamentului European și a Consiliului din 16 februarie 2022 de modificare a Directivei 2014/41/UE în ceea ce privește alinierea acesteia la normele Uniunii privind protecția datelor cu caracter personal",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0228",
+   "versions": [
+    {
+     "from": "2022-03-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b2f9a423-92ba-11ec-b4e4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "57785d25bd5d29aeaa03d0edf5d0a0df25e4cfdef524960d72c5c2e0f8542365"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2380-2022",
+   "path": "ue/directiva/2022/2380",
+   "short": "Directiva (UE) 2022/2380",
+   "title": "Directiva (UE) 2022/2380 a Parlamentului European și a Consiliului din 23 noiembrie 2022 de modificare a Directivei 2014/53/UE privind armonizarea legislației statelor membre referitoare la punerea la dispoziție pe piață a echipamentelor radio (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L2380",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f1fdccdd-75d1-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "cd8e5934deeb19c0e4f8722369b6d73cb7d78d57f394a8fcc04e68bc771c0664"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2381-2022",
+   "path": "ue/directiva/2022/2381",
+   "short": "Directiva (UE) 2022/2381",
+   "title": "Directiva (UE) 2022/2381 a Parlamentului European și a Consiliului din 23 noiembrie 2022 privind consolidarea echilibrului de gen în rândul administratorilor societăților cotate la bursă și măsuri conexe (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L2381",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/43bf368f-75d2-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f504fd20069251f821aad40b7a68a3504633fc9e7444d78e05ff68bfc299c077"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2464-2022",
+   "path": "ue/directiva/2022/2464",
+   "short": "Directiva (UE) 2022/2464",
+   "title": "Directiva (UE) 2022/2464 a Parlamentului European și a Consiliului din 14 decembrie 2022 de modificare a Regulamentului (UE) nr. 537/2014, a Directivei 2004/109/CE, a Directivei 2006/43/CE și a Directivei 2013/34/UE în ceea ce privește raportarea privind durabilitatea de către întreprinderi (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L2464",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/59e70288-7ce5-11ed-9887-01aa75ed71a1.0020.02/DOC_1",
+     "sha256": "111fd7746012a1d8e1c2998782a603ffa6422a79af035aa5c26d36c83377c31d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2523-2022",
+   "path": "ue/directiva/2022/2523",
+   "short": "Directiva (UE) 2022/2523",
+   "title": "Directiva (UE) 2022/2523 a Consiliului din 14 decembrie 2022 privind asigurarea unui nivel minim global de impozitare a grupurilor de întreprinderi multinaționale și a grupurilor naționale de mari dimensiuni în Uniune",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L2523",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c0f3ca3d-81cb-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7ab50a0969348bb25561f86802e5e019aec4e0be4f98bbbb697b29d9cc2c26a6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2555-2022",
+   "path": "ue/directiva/2022/2555",
+   "short": "Directiva (UE) 2022/2555",
+   "title": "Directiva (UE) 2022/2555 a Parlamentului European și a Consiliului din 14 decembrie 2022 privind măsuri pentru un nivel comun ridicat de securitate cibernetică în Uniune, de modificare a Regulamentului (UE) nr. 910/2014 și a Directivei (UE) 2018/1972 și de abrogare a Directivei (UE) 2016/1148 (Directiva NIS 2) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L2555",
+   "versions": [
+    {
+     "from": "2023-01-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9b84d482-85bd-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a0e17bc5a1a31f9b9956768ad99a0705b9dfc9a583fb036a9e9b867d47cd6b55"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2556-2022",
+   "path": "ue/directiva/2022/2556",
+   "short": "Directiva (UE) 2022/2556",
+   "title": "Directiva (UE) 2022/2556 a Parlamentului European și a Consiliului din 14 decembrie 2022 de modificare a Directivelor 2009/65/CE, 2009/138/CE, 2011/61/UE, 2013/36/UE, 2014/59/UE, 2014/65/UE, (UE) 2015/2366 și (UE) 2016/2341 privind reziliența operațională digitală pentru sectorul financiar (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L2556",
+   "versions": [
+    {
+     "from": "2023-01-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e2e67364-85bd-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1fbcaf7140053ce61e82a3124b82bab119f3e101404bdea9aed26d7506b60676"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2557-2022",
+   "path": "ue/directiva/2022/2557",
+   "short": "Directiva (UE) 2022/2557",
+   "title": "Directiva (UE) 2022/2557 a Parlamentului European și a Consiliului din 14 decembrie 2022 privind reziliența entităților critice și de abrogare a Directivei 2008/114/CE a Consiliului (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L2557",
+   "versions": [
+    {
+     "from": "2023-01-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c4d36f49-85bc-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "f660fc2764af764e4f398a04416372d09dcef2d81979b9aaf09d90d5a3344b7f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2561-2022",
+   "path": "ue/directiva/2022/2561",
+   "short": "Directiva (UE) 2022/2561",
+   "title": "Directiva (UE) 2022/2561 a Parlamentului European și a Consiliului din 14 decembrie 2022 privind calificarea inițială și formarea periodică a conducătorilor auto ai anumitor vehicule rutiere destinate transportului de mărfuri sau de persoane (codificare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L2561",
+   "versions": [
+    {
+     "from": "2023-01-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/6d0ea46c-8264-11ed-9887-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "1c2064e4cd1995e3f84cba3322818bfa7dfd0307eb3039ec0abc9af7b5879313"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-362-2022",
+   "path": "ue/directiva/2022/362",
+   "short": "Directiva (UE) 2022/362",
+   "title": "Directiva (UE) 2022/362 a Parlamentului European și a Consiliului din 24 februarie 2022 de modificare a Directivelor 1999/62/CE, 1999/37/CE și (UE) 2019/520, în ceea ce privește taxarea vehiculelor pentru utilizarea anumitor infrastructuri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0362",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b4baafa9-9b5d-11ec-83e1-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "82d47555c4dd294d75178b6a078fa2fe519986cc7327a88e82a22ec9e7f2d7fe"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-431-2022",
+   "path": "ue/directiva/2022/431",
+   "short": "Directiva (UE) 2022/431",
+   "title": "Directiva (UE) 2022/431 a Parlamentului European și a Consiliului din 9 martie 2022 de modificare a Directivei 2004/37/CE privind protecția lucrătorilor împotriva riscurilor legate de expunerea la agenți cancerigeni sau mutageni la locul de muncă",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0431",
+   "versions": [
+    {
+     "from": "2022-04-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2a288a3c-a4f7-11ec-83e1-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "71002a22d901ddb979249b91617705c52c25cd789ce9ccf733654c910b866bd5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-542-2022",
+   "path": "ue/directiva/2022/542",
+   "short": "Directiva (UE) 2022/542",
+   "title": "Directiva (UE) 2022/542 a Consiliului din 5 aprilie 2022 de modificare a Directivelor 2006/112/CE și (UE) 2020/285 în ceea ce privește cotele taxei pe valoarea adăugată",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0542",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f09670e0-b543-11ec-b6f4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "498082785750f986b38bbd4f4a6890e3fdac35fa1bf85febe1ac902dc04f47ae"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-543-2022",
+   "path": "ue/directiva/2022/543",
+   "short": "Directiva (UE) 2022/543",
+   "title": "Directiva (UE) 2022/543 a Consiliului din 5 aprilie 2022 de modificare a Directivelor 2008/118/CE și (UE) 2020/262 în ceea ce privește magazinele duty-free situate în terminalul francez al tunelului de sub Canalul Mânecii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32022L0543",
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4409f765-b544-11ec-b6f4-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9ba8efac38624bf3c19e83245a88c61953218eabec05afbaf7b9d63f48c12c0b"
+    }
+   ]
+  }
+ ]
+}

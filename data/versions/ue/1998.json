@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "ue/1998",
+ "acts": [
+  {
+   "slug": "ue-directiva-15-1998",
+   "path": "ue/directiva/1998/15",
+   "short": "Directiva 98/15/CE",
+   "title": "Directiva 98/15/CE a Comisiei din 27 februarie 1998 de modificare a Directivei 91/271/CEE a Consiliului în ceea ce privește anumite cerințe stabilite în anexa IText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0015",
+   "versions": [
+    {
+     "from": "1998-03-27",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ff7ec087-8cc3-4619-bffc-b08ea4883d2c.0022.03/DOC_4",
+     "sha256": "4a9e2a1bf361eceae072454a68fa5a93d5202ec261f84234d8579917153af686"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-24-1998",
+   "path": "ue/directiva/1998/24",
+   "short": "Directiva 98/24/CE",
+   "title": "Directiva 98/24/CE a Consiliului din 7 aprilie 1998 privind protecția sănătății și securității lucrătorilor împotriva riscurilor legate de prezența agenților chimici la locul de muncă [a paisprezecea directivă specială în sensul articolului 16 alineatul (1) din Directiva 89/391/CEE]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0024",
+   "versions": [
+    {
+     "from": "1998-05-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/188ca3d7-2255-4541-bbc9-1142e9b6b33b.0022.03/DOC_1",
+     "sha256": "444b69a720e5b7f59adf13d2a7c43eef8326d5087c0b8063e0fb33aec1665f7c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-26-1998",
+   "path": "ue/directiva/1998/26",
+   "short": "Directiva CELEX 31998L0026",
+   "title": "Directiva nr. 98/26/CE a Parlamentului European și a Consiliului din 19 mai 1998 privind caracterul definitiv al decontării în sistemele de plăți și de decontare a titlurilor de valoare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0026",
+   "versions": [
+    {
+     "from": "1998-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/c2ea648f-c59a-4809-9fcb-9fba762ae240.0022.04/DOC_1",
+     "sha256": "d6e88f7e3f1c551f15a2423e88bf416d990605710c405404025970745110363b"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-28-1998",
+   "path": "ue/directiva/1998/28",
+   "short": "Directiva CELEX 31998L0028",
+   "title": "Directiva 98/28 CE a Consiliului din 29 aprilie 1998 de derogare de la anumite dispoziții ale Directivei 93/43 CEE privind igiena produselor alimentare în ceea ce privește transportul maritim al zahărului brut în vracText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0028",
+   "versions": [
+    {
+     "from": "1998-05-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/091fb230-26d6-4d4f-97ba-94cb572caf36.0022.04/DOC_89",
+     "sha256": "b8a2af00e9957903ad672c551408addc516064e89060e07b9f959817e4006db0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-29-1998",
+   "path": "ue/directiva/1998/29",
+   "short": "Directiva 98/29/CE",
+   "title": "Directiva 98/29/CE a Consiliului din 7 mai 1998 privind armonizarea principalelor dispoziții aplicabile asigurării creditului la export pentru operațiunile care beneficiază de acoperire pe termen mediu și lung",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0029",
+   "versions": [
+    {
+     "from": "1998-06-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0b824009-348a-413b-91f5-bba1e9e37f1b.0022.04/DOC_1",
+     "sha256": "9a7b65bc6585b3e9fffe258f2a925f928d52beea889e6229a3cf46406ad62ded"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-49-1998",
+   "path": "ue/directiva/1998/49",
+   "short": "Directiva 98/49/CE",
+   "title": "Directiva 98/49/CE a Consiliului din 29 iunie 1998 privind protecția dreptului la pensie suplimentară al lucrătorilor salariați și al lucrătorilor care desfășoară activități independente care se deplasează în cadrul Comunității",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0049",
+   "versions": [
+    {
+     "from": "1998-07-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0ce92f21-630e-4ed3-a7fe-b54dec01111f.0022.03/DOC_1",
+     "sha256": "3994f3b870f81415362c88784e86f1eaa256e6876f4cb5c8e5ba385921bf4023"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-5-1998",
+   "path": "ue/directiva/1998/5",
+   "short": "Directiva 98/5/CE",
+   "title": "Directiva 98/5/CE a parlamentului European și a consiliului din 16 februarie 1998 de facilitare a exercitării cu caracter permanent a profesiei de avocat într-un stat membru, altul decât cel în care s-a obținut calificarea",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0005",
+   "versions": [
+    {
+     "from": "1998-03-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1ef3b7d2-7e02-41da-b30b-8417fd573ed1.0022.03/DOC_1",
+     "sha256": "37fc4bb3ac8c28770bd6ecbabe5032e104307f036be0c132d5810ec7f5577ac5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-59-1998",
+   "path": "ue/directiva/1998/59",
+   "short": "Directiva 98/59/CE",
+   "title": "Directiva 98/59/CE a Consiliului din 20 iulie 1998 privind apropierea legislațiilor statelor membre cu privire la concedierile colective",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31998L0059",
+   "versions": [
+    {
+     "from": "1998-09-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/705bf0ea-ae86-46bc-89d8-aca7cc797ed9.0022.03/DOC_1",
+     "sha256": "ff239279098e1f34b767d2e0b1b89f7e0619c562015461d3c601380d7277c8ce"
+    }
+   ]
+  }
+ ]
+}

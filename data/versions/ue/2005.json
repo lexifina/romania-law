@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "ue/2005",
+ "acts": [
+  {
+   "slug": "ue-directiva-1-2005",
+   "path": "ue/directiva/2005/1",
+   "short": "Directiva 2005/1/CE",
+   "title": "Directiva 2005/1/CE a Parlamentului European și a Consiliului din 9 martie 2005 de modificare a Directivelor 73/239/CEE, 85/611/CEE, 91/675/CEE, 92/49/CEE și 93/6/CEE ale Consiliului, precum și a Directivelor 94/19/CE, 98/78/CE, 2000/12/CE, 2001/34/CE, 2002/83/CE și 2002/87/CE, în scopul instituirii unei noi structuri de organizare pentru comitetele competente din domeniul serviciilor financiareText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0001",
+   "versions": [
+    {
+     "from": "2005-04-13",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/056eb17a-7c0b-4221-9183-832d36b9a0da.0022.03/DOC_1",
+     "sha256": "4842889e2b2667ad3d4490dfe67991f2bbad12ac5259169ba13c649ca50b4903"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-29-2005",
+   "path": "ue/directiva/2005/29",
+   "short": "Directiva 2005/29/CE",
+   "title": "Directiva 2005/29/CE a Parlamentului European și a Consiliului din 11 mai 2005 privind practicile comerciale neloiale ale întreprinderilor de pe piața internă față de consumatori și de modificare a Directivei 84/450/CEE a Consiliului, a Directivelor 97/7/CE, 98/27/CE și 2002/65/CE ale Parlamentului European și ale Consiliului și a Regulamentului (CE) nr. 2006/2004 al Parlamentului European și al Consiliului („Directiva privind practicile comerciale neloiale”)Text cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0029",
+   "versions": [
+    {
+     "from": "2005-06-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7fecf696-5eda-47b3-b838-0202aca4f2dd.0022.03/DOC_1",
+     "sha256": "d94ce83fa2e388a1fc9c16c02731fe7bb5fe2232119d33e5f237643f42b4d040"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-31-2005",
+   "path": "ue/directiva/2005/31",
+   "short": "Directiva 2005/31/CE",
+   "title": "Directiva 2005/31/CE a Comisiei din 29 aprilie 2005 de modificare a Directivei 84/500/CEE a Consiliului în ceea ce privește declarația de conformitate și criteriile de performanță pentru metoda de analiză a obiectelor din ceramică destinate să vină în contact cu produsele alimentareText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0031",
+   "versions": [
+    {
+     "from": "2005-05-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4660697e-2d11-4a4a-b095-eaa789da2356.0022.03/DOC_1",
+     "sha256": "f636e9e340614187527c9276d07a6fdd6c3e6a9975a232852dec75c2059def12"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-35-2005",
+   "path": "ue/directiva/2005/35",
+   "short": "Directiva 2005/35/CE",
+   "title": "Directiva 2005/35/CE a Parlamentului European și a Consiliului din 7 septembrie 2005 privind poluarea cauzată de nave și introducerea unor sancțiuni în caz de încălcareText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0035",
+   "versions": [
+    {
+     "from": "2005-10-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e6a25180-e5fa-40f9-b696-8106994d6547.0022.04/DOC_1",
+     "sha256": "f17b5703f9c6059e37abdd3b1a05b431a608a1e07ab7aacccee2ec3b9fe90971"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-36-2005",
+   "path": "ue/directiva/2005/36",
+   "short": "Directiva 2005/36/CE",
+   "title": "Directiva 2005/36/CE a Parlamentului European și a Consiliului din 7 septembrie 2005 privind recunoașterea calificărilor profesionale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0036",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0902feb0-533e-4c11-8de9-98a68757f4ff.0022.04/DOC_1",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-50-2005",
+   "path": "ue/directiva/2005/50",
+   "short": "Directiva 2005/50/CE",
+   "title": "Directiva 2005/50/CE a Comisiei din 11 august 2005 privind reclasificarea protezelor articulare pentru șold, genunchi și umăr în cadrul Directivei 93/42/CEE a Consiliului referitoare la dispozitivele medicaleText cu relevanță pentru SEE.",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32005L0050",
+   "versions": [
+    {
+     "from": "2005-09-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/222ba47c-7669-4fd7-beef-1a7334f5b5d3.0022.03/DOC_1",
+     "sha256": "59cebc37ed9cbec38463410fcb49f9da8b7cf281682830edee522351fa0a0f76"
+    }
+   ]
+  }
+ ]
+}

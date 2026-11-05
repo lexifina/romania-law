@@ -12721,4 +12721,6 @@
 | Anti-discrimination council decisions (CNCD) | 2315 | [`data/acts/cncd/`](data/acts/cncd/) |
 | Data protection authority decisions and sanction notices (ANSPDCP) | 375 | [`data/acts/anspdcp/`](data/acts/anspdcp/) |
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |
+| EU law in Romanian: regulations and directives in force (Official Journal text) | 500 | [`data/acts/ue/`](data/acts/ue/) |
+| Annexes published apart from their act (court circumscriptions, official forms) | 7 | [`data/acts/anexa/`](data/acts/anexa/) |
 | Local acts (decisions of local and county councils) | 40796 | [`data/acts/local/`](data/acts/local/) |

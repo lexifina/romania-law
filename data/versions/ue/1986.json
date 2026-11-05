@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "ue/1986",
+ "acts": [
+  {
+   "slug": "ue-directiva-278-1986",
+   "path": "ue/directiva/1986/278",
+   "short": "Directiva 86/278/CEE",
+   "title": "Directiva Consiliului din 12 iunie 1986 privind protecția mediului, în special a solului, atunci când se utilizează nămoluri de epurare în agricultură",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31986L0278",
+   "versions": [
+    {
+     "from": "1986-06-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f76faa39-2b27-42f2-be1e-9332f795e324.0022.01/DOC_1",
+     "sha256": "4f840907db9c52dd8f14667c9130ed33b0d83e738342897f6e62ce3c31e31ac6"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-560-1986",
+   "path": "ue/directiva/1986/560",
+   "short": "Directiva 86/560/CEE",
+   "title": "A treisprezecea directivă a Consiliului din 17 noiembrie 1986 privind armonizarea legislațiilor statelor membre referitoare la impozitele pe cifra de afaceri – Sisteme de restituire a taxei pe valoarea adăugată persoanelor impozabile care nu sunt stabilite pe teritoriul Comunității",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31986L0560",
+   "versions": [
+    {
+     "from": "1986-11-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fa9c7bd0-8c26-4d94-9826-e66a82fe1ad0.0022.04/DOC_1",
+     "sha256": "e3e82f159e764c1d1f166e648b7431f62a4c62abf92027067a19f334e96a22b6"
+    }
+   ]
+  }
+ ]
+}

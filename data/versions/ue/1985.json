@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "ue/1985",
+ "acts": [
+  {
+   "slug": "ue-directiva-1-1985",
+   "path": "ue/directiva/1985/1",
+   "short": "Directiva 85/1/CEE",
+   "title": "Directiva Consiliului din 18 decembrie 1984 de modificare a Directivei 80/181/CEE privind apropierea legislațiilor statelor membre referitoare la unitățile de măsură",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985L0001",
+   "versions": [
+    {
+     "from": "1984-12-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/40de129c-5e04-411e-a5f1-2ce4f6bfae0c.0022.03/DOC_28",
+     "sha256": "88f468ddcf92862769a7fd1bbec095e13d56d317a87f39a1688fc2a0ed6ebacf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-374-1985",
+   "path": "ue/directiva/1985/374",
+   "short": "Directiva 85/374/CEE",
+   "title": "Directiva Consiliului din 25 iulie 1985 de apropiere a actelor cu putere de lege și a actelor administrative ale statelor membre cu privire la răspunderea pentru produsele cu defect",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985L0374",
+   "versions": [
+    {
+     "from": "1985-07-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b21bef4e-b528-49e2-a0f9-142dc503969a.0022.01/DOC_1",
+     "sha256": "b8ae891b5bec13d4c53ab5072567c4d089eb1574f42067ed0aa0d6de37bef864"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-572-1985",
+   "path": "ue/directiva/1985/572",
+   "short": "Directiva 85/572/CEE",
+   "title": "Directiva Consiliului din 19 decembrie 1985 de stabilire a listei de simulanți utilizați pentru testarea migrării constituenților materialelor și obiectelor din material plastic care vin în contact cu produsele alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985L0572",
+   "versions": [
+    {
+     "from": "1985-12-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/bd664554-cb4a-4d7e-8e95-e36da6c900bf.0022.03/DOC_55",
+     "sha256": "77ba890b85252de126e25f6b95b3c51e3279c5c5005bc8d4662c1a80e5d70220"
+    }
+   ]
+  }
+ ]
+}

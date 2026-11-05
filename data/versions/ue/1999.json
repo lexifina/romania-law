@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "ue/1999",
+ "acts": [
+  {
+   "slug": "ue-directiva-103-1999",
+   "path": "ue/directiva/1999/103",
+   "short": "Directiva 1999/103/CE",
+   "title": "Directiva 1999/103/CE a Parlamentului European și a Consiliului din 24 ianuarie 2000 de modificare a Directivei 80/181/CEE privind apropierea legislațiilor statelor membre referitoare la unitățile de măsură",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999L0103",
+   "versions": [
+    {
+     "from": "2000-02-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/557cb670-d5ed-4e03-a3ed-7147a7216145.0022.03/DOC_28",
+     "sha256": "2c500186799a735e9a7bdb23b359292989c88bf698d9573c24a9464643445fa8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-105-1999",
+   "path": "ue/directiva/1999/105",
+   "short": "Directiva 1999/105/CE",
+   "title": "Directiva 1999/105/CE a Consiliului din 22 decembrie 1999 privind comercializarea materialului forestier de reproducere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999L0105",
+   "versions": [
+    {
+     "from": "2000-01-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/48adcf09-13c4-4888-88af-2150998ef354.0022.03/DOC_1",
+     "sha256": "3924e9e7613a7e7d9b55eadd24b33cec501dec560289da4a1d38053b7317c929"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-19-1999",
+   "path": "ue/directiva/1999/19",
+   "short": "Directiva 1999/19/CE",
+   "title": "Directiva 1999/19/CE a Comisiei din 18 martie 1999 de modificare a Directivei 97/70/CE a Consiliului de instituire a unui regim armonizat privind siguranța navelor de pescuit cu o lungime egală sau mai mare de 24 de metri (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999L0019",
+   "versions": [
+    {
+     "from": "1999-04-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4bc5b7e6-162a-4324-874c-d8330e4fe58a.0022.03/DOC_3",
+     "sha256": "a7679b195515c7613105fca51d2453f281ebe604ea42575efe862e9922cefe8c"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-22-1999",
+   "path": "ue/directiva/1999/22",
+   "short": "Directiva 1999/22/CE",
+   "title": "Directiva 1999/22/CE a Consiliului din 29 martie 1999 privind animalele sălbatice din grădini zoologice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999L0022",
+   "versions": [
+    {
+     "from": "1999-04-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9a19dfdd-efd9-4684-a167-06da26a0a156.0022.04/DOC_6",
+     "sha256": "ea5502be3a771de62f173290af237e043f922235e2b099e4e08fc2d60e773fc0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-31-1999",
+   "path": "ue/directiva/1999/31",
+   "short": "Directiva 1999/31/CE",
+   "title": "Directiva 1999/31/CE a Consiliului din 26 aprilie 1999 privind depozitele de deșeuri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999L0031",
+   "versions": [
+    {
+     "from": "1999-07-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ec0a6777-382e-4614-900a-ea7011fb5c4f.0022.04/DOC_3",
+     "sha256": "2e6c1801cc2d18fec30c224f8444dc664f4511726627d9a99ac8190df4739cbc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-34-1999",
+   "path": "ue/directiva/1999/34",
+   "short": "Directiva 1999/34/CE",
+   "title": "Directiva 1999/34/CE a Parlamentului European și a Consiliului din 10 mai 1999 de modificare a Directivei 85/374/CEE a Consiliului de apropiere a actelor cu putere de lege și a actelor administrative ale statelor membre cu privire la răspunderea pentru produsele cu defecte",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999L0034",
+   "versions": [
+    {
+     "from": "1999-06-04",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/df3e76e5-e26f-45a6-8083-7fb8b5f6d7cf.0022.04/DOC_1",
+     "sha256": "cee02cc46461c4c0dfa4b1210d13e61fc2ab0e8d7d799b6388b3ba547d8a18c3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-37-1999",
+   "path": "ue/directiva/1999/37",
+   "short": "Directiva 1999/37/CE",
+   "title": "Directiva 1999/37/CE a Consiliului din 29 aprilie 1999 privind documentele de înmatriculare pentru vehicule",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31999L0037",
+   "versions": [
+    {
+     "from": "1999-06-01",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aee49a23-91c4-4fc5-8e45-a786cc503c5e.0022.03/DOC_1",
+     "sha256": "108081a13aeebf805bb0371a497d4c05ca170536f9bc2d99de1b1ade21768eea"
+    }
+   ]
+  }
+ ]
+}

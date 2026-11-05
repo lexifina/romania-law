@@ -1,0 +1,60 @@
+{
+"country": "RO",
+"shard": "ue/1985",
+"acts": [
+{
+"slug": "ue-directiva-1-1985",
+"path": "ue/directiva/1985/1",
+"kind": "ue",
+"year": "1985",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 18 decembrie 1984 de modificare a Directivei 80/181/CEE privind apropierea legislațiilor statelor membre referitoare la unitățile de măsură",
+"short": "Directiva 85/1/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1984-12-20",
+"latest": "1984-12-20",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985L0001"
+},
+{
+"slug": "ue-directiva-374-1985",
+"path": "ue/directiva/1985/374",
+"kind": "ue",
+"year": "1985",
+"number": "374",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 25 iulie 1985 de apropiere a actelor cu putere de lege și a actelor administrative ale statelor membre cu privire la răspunderea pentru produsele cu defect",
+"short": "Directiva 85/374/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1985-07-30",
+"latest": "1985-07-30",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985L0374",
+"flags": {
+"end_of_validity": "2026-12-08"
+}
+},
+{
+"slug": "ue-directiva-572-1985",
+"path": "ue/directiva/1985/572",
+"kind": "ue",
+"year": "1985",
+"number": "572",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 19 decembrie 1985 de stabilire a listei de simulanți utilizați pentru testarea migrării constituenților materialelor și obiectelor din material plastic care vin în contact cu produsele alimentare",
+"short": "Directiva 85/572/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1985-12-24",
+"latest": "1985-12-24",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31985L0572"
+}
+]
+}

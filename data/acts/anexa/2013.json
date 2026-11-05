@@ -1,0 +1,66 @@
+{
+"country": "RO",
+"shard": "anexa/2013",
+"acts": [
+{
+"slug": "anexa-ordin-justitie-359-c-2013-anexa-1",
+"path": "anexa/ordin-justitie-359-c-2013/anexa-1",
+"kind": "anexa",
+"year": "2013",
+"number": "ordin-justitie-359-c-2013/anexa-1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Anexa nr. 1 la Ordinul ministrului justiției nr. 359/C/2013: Formular de cerere (cereri cu valoare redusă)",
+"short": "Anexa nr. 1 la Ordinul ministrului justiției nr. 359/C/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-02-01",
+"latest": "2013-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/145100",
+"flags": {
+"uncertain": "later amendments to the order not verified"
+}
+},
+{
+"slug": "anexa-ordin-justitie-359-c-2013-anexa-2",
+"path": "anexa/ordin-justitie-359-c-2013/anexa-2",
+"kind": "anexa",
+"year": "2013",
+"number": "ordin-justitie-359-c-2013/anexa-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Anexa nr. 2 la Ordinul ministrului justiției nr. 359/C/2013: Formular pentru completarea și/sau rectificarea formularului de cerere",
+"short": "Anexa nr. 2 la Ordinul ministrului justiției nr. 359/C/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-02-01",
+"latest": "2013-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/145100",
+"flags": {
+"uncertain": "later amendments to the order not verified"
+}
+},
+{
+"slug": "anexa-ordin-justitie-359-c-2013-anexa-3",
+"path": "anexa/ordin-justitie-359-c-2013/anexa-3",
+"kind": "anexa",
+"year": "2013",
+"number": "ordin-justitie-359-c-2013/anexa-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Anexa nr. 3 la Ordinul ministrului justiției nr. 359/C/2013: Formular de răspuns",
+"short": "Anexa nr. 3 la Ordinul ministrului justiției nr. 359/C/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-02-01",
+"latest": "2013-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/145100",
+"flags": {
+"uncertain": "later amendments to the order not verified"
+}
+}
+]
+}

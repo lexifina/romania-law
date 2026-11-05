@@ -1,0 +1,80 @@
+{
+"country": "RO",
+"shard": "ue/1987",
+"acts": [
+{
+"slug": "ue-directiva-54-1987",
+"path": "ue/directiva/1987/54",
+"kind": "ue",
+"year": "1987",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 16 decembrie 1986 privind protecția juridică a topografiilor produselor din materiale semiconductoare",
+"short": "Directiva 87/54/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1986-12-23",
+"latest": "1986-12-23",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0054",
+"flags": {
+"figures_missing": 2
+}
+},
+{
+"slug": "ue-directiva-217-1987",
+"path": "ue/directiva/1987/217",
+"kind": "ue",
+"year": "1987",
+"number": "217",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 19 martie 1987 privind prevenirea și reducerea poluării mediului cu azbest",
+"short": "Directiva 87/217/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1987-03-24",
+"latest": "1987-03-24",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0217"
+},
+{
+"slug": "ue-directiva-354-1987",
+"path": "ue/directiva/1987/354",
+"kind": "ue",
+"year": "1987",
+"number": "354",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 25 iunie 1987 de modificare a anumitor directive privind apropierea legislațiilor statelor membre referitoare la produsele industriale în ceea ce privește siglele distinctive atribuite statelor membre",
+"short": "Directiva 87/354/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1987-06-29",
+"latest": "1987-06-29",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0354",
+"flags": {
+"end_of_validity": "2027-06-30"
+}
+},
+{
+"slug": "ue-directiva-540-1987",
+"path": "ue/directiva/1987/540",
+"kind": "ue",
+"year": "1987",
+"number": "540",
+"withdrawn_by": null,
+"reason": null,
+"title": "Directiva Consiliului din 9 noiembrie 1987 privind inițierea profesiei de operator de transport de mărfuri pe cale navigabilă în transportul național și internațional și privind recunoașterea reciprocă a diplomelor, certificatelor și altor titluri oficiale de calificare pentru această activitate",
+"short": "Directiva 87/540/CEE",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "1987-11-12",
+"latest": "1987-11-12",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31987L0540"
+}
+]
+}

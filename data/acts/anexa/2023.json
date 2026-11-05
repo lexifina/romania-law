@@ -1,0 +1,23 @@
+{
+"country": "RO",
+"shard": "anexa/2023",
+"acts": [
+{
+"slug": "anexa-hg-1217-2023-anexa",
+"path": "anexa/hg-1217-2023/anexa",
+"kind": "anexa",
+"year": "2023",
+"number": "hg-1217-2023/anexa",
+"withdrawn_by": null,
+"reason": null,
+"title": "Anexă la Hotărârea Guvernului nr. 1.217/2023: Localitățile care fac parte din circumscripțiile judecătoriilor și parchetelor de pe lângă acestea",
+"short": "Anexă la Hotărârea Guvernului nr. 1.217/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/277039"
+}
+]
+}

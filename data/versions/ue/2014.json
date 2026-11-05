@@ -1,0 +1,516 @@
+{
+ "country": "RO",
+ "shard": "ue/2014",
+ "acts": [
+  {
+   "slug": "ue-directiva-100-2014",
+   "path": "ue/directiva/2014/100",
+   "short": "Directiva 2014/100/UE",
+   "title": "Directiva 2014/100/UE a Comisiei din 28 octombrie 2014 de modificare a Directivei 2002/59/CE a Parlamentului European și a Consiliului de instituire a unui sistem comunitar de monitorizare și informare privind traficul navelor maritime Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0100",
+   "versions": [
+    {
+     "from": "2014-11-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b93fb46b-5f36-11e4-9cbe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "4157d9f8b647949fc8a6d64aff27112e7a7c8b592821e5ae8d22fd3a14608253"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-101-2014",
+   "path": "ue/directiva/2014/101",
+   "short": "Directiva 2014/101/UE",
+   "title": "Directiva 2014/101/UE a Comisiei din 30 octombrie 2014 de modificare a Directivei 2000/60/CE a Parlamentului European și a Consiliului de stabilire a unui cadru de politică comunitară în domeniul apei Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0101",
+   "versions": [
+    {
+     "from": "2014-11-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e76c324a-60cc-11e4-9cbe-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "a2aa3c46e3865383d72b7b6816c1646913374a850d68270dac5194eb3f56558f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-104-2014",
+   "path": "ue/directiva/2014/104",
+   "short": "Directiva 2014/104/UE",
+   "title": "Directiva 2014/104/UE a Parlamentului European și a Consiliului din 26 noiembrie 2014 privind anumite norme care guvernează acțiunile în despăgubire în temeiul dreptului intern în cazul încălcărilor dispozițiilor legislației în materie de concurență a statelor membre și a Uniunii Europene Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0104",
+   "versions": [
+    {
+     "from": "2014-12-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/19f5fc12-7c4b-11e4-97c9-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f83c76aad28de8d636a2ba98ab2e590bf77afbc05e215952b75eb9ea49506eb7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-107-2014",
+   "path": "ue/directiva/2014/107",
+   "short": "Directiva 2014/107/UE",
+   "title": "Directiva 2014/107/UE a Consiliului din 9 decembrie 2014 de modificare a Directivei 2011/16/UE în ceea ce privește schimbul automat obligatoriu de informații în domeniul fiscal",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0107",
+   "versions": [
+    {
+     "from": "2015-01-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/899b6c44-84ec-11e4-91cd-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f91592183aac31c595c0244cb504a9af77b2e2ef86cd890fceafb9afbdd758be"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-112-2014",
+   "path": "ue/directiva/2014/112",
+   "short": "Directiva 2014/112/UE",
+   "title": "Directiva 2014/112/UE a Consiliului din 19 decembrie 2014 de punere în aplicare a Acordului european privind anumite aspecte ale organizării timpului de lucru în transportul pe căi navigabile interioare, încheiat de „European Barge Union” (Uniunea Europeană a Navigației Interioare) (EBU), „European Skippers Organisation” (Uniunea Europeană a Marinarilor Fluviali) (ESO) și Federația Europeană a Lucrătorilor din Transporturi (ETF) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0112",
+   "versions": [
+    {
+     "from": "2015-01-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/18bec07f-8a6d-11e4-b8a5-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8e42d39d6d906b5498389154f0323c3d2ae12e64531bc79a6f4143eda4b84c66"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-17-2014",
+   "path": "ue/directiva/2014/17",
+   "short": "Directiva 2014/17/UE",
+   "title": "Directiva 2014/17/UE a Parlamentului European și a Consiliului din 4 februarie 2014 privind contractele de credit oferite consumatorilor pentru bunuri imobile rezidențiale și de modificare a Directivelor 2008/48/CE și 2013/36/UE și a Regulamentului (UE) nr. 1093/2010 Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0017",
+   "versions": [
+    {
+     "from": "2014-03-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b8102350-a050-11e3-8b87-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e883b6645bf8d892460216c99c66ed11d7e0decad1f0282de4a4ada77c495413"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-23-2014",
+   "path": "ue/directiva/2014/23",
+   "short": "Directiva 2014/23/UE",
+   "title": "Directiva 2014/23/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind atribuirea contractelor de concesiune Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0023",
+   "versions": [
+    {
+     "from": "2014-04-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/7ebc3110-b653-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "7f61856bb5a336d4b5c6b83cbf36857971385b418812aef191f82b4d0c831bd0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-24-2014",
+   "path": "ue/directiva/2014/24",
+   "short": "Directiva 2014/24/UE",
+   "title": "Directiva 2014/24/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind achizițiile publice și de abrogare a Directivei 2004/18/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0024",
+   "versions": [
+    {
+     "from": "2014-04-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/aa61f069-b654-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b48fa7fcf309ca13961cbc09c0a575e9758d2154979ddfd4e78c5024474e4036"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-25-2014",
+   "path": "ue/directiva/2014/25",
+   "short": "Directiva 2014/25/UE",
+   "title": "Directiva 2014/25/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind achizițiile efectuate de entitățile care își desfășoară activitatea în sectoarele apei, energiei, transporturilor și serviciilor poștale și de abrogare a Directivei 2004/17/CΕ Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0025",
+   "versions": [
+    {
+     "from": "2014-04-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3c100e84-b654-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e4aba0a71f8f72d7c0301bbdac10115367f0b2122b7dd938dbfb4270995dda27"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-26-2014",
+   "path": "ue/directiva/2014/26",
+   "short": "Directiva 2014/26/UE",
+   "title": "Directiva 2014/26/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind gestiunea colectivă a drepturilor de autor și a drepturilor conexe și acordarea de licențe multiteritoriale pentru drepturile asupra operelor muzicale pentru utilizare online pe piața internă Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0026",
+   "versions": [
+    {
+     "from": "2014-04-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/976715e3-b004-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4d26bc0d31098bdb86287301a0d06e098f95cef9885768ecd0082d61cc0fcf40"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-27-2014",
+   "path": "ue/directiva/2014/27",
+   "short": "Directiva 2014/27/UE",
+   "title": "Directiva 2014/27/UE a Parlamentului European și a Consiliului din 26 februarie 2014 de modificare a Directivelor 92/58/CEE, 92/85/CEE, 94/33/CE, 98/24/CE ale Consiliului și a Directivei 2004/37/CE a Parlamentului European și a Consiliului pentru a le alinia la Regulamentul (CE) nr. 1272/2008 privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilor",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0027",
+   "versions": [
+    {
+     "from": "2014-03-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/99412ae9-a45f-11e3-afd1-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "e4c25cd83290f82227b92a1830bbb4bbc3d55891c9b51cf213cc25143823e785"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-28-2014",
+   "path": "ue/directiva/2014/28",
+   "short": "Directiva 2014/28/UE",
+   "title": "Directiva 2014/28/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind armonizarea legislației statelor membre referitoare la punerea la dispoziție pe piață și controlul explozivilor de uz civil (reformare) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0028",
+   "versions": [
+    {
+     "from": "2014-04-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4d5ee66b-b723-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "df74270cbbdfdaa5bbe740c10b02865471050dd4ec2435fcf1496a5d5aeff0a0"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-29-2014",
+   "path": "ue/directiva/2014/29",
+   "short": "Directiva 2014/29/UE",
+   "title": "Directiva 2014/29/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind armonizarea legislației statelor membre referitoare la punerea la dispoziție pe piață a recipientelor simple sub presiune (reformare) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0029",
+   "versions": [
+    {
+     "from": "2014-04-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9da840f8-b721-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "6078504a38ff135af93c3ee7f4c214ec929a1dc8f6e3b163203b5cd8717135bf"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-30-2014",
+   "path": "ue/directiva/2014/30",
+   "short": "Directiva 2014/30/UE",
+   "title": "Directiva 2014/30/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind armonizarea legislațiilor statelor membre cu privire la compatibilitatea electromagnetică (reformare) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0030",
+   "versions": [
+    {
+     "from": "2014-04-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a0c91ade-b71f-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "109d01e86eb27ea384850354cedaff4bb419a4b8dae6971929386c9ea0823db1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-31-2014",
+   "path": "ue/directiva/2014/31",
+   "short": "Directiva 2014/31/UE",
+   "title": "Directiva 2014/31/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind armonizarea legislației statelor membre referitoare la punerea la dispoziție pe piață a aparatelor de cântărit cu funcționare neautomată (reformare) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0031",
+   "versions": [
+    {
+     "from": "2014-04-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/3ccdada9-b722-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "cf5c651d0476715760b7a8bd081b26bf02669ecab2429338471cdb5aab776cb9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-32-2014",
+   "path": "ue/directiva/2014/32",
+   "short": "Directiva 2014/32/UE",
+   "title": "Directiva 2014/32/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind armonizarea legislației statelor membre referitoare la punerea la dispoziție pe piață a mijloacelor de măsurare (reformare) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0032",
+   "versions": [
+    {
+     "from": "2014-04-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/cb24c6ac-b723-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9904b30e0611be688eaeefe1592c16b6c50d0484aae4791d522d61d8f1362cf9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-33-2014",
+   "path": "ue/directiva/2014/33",
+   "short": "Directiva 2014/33/UE",
+   "title": "Directiva 2014/33/UE a Parlamentului European și a Consiliului din 26 februarie 2014 de armonizare a legislațiilor statelor membre referitoare la ascensoare și la componentele de siguranță pentru ascensoare (reformare) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0033",
+   "versions": [
+    {
+     "from": "2014-04-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d50803ea-b722-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9ce0da04770a708963b7fa69bfb077048c343666b522e0b4b371e08537270b38"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-34-2014",
+   "path": "ue/directiva/2014/34",
+   "short": "Directiva 2014/34/UE",
+   "title": "Directiva 2014/34/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind armonizarea legislațiilor statelor membre referitoare la echipamentele și sistemele de protecție destinate utilizării în atmosfere potențial explozive (reformare) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0034",
+   "versions": [
+    {
+     "from": "2014-04-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/68451154-b720-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "9b40d443f11ed88bf910c8c210a6e10a0ee3a07b19f7091378e7daa2dd8f8eb3"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-35-2014",
+   "path": "ue/directiva/2014/35",
+   "short": "Directiva 2014/35/UE",
+   "title": "Directiva 2014/35/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind armonizarea legislației statelor membre referitoare la punerea la dispoziție pe piață a echipamentelor electrice destinate utilizării în cadrul unor anumite limite de tensiune (reformare) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0035",
+   "versions": [
+    {
+     "from": "2014-04-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/13ab8bf5-b721-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "322b338ad8de6fb979f073b9b251e19afdc33f5e1700deb43cf9e4d87ab93e48"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-36-2014",
+   "path": "ue/directiva/2014/36",
+   "short": "Directiva 2014/36/UE",
+   "title": "Directiva 2014/36/UE a Parlamentului European și a Consiliului din 26 februarie 2014 privind condițiile de intrare și de ședere a resortisanților țărilor terțe în scopul ocupării unui loc de muncă în calitate de lucrători sezonieri",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0036",
+   "versions": [
+    {
+     "from": "2014-03-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/02b98f32-b654-11e3-86f9-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "4752842a7ab39a3cd85086ff6efeee1a2edf5593ceb7c99d9c9186958a683cf4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-40-2014",
+   "path": "ue/directiva/2014/40",
+   "short": "Directiva 2014/40/UE",
+   "title": "Directiva 2014/40/UE a Parlamentului European și a Consiliului din 3 aprilie 2014 privind apropierea actelor cu putere de lege și a actelor administrative ale statelor membre în ceea ce privește fabricarea, prezentarea și vânzarea produselor din tutun și a produselor conexe și de abrogare a Directivei 2001/37/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0040",
+   "versions": [
+    {
+     "from": "2014-05-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/797a78a6-cf66-11e3-b682-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "4d20e8704f17e1673c17f24e4673255849f344adf438367e5d9f29f5fe5e94d9"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-41-2014",
+   "path": "ue/directiva/2014/41",
+   "short": "Directiva 2014/41/UE",
+   "title": "Directiva 2014/41/UE a Parlamentului European și a Consiliului din 3 aprilie 2014 privind ordinul european de anchetă în materie penală",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0041",
+   "versions": [
+    {
+     "from": "2014-05-21",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e1440a9e-d0fe-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "52ff00d5d90de4523cb6773af19c1311e4f34f73983517f52ab4d7fedc684050"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-42-2014",
+   "path": "ue/directiva/2014/42",
+   "short": "Directiva 2014/42/UE",
+   "title": "Directiva 2014/42/UE a Parlamentului European și a Consiliului din 3 aprilie 2014 privind înghețarea și confiscarea instrumentelor și produselor infracțiunilor săvârșite în Uniunea Europeană",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0042",
+   "versions": [
+    {
+     "from": "2014-05-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/982608a8-cf66-11e3-b682-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "a64362d3894d50047f213d2e04d4776118fc5d346ad590f7aa11ceefb1786ffc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-45-2014",
+   "path": "ue/directiva/2014/45",
+   "short": "Directiva 2014/45/UE",
+   "title": "Directiva 2014/45/UE a Parlamentului European și a Consiliului din 3 aprilie 2014 privind inspecția tehnică periodică a autovehiculelor și a remorcilor acestora și de abrogare a Directivei 2009/40/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0045",
+   "versions": [
+    {
+     "from": "2014-05-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b560a38a-cf66-11e3-b682-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "dc939f9c79c8dd292d54c4ec6523d45e18185dbd8675562325c0233ae329ef28"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-46-2014",
+   "path": "ue/directiva/2014/46",
+   "short": "Directiva 2014/46/UE",
+   "title": "Directiva 2014/46/UE a Parlamentului European și a Consiliului din 3 aprilie 2014 de modificare a Directivei 1999/37/CE a Consiliului privind documentele de înmatriculare pentru vehicule",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0046",
+   "versions": [
+    {
+     "from": "2014-05-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d1cf3bdc-cf66-11e3-b682-01aa75ed71a1.0019.04/DOC_1",
+     "sha256": "002e24a77437ce8cba2d79e1548b99fb29468ef6d7aab1f8acee01f669a197d4"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-49-2014",
+   "path": "ue/directiva/2014/49",
+   "short": "Directiva 2014/49/UE",
+   "title": "Directiva 2014/49/UE a Parlamentului European și a Consiliului din 16 aprilie 2014 privind schemele de garantare a depozitelor (reformare) Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0049",
+   "versions": [
+    {
+     "from": "2014-07-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/76aafc94-f1f7-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "9d141f055943c42adbf7715598f351bc0496ecbc024e3ad920225c013ac8d5af"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-50-2014",
+   "path": "ue/directiva/2014/50",
+   "short": "Directiva 2014/50/UE",
+   "title": "Directiva 2014/50/UE a Parlamentului European și a Consiliului din 16 aprilie 2014 privind cerințele minime de creștere a mobilității lucrătorilor între statele membre prin îmbunătățirea dobândirii și a păstrării drepturilor la pensie suplimentară Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0050",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/112466fb-d031-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "7a07915fd831564711b0c7dc35634f59731a7bfca4395537138df9e369d2028d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-51-2014",
+   "path": "ue/directiva/2014/51",
+   "short": "Directiva 2014/51/UE",
+   "title": "Directiva 2014/51/UE a Parlamentului European și a Consiliului din 16 aprilie 2014 de modificare a Directivelor 2003/71/CE și 2009/138/CE și a Regulamentelor (CE) nr. 1060/2009, (UE) nr. 1094/2010 și (UE) nr. 1095/2010 în ceea ce privește competențele Autorității europene de supraveghere (Autoritatea Europeană de Asigurări și Pensii Ocupaționale) și ale Autorității europene de supraveghere (Autoritatea Europeană pentru Valori Mobiliare și Piețe)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0051",
+   "versions": [
+    {
+     "from": "2014-05-23",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d7342894-e180-11e3-8cd4-01aa75ed71a1.0019.02/DOC_1",
+     "sha256": "6255732feb5a934143f2fa691fbb337d0f6bb0236cca803450d93c9398a655f7"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-52-2014",
+   "path": "ue/directiva/2014/52",
+   "short": "Directiva 2014/52/UE",
+   "title": "Directiva 2014/52/UE a Parlamentului European și a Consiliului din 16 aprilie 2014 de modificare a Directivei 2011/92/UE privind evaluarea efectelor anumitor proiecte publice și private asupra mediului Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0052",
+   "versions": [
+    {
+     "from": "2014-05-15",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ce58f551-cc3b-11e3-b74e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c9dde8dd600b9b33ee73f8e5c7ef282ede632025fcc14a44b1251c741fa21d70"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-53-2014",
+   "path": "ue/directiva/2014/53",
+   "short": "Directiva 2014/53/UE",
+   "title": "Directiva 2014/53/UE a Parlamentului European și a Consiliului din 16 aprilie 2014 privind armonizarea legislației statelor membre referitoare la punerea la dispoziție pe piață a echipamentelor radio și de abrogare a Directivei 1999/5/CE Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0053",
+   "versions": [
+    {
+     "from": "2014-06-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/1b79e176-e181-11e3-8cd4-01aa75ed71a1.0019.02/DOC_1",
+     "sha256": "d8eb9ad95cc5acecbb0e57a157e641c4d5a7aa870de012ac482f9d1bd021572e"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-54-2014",
+   "path": "ue/directiva/2014/54",
+   "short": "Directiva 2014/54/UE",
+   "title": "Directiva 2014/54/UE a Parlamentului European și a Consiliului din 16 aprilie 2014 privind măsurile de facilitare a exercitării drepturilor conferite lucrătorilor în contextul liberei circulații a lucrătorilor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0054",
+   "versions": [
+    {
+     "from": "2014-05-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/2c1fc03c-d031-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "af0717dcf9ff1c2bfc764c45e3c8e73e6783b6515066014a30dadf5b71b233f5"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-55-2014",
+   "path": "ue/directiva/2014/55",
+   "short": "Directiva 2014/55/UE",
+   "title": "Directiva 2014/55/UE a Parlamentului European și a Consiliului din 16 aprilie 2014 privind facturarea electronică în domeniul achizițiilor publice Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0055",
+   "versions": [
+    {
+     "from": "2014-05-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/fd3c48c2-d4f1-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "adfdcb29f6cbd2ba74458920c5453fa6cb1102aefec0d00aaae75e63b53e5d94"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-56-2014",
+   "path": "ue/directiva/2014/56",
+   "short": "Directiva 2014/56/UE",
+   "title": "Directiva 2014/56/UE a Parlamentului European și a Consiliului din 16 aprilie 2014 de modificare a Directivei 2006/43/CE privind auditul legal al situațiilor financiare anuale și al situațiilor financiare consolidate Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0056",
+   "versions": [
+    {
+     "from": "2014-06-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/39de2648-e657-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8be5db8fd24a45cf6ce4f517d215d6288d1a8b5623a3b53de4524fad7c1da202"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-57-2014",
+   "path": "ue/directiva/2014/57",
+   "short": "Directiva 2014/57/UE",
+   "title": "Directiva 2014/57/UE a Parlamentului European și a Consiliului din 16 aprilie 2014 privind sancțiunile penale pentru abuzul de piață (directiva privind abuzul de piață)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32014L0057",
+   "versions": [
+    {
+     "from": "2014-07-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a5b6bfbc-f1f7-11e3-8cd4-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "13d08968c9599198eb18733a8c56d529472077ceaeef07eeed553be10a950dff"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "ue/1993",
+ "acts": [
+  {
+   "slug": "ue-directiva-103-1993",
+   "path": "ue/directiva/1993/103",
+   "short": "Directiva CELEX 31993L0103",
+   "title": "Directiva nr. 93/103/CE a Consiliului din 23 noiembrie 1993 privind cerințele minime de securitate și sănătate în muncă la bordul navelor de pescuit [a treisprezecea directivă specială în sensul articolului 16 alineatul (1) din Directiva nr. 89/391/CEE]",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993L0103",
+   "versions": [
+    {
+     "from": "1994-01-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/9e60440b-449b-4151-9601-30bafdc5cfac.0020.03/DOC_18",
+     "sha256": "8d399d75f86211d18358f1c89700ce2407c19fadbe2d29914984f32ceb3070a8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-109-1993",
+   "path": "ue/directiva/1993/109",
+   "short": "Directiva 93/109/CE",
+   "title": "Directiva 93/109/CE a Consiliului din 6 decembrie 1993 de stabilire a normelor de exercitare a dreptului de a alege și de a fi ales pentru Parlamentul European pentru cetățenii Uniunii care au reședința într-un stat membru în care nu sunt resortisanți",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993L0109",
+   "versions": [
+    {
+     "from": "1993-12-30",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8a395f55-e3bb-4507-b68e-b669d7e1a6ed.0022.03/DOC_1",
+     "sha256": "a28cb0ce8b40440b735bac8bf72f9c51ad71146b98d16168c8582ce80a520873"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-11-1993",
+   "path": "ue/directiva/1993/11",
+   "short": "Directiva 93/11/CE",
+   "title": "Directiva 93/11/CEE a Comisiei din 15 martie 1993 privind eliberarea N-nitrozaminelor și a substanțelor N-nitrozabile din tetinele și suzetele fabricate din elastomeri sau cauciuc",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993L0011",
+   "versions": [
+    {
+     "from": "1993-03-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/354de978-8111-4562-a90b-abf38b151a48.0022.03/DOC_2",
+     "sha256": "1b228b56d940a88796f4d124a093917f9789a103696a73679637bed1fbe8b6dc"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-13-1993",
+   "path": "ue/directiva/1993/13",
+   "short": "Directiva 93/13/CE",
+   "title": "Directiva 93/13/CEE a Consiliului din 5 aprilie 1993 privind clauzele abuzive în contractele încheiate cu consumatorii",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:31993L0013",
+   "versions": [
+    {
+     "from": "1993-04-16",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/954c3cd9-b2fa-47ae-a1f6-b6e62a488ad3.0022.03/DOC_2",
+     "sha256": "0f8be0724e487eef309c859443d737d710d60bc970218c222848dba2d563d044"
+    }
+   ]
+  }
+ ]
+}

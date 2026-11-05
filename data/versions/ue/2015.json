@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "ue/2015",
+ "acts": [
+  {
+   "slug": "ue-directiva-1127-2015",
+   "path": "ue/directiva/2015/1127",
+   "short": "Directiva (UE) 2015/1127",
+   "title": "Directiva (UE) 2015/1127 a Comisiei din 10 iulie 2015 de modificare a anexei II la Directiva 2008/98/CE a Parlamentului European și a Consiliului privind deșeurile și de abrogare a anumitor directive (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L1127",
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e775a959-276b-11e5-a342-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "15490dd6a94af7da77f27deca2b338d7b9add89bd76f7ffa7071b4d2ddeb2a90"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-121-2015",
+   "path": "ue/directiva/2015/121",
+   "short": "Directiva (UE) 2015/121",
+   "title": "Directiva (UE) 2015/121 a Consiliului din 27 ianuarie 2015 de modificare a Directivei 2011/96/UE privind regimul fiscal comun care se aplică societăților-mamă și filialelor acestora din diferite state membre",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L0121",
+   "versions": [
+    {
+     "from": "2015-02-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/950a8d56-a6b7-11e4-8e01-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "8c162f54bc1e319c78961dad4a9d5e84716e87b6e88214b96cf24e74b8c798e1"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1480-2015",
+   "path": "ue/directiva/2015/1480",
+   "short": "Directiva (UE) 2015/1480",
+   "title": "Directiva (UE) 2015/1480 a Comisiei din 28 august 2015 de modificare a mai multor anexe la Directivele 2004/107/CE și 2008/50/CE ale Parlamentului European și ale Comisiei prin care se stabilesc normele privind metodele de referință, validarea datelor și amplasarea punctelor de prelevare pentru evaluarea calității aerului înconjurător (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L1480",
+   "versions": [
+    {
+     "from": "2015-09-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/14749a63-4e0f-11e5-9f5a-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "ebf63f0f75a80e51ed9b335779b37fc9b6f7d34eaba768813736b58249ced8db"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1513-2015",
+   "path": "ue/directiva/2015/1513",
+   "short": "Directiva (UE) 2015/1513",
+   "title": "Directiva (UE) 2015/1513 a Parlamentului European și a Consiliului din 9 septembrie 2015 de modificare a Directivei 98/70/CE privind calitatea benzinei și a motorinei și de modificare a Directivei 2009/28/CE privind promovarea utilizării energiei din surse regenerabile (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L1513",
+   "versions": [
+    {
+     "from": "2015-10-05",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/8671e480-5b6a-11e5-afbf-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "dbb529f7744357fe82ee75f599d876caa85f9743b59925afafef973c504ae5cd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1535-2015",
+   "path": "ue/directiva/2015/1535",
+   "short": "Directiva (UE) 2015/1535",
+   "title": "Directiva (UE) 2015/1535 a Parlamentului European și a Consiliului din 9 septembrie 2015 referitoare la procedura de furnizare de informații în domeniul reglementărilor tehnice și al normelor privind serviciile societății informaționale (text codificat) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L1535",
+   "versions": [
+    {
+     "from": "2015-10-07",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a857b646-5cfd-11e5-afbf-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "915a9d31bb6ba88f55ffe4457639bfb3c3555a623612b52c0dcb3c105761c1eb"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-1794-2015",
+   "path": "ue/directiva/2015/1794",
+   "short": "Directiva (UE) 2015/1794",
+   "title": "Directiva (UE) 2015/1794 a Parlamentului European și a Consiliului din 6 octombrie 2015 de modificare a Directivelor 2008/94/CE, 2009/38/CE și 2002/14/CE ale Parlamentului European și ale Consiliului, precum și a Directivelor 98/59/CE și 2001/23/CE ale Consiliului, în ceea ce privește navigatorii (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L1794",
+   "versions": [
+    {
+     "from": "2015-10-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4e020f18-6d7f-11e5-9317-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "3b30bd6d3853ab68bd3799c6e85e82c2a37b8cf0d39eb4f7e3dbf227b98cbe50"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2060-2015",
+   "path": "ue/directiva/2015/2060",
+   "short": "Directiva (UE) 2015/2060",
+   "title": "Directiva (UE) 2015/2060 a Consiliului din 10 noiembrie 2015 de abrogare a Directivei 2003/48/CEE privind impozitarea veniturilor din economii sub forma plăților de dobânzi",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L2060",
+   "versions": [
+    {
+     "from": "2015-12-08",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/5b5b28a9-8dc6-11e5-b8b7-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "57ef05ff6f30771b0f960bb0f7a29c3e86f13e16f1d4756578ce267ade85fc59"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2193-2015",
+   "path": "ue/directiva/2015/2193",
+   "short": "Directiva (UE) 2015/2193",
+   "title": "Directiva (UE) 2015/2193 a Parlamentului European și a Consiliului din 25 noiembrie 2015 privind limitarea emisiilor în atmosferă a anumitor poluanți provenind de la instalații medii de ardere (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L2193",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dab34984-9560-11e5-983e-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "71ff11510939f406bbc67ab93ae54c1a84e19136668b2edb6f9e8316c7f21fae"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2302-2015",
+   "path": "ue/directiva/2015/2302",
+   "short": "Directiva (UE) 2015/2302",
+   "title": "Directiva (UE) 2015/2302 a Parlamentului European și a Consiliului din 25 noiembrie 2015 privind pachetele de servicii de călătorie și serviciile de călătorie asociate, de modificare a Regulamentului (CE) nr. 2006/2004 și a Directivei 2011/83/UE ale Parlamentului European și ale Consiliului și de abrogare a Directivei 90/314/CEE a Consiliului",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L2302",
+   "versions": [
+    {
+     "from": "2015-12-31",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d9dbbde8-9fd7-11e5-8781-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "f3647bab97376273ac58e14a46aeda7fe9a1038aa0753ef77899357f4cbd5a84"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2366-2015",
+   "path": "ue/directiva/2015/2366",
+   "short": "Directiva (UE) 2015/2366",
+   "title": "Directiva (UE) 2015/2366 a Parlamentului European și a Consiliului din 25 noiembrie 2015 privind serviciile de plată în cadrul pieței interne, de modificare a Directivelor 2002/65/CE, 2009/110/CE și 2013/36/UE și a Regulamentului (UE) nr. 1093/2010, și de abrogare a Directivei 2007/64/CE (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L2366",
+   "versions": [
+    {
+     "from": "2016-01-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/dd85ef2e-a953-11e5-b528-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "555600edef64d1d318bf32b489b4f179732816078d26ac16aa95ce511f55ec10"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2376-2015",
+   "path": "ue/directiva/2015/2376",
+   "short": "Directiva (UE) 2015/2376",
+   "title": "Directiva (UE) 2015/2376 a Consiliului din 8 decembrie 2015 de modificare a Directivei 2011/16/UE în ceea ce privește schimbul automat obligatoriu de informații în domeniul fiscal",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L2376",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/4c8da96f-a55a-11e5-b528-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "c48e53445abd212c223e80cfa0b5410d2fd1c5f29d428b4d72edd6c6e5f7cb29"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-2436-2015",
+   "path": "ue/directiva/2015/2436",
+   "short": "Directiva (UE) 2015/2436",
+   "title": "Directiva (UE) 2015/2436 a Parlamentului European și a Consiliului din 16 decembrie 2015 de apropiere a legislațiilor statelor membre cu privire la mărci (reformare) (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L2436",
+   "versions": [
+    {
+     "from": "2016-01-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/e5cbd28f-a93c-11e5-b528-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "16fc64f849f9cc8df2aaba7c451f0e72bea792025e63a2df26de75fe25e15502"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-412-2015",
+   "path": "ue/directiva/2015/412",
+   "short": "Directiva (UE) 2015/412",
+   "title": "Directiva (UE) 2015/412 a Parlamentului European și a Consiliului din 11 martie 2015 de modificare a Directivei 2001/18/CE în ceea ce privește posibilitatea statelor membre de a restricționa sau de a interzice cultivarea organismelor modificate genetic (OMG) pe teritoriul lor Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L0412",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/80d33e78-c94d-11e4-bbe1-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "135e7224db5e6fc1c1d9dd9b05fd00b3fcd2d27a3a884e0d61dec70fe07869df"
+    }
+   ]
+  },
+  {
+   "slug": "ue-directiva-413-2015",
+   "path": "ue/directiva/2015/413",
+   "short": "Directiva (UE) 2015/413",
+   "title": "Directiva (UE) 2015/413 a Parlamentului European și a Consiliului din 11 martie 2015 de facilitare a schimbului transfrontalier de informații privind încălcările normelor de circulație care afectează siguranța rutieră Text cu relevanță pentru SEE",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32015L0413",
+   "versions": [
+    {
+     "from": "2015-03-17",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/a6da0bdb-c94d-11e4-bbe1-01aa75ed71a1.0019.03/DOC_1",
+     "sha256": "793bdacbb17de3bac7ff12bf202abf9a46b0d3013017872c0eb2215c127b37cf"
+    }
+   ]
+  }
+ ]
+}
