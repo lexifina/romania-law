@@ -7107,6 +7107,51 @@
    ]
   },
   {
+   "slug": "hg-905-1996",
+   "path": "hg/1996/905",
+   "short": "HG nr. 905/1996",
+   "title": "Hotărârea Guvernului nr. 905/1996 privind transmiterea unui imobil proprietate privată a statului în administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9970",
+   "versions": [
+    {
+     "from": "1996-11-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9970",
+     "sha256": "93b3486ed61bd59a7517ddd0c223f1bfa4a51ce6c31c5aa2b2fe80aed8cfa7c9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-909-1996",
+   "path": "hg/1996/909",
+   "short": "HG nr. 909/1996",
+   "title": "Hotărârea Guvernului nr. 909/1996 privind contractarea şi garantarea unui credit extern necesar achiziţionării de aparatura de radiologie pentru reţeaua naţionala sanitară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9974",
+   "versions": [
+    {
+     "from": "1996-10-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9974",
+     "sha256": "cb9afa29f4cab80d23bb894a1d957a3d0cac917bb049ed5b64cf933ab163d6ff"
+    }
+   ]
+  },
+  {
+   "slug": "hg-910-1996",
+   "path": "hg/1996/910",
+   "short": "HG nr. 910/1996",
+   "title": "Hotărârea Guvernului nr. 910/1996 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 1996 al Regiei Autonome \"Agenţia Naţionala a Produselor Agricole\" de sub autoritatea Ministerului Agriculturii şi Alimentaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9975",
+   "versions": [
+    {
+     "from": "1996-10-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9975",
+     "sha256": "324ebf424d727ef96a9f11cfc73a331e82bb456902cfef91631b944bd721a009"
+    }
+   ]
+  },
+  {
    "slug": "hg-911-1996",
    "path": "hg/1996/911",
    "short": "HG nr. 911/1996",
@@ -7118,6 +7163,126 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9976",
      "sha256": "d0e9230f11222ef76ad03a3f30b5e60ebcff1fadba478c4d50a81d893303e6e9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-912-1996",
+   "path": "hg/1996/912",
+   "short": "HG nr. 912/1996",
+   "title": "Hotărârea Guvernului nr. 912/1996 privind aprobarea efectuării unui schimb de imobile proprietate de stat din municipiul Urziceni, judeţul Ialomiţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9977",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9977",
+     "sha256": "4a09dd782e4230d5318e556cec2e64081df4cdcf0389ed6c3e65d41c21143aa2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-913-1996",
+   "path": "hg/1996/913",
+   "short": "HG nr. 913/1996",
+   "title": "Hotărârea Guvernului nr. 913/1996 privind transmiterea, fără plata, a unor imobile situate în municipiul Giurgiu, judeţul Giurgiu, în administrarea Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9978",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9978",
+     "sha256": "7e5254c7d7a776e7c03a4642ae2fd5c2d2c8ca5f1f9e40b41d59fc3d22c00656"
+    }
+   ]
+  },
+  {
+   "slug": "hg-914-1996",
+   "path": "hg/1996/914",
+   "short": "HG nr. 914/1996",
+   "title": "Hotărârea Guvernului nr. 914/1996 privind transmiterea unui imobil, proprietate publică a statului, în administrarea Camerei de Comerţ şi Industrie Timişoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9979",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9979",
+     "sha256": "b90b5a387d52463956737a11c02438ea5a43c719ed04bb5892e2474612a2e629"
+    }
+   ]
+  },
+  {
+   "slug": "hg-915-1996",
+   "path": "hg/1996/915",
+   "short": "HG nr. 915/1996",
+   "title": "Hotărârea Guvernului nr. 915/1996 privind transmiterea unui imobil în administrarea Consiliului Local al Municipiului Giurgiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9980",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9980",
+     "sha256": "07c897cd3e6c5111c3306fd4f31ffa75e1357cbe2328a3779a5935461ac70134"
+    }
+   ]
+  },
+  {
+   "slug": "hg-916-1996",
+   "path": "hg/1996/916",
+   "short": "HG nr. 916/1996",
+   "title": "Hotărârea Guvernului nr. 916/1996 privind transmiterea unor apartamente din patrimoniul Regiei Autonome \"Locato\" în administrarea Ministerului Afacerilor Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9981",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9981",
+     "sha256": "0a9756d71f41d3440d2444dee11ccd9f7c6aa4fd5ae5778bd39b74eef6dbabee"
+    }
+   ]
+  },
+  {
+   "slug": "hg-917-1996",
+   "path": "hg/1996/917",
+   "short": "HG nr. 917/1996",
+   "title": "Hotărârea Guvernului nr. 917/1996 privind transmiterea unei părţi dintr-un imobil situat în municipiul Slobozia, judeţul Ialomiţa, în administrarea Ministerului Muncii şi Protecţiei Sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9982",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9982",
+     "sha256": "ec903a581c04a18b825a1043c52b02305871402023b90a6c2b7ca830cdd7a9c1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-918-1996",
+   "path": "hg/1996/918",
+   "short": "HG nr. 918/1996",
+   "title": "Hotărârea Guvernului nr. 918/1996 privind alocarea unor fonduri din bugetul de stat pe anul 1996 pentru obiectivul de investiţii \"Alimentarea cu apa a municipiului Drobeta-Turnu Severin din sursa Bîrza-Topleţ, judeţul Mehedinţi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9983",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9983",
+     "sha256": "a6b3b56337e1b1e76ba23357eb798f2493314d7db1ddbef25e56980daab3ce2b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-919-1996",
+   "path": "hg/1996/919",
+   "short": "HG nr. 919/1996",
+   "title": "Hotărârea Guvernului nr. 919/1996 privind alocarea unor fonduri din bugetul de stat pe anul 1996 pentru finalizarea lucrărilor la obiectivul de investiţii \"Dezvoltarea alimentării cu apa a municipiului Slobozia, judeţul Ialomiţa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9984",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9984",
+     "sha256": "b4d287bb5a3a41bcac346ca76b6825bb1eb54cf4e9835c20f770798716983f2f"
     }
    ]
   },
@@ -7137,6 +7302,201 @@
    ]
   },
   {
+   "slug": "hg-920-1996",
+   "path": "hg/1996/920",
+   "short": "HG nr. 920/1996",
+   "title": "Hotărârea Guvernului nr. 920/1996 privind alocarea unor fonduri din bugetul de stat pe anul 1996 pentru finanţarea obiectivului de investiţii \"Extinderea şi amenajarea sălii de cultura &lt;&lt;Parc&gt;&gt; din oraşul Pucioasa, judeţul Dîmboviţa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9985",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9985",
+     "sha256": "c9fc57db12c092d78fab4679ef12fff657c36ddc65adab5bf41ca2082835a81a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-921-1996",
+   "path": "hg/1996/921",
+   "short": "HG nr. 921/1996",
+   "title": "Hotărârea Guvernului nr. 921/1996 privind alocarea unor fonduri din bugetul de stat pe anul 1996 pentru obiectivul de investiţii \"Extindere cămin-spital bolnavi cronici neuropsihici Gura Ocniţei, judeţul Dîmboviţa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9986",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9986",
+     "sha256": "3ff5957a6929cbf236b195fc0056ca1904a9f99af32b005fdd07c80744ee0dd4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-922-1996",
+   "path": "hg/1996/922",
+   "short": "HG nr. 922/1996",
+   "title": "Hotărârea Guvernului nr. 922/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentarea cu apa a comunei Blăjani, judeţul Buzău\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9987",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9987",
+     "sha256": "23e95ddf1ef70495b82a166f0cdc0a7dfc109600430e87da1055dcda9f3ff99a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-923-1996",
+   "path": "hg/1996/923",
+   "short": "HG nr. 923/1996",
+   "title": "Hotărârea Guvernului nr. 923/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Autobaza Alexandru Obregia - 66 autobuze simple Bucureşti\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9988",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9988",
+     "sha256": "883c380af622d86f4ae20e4058fc8c09883fa33cd9663ebc6ba06a17965871ed"
+    }
+   ]
+  },
+  {
+   "slug": "hg-924-1996",
+   "path": "hg/1996/924",
+   "short": "HG nr. 924/1996",
+   "title": "Hotărârea Guvernului nr. 924/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizarea drumului comunal DC 54 Ungureni din comuna Cupşeni, judeţul Maramureş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9989",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9989",
+     "sha256": "9e8fa6b754d939dab3ed0e2bf248a8a389023224425994bc7b5bf83f14665ebd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-925-1996",
+   "path": "hg/1996/925",
+   "short": "HG nr. 925/1996",
+   "title": "Hotărârea Guvernului nr. 925/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentarea cu apă a comunei Ciacova, satele Cebza şi Ghilad, judeţul Timiş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9990",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9990",
+     "sha256": "7a612f1eef69d49baf6ecb0f7cf55a12c2950e8e4466f3091aad0b4bb9fdf33e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-926-1996",
+   "path": "hg/1996/926",
+   "short": "HG nr. 926/1996",
+   "title": "Hotărârea Guvernului nr. 926/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizarea drumului comunal Cacica-Solonetu Nou din comuna Cacica, judeţul Suceava\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9991",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9991",
+     "sha256": "f81fb0bfa05343a8e8e869f233e5d8d08bd8cdfb9bcfb1fa77c332405c396c66"
+    }
+   ]
+  },
+  {
+   "slug": "hg-927-1996",
+   "path": "hg/1996/927",
+   "short": "HG nr. 927/1996",
+   "title": "Hotărârea Guvernului nr. 927/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizarea drumului comunal DC 183 Ciacova-Ghilad, judeţul Timiş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9992",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9992",
+     "sha256": "0a4c791043af6f7897699fccfc1db5c52b15dad7622ee239361907101da0f9bc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-928-1996",
+   "path": "hg/1996/928",
+   "short": "HG nr. 928/1996",
+   "title": "Hotărârea Guvernului nr. 928/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentarea cu apa a comunei C. A. Rosetti, judeţul Tulcea\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9993",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9993",
+     "sha256": "4b7bcd08adac031c40add4b5b0a4ce6b497a3891a5b8b0a2e1c17070b8bdc803"
+    }
+   ]
+  },
+  {
+   "slug": "hg-929-1996",
+   "path": "hg/1996/929",
+   "short": "HG nr. 929/1996",
+   "title": "Hotărârea Guvernului nr. 929/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentarea cu apa potabilă a satelor Girbovat, Ghidigeni, Talpigi şi Slobozia Corni din comuna Ghidigeni, judeţul Galaţi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9994",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9994",
+     "sha256": "fe79da2deffb1c2e153bc111a5d5a4e63251fea3f57323623f9911103998c732"
+    }
+   ]
+  },
+  {
+   "slug": "hg-931-1996",
+   "path": "hg/1996/931",
+   "short": "HG nr. 931/1996",
+   "title": "Hotărârea Guvernului nr. 931/1996 pentru aprobarea Convenţiei dintre Guvernul României şi Guvernul Republicii Polone privind cooperarea în domeniul veterinar, semnată la Bucureşti la 14 mai 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9996",
+   "versions": [
+    {
+     "from": "1996-11-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9996",
+     "sha256": "7292e160ab0e6ca47e15e7787bcf871308828c189dcf473aa58e96109c2356b3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-932-1996",
+   "path": "hg/1996/932",
+   "short": "HG nr. 932/1996",
+   "title": "Hotărârea Guvernului nr. 932/1996 privind transmiterea unui imobil situat în municipiul Cluj-Napoca, judeţul Cluj, în patrimoniul Societăţii Române de Televiziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9997",
+   "versions": [
+    {
+     "from": "1996-11-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9997",
+     "sha256": "60e406c1f285e010e79ac92c211650ae33948c79dd86628daa08659524bd45f7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-933-1996",
+   "path": "hg/1996/933",
+   "short": "HG nr. 933/1996",
+   "title": "Hotărârea Guvernului nr. 933/1996 privind stabilirea termenului de păstrare a buletinelor de vot întrebuinţate sau neîntrebuinţate şi a celorlalte materiale necesare votării, depuse la judecătorii sau la Tribunalul Municipiului Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9998",
+   "versions": [
+    {
+     "from": "1996-10-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9998",
+     "sha256": "21a1eb6f73d040854411329c6ca1419887ce0b2d31e91d2ae9484452f036ad20"
+    }
+   ]
+  },
+  {
    "slug": "hg-935-1996",
    "path": "hg/1996/935",
    "short": "HG nr. 935/1996",
@@ -7148,6 +7508,36 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10000",
      "sha256": "9f19987b1861bcfa9c8adbdcde035620eca2eebd5c5d637944ea41031b09da3b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-936-1996",
+   "path": "hg/1996/936",
+   "short": "HG nr. 936/1996",
+   "title": "Hotărârea Guvernului nr. 936/1996 privind alocarea unor sume din bugetul de stat pe anul 1996 pentru continuarea şi finalizarea unor lucrări de investiţii, precum şi pentru reparaţii la obiective de interes local",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10001",
+   "versions": [
+    {
+     "from": "1996-10-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10001",
+     "sha256": "44f43648bde2f14a160daae727adddc89ffa044e47863ff3088ffe8854343337"
+    }
+   ]
+  },
+  {
+   "slug": "hg-939-1996",
+   "path": "hg/1996/939",
+   "short": "HG nr. 939/1996",
+   "title": "Hotărârea Guvernului nr. 939/1996 privind înfiinţarea distribuţiilor de gaze naturale în unele localităţi din ţara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10004",
+   "versions": [
+    {
+     "from": "1996-10-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10004",
+     "sha256": "96d93948f542d3b22d3411929f43f25016a1bdea54338fc043a9fad5bd90da60"
     }
    ]
   },
@@ -7167,6 +7557,276 @@
    ]
   },
   {
+   "slug": "hg-945-1996",
+   "path": "hg/1996/945",
+   "short": "HG nr. 945/1996",
+   "title": "Hotărârea Guvernului nr. 945/1996 privind suplimentarea bugetului Ministerului Tineretului şi Sportului pe anul 1996 din Fondul de rezerva bugetară la dispoziţia Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10010",
+   "versions": [
+    {
+     "from": "1996-11-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10010",
+     "sha256": "2fc011001d152f25311e04295f5f5a43973dc5be44f8211df5b2ccc340be5be4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-946-1996",
+   "path": "hg/1996/946",
+   "short": "HG nr. 946/1996",
+   "title": "Hotărârea Guvernului nr. 946/1996 privind transmiterea unor imobile situate în judeţul Hunedoara în administrarea Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10011",
+   "versions": [
+    {
+     "from": "1996-11-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10011",
+     "sha256": "27619e5e8141bf4c8fa5dbce5cb09e2c97c7037dd9af7471af73db02aaa58531"
+    }
+   ]
+  },
+  {
+   "slug": "hg-947-1996",
+   "path": "hg/1996/947",
+   "short": "HG nr. 947/1996",
+   "title": "Hotărârea Guvernului nr. 947/1996 privind transmiterea unui imobil situat în municipiul Oradea, judeţul Bihor, în administrarea Consiliului Judeţean Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10012",
+   "versions": [
+    {
+     "from": "1996-11-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10012",
+     "sha256": "800e4eb1c28db5cb5bd5f3d5e0b15054fd83be68cee4a14028c94609071f21c2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-948-1996",
+   "path": "hg/1996/948",
+   "short": "HG nr. 948/1996",
+   "title": "Hotărârea Guvernului nr. 948/1996 privind transmiterea unui imobil în administrarea Consiliului Local al Oraşului Ţăndarei, judeţul Ialomiţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10013",
+   "versions": [
+    {
+     "from": "1996-11-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10013",
+     "sha256": "ca2a5d81c9c2372f996fee029723ad3dfa5c932d1c024bbcbcfd65f38a41d85a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-949-1996",
+   "path": "hg/1996/949",
+   "short": "HG nr. 949/1996",
+   "title": "Hotărârea Guvernului nr. 949/1996 privind transmiterea unui imobil situat în judeţul Suceava în administrarea Ministerului Muncii şi Protecţiei Sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10014",
+   "versions": [
+    {
+     "from": "1996-11-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10014",
+     "sha256": "49b7f5ff53ba322f8c85f2601fa0ce6ad376567ae9c86698cc4c3351c22f737b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-950-1996",
+   "path": "hg/1996/950",
+   "short": "HG nr. 950/1996",
+   "title": "Hotărârea Guvernului nr. 950/1996 privind aprobarea deschiderii finanţării şi începerii execuţiei lucrărilor la obiectivul de investiţii \"Alimentarea cu apă potabilă a localităţilor Ceatalchioi, Partizani, Gorgova, Caraorman, Pătlăgeanca, Periprava, Tudor Vladimirescu, C.A. Rosetti, Letea şi Sfistofca din Delta Dunării, judeţul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10015",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10015",
+     "sha256": "d47609937aa73f08193d5e24ae725b0f2c5c65d1c33be389216923d88d75b627"
+    }
+   ]
+  },
+  {
+   "slug": "hg-952-1996",
+   "path": "hg/1996/952",
+   "short": "HG nr. 952/1996",
+   "title": "Hotărârea Guvernului nr. 952/1996 privind alocarea unor fonduri din bugetul de stat pe anul 1996 pentru finanţarea unor lucrări de consolidare şi reparaţii la \"Palatul cultural &lt;&lt;Theodor Costescu&gt;&gt; din municipiul Drobeta-Turnu Severin, judeţul Mehedinţi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10018",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10018",
+     "sha256": "17826fc6ea9ec1c4ccf8917770d6390d1179c4cc86964d73c05a57473ef00e58"
+    }
+   ]
+  },
+  {
+   "slug": "hg-955-1996",
+   "path": "hg/1996/955",
+   "short": "HG nr. 955/1996",
+   "title": "Hotărârea Guvernului nr. 955/1996 cu privire la modificarea denumirii Corului de Camera \"Madrigal\" în Corul Naţional de Camera \"Madrigal\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10021",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10021",
+     "sha256": "1e7e2c5c477dd9a384c9db96aae631339158953f27b0440bd8427f97f1e09f30"
+    }
+   ]
+  },
+  {
+   "slug": "hg-956-1996",
+   "path": "hg/1996/956",
+   "short": "HG nr. 956/1996",
+   "title": "Hotărârea Guvernului nr. 956/1996 privind alocarea unor fonduri din bugetul de stat pe anul 1996 pentru organizarea acţiunilor omagiale dedicate aniversării a 40 de ani de atestare documentară a oraşului Stei, judeţul Bihor, şi înfiinţării primului liceu din localitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10022",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10022",
+     "sha256": "f75ba9b88a20c924402ad63186ef879024c8608d7fe2bea31aec35ba84217aef"
+    }
+   ]
+  },
+  {
+   "slug": "hg-957-1996",
+   "path": "hg/1996/957",
+   "short": "HG nr. 957/1996",
+   "title": "Hotărârea Guvernului nr. 957/1996 privind exceptarea temporară de la plata taxelor vamale a unor produse din import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10023",
+   "versions": [
+    {
+     "from": "1996-10-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10023",
+     "sha256": "6900069f247f49f86190875ae60efdded1cc46ae977ea1351fd604ef80506368"
+    }
+   ]
+  },
+  {
+   "slug": "hg-958-1996",
+   "path": "hg/1996/958",
+   "short": "HG nr. 958/1996",
+   "title": "Hotărârea Guvernului nr. 958/1996 privind transmiterea unor imobile în administrarea Secretariatului de Stat pentru Handicapaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10024",
+   "versions": [
+    {
+     "from": "1996-11-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10024",
+     "sha256": "eacda5223921449fba8eee06448bcf30f2c7fcbf3a3731c215f4ed284dd10a40"
+    }
+   ]
+  },
+  {
+   "slug": "hg-959-1996",
+   "path": "hg/1996/959",
+   "short": "HG nr. 959/1996",
+   "title": "Hotărârea Guvernului nr. 959/1996 privind alocarea unor fonduri din bugetul de stat pe anul 1996 pentru judeţul Botoşani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10025",
+   "versions": [
+    {
+     "from": "1996-10-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10025",
+     "sha256": "7d39ded4ef9106141c3cacacca6864db067852babd3d2284267cb501d46132b2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-960-1996",
+   "path": "hg/1996/960",
+   "short": "HG nr. 960/1996",
+   "title": "Hotărârea Guvernului nr. 960/1996 privind aprobarea Normelor metodologice de aplicare a Ordonanţei de urgenţă a Guvernului nr. 7/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10026",
+   "versions": [
+    {
+     "from": "1996-11-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10026",
+     "sha256": "db24fb04b01b7c447c05bf1da064d8e55c762b3d83c80d4314f1318da3564707"
+    }
+   ]
+  },
+  {
+   "slug": "hg-961-1996",
+   "path": "hg/1996/961",
+   "short": "HG nr. 961/1996",
+   "title": "Hotărârea Guvernului nr. 961/1996 privind modificarea anexei nr. 3 la Hotărârea Guvernului nr. 696/1996 privind nivelul reducerilor de preţuri pentru seminţele folosite la însămânţare în toamna anului 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10027",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10027",
+     "sha256": "bfc498899a08676df3f6d8f7c18f8bc63a70fbecce2be82575037eb18e55f8dd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-962-1996",
+   "path": "hg/1996/962",
+   "short": "HG nr. 962/1996",
+   "title": "Hotărârea Guvernului nr. 962/1996 privind organizarea de către Comisia Naţionala a României pentru UNESCO a unor acţiuni cu caracter cultural ştiinţific",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10028",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10028",
+     "sha256": "fe0ef9e9e1ea23079ac5a6df837379225c4cbb120f5a637f6fd25507684904af"
+    }
+   ]
+  },
+  {
+   "slug": "hg-963-1996",
+   "path": "hg/1996/963",
+   "short": "HG nr. 963/1996",
+   "title": "Hotărârea Guvernului nr. 963/1996 privind modul de finanţare a unor activităţi pe loturile didactice experimentale de la unităţile de învăţământ preuniversitar, precum şi de folosire a veniturilor realizate de acestea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10029",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10029",
+     "sha256": "cd298de5d4ce9338c81fdbe3a1f18b718f4622705bb4562a229a7afe067fe3d6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-964-1996",
+   "path": "hg/1996/964",
+   "short": "HG nr. 964/1996",
+   "title": "Hotărârea Guvernului nr. 964/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Casa de cultură în oraşul Cîmpeni, judeţul Alba\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10030",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10030",
+     "sha256": "94bfac4096232f0129349f816c291d38989663e86c61d4a48fb382115583a73c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-965-1996",
+   "path": "hg/1996/965",
+   "short": "HG nr. 965/1996",
+   "title": "Hotărârea Guvernului nr. 965/1996 privind transmiterea unui imobil, proprietate publică a statului, situat în municipiul Cluj-Napoca, judeţul Cluj, în administrarea Curţii de Conturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10031",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10031",
+     "sha256": "9e98c45a00529e5b0d424bf9f62f4744927e36a129c0fcf97ed0dbad8b2d537d"
+    }
+   ]
+  },
+  {
    "slug": "hg-966-1996",
    "path": "hg/1996/966",
    "short": "HG nr. 966/1996",
@@ -7178,6 +7838,231 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10032",
      "sha256": "d6ac11e0270bb8f2e4c89f78d696c8e95f5f32eca74f896af373fb41af6962b1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-967-1996",
+   "path": "hg/1996/967",
+   "short": "HG nr. 967/1996",
+   "title": "Hotărârea Guvernului nr. 967/1996 privind exceptarea temporară de la plata taxelor vamale a mărfurilor din import comercializate în regim duty free la bordul aeronavelor de către companiile aeriene româneşti autorizate să execute curse de pasageri în trafic extern",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10033",
+   "versions": [
+    {
+     "from": "1996-10-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10033",
+     "sha256": "babd2dc25561c3236edf328b4e7d6cf41d0b1a068037a6a450fa09151d15a175"
+    }
+   ]
+  },
+  {
+   "slug": "hg-968-1996",
+   "path": "hg/1996/968",
+   "short": "HG nr. 968/1996",
+   "title": "Hotărârea Guvernului nr. 968/1996 privind aprobarea unui contingent la export, pentru şrotul de floarea-soarelui din recolta anului 1996, în perioada cuprinsă între data publicării în Monitorul Oficial al României a prezentei hotărâri şi 31 decembrie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10034",
+   "versions": [
+    {
+     "from": "1996-10-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10034",
+     "sha256": "1ad52072ca7bf3faa6a06f4a23df4b136020d2d0d232737515d6bc17acd1de97"
+    }
+   ]
+  },
+  {
+   "slug": "hg-969-1996",
+   "path": "hg/1996/969",
+   "short": "HG nr. 969/1996",
+   "title": "Hotărârea Guvernului nr. 969/1996 pentru completarea Hotărârii Guvernului nr. 276/1995 privind efectuarea de operaţiuni legate de import-export, încheiate la nivel de agent economic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10035",
+   "versions": [
+    {
+     "from": "1996-10-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10035",
+     "sha256": "da1ab0e0f222594d688240c4cc803f9505c9b144da743c444e68728bd31dd5d5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-970-1996",
+   "path": "hg/1996/970",
+   "short": "HG nr. 970/1996",
+   "title": "Hotărârea Guvernului nr. 970/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Spaţii de învăţământ pentru Universitatea din Piteşti, judeţul Argeş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10036",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10036",
+     "sha256": "255d126fe49ff47b0ef380609315096bf23e630ddac311c7beb8a5e5c3c9b247"
+    }
+   ]
+  },
+  {
+   "slug": "hg-971-1996",
+   "path": "hg/1996/971",
+   "short": "HG nr. 971/1996",
+   "title": "Hotărârea Guvernului nr. 971/1996 privind suplimentarea bugetului Ministerului Tineretului şi Sportului pe anul 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10037",
+   "versions": [
+    {
+     "from": "1996-10-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10037",
+     "sha256": "c70e313be7dd0c693aab6c47c43a980f5222f1b2657c286f34b388e53eff89ee"
+    }
+   ]
+  },
+  {
+   "slug": "hg-972-1996",
+   "path": "hg/1996/972",
+   "short": "HG nr. 972/1996",
+   "title": "Hotărârea Guvernului nr. 972/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentarea cu apa a comunei Bălăceanu, judeţul Buzău\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10038",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10038",
+     "sha256": "7ab6074428f71305b5efb19b26ad84b7969cf8a93c4650f490f928312d41fdf6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-973-1996",
+   "path": "hg/1996/973",
+   "short": "HG nr. 973/1996",
+   "title": "Hotărârea Guvernului nr. 973/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Extinderea şi modernizarea Staţiei de tratare a apei a oraşului Beclean, judeţul Bistriţa-Năsăud\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10040",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10040",
+     "sha256": "0fa3fd8d3402f3726b59a9eb8c789a9988bd6d734d6a0050e06ec48c22d493be"
+    }
+   ]
+  },
+  {
+   "slug": "hg-974-1996",
+   "path": "hg/1996/974",
+   "short": "HG nr. 974/1996",
+   "title": "Hotărârea Guvernului nr. 974/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Extindere reţele apă în oraşul Dărmăneşti, judeţul Bacău\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10041",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10041",
+     "sha256": "3532d2758021b9906bab51d18b463edc8025a4692703a0075d076826908dff8e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-976-1996",
+   "path": "hg/1996/976",
+   "short": "HG nr. 976/1996",
+   "title": "Hotărârea Guvernului nr. 976/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Adaptarea şi modernizarea Laboratorului de examinare postiradiere (LEPI) pentru condiţiile impuse de funcţionarea C.N.E. Cernavodă, din oraşul Colibaşi, judeţul Argeş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10044",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10044",
+     "sha256": "ed1c21fee2bac78e9dc7837157e5c37f83a6289c054b0b654b449db4309fbc14"
+    }
+   ]
+  },
+  {
+   "slug": "hg-977-1996",
+   "path": "hg/1996/977",
+   "short": "HG nr. 977/1996",
+   "title": "Hotărârea Guvernului nr. 977/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Consolidare drum comunal DC 11, km 1+345-13+545, comuna Unguraş, judeţul Cluj\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10045",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10045",
+     "sha256": "054f8c7bfdbc7a3a7750e68f977dc7a41bab07ad9a0b721761f4d9ea6998f261"
+    }
+   ]
+  },
+  {
+   "slug": "hg-978-1996",
+   "path": "hg/1996/978",
+   "short": "HG nr. 978/1996",
+   "title": "Hotărârea Guvernului nr. 978/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Canalizare în localităţile Şelimbăr, Bungard, Mohu, Vestem, comuna Şelimbăr, judeţul Sibiu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10046",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10046",
+     "sha256": "ac2953ed137f17c227ebe3308376cdce19d7cb9e221b0ff4d3c2c4d6a2e1386a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-979-1996",
+   "path": "hg/1996/979",
+   "short": "HG nr. 979/1996",
+   "title": "Hotărârea Guvernului nr. 979/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentarea cu apa a localităţilor Şelimbăr, Bungard, Mohu, Vestem, comuna Şelimbăr, judeţul Sibiu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10047",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10047",
+     "sha256": "aa9a92022c9ceffb7f7a4c4e4a932a941797949c419c89403242c69209d490e0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-980-1996",
+   "path": "hg/1996/980",
+   "short": "HG nr. 980/1996",
+   "title": "Hotărârea Guvernului nr. 980/1996 privind sistarea execuţiei obiectivului de investiţii \"Centrala electrică de termoficare Piteşti Sud II, cu funcţionare pe lignit\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10048",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10048",
+     "sha256": "65d997367d2343952eed747fced2d660bcc21c225fd05320e91b62830685b95f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-981-1996",
+   "path": "hg/1996/981",
+   "short": "HG nr. 981/1996",
+   "title": "Hotărârea Guvernului nr. 981/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Lucrări pentru menţinerea capacităţii de producţie la E.M. Săsar, în perioada 1997-2001, minereuri auroargentifere şi complexe, judeţul Maramureş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10049",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10049",
+     "sha256": "f099e7d0e71938f16f0d2728a2361d9e04d046320089ba05562ff486dbf06d0f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-982-1996",
+   "path": "hg/1996/982",
+   "short": "HG nr. 982/1996",
+   "title": "Hotărârea Guvernului nr. 982/1996 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Menţinerea capacităţii de producţie la 270.000 t/an minereuri complexe pe perioada 1997-2004 la E.M. Herja, judeţul Maramureş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10050",
+   "versions": [
+    {
+     "from": "1996-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10050",
+     "sha256": "e7a89ca5d802bb2785c57495b6f2583bb594bbdcd1df06e8c143edf53ce4d24d"
     }
    ]
   },

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12628 acts, 24,143 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12629 acts, 24,144 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8498, of which 3216 amending acts)
+## Laws (legi) (8499, of which 3216 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -369,6 +369,7 @@
 | Legea nr. 108/1996 | [`lege/1996/108/`](lege/1996/108/) | in force | 1 | 1996-10-17 | 1996-10-17 |
 | Legea nr. 109/1996 privind organizarea şi funcţionarea cooperaţiei de consum şi a cooperaţiei de credit | [`lege/1996/109/`](lege/1996/109/) | amended, not consolidated | 1 | 1996-10-18 | 1996-10-18 |
 | Legea nr. 111/1996 | [`lege/1996/111/`](lege/1996/111/) | in force | 16 | 1996-12-28 | 2024-06-17 |
+| Legea nr. 112/1996 pentru ratificarea Tratatului cu privire la relaţiile de prietenie, buna vecinătate şi cooperare dintre România şi Republica Federala Iugoslavia, semnat la Belgrad la 16 mai 1996 | [`lege/1996/112/`](lege/1996/112/) | in force | 1 | 1996-10-16 | 1996-10-16 |
 | Legea nr. 113/1996 | [`lege/1996/113/`](lege/1996/113/) | in force | 1 | 1996-10-16 | 1996-10-16 |
 | Legea locuinței nr. 114/1996 | [`lege/1996/114/`](lege/1996/114/) | in force | 21 | 1996-10-21 | 2022-07-30 |
 | Legea nr. 115/1996 privind declararea și controlul averii demnitarilor, magistraților, funcționarilor publici și a unor persoane cu funcții de conducere | [`lege/1996/115/`](lege/1996/115/) | in force | 8 | 1996-10-28 | 2010-09-05 |
@@ -12694,7 +12695,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 30055 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 30114 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

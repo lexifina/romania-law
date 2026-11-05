@@ -17,7 +17,7 @@
   "laws": "data/laws.csv",
   "list": "ACTS.md",
   "sources": "REPRODUCE.md",
-  "count": 12628
+  "count": 12629
  },
  "shards": [
   {
@@ -716,12 +716,12 @@
   {
    "shard": "hg/1996",
    "kind": "hg",
-   "count": 488,
+   "count": 547,
    "acts": "data/acts/hg/1996.json",
    "list": "data/acts/hg/1996.md",
    "versions": "data/versions/hg/1996.json",
    "laws": "data/laws/hg/1996.csv",
-   "laws_count": 488,
+   "laws_count": 547,
    "sources": "data/sources/hg/1996.csv"
   },
   {
