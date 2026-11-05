@@ -83027,6 +83027,21 @@
    ]
   },
   {
+   "slug": "legea-102-1998",
+   "path": "lege/1998/102",
+   "short": "Legea nr. 102/1998",
+   "title": "Legea nr. 102/1998 privind ratificarea Convenţiei dintre Guvernul României şi Guvernul Republicii Belarus pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit şi pe capital şi a Protocolului anexat, semnate la Bucureşti la 22 iulie 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14808",
+   "versions": [
+    {
+     "from": "1998-05-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14808",
+     "sha256": "b88dbc5139fab09e54c900ded8eb5e5609bca4dfe2c377f00a912521ad680eb9"
+    }
+   ]
+  },
+  {
    "slug": "legea-102-1999",
    "path": "lege/1999/102",
    "short": "Legea nr. 102/1999",
@@ -84016,6 +84031,21 @@
      "units": 0,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/26527",
      "sha256": "ceef8ea3fd74f0eebbf5c5d3e3599e53fd32e012c983898e5fbd3a67ea0cbb51"
+    }
+   ]
+  },
+  {
+   "slug": "legea-105-1998",
+   "path": "lege/1998/105",
+   "short": "Legea nr. 105/1998",
+   "title": "Legea nr. 105/1998 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 84/1997 pentru modificarea şi completarea Legii nr. 27/1994 privind impozitele şi taxele locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14784",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14784",
+     "sha256": "6ddb321f640141cb3458a6b96fa86566ea670104b003a368d4b94e2cd7a99bc1"
     }
    ]
   },
@@ -199636,6 +199666,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311372",
      "sha256": "8b0a664c9ab370ea2d1e3bcc2bf97cbb35ce114be7b87d4f99b692c0301b7d2c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-98-1998",
+   "path": "lege/1998/98",
+   "short": "Legea nr. 98/1998",
+   "title": "Legea nr. 98/1998 privind finanţarea unor lucrări la Stadionul Cotroceni din Bucureşti, în vederea disputării meciurilor din cadrul Turneului final al Campionatului european de fotbal pentru tineri sub 21 de ani, organizat la Bucureşti în perioada 23-31 mai 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14786",
+   "versions": [
+    {
+     "from": "1998-05-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14786",
+     "sha256": "6d55cc1523a3e2bbc447d0a4a1a74048edb813d7734edb82009c0bc6d7c5c6f4"
     }
    ]
   },
