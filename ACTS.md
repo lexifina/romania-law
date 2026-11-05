@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12458 acts, 23,973 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12461 acts, 23,976 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8350, of which 3136 amending acts)
+## Laws (legi) (8351, of which 3137 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -612,6 +612,7 @@
 | Legea nr. 26/1999 pentru modificarea art. 17 din Legea nr. 146/1997 privind taxele judiciare de timbru | [`lege/1999/26/`](lege/1999/26/) | amended, not consolidated | 1 | 1999-01-27 | 1999-01-27 |
 | Legea nr. 27/1999 pentru aprobarea Ordonanţei Guvernului nr. 14/1998 privind utilizarea veniturilor realizate de instituţiile publice finanţate integral din venituri extrabugetare | [`lege/1999/27/`](lege/1999/27/) | amended, not consolidated | 1 | 1999-01-28 | 1999-01-28 |
 | Legea nr. 28/1999 pentru aprobarea Ordonanţei Guvernului nr. 50/1998 privind aprobarea primei de 200 lei/kg la cumpărarea graului din recolta anului 1998 pentru panificaţie, destinat consumului intern, societăţilor comerciale de morărit şi/sau de panificaţie | [`lege/1999/28/`](lege/1999/28/) | amended, not consolidated | 1 | 1999-01-28 | 1999-01-28 |
+| Legea nr. 29/1999 privind aprobarea Ordonanţei Guvernului nr. 78/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 68/1997 privind procedura de întocmire şi depunere a declaraţiilor de impozite şi taxe | [`lege/1999/29/`](lege/1999/29/) | amending act | 1 | 1999-01-28 | 1999-01-28 |
 | Legea nr. 30/1999 pentru sprijinirea exporturilor | [`lege/1999/30/`](lege/1999/30/) | amended, not consolidated | 1 | 1999-01-28 | 1999-01-28 |
 | Legea nr. 32/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 72/1997 privind regularizarea datoriei fostei Companii Române de Petrol Parlamentul României adopta prezenta lege | [`lege/1999/32/`](lege/1999/32/) | amended, not consolidated | 1 | 1999-01-28 | 1999-01-28 |
 | Legea nr. 33/1999 pentru ratificarea Acordului european privind persoanele participante la proceduri în fata Curţii Europene a Drepturilor Omului, adoptat la Strasbourg la 5 martie 1996 | [`lege/1999/33/`](lege/1999/33/) | amended, not consolidated | 1 | 1999-03-02 | 1999-03-02 |
@@ -11319,7 +11320,7 @@
 | Ordonanța de urgență a Guvernului nr. 37/2026 pentru modificarea şi completarea Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor şi protecţia persoanelor | [`oug/2026/37/`](oug/2026/37/) | amending act | 2 | 2026-05-06 | 2026-06-05 |
 | Ordonanța de urgență a Guvernului nr. 39/2026 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic şi didactic auxiliar, precum şi unei prime de carieră profesională pentru personalul administrativ din învăţământul de stat, suportate din fonduri externe nerambursabile, precum şi pentru instituirea unor reglementări în vederea gestionării Programului Educaţie şi Ocupare 2021-2027 | [`oug/2026/39/`](oug/2026/39/) | amended, not consolidated | 1 | 2026-05-06 | 2026-05-06 |
 
-## Ordinances (OG) (1014, of which 119 amending acts)
+## Ordinances (OG) (1016, of which 120 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -11521,8 +11522,10 @@
 | Ordonanța Guvernului nr. 25/1999 privind scoaterea din funcţiune a unor mijloace fixe uzate fizic sau moral, neamortizate, aparţinând agenţilor economici din industrie | [`og/1999/25/`](og/1999/25/) | amended, not consolidated | 1 | 1999-01-29 | 1999-01-29 |
 | Ordonanța Guvernului nr. 26/1999 pentru modificarea şi completarea Ordonanţei Guvernului nr. 29/1994 privind constituirea şi utilizarea Fondului special pentru dezvoltarea sistemului energetic, aprobată prin Legea nr. 136/1994 , cu modificările ulterioare | [`og/1999/26/`](og/1999/26/) | amended, not consolidated | 1 | 1999-01-29 | 1999-01-29 |
 | Ordonanța Guvernului nr. 28/1999 de ratificare a Acordului-cadru de împrumut dintre România şi Fondul de Dezvoltare Socială al Consiliului Europei pentru sprijinirea regiunilor afectate de inundaţiile din ultima perioadă, semnat la Paris la 19 ianuarie 1999 | [`og/1999/28/`](og/1999/28/) | amended, not consolidated | 1 | 1999-01-30 | 1999-01-30 |
+| Ordonanța Guvernului nr. 29/1999 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 20 ianuarie 1999 | [`og/1999/29/`](og/1999/29/) | in force | 1 | 1999-01-30 | 1999-01-30 |
 | Ordonanța Guvernului nr. 33/1999 pentru completarea Ordonanţei Guvernului nr. 42/1995 privind producţia de produse alimentare destinate comercializării | [`og/1999/33/`](og/1999/33/) | amended, not consolidated | 1 | 1999-01-30 | 1999-01-30 |
 | Ordonanța Guvernului nr. 34/1999 pentru modificarea Legii nr. 165/1998 privind constituirea la dispoziţia Ministerului Agriculturii şi Alimentaţiei a fondului pentru finanţarea cheltuielilor aferente lucrărilor agricole din sectorul vegetal şi a celor pentru creşterea animalelor, în perioada 1998-2000 | [`og/1999/34/`](og/1999/34/) | amended, not consolidated | 1 | 1999-01-30 | 1999-01-30 |
+| Ordonanța Guvernului nr. 35/1999 pentru prelungirea termenului de aplicare a prevederilor Ordonanţei Guvernului nr. 50/1998 privind aprobarea primei de 200 lei/kg la cumpărarea graului din recolta anului 1998 pentru panificaţie, destinat consumului intern, acordată producătorilor agricoli prin societăţile comerciale de morărit şi/sau de panificaţie | [`og/1999/35/`](og/1999/35/) | amending act | 1 | 1999-01-30 | 1999-01-30 |
 | Ordonanța Guvernului nr. 36/1999 privind sprijinul acordat de stat producătorilor agricoli pentru achiziţionarea de tractoare, combine, maşini şi utilaje agricole, precum şi de instalaţii pentru irigat din producţia internă | [`og/1999/36/`](og/1999/36/) | amended, not consolidated | 1 | 1999-01-30 | 1999-01-30 |
 | Ordonanța Guvernului nr. 39/1999 privind finalizarea procesului de restructurare a Băncii Române de Comerț Exterior - Bancorex - S.A. și fuziunea prin absorbire a acestei bănci cu Banca Comercială Română - S.A. | [`og/1999/39/`](og/1999/39/) | in force | 9 | 1999-07-30 | 2003-04-09 |
 | Ordonanța Guvernului nr. 40/1999 pentru ratificarea Acordului de împrumut dintre România, reprezentată de Ministerul Finanţelor, şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare privind proiectul de dezvoltare instituţională a sectorului privat, în valoare de 25 milioane dolari S.U.A., semnat la Washington D.C. la 17 iunie 1999 | [`og/1999/40/`](og/1999/40/) | amended, not consolidated | 1 | 1999-08-12 | 1999-08-12 |
@@ -12524,7 +12527,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 28533 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 28541 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 28329 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 743 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 593 | [`data/acts/regulament/`](data/acts/regulament/) |

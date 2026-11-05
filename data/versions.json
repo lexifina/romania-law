@@ -143675,6 +143675,21 @@
    ]
   },
   {
+   "slug": "legea-29-1999",
+   "path": "lege/1999/29",
+   "short": "Legea nr. 29/1999",
+   "title": "Legea nr. 29/1999 privind aprobarea Ordonanţei Guvernului nr. 78/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 68/1997 privind procedura de întocmire şi depunere a declaraţiilor de impozite şi taxe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16802",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16802",
+     "sha256": "508602b61e3c279c079dd1bbf13f93349ce9593b7e69a15229a325258cb8828f"
+    }
+   ]
+  },
+  {
    "slug": "legea-29-2002",
    "path": "lege/2002/29",
    "short": "Legea nr. 29/2002",
@@ -205556,6 +205571,21 @@
    ]
   },
   {
+   "slug": "og-29-1999",
+   "path": "og/1999/29",
+   "short": "OG nr. 29/1999",
+   "title": "Ordonanța Guvernului nr. 29/1999 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 20 ianuarie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16830",
+   "versions": [
+    {
+     "from": "1999-01-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16830",
+     "sha256": "3308fb9e8a48f5e33ce0fab706739d91192e8f823e54f4d92838ce62f1c48c64"
+    }
+   ]
+  },
+  {
    "slug": "og-29-2000",
    "path": "og/2000/29",
    "short": "OG nr. 29/2000",
@@ -206938,6 +206968,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14153",
      "sha256": "17f6078a87ec2b6a160d6d7f36f0f1d7020034ee23f8064e1b36271581ee6d5b"
+    }
+   ]
+  },
+  {
+   "slug": "og-35-1999",
+   "path": "og/1999/35",
+   "short": "OG nr. 35/1999",
+   "title": "Ordonanța Guvernului nr. 35/1999 pentru prelungirea termenului de aplicare a prevederilor Ordonanţei Guvernului nr. 50/1998 privind aprobarea primei de 200 lei/kg la cumpărarea graului din recolta anului 1998 pentru panificaţie, destinat consumului intern, acordată producătorilor agricoli prin societăţile comerciale de morărit şi/sau de panificaţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16836",
+   "versions": [
+    {
+     "from": "1999-01-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16836",
+     "sha256": "db429bfb71ffd5c7a9f0e195f18de795e7a35f77031007dab4ada56607583354"
     }
    ]
   },

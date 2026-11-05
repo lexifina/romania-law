@@ -9794,6 +9794,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16800"
 },
 {
+"slug": "legea-29-1999",
+"path": "lege/1999/29",
+"kind": "lege",
+"year": "1999",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 29/1999 privind aprobarea Ordonanţei Guvernului nr. 78/1998 pentru modificarea şi completarea Ordonanţei Guvernului nr. 68/1997 privind procedura de întocmire şi depunere a declaraţiilor de impozite şi taxe",
+"short": "Legea nr. 29/1999",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1999-01-28",
+"latest": "1999-01-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/16802"
+},
+{
 "slug": "legea-30-1999",
 "path": "lege/1999/30",
 "kind": "lege",
@@ -195077,6 +195094,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16858"
 },
 {
+"slug": "og-29-1999",
+"path": "og/1999/29",
+"kind": "og",
+"year": "1999",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 29/1999 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, semnat la Bucureşti la 20 ianuarie 1999",
+"short": "OG nr. 29/1999",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1999-01-30",
+"latest": "1999-01-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/16830"
+},
+{
 "slug": "og-33-1999",
 "path": "og/1999/33",
 "kind": "og",
@@ -195109,6 +195143,23 @@
 "from": "1999-01-30",
 "latest": "1999-01-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16834"
+},
+{
+"slug": "og-35-1999",
+"path": "og/1999/35",
+"kind": "og",
+"year": "1999",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța Guvernului nr. 35/1999 pentru prelungirea termenului de aplicare a prevederilor Ordonanţei Guvernului nr. 50/1998 privind aprobarea primei de 200 lei/kg la cumpărarea graului din recolta anului 1998 pentru panificaţie, destinat consumului intern, acordată producătorilor agricoli prin societăţile comerciale de morărit şi/sau de panificaţie",
+"short": "OG nr. 35/1999",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1999-01-30",
+"latest": "1999-01-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/16836"
 },
 {
 "slug": "og-36-1999",
