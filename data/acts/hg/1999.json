@@ -139,6 +139,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16884"
 },
 {
+"slug": "hg-54-1999",
+"path": "hg/1999/54",
+"kind": "hg",
+"year": "1999",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 54/1999 privind modul de suportare a cheltuielilor de cazare în unele situaţii speciale",
+"short": "HG nr. 54/1999",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1999-02-03",
+"latest": "1999-02-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/16876"
+},
+{
 "slug": "hg-59-1999",
 "path": "hg/1999/59",
 "kind": "hg",
@@ -154,6 +171,23 @@
 "from": "1999-02-08",
 "latest": "1999-02-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/16914"
+},
+{
+"slug": "hg-65-1999",
+"path": "hg/1999/65",
+"kind": "hg",
+"year": "1999",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Guvernului nr. 65/1999 privind modificarea pct. 1 al pct. IV din anexa la Hotărârea Guvernului nr. 385/1998 pentru modificarea anexei la Hotărârea Guvernului nr. 592/1997 privind exercitarea controlului asupra încasării veniturilor şi efectuării cheltuielilor din bugetul asigurărilor sociale de stat şi din bugetele celorlalte fonduri aprobate prin legea bugetului asigurărilor sociale de stat",
+"short": "HG nr. 65/1999",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1999-02-08",
+"latest": "1999-02-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/16921"
 },
 {
 "slug": "hg-71-1999",

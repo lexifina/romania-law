@@ -5469,6 +5469,21 @@
    ]
   },
   {
+   "slug": "hg-54-1999",
+   "path": "hg/1999/54",
+   "short": "HG nr. 54/1999",
+   "title": "Hotărârea Guvernului nr. 54/1999 privind modul de suportare a cheltuielilor de cazare în unele situaţii speciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16876",
+   "versions": [
+    {
+     "from": "1999-02-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16876",
+     "sha256": "2e6f1db6cbfc33833ba0ce702b5f2974795f237197b589a605f74bc713cfc227"
+    }
+   ]
+  },
+  {
    "slug": "hg-540-1999",
    "path": "hg/1999/540",
    "short": "HG nr. 540/1999",
@@ -6470,6 +6485,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19010",
      "sha256": "af9806250cc22ee73d8b0741a5dcd02b1f8cadf771d80b020a51fa89ff7de7db"
+    }
+   ]
+  },
+  {
+   "slug": "hg-65-1999",
+   "path": "hg/1999/65",
+   "short": "HG nr. 65/1999",
+   "title": "Hotărârea Guvernului nr. 65/1999 privind modificarea pct. 1 al pct. IV din anexa la Hotărârea Guvernului nr. 385/1998 pentru modificarea anexei la Hotărârea Guvernului nr. 592/1997 privind exercitarea controlului asupra încasării veniturilor şi efectuării cheltuielilor din bugetul asigurărilor sociale de stat şi din bugetele celorlalte fonduri aprobate prin legea bugetului asigurărilor sociale de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16921",
+   "versions": [
+    {
+     "from": "1999-02-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16921",
+     "sha256": "abe4b1de672d358ee00e42ff2f0ef4a63b99c3dc531efb4b8b8fba2aad76caf6"
     }
    ]
   },
