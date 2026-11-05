@@ -288,6 +288,36 @@
    ]
   },
   {
+   "slug": "hg-123-1998",
+   "path": "hg/1998/123",
+   "short": "HG nr. 123/1998",
+   "title": "Hotărârea Guvernului nr. 123/1998 pentru modificarea anexei la Hotărârea Guvernului nr. 727/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14395",
+   "versions": [
+    {
+     "from": "1998-03-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14395",
+     "sha256": "3d88a7f3090b375895a6e7ac731b805fbc0302dd7ea18e989bfe1188dd56e016"
+    }
+   ]
+  },
+  {
+   "slug": "hg-130-1998",
+   "path": "hg/1998/130",
+   "short": "HG nr. 130/1998",
+   "title": "Hotărârea Guvernului nr. 130/1998 privind finanţarea Turneului Final al Campionatului European de Fotbal pentru tineri sub 21 de ani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14410",
+   "versions": [
+    {
+     "from": "1998-03-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14410",
+     "sha256": "c9ca89b4bcec14924c7d6d7aa5854178afda879d22bb46b1e3788cb8f79b4d00"
+    }
+   ]
+  },
+  {
    "slug": "hg-131-1998",
    "path": "hg/1998/131",
    "short": "HG nr. 131/1998",
@@ -303,6 +333,141 @@
    ]
   },
   {
+   "slug": "hg-133-1998",
+   "path": "hg/1998/133",
+   "short": "HG nr. 133/1998",
+   "title": "Hotărârea Guvernului nr. 133/1998 pentru modificarea şi completarea Hotărârii Guvernului nr. 479/1994 privind organizarea şi funcţionarea Ministerului Afacerilor Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14414",
+   "versions": [
+    {
+     "from": "1998-03-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14414",
+     "sha256": "b700b9247c73afde24d2740d474df3729a6d8c18860fce4a15288e95ef83007b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-137-1998",
+   "path": "hg/1998/137",
+   "short": "HG nr. 137/1998",
+   "title": "Hotărârea Guvernului nr. 137/1998 privind eliberarea din funcţia de prefect al judeţului Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14417",
+   "versions": [
+    {
+     "from": "1998-03-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14417",
+     "sha256": "9c3d8f1e6632a2ba4bd887de7cf38acbcdc5534fdf5a19807f04c2277fa40b42"
+    }
+   ]
+  },
+  {
+   "slug": "hg-138-1998",
+   "path": "hg/1998/138",
+   "short": "HG nr. 138/1998",
+   "title": "Hotărârea Guvernului nr. 138/1998 pentru acordarea unor gratuităţi temporare la transportul pe calea ferată în favoarea cetăţenilor Republicii Moldova care studiază în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14418",
+   "versions": [
+    {
+     "from": "1998-03-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14418",
+     "sha256": "4acfd98d6a50bd08eb95a01e88bac52268be711bd681f3b1a325df6061820b84"
+    }
+   ]
+  },
+  {
+   "slug": "hg-143-1998",
+   "path": "hg/1998/143",
+   "short": "HG nr. 143/1998",
+   "title": "Hotărârea Guvernului nr. 143/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentare cu apa în comuna Palanca, judeţul Bacău\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14422",
+   "versions": [
+    {
+     "from": "1998-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14422",
+     "sha256": "b6fc94e955cf69676e200a207659b891b6849d2423e8b7e85fa7c4d67bbaf82d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-144-1998",
+   "path": "hg/1998/144",
+   "short": "HG nr. 144/1998",
+   "title": "Hotărârea Guvernului nr. 144/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Reabilitare reţele de distribuţie a apei în municipiul Drăgăşani, judeţul Valcea\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14423",
+   "versions": [
+    {
+     "from": "1998-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14423",
+     "sha256": "0fa386e9b0d6482dc1244affec0b6834d9398227696a20da9cbed6e7069d7174"
+    }
+   ]
+  },
+  {
+   "slug": "hg-145-1998",
+   "path": "hg/1998/145",
+   "short": "HG nr. 145/1998",
+   "title": "Hotărârea Guvernului nr. 145/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizarea reţelei termice la ansamblul de locuinţe Gării, etapa a II-a, Luduş, judeţul Mureş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14424",
+   "versions": [
+    {
+     "from": "1998-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14424",
+     "sha256": "53851b9cc51c47ac43f4e45dc6558b7a9578b25888e2d13988765152d59145b5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-146-1998",
+   "path": "hg/1998/146",
+   "short": "HG nr. 146/1998",
+   "title": "Hotărârea Guvernului nr. 146/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Pod de beton armat peste Raul Crişu Negru în localitatea Tărcaia, judeţul Bihor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14426",
+   "versions": [
+    {
+     "from": "1998-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14426",
+     "sha256": "f939df95c788e9546d48a24eb4e7b10c29ece7a7c795da26788b329e0e727bc0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-147-1998",
+   "path": "hg/1998/147",
+   "short": "HG nr. 147/1998",
+   "title": "Hotărârea Guvernului nr. 147/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizarea şi extinderea Staţiei de epurare Santuhalm - Hunedoara, judeţul Hunedoara\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14427",
+   "versions": [
+    {
+     "from": "1998-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14427",
+     "sha256": "3fb1125f0e64198f234e18f2045171bdc8fa7a6f5081efc04237993b94f221ff"
+    }
+   ]
+  },
+  {
+   "slug": "hg-149-1998",
+   "path": "hg/1998/149",
+   "short": "HG nr. 149/1998",
+   "title": "Hotărârea Guvernului nr. 149/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Extinderea Staţiei de epurare a municipiului Hunedoara şi recircularea în industrie a apelor uzate epurate, judeţul Hunedoara\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14429",
+   "versions": [
+    {
+     "from": "1998-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14429",
+     "sha256": "399f80f5241119549b2467d1bebe7c978f4011f119a74ff3db1f65a07ce17653"
+    }
+   ]
+  },
+  {
    "slug": "hg-15-1998",
    "path": "hg/1998/15",
    "short": "HG nr. 15/1998",
@@ -314,6 +479,96 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14042",
      "sha256": "72941fe594b87f4f2ad943bf3f004abf0409fc6b18740610cb58be59d7757b44"
+    }
+   ]
+  },
+  {
+   "slug": "hg-150-1998",
+   "path": "hg/1998/150",
+   "short": "HG nr. 150/1998",
+   "title": "Hotărârea Guvernului nr. 150/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Reabilitarea centralelor şi reţelelor termice din municipiul Drăgăşani, judeţul Valcea\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14430",
+   "versions": [
+    {
+     "from": "1998-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14430",
+     "sha256": "f2adc669ed772281cc2416587c1227c2313268f3821cdeb9a37469f41e4d091a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-153-1998",
+   "path": "hg/1998/153",
+   "short": "HG nr. 153/1998",
+   "title": "Hotărârea Guvernului nr. 153/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Reabilitare centrale termice, reţele termice şi contorizare în municipiul Miercurea-Ciuc, judeţul Harghita\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14433",
+   "versions": [
+    {
+     "from": "1998-03-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14433",
+     "sha256": "afcdf82b849d565e594ebaf6fddaf9443cd208ad74b131641f25681de7d70605"
+    }
+   ]
+  },
+  {
+   "slug": "hg-155-1998",
+   "path": "hg/1998/155",
+   "short": "HG nr. 155/1998",
+   "title": "Hotărârea Guvernului nr. 155/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Modernizarea şi transformarea centralelor termice din oraşul Lehliu-Gara pentru funcţionarea cu combustibil lichid uşor, judeţul Călăraşi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14435",
+   "versions": [
+    {
+     "from": "1998-03-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14435",
+     "sha256": "982c5c2409b180478e882def4788af321d6add766cefee5c8d65b642e9c0c7b5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-156-1998",
+   "path": "hg/1998/156",
+   "short": "HG nr. 156/1998",
+   "title": "Hotărârea Guvernului nr. 156/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Îmbunătăţirea alimentării cu energie termica a oraşului Cugir, judeţul Alba\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14436",
+   "versions": [
+    {
+     "from": "1998-03-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14436",
+     "sha256": "672f2ca2a65d09ed3bf637595c433da3831b2e6baa42b345ed3440d07fc7f1cb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-157-1998",
+   "path": "hg/1998/157",
+   "short": "HG nr. 157/1998",
+   "title": "Hotărârea Guvernului nr. 157/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Reabilitarea reţelelor de apa potabilă pentru comuna Mătăsari, judeţul Gorj\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14437",
+   "versions": [
+    {
+     "from": "1998-03-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14437",
+     "sha256": "2fb56ed7b4005ff874a0ec32daf7ee1a9bf950d252fba017a4b7257e990dc99d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-158-1998",
+   "path": "hg/1998/158",
+   "short": "HG nr. 158/1998",
+   "title": "Hotărârea Guvernului nr. 158/1998 privind acordarea cetăţeniei române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14438",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14438",
+     "sha256": "f2ec4690670fc9496a1e1107f17f773ca5f4932104a2b7b2bb141033273fbd9b"
     }
    ]
   },
@@ -335,6 +590,21 @@
      "units": 3,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/220069",
      "sha256": "50b12d689f23315e215d98f11b8c6d88b485f4747bb30360b6e7b87dd2389bc6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-163-1998",
+   "path": "hg/1998/163",
+   "short": "HG nr. 163/1998",
+   "title": "Hotărârea Guvernului nr. 163/1998 privind stabilirea datei pentru alegerea unor primari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14440",
+   "versions": [
+    {
+     "from": "1998-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14440",
+     "sha256": "7f2bcbaaa7ad0c32b929f30dd3347fd854eba5fc23c4ce8ef361fa8ca00be78e"
     }
    ]
   },
@@ -380,6 +650,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14447",
      "sha256": "acbfc14f5de48a0b53fcde061e4af719655709062214a6406dd752f15a120d67"
+    }
+   ]
+  },
+  {
+   "slug": "hg-169-1998",
+   "path": "hg/1998/169",
+   "short": "HG nr. 169/1998",
+   "title": "Hotărârea Guvernului nr. 169/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Alimentare cu apa potabilă în comuna Cătălina, judeţul Covasna\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14448",
+   "versions": [
+    {
+     "from": "1998-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14448",
+     "sha256": "9490553da574e1a8493a77efbad5d2d4affc9c8afa900dde4e44e4a409d4be63"
+    }
+   ]
+  },
+  {
+   "slug": "hg-170-1998",
+   "path": "hg/1998/170",
+   "short": "HG nr. 170/1998",
+   "title": "Hotărârea Guvernului nr. 170/1998 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"Înlocuirea reţelelor de apa cu grad avansat de uzura în municipiul Constanţa - etapa a II-a, judeţul Constanţa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14449",
+   "versions": [
+    {
+     "from": "1998-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14449",
+     "sha256": "21a2549cc44c44f91617a58f90f15597aad3463f11214afa17d087b6981a5109"
     }
    ]
   },
