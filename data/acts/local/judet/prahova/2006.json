@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/judet/prahova/2006",
+"acts": [
+{
+"slug": "hcj-prahova-18-2006",
+"path": "local/judet/prahova/2006/18",
+"kind": "local",
+"year": "2006",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 18/2006 privind prelungirea duratei contractului de atribuire in folosinta gratuita a unui spatiu aferent laboratorului de tehnica dentara din imobilul situat in Ploiesti, str Marasesti nr.18",
+"short": "HCJ Prahova nr. 18/2006",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2006-08-31",
+"latest": "2006-08-31",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2006/?dpage=4",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-prahova-2045-2006",
+"path": "local/judet/prahova/2006/2045",
+"kind": "local",
+"year": "2006",
+"number": "2045",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 2045/2006 privind aprobarea documentației tehnico – economice la obiectivul de investiții: „CONSOLIDARE POD PESTE PÂRÂUL SALCIA PE DJ 234, SALCIA, KM 11+021, JUD PRAHOVA”",
+"short": "HCJ Prahova nr. 2045/2006",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2006-02-15",
+"latest": "2006-02-15",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2006/?dpage=12",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-prahova-2048-2006",
+"path": "local/judet/prahova/2006/2048",
+"kind": "local",
+"year": "2006",
+"number": "2048",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 2048/2006 privind aprobarea documentației tehnico – economice la obiectivul de investiții: „CONSOLIDARE DJ 100 N, TEIȘANI, KM 6+000, JUD PRAHOVA”",
+"short": "HCJ Prahova nr. 2048/2006",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2006-02-15",
+"latest": "2006-02-15",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2006/?dpage=12",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-prahova-2049-2006",
+"path": "local/judet/prahova/2006/2049",
+"kind": "local",
+"year": "2006",
+"number": "2049",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 2049/2006 privind aprobarea documentației tehnico – economice la obiectivul de investiții: „CONSOLIDARE DJ 101 S, SECĂRIA, KM 7+100, JUD PRAHOVA”",
+"short": "HCJ Prahova nr. 2049/2006",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2006-02-15",
+"latest": "2006-02-15",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2006/?dpage=12",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

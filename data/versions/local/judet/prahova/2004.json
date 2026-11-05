@@ -3,6 +3,486 @@
  "shard": "local/judet/prahova/2004",
  "acts": [
   {
+   "slug": "hcj-prahova-100-2004",
+   "path": "local/judet/prahova/2004/100",
+   "short": "HCJ Prahova nr. 100/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 100/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-09-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-100-din-data-2004-09-21.doc",
+     "sha256": "6469870ac487f16513f76714acb826d7217666eee1e49004f805e35827a94fa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-102-2004",
+   "path": "local/judet/prahova/2004/102",
+   "short": "HCJ Prahova nr. 102/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 102/2004 privind numirea reprezentaților Consiliului județean Prahova în adunările generale ale unor societăți comerciale Având în vedere: -Expunerea de motive prezentată de Președintele Consiliului județean și Raportul nr. 6862/11.10.2004 al Direcției Juridic Contencios și Administrație Locală, prin care se propune numirea reprezentanților Consiliului județean Prahova în adunările generale ale unor societ",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-102-din-data-2004-10-28.doc",
+     "sha256": "757285c58d5653f65db071ce60d8a44d57370b1e76676babb8fbc3b660b5b3c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-103-2004",
+   "path": "local/judet/prahova/2004/103",
+   "short": "HCJ Prahova nr. 103/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 103/2004 privind modificarea patrimoniului unor societăți comerciale Având în vedere: -Expunerea de motive prezentată de Președintele Consiliului județean Prahova și Raportul comun nr.7200/21.10.2004 al Direcției Lucrări și Servicii Publice și al Direcției Economico-Financiare prin care se propune modificarea patrimoniului unor societăți comerciale; -Prevederile Ordonanței Guvernului nr.65/2001 privind con",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-103-din-data-2004-10-28.doc",
+     "sha256": "90a70e74302a890e8b788adffe185df6e642c90a5b01ed1f4ded902003152b40"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-104-2004",
+   "path": "local/judet/prahova/2004/104",
+   "short": "HCJ Prahova nr. 104/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 104/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-104-din-data-2004-10-28.doc",
+     "sha256": "d6496e45fd9196b5f5396065a449f02ec97731b404fcaca0bc84f72cde3da3a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-105-2004",
+   "path": "local/judet/prahova/2004/105",
+   "short": "HCJ Prahova nr. 105/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 105/2004 privind modificarea statului de functii pentru aparatul propriu de specialitate al Consiliului Judetean Prahova Avand in vedere: -Expunerea de motive a Presedintelui Consiliului Judetean Prahova si Raportul Directiei Economico Finanicare, prin care se propune modificarea statului de functii pentru aparatul propriu de specialitate al Consiliului Judetean Prahova prin transformarea unor posturi de s",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-105-din-data-2004-10-28.doc",
+     "sha256": "b18eac18dc8aeeb78022ced967992e05dec911fda9448b90f07fa0f1fbc8ede1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-106-2004",
+   "path": "local/judet/prahova/2004/106",
+   "short": "HCJ Prahova nr. 106/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 106/2004 privind modificarea statului de functii al Direcției Județene de Protecție a Plantelor Prahova Avand in vedere: -Expunerea de motive a Presedintelui Consiliului Judetean Prahova și Raportul Direcției Economico Financiare, prin care se propune modificarea statului de functii pentru Directia Judeteana de Protectie a Plantelor prin includerea unor functii specifice activitatii ”Agricultura”. -Prevede",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-106-din-data-2004-10-28.doc",
+     "sha256": "01c61606287dcfe01619ab655410002c4c0ec76845eaef39d4e140ccdae860c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-107-2004",
+   "path": "local/judet/prahova/2004/107",
+   "short": "HCJ Prahova nr. 107/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 107/2004 Privind Aprobarea Programului Județean și Interjudețean de transport rutier public de persoane prin servicii regulate pe traseele din județul Prahova pentru perioada 2005 - 2007 Având în vedere : -Expunerea de motive prezentată de Președintele Consiliului Județean și Raportul nr.7265/ 25.10.2004 al Direcției Lucrări și Servicii Publice, prin care se propune aprobarea Programului Județean și Interj",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-107-din-data-2004-10-28.doc",
+     "sha256": "1061a8e68cdbdb63bc3a6f2e6c1359e934a55da0572560cd5babe23c64485f85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-108-2004",
+   "path": "local/judet/prahova/2004/108",
+   "short": "HCJ Prahova nr. 108/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 108/2004 privind repartizarea pe unități administrativ teritoriale a influențelor din sumele defalcate din impozitul pe venit - cota de 17% - și rectificarea bugetului propriu al județului pe anul 2004 Având în vedere : - Expunerea de motive a Președintelui Consiliului Județean Prahova și Raportul Direcției Economico - Financiare nr.7633/ 03 nov.2004 privind repartizarea pe unități administrativ teritorial",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-11-10",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-108-din-data-2004-11-10.doc",
+     "sha256": "979234aee5408f0a6f0238a3ea5b937342180a0a6881cd4f92d5988d4bc7ad9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-109-2004",
+   "path": "local/judet/prahova/2004/109",
+   "short": "HCJ Prahova nr. 109/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 109/2004 privind trecerea unor imobile din domeniul public în domeniul privat al județului Prahova Având în vedere: -Expunerea de motive prezentată de Președintele Consiliului județean și Raportul nr.6983/14.10.2004 al Direcției Juridic Contencios și Administrație Locală, prin care se propune trecerea unor imobile din domeniul public în domeniul privat al județului Prahova; -Legea nr.213/1998 privind propr",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-11-10",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-109-din-data-2004-11-10.doc",
+     "sha256": "aa9de143b6cabee6cf97c65d453e0ba5039a14d10035bf2e0795fc752da1ab08"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-110-2004",
+   "path": "local/judet/prahova/2004/110",
+   "short": "HCJ Prahova nr. 110/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 110/2004 privind trecerea unui teren din domeniul privat în domeniul public al județului Prahova Având în vedere: -Expunerea de motive a Președintelui Consiliului județean Prahova și Raportul comun nr.7640/04.11.2004 al Direcției Juridic Contencios și Administrație Locală și al Direcției de Integrare Europeană privind trecerea unui teren din domeniul privat în domeniul public al județului Prahova; -Prevede",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-11-10",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-110-din-data-2004-11-10.doc",
+     "sha256": "8516f3a047b43a7f5934f909ed74f8583513d3ef83783410809b5e48c6f062a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-111-2004",
+   "path": "local/judet/prahova/2004/111",
+   "short": "HCJ Prahova nr. 111/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 111/2004 privind asocierea Consiliului Județean Prahova cu Consiliile Locale ale orașelor Azuga, Bușteni, Sinaia și Slănic în vederea promovării unor proiecte de infrastructură de turism în cadrul Programului PHARE 2004 – 2006 Având în vedere : Expunerea de motive prezentată de Președintele Consiliului județean și Raportul nr.7588/03.11.2004 al Direcției Integrare Europeană, prin care se propune asocierea",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-11-10",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-111-din-data-2004-11-10.doc",
+     "sha256": "e7d8427a8e8b0d817b30244baa96cf32f5f8e384ae921d50d86b2d87cb819dae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-112-2004",
+   "path": "local/judet/prahova/2004/112",
+   "short": "HCJ Prahova nr. 112/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 112/2004 privind aprobarea numarului de personal, a organigramei si a statului de functii pentru Direcția Generală Județeană pentru Protecția Copilului Prahova Avand in vedere: -Expunerea de motive a Presedintelui Consiliului Judetean Prahova si Raportul Directiei Economico Financiare prin care se propune numarul de personal, organigrama si statul de functii pentru Directia Generala Judeteana pentru Protec",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-11-10",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-112-din-data-2004-11-10.doc",
+     "sha256": "68f87260bd9d0816f877f07f1705e96f4a9c93eb0161b15e9ce21085f603fcc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-115-2004",
+   "path": "local/judet/prahova/2004/115",
+   "short": "HCJ Prahova nr. 115/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 115/2004 privind repartizarea pe unități administrativ teritoriale a sumelor defalcate din unele venituri ale bugetului de stat pe anul 2004; Având în vedere: - Expunerea de motive a Președintelui Consiliului Județean Prahova și Raportul Direcției Economico Financiare nr.8496 / 30 nov. 2004, privind repartizarea pe unități administrativ teritoriale a sumelor defalcate din unele venituri ale bugetului de st",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-115-din-data-2004-12-08.doc",
+     "sha256": "865694199a0e6c4752c87be8a431191b90a1992a1d1a6819a7601d16e43e6021"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-116-2004",
+   "path": "local/judet/prahova/2004/116",
+   "short": "HCJ Prahova nr. 116/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 116/2004 privind rectificarea bugetului propriu al județului pe anul 2004 Având în vedere : - Expunerea de motive a Președintelui Consiliului Județean Prahova și Raportul Direcției Economico - Financiare nr.8497/ 30 nov. 2004 privind rectificarea bugetului propriu al județului pe anul 2004; - Legea nr.108/ 2004 pentru aprobarea Ordonanței de Urgență a Guvernului nr.45/ 2003 privind finanțele publice locale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-116-din-data-2004-12-08.doc",
+     "sha256": "ad851cde744beab04b9038420722382abcac7bc3011d66c6d59f7aa4e6f7899b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-117-2004",
+   "path": "local/judet/prahova/2004/117",
+   "short": "HCJ Prahova nr. 117/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 117/2004 privind solicitarea trecerii unei părți de imobil din domeniul public al statului și din administrarea Ministerului Administrației și Internelor, în domeniul public al județului Prahova și în administrarea Consiliului județean Prahova Având în vedere: -Expunerea de motive a președintelui Consiliului județean și Raportul nr. 8345/ 24.11.2004 al Direcției Juridic Contencios și Administrație Locală p",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-117-din-data-2004-12-08.doc",
+     "sha256": "cf125cd85913b6ce5bdf9ef978a85a36849f54e21bb43d75f8709af2ed36a516"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-118-2004",
+   "path": "local/judet/prahova/2004/118",
+   "short": "HCJ Prahova nr. 118/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 118/2004 privind modificarea organigramei si a statului de funcții pentru Muzeul Județean de Arta Prahova Având in vedere: - Expunerea de motive a Președintelui Consiliului Județean Prahova și Raportul Direcției Economico Financiare, prin care se propune , modificarea organigramei si a statului de funcții pentru Muzeul Județean de Arta Prahova; - Prevederile art.7 alin.(2) din Ordonanța de Urgență a Guvern",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-118-din-data-2004-12-08.doc",
+     "sha256": "65827ff41270e3d69927006969b7e54350f03d4f83df07cf5764a0ea19a4054b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-121-2004",
+   "path": "local/judet/prahova/2004/121",
+   "short": "HCJ Prahova nr. 121/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 121/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-121-din-data-2004-12-23.doc",
+     "sha256": "e437b684a344337eb95cc6c82cdebd085dc8eea4e6be3e59caa7719b90338e79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-122-2004",
+   "path": "local/judet/prahova/2004/122",
+   "short": "HCJ Prahova nr. 122/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 122/2004 privind aprobarea în principiu a transmiterii părților sociale deținute de Consiliul județean Prahova, la Societatea Comercială „Dalkia Termo Prahova” S.R.L",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-122-din-data-2004-12-23.doc",
+     "sha256": "641a01f22502f8e8b5afee9f9032282d12bb368442d368ff86d60a1efcd99be1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-123-2004",
+   "path": "local/judet/prahova/2004/123",
+   "short": "HCJ Prahova nr. 123/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 123/2004 privind participarea Consiliului Județean Prahova în vederea implementării unor proiecte de dezvoltare a administrației la nivel local Având în vedere: Expunerea de motive prezentată de Președintele Consiliului Județean și Raportul nr.8743/8.12.2004 al Direcției Integrare Europeană, prin care se propune participarea Consiliului Județean Prahova în vederea implementării proiectelor: “Program de for",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-123-din-data-2004-12-23.doc",
+     "sha256": "3c745f6c0e2435843c3c2abfcaa03b2402c695d6a49e4de627d42dc31246884e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-124-2004",
+   "path": "local/judet/prahova/2004/124",
+   "short": "HCJ Prahova nr. 124/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 124/2004 privind modificarea organigramei si a statului de functii ale Direcției Județene de Protecție a Plantelor Prahova Avand in vedere: -Expunerea de motive a Presedintelui Consiliului Judetean Prahova si Raportul Direcției Economico Financiare, prin care se propune modificarea organigramei si a statului de functii pentru Directia Judeteana de Protectie a Plantelor; -Prevederile art.13 alin.(7) din Leg",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-124-din-data-2004-12-23.doc",
+     "sha256": "82faaad13890e78a3a150e91752d9c487b4f30f4dc546b17949ac6aaf780c2f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-125-2004",
+   "path": "local/judet/prahova/2004/125",
+   "short": "HCJ Prahova nr. 125/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 125/2004 privind reorganizarea Comisiei de expertiză medicală a persoanelor cu handicap pentru adulți Având în vedere: -Expunerea de motive a președintelui Consiliului județean Prahova și Raportul nr.8974/15.12.2004 al Direcției Juridic Contencios și Administrație Locală privind constituirea Comisiei de expertiză medicală a persoanelor cu handicap pentru adulți; -Prevederile Ordonanței Guvernului nr.14/200",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-125-din-data-2004-12-23.doc",
+     "sha256": "00a9d42c488b59b1d3a03ff1eaca9aa8bc9a5fb762988f0c1a73174e47b5530d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-127-2004",
+   "path": "local/judet/prahova/2004/127",
+   "short": "HCJ Prahova nr. 127/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 127/2004 privind aprobarea Contractului /Acordului colectiv de muncă al funcționarilor publici și al personalului contractual din Consiliul județean Prahova și Direcția Generală de Patrimoniu Județean Având în vedere: -Expunerea de motive a Președintelui Consiliului județean Prahova precum și Raportul Direcției Economico Financiară nr. 9001/16.12.2004 privind aprobarea Contractului/Acordului colectiv de mu",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-127-din-data-2004-12-23.doc",
+     "sha256": "9a19e1eda190705897161ca5ec6dd983dbd6148d57eb4cc7a708f62f2f86230d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-128-2004",
+   "path": "local/judet/prahova/2004/128",
+   "short": "HCJ Prahova nr. 128/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 128/2004 privind constatarea încetării, prin demisie, a unor mandate de consilieri județeni și validarea mandatelor unor supleanți de pe listele partidelor politice respective Având în vedere: -Referatul comun al Președintelui Consiliului județean și al Secretarului general al județului privind demisia unor consilieri județeni; -Raportul Comisiei de validare prin care se propune validarea mandatelor unor s",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/",
+   "versions": [
+    {
+     "from": "2004-12-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-128-din-data-2004-12-29.doc",
+     "sha256": "ca87207516701202e3cb0de652338443237f13d2a0e09b34ff6b1b4b7eaa4e17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-131-2004",
+   "path": "local/judet/prahova/2004/131",
+   "short": "HCJ Prahova nr. 131/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 131/2004 privind înființarea Direcției Județene de Evidență a Persoanelor Prahova Având în vedere: -Expunerea de motive a Președintelui Consiliului Județean Prahova și Raportul nr.9195/23.12.2004 al Direcției Juridic Contencios și Administrație Locală privind înființarea Direcției Județeane de Evidență a Persoanelor Prahova; -Prevederile Ordonanței Guvernului nr.84/2001 privind înființarea, organizarea și",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=2",
+   "versions": [
+    {
+     "from": "2004-12-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-131-din-data-2004-12-29.doc",
+     "sha256": "8ac9bbc8129733f1414006beb16a841008662f99623af1b2a7ca79488e56753e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-132-2004",
+   "path": "local/judet/prahova/2004/132",
+   "short": "HCJ Prahova nr. 132/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 132/2004 privind înființarea Direcției Generale de Asistenta Sociala si Protecția Copilului Având in vedere: -Expunerea de motive a Președintelui Consiliului Județean Prahova și Raportul comun al Direcției Juridic Contencios și Administrație Locală și Direcției Economico-Financiare, prin care se propune înființarea Direcției Generale de Asistență Socială si Protecția Copilului; -Prevederile art.105 din Leg",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=2",
+   "versions": [
+    {
+     "from": "2004-12-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-132-din-data-2004-12-29.doc",
+     "sha256": "2b00911662dcb48535dc8ffda820701eabfe7050ac3a45afd2e3044144f8369a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-133-2004",
+   "path": "local/judet/prahova/2004/133",
+   "short": "HCJ Prahova nr. 133/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 133/2004 privind trecerea unor bunuri din domeniul public al județului Prahova în domeniul privat și din domeniul privat al județului în patrimoniul Societății Comerciale “Brazi Industrial Parc” S.A",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=2",
+   "versions": [
+    {
+     "from": "2004-12-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-133-din-data-2004-12-29.doc",
+     "sha256": "8c476d6158a5b0eb3e3d455e8cda44e55778163cef3364e8982d2ca8d68ba642"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-39-2004",
+   "path": "local/judet/prahova/2004/39",
+   "short": "HCJ Prahova nr. 39/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 39/2004 privind proprietatea publică și regimul juridic al acesteia",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=2",
+   "versions": [
+    {
+     "from": "2004-04-07",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-39-din-data-2004-04-07.doc",
+     "sha256": "3119a5e87bdd9c8398d5c0c5b90c4411538a87f596b5dd06ba6d30671fd07ab1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-40-2004",
+   "path": "local/judet/prahova/2004/40",
+   "short": "HCJ Prahova nr. 40/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 40/2004 pentru Protecția Consumatorului Prahova, în administrarea Direcției Generale de Patrimoniu Județean; Având în vedere prevederile Legii nr. 213/1998 privind proprietatea publică și regimul juridic al acesteia; În temeiul prevederilor articolului 109 din Legea nr. 215/2001 privind administrația publică locală; H O T Ă R Ă Ș T E ART. 1",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=2",
+   "versions": [
+    {
+     "from": "2004-04-07",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-40-din-data-2004-04-07.doc",
+     "sha256": "2241d32f952d05e05509d3fd704e61abd3b123ba66d6f4590ccab797089425a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-41-2004",
+   "path": "local/judet/prahova/2004/41",
+   "short": "HCJ Prahova nr. 41/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 41/2004 pentru Muzeul Judetean de Istorie si Arheologie Prahova, Muzeul Judetean de Stiintele Naturii si Muzeul Judetean de Arta Prahova, aflate sub autoritatea Consiliului Județean Prahova; În temeiul prevederilor art.104 alin.1 lit.b al Legii nr.215/2001, privind administrația publică locală; H O T Ă R Ă Ș T E: Art. 1 Modificarea numarului de personal, a organigramei si a statului de functii pentru Muze",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=2",
+   "versions": [
+    {
+     "from": "2004-04-07",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-41-din-data-2004-04-07.doc",
+     "sha256": "41914a56a91acf33ccdd5b7765d3bc2dccfe10c70d203c1ac05dcb187da9e280"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-45-2004",
+   "path": "local/judet/prahova/2004/45",
+   "short": "HCJ Prahova nr. 45/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 45/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-04-07",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-45-din-data-2004-04-07.doc",
+     "sha256": "564976f79cfc2cc8738edacdd33c04a0d37ad18dc98d4c138cd5eb4dd00a2312"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-46-2004",
+   "path": "local/judet/prahova/2004/46",
+   "short": "HCJ Prahova nr. 46/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 46/2004 pentru promovarea imaginii externe a județului; Având în vedere prevederile Legii nr.507/2003 privind bugetul de stat pentru anul 2004; În temeiul art.109 din Legea nr.215/2001 privind administrația publică locală, H O T Ă R Ă Ș T E : Art.1 (1) Se aprobă finanțarea și participarea prin proiectul “Euro Prahova” la Târgul Internațional de Primăvară din Haute Savoie-Franța pentru promovarea imaginii",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=2",
+   "versions": [
+    {
+     "from": "2004-04-07",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-46-din-data-2004-04-07.doc",
+     "sha256": "24cc64416d391e798a576ed8ed9ef89f69b2d41f91dbef2f6093454a5ca91db9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-49-2004",
+   "path": "local/judet/prahova/2004/49",
+   "short": "HCJ Prahova nr. 49/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 49/2004 privind rectificarea pe unități administrativ teritoriale a sumelor defalcate din unele venituri ale bugetului de stat pe anul 2004; Având în vedere prevederile Legii nr.84/ 05 apr.2004 pentru înființarea unor comune, ale Hotărârii Guvernului nr.514/2004 privind alocarea unor sume din Fondul de rezervă bugetară la dispoziția Guvernului , prevăzut în bugetul de stat pe anul 2004, pentru realizarea",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=2",
+   "versions": [
+    {
+     "from": "2004-04-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-49-din-data-2004-04-20.doc",
+     "sha256": "83fc99135e31d2d7325dcd616bd93683fc8069c921112b079dbb35e0a527c8bf"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-50-2004",
    "path": "local/judet/prahova/2004/50",
    "short": "HCJ Prahova nr. 50/2004",
@@ -14,6 +494,156 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-50-din-data-2004-04-20.doc",
      "sha256": "895e093c5923556d668a4faf92d4066c26e055e28462dc5ff4d63d9359d4fde3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-51-2004",
+   "path": "local/judet/prahova/2004/51",
+   "short": "HCJ Prahova nr. 51/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 51/2004 privind regimul concesiunilor; În temeiul prevederilor articolului 109 din Legea nr. 215/2001 privind administrația publică locală; H O T Ă R Ă Ș T E ART. 1 Concesionarea directă a terenului în suprafață de 60 mp, situat în Municipiul Ploiești, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=2",
+   "versions": [
+    {
+     "from": "2004-04-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-51-din-data-2004-04-20.doc",
+     "sha256": "d0edd951156417dcb62fd15b4ec65f0f5bf111411446e298c69d653c637e798f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-54-2004",
+   "path": "local/judet/prahova/2004/54",
+   "short": "HCJ Prahova nr. 54/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 54/2004 pentru administrarea parcului industrial înființat în localitatea Brazi; Având în vedere prevederile Legii nr.31/1990 privind societățile comerciale, republicată, cu modificările și completările ulterioare, precum și ale Ordonanței Guvernului nr.65/2001 privind constituirea și funcționarea parcurilor industriale, aprobată cu modificări prin Legea nr.490/2002; În temeiul art.109 din Legea nr.215/20",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=2",
+   "versions": [
+    {
+     "from": "2004-05-13",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-54-din-data-2004-05-13.doc",
+     "sha256": "9a5d12c8436e85e2e30be798fc2aa4def832cdd1a37d1972ef9a3f87fd4b7c92"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-55-2004",
+   "path": "local/judet/prahova/2004/55",
+   "short": "HCJ Prahova nr. 55/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 55/2004 privind mandatarea reprezentanților adunării generale a acționarilor la S.C",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=2",
+   "versions": [
+    {
+     "from": "2004-05-13",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-55-din-data-2004-05-13.doc",
+     "sha256": "49152fc4723906dc7f388cb4c5057fa664d9fd675447fee3b99bb08c5984960e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-56-2004",
+   "path": "local/judet/prahova/2004/56",
+   "short": "HCJ Prahova nr. 56/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 56/2004 pentru Protecția Copilului Prahova ; În baza Ordonanței de Urgență a Guvernului nr. 26/1997, republicată, privind protecția copilului aflat în dificultate ; În temeiul prevederilor art. 104 alin. 1 lit.b al Legii nr.215 /2001, privind administrația publică locală; H O T Ă R Ă Ș T E: Art.1 Modificarea organigramei si a statului de funcții ale Direcției Generale Județene pentru Protecția Copilului P",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=2",
+   "versions": [
+    {
+     "from": "2004-05-13",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-56-din-data-2004-05-13.doc",
+     "sha256": "df0110c976373633df62c7d2ea893acb4a29ffe3c1c7c2b398f23c1067e7c3e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-57-2004",
+   "path": "local/judet/prahova/2004/57",
+   "short": "HCJ Prahova nr. 57/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 57/2004 privind administratia publica locala; H O T A R A S T E : Art.1 Reorganizarea Directiei Tehnice a Directiei Generale de Patrimoniu Judetean si modificarea corespunzatoare a statului de functii si a organigramei Directiei Generale de Patrimoniu Judetean, conform anexelor 1 si 2 care fac parte integranta din prezenta hotarare. Art.2 Regulamentul de organizare si functionare al Directiei Generale de",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=2",
+   "versions": [
+    {
+     "from": "2004-05-13",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-57-din-data-2004-05-13.doc",
+     "sha256": "ec5a30d511e1db129fca1e1a734daa4ce652f91ce36dc18ea24c1dbcc3fcde6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-59-2004",
+   "path": "local/judet/prahova/2004/59",
+   "short": "HCJ Prahova nr. 59/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 59/2004 privind sistemul national de asistenta sociala; În temeiul prevederilor art.104 alin.1 lit.b al Legii nr.215/2001, privind administrația publică locală; H O T Ă R Ă Ș T E: Art.1 Aprobarea majorarii numărului de personal de la 16 la 20 posturi, modificarea organigramei și a statului de funcții ale Direcției Judetene de Asistenta Sociala Prahova, conform anexelor nr.1 și 2 care fac parte integrantă",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=2",
+   "versions": [
+    {
+     "from": "2004-05-13",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-59-din-data-2004-05-13.doc",
+     "sha256": "1e012a5404f3b1ec6c8cd213d504e3ef8f39b6bdda3a5d06bef9d64b8ed95880"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-60-2004",
+   "path": "local/judet/prahova/2004/60",
+   "short": "HCJ Prahova nr. 60/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 60/2004 privind solicitarea trecerii unui teren din domeniul public al statului și din administrarea Ministerului Apărării Naționale în domeniul public al județului Prahova și administrarea Muzeului Județean de Artă Prahova; Având în vedere prevederile Legii nr.213/1998 privind proprietatea publică și regimul juridic al acesteia; În temeiul art.109 din Legea nr.215/2001 privind administrația publică local",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=3",
+   "versions": [
+    {
+     "from": "2004-05-13",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-60-din-data-2004-05-13.doc",
+     "sha256": "534f6a3a8066fc8bbc295bd0c20592a013ffc8bd87c2450b9074eada29acfb25"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-61-2004",
+   "path": "local/judet/prahova/2004/61",
+   "short": "HCJ Prahova nr. 61/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 61/2004 privind proprietatea publică și regimul juridic al acesteia",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=3",
+   "versions": [
+    {
+     "from": "2004-05-13",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-61-din-data-2004-05-13.doc",
+     "sha256": "5ddae653a43a851e2dd399ca45da453f7fd6b794c61d09f45cd21b3717a57a56"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-65-2004",
+   "path": "local/judet/prahova/2004/65",
+   "short": "HCJ Prahova nr. 65/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 65/2004 privind repartizarea pe unități administrativ – teritoriale a sumelor defalcate din impozitul pe venit ( cota de 17% ) și rectificarea bugetului propriu al județului pe anul 2004 Având în vedere: - Expunerea de motive prezentată de Președintele Consiliului Județean și Raportul nr. 3684/09.06.2004 al Direcției Economico – Financiare prin care se propune repartizarea pe unități administrativ – terit",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=3",
+   "versions": [
+    {
+     "from": "2004-06-15",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-65-din-data-2004-06-15.doc",
+     "sha256": "d0a3658e53cf874c8c21b8cf3342e98ae748795f77785ea5c56f7d956966452a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-66-2004",
+   "path": "local/judet/prahova/2004/66",
+   "short": "HCJ Prahova nr. 66/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 66/2004 privind solicitarea transferului, cu titlu gratuit, al pachetului de acțiuni din capitalul social al Societății Comerciale ”SERPLO”- SA din domeniul privat al Statului și din administrarea Autorității pentru Valorificarea Activelor Statului în domeniul privat al județului Prahova și în administrarea Consiliului județean Prahova Având în vedere: -Expunerea de motive a președintelui Consiliului jude",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=3",
+   "versions": [
+    {
+     "from": "2004-06-15",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-66-din-data-2004-06-15.doc",
+     "sha256": "8a82a3529aff0979975811a9d4f3fc53eb74603c58958c037a2fee5b83efa2ad"
     }
    ]
   },
@@ -33,6 +663,186 @@
    ]
   },
   {
+   "slug": "hcj-prahova-69-2004",
+   "path": "local/judet/prahova/2004/69",
+   "short": "HCJ Prahova nr. 69/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 69/2004 privind majorarea capitalului social al SC „Ploiești Industrial Parc” SA",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=3",
+   "versions": [
+    {
+     "from": "2004-06-15",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-69-din-data-2004-06-15.doc",
+     "sha256": "c517ef724ba1594c1f254c927b4a839c76522fcdecb2eeb92d4cb1d29716298e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-70-2004",
+   "path": "local/judet/prahova/2004/70",
+   "short": "HCJ Prahova nr. 70/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 70/2004 privind alegerea comisiei de validare În temeiul prevederilor art.103 (1) și 32 (2) din Legea nr.215/2001 privind administrația publică locală, cu modificările și completările ulterioare; Consiliul județean Prahova adoptă prezenta hotărâre; Art.unic: Se alege, pe întreaga durată a mandatului Consiliului județean Prahova, ales la 6 iunie 2004, comisia de validare a mandatelor consilierilor județeni",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=3",
+   "versions": [
+    {
+     "from": "2004-07-02",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-70-din-data-2004-07-02.doc",
+     "sha256": "1b103240cfec73ddd9a1c62b0cbf6fde008b6b787fb98462cee553099cee4af5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-72-2004",
+   "path": "local/judet/prahova/2004/72",
+   "short": "HCJ Prahova nr. 72/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 72/2004 privind declararea legal constituit a Consiliului județean Prahova ales la 6 iunie 2004 În temeiul prevederilor art.103 (1) și 36 din Legea nr.215/2001 privind administrația publică locală, cu modificările și completările ulterioare; Consiliul județean Prahova adoptă prezenta hotărâre; Art.unic: Se declară legal constituit Consiliul județean Prahova ales la 6 iunie 2004. PREȘEDINTE DE VÂRSTĂ, Iaco",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=3",
+   "versions": [
+    {
+     "from": "2004-07-02",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-72-din-data-2004-07-02.doc",
+     "sha256": "a51355b0f59b53e7c47bb7b82ce3465900307f8f3648202ac6db98c0e477b030"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-73-2004",
+   "path": "local/judet/prahova/2004/73",
+   "short": "HCJ Prahova nr. 73/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 73/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-07-02",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-73-din-data-2004-07-02.doc",
+     "sha256": "1c0e2da64ba313e64bb7c3745f5871c6affe02bbdc5d5997ed141f68d376a33e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-74-2004",
+   "path": "local/judet/prahova/2004/74",
+   "short": "HCJ Prahova nr. 74/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 74/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-07-02",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-74-din-data-2004-07-02.doc",
+     "sha256": "c0452d129e16cdeb21b578b4f9704aa8b477a9457f83d77abc4244c08e582e45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-75-2004",
+   "path": "local/judet/prahova/2004/75",
+   "short": "HCJ Prahova nr. 75/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 75/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-07-02",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-75-din-data-2004-07-20.doc",
+     "sha256": "4391f22aaf608ad5af46d7855c0a0326397e565a9822d6e8c25775d0eec67a8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-76-2004",
+   "path": "local/judet/prahova/2004/76",
+   "short": "HCJ Prahova nr. 76/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 76/2004 privind constatarea încetării, prin demisie, a unor mandate de consilieri județeni și validarea mandatelor unor supleanți de pe listele partidelor politice respective Având în vedere: -Raportul Comisiei de validare prin care se constată încetarea, prin demisie, a unor mandate de consilieri județeni și se propune validarea mandatelor unor supleanți de pe listele partidelor politice respective; În t",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=3",
+   "versions": [
+    {
+     "from": "2004-07-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-76-din-data-2004-07-20.doc",
+     "sha256": "3b9bace80ef369118f933e636c9c88a196cdc0eedb5a22f83790f8551fc4953f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-77-2004",
+   "path": "local/judet/prahova/2004/77",
+   "short": "HCJ Prahova nr. 77/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 77/2004 privind organizarea comisiilor de specialitate ale Consiliului județean Prahova În temeiul prevederilor art. 110 și 56 din Legea nr.215/2001 privind administrația publică locală, cu modificările și completările ulterioare; Consiliul județean Prahova adoptă prezenta hotărâre: Art.unic: Se organizează comisiile de specialitate ale Consiliului județean Prahova, în principalele domenii de activitate",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=3",
+   "versions": [
+    {
+     "from": "2004-07-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-77-din-data-2004-07-20.doc",
+     "sha256": "0ee39f0924124192286597b06cf10623526bce6a3af7fdbf2691c72ed1f3d4b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-78-2004",
+   "path": "local/judet/prahova/2004/78",
+   "short": "HCJ Prahova nr. 78/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 78/2004 privind desemnarea a 6 consilieri județeni în componența Autorității Teritoriale de Ordine Publică Prahova Având în vedere: -Expunerea de motive a președintelui Consiliului județean și raportul Direcției juridic contencios și administrație locală prin care se propune desemnarea a 6 consilieri județeni în componența Autorității Teritoriale de Ordine Publică Prahova; -Legea nr.218/2002 privind organ",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=3",
+   "versions": [
+    {
+     "from": "2004-07-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-78-din-data-2004-07-20.doc",
+     "sha256": "906db4dbafe7677f9a0a79d7047740f1e3b32c4d608f0257b475705c239768a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-80-2004",
+   "path": "local/judet/prahova/2004/80",
+   "short": "HCJ Prahova nr. 80/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 80/2004 privind organizarea Comisiei de integrare europeană În temeiul prevederilor art.110 și 56 din Legea nr.215/2001 privind administrația publică locală, cu modificările și completările ulterioare și ale Regulamentului de organizare și funcționare a Consiliului județean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=3",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-80-din-data-2004-08-19.doc",
+     "sha256": "9f03e1c9473a2004ada681277d6eab92eaaa06957bd798e38466c53a791ccb39"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-81-2004",
+   "path": "local/judet/prahova/2004/81",
+   "short": "HCJ Prahova nr. 81/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 81/2004 privind rectificarea bugetului propriu al județului pe anul 2004 Având în vedere: - Expunerea de motive prezentată de Președintele Consiliului Județean și Raportul nr. 5394/16.08.2004 al Direcției Economico – Financiare privind rectificarea bugetului propriu al județului pe anul 2004; - Legea nr. 108/07 aprilie 2004 pentru aprobarea Ordonanței de Urgență a Guvernului nr.45/2003 privind finanțele p",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=3",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-81-din-data-2004-08-19.doc",
+     "sha256": "bb8775419abfb1dc35b06399833ce41aa32fffb4b952bdace7929a6a030288af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-82-2004",
+   "path": "local/judet/prahova/2004/82",
+   "short": "HCJ Prahova nr. 82/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 82/2004 privind validarea componenței Autorității Teritoriale de Ordine Publică Prahova Având în vedere: -Expunerea de motive prezentată de Președintele Consiliului județean și Raportul nr.5248/10.08.2004 al Direcției Juridic Contencios și Administrație Locală, prin care se propune validarea componenței Autorității Teritoriale de Ordine Publică Prahova; -Legea nr.218/2002 privind organizarea și funcționar",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=3",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-82-din-data-2004-08-19.doc",
+     "sha256": "96544e7ba8cc7b568a7291adfff5034475081bdf00e0e1718bd032ce3ba0ca50"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-83-2004",
    "path": "local/judet/prahova/2004/83",
    "short": "HCJ Prahova nr. 83/2004",
@@ -44,6 +854,186 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-83-din-data-2004-08-19.doc",
      "sha256": "ed2896b42b29492629c948d8502c251e947eafa4f4c1b1a6d46648e1ac35230c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-84-2004",
+   "path": "local/judet/prahova/2004/84",
+   "short": "HCJ Prahova nr. 84/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 84/2004 privind reorganizarea Comisiei Tehnice de Amenajarea Teritoriului și Urbanism Având în vedere: - Expunerea de motive a Președintelui Consiliului Județean Prahova nr.4754/23.07.2004 și raportul nr.4753/23.07.2004 al Direcției Amenajarea Teritoriului, Urbanism și Gestiunea Localitāților prin care se propune reorganizarea componenței Comisiei Tehnice de Amenajarea Teritoriului și Urbanism a județului",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=3",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-84-din-data-2004-08-19.doc",
+     "sha256": "b6c6b35eeb684315af0a550193ab5883062befbeaaa4a2b94d9e3c973b9095d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-85-2004",
+   "path": "local/judet/prahova/2004/85",
+   "short": "HCJ Prahova nr. 85/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 85/2004 privind eliberarea certificatelor de atestare a dreptului de proprietate asupra unor terenuri deținute de S.C.DRUMURI ȘI PODURI PRAHOVA S.A",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=3",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-85-din-data-2004-08-19.doc",
+     "sha256": "05c5ef73c1e36c1bae6e8957be5dc41ee72332943e35161cb6bda5b50d09067f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-89-2004",
+   "path": "local/judet/prahova/2004/89",
+   "short": "HCJ Prahova nr. 89/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 89/2004 privind desemnarea a cinci reprezentanți ai Consiliului județean Prahova în Adunarea generală a acționarilor la Societatea Comercială “Brazi Industrial Parc” S.A",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=3",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-89-din-data-2004-08-19.doc",
+     "sha256": "2e788cf7367a9dd002ec108ec2f5602f0c6a8b9f2ff84f8fbd4c6532d195afaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-90-2004",
+   "path": "local/judet/prahova/2004/90",
+   "short": "HCJ Prahova nr. 90/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 90/2004 privind numirea a trei reprezentanți ai Consiliului județean Prahova în Adunarea generală a acționarilor la Societatea Comercială „Termoelectrica S.A.” Având în vedere: -Expunerea de motive prezentată de Președintele Consiliului județean și Raportul nr. 4295/7.07.2004 al Direcției Juridic Contencios și Administrație Locală, prin care se propune numirea a trei reprezentanți ai Consiliului județean",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=3",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-90-din-data-2004-08-19.doc",
+     "sha256": "918c9b128b68f5cd7f087361a32125c0302795686aa38e8a574f4d0cc0700ae6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-91-2004",
+   "path": "local/judet/prahova/2004/91",
+   "short": "HCJ Prahova nr. 91/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 91/2004 privind rectificarea pe unități administrativ teritoriale a sumelor defalcate din unele venituri ale bugetului de stat pe anul 2004 Având în vedere: - Expunerea de motive a Președintelui Consiliului Județean Prahova și Raportul Direcției Economico Financiare nr. 6095 / 10 sept. 2004, privind rectificarea pe unități administrativ teritoriale a sumelor defalcate din unele venituri ale bugetului de s",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=4",
+   "versions": [
+    {
+     "from": "2004-09-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-91-din-data-2004-09-21.doc",
+     "sha256": "870587f5e94d5c20496826f92101b19012cfd9b89717ce00501d032a672f88f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-93-2004",
+   "path": "local/judet/prahova/2004/93",
+   "short": "HCJ Prahova nr. 93/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 93/2004 privind completarea componenței Comisiei de integrare europeană În temeiul prevederilor art.110 și 56 din Legea nr.215/2001 privind administrația publică locală, cu modificările și completările ulterioare și ale Regulamentului de organizare și funcționare a Consiliului județean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=4",
+   "versions": [
+    {
+     "from": "2004-09-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-93-din-data-2004-09-21.doc",
+     "sha256": "880f3713e14a57c086115d1faa8b3bddf43b5e7498bcf413dc7e9053412c4121"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-94-2004",
+   "path": "local/judet/prahova/2004/94",
+   "short": "HCJ Prahova nr. 94/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 94/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-09-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-94-din-data-2004-09-21.doc",
+     "sha256": "e4678f4609d6c605dd9918876d3bb12f1a0e213daa59618130cc62dc0d4185c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-95-2004",
+   "path": "local/judet/prahova/2004/95",
+   "short": "HCJ Prahova nr. 95/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 95/2004 privind trecerea unui imobil din domeniul public în domeniul privat al județului Prahova Având în vedere: -Expunerea de motive prezentată de Președintele Consiliului județean și Raportul nr.5249/10.08.2004 al Direcției Juridic Contencios și Administrație Locală, prin care se propune trecerea unui imobil din domeniul public în domeniul privat al județului Prahova; -Legea nr.213/1998 privind proprie",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=4",
+   "versions": [
+    {
+     "from": "2004-09-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-95-din-data-2004-09-21.doc",
+     "sha256": "67b8a62db75cfb81955646917cd143bc3380d95bd5d8b9efb0be14e8e44b739d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-96-2004",
+   "path": "local/judet/prahova/2004/96",
+   "short": "HCJ Prahova nr. 96/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 96/2004 privind majorarea numărului de posturi, modificarea organigramei și a statului de funcții ale Serviciul Public Județean SALVAMONT- Prahova Având în vedere : - Expunerea de motive prezentată de Președintele Consiliului Județean Prahova și Raportul comun nr. 5369/03.09.2004 al Direcției Lucrări și Servicii Publice și Direcției Economico-Financiară, prin care se propune majorarea numărului de posturi",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=4",
+   "versions": [
+    {
+     "from": "2004-09-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-96-din-data-2004-09-21.doc",
+     "sha256": "81abc258c397216a707ac33b1afaf2128c20132953cd131d09c3c6fab2db27b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-97-2004",
+   "path": "local/judet/prahova/2004/97",
+   "short": "HCJ Prahova nr. 97/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 97/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-09-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-97-din-data-2004-09-21.doc",
+     "sha256": "300e685ccd91525f95bd74574334668699362eebc48048e8a10a1dd84e0b369f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-98-2004",
+   "path": "local/judet/prahova/2004/98",
+   "short": "HCJ Prahova nr. 98/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 98/2004 Privind organizarea comisiei pentru stabilirea si evaluarea terenurilor aflate in patrimoniul S.c",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=4",
+   "versions": [
+    {
+     "from": "2004-09-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-98-din-data-2004-09-21.doc",
+     "sha256": "3d5b281954f3e2dfe1d59707c19a10297e17f9af9119848a39fbf92443950fde"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-99-2004",
+   "path": "local/judet/prahova/2004/99",
+   "short": "HCJ Prahova nr. 99/2004",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 99/2004",
+   "url": null,
+   "versions": [
+    {
+     "from": "2004-09-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-99-din-data-2004-09-21.doc",
+     "sha256": "f747755466010154529ec66e30039200cb8f990ca4d3f01be1bf7a1975102d0b"
     }
    ]
   }

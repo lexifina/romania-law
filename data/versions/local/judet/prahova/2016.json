@@ -3,6 +3,81 @@
  "shard": "local/judet/prahova/2016",
  "acts": [
   {
+   "slug": "hcj-prahova-1-2016",
+   "path": "local/judet/prahova/2016/1",
+   "short": "HCJ Prahova nr. 1/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 1/2016 privind atribuirea unor licențe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2015/?dpage=3",
+   "versions": [
+    {
+     "from": "2016-03-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-091-din-data-2015-07-14.pdf",
+     "sha256": "db3ae2815b2be827c817e0f4a379714119418181be3621f5e87d6e2e70079a5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-11-2016",
+   "path": "local/judet/prahova/2016/11",
+   "short": "HCJ Prahova nr. 11/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 11/2016 privind transmiterea dreptului de administrare, constituit in favoarea Consiliului Judetean Prahova, asupra unui imobil - teren proprietate publica a municipiului Ploiesti, in favoarea unitatii administrativ-teritoriale titulara a dreptului de proprietate public",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=7",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-011-din-data-2016-02-26.pdf",
+     "sha256": "5b9505702f36f893a0aed69e9231aa2a710021ffba0c26da6878631eb75d750f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-115-2016",
+   "path": "local/judet/prahova/2016/115",
+   "short": "HCJ Prahova nr. 115/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 115/2016 privind repartizarea sumelor pentru finantarea drepturilor copiilor/elevilor/tinerilor cu cerinte educationale speciale integrati in invatamantul de masa pe anul 2016",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=4",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-115-din-data-2016-08-03.pdf",
+     "sha256": "b6a7279609afd21616773c97e822ef62d59c446e2b313f398883604009759a66"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-117-2016",
+   "path": "local/judet/prahova/2016/117",
+   "short": "HCJ Prahova nr. 117/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 117/2016 privind asocierea Judetului Prahova cu localitati din judet, alocarea unor sume din bugetul Judetului Prahova pe anul 2016 in vederea realizarii unor obiective de interes public si modificarea unor prevederi ale Hotararii Consiliului judetean Prahova nr. 47/2016",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=4",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-117-din-data-2016-08-03.pdf",
+     "sha256": "2ca57b573010d13c2ade7d84fab6271f48d06710da77cde11335163c76cbec7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-118-2016",
+   "path": "local/judet/prahova/2016/118",
+   "short": "HCJ Prahova nr. 118/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 118/2016 privind aprobarea intervalului de desfasurare a programului de deszapezire in perioadele de iarna 2016-2019 si a incadrarii drumurilor judetene din Judetul Prahova pe niveluri de viabilitate si de interventie pe perioada de iarna",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=4",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-118-din-data-2016-08-03.pdf",
+     "sha256": "a218b539dbea9371c525be6dbdabcf17c8b6d0bdafd7bfbdca4def9ae490adbf"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-123-2016",
    "path": "local/judet/prahova/2016/123",
    "short": "HCJ Prahova nr. 123/2016",
@@ -14,6 +89,216 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-123-din-data-2016-08-31.pdf",
      "sha256": "964ea70e62b71b867ccba7a3a13a28874c4b4fbc45c47a9b1f2ed1c2110945b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-124-2016",
+   "path": "local/judet/prahova/2016/124",
+   "short": "HCJ Prahova nr. 124/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 124/2016 privind aprobarea achizitionarii de servicii juridice de consultanta, de asistenta si de reprezentare de catre Societatea „Brazi Industrial Parc” S.A",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=3",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-124-din-data-2016-08-31.pdf",
+     "sha256": "18717b0ac588c194673279bf2a10f81b4709039694758bf517ce50cad3986547"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-125-2016",
+   "path": "local/judet/prahova/2016/125",
+   "short": "HCJ Prahova nr. 125/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 125/2016 privind prelungirea atribuirii in folosinta gratuita catre Biserica „Buna Vestire” a Spitalului Judetean Ploiesti - Sectia „Buna Vestire” a unui imobil proprietate publica a Judetului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=3",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-125-din-data-2016-08-31.pdf",
+     "sha256": "85c0d2c1179dab39c145db9a97d05e445b268fbbba0badb486d909479c281202"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-126-2016",
+   "path": "local/judet/prahova/2016/126",
+   "short": "HCJ Prahova nr. 126/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 126/2016 pentru modificarea unor prevederi ale Hotararii Consiliului judetean Prahova nr. 47/2016 privind asocierea judetului Prahova cu localitati din judet, precum si alocarea unor sume din bugetul judetului Prahova pe anul 2016 in vederea realizarii unor obiective de",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=3",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-126-din-data-2016-08-31.pdf",
+     "sha256": "fba00fa91046370554007087f384c4e118c4f25bd8c8b22e7f582a45081f9c41"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-127-2016",
+   "path": "local/judet/prahova/2016/127",
+   "short": "HCJ Prahova nr. 127/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 127/2016 privind aprobarea majorarii cotizatiei anuale a Judetului Prahova, in calitate de membru al Asociatiei de Dezvoltare Intercomunitara „Parteneriatul pentru Managementul Deseurilor - Prahova”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=3",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-127-din-data-2016-08-31.pdf",
+     "sha256": "0e34ea54bb35a386842dcab410dc24e7a855ac4a5741baa12c252f14ba2f4b38"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-130-2016",
+   "path": "local/judet/prahova/2016/130",
+   "short": "HCJ Prahova nr. 130/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 130/2016 privind atribuirea unor licente de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=3",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-130-din-data-2016-08-31.pdf",
+     "sha256": "836ebfbba870775fd8d7c5a4a8e19f7ba0c4ffefc650c3184e522d046b500dec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-132-2016",
+   "path": "local/judet/prahova/2016/132",
+   "short": "HCJ Prahova nr. 132/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 132/2016 privind aprobarea costului mediu lunar de intretinere a asistatilor din „Centrul Rezidential pentru Persoane Varstnice - Pensionari”, Fintinele",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=3",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-132-din-data-2016-08-31.pdf",
+     "sha256": "152e0577fcb62b269f865dd6ba033898669bf7070095bd60385fc100fef6bf82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-136-2016",
+   "path": "local/judet/prahova/2016/136",
+   "short": "HCJ Prahova nr. 136/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 136/2016 privind desemnarea unui reprezentant al asiguratilor din judetul Prahova in Adunarea reprezentantilor Casei Nationale de Asigurari de Sanatate si a unui membru in Consiliul de administratie al Casei Judetene de Asigurari de Sanatate a Judetului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=3",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-136-din-data-2016-08-31.pdf",
+     "sha256": "923ae10f6fcdadbcff0998fce92ef9cc972c84c21291637b9366a33493d9313d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-139-2016",
+   "path": "local/judet/prahova/2016/139",
+   "short": "HCJ Prahova nr. 139/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 139/2016 privind aprobarea modificarii cotizatiei anuale a judetului Prahova, in calitate de membru fondator al Agentiei pentru Eficienta Energetica si Energii Regenerabile Ploiesti - Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=3",
+   "versions": [
+    {
+     "from": "2016-09-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-139-din-data-2016-09-16.pdf",
+     "sha256": "24e6bd440d21a4db0328bc1b3278683d985bc6751eaa9db7ea92c55fa65141d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-14-2016",
+   "path": "local/judet/prahova/2016/14",
+   "short": "HCJ Prahova nr. 14/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 14/2016 privind aprobarea achizitionarii de servicii juridice de consultanta, de asistenta si de reprezentare de catre Societatea Comerciala „Plopeni Industrial Parc” S.A",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=7",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-014-din-data-2016-02-26.pdf",
+     "sha256": "e9e01584cd02eb8c9a36c76ab0e454b489355e6da02afe92ef24de59c329cc3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-140-2016",
+   "path": "local/judet/prahova/2016/140",
+   "short": "HCJ Prahova nr. 140/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 140/2016 privind desemnarea reprezentantului judetului Prahova si, respectiv, a inlocuitorului acestuia in adunarile generale ale unor asociatii de dezvoltare intercomunitara",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=3",
+   "versions": [
+    {
+     "from": "2016-09-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-140-din-data-2016-09-16.pdf",
+     "sha256": "7e5522fe0a8dab9769534a789e61d9e20a9d66c5a2591b0e1a69abfe5e94162a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-141-2016",
+   "path": "local/judet/prahova/2016/141",
+   "short": "HCJ Prahova nr. 141/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 141/2016 privind asocierea judetului Prahova cu localitati din judet, precum si alocarea unor sume din bugetul judetului Prahova pe anul 2016 in vederea realizarii unor obiective de interes public",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=2",
+   "versions": [
+    {
+     "from": "2016-09-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-141-din-data-2016-09-16.pdf",
+     "sha256": "caea264f67c52407c47ded13c4e33fdfeeead53092a1444ad48d8e32ca4caceb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-143-2016",
+   "path": "local/judet/prahova/2016/143",
+   "short": "HCJ Prahova nr. 143/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 143/2016 privind modificarea componentei comisiei paritare care formuleaza propuneri de atribuire a serviciului de transport public judetean de persoane prin servicii regulate si de atribuire a licentelor de traseu infiintata prin Hotararea Consiliului Judetean Prahova n",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=2",
+   "versions": [
+    {
+     "from": "2016-09-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-143-din-data-2016-09-16.pdf",
+     "sha256": "7bbe4c319b33d38c72a45f44959fda84c446d715f78aa0a04f6bd8bc802f7413"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-144-2016",
+   "path": "local/judet/prahova/2016/144",
+   "short": "HCJ Prahova nr. 144/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 144/2016 privind validarea componentei nominale a Autoritatii Teritoriale de Ordine Publica Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=2",
+   "versions": [
+    {
+     "from": "2016-09-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-144-din-data-2016-09-16.pdf",
+     "sha256": "405b5f06c5bb21576e9e2f561bf2f27d04dd965a18488dac9dd8d20f120bc069"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-147-2016",
+   "path": "local/judet/prahova/2016/147",
+   "short": "HCJ Prahova nr. 147/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 147/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-147-din-data-2016-09-30.pdf",
+     "sha256": "45b0fff2e7a496ded4c0d8e2648abc0d14ef211a83dc879c6669b36afe217800"
     }
    ]
   },
@@ -33,6 +318,111 @@
    ]
   },
   {
+   "slug": "hcj-prahova-151-2016",
+   "path": "local/judet/prahova/2016/151",
+   "short": "HCJ Prahova nr. 151/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 151/2016 privind modificarea organigramei, a statului de functii si a Regulamentului de organizare si functionare pentru Biblioteca Judeteana ,,Nicolae Iorga” Ploiesti",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=2",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-151-din-data-2016-09-30.pdf",
+     "sha256": "7bafe9cf0d589cd3076185a85db1bb873e03955e3c830c478110e04d003c2a09"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-154-2016",
+   "path": "local/judet/prahova/2016/154",
+   "short": "HCJ Prahova nr. 154/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 154/2016 privind modificarea prevederilor unor hotarari ale Consiliului Judetean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=2",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-154-din-data-2016-09-30.pdf",
+     "sha256": "d6f65b7d321e6ad5dd3ac31b35fc308c7d783b022de20a59c58f98fb23cf90f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-157-2016",
+   "path": "local/judet/prahova/2016/157",
+   "short": "HCJ Prahova nr. 157/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 157/2016 privind atribuirea unor licente de traseu pentru efectuarea transportului public judetean de persoane prin curse regulate cuprinse in Programul judetean de transport de persoane prin curse regulate efectuate cu autobuze pentru perioada 01.01.2014 - 30.06.2019",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=2",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-157-din-data-2016-09-30.pdf",
+     "sha256": "cc765eebfccb580818ed29f75330c891666b77f98e020e0c78211a9623c2b69f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-159-2016",
+   "path": "local/judet/prahova/2016/159",
+   "short": "HCJ Prahova nr. 159/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 159/2016 privind repartizarea sumei de 604,73 mii lei pentru finantarea drepturilor copiilor/elevilor/tinerilor cu cerinte educationale speciale in invatamantul de masa pe anul 2016",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=2",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-159-din-data-2016-10-31.pdf",
+     "sha256": "1f596d735e382a6884c790e68b91661554fcebb739b253bde19edbafa10b3d2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-16-2016",
+   "path": "local/judet/prahova/2016/16",
+   "short": "HCJ Prahova nr. 16/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 16/2016 privind modificarea statului de functii pentru Biblioteca Judeteana „Nicolae Iorga” Ploiesti",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=7",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-016-din-data-2016-02-26.pdf",
+     "sha256": "3aa3add6e5622ff43246835f5b41df7b5fd8842b64eee33612af5027bba6af8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-161-2016",
+   "path": "local/judet/prahova/2016/161",
+   "short": "HCJ Prahova nr. 161/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 161/2016 privind preluarea din administrarea Inspectoratului Teritorial de Munca Prahova a unui teren, proprietate publica a judetului Prahova, situat in municipiul Ploiesti, B-dul Independentei nr. 12 si transmiterea acestuia in administrarea Agentiei de Plati si Interv",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-161-din-data-2016-10-31.pdf",
+     "sha256": "41586f7600a5b6139dcd0de6b67d445d0a59d0bd2ec1ccf74d390fdb3ead7022"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-163-2016",
+   "path": "local/judet/prahova/2016/163",
+   "short": "HCJ Prahova nr. 163/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 163/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-163-din-data-2016-10-31.pdf",
+     "sha256": "32a0cdc9486d34d8fac429b58454484ef62bdf03f3751e2afd92353f16210ebe"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-164-2016",
    "path": "local/judet/prahova/2016/164",
    "short": "HCJ Prahova nr. 164/2016",
@@ -44,6 +434,261 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-164-din-data-2016-10-31.pdf",
      "sha256": "3b950a4587f795d19118759b831041902c7de7ef7baf3704301263da269873f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-165-2016",
+   "path": "local/judet/prahova/2016/165",
+   "short": "HCJ Prahova nr. 165/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 165/2016 privind asocierea Judetului Prahova cu localitati din judet, alocarea unor sume din bugetul Judetului Prahova pe anul 2016, in vederea realizarii unor obiective de interes public si modificarea prevederilor unor hotarari ale Consiliului judetean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-165-din-data-2016-10-31.pdf",
+     "sha256": "155138236a33b16756fe6a3d344ac99d507f1719ade5ac75411cdd834905401a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-166-2016",
+   "path": "local/judet/prahova/2016/166",
+   "short": "HCJ Prahova nr. 166/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 166/2016 privind atribuirea unor licente de traseu pentru efectuarea transportului public judetean de persoane prin curse regulate cuprinse in Programul judetean de transport persoane prin curse regulate efectuate cu autobuze pentru perioada 01.01.2014-30.06.2019",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-166-din-data-2016-10-31.pdf",
+     "sha256": "780eebfaeb9f1aafc54009ad6f6b3e69ac4fc1887aeca1baf29744681cb73149"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-167-2016",
+   "path": "local/judet/prahova/2016/167",
+   "short": "HCJ Prahova nr. 167/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 167/2016 privind atribuirea unor licente de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-167-din-data-2016-10-31.pdf",
+     "sha256": "d41743bc118ec8fcebddb0c08b7deec5d9aacd1b89ad669ac2c2167c61a1e90c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-169-2016",
+   "path": "local/judet/prahova/2016/169",
+   "short": "HCJ Prahova nr. 169/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 169/2016 privind rectificarea bugetului propriu al judetului si a bugetelor unor institutii de sub autoritatea Consiliului judetean Prahova pe anul 2016",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-169-din-data-2016-11-25.pdf",
+     "sha256": "2fca0610379413047136631e4df61062547693b521df9f218fa37141802ccfa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-170-2016",
+   "path": "local/judet/prahova/2016/170",
+   "short": "HCJ Prahova nr. 170/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 170/2016 privind asocierea Judetului Prahova cu localitatile: Alunis, Bertea, Cocorastii Mislii, Cosminele, Dumbravesti, Slanic, Stefesti, Varbilau, Vilcanesti in vederea realizarii Studiului de fezabilitate pentru investitia „Infiintare retea distributie gaze naturale i",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-170-din-data-2016-11-25.pdf",
+     "sha256": "8429c2ca362fdd8cf7969435919875b8fdff4c2a3f4c583c475c915c1b9b0a68"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-172-2016",
+   "path": "local/judet/prahova/2016/172",
+   "short": "HCJ Prahova nr. 172/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 172/2016 privind aprobarea declansarii procedurilor de selectie pentru membrii consiliilor de administratie ale societatilor la care Consiliul judetean Prahova este actionar unic",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-172-din-data-2016-11-25.pdf",
+     "sha256": "2708b0d066905737797a8967c700b95625637e2d4395ba3ea0efb4ee0d3e903e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-174-2016",
+   "path": "local/judet/prahova/2016/174",
+   "short": "HCJ Prahova nr. 174/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 174/2016 privind modificarea statului de functii pentru Spitalul Judetean de Urgenta Ploiesti",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=2",
+   "versions": [
+    {
+     "from": "2016-11-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-174-din-data-2016-11-25.pdf",
+     "sha256": "3e878f8982311e7a3be209be33c62a323ca8edc62b7d60ae1666098397480c6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-175-2016",
+   "path": "local/judet/prahova/2016/175",
+   "short": "HCJ Prahova nr. 175/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 175/2016 privind atribuirea unor licente de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=2",
+   "versions": [
+    {
+     "from": "2016-11-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-175-din-data-2016-11-25.pdf",
+     "sha256": "86cb85782914a5270415cb1c5ef2e3e30792e9ab2ac4bf289b744bf5c69d902b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-176-2016",
+   "path": "local/judet/prahova/2016/176",
+   "short": "HCJ Prahova nr. 176/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 176/2016 privind prelungirea termenelor de dare in folosinta gratuita a unor spatii in imobilul proprietate publica a judetului Prahova, situat in municipiul Ploiesti, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=2",
+   "versions": [
+    {
+     "from": "2016-11-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-176-din-data-2016-11-25.pdf",
+     "sha256": "8b40a5d0fbd4650afcf682cddecbbf7d5dbd28e00cd87637debe02434582989f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-177-2016",
+   "path": "local/judet/prahova/2016/177",
+   "short": "HCJ Prahova nr. 177/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 177/2016 privind prelungirea termenului de inchiriere a unui spatiu in imobilul proprietate publica a judetului Prahova, situat in municipiul Ploiesti, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=2",
+   "versions": [
+    {
+     "from": "2016-11-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-177-din-data-2016-11-25.pdf",
+     "sha256": "a5abee037e8358f1f5485b21e402da394eaa61bfca060a5dffae9497a72ba0a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-179-2016",
+   "path": "local/judet/prahova/2016/179",
+   "short": "HCJ Prahova nr. 179/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 179/2016 privind modificarea organigramei si a statului de functii pentru Muzeul Judetean de Arta Prahova „Ion Ionescu Quintus”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=2",
+   "versions": [
+    {
+     "from": "2016-11-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-179-din-data-2016-11-25.pdf",
+     "sha256": "5e1b0bab4a85e1f8ff2868d1d4f85d3b7e2ddece0a161a044b86efe81a9b16e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-18-2016",
+   "path": "local/judet/prahova/2016/18",
+   "short": "HCJ Prahova nr. 18/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 18/2016 privind aprobarea cotizatiei Judetului Prahova, membru al Uniunii Nationale a Consiliilor Judetene din Romania (UNCJR), aferenta anului 2016",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=7",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-018-din-data-2016-02-26.pdf",
+     "sha256": "256b047b6801d0cc68e7b8f3ffd81adcb1f1c50836bc09681afac4e6ed9f0f0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-180-2016",
+   "path": "local/judet/prahova/2016/180",
+   "short": "HCJ Prahova nr. 180/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 180/2016 privind aprobarea achizitionarii de servicii juridice de consultanta, de asistenta si de reprezentare pe perioada procedurilor de insolventa a S.C",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=2",
+   "versions": [
+    {
+     "from": "2016-11-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-180-din-data-2016-11-25.pdf",
+     "sha256": "366b84d49d75a8c18ba192d71edbf83568d14131a69b5d28423fc7a52e498c11"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-181-2016",
+   "path": "local/judet/prahova/2016/181",
+   "short": "HCJ Prahova nr. 181/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 181/2016 privind modificarea prevederilor unor hotarari ale Consiliului judetean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-181-din-data-2016-11-25.pdf",
+     "sha256": "51c00eb1e4e5b92ea3952c4af369e613b9ff1b32bfb82fada0e0abc5a9034ce8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-184-2016",
+   "path": "local/judet/prahova/2016/184",
+   "short": "HCJ Prahova nr. 184/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 184/2016 privind rectificarea sumelor defalcate din unele venituri ale bugetului de stat - cota de 20% pe unitati administrativ - teritoriale pe anul 2016",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-184-din-data-2016-12-17.pdf",
+     "sha256": "b3145b8f6a423cb1f5a5438e403ef30adbaf3831188c3028b0dcd9bc9005162a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-185-2016",
+   "path": "local/judet/prahova/2016/185",
+   "short": "HCJ Prahova nr. 185/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 185/2016 privind modificarea Hotărârii Consiliului Județean Prahova nr.171/2016 referitoare la completarea prevederilor art.1 al Hotărârii Consiliului Județean Prahova nr.33/25.02.2013 privind transmiterea unui teren aflat în proprietatea publică a județului Prahova, din administrarea Consiliului Județean Prahova în administrarea Curții de Conturi a României – Camera de Conturi Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-185-din-data-2016-12-17.pdf",
+     "sha256": "1985fa587d30f5fe44bb32c56274deedd5c3b47d600b9dbb7b23c07784c62313"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-186-2016",
+   "path": "local/judet/prahova/2016/186",
+   "short": "HCJ Prahova nr. 186/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 186/2016 privind modificarea Hotararilor Consiliului Judetean nr. 181/2016 si nr. 47/2016",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-186-din-data-2016-12-17.pdf",
+     "sha256": "b17c32b6f0e9ef21384cb23cfa366e448652c6e7a6e2cf9203423c1aa4faef80"
     }
    ]
   },
@@ -78,6 +723,426 @@
    ]
   },
   {
+   "slug": "hcj-prahova-189-2016",
+   "path": "local/judet/prahova/2016/189",
+   "short": "HCJ Prahova nr. 189/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 189/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-189-din-data-2016-12-22.pdf",
+     "sha256": "be4e7cebcab73ac9f73b6f5434e186d088cd55314db27f43d404e7a73671fd3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-19-2016",
+   "path": "local/judet/prahova/2016/19",
+   "short": "HCJ Prahova nr. 19/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 19/2016 privind aprobarea cotizatiei Judetului Prahova, membru al Adunarii Regiunilor Europei (ARE), aferenta anului 2016",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=7",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-019-din-data-2016-02-26.pdf",
+     "sha256": "3ae357473f9d497c2f9d09ff38e982e663be401bbfb137017b43a6e50ff37600"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-191-2016",
+   "path": "local/judet/prahova/2016/191",
+   "short": "HCJ Prahova nr. 191/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 191/2016 privind aprobarea Planului de ocupare a functiilor publice din cadrul aparatului de specialitate al Consiliului Judetean Prahova si a functiilor publice din cadrul serviciilor publice din subordinea Consiliului Judetean Prahova pentru anul 2017",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-191-din-data-2016-12-22.pdf",
+     "sha256": "ec170d355b25b8e9e5228afdf4f08bda2fda8b8a6cab8b0619c172b52cb98093"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-192-2016",
+   "path": "local/judet/prahova/2016/192",
+   "short": "HCJ Prahova nr. 192/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 192/2016 privind modificarea organigramei, a statului de functii si a Regulamentului de organizare si functionare pentru Directia Generala de Asistenta Sociala si Protectia Copilului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-192-din-data-2016-12-22.pdf",
+     "sha256": "2d14baeffc53bb01a48af9eb1b692f17e9e8c8cc87d5adb3736e36560555d231"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-193-2016",
+   "path": "local/judet/prahova/2016/193",
+   "short": "HCJ Prahova nr. 193/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 193/2016 privind modificarea organigramei, a statului de functii si a Regulamentului de organizare si functionare pentru Muzeul Judetean de Istorie si Arheologie Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-193-din-data-2016-12-22.pdf",
+     "sha256": "a1e5eb520e6b1002bee7a128e4bc2ec9803295c1888df83c8b421ba06299a7d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-194-2016",
+   "path": "local/judet/prahova/2016/194",
+   "short": "HCJ Prahova nr. 194/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 194/2016 privind modificarea organigramei si a statului de functii pentru Centrul Judetean de Cultura Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-194-din-data-2016-12-22.pdf",
+     "sha256": "bc64ce9434c51af5630e4d6f4a05edaf7045151b9615a4de6750a0b34dcc3751"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-195-2016",
+   "path": "local/judet/prahova/2016/195",
+   "short": "HCJ Prahova nr. 195/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 195/2016 privind atribuirea unor licente de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-195-din-data-2016-12-22.pdf",
+     "sha256": "c02b3d88b14aa7a9b47fd5533e1fce175c96e50b1dcf17c8bc57cf6c550cb844"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-196-2016",
+   "path": "local/judet/prahova/2016/196",
+   "short": "HCJ Prahova nr. 196/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 196/2016 privind actualizarea Programului judetean de transport de persoane prin curse regulate efectuate cu autobuze",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-196-din-data-2016-12-22.pdf",
+     "sha256": "cde131ccd5a0d8eb424ab48619cc42c8b32fea849242f14592ef3be1d900b414"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-198-2016",
+   "path": "local/judet/prahova/2016/198",
+   "short": "HCJ Prahova nr. 198/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 198/2016 privind desemnarea reprezentantului Judetului Prahova in Adunarea Generala a Asociatilor la Societatea „Veolia Energie Prahova” S.R.L",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-198-din-data-2016-12-22.pdf",
+     "sha256": "b18af97f31e776abcecc72ff8ac4b94561d0247581953d240306a3b8cf0507eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-23-2016",
+   "path": "local/judet/prahova/2016/23",
+   "short": "HCJ Prahova nr. 23/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 23/2016 privind atribuirea unor licente de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=6",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-023-din-data-2016-02-26.pdf",
+     "sha256": "d1014293f464e962292c3ccacb1b93a2f47c93251cf6a72cef5a0b33e6f7595c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-24-2016",
+   "path": "local/judet/prahova/2016/24",
+   "short": "HCJ Prahova nr. 24/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 24/2016 privind modificarea organigramei si a statului de functii pentru Spitalul Obstetrica Ginecologie Ploiesti",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=6",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-024-din-data-2016-02-26.pdf",
+     "sha256": "1ccf773d529ea8ce229c5551b17547445a0d105b551c94fbf6678a717eeb0cb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-27-2016",
+   "path": "local/judet/prahova/2016/27",
+   "short": "HCJ Prahova nr. 27/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 27/2016 privind rectificarea Listei obiectivelor de investitii a Spitalului Judetean de Urgenta Ploiesti pe anul 2016",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=6",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-027-din-data-2016-02-26.pdf",
+     "sha256": "2ac88aadaf0e955745129f89ad7636fe89e7f3704b92ec8a0e4cebfb4bbc6790"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-28-2016",
+   "path": "local/judet/prahova/2016/28",
+   "short": "HCJ Prahova nr. 28/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 28/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-028-din-data-2016-03-30.pdf",
+     "sha256": "79fedfa761eb0906f732bda16d355cf8987fe7680cc625bf397d562543a446a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-33-2016",
+   "path": "local/judet/prahova/2016/33",
+   "short": "HCJ Prahova nr. 33/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 33/2016 privind modificarea anexei la Hotararea Consiliului judetean Prahova nr. 113/2011, referitoare la insusirea propunerilor de modificare a inventarului bunurilor imobile din domeniul public al Judetului Prahova care se afla in administrarea Muzeului Judetean de Is",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=6",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-033-din-data-2016-03-30.pdf",
+     "sha256": "2fdfd8e0812760126771e0e448de3323a079df234d8410c87b197c89b8d8e0fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-39-2016",
+   "path": "local/judet/prahova/2016/39",
+   "short": "HCJ Prahova nr. 39/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 39/2016 privind atribuirea unor licente de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=6",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-039-din-data-2016-03-30.pdf",
+     "sha256": "34ec94e35a6b2e9bcf39997b6fd32aad27d73ad90e80248c2ae4f70f4289a387"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-43-2016",
+   "path": "local/judet/prahova/2016/43",
+   "short": "HCJ Prahova nr. 43/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 43/2016 privind modificarea componentei Comisiei pentru protectia copilului a Judetului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=5",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-043-din-data-2016-03-30.pdf",
+     "sha256": "3368aadd665f0aa8b5bbb83ea1d6ed9274438fdac34306fda783bb051d8584ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-45-2016",
+   "path": "local/judet/prahova/2016/45",
+   "short": "HCJ Prahova nr. 45/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 45/2016 privind aprobarea „Planului de dezvoltare durabila a judetului Prahova in perioada 2014 - 2020”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=5",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-045-din-data-2016-03-30.pdf",
+     "sha256": "82ff831c43bcce370bea5b4e45e435597dd449ab9a5238b0fd81a2268d302892"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-47-2016",
+   "path": "local/judet/prahova/2016/47",
+   "short": "HCJ Prahova nr. 47/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 47/2016 privind asocierea județului Prahova cu localități din județ, precum și alocarea unor sume din bugetul județului Prahova pe anul 2016 în vederea realizării unor obiective de interes public",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=5",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-047-din-data-2016-03-30.pdf",
+     "sha256": "78d5b3c2021e24024cbdaaef2fbde56c916367f4875dddea4bf550ff768f2f76"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-49-2016",
+   "path": "local/judet/prahova/2016/49",
+   "short": "HCJ Prahova nr. 49/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 49/2016 privind acordarea cu titlu gratuit a dreptului de uz și servitute către F.D.E.E",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=5",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-049-din-data-2016-03-30.pdf",
+     "sha256": "00d208699c134db92ba69951c08a10db20f2f0a360e9a04b1359fbeee50531e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-52-2016",
+   "path": "local/judet/prahova/2016/52",
+   "short": "HCJ Prahova nr. 52/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 52/2016 privind asocierea Judetului Prahova cu municipiul Ploiesti in vederea finantarii obiectivului de interes public „Balastare si asfaltare teren situat pe strada Gageni - in imediata proximitate a Spitalului Judetean de Urgenta Ploiesti”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=5",
+   "versions": [
+    {
+     "from": "2016-04-08",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-052-din-data-2016-04-08.pdf",
+     "sha256": "5aa568369bbd9834b7f5f9e56896909dec4b9b12e404c867c76d7e5d258deaad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-53-2016",
+   "path": "local/judet/prahova/2016/53",
+   "short": "HCJ Prahova nr. 53/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 53/2016 privind aprobarea participării județului Prahova la expoziția organizată de Provincia Rovigo, Regiunea Veneto, Republica Italiană în perioada 15-17 aprilie 2016",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=6",
+   "versions": [
+    {
+     "from": "2016-04-08",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-053-din-data-2016-04-08.pdf",
+     "sha256": "cae8853665cc7a8d5b58a1a0a0f25c28001c26e4056a7826d81d649b8475f323"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-56-2016",
+   "path": "local/judet/prahova/2016/56",
+   "short": "HCJ Prahova nr. 56/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 56/2016 privind declararea utilitatii publice de interes judetean a lucrarii „Sistematizare nod de comunicatii rutiere intre DN1 - DN72 - DJ156 - Acces municipiul Ploiesti si zona Parcurilor Industriale”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=6",
+   "versions": [
+    {
+     "from": "2016-04-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-056-din-data-2016-04-26.pdf",
+     "sha256": "f5a3bd6faa8eb2a39171e5ea83f4d3457f495c1189773e5a0677d7d0eedbc49a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-57-2016",
+   "path": "local/judet/prahova/2016/57",
+   "short": "HCJ Prahova nr. 57/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 57/2016 privind modificarea unor prevederi ale Hotararilor Consiliului Judetean Prahova nr. 47/2016 si nr. 52/2016 referitoare la asocierea Judetului Prahova cu localitati din judet, precum si alocarea unor sume din bugetul judetului Prahova pe anul 2016 in vederea real",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=6",
+   "versions": [
+    {
+     "from": "2016-04-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-057-din-data-2016-04-26.pdf",
+     "sha256": "2b2267f560fbc67281442c103b89fb00c6f793d94bd87653229087bb2ccdb651"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-58-2016",
+   "path": "local/judet/prahova/2016/58",
+   "short": "HCJ Prahova nr. 58/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 58/2016 privind infiintarea unui centru de asistenta sociala in structura Directiei Generale de Asistenta Sociala si Protectia Copilului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=6",
+   "versions": [
+    {
+     "from": "2016-04-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-058-din-data-2016-04-26.pdf",
+     "sha256": "7456fad00a00e55c862ee89a1e06905ded18a66cb83c4148c9e8c53df6a6126f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-59-2016",
+   "path": "local/judet/prahova/2016/59",
+   "short": "HCJ Prahova nr. 59/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 59/2016 privind atribuirea unor licente de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=6",
+   "versions": [
+    {
+     "from": "2016-04-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-059-din-data-2016-04-26.pdf",
+     "sha256": "ed377ae4f2132edf74a19619d08f63a59686ede5cbf9f6455f247bdc75ac452f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-66-2016",
+   "path": "local/judet/prahova/2016/66",
+   "short": "HCJ Prahova nr. 66/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 66/2016 privind asocierea judetului Prahova cu orasul Baicoi in vederea finantarii obiectivului de interes public ,,Reabilitarea/modernizarea, extinderea si echiparea specifica a Centrului de ingrijire si asistenta pentru persoane adulte cu handicap Liliesti-Baicoi”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=5",
+   "versions": [
+    {
+     "from": "2016-05-05",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-066-din-data-2016-05-05.pdf",
+     "sha256": "abf7cb565fecf70a46cf9284bfa9cd94802bbca58c9ae18bb99cd9199aa845c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-69-2016",
+   "path": "local/judet/prahova/2016/69",
+   "short": "HCJ Prahova nr. 69/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 69/2016 privind modificarea unor prevederi ale Hotararii Consiliului Judetean Prahova nr. 47/2016 referitoare la asocierea Judetului Prahova cu localitati din judet, precum si alocarea unor sume din bugetul Judetului Prahova pe anul 2016 in vederea realizarii unor obiec",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=5",
+   "versions": [
+    {
+     "from": "2016-05-24",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-069-din-data-2016-05-24.pdf",
+     "sha256": "e2a045db32a1d4fc2c19152d59a64d0b645d13edd1ef0c5f6d0311728aed92a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-70-2016",
+   "path": "local/judet/prahova/2016/70",
+   "short": "HCJ Prahova nr. 70/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 70/2016 privind aprobarea Monografiei economico - militare a Judetului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=5",
+   "versions": [
+    {
+     "from": "2016-05-24",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-070-din-data-2016-05-24.pdf",
+     "sha256": "33f3b4837a6300cbd923cab5657b73e21e5a30122aad02501c84106568c64d35"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-72-2016",
    "path": "local/judet/prahova/2016/72",
    "short": "HCJ Prahova nr. 72/2016",
@@ -89,6 +1154,111 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-072-din-data-2016-05-24.pdf",
      "sha256": "bb17f81e6815d455dc7523c1274b3ed65f536b2591b996efa3c2100b1feb39c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-77-2016",
+   "path": "local/judet/prahova/2016/77",
+   "short": "HCJ Prahova nr. 77/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 77/2016 privind modificarea statului de functii pentru Spitalul Judetean de Urgenta Ploiesti",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=5",
+   "versions": [
+    {
+     "from": "2016-05-24",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-077-din-data-2016-05-24.pdf",
+     "sha256": "372a0ff1dddbb436b19bab8d4165a1d27f9e9cbf221fbcfaea236c544f6fd502"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-78-2016",
+   "path": "local/judet/prahova/2016/78",
+   "short": "HCJ Prahova nr. 78/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 78/2016 privind modificarea statului de functii pentru Centrul Judetean de Cultura Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=5",
+   "versions": [
+    {
+     "from": "2016-05-24",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-078-din-data-2016-05-24.pdf",
+     "sha256": "b400495233a42a502138e07ff05b53d8af9bf9d9081d4eb04654f63645af8a32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-79-2016",
+   "path": "local/judet/prahova/2016/79",
+   "short": "HCJ Prahova nr. 79/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 79/2016 privind modificarea organigramei si a statului de functii pentru Directia Judeteana de Paza Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=5",
+   "versions": [
+    {
+     "from": "2016-05-24",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-079-din-data-2016-05-24.pdf",
+     "sha256": "29f54d5162ae2f0aaaecb093d7afe6c0ebfef557dd503fc6927b1e358bbc51e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-8-2016",
+   "path": "local/judet/prahova/2016/8",
+   "short": "HCJ Prahova nr. 8/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 8/2016 privind mentinerea sau, dupa caz, darea in administrarea Muzeului Judetean de Istorie si Arheologie Prahova a unor bunuri proprietatea Judetului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=7",
+   "versions": [
+    {
+     "from": "2016-02-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-008-din-data-2016-02-26.pdf",
+     "sha256": "464f0d8eb5457bbc9d5766476728c9456dce79773e3035133995fadbb681005b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-80-2016",
+   "path": "local/judet/prahova/2016/80",
+   "short": "HCJ Prahova nr. 80/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 80/2016 privind aprobarea cotizatiei pe anul 2016 a Consiliului judetean Prahova la Asociatia de Dezvoltare Intercomunitara „Situatii de Urgenta Sud Muntenia”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=5",
+   "versions": [
+    {
+     "from": "2016-05-24",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-080-din-data-2016-05-24.pdf",
+     "sha256": "c65145d9bb9da2d1b268e8944b08c74d16e9140af968ed62d77e6dd0a637f740"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-82-2016",
+   "path": "local/judet/prahova/2016/82",
+   "short": "HCJ Prahova nr. 82/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 82/2016 privind modificarea arondării localitatilor din judetul Prahova la serviciile publice comunitare de evidenta a persoanelor",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=4",
+   "versions": [
+    {
+     "from": "2016-05-24",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-082-din-data-2016-05-24.pdf",
+     "sha256": "0a3fb4f421a7cfa23fac95f120a9427ea10fd94fd16595458783877e5719e794"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-92-2016",
+   "path": "local/judet/prahova/2016/92",
+   "short": "HCJ Prahova nr. 92/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 92/2016 privind validarea mandatelor consilierilor judeteni",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=4",
+   "versions": [
+    {
+     "from": "2016-06-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-092-din-data-2016-06-29.pdf",
+     "sha256": "a524f818938a8b5746c6f8c81b7af3bca207a122e218c9d82ab89d989d72df49"
     }
    ]
   }

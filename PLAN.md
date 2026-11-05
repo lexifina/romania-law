@@ -2,7 +2,7 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**56.4%** of the plan is published, weighted by how binding each source is and how often it is used. **72.8%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-05 23:41 UTC.
+**59.0%** of the plan is published, weighted by how binding each source is and how often it is used. **74.2%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-05 23:46 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
@@ -24,13 +24,13 @@ This is the plan for this repository, part by part, with what is published so fa
 | Norms and regulations (BNR, ASF, ANRE, ANCOM and others) | norme/<issuer>/ | 11.2% | 5,840 of 38,930 acts · 19.0% | official texts as published | collecting |
 | Standards (ASRO) | none: standard numbers cited only | – | out of scope | standard numbers cited only (the texts are copyright) | not planned: Copyright held by ASRO |
 | **Local acts** | | | | | |
-| Local acts: Bucharest (CGMB) | local/bucuresti/cgmb/ | 1.1% | 0 of 12,236 records · index pages 1,224/1,224 · listed 12,236/12,236 · texts 1 · 0.0% | the council's own register of decisions (PDF and text) | planned |
-| Local acts: Bucharest sectors 1-6 | local/bucuresti/sector-1/ ... sector-6/ | 0.6% | 0 of 6 sectors · 0.0% | each council's Monitorul Oficial Local | planned |
-| Local acts: county councils (41) | local/judet/<county>/ | 0.9% | 0 of 41 councils · 0.0% | each council's Monitorul Oficial Local | planned |
-| Local acts: municipalities and towns | local/<county>/<municipality or town>/ | 0.7% | 0 of 320 councils · 0.0% | each council's Monitorul Oficial Local | planned |
+| Local acts: Bucharest (CGMB) | local/bucuresti/cgmb/ | 1.1% | 12,536 of 12,536 records · index pages 1,224/1,224 · listed 12,236/12,536 · texts 1 · 100.0% | the council's own register of decisions (PDF and text) | done |
+| Local acts: Bucharest sectors 1-6 | local/bucuresti/sector-1/ ... sector-6/ | 0.6% | 6 of 6 sectors · 100.0% | each council's Monitorul Oficial Local | done |
+| Local acts: county councils (41) | local/judet/<county>/ | 0.9% | 34 of 41 councils · 82.9% | each council's Monitorul Oficial Local | planned |
+| Local acts: municipalities and towns | local/<county>/<municipality or town>/ | 0.7% | 50 of 320 councils · 15.6% | each council's Monitorul Oficial Local | planned |
 | Local acts: communes | local/<county>/<commune>/ | 0.3% | 0 of 2,861 councils · 0.0% | each council's Monitorul Oficial Local | planned |
 | Local acts: other local authorities (prefects' orders) | local/prefect/<county>/ | 0.2% | 0 of 42 prefects · 0.0% | each prefecture, where it publishes | no publication channel found yet |
-| Local taxes per locality | data/local-taxes.csv | 0.6% | 0 of 3,181 localities · 0.0% | each council's yearly decision on local taxes, indexed by locality and year | collecting |
+| Local taxes per locality | data/local-taxes.csv | 0.6% | 49 of 3,181 localities · 1.5% | each council's yearly decision on local taxes, indexed by locality and year | collecting |
 | **Oversight and elections** | | | | | |
 | Electoral rulings (BEC, AEP) | decizie-bec/, hotarare-aep/, norma-aep/ | 0.4% | 720 of 720 decisions · 100.0% | official texts; decisions about individual persons as metadata only | done |
 | Court of Accounts | curtea-de-conturi/ | 0.3% | target unknown | official texts as published | collecting |

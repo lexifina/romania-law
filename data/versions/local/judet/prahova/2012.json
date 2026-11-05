@@ -3,6 +3,96 @@
  "shard": "local/judet/prahova/2012",
  "acts": [
   {
+   "slug": "hcj-prahova-100-2012",
+   "path": "local/judet/prahova/2012/100",
+   "short": "HCJ Prahova nr. 100/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 100/2012 privind aprobarea cotizaţiei anuale a judeţului Prahova, membru al Asociaţiei Agenţiilor pentru Democraţie Locală (ALDA)",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-07-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-100-din-data-2012-07-09.doc",
+     "sha256": "968ccb6ed19a7a26c3d3f62649568063ff4272b27238774fedaf2c5e8657b8d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-101-2012",
+   "path": "local/judet/prahova/2012/101",
+   "short": "HCJ Prahova nr. 101/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 101/2012 privind revocarea prevederilor referitoare la desemnarea reprezentanţilor Consiliului judeţean Prahova în Adunarea Generală a Acţionarilor la societăţile comerciale la care acesta are calitatea de acţionar",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=3",
+   "versions": [
+    {
+     "from": "2012-07-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-101-din-data-2012-07-09.doc",
+     "sha256": "6137acf1d8477bce9fd341860abd85852907eca6e34c3dc7cfea9860a2c28c38"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-109-2012",
+   "path": "local/judet/prahova/2012/109",
+   "short": "HCJ Prahova nr. 109/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 109/2012 privind modificarea şi completarea unor hotărâri ale Consiliului judeţean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=4",
+   "versions": [
+    {
+     "from": "2012-07-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-109-din-data-2012-07-09.doc",
+     "sha256": "719c44e6fce64d257f6f2bcdab4d81fae7f2ed445a104655e490e26b037cd75c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-110-2012",
+   "path": "local/judet/prahova/2012/110",
+   "short": "HCJ Prahova nr. 110/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 110/2012 privind modificarea statului de funcţii pentru Direcţia Judeţeană de Pază Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=4",
+   "versions": [
+    {
+     "from": "2012-07-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-110-din-data-2012-07-09.doc",
+     "sha256": "b2d607033219ccfb6ffab7d13e53d77845dd3fde25f4248c1ed095623f9d4d24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-111-2012",
+   "path": "local/judet/prahova/2012/111",
+   "short": "HCJ Prahova nr. 111/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 111/2012 privind asocierea judeţului Prahova cu localităţi din judeţ, precum şi alocarea unor sume din bugetul judeţului Prahova pe anul 2012 în vederea realizării unor obiective de interes public",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=4",
+   "versions": [
+    {
+     "from": "2012-07-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-111-din-data-2012-07-09.doc",
+     "sha256": "567ffda7ee3f3d36ff6f05d6c36fcf047f4d6db580ecad19fa59e33ae63cea42"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-114-2012",
+   "path": "local/judet/prahova/2012/114",
+   "short": "HCJ Prahova nr. 114/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 114/2012 privind solicitarea trecerii unui teren, aflat în proprietatea privată a statului, din administrarea Agenţiei Domeniilor Statului în administrarea Consiliului Judeţean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=4",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-114-din-data-2012-08-30.doc",
+     "sha256": "62dd37eb22699da3903c7c234e78cce2f8b65a6ada6942c678cae9e5e8764764"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-117-2012",
    "path": "local/judet/prahova/2012/117",
    "short": "HCJ Prahova nr. 117/2012",
@@ -14,6 +104,81 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-117-din-data-2012-08-30.doc",
      "sha256": "6f8f18ae9a83eea1a524cfa3f17557591e866eccc7e177d0b3cb55cdef97daa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-127-2012",
+   "path": "local/judet/prahova/2012/127",
+   "short": "HCJ Prahova nr. 127/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 127/2012 privind desemnarea a 6 consilieri judeţeni în componenţa Autorităţii Teritoriale de Ordine Publică Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=3",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-127-din-data-2012-08-30.doc",
+     "sha256": "1b18972f7889d1239f76faf89f5d772caf48dbbec1b1c97855c97289611cc921"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-129-2012",
+   "path": "local/judet/prahova/2012/129",
+   "short": "HCJ Prahova nr. 129/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 129/2012 privind atribuirea unei licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=3",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-129-din-data-2012-08-30.doc",
+     "sha256": "5364b543ddc0446a98f942452eae13a4f1ee0f074f04a01455e30239294bc8a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-130-2012",
+   "path": "local/judet/prahova/2012/130",
+   "short": "HCJ Prahova nr. 130/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 130/2012 privind atribuirea unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=3",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-130-din-data-2012-08-30.doc",
+     "sha256": "84e274282cd775fbd6ab5ff12e26376cd350902b2ee540ce05bf3f9252c846aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-133-2012",
+   "path": "local/judet/prahova/2012/133",
+   "short": "HCJ Prahova nr. 133/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 133/2012 privind preluarea în administrarea Consiliului Judeţean Prahova a unui teren aflat în proprietatea privată a comunei Poiana Câmpina",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=3",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-133-din-data-2012-08-30.doc",
+     "sha256": "da794e1ab0b0bf7d9d7c51589fe8f79e742f5e7fec0ef255a7bb45f5d9400b4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-134-2012",
+   "path": "local/judet/prahova/2012/134",
+   "short": "HCJ Prahova nr. 134/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 134/2012 privind preluarea unui imobil din proprietatea publică a oraşului Plopeni în proprietatea publică a judeţului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=3",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-134-din-data-2012-08-30.doc",
+     "sha256": "a113f93ff54fb85bff4dea16994bad6c7a12ee1fddabec7d5e3b8b4a0ca15661"
     }
    ]
   },
@@ -33,6 +198,936 @@
    ]
   },
   {
+   "slug": "hcj-prahova-136-2012",
+   "path": "local/judet/prahova/2012/136",
+   "short": "HCJ Prahova nr. 136/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 136/2012 privind aprobarea monografiei economico-militare a judeţului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=3",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-136-din-data-2012-08-30.doc",
+     "sha256": "0a3c616e1abf1948ffb45ef3ee6266fdf6f42bf71df9f57b19aa4ec98135bfee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-139-2012",
+   "path": "local/judet/prahova/2012/139",
+   "short": "HCJ Prahova nr. 139/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 139/2012 privind aprobarea achiziționării de servicii juridice de consultanță, de asistență și de reprezentare de către Spitalul de Pediatrie Ploiești",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=3",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-139-din-data-2012-08-30.doc",
+     "sha256": "b595c2a08691797ff9548e0aa286487dabb2cd8f359b8895fa248bd5f9e971ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-143-2012",
+   "path": "local/judet/prahova/2012/143",
+   "short": "HCJ Prahova nr. 143/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 143/2012 privind asocierea judeţului Prahova cu localităţi din judeţ, precum şi alocarea unor sume din bugetul judeţului Prahova pe anul 2012 în vederea realizării unor obiective de interes public",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=2",
+   "versions": [
+    {
+     "from": "2012-09-10",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-143-din-data-2012-09-10.doc",
+     "sha256": "3336ea58991e3178685da34710c3be235a2e707a4cde27ced207cb807efe3ef3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-144-2012",
+   "path": "local/judet/prahova/2012/144",
+   "short": "HCJ Prahova nr. 144/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 144/2012 privind transmiterea din administrarea Consiliului judeţean Prahova în administrarea Consiliului Local al municipiului Ploieşti, a unor părţi din terenul aferent imobilului, proprietatea publică a judeţului Prahova, situat în municipiul Ploieşti, Bulevardul Repu",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=2",
+   "versions": [
+    {
+     "from": "2012-09-10",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-144-din-data-2012-09-10.doc",
+     "sha256": "49d529e987224921dc043838d01391e143c79fc3e3ccaa6b27691da918c917a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-145-2012",
+   "path": "local/judet/prahova/2012/145",
+   "short": "HCJ Prahova nr. 145/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 145/2012 privind trecerea din domeniul public în domeniul privat al judeţului Prahova, a clădirii „Cabină pază”, situată în municipiul Ploieşti, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=2",
+   "versions": [
+    {
+     "from": "2012-09-10",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-145-din-data-2012-09-10.doc",
+     "sha256": "04a324179ac3ad50e76e76ffbe038cf0a12c59541772581ccdb1416b846fb5cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-151-2012",
+   "path": "local/judet/prahova/2012/151",
+   "short": "HCJ Prahova nr. 151/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 151/2012 privind modificarea statului de funcţii pentru Biblioteca Judeţeană “ Nicolae Iorga ” Ploiesti",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=2",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-151-din-data-2012-09-27.doc",
+     "sha256": "712a4ea6c63bb790849678219156f33276997dbc577488a258416e02ba64d96b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-152-2012",
+   "path": "local/judet/prahova/2012/152",
+   "short": "HCJ Prahova nr. 152/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 152/2012 privind modificarea statului de funcţii pentru Direcţia Judeţeana de Evidenţă a Persoanelor Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=3",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-152-din-data-2012-09-27.doc",
+     "sha256": "bcd13b073ca7c375680e867dcb82847902388b1986cc0ffbb6e398126e055cd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-153-2012",
+   "path": "local/judet/prahova/2012/153",
+   "short": "HCJ Prahova nr. 153/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 153/2012 privind atribuirea unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=3",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-153-din-data-2012-09-27.doc",
+     "sha256": "0c15dfef7e1d6487954a1655f29234224df07a37b76d541f4c96064c3cfb1ba0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-157-2012",
+   "path": "local/judet/prahova/2012/157",
+   "short": "HCJ Prahova nr. 157/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 157/2012 privind preluarea în administrarea Consiliului Judeţean Prahova a unui teren aflat în proprietatea publică a comunei Gura Vitioarei",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=3",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-157-din-data-2012-09-27.doc",
+     "sha256": "a7bced8bdddb4c7d89be7e7345a55c954b0c7239b5ffe98ec755d13e1518d8a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-158-2012",
+   "path": "local/judet/prahova/2012/158",
+   "short": "HCJ Prahova nr. 158/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 158/2012 privind asocierea judeţului Prahova cu localităţi din judeţ, precum şi alocarea unor sume din bugetul judeţului Prahova pe anul 2012 în vederea realizării unor obiective de interes public",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=3",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-158-din-data-2012-09-27.doc",
+     "sha256": "b96e6b47fd9fbaa62416c1c064a91e9d79223a0240cdda8cf66d3e02ec1ff2df"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-159-2012",
+   "path": "local/judet/prahova/2012/159",
+   "short": "HCJ Prahova nr. 159/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 159/2012 privind validarea componenţei nominale a Autorităţii Teritoriale de Ordine Publică Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=3",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-159-din-data-2012-09-27.doc",
+     "sha256": "981229f001217f1ed01c1a51d018657a61d1b6fe754788c31a1c618f72045d2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-160-2012",
+   "path": "local/judet/prahova/2012/160",
+   "short": "HCJ Prahova nr. 160/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 160/2012 privind aprobarea execuţiei bugetului propriu al judeţului precum şi a bugetelor instituţiilor de sub autoritatea Consiliului Judeţean Prahova la data de 30.09. 2012",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=3",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-160-din-data-2012-10-31.doc",
+     "sha256": "2a5ee10666870deb65e0a12d8e67b7bdf44409c76358a633a76cd5609ccdd8e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-161-2012",
+   "path": "local/judet/prahova/2012/161",
+   "short": "HCJ Prahova nr. 161/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 161/2012 privind rectificarea bugetului propriu al judeţului şi a bugetelor unor instituţii de sub autoritatea Consiliului Judeţean Prahova pe anul 2012",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-161-din-data-2012-10-31.doc",
+     "sha256": "c94fd138b26c602da895f45092fab358a54054474b077f68cfeeaa4deddb8ac6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-162-2012",
+   "path": "local/judet/prahova/2012/162",
+   "short": "HCJ Prahova nr. 162/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 162/2012 privind solicitarea trecerii unui teren din domeniul privat al statului şi din administrarea Agenţiei Domeniilor Statului în domeniul public al statului şi în administrarea Consiliului Judeţean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=2",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-162-din-data-2012-10-31.doc",
+     "sha256": "201c3eed572afc51732b5ac0f2b3c10e599826e933b449ac0fff686a047f9c71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-163-2012",
+   "path": "local/judet/prahova/2012/163",
+   "short": "HCJ Prahova nr. 163/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 163/2012 privind modificarea unor hotărâri ale Consiliului judeţean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=2",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-163-din-data-2012-10-31.doc",
+     "sha256": "156b918c6f45b2638ca78b1c1e3ea76bc53b1d87deaaf9553719879934c63269"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-164-2012",
+   "path": "local/judet/prahova/2012/164",
+   "short": "HCJ Prahova nr. 164/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 164/2012 privind preluarea unor bunuri din proprietatea publică a oraşului Vălenii de Munte în proprietatea publică a judeţului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=2",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-164-din-data-2012-10-31.doc",
+     "sha256": "e1963fb25406caede917facec14b1290e959bac50de84310e0c749ce22eae66d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-165-2012",
+   "path": "local/judet/prahova/2012/165",
+   "short": "HCJ Prahova nr. 165/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 165/2012 privind modificarea statului de funcţii pentru aparatul de specialitate al Consiliului Judeţean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=2",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-165-din-data-2012-10-31.doc",
+     "sha256": "fe0d0385222336d6d70cab19e38005f84464ca8a755e3a951cf141415081412f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-166-2012",
+   "path": "local/judet/prahova/2012/166",
+   "short": "HCJ Prahova nr. 166/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 166/2012 privind modificarea statului de funcţii pentru Spitalul de Pediatrie Ploiesti",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=2",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-166-din-data-2012-10-31.doc",
+     "sha256": "7425e328a44295512e9ea036ed5444108fe9021c1aceb67d60a44bffd8df37b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-167-2012",
+   "path": "local/judet/prahova/2012/167",
+   "short": "HCJ Prahova nr. 167/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 167/2012 privind aprobarea Planului de ocupare a funcţiilor publice din cadrul aparatului de specialitate al Consiliului Judeţean Prahova si a funcţiilor publice din cadrul serviciilor publice din subordinea Consiliului Judetean Prahova pentru anul 2013",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=2",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-167-din-data-2012-10-31.doc",
+     "sha256": "1ea8dc214cb02827b246f2134711bf3fa13b002cb9126ee27fad74fbdbe6fdf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-168-2012",
+   "path": "local/judet/prahova/2012/168",
+   "short": "HCJ Prahova nr. 168/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 168/2012 privind atribuirea unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=2",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-168-din-data-2012-10-31.doc",
+     "sha256": "64a010bb2a156aa3f0baff9c710b7258b4a163feb6a83bfc692a892c3c2bea8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-169-2012",
+   "path": "local/judet/prahova/2012/169",
+   "short": "HCJ Prahova nr. 169/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 169/2012 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes judeţean „Accesibilitate şi fluidizare trafic către zona industrială Ploieşti Vest şi platforma",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=2",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-169-din-data-2012-10-31.doc",
+     "sha256": "738a009df47a32d7897d5362b167ce696cf59eb8467b5d9dc00e5eb1e707fcfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-171-2012",
+   "path": "local/judet/prahova/2012/171",
+   "short": "HCJ Prahova nr. 171/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 171/2012 privind aprobarea “PLANULUI DE ANALIZĂ ŞI ACOPERIRE A RISCURILOR IDENTIFICATE LA NIVELUL JUDEŢULUI PRAHOVA”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=2",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-171-din-data-2012-10-31.doc",
+     "sha256": "a65272ad17f1780395cf1da34782ba04cc594cedf0d1baa413b538c9fa9f77b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-174-2012",
+   "path": "local/judet/prahova/2012/174",
+   "short": "HCJ Prahova nr. 174/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 174/2012 privind prelungirea termenului de dare în folosinţă gratuită a unor spaţii Asociaţiei de Dezvoltare intercomunitară de utilităţi publice pentru serviciul de salubrizare „Parteneriatul pentru managementul deşeurilor - Prahova” în imobilul proprietate publică a ju",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=2",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-174-din-data-2012-10-31.doc",
+     "sha256": "adfbec48a090a0bc5de1081cfc202873ef4d6d2b253d58a8f5047987b37fd7e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-175-2012",
+   "path": "local/judet/prahova/2012/175",
+   "short": "HCJ Prahova nr. 175/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 175/2012 privind modificarea componenţei Comisiei pentru protecţia copilului a judeţului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=2",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-175-din-data-2012-10-31.doc",
+     "sha256": "f56a127f08fec7e9e9e852c1886e8d8c27f4b9f77f85b19b683310e5bac61b94"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-176-2012",
+   "path": "local/judet/prahova/2012/176",
+   "short": "HCJ Prahova nr. 176/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 176/2012 privind aprobarea cotizaţiei Consiliului Judeţean Prahova, în calitate de membru fondator al Asociaţiei „Microregiunea Turistică Munţii Bucegi”pentru anul 2012",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=2",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-176-din-data-2012-10-31.doc",
+     "sha256": "cfc02f57b08b3b589a8c588f27c9e3e42d90009bccce6fabef092f4d521397d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-177-2012",
+   "path": "local/judet/prahova/2012/177",
+   "short": "HCJ Prahova nr. 177/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 177/2012 privind completarea anexei la Hotărârea nr. 35/2012 a Consiliului judeţean Prahova referitoare la prelungirea termenelor de închiriere a unor spaţii în imobilele proprietate publică a judeţului Prahova situate în municipiul Ploieşti, B-dul Republicii nr. 2 – 4 ş",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=2",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-177-din-data-2012-10-31.doc",
+     "sha256": "c0c2a46675f6c9662b89999673a7ebe31bc8ac78e106ff9ddf789712859c4232"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-181-2012",
+   "path": "local/judet/prahova/2012/181",
+   "short": "HCJ Prahova nr. 181/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 181/2012 privind aprobarea, de principiu, a dotării cu echipamente medicale a Spitalului Județean de Urgență Ploiești",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-181-din-data-2012-10-31.doc",
+     "sha256": "5c63abcb2764682a3ece6fb7a29916b353cf154f1e4ab2f91005642c51e51493"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-183-2012",
+   "path": "local/judet/prahova/2012/183",
+   "short": "HCJ Prahova nr. 183/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 183/2012 privind rectificarea bugetului propriu al judeţului şi a bugetelor unor instituţii de sub autoritatea Consiliului Judeţean Prahova pe anul 2012",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-11-14",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-183-din-data-2012-11-14.doc",
+     "sha256": "ac773f341b66f7219a5962a4b1165575de5bd538076e55c69b72e7aabca2c4f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-184-2012",
+   "path": "local/judet/prahova/2012/184",
+   "short": "HCJ Prahova nr. 184/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 184/2012 privind trecerea din domeniul public în domeniul privat al judeţului Prahova a podului peste pârâul Lopatna pe DJ 233, km 7+802,5, localitatea Gogeasca, comuna Cărbuneşti, judeţul Prahova, în vederea scoaterii sale din funcţiune şi a construirii unui nou pod pe",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-11-14",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-184-din-data-2012-11-14.doc",
+     "sha256": "57fd4209048a99e9ee96abd1834e72f3c7e319e2790dbb3dcff4fde22074d84b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-185-2012",
+   "path": "local/judet/prahova/2012/185",
+   "short": "HCJ Prahova nr. 185/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 185/2012 privind preluarea în administrarea Consiliului Judeţean Prahova a unor terenuri aflate în proprietatea oraşului Sinaia",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-11-14",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-185-din-data-2012-11-14.doc",
+     "sha256": "ece6d2e576613ac65386b55b66a145a6aa32f588e0f9581fb9902e314991589d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-186-2012",
+   "path": "local/judet/prahova/2012/186",
+   "short": "HCJ Prahova nr. 186/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 186/2012 privind aprobarea organizării, în cadrul aparatului propriu al Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Prahova, a activităţii de consiliere vocaţională",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-11-14",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-186-din-data-2012-11-14.doc",
+     "sha256": "83014a7b67c31e0ea0bf9a0d86eeef8c7aa52c2e425bb3ceeab0931f1faeefa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-187-2012",
+   "path": "local/judet/prahova/2012/187",
+   "short": "HCJ Prahova nr. 187/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 187/2012 privind prelungirea termenului de dare în folosinţă gratuită a unor spaţii în imobilul proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-11-14",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-187-din-data-2012-11-14.doc",
+     "sha256": "de09b77ae79f33a62787f28a3fe627967174392d4fbd5a6ff53d33ca686fd7ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-188-2012",
+   "path": "local/judet/prahova/2012/188",
+   "short": "HCJ Prahova nr. 188/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 188/2012 privind modificarea statului de funcţii pentru Direcţia Judeţeană de Pază",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-11-14",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-188-din-data-2012-11-14.doc",
+     "sha256": "5477808d056c7d642e5aa7dd1a4c613f373eb174f5a32302ee9e201bae21863f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-189-2012",
+   "path": "local/judet/prahova/2012/189",
+   "short": "HCJ Prahova nr. 189/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 189/2012 privind asocierea judeţului Prahova cu localităţi din judeţ, precum şi alocarea unor sume din bugetul judeţului Prahova pe anul 2012 în vederea realizării unor obiective de interes public",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-11-14",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-189-din-data-2012-11-14.doc",
+     "sha256": "20700deffc2895d4cd9c2d16164eac080791775d8bd7a75bfbc7b5af9d4aad18"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-191-2012",
+   "path": "local/judet/prahova/2012/191",
+   "short": "HCJ Prahova nr. 191/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 191/2012 privind rectificarea bugetului propriu al judeţului şi a bugetelor unor instituţii de sub autoritatea Consiliului Judeţean Prahova pe anul 2012",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-191-din-data-2012-12-17.doc",
+     "sha256": "ccd851d5d4c3c936a824049b24f133d58b12c4f6aebcbda404adc7a3cd17982b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-194-2012",
+   "path": "local/judet/prahova/2012/194",
+   "short": "HCJ Prahova nr. 194/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 194/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-194-din-data-2012-12-17.doc",
+     "sha256": "f04b60fb8ac9923e0a4e43e911575f017cd9c03151169932bbf2a224a5c2d858"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-195-2012",
+   "path": "local/judet/prahova/2012/195",
+   "short": "HCJ Prahova nr. 195/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 195/2012 privind atribuirea unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-195-din-data-2012-12-17.doc",
+     "sha256": "87f862ca83f79b07e8129043d0efacbd232fb463c89e9d4b53da29409589f916"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-196-2012",
+   "path": "local/judet/prahova/2012/196",
+   "short": "HCJ Prahova nr. 196/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 196/2012 privind aprobarea documentaţiei tehnico – economice a obiectivului „Reabilitare Termică Clădire Corp A,B,C,D - Spitalul Judeţean de Urgenţă Ploieşti – str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-196-din-data-2012-12-17.doc",
+     "sha256": "53494ca563d173c0e5a476f7993ac4daff70d5e71ad509fcd89009f106355a3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-199-2012",
+   "path": "local/judet/prahova/2012/199",
+   "short": "HCJ Prahova nr. 199/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 199/2012 privind modificarea statului de funcţii pentru Spitalul Judetean de Urgentă",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-199-din-data-2012-12-17.doc",
+     "sha256": "6c8774c4795f84344c3218e0f61a474f91bed9b2b609df616bdf04041d835431"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-201-2012",
+   "path": "local/judet/prahova/2012/201",
+   "short": "HCJ Prahova nr. 201/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 201/2012 privind modificarea statului de funcţii pentru Direcţia Judeţeană de Pază Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-201-din-data-2012-12-17.doc",
+     "sha256": "feb55de4ab9736ad94f5131a002e2a0f5e429c2df8e0ed1099969eab4fab6c85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-202-2012",
+   "path": "local/judet/prahova/2012/202",
+   "short": "HCJ Prahova nr. 202/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 202/2012 privind aprobarea componenţei Echipei intersectoriale locale pentru prevenirea şi combaterea exploatării copiilor prin muncă",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-202-din-data-2012-12-17.doc",
+     "sha256": "70e1ecfc4820fe18a5daf23fe9251a9c2331b614d5312612631cc3ccbde649e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-203-2012",
+   "path": "local/judet/prahova/2012/203",
+   "short": "HCJ Prahova nr. 203/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 203/2012 privind prelungirea termenelor de dare în folosinţă gratuită a unor spaţii în imobilele proprietate publică a judeţului Prahova, situate în municipiul Ploieşti, B-dul Republicii nr. 2 – 4 şi str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-203-din-data-2012-12-17.doc",
+     "sha256": "2673b91921540679e8df2543ddc5fbfa62774eecabf4322985fe47f62fb3e170"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-204-2012",
+   "path": "local/judet/prahova/2012/204",
+   "short": "HCJ Prahova nr. 204/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 204/2012 privind prelungirea termenelor de dare în folosinţă gratuită a unor spaţii în imobilul proprietate privată a judeţului Prahova, situat în municipiul Ploieşti, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-204-din-data-2012-12-17.doc",
+     "sha256": "4efd575594ef6e3d1dcb555f18165758126e58bd9a44ed230b9fa9de1e5dd550"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-205-2012",
+   "path": "local/judet/prahova/2012/205",
+   "short": "HCJ Prahova nr. 205/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 205/2012 privind modificarea cuantumului indemnizaţiilor de periculozitate acordate membrilor Serviciului Public Judeţean Salvamont Prahova pentru participarea la activităţi de patrulare şi acţiuni de salvare în munţi, începând cu data de 01.01.2013",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-205-din-data-2012-12-17.doc",
+     "sha256": "4320e54ad50347cc2492d43e15cd924d6c6c221c0be19f9db6a65146492aab9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-206-2012",
+   "path": "local/judet/prahova/2012/206",
+   "short": "HCJ Prahova nr. 206/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 206/2012 privind stabilirea, pentru titularii dreptului de administrare a unor bunuri proprietate publică a judeţului Prahova, a cotei părţi pe care o pot încasa din veniturile obţinute ca urmare a închirierii către terţi a bunurilor respective",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-206-din-data-2012-12-17.doc",
+     "sha256": "a30693af3487e930878d596cd1720bbe44f824e1db32253afe2226cdd253010c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-207-2012",
+   "path": "local/judet/prahova/2012/207",
+   "short": "HCJ Prahova nr. 207/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 207/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-207-din-data-2012-12-17.doc",
+     "sha256": "1eaeccb83dcfe07207c60b0cee26f1ba5471353063cd92aece76f262fa8afa3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-208-2012",
+   "path": "local/judet/prahova/2012/208",
+   "short": "HCJ Prahova nr. 208/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 208/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-208-din-data-2012-12-17.doc",
+     "sha256": "e49c830d9ca9a5b8c57b729df7b02985b139cb510b560e712c8f8175d883d434"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-209-2012",
+   "path": "local/judet/prahova/2012/209",
+   "short": "HCJ Prahova nr. 209/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 209/2012 privind aprobarea achiziţionării de servicii juridice de consultanţă, de asistenţă şi de reprezentare de către S.C",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-209-din-data-2012-12-17.doc",
+     "sha256": "bbd0f09de72beb27ddb9a7e7939dd7a30f6f5301c46e71767e112322e9558c70"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-30-2012",
+   "path": "local/judet/prahova/2012/30",
+   "short": "HCJ Prahova nr. 30/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 30/2012 privind rectificarea sumelor defalcate din unele venituri ale bugetului de stat - cota de 20% - repartizate pe unităţi administrativ-teritoriale pe anul 2012",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=6",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-030-din-data-2012-02-24.doc",
+     "sha256": "2b05dc05ffb3b7a745815cbba3010bbdece5bcf86432add2102ab66e636be35f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-31-2012",
+   "path": "local/judet/prahova/2012/31",
+   "short": "HCJ Prahova nr. 31/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 31/2012 privind rectificarea bugetului propriu al judeţului şi a bugetelor unor instituţii de sub autoritatea Consiliului Judeţean Prahova pe anul 2012",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=6",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-031-din-data-2012-02-24.doc",
+     "sha256": "9dcac1fd413a85fa348e719e3ac82d5073c982a15e7c6786eedcf4f31176a9a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-32-2012",
+   "path": "local/judet/prahova/2012/32",
+   "short": "HCJ Prahova nr. 32/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 32/2012 privind modificarea sau, după caz, revocarea prevederilor unor hotărâri ale Consiliului judeţean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=7",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-032-din-data-2012-02-24.doc",
+     "sha256": "9bfd0b60c04d730eea1b3c549874581a91c9abf1f4688a3b819d00c9b8782251"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-33-2012",
+   "path": "local/judet/prahova/2012/33",
+   "short": "HCJ Prahova nr. 33/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 33/2012 privind atribuirea unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=7",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-033-din-data-2012-02-24.doc",
+     "sha256": "a5e6d4d091c11326fdb2ca6054b6f55b9d56e6650d93435ffe2a27dde35b6742"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-35-2012",
+   "path": "local/judet/prahova/2012/35",
+   "short": "HCJ Prahova nr. 35/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 35/2012 privind prelungirea termenelor de închiriere a unor spaţii în imobilele proprietate publică a judeţului Prahova, situate în municipiul Ploieşti, B-dul Republicii nr. 2 – 4 şi str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=7",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-035-din-data-2012-02-24.doc",
+     "sha256": "fb9e25a9c5a627cab9cc88275fbd0241d882ebd7b1b22b212dd1ceeb71ad1fd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-37-2012",
+   "path": "local/judet/prahova/2012/37",
+   "short": "HCJ Prahova nr. 37/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 37/2012 privind aprobarea cotizaţiei pe anul 2012 a Consiliului Judeţean Prahova la Asociaţia de Dezvoltare Intercomunitară „Situaţii de Urgenţă Sud Muntenia”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=7",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-037-din-data-2012-02-24.doc",
+     "sha256": "b256562c3a63df887096cb64b1d776878005ada0b7a23897ce67efa0617da327"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-39-2012",
+   "path": "local/judet/prahova/2012/39",
+   "short": "HCJ Prahova nr. 39/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 39/2012 privind aprobarea cotizaţiei anuale a Judeţului Prahova, în calitate de membru fondator al Agenţiei pentru Eficienţă Energetică şi Energii Regenerabile Ploieşti - Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=7",
+   "versions": [
+    {
+     "from": "2012-02-24",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-039-din-data-2012-02-24.doc",
+     "sha256": "8226ce131643179169bec8152c3eb7ce15e97b69094f9cf83ae500d6f54155ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-40-2012",
+   "path": "local/judet/prahova/2012/40",
+   "short": "HCJ Prahova nr. 40/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 40/2012 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată, situate pe amplasamentul lucrării de utilitate publică de interes judeţean „Creşterea accesibilităţii către partea de nord a Polului de Creştere, în special către Spitalul Judeţean",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=7",
+   "versions": [
+    {
+     "from": "2012-03-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-040-din-data-2012-03-09.doc",
+     "sha256": "200378399fcbc0841acd86c61bc9b20630f0012c7efd7110ddba24ae20a05671"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-42-2012",
+   "path": "local/judet/prahova/2012/42",
+   "short": "HCJ Prahova nr. 42/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 42/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-042-din-data-2012-03-28.doc",
+     "sha256": "802d092f2377df720004d6b0643c46c9248a81f8e4ad871a7403394bfb42f931"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-43-2012",
+   "path": "local/judet/prahova/2012/43",
+   "short": "HCJ Prahova nr. 43/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 43/2012 privind validarea unui mandat de consilier judeţean",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=6",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-043-din-data-2012-03-28.doc",
+     "sha256": "2a07f7fbfca09244d56d7100a858f8723ab3f3138dd3884e4081d75b0384b4af"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-44-2012",
+   "path": "local/judet/prahova/2012/44",
+   "short": "HCJ Prahova nr. 44/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 44/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-044-din-data-2012-03-28.doc",
+     "sha256": "41bd5df6f351b49897eb3e2bc27cd584f43bf6f58a2332533107e0c84a60cc58"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-46-2012",
+   "path": "local/judet/prahova/2012/46",
+   "short": "HCJ Prahova nr. 46/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 46/2012 privind alocarea unei sume din bugetul judeţului Prahova pe anul 2012 în vederea finanţării cheltuielilor privind asigurarea funcţionării Unităţii de Asistenţă Medico-Socială Boldeşti-Scăeni",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=6",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-046-din-data-2012-03-28.doc",
+     "sha256": "4b19051cdef66e1a6da491295a3955f074ca5381db67cc72b8b3f85c6ee7f203"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-47-2012",
+   "path": "local/judet/prahova/2012/47",
+   "short": "HCJ Prahova nr. 47/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 47/2012 privind aprobarea regulamentului de organizare şi funcţionare pentru Spitalul Judeţean de Urgenţă Ploieşti",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=6",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-047-din-data-2012-03-28.doc",
+     "sha256": "28b9a6eae7ce3d30d032e09de40471daf3486353e0a9ff35d03bbed1662c36de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-48-2012",
+   "path": "local/judet/prahova/2012/48",
+   "short": "HCJ Prahova nr. 48/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 48/2012 privind atribuirea unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=6",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-048-din-data-2012-03-28.doc",
+     "sha256": "4fe55504bbb2a168c43f3206e408e8251bdb888ee803b558f6df0c799878bf07"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-49-2012",
    "path": "local/judet/prahova/2012/49",
    "short": "HCJ Prahova nr. 49/2012",
@@ -44,6 +1139,231 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-049-din-data-2012-03-28.doc",
      "sha256": "2dfedf10716d5ba255efedbd09937d28b5cab6fa1c6b690f38c70c96a4911f6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-51-2012",
+   "path": "local/judet/prahova/2012/51",
+   "short": "HCJ Prahova nr. 51/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 51/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-051-din-data-2012-03-28.doc",
+     "sha256": "b6dafecf3c2d61d2f79d6e30828c9dc27dcd43829e4af868490630df1bb5ed65"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-52-2012",
+   "path": "local/judet/prahova/2012/52",
+   "short": "HCJ Prahova nr. 52/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 52/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-052-din-data-2012-03-28.doc",
+     "sha256": "330a8ff72f447b495c0ecd819e95e63da26b1fd2671a448c2a1dc856590b53e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-53-2012",
+   "path": "local/judet/prahova/2012/53",
+   "short": "HCJ Prahova nr. 53/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 53/2012 privind aprobarea asocierii judeţului Prahova cu Camera de Comerţ şi Industrie Prahova în vederea finanţării tipăririi lucrării „Studiul Economico-Social al Judeţului Prahova – Ediţia 2011” – elaborată de către Camera de Comerţ şi Industrie Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=6",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-053-din-data-2012-03-28.doc",
+     "sha256": "e24b1891bb48130e2b295644eae390916a54467d4196dca25ede82dc7c6a7384"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-56-2012",
+   "path": "local/judet/prahova/2012/56",
+   "short": "HCJ Prahova nr. 56/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 56/2012 privind aprobarea cotizaţiei anuale a Judeţului Prahova, în calitate de membru al Asociaţiei de Dezvoltare Intercomunitară „Parteneriatul pentru Managementul Apei - Prahova”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=6",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-056-din-data-2012-03-28.doc",
+     "sha256": "44927ad4693f4959e3400e27145726f9cad8a287d5f91c84daf5ec49e00b6cc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-57-2012",
+   "path": "local/judet/prahova/2012/57",
+   "short": "HCJ Prahova nr. 57/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 57/2012 privind plata cotizaţiei judeţului Prahova, membru al Uniunii Naţionale a Consiliilor Judeţene din România(UNCJR), aferentă anului 2012",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=6",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-057-din-data-2012-03-28.doc",
+     "sha256": "a120fac03a37398c3885f9f79dd8dae8127d2149e62bd34866931fb4cc0bd137"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-58-2012",
+   "path": "local/judet/prahova/2012/58",
+   "short": "HCJ Prahova nr. 58/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 58/2012 privind plata cotizaţiei judeţului Prahova, membru al Adunării Regiunilor Europei (ARE), aferentă anului 2012",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=6",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-058-din-data-2012-03-28.doc",
+     "sha256": "46594796505edc7c62aaf6db94562ddaa07ce417c8cd9509bd19e00a02a03674"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-59-2012",
+   "path": "local/judet/prahova/2012/59",
+   "short": "HCJ Prahova nr. 59/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 59/2012 privind modificarea statului de funcţii pentru aparatul de specialitate al Consiliului Judeţean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=6",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-059-din-data-2012-03-28.doc",
+     "sha256": "eef33300b735d0499f88a08f7b9957f935833f42f30736fe6a6a7bc5396082ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-60-2012",
+   "path": "local/judet/prahova/2012/60",
+   "short": "HCJ Prahova nr. 60/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 60/2012 privind transmiterea în administrarea Colegiului Medicilor Dentişti din România – Consiliul judeţean Prahova, a unei părţi din imobilul aflat în proprietatea privată a judeţului Prahova şi în administrarea Consiliului judeţean Prahova, situat în municipiul Ploie",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=6",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-060-din-data-2012-03-28.doc",
+     "sha256": "6d20087c0943d5cb61a5b86f0abb73f4e5ab97603b4271932d0aff2657157ee0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-61-2012",
+   "path": "local/judet/prahova/2012/61",
+   "short": "HCJ Prahova nr. 61/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 61/2012 privind aprobarea cotizaţiei anuale a Judeţului Prahova, în calitate de membru al Asociaţiei de Dezvoltare Intercomunitară „Polul de Creştere Ploieşti-Prahova”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-061-din-data-2012-03-28.doc",
+     "sha256": "f97379371600944ed91b24ebe12e08301999559608f6742ea70bc8671bc4d303"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-62-2012",
+   "path": "local/judet/prahova/2012/62",
+   "short": "HCJ Prahova nr. 62/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 62/2012 privind aprobarea asocierii judeţului Prahova cu Inspectoratul Judeţean de Poliţie Prahova în vederea finanţării realizării materialelor promoţionale necesare desfăşurării campaniei „ÎMPREUNĂ ÎMPOTRIVA CRIMINALITĂŢII” şi respectiv cu Inspectoratul de Jandarmi Ju",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-062-din-data-2012-03-28.doc",
+     "sha256": "c2b4114d93bf4d00474f8ad401921c45c2daada804a0f3f8c8dd0dc2d2b80f3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-63-2012",
+   "path": "local/judet/prahova/2012/63",
+   "short": "HCJ Prahova nr. 63/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 63/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-063-din-data-2012-05-09.doc",
+     "sha256": "16197f1e36dcae1c4a252ef5b53e6e474c6d39cfa76b3c60de94e244a2700cb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-65-2012",
+   "path": "local/judet/prahova/2012/65",
+   "short": "HCJ Prahova nr. 65/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 65/2012 privind aprobarea execuţiei bugetului propriu al judeţului precum şi a bugetelor instituţiilor de sub autoritatea Consiliului Judeţean Prahova pe trimestrul I – 2012",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-065-din-data-2012-05-09.doc",
+     "sha256": "6cdd3c26cc16172d60445918557e7b3dd2ed35d9085b6b5a65954b3cc2e7a010"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-66-2012",
+   "path": "local/judet/prahova/2012/66",
+   "short": "HCJ Prahova nr. 66/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 66/2012 privind rectificarea bugetului propriu al judeţului şi a bugetelor unor instituţii de sub autoritatea Consiliului Judeţean Prahova pe anul 2012",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-066-din-data-2012-05-09.doc",
+     "sha256": "cc66a4665c740526f96f7fb711e39a60a07d1281ebc3624a4aad801cb8b7b36f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-67-2012",
+   "path": "local/judet/prahova/2012/67",
+   "short": "HCJ Prahova nr. 67/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 67/2012 privind aprobarea documentaţiei tehnico – economice la obiectivul „ Pod peste pâraul Lopatna pe DJ 233, km 7+802,5, localitatea Gogeasca, comuna Cărbuneşti, judeţul Prahova”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-067-din-data-2012-05-09.doc",
+     "sha256": "7b571a977c8db3f49e983e0caa8d49b0183b8aa5f30ae47342e0714f54696ac7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-68-2012",
+   "path": "local/judet/prahova/2012/68",
+   "short": "HCJ Prahova nr. 68/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 68/2012 privind aprobarea regulamentului de organizare şi funcţionare pentru Spitalul de Pediatrie Ploieşti",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-068-din-data-2012-05-09.doc",
+     "sha256": "3679680317bb30d492e52d6945bed51f8a7a9ab0645bbf44b950273de56e3e86"
     }
    ]
   },
@@ -78,6 +1398,51 @@
    ]
   },
   {
+   "slug": "hcj-prahova-71-2012",
+   "path": "local/judet/prahova/2012/71",
+   "short": "HCJ Prahova nr. 71/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 71/2012 privind atribuirea unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate şi curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-071-din-data-2012-05-09.doc",
+     "sha256": "250d35d195dfc19956ee43924f349d94e608795444f24da79c6500e3aac4e63c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-72-2012",
+   "path": "local/judet/prahova/2012/72",
+   "short": "HCJ Prahova nr. 72/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 72/2012 privind modificarea arondării localităţilor din judeţul Prahova la serviciile publice comunitare de evidenţă a persoanelor",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-072-din-data-2012-05-09.doc",
+     "sha256": "1962d7ebc808b7b0d8abf2198d715862a3729d9c62f769e87627b1714cd8718b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-73-2012",
+   "path": "local/judet/prahova/2012/73",
+   "short": "HCJ Prahova nr. 73/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 73/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-073-din-data-2012-05-09.doc",
+     "sha256": "f3bde4a356c5004df1e0dc63c1f4f60306280f3f57827d7ac8a61cd2c37473d5"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-74-2012",
    "path": "local/judet/prahova/2012/74",
    "short": "HCJ Prahova nr. 74/2012",
@@ -89,6 +1454,291 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-074-din-data-2012-05-09.doc",
      "sha256": "3b3187644f508047ffd81488b4cb8995a249c4b35337b6c8b4c622e7a9f53bc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-76-2012",
+   "path": "local/judet/prahova/2012/76",
+   "short": "HCJ Prahova nr. 76/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 76/2012 privind prelungirea termenelor de dare în folosinţă gratuită a unor spaţii în imobilul proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, B-dul Republicii nr. 2 – 4",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-076-din-data-2012-05-09.doc",
+     "sha256": "0fde285d485b9be26f29091c85f7940ccc1b40df2a3c528d93f579aea1a095e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-77-2012",
+   "path": "local/judet/prahova/2012/77",
+   "short": "HCJ Prahova nr. 77/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 77/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-077-din-data-2012-05-09.doc",
+     "sha256": "371ce4af7b917f437e39077f63d6c215c84e854d47b243b037d80262096ac3f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-78-2012",
+   "path": "local/judet/prahova/2012/78",
+   "short": "HCJ Prahova nr. 78/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 78/2012 privind darea în folosinţă gratuită a unui spaţiu Instituţiei Avocatul Poporului – Biroul teritorial Ploieşti în imobilul proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, B-dul Republicii nr. 2 – 4",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-078-din-data-2012-05-09.doc",
+     "sha256": "ad40092a64a17b34ae7575eb6bf58d57587103e083018911680cdaa13a594fd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-79-2012",
+   "path": "local/judet/prahova/2012/79",
+   "short": "HCJ Prahova nr. 79/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 79/2012 privind aprobarea Acordului de Cooperare între Judeţul Prahova (România) şi Regiunea Sofia (Bulgaria)",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-079-din-data-2012-05-09.doc",
+     "sha256": "7acf0afb592cea629ab9e62cfbf63e3f8ef9aa18e0e0a44ac8d0c48c3680c263"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-80-2012",
+   "path": "local/judet/prahova/2012/80",
+   "short": "HCJ Prahova nr. 80/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 80/2012 privind plata cotizaţiei anuale a judeţului Prahova, membru al Asociaţiei Regiunilor Europene Viticole (AREV)",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-080-din-data-2012-05-09.doc",
+     "sha256": "71d72a21f7332520aceb41e6f83165c33e074b492d0dac96bbe5c033bd4027ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-81-2012",
+   "path": "local/judet/prahova/2012/81",
+   "short": "HCJ Prahova nr. 81/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 81/2012 privind aprobarea cotizaţiei anuale a Judeţului Prahova, în calitate de membru al “Reţelei Europene a Autorităţilor Locale şi Regionale pentru Implementarea Convenţiei Europene a Peisajului” (RECEP-ENELC)",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=4",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-081-din-data-2012-05-09.doc",
+     "sha256": "723c8c76d0338f05881d8a38db524fa7bf3767cb5230d13ba3756ef274dd341e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-82-2012",
+   "path": "local/judet/prahova/2012/82",
+   "short": "HCJ Prahova nr. 82/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 82/2012 privind transmiterea unor bunuri, aflate în proprietatea judeţului Prahova, din administrarea Consiliului judeţean Prahova în administrarea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Prahova şi, respectiv, a unor unităţi din subordinea aceste",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=4",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-082-din-data-2012-05-09.doc",
+     "sha256": "16bc88cc6c7e3f664aa4dd0da17505864cbb0e400e88ad0b44523916f7756d71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-83-2012",
+   "path": "local/judet/prahova/2012/83",
+   "short": "HCJ Prahova nr. 83/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 83/2012 privind alocarea unei sume din bugetul judeţului Prahova pe anul 2012, în cadrul colaborării cu Direcţia Generală Anticorupţie, în vederea promovării unor mesaje cu conţinut informativ – preventiv anticorupţie şi pentru diversificarea canalelor de informare a so",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=4",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-083-din-data-2012-05-09.doc",
+     "sha256": "6c3e0789757414933b63491cdf7968954e697e78278bf2d0f6f146372e8a9f7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-84-2012",
+   "path": "local/judet/prahova/2012/84",
+   "short": "HCJ Prahova nr. 84/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 84/2012 privind atribuirea unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=4",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-084-din-data-2012-05-09.doc",
+     "sha256": "d2c682db2bbbaed91cdd80c45533b60cc9f7d0d2428499abc25b2064b0053ef8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-85-2012",
+   "path": "local/judet/prahova/2012/85",
+   "short": "HCJ Prahova nr. 85/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 85/2012 privind transmiterea în administrarea Inspectoratului pentru Situaţii de Urgenţă „Şerban Cantacuzino” al judeţului Prahova, a imobilului aflat în proprietatea publică a judeţului Prahova şi în administrarea Consiliului Judeţean Prahova, situat în municipiul Ploi",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=4",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-085-din-data-2012-05-09.doc",
+     "sha256": "cdc73bfce642a7b1aad88c68dfbe75c22f833e6b61059c7f9a3a6186c0245e00"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-87-2012",
+   "path": "local/judet/prahova/2012/87",
+   "short": "HCJ Prahova nr. 87/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 87/2012 privind modificarea statului de funcţii pentru aparatul de specialitate al Consiliului Judeţean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=4",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-087-din-data-2012-05-09.doc",
+     "sha256": "5a3c006480315be13916a97911d2a6686ed11e039d3a7242cda18e30a09a5a59"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-89-2012",
+   "path": "local/judet/prahova/2012/89",
+   "short": "HCJ Prahova nr. 89/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 89/2012 privind alegerea comisiei de validare",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=4",
+   "versions": [
+    {
+     "from": "2012-06-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-089-din-data-2012-06-30.doc",
+     "sha256": "1df479c267061a765e6ac1b320e90eae6a54a124e8f0b21770e66112ef05216e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-91-2012",
+   "path": "local/judet/prahova/2012/91",
+   "short": "HCJ Prahova nr. 91/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 91/2012 privind declararea ca legal constituit a Consiliului judeţean Prahova ales la 10 iunie 2012",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=4",
+   "versions": [
+    {
+     "from": "2012-06-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-091-din-data-2012-06-30.doc",
+     "sha256": "ae17c72b552d89f42bac96fc0c2856b97c7db2ed2815a75ef52f5e73fedcff16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-92-2012",
+   "path": "local/judet/prahova/2012/92",
+   "short": "HCJ Prahova nr. 92/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 92/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-06-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-092-din-data-2012-06-30.doc",
+     "sha256": "d601978eafa34ec5720751f93f785042d0bc3dfdc6341cdf991e1296aa450664"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-93-2012",
+   "path": "local/judet/prahova/2012/93",
+   "short": "HCJ Prahova nr. 93/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 93/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-06-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-093-din-data-2012-06-30.doc",
+     "sha256": "d2dc665bceeb9a8b6971553afd400c904c31d201faaadf71da614f8fe80571a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-94-2012",
+   "path": "local/judet/prahova/2012/94",
+   "short": "HCJ Prahova nr. 94/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 94/2012 privind organizarea comisiilor de specialitate ale Consiliului judeţean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-06-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-094-din-data-2012-06-30.doc",
+     "sha256": "98813bb160394f24cf1e5897bb2e19127596af32c824df64ac68a9623f49cfb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-96-2012",
+   "path": "local/judet/prahova/2012/96",
+   "short": "HCJ Prahova nr. 96/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 96/2012 privind rectificarea bugetului propriu al judeţului şi a bugetelor unor instituţii de sub autoritatea Consiliului Judeţean Prahova pe anul 2012",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-07-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-096-din-data-2012-07-09.doc",
+     "sha256": "0d213620a8a6c30c7e06af304f54ccc3fdc6b5739343749e8e3c5c1bb2beb5ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-97-2012",
+   "path": "local/judet/prahova/2012/97",
+   "short": "HCJ Prahova nr. 97/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 97/2012 privind atribuirea unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-07-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-097-din-data-2012-07-09.doc",
+     "sha256": "17a1423ec6135a522dd578171ba0b90a91d7b276468922bdcad820cbe07ea12d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-99-2012",
+   "path": "local/judet/prahova/2012/99",
+   "short": "HCJ Prahova nr. 99/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 99/2012 privind aprobarea contribuţiei anuale a Consiliului Judeţean Prahova la bugetul Agenţiei pentru Dezvoltare Regională Sud Muntenia",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-07-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-099-din-data-2012-07-09.doc",
+     "sha256": "4533c1ac30eb94e76863b19f9282756964d494824f8a6deeec76b537e02a49da"
     }
    ]
   }

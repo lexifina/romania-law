@@ -3,6 +3,126 @@
  "shard": "local/judet/prahova/2011",
  "acts": [
   {
+   "slug": "hcj-prahova-1-2011",
+   "path": "local/judet/prahova/2011/1",
+   "short": "HCJ Prahova nr. 1/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 1/2011 privind validarea unor modificări ale bugetului judeţului Prahova pe anul 2010",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=5",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-001-din-data-2011-01-18.doc",
+     "sha256": "ac9712fad13d5234be2dc6e8deaa519fc8423cf34a6a43ff5304c5803b4123a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-100-2011",
+   "path": "local/judet/prahova/2011/100",
+   "short": "HCJ Prahova nr. 100/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 100/2011 privind trecerea din domeniul public în domeniul privat al judeţului Prahova a unui teren",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=3",
+   "versions": [
+    {
+     "from": "2011-08-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-100-din-data-2011-08-09.doc",
+     "sha256": "87eeef7f21cae4750db55fd677f34670fb603eb83a964715d0a9969e1339b466"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-101-2011",
+   "path": "local/judet/prahova/2011/101",
+   "short": "HCJ Prahova nr. 101/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 101/2011 privind aprobarea introducerii cererii pentru deschiderea procedurii insolvenţei Societăţii Comerciale ,, Drumuri şi Poduri Prahova “ S.A",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=2",
+   "versions": [
+    {
+     "from": "2011-08-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-101-din-data-2011-08-09.doc",
+     "sha256": "144063c7acbce4dc82b3b285fea0827e9e1ffd4da509aace4f0298b74cf7695d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-106-2011",
+   "path": "local/judet/prahova/2011/106",
+   "short": "HCJ Prahova nr. 106/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 106/2011 privind alocarea unei sume din bugetul judeţului Prahova pe anul 2011, în vederea finalizării obiectivului de investiţie „Realizare centru cultural, comuna Gherghiţa”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=2",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-106-din-data-2011-08-31.doc",
+     "sha256": "2b45889e89442cc09f6842e7d5d76ebaa663a1b09acfd58cec8749a5b7080071"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-107-2011",
+   "path": "local/judet/prahova/2011/107",
+   "short": "HCJ Prahova nr. 107/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 107/2011 privind transmiterea în administrarea Şcolilor speciale a unor imobile proprietate publică a judeţului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=2",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-107-din-data-2011-08-31.doc",
+     "sha256": "4982d914e0072c0aa69a8fbffa543552679f99d9a2d5ef842e35e463ea3cb12f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-110-2011",
+   "path": "local/judet/prahova/2011/110",
+   "short": "HCJ Prahova nr. 110/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 110/2011 privind plata cotizaţiei judeţului Prahova, membru al Asociaţiei Regiunilor Europene Viticole (AREV), aferentă anului 2011",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=2",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-110-din-data-2011-08-31.doc",
+     "sha256": "c7309451e93d2634b9e0a2cebdb2f2995912a0b1116f1244be85bba45b015fc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-115-2011",
+   "path": "local/judet/prahova/2011/115",
+   "short": "HCJ Prahova nr. 115/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 115/2011 privind alocarea unei sume din bugetul judeţului Prahova pe anul 2011 pentru realizarea investiţiei „Înfiinţări distribuţii gaze naturale în comunele Cocorăştii Mislii, Vîlcăneşti, Cosminele, Dumbrăveşti, Vărbilău, Aluniş, Ştefeşti, Bertea cu satele aparţinătoar",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=2",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-115-din-data-2011-09-28.doc",
+     "sha256": "3f1ccf63e42c754da3d525a17c851215ff124cf35165a9b0bc197c83806b9935"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-119-2011",
+   "path": "local/judet/prahova/2011/119",
+   "short": "HCJ Prahova nr. 119/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 119/2011 privind modificarea statului de funcţii pentru Direcţia Judeţeană de Protecţia Plantelor şi de Întreţinere a Drumurilor Judeţene Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=2",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-119-din-data-2011-09-28.doc",
+     "sha256": "7930d790be6c29c2d9446db730e3641655a00ed257a2462b5e21e1de75244e4e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-12-2011",
    "path": "local/judet/prahova/2011/12",
    "short": "HCJ Prahova nr. 12/2011",
@@ -18,6 +138,201 @@
    ]
   },
   {
+   "slug": "hcj-prahova-121-2011",
+   "path": "local/judet/prahova/2011/121",
+   "short": "HCJ Prahova nr. 121/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 121/2011 privind înfiinţarea comisiei paritare care formulează propuneri de atribuire a serviciului de transport public de persoane prin servicii regulate şi de atribuire a licenţelor de traseu",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-121-din-data-2011-09-28.doc",
+     "sha256": "595d44bb5e2401718874e1aad4df3b7506c27b71c9c86a689a48bf9b40758aa5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-122-2011",
+   "path": "local/judet/prahova/2011/122",
+   "short": "HCJ Prahova nr. 122/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 122/2011 privind participarea Judeţului Prahova la evenimentul OPEN DAYS 2011, Comitetul Regiunilor, Bruxelles, în perioada 10-13 octombrie 2011",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-122-din-data-2011-09-28.doc",
+     "sha256": "bb4891c6e005b798e95441843e95a92699e4b3ae0ab28bafb000566bab088a3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-124-2011",
+   "path": "local/judet/prahova/2011/124",
+   "short": "HCJ Prahova nr. 124/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 124/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-124-din-data-2011-09-28.doc",
+     "sha256": "649ec11214fd3b8138d7c66edc75ea4be3c9b07e7c9033b73b71bfb487b18c82"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-125-2011",
+   "path": "local/judet/prahova/2011/125",
+   "short": "HCJ Prahova nr. 125/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 125/2011 privind aprobarea execuţiei bugetului propriu al judeţului precum şi a bugetelor instituţiilor de sub autoritatea Consiliului Judeţean Prahova la data de 30.09. 2011",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-125-din-data-2011-10-27.doc",
+     "sha256": "30df39e32e0a767ee70435899728e81fcfba49ce9e6fa969c6d411cbd7c5e40c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-129-2011",
+   "path": "local/judet/prahova/2011/129",
+   "short": "HCJ Prahova nr. 129/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 129/2011 privind asocierea judeţului Prahova cu municipiul Câmpina şi cu comuna Băneşti pentru închiderea Rampei Ecologice Băneşti",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-129-din-data-2011-10-27.doc",
+     "sha256": "466ed8212e6d2c775616da02a5c3f5e0e4ae59566c07a92076489e2c38138fa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-130-2011",
+   "path": "local/judet/prahova/2011/130",
+   "short": "HCJ Prahova nr. 130/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 130/2011 privind încadrarea în categoria funcţională a drumurilor comunale a sectorului de drum judeţean DJ 219 situat pe teritoriul administrativ al comunei Ariceştii Zeletin, precum şi modificarea lungimii şi traseului drumului judeţean respectiv",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-130-din-data-2011-10-27.doc",
+     "sha256": "006707117b3a590995721f7f2b3affee91dcd98a7a9617d9cb1781a0b5fe01e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-131-2011",
+   "path": "local/judet/prahova/2011/131",
+   "short": "HCJ Prahova nr. 131/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 131/2011 privind modificarea şi completarea anexei la Hotărârea Consiliului judeţean Prahova nr. 107/2011 referitoare la transmiterea în administrarea Şcolilor speciale a unor imobile proprietate publică a judeţului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-131-din-data-2011-10-27.doc",
+     "sha256": "0600894bee600bc1f94635f56c60d7a849cf5519eb25b86c176733e08c23c087"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-133-2011",
+   "path": "local/judet/prahova/2011/133",
+   "short": "HCJ Prahova nr. 133/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 133/2011 privind suplimentarea spaţiilor atribuite în folosinţă gratuită Bibliotecii judeţene „Nicolae Iorga” în imobilul proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-133-din-data-2011-10-27.doc",
+     "sha256": "5af3bf53cb6c7f3d8dbdc4a33b4b0707ef46f1815b70590023286af35f66a924"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-134-2011",
+   "path": "local/judet/prahova/2011/134",
+   "short": "HCJ Prahova nr. 134/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 134/2011 privind atribuirea unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate şi curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-134-din-data-2011-10-27.doc",
+     "sha256": "abc4c758a5aa4857da969d13f4b1ea53091e593384e05e38fac61acaf98de265"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-135-2011",
+   "path": "local/judet/prahova/2011/135",
+   "short": "HCJ Prahova nr. 135/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 135/2011 privind aprobarea Protocolului de colaborare dintre Ministerul Administraţiei şi Internelor prin Direcţia Generală Anticorupţie şi Judeţul Prahova prin Consiliul judeţean Prahova, în vederea promovării unor mesaje cu conţinut informativ-preventiv anticorupţie şi",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=2",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-135-din-data-2011-10-27.doc",
+     "sha256": "6f1a7cc8697bf3b4d3481364f6c29c3962d42b4da28d75fd931ac6efce8e5a04"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-136-2011",
+   "path": "local/judet/prahova/2011/136",
+   "short": "HCJ Prahova nr. 136/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 136/2011 privind modificarea statului de funcţii pentru aparatul de specialitate al Consiliului Judeţean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=2",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-136-din-data-2011-10-27.doc",
+     "sha256": "0395dc49e80e02feeea7b753ae1e5b8e0388725b315b6f348e892d00196fb4d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-137-2011",
+   "path": "local/judet/prahova/2011/137",
+   "short": "HCJ Prahova nr. 137/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 137/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-137-din-data-2011-10-27.doc",
+     "sha256": "967c1da51d87364af273dda4789170216d23e1ad18b055b79041aac927f9f00c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-139-2011",
+   "path": "local/judet/prahova/2011/139",
+   "short": "HCJ Prahova nr. 139/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 139/2011 privind asocierea judeţului Prahova cu unităţi administrativ-teritoriale din judeţ, precum şi alocarea unor sume din bugetul judeţului Prahova pe anul 2011 în vederea realizării unor obiective de interes public",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=2",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-139-din-data-2011-10-27.doc",
+     "sha256": "c2a661189c4746bf26718d4ce14781031e4a4965dfd55a0efb0b271d26a90562"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-14-2011",
    "path": "local/judet/prahova/2011/14",
    "short": "HCJ Prahova nr. 14/2011",
@@ -29,6 +344,741 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-014-din-data-2011-02-11.doc",
      "sha256": "5621a80e2f8f095d21062fd130763a289c34899c9fc94627e3233d4f4b55e061"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-142-2011",
+   "path": "local/judet/prahova/2011/142",
+   "short": "HCJ Prahova nr. 142/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 142/2011 privind asocierea judeţului Prahova cu localităţi din judeţ, precum şi alocarea unor sume din bugetul judeţului Prahova pe anul 2011 în vederea realizării unor obiective de interes public",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-142-din-data-2011-12-16.doc",
+     "sha256": "bd3b0ce8d36d03506372cfa9299a18cde3966c4143e6d0ea11d93e5531be5e03"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-143-2011",
+   "path": "local/judet/prahova/2011/143",
+   "short": "HCJ Prahova nr. 143/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 143/2011 privind modificarea şi completarea anexei la Hotărârea Consiliului judeţean Prahova nr.27/2001 referitoare la inventarul bunurilor care aparţin domeniului public al judeţului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-143-din-data-2011-12-16.doc",
+     "sha256": "00bfe714cd1d8da086794ef850c15ad8a2269739cbb4e0b194568e58b43f7694"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-144-2011",
+   "path": "local/judet/prahova/2011/144",
+   "short": "HCJ Prahova nr. 144/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 144/2011 privind asocierea judeţului Prahova cu comuna Fîntînele în vederea realizării investiţiei „Extindere alimentare cu apă şi sistem centralizat de canalizare, comuna Fîntînele”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-144-din-data-2011-12-16.doc",
+     "sha256": "37744c60e609c2772d7cf8cefef8b224da6d5b2af0912237ddef1b194998f05d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-145-2011",
+   "path": "local/judet/prahova/2011/145",
+   "short": "HCJ Prahova nr. 145/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 145/2011 privind atribuirea unor licenţe de traseu pentru efectuarea transportului public de persoane prin curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-145-din-data-2011-12-16.doc",
+     "sha256": "c4fec5edb250d0ffe603c646754297fbc685de4443d82f9924ccc954e8bd8fcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-148-2011",
+   "path": "local/judet/prahova/2011/148",
+   "short": "HCJ Prahova nr. 148/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 148/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-148-din-data-2011-12-16.doc",
+     "sha256": "ea48412a09301f515395e3029ea322245bb66fe035d2dd38b33343c423330dae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-149-2011",
+   "path": "local/judet/prahova/2011/149",
+   "short": "HCJ Prahova nr. 149/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 149/2011 privind aprobarea organigramei şi a statului de funcţii pentru Spitalul de Pediatrie Ploieşti",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-149-din-data-2011-12-16.doc",
+     "sha256": "273310122fe7f20b1c08c86e2aa24e98867035b13e6ec9f9ebce6097b864001b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-150-2011",
+   "path": "local/judet/prahova/2011/150",
+   "short": "HCJ Prahova nr. 150/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 150/2011 privind modificarea statului de funcţii şi a regulamentului de organizare şi funcţionare pentru Direcţia Judeţeana de Evidenţă a Persoanelor Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-150-din-data-2011-12-16.doc",
+     "sha256": "68ceab677a91d121a020b110347fc8c55266635436aef1b2cc53acd618193ef9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-151-2011",
+   "path": "local/judet/prahova/2011/151",
+   "short": "HCJ Prahova nr. 151/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 151/2011 privind completarea prevederilor unor hotărâri ale Consiliului judeţean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-151-din-data-2011-12-16.doc",
+     "sha256": "710f632171a217888c36ea4608407ad16116c230bf153cd48951a50619699325"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-152-2011",
+   "path": "local/judet/prahova/2011/152",
+   "short": "HCJ Prahova nr. 152/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 152/2011 privind înfiinţarea, prin reorganizare, a două centre rezidenţiale în structura Direcţiei Generale de Asistenţă Sociala şi Protecţia Copilului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-152-din-data-2011-12-16.doc",
+     "sha256": "cf26978641ce0b4863e506d3208442307f7ae4706dc01b71b5db5a6524a9823a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-153-2011",
+   "path": "local/judet/prahova/2011/153",
+   "short": "HCJ Prahova nr. 153/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 153/2011 privind modificarea şi completarea anexei la Hotărârea Consiliului judeţean Prahova nr.54/2009 referitoare la darea sau, după caz, menţinerea în administrarea unor instituţii de interes judeţean a unor imobile proprietate publică a judeţului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-153-din-data-2011-12-16.doc",
+     "sha256": "116f088dde47e897c73373abd3db90895f4066fdcbdb9bd30830b95c5daad771"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-154-2011",
+   "path": "local/judet/prahova/2011/154",
+   "short": "HCJ Prahova nr. 154/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 154/2011 privind prelungirea termenelor de dare în folosinţă gratuită a unor spaţii în imobilul proprietate privată a judeţului Prahova, situat în municipiul Ploieşti, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-154-din-data-2011-12-16.doc",
+     "sha256": "22c21338d0d9f10ca234d57fbbb2fec17363fcb90b633d664a84939372da87f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-17-2011",
+   "path": "local/judet/prahova/2011/17",
+   "short": "HCJ Prahova nr. 17/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 17/2011 privind modificarea anexei la Hotărârea nr. 188/2010 a Consiliului Judeţean Prahova referitoare la introducerea in domeniului public al judeţului Prahova şi darea în administrarea Serviciului Public judetean Salvamont Prahova a investiţiei „Bază Salvamont Sinaia",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=6",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-017-din-data-2011-02-11.doc",
+     "sha256": "3e039444b6018e18db7ae168d70a9c48b62e4f4e7646e8711efca755c73c11ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-18-2011",
+   "path": "local/judet/prahova/2011/18",
+   "short": "HCJ Prahova nr. 18/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 18/2011 privind introducerea în domeniul public al judeţului Prahova a unor terenuri",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=6",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-018-din-data-2011-02-11.doc",
+     "sha256": "2c5c1cce9f09dc5088f59ef49f37891ba8df1b87c0257594c2304bb9d26ed1c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-19-2011",
+   "path": "local/judet/prahova/2011/19",
+   "short": "HCJ Prahova nr. 19/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 19/2011 privind prelungirea termenelor de închiriere pentru spaţiile din imobilele aflate în domeniul public al judeţului Prahova şi în administrarea Consiliului judeţean Prahova, situate în Ploieşti, B-dul Republicii nr. 2 – 4, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=6",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-019-din-data-2011-02-11.doc",
+     "sha256": "ba5011283af5e316014c8cdd79a25486a5a96f3a57d63675e9f325e31e9cceaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-20-2011",
+   "path": "local/judet/prahova/2011/20",
+   "short": "HCJ Prahova nr. 20/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 20/2011 privind aprobarea organizării unei noi licitaţii cu strigare pentru vânzarea spaţiilor cu destinaţia de cabinete medicale şi laboratoare de tehnică dentară, aflate în proprietatea privată a judeţului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=6",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-020-din-data-2011-02-11.doc",
+     "sha256": "52c4f82c9e7e0ee0a1b7703986b089572b4394afaf324c54d01a5a872cf11638"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-21-2011",
+   "path": "local/judet/prahova/2011/21",
+   "short": "HCJ Prahova nr. 21/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 21/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-021-din-data-2011-02-11.doc",
+     "sha256": "fecbca38bd0b8d4941beedaa6b593ec4fba924fd1685e1ce4c13ab0b5a121ee0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-23-2011",
+   "path": "local/judet/prahova/2011/23",
+   "short": "HCJ Prahova nr. 23/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 23/2011 privind aprobarea cotizaţiei pe anul 2011 a Consiliului Judeţean Prahova la Asociaţia de Dezvoltare Intercomunitară „Situaţii de Urgenţă Sud Muntenia”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=4",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-023-din-data-2011-02-11.doc",
+     "sha256": "9662da4aad4caf14957bc0feecaadf193e2d4466f7898431884a75e4069abd1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-24-2011",
+   "path": "local/judet/prahova/2011/24",
+   "short": "HCJ Prahova nr. 24/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 24/2011 privind plata cotizaţiei judeţului Prahova, membru al Asociaţiei Agenţiilor pentru Democraţie Locală (ALDA), aferentă anului 2011",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=4",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-024-din-data-2011-02-11.doc",
+     "sha256": "ab65b1ad6ba6b5c0f1a4282528fbb496a560022b2899e6414480d433a87a9153"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-25-2011",
+   "path": "local/judet/prahova/2011/25",
+   "short": "HCJ Prahova nr. 25/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 25/2011 privind aprobarea modificării Hotărârii Consiliului Județean Prahova nr. 71 din 26 iunie 2009 privind asocierea Județului Prahova cu Județele Argeș, Călărași, Dâmbovița, Giurgiu, Ialomița si Teleorman in vederea constituirii Asociației de Dezvoltare Intercomunitară „Situații de Urgență Sud Muntenia”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=5",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-025-din-data-2011-02-11.doc",
+     "sha256": "a3ab2b8d37d408049163ce40104ee4f45cdb4d53c654200fd323fbfaa4a51af5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-27-2011",
+   "path": "local/judet/prahova/2011/27",
+   "short": "HCJ Prahova nr. 27/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 27/2011 privind completarea Regulamentului de organizare şi funcţionare a Consiliului judeţean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=5",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-027-din-data-2011-02-11.doc",
+     "sha256": "e29a5a4556bc864f0b94fb16cc7467d47d71cffe46a1443449a7b2f868d84a15"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-28-2011",
+   "path": "local/judet/prahova/2011/28",
+   "short": "HCJ Prahova nr. 28/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 28/2011 privind introducerea în domeniul public al judeţului Prahova şi darea în administrarea Serviciului Public judeţean Salvamont Prahova a investiţiei „Bază de salvare montană în comuna Măneciu, sat Cheia, zona Muntele Roşu, judeţul Prahova”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=5",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-028-din-data-2011-02-11.doc",
+     "sha256": "bec88c9963f3e15a4beb04144f3cfbf7d547d88212bbf2560cdfc62652bd5124"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-34-2011",
+   "path": "local/judet/prahova/2011/34",
+   "short": "HCJ Prahova nr. 34/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 34/2011 privind aprobarea cotizaţiei anuale a Judeţului Prahova, în calitate de membru al Asociaţiei de Dezvoltare Intercomunitară „Parteneriatul pentru Managementul Apei - Prahova”, pentru anul 2011",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=5",
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-034-din-data-2011-04-21.doc",
+     "sha256": "e1e9f43b07c9620ef7914afbf3f2e4ebd23e7e3fa7fe9d4208e63d663b8a1a74"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-35-2011",
+   "path": "local/judet/prahova/2011/35",
+   "short": "HCJ Prahova nr. 35/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 35/2011 privind participarea Judeţului Prahova la finanţarea cheltuielilor de elaborare a „Planului de dezvoltare turistică a bazinului superior al Văii Teleajenului „ de către Asociaţia pentru Promovarea şi Dezvoltarea Turismului în Bazinul Superior al Văii Teleajenulu",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=5",
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-035-din-data-2011-04-21.doc",
+     "sha256": "3d81e0fd81e11396ac991c36f44eb207de98fc27a1ae9390847cb5928ab33603"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-36-2011",
+   "path": "local/judet/prahova/2011/36",
+   "short": "HCJ Prahova nr. 36/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 36/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-036-din-data-2011-04-21.doc",
+     "sha256": "982fdfc82aff7eab05ad36aab2b2c289249d449f85141b369dbf380879339190"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-37-2011",
+   "path": "local/judet/prahova/2011/37",
+   "short": "HCJ Prahova nr. 37/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 37/2011 privind trecerea din domeniul public în domeniul privat al judeţului Prahova a unui imobil situat in Ploieşti, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=5",
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-037-din-data-2011-04-21.doc",
+     "sha256": "a12378b2578484bb51768288d2dda2e8560e74603debf0768110f60887920119"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-38-2011",
+   "path": "local/judet/prahova/2011/38",
+   "short": "HCJ Prahova nr. 38/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 38/2011 privind modificarea anexei la Hotărârea nr.54/2009 a Consiliului judeţean Prahova referitoare la darea sau, după caz, menţinerea în administrarea unor instituţii de interes judeţean a unor imobile proprietate publică a judeţului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=5",
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-038-din-data-2011-04-21.doc",
+     "sha256": "fceb9a9dc6280cec372129ef90e6e8e44e9c0af64bb04d36608cfef706d68fe2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-42-2011",
+   "path": "local/judet/prahova/2011/42",
+   "short": "HCJ Prahova nr. 42/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 42/2011 privind aprobarea costurilor medii lunare pe persoana adultă cu handicap aflată în îngrijire în centrele din subordinea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=4",
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-042-din-data-2011-04-21.doc",
+     "sha256": "8599e8a7277a4a8d507becaa5b6efdd7b4b3af9254f7a00ae0ccfa1879771550"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-43-2011",
+   "path": "local/judet/prahova/2011/43",
+   "short": "HCJ Prahova nr. 43/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 43/2011 privind aprobarea majorării cuantumului alocaţiei zilnice de hrană pentru consumurile colective din centrele aflate în subordinea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=4",
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-043-din-data-2011-04-21.doc",
+     "sha256": "9dd843c0451986d5ff7aca73ba19e469ed1873a0c5b933e3cab8114d4609886f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-45-2011",
+   "path": "local/judet/prahova/2011/45",
+   "short": "HCJ Prahova nr. 45/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 45/2011 privind modificarea statului de funcţii pentru aparatul de specialitate al Consiliului Judeţean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=4",
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-045-din-data-2011-04-21.doc",
+     "sha256": "e844d2b8590e832b6e8d3e6c560d9733e7be2ac934a5fca53eeb45737fef1b87"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-47-2011",
+   "path": "local/judet/prahova/2011/47",
+   "short": "HCJ Prahova nr. 47/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 47/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-047-din-data-2011-04-21.doc",
+     "sha256": "3550b1e3d9d4ecfc559fb3bf843aee6c6ca5fa4ad567b8bb2f0a9e088aac60d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-48-2011",
+   "path": "local/judet/prahova/2011/48",
+   "short": "HCJ Prahova nr. 48/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 48/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-048-din-data-2011-04-21.doc",
+     "sha256": "a29a3e7a3ab78d00b6bbbd6a9a5890c9f94f795d1385abacb1549280fa9f9812"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-5-2011",
+   "path": "local/judet/prahova/2011/5",
+   "short": "HCJ Prahova nr. 5/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 5/2011 privind aprobarea documentaţiei tehnico-economice pentru obiectivul de investiţii « Sistem de alimentare cu apă a Bazei de salvare montană din comuna Măneciu, sat Cheia »",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=5",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-005-din-data-2011-01-18.doc",
+     "sha256": "6fca10c57860426d2480e64e5c0a9edad0ea7369905e7463573299152f49da45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-51-2011",
+   "path": "local/judet/prahova/2011/51",
+   "short": "HCJ Prahova nr. 51/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 51/2011 privind aprobarea cotizaţiei anuale a Judeţului Prahova, în calitate de membru al Asociaţiei de Dezvoltare Intercomunitară „Polul de Creştere Ploieşti-Prahova”, pentru anul 2011",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=4",
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-051-din-data-2011-04-21.doc",
+     "sha256": "e14e8654ebfa5c3d3653f55440f19113922e364489f6ffb16fa4250c621ba6f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-58-2011",
+   "path": "local/judet/prahova/2011/58",
+   "short": "HCJ Prahova nr. 58/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 58/2011 privind aprobarea contului anual de execuţie al bugetului propriu al judeţului, bugetului împrumuturilor interne şi bugetelor unor instituţii de sub autoritatea Consiliului Judeţean Prahova pe anul 2010",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=4",
+   "versions": [
+    {
+     "from": "2011-05-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-058-din-data-2011-05-25.doc",
+     "sha256": "75ef71fc0b902a95dafed1f9a0ee2897df77f687b5e920e7a73a26bb9e463967"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-59-2011",
+   "path": "local/judet/prahova/2011/59",
+   "short": "HCJ Prahova nr. 59/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 59/2011 privind rectificarea bugetului propriu al judeţului precum şi a bugetelor unor instituţii de sub autoritatea Consiliului Judeţean Prahova pe anul 2011",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=4",
+   "versions": [
+    {
+     "from": "2011-05-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-059-din-data-2011-05-25.doc",
+     "sha256": "d6020aa2463f99fcf3848e42dd50cdae16593e516e96ca21651d721bb9dc7ec4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-62-2011",
+   "path": "local/judet/prahova/2011/62",
+   "short": "HCJ Prahova nr. 62/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 62/2011 privind aprobarea compensării unui teren ce urmează a fi scos din fondul forestier naţional proprietate publică a statului",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=3",
+   "versions": [
+    {
+     "from": "2011-05-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-062-din-data-2011-05-25.doc",
+     "sha256": "48d77a489e6747047818e31c90525175b3fa063d70134b55b9dfe125787945ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-67-2011",
+   "path": "local/judet/prahova/2011/67",
+   "short": "HCJ Prahova nr. 67/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 67/2011 privind asocierea judeţului Prahova cu comuna Boldeşti-Grădiştea în vederea realizării investiţiei ”Forarea unui puţ de apă în satul Grădiştea, comuna Boldeşti-Grădiştea”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=3",
+   "versions": [
+    {
+     "from": "2011-05-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-067-din-data-2011-05-25.doc",
+     "sha256": "f9bbe2e3186ebfd74642b6d70b9d475da626bb7b84406b54d875ed83e75c0424"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-7-2011",
+   "path": "local/judet/prahova/2011/7",
+   "short": "HCJ Prahova nr. 7/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 7/2011 privind prelungirea termenelor de dare în folosinţă gratuită a unor spaţii din imobilele aflate în domeniul public al judeţului Prahova şi în administrarea Consiliului judeţean Prahova, situate în municipiul Ploieşti, B-dul Republicii nr. 2 – 4 şi Şoseaua Vestul",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=5",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-007-din-data-2011-01-18.doc",
+     "sha256": "bbcf1033c8827397a39445323497fecd8f8931d5c4d3f2bc7a47f4b30ba4ab37"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-70-2011",
+   "path": "local/judet/prahova/2011/70",
+   "short": "HCJ Prahova nr. 70/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 70/2011 privind aprobarea organigramei şi a statului de funcţii pentru Spitalul Judeţean de Urgenţă Ploieşti",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=3",
+   "versions": [
+    {
+     "from": "2011-05-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-070-din-data-2011-05-25.doc",
+     "sha256": "013eccaf278520a289e84476e3584cb70a050e7320f3f1758ed8a69bb59c62e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-78-2011",
+   "path": "local/judet/prahova/2011/78",
+   "short": "HCJ Prahova nr. 78/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 78/2011 privind alocarea unei sume din bugetul judeţului Prahova pe anul 2011 pentru finanţarea completării documentaţiei topografice necesară investiţiei „Dezvoltarea distribuţiei de gaze naturale în zona de sud a judeţului Prahova”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=4",
+   "versions": [
+    {
+     "from": "2011-06-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-078-din-data-2011-06-27.doc",
+     "sha256": "434ef76d1b9aca88d6eb2bb23ee849877ffd7b5e6ff61eeb581a9427a42e8c2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-79-2011",
+   "path": "local/judet/prahova/2011/79",
+   "short": "HCJ Prahova nr. 79/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 79/2011 privind plata cotizaţiei Judeţului Prahova, membru al “Reţelei Europene a Autorităţilor Locale şi Regionale pentru Implementarea Convenţiei Europene a Peisajului” (RECEP-ENELC)",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=4",
+   "versions": [
+    {
+     "from": "2011-06-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-079-din-data-2011-06-27.doc",
+     "sha256": "c7ba71bf56cbbeb2c5b459037e353de4e5aebc57d9f257310b1b5be77bd1a09a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-80-2011",
+   "path": "local/judet/prahova/2011/80",
+   "short": "HCJ Prahova nr. 80/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 80/2011 privind plata cotizaţiei judeţului Prahova, membru al Adunării Regiunilor Europei (ARE), aferentă anului 2011",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=4",
+   "versions": [
+    {
+     "from": "2011-06-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-080-din-data-2011-06-27.doc",
+     "sha256": "c4642ee095f9e24a5b7f6dfba740e2f639c2e399788e826ffe64a560ad0121ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-81-2011",
+   "path": "local/judet/prahova/2011/81",
+   "short": "HCJ Prahova nr. 81/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 81/2011 privind modificarea organigramei şi a statului de funcţii pentru aparatul de specialitate al Consiliului Judeţean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=2",
+   "versions": [
+    {
+     "from": "2011-06-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-081-din-data-2011-06-27.doc",
+     "sha256": "963f8379041507b3acfad5648ced5742d574ac2cd0edafe47bd445112b5b3a1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-82-2011",
+   "path": "local/judet/prahova/2011/82",
+   "short": "HCJ Prahova nr. 82/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 82/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-06-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-082-din-data-2011-06-27.doc",
+     "sha256": "3561143f635bbfbcddbf5b6fdd1b36957296232f6f39cd754ea6078b7572fa9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-84-2011",
+   "path": "local/judet/prahova/2011/84",
+   "short": "HCJ Prahova nr. 84/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 84/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-084-din-data-2011-07-28.doc",
+     "sha256": "faaecc20f29b5ede846fc611370550e127c09ee52e42b8b81a570fabc12a5a8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-87-2011",
+   "path": "local/judet/prahova/2011/87",
+   "short": "HCJ Prahova nr. 87/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 87/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-087-din-data-2011-07-28.doc",
+     "sha256": "4c2f3168fa3b5684c9cd4411e597292b4baa9f3bef7e93e92f1b6aebe39a3081"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-88-2011",
+   "path": "local/judet/prahova/2011/88",
+   "short": "HCJ Prahova nr. 88/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 88/2011 privind modificarea componenţei Comisiei pentru protecţia copilului a judeţului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=3",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-088-din-data-2011-07-28.doc",
+     "sha256": "ab267f59f76bb988be7a7fb6d5728c86e674b373a465ed7b5874c0b03c426fe4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-90-2011",
+   "path": "local/judet/prahova/2011/90",
+   "short": "HCJ Prahova nr. 90/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 90/2011 privind modificarea statului de funcţii pentru Direcţia Judeţeană de Pază Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=3",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-090-din-data-2011-07-28.doc",
+     "sha256": "0b4a64d46399d2b8522bdc64e86d115a8bc7a96cd8aa76fbe9aae1e0d9a0f16d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-92-2011",
+   "path": "local/judet/prahova/2011/92",
+   "short": "HCJ Prahova nr. 92/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 92/2011 privind aprobarea majorării cotizaţiei anuale a Judeţului Prahova, în calitate de membru al Asociaţiei de Dezvoltare Intercomunitară „Parteneriatul pentru Managementul Deşeurilor- Prahova”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=3",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-092-din-data-2011-07-28.doc",
+     "sha256": "abaf60605d6e34c18b24bace9174ecdb624ac3600e672824bbd4cf04ed123b46"
     }
    ]
   }

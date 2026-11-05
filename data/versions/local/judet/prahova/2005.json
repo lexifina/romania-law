@@ -1,0 +1,636 @@
+{
+ "country": "RO",
+ "shard": "local/judet/prahova/2005",
+ "acts": [
+  {
+   "slug": "hcj-prahova-1-2005",
+   "path": "local/judet/prahova/2005/1",
+   "short": "HCJ Prahova nr. 1/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 1/2005 privind constatarea încetării, prin demisie, a unui mandat de consilier județean și validarea mandatului unui supleant de pe lista partidului politic respectiv Având în vedere: -Referatul comun al Președintelui Consiliului județean și al Secretarului general al județului privind demisia unui consilier județean; -Raportul Comisiei de validare prin care se propune validarea mandatului unui supleant",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=22",
+   "versions": [
+    {
+     "from": "2005-01-14",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-1-din-data-2005-01-14.doc",
+     "sha256": "6660b451ec813a19ebaa93052dd5a214aac6582b500762602243ead1ec883968"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-10-2005",
+   "path": "local/judet/prahova/2005/10",
+   "short": "HCJ Prahova nr. 10/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 10/2005 privind proiectul propus de",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=21",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-10-din-data-2005-01-25.doc",
+     "sha256": "1c691c8faa8795fd686db1c6783b69c67cae3b36215e5919cd475aaa55091b45"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-11-2005",
+   "path": "local/judet/prahova/2005/11",
+   "short": "HCJ Prahova nr. 11/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 11/2005 privind proiectul propus de",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=21",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-11-din-data-2005-01-25.doc",
+     "sha256": "a4fa352cd1001dda168b1d1c11e171ece1773243dc7c9365b7e9bf4ef7e27036"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-12-2005",
+   "path": "local/judet/prahova/2005/12",
+   "short": "HCJ Prahova nr. 12/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 12/2005 privind proiectele propuse de unele consilii locale, în calitate de solicitant, în parteneriat cu",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=21",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-12-din-data-2005-01-25.doc",
+     "sha256": "068447c740a4b93d89d42e8196dd658ac6a518292e0344fa204ad28cabc278a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-14-2005",
+   "path": "local/judet/prahova/2005/14",
+   "short": "HCJ Prahova nr. 14/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 14/2005 privind modificarea prevederilor unor hotărâri ale Consiliului județean Prahova Având în vedere: - Expunerea de motive a președintelui Consiliului județean Prahova și Raportul nr. 565 /24.01.2005 al Direcției juridic contencios și administrație locală, prin care se propune modificarea prevederilor unor hotărâri ale Consiliului județean Prahova; -Prevederile Legii nr. 467/2004 pentru modificarea și",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=21",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-14-din-data-2005-01-25.doc",
+     "sha256": "d75225d9fffbc30906cf23a1510811efe5f695d10924bea1f45f9a54dc0a9043"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-15-2005",
+   "path": "local/judet/prahova/2005/15",
+   "short": "HCJ Prahova nr. 15/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 15/2005 privind constituirea Comitetului Tehnic Județean pentru Descentralizare Prahova Având în vedere: -Expunerea de motive a Președintelui Consiliului județean Prahova și Raportul nr.474/20.01.2005 al Direcției Juridic Contencios și Administrație Locală prin care se propune constituirea Comitetului Tehnic Județean pentru Descentralizare Prahova; -Prevederile Legii - cadru nr.339/2004 privind descentral",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=21",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-15-din-data-2005-01-25.doc",
+     "sha256": "919f6cbea79af3a8f8133c9a477078e7299dcf2e0c3a7e50ca6f9e24ca52b27d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-16-2005",
+   "path": "local/judet/prahova/2005/16",
+   "short": "HCJ Prahova nr. 16/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 16/2005 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Județean Prahova Având în vedere: - Expunerea de motive prezentată de Președintele Consiliului Județean și Raportul nr. 146/10.01.2005 al Direcției Juridic Contencios și Administrație Locală, prin care se propune aprobarea Regulamentului de organizare și funcționare a Consiliului Județean Prahova; - Ordonanța Guvernului nr",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=20",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-16-din-data-2005-01-25.doc",
+     "sha256": "76c71e38c633def15680599afffe20e81d5d83452985c48026b2cec3581fa1eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-17-2005",
+   "path": "local/judet/prahova/2005/17",
+   "short": "HCJ Prahova nr. 17/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 17/2005",
+   "url": null,
+   "versions": [
+    {
+     "from": "2005-02-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-17-din-data-2005-02-28.doc",
+     "sha256": "780640526fdcb490f14b70453b062646da6ef62d4653b0328daffbd3f39c6965"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-19-2005",
+   "path": "local/judet/prahova/2005/19",
+   "short": "HCJ Prahova nr. 19/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 19/2005 privind aprobarea statului de functii al Directiei Generale de Patrimoniu Judetean Avand in vedere: - Expunerea de motive a Presedintelui Consiliului Judetean Prahova si Raportul comun al Directiei Economico Finanicare si al Directiei Generale de Patrimoniu Judetean, prin care se propune aprobarea statului de functii al Directiei Generale de Patrimoniu Judetean, prin reincadrarea functionarilor pu",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=20",
+   "versions": [
+    {
+     "from": "2005-02-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-19-din-data-2005-02-28.doc",
+     "sha256": "5ce0a16916ed2415f19f31d43bea89201df6d4bdb8ff319df7cb7444b7950ebb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-20-2005",
+   "path": "local/judet/prahova/2005/20",
+   "short": "HCJ Prahova nr. 20/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 20/2005 privind desemnarea reprezentantului asiguraților din județul Prahova în Adunarea reprezentanților Casei Naționale de Asigurări de Sănătate și a unui membru în Consiliul de administrație al Casei Județene de Asigurări de Sănătate Prahova Având în vedere: -Expunerea de motive a Președintelui Consiliului județean Prahova și Raportul Direcției Juridic-Contencios și Administrație Locală nr.887/3.02.200",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=20",
+   "versions": [
+    {
+     "from": "2005-02-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-20-din-data-2005-02-28.doc",
+     "sha256": "2ce34616b88692f19a73bb6d329db8371602c266614d40bf750c43af97de0951"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-21-2005",
+   "path": "local/judet/prahova/2005/21",
+   "short": "HCJ Prahova nr. 21/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 21/2005 privind numirea unui reprezentant al Consiliului județean Prahova în Adunarea Generală a Acționarilor la Societatea Comercială “Hidro Valea Prahovei” S.A",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=20",
+   "versions": [
+    {
+     "from": "2005-02-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-21-din-data-2005-02-28.doc",
+     "sha256": "c923ef0fe192bdf3c237bc8fc77ed58b14f2e27d9ae150258ab15faa2288bd95"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-22-2005",
+   "path": "local/judet/prahova/2005/22",
+   "short": "HCJ Prahova nr. 22/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 22/2005 privind trecerea unor imobile din domeniul public în domeniul privat al județului Prahova Având în vedere: - Expunerea de motive prezentată de Președintele Consiliului județean și Raportul nr. 1505/21.02.2005 al Direcției Juridic Contencios și Administrație Locală, prin care se propune trecerea unor imobile din domeniul public în domeniul privat al județului Prahova; - Legea nr. 213/1998 privind p",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=20",
+   "versions": [
+    {
+     "from": "2005-02-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-22-din-data-2005-02-28.doc",
+     "sha256": "86c59920545cdfba3ce4f5a0ef506f2bdaf85f5dca3fd7907d427b70a766cc32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-23-2005",
+   "path": "local/judet/prahova/2005/23",
+   "short": "HCJ Prahova nr. 23/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 23/2005 privind trecerea unor bunuri din domeniul public în domeniul privat al județului Prahova și transmiterea acestora în patrimoniul Societății Comerciale „Brazi Industrial Parc” S.A",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=19",
+   "versions": [
+    {
+     "from": "2005-02-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-23-din-data-2005-02-28.doc",
+     "sha256": "a877e8c8547af945aad252047edcac395ae0d71ef8d9d2a08bd0363bb91bc33f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-24-2005",
+   "path": "local/judet/prahova/2005/24",
+   "short": "HCJ Prahova nr. 24/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 24/2005 privind trecerea imobilului situat în Ploiești, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=19",
+   "versions": [
+    {
+     "from": "2005-02-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-24-din-data-2005-02-28.doc",
+     "sha256": "50b5d86a4a4b13d177744ebdc591712e583621153c79a8c4e8c585f3b14915b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-26-2005",
+   "path": "local/judet/prahova/2005/26",
+   "short": "HCJ Prahova nr. 26/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 26/2005 privind revocarea unor prevederi din hotărârea Consiliului județean Prahova nr. 13/16 februarie 2004 Având în vedere: - Expunerea de motive a președintelui Consiliului județean Prahova și Raportul comun nr. 1510/21.02.2005 al Direcției Juridic Contencios și Administrație Locală și Direcției Integrare Europeană, prin care se propune revocarea unor prevederi din hotărârea Consiliului județean Prahov",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=19",
+   "versions": [
+    {
+     "from": "2005-02-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-26-din-data-2005-02-28.doc",
+     "sha256": "97b4598dadf206693975692a7caf65c9d50ec945e1bbb526471a3aee5c912659"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-27-2005",
+   "path": "local/judet/prahova/2005/27",
+   "short": "HCJ Prahova nr. 27/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 27/2005 privind asocierea Consiliului Județean Prahova cu unele organizații neguvernamentale în vederea pregătirii și implementării unor proiecte în cadrul Programului PHARE 2003 - Schema de granturi pentru reforma instituțională în sectorul protecției persoanelor cu dizabilități Având în vedere: - Expunerea de motive prezentată de Președintele Consiliului Județean și Raportul nr.1589/23.02.2005 al Direcț",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=19",
+   "versions": [
+    {
+     "from": "2005-02-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-27-din-data-2005-02-28.doc",
+     "sha256": "3c366204c3e7ced0327795252a90988dadc9c9e1594505befc7c92384e5b0772"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-28-2005",
+   "path": "local/judet/prahova/2005/28",
+   "short": "HCJ Prahova nr. 28/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 28/2005",
+   "url": null,
+   "versions": [
+    {
+     "from": "2005-02-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-28-din-data-2005-02-28.doc",
+     "sha256": "f1ece412795e7a90d6cbce13097f4d47d6e1762cff7d482ed6fca35597492dca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-29-2005",
+   "path": "local/judet/prahova/2005/29",
+   "short": "HCJ Prahova nr. 29/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 29/2005 privind acordarea mandatului pentru recalcularea cotei de participare a unui investitor la capitalul social al Societății Comerciale Drumuri și Poduri Prahova S.A",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=19",
+   "versions": [
+    {
+     "from": "2005-02-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-29-din-data-2005-02-28.doc",
+     "sha256": "e3ad6564b894024ded9e57f18b99860291a84240d9983b157b52cb303ace6960"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-3-2005",
+   "path": "local/judet/prahova/2005/3",
+   "short": "HCJ Prahova nr. 3/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 3/2005 privind aprobarea numarului de personal, a organigramei si a statului de functii pentru aparatul propriu al Consiliului Judetean Prahova Avand in vedere: -Expunerea de motive a Presedintelui Consiliului Judetean Prahova si Raportul comun al directiilor de specialitate din cadrul Consiliului Judetean Prahova, prin care se propune aprobarea numarului de personal, a organigramei si a statului de func",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=22",
+   "versions": [
+    {
+     "from": "2005-01-14",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-3-din-data-2005-01-14.doc",
+     "sha256": "7f143049d96c2dbbf25432aac2bef6a2f9cae4f7f41d7707ab14d245f1eb7507"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-30-2005",
+   "path": "local/judet/prahova/2005/30",
+   "short": "HCJ Prahova nr. 30/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 30/2005 privind solicitarea trecerii unui imobil din domeniul public al statului și din administrarea Ministerului Apărării Naționale în domeniul public al județului Prahova și în administrarea Consiliului județean Prahova Având în vedere: -Expunerea de motive a președintelui Consiliului județean Prahova și Raportul Direcției juridic contencios și administrație locală privind solicitarea trecerii unui imo",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=19",
+   "versions": [
+    {
+     "from": "2005-02-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-30-din-data-2005-02-28.doc",
+     "sha256": "c5adfef69ca92821cde706796407f7d3d6e0352c5088e7dcf7806a114839f607"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-32-2005",
+   "path": "local/judet/prahova/2005/32",
+   "short": "HCJ Prahova nr. 32/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 32/2005 privind modificarea organigramelor și a statelor de funcții ale Muzeului Județean de Istorie și Arheologie Prahova, Muzeului Județean de Stiințele Naturii Prahova și ale Bibliotecii Județene „ Nicolae Iorga” Având in vedere: Expunerea de motive a Președintelui Consiliului Județean și Raportul Direcției Economico Financiare, prin care se propune, modificarea organigramelor și a statelor de funcții",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=18",
+   "versions": [
+    {
+     "from": "2005-03-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-32-din-data-2005-03-21.doc",
+     "sha256": "2cd2dbc87accd4386486dbefeaadcb769a1da911839a765d6391c97994520543"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-33-2005",
+   "path": "local/judet/prahova/2005/33",
+   "short": "HCJ Prahova nr. 33/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 33/2005 privind eliberarea certificatelor de atestare a dreptului de proprietate asupra unor terenuri deținute de S.C",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=18",
+   "versions": [
+    {
+     "from": "2005-03-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-33-din-data-2005-03-21.doc",
+     "sha256": "3dd48500dc8c8ab47e7caf1ae842773aa733441a8b18ada3738ead9601f5928f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-34-2005",
+   "path": "local/judet/prahova/2005/34",
+   "short": "HCJ Prahova nr. 34/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 34/2005 privind asocierea Consiliului Județean Prahova cu Inspectoratul Școlar Județean Prahova, Casa Corpului Didactic Prahova și unele consilii locale, în vederea pregătirii și implementării unui proiect în cadrul Programului PHARE/2003/005-551.01.02 „Acces la educație pentru Grupurile Dezavantajate” Având în vedere: - Expunerea de motive prezentată de Președintele Consiliului Județean și Raportul nr.21",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=18",
+   "versions": [
+    {
+     "from": "2005-03-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-34-din-data-2005-03-21.doc",
+     "sha256": "38fa2d61e0d1739d466fc13394ff9d240c1346bfbfeddf35fa1461b17bf999ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-35-2005",
+   "path": "local/judet/prahova/2005/35",
+   "short": "HCJ Prahova nr. 35/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 35/2005 privind solicitarea trecerii unui imobil din domeniul public al statului și din administrarea Ministerului Apărării Naționale în domeniul public al județului Prahova și în administrarea Consiliului județean Prahova Având în vedere: -Expunerea de motive a președintelui Consiliului județean Prahova și Raportul Direcției juridic contencios și administrație locală privind solicitarea trecerii unui imo",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=18",
+   "versions": [
+    {
+     "from": "2005-03-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-35-din-data-2005-03-21.doc",
+     "sha256": "6912c7ff6a97ec0cf1994e5b911fe7768194c456648249c17bbebdbfa0af34b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-36-2005",
+   "path": "local/judet/prahova/2005/36",
+   "short": "HCJ Prahova nr. 36/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 36/2005 privind solicitarea trecerii unui imobil din domeniul public al statului și din administrarea Ministerului Apărării Naționale în domeniul public al județului Prahova și în administrarea Consiliului județean Prahova Având în vedere: -Expunerea de motive a președintelui Consiliului județean Prahova și Raportul Direcției juridic contencios și administrație locală privind solicitarea trecerii unui imo",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=18",
+   "versions": [
+    {
+     "from": "2005-03-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-36-din-data-2005-03-21.doc",
+     "sha256": "d0087fc416c83c01a9f7d9bee7421e2d32746913864e5cc4e7a5b47a541b3fb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-37-2005",
+   "path": "local/judet/prahova/2005/37",
+   "short": "HCJ Prahova nr. 37/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 37/2005 privind aprobarea Regulamentului de organizare și funcționare a aparatului propriu de specialitate al Consiliului Județean Prahova Având în vedere: - Expunerea de motive prezentată de Președintele Consiliului Județean și Raportul comun al Direcțiilor din Consiliul județean Prahova, prin care se propune aprobarea Regulamentului de organizare și funcționare a aparatului propriu de specialitate al Co",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=18",
+   "versions": [
+    {
+     "from": "2005-03-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-37-din-data-2005-03-21.doc",
+     "sha256": "3af863c165240cebd7e32b559d4c8d709f7877925073dc3e68a176a4785c0847"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-38-2005",
+   "path": "local/judet/prahova/2005/38",
+   "short": "HCJ Prahova nr. 38/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 38/2005 privind administrația publică locală, cu modificările și completările ulterioare",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=17",
+   "versions": [
+    {
+     "from": "2005-03-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-38-din-data-2005-03-21.doc",
+     "sha256": "678e9d9ad59091d0bf370a099937c3a985c1a301b9612eac1598602b8672d436"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-39-2005",
+   "path": "local/judet/prahova/2005/39",
+   "short": "HCJ Prahova nr. 39/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 39/2005 privind preluarea unei părți din patrimoniul Corpului gardienilor publici Prahova și repartizarea acesteia municipiului Ploiești în vederea înființării Poliției Comunitare, precum și unele măsuri referitoare la desființarea Corpului gardienilor publici Având în vedere: -Expunerea de motive a președintelui Consiliului județean Prahova și Raportul comun al Direcției economico-financiare și al Direcț",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=17",
+   "versions": [
+    {
+     "from": "2005-03-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-39-din-data-2005-03-21.doc",
+     "sha256": "d510dfa66fa868fe82dc8524fc7e42aa863b6d5650fa8391b96f57ce333f0a02"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-40-2005",
+   "path": "local/judet/prahova/2005/40",
+   "short": "HCJ Prahova nr. 40/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 40/2005 privind solicitarea trecerii unui imobil din domeniul public al statului și din administrarea Ministerului Apărării Naționale în domeniul public al județului Prahova și în administrarea Consiliului județean Prahova Având în vedere: -Expunerea de motive a președintelui Consiliului județean Prahova și Raportul Direcției juridic contencios și administrație locală privind solicitarea trecerii unui imo",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=17",
+   "versions": [
+    {
+     "from": "2005-03-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-40-din-data-2005-03-21.doc",
+     "sha256": "bb2f24ee7d60ff89cac1615a3021aa4aebfdf18c7b6f2369705287e24002a756"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-41-2005",
+   "path": "local/judet/prahova/2005/41",
+   "short": "HCJ Prahova nr. 41/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 41/2005",
+   "url": null,
+   "versions": [
+    {
+     "from": "2005-03-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-41-din-data-2005-03-21.doc",
+     "sha256": "ebfb4fa30a71fa43b7cf02c1df7b638f9bc45ee1685b065a28fab45f5f49767c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-42-2005",
+   "path": "local/judet/prahova/2005/42",
+   "short": "HCJ Prahova nr. 42/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 42/2005",
+   "url": null,
+   "versions": [
+    {
+     "from": "2005-03-21",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-42-din-data-2005-03-21.doc",
+     "sha256": "83cad9215b3ffe449bef18e3e8a5bd5018a3de0b378878c64e0c686d7cbb7cd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-44-2005",
+   "path": "local/judet/prahova/2005/44",
+   "short": "HCJ Prahova nr. 44/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 44/2005 privind numirea unor reprezentanți ai Consiliului județean Prahova în consiliile de administrație ale spitalelor publice de interes județean Având în vedere: - Expunerea de motive a Președintelui Consiliului județean Prahova și Raportul nr.1506/21.02.2005 al Direcției Juridic Contencios și Administrație Locală privind numirea unor reprezentanți în consiliile de administrație ale spitalelor publice",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=16",
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-44-din-data-2005-04-11.doc",
+     "sha256": "4afd9906e4d8bbc2c368ae7389f4596e07d39e0439ce6dd3783d2264280c4cd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-45-2005",
+   "path": "local/judet/prahova/2005/45",
+   "short": "HCJ Prahova nr. 45/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 45/2005 privind modificarea anexei la Hotărârea nr.22 din 28 februarie a Consiliului județean Prahova prin care s-a aprobat trecerea unor imobile situate în orașul Vălenii de Munte, județul Prahova, din domeniul public în domeniul privat al județului Prahova Avand în vedere: -Expunerea de motive a Președintelui Consiliului județean și Raportul nr. 2796/ 01.04.2005 al Direcției juridic contencios și admini",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=16",
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-45-din-data-2005-04-11.doc",
+     "sha256": "f0050d68069a3335f0204c3a4768541d94bd25acbdb7e62d97fcac0f6aa6b6f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-46-2005",
+   "path": "local/judet/prahova/2005/46",
+   "short": "HCJ Prahova nr. 46/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 46/2005 privind asocierea Consiliului Județean Prahova cu Fundația Principesa Margareta a României în vederea pregătirii proiectului \"Dreptul la o viață normală – Pot fi independent!\" Având în vedere: - Expunerea de motive prezentată de Președintele Consiliului Județean și Raportul nr.2532/25.03.2005 al Direcției Integrare Europeană, prin care se propune asocierea Consiliului Județean Prahova cu Fundația",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=16",
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-46-din-data-2005-04-11.doc",
+     "sha256": "3efaeced17ce53d4922c2e63b7d8dfd3e4ae89ef6c8e7a771a7d2eed9924e523"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-47-2005",
+   "path": "local/judet/prahova/2005/47",
+   "short": "HCJ Prahova nr. 47/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 47/2005 privind solicitarea trecerii unui teren din domeniul public al municipiului Ploiești și din administrarea Consiliului local al municipiului Ploiești în domeniul public al județului Prahova și în administrarea Consiliului județean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=16",
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-47-din-data-2005-04-11.doc",
+     "sha256": "64cd197f32bf061102df7c35a03d02804ba7f40f1316ca9db2d516a122e32580"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-48-2005",
+   "path": "local/judet/prahova/2005/48",
+   "short": "HCJ Prahova nr. 48/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 48/2005",
+   "url": null,
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-48-din-data-2005-04-11.doc",
+     "sha256": "e906ccd2e88e6e1375f381f2cc1ef7d6538194bfc559542603d7b8e1a1005d8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-49-2005",
+   "path": "local/judet/prahova/2005/49",
+   "short": "HCJ Prahova nr. 49/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 49/2005 privind asocierea Consiliului Județean Prahova cu Consiliul Local al orașului Sinaia în vederea realizării unor lucrări de reparații la DC 134 Sinaia – Cota 1400 Având în vedere : Expunerea de motive prezentată de Președintele Consiliului județean și Raportul nr.2686/30.03.2005 al Direcției Integrare Europeană, prin care se propune asocierea Consiliului Județean Prahova cu Consiliul Local al orașu",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=16",
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-49-din-data-2005-04-11.doc",
+     "sha256": "686397e271b4d2870512eea91f676b5fd6e677fa5a253a8ad357decb5b9744e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-5-2005",
+   "path": "local/judet/prahova/2005/5",
+   "short": "HCJ Prahova nr. 5/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 5/2005",
+   "url": null,
+   "versions": [
+    {
+     "from": "2005-01-14",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-5-din-data-2005-01-14.doc",
+     "sha256": "58a1c92ecc658e527ae90a611b15f212a4bdc9cf9cdd2e3436c25a072c1e2d0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-6-2005",
+   "path": "local/judet/prahova/2005/6",
+   "short": "HCJ Prahova nr. 6/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 6/2005",
+   "url": null,
+   "versions": [
+    {
+     "from": "2005-01-14",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-6-din-data-2005-01-14.doc",
+     "sha256": "5f109f22d10797ee7bda4797caf090753dff1ab8c2fcd7a90cb2d71728dffe76"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-7-2005",
+   "path": "local/judet/prahova/2005/7",
+   "short": "HCJ Prahova nr. 7/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 7/2005 privind numirea unor reprezentanți ai Consiliului județean Prahova în Adunarea generală a acționarilor la societățile comerciale în care are calitatea de acționar Având în vedere: -Expunerea de motive prezentată de Președintele Consiliului județean și Raportul nr.193/11.01.2005 al Direcției juridic contencios și administrație locală, prin care se propune numirea unor reprezentanți ai Consiliului j",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=21",
+   "versions": [
+    {
+     "from": "2005-01-14",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-7-din-data-2005-01-14.doc",
+     "sha256": "0e745af3d616a21d00abf213bd010d375e86c8cdc539c2f1e3ddb46a9fae2c53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-8-2005",
+   "path": "local/judet/prahova/2005/8",
+   "short": "HCJ Prahova nr. 8/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 8/2005 privind validarea unui mandat de consilier județean și desemnarea sa în componența unor comisii Având în vedere: -Referatul comun al Președintelui Consiliului județean și al Secretarului general al județului privind demisia unui consilier județean; -Raportul Comisiei de validare prin care se propune validarea mandatului primului supleant de pe lista partidului politic respectiv; -Prevederile art",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=21",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-8-din-data-2005-01-25.doc",
+     "sha256": "b7a0ca6b8c95a540fdf6512e3645ad19600e5be8da7758c3b5db4fd1950bac8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-9-2005",
+   "path": "local/judet/prahova/2005/9",
+   "short": "HCJ Prahova nr. 9/2005",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 9/2005 privind proiectul propus de",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2005/?dpage=21",
+   "versions": [
+    {
+     "from": "2005-01-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-9-din-data-2005-01-25.doc",
+     "sha256": "10d1f0c817bc8645916d4f2117625b1fd44fda0263d819a04fcd393816eee9e7"
+    }
+   ]
+  }
+ ]
+}

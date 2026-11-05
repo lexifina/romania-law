@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/judet/prahova/2008",
+"acts": [
+{
+"slug": "hcj-prahova-147-2008",
+"path": "local/judet/prahova/2008/147",
+"kind": "local",
+"year": "2008",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 147/2008",
+"short": "HCJ Prahova nr. 147/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-12-08",
+"latest": "2008-12-08",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2008/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-prahova-2220-2008",
+"path": "local/judet/prahova/2008/2220",
+"kind": "local",
+"year": "2008",
+"number": "2220",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 2220/2008 privind aprobarea documentației tehnico-economice pentru obiectivul de investiții: « RK-Captare Valea Azugii »",
+"short": "HCJ Prahova nr. 2220/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-02-19",
+"latest": "2008-02-19",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2008/?dpage=6",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -3,6 +3,336 @@
  "shard": "local/judet/prahova/2019",
  "acts": [
   {
+   "slug": "hcj-prahova-10-2019",
+   "path": "local/judet/prahova/2019/10",
+   "short": "HCJ Prahova nr. 10/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 10/2019 privind aprobarea componenței Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-010-din-data-28-02-2019.pdf",
+     "sha256": "dca8358799c511c460e7c462fdefc5f3e0d3ae93bc2cd5fc346c5fff77ec0d67"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-100-2019",
+   "path": "local/judet/prahova/2019/100",
+   "short": "HCJ Prahova nr. 100/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 100/2019 privind asocierea judeţului Prahova cu Municipiul Ploiești în vederea realizării obiectivului „Construire laborator de radioterapie cu energii înalte la Spitalul Municipal Ploiești”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-100-din-data-26-07-2019.pdf",
+     "sha256": "4479fc0d2104ab4529b0ee38d24b13bf66924078bb387393c30d8fb3b2e1a437"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-101-2019",
+   "path": "local/judet/prahova/2019/101",
+   "short": "HCJ Prahova nr. 101/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 101/2019 privind aprobarea achiziţionării de servicii juridice de consultanţă, de asistenţă şi de reprezentare de către Spitalul de Obstetrică - Ginecologie Ploiești",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-101-din-data-26-07-2019.pdf",
+     "sha256": "3ab8aa3f29fdd0ac2a819cc8b074b73f1c525eb475e9cd41cbe9f28a238df5a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-103-2019",
+   "path": "local/judet/prahova/2019/103",
+   "short": "HCJ Prahova nr. 103/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 103/2019 privind aprobarea ”Planului de menținere a calității aerului în județul Prahova 2019-2023”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-103-din-data-28-08-2019.pdf",
+     "sha256": "a97fff9b2d234e99499aa1aaa248d9001b948f4b81a93c0df22b425d692e220e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-105-2019",
+   "path": "local/judet/prahova/2019/105",
+   "short": "HCJ Prahova nr. 105/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 105/2019 pentru modificarea și completarea Hotărârii nr. 10/2019 a Consiliului Județean Prahova privind aprobarea componenței Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-105-din-data-28-08-2019.pdf",
+     "sha256": "696cedc124c9bd75f7b7082652ce4fb0918fc7f5b815d783942309d8fde0e629"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-106-2019",
+   "path": "local/judet/prahova/2019/106",
+   "short": "HCJ Prahova nr. 106/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 106/2019 privind modificarea organigramei şi a statului de funcţii pentru aparatul de specialitate al Consiliului Judeţean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-106-din-data-28-08-2019.pdf",
+     "sha256": "f21f168752a49bb8fb0aabac4908cb0be03d8ecfa0627aab41752a9c6e9e7af8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-108-2019",
+   "path": "local/judet/prahova/2019/108",
+   "short": "HCJ Prahova nr. 108/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 108/2019 privind modificarea organigramei și a statului de funcţii pentru Muzeul Judeţean de Istorie și Arheologie Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-108-din-data-28-08-2019.pdf",
+     "sha256": "34a27d7e7ec55ab88dcd1bbc5179f99700a413a642b203f3a290cd5e630cae4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-11-2019",
+   "path": "local/judet/prahova/2019/11",
+   "short": "HCJ Prahova nr. 11/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 11/2019 privind asocierea Județului Prahova cu unele unități administrativ teritoriale din județ, în vederea constituirii Asociației de Dezvoltare Intercomunitară „GAZ 2018” Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-011-din-data-28-02-2019.pdf",
+     "sha256": "ff7418ff6aee7b92da0283d78a5ed17dad1783ca323b1349c8b9ed157d00969b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-110-2019",
+   "path": "local/judet/prahova/2019/110",
+   "short": "HCJ Prahova nr. 110/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 110/2019 pentru modificarea și completarea Hotărârii nr.7/30 ianuarie 2019 a Consiliului Județean Prahova privind aprobarea salariilor de bază aferente funcțiilor din cadrul familiei ocupaționale “ Administrație ” utilizate pentru personalul angajat (funcționarii publici și personalul contractual) în cadrul aparatului de specialitate al Consiliului Județean Prahova și în cadrul instituțiilor și serviciilor publice din subordinea acestuia, pentru anul 2019",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-110-din-data-28-08-2019.pdf",
+     "sha256": "6a29e35a510ab52eba09c5f8f1b73c25189fbf3afb787594e16f0572e9ab85ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-111-2019",
+   "path": "local/judet/prahova/2019/111",
+   "short": "HCJ Prahova nr. 111/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 111/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-111-din-data-28-08-2019.pdf",
+     "sha256": "8131a59cc9de9bafb32179e771a52978dd2fd24d4e9ba6a87932e173b6dc292d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-112-2019",
+   "path": "local/judet/prahova/2019/112",
+   "short": "HCJ Prahova nr. 112/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 112/2019 privind trecerea unor bunuri imobile din domeniul public al județului Prahova în domeniul privat al județului Prahova în vederea scoaterii din funcțiune, casării și valorificarii acestora",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-112-din-data-28-08-2019.pdf",
+     "sha256": "41561174a547ce4b3d037b1885ee654b3629d0fb34cec1cb45a6f31909ca02ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-113-2019",
+   "path": "local/judet/prahova/2019/113",
+   "short": "HCJ Prahova nr. 113/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 113/2019 privind modificarea arondării localităţilor Mănești şi Cocorăștii Colț din judeţul Prahova la serviciile publice comunitare de evidenţă a persoanelor",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-113-din-data-28-08-2019.pdf",
+     "sha256": "ea06ec98147ecae60b531f2ef778cd070a4437c498f4b58213992a11c4c7e788"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-114-2019",
+   "path": "local/judet/prahova/2019/114",
+   "short": "HCJ Prahova nr. 114/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 114/2019 privind modificarea arondării localităţilor Șoimari și Cărbunești din judeţul Prahova la serviciile publice comunitare de evidenţă a persoanelor",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-114-din-data-28-08-2019.pdf",
+     "sha256": "491602c430e8ccead8ebea75d87b2e54ffd6aab84b53fea5f2ba786fd761b8cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-115-2019",
+   "path": "local/judet/prahova/2019/115",
+   "short": "HCJ Prahova nr. 115/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 115/2019 privind aprobarea cotizaţiei anuale a Judeţului Prahova, în calitate de membru al Asociaţiei de Dezvoltare Intercomunitară „Parteneriatul pentru Managementul Apei - Prahova”, începând cu anul 2019",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-115-din-data-28-08-2019.pdf",
+     "sha256": "c4233d0e6409326b2e995999aff16ed81aeda7e25d6598319601158a107f85bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-117-2019",
+   "path": "local/judet/prahova/2019/117",
+   "short": "HCJ Prahova nr. 117/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 117/2019 privind acordul de principiu pentru reorganizarea celor două unități sanitare din municipiul Ploiești care au managementul asistenţei medicale exercitat de către",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-117-din-data-28-08-2019.pdf",
+     "sha256": "2d37c0947cd5ae4f85038bda65e3164e6af967e8b66f18f47791235659cf6efc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-118-2019",
+   "path": "local/judet/prahova/2019/118",
+   "short": "HCJ Prahova nr. 118/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 118/2019 privind actualizarea Programului de transport rutier contra cost de persoane prin servicii regulate la nivel județean",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-08-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-118-din-data-28-08-2019.pdf",
+     "sha256": "a441536f099b8d8ca7ec3826512350ef4089224445b7dbd12609837c65881d73"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-119-2019",
+   "path": "local/judet/prahova/2019/119",
+   "short": "HCJ Prahova nr. 119/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 119/2019 pentru modificarea unor prevederi ale Hotărârii Consiliului Județean Prahova nr.84/2019 privind asocierea judeţului Prahova cu localităţi din judeţ, precum şi alocarea unor sume din bugetul judeţului Prahova pe anul 2019 în vederea realizării unor obiective de i",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-09-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-119-din-data-16-09-2019.pdf",
+     "sha256": "f1927d93f809fdc60dbfd6b5f44dab837951d5cace4719930348c7407e156b8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-121-2019",
+   "path": "local/judet/prahova/2019/121",
+   "short": "HCJ Prahova nr. 121/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 121/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-09-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-121-din-data-16-09-2019.pdf",
+     "sha256": "7bd3b9680236ade50ffd6969922e74542bdc6336f0a5170c19f0b65a34402044"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-123-2019",
+   "path": "local/judet/prahova/2019/123",
+   "short": "HCJ Prahova nr. 123/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 123/2019 privind desemnarea unui reprezentant al Consiliului Județean Prahova în Comisia de Orientare Școlară și Profesională (COSP)",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-09-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-123-din-data-16-09-2019.pdf",
+     "sha256": "34478c4c7c9cc8d90e637d8665a971d3162d14341a3d589752d6b1afadfad589"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-124-2019",
+   "path": "local/judet/prahova/2019/124",
+   "short": "HCJ Prahova nr. 124/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 124/2019 privind desemnarea reprezentanților Consiliului Județean Prahova în Consiliile de Administrație ale unităților de învățământ special pentru anul școlar 2019-2020",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-09-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-124-din-data-16-09-2019.pdf",
+     "sha256": "8e7098b592af25ed1c38cbae875c8ed7009e734bab8bc143243ef6448d6b7668"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-127-2019",
+   "path": "local/judet/prahova/2019/127",
+   "short": "HCJ Prahova nr. 127/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 127/2019 privind repartizarea pe unităţi administrativ- teritoriale a sumelor defalcate din impozitul pe venit – cota de 7,5% pe anul 2019",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-09-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-127-din-data-23-09-2019.pdf",
+     "sha256": "f9510d341078139edc9c615a7dd63f234fe6e783ecfac947bb4915209746f957"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-128-2019",
+   "path": "local/judet/prahova/2019/128",
+   "short": "HCJ Prahova nr. 128/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 128/2019 privind acordarea burselor de ajutor social elevilor din învățământul special pentru anul școlar 2019 – 2020",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-09-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-128-din-data-23-09-2019.pdf",
+     "sha256": "64ded88d201c32374c0edb6ec72f2e7c997c4cc05daf88e20c192c538a9abbf7"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-129-2019",
    "path": "local/judet/prahova/2019/129",
    "short": "HCJ Prahova nr. 129/2019",
@@ -14,6 +344,261 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-129-din-data-23-09-2019.pdf",
      "sha256": "61fa2c9c0c1182af1c4b9245f6e38c3a719a3e4d3320f7cd248c4c4dacef3d85"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-130-2019",
+   "path": "local/judet/prahova/2019/130",
+   "short": "HCJ Prahova nr. 130/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 130/2019 privind modificarea organigramei, a statului de funcții și a regulamentului de organizare și funcționare pentru Centrul Județean de Cultură Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-09-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-130-din-data-23-09-2019.pdf",
+     "sha256": "81c1020ac89dcdb63cc11ce87202b7a8b44bc0c9fed1f2da979272ddd77e43f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-132-2019",
+   "path": "local/judet/prahova/2019/132",
+   "short": "HCJ Prahova nr. 132/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 132/2019 pentru modificarea unor prevederi ale Hotărârii nr.127/2019 a Consiliului Județean Prahova privind repartizarea pe unități administrativ - teritoriale asumelor defalcate din impozitul pe venit – cota de 7,5% pe anul 2019",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-10-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-132-din-data-29-10-2019.pdf",
+     "sha256": "9529ccc15ce4046280cdd2c771c5dee5be07f02a3aba43a816f7e8d2fca3ba0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-133-2019",
+   "path": "local/judet/prahova/2019/133",
+   "short": "HCJ Prahova nr. 133/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 133/2019 privind asocierea judeţului Prahova cu localităţi din judeţ, precum şi alocarea unor sume din bugetul judeţului Prahova pe anul 2019 în vederea realizării unor obiective de interes public",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-10-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-133-din-data-29-10-2019.pdf",
+     "sha256": "5a2f22171c2f75c90b0277ec185d5f3538b167939937b4a307808a9eb615788f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-134-2019",
+   "path": "local/judet/prahova/2019/134",
+   "short": "HCJ Prahova nr. 134/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 134/2019 privind aprobarea unor măsuri referitoare la asocieri ale județului Prahova cu localități din județ în vederea realizării unor obiective de interes public",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-10-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-134-din-data-29-10-2019.pdf",
+     "sha256": "9e7b8d47a685ef213bd930744d872e49a9e63b8f064e407c924754905a9a10ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-136-2019",
+   "path": "local/judet/prahova/2019/136",
+   "short": "HCJ Prahova nr. 136/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 136/2019 privind modificarea și completarea unor hotărâri ale Consiliului județean Prahova referitoare la administrarea unor bunuri imobile ce aparțin domeniului public al județului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-10-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-136-din-data-29-10-2019.pdf",
+     "sha256": "2faf6cbc77523c2fbcbacdcb7a2063172e100e0a025efda637b40a9cd13b0b25"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-137-2019",
+   "path": "local/judet/prahova/2019/137",
+   "short": "HCJ Prahova nr. 137/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 137/2019 privind modificarea atribuirii în folosinţă gratuită a unor spaţii în imobilul proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, B-dul Republicii nr. 2 – 4",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-10-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-137-din-data-29-10-2019.pdf",
+     "sha256": "6e7414ceb653bf4a4e922a1a636eded242918cde969d61388e76ddffd5b1c3cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-138-2019",
+   "path": "local/judet/prahova/2019/138",
+   "short": "HCJ Prahova nr. 138/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 138/2019 privind modificarea structurii organizatorice și a numărului de posturi pentru Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-10-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-138-din-data-29-10-2019.pdf",
+     "sha256": "938d9806943500ba216301f3af203c9fe0ef0f37196018d455c14b1562c65129"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-139-2019",
+   "path": "local/judet/prahova/2019/139",
+   "short": "HCJ Prahova nr. 139/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 139/2019 privind modificarea componenţei Comisiei Tehnice de Amenajarea Teritoriului şi Urbanism a judeţului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-10-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-139-din-data-29-10-2019.pdf",
+     "sha256": "6a1f3896f8fd8ac2fe23ef92a498adf3b884edbbdb1bef769c7b77653c1896a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-140-2019",
+   "path": "local/judet/prahova/2019/140",
+   "short": "HCJ Prahova nr. 140/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 140/2019 privind aprobarea cotizaţiei Judeţului Prahova, în calitate de membru al Asociaţiei de Dezvoltare Intercomunitară „Parteneriatul pentru Managementul Deşeurilor- Prahova”, pentru anul 2019",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-10-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-140-din-data-29-10-2019.pdf",
+     "sha256": "f70842962bbb2cc506b012b378532124777bcfe993b7de18dd2ee01e461ad5b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-143-2019",
+   "path": "local/judet/prahova/2019/143",
+   "short": "HCJ Prahova nr. 143/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 143/2019 privind alocarea unei sume din bugetul județului Prahova pe anul 2019, în vederea finanțării activității de prevenire și combatere a corupției, ce urmează a fi realizată prin Direcţia Generală Anticorupţie",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-10-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-143-din-data-29-10-2019.pdf",
+     "sha256": "b89febfb5878ecd3306d0b2324f279335bb0eafded9ae05afdd94810af0a7651"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-144-2019",
+   "path": "local/judet/prahova/2019/144",
+   "short": "HCJ Prahova nr. 144/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 144/2019 privind modificarea unor prevederi din Hotărârea Consiliului judeţean Prahova nr.134/2016 privind desemnarea reprezentanților Consiliului județean Prahova în Adunarea Generală a Acționarilor la societățile la care acesta are calitatea de acționar",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-10-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-144-din-data-29-10-2019.pdf",
+     "sha256": "f9f332a8674b5154beb1b9ddc12b2d09e4a07abb1128ecaee1caf181e38cee5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-145-2019",
+   "path": "local/judet/prahova/2019/145",
+   "short": "HCJ Prahova nr. 145/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 145/2019 privind alocarea unei sume din bugetul județului Prahova pe anul 2019 în vederea realizării Studiului de Fezabilitate pentru investiția “Înființare rețea distribuție gaze naturale în comunele: Aluniș, Bertea, Cocorăștii Mislii, Cosminele, Dumbrăvești, Ștefești",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-10-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-145-din-data-29-10-2019.pdf",
+     "sha256": "9a64bae55253ba9586c52a71d0ac5e6195e836ed3f1839768cb91a8beb570414"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-147-2019",
+   "path": "local/judet/prahova/2019/147",
+   "short": "HCJ Prahova nr. 147/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 147/2019 privind rectificarea bugetului propriu al judeţului şi a bugetelor unor instituții de sub autoritatea Consiliului Județean Prahova pe anul 2019",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-11-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-147-din-data-18-11-2019.pdf",
+     "sha256": "ac2ec5a097c683b5ad9cea358a6af950e0bd6dbc2ffa95557b909ccd43e91a9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-148-2019",
+   "path": "local/judet/prahova/2019/148",
+   "short": "HCJ Prahova nr. 148/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 148/2019 pentru modificarea unor prevederi ale unor hotărâri ale Consiliului Județean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-11-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-148-din-data-18-11-2019.pdf",
+     "sha256": "3d45aa5183a365a55c4fede4e0b974feaf11e46892abf217e82bfe9f6d40372c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-149-2019",
+   "path": "local/judet/prahova/2019/149",
+   "short": "HCJ Prahova nr. 149/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 149/2019 privind solicitarea transmiterii unor imobile-terenuri din domeniul public al municipiului Ploiești în domeniul public al judeţului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-11-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-149-din-data-18-11-2019.pdf",
+     "sha256": "f7fb69eaa1d32b6f03e04f0a06f3d81ceaff72f53312374512baf4901acf93ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-15-2019",
+   "path": "local/judet/prahova/2019/15",
+   "short": "HCJ Prahova nr. 15/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 15/2019 privind aprobarea achiziţionării de servicii juridice de consultanţă, de asistenţă şi de reprezentare de către Societatea „Hidro Prahova” S.A",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-015-din-data-28-02-2019.pdf",
+     "sha256": "d5f12f75c6efafbda98a970ee36d34af27e21be4c3b45a4f89d8574acbac037d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-150-2019",
+   "path": "local/judet/prahova/2019/150",
+   "short": "HCJ Prahova nr. 150/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 150/2019 privind modificarea prevederilor unor hotărâri referitoare la darea în folosință gratuită a imobilului proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+   "versions": [
+    {
+     "from": "2019-11-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-150-din-data-18-11-2019.pdf",
+     "sha256": "f1c7ecd8751dfdf03da05ffee56f15033f99cac01fb9895a7a39c3c1b9d49cf5"
     }
    ]
   },
@@ -33,6 +618,36 @@
    ]
   },
   {
+   "slug": "hcj-prahova-153-2019",
+   "path": "local/judet/prahova/2019/153",
+   "short": "HCJ Prahova nr. 153/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 153/2019 privind modificarea a statului de funcții și a regulamentului de organizare şi funcţionare pentru Direcţia Judeţeană de Evidenţă a Persoanelor Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-11-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-153-din-data-18-11-2019.pdf",
+     "sha256": "94f55ba3e1f300df97e783b48a681d1850db8b2904d609f7aa85c14a9d881f1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-154-2019",
+   "path": "local/judet/prahova/2019/154",
+   "short": "HCJ Prahova nr. 154/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 154/2019 privind actualizarea Programului județean de transport",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-11-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-154-din-data-18-11-2019.pdf",
+     "sha256": "3ef2670f49dea2719c5beb8a39d29952364bb0f7f902b9b5a41a1ad5e91f5247"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-155-2019",
    "path": "local/judet/prahova/2019/155",
    "short": "HCJ Prahova nr. 155/2019",
@@ -44,6 +659,126 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-155-din-data-18-11-2019.pdf",
      "sha256": "b0e74ff4fcf097eba0e3e680d0e2d24f9531a8abdb4d0e55c70bd03acf9f5746"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-156-2019",
+   "path": "local/judet/prahova/2019/156",
+   "short": "HCJ Prahova nr. 156/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 156/2019 privind solicitarea transmiterii terenului cu numărul cadastral 29001 din domeniul public al comunei Blejoi în domeniul public al judeţului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-11-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-156-din-data-18-11-2019.pdf",
+     "sha256": "42da97b83f11bbc966f4ca87f2b4feb0e09a0284f072bc4a6a7a5eb9448b50f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-157-2019",
+   "path": "local/judet/prahova/2019/157",
+   "short": "HCJ Prahova nr. 157/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 157/2019 privind asocierea judeţului Prahova cu localităţi din judeţ, precum şi alocarea unor sume din bugetul judeţului Prahova pe anul 2019 în vederea realizării unor obiective de interes public",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-157-din-data-16-12-2019.pdf",
+     "sha256": "af1b75107ca89929d07249b3cf62ad23ec41b3f83b6bbe36697901788dc71e81"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-159-2019",
+   "path": "local/judet/prahova/2019/159",
+   "short": "HCJ Prahova nr. 159/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 159/2019 privind aprobarea Planului de investiții pe anul 2020 aferent activelor date în administrare/concesiune pentru Sistemul de Management Integrat al Deșeurilor din județul Prahova din Fondul de întreținere, înlocuire și dezvoltare",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-159-din-data-16-12-2019.pdf",
+     "sha256": "10972c63b3928a1c039ab0b3ac7506cd753ba71d012ad8c620afbac409279930"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-16-2019",
+   "path": "local/judet/prahova/2019/16",
+   "short": "HCJ Prahova nr. 16/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 16/2019 privind modificarea organigramei și a statului de funcţii pentru Spitalul Județean de Urgență Ploieşti",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-016-din-data-28-02-2019.pdf",
+     "sha256": "b86451a8f3cf9f0f7ed5bc8c17b2562ee5c0f80ece06d61264a0a6d46abe755a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-160-2019",
+   "path": "local/judet/prahova/2019/160",
+   "short": "HCJ Prahova nr. 160/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 160/2019 privind aprobarea unor măsuri pentru derularea Contractului de servicii nr. 2219/COM/E/510/17.11.2016 “Delegarea prin concesiune a activității de colectare, transport și transfer a Deșeurilor Municipale în Zona 1 – Bușteni”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-160-din-data-16-12-2019.pdf",
+     "sha256": "56238eeac768fd7d4c293375fb9179fa3236d1ca6c1b45720d5af83786a34c6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-162-2019",
+   "path": "local/judet/prahova/2019/162",
+   "short": "HCJ Prahova nr. 162/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 162/2019 privind prelungirea termenelor contractelor de închiriere a unor spaţii în imobilul proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, B-dul Republicii nr. 2 – 4",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-162-din-data-16-12-2019.pdf",
+     "sha256": "18db562f16633813a634d137bc98be42ee0527339b5a4434c62cb544948253fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-163-2019",
+   "path": "local/judet/prahova/2019/163",
+   "short": "HCJ Prahova nr. 163/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 163/2019 privind prelungirea termenului de închiriere a unui spațiu în imobilul proprietate publică a Județului Prahova, situat în Municipiul Ploiești, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-163-din-data-16-12-2019.pdf",
+     "sha256": "6a6474f2e70c65f88513cc5536cbf89223a4f017d6f7e1c7e24c4e51e959ad29"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-164-2019",
+   "path": "local/judet/prahova/2019/164",
+   "short": "HCJ Prahova nr. 164/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 164/2019 privind introducerea în domeniul public al județului Prahova a terenului în suprafaţă de 624 mp, situat în municipiul Ploieşti, Tarla 13, Parcela NDS 211, 212, 213",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-164-din-data-16-12-2019.pdf",
+     "sha256": "cb4c79008bd98eeed3566b81bcca8027c03d04a55ddcd4552e1f9d6c3ca18c5c"
     }
    ]
   },
@@ -74,6 +809,81 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-167-din-data-16-12-2019.pdf",
      "sha256": "da5c87bbe8ba081fc7fbfda05ed28e5b5d030920157ce534744bef88bd7034ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-169-2019",
+   "path": "local/judet/prahova/2019/169",
+   "short": "HCJ Prahova nr. 169/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 169/2019 privind îndreptarea erorii materiale din cuprinsul Hotărârii Consiliului Județean Prahova nr. 54/23.05.2019 referitoare la aprobarea Ghidului solicitantului privind regimul finanțărilor nerambursabile din fondurile bugetului Județului Prahova alocate pentru activități nonprofit de interes județean pe anul 2019",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-169-din-data-16-12-2019.pdf",
+     "sha256": "90a3868d649b704ea9d804546a2da20c49beb432dcd5aab9b6a853d1d2b68e5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-17-2019",
+   "path": "local/judet/prahova/2019/17",
+   "short": "HCJ Prahova nr. 17/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 17/2019 privind aprobarea costului mediu lunar de întreținere a asistaților din Complexul de Servicii Comunitare Puchenii Mari- Centrul Rezidențial de Asistență și Reintegrare Socială pentru Persoane fără Adăpost Puchenii Mari",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-017-din-data-28-02-2019.pdf",
+     "sha256": "1b38e03638e17dcb2848cef945a4786007ad03198af0dadc435b67aa5c0b1b35"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-172-2019",
+   "path": "local/judet/prahova/2019/172",
+   "short": "HCJ Prahova nr. 172/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 172/2019 privind modificarea organigramei și a statului de funcții pentru aparatul propriu și aprobarea regulamentelor de organizare și funcționare pentru aparatul propriu al direcției și pentru unitățile de asistență socială pentru copii și unitățile de asistență social",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-172-din-data-16-12-2019.pdf",
+     "sha256": "db7a17591432ff26073b1c09bd217327aca5bda031794003e0dc53991eeb3f57"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-173-2019",
+   "path": "local/judet/prahova/2019/173",
+   "short": "HCJ Prahova nr. 173/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 173/2019 privind modificarea statului de funcţii pentru Spitalul Județean de Urgență Ploieşti",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-173-din-data-16-12-2019.pdf",
+     "sha256": "42506020f812d6f0e9257f7e4b0b4fecc4dc6ccfe7e69561741816a0f6110e06"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-174-2019",
+   "path": "local/judet/prahova/2019/174",
+   "short": "HCJ Prahova nr. 174/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 174/2019 privind modificarea statului de funcţii pentru Spitalul de Obstetrică Ginecologie Ploieşti",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-174-din-data-16-12-2019.pdf",
+     "sha256": "22899f3dfc602c1887bf84ea61b351d031228b21bbf9276e1f1fd5adf4981788"
     }
    ]
   },
@@ -153,6 +963,21 @@
    ]
   },
   {
+   "slug": "hcj-prahova-18-2019",
+   "path": "local/judet/prahova/2019/18",
+   "short": "HCJ Prahova nr. 18/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 18/2019 privind repartizarea pe unităţi administrativ- teritoriale a sumelor defalcate din unele venituri ale bugetului de stat pe anul 2019",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-03-22",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-018-din-data-22-03-2019.pdf",
+     "sha256": "fccddcdaedc70556bd1e4f7389c3115aee57bc33e6bc39a66a4c2fde4b1a64a0"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-180-2019",
    "path": "local/judet/prahova/2019/180",
    "short": "HCJ Prahova nr. 180/2019",
@@ -168,6 +993,786 @@
    ]
   },
   {
+   "slug": "hcj-prahova-19-2019",
+   "path": "local/judet/prahova/2019/19",
+   "short": "HCJ Prahova nr. 19/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 19/2019 privind actualizarea valorilor de inventar ale unor bunuri aflate în domeniul public al Judeţului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-03-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-019-din-data-30-03-2019.pdf",
+     "sha256": "6a05f2374c96e551053bc12e569276f482442f60de7432cc1e27c4b222afe8a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-22-2019",
+   "path": "local/judet/prahova/2019/22",
+   "short": "HCJ Prahova nr. 22/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 22/2019 privind atribuirea în folosință gratuită a unor spații Agenției Naționale pentru Arii Naturale Protejate, în imobilul proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, B-dul Republicii nr. 2 – 4",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-03-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-022-din-data-30-03-2019.pdf",
+     "sha256": "4d639a96de6abf1dfb37e8c91428bd47e94a37079b049fe4df43284140e0ee9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-23-2019",
+   "path": "local/judet/prahova/2019/23",
+   "short": "HCJ Prahova nr. 23/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 23/2019 privind atribuirea în folosință gratuită a unor spații Alianței Franceze Ploiești, în imobilul proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, B-dul Republicii nr. 2 – 4",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-03-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-023-din-data-30-03-2019.pdf",
+     "sha256": "d7a2c4abe1c9bb41d79ecde979d940367e0e4d20d7a592d6c65db591b5fc72aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-24-2019",
+   "path": "local/judet/prahova/2019/24",
+   "short": "HCJ Prahova nr. 24/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 24/2019 privind aprobarea indicatorilor tehnico-economici actualizați aferenți obiectivului de investiţii „Construire clădire Școala Gimnazială Specială nr.1 Ploiești” –rest de executat",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-03-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-024-din-data-30-03-2019.pdf",
+     "sha256": "1a4225a38122086ea390e49420ef58648480f035825f0230f116e1b4c07d4625"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-25-2019",
+   "path": "local/judet/prahova/2019/25",
+   "short": "HCJ Prahova nr. 25/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 25/2019 privind modificarea organigramei și a statului de funcții pentru Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-03-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-025-din-data-30-03-2019.pdf",
+     "sha256": "eb7aad92df273afebd037f5f8ad58f920a18c4a8a121afab0bbb4cfea0d83de1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-27-2019",
+   "path": "local/judet/prahova/2019/27",
+   "short": "HCJ Prahova nr. 27/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 27/2019 privind aprobarea structurii și cuantumul indemnizațiilor de periculozitate acordate membrilor Serviciului Public Județean Salvamont Prahova, pentru participarea la activități de patrulare și de salvare în munți",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-03-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-027-din-data-30-03-2019.pdf",
+     "sha256": "291f99c73c71774df893298730d90bb50a3ae0a9eb70c8b9aebcda80b6046b83"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-28-2019",
+   "path": "local/judet/prahova/2019/28",
+   "short": "HCJ Prahova nr. 28/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 28/2019 privind modificarea Hotărârii Consiliului Județean Prahova nr.9/30.01.2019 privind atribuirea unor licențe de traseu pentru efectuarea transportului public județean de persoane prin curse regulate cuprinse în Programul județean de transport persoane prin curse regulate efectuate cu autobuze pentru perioada",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-03-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-028-din-data-30-03-2019.pdf",
+     "sha256": "04a5ef869fd5911b73f6b1b5d27099ebdb123e5cdbe093666c89d645908d6f81"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-29-2019",
+   "path": "local/judet/prahova/2019/29",
+   "short": "HCJ Prahova nr. 29/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 29/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-029-din-data-30-03-2019.pdf",
+     "sha256": "2d16afe2843a687c528dec08f4fe6d9d2a87a20350e18a67589ccbd42d6e21dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-3-2019",
+   "path": "local/judet/prahova/2019/3",
+   "short": "HCJ Prahova nr. 3/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 3/2019 privind modificarea statului de funcţii pentru Direcţia Judeţeană de Protecţia Plantelor şi de Întreţinere a Drumurilor Judeţene Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-003-din-data-30-01-2019.pdf",
+     "sha256": "99133a9a382c51010b71b5a2ea302756776d1697b95a4547c8721faf98c330a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-30-2019",
+   "path": "local/judet/prahova/2019/30",
+   "short": "HCJ Prahova nr. 30/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 30/2019 pentru modificarea Hotărârii nr.18 / 2019 privind repartizarea pe unități administrativ- teritoriale a sumelor defalcate din unele venituri ale bugetului de stat pe anul 2019",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-03-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-030-din-data-30-03-2019.pdf",
+     "sha256": "b4eb22479bf1d976bbc9adb9ec89060d2a0523cb38a650fee7b62053266a8691"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-31-2019",
+   "path": "local/judet/prahova/2019/31",
+   "short": "HCJ Prahova nr. 31/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 31/2019 privind aprobarea unor măsuri necesare asigurării continuității serviciului public de alimentare cu energie termică în Municipiul Ploiești",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=5",
+   "versions": [
+    {
+     "from": "2019-04-10",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-031-din-data-10-04-2019.pdf",
+     "sha256": "f143a0f839d707cfc093f7a9d121758638461c891c8e7225c9525441008a0f84"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-32-2019",
+   "path": "local/judet/prahova/2019/32",
+   "short": "HCJ Prahova nr. 32/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 32/2019 privind aprobarea execuţiei bugetului propriu al judeţului precum şi a bugetelor instituţiilor de sub autoritatea Consiliului Judeţean Prahova pe trimestrul I – 2019",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=5",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-32-din-data-19-04-2019.pdf",
+     "sha256": "e1975535fb1625217b480784920286636c81b0f87bed2a2810d231058274372b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-34-2019",
+   "path": "local/judet/prahova/2019/34",
+   "short": "HCJ Prahova nr. 34/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 34/2019 pentru modificarea şi completarea Hotărârii Consiliului Judeţean Prahova nr.5/2018 privind completarea anexei la Hotărârea Consiliului Judeţean Prahova nr.27/2001 privind inventarul bunurilor care aparţin domeniului public al judeţului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=5",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-34-din-data-19-04-2019.pdf",
+     "sha256": "91afba012542ecb5ac1ddfc4c1a7ae2e344523d075d454d81bedc4b4c8c10840"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-36-2019",
+   "path": "local/judet/prahova/2019/36",
+   "short": "HCJ Prahova nr. 36/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 36/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-36-din-data-19-04-2019.pdf",
+     "sha256": "20d4b3113753dd3f4160971943e9302713b909f759c9e5a2122b5b4f5753bcd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-37-2019",
+   "path": "local/judet/prahova/2019/37",
+   "short": "HCJ Prahova nr. 37/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 37/2019 privind modificarea organigramei şi a statului de funcţii pentru aparatul de specialitate al Consiliului Judeţean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=5",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-37-din-data-19-04-2019.pdf",
+     "sha256": "fdebd357ac370b846075ff608136482d51fc7b16d0c2c97335536edc3b8c715f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-38-2019",
+   "path": "local/judet/prahova/2019/38",
+   "short": "HCJ Prahova nr. 38/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 38/2019 privind modificarea organigramei, a statului de funcţii și a regulamentului de organizare și funcționare pentru Biblioteca Judeţeană “ Nicolae Iorga ” Ploiești",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=5",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-38-din-data-19-04-2019.pdf",
+     "sha256": "de497ad8fade6037abb7085ba3c15a86056d63f5c4db09d8f38e973df0fe43b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-39-2019",
+   "path": "local/judet/prahova/2019/39",
+   "short": "HCJ Prahova nr. 39/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 39/2019 privind modificarea statului de funcţii pentru Muzeul Județean de Științele Naturii Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=5",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-39-din-data-19-04-2019.pdf",
+     "sha256": "7425ab926bd392c810c1e80b8dc84ed6171ae01739ec1b474dc4696e2276456b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-4-2019",
+   "path": "local/judet/prahova/2019/4",
+   "short": "HCJ Prahova nr. 4/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 4/2019 privind prelungirea termenului de închiriere a unui spaţiu în imobilul proprietate publică a judeţului Prahova, situat în municipiul Ploieşti, str",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-004-din-data-30-01-2019.pdf",
+     "sha256": "f79c1e4c91bdd088cb1fe86adaf83d4eb4728559463aba1e52ba221602d0c94c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-40-2019",
+   "path": "local/judet/prahova/2019/40",
+   "short": "HCJ Prahova nr. 40/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 40/2019 privind stabilirea indemnizației de ședință a membrilor Comisiei de Orientare Școlară și Profesională din cadrul Centrului Județean de Resurse și Asistență Educațională Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=5",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-40-din-data-19-04-2019.pdf",
+     "sha256": "c2a96776dd09b8e7836a4214799b08f32230902cb14ecfd463f35673f9a6b9b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-42-2019",
+   "path": "local/judet/prahova/2019/42",
+   "short": "HCJ Prahova nr. 42/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 42/2019 privind aprobarea costului mediu lunar de întreținere a asistaților din Complexul de Servicii Comunitare Fîntînele",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=5",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-42-din-data-19-04-2019.pdf",
+     "sha256": "a03ef716717a0efea9523460b05bbd5d1b93ff38238a1abd273516c62531e80a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-44-2019",
+   "path": "local/judet/prahova/2019/44",
+   "short": "HCJ Prahova nr. 44/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 44/2019 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2019 pentru Societatea Ploieşti Industrial Parc S.A",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=5",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-44-din-data-19-04-2019.pdf",
+     "sha256": "0bf2a427686f0df78053c2a6df8d1d9eb2d6a85f84e64e7f8b6bd17058c4c6b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-45-2019",
+   "path": "local/judet/prahova/2019/45",
+   "short": "HCJ Prahova nr. 45/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 45/2019 pentru aprobarea Planului de acțiune pentru anul 2019 privind serviciile sociale administrate și finanțate din bugetul județului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=5",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-45-din-data-19-04-2019.pdf",
+     "sha256": "cb93547ed662ea5bdad1fa9c4bdf6398478fb51ff0f573242a5a1cfd27c53823"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-46-2019",
+   "path": "local/judet/prahova/2019/46",
+   "short": "HCJ Prahova nr. 46/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 46/2019 privind aprobarea prelungirii Contractului de delegare prin concesiune a gestiunii serviciului public al Județului Prahova de alimentare cu energie termică produsă în mod centralizat în sistem producție-transport-distribuție al Municipiului Ploiești nr. 2776/5246",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=5",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-046-din-data-25-04-2019..pdf",
+     "sha256": "a6cbdb8f828cb6df392c68d4b3a0711318cd0041e5b73f2fe97156eadb8cac3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-47-2019",
+   "path": "local/judet/prahova/2019/47",
+   "short": "HCJ Prahova nr. 47/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 47/2019 privind validarea unui mandat de consilier județean",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=5",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-47-din-data-23-05-2019.pdf",
+     "sha256": "7f48885706f2448d020cacd28e94179b39ef6796dd904848aa0020441a5666d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-48-2019",
+   "path": "local/judet/prahova/2019/48",
+   "short": "HCJ Prahova nr. 48/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 48/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-48-din-data-23-05-2019.pdf",
+     "sha256": "e12b51be94be2eeda28eb878ec8652100574ec348a88f3c7ce066e363c03c1a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-49-2019",
+   "path": "local/judet/prahova/2019/49",
+   "short": "HCJ Prahova nr. 49/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 49/2019 privind aprobarea contului anual de execuţie a bugetului propriu al judeţului şi a bugetelor instituţiilor de sub autoritatea Consiliului Judeţean Prahova pe anul 2018",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=5",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-49-din-data-23-05-2019.pdf",
+     "sha256": "3831837dbcb1848937977ffcf3d965499fab27d00023240b14f6e69245f94c6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-5-2019",
+   "path": "local/judet/prahova/2019/5",
+   "short": "HCJ Prahova nr. 5/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 5/2019 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții „Consolidare DJ 234, punctul Fătu, km 3+900, comuna Chiojdeanca, județul Prahova”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-005-din-data-30-01-2019.pdf",
+     "sha256": "32a480df8d2a06a824524cc9f507411b7adfe217c2ef1f78c6c47fecc62bc72d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-51-2019",
+   "path": "local/judet/prahova/2019/51",
+   "short": "HCJ Prahova nr. 51/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 51/2019 privind completarea inventarului bunurilor care aparțin domeniului public al județului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=5",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-51-din-data-23-05-2019.pdf",
+     "sha256": "8d160aff227ccaa668f9a64c1a100fc85ed6f47f5ad804d08fd01fa751722a9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-52-2019",
+   "path": "local/judet/prahova/2019/52",
+   "short": "HCJ Prahova nr. 52/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 52/2019 privind introducerea în domeniul public al județului Prahova a terenului în suprafaţă de 41.171 mp, situat în municipiul Ploieşti, Tarla 13, Parcela CTD 194",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=5",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-52-din-data-23-05-2019.pdf",
+     "sha256": "98daaf429e2af60fb3588e42b9108b770240bd8c255327784795e8022a8bc5fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-53-2019",
+   "path": "local/judet/prahova/2019/53",
+   "short": "HCJ Prahova nr. 53/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 53/2019 privind aprobarea intervalului de desfăşurare a programului de deszăpezire în perioadele de iarnă 2019 – 2022 şi a încadrării drumurilor judeţene din judeţul Prahova pe niveluri de viabilitate şi de intervenţie pe perioada de iarnă",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=5",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-53-din-data-23-05-2019.pdf",
+     "sha256": "38469a094822c5b8cac341ac7300b40122d6089c859ec388e43696290be11ddf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-55-2019",
+   "path": "local/judet/prahova/2019/55",
+   "short": "HCJ Prahova nr. 55/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 55/2019 privind pregătirea și promovarea proiectului „Restructurarea/închiderea Centrului de plasament din cadrul Complexului de Servicii Comunitare Sinaia și înființarea de case de tip familial/apartamente și centre de zi pentru copii”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-55-din-data-23-05-2019-1.pdf",
+     "sha256": "d7f4cafa62aedbdc5c6a3b3830d5e61cba6146a9f265beacf80697cbff56acae"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-6-2019",
+   "path": "local/judet/prahova/2019/6",
+   "short": "HCJ Prahova nr. 6/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 6/2019 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții “Modernizare DJ 216 A, Ștefesti –Slanic, Km 3+360– Km 6+164 (2,804 km)”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-006-din-data-30-01-2019.pdf",
+     "sha256": "80bee1df809d3d4525da8905793769246ddc0a45b0762267d0414fd83d892d75"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-60-2019",
+   "path": "local/judet/prahova/2019/60",
+   "short": "HCJ Prahova nr. 60/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 60/2019 privind organizarea evenimentului Europrahova 2019 în Republica Cehă și Republica Slovacă în perioada 02-08 iunie 2019",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=5",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-60-din-data-23-05-2019.pdf",
+     "sha256": "355c353a5cc0457100f1f653f22c40b34bc4758538da8bf2a265a2bd979c4599"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-61-2019",
+   "path": "local/judet/prahova/2019/61",
+   "short": "HCJ Prahova nr. 61/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 61/2019 privind aprobarea cotizaţiei judeţului Prahova, în calitate de membru al Uniunii Naţionale a Consiliilor Judeţene din România(UNCJR), aferentă anului 2019",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-61-din-data-23-05-2019.pdf",
+     "sha256": "45edae9ed27c39ea2694894b0175500d4061920252d3b222d7e22da49a159b36"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-62-2019",
+   "path": "local/judet/prahova/2019/62",
+   "short": "HCJ Prahova nr. 62/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 62/2019 privind aprobarea cotizaţiei judeţului Prahova, în calitate de membru al Adunării Regiunilor Europene (ARE), aferentă anului 2019",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-62-din-data-23-05-2019.pdf",
+     "sha256": "8cc5f13c2c2eb2c78eae587ee3d477e334fd9e19683ba1cd24a5206f28653f4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-64-2019",
+   "path": "local/judet/prahova/2019/64",
+   "short": "HCJ Prahova nr. 64/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 64/2019 privind aprobarea contribuţiei anuale a Consiliului Judeţean Prahova la bugetul Agenţiei pentru Dezvoltare Regională Sud Muntenia",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-64-din-data-23-05-2019.pdf",
+     "sha256": "f9f4d350b827a997f9f0498c77f6df3bdf1ba2a4f05ccb7dae8545da84c09827"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-67-2019",
+   "path": "local/judet/prahova/2019/67",
+   "short": "HCJ Prahova nr. 67/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 67/2019 privind modificarea organigramei și a statului de funcţii pentru Direcţia Judeţeană de Pază Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-67-din-data-23-05-2019.pdf",
+     "sha256": "466b2a51a2e47cc06a4cdd84c9ad3ca5ae4bc1c8dc6d45ebbbefb530e9006689"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-68-2019",
+   "path": "local/judet/prahova/2019/68",
+   "short": "HCJ Prahova nr. 68/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 68/2019 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2019 pentru Societatea Plopeni Industrial Parc S.A",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-68-din-data-23-05-2019.pdf",
+     "sha256": "a447c204529606f04d3a8ae9268fdd40d4f575d4b4d35a78db530b96374814b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-69-2019",
+   "path": "local/judet/prahova/2019/69",
+   "short": "HCJ Prahova nr. 69/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 69/2019 privind validarea unui mandat de consilier județean",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-69-din-data-27-06-2019.pdf",
+     "sha256": "bcbadca1f1452b4fa5f207214f5fd7292d6a7a9eef976e6c84459ad485ce06de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-70-2019",
+   "path": "local/judet/prahova/2019/70",
+   "short": "HCJ Prahova nr. 70/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 70/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-70-din-data-27-06-2019.pdf",
+     "sha256": "f754ac1f3fd7cf9ac484bab199cc233c8d97e0068af4539e51555a2eb74134d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-71-2019",
+   "path": "local/judet/prahova/2019/71",
+   "short": "HCJ Prahova nr. 71/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 71/2019 pentru aprobarea unor măsuri privitoare la componența Consiliului de Administrație al Spitalului Obstetrică Ginecologie Ploiești",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-71-din-data-27-06-2019.pdf",
+     "sha256": "68d8e592df3f3267c6c5130cd007f4633eb18b85ef2088f4c0c6b295832fe962"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-73-2019",
+   "path": "local/judet/prahova/2019/73",
+   "short": "HCJ Prahova nr. 73/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 73/2019 privind actualizarea Monografiei economico-militare a județului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-73-din-data-27-06-2019.pdf",
+     "sha256": "ffbe908baa61acbd373e8533be77056b88c9a5bdcdc8d77fbd472db249ae17de"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-74-2019",
+   "path": "local/judet/prahova/2019/74",
+   "short": "HCJ Prahova nr. 74/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 74/2019 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2019 pentru Societatea Brazi Industrial Parc S.A",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-74-din-data-27-06-2019.pdf",
+     "sha256": "1b291618633e7fd5d756a343b7fe7e0b3b1b34cad4744165aba302d4b6b14511"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-79-2019",
+   "path": "local/judet/prahova/2019/79",
+   "short": "HCJ Prahova nr. 79/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 79/2019 privind modificarea organigramei și a statului de funcții pentru Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-79-din-data-27-06-2019.pdf",
+     "sha256": "0a7c18a37b940a4ac152a3813cec659af04b11a52da34a0d03e3aeec982c7968"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-8-2019",
+   "path": "local/judet/prahova/2019/8",
+   "short": "HCJ Prahova nr. 8/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 8/2019 privind acceptarea ofertei de donație formulată de către S.C",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=6",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-008-din-data-30-01-2019.pdf",
+     "sha256": "b73ac3191456eea69ba1f7e3b262e59d63986026a808ff56825a780967a7edad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-80-2019",
+   "path": "local/judet/prahova/2019/80",
+   "short": "HCJ Prahova nr. 80/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 80/2019 privind acordul de principiu pentru înființarea unui Club Sportiv",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-80-din-data-27-06-2019.pdf",
+     "sha256": "0c9851b8d3c957ac9180b68d21e0d2081d48e808283a2705935e41d8c9d228e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-81-2019",
+   "path": "local/judet/prahova/2019/81",
+   "short": "HCJ Prahova nr. 81/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 81/2019 privind modificarea prevederilor Hotărârii nr. 144/2016 a Consiliului judeţean Prahova privind validarea componenţei nominale a Autorităţii Teritoriale de Ordine Publică Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-81-din-data-27-06-2019.pdf",
+     "sha256": "d6656231b8042e84d6cd002cf53a3a10aa745ca389bb071e05aae6a5497aca1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-84-2019",
+   "path": "local/judet/prahova/2019/84",
+   "short": "HCJ Prahova nr. 84/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 84/2019 privind asocierea judeţului Prahova cu localităţi din judeţ, precum şi alocarea unor sume din bugetul judeţului Prahova pe anul 2019 în vederea realizării unor obiective de interes public",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-07-05",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-84-din-data-05-07-2019.pdf",
+     "sha256": "9da10ced870c117a8a1c1835cf99083e910773436fcb2e1a641ea4b78feb8b1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-85-2019",
+   "path": "local/judet/prahova/2019/85",
+   "short": "HCJ Prahova nr. 85/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 85/2019 privind modificarea organigramei şi a statului de funcţii pentru aparatul de specialitate al Consiliului Judeţean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-07-05",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-85-din-data-05-07-2019.pdf",
+     "sha256": "2175469a12beb8aaea38bf86ba620afa095eb75aaffb5a612c1b9ef0ba65096d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-86-2019",
+   "path": "local/judet/prahova/2019/86",
+   "short": "HCJ Prahova nr. 86/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 86/2019 privind aprobarea execuţiei bugetului propriu al judeţului precum şi a bugetelor instituţiilor de sub autoritatea Consiliului Judeţean Prahova pe semestrul I – 2019",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-07-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-86-din-data-17-07-2019.pdf",
+     "sha256": "f044f3a653f7f041d9c90e5454ca434ad95fde050380e00ad72f18a2149d2b15"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-87-2019",
+   "path": "local/judet/prahova/2019/87",
+   "short": "HCJ Prahova nr. 87/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 87/2019 privind înființarea Clubului Sportiv “ACTIV PRAHOVA – PLOIEȘTI ”, instituție publică aflată în subordinea Consiliului Județean Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-07-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-87-din-data-17-07-2019.pdf",
+     "sha256": "60ef2574d2fa86b8c7331714bd35ab9fd32c4556244c9c1c329442cc1f407338"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-88-2019",
+   "path": "local/judet/prahova/2019/88",
+   "short": "HCJ Prahova nr. 88/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 88/2019 privind numirea directorului interimar al Clubului Sportiv „ACTIV PRAHOVA - PLOIEŞTI”",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=4",
+   "versions": [
+    {
+     "from": "2019-07-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-88-din-data-17-07-2019.pdf",
+     "sha256": "9af41d91b6c6eea2ab87459c5b14bddb3adf3e786c0cdb3809f86bd8742830d8"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-89-2019",
    "path": "local/judet/prahova/2019/89",
    "short": "HCJ Prahova nr. 89/2019",
@@ -179,6 +1784,81 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-89-din-data-17-07-2019.pdf",
      "sha256": "523e020beadbac898a2f9471a63ba4e21bc93a8955e852320048b7a54733635d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-90-2019",
+   "path": "local/judet/prahova/2019/90",
+   "short": "HCJ Prahova nr. 90/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 90/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-07-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-90-din-data-17-07-2019.pdf",
+     "sha256": "3d0f3cad01dd25e6884ca5decc75691fca1a1ce0533508376ccc672cd54b33b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-91-2019",
+   "path": "local/judet/prahova/2019/91",
+   "short": "HCJ Prahova nr. 91/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 91/2019 privind modificarea statului de funcţii pentru Serviciul Public Județean Salvamont Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-07-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-91-din-data-17-07-2019.pdf",
+     "sha256": "fc9d05aa6df559ebc21edd7f918269c88cc613ee845d59756d1306f3ec418710"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-92-2019",
+   "path": "local/judet/prahova/2019/92",
+   "short": "HCJ Prahova nr. 92/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 92/2019 privind modificarea organigramei și a statului de funcții și aprobarea regulamentului de organizare şi funcţionare pentru Direcţia Judeţeană de Evidenţă a Persoanelor Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-07-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-92-din-data-17-07-2019.pdf",
+     "sha256": "95e33aaff57d2c9abc6b41dea8e8d90a9dfc386037a29642b27f839769b568b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-96-2019",
+   "path": "local/judet/prahova/2019/96",
+   "short": "HCJ Prahova nr. 96/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 96/2019 pentru modificarea Planului de acțiune pentru anul 2019 privind serviciile sociale administrate și finanțate din bugetul județului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-96-din-data-26-07-2019.pdf",
+     "sha256": "80a989b47bd647857e0bc50996d040eb00b4eb1ccf0caf1f1e47850c6f1e7af0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-97-2019",
+   "path": "local/judet/prahova/2019/97",
+   "short": "HCJ Prahova nr. 97/2019",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 97/2019 privind solicitarea transmiterii unui teren în suprafață de 425 mp din domeniul public al municipiului Ploiești în domeniul public al judeţului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=3",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-97-din-data-26-07-2019.pdf",
+     "sha256": "3a8346147ecdaeee2b23a6f70139e87f4580d6930d6dc5f19c1e45cf05465e7f"
     }
    ]
   },
