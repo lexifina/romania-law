@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12401 acts, 23,915 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12402 acts, 23,916 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8325, of which 3123 amending acts)
+## Laws (legi) (8326, of which 3124 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -741,6 +741,7 @@
 | Legea nr. 44/2000 | [`lege/2000/44/`](lege/2000/44/) | in force | 1 | 2000-04-18 | 2000-04-18 |
 | Legea nr. 47/2000 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 135/1999 pentru rectificarea bugetului de stat pe anul 1999 | [`lege/2000/47/`](lege/2000/47/) | amended, not consolidated | 1 | 2000-04-18 | 2000-04-18 |
 | Legea nr. 48/2000 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 180/1999 pentru modificarea Legii bugetului de stat pe anul 1999 nr. 36/1999 | [`lege/2000/48/`](lege/2000/48/) | amended, not consolidated | 1 | 2000-04-18 | 2000-04-18 |
+| Legea nr. 50/2000 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 199/1999 cu privire la rectificarea bugetului de stat pe anul 1999 | [`lege/2000/50/`](lege/2000/50/) | amending act | 1 | 2000-04-18 | 2000-04-18 |
 | Legea nr. 51/2000 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 200/1999 privind rectificarea bugetului asigurărilor sociale de stat pe anul 1999 | [`lege/2000/51/`](lege/2000/51/) | amended, not consolidated | 1 | 2000-04-18 | 2000-04-18 |
 | Legea nr. 52/2000 privind aprobarea Ordonanţei Guvernului nr. 66/1999 pentru aderarea României la Convenţia cu privire la suprimarea cerinţei supralegalizării actelor oficiale străine, adoptată la Haga la 5 octombrie 1961 | [`lege/2000/52/`](lege/2000/52/) | amended, not consolidated | 1 | 2000-04-20 | 2000-04-20 |
 | Legea nr. 54/2000 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 153/1999 privind autorizarea Ministerului Finanţelor de a garanta un împrumut extern în valoare de 50 milioane mărci germane pentru Banca de Export-Import a României (EXIMBANK) - S.A., acordat de către Kreditanstalt fur Wiederaufbau pentru realizarea programului de dezvoltare a întreprinderilor mici şi mijlocii cu capital majoritar românesc | [`lege/2000/54/`](lege/2000/54/) | amending act | 1 | 2000-04-21 | 2000-04-21 |
@@ -12467,7 +12468,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 27816 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 27847 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 16510 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 724 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 554 | [`data/acts/regulament/`](data/acts/regulament/) |

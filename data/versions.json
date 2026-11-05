@@ -172730,6 +172730,21 @@
    ]
   },
   {
+   "slug": "legea-50-2000",
+   "path": "lege/2000/50",
+   "short": "Legea nr. 50/2000",
+   "title": "Legea nr. 50/2000 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 199/1999 cu privire la rectificarea bugetului de stat pe anul 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21891",
+   "versions": [
+    {
+     "from": "2000-04-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21891",
+     "sha256": "0c4e52cafa88f8dcba273e06ae6f4456ca4b479fb598d851a709e365e727d911"
+    }
+   ]
+  },
+  {
    "slug": "legea-50-2001",
    "path": "lege/2001/50",
    "short": "Legea nr. 50/2001",

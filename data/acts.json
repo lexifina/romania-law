@@ -11987,6 +11987,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/21887"
 },
 {
+"slug": "legea-50-2000",
+"path": "lege/2000/50",
+"kind": "lege",
+"year": "2000",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 50/2000 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 199/1999 cu privire la rectificarea bugetului de stat pe anul 1999",
+"short": "Legea nr. 50/2000",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2000-04-18",
+"latest": "2000-04-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/21891"
+},
+{
 "slug": "legea-51-2000",
 "path": "lege/2000/51",
 "kind": "lege",
