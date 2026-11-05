@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "curtea-de-conturi/2024",
+ "acts": [
+  {
+   "slug": "curtea-de-conturi-hotarare-plen-330-2024",
+   "path": "curtea-de-conturi/hotarare-plen/2024/330",
+   "short": "Hotărârea Curtea de Conturi nr. 330/2024",
+   "title": "HOTĂRÂRE nr. 330 din 11 aprilie 2024 privind aprobarea criteriilor de majorare a salariilor pentru personalul din cadrul Curţii de Conturi, cu excepţia personalului din cadrul Autorităţii de Audit, conform prevederilor Legii nr. 490/2004 privind stimularea financiară a personalului care gestionează fonduri comunitare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/282011",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/282011",
+     "sha256": "4829df9dafb547cfc72e599c497663a6d9499d0462c61da1c0663cd13791cb33"
+    }
+   ]
+  }
+ ]
+}

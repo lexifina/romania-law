@@ -1,0 +1,143 @@
+{
+"country": "RO",
+"shard": "hotarare-aep/2012",
+"acts": [
+{
+"slug": "hotarare-aep-2-2012",
+"path": "hotarare-aep/2012/2",
+"kind": "hotarare-aep",
+"year": "2012",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Autorității Electorale Permanente nr. 2 din 2012-02-16",
+"short": "Hotărârea AEP nr. 2/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-02-27",
+"latest": "2012-02-27",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/135735",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hotarare-aep-3-2012",
+"path": "hotarare-aep/2012/3",
+"kind": "hotarare-aep",
+"year": "2012",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 3 din 17 mai 2012 pentru aprobarea modelului certificatului doveditor al alegerii consilierilor, primarilor şi preşedinţilor consiliilor judeţene",
+"short": "Hotărârea AEP nr. 3/2012",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2012-05-22",
+"latest": "2012-05-22",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/138193"
+},
+{
+"slug": "hotarare-aep-5-2012",
+"path": "hotarare-aep/2012/5",
+"kind": "hotarare-aep",
+"year": "2012",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Autorității Electorale Permanente nr. 5 din 2012-07-21",
+"short": "Hotărârea AEP nr. 5/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-08-14",
+"latest": "2012-08-14",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/140505",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hotarare-aep-7-2012",
+"path": "hotarare-aep/2012/7",
+"kind": "hotarare-aep",
+"year": "2012",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Autorității Electorale Permanente nr. 7 din 2012-09-04",
+"short": "Hotărârea AEP nr. 7/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-09-05",
+"latest": "2012-09-05",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/141043",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hotarare-aep-9-2012",
+"path": "hotarare-aep/2012/9",
+"kind": "hotarare-aep",
+"year": "2012",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Autorității Electorale Permanente nr. 9 din 2012-09-19",
+"short": "Hotărârea AEP nr. 9/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-09-24",
+"latest": "2012-09-24",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/141472",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hotarare-aep-10-2012",
+"path": "hotarare-aep/2012/10",
+"kind": "hotarare-aep",
+"year": "2012",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Autorității Electorale Permanente nr. 10 din 2012-09-21",
+"short": "Hotărârea AEP nr. 10/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-09-24",
+"latest": "2012-09-24",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/141474",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hotarare-aep-11-2012",
+"path": "hotarare-aep/2012/11",
+"kind": "hotarare-aep",
+"year": "2012",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Autorității Electorale Permanente nr. 11 din 2012-11-19",
+"short": "Hotărârea AEP nr. 11/2012",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2012-11-22",
+"latest": "2012-11-22",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/143034",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

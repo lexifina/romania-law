@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "hotarare-aep/2021",
+ "acts": [
+  {
+   "slug": "hotarare-aep-2-2021",
+   "path": "hotarare-aep/2021/2",
+   "short": "Hotărârea AEP nr. 2/2021",
+   "title": "HOTĂRÂRE nr. 2 din 4 iunie 2021 privind aprobarea Ghidului finanţării campaniei electorale la alegerile locale parţiale din data de 27 iunie 2021",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/243135",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/243135",
+     "sha256": "3b32cec69dac9a4bceb0bd5432971e203733d5b914bdd33bef4a0093243adc7c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-5-2021",
+   "path": "hotarare-aep/2021/5",
+   "short": "Hotărârea AEP nr. 5/2021",
+   "title": "HOTĂRÂRE nr. 5 din 26 iulie 2021 pentru modificarea şi completarea Normelor metodologice privind funcţionarea Sistemului informatic de monitorizare a prezenţei la vot şi de prevenire a votului ilegal, selecţia, desemnarea şi atribuţiile operatorilor de calculator ai birourilor electorale ale secţiilor de votare, verificarea corelaţiilor din procesele-verbale de consemnare a rezultatelor votării, precum şi condiţiile de înregistrare audiovideo a operaţiunilor efectuate de către membrii birourilor electorale ale secţiilor de votare pentru numărarea voturilor, aprobate prin Hotărârea Autorităţii Electorale Permanente nr. 36/2019",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/245005",
+   "versions": [
+    {
+     "from": "2021-07-28",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/245005",
+     "sha256": "d307a99b04bef2d7e85403e7b3e35f4406688499412ec8d9255ef113ea930263"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-6-2021",
+   "path": "hotarare-aep/2021/6",
+   "short": "Hotărârea AEP nr. 6/2021",
+   "title": "HOTĂRÂRE nr. 6 din 16 august 2021 pentru aprobarea condiţiilor de tipărire a buletinelor de vot care vor fi utilizate la referendumul local din data de 26 septembrie 2021 din municipiul Buzău, judeţul Buzău",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/245394",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/245394",
+     "sha256": "a22be2d2bfab4b4e0985f4f477a5779030eb8789d7d9640c5f5a7c44a7cf9872"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-8-2021",
+   "path": "hotarare-aep/2021/8",
+   "short": "Hotărârea AEP nr. 8/2021",
+   "title": "HOTĂRÂRE nr. 8 din 24 august 2021 pentru aprobarea condiţiilor de tipărire a buletinelor de vot care vor fi utilizate la referendumul local din data de 12 septembrie 2021 din comuna Abrămuţ, judeţul Bihor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/245813",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/245813",
+     "sha256": "74f0753a7acb6ff1e5ad8ae9cd957f5619715587df27485ce3ef0ff17d1471d8"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-9-2021",
+   "path": "hotarare-aep/2021/9",
+   "short": "Hotărârea AEP nr. 9/2021",
+   "title": "HOTĂRÂRE nr. 9 din 9 septembrie 2021 pentru aprobarea condiţiilor de tipărire a buletinelor de vot care vor fi utilizate la referendumul local din data de 26 septembrie 2021 din municipiul Codlea, judeţul Braşov",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/246280",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/246280",
+     "sha256": "97bbde70c782d4eed07dd3e5052249808fe8009b2b432a1acbde39bbdadc1e11"
+    }
+   ]
+  }
+ ]
+}

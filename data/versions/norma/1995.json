@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "norma/1995",
+ "acts": [
+  {
+   "slug": "norma-bnr-10-1995",
+   "path": "norma/bnr/1995/10",
+   "short": "Norma bnr nr. 10/1995",
+   "title": "Norma nr. 10/1995 privind constituirea și utilizarea rezervei generale pentru riscul de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5735",
+   "versions": [
+    {
+     "from": "1995-08-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5735",
+     "sha256": "7ba458b464391f203a34939fec0a1610bac24c3cd3dd3f910736d02c73c84a4f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-11-1995",
+   "path": "norma/bnr/1995/11",
+   "short": "Norma bnr nr. 11/1995",
+   "title": "Norma nr. 11/1995 privind urmărirea operațiunilor bănci-clienți în cadrul Sistemului Informatic al Pieței Valutare Interbancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5746",
+   "versions": [
+    {
+     "from": "1995-08-15",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5746",
+     "sha256": "8af6b17df430c319465f5d9c16b55e78de6a15c8482a86fca35bbcadfc212141"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-14-1995",
+   "path": "norma/bnr/1995/14",
+   "short": "Norma bnr nr. 14/1995",
+   "title": "Norma nr. 14/1995 privind utilizarea provizioanelor specifice de risc de către societățile bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5777",
+   "versions": [
+    {
+     "from": "1995-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5777",
+     "sha256": "8d228d5e4316832f03b7296b359056cbd30971707927c4d475c347f8dfee90fa"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-17-1995",
+   "path": "norma/bnr/1995/17",
+   "short": "Norma bnr nr. 17/1995",
+   "title": "Norma nr. 17/1995 privind autorizarea și raportarea împrumuturilor și creditelor externe, fără garanția statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5807",
+   "versions": [
+    {
+     "from": "1995-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5807",
+     "sha256": "c59c7eb94b4167ff904228e045b2aa727fc21c18e930d2061853c7088c8dec25"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-18-1995",
+   "path": "norma/bnr/1995/18",
+   "short": "Norma bnr nr. 18/1995",
+   "title": "Norma nr. 18/1995 privind confecționarea, completarea și utilizarea Ordinului de plată pentru trezoreria statului pe suport hârtie (OPHT) în operațiuni de decontări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5817",
+   "versions": [
+    {
+     "from": "1996-05-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5817",
+     "sha256": "5c120e2be37589ebd105fadd6412cbacdaa42ce0a97917f3e2009084ca070748"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-4-1995",
+   "path": "norma/bnr/1995/4",
+   "short": "Norma bnr nr. 4/1995",
+   "title": "Norma nr. 4/1995 privind funcționarea pieței monetare interbancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5662",
+   "versions": [
+    {
+     "from": "1995-06-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5662",
+     "sha256": "4910e2307c4e74d9a2bcd504ab9d770474f64f9b4a9955e67ddcf92cda8b263b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-5-1995",
+   "path": "norma/bnr/1995/5",
+   "short": "Norma bnr nr. 5/1995",
+   "title": "Norma nr. 5/1995 privind capitalul minim al societăților bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5674",
+   "versions": [
+    {
+     "from": "1995-06-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5674",
+     "sha256": "a4e177296b0d39d9c85c189c0da69cea8df2674e49ed063c4fc1b85d7c67c770"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-9-1995",
+   "path": "norma/bnr/1995/9",
+   "short": "Norma bnr nr. 9/1995",
+   "title": "Norma nr. 9/1995 privind uniformizarea și informatizarea sistemului de raportare a societăților bancare către Banca Naționala a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5725",
+   "versions": [
+    {
+     "from": "1996-01-28",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5725",
+     "sha256": "d327fe8086b5a9212d250b48a35dde37466b2b32456d26baca194f84f85e9c95"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cnvm-1-1995",
+   "path": "norma/cnvm/1995/1",
+   "short": "Norma cnvm nr. 1/1995",
+   "title": "Norma nr. 1/1995 privind organizarea și susținerea testului în vederea obținerii calității de cenzor extern independent",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5625",
+   "versions": [
+    {
+     "from": "1995-08-18",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5625",
+     "sha256": "fc88ae457ccbc7bafe2fe5fe51d58efb6b3ea9b6e2ca33b29323d54d5d57b03b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-14681-1995",
+   "path": "norma/finante/1995/14681",
+   "short": "Norma finante nr. 14681/1995",
+   "title": "Norma nr. 14.681/1995 de aplicare a prevederilor Ordonanței Guvernului nr. 34/1995 privind unele măsuri de reducere și de reglementare unitară a majorărilor de întârziere pentru neplata la termen a sumelor datorate bugetului de stat, bugetului asigurărilor sociale de stat, bugetelor locale, bugetelor fondurilor speciale, precum și a primelor de asigurare prin efectul legii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7651",
+   "versions": [
+    {
+     "from": "1995-10-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7651",
+     "sha256": "9c490e8444e372ec4dad529fcb7d84802813083437b94d93a6dd36e4906dd573"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-180200-1995",
+   "path": "norma/finante/1995/180200",
+   "short": "Norma finante nr. 180200/1995",
+   "title": "Norma nr. 180.200/1995 privind aplicarea, în anul 1995, a prevederilor Legii nr. 15/1994, pentru mijloacele fixe reevaluate în conformitate cu reglementările aprobate prin Hotărârea Guvernului nr. 500/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7660",
+   "versions": [
+    {
+     "from": "1995-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7660",
+     "sha256": "79d80f5cd40cf1885a3a9b759d4e3341562015f0c25405f9ab37606ffc76cef3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-justitie-51169-1995",
+   "path": "norma/justitie/1995/51169",
+   "short": "Norma justitie nr. 51169/1995",
+   "title": "Norma nr. 51.169/1995 NORME METODOLOGICE Nr. 51.169 din 28 noiembrie 1995 pentru aplicarea Ordonanței Guvernului nr. 32/1995 privind timbrul judiciar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7658",
+   "versions": [
+    {
+     "from": "1996-01-22",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7658",
+     "sha256": "ccd3a85c394a36c8cce0f2d26c1fca9a4a636565acaf495a847dd3acea49b6a0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-3384-1995",
+   "path": "norma/munca/1995/3384",
+   "short": "Norma munca nr. 3384/1995",
+   "title": "Norma nr. 3.384/1995 privind încasarea, evidenta și modul de utilizare a sumelor încasate din comisionul de 1%, precum și restituirea sumelor suportate de la bugetul de stat în anul 1995, conform Hotărârii Guvernului nr. 738/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7640",
+   "versions": [
+    {
+     "from": "1996-01-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7640",
+     "sha256": "394b38a7e3b374e85fcc515e26d3125a4c73d91b693f4b57cefd755deda93117"
+    }
+   ]
+  }
+ ]
+}

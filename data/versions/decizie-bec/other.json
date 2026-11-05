@@ -1,0 +1,1116 @@
+{
+ "country": "RO",
+ "shard": "decizie-bec/other",
+ "acts": [
+  {
+   "slug": "decizie-bec-general-1-2",
+   "path": "decizie-bec/general/1-2",
+   "short": "Hotărârea BEC nr. 1/2007",
+   "title": "HOTĂRÂRE nr. 1 din 19 februarie 2007 privind regulamentul de organizare şi funcţionare a birourilor electorale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/79689",
+   "versions": [
+    {
+     "from": "2007-02-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/79689",
+     "sha256": "7f8d4f79515221980b7a25bc0f1f6d01f2bc0a199b602b139d75faecb6ad461f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-1-3",
+   "path": "decizie-bec/general/1-3",
+   "short": "Hotărârea BEC nr. 1/2009",
+   "title": "Hotărârea Biroului Electoral Central nr. 1 din 2009-10-05",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/111888",
+   "versions": [
+    {
+     "from": "2009-10-06",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/111888",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-1-4",
+   "path": "decizie-bec/general/1-4",
+   "short": "Hotărârea BEC nr. 1/2014",
+   "title": "HOTĂRÂRE nr. 1 din 9 septembrie 2014 privind aprobarea Regulamentului de organizare şi funcţionare a birourilor electorale constituite pentru alegerea Preşedintelui României din anul 2014 şi a aparatului de lucru al acestora",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/161371",
+   "versions": [
+    {
+     "from": "2014-09-17",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/161371",
+     "sha256": "ac29989a32a2cb5a6a0cf4fd265032bf3d0b1fba6af99824d8f3f3992f0cde5b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-1-h-2",
+   "path": "decizie-bec/general/1-h-2",
+   "short": "Hotărârea BEC nr. 1-h/2024",
+   "title": "HOTĂRÂRE nr. 1/H din 13 septembrie 2024 privind aprobarea Regulamentului de organizare şi funcţionare a birourilor electorale constituite pentru alegerea Preşedintelui României din anul 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/288345",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/288345",
+     "sha256": "8ecd055fba48ed8b53dcf4cfc26377364d10aa76ff312080be75817867ca03de"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-1-h-3",
+   "path": "decizie-bec/general/1-h-3",
+   "short": "Hotărârea BEC nr. 1-h/2025",
+   "title": "HOTĂRÂRE nr. 1/H din 22 februarie 2025 privind aprobarea Regulamentului de organizare şi funcţionare a birourilor electorale constituite pentru alegerea Preşedintelui României din anul 2025",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/294912",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/294912",
+     "sha256": "e6f6081358e19105cd15523b95e1fe657b2e9503998a56dbab073659742ab9bf"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-1-h",
+   "path": "decizie-bec/general/1-h",
+   "short": "Hotărârea BEC nr. 1-h/2019",
+   "title": "Hotărârea Biroului Electoral Central nr. 1-h din 2019-09-03",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/217651",
+   "versions": [
+    {
+     "from": "2019-09-04",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/217651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-1",
+   "path": "decizie-bec/general/1",
+   "short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 1/1998",
+   "title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 1 din 1998-10-03",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/15806",
+   "versions": [
+    {
+     "from": "1998-10-06",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/15806",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-100",
+   "path": "decizie-bec/general/100",
+   "short": "Hotărârea BEC nr. 100/2008",
+   "title": "HOTĂRÂRE nr. 100 din 26 mai 2008 pentru completarea art. 4 din Hotărârea Biroului Electoral Central nr. 75/2008 privind normele de completare, verificare şi circuitul proceselor-verbale întocmite la nivelul secţiilor de votare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/93481",
+   "versions": [
+    {
+     "from": "2008-05-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/93481",
+     "sha256": "04b4aa4f2de3f6ad81fdae8bc01b7c0c467fd079d570dabf63adc833440a8f9c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-137h",
+   "path": "decizie-bec/general/137h",
+   "short": "Hotărârea BEC nr. 137h/2024",
+   "title": "HOTĂRÂRE nr. 137H din 14 mai 2024 privind interpretarea prevederilor art. 79 şi 80 din Legea nr. 115/2015 , cu modificările şi completările ulterioare, precum şi ale art. 40 şi 41 din Legea nr. 33/2007, republicată , cu modificările şi completările ulterioare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/282719",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/282719",
+     "sha256": "c7bfeb400364686767249230f68d02288332aa863bf4b30e43feff0062cd9d7e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-15",
+   "path": "decizie-bec/general/15",
+   "short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 15/2005",
+   "title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 15 din 2005-03-13",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/59978",
+   "versions": [
+    {
+     "from": "2005-03-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/59978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-157",
+   "path": "decizie-bec/general/157",
+   "short": "Hotărârea BEC nr. 157/2004",
+   "title": "HOTĂRÂRE nr. 157 din 14 iunie 2004 privind stabilirea unor măsuri pentru funcţionarea birourilor electorale la cel de-al doilea tur de scrutin",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/52719",
+   "versions": [
+    {
+     "from": "2004-06-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/52719",
+     "sha256": "84fde5e0e5dcaf7944ef72f01a59aed6f44cbf0b01ed3d39d40f9200061c31a2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-17",
+   "path": "decizie-bec/general/17",
+   "short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 17/1998",
+   "title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 17 din 1998-11-02",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/16045",
+   "versions": [
+    {
+     "from": "1998-11-05",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/16045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-18",
+   "path": "decizie-bec/general/18",
+   "short": "Hotărârea BEC nr. 18/1996",
+   "title": "HOTĂRÂRE nr. 18 din 20 mai 1996 privind timpii de antenă pentru organizaţiile cetăţenilor aparţinând minorităţilor naţionale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/7968",
+   "versions": [
+    {
+     "from": "1996-05-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/7968",
+     "sha256": "8d5f1e5989f5680993b83bbcf307da531c509e59107009d32cec278323f835ab"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-2-2",
+   "path": "decizie-bec/general/2-2",
+   "short": "Hotărârea BEC nr. 2/2004",
+   "title": "Hotărârea Biroului Electoral Central nr. 2 din 2004-10-19",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/56052",
+   "versions": [
+    {
+     "from": "2004-10-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/56052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-2-3",
+   "path": "decizie-bec/general/2-3",
+   "short": "Hotărârea BEC nr. 2/2008",
+   "title": "Hotărârea Biroului Electoral Central nr. 2 din 2008-03-25",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/90982",
+   "versions": [
+    {
+     "from": "2008-04-02",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/90982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-2-4",
+   "path": "decizie-bec/general/2-4",
+   "short": "Hotărârea BEC nr. 2/2008",
+   "title": "Hotărârea Biroului Electoral Central nr. 2 din 2008-09-22",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/97574",
+   "versions": [
+    {
+     "from": "2008-09-24",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/97574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-2-5",
+   "path": "decizie-bec/general/2-5",
+   "short": "Hotărârea BEC nr. 2/2009",
+   "title": "Hotărârea Biroului Electoral Central nr. 2 din 2009-10-26",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/112776",
+   "versions": [
+    {
+     "from": "2009-10-28",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/112776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-2-6",
+   "path": "decizie-bec/general/2-6",
+   "short": "Hotărârea BEC nr. 2/2014",
+   "title": "HOTĂRÂRE nr. 2 din 11 septembrie 2014 privind interpretarea prevederilor art. 45 alin. (3) din Legea nr. 370/2004 pentru alegerea Preşedintelui României",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/161364",
+   "versions": [
+    {
+     "from": "2014-09-17",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/161364",
+     "sha256": "cb7a2b3d95f1aea7b76028cebee5792f260289a5080a83b301dea3e7923ce4d5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-2-h",
+   "path": "decizie-bec/general/2-h",
+   "short": "Hotărârea BEC nr. 2-h/2024",
+   "title": "HOTĂRÂRE nr. 2/H din 17 septembrie 2024 privind interpretarea prevederilor art. 18 alin. (2) şi art. 20 alin. (1) din Legea nr. 370/2004 pentru alegerea Preşedintelui României, republicată, cu modificările şi completările ulterioare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/288394",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/288394",
+     "sha256": "cb4c1fd465c67d324ab03d5681493d363f131b5ed01b4c4d3a67b24fa0847bce"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-2",
+   "path": "decizie-bec/general/2",
+   "short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 2/1998",
+   "title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 2 din 1998-10-07",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/15841",
+   "versions": [
+    {
+     "from": "1998-10-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/15841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-21",
+   "path": "decizie-bec/general/21",
+   "short": "Hotărârea BEC nr. 21/2007",
+   "title": "HOTĂRÂRE nr. 21 din 8 noiembrie 2007 privind constituirea birourilor electorale ale secţiilor de votare în teatrele de operaţiuni din Irak, Afganistan, Kosovo şi Bosnia şi Herzegovina şi procedura specifică de vot pentru efectivele militare din aceste teatre care se află în ziua votului în alte locaţii decât cele pentru care a fost aprobată organizarea de secţii de votare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/86864",
+   "versions": [
+    {
+     "from": "2007-11-13",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/86864",
+     "sha256": "c61200d48271cc860a05800705fa16b86efad49f60c14ec1a2ddbb37d4a8c2ee"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-218h",
+   "path": "decizie-bec/general/218h",
+   "short": "Hotărârea BEC nr. 218h/2024",
+   "title": "HOTĂRÂRE nr. 218H din 7 iunie 2024 privind interpretarea dispoziţiilor art. 18 alin. (4) şi art. 60 alin. (2) din Legea nr. 115/2015 , cu modificările şi completările ulterioare, şi ale art. 42 alin. (2) din Legea nr. 33/2007, republicată , cu modificările ulterioare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/283857",
+   "versions": [
+    {
+     "from": "2024-06-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/283857",
+     "sha256": "b4f7c70328445e14278c324fc183eb12da72fb2ff895cb0ddf1dabd2ba2f1ede"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-22",
+   "path": "decizie-bec/general/22",
+   "short": "Hotărârea BEC nr. 22/1996",
+   "title": "Hotărârea Biroului Electoral Central nr. 22 din 1996-05-28",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/8023",
+   "versions": [
+    {
+     "from": "1996-05-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/8023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-29",
+   "path": "decizie-bec/general/29",
+   "short": "Hotărârea BEC nr. 29/2008",
+   "title": "HOTĂRÂRE nr. 29 din 14 aprilie 2008 privind interpretarea unitară a unor prevederi referitoare la depunerea candidaturilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/91500",
+   "versions": [
+    {
+     "from": "2008-04-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/91500",
+     "sha256": "511dccb3913a14574afc89ff132d4c85f05b26bfc9983ef0192cf5161c56c7b2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-2h",
+   "path": "decizie-bec/general/2h",
+   "short": "Hotărârea BEC nr. 2h/2014",
+   "title": "HOTĂRÂRE nr. 2H din 10 martie 2014 privind interpretarea unor prevederi legale referitoare la ştampilele birourilor electorale şi la copiile de pe listele electorale permanente",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/156279",
+   "versions": [
+    {
+     "from": "2014-03-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/156279",
+     "sha256": "a86eb5baf501201195f2fd42ce20e720b3b7b9a998ef3dff768cf85d2dd0689c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-3-2",
+   "path": "decizie-bec/general/3-2",
+   "short": "Hotărârea BEC nr. 3/2004",
+   "title": "Hotărârea Biroului Electoral Central nr. 3 din 2004-10-19",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/56067",
+   "versions": [
+    {
+     "from": "2004-10-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/56067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-3-3",
+   "path": "decizie-bec/general/3-3",
+   "short": "Hotărârea BEC nr. 3/2008",
+   "title": "Hotărârea Biroului Electoral Central nr. 3 din 2008-03-25",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/90983",
+   "versions": [
+    {
+     "from": "2008-04-02",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/90983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-3-4",
+   "path": "decizie-bec/general/3-4",
+   "short": "Hotărârea BEC nr. 3/2010",
+   "title": "HOTĂRÂRE nr. 3 din 4 noiembrie 2010 privind interpretarea art. 29 alin. (10) din Legea nr. 35/2008 , cu modificările şi completările ulterioare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/123349",
+   "versions": [
+    {
+     "from": "2010-11-08",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/123349",
+     "sha256": "8758cff5daedb8c9fdf336020563bfc4cdcbea89775ad503e1b7c97e51be1e67"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-3-5",
+   "path": "decizie-bec/general/3-5",
+   "short": "Hotărârea BEC nr. 3/2014",
+   "title": "HOTĂRÂRE nr. 3 din 18 septembrie 2014 privind interpretarea prevederilor art. 18 alin. (3) şi art. 22 alin. (3) din Legea nr. 370/2004 pentru alegerea Preşedintelui României",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/161461",
+   "versions": [
+    {
+     "from": "2014-09-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/161461",
+     "sha256": "274f9f37e951d5bdac03f261aade88e93f1c8fe0563de9a5c75aa4db91b85e37"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-3-h",
+   "path": "decizie-bec/general/3-h",
+   "short": "Hotărârea BEC nr. 3-h/2019",
+   "title": "Hotărârea Biroului Electoral Central nr. 3-h din 2019-10-03",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/218707",
+   "versions": [
+    {
+     "from": "2019-10-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/218707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-3",
+   "path": "decizie-bec/general/3",
+   "short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 3/1998",
+   "title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 3 din 1998-10-07",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/15842",
+   "versions": [
+    {
+     "from": "1998-10-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/15842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-33",
+   "path": "decizie-bec/general/33",
+   "short": "Hotărârea BEC nr. 33/2004",
+   "title": "HOTĂRÂRE nr. 33 din 29 octombrie 2004 privind interpretarea prevederilor art. 20 alin. (2), coroborate cu cele ale art. 27 alin. (1) din Legea nr. 43/2003",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/56634",
+   "versions": [
+    {
+     "from": "2004-11-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/56634",
+     "sha256": "fa4452dc4dedcf131b3039bbee49920dce9c977ef0a8ea05a3b5fd3478f0a0a2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-37",
+   "path": "decizie-bec/general/37",
+   "short": "Hotărârea BEC nr. 37/2004",
+   "title": "HOTĂRÂRE nr. 37 din 4 noiembrie 2004 privind interpretarea şi aplicarea uniformă a dispoziţiilor art. 61 alin. (1), coroborate cu cele ale art. 57 alin. (1) din Legea nr. 373/2004 , referitoare la difuzarea de emisiuni de tip electoral de către radiodifuzorii publici şi privaţi, în zilele de sâmbătă şi duminică",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/56635",
+   "versions": [
+    {
+     "from": "2004-11-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/56635",
+     "sha256": "29411776b2421b4f40f1b470fb345c335289fd33cb89cdf3ba0de32611b20f3f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-38",
+   "path": "decizie-bec/general/38",
+   "short": "Hotărârea BEC nr. 38/2004",
+   "title": "HOTĂRÂRE nr. 38 din 4 noiembrie 2004 privind aplicarea unor prevederi ale Legii nr. 373/2004 , referitoare la organizarea birourilor electorale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/56642",
+   "versions": [
+    {
+     "from": "2004-11-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/56642",
+     "sha256": "f0ab2dd8e6104542d51c2166bc8ee03a1aa71070039452a0bfe7b37d2afc57c7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-39",
+   "path": "decizie-bec/general/39",
+   "short": "Hotărârea BEC nr. 39/1996",
+   "title": "Hotărârea Biroului Electoral Central nr. 39 din 1996-10-21",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/8200",
+   "versions": [
+    {
+     "from": "1996-10-31",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/8200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-3h",
+   "path": "decizie-bec/general/3h",
+   "short": "Hotărârea BEC nr. 3h/2024",
+   "title": "HOTĂRÂRE nr. 3H din 10 octombrie 2024 privind interpretarea prevederilor art. 16 alin. (4) şi (6) din Legea nr. 370/2004 pentru alegerea Preşedintelui României, republicată, cu modificările şi completările ulterioare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/289390",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/289390",
+     "sha256": "8a023ecae001cc1d986934e5fbd2de7eda87f3d341d1da6628e2fa2096a2be62"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-4-2",
+   "path": "decizie-bec/general/4-2",
+   "short": "Hotărârea BEC nr. 4/2014",
+   "title": "HOTĂRÂRE nr. 4 din 4 noiembrie 2014 privind interpretarea prevederilor art. 54 alin. (1) din Legea nr. 370/2004 pentru alegerea Preşedintelui României",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/162732",
+   "versions": [
+    {
+     "from": "2014-11-05",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/162732",
+     "sha256": "0175a5831883eb1cb862512e3963dfee634aac1bbd6c26cea34a6ed01f003626"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-4-h",
+   "path": "decizie-bec/general/4-h",
+   "short": "Hotărârea BEC nr. 4-h/2019",
+   "title": "Hotărârea Biroului Electoral Central nr. 4-h din 2019-10-21",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/219053",
+   "versions": [
+    {
+     "from": "2019-10-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/219053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-4",
+   "path": "decizie-bec/general/4",
+   "short": "Hotărârea BEC nr. 4/2004",
+   "title": "Hotărârea Biroului Electoral Central nr. 4 din 2004-10-19",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/56080",
+   "versions": [
+    {
+     "from": "2004-10-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/56080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-45",
+   "path": "decizie-bec/general/45",
+   "short": "Hotărârea BEC nr. 45/2004",
+   "title": "HOTĂRÂRE nr. 45 din 8 noiembrie 2004 privind aplicarea unor dispoziţii legale referitoare la componenţa şi activitatea secţiilor de votare din străinătate, precum şi la consemnarea şi transmiterea rezultatului votării la şi de la secţiile de votare din străinătate",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/56645",
+   "versions": [
+    {
+     "from": "2004-11-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/56645",
+     "sha256": "28af15a7945937b9e07df2b9d3e09791370bc325aadd238a15c5340cb7ccee4e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-4h",
+   "path": "decizie-bec/general/4h",
+   "short": "Hotărârea BEC nr. 4h/2024",
+   "title": "HOTĂRÂRE nr. 4H din 30 octombrie 2024 privind interpretarea prevederilor art. 46 alin. (2) şi (4) prin raportare la dispoziţiile art. 44 alin. (1) şi (2) şi ale art. 44^1 alin. (1) şi (2) din Legea nr. 370/2004 pentru alegerea Preşedintelui României, republicată, cu modificările şi completările ulterioare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/290170",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/290170",
+     "sha256": "d06892eb8f44ec42a44ba1ff42916e2a333bc7c2aab52f6c58b1dd2bc6eaf0d2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-5-h",
+   "path": "decizie-bec/general/5-h",
+   "short": "Hotărârea BEC nr. 5-h/2019",
+   "title": "Hotărârea Biroului Electoral Central nr. 5-h din 2019-10-29",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/219423",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/219423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-5",
+   "path": "decizie-bec/general/5",
+   "short": "Hotărârea BEC nr. 5/2014",
+   "title": "HOTĂRÂRE nr. 5 din 6 noiembrie 2014 privind interpretarea prevederilor art. 47 din Legea nr. 370/2004 pentru alegerea Preşedintelui României",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/162791",
+   "versions": [
+    {
+     "from": "2014-11-06",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/162791",
+     "sha256": "d852d5862a418662c4f15e49b7633455482ad21fb0fdee06efe6653744c69dec"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-55-2",
+   "path": "decizie-bec/general/55-2",
+   "short": "Hotărârea BEC nr. 55/2004",
+   "title": "HOTĂRÂRE nr. 55 din 12 noiembrie 2004 privind completarea birourilor electorale de circumscripţie cu reprezentanţii partidelor politice, alianţelor politice, alianţelor electorale şi ai organizaţiilor cetăţenilor aparţinând minorităţilor naţionale, care participă la alegeri",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/56788",
+   "versions": [
+    {
+     "from": "2004-11-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/56788",
+     "sha256": "7340be75f21a023eca630510b928c54eed60ab2e0c6c92d084296f5947b96f10"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-55",
+   "path": "decizie-bec/general/55",
+   "short": "Hotărârea BEC nr. 55/1996",
+   "title": "Hotărârea Biroului Electoral Central nr. 55 din 1996-10-24",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/8309",
+   "versions": [
+    {
+     "from": "1996-10-31",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/8309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-5h",
+   "path": "decizie-bec/general/5h",
+   "short": "Hotărârea BEC nr. 5h/2024",
+   "title": "HOTĂRÂRE nr. 5H din 9 noiembrie 2024 privind modificarea art. 1 alin. (4) şi art. 2 alin. (1) şi (4) din Regulamentul de organizare şi funcţionare a birourilor electorale constituite pentru alegerea Preşedintelui României din anul 2024, aprobat prin Hotărârea Biroului Electoral Central nr. 1/H/2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/290515",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/290515",
+     "sha256": "f7f4447114342ca7a6baf7fe17faf2fbb454af3026a5a3c145d6087382616922"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-68",
+   "path": "decizie-bec/general/68",
+   "short": "Hotărârea BEC nr. 68/2004",
+   "title": "Hotărârea Biroului Electoral Central nr. 68 din 2004-11-19",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/57037",
+   "versions": [
+    {
+     "from": "2004-11-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/57037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-7",
+   "path": "decizie-bec/general/7",
+   "short": "Hotărârea BEC nr. 7/1996",
+   "title": "HOTĂRÂRE nr. 7 din 29 aprilie 1996 privind obligaţia de serviciu a magistraţilor, judecătorilor şi procurorilor de a se prezenta şi de a-şi desfăşura activitatea la birourile electorale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/7804",
+   "versions": [
+    {
+     "from": "1996-04-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/7804",
+     "sha256": "dc99aa704ef80e1d21bd46bd68471f34bfd252c94a825806b0e8e3672a920871"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-75",
+   "path": "decizie-bec/general/75",
+   "short": "Hotărârea BEC nr. 75/2008",
+   "title": "HOTĂRÂRE nr. 75 din 15 mai 2008 privind normele tehnice de completare, verificare şi circuitul proceselor-verbale întocmite la nivelul secţiilor de votare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/93171",
+   "versions": [
+    {
+     "from": "2008-05-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/93171",
+     "sha256": "296558ef5b0d0068ebc95dbd24573a4309a258ccd6b9d9051eb2b06dea5f65bd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-7h",
+   "path": "decizie-bec/general/7h",
+   "short": "Hotărârea BEC nr. 7h/2024",
+   "title": "HOTĂRÂRE nr. 7H din 22 noiembrie 2024 privind interpretarea prevederilor art. 46 alin. (2) şi (4) prin raportare la dispoziţiile art. 44 alin. (1) şi (2) şi ale art. 44^1 alin. (1) şi (2) din Legea nr. 370/2004 pentru alegerea Preşedintelui României, republicată, cu modificările şi completările ulterioare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/291324",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/291324",
+     "sha256": "323e822c787cedea2aca4287563ca67e24954a8d60e7701b01c6423ce14bf98d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-80",
+   "path": "decizie-bec/general/80",
+   "short": "Hotărârea BEC nr. 80/2004",
+   "title": "Hotărârea Biroului Electoral Central nr. 80 din 2004-11-25",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/57456",
+   "versions": [
+    {
+     "from": "2004-12-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/57456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-83",
+   "path": "decizie-bec/general/83",
+   "short": "Hotărârea BEC nr. 83/2004",
+   "title": "Hotărârea Biroului Electoral Central nr. 83 din 2004-11-25",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/57457",
+   "versions": [
+    {
+     "from": "2004-12-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/57457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-85",
+   "path": "decizie-bec/general/85",
+   "short": "Hotărârea BEC nr. 85/2004",
+   "title": "Hotărârea Biroului Electoral Central nr. 85 din 2004-11-26",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/57458",
+   "versions": [
+    {
+     "from": "2004-12-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/57458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-lista-1996-09-13",
+   "path": "decizie-bec/general/lista-1996-09-13",
+   "short": "Listă BEC din 1996-09-13",
+   "title": "Listă Biroului Electoral Central din 1996-09-13",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/7667",
+   "versions": [
+    {
+     "from": "1996-09-13",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/7667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-lista-2000-10-21",
+   "path": "decizie-bec/general/lista-2000-10-21",
+   "short": "Listă BEC din 2000-10-21",
+   "title": "Listă Biroului Electoral Central din 2000-10-21",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/24705",
+   "versions": [
+    {
+     "from": "2000-10-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/24705",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-lista-2004-04-26",
+   "path": "decizie-bec/general/lista-2004-04-26",
+   "short": "Listă BEC din 2004-04-26",
+   "title": "Listă Biroului Electoral Central din 2004-04-26",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/51417",
+   "versions": [
+    {
+     "from": "2004-04-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/51417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-lista-2004-11-01",
+   "path": "decizie-bec/general/lista-2004-11-01",
+   "short": "Listă BEC din 2004-11-01",
+   "title": "Listă Biroului Electoral Central din 2004-11-01",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/56323",
+   "versions": [
+    {
+     "from": "2004-11-01",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/56323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-lista-2008-04-10",
+   "path": "decizie-bec/general/lista-2008-04-10",
+   "short": "Listă BEC din 2008-04-10",
+   "title": "Listă Biroului Electoral Central din 2008-04-10",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/91169",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/91169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-lista-2008-10-09",
+   "path": "decizie-bec/general/lista-2008-10-09",
+   "short": "Listă BEC din 2008-10-09",
+   "title": "Listă Biroului Electoral Central din 2008-10-09",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/97921",
+   "versions": [
+    {
+     "from": "2008-10-09",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/97921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-lista-2012-04-25",
+   "path": "decizie-bec/general/lista-2012-04-25",
+   "short": "Listă BEC din 2012-04-25",
+   "title": "Listă Biroului Electoral Central din 2012-04-25",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/137407",
+   "versions": [
+    {
+     "from": "2012-04-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/137407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-lista-2012-10-19",
+   "path": "decizie-bec/general/lista-2012-10-19",
+   "short": "Listă BEC din 2012-10-19",
+   "title": "Listă Biroului Electoral Central din 2012-10-19",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/142155",
+   "versions": [
+    {
+     "from": "2012-10-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/142155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-proces-verbal-1990-06-02",
+   "path": "decizie-bec/general/proces-verbal-1990-06-02",
+   "short": "Proces verbal BEC din 1990-06-02",
+   "title": "Proces verbal Biroului Electoral Central din 1990-06-02",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/35407",
+   "versions": [
+    {
+     "from": "1990-06-02",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/35407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-proces-verbal-1990-06-07-2",
+   "path": "decizie-bec/general/proces-verbal-1990-06-07-2",
+   "short": "Proces verbal BEC din 1990-06-07",
+   "title": "Proces verbal Biroului Electoral Central din 1990-06-07",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/92287",
+   "versions": [
+    {
+     "from": "1990-06-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/92287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-proces-verbal-1990-06-07",
+   "path": "decizie-bec/general/proces-verbal-1990-06-07",
+   "short": "Proces verbal BEC din 1990-06-07",
+   "title": "PROCES VERBAL din 7 iunie 1990 privind rezultatul alegerilor din 20 mai 1990",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/35408",
+   "versions": [
+    {
+     "from": "1990-06-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/35408",
+     "sha256": "a42df2d40fce2fab500c5ec2f7dede0728d5e8be038b6cb77d8b221ca835a639"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-proces-verbal-2000-06-18",
+   "path": "decizie-bec/general/proces-verbal-2000-06-18",
+   "short": "Proces verbal BEC din 2000-06-18",
+   "title": "Proces verbal Biroului Electoral Central din 2000-06-18",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/22942",
+   "versions": [
+    {
+     "from": "2000-06-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/22942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-proces-verbal-2000-06-23",
+   "path": "decizie-bec/general/proces-verbal-2000-06-23",
+   "short": "Proces verbal BEC din 2000-06-23",
+   "title": "Proces verbal Biroului Electoral Central din 2000-06-23",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/22943",
+   "versions": [
+    {
+     "from": "2000-06-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/22943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-proces-verbal-2000-12-04",
+   "path": "decizie-bec/general/proces-verbal-2000-12-04",
+   "short": "Proces verbal BEC din 2000-12-04",
+   "title": "Proces verbal Biroului Electoral Central din 2000-12-04",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/25523",
+   "versions": [
+    {
+     "from": "2000-12-04",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/25523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-rectificare-14h",
+   "path": "decizie-bec/general/rectificare-14h",
+   "short": "Rectificarea BEC nr. 14h/2024",
+   "title": "RECTIFICARE nr. 14H din 11 aprilie 2024 referitoare la Hotărârea Biroului Electoral Central nr. 14H/2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/282050",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/282050",
+     "sha256": "807ebba1626e8db37bdae350b1f84b58a5f217107fb8206bcf88fed90ae0a885"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-regulament-2004-10-19",
+   "path": "decizie-bec/general/regulament-2004-10-19",
+   "short": "Regulamentul BEC din 2004-10-19",
+   "title": "REGULAMENT din 19 octombrie 2004 de organizare şi funcţionare a birourilor electorale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/56068",
+   "versions": [
+    {
+     "from": "2004-10-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/56068",
+     "sha256": "a8f94bc6f383b68467af87e56013fe68fc26ea4eb7d0fbe447778fc43a4e7029"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-regulament-2005-03-13",
+   "path": "decizie-bec/general/regulament-2005-03-13",
+   "short": "Regulamentul Biroul Electoral al Municipiului Bucure?ti din 2005-03-13",
+   "title": "Regulamentul Biroul Electoral al Municipiului Bucure?ti din 2005-03-13",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/59979",
+   "versions": [
+    {
+     "from": "2005-03-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/59979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-regulament-2009-10-05",
+   "path": "decizie-bec/general/regulament-2009-10-05",
+   "short": "Regulamentul BEC din 2009-10-05",
+   "title": "REGULAMENT din 5 octombrie 2009 de organizare şi funcţionare a birourilor electorale constituite pentru alegerea Preşedintelui României şi a aparatului de lucru al acestora",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/111889",
+   "versions": [
+    {
+     "from": "2009-10-06",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/111889",
+     "sha256": "f938a85bb77cb5cbeb2cef86bc77ad3a0ae7160f52572386d141bf6f8cc817e9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-regulament-2014-09-09",
+   "path": "decizie-bec/general/regulament-2014-09-09",
+   "short": "Regulamentul BEC din 2014-09-09",
+   "title": "REGULAMENT din 9 septembrie 2014 de organizare şi funcţionare a birourilor electorale constituite pentru alegerea Preşedintelui României din anul 2014 şi a aparatului de lucru al acestora",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/161372",
+   "versions": [
+    {
+     "from": "2014-09-17",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/161372",
+     "sha256": "865fd73fcc120e785877c854a54a7e89250f9b9de402d7f82a18dd55a4fbe667"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-regulament-2019-09-03",
+   "path": "decizie-bec/general/regulament-2019-09-03",
+   "short": "Regulamentul BEC din 2019-09-03",
+   "title": "REGULAMENT din 3 septembrie 2019 de organizare şi funcţionare a birourilor electorale constituite pentru alegerea Preşedintelui României din anul 2019 şi a aparatului de lucru al acestora",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/217652",
+   "versions": [
+    {
+     "from": "2019-09-04",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/217652",
+     "sha256": "d61b7a37dc91033246ec6c22558cb6e8cc693e13112bcacf8870c187879c446e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-general-regulament-2024-09-13",
+   "path": "decizie-bec/general/regulament-2024-09-13",
+   "short": "Regulamentul BEC din 2024-09-13",
+   "title": "REGULAMENT din 13 septembrie 2024 de organizare şi funcţionare a birourilor electorale constituite pentru alegerea Preşedintelui României din anul 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/288346",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/288346",
+     "sha256": "6fb399ebe80c406f3f7abb454651c4622895d8422450223c72c7daf614b7e66c"
+    }
+   ]
+  }
+ ]
+}

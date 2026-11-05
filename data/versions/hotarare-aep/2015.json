@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "hotarare-aep/2015",
+ "acts": [
+  {
+   "slug": "hotarare-aep-11-2015",
+   "path": "hotarare-aep/2015/11",
+   "short": "Hotărârea AEP nr. 11/2015",
+   "title": "HOTĂRÂRE nr. 11 din 3 noiembrie 2015 privind aprobarea Metodologiei de admitere în Corpul experţilor electorali",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/172744",
+   "versions": [
+    {
+     "from": "2015-11-06",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/172744",
+     "sha256": "8e31ebacd9e4535c90ebddc7bd7755ced0ca728e3b19424acc9c8c35d2e431d8"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-9-2015",
+   "path": "hotarare-aep/2015/9",
+   "short": "Hotărârea AEP nr. 9/2015",
+   "title": "HOTĂRÂRE nr. 9 din 28 octombrie 2015 pentru aprobarea Normelor metodologice privind funcţionarea Sistemului informatic de monitorizare a prezenţei la vot şi de prevenire a votului ilegal, selecţia şi desemnarea operatorilor de calculator ai birourilor electorale ale secţiilor de votare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/172551",
+   "versions": [
+    {
+     "from": "2015-11-02",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/172551",
+     "sha256": "8cb23ba866221625d8b2e90a87caee449ad9f1ae5225bc7b7eb0ffd7891c6f26"
+    }
+   ]
+  }
+ ]
+}

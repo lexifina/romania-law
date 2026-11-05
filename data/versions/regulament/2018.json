@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "regulament/2018",
+ "acts": [
+  {
+   "slug": "regulament-asf-1-2018",
+   "path": "regulament/asf/2018/1",
+   "short": "Regulament asf nr. 1/2018",
+   "title": "Regulamentul nr. 1/2018 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 8/2015 privind agenții pentru servicii de investiții financiare, agenții delegați și pentru modificarea și completarea Regulamentului nr. 32/2006 privind serviciile de investiții financiare, aprobat prin Ordinul Comisiei Naționale a Valorilor Mobiliare nr. 121/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197517",
+   "versions": [
+    {
+     "from": "2018-02-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197517",
+     "sha256": "27065b4a7e316204a050a42462f0f1f92015aebf16ba561b8120f1645ad17ab6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-11-2018",
+   "path": "regulament/asf/2018/11",
+   "short": "Regulament asf nr. 11/2018",
+   "title": "Regulamentul nr. 11/2018 privind aplicarea unor prevederi ale art. 104 din Legea nr. 126/2018 privind piețele de instrumente financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205869",
+   "versions": [
+    {
+     "from": "2018-10-09",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205869",
+     "sha256": "ceb2c3fbb28f074b59d0ea7a4c96576d8b17744b2cfc7e7fc9010b0da6cf2b10"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-13-2018",
+   "path": "regulament/asf/2018/13",
+   "short": "Regulament asf nr. 13/2018",
+   "title": "Regulamentul nr. 13/2018 privind locurile de tranzacționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/208572",
+   "versions": [
+    {
+     "from": "2018-12-07",
+     "units": 103,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/208572",
+     "sha256": "5fb7e474d0f66e0d501e1b6708e07b799ec93fe140ca4b4b2bde175b35bd75ab"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-14-2018",
+   "path": "regulament/asf/2018/14",
+   "short": "Regulament asf nr. 14/2018",
+   "title": "Regulamentul nr. 14/2018 privind prestarea de servicii și activități de investiții în numele societăților de servicii de investiții financiare și al instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209589",
+   "versions": [
+    {
+     "from": "2019-01-04",
+     "units": 76,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209589",
+     "sha256": "d4d649aef94b35cd7184d96fab20bf043e567d2e023601a74905b8fea382c704"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-15-2018",
+   "path": "regulament/asf/2018/15",
+   "short": "Regulament asf nr. 15/2018",
+   "title": "Regulamentul nr. 15/2018 privind Registrul public al Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209037",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209037",
+     "sha256": "7761b823ab19514786269327f78b7eea9dbadf8f9e00889682947adfe14971d6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-16-2018",
+   "path": "regulament/asf/2018/16",
+   "short": "Regulament asf nr. 16/2018",
+   "title": "Regulamentul nr. 16/2018 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2016 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209019",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209019",
+     "sha256": "703f4c2091c46b4cb5f5a5ad7452d503ea0ecde1ad965822ded1bff3152d4f5b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-17-2018",
+   "path": "regulament/asf/2018/17",
+   "short": "Regulament asf nr. 17/2018",
+   "title": "Regulamentul nr. 17/2018 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 16/2014 privind veniturile Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209946",
+   "versions": [
+    {
+     "from": "2019-01-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209946",
+     "sha256": "386ff85030a9832b41afaf0886ac2ac2c66178cb0a1509bd8d67e0706795ecd6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-2-2018",
+   "path": "regulament/asf/2018/2",
+   "short": "Regulament asf nr. 2/2018",
+   "title": "Regulamentul nr. 2/2018 pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199855",
+   "versions": [
+    {
+     "from": "2018-04-20",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199855",
+     "sha256": "25a4f8b014cc7743e50568b91d96261c066178d3757fe8f0895e2de7385c1a9e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-3-2018",
+   "path": "regulament/asf/2018/3",
+   "short": "Regulament asf nr. 3/2018",
+   "title": "Regulamentul nr. 3/2018 pentru completarea Regulamentului Autorității de Supraveghere Financiară nr. 16/2014 privind veniturile Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200262",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200262",
+     "sha256": "8144f4eacb241a6e1cc6a11765b743efc6344888acf241d130cd0276a1b42eb0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-4-2018",
+   "path": "regulament/asf/2018/4",
+   "short": "Regulament asf nr. 4/2018",
+   "title": "Regulamentul nr. 4/2018 pentru modificarea Regulamentului Autorității de Supraveghere Financiară nr. 9/2015 privind procedura de soluționare de către entitățile reglementate și supravegheate de Autoritatea de Supraveghere Financiară în baza Legii nr. 297/2004 privind piața de capital și a Legii nr. 74/2015 privind administratorii fondurilor de investiții alternative a petițiilor referitoare la activitatea acestora pe piața de capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200681",
+   "versions": [
+    {
+     "from": "2018-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200681",
+     "sha256": "44224cd0abf418ab6455960005ba96c3445835ed0c39995ceee6e34441f3fe02"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-5-2018",
+   "path": "regulament/asf/2018/5",
+   "short": "Regulament asf nr. 5/2018",
+   "title": "Regulamentul nr. 5/2018 privind emitenții de instrumente financiare și operațiuni de piață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201421",
+   "versions": [
+    {
+     "from": "2018-06-21",
+     "units": 324,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201421",
+     "sha256": "e4996fe63e0b3f92fd6a0e1f5d3d38ca56195c4ccc7213a4206a71f59a2a5b41"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-7-2018",
+   "path": "regulament/asf/2018/7",
+   "short": "Regulament asf nr. 7/2018",
+   "title": "Regulamentul nr. 7/2018 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2016 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/202305",
+   "versions": [
+    {
+     "from": "2018-07-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202305",
+     "sha256": "4e64c66e3670d5a8ce0f51b4618209b02be6308e0ca11518d22f4d5294135072"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-9-2018",
+   "path": "regulament/asf/2018/9",
+   "short": "Regulament asf nr. 9/2018",
+   "title": "Regulamentul nr. 9/2018 pentru modificarea anexei la Regulamentul Autorității de Supraveghere Financiară nr. 10/2016 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203567",
+   "versions": [
+    {
+     "from": "2018-08-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203567",
+     "sha256": "34d9c4d767682f6b06a46d586f57d1b64a06abd32c23740941780dade9802527"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-1-2018",
+   "path": "regulament/bnr/2018/1",
+   "short": "Regulament bnr nr. 1/2018",
+   "title": "Regulamentul nr. 1/2018 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 5/2013 privind cerințe prudențiale pentru instituțiile de credit și pentru abrogarea Regulamentului Băncii Naționale a României nr. 16/2012 privind clasificarea creditelor și plasamentelor, precum și determinarea și utilizarea ajustărilor prudențiale de valoare și a Ordinului Băncii Naționale a României nr. 15/2012 privind raportarea situațiilor aferente aplicării Regulamentului Băncii Naționale a României nr. 16/2012 privind clasificarea creditelor și plasamentelor, precum și determinarea și utilizarea ajustărilor prudențiale de valoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197874",
+   "versions": [
+    {
+     "from": "2018-02-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197874",
+     "sha256": "33ef1a6fdd074a2915373bdf0a0921bbde3cce7b2d95107eace22c449afb348f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-3-2018",
+   "path": "regulament/bnr/2018/3",
+   "short": "Regulament bnr nr. 3/2018",
+   "title": "Regulamentul nr. 3/2018 privind monitorizarea infrastructurilor pieței financiare și a instrumentelor de plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203953",
+   "versions": [
+    {
+     "from": "2018-08-16",
+     "units": 161,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203953",
+     "sha256": "466778528980df0836f6fc449a385d9d5a1d9b1213e2cb6831f612784e31f631"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-5-2018",
+   "path": "regulament/bnr/2018/5",
+   "short": "Regulament bnr nr. 5/2018",
+   "title": "Regulamentul nr. 5/2018 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 5/2013 privind cerințe prudențiale pentru instituțiile de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206096",
+   "versions": [
+    {
+     "from": "2018-10-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206096",
+     "sha256": "690ac96a0cc404c3c0c53272fa58fac51a2ed50b16116b50306a81744baed78a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-6-2018",
+   "path": "regulament/bnr/2018/6",
+   "short": "Regulament bnr nr. 6/2018",
+   "title": "Regulamentul nr. 6/2018 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 17/2012 privind unele condiții de creditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/206666",
+   "versions": [
+    {
+     "from": "2018-11-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/206666",
+     "sha256": "efc8f6f1b1133a91ea2cd0781e988af98c1862c973c1448fec9cddce4211c158"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-7-2018",
+   "path": "regulament/bnr/2018/7",
+   "short": "Regulament bnr nr. 7/2018",
+   "title": "Regulamentul nr. 7/2018 privind prestarea de servicii și activități de investiții în numele societăților de servicii de investiții financiare și al instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209590",
+   "versions": [
+    {
+     "from": "2019-01-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209590",
+     "sha256": "ab9787f15e9fb99810763568e21f6716b05ed476a3f6f82a9acabfa031bbc081"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/bucuresti/sector-6/2019",
+"acts": [
+{
+"slug": "hcls6-213-2019",
+"path": "local/bucuresti/sector-6/2019/213",
+"kind": "local",
+"year": "2019",
+"number": "213",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 6 nr. 213/2019 privind aprobarea tarifelor diferenţiate, distincte pentru gestionarea deşeurilor de către beneficiarii serviciului de salubritate precum şi sancţiunile aplicate în cazul în care beneficiarul serviciului nu separă în mod corespunzător cele două fluxuri de deşeuri, respectiv fracţie umedă (deşeuri menajere reziduale) şi fracţie uscată (deşeuri reciclabile) pe raza Sectorului 6 al Municipiului Bucureşti - modificata prin HCL S6 nr. 101/18.04.2022",
+"short": "HCLS6 nr. 213/2019",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2019-08-27",
+"latest": "2019-08-27",
+"portal": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-tarifelor-diferentiate-distincte-pentru-gestionarea-deseurilor-de-catre-beneficiarii-serviciului-de-salubritate-precum-si-sanctiunile-aplicate-cazul-care-beneficiarul-serviciului-nu-separa-mod-corespunzator-cele-doua-fluxuri-de",
+"council": "bucuresti/sector-6",
+"council_name": "Consiliul Local al Sectorului 6 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

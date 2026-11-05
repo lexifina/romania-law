@@ -1,0 +1,411 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-2/2021",
+ "acts": [
+  {
+   "slug": "hcls2-124-2021",
+   "path": "local/bucuresti/sector-2/2021/124",
+   "short": "HCLS2 nr. 124/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 124/2021",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-124",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-124/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-126-2021",
+   "path": "local/bucuresti/sector-2/2021/126",
+   "short": "HCLS2 nr. 126/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 126/2021 pentru aprobarea Regulamentului privind disponibilizarea/valorificarea bunurilor amplasate ilegal pe domeniul public sau privat al statului sau al municipiului Bucureşti, pe raza administrativ-teritorială a Sectorului 2 Bucureşti",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-126",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-126/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-152-2021",
+   "path": "local/bucuresti/sector-2/2021/152",
+   "short": "HCLS2 nr. 152/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 152/2021 pentru modificarea și completarea H.C.L.S2 nr. 74/ 2021 privind instituirea taxei speciale de salubrizare pentru utilizatorii casnici fără contracte de prestări servicii de salubrizare și pentru aprobarea Regulamentului privind implementarea, determinarea cuantumului,încasarea și administrarea acesteia, pe raza Sectorului 2 al Municipiului București, în vederea prorogării unor termene Modifică/completează HCL S2 nr. 74/2021",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-152",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-152/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-166-2021",
+   "path": "local/bucuresti/sector-2/2021/166",
+   "short": "HCLS2 nr. 166/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 166/2021",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-166",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-166/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-169-2021",
+   "path": "local/bucuresti/sector-2/2021/169",
+   "short": "HCLS2 nr. 169/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 169/2021 pentru aprobarea Regulamentului – cadru privind accesul și modul de utilizare a curților și terenurilor de sport în aer liber aflate în folosinţa unităților de învățământ preuniversitar de stat și în administrarea Consiliului Local al Sectorului 2, prin Direcția Generală pentru Administrarea Patrimoniului Imobiliar Sector 2 Abrog ă /Încetează aplicabilitatea HCL S2 nr. 254/2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-169",
+   "versions": [
+    {
+     "from": "2021-06-02",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-169/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-174-2021",
+   "path": "local/bucuresti/sector-2/2021/174",
+   "short": "HCLS2 nr. 174/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 174/2021 privind aprobarea Regulamentului pentru organizarea și funcționarea comisiilor de evaluare a propunerilor de proiecte și a comisiei de soluționare a contestațiilor constituite în baza Legii nr. 350/2005, cu modificările și completările ulterioare Abrogată/Încetare aplicabilitate prin HCL S2 nr. 83/2022 Abrog ă /Încetează aplicabilitatea HCL S2 nr. 107/2019",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-174",
+   "versions": [
+    {
+     "from": "2021-06-02",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-174/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-180-2021",
+   "path": "local/bucuresti/sector-2/2021/180",
+   "short": "HCLS2 nr. 180/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 180/2021 privind extinderea modalităților de plată a impozitelor și taxelor locale la nivelul Sectorului 2 al Municipiului București",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-180",
+   "versions": [
+    {
+     "from": "2021-06-02",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-180/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-181-2021",
+   "path": "local/bucuresti/sector-2/2021/181",
+   "short": "HCLS2 nr. 181/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 181/2021 privind aprobarea tarifelor pentru activităţile de colectare, transport si depozitare deşeuri municipale în amestec, precum şi a tarifului pentru activităţile de colectare separată, transport, sortare/ tratare si depozitare reziduuri a deşeurilor din ambalaje (reciclabile), realizate pentru utilizatori non- casnici ( agenţi economici şi instituţii publice) de pe raza Sectorului 2 al Municipiului Bucureşti Modificată/completată prin HCL S2 nr. 264/2021 Abrog ă /Încetează aplicabilitatea art.1 din HCL S2 nr. 278/2019 Art. 1, art.2 abrogate/încetare aplicabilitate prin HCL S2 nr. 389/2022",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-181",
+   "versions": [
+    {
+     "from": "2021-06-02",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-181/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-182-2021",
+   "path": "local/bucuresti/sector-2/2021/182",
+   "short": "HCLS2 nr. 182/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 182/2021 pentru adoptarea unor măsuri fiscale de prorogare a termenului de plată a taxei speciale de salubrizare pentru utilizatorii casnici fără contracte de prestări servicii de salubrizare stabilităîn baza H.C.L.Sector 2 nr.74/2021",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-182",
+   "versions": [
+    {
+     "from": "2021-06-02",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-182/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-214-2021",
+   "path": "local/bucuresti/sector-2/2021/214",
+   "short": "HCLS2 nr. 214/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 214/2021",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-214",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-214/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-215-2021",
+   "path": "local/bucuresti/sector-2/2021/215",
+   "short": "HCLS2 nr. 215/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 215/2021 privind aprobarea Regulamentului de funcționare al Pieței Agroalimentare ,,P -ta Obor-Legume-Fructe, Hala Centrală Obor”",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-215",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-215/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-219-2021",
+   "path": "local/bucuresti/sector-2/2021/219",
+   "short": "HCLS2 nr. 219/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 219/2021 pentru modificarea și completarea H.C.L Sector 2 nr. 74/2021 privind instituirea taxei speciale de salubrizare pentru utilizatorii casnici fără contracte de prestări servicii de salubrizare și pentru aprobarea Regulamentului privind implementarea, determinarea cuantumului,încasarea și administrarea acesteia, pe raza Sectorului 2 al Municipiului București,astfel cum a fost modificatăși completată prin H.C.L Sector 2 nr. 152/2021, în vederea prorogării unor termene Modifică/completează HCL S2 nr. 74/2021",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-219",
+   "versions": [
+    {
+     "from": "2021-07-27",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-219/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-254-2021",
+   "path": "local/bucuresti/sector-2/2021/254",
+   "short": "HCLS2 nr. 254/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 254/2021 pentru aprobarea procedurilor și a criteriilor pentru organizarea concursului în vederea ocupării funcțiilor publice aferente conducătorilor serviciilor publice de interes local de la nivelul Sectorului 2 (cu excepţia Direcţiei Generale de Asistenţă Socială si Protecţia Copilului Sector 2)",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-254",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-254/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-257-2021",
+   "path": "local/bucuresti/sector-2/2021/257",
+   "short": "HCLS2 nr. 257/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 257/2021",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-257",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-257/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-258-2021",
+   "path": "local/bucuresti/sector-2/2021/258",
+   "short": "HCLS2 nr. 258/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 258/2021 pentru modificarea şi completarea Hotărârii Consiliului Local Sector 2 nr. 286/2019 privind instituirea unor măsuri de asigurare a ordinii şi liniştii publice în parcurile, locurile de joacă si recreere din Sectorul 2 al Municipiului Bucureşti Modifică/completează HCL S2 nr. 286/2019",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-258",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-258/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-260-2021",
+   "path": "local/bucuresti/sector-2/2021/260",
+   "short": "HCLS2 nr. 260/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 260/2021 pentru aprobarea Regulamentului privind administrarea și exploatarea parcărilor de reședință de pe raza Sectorului 2 al Municipiului București Modificată/completată prin HCL S2 nr. 4/2022 , HCL S2 nr. 399/2023 NOTĂ privind RECTIFICAREA unei erori materiale din cuprinsul Hotărârii nr. 260 adoptată de Consiliul Local al Sectorului 2 Bucureşti în şedinţa din data de 26.08.2021 NOTĂ privind RECTIFICAREA Hotărârii nr. 260 adoptată de Consiliul Local al Sectorului 2 Bucureşti în şedinţă din data de 26.08.2021",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-260",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/documente/nota-rectificare-hcl-260-2021/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-264-2021",
+   "path": "local/bucuresti/sector-2/2021/264",
+   "short": "HCLS2 nr. 264/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 264/2021",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-264",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-264/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-317-2021",
+   "path": "local/bucuresti/sector-2/2021/317",
+   "short": "HCLS2 nr. 317/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 317/2021 privind aprobarea metodologiei de acordare a sumelor necesare acoperirii cheltuielilor de transport şi cazare realizate de adoptator sau familia adoptatoare în vederea participării la procesul de potrivire practică cu un copil având domiciliul în alt judeţ decât cel al adoptatorului/familiei adoptatoare",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-317",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-317/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-332-2021",
+   "path": "local/bucuresti/sector-2/2021/332",
+   "short": "HCLS2 nr. 332/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 332/2021 pentru aprobarea Metodologiei de identificare a persoanelor şi familiilor marginalizate social şi a persoanelor şi familiilor cu risc de marginalizare socială Titlul I din Anexa nr. 4 abrogat /î ncetare aplicabilitate prin HCL S2 nr. 321/2024 Modificată/completată prin HCL S2 nr. 168/2024",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-332",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-332/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-347-2021",
+   "path": "local/bucuresti/sector-2/2021/347",
+   "short": "HCLS2 nr. 347/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 347/2021 pentru modificarea şi completarea Hotărârii Consiliului Local Sector 2 nr. 3/2011 privind înfiinţarea la nivelul Sectorului 2 al Municipiului Bucureşti a Comisiei locale de ordine publică, cu modificările și completările ulterioare Modificată/completată prin HCL S2 nr. 396/2023 Modifică/completează HCL S2 nr. 3/2011 Abrog ă /Încetează aplicabilitatea HCL S2 nr. 281/2020",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-347",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-347/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-361-2021",
+   "path": "local/bucuresti/sector-2/2021/361",
+   "short": "HCLS2 nr. 361/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 361/2021 pentru actualizarea HCL Sector 2 nr. 74/2021 privind instituirea taxei speciale de salubrizare pentru utilizatorii casnici fără contracte de prestări servicii de salubrizare și pentru aprobarea Regulamentului privind implementarea, determinarea cuantumului, încasarea și administrarea acesteia, pe raza Sectorului 2 al Municipiului București Abrogată/Încetare aplicabilitate prin HCL S2 nr. 30/2025 Modifică/completează HCL S2 nr. 74/2021",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-361",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-361/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-381-2021",
+   "path": "local/bucuresti/sector-2/2021/381",
+   "short": "HCLS2 nr. 381/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 381/2021 privind acordarea de subvenţii pentru 3 unităţi private de asistenţă socială care furnizează servicii sociale pe raza Sectorului 2, conform Regulamentului cuprins în Hotărârea Consiliului Local Sector 2 nr. 266/26.08.2021, respectiv Asociaţia Română AntiSIDA, Filiala Asociaţiei Diaconia Sector 2 şi Arhiepiscopia Bucureştilor",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-381",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-381/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-74-2021",
+   "path": "local/bucuresti/sector-2/2021/74",
+   "short": "HCLS2 nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 74/2021 privind instituirea taxei speciale de salubrizare pentru utilizatorii casnici fără contracte de prestări servicii de salubrizare și pentru aprobarea Regulamentului privind implementarea, determinarea cuantumului, încasarea și administrarea acesteia, pe raza Sectorului 2 al Municipiului București Modificată/completată prin HCL S2 nr. 152/2021 , HCL S2 nr. 219/2021 , HCL S2 nr. 361/2021 , HCL S2 nr. 435/2025",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-074-2",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-074-2/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-80-2021",
+   "path": "local/bucuresti/sector-2/2021/80",
+   "short": "HCLS2 nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 80/2021 pentru încetarea aplicabilității Hotărârii Consiliului Local Sector 2 nr. 344/2019 privind instituirea taxei de habitat cu destinația specială de salubrizare și aprobarea Regulamentului privind implementarea, determinarea cuantumului, încasarea și administrarea taxei de habitat cu destinația specială de salubrizare pentru utilizatorii non-casnici (persoane juridice) pe raza Sectorului 2 al Municipiului București Abrog ă /Încetează aplicabilitatea HCL S2 nr. 344/2019",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-080",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-080/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-82-2021",
+   "path": "local/bucuresti/sector-2/2021/82",
+   "short": "HCLS2 nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 82/2021",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-082",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-082/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-84-2021",
+   "path": "local/bucuresti/sector-2/2021/84",
+   "short": "HCLS2 nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 84/2021 privind aprobarea Procedurilor și a criteriilor pentru organizarea concursului în vederea ocupării funcției de director al Administrației Pieţelor Sector 2",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-084",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-084/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-87-2021",
+   "path": "local/bucuresti/sector-2/2021/87",
+   "short": "HCLS2 nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 87/2021",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-087",
+   "versions": [
+    {
+     "from": "2021-03-02",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-087/download",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

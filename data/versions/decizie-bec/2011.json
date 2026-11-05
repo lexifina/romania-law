@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "decizie-bec/2011",
+ "acts": [
+  {
+   "slug": "decizie-bec-parlamentare-2011-3",
+   "path": "decizie-bec/parlamentare-2011/3",
+   "short": "Hotărârea BEC nr. 3/2011",
+   "title": "HOTĂRÂRE nr. 3 din 1 august 2011 privind interpretarea dispoziţiilor art. 16 alin. (11) din Legea nr. 35/2008 pentru alegerea Camerei Deputaţilor şi a Senatului şi pentru modificarea şi completarea Legii nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale, a Legii administraţiei publice locale nr. 215/2001 şi a Legii nr. 393/2004 privind Statutul aleşilor locali",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/130638",
+   "versions": [
+    {
+     "from": "2011-08-08",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/130638",
+     "sha256": "59fbfff527ff1b0ba6001b089acc3f083d8d83964b3db7d4dc018b62ec4519da"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-partiale-parlamentare-2011-1",
+   "path": "decizie-bec/partiale-parlamentare-2011/1",
+   "short": "Hotărârea BEC nr. 1/2011",
+   "title": "HOTĂRÂRE nr. 1 din 10 iulie 2011 privind adoptarea Regulamentului de organizare şi funcţionare a birourilor electorale constituite la alegerile parţiale pentru Camera Deputaţilor în Circumscripţia electorală nr. 29 - judeţul Neamţ, Colegiul uninominal nr. 6, şi Circumscripţia electorală nr. 26 - judeţul Maramureş, Colegiul uninominal nr. 2, din data de 21 august 2011",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/130055",
+   "versions": [
+    {
+     "from": "2011-07-13",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/130055",
+     "sha256": "0a01ad9b72d8039f46438701d83ce83933f9c8aebef900c4311dfe248f0fd20a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-partiale-parlamentare-2011-lista-29",
+   "path": "decizie-bec/partiale-parlamentare-2011/lista-29",
+   "short": "Listă BEC nr. 29/2011",
+   "title": "LISTA din 2011 semnelor electorale depuse, potrivit legii, la Biroul Electoral Central de către partidele politice şi alianţele electorale care participă la alegerile parţiale pentru Camera Deputaţilor care vor avea loc în Circumscripţia electorală nr. 29 - judeţul Neamţ, Colegiul uninominal nr. 6, şi Circumscripţia electorală nr. 26 - judeţul Maramureş, Colegiul uninominal nr. 2, în data de 21 august 2011",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/130386",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/130386",
+     "sha256": "4ec2ca991b5f70a5b021218ab911717486c2d0d98e8394498a9312f3631998b4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-partiale-parlamentare-2011-proces-verbal-29",
+   "path": "decizie-bec/partiale-parlamentare-2011/proces-verbal-29",
+   "short": "Proces verbal BEC nr. 29/2011",
+   "title": "Proces verbal Biroului Electoral Central nr. 29 din 2011-08-21",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/131049",
+   "versions": [
+    {
+     "from": "2011-08-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/131049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-partiale-parlamentare-2011-regulament-29",
+   "path": "decizie-bec/partiale-parlamentare-2011/regulament-29",
+   "short": "Regulamentul BEC nr. 29/2011",
+   "title": "REGULAMENT din 10 iulie 2011 de organizare şi funcţionare a birourilor electorale constituite la alegerile parţiale pentru Camera Deputaţilor în Circumscripţia electorală nr. 29 - judeţul Neamţ, Colegiul uninominal nr. 6, şi Circumscripţia electorală nr. 26 - judeţul Maramureş, Colegiul uninominal nr. 2, din data de 21 august 2011",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/130056",
+   "versions": [
+    {
+     "from": "2011-07-13",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/130056",
+     "sha256": "f30db8112a7d9674b3d621dff3ff1979df8fbe3e0218765a16ec4e5812378d92"
+    }
+   ]
+  }
+ ]
+}

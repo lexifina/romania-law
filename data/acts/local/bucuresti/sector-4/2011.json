@@ -1,0 +1,205 @@
+{
+"country": "RO",
+"shard": "local/bucuresti/sector-4/2011",
+"acts": [
+{
+"slug": "hcls4-10-2011",
+"path": "local/bucuresti/sector-4/2011/10",
+"kind": "local",
+"year": "2011",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 10/2011 privind modificarea şi completarea anexei nr.1 la regulamentul de desfăşurare a activităţii de comercializare şi a serviciilor de piaţă pe teritoriul sectorului 4",
+"short": "HCLS4 nr. 10/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-01-31",
+"latest": "2011-01-31",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=132",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls4-11-2011",
+"path": "local/bucuresti/sector-4/2011/11",
+"kind": "local",
+"year": "2011",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 11/2011 privind aprobarea Regulamentului privind activitatea de blocare a autovehiculelor cu masa autorizată egală sau mai mare de 3,5 tone şi a remorcilor, staţionate în parcările de reşedinţă sau de utilitate publică, pe drumurile publice sau pe teren",
+"short": "HCLS4 nr. 11/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-01-31",
+"latest": "2011-01-31",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=132",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls4-12-2011",
+"path": "local/bucuresti/sector-4/2011/12",
+"kind": "local",
+"year": "2011",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 12/2011",
+"short": "HCLS4 nr. 12/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-01-31",
+"latest": "2011-01-31",
+"portal": null,
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcls4-44-2011",
+"path": "local/bucuresti/sector-4/2011/44",
+"kind": "local",
+"year": "2011",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 44/2011 privind modificarea Hotărârii Consiliului Local nr.37/31.07.2008 privind reglementarea activităţii de ridicare, transport, depozitare şi eliberarea vehiculelor staţionate neregulamentar pe domeniul public (carosabil, trotuare, spaţii ve1·zi etc",
+"short": "HCLS4 nr. 44/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-03-31",
+"latest": "2011-03-31",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=131",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls4-45-2011",
+"path": "local/bucuresti/sector-4/2011/45",
+"kind": "local",
+"year": "2011",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 45/2011 privind constituirea Comisiei locale de ordine publică a Sectorului 4 Bucureşti",
+"short": "HCLS4 nr. 45/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-03-31",
+"latest": "2011-03-31",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=131",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls4-89-2011",
+"path": "local/bucuresti/sector-4/2011/89",
+"kind": "local",
+"year": "2011",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 89/2011 privind aprobarea planului de ocupare a funcţiilor publice din cadrul Direcţiei Generale de Impozite şi Taxe Locale Sector 4",
+"short": "HCLS4 nr. 89/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-06-30",
+"latest": "2011-06-30",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=130",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls4-109-2011",
+"path": "local/bucuresti/sector-4/2011/109",
+"kind": "local",
+"year": "2011",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 109/2011 privind înregistrarea în Sistemul Naţional Electronic de Plată online a taxelor şi impozitelor utilizând cardul bancar (S.N.E.P.)",
+"short": "HCLS4 nr. 109/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-08-31",
+"latest": "2011-08-31",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=130",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls4-145-2011",
+"path": "local/bucuresti/sector-4/2011/145",
+"kind": "local",
+"year": "2011",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 145/2011 privind modificarea si completarea Regulamentului de Organizare si Functionare al Aparatului de Specialitate al Primarului Sector 4 Bucuresti pentru Biroul Corp Control Intern Primar si Directfa Resurse Umane",
+"short": "HCLS4 nr. 145/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-10-27",
+"latest": "2011-10-27",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=129",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls4-150-2011",
+"path": "local/bucuresti/sector-4/2011/150",
+"kind": "local",
+"year": "2011",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 150/2011 pentru aprobarea Regulamentului local de implicare a publicului în elaborarea sau revizuirea planurilor de urbanism sau de amenajare a teritoriului",
+"short": "HCLS4 nr. 150/2011",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2011-11-23",
+"latest": "2011-11-23",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=128",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

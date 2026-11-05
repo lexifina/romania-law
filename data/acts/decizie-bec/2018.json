@@ -1,0 +1,83 @@
+{
+"country": "RO",
+"shard": "decizie-bec/2018",
+"acts": [
+{
+"slug": "decizie-bec-referendum-2018-1-h",
+"path": "decizie-bec/referendum-2018/1-h",
+"kind": "decizie-bec",
+"year": "2018",
+"number": "1-h",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Biroului Electoral Central nr. 1-h din 2018-09-23",
+"short": "Hotărârea BEC nr. 1-h/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-09-24",
+"latest": "2018-09-24",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/205128",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-referendum-2018-2-h",
+"path": "decizie-bec/referendum-2018/2-h",
+"kind": "decizie-bec",
+"year": "2018",
+"number": "2-h",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Biroului Electoral Central nr. 2-h din 2018-09-23",
+"short": "Hotărârea BEC nr. 2-h/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-09-24",
+"latest": "2018-09-24",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/205130",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-referendum-2018-27-h",
+"path": "decizie-bec/referendum-2018/27-h",
+"kind": "decizie-bec",
+"year": "2018",
+"number": "27-h",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Biroului Electoral Central nr. 27-h din 2018-10-01",
+"short": "Hotărârea BEC nr. 27-h/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-10-02",
+"latest": "2018-10-02",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/205432",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-referendum-2018-regulament-2018-09-23",
+"path": "decizie-bec/referendum-2018/regulament-2018-09-23",
+"kind": "decizie-bec",
+"year": "2018",
+"number": "regulament-2018-09-23",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 23 septembrie 2018 de organizare şi funcţionare a birourilor şi oficiilor electorale constituite la referendumul naţional pentru revizuirea Constituţiei din 6 şi 7 octombrie 2018",
+"short": "Regulamentul BEC din 2018-09-23",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-09-24",
+"latest": "2018-09-24",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/205129"
+}
+]
+}

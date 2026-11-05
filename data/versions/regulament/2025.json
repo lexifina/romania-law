@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "regulament/2025",
+ "acts": [
+  {
+   "slug": "regulament-asf-1-2025",
+   "path": "regulament/asf/2025/1",
+   "short": "Regulament asf nr. 1/2025",
+   "title": "Regulamentul nr. 1/2025 pentru neaplicarea temporară a cotei prevăzute la punctul 3 din anexa nr. 2 la Regulamentul Autorității de Supraveghere Financiară nr. 16/2014 privind veniturile Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296537",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296537",
+     "sha256": "f56fac52af423c39c4e69a8d87d294b176397db6685a7322f97c4e62417e14f6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-2-2025",
+   "path": "regulament/asf/2025/2",
+   "short": "Regulament asf nr. 2/2025",
+   "title": "Regulamentul nr. 2/2025 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2015 privind administrarea fondurilor de investiții alternative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298875",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298875",
+     "sha256": "640d1098d700955272b142404251a39ed24080b05b9d2be7ebad299e1bfa9617"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-3-2025",
+   "path": "regulament/asf/2025/3",
+   "short": "Regulament asf nr. 3/2025",
+   "title": "Regulamentul nr. 3/2025 privind supravegherea punerii în aplicare a sancțiunilor internaționale de către entitățile reglementate de Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299981",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299981",
+     "sha256": "c1204707965ec2de047a693a0013b0c99e1184ff8677f1cdd7ceef3d427c12e3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-4-2025",
+   "path": "regulament/asf/2025/4",
+   "short": "Regulament asf nr. 4/2025",
+   "title": "Regulamentul nr. 4/2025 pentru modificarea Regulamentului Autorității de Supraveghere Financiară nr. 8/2024 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301333",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301333",
+     "sha256": "bcea352bb1348856a47fe57062e6600f6b567038d9a95144a71082f47b8cf132"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-5-2025",
+   "path": "regulament/asf/2025/5",
+   "short": "Regulament asf nr. 5/2025",
+   "title": "Regulamentul nr. 5/2025 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 3/2016 privind criteriile aplicabile și procedura pentru evaluarea prudențială a achizițiilor și majorărilor participațiilor la entitățile reglementate de Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301504",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301504",
+     "sha256": "321a94d0099f7d032d0a3895a0011f67fce8bd7b14bc67c91e3fb66f1e4b476c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-6-2025",
+   "path": "regulament/asf/2025/6",
+   "short": "Regulament asf nr. 6/2025",
+   "title": "Regulamentul nr. 6/2025 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 13/2018 privind locurile de tranzacționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304204",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304204",
+     "sha256": "264429682480bde1efbfc3dd6c0cf51256ff07d85b66bfacccec69c38cb042ed"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-7-2025",
+   "path": "regulament/asf/2025/7",
+   "short": "Regulament asf nr. 7/2025",
+   "title": "Regulamentul nr. 7/2025 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 5/2024 privind regimul și principiile aferente remunerării personalului și membrilor Consiliului în cadrul Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304805",
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304805",
+     "sha256": "01b9150e55c78eadc5e57633ca01a10f308e4e2c65aed0017d7823b414e4a033"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-1-2025",
+   "path": "regulament/bnr/2025/1",
+   "short": "Regulament bnr nr. 1/2025",
+   "title": "Regulamentul nr. 1/2025 privind modificarea unor acte normative emise de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298344",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298344",
+     "sha256": "0bcc1a17952ffcb82b3b47c7068aeff24f55503a6ac8417fc22859b5f628221a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-2-2025",
+   "path": "regulament/bnr/2025/2",
+   "short": "Regulament bnr nr. 2/2025",
+   "title": "Regulamentul nr. 2/2025 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 5/2013 privind cerințe prudențiale pentru instituțiile de credit și pentru modificarea Regulamentului Băncii Naționale a României nr. 4/2023 privind cerințe prudențiale pentru băncile de dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/300561",
+   "versions": [
+    {
+     "from": "2025-08-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/300561",
+     "sha256": "af0f695e34322eb4058868b70d68a2f314b617ca19730153246065f30fe9e5b9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-3-2025",
+   "path": "regulament/bnr/2025/3",
+   "short": "Regulament bnr nr. 3/2025",
+   "title": "Regulamentul nr. 3/2025 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 4/2021 privind raportarea de date și informații statistice la Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302316",
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302316",
+     "sha256": "6f69c3a80bbacd3f2f3dc45d973469ef2ffab81cc925c1c2ce32a358ec1595cf"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-4-2025",
+   "path": "regulament/bnr/2025/4",
+   "short": "Regulament bnr nr. 4/2025",
+   "title": "Regulamentul nr. 4/2025 privind organizarea și funcționarea la Banca Națională a României a Centralei Riscului de Credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302766",
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302766",
+     "sha256": "47c763ccf519419752f6eb65f3db5f3d558d4c24d2daae1c4f31e7706d75d450"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-5-2025",
+   "path": "regulament/bnr/2025/5",
+   "short": "Regulament bnr nr. 5/2025",
+   "title": "Regulamentul nr. 5/2025 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 8/2022 privind operațiunile de administrare a datoriei publice guvernamentale efectuate de către Ministerul Finanțelor pe piața titlurilor de stat administrată de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304638",
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304638",
+     "sha256": "3447e91a42900fa081b246b8aa4364cdc8ebaef4aafed2d9aaac88562bf759d6"
+    }
+   ]
+  }
+ ]
+}

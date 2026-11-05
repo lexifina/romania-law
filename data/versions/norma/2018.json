@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "norma/2018",
+ "acts": [
+  {
+   "slug": "norma-asf-1-2018",
+   "path": "norma/asf/2018/1",
+   "short": "Norma asf nr. 1/2018",
+   "title": "Norma nr. 1/2018 privind completarea Normei Autorității de Supraveghere Financiară nr. 14/2015 privind reglementările contabile conforme cu directivele europene aplicabile sistemului de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197104",
+   "versions": [
+    {
+     "from": "2018-01-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197104",
+     "sha256": "fb214b7307a30d5a48a5768c4b12514339ab0bc676e647fba7a4d1ccc56a9a89"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-10-2018",
+   "path": "norma/asf/2018/10",
+   "short": "Norma asf nr. 10/2018",
+   "title": "Norma nr. 10/2018 pentru completarea Reglementărilor contabile privind situațiile financiare anuale individuale și situațiile financiare anuale consolidate aplicabile brokerilor de asigurare și/sau de reasigurare, aprobate prin Norma Autorității de Supraveghere Financiară nr. 36/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201807",
+   "versions": [
+    {
+     "from": "2018-06-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201807",
+     "sha256": "42ccd7fdcabcacf0e3c54e981c4b2997c51a915688f2e5ff2ff4b57fb216bdff"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-11-2018",
+   "path": "norma/asf/2018/11",
+   "short": "Norma asf nr. 11/2018",
+   "title": "Norma nr. 11/2018 pentru aplicarea Ghidului ESMA privind procesul de calcul al indicatorilor pentru a determina cele mai relevante monede în care are loc decontarea, a Ghidului ESMA privind procesul de calculare a indicatorilor în vederea stabilirii importanței considerabile a unui CSD pentru un stat membru gazdă și a Ghidului ESMA privind cooperarea între autorități în temeiul articolelor 17 și 23 din Regulamentul (UE) nr. 909/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201765",
+   "versions": [
+    {
+     "from": "2018-06-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201765",
+     "sha256": "c77b022d3e63eaa39d1edcb4f7485edbed721ea217794673ac9bfcd633863620"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-12-2018",
+   "path": "norma/asf/2018/12",
+   "short": "Norma asf nr. 12/2018",
+   "title": "Norma nr. 12/2018 pentru punerea în aplicare a Sistemului de raportare contabilă la 30 iunie 2018 a societăților din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203276",
+   "versions": [
+    {
+     "from": "2018-07-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203276",
+     "sha256": "4627861a292fd1a0f60baa3234d76e14f8e6627cb9801401007e2642a1b30ed1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-13-2018",
+   "path": "norma/asf/2018/13",
+   "short": "Norma asf nr. 13/2018",
+   "title": "Norma nr. 13/2018 pentru aplicarea Ghidului Autorității Europene pentru Valori Mobiliare și Piețe (ESMA) privind scenariile de simulare a situațiilor de criză în temeiul art. 28 din Regulamentul (UE) nr. 1.131/2017 privind fondurile de piață monetară (Money-market funds)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203597",
+   "versions": [
+    {
+     "from": "2018-08-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203597",
+     "sha256": "f3d5697cb6b3a999cc9f7c3b3814f890e62e69827887e75fb8c206e31ccfc6a2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-14-2018",
+   "path": "norma/asf/2018/14",
+   "short": "Norma asf nr. 14/2018",
+   "title": "Norma nr. 14/2018 pentru aplicarea Ghidului Autorității Europene pentru Valori Mobiliare și Piețe (ESMA) privind cerințele de guvernanță a produselor MiFID II",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203786",
+   "versions": [
+    {
+     "from": "2018-08-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203786",
+     "sha256": "86ad2978771edff86c39cf969d87cce8e47e0880b229f59255a6654415fd5ed1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-15-2018",
+   "path": "norma/asf/2018/15",
+   "short": "Norma asf nr. 15/2018",
+   "title": "Norma nr. 15/2018 pentru completarea Reglementărilor contabile privind situațiile financiare anuale, aplicabile Fondului de garantare a asiguraților, aprobate prin Norma Autorității de Supraveghere Financiară nr. 15/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/205460",
+   "versions": [
+    {
+     "from": "2018-10-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/205460",
+     "sha256": "6a91035bacf67e824772374666a8937e0468365120d9610cfee8e53fe886909d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-19-2018",
+   "path": "norma/asf/2018/19",
+   "short": "Norma asf nr. 19/2018",
+   "title": "Norma nr. 19/2018 privind distribuția de asigurări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209094",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209094",
+     "sha256": "3ba45dc1792330a576cccbf63cae38a9a581ffdfc08eed4e51a0ddb474a501d9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-2-2018",
+   "path": "norma/asf/2018/2",
+   "short": "Norma asf nr. 2/2018",
+   "title": "Norma nr. 2/2018 privind modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 39/2015 pentru aprobarea Reglementărilor contabile conforme cu Standardele internaționale de raportare financiară, aplicabile entităților autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară din Sectorul instrumentelor și investițiilor financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197131",
+   "versions": [
+    {
+     "from": "2018-01-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197131",
+     "sha256": "954759e57a5eb0d03a71c2467f4e6e25da6e687f8fe4b74e624957894ae96f69"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-20-2018",
+   "path": "norma/asf/2018/20",
+   "short": "Norma asf nr. 20/2018",
+   "title": "Norma nr. 20/2018 privind pregătirea profesională a persoanelor implicate în activitatea de distribuție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209097",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209097",
+     "sha256": "bbf69492c6a5da43992a8075d56b19b87bb05702af2ffecafd71b4ca419f4244"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-21-2018",
+   "path": "norma/asf/2018/21",
+   "short": "Norma asf nr. 21/2018",
+   "title": "Norma nr. 21/2018 privind abrogarea Normei Autorității de Supraveghere Financiară nr. 32/2016 pentru aplicarea Orientărilor privind sistemele și controalele într-un mediu de tranzacționare automat pentru platformele de tranzacționare, firmele de investiții și autoritățile competente și pentru abrogarea unor dispuneri de măsuri ale Comisiei Naționale a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209558",
+   "versions": [
+    {
+     "from": "2019-01-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209558",
+     "sha256": "ab19f9f34b9b439e612f813c5297e605bbff2c0d475732fbe58d8aa1e75ecf60"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-22-2018",
+   "path": "norma/asf/2018/22",
+   "short": "Norma asf nr. 22/2018",
+   "title": "Norma nr. 22/2018 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 19/2015 privind aplicarea Standardelor internaționale de raportare financiară de către societățile de asigurare, asigurare-reasigurare și de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/209969",
+   "versions": [
+    {
+     "from": "2019-01-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/209969",
+     "sha256": "fddb14f4c4ea30f9d3f025394b70f48c37d03f86ffb72766ca7373b3cb35b851"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-3-2018",
+   "path": "norma/asf/2018/3",
+   "short": "Norma asf nr. 3/2018",
+   "title": "Norma nr. 3/2018 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 19/2015 privind aplicarea Standardelor internaționale de raportare financiară de către societățile de asigurare, asigurare-reasigurare și de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197485",
+   "versions": [
+    {
+     "from": "2018-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197485",
+     "sha256": "aa25edb7dd488bc8c2f4b6a38b3e3a4183a1f2a154e85af65eccde9f1a3c3214"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-5-2018",
+   "path": "norma/asf/2018/5",
+   "short": "Norma asf nr. 5/2018",
+   "title": "Norma nr. 5/2018 privind încheierea exercițiului financiar 2017 pentru societățile din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/199060",
+   "versions": [
+    {
+     "from": "2018-03-26",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199060",
+     "sha256": "5c76cb1a878945a3ded0fc9a0ac1daa52071b28a702cfcbc94ff507a31cae10b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-6-2018",
+   "path": "norma/asf/2018/6",
+   "short": "Norma asf nr. 6/2018",
+   "title": "Norma nr. 6/2018 pentru modificarea art. 11 alin. (7) din Norma Autorității de Supraveghere Financiară nr. 20/2016 privind autorizarea și monitorizarea societăților de asigurare și reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200107",
+   "versions": [
+    {
+     "from": "2018-04-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200107",
+     "sha256": "e6f945c79c42c2b1a0a08cbc27afd0b14304af370b4f99f6d981f61555d37302"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-7-2018",
+   "path": "norma/asf/2018/7",
+   "short": "Norma asf nr. 7/2018",
+   "title": "Norma nr. 7/2018 pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200249",
+   "versions": [
+    {
+     "from": "2018-05-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200249",
+     "sha256": "1ddf7323d1e1c8d9e098bd2f5c192e6bdd495ac79ff5761277c522d2b30ee73c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-8-2018",
+   "path": "norma/asf/2018/8",
+   "short": "Norma asf nr. 8/2018",
+   "title": "Norma nr. 8/2018 pentru completarea Normei Autorității de Supraveghere Financiară nr. 14/2015 privind reglementările contabile conforme cu directivele europene aplicabile sistemului de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/201787",
+   "versions": [
+    {
+     "from": "2018-06-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/201787",
+     "sha256": "1bc8e2d94a75f04860959ab4a80aa1896ba2df639dffd4c328a7cb6e0e5f0bab"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-1-2018",
+   "path": "norma/bnr/2018/1",
+   "short": "Norma bnr nr. 1/2018",
+   "title": "Norma nr. 1/2018 pentru modificarea Normei Băncii Naționale a României nr. 2/2015 privind transmiterea prin mijloace electronice a unor documente aferente operațiunilor de piață monetară efectuate de către Banca Națională a României prin intermediul licitației și facilităților permanente acordate de aceasta participanților eligibili",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198798",
+   "versions": [
+    {
+     "from": "2018-03-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198798",
+     "sha256": "d6a9359a0390bb0cab0f04e90e4250a78e0a6664c399b4b80b330c6ad38c4592"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-2-2018",
+   "path": "norma/bnr/2018/2",
+   "short": "Norma bnr nr. 2/2018",
+   "title": "Norma nr. 2/2018 pentru modificarea Normei Băncii Naționale a României nr. 2/2010 privind transmiterea prin mijloace electronice a unor documente aferente licitațiilor și subscripțiilor de titluri de stat și a Normelor Băncii Naționale a României nr. 1/2016 pentru aplicarea Regulamentului Băncii Naționale a României nr. 7/2016 privind piața primară a titlurilor de stat administrată de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198799",
+   "versions": [
+    {
+     "from": "2018-03-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198799",
+     "sha256": "6971a4c7560a1fd0f63006162abbfe930d939ec03a23dba6758c8e96fc17b43a"
+    }
+   ]
+  }
+ ]
+}

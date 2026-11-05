@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/2007",
+ "acts": [
+  {
+   "slug": "instructiuni-cnvm-1-2007",
+   "path": "instructiuni/cnvm/2007/1",
+   "short": "Instrucțiuni cnvm nr. 1/2007",
+   "title": "Instrucțiunile nr. 1/2007 emisă în aplicarea prevederilor art. 286^1 din Legea nr. 297/2004 privind piața de capital, modificată și completată prin Legea nr. 208/2005 și Legea nr. 97/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80506",
+   "versions": [
+    {
+     "from": "2007-03-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80506",
+     "sha256": "d6a8ab49d08697bc677450f2c3d357be7d75d48298f2d961ed9a0b0ec12d105c"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-2-2007",
+   "path": "instructiuni/cnvm/2007/2",
+   "short": "Instrucțiuni cnvm nr. 2/2007",
+   "title": "Instrucțiunile nr. 2/2007 privind întocmirea și depunerea situațiilor financiare anuale de către entitățile autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80855",
+   "versions": [
+    {
+     "from": "2007-03-30",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80855",
+     "sha256": "b5c6911f56b58f654c4193658bafe008a8ed5e83c66e8429cb1bb391b9e4fca7"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-3-2007",
+   "path": "instructiuni/cnvm/2007/3",
+   "short": "Instrucțiuni cnvm nr. 3/2007",
+   "title": "Instrucțiunile nr. 3/2007 privind derularea ofertelor publice prin intermediul sistemului de tranzacționare al unui operator de piață/de sistem",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82393",
+   "versions": [
+    {
+     "from": "2007-05-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82393",
+     "sha256": "8db0c4090a01d7fed94dd428973a3ded8d522060d1c33fe1a24a68a8970045b6"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-4-2007",
+   "path": "instructiuni/cnvm/2007/4",
+   "short": "Instrucțiuni cnvm nr. 4/2007",
+   "title": "Instrucțiunile nr. 4/2007 privind criteriile de agreare a agențiilor de rating",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83988",
+   "versions": [
+    {
+     "from": "2007-07-31",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83988",
+     "sha256": "388c531d4bf9bfc2285e0e058cd995398c10c59aefb3901f519170b3a1b5ac06"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-5-2007",
+   "path": "instructiuni/cnvm/2007/5",
+   "short": "Instrucțiuni cnvm nr. 5/2007",
+   "title": "Instrucțiunile nr. 5/2007 privind procedura de notificare a organismelor de plasament colectiv în valori mobiliare (O.P.C.V.M.) din state membre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84764",
+   "versions": [
+    {
+     "from": "2007-08-24",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84764",
+     "sha256": "8049719e7f40625166f9e815744544cf888ab53e630f995adb298fbaad08d6d1"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-6-2007",
+   "path": "instructiuni/cnvm/2007/6",
+   "short": "Instrucțiuni cnvm nr. 6/2007",
+   "title": "Instrucțiunile nr. 6/2007 pentru modificarea Instrucțiunii nr. 5/2006 cu privire la sistemul de raportare contabilă semestrială a entităților autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84490",
+   "versions": [
+    {
+     "from": "2007-08-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84490",
+     "sha256": "61546425e69a7c8979d1d59a8df4fb60698e7bdec52108d79f2056ae1d1892b1"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-7-2007",
+   "path": "instructiuni/cnvm/2007/7",
+   "short": "Instrucțiuni cnvm nr. 7/2007",
+   "title": "Instrucțiunile nr. 7/2007 privind raportarea unor operațiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88711",
+   "versions": [
+    {
+     "from": "2008-01-15",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88711",
+     "sha256": "80d7644fd861d28d35312202e8742ee2aa395871a7d9f148749ca5e6ac122d53"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-8-2007",
+   "path": "instructiuni/cnvm/2007/8",
+   "short": "Instrucțiuni cnvm nr. 8/2007",
+   "title": "Instrucțiunile nr. 8/2007 privind raportarea cerințelor minime de capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89240",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89240",
+     "sha256": "17f2ed39f0e6c54e1c4bd7e25007861ee6294f23173e454d4e17a199c3d7f531"
+    }
+   ]
+  }
+ ]
+}

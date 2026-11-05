@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "hotarare-aep/2011",
+ "acts": [
+  {
+   "slug": "hotarare-aep-1-2011",
+   "path": "hotarare-aep/2011/1",
+   "short": "Hotărârea AEP nr. 1/2011",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 1 din 2011-05-24",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/128905",
+   "versions": [
+    {
+     "from": "2011-05-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/128905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-5-2011",
+   "path": "hotarare-aep/2011/5",
+   "short": "Hotărârea AEP nr. 5/2011",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 5 din 2011-07-14",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/130278",
+   "versions": [
+    {
+     "from": "2011-07-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/130278",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

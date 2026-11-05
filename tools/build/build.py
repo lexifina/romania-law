@@ -191,6 +191,8 @@ def load(folder: Path) -> tuple[dict, bytes]:
         for a in part.get('acts', []):
             a['_decisions'] = list(part.get('decisions', []))  # shown in the act's own README
             a['_part'] = p.stem  # which part holds it (a publish can hold one part back)
+        for s in part.get('sources', []):
+            s['_acts'] = [a['slug'] for a in part.get('acts', [])]  # a part's sources are its acts' (index shards)
         for field in ('acts', 'sources', 'applies', 'decisions', 'ai_use'):
             c.setdefault(field, []).extend(part.get(field, []))
     # A version without `units` is an event that changed no words (a ruling, a rejected referendum): it reads as the
@@ -766,6 +768,149 @@ def tables(c: dict, log: list[dict]) -> dict[str, str]:
     return out
 
 
+# ---------------------------------------------------------------- index shards (2026-11-05)
+# data/acts.json, data/versions.json, data/laws.csv and ACTS.md hold the primary legislation: the Constitution, laws,
+# emergency and simple ordinances, decrees, decree-laws, Parliament's decisions and the historical codes. Every other
+# kind's rows live in shards, one per kind and year (local acts: per council and year): data/acts/<shard>.json (.md),
+# data/versions/<shard>.json, data/laws/<shard>.csv and data/sources/<shard>.csv (REPRODUCE.md's Sources rows for
+# those acts), all listed in data/index.json. No published file nears GitHub's
+# 50 MB warning (100 MB refuses a push), and a documentation commit rewrites only the shards whose rows changed.
+PRIMARY_KINDS = ('constitutie', 'lege', 'oug', 'og', 'decret', 'decret-lege', 'hotarare-parlament', 'cod', 'alte')
+SHARD_DIRS = ('data/acts/', 'data/versions/', 'data/laws/', 'data/sources/')
+_SHARD_NAME = re.compile(r'[a-z0-9]+(?:-[a-z0-9]+)*(?:/[a-z0-9]+(?:-[a-z0-9]+)*)*')
+
+
+def shard_of(row: dict) -> str | None:
+    """The shard an acts.json row belongs to (hg/2004, ordin/2012, local/bucuresti/cgmb/2016), or None for the primary files."""
+    kind = row.get('kind') or ''
+    if not kind or kind in PRIMARY_KINDS:
+        return None
+    if not _SHARD_NAME.fullmatch(kind) or '/' in kind:
+        return 'other/other'
+    year = row.get('year') if re.fullmatch(r'\d{4}', row.get('year') or '') else 'other'
+    name = f'{kind}/{row.get("council") or "other"}/{year}' if kind == 'local' else f'{kind}/{year}'
+    return name if _SHARD_NAME.fullmatch(name) else f'{kind}/other'
+
+
+def git_show_many(repo: Path, specs: list[str]) -> list[str | None]:
+    """The text of several `<ref>:<path>` objects in one `git cat-file --batch`; None for each one that is missing."""
+    if not specs:
+        return []
+    out = subprocess.run(['git', 'cat-file', '--batch'], cwd=repo, input=''.join(s + '\n' for s in specs).encode(),
+                         capture_output=True, check=True).stdout
+    res, i = [], 0
+    for _ in specs:
+        nl = out.index(b'\n', i)
+        head, i = out[i:nl].split(), nl + 1
+        if len(head) != 3 or head[1] != b'blob':  # "<spec> missing" / "ambiguous"
+            res.append(None)
+            continue
+        n = int(head[2])
+        res.append(out[i:i + n].decode('utf-8'))
+        i += n + 1
+    return res
+
+
+def index_rows(repo: Path, ref: str, name: str) -> list[dict] | None:
+    """Every row of data/<name>.json (acts or versions) on ref, its shards included; None when ref has no such file."""
+    main, idx = git_show_many(repo, [f'{ref}:data/{name}.json', f'{ref}:data/index.json'])
+    if main is None:
+        return None
+    rows = json.loads(main).get('acts', [])
+    if idx:
+        paths = [s[name] for s in json.loads(idx).get('shards', []) if s.get(name)]
+        for text in git_show_many(repo, [f'{ref}:{p}' for p in paths]):
+            if text:
+                rows += json.loads(text).get('acts', [])
+    return rows
+
+
+def split_indexes(files: dict, sources: list | None = None) -> tuple[dict[str, str], list]:
+    """Move every non-primary row of data/acts.json, data/versions.json and data/laws.csv in `files` to its shard, and
+    write data/index.json. Rows keep their order and their exact form. A part's sources (`_acts`, from load) whose acts
+    all live in one shard are listed in data/sources/<shard>.csv instead of REPRODUCE.md. Returns {act id: shard} for
+    the rows moved and the sources REPRODUCE.md keeps (ACTS.md and REPRODUCE.md are written by the caller)."""
+    aj = json.loads(files['data/acts.json'])
+    country = aj.get('country')
+    where: dict[str, str] = {}
+    acts: dict[str | None, list] = {None: []}
+    for r in aj['acts']:
+        s = shard_of(r)
+        if s:
+            where[r['slug']] = s
+        acts.setdefault(s, []).append(r)
+    vers: dict[str | None, list] = {None: []}
+    if 'data/versions.json' in files:
+        for r in json.loads(files['data/versions.json'])['acts']:
+            vers.setdefault(where.get(r['slug']), []).append(r)
+    laws: dict[str | None, list] = {None: []}
+    header = None
+    if 'data/laws.csv' in files:
+        rd = csv.reader(io.StringIO(files['data/laws.csv'], newline=''))
+        header = next(rd)
+        for r in rd:
+            laws.setdefault(where.get(r[0]), []).append(r)
+    srcs: dict[str | None, list] = {None: []}
+    for s in sources or []:
+        homes = {where.get(a) for a in s.get('_acts') or []}
+        srcs.setdefault(homes.pop() if len(homes) == 1 else None, []).append(s)
+
+    def csv_text(rows, head=None):
+        buf = io.StringIO()
+        wr = csv.writer(buf, lineterminator='\n')
+        wr.writerow(head or header)
+        wr.writerows(rows)
+        return buf.getvalue()
+    out = {'data/acts.json': json.dumps({'country': country, 'acts': acts[None]}, ensure_ascii=False, indent=0) + '\n'}
+    if 'data/versions.json' in files:
+        out['data/versions.json'] = json.dumps({'country': country, 'acts': vers[None]}, ensure_ascii=False, indent=1) + '\n'
+    if header:
+        out['data/laws.csv'] = csv_text(laws[None])
+    shards = []
+    for s in sorted(k for k in set(acts) | set(vers) | set(laws) | set(srcs) if k):
+        e = {'shard': s, 'kind': s.split('/', 1)[0], 'count': len(acts.get(s, []))}
+        if acts.get(s):
+            e['acts'] = f'data/acts/{s}.json'
+            e['list'] = f'data/acts/{s}.md'
+            out[e['acts']] = json.dumps({'country': country, 'shard': s, 'acts': acts[s]}, ensure_ascii=False,
+                                        indent=0) + '\n'
+        if vers.get(s):
+            e['versions'] = f'data/versions/{s}.json'
+            out[e['versions']] = json.dumps({'country': country, 'shard': s, 'acts': vers[s]}, ensure_ascii=False,
+                                            indent=1) + '\n'
+        if laws.get(s):
+            e['laws'] = f'data/laws/{s}.csv'
+            e['laws_count'] = len(laws[s])
+            out[e['laws']] = csv_text(laws[s])
+        if srcs.get(s):  # as REPRODUCE.md's Sources table shows them, plus the acts each one is for
+            e['sources'] = f'data/sources/{s}.csv'
+            out[e['sources']] = csv_text([[public_note(x.get('name', '')), x.get('url', ''), x.get('retrieved', ''),
+                                           public_note(x.get('licence', '')), ' '.join(x.get('_acts') or [])]
+                                          for x in srcs[s]], ['source', 'address', 'retrieved', 'licence', 'acts'])
+        shards.append(e)
+    out['data/index.json'] = json.dumps({
+        'note': 'data/acts.json, data/versions.json, data/laws.csv and ACTS.md hold the primary legislation (kinds in '
+                '`primary_kinds`). Every other kind is split into shards, one per kind and year (local acts: per council '
+                'and year), each with the same row format: `acts` (data/acts/<shard>.json), `list` (data/acts/<shard>.md),'
+                ' `versions` (data/versions/<shard>.json), `laws` (data/laws/<shard>.csv: the laws keyed by an act of '
+                'that shard), `sources` (data/sources/<shard>.csv: the sources of that shard\'s acts, which REPRODUCE.md '
+                'lists for the primary legislation). Read the primary file and every shard for the whole list. '
+                'data/paths.json is not split.',
+        'primary_kinds': list(PRIMARY_KINDS),
+        'primary': {'acts': 'data/acts.json', 'versions': 'data/versions.json', 'laws': 'data/laws.csv',
+                    'list': 'ACTS.md', 'sources': 'REPRODUCE.md', 'count': len(acts[None])},
+        'shards': shards}, ensure_ascii=False, indent=1) + '\n'
+    files.update(out)
+    return where, srcs[None]
+
+
+def drop_stale_shards(files: dict, existing: set[str]) -> None:
+    """Shard files on main (`existing`) that this commit does not write are removed: their rows moved or went."""
+    for p in existing:
+        if p.startswith(SHARD_DIRS) and p not in files:
+            files[p] = None
+
+
 def blob(path: Path) -> str:
     if not path.exists():
         return '(missing)'
@@ -1163,7 +1308,8 @@ def site_data(c: dict, docs_date: str) -> dict:
     co = c['country']
     return {'country': {k: co.get(k) for k in ('code', 'name', 'slug', 'lang', 'tz', 'default_in_force_rule')},
             'publisher': co['publisher']['name'], 'built': docs_date, 'repo': f'https://github.com/lexifina/{co["slug"]}-law',
-            'sources': c.get('sources', []), 'laws': laws, 'acts': acts}
+            'sources': [{k: v for k, v in s.items() if not k.startswith('_')} for s in c.get('sources', [])],
+            'laws': laws, 'acts': acts}
 
 
 def hashes(repo: Path) -> tuple[list[str], dict[str, str], dict[str, str]]:

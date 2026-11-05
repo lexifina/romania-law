@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "regulament/2002",
+ "acts": [
+  {
+   "slug": "regulament-bnr-1-2002",
+   "path": "regulament/bnr/2002/1",
+   "short": "Regulament bnr nr. 1/2002",
+   "title": "Regulamentul nr. 1/2002 (*republicat privind sistemul de transfer de fonduri de mare valoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54872",
+   "versions": [
+    {
+     "from": "2004-09-02",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54872",
+     "sha256": "8c01f51457c4a5321b343d1dbf9259e8224c7a21c7763508ce7dd8b0d3840f6a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-4-2002",
+   "path": "regulament/bnr/2002/4",
+   "short": "Regulament bnr nr. 4/2002",
+   "title": "Regulamentul nr. 4/2002 privind tranzacțiile efectuate prin intermediul instrumentelor de plată electronică și relațiile dintre participanții la aceste tranzacții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/37273",
+   "versions": [
+    {
+     "from": "2002-07-12",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/37273",
+     "sha256": "3e5297dabc4820864cb19bfeed38c83b4a05f3eb694ce03ed2962897ee4e4bb4"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-5-2002",
+   "path": "regulament/bnr/2002/5",
+   "short": "Regulament bnr nr. 5/2002",
+   "title": "Regulamentul nr. 5/2002 privind clasificarea creditelor și plasamentelor, precum și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38112",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38112",
+     "sha256": "5178c0bfbb587e0f52b8ec271c63d66a79d0983d7f1d1d33f1c527a321decad7"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-7-2002",
+   "path": "regulament/bnr/2002/7",
+   "short": "Regulament bnr nr. 7/2002",
+   "title": "Regulamentul nr. 7/2002 privind modificarea și completarea Regulamentului Băncii Naționale a României nr. 5/2002 privind clasificarea creditelor și plasamentelor, precum și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit și a Normelor metodologice nr. 12/2002 pentru aplicarea acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40587",
+   "versions": [
+    {
+     "from": "2002-12-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40587",
+     "sha256": "62473a13b1d424b6bb37494d46e06a330707d32eb29267e94caad98ea68772e8"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-8-2002",
+   "path": "regulament/bnr/2002/8",
+   "short": "Regulament bnr nr. 8/2002",
+   "title": "Regulamentul nr. 8/2002 privind procedura în cazul constatării de bancnote și monede euro false sau contrafăcute",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41097",
+   "versions": [
+    {
+     "from": "2003-01-08",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41097",
+     "sha256": "5a4da74bfa3dc3f187f86b5b7581fd98c5d45852eb7dee413626b538367de8e7"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-1-2002",
+   "path": "regulament/cnvm/2002/1",
+   "short": "Regulament cnvm nr. 1/2002",
+   "title": "Regulamentul nr. 1/2002 REGULAMENT nr. 1/2002 de abrogare a Regulamentului nr. 6/2001 privind autorizarea și exercitarea serviciilor de intermediere la bursele de mărfuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38653",
+   "versions": [
+    {
+     "from": "2002-10-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38653",
+     "sha256": "50a310ba760133b4df5aa46714579fe47f423d5eea6ff06b7f3070ca2ba503f7"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-15-2002",
+   "path": "regulament/cnvm/2002/15",
+   "short": "Regulament cnvm nr. 15/2002",
+   "title": "Regulamentul nr. 15/2002 privind operațiunile cu titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36418",
+   "versions": [
+    {
+     "from": "2002-06-04",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36418",
+     "sha256": "b082e942c3457395711ac5ec8e8fdf65b767975bff173fbdced5324884407a92"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-2-2002",
+   "path": "regulament/cnvm/2002/2",
+   "short": "Regulament cnvm nr. 2/2002",
+   "title": "Regulamentul nr. 2/2002 REGULAMENT nr. 2/2002 privind transparenta și integritatea pieței RASDAQ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38657",
+   "versions": [
+    {
+     "from": "2002-10-01",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38657",
+     "sha256": "411ce420deb94ae31187b550a838e5d329f78033785c6fc51220bac5bfda9855"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-finante-15-2002",
+   "path": "regulament/finante/2002/15",
+   "short": "Regulament finante nr. 15/2002",
+   "title": "Regulamentul nr. 15/2002 privind operațiunile cu titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36396",
+   "versions": [
+    {
+     "from": "2002-06-04",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36396",
+     "sha256": "4ec77b5964f437431305fc17d16db4058742742072cfcced3d220aa88e55f150"
+    }
+   ]
+  }
+ ]
+}

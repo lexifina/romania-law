@@ -1,0 +1,786 @@
+{
+ "country": "RO",
+ "shard": "anspdcp/2023",
+ "acts": [
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-01-03",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-01-03",
+   "short": "Comunicat ANSPDCP din 2023-01-03",
+   "title": "Comunicat ANSPDCP din 2023-01-03: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_03_01_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_03_01_2023&lang=ro",
+     "sha256": "dc599da23d33a9195789c418eff307538f3b6f618516bb55faa64537ccd19922"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-01-04",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-01-04",
+   "short": "Comunicat ANSPDCP din 2023-01-04",
+   "title": "Comunicat ANSPDCP din 2023-01-04: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_04.01.2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_04.01.2023&lang=ro",
+     "sha256": "cc59f85dd6f60b087246206d8678db3af98535e2df048c1a206f484c6359347d"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-01-12",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-01-12",
+   "short": "Comunicat ANSPDCP din 2023-01-12",
+   "title": "Comunicat ANSPDCP din 2023-01-12: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_12_01_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-01-12",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_12_01_2023&lang=ro",
+     "sha256": "e5fcd63f499f563b7183de358f0258e80a9532f09f0f9974ace2479fa8ae2a9e"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-01-18",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-01-18",
+   "short": "Comunicat ANSPDCP din 2023-01-18",
+   "title": "Comunicat ANSPDCP din 2023-01-18: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18_01_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-01-18",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18_01_2023&lang=ro",
+     "sha256": "1ac079232844fc9fca263a831493877a7ac6f2c6f0ca2fe4efd951731e4956f2"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-01-31",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-01-31",
+   "short": "Comunicat ANSPDCP din 2023-01-31",
+   "title": "Comunicat ANSPDCP din 2023-01-31: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_31_01_2023_1&lang=ro",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_31_01_2023_1&lang=ro",
+     "sha256": "2ea4838b83bee59595a1d1b6e5e1b852f9f40be2a26a2c9a3caa777f9d25a2ba"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-02-01",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-02-01",
+   "short": "Comunicat ANSPDCP din 2023-02-01",
+   "title": "Comunicat ANSPDCP din 2023-02-01: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_01.02.2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_01.02.2023&lang=ro",
+     "sha256": "4a8c869219b15936639fc36d1ad3a4d2d357ee2a5f2aefbe6771942c2f59ebfd"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-02-08",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-02-08",
+   "short": "Comunicat ANSPDCP din 2023-02-08",
+   "title": "Comunicat ANSPDCP din 2023-02-08: O nouă sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_08.02.2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_08.02.2023&lang=ro",
+     "sha256": "7c34fbc61a164149bf5c4053da48bcb10511eec153496a0a2a6e48cd0ea5447c"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-03-06",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-03-06",
+   "short": "Comunicat ANSPDCP din 2023-03-06",
+   "title": "Comunicat ANSPDCP din 2023-03-06: Sancțiuni pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_06.03.2023_2&lang=ro",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_06.03.2023_2&lang=ro",
+     "sha256": "9fb919ad30c4981cd76db2b4f5d940d095a7ea140c15a739a1d19499d549a9d8"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-03-13",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-03-13",
+   "short": "Comunicat ANSPDCP din 2023-03-13",
+   "title": "Comunicat ANSPDCP din 2023-03-13: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_13.03.2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-03-13",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_13.03.2023&lang=ro",
+     "sha256": "b7357441db5fe25f8c107b8b2532f6473d59b26a7a6127f3bcdd1fe7ff44686a"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-03-14",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-03-14",
+   "short": "Comunicat ANSPDCP din 2023-03-14",
+   "title": "Comunicat ANSPDCP din 2023-03-14: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_14_03_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_14_03_2023&lang=ro",
+     "sha256": "b541caee0a276e855b3bd7e7593306bd776386459f063b7ef06f0f60888c3d29"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-03-15",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-03-15",
+   "short": "Comunicat ANSPDCP din 2023-03-15",
+   "title": "Comunicat ANSPDCP din 2023-03-15: Sancțiuni",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_15_03_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_15_03_2023&lang=ro",
+     "sha256": "ed4afef611679c51cbc8e9ce226506ef9e1c6eb535eea3990bea6b7d1d56e69b"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-03-16",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-03-16",
+   "short": "Comunicat ANSPDCP din 2023-03-16",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2023-03-16",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_16_03_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_16_03_2023&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-03-23",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-03-23",
+   "short": "Comunicat ANSPDCP din 2023-03-23",
+   "title": "Comunicat ANSPDCP din 2023-03-23: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23.03.2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23.03.2023&lang=ro",
+     "sha256": "fd19523b8f6e245e424bea6fdae67e8e1767c1e8ffde23e9f778f535356de320"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-03-27",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-03-27",
+   "short": "Comunicat ANSPDCP din 2023-03-27",
+   "title": "Comunicat ANSPDCP din 2023-03-27: O nouă sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_27_03_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_27_03_2023&lang=ro",
+     "sha256": "4def64d3502713dd7ca2ab521d7d702811caf6e266c41adca03a2239a587cc47"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-04-03",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-04-03",
+   "short": "Comunicat ANSPDCP din 2023-04-03",
+   "title": "Comunicat ANSPDCP din 2023-04-03: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_03.04.2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-04-03",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_03.04.2023&lang=ro",
+     "sha256": "cb7d9339c3d6ae7ad3bc96d96ac94faed78381f3dc69eef693de7c063fe5f8e1"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-04-04",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-04-04",
+   "short": "Comunicat ANSPDCP din 2023-04-04",
+   "title": "Comunicat ANSPDCP din 2023-04-04: Sancțiuni pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_04_04_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-04-04",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_04_04_2023&lang=ro",
+     "sha256": "eca78c81810644ba6ccd30cb5c6fa49b1a569b32942277d252b9800e277f41ee"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-04-07",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-04-07",
+   "short": "Comunicat ANSPDCP din 2023-04-07",
+   "title": "Comunicat ANSPDCP din 2023-04-07: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_07.04.2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-04-07",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_07.04.2023&lang=ro",
+     "sha256": "913dd8e75bfc9abe0fdfa9f0e2cb1b60a81bc360637b5e897d87837cc3dc9cb2"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-04-19",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-04-19",
+   "short": "Comunicat ANSPDCP din 2023-04-19",
+   "title": "Comunicat ANSPDCP din 2023-04-19: Sancți une pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_19.04.2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_19.04.2023&lang=ro",
+     "sha256": "000e491ca43a221d0d0772f2da388b22f0805b670cd98731ef1700155b80336c"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-04-24",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-04-24",
+   "short": "Comunicat ANSPDCP din 2023-04-24",
+   "title": "Comunicat ANSPDCP din 2023-04-24: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_24_04_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_24_04_2023&lang=ro",
+     "sha256": "aad94774f1b8af3a336fd9376ec495d0446669a53417fbc026a451e96b038fdc"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-05-11",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-05-11",
+   "short": "Comunicat ANSPDCP din 2023-05-11",
+   "title": "Comunicat ANSPDCP din 2023-05-11: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_11_05_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_11_05_2023&lang=ro",
+     "sha256": "4a7eea69a95814fe56182f45ada7ec5ca74583f1acedb93559e08dd4893700dc"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-05-12",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-05-12",
+   "short": "Comunicat ANSPDCP din 2023-05-12",
+   "title": "Comunicat ANSPDCP din 2023-05-12: Noi sancțiuni",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_12_05_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_12_05_2023&lang=ro",
+     "sha256": "eaa7b4c2f733b415049ef70b62b93360ff99baee37cccaf2cb5f1b31e77a98cf"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-05-16",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-05-16",
+   "short": "Comunicat ANSPDCP din 2023-05-16",
+   "title": "Comunicat ANSPDCP din 2023-05-16: O nouă sancțiune pentru nerespectarea GDPR",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_16.05.2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_16.05.2023&lang=ro",
+     "sha256": "aba9038672a51f57e2d859f5a6e2abaa06fa8b746bccb1c24261be46e5106303"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-05-18",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-05-18",
+   "short": "Comunicat ANSPDCP din 2023-05-18",
+   "title": "Comunicat ANSPDCP din 2023-05-18: O nouă sancțiune pentru nerespectarea GDPR",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18_05_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18_05_2023&lang=ro",
+     "sha256": "96510f42a188326978e27dfaea3daeb4f39a6e51d3d4c085a379d531cdc04161"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-05-23",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-05-23",
+   "short": "Comunicat ANSPDCP din 2023-05-23",
+   "title": "Comunicat ANSPDCP din 2023-05-23: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23.05.2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23.05.2023&lang=ro",
+     "sha256": "80b4e98b08c6e72b79267e4814c128f774b111878606234ee7b4ae0724ddc980"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-06-06",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-06-06",
+   "short": "Comunicat ANSPDCP din 2023-06-06",
+   "title": "Comunicat ANSPDCP din 2023-06-06: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_06_06_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_06_06_2023&lang=ro",
+     "sha256": "d99bcda9480db97e943979d9aa19342bbfc95c4e702ec27a72293e9a0adcae20"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-06-15-2",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-06-15-2",
+   "short": "Comunicat ANSPDCP din 2023-06-15 (2)",
+   "title": "Comunicat ANSPDCP din 2023-06-15 (2): Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa2_15.06.2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa2_15.06.2023&lang=ro",
+     "sha256": "74e5387462bfc86155cde2e65f4ae1ba7b7ed0dd7661a06ff1de0e23775a5827"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-06-15",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-06-15",
+   "short": "Comunicat ANSPDCP din 2023-06-15",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2023-06-15",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_15.06.2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_15.06.2023&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-06-20",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-06-20",
+   "short": "Comunicat ANSPDCP din 2023-06-20",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2023-06-20",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20.06.2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20.06.2023&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-06-21",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-06-21",
+   "short": "Comunicat ANSPDCP din 2023-06-21",
+   "title": "Comunicat ANSPDCP din 2023-06-21: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_21_06_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_21_06_2023&lang=ro",
+     "sha256": "b08fd66288a8e963f3128bed77a11fa604086357099ce69752d0af4c931ab91d"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-06-27",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-06-27",
+   "short": "Comunicat ANSPDCP din 2023-06-27",
+   "title": "Comunicat ANSPDCP din 2023-06-27: O nouă sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_27_06_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_27_06_2023&lang=ro",
+     "sha256": "2c7c0a12f12ef5456ad4682f8445682b60d4951d4008540a1d2a39d832098491"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-07-18",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-07-18",
+   "short": "Comunicat ANSPDCP din 2023-07-18",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2023-07-18",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18_07_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18_07_2023&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-08-03",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-08-03",
+   "short": "Comunicat ANSPDCP din 2023-08-03",
+   "title": "Comunicat ANSPDCP din 2023-08-03: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_03_08_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_03_08_2023&lang=ro",
+     "sha256": "be9519b2a2c28a9b626260d19a6a05f10fa5e0682713ebe6f442ca3ef35b4c7e"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-08-21",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-08-21",
+   "short": "Comunicat ANSPDCP din 2023-08-21",
+   "title": "Comunicat ANSPDCP din 2023-08-21: Sancțiune - prelucrare transfrontalieră",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_21_08_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_21_08_2023&lang=ro",
+     "sha256": "99b1708d86d53bb31f1565a872f37d7e969c4d57e1331570bcff9574178a65a8"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-08-23",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-08-23",
+   "short": "Comunicat ANSPDCP din 2023-08-23",
+   "title": "Comunicat ANSPDCP din 2023-08-23: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23.08.2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-08-23",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23.08.2023&lang=ro",
+     "sha256": "319d7f4ed7a2d53bdd67f6d4f9ce28a60985029dd08b75834aae6a7daa790945"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-08-31",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-08-31",
+   "short": "Comunicat ANSPDCP din 2023-08-31",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2023-08-31",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_31_08_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_31_08_2023&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-09-07",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-09-07",
+   "short": "Comunicat ANSPDCP din 2023-09-07",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2023-09-07",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_07_09_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_07_09_2023&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-09-18",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-09-18",
+   "short": "Comunicat ANSPDCP din 2023-09-18",
+   "title": "Comunicat ANSPDCP din 2023-09-18: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18.09.2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18.09.2023&lang=ro",
+     "sha256": "52657f97c2040ef90827eba6ccf65949930a020f3a083838a80015ca1997f871"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-09-25",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-09-25",
+   "short": "Comunicat ANSPDCP din 2023-09-25",
+   "title": "Comunicat ANSPDCP din 2023-09-25: O nouă amendă - operator autoritate din administrația publică locală",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_25.09.2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_25.09.2023&lang=ro",
+     "sha256": "4059b587094a7666c188bade2dcb67e8d782ae299c5ae4a517a0762b881631ce"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-09-26",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-09-26",
+   "short": "Comunicat ANSPDCP din 2023-09-26",
+   "title": "Comunicat ANSPDCP din 2023-09-26: Sancțiune pentru încălcarea GDPR",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_26_09_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_26_09_2023&lang=ro",
+     "sha256": "6e4d7a2853d1d49665e40bbf0fb71481c02355eec244ffc1385e3d97c06e323e"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-10-02",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-10-02",
+   "short": "Comunicat ANSPDCP din 2023-10-02",
+   "title": "Comunicat ANSPDCP din 2023-10-02: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_02_10_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-10-02",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_02_10_2023&lang=ro",
+     "sha256": "6c27054d26301cd12f2eee86d302fb5770c3b7eab5342d51c6ee051ee9d4d6ea"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-10-20",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-10-20",
+   "short": "Comunicat ANSPDCP din 2023-10-20",
+   "title": "Comunicat ANSPDCP din 2023-10-20: Sancțiune pentru încălcarea GDPR",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_10_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-10-20",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_10_2023&lang=ro",
+     "sha256": "6740742eef1681d6d9b05b1fd71c96eb72c793258cc283dead5d58ff5382578d"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-10-24",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-10-24",
+   "short": "Comunicat ANSPDCP din 2023-10-24",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2023-10-24",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_24_10_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_24_10_2023&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-10-25",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-10-25",
+   "short": "Comunicat ANSPDCP din 2023-10-25",
+   "title": "Comunicat ANSPDCP din 2023-10-25: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_25_10_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_25_10_2023&lang=ro",
+     "sha256": "2b9920e867a812ed449e9d542698ca30d189a2a43e7030ae3351e06e9bd1dbde"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-10-27",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-10-27",
+   "short": "Comunicat ANSPDCP din 2023-10-27",
+   "title": "Comunicat ANSPDCP din 2023-10-27: Sancțiune pentru încălcarea GDPR",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_27_10_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-10-27",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_27_10_2023&lang=ro",
+     "sha256": "a452a31ff2b61606c2534c45efeccf1fdba4a1ce22588e9b8b52aa644f657dc9"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-11-03",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-11-03",
+   "short": "Comunicat ANSPDCP din 2023-11-03",
+   "title": "Comunicat ANSPDCP din 2023-11-03: Sancțiune pentru încălcarea GDPR",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_03_11_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-11-03",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_03_11_2023&lang=ro",
+     "sha256": "1e047b50ee7cf6f08d29b417f1f30971c0a4f780611959929c6a1630b29e9a73"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-11-13",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-11-13",
+   "short": "Comunicat ANSPDCP din 2023-11-13",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2023-11-13",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_13_11_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_13_11_2023&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-11-20",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-11-20",
+   "short": "Comunicat ANSPDCP din 2023-11-20",
+   "title": "Comunicat ANSPDCP din 2023-11-20: O nouă sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_11_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_11_2023&lang=ro",
+     "sha256": "a035a7f260c128ed22910e17e2619842fbaa3a3bacf9b14d20af8a5ea68282ff"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-11-23",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-11-23",
+   "short": "Comunicat ANSPDCP din 2023-11-23",
+   "title": "Comunicat ANSPDCP din 2023-11-23: O nouă sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23_11_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-11-23",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23_11_2023&lang=ro",
+     "sha256": "0f5c7e72dfe56b6ea6a9e62a5b246933dc62d38cbe19a4423d62397881dda62d"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-12-07",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-12-07",
+   "short": "Comunicat ANSPDCP din 2023-12-07",
+   "title": "Comunicat ANSPDCP din 2023-12-07: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_07_12_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_07_12_2023&lang=ro",
+     "sha256": "e64af2ea0c6369eeff55b8db36ababeecd7d66c8ee92bbc995317760608740d4"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-12-11",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-12-11",
+   "short": "Comunicat ANSPDCP din 2023-12-11",
+   "title": "Comunicat ANSPDCP din 2023-12-11: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_11.12.2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_11.12.2023&lang=ro",
+     "sha256": "b4b6b1df77f64631ac8a1401855f77c53b7be417f3d58101582dbfda93f11068"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2023-2023-12-15",
+   "path": "anspdcp/comunicat-sanctiune/2023/2023-12-15",
+   "short": "Comunicat ANSPDCP din 2023-12-15",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2023-12-15",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_15_12_2023&lang=ro",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_15_12_2023&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-decizie-2023-64",
+   "path": "anspdcp/decizie/2023/64",
+   "short": "Decizia ANSPDCP nr. 64/2023",
+   "title": "Decizia ANSPDCP nr. 64/2023: din 17 mai 2023 privind aprobarea Cerințelor de acreditare a unui organism de monitorizare a codurilor de conduită în temeiul art. 41 din Regulamentul (UE) 2016/679",
+   "url": "https://www.dataprotection.ro/servlet/ViewDocument?id=2538",
+   "versions": [
+    {
+     "from": "2023-06-14",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/servlet/ViewDocument?id=2538",
+     "sha256": "5bfead5e8bba477b583be7161536e984290a16537bc17326634a45d3d7922da9"
+    }
+   ]
+  }
+ ]
+}

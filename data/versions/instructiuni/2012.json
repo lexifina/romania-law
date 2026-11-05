@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/2012",
+ "acts": [
+  {
+   "slug": "instructiuni-cnvm-1-2012",
+   "path": "instructiuni/cnvm/2012/1",
+   "short": "Instrucțiuni cnvm nr. 1/2012",
+   "title": "Instrucțiunile nr. 1/2012 privind organismele de plasament colectiv monetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134789",
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134789",
+     "sha256": "f1fe17512891a22e979d34f8941b934b98cf3f33606612d8a362998c7580aec1"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-2-2012",
+   "path": "instructiuni/cnvm/2012/2",
+   "short": "Instrucțiuni cnvm nr. 2/2012",
+   "title": "Instrucțiunile nr. 2/2012 pentru modificarea Instrucțiunii nr. 2/2007 privind întocmirea și depunerea situațiilor financiare anuale de către entitățile autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare, aprobată prin Ordinul președintelui Comisiei Naționale a Valorilor Mobiliare nr. 30/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134814",
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134814",
+     "sha256": "5f8727948fe648a065158bbda4ce5399685a2682fa1c6dedd599de292aae0356"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-6-2012",
+   "path": "instructiuni/cnvm/2012/6",
+   "short": "Instrucțiuni cnvm nr. 6/2012",
+   "title": "Instrucțiunile nr. 6/2012 emisă în aplicarea prevederilor art. 286^1 din Legea nr. 297/2004 privind piața de capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144273",
+   "versions": [
+    {
+     "from": "2013-01-03",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144273",
+     "sha256": "8804f819b7e929b5d7ac6762015e496b24b6b566fa2a8ac00c3d4bcc2cf386b4"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-7-2012",
+   "path": "instructiuni/cnvm/2012/7",
+   "short": "Instrucțiuni cnvm nr. 7/2012",
+   "title": "Instrucțiunile nr. 7/2012 privind transmiterea de rapoarte referitoare la reclamațiile primite de la clienți și stadiul rezolvării acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144291",
+   "versions": [
+    {
+     "from": "2013-01-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144291",
+     "sha256": "b35b8d201ec930d1856af491a3e8883a1dd69e4c7ba872507a073c27063f69c9"
+    }
+   ]
+  }
+ ]
+}

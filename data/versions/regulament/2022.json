@@ -1,0 +1,366 @@
+{
+ "country": "RO",
+ "shard": "regulament/2022",
+ "acts": [
+  {
+   "slug": "regulament-asf-1-2022",
+   "path": "regulament/asf/2022/1",
+   "short": "Regulament asf nr. 1/2022",
+   "title": "Regulamentul nr. 1/2022 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 15/2018 privind Registrul public al Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251009",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251009",
+     "sha256": "6fc0893c510ee4691f56414f30355e1b1171c4819e35de7ef4056450603f854f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-10-2022",
+   "path": "regulament/asf/2022/10",
+   "short": "Regulament asf nr. 10/2022",
+   "title": "Regulamentul nr. 10/2022 privind Fondul de compensare a investitorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254696",
+   "versions": [
+    {
+     "from": "2022-05-05",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254696",
+     "sha256": "52020993e7e14d27207471aebde23a4de6b93cbbb8fd20357bb1d5c8762d8106"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-11-2022",
+   "path": "regulament/asf/2022/11",
+   "short": "Regulament asf nr. 11/2022",
+   "title": "Regulamentul nr. 11/2022 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 4/2021 privind activitatea de control desfășurată de către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255806",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255806",
+     "sha256": "70e7b131bdbd73135341a6dcdb1ef33c64cbc8b6ebbbf8e6598c177296d06329"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-13-2022",
+   "path": "regulament/asf/2022/13",
+   "short": "Regulament asf nr. 13/2022",
+   "title": "Regulamentul nr. 13/2022 pentru modificarea Regulamentului Autorității de Supraveghere Financiară nr. 3/2014 privind unele aspecte legate de aplicarea Ordonanței de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului și a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului din 26 iunie 2013 privind cerințele prudențiale pentru instituțiile de credit și firmele de investiții și de modificare a Regulamentului (UE) nr. 648/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258218",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258218",
+     "sha256": "499812b8bcd0577218206d3f57933082bd878f00dc3fa0f313c6cecc04cfbe5b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-14-2022",
+   "path": "regulament/asf/2022/14",
+   "short": "Regulament asf nr. 14/2022",
+   "title": "Regulamentul nr. 14/2022 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 16/2014 privind veniturile Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259441",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259441",
+     "sha256": "0da638dff04116a9d012a084b7f2e165d3d872943448c130d534f430ed71b8cf"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-15-2022",
+   "path": "regulament/asf/2022/15",
+   "short": "Regulament asf nr. 15/2022",
+   "title": "Regulamentul nr. 15/2022 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 15/2018 privind Registrul public al Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259827",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259827",
+     "sha256": "b85299a2068647589c2bb07ecadef5526a87ef6cf43eb57d5ad98de419e2caaa"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-17-2022",
+   "path": "regulament/asf/2022/17",
+   "short": "Regulament asf nr. 17/2022",
+   "title": "Regulamentul nr. 17/2022 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2016 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/261727",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/261727",
+     "sha256": "5b415f539b09acff9c96b6c35fdfeb910e3696513bb3b01a74b8b64c57dde63c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-18-2022",
+   "path": "regulament/asf/2022/18",
+   "short": "Regulament asf nr. 18/2022",
+   "title": "Regulamentul nr. 18/2022 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 13/2019 privind instituirea măsurilor de prevenire și combatere a spălării banilor și a finanțării terorismului prin intermediul sectoarelor financiare supravegheate de Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263793",
+   "versions": [
+    {
+     "from": "2023-02-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263793",
+     "sha256": "06a3ca71b205e051f53d16eb0bebe3fec25638fc94ff8942fc5a4e68aceb0825"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-2-2022",
+   "path": "regulament/asf/2022/2",
+   "short": "Regulament asf nr. 2/2022",
+   "title": "Regulamentul nr. 2/2022 pentru modificarea Regulamentului Autorității de Supraveghere Financiară nr. 5/2018 privind emitenții de instrumente financiare și operațiuni de piață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251362",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251362",
+     "sha256": "d26935e0ba16a7536b73d8a5829a413b2a9dd3f2b28574607fc8888e7e5bfdb7"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-3-2022",
+   "path": "regulament/asf/2022/3",
+   "short": "Regulament asf nr. 3/2022",
+   "title": "Regulamentul nr. 3/2022 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2016 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251665",
+   "versions": [
+    {
+     "from": "2022-02-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251665",
+     "sha256": "624cf0b3af6bcd86906276fdff456b0bb39c7603ebed03ff760ab466dcbd4277"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-4-2022",
+   "path": "regulament/asf/2022/4",
+   "short": "Regulament asf nr. 4/2022",
+   "title": "Regulamentul nr. 4/2022 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 3/2014 privind unele aspecte legate de aplicarea Ordonanței de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului și a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului din 26 iunie 2013 privind cerințele prudențiale pentru instituțiile de credit și firmele de investiții și de modificare a Regulamentului (UE) nr. 648/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251893",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251893",
+     "sha256": "3d85872779530faa3dc84d48dcf25eab5d78058cd0f9dbdd6732faa1bc09bcd0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-5-2022",
+   "path": "regulament/asf/2022/5",
+   "short": "Regulament asf nr. 5/2022",
+   "title": "Regulamentul nr. 5/2022 pentru modificarea art. 27 din Regulamentul Autorității de Supraveghere Financiară nr. 10/2016 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253204",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253204",
+     "sha256": "bdb417d7ff0511ed1d6d84e3b7f27779c509b0459b06cf548af833a9fe34640b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-7-2022",
+   "path": "regulament/asf/2022/7",
+   "short": "Regulament asf nr. 7/2022",
+   "title": "Regulamentul nr. 7/2022 pentru completarea Regulamentului Autorității de Supraveghere Financiară nr. 9/2014 privind autorizarea și funcționarea societăților de administrare a investițiilor, a organismelor de plasament colectiv în valori mobiliare și a depozitarilor organismelor de plasament colectiv în valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254470",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254470",
+     "sha256": "9506cfc4ac3220f361b094ed80af3026fb8c0440d95486699a438f3fac3f2432"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-8-2022",
+   "path": "regulament/asf/2022/8",
+   "short": "Regulament asf nr. 8/2022",
+   "title": "Regulamentul nr. 8/2022 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 5/2019 privind reglementarea unor dispoziții referitoare la prestarea serviciilor și activităților de investiții conform Legii nr. 126/2018 privind piețele de instrumente financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254562",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254562",
+     "sha256": "5eb4d4b3ce711aa37c987eafded3634c2f02f43ee00db1ae7bfed649203bf957"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-9-2022",
+   "path": "regulament/asf/2022/9",
+   "short": "Regulament asf nr. 9/2022",
+   "title": "Regulamentul nr. 9/2022 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 4/2013 privind acțiunile suport pentru certificate de depozit, aprobat prin Hotărârea Consiliului Autorității de Supraveghere Financiară nr. 44/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255018",
+   "versions": [
+    {
+     "from": "2022-05-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255018",
+     "sha256": "49b11ad60bb4145366c91339b69a9ab3102f39ec6f0cdec2223ec361e69b8e61"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-1-2022",
+   "path": "regulament/bnr/2022/1",
+   "short": "Regulament bnr nr. 1/2022",
+   "title": "Regulamentul nr. 1/2022 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 12/2020 privind autorizarea instituțiilor de credit și modificările în situația acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251544",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251544",
+     "sha256": "d6283b88ccc28c01460b2ebe0103f06497fa0974baf5dde9aac13569fda0c532"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-10-2022",
+   "path": "regulament/bnr/2022/10",
+   "short": "Regulament bnr nr. 10/2022",
+   "title": "Regulamentul nr. 10/2022 privind emiterea de obligațiuni garantate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258634",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 67,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258634",
+     "sha256": "961c4242bc5b10a04f5ca9b265ceafd06a9eb34cc415a84af2cd3f87f6d658e9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-11-2022",
+   "path": "regulament/bnr/2022/11",
+   "short": "Regulament bnr nr. 11/2022",
+   "title": "Regulamentul nr. 11/2022 privind modificarea și completarea unor acte normative emise de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260734",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260734",
+     "sha256": "d99ed226693dbdd8bd7ea1f5053eadf4b15ae8b9353774fee1f6562bf88aed53"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-2-2022",
+   "path": "regulament/bnr/2022/2",
+   "short": "Regulament bnr nr. 2/2022",
+   "title": "Regulamentul nr. 2/2022 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 5/2013 privind cerințe prudențiale pentru instituțiile de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251438",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251438",
+     "sha256": "2789017e936aeebdfbd876cc323b8128161ab9668d4f76569c0abac90be49eaa"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-4-2022",
+   "path": "regulament/bnr/2022/4",
+   "short": "Regulament bnr nr. 4/2022",
+   "title": "Regulamentul nr. 4/2022 pentru modificarea Regulamentului Băncii Naționale a României nr. 2/2020 privind măsurile de securitate referitoare la riscurile operaționale și de securitate și cerințele de raportare aferente serviciilor de plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252605",
+   "versions": [
+    {
+     "from": "2022-03-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252605",
+     "sha256": "f409853dc0620d0d5e7c8370ed2bfad0234361385a9a0e185a6e0d6c6412a1b2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-5-2022",
+   "path": "regulament/bnr/2022/5",
+   "short": "Regulament bnr nr. 5/2022",
+   "title": "Regulamentul nr. 5/2022 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 5/2013 privind cerințe prudențiale pentru instituțiile de credit și pentru abrogarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253478",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253478",
+     "sha256": "91fc059474356f2255664be1e901f7b77740b2a063bb41bf0d74e86e7c291376"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-6-2022",
+   "path": "regulament/bnr/2022/6",
+   "short": "Regulament bnr nr. 6/2022",
+   "title": "Regulamentul nr. 6/2022 privind cadrul de desfășurare a testelor de reziliență cibernetică TIBER-RO",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254625",
+   "versions": [
+    {
+     "from": "2022-05-03",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254625",
+     "sha256": "020cf1c62d91a279e11b546f2b4e8fcdf9f92bb239d21d541123528f0ce8de3f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-7-2022",
+   "path": "regulament/bnr/2022/7",
+   "short": "Regulament bnr nr. 7/2022",
+   "title": "Regulamentul nr. 7/2022 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 2/2012 privind organizarea și funcționarea la Banca Națională a României a Centralei Riscului de Credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254308",
+   "versions": [
+    {
+     "from": "2022-06-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254308",
+     "sha256": "68d8e243433a84b4786d787ed8e56b17473b2e8611b8c9d68532df27b130bbd0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-9-2022",
+   "path": "regulament/bnr/2022/9",
+   "short": "Regulament bnr nr. 9/2022",
+   "title": "Regulamentul nr. 9/2022 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară și al Băncii Naționale a României nr. 10/4/2018 privind protejarea instrumentelor financiare și a fondurilor care aparțin clienților, obligațiile de guvernanță a produsului și normele aplicabile la acordarea sau primirea de onorarii, comisioane sau alte tipuri de beneficii pecuniare sau nepecuniare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256636",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256636",
+     "sha256": "baca3350d9cb83eaa5b040d0c516401ce2d7595932ebfdc97878fe46affb56b5"
+    }
+   ]
+  }
+ ]
+}

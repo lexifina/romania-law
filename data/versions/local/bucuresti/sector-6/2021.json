@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-6/2021",
+ "acts": [
+  {
+   "slug": "hcls6-158-2021",
+   "path": "local/bucuresti/sector-6/2021/158",
+   "short": "HCLS6 nr. 158/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 158/2021 pentru abrogarea Hotărârii Consiliului Local Sector 6 nr. 44/30.03.2021 privind amenajarea, întreținerea și salubrizarea spațiilor verzi aferente blocurilor de locuințe, terenurilor aparținând domeniului public sau privat și aprobarea Regulamentului de întreținere și salubrizare a terenurilor de pe raza administrativ-teritorială a Sectorului 6 al Municipiului București",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-abrogarea-hotararii-consiliului-local-sector-6-nr-4430032021-privind-amenajarea-intretinerea-si-salubrizarea-spatiilor-verzi-aferente-blocurilor-de-locuinte-terenurilor-apartinand-domeniului-public-sau-privat-si-aprobarea-regulamentului",
+   "versions": [
+    {
+     "from": "2021-08-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-158_2.pdf",
+     "sha256": "3addb4db3c26b1c49943b3f1be106295b48a212abc510eb97d20e9607132b0c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-25-2021",
+   "path": "local/bucuresti/sector-6/2021/25",
+   "short": "HCLS6 nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 25/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-02-18",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-25_0.pdf",
+     "sha256": "d55e9d6710bf6128240cd1ab60cac5a59a9905a68307ecb06d90c54c2545b752"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-26-2021",
+   "path": "local/bucuresti/sector-6/2021/26",
+   "short": "HCLS6 nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 26/2021 privind aprobarea regulamentului de stabilire a criteriilor de identificare a clădirilor şi terenurilor neîngrijite situate în intravilanul sectorului 6 si aplicarea majorării impozitului aferent acestora - abrogată prin HCL S6 nr. 311/21.12.2022",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-regulamentului-de-stabilire-criteriilor-de-identificare-cladirilor-si-terenurilor-neingrijite-situate-intravilanul-sectorului-6-si-aplicarea-majorarii-impozitului-aferent-acestora",
+   "versions": [
+    {
+     "from": "2021-02-18",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-26_0.pdf",
+     "sha256": "fe80dc1587e3416e8cd51b4df63da992f1eafb6b4b30099a0fe015e1e2b9aa55"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-44-2021",
+   "path": "local/bucuresti/sector-6/2021/44",
+   "short": "HCLS6 nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 44/2021 privind amenajarea, întreținerea și salubrizarea spațiilor verzi aferente blocurilor de locuințe, terenurilor aparținând domeniului public sau privat și aprobarea Regulamentului de întreținere și salubrizare a terenurilor de pe raza administrativ – teritorială a Sectorului 6 al Municipiului București - abrogata prin HCL S6 nr. 158/24.08.2021",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-amenajarea-intretinerea-si-salubrizarea-spatiilor-verzi-aferente-blocurilor-de-locuinte-terenurilor-apartinand-domeniului-public-sau-privat-si-aprobarea-regulamentului-de-intretinere-si-salubrizare-terenurilor-de-pe-raza-administrativ",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-NR-44_0.pdf",
+     "sha256": "47b18ea14ac7ba41e0239a3e319e8dfe6ff113c4ad5fc32cd2010cecc8cffd51"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-69-2021",
+   "path": "local/bucuresti/sector-6/2021/69",
+   "short": "HCLS6 nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 69/2021 privind accesul cetățenilor în incinta unităților de învățământ preuniversitar de stat, pe terenurile de sport cu acces liber și în spațiile de recreere amenajate, din Sectorul 6, precum și aprobarea Regulamentului privind accesul copiilor la acestea. modificata prin HCL S6 nr. 30/26.02.2026 modificata prin HCL S6 nr. 183/04.09.2025",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-accesul-cetatenilor-incinta-unitatilor-de-invatamant-preuniversitar-de-stat-pe-terenurile-de-sport-cu-acces-liber-si-spatiile-de-recreere-amenajate-din-sectorul-6-precum-si-aprobarea-regulamentului-privind-accesul-copiilor-la-acestea",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-69.pdf",
+     "sha256": "e6a660118b01216098dadfe2e762cff072fed7fc4a3a4a3ce87f1d60a7deeeef"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-94-2021",
+   "path": "local/bucuresti/sector-6/2021/94",
+   "short": "HCLS6 nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 94/2021 privind reorganizarea Biroului Îngrijiri la Domiciliu pentru Persoane Vârstnice la nivel de Unitate Îngrijiri la Domiciliu Persoane Vârstnice în subordinea Direcției Protecție Socială din cadrul Direcției Generale de Asistență Socială și Protecția Copilului Sector 6, precum și aprobarea Regulamentului – cadru de Organizare și Funcționare a serviciului social. - modificata prin HCL S6 nr. 176/18.07.2024 - modificata prin HCL S6 nr. 77/27.04.2023",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-reorganizarea-biroului-ingrijiri-la-domiciliu-pentru-persoane-varstnice-la-nivel-de-unitate-ingrijiri-la-domiciliu-persoane-varstnice-subordinea-directiei-protectie-sociala-din-cadrul-directiei-generale-de-asistenta-sociala-si-protectia",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-94_2.pdf",
+     "sha256": "f4f56e4ac919a44c3e2a2399f0992e3b546b68ac21b06af988b23e5b7c8d08af"
+    }
+   ]
+  }
+ ]
+}

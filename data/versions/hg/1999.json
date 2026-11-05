@@ -1,0 +1,1605 @@
+{
+ "country": "RO",
+ "shard": "hg/1999",
+ "acts": [
+  {
+   "slug": "hg-34-1999",
+   "path": "hg/1999/34",
+   "short": "HG nr. 34/1999",
+   "title": "Hotărârea Guvernului nr. 34/1999 privind înființarea Institutului Limbii Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114401",
+   "versions": [
+    {
+     "from": "1999-01-27",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/16781",
+     "sha256": "da1bbe308695167383737c110499773ed0e4164c046490746d55a56c1fc22a5b"
+    },
+    {
+     "from": "2000-04-26",
+     "units": 8,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/114397",
+     "sha256": "f0fd03d527df2325342892b1631aad35567e549821897a5fbd7d7bcb77995f9e"
+    },
+    {
+     "from": "2005-10-03",
+     "units": 9,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/114398",
+     "sha256": "c23bf67f11eb5c45e80223a3ed5f5c5688faa8515c20463290a20b8c78448ec8"
+    },
+    {
+     "from": "2008-01-28",
+     "units": 9,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/114399",
+     "sha256": "d1a4c6493f7474f02bd97e7760d56a35d5a102ba4ba2a6a4fe707ee497d806be"
+    },
+    {
+     "from": "2008-03-17",
+     "units": 8,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/114400",
+     "sha256": "19c1ec4b1661ea95c0b99e555f17347ece472cc01a3e8a8c7b14d269715d3987"
+    },
+    {
+     "from": "2009-12-03",
+     "units": 8,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/114401",
+     "sha256": "6f1397a69b00a79c612d053eb8f6cfb0db52b4cf3a1f491677ccb9856a4f8ff1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-446-1999",
+   "path": "hg/1999/446",
+   "short": "HG nr. 446/1999",
+   "title": "Hotărârea Guvernului nr. 446/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162349",
+   "versions": [
+    {
+     "from": "1999-06-09",
+     "units": 4,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocumentAfis/18425",
+     "sha256": "9180335f6c5c60cffed776c707f43c7032e870274c5891bfa35df6950f1211c4"
+    },
+    {
+     "from": "2004-05-29",
+     "units": 4,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/162348",
+     "sha256": "5db41b7c70989945bbd91e97db564bd736f923490dd7baa765ca95eb49efd5e2"
+    },
+    {
+     "from": "2005-05-21",
+     "units": 4,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/162350",
+     "sha256": "25f77896d2e1dd1bfcff7eb4c8480a09583fb405e1446eeb8af8961d03704f95"
+    }
+   ]
+  },
+  {
+   "slug": "hg-49-1999",
+   "path": "hg/1999/49",
+   "short": "HG nr. 49/1999",
+   "title": "Hotărârea Guvernului nr. 49/1999 privind înființarea Centrului Național de Recunoaștere și Echivalare a Diplomelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16884",
+   "versions": [
+    {
+     "from": "1999-02-05",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/16884",
+     "sha256": "b0238143cc5afcac561236bdae35b7ecfbcd506dc30eaa9308919596c117b8a6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-514-1999",
+   "path": "hg/1999/514",
+   "short": "HG nr. 514/1999",
+   "title": "Hotărârea Guvernului nr. 514/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49834",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/18704",
+     "sha256": "10319628cec188884b139edd59a65208f9c95ca5cf10154f06cdc89fcde5db31"
+    },
+    {
+     "from": "2005-05-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/61277",
+     "sha256": "9466a41fdcdb7d9739456680e1d3f3b5f1ad241933ac18405b88f8718bdbba53"
+    },
+    {
+     "from": "2007-02-05",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/197777",
+     "sha256": "6247eda783b03e087af128bbd292e0f21fed6b43f27b3457c556ef5709a5c594"
+    }
+   ]
+  },
+  {
+   "slug": "hg-625-1999",
+   "path": "hg/1999/625",
+   "short": "HG nr. 625/1999",
+   "title": "Hotărârea Guvernului nr. 625/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19009",
+   "versions": [
+    {
+     "from": "1999-08-19",
+     "units": 17,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocumentAfis/19009",
+     "sha256": "ad2f9f8baff37ec895946be6966e2ceef33019c2e868ddb5db51a76a530ced88"
+    },
+    {
+     "from": "2001-01-18",
+     "units": 17,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/152215",
+     "sha256": "53bbb586fb7398cea3c4d1dea11320ef20174e7b679097c50635d4e64f72c5bd"
+    },
+    {
+     "from": "2004-01-08",
+     "units": 18,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/152216",
+     "sha256": "059d21ea7c752bcf282053290644188d050e3393f706c3c639c20e326bf1e236"
+    }
+   ]
+  },
+  {
+   "slug": "hg-643-1999",
+   "path": "hg/1999/643",
+   "short": "HG nr. 643/1999",
+   "title": "Hotărârea Guvernului nr. 643/1999 privind modul de decontare a cheltuielilor efectuate de antreprenorii români pe perioada de sistare a lucrărilor de construcţii-montaj la Combinatul minier de îmbogăţire a minereurilor acide cu conţinut de fier de la Krivoi Rog - Ucraina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19017",
+   "versions": [
+    {
+     "from": "1999-08-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19017",
+     "sha256": "c5941e0ee816da24af7961c880fac50cd53e7bbf8db94b43ce2400191347807b"
+    },
+    {
+     "from": "2001-03-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19017",
+     "sha256": "d46c61f4005e5c5753b1c634210533d044f6a11d66f3ffc1635f6faf7e89cc8e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-685-1999",
+   "path": "hg/1999/685",
+   "short": "HG nr. 685/1999",
+   "title": "Hotărârea Guvernului nr. 685/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19145",
+   "versions": [
+    {
+     "from": "1999-08-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/19145",
+     "sha256": "79485d13f2c088a803608351f98b97aa0531509b2df80b15bbfed20bfb7a3376"
+    },
+    {
+     "from": "1999-09-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123370",
+     "sha256": "85604c5c45ee53af419625769b85553f287d89f4dd37ea1bf7a9b5170d892e73"
+    },
+    {
+     "from": "1999-11-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123373",
+     "sha256": "2780c91b8637fffcaa2df6389eca7bcadc786a81fc54f287beb1865353ac6493"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1007-1999",
+   "path": "hg/1999/1007",
+   "short": "HG nr. 1007/1999",
+   "title": "Hotărârea Guvernului nr. 1007/1999 pentru modificarea Hotărârii Guvernului nr. 447/1997 privind organizarea şi funcţionarea Ministerului Finanţelor şi a Hotărârii Guvernului nr. 864/1998 pentru modificarea şi completarea Hotărârii Guvernului nr. 447/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20275",
+   "versions": [
+    {
+     "from": "1999-12-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20275",
+     "sha256": "18b62b3cd88e92a38bdf7d2c6751b2e5e4bf1539916cb4954d6aaa51126357c7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1011-1999",
+   "path": "hg/1999/1011",
+   "short": "HG nr. 1011/1999",
+   "title": "Hotărârea Guvernului nr. 1011/1999 pentru aprobarea Memorandumului de înţelegere dintre Guvernul României şi Comisia Europeană privind înfiinţarea Oficiului de Plati şi Contractare PHARE (O.P.C.P.), semnat la Bucureşti la 16 iulie 1998, şi a Memorandumului de înţelegere dintre Guvernul României şi Comisia Europeană privind înfiinţarea Fondului Naţional, semnat la Bruxelles la 20 octombrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20347",
+   "versions": [
+    {
+     "from": "1999-12-24",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20347",
+     "sha256": "27ec5573e9a0be335c857e8ef63a36efb2b45be0e484ce9af4b0cb5807045a27"
+    }
+   ]
+  },
+  {
+   "slug": "hg-102-1999",
+   "path": "hg/1999/102",
+   "short": "HG nr. 102/1999",
+   "title": "Hotărârea Guvernului nr. 102/1999 pentru aprobarea Normelor metodologice privind modul de acordare, distribuire, utilizare şi decontare a cupoanelor pentru agricultori în anul 1999, precum şi plata comisioanelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16997",
+   "versions": [
+    {
+     "from": "1999-02-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16997",
+     "sha256": "b7b497ae5357cf1d776c2bc44082c443d621339de473160f209fef41f5ea4696"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1024-1999",
+   "path": "hg/1999/1024",
+   "short": "HG nr. 1024/1999",
+   "title": "Hotărârea Guvernului nr. 1024/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20256",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 4,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/20256",
+     "sha256": "8b56004a6b9e2aa468442a1e15d4e13f34f497c7b0abdedd4ef7bb9f5ec9946f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-103-1999",
+   "path": "hg/1999/103",
+   "short": "HG nr. 103/1999",
+   "title": "Hotărârea Guvernului nr. 103/1999 pentru stabilirea bunurilor şi serviciilor care pot fi achitate pe bază de cupoane pentru agricultori în anul 1999, precum şi a valorii unui cupon",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16998",
+   "versions": [
+    {
+     "from": "1999-02-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16998",
+     "sha256": "d838815d1bc46b45754454b4a775834875712d013c2d9e1e1ab231624280b9df"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1031-1999",
+   "path": "hg/1999/1031",
+   "short": "HG nr. 1031/1999",
+   "title": "Hotărârea Guvernului nr. 1031/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20276",
+   "versions": [
+    {
+     "from": "1999-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/20276",
+     "sha256": "b97e67ba753488d492ba08250c85df26311eb702eac4bc9ba2c86219b0238856"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1036-1999",
+   "path": "hg/1999/1036",
+   "short": "HG nr. 1036/1999",
+   "title": "Hotărârea Guvernului nr. 1036/1999 pentru modificarea Hotărârii Guvernului nr. 331/1999 privind aprobarea bugetelor de venituri şi cheltuieli pe anul 1999 ale regiilor autonome, companiilor naţionale, societăţilor naţionale şi institutelor naţionale de cercetare-dezvoltare, aflate în coordonarea sau în subordinea Ministerului Industriei şi Comerţului, precum şi a transferurilor pentru Societatea Comercială \"Uzina de Valorificare a Cenuşilor de Pirita\" - S.A. Turnu Măgurele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20267",
+   "versions": [
+    {
+     "from": "1999-12-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20267",
+     "sha256": "45197ea3ab3616254a57e14657b07b4cffe356df01e361ca3fd04f80a01b80b4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1038-1999",
+   "path": "hg/1999/1038",
+   "short": "HG nr. 1038/1999",
+   "title": "Hotărârea Guvernului nr. 1038/1999 privind garantarea de către Ministerul Finanţelor a unui credit extern pentru Ministerul Justiţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20300",
+   "versions": [
+    {
+     "from": "1999-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20300",
+     "sha256": "e5e8e11d406eaafa362a7990775d51348048324aff8555c1ad52fd7a5c44e6dc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1043-1999",
+   "path": "hg/1999/1043",
+   "short": "HG nr. 1043/1999",
+   "title": "Hotărârea Guvernului nr. 1043/1999 privind aprobarea plăţii contribuţiei României la bugetul Programului-cadru V şi al Programului-cadru V Euratom, precum şi pentru aprobarea sprijinului financiar acordat participanţilor români",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20357",
+   "versions": [
+    {
+     "from": "1999-12-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20357",
+     "sha256": "690868e0f56ac76bfbed09be6dedf50ecbcd81c4bd6f1976206aad3a74d29951"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1066-1999",
+   "path": "hg/1999/1066",
+   "short": "HG nr. 1066/1999",
+   "title": "Hotărârea Guvernului nr. 1066/1999 privind aprobarea Normelor metodologice pentru aplicarea Ordonanţei Guvernului nr. 73/1999 privind impozitul pe venit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20514",
+   "versions": [
+    {
+     "from": "2000-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20514",
+     "sha256": "5b83931f7b57b623c12b68c1c358479e2d3e9e2543011897ed54d8115edb5bdb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1070-1999",
+   "path": "hg/1999/1070",
+   "short": "HG nr. 1070/1999",
+   "title": "Hotărârea Guvernului nr. 1070/1999 pentru aprobarea Normelor metodologice de aplicare a dispoziţiilor Legii nr. 142/1999 privind sprijinul statului pentru salarizarea clerului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20495",
+   "versions": [
+    {
+     "from": "1999-12-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20495",
+     "sha256": "f345d302fba7b33e2f4a929d5a059953343fe4eb4b577550bc91f473e28d06e9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-113-1999",
+   "path": "hg/1999/113",
+   "short": "HG nr. 113/1999",
+   "title": "Hotărârea Guvernului nr. 113/1999 pentru stabilirea nivelului reducerii preţurilor de cumpărare ale seminţelor din producţia internă, provenite de la agenţii economici autorizaţi, folosite în campaniile agricole din anul 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17069",
+   "versions": [
+    {
+     "from": "1999-03-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17069",
+     "sha256": "c6a5ae97eb2bd64080783d04c57d20c68f2d04def307fca6a05f28f187c5bb5a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-120-1999",
+   "path": "hg/1999/120",
+   "short": "HG nr. 120/1999",
+   "title": "Hotărârea Guvernului nr. 120/1999 privind înfiinţarea Agenţiei Sociale a Studenţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17073",
+   "versions": [
+    {
+     "from": "1999-03-02",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17073",
+     "sha256": "c565b1c4c7984cc2aaae7ea64f329508edd0f25a37b98f57d5d5e940f2368f5e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-123-1999",
+   "path": "hg/1999/123",
+   "short": "HG nr. 123/1999",
+   "title": "Hotărârea Guvernului nr. 123/1999 privind aprobarea Programului cercetărilor statistice pe anul 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17124",
+   "versions": [
+    {
+     "from": "1999-03-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17124",
+     "sha256": "67914bf9760636d45ec485b12ce164ec2a8f6b2538a8447a363e4cd9b6bc3a9a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-127-1999",
+   "path": "hg/1999/127",
+   "short": "HG nr. 127/1999",
+   "title": "Hotărârea Guvernului nr. 127/1999 pentru aprobarea Normelor de aplicare a Ordonanţei de urgenţă a Guvernului nr. 36/1998 privind unele măsuri de protecţie pentru personalul al cărui contract individual de muncă va fi desfăcut ca urmare a concedierilor colective determinate de reorganizarea Regiei Autonome de Electricitate \"Renel\", Regiei Autonome a Gazelor Naturale \"Romgaz\" Mediaş şi a Regiei Autonome a Petrolului \"Petrom\" Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17084",
+   "versions": [
+    {
+     "from": "1999-03-04",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17084",
+     "sha256": "b1347d6b77b0e7eaceb66a26b73858867912481f26d8e49475dfdf4869db8219"
+    }
+   ]
+  },
+  {
+   "slug": "hg-13-1999",
+   "path": "hg/1999/13",
+   "short": "HG nr. 13/1999",
+   "title": "Hotărârea Guvernului nr. 13/1999 privind alocarea unor fonduri din bugetul de stat pe anul 1999 pentru finanţarea unor lucrări de investiţii în localităţile din Valea Jiului, judeţul Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16701",
+   "versions": [
+    {
+     "from": "1999-01-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16701",
+     "sha256": "19cc53942af8672bf1f473813d2dbd01a800db53df0761b899ebf0860559e5ae"
+    }
+   ]
+  },
+  {
+   "slug": "hg-190-1999",
+   "path": "hg/1999/190",
+   "short": "HG nr. 190/1999",
+   "title": "Hotărârea Guvernului nr. 190/1999 pentru aprobarea Normelor metodologice privind modul de acordare, de utilizare şi controlul utilizării subvenţiilor de la bugetul de stat destinate acoperirii a 70% din volumul dobânzii datorate de împrumutat, aferentă creditelor bancare acordate de băncile comerciale în vederea achiziţionării de tractoare, combine, maşini şi utilaje agricole, precum şi de instalaţii pentru irigat din producţia internă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17438",
+   "versions": [
+    {
+     "from": "1999-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17438",
+     "sha256": "5d6201a924db71d29f7898127cd49cf6e831ed98a85fc8319ed08920270f4c12"
+    }
+   ]
+  },
+  {
+   "slug": "hg-194-1999",
+   "path": "hg/1999/194",
+   "short": "HG nr. 194/1999",
+   "title": "Hotărârea Guvernului nr. 194/1999 privind declararea zonei miniere Stei-Nucet, judeţul Bihor, ca zona defavorizată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17521",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17521",
+     "sha256": "9c68e7a73dbe432c5e138a04a3a8c84cf5521ec1cb8e1a58f19a24e085399517"
+    }
+   ]
+  },
+  {
+   "slug": "hg-21-1999",
+   "path": "hg/1999/21",
+   "short": "HG nr. 21/1999",
+   "title": "Hotărârea Guvernului nr. 21/1999 privind actualizarea sumelor fixe anuale pentru utilizarea drumurilor, stabilite în anexa la Legea nr. 118/1996 privind constituirea şi utilizarea Fondului special al drumurilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16727",
+   "versions": [
+    {
+     "from": "1999-01-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16727",
+     "sha256": "abb8997c6523c204d5ff19ebf710ddd6b84ca67c3754c2fa2670548971b8480b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-211-1999",
+   "path": "hg/1999/211",
+   "short": "HG nr. 211/1999",
+   "title": "Hotărârea Guvernului nr. 211/1999 privind modificarea şi completarea Hotărârii Guvernului nr. 577/1997 pentru aprobarea programului privind pietruirea drumurilor comunale, alimentarea cu apa a satelor, conectarea satelor la reţeaua de electrificare şi la reţelele telefonice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17443",
+   "versions": [
+    {
+     "from": "1999-03-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17443",
+     "sha256": "904c13d44f396708d33314f316820b212702cb402d06fbe8e567cb09b6588dcc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-216-1999",
+   "path": "hg/1999/216",
+   "short": "HG nr. 216/1999",
+   "title": "Hotărârea Guvernului nr. 216/1999 pentru aprobarea Normelor metodologice-cadru de aplicare a Legii nr. 219/1998 privind regimul concesiunilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17542",
+   "versions": [
+    {
+     "from": "1999-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17542",
+     "sha256": "36f5eb019413002f000e80d569582e3008a0c07a5f6d0b2dcd0b00811fd5e5cb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-269-1999",
+   "path": "hg/1999/269",
+   "short": "HG nr. 269/1999",
+   "title": "Hotărârea Guvernului nr. 269/1999 privind aprobarea Normelor metodologice de aplicare a Ordonanţei de urgenţă a Guvernului nr. 15/1998 pentru completarea Ordonanţei Guvernului nr. 11/1996 privind executarea creanţelor bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17965",
+   "versions": [
+    {
+     "from": "1999-04-23",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17965",
+     "sha256": "d7e687e62230c9205d00fca836c1a79406a5a9b60591a2fc7115f87efbe10318"
+    }
+   ]
+  },
+  {
+   "slug": "hg-270-1999",
+   "path": "hg/1999/270",
+   "short": "HG nr. 270/1999",
+   "title": "Hotărârea Guvernului nr. 270/1999 privind stabilirea condiţiilor de acordare a asistenţei medicale, medicamentelor, concediilor medicale şi scutirilor medicale cadrelor militare în activitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17929",
+   "versions": [
+    {
+     "from": "1999-04-19",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17929",
+     "sha256": "e963167ae8431d82d888e773d7dcb89fb2e36375196aa6387534328e3d7851e4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-274-1999",
+   "path": "hg/1999/274",
+   "short": "HG nr. 274/1999",
+   "title": "Hotărârea Guvernului nr. 274/1999 pentru trecerea unor instituţii publice de cultura din subordinea Ministerului Culturii sub autoritatea Consiliului General al Municipiului Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17756",
+   "versions": [
+    {
+     "from": "1999-04-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17756",
+     "sha256": "091ac8faf8c4203d4f93c7de1b0e426722e48eb9b413de1dd10940f9efb135a2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-277-1999",
+   "path": "hg/1999/277",
+   "short": "HG nr. 277/1999",
+   "title": "Hotărârea Guvernului nr. 277/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18001",
+   "versions": [
+    {
+     "from": "1999-04-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18001",
+     "sha256": "03802ffed87d9db50c6f4c59e3a4d5c5b3c62325533ca448fed388b7ac905de4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-290-1999",
+   "path": "hg/1999/290",
+   "short": "HG nr. 290/1999",
+   "title": "Hotărârea Guvernului nr. 290/1999 privind prelungirea termenului de valabilitate a ofertei formulate de Fondul Proprietăţii de Stat pentru vânzarea acţiunilor deţinute de acesta la unele societăţi comerciale mari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17949",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17949",
+     "sha256": "da0b1d43589e2fb6cd193addef9f7fccf5e661f10960ac98d3e8ce26a23466c3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-302-1999",
+   "path": "hg/1999/302",
+   "short": "HG nr. 302/1999",
+   "title": "Hotărârea Guvernului nr. 302/1999 pentru aprobarea Regulamentului de aplicare a prevederilor Ordonanţei Guvernului nr. 116/1998 privind instituirea regimului special pentru activitatea de transport maritim internaţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18104",
+   "versions": [
+    {
+     "from": "1999-05-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18104",
+     "sha256": "6349a367709d25fffadf8cbed49e9bc35174c78fafb825deedb9b90b959a9d06"
+    }
+   ]
+  },
+  {
+   "slug": "hg-311-1999",
+   "path": "hg/1999/311",
+   "short": "HG nr. 311/1999",
+   "title": "Hotărârea Guvernului nr. 311/1999 pentru aprobarea Listei cuprinzând subvenţiile unitare pentru produsele din industria cărbunelui, minereurilor feroase, neferoase, radioactive, rare şi nemetalifere care se subvenţionează de la bugetul de stat în anul 1999 şi a Normelor metodologice privind acordarea, utilizarea şi controlul subvenţiilor pentru produsele din industria cărbunelui, minereurilor feroase, neferoase, radioactive, rare şi nemetalifere, precum şi ale transferurilor destinate acţiunilor de protecţie socială a personalului din acest domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17982",
+   "versions": [
+    {
+     "from": "1999-04-26",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17982",
+     "sha256": "62be8002a69773e6bc7aa7ff4e5cad75afc290e7352bbd28ec98ffa1be5f6d51"
+    }
+   ]
+  },
+  {
+   "slug": "hg-314-1999",
+   "path": "hg/1999/314",
+   "short": "HG nr. 314/1999",
+   "title": "Hotărârea Guvernului nr. 314/1999 pentru aprobarea Regulamentului de aplicare a Legii viei şi vinului nr. 67/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18082",
+   "versions": [
+    {
+     "from": "1999-05-06",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18082",
+     "sha256": "4fafb72f6a88dcf413bf0a8d6391e9d63ccacef755b8b7d7f12717b9fbff144c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-322-1999",
+   "path": "hg/1999/322",
+   "short": "HG nr. 322/1999",
+   "title": "Hotărârea Guvernului nr. 322/1999 privind aprobarea Programului de acţiuni şi de lucrări, finanţate din Fondul special al aviaţiei civile, pentru anul 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18075",
+   "versions": [
+    {
+     "from": "1999-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18075",
+     "sha256": "d75adc400d00d09a822fcbed8d0754871989a6719cd6361e198043bfbee000af"
+    }
+   ]
+  },
+  {
+   "slug": "hg-369-1999",
+   "path": "hg/1999/369",
+   "short": "HG nr. 369/1999",
+   "title": "Hotărârea Guvernului nr. 369/1999 privind interdicţia de a vinde şi furniza petrol şi unele produse petroliere Republicii Federale Iugoslavia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18140",
+   "versions": [
+    {
+     "from": "1999-05-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18140",
+     "sha256": "c1411c3c789ceb23d160ec88426a5865fbbdfe8db2a380813eadeb74d8510a4e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-37-1999",
+   "path": "hg/1999/37",
+   "short": "HG nr. 37/1999",
+   "title": "Hotărârea Guvernului nr. 37/1999 privind organizarea şi desfăşurarea doctoratului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16774",
+   "versions": [
+    {
+     "from": "1999-01-27",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16774",
+     "sha256": "9b08ba8292d3960681be09181efdbbad732e59a455151755e3f79353f9d9522a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-377-1999",
+   "path": "hg/1999/377",
+   "short": "HG nr. 377/1999",
+   "title": "Hotărârea Guvernului nr. 377/1999 privind trecerea din domeniul public al statului în domeniul privat al statului a unui teren şi a construcţiilor existente pe acesta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18210",
+   "versions": [
+    {
+     "from": "1999-05-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18210",
+     "sha256": "2f0a76914fd1b8b7941ee02c645ca3174057d4ba16376f6d9079a5361289261c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-38-1999",
+   "path": "hg/1999/38",
+   "short": "HG nr. 38/1999",
+   "title": "Hotărârea Guvernului nr. 38/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16773",
+   "versions": [
+    {
+     "from": "1999-01-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16773",
+     "sha256": "a86cd82c5007c91b4c1ff678a73ca941ff351caf6f2382b2625aab1b0a005617"
+    }
+   ]
+  },
+  {
+   "slug": "hg-395-1999",
+   "path": "hg/1999/395",
+   "short": "HG nr. 395/1999",
+   "title": "Hotărârea Guvernului nr. 395/1999 privind actualizarea tarifelor pentru plata interpreţilor şi traducătorilor folosiţi de organele de urmărire penală, de instanţele judecătoreşti, de birourile notarilor publici, de avocaţi şi de Ministerul Justiţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18259",
+   "versions": [
+    {
+     "from": "1999-05-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18259",
+     "sha256": "991f4124047a10b426933ae375bf59c4a5ec925c818016174dcfd5cf4dc4208c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-408-1999",
+   "path": "hg/1999/408",
+   "short": "HG nr. 408/1999",
+   "title": "Hotărârea Guvernului nr. 408/1999 privind înființarea Institutului Național de Cercetare-Dezvoltare pentru Tehnologii Izotopice și Moleculare - I.N.C.D.T.I.M. Cluj-Napoca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18349",
+   "versions": [
+    {
+     "from": "1999-06-03",
+     "units": 8,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocumentAfis/18349",
+     "sha256": "b7d76d61077f92ec5250d8a87b1620622f45203ccd3fadf056e3555b346b2d6c"
+    },
+    {
+     "from": "2005-12-29",
+     "units": 8,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/18349",
+     "sha256": "4a27e81c1ed472df7cb8c9e060470a6e459846f42f69332da7edfd0894d1e41a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-423-1999",
+   "path": "hg/1999/423",
+   "short": "HG nr. 423/1999",
+   "title": "Hotărârea Guvernului nr. 423/1999 privind înfiinţarea Centrului de Pregătire şi Perfecţionare a Grefierilor şi a Celuilalt Personal Auxiliar de Specialitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18315",
+   "versions": [
+    {
+     "from": "1999-06-02",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18315",
+     "sha256": "7603137c5379698b9c796719c3dbc9fe37890101bca7a4a77716020b420c9391"
+    }
+   ]
+  },
+  {
+   "slug": "hg-436-1999",
+   "path": "hg/1999/436",
+   "short": "HG nr. 436/1999",
+   "title": "Hotărârea Guvernului nr. 436/1999 pentru modificarea Hotărârii Guvernului nr. 157/1996 privind plata la vedere sau pe credit a unor produse şi grupe de produse care se pot exporta, în condiţiile legii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18391",
+   "versions": [
+    {
+     "from": "1999-06-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18391",
+     "sha256": "1d3b0d4e91af8361dbd64b563da071f5b82fe4b9bfcfeb0fe4f25fbbe0374867"
+    }
+   ]
+  },
+  {
+   "slug": "hg-440-1999",
+   "path": "hg/1999/440",
+   "short": "HG nr. 440/1999",
+   "title": "Hotărârea Guvernului nr. 440/1999 privind Agentul guvernamental pentru Consiliul Europei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18442",
+   "versions": [
+    {
+     "from": "1999-06-18",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18442",
+     "sha256": "dfb9002a0634a8168ad2bd8d90853bc2dd69536cb5bfe27d5812828986ce4669"
+    }
+   ]
+  },
+  {
+   "slug": "hg-443-1999",
+   "path": "hg/1999/443",
+   "short": "HG nr. 443/1999",
+   "title": "Hotărârea Guvernului nr. 443/1999 pentru aprobarea Regulamentului privind portul, condiţiile de acordare şi descrierea uniformei, echipamentului de protecţie şi însemnelor distinctive ale pompierilor civili",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18426",
+   "versions": [
+    {
+     "from": "1999-06-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18426",
+     "sha256": "b901e55d6f4aa7b2db1d82593b43c5b7ee056dcd4c49582e48f6bacbc0172c4d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-445-1999",
+   "path": "hg/1999/445",
+   "short": "HG nr. 445/1999",
+   "title": "Hotărârea Guvernului nr. 445/1999 privind acordarea de facilităţi şi condiţiile de realizare a investiţiei la Societatea Comercială \"Automobile Dacia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18384",
+   "versions": [
+    {
+     "from": "1999-06-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18384",
+     "sha256": "e564da29f1ee537b1dfaade8b8766b6712917e66aab9cac72d6aba16dc727f95"
+    }
+   ]
+  },
+  {
+   "slug": "hg-459-1999",
+   "path": "hg/1999/459",
+   "short": "HG nr. 459/1999",
+   "title": "Hotărârea Guvernului nr. 459/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18497",
+   "versions": [
+    {
+     "from": "1999-06-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18497",
+     "sha256": "cb7ad566492290b3491d0843969693ccefeb42da677b627724b331d9fd4bac20"
+    }
+   ]
+  },
+  {
+   "slug": "hg-463-1999",
+   "path": "hg/1999/463",
+   "short": "HG nr. 463/1999",
+   "title": "Hotărârea Guvernului nr. 463/1999 privind înfiinţarea Agenţiei pentru Cooperare Europeană în Domeniul Tineretului (EUROTIN)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18473",
+   "versions": [
+    {
+     "from": "1999-06-21",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18473",
+     "sha256": "83d20aa9d97bb8c0b1390852f60e51962ca87b7f2c2dcbd2d91bf8c3276c4b8e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-466-1999",
+   "path": "hg/1999/466",
+   "short": "HG nr. 466/1999",
+   "title": "Hotărârea Guvernului nr. 466/1999 privind înfiinţarea Centrului Regional pentru Managementul Resurselor de Apărare pe lângă Academia Aviaţiei şi Apărării Antiaeriene \"Henri Coandă\" din Braşov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18508",
+   "versions": [
+    {
+     "from": "1999-06-23",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18508",
+     "sha256": "44a494eae4034e322a6076c24282da61c0c679d8c2a0345a40cededa5816df57"
+    }
+   ]
+  },
+  {
+   "slug": "hg-475-1999",
+   "path": "hg/1999/475",
+   "short": "HG nr. 475/1999",
+   "title": "Hotărârea Guvernului nr. 475/1999 privind declararea ca abrogate a unor acte normative nepublicate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18762",
+   "versions": [
+    {
+     "from": "1999-07-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18762",
+     "sha256": "36dbc01ee9e449e3bb1481572874bbb3707b8603b5d8f51cb0d6c7a5dd8bd55e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-482-1999",
+   "path": "hg/1999/482",
+   "short": "HG nr. 482/1999",
+   "title": "Hotărârea Guvernului nr. 482/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18495",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 12,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocumentAfis/18495",
+     "sha256": "08b95638af56b27e3a4eb833833f3c47624eab7691ea47dfc283b02b014608f1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-517-1999",
+   "path": "hg/1999/517",
+   "short": "HG nr. 517/1999",
+   "title": "Hotărârea Guvernului nr. 517/1999 privind delimitarea suprafeţelor de teren strict necesare pentru cercetarea şi producerea de seminţe şi material săditor din categorii biologice superioare şi de animale de rasa şi trecerea terenurilor destinate producţiei, aflate în administrarea institutelor şi staţiunilor de cercetare şi producţie agricolă, în domeniul privat al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18710",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18710",
+     "sha256": "d16259cf7171d0c69b1203ed325f37682d62d0aa186af2e1cb0cafe1c18f7fbf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-523-1999",
+   "path": "hg/1999/523",
+   "short": "HG nr. 523/1999",
+   "title": "Hotărârea Guvernului nr. 523/1999 privind interdicţia de a intra pe teritoriul României a unor persoane provenind din Republica Federala Iugoslavia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212125",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18695",
+     "sha256": "90aa053324d5ca2adf71e737740199326b021e2c95d70ee689b3f83805a648fb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-526-1999",
+   "path": "hg/1999/526",
+   "short": "HG nr. 526/1999",
+   "title": "Hotărârea Guvernului nr. 526/1999 privind acordarea unui ajutor umanitar, constând în materiale de construcţie, populaţiei din satul Cuculeasa, comuna Ziduri, judeţul Buzău, afectată de inundaţiile produse în ziua de 22 iunie 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18652",
+   "versions": [
+    {
+     "from": "1999-07-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18652",
+     "sha256": "2680f8f0e386656d38e80758471d00d31e7ebeaabac553d8fed4dd4abe6eb9dc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-532-1999",
+   "path": "hg/1999/532",
+   "short": "HG nr. 532/1999",
+   "title": "Hotărârea Guvernului nr. 532/1999 pentru aprobarea Metodologiei de stabilire a nivelului contribuţiei de întreţinere în instituţiile de asistenţa socială, datorată de persoanele asistate sau de susţinătorii legali ai acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18691",
+   "versions": [
+    {
+     "from": "1999-07-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18691",
+     "sha256": "676a6fedb1caeb96c9c794e3e0e92dc356d1fc28975bfdd874483da41e1d6a39"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/174318",
+     "sha256": "f8e70ad54c2b4188b43d38af8ffdcbbfca95e453525d8d59e411e1097ff1f991"
+    }
+   ]
+  },
+  {
+   "slug": "hg-535-1999",
+   "path": "hg/1999/535",
+   "short": "HG nr. 535/1999",
+   "title": "Hotărârea Guvernului nr. 535/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18717",
+   "versions": [
+    {
+     "from": "1999-07-07",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/18717",
+     "sha256": "e060f83871159a9d56c890ae9af4fad53aacb6e7d0fb3bd2337e07340e198ee3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-542-1999",
+   "path": "hg/1999/542",
+   "short": "HG nr. 542/1999",
+   "title": "Hotărârea Guvernului nr. 542/1999 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 517/1994 privind taxa de înscriere şi de abonament pentru serviciul public de televiziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18714",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18714",
+     "sha256": "c81e29ce969fa7b3487f9bc36644272b257d882b2e8a23c26e8033944dc36b64"
+    }
+   ]
+  },
+  {
+   "slug": "hg-548-1999",
+   "path": "hg/1999/548",
+   "short": "HG nr. 548/1999",
+   "title": "Hotărârea Guvernului nr. 548/1999 privind aprobarea Normelor tehnice pentru întocmirea inventarului bunurilor care alcătuiesc domeniul public al comunelor, oraşelor, municipiilor şi judeţelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18763",
+   "versions": [
+    {
+     "from": "1999-07-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18763",
+     "sha256": "b0306ab5e82c03c8cb5e1d901b7f2d50686010844110896a9f8495efb7674983"
+    }
+   ]
+  },
+  {
+   "slug": "hg-572-1999",
+   "path": "hg/1999/572",
+   "short": "HG nr. 572/1999",
+   "title": "Hotărârea Guvernului nr. 572/1999 pentru stabilirea destinaţiei soldului contului \"Fondul valutar pentru Programul energetic\", constituit în baza Hotărârii Guvernului nr. 469/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18910",
+   "versions": [
+    {
+     "from": "1999-07-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18910",
+     "sha256": "f1230dd0f1f5e6c9c18797be9b2abc5e87a8a490adac7983404d62024c300de3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-59-1999",
+   "path": "hg/1999/59",
+   "short": "HG nr. 59/1999",
+   "title": "Hotărârea Guvernului nr. 59/1999 pentru modificarea art. 2 din Hotărârea Guvernului nr. 525/1996 pentru aprobarea Regulamentului general de urbanism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16914",
+   "versions": [
+    {
+     "from": "1999-02-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16914",
+     "sha256": "f0e21b002d801d4af93a7f4a9e20e5b298633b720a512423cc5a7fe28ab7a591"
+    }
+   ]
+  },
+  {
+   "slug": "hg-597-1999",
+   "path": "hg/1999/597",
+   "short": "HG nr. 597/1999",
+   "title": "Hotărârea Guvernului nr. 597/1999 pentru aprobarea unor amendamente la Acordul de împrumut dintre România şi Fondul pentru Cooperare Economică Internaţionala - Japonia privind Proiectul de reabilitare a drumurilor, semnat la Tokyo la 27 februarie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18924",
+   "versions": [
+    {
+     "from": "1999-08-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18924",
+     "sha256": "17706906452756dcf35d1046043fa44fde886196fda97de958ad9a6149d40af6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-598-1999",
+   "path": "hg/1999/598",
+   "short": "HG nr. 598/1999",
+   "title": "Hotărârea Guvernului nr. 598/1999 pentru aprobarea unor amendamente la Acordul de împrumut dintre România şi Fondul pentru Cooperare Economică Internaţionala - Japonia privind Proiectul de dezvoltare a Portului Constanţa-Sud, semnat la Tokyo la 27 februarie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18925",
+   "versions": [
+    {
+     "from": "1999-08-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18925",
+     "sha256": "3b1ba8a07d5e5eaaf239ed5a83d25756aa696382f712cd55ab584d923417b2c5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-611-1999",
+   "path": "hg/1999/611",
+   "short": "HG nr. 611/1999",
+   "title": "Hotărârea Guvernului nr. 611/1999 privind constituirea şi componenta comisiei de autorizare a contractării de împrumuturi externe de către autorităţile administraţiei publice locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18916",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18916",
+     "sha256": "1715bd7e29ed4a728b9ac64890978bdc8cc95be62561424ff7ffde7ac15c2bcb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-624-1999",
+   "path": "hg/1999/624",
+   "short": "HG nr. 624/1999",
+   "title": "Hotărârea Guvernului nr. 624/1999 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanţei de urgenţă a Guvernului nr. 98/1999 privind protecţia socială a persoanelor ale căror contracte individuale de muncă vor fi desfăcute ca urmare a concedierilor colective",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18954",
+   "versions": [
+    {
+     "from": "1999-08-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18954",
+     "sha256": "ca2a00b5d30f494708b083268215ab30115c8db0fb314b02be0bb07a92a4cf8f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-638-1999",
+   "path": "hg/1999/638",
+   "short": "HG nr. 638/1999",
+   "title": "Hotărârea Guvernului nr. 638/1999 privind aprobarea Regulamentului de apărare împotriva inundaţiilor, fenomenelor meteorologice periculoase şi accidentelor la construcţiile hidrotehnice şi a Normativului-cadru de dotare cu materiale şi mijloace de apărare operativă împotriva inundaţiilor şi gheţurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19031",
+   "versions": [
+    {
+     "from": "1999-08-13",
+     "units": 65,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19031",
+     "sha256": "ef23ccc8fc37b833f78a94e63215a2ba6753b0e6d24d552860e65457b62c0c1a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-660-1999",
+   "path": "hg/1999/660",
+   "short": "HG nr. 660/1999",
+   "title": "Hotărârea Guvernului nr. 660/1999 pentru completarea anexei la Hotărârea Guvernului nr. 85/1997 privind acordarea de avansuri pentru realizarea unor acţiuni şi categorii de cheltuieli finanţate din fondurile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19034",
+   "versions": [
+    {
+     "from": "1999-08-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19034",
+     "sha256": "fab61d9d0c5053c8d6aeb7da4d6937bf306971c0921fc2491e5c19de20a96d48"
+    }
+   ]
+  },
+  {
+   "slug": "hg-666-1999",
+   "path": "hg/1999/666",
+   "short": "HG nr. 666/1999",
+   "title": "Hotărârea Guvernului nr. 666/1999 pentru modificarea anexelor nr. I (12-16) la Hotărârea Guvernului nr. 331/1999 privind aprobarea bugetelor de venituri şi cheltuieli pe anul 1999 ale regiilor autonome, companiilor naţionale, societăţilor naţionale şi institutelor naţionale de cercetare-dezvoltare, aflate în coordonarea sau în subordinea Ministerului Industriei şi Comerţului, precum şi a transferurilor pentru Societatea Comercială \"Uzina de Valorificare a Cenuşilor de Pirita\" - S.A. Turnu Măgurele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19067",
+   "versions": [
+    {
+     "from": "1999-08-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19067",
+     "sha256": "40cb8b54b89caaa846fed5f72d11d4eb917db7c5d9076cce2126b4957f479cdd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-670-1999",
+   "path": "hg/1999/670",
+   "short": "HG nr. 670/1999",
+   "title": "Hotărârea Guvernului nr. 670/1999 privind stabilirea cotei majorărilor de întârziere datorate pentru neplata la termen a unor obligaţii bugetare de către persoanele fizice, precum şi a cotei majorărilor datorate pe perioada amânării sau/şi eşalonării la plata a obligaţiilor bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19064",
+   "versions": [
+    {
+     "from": "1999-09-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19064",
+     "sha256": "0e56d97d07e4a5b4576772d496d124a61c559ce4ea8a02b7abeaa3e379a74762"
+    }
+   ]
+  },
+  {
+   "slug": "hg-7-1999",
+   "path": "hg/1999/7",
+   "short": "HG nr. 7/1999",
+   "title": "Hotărârea Guvernului nr. 7/1999 privind înfiinţarea unor filiale ale Societăţii Naţionale de Transport Feroviar de Călători \"C.F.R. Călători\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16743",
+   "versions": [
+    {
+     "from": "1999-01-20",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16743",
+     "sha256": "1b6f60a87ac21ec10cfaaa0fe06ae038e6d14244ab153eed4f7e89521f114c5d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-71-1999",
+   "path": "hg/1999/71",
+   "short": "HG nr. 71/1999",
+   "title": "Hotărârea Guvernului nr. 71/1999 privind numirea reprezentanţilor Guvernului în Consiliul Economic şi Social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16937",
+   "versions": [
+    {
+     "from": "1999-02-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16937",
+     "sha256": "6b44864c1465430824375f9f3eab1054d4765402cc78d8bdfa989f0008b0dd61"
+    }
+   ]
+  },
+  {
+   "slug": "hg-715-1999",
+   "path": "hg/1999/715",
+   "short": "HG nr. 715/1999",
+   "title": "Hotărârea Guvernului nr. 715/1999 privind modificarea cuantumului taxelor prevăzute în anexele nr. 1 şi 2 la Ordonanţa Guvernului nr. 19/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19250",
+   "versions": [
+    {
+     "from": "1999-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19250",
+     "sha256": "5b687887305e5478a3a76582b6f3feebd060a89472de09decf5013cbdf0d121b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-716-1999",
+   "path": "hg/1999/716",
+   "short": "HG nr. 716/1999",
+   "title": "Hotărârea Guvernului nr. 716/1999 privind reorganizarea şi funcţionarea inspectoratelor pentru calitatea seminţelor şi materialului săditor şi a Laboratorului Central pentru Controlul Calităţii Seminţelor, precum şi actualizarea limitelor amenzilor prevăzute de Legea nr. 75/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19251",
+   "versions": [
+    {
+     "from": "1999-09-15",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19251",
+     "sha256": "b70f949262eaf3305909245d70ca02dd5a14ba41b25761d75fa1cbc26cab17f1"
+    },
+    {
+     "from": "1999-10-29",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239582",
+     "sha256": "c1a4029a4f8f5e34404aa85bb72a06869cfaabccdfdde22752df29b368dcd8c2"
+    },
+    {
+     "from": "2002-09-12",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19251",
+     "sha256": "bb8334f32233f3b5e7fe6d258e3dadbd0bb91ef93106e4a00768a71712a45fcb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-720-1999",
+   "path": "hg/1999/720",
+   "short": "HG nr. 720/1999",
+   "title": "Hotărârea Guvernului nr. 720/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230700",
+   "versions": [
+    {
+     "from": "1999-09-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/19222",
+     "sha256": "a2173af7a337a60eb540fb8fb2eeb5c5a7e5270475e282483897b8f0704792a5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-732-1999",
+   "path": "hg/1999/732",
+   "short": "HG nr. 732/1999",
+   "title": "Hotărârea Guvernului nr. 732/1999 privind modificarea art. 3 alin. 2 din Hotărârea Guvernului nr. 312/1999 pentru aprobarea Contractului-cadru privind condiţiile acordării asistenţei medicale în cadrul sistemului asigurărilor sociale de sănătate pe anul 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19237",
+   "versions": [
+    {
+     "from": "1999-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19237",
+     "sha256": "5496f66288e431d6b8d10163338c25ed90f2d1dbd9d503182f77bbca699c8800"
+    }
+   ]
+  },
+  {
+   "slug": "hg-748-1999",
+   "path": "hg/1999/748",
+   "short": "HG nr. 748/1999",
+   "title": "Hotărârea Guvernului nr. 748/1999 pentru modificarea şi completarea Hotărârii Guvernului nr. 92/1999 privind acordarea de bonificaţii la decontarea energiei electrice şi termice agenţilor economici care contribuie cu valută la importul de gaze naturale şi păcura livrate de Compania Naţională de Electricitate - S.A. în anul 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19281",
+   "versions": [
+    {
+     "from": "1999-09-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19281",
+     "sha256": "39bd53b7fc4c1103741f26ce8d0b6e13ea041c8a7d676ca6e0ded893ae759a3a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-752-1999",
+   "path": "hg/1999/752",
+   "short": "HG nr. 752/1999",
+   "title": "Hotărârea Guvernului nr. 752/1999 privind actualizarea taxelor judiciare de timbru prevăzute de Legea nr. 146/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19278",
+   "versions": [
+    {
+     "from": "1999-10-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19278",
+     "sha256": "2bab23570fd4c6594a40282d34efc755dab87353462da61f0572201d20fd2eb1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-767-1999",
+   "path": "hg/1999/767",
+   "short": "HG nr. 767/1999",
+   "title": "Hotărârea Guvernului nr. 767/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19318",
+   "versions": [
+    {
+     "from": "1999-09-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/19318",
+     "sha256": "7fa840f780b21d2e6508b5c5d0f8ac83be32aefabe7ad8d6e786a9c7933c7cfc"
+    },
+    {
+     "from": "2004-07-12",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/53527",
+     "sha256": "0149300f0d51653154f64ed5f610da56c5742a31e8e7945af0726c5f8766c65f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-788-1999",
+   "path": "hg/1999/788",
+   "short": "HG nr. 788/1999",
+   "title": "Hotărârea Guvernului nr. 788/1999 privind aprobarea Regulamentului de organizare şi funcţionare a Fondului Proprietăţii de Stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19434",
+   "versions": [
+    {
+     "from": "1999-10-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19434",
+     "sha256": "4419276fbeade8b70a9850dd082ba1864a24d84f4d34b04fcaae79f9191b941f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-797-1999",
+   "path": "hg/1999/797",
+   "short": "HG nr. 797/1999",
+   "title": "Hotărârea Guvernului nr. 797/1999 pentru aprobarea Normelor metodologice privind modalităţile de finanţare a programelor şi a măsurilor de stimulare a înfiinţării şi dezvoltării întreprinderilor mici şi mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19450",
+   "versions": [
+    {
+     "from": "1999-10-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19450",
+     "sha256": "a4c70c2d2fbf85add92453cea233a2526d4b032a3d41d50bb8dc7f1317cd30f4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-8-1999",
+   "path": "hg/1999/8",
+   "short": "HG nr. 8/1999",
+   "title": "Hotărârea Guvernului nr. 8/1999 privind înfiinţarea unor filiale ale Societăţii Naţionale de Transport Feroviar de Marfă \"C.F.R. Marfă\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16786",
+   "versions": [
+    {
+     "from": "1999-01-20",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16786",
+     "sha256": "c3fde3ba52089c3ab79f1eff3d0574b64c16d3057ec5af0f4e57a75398a92447"
+    }
+   ]
+  },
+  {
+   "slug": "hg-800-1999",
+   "path": "hg/1999/800",
+   "short": "HG nr. 800/1999",
+   "title": "Hotărârea Guvernului nr. 800/1999 privind modificarea şi completarea Hotărârii Guvernului nr. 539/1998 pentru aprobarea Normelor metodologice privind stabilirea criteriilor de acordare a unor subvenţii asociaţiilor şi fundaţiilor rromâne cu personalitate juridică care înfiinţează şi administrează unităţi de asistenţă socială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19457",
+   "versions": [
+    {
+     "from": "1999-10-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19457",
+     "sha256": "7e05eaab09d7dc73a9915136d60ddff777a0c5bbec5307b6b76123e38ddaf6d9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-802-1999",
+   "path": "hg/1999/802",
+   "short": "HG nr. 802/1999",
+   "title": "Hotărârea Guvernului nr. 802/1999 privind adoptarea Regulamentului pentru organizarea şi funcţionarea Arhivei Electronice de Garanţii Reale Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19587",
+   "versions": [
+    {
+     "from": "1999-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19587",
+     "sha256": "915fe5b5898cc7b672f2395b3c7458790fbc2ac9f2fc07204f51295d5b4220ad"
+    }
+   ]
+  },
+  {
+   "slug": "hg-81-1999",
+   "path": "hg/1999/81",
+   "short": "HG nr. 81/1999",
+   "title": "Hotărârea Guvernului nr. 81/1999 privind înfiinţarea Institutului Naţional de Cercetare-Dezvoltare şi Încercări pentru Electrotehnică - ICMET Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16977",
+   "versions": [
+    {
+     "from": "1999-02-18",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16977",
+     "sha256": "b11699fa9ab5f90feaabda17f70fbd534e1f21760ba3845e987552350238a561"
+    }
+   ]
+  },
+  {
+   "slug": "hg-818-1999",
+   "path": "hg/1999/818",
+   "short": "HG nr. 818/1999",
+   "title": "Hotărârea Guvernului nr. 818/1999 privind utilizarea Fondului de contrapartida constituit din contravaloarea în lei a ajutorului primit din partea Statelor Unite ale Americii conform Acordului de credit nerambursabil pentru importul de mărfuri, aprobat prin Hotărârea Guvernului nr. 45/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19547",
+   "versions": [
+    {
+     "from": "1999-10-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19547",
+     "sha256": "4ddec3b83dd26407e1bc89619ddff742f692c0f0a1090a759c6cdd72d03bbd59"
+    }
+   ]
+  },
+  {
+   "slug": "hg-826-1999",
+   "path": "hg/1999/826",
+   "short": "HG nr. 826/1999",
+   "title": "Hotărârea Guvernului nr. 826/1999 privind acordarea cetăţeniei române unor persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19546",
+   "versions": [
+    {
+     "from": "1999-10-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19546",
+     "sha256": "9130445990ef4a3da57aa28c8aaa57af862b7cb1b291ac31b9505fcbbcfccb99"
+    }
+   ]
+  },
+  {
+   "slug": "hg-831-1999",
+   "path": "hg/1999/831",
+   "short": "HG nr. 831/1999",
+   "title": "Hotărârea Guvernului nr. 831/1999 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 311/1999 pentru aprobarea Listei cuprinzând subvenţiile unitare pentru produsele din industria cărbunelui, minereurilor feroase, neferoase, radioactive, rare şi nemetalifere care se subvenţionează de la bugetul de stat în anul 1999 şi a Normelor metodologice privind acordarea, utilizarea şi controlul subvenţiilor pentru produsele din industria cărbunelui, minereurilor feroase, neferoase, radioactive, rare şi nemetalifere, precum şi ale transferurilor destinate acţiunilor de protecţie socială a personalului din acest domeniu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19549",
+   "versions": [
+    {
+     "from": "1999-10-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19549",
+     "sha256": "5465cbc56902cfcc612ab2fdfef481caf3673ddc6da392053c44f12ffbda01a0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-843-1999",
+   "path": "hg/1999/843",
+   "short": "HG nr. 843/1999",
+   "title": "Hotărârea Guvernului nr. 843/1999 privind încadrarea pe tipuri a unităților de alimentație publică neincluse în structurile de primire turistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19615",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/19615",
+     "sha256": "0f4648e3996908ee22aa332d8d92a8bc79bbd3abe68305920a41c25106e7da03"
+    }
+   ]
+  },
+  {
+   "slug": "hg-880-1999",
+   "path": "hg/1999/880",
+   "short": "HG nr. 880/1999",
+   "title": "Hotărârea Guvernului nr. 880/1999 privind aprobarea bugetelor rectificate de venituri şi cheltuieli pe anul 1999 ale regiilor autonome, companiilor naţionale, societăţilor naţionale şi institutelor naţionale de cercetare-dezvoltare, aflate în coordonarea sau în subordinea Ministerului Industriei şi Comerţului, precum şi a transferurilor pentru Societatea Comercială \"Uzina de Valorificare a Cenuşilor de Pirita\" - S.A. Turnu Măgurele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19792",
+   "versions": [
+    {
+     "from": "1999-11-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19792",
+     "sha256": "67853f85b210556abe85130e5f732ff36226a3e90c48e99dc0f057da1fe33930"
+    }
+   ]
+  },
+  {
+   "slug": "hg-92-1999",
+   "path": "hg/1999/92",
+   "short": "HG nr. 92/1999",
+   "title": "Hotărârea Guvernului nr. 92/1999 privind acordarea de bonificaţii la decontarea energiei electrice şi termice agenţilor economici care contribuie cu valută la importul de gaze naturale şi păcura livrate de Compania Naţională de Electricitate - S.A. în anul 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17014",
+   "versions": [
+    {
+     "from": "1999-02-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17014",
+     "sha256": "f499003b6ccb4b23d9a0ee7e37aaa4228563afdb8256e095dc7fb8d8d00b0d08"
+    }
+   ]
+  },
+  {
+   "slug": "hg-938-1999",
+   "path": "hg/1999/938",
+   "short": "HG nr. 938/1999",
+   "title": "Hotărârea Guvernului nr. 938/1999 privind transferul acţiunilor deţinute de stat la Societatea Comercială \"Hidrojet\" - S.A. din administrarea Fondului Proprietăţii Private de Stat în administrarea Ministerului Finanţelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19906",
+   "versions": [
+    {
+     "from": "1999-11-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19906",
+     "sha256": "8287932680026129d1a2c69916d941fcf8a784b6a2546a2502b387246b4b8b8c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-942-1999",
+   "path": "hg/1999/942",
+   "short": "HG nr. 942/1999",
+   "title": "Hotărârea Guvernului nr. 942/1999 privind transferul acţiunilor deţinute de stat la Societatea Comercială \"Chimcomplex\" - S.A. din administrarea Fondului Proprietăţii de Stat în administrarea Ministerului Finanţelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19909",
+   "versions": [
+    {
+     "from": "1999-11-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19909",
+     "sha256": "728fd6d4957d89dfcc3a54a11572f0bccaa83354b9e15cb2d41e594705a11dc3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-947-1999",
+   "path": "hg/1999/947",
+   "short": "HG nr. 947/1999",
+   "title": "Hotărârea Guvernului nr. 947/1999 pentru aprobarea mandatului Fondului Proprietăţii de Stat privind vânzarea către asociaţia formată din salariaţii şi pensionării cu ultimul loc de muncă la Societatea Naţionala de Telecomunicaţii \"Romtelecom\" - S.A. a unui pachet de acţiuni deţinute de stat la Societatea Naţionala de Telecomunicaţii \"Romtelecom\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19942",
+   "versions": [
+    {
+     "from": "1999-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19942",
+     "sha256": "60455389c8a14d24c201996e9bcfb4843b79fdc2911c7408adbd3db4dca1c77c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-959-1999",
+   "path": "hg/1999/959",
+   "short": "HG nr. 959/1999",
+   "title": "Hotărârea Guvernului nr. 959/1999 privind încredinţarea directa a unor activităţi referitoare la pregătirea participării României la Expoziţia Mondială EXPO-2000 \"Om-Natura-Tehnologie\", Hanovra 2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19989",
+   "versions": [
+    {
+     "from": "1999-11-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19989",
+     "sha256": "400f93c8256018da5276a2ae6b97ab4d8245ea761b71fd2b618788ccbb97a661"
+    }
+   ]
+  },
+  {
+   "slug": "hg-960-1999",
+   "path": "hg/1999/960",
+   "short": "HG nr. 960/1999",
+   "title": "Hotărârea Guvernului nr. 960/1999 privind modificarea şi completarea Hotărârii Guvernului nr. 525/1996 pentru aprobarea Regulamentului general de urbanism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19969",
+   "versions": [
+    {
+     "from": "1999-11-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19969",
+     "sha256": "31127c0a2c1db1305aaa29995f63512b69a009bc0d469a772358e54684d76d22"
+    }
+   ]
+  },
+  {
+   "slug": "hg-979-1999",
+   "path": "hg/1999/979",
+   "short": "HG nr. 979/1999",
+   "title": "Hotărârea Guvernului nr. 979/1999 privind suplimentarea bugetului Secretariatului de Stat pentru Problemele Revoluţionarilor din Decembrie 1989 cu suma de 4,25 miliarde lei din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 1999 pentru organizarea şi finanţarea aniversării a 10 ani de la Revoluţia anticomunistă română",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20035",
+   "versions": [
+    {
+     "from": "1999-11-26",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20035",
+     "sha256": "596c2ee58498459e3b8cf388459a6b3b1c843fc9e17ed757b775a0db971ccc3d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-983-1999",
+   "path": "hg/1999/983",
+   "short": "HG nr. 983/1999",
+   "title": "Hotărârea Guvernului nr. 983/1999 privind înfiinţarea Agenţiei Manageriale de Cercetare Ştiinţifică, Inovare şi Transfer Tehnologic - Politehnica (AMCSIT - Politehnica)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20115",
+   "versions": [
+    {
+     "from": "1999-11-30",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20115",
+     "sha256": "4d10e23c02dfb993afa893fc46bb97918e7c95b0d882667e9b638289df3cf910"
+    }
+   ]
+  },
+  {
+   "slug": "hg-997-1999",
+   "path": "hg/1999/997",
+   "short": "HG nr. 997/1999",
+   "title": "Hotărârea Guvernului nr. 997/1999 pentru aprobarea Regulamentului privind constituirea, organizarea şi funcţionarea structurilor silvice proprii, necesare pentru gospodărirea pădurilor proprietate publică aparţinând unităţilor administrativ-teritoriale şi a celor proprietate privată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20170",
+   "versions": [
+    {
+     "from": "1999-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20170",
+     "sha256": "8a6cff0f14492d7e6be78a82aab1c55735c02a4f9cb198ae1e06220c98f0e846"
+    }
+   ]
+  }
+ ]
+}

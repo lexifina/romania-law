@@ -1,0 +1,60 @@
+{
+"country": "RO",
+"shard": "anspdcp/2013",
+"acts": [
+{
+"slug": "anspdcp-comunicat-sanctiune-2013-2013-09-19",
+"path": "anspdcp/comunicat-sanctiune/2013/2013-09-19",
+"kind": "anspdcp",
+"year": "2013",
+"number": "2013-09-19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2013-09-19",
+"short": "Comunicat ANSPDCP din 2013-09-19",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-09-19",
+"latest": "2013-09-19",
+"portal": "https://www.dataprotection.ro/?page=BNP19092013&lang=ro",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "anspdcp-comunicat-sanctiune-2013-2013-09-20",
+"path": "anspdcp/comunicat-sanctiune/2013/2013-09-20",
+"kind": "anspdcp",
+"year": "2013",
+"number": "2013-09-20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Comunicat ANSPDCP din 2013-09-20",
+"short": "Comunicat ANSPDCP din 2013-09-20",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2013-09-20",
+"latest": "2013-09-20",
+"portal": "https://www.dataprotection.ro/?page=Parchet&lang=ro"
+},
+{
+"slug": "anspdcp-comunicat-sanctiune-2013-2013-09-27",
+"path": "anspdcp/comunicat-sanctiune/2013/2013-09-27",
+"kind": "anspdcp",
+"year": "2013",
+"number": "2013-09-27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Comunicat ANSPDCP din 2013-09-27: Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a dispus aplicarea unei amenzi contravenționale în cuantum de 7.500 lei Direc tiei Venituri Buget Local, Sector 2, Bucuresti",
+"short": "Comunicat ANSPDCP din 2013-09-27",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2013-09-27",
+"latest": "2013-09-27",
+"portal": "https://www.dataprotection.ro/?page=DVBLS2&lang=ro"
+}
+]
+}

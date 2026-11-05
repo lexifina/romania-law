@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "anspdcp/2019",
+ "acts": [
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2019-2019-07-04",
+   "path": "anspdcp/comunicat-sanctiune/2019/2019-07-04",
+   "short": "Comunicat ANSPDCP din 2019-07-04",
+   "title": "Comunicat ANSPDCP din 2019-07-04: Prima amendă în aplicarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Amenda_Unicredit&lang=ro",
+   "versions": [
+    {
+     "from": "2019-07-04",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Amenda_Unicredit&lang=ro",
+     "sha256": "8f3dae9a13d5ca0557612842e25f8a374b46ace854aded77a92a0fbd26ba5c7e"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2019-2019-07-08",
+   "path": "anspdcp/comunicat-sanctiune/2019/2019-07-08",
+   "short": "Comunicat ANSPDCP din 2019-07-08",
+   "title": "Comunicat ANSPDCP din 2019-07-08: O nouă amendă în aplicarea GDPR",
+   "url": "https://www.dataprotection.ro/?page=O_noua_amenda_GDPR&lang=ro",
+   "versions": [
+    {
+     "from": "2019-07-08",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=O_noua_amenda_GDPR&lang=ro",
+     "sha256": "efcc24bf9e8c129e91c5c3a7e38cd4fe1012809218a15e4516b34c0d4ef7f252"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2019-2019-08-06",
+   "path": "anspdcp/comunicat-sanctiune/2019/2019-08-06",
+   "short": "Comunicat ANSPDCP din 2019-08-06",
+   "title": "Comunicat ANSPDCP din 2019-08-06: A patra sancțiune cu amendă în aplicarea RGDP",
+   "url": "https://www.dataprotection.ro/?page=A_patra_amenda&lang=ro",
+   "versions": [
+    {
+     "from": "2019-08-06",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=A_patra_amenda&lang=ro",
+     "sha256": "d2b7e3427493bf3210a4eedc4ed40d1851de0934c6995cf402e343d7de8adfa4"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2019-2019-10-07",
+   "path": "anspdcp/comunicat-sanctiune/2019/2019-10-07",
+   "short": "Comunicat ANSPDCP din 2019-10-07",
+   "title": "Comunicat ANSPDCP din 2019-10-07: Amendă în baza Legii nr. 506/2004",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_Amenda_Artmark&lang=ro",
+   "versions": [
+    {
+     "from": "2019-10-07",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_Amenda_Artmark&lang=ro",
+     "sha256": "4fd6c7c77268ca8c09bb352d144838e3d81d774b5bcab65f7938775f23bd3525"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2019-2019-10-09",
+   "path": "anspdcp/comunicat-sanctiune/2019/2019-10-09",
+   "short": "Comunicat ANSPDCP din 2019-10-09",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2019-10-09",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_09_10_2019&lang=ro",
+   "versions": [
+    {
+     "from": "2019-10-09",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_09_10_2019&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2019-2019-10-14",
+   "path": "anspdcp/comunicat-sanctiune/2019/2019-10-14",
+   "short": "Comunicat ANSPDCP din 2019-10-14",
+   "title": "Comunicat ANSPDCP din 2019-10-14: O nouă amendă în aplicarea Legii nr. 506/2004",
+   "url": "https://www.dataprotection.ro/?page=Amenda_Elefant_Online&lang=ro",
+   "versions": [
+    {
+     "from": "2019-10-14",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Amenda_Elefant_Online&lang=ro",
+     "sha256": "39c4b89ac81564136a9fc3786d4a0eed43d03a9b2dbfd025d0d3bcb0e7781efe"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2019-2019-10-15",
+   "path": "anspdcp/comunicat-sanctiune/2019/2019-10-15",
+   "short": "Comunicat ANSPDCP din 2019-10-15",
+   "title": "Comunicat ANSPDCP din 2019-10-15: Altă sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Alta_sanctiune_RGPD&lang=ro",
+   "versions": [
+    {
+     "from": "2019-10-15",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Alta_sanctiune_RGPD&lang=ro",
+     "sha256": "2071d6a6da3a82fe759a438b596d9a0bda42d78a5d6fd3e605877012b18cc4a1"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2019-2019-11-13",
+   "path": "anspdcp/comunicat-sanctiune/2019/2019-11-13",
+   "short": "Comunicat ANSPDCP din 2019-11-13",
+   "title": "Comunicat ANSPDCP din 2019-11-13: O nouă amendă în baza Legii nr. 506/2004",
+   "url": "https://www.dataprotection.ro/?page=O_noua_amenda_in_baza_Legii_506_/_2004_Vodafone&lang=ro",
+   "versions": [
+    {
+     "from": "2019-11-13",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=O_noua_amenda_in_baza_Legii_506_/_2004_Vodafone&lang=ro",
+     "sha256": "046dd5136ffb0d878869d9afd7f586c3c040323b019582d7cf9f206efe3490c3"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2019-2019-11-22",
+   "path": "anspdcp/comunicat-sanctiune/2019/2019-11-22",
+   "short": "Comunicat ANSPDCP din 2019-11-22",
+   "title": "Comunicat ANSPDCP din 2019-11-22: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Amenda_pentru_incalcarea_RGPD&lang=ro",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Amenda_pentru_incalcarea_RGPD&lang=ro",
+     "sha256": "f43341834c6f6ce6f05ea564315f824c7ce6d6903af954bf90fd4fa6eafe8664"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2019-2019-11-25",
+   "path": "anspdcp/comunicat-sanctiune/2019/2019-11-25",
+   "short": "Comunicat ANSPDCP din 2019-11-25",
+   "title": "Comunicat ANSPDCP din 2019-11-25: O nouă amendă în baza RGPD",
+   "url": "https://www.dataprotection.ro/?page=O_noua_amenda_in_baza_RGPD&lang=ro",
+   "versions": [
+    {
+     "from": "2019-11-25",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=O_noua_amenda_in_baza_RGPD&lang=ro",
+     "sha256": "624073c6e3ac92049896907c67480e944b8fbd1005f6207e47b8e0c4a8fe54c6"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2019-2019-11-28",
+   "path": "anspdcp/comunicat-sanctiune/2019/2019-11-28",
+   "short": "Comunicat ANSPDCP din 2019-11-28",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2019-11-28",
+   "url": "https://www.dataprotection.ro/?page=Amenda_ING_RGPD&lang=ro",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Amenda_ING_RGPD&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2019-2019-11-29",
+   "path": "anspdcp/comunicat-sanctiune/2019/2019-11-29",
+   "short": "Comunicat ANSPDCP din 2019-11-29",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2019-11-29",
+   "url": "https://www.dataprotection.ro/?page=Sanctiune_CN_TAROM&lang=ro",
+   "versions": [
+    {
+     "from": "2019-11-29",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Sanctiune_CN_TAROM&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2019-2019-12-13",
+   "path": "anspdcp/comunicat-sanctiune/2019/2019-12-13",
+   "short": "Comunicat ANSPDCP din 2019-12-13",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2019-12-13",
+   "url": "https://www.dataprotection.ro/?page=Noi_amenzi_in_aplicarea_RGPD&lang=ro",
+   "versions": [
+    {
+     "from": "2019-12-13",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Noi_amenzi_in_aplicarea_RGPD&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2019-2019-12-16",
+   "path": "anspdcp/comunicat-sanctiune/2019/2019-12-16",
+   "short": "Comunicat ANSPDCP din 2019-12-16",
+   "title": "Comunicat ANSPDCP din 2019-12-16: Altă amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Alta_amenda_pentru_incalcarea_GDPR&lang=ro",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Alta_amenda_pentru_incalcarea_GDPR&lang=ro",
+     "sha256": "57e35b3c413e201ec9bcc2abf72f4000bfa8de0f82b8ef34a0a3a826dd1b26c5"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2019-2019-12-18",
+   "path": "anspdcp/comunicat-sanctiune/2019/2019-12-18",
+   "short": "Comunicat ANSPDCP din 2019-12-18",
+   "title": "Comunicat ANSPDCP din 2019-12-18: O nouă amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=O_noua_amenda_pentru_incalcarea_RGPD_comunicat_decembrie&lang=ro",
+   "versions": [
+    {
+     "from": "2019-12-18",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=O_noua_amenda_pentru_incalcarea_RGPD_comunicat_decembrie&lang=ro",
+     "sha256": "d0c299796bff55ee40d4bd01f4697bf2ea33c4b8393c5de220443ac730e6b5c7"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2019-2019-12-23",
+   "path": "anspdcp/comunicat-sanctiune/2019/2019-12-23",
+   "short": "Comunicat ANSPDCP din 2019-12-23",
+   "title": "Comunicat ANSPDCP din 2019-12-23: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Amenda_asociatie_proprietari&lang=ro",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Amenda_asociatie_proprietari&lang=ro",
+     "sha256": "740b57eec3228fa28769d41686e839bfeba0cac318ebe03db60374a0885f0cbc"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-decizie-2019-238",
+   "path": "anspdcp/decizie/2019/238",
+   "short": "Decizia ANSPDCP nr. 238/2019",
+   "title": "Decizia ANSPDCP nr. 238/2019: din 18 decembrie 2019 privind modificarea anexei nr. 2 la Procedura de efectuare a investigațiilor",
+   "url": "https://www.dataprotection.ro/servlet/ViewDocument?id=1851",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/servlet/ViewDocument?id=1851",
+     "sha256": "e952ddf54372766b75647d7c148cac0812ea89fb69e0fd335343db9a519963f1"
+    }
+   ]
+  }
+ ]
+}

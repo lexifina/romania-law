@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "decizie-bec/2025",
+ "acts": [
+  {
+   "slug": "decizie-bec-locale-2025-2h",
+   "path": "decizie-bec/locale-2025/2h",
+   "short": "Hotărârea BEC nr. 2h/2025",
+   "title": "HOTĂRÂRE nr. 2H din 11 martie 2025 privind unele măsuri pentru organizarea şi desfăşurarea referendumurilor locale convocate la aceeaşi dată cu un tur de scrutin al alegerilor pentru Preşedintele României din anul 2025",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/295312",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/295312",
+     "sha256": "2d38ad933c385fc6418c3712d4ded6d08b584079e0ee474fe6ebd15f4374bc17"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-referendum-2025-1-h",
+   "path": "decizie-bec/referendum-2025/1-h",
+   "short": "Hotărârea Biroul Electoral Jude?ean nr. 1-h/2025",
+   "title": "Hotărârea Biroul Electoral Jude?ean nr. 1-h din 2025-05-09",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/298247",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/298247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-referendum-2025-1",
+   "path": "decizie-bec/referendum-2025/1",
+   "short": "Hotărârea Biroul Electoral Jude?ean nr. 1/2025",
+   "title": "Hotărârea Biroul Electoral Jude?ean nr. 1 din 2025-05-08",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/297997",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/297997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-referendum-2025-46",
+   "path": "decizie-bec/referendum-2025/46",
+   "short": "Decizia Biroul Electoral Jude?ean nr. 46/2025",
+   "title": "Decizia Biroul Electoral Jude?ean nr. 46 din 2025-05-07",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/297888",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/297888",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

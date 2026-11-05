@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "instructiuni/2024",
+"acts": [
+{
+"slug": "instructiuni-sanatate-4480-2024",
+"path": "instructiuni/sanatate/2024/4480",
+"kind": "instructiuni",
+"year": "2024",
+"number": "4480",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 4.480/2024 privind încetarea stării de alertă epidemiologică determinate de gripă",
+"short": "Instrucțiuni sanatate nr. 4480/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-08",
+"latest": "2024-03-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279728",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "instructiuni-sanatate-6226-2024",
+"path": "instructiuni/sanatate/2024/6226",
+"kind": "instructiuni",
+"year": "2024",
+"number": "6226",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 6.226/2024 privind modalitatea de gestionare a deșeurilor de medicamente neutilizate și/sau expirate provenite de la populație",
+"short": "Instrucțiuni sanatate nr. 6226/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-10",
+"latest": "2024-04-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281609",
+"issuer": "sanatate",
+"joint": []
+}
+]
+}

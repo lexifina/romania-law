@@ -1,0 +1,426 @@
+{
+ "country": "RO",
+ "shard": "norma-aep/2024",
+ "acts": [
+  {
+   "slug": "norma-aep-anexa-2024-10-30-2024",
+   "path": "norma-aep/2024/anexa-2024-10-30",
+   "short": "Anexă AEP din 2024-10-30",
+   "title": "Anexă Autorității Electorale Permanente din 2024-10-30",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/290955",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/290955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-cuantum-total-23-934-2024",
+   "path": "norma-aep/2024/cuantum-total-23-934",
+   "short": "Cuantum total AEP nr. 23-934/2024",
+   "title": "Cuantum total Autorității Electorale Permanente nr. 23-934 din 2024-07-16",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/285958",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/285958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-cuantum-total-25-746-2024",
+   "path": "norma-aep/2024/cuantum-total-25-746",
+   "short": "Cuantum total AEP nr. 25-746/2024",
+   "title": "Cuantum total Autorității Electorale Permanente nr. 25-746 din 2024-08-20",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/287684",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/287684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-cuantum-total-40-520-2024",
+   "path": "norma-aep/2024/cuantum-total-40-520",
+   "short": "Cuantum total AEP nr. 40-520/2024",
+   "title": "Cuantum total Autorității Electorale Permanente nr. 40-520 din 2024-12-12",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/292498",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/292498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-ghid-2024-09-24-2024",
+   "path": "norma-aep/2024/ghid-2024-09-24",
+   "short": "Ghidul AEP din 2024-09-24",
+   "title": "Ghidul Autorității Electorale Permanente din 2024-09-24",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/288884",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/288884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-20-324-2024",
+   "path": "norma-aep/2024/lista-20-324",
+   "short": "Listă AEP nr. 20-324/2024",
+   "title": "Listă Autorității Electorale Permanente nr. 20-324 din 2024-06-18",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/284200",
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/284200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-20-533-2024",
+   "path": "norma-aep/2024/lista-20-533",
+   "short": "Listă AEP nr. 20-533/2024",
+   "title": "Listă Autorității Electorale Permanente nr. 20-533 din 2024-06-20",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/285111",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/285111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-21-288-2024",
+   "path": "norma-aep/2024/lista-21-288",
+   "short": "Listă AEP nr. 21-288/2024",
+   "title": "Listă Autorității Electorale Permanente nr. 21-288 din 2024-06-25",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/285376",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/285376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-23-037-2024",
+   "path": "norma-aep/2024/lista-23-037",
+   "short": "Listă AEP nr. 23-037/2024",
+   "title": "Listă Autorității Electorale Permanente nr. 23-037 din 2024-07-05",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/285579",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/285579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-23-371-2024",
+   "path": "norma-aep/2024/lista-23-371",
+   "short": "Listă AEP nr. 23-371/2024",
+   "title": "Listă Autorității Electorale Permanente nr. 23-371 din 2024-07-09",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/285580",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/285580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-23-768-2024",
+   "path": "norma-aep/2024/lista-23-768",
+   "short": "Listă AEP nr. 23-768/2024",
+   "title": "Listă Autorității Electorale Permanente nr. 23-768 din 2024-07-12",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/286399",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/286399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-23-933-2024",
+   "path": "norma-aep/2024/lista-23-933",
+   "short": "Listă AEP nr. 23-933/2024",
+   "title": "Listă Autorității Electorale Permanente nr. 23-933 din 2024-07-16",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/286296",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/286296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-24-464-2024",
+   "path": "norma-aep/2024/lista-24-464",
+   "short": "Listă AEP nr. 24-464/2024",
+   "title": "Listă Autorității Electorale Permanente nr. 24-464 din 2024-07-22",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/286455",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/286455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-24-710-2024",
+   "path": "norma-aep/2024/lista-24-710",
+   "short": "Listă AEP nr. 24-710/2024",
+   "title": "Listă Autorității Electorale Permanente nr. 24-710 din 2024-07-26",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/286642",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/286642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-25-512-2024",
+   "path": "norma-aep/2024/lista-25-512",
+   "short": "Listă AEP nr. 25-512/2024",
+   "title": "Listă Autorității Electorale Permanente nr. 25-512 din 2024-08-13",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/287460",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/287460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-25-745-2024",
+   "path": "norma-aep/2024/lista-25-745",
+   "short": "Listă AEP nr. 25-745/2024",
+   "title": "Listă Autorității Electorale Permanente nr. 25-745 din 2024-08-20",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/287641",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/287641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-27-761-2024",
+   "path": "norma-aep/2024/lista-27-761",
+   "short": "Listă AEP nr. 27-761/2024",
+   "title": "LISTA nr. 27.761 din 12 septembrie 2024 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerilor autorităţilor publice locale din anul 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/288659",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/288659",
+     "sha256": "f32f0a9a45b5157271e738c8515af74466d0e9a8601ea3e3e4646b932cbff5b5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-28-857-2024",
+   "path": "norma-aep/2024/lista-28-857",
+   "short": "Listă AEP nr. 28-857/2024",
+   "title": "LISTA nr. 28.857 din 23 septembrie 2024 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerilor autorităţilor publice locale din anul 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/288905",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/288905",
+     "sha256": "579429eaa0519ba0eb8cdd10be08b32baefa6034c9d2d43e2d809ff3e2634cf1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-40-131-2024",
+   "path": "norma-aep/2024/lista-40-131",
+   "short": "Listă AEP nr. 40-131/2024",
+   "title": "Listă Autorității Electorale Permanente nr. 40-131 din 2024-12-10",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/292470",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/292470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-40-451-2024",
+   "path": "norma-aep/2024/lista-40-451",
+   "short": "Listă AEP nr. 40-451/2024",
+   "title": "Listă Autorității Electorale Permanente nr. 40-451 din 2024-12-12",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/292401",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/292401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-40-768-2024",
+   "path": "norma-aep/2024/lista-40-768",
+   "short": "Listă AEP nr. 40-768/2024",
+   "title": "LISTA nr. 40.768 din 16 decembrie 2024 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerilor pentru Senat şi Camera Deputaţilor din anul 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/292805",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/292805",
+     "sha256": "9ac7108e9bcab98412da450220c222ec936d3d1b4243ca721ac7ad9a08ec8d8d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-41-195-2024",
+   "path": "norma-aep/2024/lista-41-195",
+   "short": "Listă AEP nr. 41-195/2024",
+   "title": "Listă Autorității Electorale Permanente nr. 41-195 din 2024-12-18",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/292988",
+   "versions": [
+    {
+     "from": "2024-12-24",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/292988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-41-611-2024",
+   "path": "norma-aep/2024/lista-41-611",
+   "short": "Listă AEP nr. 41-611/2024",
+   "title": "Listă Autorității Electorale Permanente nr. 41-611 din 2024-12-23",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/293177",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/293177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-41-881-2024",
+   "path": "norma-aep/2024/lista-41-881",
+   "short": "Listă AEP nr. 41-881/2024",
+   "title": "Listă Autorității Electorale Permanente nr. 41-881 din 2024-12-30",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/293230",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/293230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-procedura-2024-04-08-2024",
+   "path": "norma-aep/2024/procedura-2024-04-08",
+   "short": "Procedură AEP din 2024-04-08",
+   "title": "PROCEDURĂ din 8 aprilie 2024 de monitorizare video a localurilor secţiilor de votare din străinătate la alegerile pentru membrii din România în Parlamentul European din anul 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/281555",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/281555",
+     "sha256": "f7994b1d24d334bd0be94313e089468973ceb8b7765a770e596bd05d2773f817"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-rectificare-2024-07-08-2024",
+   "path": "norma-aep/2024/rectificare-2024-07-08",
+   "short": "Rectificarea AEP din 2024-07-08",
+   "title": "RECTIFICARE din 8 iulie 2024 referitoare la Raportul detaliat al veniturilor şi cheltuielilor electorale - Uniunea Democrată Maghiară din România",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/288949",
+   "versions": [
+    {
+     "from": "2024-09-27",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/288949",
+     "sha256": "0a29d10ee7cdc1d38702c78dc3469fb6223b37ef1213fb546f1cd821e1b24ed9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-rectificare-29-2024",
+   "path": "norma-aep/2024/rectificare-29",
+   "short": "Rectificarea AEP nr. 29/2024",
+   "title": "RECTIFICARE nr. 29 din 23 septembrie 2024 referitoare la Hotărârea Autorităţii Electorale Permanente nr. 29/2024 privind aprobarea Ghidului finanţării campaniei electorale la alegerile pentru Preşedintele României din anul 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/289843",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/289843",
+     "sha256": "75b39be9ba215088ae818c89a5d181fab6f5634d743de782d6eaf5770139ef90"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-rectificare-30-2024",
+   "path": "norma-aep/2024/rectificare-30",
+   "short": "Rectificarea AEP nr. 30/2024",
+   "title": "RECTIFICARE nr. 30 din 24 septembrie 2024 referitoare la Hotărârea Autorităţii Electorale Permanente nr. 30/2024 privind aprobarea Ghidului finanţării campaniei electorale la alegerile pentru Senat şi Camera Deputaţilor din anul 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/289844",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/289844",
+     "sha256": "a4565b4c29e31900a7de1a7400ce864f8f1d8ebb6db85256a1590fe22d764a03"
+    }
+   ]
+  }
+ ]
+}

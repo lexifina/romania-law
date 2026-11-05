@@ -164,8 +164,30 @@ def credit(act: str, path: str, day: str) -> str | None:
     law = hit[-1]['law']
     if not law:
         return 'no law named (the change is unexplained)'
-    labels = {r['key']: r['label'] for r in csv.DictReader(io.StringIO(git('show', 'main:data/laws.csv')))}
-    return labels.get(law, law)
+    return law_labels().get(law, law)
+
+
+def law_labels() -> dict[str, str]:
+    """{law key: label} from data/laws.csv and its shards (data/laws/<kind>/<year>.csv, listed in data/index.json)."""
+    import csv
+    import io
+    texts = [git('show', 'main:data/laws.csv')]
+    try:
+        idx = json.loads(git('show', 'main:data/index.json'))
+    except (subprocess.CalledProcessError, ValueError):
+        idx = {}
+    specs = [f'main:{s["laws"]}' for s in idx.get('shards', []) if s.get('laws')]
+    if specs:  # one git process for every shard
+        out = subprocess.run(['git', 'cat-file', '--batch'], input=''.join(s + '\n' for s in specs).encode(),
+                             capture_output=True, check=True).stdout
+        i = 0
+        for _ in specs:
+            nl = out.index(b'\n', i)
+            head, i = out[i:nl].split(), nl + 1
+            if len(head) == 3 and head[1] == b'blob':
+                texts.append(out[i:i + int(head[2])].decode('utf-8'))
+                i += int(head[2]) + 1
+    return {r['key']: r['label'] for t in texts for r in csv.DictReader(io.StringIO(t))}
 
 
 def main():

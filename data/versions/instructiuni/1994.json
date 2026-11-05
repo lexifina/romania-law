@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/1994",
+ "acts": [
+  {
+   "slug": "instructiuni-bnr-2-1994",
+   "path": "instructiuni/bnr/1994/2",
+   "short": "Instrucțiuni bnr nr. 2/1994",
+   "title": "Instrucțiunile nr. 2/1994 privind înregistrarea, transferul și plata aferente operațiunilor cu certificate de trezorerie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3788",
+   "versions": [
+    {
+     "from": "1994-06-01",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3788",
+     "sha256": "f677b3677fa8fb899c6ee1b0d2d655d4b6d2cf72028450a77a27a883baed1553"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-finante-1-1994",
+   "path": "instructiuni/finante/1994/1",
+   "short": "Instrucțiuni finante nr. 1/1994",
+   "title": "Instrucțiunile nr. 1/1994 de aplicare a prevederilor Ordonanței Guvernului nr. 18/1994 privind măsuri pentru întărirea disciplinei financiare a agenților economici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3774",
+   "versions": [
+    {
+     "from": "1994-03-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3774",
+     "sha256": "15fa1d59d7e630b964b6611df2295364319257e62e4d361e1ce780bdae31c414"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-finante-1719-1994",
+   "path": "instructiuni/finante/1994/1719",
+   "short": "Instrucțiuni finante nr. 1719/1994",
+   "title": "Instrucțiunile nr. 1.719/1994 cu privire la modul de încasare a veniturilor și de alocare a sumelor pentru finanțarea cheltuielilor aprobate prin bugetul Fondului special pentru dezvoltarea și modernizarea drumurilor publice, de evidențiere și de raportare a acestui fond",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5564",
+   "versions": [
+    {
+     "from": "1994-06-29",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5564",
+     "sha256": "8c11e701666eb20a504d663e4b3bcbf3754fb790ce94175675e5eb825914a448"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-finante-175805-1994",
+   "path": "instructiuni/finante/1994/175805",
+   "short": "Instrucțiuni finante nr. 175805/1994",
+   "title": "Instrucțiunile nr. 175.805/1994 INSTRUCȚIUNILE Nr. 175.805 din 9 septembrie 1994 privind constituirea și utilizarea Fondului special pentru dezvoltarea sistemului energetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5600",
+   "versions": [
+    {
+     "from": "1994-10-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5600",
+     "sha256": "53953cbdd438ee1a43a5ded42c19dd27411e6a0beb4606092d53a5d472c3cb3f"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-finante-45749-1994",
+   "path": "instructiuni/finante/1994/45749",
+   "short": "Instrucțiuni finante nr. 45749/1994",
+   "title": "Instrucțiunile nr. 45.749/1994 privind modificarea cuantumurilor cheltuielilor de delegare-detașare, potrivit prevederilor art. 7 din Hotărârea Guvernului nr. 412/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5591",
+   "versions": [
+    {
+     "from": "1994-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5591",
+     "sha256": "cfe6b47cc3070b05266c584853be6c721ef381662e8c6d6bc5a6686b9d4aab97"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-finante-4775-1994",
+   "path": "instructiuni/finante/1994/4775",
+   "short": "Instrucțiuni finante nr. 4775/1994",
+   "title": "Instrucțiunile nr. 4.775/1994 cu privire la modul de încasare a veniturilor și de alocare a sumelor pentru finanțarea cheltuielilor aprobate prin bugetul Fondului special pentru dezvoltarea și modernizarea drumurilor publice, de evidențiere și de raportare a acestui fond",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5574",
+   "versions": [
+    {
+     "from": "1994-06-29",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5574",
+     "sha256": "352839e6375b6aaf5edb017f3cd5eccb9eec4f8ec8816d986829e8423df7b22a"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-finante-92514-1994",
+   "path": "instructiuni/finante/1994/92514",
+   "short": "Instrucțiuni finante nr. 92514/1994",
+   "title": "Instrucțiunile nr. 92.514/1994 INSTRUCȚIUNILE Nr. 92.514 din 9 septembrie 1994 privind constituirea și utilizarea Fondului special pentru dezvoltarea sistemului energetic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5599",
+   "versions": [
+    {
+     "from": "1994-10-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5599",
+     "sha256": "927a12c23082527fb3a34fd88fe195377f9418bfe6c1754b9c675c799565d5df"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+"country": "RO",
+"shard": "ordin/1990",
+"acts": [
+{
+"slug": "ordin-finante-544-1990",
+"path": "ordin/finante/1990/544",
+"kind": "ordin",
+"year": "1990",
+"number": "544",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 544/1990 privind impozitul pe circulația mărfurilor pentru produsele care fac parte din categoria celor de lux",
+"short": "Ordin finante nr. 544/1990",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1990-12-11",
+"latest": "1990-12-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/1089",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-606-1990",
+"path": "ordin/finante/1990/606",
+"kind": "ordin",
+"year": "1990",
+"number": "606",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 606/1990 privind cotele de impozit pe circulația mărfurilor pentru anumite produse și servicii",
+"short": "Ordin finante nr. 606/1990",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1990-12-11",
+"latest": "1990-12-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/1120",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-625-1990",
+"path": "ordin/finante/1990/625",
+"kind": "ordin",
+"year": "1990",
+"number": "625",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 625/1990 privind Normele metodologice de aplicare a Hotărîrii Guvernului nr. 1194/1990",
+"short": "Ordin finante nr. 625/1990",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1991-01-01",
+"latest": "1991-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/1132",
+"issuer": "finante",
+"joint": []
+}
+]
+}

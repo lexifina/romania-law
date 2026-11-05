@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "metodologie/1995",
+ "acts": [
+  {
+   "slug": "metodologie-finante-12005-1995",
+   "path": "metodologie/finante/1995/12005",
+   "short": "Metodologie finante nr. 12005/1995",
+   "title": "Metodologia nr. 12.005/1995 ÎNDRUMĂRI METODOLOGICE cu privire la modul de încadrare a personalului din sectorul bugetar potrivit statului de funcții care se aproba anual, potrivit legii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7649",
+   "versions": [
+    {
+     "from": "1995-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7649",
+     "sha256": "d303b59e23cd1f0e0c27fb2a47bfd5c434500f8a37cda80d56319d645064536d"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-4/2007",
+ "acts": [
+  {
+   "slug": "hcls4-22-2007",
+   "path": "local/bucuresti/sector-4/2007/22",
+   "short": "HCLS4 nr. 22/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 22/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2127-8207-2469.pdf",
+     "sha256": "f7f4cf8533396e0d63d914e73bd22fa6359549bef956f4c41156b0ae43a19869"
+    }
+   ]
+  }
+ ]
+}

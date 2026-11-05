@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "norma/2002",
+ "acts": [
+  {
+   "slug": "norma-bnr-1-2002",
+   "path": "norma/bnr/2002/1",
+   "short": "Norma bnr nr. 1/2002",
+   "title": "Norma nr. 1/2002 privind modificarea și completarea Normelor Băncii Naționale a României nr. 1/2001 privind lichiditatea băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34152",
+   "versions": [
+    {
+     "from": "2002-02-20",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34152",
+     "sha256": "53d5408ff549ea50a2fbacd5b25488c7589887b8c0a4daa78fb87d91c7568e5e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-10-2002",
+   "path": "norma/bnr/2002/10",
+   "short": "Norma bnr nr. 10/2002",
+   "title": "Norma nr. 10/2002 privind instrumentele financiare derivate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38039",
+   "versions": [
+    {
+     "from": "2002-08-16",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38039",
+     "sha256": "a94769fefbf81cab14358a8ef3b175b4dfda79f0a1809bc566323f1d7f2a382a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-11-2002",
+   "path": "norma/bnr/2002/11",
+   "short": "Norma bnr nr. 11/2002",
+   "title": "Norma nr. 11/2002 pentru completarea Normelor Băncii Naționale a României nr. 8/1999 privind limitarea riscului de credit al băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38040",
+   "versions": [
+    {
+     "from": "2002-08-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38040",
+     "sha256": "1f0712e28339fd03a9325e868a97afe83386d9f7d1259f55830cd4b2c0731cdb"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-13-2002",
+   "path": "norma/bnr/2002/13",
+   "short": "Norma bnr nr. 13/2002",
+   "title": "Norma nr. 13/2002 privind capitalul minim al organizațiilor cooperatiste de credit și capitalul agregat minim al rețelelor cooperatiste de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38362",
+   "versions": [
+    {
+     "from": "2002-09-10",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38362",
+     "sha256": "81c6272743a45484a2904431e250dc4fd61c1ec2e69c8294acfc89799ba5f246"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-14-2002",
+   "path": "norma/bnr/2002/14",
+   "short": "Norma bnr nr. 14/2002",
+   "title": "Norma nr. 14/2002 privind fondurile proprii ale organizațiilor cooperatiste de credit și ale rețelelor cooperatiste de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38368",
+   "versions": [
+    {
+     "from": "2002-09-10",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38368",
+     "sha256": "0976831ef195f82f3c100c62afa4282f957d489bea6dc093c5ecbaf66e69332a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-16-2002",
+   "path": "norma/bnr/2002/16",
+   "short": "Norma bnr nr. 16/2002",
+   "title": "Norma nr. 16/2002 privind capitalul minim al băncilor și al sucursalelor băncilor străine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38435",
+   "versions": [
+    {
+     "from": "2002-09-16",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38435",
+     "sha256": "20b0fdb594b2c790c5e15d57f48ccf0f07c3e7734ff95b8403299490353f15c6"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-17-2002",
+   "path": "norma/bnr/2002/17",
+   "short": "Norma bnr nr. 17/2002",
+   "title": "Norma nr. 17/2002 privind raportarea statistica la Banca Naționala a României a operațiunilor valutare de capital de natura datoriei private externe pe termen mediu și lung",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38571",
+   "versions": [
+    {
+     "from": "2002-10-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38571",
+     "sha256": "173eefcf0d61dc3f5c28e3a3e49c02257b8838997d046fae36d5687392daa1b7"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-18-2002",
+   "path": "norma/bnr/2002/18",
+   "short": "Norma bnr nr. 18/2002",
+   "title": "Norma nr. 18/2002 privind registrul bancar și registrul organizațiilor cooperatiste de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38876",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38876",
+     "sha256": "55ae84745ea5c0bb8c92f1d55d0649031f0d2297e0a35e4cba77f40146090598"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-2-2002",
+   "path": "norma/bnr/2002/2",
+   "short": "Norma bnr nr. 2/2002",
+   "title": "Norma nr. 2/2002 pentru modificarea și completarea Normelor Băncii Naționale a României nr. 7/2000 privind autorizarea organizațiilor cooperatiste de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34153",
+   "versions": [
+    {
+     "from": "2002-02-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34153",
+     "sha256": "184ab6dd2a19aba72084326ec7b241fcfe96be954220ca5eedb518cafd165f7a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-20-2002",
+   "path": "norma/bnr/2002/20",
+   "short": "Norma bnr nr. 20/2002",
+   "title": "Norma nr. 20/2002 pentru modificarea și completarea Normelor Băncii Naționale a României nr. 8/1999 privind limitarea riscului de credit al băncilor, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41211",
+   "versions": [
+    {
+     "from": "2003-04-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41211",
+     "sha256": "e24abf1d82286bce0e5aab49880909f5d5c04a31da3b963e5d4d0dc3b53a6d77"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-3-2002",
+   "path": "norma/bnr/2002/3",
+   "short": "Norma bnr nr. 3/2002",
+   "title": "Norma nr. 3/2002 privind standardele de cunoaștere a clientelei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34345",
+   "versions": [
+    {
+     "from": "2002-03-04",
+     "units": 59,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34345",
+     "sha256": "aad22b12a4b26deee5881539c2f398f19130b2f46b5e0be1afe36379f84f3d35"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-4-2002",
+   "path": "norma/bnr/2002/4",
+   "short": "Norma bnr nr. 4/2002",
+   "title": "Norma nr. 4/2002 pentru modificarea și completarea Normelor nr. 2/1999 privind autorizarea băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35601",
+   "versions": [
+    {
+     "from": "2002-04-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35601",
+     "sha256": "372d71271671b7e9a962698940e31d0c1425253200abb2b2f15c8f19c67de954"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-5-2002",
+   "path": "norma/bnr/2002/5",
+   "short": "Norma bnr nr. 5/2002",
+   "title": "Norma nr. 5/2002 pentru modificarea și completarea Normelor nr. 3/1999 privind modificările în situația băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35606",
+   "versions": [
+    {
+     "from": "2002-04-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35606",
+     "sha256": "1559813d695d547b841c3069e6a188c411d7f683b9ea0cf6d1ee4ccc7be32fa5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-7-2002",
+   "path": "norma/bnr/2002/7",
+   "short": "Norma bnr nr. 7/2002",
+   "title": "Norma nr. 7/2002 privind transferurile de fonduri în cadrul unei rețele cooperatiste de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36900",
+   "versions": [
+    {
+     "from": "2002-06-27",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36900",
+     "sha256": "c10e5cfd691086d47d1759e2c8d61b5b479416ecf5ea6c10b35914297bc755ec"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-8-2002",
+   "path": "norma/bnr/2002/8",
+   "short": "Norma bnr nr. 8/2002",
+   "title": "Norma nr. 8/2002 privind elaborarea situațiilor financiare consolidate de către instituțiile de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38244",
+   "versions": [
+    {
+     "from": "2002-09-02",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/38244",
+     "sha256": "d5a03ad27cd52018840e4617a1b6acb679a840bf615c081ddaeafd3608784031"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-521821-2002",
+   "path": "norma/finante/2002/521821",
+   "short": "Norma finante nr. 521821/2002",
+   "title": "Norma nr. 521.821/2002 privind constituirea și utilizarea Fondului special al drumurilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36198",
+   "versions": [
+    {
+     "from": "2002-05-24",
+     "units": 79,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36198",
+     "sha256": "40b2357549e30c3803a975589459b94e8f1f4598f2110113c644fe5dac7efdb5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-394-2002",
+   "path": "norma/munca/2002/394",
+   "short": "Norma munca nr. 394/2002",
+   "title": "Norma nr. 394/2002 privind acordarea din bugetul asigurărilor pentru șomaj de credite în condiții avantajoase întreprinderilor mici și mijlocii, unităților cooperatiste, asociațiilor familiale și persoanelor fizice autorizate să desfășoare activități independente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35259",
+   "versions": [
+    {
+     "from": "2002-04-15",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35259",
+     "sha256": "34ab38bbd952aa4e495dcec038e11f20db22b4a197610072b52ae362b28b0430"
+    }
+   ]
+  }
+ ]
+}

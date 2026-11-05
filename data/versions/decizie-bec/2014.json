@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "decizie-bec/2014",
+ "acts": [
+  {
+   "slug": "decizie-bec-europarlamentare-2014-3h",
+   "path": "decizie-bec/europarlamentare-2014/3h",
+   "short": "Hotărârea BEC nr. 3h/2014",
+   "title": "HOTĂRÂRE nr. 3H din 31 martie 2014 privind interpretarea noţiunii \"partid politic care are membri în Parlamentul European\"",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/157028",
+   "versions": [
+    {
+     "from": "2014-04-02",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/157028",
+     "sha256": "a0aa7d485ed5952099a78b13f23a16820e1d987f5acd900339d8972aa2edcbd2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-europarlamentare-2014-5h",
+   "path": "decizie-bec/europarlamentare-2014/5h",
+   "short": "Hotărârea BEC nr. 5h/2014",
+   "title": "HOTĂRÂRE nr. 5H din 17 aprilie 2014 privind interpretarea dispoziţiilor art. 51, art. 52 alin. (1) lit. b) şi alin. (4) lit. m) din Legea nr. 33/2007 privind organizarea şi desfăşurarea alegerilor pentru Parlamentul European",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/157562",
+   "versions": [
+    {
+     "from": "2014-04-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/157562",
+     "sha256": "35ff74918d605fdb5b0813f4dbb4d81f7dd62d5e26438481ac186dc7a1322385"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-europarlamentare-2014-comunicat-2014-05-25",
+   "path": "decizie-bec/europarlamentare-2014/comunicat-2014-05-25",
+   "short": "Comunicatul BEC din 2014-05-25",
+   "title": "Comunicatul Biroului Electoral Central din 2014-05-25",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/158617",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/158617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-europarlamentare-2014-lista-2014-04-03",
+   "path": "decizie-bec/europarlamentare-2014/lista-2014-04-03",
+   "short": "Listă BEC din 2014-04-03",
+   "title": "Listă Biroului Electoral Central din 2014-04-03",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/157053",
+   "versions": [
+    {
+     "from": "2014-04-03",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/157053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-europarlamentare-2014-proces-verbal-2014-05-25",
+   "path": "decizie-bec/europarlamentare-2014/proces-verbal-2014-05-25",
+   "short": "Proces verbal BEC din 2014-05-25",
+   "title": "Proces verbal Biroului Electoral Central din 2014-05-25",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/158680",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/158680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2014-2-h",
+   "path": "decizie-bec/parlamentare-2014/2-h",
+   "short": "Hotărârea BEC nr. 2-h/2014",
+   "title": "HOTĂRÂRE nr. 2/H din 8 mai 2014 privind interpretarea prevederilor art. 16 alin. (11) din Legea nr. 35/2008 pentru alegerea Camerei Deputaţilor şi a Senatului şi pentru modificarea şi completarea Legii nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale, a Legii administraţiei publice locale nr. 215/2001 şi a Legii nr. 393/2004 privind Statutul aleşilor locali",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/158034",
+   "versions": [
+    {
+     "from": "2014-05-08",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/158034",
+     "sha256": "cbf45bef134a53aa472995854e7c2eb24e24dd2ccab2b5936a2c96382b21c958"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-partiale-parlamentare-2014-1-h",
+   "path": "decizie-bec/partiale-parlamentare-2014/1-h",
+   "short": "Hotărârea BEC nr. 1-h/2014",
+   "title": "HOTĂRÂRE nr. 1/H din 11 aprilie 2014 privind adoptarea Regulamentului de organizare şi funcţionare a birourilor electorale constituite la alegerile parţiale pentru Camera Deputaţilor şi Senat din data de 25 mai 2014",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/157452",
+   "versions": [
+    {
+     "from": "2014-04-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/157452",
+     "sha256": "139b8ef819c237ebc1a9e7f75814d368e042924ff0777038f8a53d44f11fcb6f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-partiale-parlamentare-2014-proces-verbal-2014-05-25-2",
+   "path": "decizie-bec/partiale-parlamentare-2014/proces-verbal-2014-05-25-2",
+   "short": "Proces verbal BEC din 2014-05-25",
+   "title": "Proces verbal Biroului Electoral Central din 2014-05-25",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/158601",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/158601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-partiale-parlamentare-2014-proces-verbal-2014-05-25",
+   "path": "decizie-bec/partiale-parlamentare-2014/proces-verbal-2014-05-25",
+   "short": "Proces verbal BEC din 2014-05-25",
+   "title": "Proces verbal Biroului Electoral Central din 2014-05-25",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/158600",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/158600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-partiale-parlamentare-2014-regulament-2014-04-11",
+   "path": "decizie-bec/partiale-parlamentare-2014/regulament-2014-04-11",
+   "short": "Regulamentul BEC din 2014-04-11",
+   "title": "REGULAMENT din 11 aprilie 2014 de organizare şi funcţionare a birourilor electorale constituite la alegerile parţiale pentru Camera Deputaţilor şi Senat din data de 25 mai 2014",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/157453",
+   "versions": [
+    {
+     "from": "2014-04-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/157453",
+     "sha256": "ed10bbceed271e57d79a9bc9ca24764c7dd1a4d05f11185cb34893016f357e57"
+    }
+   ]
+  }
+ ]
+}

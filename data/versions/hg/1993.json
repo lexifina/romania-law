@@ -1,0 +1,1017 @@
+{
+ "country": "RO",
+ "shard": "hg/1993",
+ "acts": [
+  {
+   "slug": "hg-507-1993",
+   "path": "hg/1993/507",
+   "short": "HG nr. 507/1993",
+   "title": "Hotărârea Guvernului nr. 507/1993 privind asigurarea pazei şi apărării cu efective militare la unele obiective feroviare, rutiere şi de navigaţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3553",
+   "versions": [
+    {
+     "from": "1993-10-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3553",
+     "sha256": "bff5706c53340187d879520a855316957376bc4a193cdb1c2c6b54653b4b3bac"
+    },
+    {
+     "from": "1995-11-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3553",
+     "sha256": "e826dd588988d55a4047caf56916769053937a162f8c936d84bf7dcf93c47a08"
+    }
+   ]
+  },
+  {
+   "slug": "hg-111-1993",
+   "path": "hg/1993/111",
+   "short": "HG nr. 111/1993",
+   "title": "Hotărârea Guvernului nr. 111/1993 privind atribuirea unor spaţii pentru funcţionarea Curţii de Conturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3306",
+   "versions": [
+    {
+     "from": "1993-03-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3306",
+     "sha256": "5e1a47232bb98c5bb9300b61c3110282edc9af84a3fc2a46519eecae5484f592"
+    }
+   ]
+  },
+  {
+   "slug": "hg-119-1993",
+   "path": "hg/1993/119",
+   "short": "HG nr. 119/1993",
+   "title": "Hotărârea Guvernului nr. 119/1993 privind transmiterea unor imobile din patrimoniul Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\" în administrarea instituţiilor publice care le folosesc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3313",
+   "versions": [
+    {
+     "from": "1993-04-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3313",
+     "sha256": "92ba7de9de018e665c92dba11cc0e211dc2adbcfacc919aed73759c47cacf41f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-126-1993",
+   "path": "hg/1993/126",
+   "short": "HG nr. 126/1993",
+   "title": "Hotărârea Guvernului nr. 126/1993 privind unele măsuri pentru reforma serviciilor medicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3321",
+   "versions": [
+    {
+     "from": "1993-05-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3321",
+     "sha256": "54bed4531e65d722ce3fd03d1530b1cf64f4321944834427a57b866b6f0b64a5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-149-1993",
+   "path": "hg/1993/149",
+   "short": "HG nr. 149/1993",
+   "title": "Hotărârea Guvernului nr. 149/1993 privind desfiinţarea Regiei Autonome \"Pelendava\" Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17604",
+   "versions": [
+    {
+     "from": "1993-05-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17604",
+     "sha256": "65172a3d6244027bf6a5228a56ed3a40874db07a189a76d58b7f3ace3d871b55"
+    }
+   ]
+  },
+  {
+   "slug": "hg-151-1993",
+   "path": "hg/1993/151",
+   "short": "HG nr. 151/1993",
+   "title": "Hotărârea Guvernului nr. 151/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17833",
+   "versions": [
+    {
+     "from": "1993-05-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17833",
+     "sha256": "efd368513759634a4ac45a013368af61204c0e5aafbca6276ca488453293440e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-172-1993",
+   "path": "hg/1993/172",
+   "short": "HG nr. 172/1993",
+   "title": "Hotărârea Guvernului nr. 172/1993 privind aprobarea realizării obiectivului de investiţii \"Lucrări de îmbunătăţire a indicatorilor de calitate la apa folosită şi evacuată de pe platforma Societăţii Comerciale &lt;&lt;Carom&gt;&gt; - S.A. Oneşti\", judeţul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3350",
+   "versions": [
+    {
+     "from": "1993-05-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3350",
+     "sha256": "1f8acd73750ca32cbdc3675461d8ab6d9f79a58ca429af610b3aca29ee9e43fb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-177-1993",
+   "path": "hg/1993/177",
+   "short": "HG nr. 177/1993",
+   "title": "Hotărârea Guvernului nr. 177/1993 cu privire la compensarea şi indexarea salariilor şi stabilirea salariului de bază minim brut pe ţara, începând cu 1 mai 1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3356",
+   "versions": [
+    {
+     "from": "1993-04-30",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3356",
+     "sha256": "57f871994409ff8c88b9b24e4eb8d7a72477d1dab85a23a14f658e7bb434c19b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-196-1993",
+   "path": "hg/1993/196",
+   "short": "HG nr. 196/1993",
+   "title": "Hotărârea Guvernului nr. 196/1993 pentru modificarea si completarea Hotararii Guvernului nr. 860/1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3373",
+   "versions": [
+    {
+     "from": "1993-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3373",
+     "sha256": "4e0a41846e840ed35d01dfecde66e4004f0327b85054f96b78e040d368d407e8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-206-1993",
+   "path": "hg/1993/206",
+   "short": "HG nr. 206/1993",
+   "title": "Hotărârea Guvernului nr. 206/1993 privind unele măsuri pentru continuarea liberalizării preţurilor şi tarifelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3384",
+   "versions": [
+    {
+     "from": "1993-06-28",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3384",
+     "sha256": "1772dd86fce8754503e845defe3874085b84b6ea8616982b0feb85bbf71f0eb2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-222-1993",
+   "path": "hg/1993/222",
+   "short": "HG nr. 222/1993",
+   "title": "Hotărârea Guvernului nr. 222/1993 privind modificarea art. 2 lit. A pct. 6 alin. 1 din Hotărârea Guvernului nr. 800 din 1992 privind organizarea şi funcţionarea Ministerului Tineretului şi Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3404",
+   "versions": [
+    {
+     "from": "1993-05-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3404",
+     "sha256": "1dd4fc5e98313f2d3b2c6b7cf37e740344745027b386dbd065833cf79f077541"
+    }
+   ]
+  },
+  {
+   "slug": "hg-227-1993",
+   "path": "hg/1993/227",
+   "short": "HG nr. 227/1993",
+   "title": "Hotărârea Guvernului nr. 227/1993 privind modificarea şi completarea Hotărârii Guvernului nr. 486/1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3411",
+   "versions": [
+    {
+     "from": "1993-06-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3411",
+     "sha256": "c20425e26250f0804860b14dece3081208940cf2d21d2f1425657aa75c35dad9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-229-1993",
+   "path": "hg/1993/229",
+   "short": "HG nr. 229/1993",
+   "title": "Hotărârea Guvernului nr. 229/1993 privind unele măsuri de organizare şi funcţionare a Serviciului de Telecomunicaţii Speciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3414",
+   "versions": [
+    {
+     "from": "1993-06-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3414",
+     "sha256": "6117e57856a6725cafcb14fe197128705e0d0821e14143c34f54efec1ad24e20"
+    }
+   ]
+  },
+  {
+   "slug": "hg-247-1993",
+   "path": "hg/1993/247",
+   "short": "HG nr. 247/1993",
+   "title": "Hotărârea Guvernului nr. 247/1993 privind schimbarea denumirii Societăţii Comerciale \"Cominex\" - S.A. Cluj, aprobarea divizării parţiale a acesteia şi înfiinţarea unor societăţi comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40537",
+   "versions": [
+    {
+     "from": "1993-07-15",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40537",
+     "sha256": "930af781ecc3771453c815b953b4e23a475d34542fc73dbea6deda5cbeae4d79"
+    }
+   ]
+  },
+  {
+   "slug": "hg-249-1993",
+   "path": "hg/1993/249",
+   "short": "HG nr. 249/1993",
+   "title": "Hotărârea Guvernului nr. 249/1993 privind aprobarea realizării obiectivului de investiţii \"Instalaţii pentru epurarea apelor reziduale\" la Societatea Comercială \"Doljchim\" - S.A. Craiova, judeţul Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17579",
+   "versions": [
+    {
+     "from": "1993-07-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17579",
+     "sha256": "f9a39d22f11f8be2a1cfe87ab398fc73bf9820a0be38050ee68eb61c41f82ea7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-250-1993",
+   "path": "hg/1993/250",
+   "short": "HG nr. 250/1993",
+   "title": "Hotărârea Guvernului nr. 250/1993 privind modificarea şi completarea tarifelor cuprinse în tabelul tarifar nr. VIII privind remuneraţia de executare pentru opere muzicale, aprobat prin H. C. M. nr. 632/1957, completat şi modificat prin Hotărârea Guvernului nr. 810/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3429",
+   "versions": [
+    {
+     "from": "1993-07-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3429",
+     "sha256": "efc9983a9f9e3c988343f24c8f116ab3d5a3ffcb8a33c58d384bc9f90b8d2171"
+    }
+   ]
+  },
+  {
+   "slug": "hg-270-1993",
+   "path": "hg/1993/270",
+   "short": "HG nr. 270/1993",
+   "title": "Hotărârea Guvernului nr. 270/1993 privind numirea în funcţia de subprefect al judeţului Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17889",
+   "versions": [
+    {
+     "from": "1993-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17889",
+     "sha256": "d5ddcfed74893a9ccd6feda4f09e0a1627a7511c8fb5cd83f8763dd240d611b3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-290-1993",
+   "path": "hg/1993/290",
+   "short": "HG nr. 290/1993",
+   "title": "Hotărârea Guvernului nr. 290/1993 privind acordarea unei indemnizaţii lunare cadrelor didactice române care predau limba, literatura şi civilizaţia românească în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3454",
+   "versions": [
+    {
+     "from": "1993-07-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3454",
+     "sha256": "aaf9820eb3ce64b3422da3f9c4c963210699b85122c853db42b9cfc6f78315cf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-293-1993",
+   "path": "hg/1993/293",
+   "short": "HG nr. 293/1993",
+   "title": "Hotărârea Guvernului nr. 293/1993 cu privire la modificarea art. 14 alin. 1 din Regulamentul de organizare şi funcţionare al Regiei Autonome a Loteriilor şi Pronosticurilor Sportive din România, prevăzut în anexa nr. 1 la Hotărârea Guvernului nr. 130 din 25 februarie 1991 privind înfiinţarea Regiei Autonome a Loteriilor şi Pronosticurilor Sportive din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3458",
+   "versions": [
+    {
+     "from": "1993-07-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3458",
+     "sha256": "d1deda65fdba1a2f81f07a97e8eb8d5fec46a1209874da5fdfef2f480bd6025e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-299-1993",
+   "path": "hg/1993/299",
+   "short": "HG nr. 299/1993",
+   "title": "Hotărârea Guvernului nr. 299/1993 privind modul de stabilire a fondului de salarii pentru care societăţile comerciale cu capital majoritar de stat şi regiile autonome la care salariile se stabilesc prin negociere nu au obligaţia sa plătească impozit suplimentar, în temeiul art. 6 din Ordonanţa Guvernului nr. 1/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3462",
+   "versions": [
+    {
+     "from": "1993-06-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3462",
+     "sha256": "0034e3cde097c5dc5dd52cbf461c54a66b135faf3ef834f09763156ae862373c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-301-1993",
+   "path": "hg/1993/301",
+   "short": "HG nr. 301/1993",
+   "title": "Hotărârea Guvernului nr. 301/1993 privind instituirea regimului special de supraveghere a unor societăţi comerciale cu capital de stat aflate în situaţie financiară critica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3464",
+   "versions": [
+    {
+     "from": "1993-07-01",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3464",
+     "sha256": "099aad068e16a606e36f3da7973757bef0b08d22c148b4d6349e0cc683f34f51"
+    }
+   ]
+  },
+  {
+   "slug": "hg-337-1993",
+   "path": "hg/1993/337",
+   "short": "HG nr. 337/1993",
+   "title": "Hotărârea Guvernului nr. 337/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3474",
+   "versions": [
+    {
+     "from": "1993-08-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/3474",
+     "sha256": "1a937b3d7ee2c87f90560d1df8d93a97b1698bcbc9740cc0f4aefd29c30491e4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-338-1993",
+   "path": "hg/1993/338",
+   "short": "HG nr. 338/1993",
+   "title": "Hotărârea Guvernului nr. 338/1993 privind atribuirea unui număr de posturi şi stabilirea numărului total al magistraţilor şi personalului auxiliar, administrativ şi de serviciu de la judecătorii, tribunale, curţi de apel şi de la toate parchetele",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17872",
+   "versions": [
+    {
+     "from": "1993-07-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17872",
+     "sha256": "ef0311251e77f6a8a8614bfcd3f5830700c122d7b0a142bb463fc2632f21cad4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-349-1993",
+   "path": "hg/1993/349",
+   "short": "HG nr. 349/1993",
+   "title": "Hotărârea Guvernului nr. 349/1993 privind înfiinţarea Secretariatului Tripartit pentru Dialog Social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3482",
+   "versions": [
+    {
+     "from": "1993-08-18",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3482",
+     "sha256": "2443ecc81249c72e23c02746ecb189d053905150c9afba27b4803392ab673592"
+    }
+   ]
+  },
+  {
+   "slug": "hg-356-1993",
+   "path": "hg/1993/356",
+   "short": "HG nr. 356/1993",
+   "title": "Hotărârea Guvernului nr. 356/1993 privind utilizarea Fondului de contrapartida constituit din contravaloarea în lei a ajutoarelor primite din partea Comisiei Comunităţilor Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3487",
+   "versions": [
+    {
+     "from": "1993-08-18",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3487",
+     "sha256": "51aeeb904349458c9402828086bc056490152302e00f081e41f2faa3d00ba822"
+    }
+   ]
+  },
+  {
+   "slug": "hg-36-1993",
+   "path": "hg/1993/36",
+   "short": "HG nr. 36/1993",
+   "title": "Hotărârea Guvernului nr. 36/1993 privind numirea celor cinci membri în Consiliul de administraţie al Fondului Proprietăţii de Stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3135",
+   "versions": [
+    {
+     "from": "1993-02-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3135",
+     "sha256": "a7f3798f42040eae67c3f9dea36547189e6cbf96fe38a42d89bc0d422d474b1c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-37-1993",
+   "path": "hg/1993/37",
+   "short": "HG nr. 37/1993",
+   "title": "Hotărârea Guvernului nr. 37/1993 privind numirea directorului român al proiectului regional pentru Europa - TER (calea ferată transeuropeană)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17895",
+   "versions": [
+    {
+     "from": "1993-02-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17895",
+     "sha256": "e8caa13b6bb25365016d16a3c6ef7210cdc726a8e6a1f25eab1cb5086d0418bb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-371-1993",
+   "path": "hg/1993/371",
+   "short": "HG nr. 371/1993",
+   "title": "Hotărârea Guvernului nr. 371/1993 privind acordarea, în prima intervenţie, a ajutoarelor umanitare populaţiei sinistrate, ca urmare a unor situaţii excepţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3500",
+   "versions": [
+    {
+     "from": "1993-09-03",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3500",
+     "sha256": "bd9c855d10d5689216ce0803491cd50b7c32248db5b1f98b4f3aaa7d8954b8e8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-387-1993",
+   "path": "hg/1993/387",
+   "short": "HG nr. 387/1993",
+   "title": "Hotărârea Guvernului nr. 387/1993 privind modificarea şi completarea Hotărârii Guvernului nr. 840/1992 privind compensarea preţurilor cu amănuntul la unele medicamente de uz uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3509",
+   "versions": [
+    {
+     "from": "1993-08-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3509",
+     "sha256": "bde1d6ef968e064a1f212bda9a237d8b7ca093c197f1666d32ba588fe923fd0e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-390-1993",
+   "path": "hg/1993/390",
+   "short": "HG nr. 390/1993",
+   "title": "Hotărârea Guvernului nr. 390/1993 pentru aprobarea Metodologiei privind pregătirea, elaborarea, avizarea şi prezentarea proiectelor de acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3511",
+   "versions": [
+    {
+     "from": "1993-08-24",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3511",
+     "sha256": "32ef45f950f93e4868e5a06d1e9483c20aa07f5209bfd3296f951dcf277d868d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-412-1993",
+   "path": "hg/1993/412",
+   "short": "HG nr. 412/1993",
+   "title": "Hotărârea Guvernului nr. 412/1993 privind reproducerea stemei României pe actele oficiale şi sigiliile autorităţilor Ministerului Învăţământului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17372",
+   "versions": [
+    {
+     "from": "1993-09-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17372",
+     "sha256": "4dd6beeb1635d5e697fd3f694574ee60523224efb47ddc480162303d1a72edd5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-45-1993",
+   "path": "hg/1993/45",
+   "short": "HG nr. 45/1993",
+   "title": "Hotărârea Guvernului nr. 45/1993 pentru aprobarea Acordului privind ajutorul în valoare de 10 milioane dolari pentru importul de mărfuri destinate agriculturii, încheiat între Guvernul României şi Statele Unite ale Americii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3163",
+   "versions": [
+    {
+     "from": "1993-02-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3163",
+     "sha256": "3a54e1b7061c78165a9336c20f1bc550f970f4a1b10f3ad80e4130099d7738e7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-487-1993",
+   "path": "hg/1993/487",
+   "short": "HG nr. 487/1993",
+   "title": "Hotărârea Guvernului nr. 487/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93279",
+   "versions": [
+    {
+     "from": "1993-10-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93279",
+     "sha256": "3291b8b03ac9b55669c02c3780d0b477d5bf0396cf3953a82700bc3f779d4919"
+    }
+   ]
+  },
+  {
+   "slug": "hg-489-1993",
+   "path": "hg/1993/489",
+   "short": "HG nr. 489/1993",
+   "title": "Hotărârea Guvernului nr. 489/1993 pentru modificarea Hotărârii Guvernului nr. 815/1992 privind organizarea şi funcţionarea Ministerului Comerţului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92718",
+   "versions": [
+    {
+     "from": "1993-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92718",
+     "sha256": "a751f6937e47f6d7c8ce71dfde35ddd74edff5089493dc4dabcc5046d812898c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-491-1993",
+   "path": "hg/1993/491",
+   "short": "HG nr. 491/1993",
+   "title": "Hotărârea Guvernului nr. 491/1993 pentru modificarea Hotărârii Guvernului nr. 795/1992 privind organizarea şi funcţionarea Ministerului Lucrărilor Publice şi Amenajării Teritoriului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64802",
+   "versions": [
+    {
+     "from": "1993-10-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64802",
+     "sha256": "9723959d8045f04267c3fc4532acfa33c1721db468cae3c0ef5543810eaa7708"
+    }
+   ]
+  },
+  {
+   "slug": "hg-503-1993",
+   "path": "hg/1993/503",
+   "short": "HG nr. 503/1993",
+   "title": "Hotărârea Guvernului nr. 503/1993 privind autorizarea Ministerului Apărării Naţionale de a angaja militari pe bază de contract",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3551",
+   "versions": [
+    {
+     "from": "1993-10-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3551",
+     "sha256": "eedd5f485e9848a14b74a800812fde0faf7b2fa9f6e9c15e005d8950db708ded"
+    }
+   ]
+  },
+  {
+   "slug": "hg-513-1993",
+   "path": "hg/1993/513",
+   "short": "HG nr. 513/1993",
+   "title": "Hotărârea Guvernului nr. 513/1993 privind realizarea obiectivului de investiţii \"Înfiinţarea distribuţiei de gaze naturale în oraşul Hârlău, judeţul Iaşi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92625",
+   "versions": [
+    {
+     "from": "1993-10-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92625",
+     "sha256": "f687be867ed5bf64cbe7b1d84622611814b575834ca26b7c8ab79f234735dec6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-515-1993",
+   "path": "hg/1993/515",
+   "short": "HG nr. 515/1993",
+   "title": "Hotărârea Guvernului nr. 515/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17723",
+   "versions": [
+    {
+     "from": "1993-10-15",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17723",
+     "sha256": "767aa801e65ca7eb185764663b5a75bea8980f149a60da37f7b42ab60f6d211b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-518-1993",
+   "path": "hg/1993/518",
+   "short": "HG nr. 518/1993",
+   "title": "Hotărârea Guvernului nr. 518/1993 pentru aprobarea Regulamentului de organizare şi funcţionare a Corpului gardienilor publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3559",
+   "versions": [
+    {
+     "from": "1993-10-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3559",
+     "sha256": "7b38e6312806400b92993d17b66b2a88762f5c15dbfe21dbffa2b5fd6c256f69"
+    }
+   ]
+  },
+  {
+   "slug": "hg-535-1993",
+   "path": "hg/1993/535",
+   "short": "HG nr. 535/1993",
+   "title": "Hotărârea Guvernului nr. 535/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93280",
+   "versions": [
+    {
+     "from": "1993-10-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93280",
+     "sha256": "c35d554ef53a3fe08e4f28c258d3f9da84db52db1ce0da65619a0382c5f16240"
+    }
+   ]
+  },
+  {
+   "slug": "hg-541-1993",
+   "path": "hg/1993/541",
+   "short": "HG nr. 541/1993",
+   "title": "Hotărârea Guvernului nr. 541/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93281",
+   "versions": [
+    {
+     "from": "1993-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93281",
+     "sha256": "8907d38cba0d5a93b613928c071938eec1c142392241aea757b99cffb2a7340e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-55-1993",
+   "path": "hg/1993/55",
+   "short": "HG nr. 55/1993",
+   "title": "Hotărârea Guvernului nr. 55/1993 privind exceptarea de la taxe vamăle a unor poziţii tarifare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3188",
+   "versions": [
+    {
+     "from": "1993-03-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3188",
+     "sha256": "7c92de6bac7771f46aa3e8bc9cb6c8c4405f147c687d51de091968a6d9d75b74"
+    }
+   ]
+  },
+  {
+   "slug": "hg-559-1993",
+   "path": "hg/1993/559",
+   "short": "HG nr. 559/1993",
+   "title": "Hotărârea Guvernului nr. 559/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40495",
+   "versions": [
+    {
+     "from": "1993-10-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40495",
+     "sha256": "4df0bf82ae1b1d63039cfdc0ea608df6c3aad05d9ec810a53b7add012397e916"
+    }
+   ]
+  },
+  {
+   "slug": "hg-565-1993",
+   "path": "hg/1993/565",
+   "short": "HG nr. 565/1993",
+   "title": "Hotărârea Guvernului nr. 565/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36126",
+   "versions": [
+    {
+     "from": "1993-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36126",
+     "sha256": "e03d20fca3e6ee6ea4282e46f040f1fb91a98c7a1e844d8f9df305afa2cba717"
+    }
+   ]
+  },
+  {
+   "slug": "hg-566-1993",
+   "path": "hg/1993/566",
+   "short": "HG nr. 566/1993",
+   "title": "Hotărârea Guvernului nr. 566/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/40493",
+   "versions": [
+    {
+     "from": "1993-10-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40493",
+     "sha256": "ebf1da776cb9920b29bf8d942a21e73cb9b0d3589dcdcba92b2349bdc9504d22"
+    }
+   ]
+  },
+  {
+   "slug": "hg-569-1993",
+   "path": "hg/1993/569",
+   "short": "HG nr. 569/1993",
+   "title": "Hotărârea Guvernului nr. 569/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93114",
+   "versions": [
+    {
+     "from": "1993-11-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93114",
+     "sha256": "c58e4b4cd0639c367eae66ecdfdecdaa5f97d3339e872b0214b71a1c54c999a1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-571-1993",
+   "path": "hg/1993/571",
+   "short": "HG nr. 571/1993",
+   "title": "Hotărârea Guvernului nr. 571/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93115",
+   "versions": [
+    {
+     "from": "1993-11-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93115",
+     "sha256": "cbe1d5e3c702768721658062a3d7f63f9374d8440883d6028dcbf882b250d261"
+    }
+   ]
+  },
+  {
+   "slug": "hg-587-1993",
+   "path": "hg/1993/587",
+   "short": "HG nr. 587/1993",
+   "title": "Hotărârea Guvernului nr. 587/1993 cu privire la indexarea pensiilor de asigurări sociale de stat, I.O.V.R., ale agricultorilor şi a altor venituri ale populaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3589",
+   "versions": [
+    {
+     "from": "1993-11-08",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3589",
+     "sha256": "515ac4f0736f050f9348f9a2d007063c225e6371da09d491ccbee7fe94b5ae3d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-60-1993",
+   "path": "hg/1993/60",
+   "short": "HG nr. 60/1993",
+   "title": "Hotărârea Guvernului nr. 60/1993 de modificare a Hotărîrii Guvernului nr. 800/1992 privind organizarea şi funcţionarea Ministerului Tineretului şi Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17653",
+   "versions": [
+    {
+     "from": "1993-03-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17653",
+     "sha256": "e40467294323724d80c83ee3e5f9fbeb6b4f3ab3aeb19f0a255478e2db72c0b5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-608-1993",
+   "path": "hg/1993/608",
+   "short": "HG nr. 608/1993",
+   "title": "Hotărârea Guvernului nr. 608/1993 pentru aprobarea Acordului privind serviciile aeriene dintre Guvernul României şi Guvernul Republicii Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3600",
+   "versions": [
+    {
+     "from": "1993-12-01",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3600",
+     "sha256": "f64d4e41adab49f25e56fe9049e2e040cc925ba33fa8a81b3fd93faa54ebce41"
+    }
+   ]
+  },
+  {
+   "slug": "hg-615-1993",
+   "path": "hg/1993/615",
+   "short": "HG nr. 615/1993",
+   "title": "Hotărârea Guvernului nr. 615/1993 privind trecerea Complexului Sportiv Naţional Poiana Braşov de la Ministerul Tineretului şi Sportului în folosinţa gratuită, pe termen determinat, la Comitetul Olimpic Român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17688",
+   "versions": [
+    {
+     "from": "1993-12-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17688",
+     "sha256": "60765a3dd6b657434934fed0bd4e0145f6e7612358976d2b4204e5ad2b04fcd1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-623-1993",
+   "path": "hg/1993/623",
+   "short": "HG nr. 623/1993",
+   "title": "Hotărârea Guvernului nr. 623/1993 privind organizarea activităţii de avizare a utilizării combustibililor şi energiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3607",
+   "versions": [
+    {
+     "from": "1994-02-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3607",
+     "sha256": "cd05c642291ec0b65604688bc75c9cf0db438c786e0316915e1a6c3cb21c56bc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-632-1993",
+   "path": "hg/1993/632",
+   "short": "HG nr. 632/1993",
+   "title": "Hotărârea Guvernului nr. 632/1993 privind transmiterea în administrarea Ministerului Justiţiei a unor imobile din judeţul Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17416",
+   "versions": [
+    {
+     "from": "1993-12-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17416",
+     "sha256": "aa29892cbf3b2b6b418cbf915fb216f16b9e5b5286709f1d864b49e63f5b4052"
+    }
+   ]
+  },
+  {
+   "slug": "hg-672-1993",
+   "path": "hg/1993/672",
+   "short": "HG nr. 672/1993",
+   "title": "Hotărârea Guvernului nr. 672/1993 privind unele măsuri organizatorice ale activităţii de cercetare în domeniul geologiei marine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3626",
+   "versions": [
+    {
+     "from": "1993-12-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3626",
+     "sha256": "6468a12fd278d1c76c127d8c51d5970ab82ae573418eafb98fc20c61f4f925fe"
+    }
+   ]
+  },
+  {
+   "slug": "hg-682-1993",
+   "path": "hg/1993/682",
+   "short": "HG nr. 682/1993",
+   "title": "Hotărârea Guvernului nr. 682/1993 privind unele măsuri de finalizare a lucrărilor de investiţii şi exploatare a obiectivului de investiţii \"Portul Combinatului Siderurgic Călăraşi, inclusiv canalul de legătura cu braţul Borcea, pod rutier peste canal şi devierea drumului naţional D.N. - 3 Bucureşti - Călăraşi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3633",
+   "versions": [
+    {
+     "from": "1993-12-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3633",
+     "sha256": "1d8918fec34ea86cf92c0d1c3cb1604e3898eb675201f48447d2bdf5105ccf35"
+    }
+   ]
+  },
+  {
+   "slug": "hg-725-1993",
+   "path": "hg/1993/725",
+   "short": "HG nr. 725/1993",
+   "title": "Hotărârea Guvernului nr. 725/1993 privind stabilirea ţinutei vestimentare a magistraţilor şi grefierilor de la curţile de apel, tribunale, judecătorii, precum şi de la parchetele de pe linga instanţele civile, în şedinţele de judecată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3666",
+   "versions": [
+    {
+     "from": "1993-12-29",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3666",
+     "sha256": "7ff67f54607f0aec88094299190b1c5290ece8b9c959f14cb2001368b049b38c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-727-1993",
+   "path": "hg/1993/727",
+   "short": "HG nr. 727/1993",
+   "title": "Hotărârea Guvernului nr. 727/1993 pentru aprobarea Regulamentului privind procedurile de organizare a licitaţiilor, prezentarea ofertelor şi adjudecarea proiectării investiţiilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3669",
+   "versions": [
+    {
+     "from": "1994-01-31",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3669",
+     "sha256": "4d14268c6a92fde9bd8e3d1e9b0e4caa2df83f2e1e0ac53192655ca6dfcdb989"
+    }
+   ]
+  },
+  {
+   "slug": "hg-73-1993",
+   "path": "hg/1993/73",
+   "short": "HG nr. 73/1993",
+   "title": "Hotărârea Guvernului nr. 73/1993 pentru modificarea şi completarea Hotărîrii Guvernului nr. 999/1990 privind reglementarea donării de singe în scopuri terapeutice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3242",
+   "versions": [
+    {
+     "from": "1993-03-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3242",
+     "sha256": "92851d5a3dea081ae4685b4f65d627e249175c2e9fafceb2ae3a92dea92c5561"
+    }
+   ]
+  },
+  {
+   "slug": "hg-743-1993",
+   "path": "hg/1993/743",
+   "short": "HG nr. 743/1993",
+   "title": "Hotărârea Guvernului nr. 743/1993 privind avizarea înfiinţării unor centre de cercetare ştiinţifică în subordinea Academiei Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3682",
+   "versions": [
+    {
+     "from": "1994-01-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3682",
+     "sha256": "77ed94b2ace407cd96dcd4ed94d9d6c5a3b17869baa499b4f58dc004f7b44762"
+    }
+   ]
+  },
+  {
+   "slug": "hg-753-1993",
+   "path": "hg/1993/753",
+   "short": "HG nr. 753/1993",
+   "title": "Hotărârea Guvernului nr. 753/1993 privind alocarea sumei de 200 milioane lei din Fondul la dispoziţia Guvernului României pentru relaţiile cu Republica Moldova pe anul 1993, pentru elaborarea Programului de priorităţi ale lucrărilor de reabilitare a drumurilor din Republica Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3689",
+   "versions": [
+    {
+     "from": "1993-12-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3689",
+     "sha256": "ceef774c6c29449e02f4fe08a20ac5e744594cee090363bd93f0dc173d90d771"
+    }
+   ]
+  },
+  {
+   "slug": "hg-783-1993",
+   "path": "hg/1993/783",
+   "short": "HG nr. 783/1993",
+   "title": "Hotărârea Guvernului nr. 783/1993 privind trecerea unui imobil în administrarea Ministerului Afacerilor Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92820",
+   "versions": [
+    {
+     "from": "1994-01-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92820",
+     "sha256": "2324d1d10828a288474a4bfd3c64034c14171537846412ee6c71cca105d29cbb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-785-1993",
+   "path": "hg/1993/785",
+   "short": "HG nr. 785/1993",
+   "title": "Hotărârea Guvernului nr. 785/1993 privind stabilirea plafonului de venituri brute lunare în vederea acordării burselor sociale pentru studenţii români de la cursurile de zi, fără taxa de studiu, din instituţiile de învăţământ superior de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3718",
+   "versions": [
+    {
+     "from": "1994-01-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3718",
+     "sha256": "6efe0845751b984c87af3500e61c5a39fc066ddbbb27df5432c4c3ba74f179b6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-789-1993",
+   "path": "hg/1993/789",
+   "short": "HG nr. 789/1993",
+   "title": "Hotărârea Guvernului nr. 789/1993 pentru modificarea şi completarea Hotărârii Guvernului nr. 574/1991 privind atribuţiile Oficiului de supraveghere a activităţii de asigurare şi reasigurare, precum şi a Hotărârii Guvernului nr. 788/1992 privind organizarea şi funcţionarea Ministerului F inantelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3721",
+   "versions": [
+    {
+     "from": "1994-02-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3721",
+     "sha256": "a1c8e87043fea60bc7668e1e233d62076551367005155108228c7c600111b9bf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-793-1993",
+   "path": "hg/1993/793",
+   "short": "HG nr. 793/1993",
+   "title": "Hotărârea Guvernului nr. 793/1993 privind aplicarea de către România a Rezoluţiei nr. 883 (1993) a Consiliului de Securitate al O.N.U",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3722",
+   "versions": [
+    {
+     "from": "1994-01-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3722",
+     "sha256": "edbeb5af696cb1f896187207364354b3839da31ab7cbfa83b3977e9a42e027f1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-796-1993",
+   "path": "hg/1993/796",
+   "short": "HG nr. 796/1993",
+   "title": "Hotărârea Guvernului nr. 796/1993 privind sumele fixe care se acordă societăţilor comerciale de profil pentru unele seminţe livrate producătorilor agricoli individuali şi asociaţiilor agricole organizate potrivit Legii nr. 18/1991 şi Legii nr. 36/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3725",
+   "versions": [
+    {
+     "from": "1994-02-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3725",
+     "sha256": "dcd58e27369b520ca114fe21a0078385499a0cb6484abb7e964b5668857b7def"
+    }
+   ]
+  },
+  {
+   "slug": "hg-83-1993",
+   "path": "hg/1993/83",
+   "short": "HG nr. 83/1993",
+   "title": "Hotărârea Guvernului nr. 83/1993 privind unele măsuri pentru întărirea disciplinei financiare la agenţii economici cu capital integral sau majoritar de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3262",
+   "versions": [
+    {
+     "from": "1993-03-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3262",
+     "sha256": "275c5d9d0ab0853373fbe1df9817724daa91664605f91f37b4653ce8f29bd457"
+    }
+   ]
+  },
+  {
+   "slug": "hg-87-1993",
+   "path": "hg/1993/87",
+   "short": "HG nr. 87/1993",
+   "title": "Hotărârea Guvernului nr. 87/1993 privind organizarea şi funcţionarea Subsecretariatului de Stat pentru Problemele Victimelor Revoluţiei din Decembrie 1989",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3272",
+   "versions": [
+    {
+     "from": "1993-03-22",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3272",
+     "sha256": "5010e2739a8e4df96d06b4eb3347daff91fb9982b74215b176e6c9b05fe3d398"
+    }
+   ]
+  }
+ ]
+}

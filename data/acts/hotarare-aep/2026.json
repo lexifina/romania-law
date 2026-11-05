@@ -1,0 +1,43 @@
+{
+"country": "RO",
+"shard": "hotarare-aep/2026",
+"acts": [
+{
+"slug": "hotarare-aep-1-2026",
+"path": "hotarare-aep/2026/1",
+"kind": "hotarare-aep",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Autorității Electorale Permanente nr. 1 din 2026-05-28",
+"short": "Hotărârea AEP nr. 1/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/311077",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hotarare-aep-2-2026",
+"path": "hotarare-aep/2026/2",
+"kind": "hotarare-aep",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2 din 21 octombrie 2026 pentru aprobarea condiţiilor de tipărire a buletinelor de vot care vor fi utilizate la referendumul local din data de 8 noiembrie 2026 din comuna Răşinari, judeţul Sibiu",
+"short": "Hotărârea AEP nr. 2/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-10-21",
+"latest": "2026-10-21",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/315628"
+}
+]
+}

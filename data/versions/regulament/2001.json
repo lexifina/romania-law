@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "regulament/2001",
+ "acts": [
+  {
+   "slug": "regulament-bnr-1-2001",
+   "path": "regulament/bnr/2001/1",
+   "short": "Regulament bnr nr. 1/2001",
+   "title": "Regulamentul nr. 1/2001 privind organizarea și funcționarea la Banca Naționala a României a Centralei Incidentelor de Plati",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/27186",
+   "versions": [
+    {
+     "from": "2001-05-09",
+     "units": 95,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/27186",
+     "sha256": "17826c7a372e8bf268c28a8c80cfff134370f8ff48c18251891cb1abc68be7dc"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-2-2001",
+   "path": "regulament/cnvm/2001/2",
+   "short": "Regulament cnvm nr. 2/2001",
+   "title": "Regulamentul nr. 2/2001 de modificare a Regulamentului nr. 1/2001 pentru completarea și modificarea Regulamentului nr. 3/1998 privind autorizarea și exercitarea intermedierii de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30191",
+   "versions": [
+    {
+     "from": "2001-08-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30191",
+     "sha256": "45331caca177749abd37dc800e4f6cde3a275bb1e297f3437bb4e9a9c29b8143"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-4-2001",
+   "path": "regulament/cnvm/2001/4",
+   "short": "Regulament cnvm nr. 4/2001",
+   "title": "Regulamentul nr. 4/2001 de modificare și completare a Regulamentului nr. 12/1999 privind funcționarea Colectivului tehnic pentru reglementarea și supravegherea pieței RASDAQ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31181",
+   "versions": [
+    {
+     "from": "2001-10-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31181",
+     "sha256": "d7330400c902f6b5f2119a4406bb85464ade6094670d3d80a505fe8201735cfc"
+    }
+   ]
+  }
+ ]
+}

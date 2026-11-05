@@ -1,0 +1,83 @@
+{
+"country": "RO",
+"shard": "norma-aep/2026",
+"acts": [
+{
+"slug": "norma-aep-lista-120-2026",
+"path": "norma-aep/2026/lista-120",
+"kind": "norma-aep",
+"year": "2026",
+"number": "lista-120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Listă Autorității Electorale Permanente nr. 120 din 2026-01-08",
+"short": "Listă AEP nr. 120/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/306519",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-lista-239-2026",
+"path": "norma-aep/2026/lista-239",
+"kind": "norma-aep",
+"year": "2026",
+"number": "lista-239",
+"withdrawn_by": null,
+"reason": null,
+"title": "Listă Autorității Electorale Permanente nr. 239 din 2026-01-08",
+"short": "Listă AEP nr. 239/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/306520",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-lista-825-2026",
+"path": "norma-aep/2026/lista-825",
+"kind": "norma-aep",
+"year": "2026",
+"number": "lista-825",
+"withdrawn_by": null,
+"reason": null,
+"title": "Listă Autorității Electorale Permanente nr. 825 din 2026-01-20",
+"short": "Listă AEP nr. 825/2026",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2026-01-23",
+"latest": "2026-01-23",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/306579",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-lista-972-2026",
+"path": "norma-aep/2026/lista-972",
+"kind": "norma-aep",
+"year": "2026",
+"number": "lista-972",
+"withdrawn_by": null,
+"reason": null,
+"title": "LISTA nr. 972 din 21 ianuarie 2026 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerilor locale parţiale din data de 7 decembrie 2025",
+"short": "Listă AEP nr. 972/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-01-28",
+"latest": "2026-01-28",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/306718"
+}
+]
+}

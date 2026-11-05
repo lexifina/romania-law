@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-4/2008",
+ "acts": [
+  {
+   "slug": "hcls4-17-2008",
+   "path": "local/bucuresti/sector-4/2008/17",
+   "short": "HCLS4 nr. 17/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 17/2008 privind aprobarea planului de ocupare a funcţiilor publice din cadrul Direcţiei Generale de Impozite şi Taxe Locale Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3948-3449-1689.pdf",
+     "sha256": "1edd3a68d8080ab9de4b22e6d794717843896f773b49aab5015ecb27c70657ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-34-2008",
+   "path": "local/bucuresti/sector-4/2008/34",
+   "short": "HCLS4 nr. 34/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 34/2008 privind activitatea Poliţiei Comunitare Sector 4 desfăşurată în eradicarea comerţului stradal neautorizat",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2013-7249-1315.pdf",
+     "sha256": "4d4d5dfcbd5b758a4628bdccacaeda8a7f0196000a0301f87c20b43ae732c0bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-37-2008",
+   "path": "local/bucuresti/sector-4/2008/37",
+   "short": "HCLS4 nr. 37/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 37/2008 privind reglementarea activităţii de ridicare, transport, depozitare şi eliberare a vehiculelor staţionate neregulamentar pe domeniul public (carosabil, trotuare, spaţii verzi etc.) din Sectorul 4 şi care constituie un obstacol pentru circulaţia",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8315-3481-4568.pdf",
+     "sha256": "d8e4150bb90fa7dfa171089298491d3dffa274dc6cdb513b669c84d584654c8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-55-2008",
+   "path": "local/bucuresti/sector-4/2008/55",
+   "short": "HCLS4 nr. 55/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 55/2008 privind aprobarea procedurii obţinerii acordului de funcţionare pentru desfăşurarea activităţilor economice în zone publice",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6285-8073-52.pdf",
+     "sha256": "8e5d4860b674641e1aa4be6e1949253af18ffa646dd40ea843b7f7a441766607"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-71-2008",
+   "path": "local/bucuresti/sector-4/2008/71",
+   "short": "HCLS4 nr. 71/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 71/2008 privind aprobarea tarifelor percepute de Directia de Administrare a pietelor Sector 4 pentru serviciile prestate si folosirea domeniului public aflat in administarea acesteia",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6792-7883-1173.pdf",
+     "sha256": "3160623fc3443b3139febe7f0a95eabd7d98f928832f153fd68ab1bb4a1122d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-76-2008",
+   "path": "local/bucuresti/sector-4/2008/76",
+   "short": "HCLS4 nr. 76/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 76/2008 privind adoptarea “Criteriilor pentru stabilirea ordinii de prioritate în soluţionarea cererilor de locuinţe sociale sau din fondul locativ de stat”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7656-377-694.pdf",
+     "sha256": "357b4f1bd32f6d3d41dffeca0b0dc27a68749a633be8c3c5bab02d388a949c95"
+    }
+   ]
+  }
+ ]
+}

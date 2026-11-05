@@ -1,0 +1,57 @@
+{
+"country": "RO",
+"shard": "curtea-de-conturi/2025",
+"acts": [
+{
+"slug": "curtea-de-conturi-hotarare-plen-746-2025",
+"path": "curtea-de-conturi/hotarare-plen/2025/746",
+"kind": "curtea-de-conturi",
+"year": "2025",
+"number": "746",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 746 din 8 iulie 2025 pentru modificarea şi completarea Regulamentului privind activitatea de audit public extern, aprobat prin Hotărârea plenului Curţii de Conturi nr. 629/2022",
+"short": "Hotărârea Curtea de Conturi nr. 746/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-17",
+"latest": "2025-07-17",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/299898"
+},
+{
+"slug": "curtea-de-conturi-hotarare-plen-855-2025",
+"path": "curtea-de-conturi/hotarare-plen/2025/855",
+"kind": "curtea-de-conturi",
+"year": "2025",
+"number": "855",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 855 din 7 august 2025 pentru modificarea Hotărârii plenului Curţii de Conturi nr. 330/2024 privind aprobarea criteriilor de majorare a salariilor pentru personalul din cadrul Curţii de Conturi, cu excepţia personalului din cadrul Autorităţii de Audit, conform prevederilor Legii nr. 490/2004 privind stimularea financiară a personalului care gestionează fonduri comunitare",
+"short": "Hotărârea Curtea de Conturi nr. 855/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-08-12",
+"latest": "2025-08-12",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/301292"
+},
+{
+"slug": "curtea-de-conturi-hotarare-plen-940-2025",
+"path": "curtea-de-conturi/hotarare-plen/2025/940",
+"kind": "curtea-de-conturi",
+"year": "2025",
+"number": "940",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 940 din 28 august 2025 pentru modificarea Hotărârii plenului Curţii de Conturi nr. 87/2009 privind aprobarea criteriilor de majorare a salariilor pentru personalul din cadrul Autorităţii de Audit, conform prevederilor Legii nr. 490/2004 privind stimularea financiară a personalului care gestionează fonduri comunitare",
+"short": "Hotărârea Curtea de Conturi nr. 940/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-09-01",
+"latest": "2025-09-01",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/301836"
+}
+]
+}

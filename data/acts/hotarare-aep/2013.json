@@ -1,0 +1,23 @@
+{
+"country": "RO",
+"shard": "hotarare-aep/2013",
+"acts": [
+{
+"slug": "hotarare-aep-15-2013",
+"path": "hotarare-aep/2013/15",
+"kind": "hotarare-aep",
+"year": "2013",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 15 din 18 noiembrie 2013 privind întocmirea şi avizarea listelor cuprinzând persoanele care pot fi desemnate preşedinţi ai birourilor electorale ale secţiilor de votare sau locţiitori ai acestora",
+"short": "Hotărârea AEP nr. 15/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-11-21",
+"latest": "2013-11-21",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/152819"
+}
+]
+}

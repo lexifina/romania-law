@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/cgmb/1994",
+ "acts": [
+  {
+   "slug": "hcgmb-14-1994",
+   "path": "local/bucuresti/cgmb/1994/14",
+   "short": "HCGMB nr. 14/1994",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 14/1994 privind unele masuri in legatura cu functionarea jocurilor si circuitelor de asa zisa intrajutorare pe teritoriul Municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/92",
+   "versions": [
+    {
+     "from": "1994-03-03",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1994/92/h014_94.pdf",
+     "sha256": "2d4f337b1ceffafe36a457d1ceb25b1cd3654f8017b057b32eae642450b93e15"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-16-1994",
+   "path": "local/bucuresti/cgmb/1994/16",
+   "short": "HCGMB nr. 16/1994",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 16/1994 privind aprobarea \"Normelor pentru avizarea, autorizarea, coordonarea si executia lucrarilor tehnico-edilitare de pe teritoriul municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/100",
+   "versions": [
+    {
+     "from": "1994-03-17",
+     "units": 11,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1994/100/h016_94.pdf",
+     "sha256": "14468ab657c9ab917a9098a97dfc681093e41cb56e3baa344d2809a65433ee3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-17-1994",
+   "path": "local/bucuresti/cgmb/1994/17",
+   "short": "HCGMB nr. 17/1994",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 17/1994 : 17 DIN 24/03/94 - cu privire la blocarea, ridicarea, transportul, depozitarea si eliberarea autovehiculelor sau remorcilor stationate neregulamentar pe drumurile publi ce",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/104",
+   "versions": [
+    {
+     "from": "1994-03-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1994/104/h017_94.pdf",
+     "sha256": "d258c7475d573674925e1e7c09b3ea0ceb437c05acfe901f56ac9c494bc9165b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-22-1994",
+   "path": "local/bucuresti/cgmb/1994/22",
+   "short": "HCGMB nr. 22/1994",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 22/1994 privind aprobarea metodologiei de executie a constructiilor cu caracter provizoriu pe terenul proprietatea municipalitatii",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/124",
+   "versions": [
+    {
+     "from": "1994-04-07",
+     "units": 11,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1994/124/h022_94.pdf",
+     "sha256": "e3913bf2491b777cb52ff864bbea863c3766c646e152c617c8f01d5dc4dccfe1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-30-1994",
+   "path": "local/bucuresti/cgmb/1994/30",
+   "short": "HCGMB nr. 30/1994",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 30/1994 : 30 DIN 06/06/94 - priv.aprob.proiect.de HG prin care se propun unele masuri care sa permita stimularea pers.din RATB cu ocazia anivers.a 100 de ani de la inaugurarea p rimei li",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/155",
+   "versions": [
+    {
+     "from": "1994-06-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1994/155/h030_94.pdf",
+     "sha256": "51c97fcb86069e7184efca5ee7576b9396fe8d32e7744dad37f520017f6b14cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-5-1994",
+   "path": "local/bucuresti/cgmb/1994/5",
+   "short": "HCGMB nr. 5/1994",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 5/1994 : 5 DIN 31/01/94 - privind normele de organizare si efectuare autorizata a transportului de persoane cu maxi - taxi si autobuze pe teritoriul municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/49",
+   "versions": [
+    {
+     "from": "1994-01-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1994/49/h05_94.pdf",
+     "sha256": "5ca71773cf92941065a33fc0a8eed907780a783a7f4c317af04f1d2a5df418f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-50-1994",
+   "path": "local/bucuresti/cgmb/1994/50",
+   "short": "HCGMB nr. 50/1994",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 50/1994 : 50 DIN 19/08/94 - referitoare la plcarea Legii nr. 27/1994 privind impozitele si taxele loc ale in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/233",
+   "versions": [
+    {
+     "from": "1994-08-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1994/233/h050_94.pdf",
+     "sha256": "9a01340da76ecc0b946fe20eff261f3ff1688d3a2bff7664471d3997e24feec2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-53-1994",
+   "path": "local/bucuresti/cgmb/1994/53",
+   "short": "HCGMB nr. 53/1994",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 53/1994 privind autorizarea Primarului General al municipiului Bucuresti pentru supravegherea negocierilor preturilor si tarifelor la produsele si serviciile de interes local",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/245",
+   "versions": [
+    {
+     "from": "1994-09-19",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1994/245/h053_94.pdf",
+     "sha256": "4b3971444aee568876bb863be65637c287de5f43537a4bf4b9c4604b63053a08"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-54-1994",
+   "path": "local/bucuresti/cgmb/1994/54",
+   "short": "HCGMB nr. 54/1994",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 54/1994 privind modificarea tarifelor de calatorie la transportul in comun de persoane in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/249",
+   "versions": [
+    {
+     "from": "1994-09-19",
+     "units": 7,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1994/249/h054_94.pdf",
+     "sha256": "20db4cac4bba062fbdd96f2cccaede3b18440c6c238a8ebf700f00aa62d7cf21"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-66-1994",
+   "path": "local/bucuresti/cgmb/1994/66",
+   "short": "HCGMB nr. 66/1994",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 66/1994 privind modificarea tarifelor de inchiriere pentru anexele cu caracter productiv ale spatiilor comerciale destinate alimentatiei publice",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/296",
+   "versions": [
+    {
+     "from": "1994-12-07",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1994/296/h066_94.pdf",
+     "sha256": "7704fe6dbddee1034f20aeb5712bf966784a4825e175b3a826b553f14919e70d"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "instructiuni/2004",
+"acts": [
+{
+"slug": "instructiuni-cnvm-1-2004",
+"path": "instructiuni/cnvm/2004/1",
+"kind": "instructiuni",
+"year": "2004",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 1/2004 cu privire la asigurarea administrării prudențiale a portofoliului unei societăți de investiții financiare",
+"short": "Instrucțiuni cnvm nr. 1/2004",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2004-01-30",
+"latest": "2004-01-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/49438",
+"issuer": "cnvm",
+"joint": []
+},
+{
+"slug": "instructiuni-munca-67-2004",
+"path": "instructiuni/munca/2004/67",
+"kind": "instructiuni",
+"year": "2004",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 67/2004 privind aplicarea Ordinului ministrului muncii, solidarității sociale și familiei și al ministrului educației, cercetării și tineretului nr. 353/5.202/2003 pentru aprobarea Metodologiei de autorizare a furnizorilor de formare profesională a adulților",
+"short": "Instrucțiuni munca nr. 67/2004",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2004-02-20",
+"latest": "2004-02-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/49887",
+"issuer": "munca",
+"joint": []
+}
+]
+}

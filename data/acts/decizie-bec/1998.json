@@ -1,0 +1,166 @@
+{
+"country": "RO",
+"shard": "decizie-bec/1998",
+"acts": [
+{
+"slug": "decizie-bec-locale-1998-proces-verbal-0",
+"path": "decizie-bec/locale-1998/proces-verbal-0",
+"kind": "decizie-bec",
+"year": "1998",
+"number": "proces-verbal-0",
+"withdrawn_by": null,
+"reason": null,
+"title": "Proces verbal Biroul Electoral al Municipiului Bucure?ti nr. 0 din 1998-11-08",
+"short": "Proces verbal Biroul Electoral al Municipiului Bucure?ti nr. 0/1998",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "1998-11-12",
+"latest": "1998-11-12",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/16105",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-locale-1998-4",
+"path": "decizie-bec/locale-1998/4",
+"kind": "decizie-bec",
+"year": "1998",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 4 din 1998-10-17",
+"short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 4/1998",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "1998-10-22",
+"latest": "1998-10-22",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/15962",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-locale-1998-5",
+"path": "decizie-bec/locale-1998/5",
+"kind": "decizie-bec",
+"year": "1998",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 5 din 1998-10-18",
+"short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 5/1998",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "1998-10-22",
+"latest": "1998-10-22",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/15963",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-locale-1998-7",
+"path": "decizie-bec/locale-1998/7",
+"kind": "decizie-bec",
+"year": "1998",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 7 din 1998-10-18",
+"short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 7/1998",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "1998-10-22",
+"latest": "1998-10-22",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/15964",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-locale-1998-10",
+"path": "decizie-bec/locale-1998/10",
+"kind": "decizie-bec",
+"year": "1998",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 10 din 1998-10-20",
+"short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 10/1998",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "1998-10-23",
+"latest": "1998-10-23",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/15978",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-locale-1998-13",
+"path": "decizie-bec/locale-1998/13",
+"kind": "decizie-bec",
+"year": "1998",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 13 din 1998-10-28",
+"short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 13/1998",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "1998-10-29",
+"latest": "1998-10-29",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/16022",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-locale-1998-14",
+"path": "decizie-bec/locale-1998/14",
+"kind": "decizie-bec",
+"year": "1998",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 14 din 1998-10-28",
+"short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 14/1998",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "1998-10-29",
+"latest": "1998-10-29",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/16023",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-locale-1998-15",
+"path": "decizie-bec/locale-1998/15",
+"kind": "decizie-bec",
+"year": "1998",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 15 din 1998-10-30",
+"short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 15/1998",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "1998-11-02",
+"latest": "1998-11-02",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/16028",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

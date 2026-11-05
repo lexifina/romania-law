@@ -1,0 +1,666 @@
+{
+ "country": "RO",
+ "shard": "anspdcp/2024",
+ "acts": [
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-01-12",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-01-12",
+   "short": "Comunicat ANSPDCP din 2024-01-12",
+   "title": "Comunicat ANSPDCP din 2024-01-12: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_12.01.2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_12.01.2024&lang=ro",
+     "sha256": "bafe782cfa83f1bfbd3f8558f32073b2a5d4247bd378aee6216006fd8e52ae9a"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-01-15",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-01-15",
+   "short": "Comunicat ANSPDCP din 2024-01-15",
+   "title": "Comunicat ANSPDCP din 2024-01-15: O nouă sancțiune pentru nerespectarea GDPR",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_15.01.2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-01-15",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_15.01.2024&lang=ro",
+     "sha256": "b107d64f237f12a3258efdc8fa74217ea62aa7a601bbf6f601145d3a654e7bfc"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-01-31",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-01-31",
+   "short": "Comunicat ANSPDCP din 2024-01-31",
+   "title": "Comunicat ANSPDCP din 2024-01-31: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_31_01_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_31_01_2024&lang=ro",
+     "sha256": "7f21716793b36e7739f698579df9e1ee1325ace746b168195394dc7d344a14b3"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-02-05",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-02-05",
+   "short": "Comunicat ANSPDCP din 2024-02-05",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2024-02-05",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_05_02_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_05_02_2024&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-02-07",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-02-07",
+   "short": "Comunicat ANSPDCP din 2024-02-07",
+   "title": "Comunicat ANSPDCP din 2024-02-07: Altă amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_07_02_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_07_02_2024&lang=ro",
+     "sha256": "e0228a2d3a4da89480718eef5103d019b26bd8565b8c934669aca8213ff3e778"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-02-26",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-02-26",
+   "short": "Comunicat ANSPDCP din 2024-02-26",
+   "title": "Comunicat ANSPDCP din 2024-02-26: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_26_02_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_26_02_2024&lang=ro",
+     "sha256": "8b275e72da04d4a3f4ef488a4049fa39d97b58404ce8042a35b07abcb76b37d6"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-03-05",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-03-05",
+   "short": "Comunicat ANSPDCP din 2024-03-05",
+   "title": "Comunicat ANSPDCP din 2024-03-05: O nouă sancțiune pentru nerespectarea GDPR",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_05_03_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_05_03_2024&lang=ro",
+     "sha256": "df14401269c1d687890a21997f62f659d720f4a61e1a19ed8ceb2cb7de8abca3"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-03-06",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-03-06",
+   "short": "Comunicat ANSPDCP din 2024-03-06",
+   "title": "Comunicat ANSPDCP din 2024-03-06: Aplicare amendă cominatorie - instituție publică",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_06_03_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_06_03_2024&lang=ro",
+     "sha256": "9afe5a9fe008feb0202ad9ba60f937906e227cf20cb52c711d654e66655bb88d"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-04-12",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-04-12",
+   "short": "Comunicat ANSPDCP din 2024-04-12",
+   "title": "Comunicat ANSPDCP din 2024-04-12: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_12.04.2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_12.04.2024&lang=ro",
+     "sha256": "c290c75fc046cfb9d45ea755c18a9c45f20d7ae11fd432abd13e2797a3663f8c"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-04-22",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-04-22",
+   "short": "Comunicat ANSPDCP din 2024-04-22",
+   "title": "Comunicat ANSPDCP din 2024-04-22: O nouă sancțiune pentru nerespectarea GDPR",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_22_04_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_22_04_2024&lang=ro",
+     "sha256": "24f44ee594939d3894ce4f938dcfb688015689aefc11e7c3ab38a4378cbb72ca"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-04-23",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-04-23",
+   "short": "Comunicat ANSPDCP din 2024-04-23",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2024-04-23",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23_04_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23_04_2024&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-05-08",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-05-08",
+   "short": "Comunicat ANSPDCP din 2024-05-08",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2024-05-08",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_08.05.2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_08.05.2024&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-05-09",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-05-09",
+   "short": "Comunicat ANSPDCP din 2024-05-09",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2024-05-09",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_09_05_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_09_05_2024&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-05-27",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-05-27",
+   "short": "Comunicat ANSPDCP din 2024-05-27",
+   "title": "Comunicat ANSPDCP din 2024-05-27: Altă amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_27_05_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_27_05_2024&lang=ro",
+     "sha256": "e4badf8d94da360c860786b001bcee093e4b34985d5379b1b4ce326ffdd0d299"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-05-28",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-05-28",
+   "short": "Comunicat ANSPDCP din 2024-05-28",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2024-05-28",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_28_05_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_28_05_2024&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-05-30",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-05-30",
+   "short": "Comunicat ANSPDCP din 2024-05-30",
+   "title": "Comunicat ANSPDCP din 2024-05-30: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_30.05.2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_30.05.2024&lang=ro",
+     "sha256": "7da2624f1459dff43a421a1fadac484b6a379e65a3136765072f359f8a6ea510"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-06-25",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-06-25",
+   "short": "Comunicat ANSPDCP din 2024-06-25",
+   "title": "Comunicat ANSPDCP din 2024-06-25: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20.06.2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20.06.2024&lang=ro",
+     "sha256": "74e01c416b02478fc70feef1ad133d9bffac29968afc0b98ca34f171d98359bd"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-07-23",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-07-23",
+   "short": "Comunicat ANSPDCP din 2024-07-23",
+   "title": "Comunicat ANSPDCP din 2024-07-23: Regimul sancționator pentru sectorul public",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23.07.2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23.07.2024&lang=ro",
+     "sha256": "3dc6991a84e98a45ddf1edaec3b16fde200b9ca1d0910b8083a7066c89f46327"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-08-06",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-08-06",
+   "short": "Comunicat ANSPDCP din 2024-08-06",
+   "title": "Comunicat ANSPDCP din 2024-08-06: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_06.08.2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-08-06",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_06.08.2024&lang=ro",
+     "sha256": "6dbf119d5d99a3cd3637c18508f11ff3d2f390bff5c07aa8fbd146a11848d24c"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-08-20",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-08-20",
+   "short": "Comunicat ANSPDCP din 2024-08-20",
+   "title": "Comunicat ANSPDCP din 2024-08-20: O nouă sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20.08.2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20.08.2024&lang=ro",
+     "sha256": "f25a36dfd8cf0137dc9609a168f5a45b03ccafc722aab9c71ea596f574186228"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-08-22",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-08-22",
+   "short": "Comunicat ANSPDCP din 2024-08-22",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2024-08-22",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_22.08.2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_22.08.2024&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-09-10",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-09-10",
+   "short": "Comunicat ANSPDCP din 2024-09-10",
+   "title": "Comunicat ANSPDCP din 2024-09-10: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_10.09.2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_10.09.2024&lang=ro",
+     "sha256": "718e273a64079d4afe49fa05eefef46f2cb096a88a3532f0df938a41927333ca"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-09-16",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-09-16",
+   "short": "Comunicat ANSPDCP din 2024-09-16",
+   "title": "Comunicat ANSPDCP din 2024-09-16: Sancțiuni pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_16_09_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-09-16",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_16_09_2024&lang=ro",
+     "sha256": "ccce2708d024d913be16e91e0c4fd9d6373ea8647bc05a0f3ae7064bd8a338a7"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-09-17",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-09-17",
+   "short": "Comunicat ANSPDCP din 2024-09-17",
+   "title": "Comunicat ANSPDCP din 2024-09-17: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_17.09.2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_17.09.2024&lang=ro",
+     "sha256": "9af22d301a75b853506fad43a32e1b78df65243f636bbfaab3f1d96fbd0dc800"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-09-23",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-09-23",
+   "short": "Comunicat ANSPDCP din 2024-09-23",
+   "title": "Comunicat ANSPDCP din 2024-09-23: Sancțiune pentru încălcarea GDPR",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23_09_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23_09_2024&lang=ro",
+     "sha256": "0301b489ff447b798fa2036bac1a292e77546b05eaadb5f1737dc991ae848ee9"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-10-02",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-10-02",
+   "short": "Comunicat ANSPDCP din 2024-10-02",
+   "title": "Comunicat ANSPDCP din 2024-10-02: Sancțiuni pentru nerespectarea GDPR-",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_02.10.2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_02.10.2024&lang=ro",
+     "sha256": "55de49556f87ccb6d9826e9407ef3fa861f760837c923f70eaa1fc41368acf3f"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-10-16",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-10-16",
+   "short": "Comunicat ANSPDCP din 2024-10-16",
+   "title": "Comunicat ANSPDCP din 2024-10-16: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_16_10_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_16_10_2024&lang=ro",
+     "sha256": "1dc29cab6f7a0b4d9ad1eb5c2d5099a94e99ccaeceb6e42e6fda25b8e7906b92"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-10-23",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-10-23",
+   "short": "Comunicat ANSPDCP din 2024-10-23",
+   "title": "Comunicat ANSPDCP din 2024-10-23: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23_10_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23_10_2024&lang=ro",
+     "sha256": "1b89332929353658d10412901505c6afd9be1f26f1f6d073879fffc77ef2cd8d"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-10-25",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-10-25",
+   "short": "Comunicat ANSPDCP din 2024-10-25",
+   "title": "Comunicat ANSPDCP din 2024-10-25: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_25.10.2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_25.10.2024&lang=ro",
+     "sha256": "4d37927373cba0562d8c4cde7ff2ea08a835cb6f309b8cf07e3a471737e4f0bf"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-10-28",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-10-28",
+   "short": "Comunicat ANSPDCP din 2024-10-28",
+   "title": "Comunicat ANSPDCP din 2024-10-28: Sancțiune pentru nerespectarea GDPR",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_28_10_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_28_10_2024&lang=ro",
+     "sha256": "385f6cd7cffe861054cd12f2db46300400157d498deb4f5a80388b0ed79baa57"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-10-30",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-10-30",
+   "short": "Comunicat ANSPDCP din 2024-10-30",
+   "title": "Comunicat ANSPDCP din 2024-10-30: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_30_10_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_30_10_2024&lang=ro",
+     "sha256": "a92435588712c57ce081e97c9c6a8c8be3e08a062217e1fc58bb32ec83b5e86a"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-11-04",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-11-04",
+   "short": "Comunicat ANSPDCP din 2024-11-04",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2024-11-04",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_04_11_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_04_11_2024&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-11-08",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-11-08",
+   "short": "Comunicat ANSPDCP din 2024-11-08",
+   "title": "Comunicat ANSPDCP din 2024-11-08: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_08_11_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-11-08",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_08_11_2024&lang=ro",
+     "sha256": "43e04f36b663ccbed63599033c1c5d907b19c8c9bf7114ce30a35918513e943f"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-11-13",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-11-13",
+   "short": "Comunicat ANSPDCP din 2024-11-13",
+   "title": "Comunicat ANSPDCP din 2024-11-13: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_13_11_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_13_11_2024&lang=ro",
+     "sha256": "dc24d7e4ab7ab1ce2ca27d2759ef141f60ab531e105dd0ff54d5089620852cc7"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-11-18",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-11-18",
+   "short": "Comunicat ANSPDCP din 2024-11-18",
+   "title": "Comunicat ANSPDCP din 2024-11-18: Sancțiune pentru nerespectarea GDPR",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18.11.2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18.11.2024&lang=ro",
+     "sha256": "184f60a6a9011bca5098f2d7fffbded6cc0766cae48887a9032b00c3ac1ab30b"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-11-20",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-11-20",
+   "short": "Comunicat ANSPDCP din 2024-11-20",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2024-11-20",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_11_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_11_2024&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-11-28",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-11-28",
+   "short": "Comunicat ANSPDCP din 2024-11-28",
+   "title": "Comunicat ANSPDCP din 2024-11-28: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_28_11_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_28_11_2024&lang=ro",
+     "sha256": "c84e8bd249d3963dee7895833b1acc9afeee9be538ad4fc75acf35ff7316cb78"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-12-10",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-12-10",
+   "short": "Comunicat ANSPDCP din 2024-12-10",
+   "title": "Comunicat ANSPDCP din 2024-12-10: Sancțiune pentru nerespectarea Legii nr. 506/2004 si a GDPR",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_10_12_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_10_12_2024&lang=ro",
+     "sha256": "5b003ce75a68f3c1973d78cdf04ef1d699f93d592eb5c789c520504eb218d2f2"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-12-12",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-12-12",
+   "short": "Comunicat ANSPDCP din 2024-12-12",
+   "title": "Comunicat ANSPDCP din 2024-12-12: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_12.12.2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_12.12.2024&lang=ro",
+     "sha256": "b6cb64629467ed7a3e460158eb9534fef280d92cc01c40004ba10b7b1e2b3e62"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-12-17",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-12-17",
+   "short": "Comunicat ANSPDCP din 2024-12-17",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2024-12-17",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_17_12_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_17_12_2024&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-12-18",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-12-18",
+   "short": "Comunicat ANSPDCP din 2024-12-18",
+   "title": "Comunicat ANSPDCP din 2024-12-18: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18_12_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18_12_2024&lang=ro",
+     "sha256": "8083e7d37a870dd12f6a06cc6f1b0a6e7e23195c0e2e9e030ef77315ced830bc"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-12-19",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-12-19",
+   "short": "Comunicat ANSPDCP din 2024-12-19",
+   "title": "Comunicat ANSPDCP din 2024-12-19: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_19_12_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_19_12_2024&lang=ro",
+     "sha256": "16f59b9d7504a3abc0ac7841d3fac5909a4f58835e987e932f692d58acee89e2"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-12-20",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-12-20",
+   "short": "Comunicat ANSPDCP din 2024-12-20",
+   "title": "Comunicat ANSPDCP din 2024-12-20: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_12_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_12_2024&lang=ro",
+     "sha256": "43fb368a82f49e7378409113076d6f1e5920d23cd2bd9e17a953d9ea63c91011"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2024-2024-12-23",
+   "path": "anspdcp/comunicat-sanctiune/2024/2024-12-23",
+   "short": "Comunicat ANSPDCP din 2024-12-23",
+   "title": "Comunicat ANSPDCP din 2024-12-23: Sancți une pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23_12_2024&lang=ro",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23_12_2024&lang=ro",
+     "sha256": "e37a88bd6a15f35d92479b26ac7f5fe35bb4511bd9238edcccb98a358454f5aa"
+    }
+   ]
+  }
+ ]
+}

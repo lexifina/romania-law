@@ -1,0 +1,411 @@
+{
+ "country": "RO",
+ "shard": "norma/2024",
+ "acts": [
+  {
+   "slug": "norma-asf-1-2024",
+   "path": "norma/asf/2024/1",
+   "short": "Norma asf nr. 1/2024",
+   "title": "Norma nr. 1/2024 pentru modificarea și completarea Normei nr. 7/2009 privind administrarea specială a fondurilor de pensii administrate privat, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 8/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279364",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279364",
+     "sha256": "c3ed0d990360b4d2db37acd97b3d39772cca62689b6231089215b378d8023c8e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-10-2024",
+   "path": "norma/asf/2024/10",
+   "short": "Norma asf nr. 10/2024",
+   "title": "Norma nr. 10/2024 pentru modificarea și completarea Normei nr. 11/2011 privind investirea și evaluarea activelor fondurilor de pensii private, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 22/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282531",
+   "versions": [
+    {
+     "from": "2024-05-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282531",
+     "sha256": "634705edc6c2b8898417959a919cd1b4aa825f452cee520bcf6a27dc47da1f52"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-11-2024",
+   "path": "norma/asf/2024/11",
+   "short": "Norma asf nr. 11/2024",
+   "title": "Norma nr. 11/2024 privind modificarea anexei la Norma Autorității de Supraveghere Financiară nr. 13/2018 pentru aplicarea Ghidului Autorității Europene pentru Valori Mobiliare și Piețe (ESMA) privind scenariile de simulare a situațiilor de criză în temeiul art. 28 din Regulamentul (UE) nr. 1.131/2017 privind fondurile de piață monetară (Money-market funds)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283767",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283767",
+     "sha256": "4e2d78e346af6cac84001277630a01017e78af26cd798e18199041b5c3bc2802"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-12-2024",
+   "path": "norma/asf/2024/12",
+   "short": "Norma asf nr. 12/2024",
+   "title": "Norma nr. 12/2024 pentru modificarea și completarea Normei nr. 3/2013 privind activitatea de marketing a fondului de pensii administrat privat, aprobată prin Hotărârea Consiliului Comisiei de Supraveghere a Sistemului de Pensii Private nr. 5/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283790",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283790",
+     "sha256": "c41ab2db503527a28d1b8cbd0d324d7c951e20f75f28fe3da3c325c131515b34"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-13-2024",
+   "path": "norma/asf/2024/13",
+   "short": "Norma asf nr. 13/2024",
+   "title": "Norma nr. 13/2024 pentru modificarea și completarea Normei nr. 16/2013 privind activitatea de marketing al fondului de pensii facultative, aprobată prin Hotărârea Consiliului Autorității de Supraveghere Financiară nr. 64/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283954",
+   "versions": [
+    {
+     "from": "2024-06-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283954",
+     "sha256": "4e416ad07da0c654f1322f9471dccb17021c4d3403553d31ee51c2fba63c95e3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-14-2024",
+   "path": "norma/asf/2024/14",
+   "short": "Norma asf nr. 14/2024",
+   "title": "Norma nr. 14/2024 privind modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 41/2015 pentru aprobarea Reglementărilor contabile privind situațiile financiare anuale individuale și situațiile financiare anuale consolidate ale entităților care desfășoară activitate de asigurare și/sau reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284721",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284721",
+     "sha256": "4ec24184a735cfeb3f36ee017f9a4d8b7c75d7795bf7c437c01b3a887c811c68"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-15-2024",
+   "path": "norma/asf/2024/15",
+   "short": "Norma asf nr. 15/2024",
+   "title": "Norma nr. 15/2024 privind modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 39/2015 pentru aprobarea Reglementărilor contabile conforme cu Standardele internaționale de raportare financiară, aplicabile entităților autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară din Sectorul instrumentelor și investițiilor financiare, precum și Fondului de Compensare a Investitorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288141",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288141",
+     "sha256": "01c67b5045cb3fc908a5b8ce791690b77171d1b1f0da7ab4688e93c93e52f411"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-16-2024",
+   "path": "norma/asf/2024/16",
+   "short": "Norma asf nr. 16/2024",
+   "title": "Norma nr. 16/2024 pentru modificarea și completarea anexei la Norma Autorității de Supraveghere Financiară nr. 36/2015 privind Reglementările contabile referitoare la situațiile financiare anuale individuale și situațiile financiare anuale consolidate aplicabile companiilor de brokeraj care desfășoară activitate de distribuție în asigurări și/sau reasigurări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287762",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287762",
+     "sha256": "8ddd950e3d958ccfcdd4e61cb9bf3090cec96c11e758557868db78b57ecab55d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-17-2024",
+   "path": "norma/asf/2024/17",
+   "short": "Norma asf nr. 17/2024",
+   "title": "Norma nr. 17/2024 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 14/2015 privind reglementările contabile conforme cu directivele europene aplicabile sistemului de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/288383",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/288383",
+     "sha256": "ced39a5b0ab9ce9eb6afdd75ff5578bc49d2e5f53ad0de203faffe65a1756100"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-18-2024",
+   "path": "norma/asf/2024/18",
+   "short": "Norma asf nr. 18/2024",
+   "title": "Norma nr. 18/2024 pentru modificarea și completarea Normei nr. 16/2010 privind prospectul schemei de pensii facultative, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 27/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289912",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289912",
+     "sha256": "94814e20310227199cf0a129eeb8cc60f36e736713e4bee6ba7327f850c0d8e4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-19-2024",
+   "path": "norma/asf/2024/19",
+   "short": "Norma asf nr. 19/2024",
+   "title": "Norma nr. 19/2024 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 13/2019 privind cadrul unitar de desfășurare a auditului statutar la entitățile autorizate, reglementate și supravegheate de către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290158",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290158",
+     "sha256": "9ce73a9d8a8c312b64d100a7658c2eb838c571d933b8915a5d36a8aebd1aeb11"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-2-2024",
+   "path": "norma/asf/2024/2",
+   "short": "Norma asf nr. 2/2024",
+   "title": "Norma nr. 2/2024 pentru modificarea și completarea Normei nr. 8/2009 privind administrarea specială a fondurilor de pensii facultative, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 9/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279365",
+   "versions": [
+    {
+     "from": "2024-02-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279365",
+     "sha256": "e3c3f76369e39d97cd8133863001b00a83604ff9c0bc85816ee0498d9867431a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-20-2024",
+   "path": "norma/asf/2024/20",
+   "short": "Norma asf nr. 20/2024",
+   "title": "Norma nr. 20/2024 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 25/2022 privind autorizarea societăților și desfășurarea activității de asigurare și de reasigurare, precum și pentru completarea art. 3 din Norma Autorității de Supraveghere Financiară nr. 26/2021 privind activitatea desfășurată pe teritoriul României de asigurătorii din statele terțe prin intermediul sucursalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291344",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291344",
+     "sha256": "a887368d267d5f51db281252fbb416cc5acf2cf1a1eb00509661cafe9b391606"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-21-2024",
+   "path": "norma/asf/2024/21",
+   "short": "Norma asf nr. 21/2024",
+   "title": "Norma nr. 21/2024 pentru aplicarea Ghidului Autorității Europene pentru Valori Mobiliare și Piețe privind denumirile fondurilor care folosesc termeni MSG sau legați de durabilitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291123",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291123",
+     "sha256": "1d55236ed1300c2c82925f08284edc7a003f93c03ba053235aaff480c93064bb"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-22-2024",
+   "path": "norma/asf/2024/22",
+   "short": "Norma asf nr. 22/2024",
+   "title": "Norma nr. 22/2024 pentru modificarea și completarea Normei nr. 7/2007 privind prospectul schemei de pensii private, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 26/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/291391",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291391",
+     "sha256": "9c392e187c93109bea312f517568de5ef56a5e9139f67308812ece2c7fd750f9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-23-2024",
+   "path": "norma/asf/2024/23",
+   "short": "Norma asf nr. 23/2024",
+   "title": "Norma nr. 23/2024 pentru modificarea și completarea unor norme ale Autorității de Supraveghere Financiară în ceea ce privește anumite raportări ale societăților de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292289",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292289",
+     "sha256": "418989beb7830eeb9d4b96320f9c792f1317bcb2c4b0b2b99cfdff0a6907e4cb"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-24-2024",
+   "path": "norma/asf/2024/24",
+   "short": "Norma asf nr. 24/2024",
+   "title": "Norma nr. 24/2024 pentru aplicarea prevederilor Ghidului cu privire la aplicarea testului capitalului la nivel de grup pentru grupurile de firme de investiții în conformitate cu art. 8 din Regulamentul (UE) 2019/2.033",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292108",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292108",
+     "sha256": "c07a5be5a2a04fc85d60942df3ee7b5cad4f350ec59c6fc801bb227cd5bd05be"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-25-2024",
+   "path": "norma/asf/2024/25",
+   "short": "Norma asf nr. 25/2024",
+   "title": "Norma nr. 25/2024 pentru aplicarea prevederilor Ghidului privind analiza comparativă a practicilor în materie de diversitate, inclusiv a politicilor privind diversitatea și a diferenței de remunerare între femei și bărbați, în temeiul Directivei 2013/36/UE și al Directivei (UE) 2019/2.034",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292329",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292329",
+     "sha256": "969eae9110d0429ff4122d3a7f161c0f41139d795ca6a5d8348c8b9c03b4edd0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-27-2024",
+   "path": "norma/asf/2024/27",
+   "short": "Norma asf nr. 27/2024",
+   "title": "Norma nr. 27/2024 privind cotele contribuțiilor datorate de asigurători Fondului de garantare a asiguraților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292906",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292906",
+     "sha256": "ac85f3a640ffc94956f70a78369f99fa6fa91a34324d75c6f59f730621643399"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-3-2024",
+   "path": "norma/asf/2024/3",
+   "short": "Norma asf nr. 3/2024",
+   "title": "Norma nr. 3/2024 privind cotele contribuțiilor datorate de asigurători Fondului de garantare a asiguraților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279481",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279481",
+     "sha256": "2f6d59f05ed807c10d6a9aba46c4cc135747b11406f947b06ed5195af44adba2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-4-2024",
+   "path": "norma/asf/2024/4",
+   "short": "Norma asf nr. 4/2024",
+   "title": "Norma nr. 4/2024 privind modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 39/2015 pentru aprobarea Reglementărilor contabile conforme cu Standardele internaționale de raportare financiară, aplicabile entităților autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară din Sectorul instrumentelor și investițiilor financiare, precum și Fondului de Compensare a Investitorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/280738",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/280738",
+     "sha256": "36ae39dbc75bea3b3b213d0b3556e39697caf138ade44e246c776395cf748800"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-5-2024",
+   "path": "norma/asf/2024/5",
+   "short": "Norma asf nr. 5/2024",
+   "title": "Norma nr. 5/2024 pentru modificarea și completarea Normei nr. 8/2010 privind autorizarea administratorilor de fonduri de pensii private, preluarea administrării fondurilor de pensii facultative și organizarea activelor și pasivelor la nivelul administratorilor de fonduri de pensii private, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 15/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279908",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279908",
+     "sha256": "1c27f43f69a5f91ef2e8c483f174c2a170f1f4bde39ffe41f06415b2ddf22483"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-7-2024",
+   "path": "norma/asf/2024/7",
+   "short": "Norma asf nr. 7/2024",
+   "title": "Norma nr. 7/2024 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 36/2015 privind Reglementările contabile referitoare la situațiile financiare anuale individuale și situațiile financiare anuale consolidate aplicabile companiilor de brokeraj care desfășoară activitate de distribuție în asigurări și/sau reasigurări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282704",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282704",
+     "sha256": "c7310695d9941f4a75a0bd046791d9b775a8c65ae84af8f2dc4a11f98990b4da"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-8-2024",
+   "path": "norma/asf/2024/8",
+   "short": "Norma asf nr. 8/2024",
+   "title": "Norma nr. 8/2024 privind modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 41/2015 pentru aprobarea Reglementărilor contabile privind situațiile financiare anuale individuale și situațiile financiare anuale consolidate ale entităților care desfășoară activitate de asigurare și/sau reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282439",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282439",
+     "sha256": "51ff6d6d4d70eadfffe0248458d2fe228c8d9492599b12fa71a7e2976567ef71"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-9-2024",
+   "path": "norma/asf/2024/9",
+   "short": "Norma asf nr. 9/2024",
+   "title": "Norma nr. 9/2024 pentru aplicarea Ghidului ESMA privind raportarea în temeiul EMIR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282294",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282294",
+     "sha256": "9960d296619a07b847dcf866dcbd4b16c81f0902a4f7cbd5d6676a5afae52f7c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-1-2024",
+   "path": "norma/bnr/2024/1",
+   "short": "Norma bnr nr. 1/2024",
+   "title": "Norma nr. 1/2024 privind modul unitar de completare a mențiunilor din ordinele de plată către Ministerul Finanțelor - Trezoreria Statului în mesajele electronice utilizate în sistemele de plăți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279343",
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279343",
+     "sha256": "40cc25caa9ec9bac357d543598e304a9c20e6c5a8d51416d07198dd193169fcf"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-2-2024",
+   "path": "norma/bnr/2024/2",
+   "short": "Norma bnr nr. 2/2024",
+   "title": "Norma nr. 2/2024 pentru aplicarea Regulamentului Băncii Naționale a României nr. 10/2024 privind piața secundară a titlurilor de stat administrată de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287621",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 68,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287621",
+     "sha256": "dac59227a272fd1b402ced9acdb51a8afab3e7c2f062e8d62db8519b3dd019ad"
+    }
+   ]
+  }
+ ]
+}

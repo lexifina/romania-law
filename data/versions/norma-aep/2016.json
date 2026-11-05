@@ -1,0 +1,321 @@
+{
+ "country": "RO",
+ "shard": "norma-aep/2016",
+ "acts": [
+  {
+   "slug": "norma-aep-ghid-2016-04-18-2016",
+   "path": "norma-aep/2016/ghid-2016-04-18",
+   "short": "Ghidul AEP din 2016-04-18",
+   "title": "GHIDUL din 18 aprilie 2016 finanţării campaniei electorale la alegerile locale din anul 2016",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/177854",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/177854",
+     "sha256": "57a2d829c1ffe84183af12546b5fc52a8961db01dfdcdddd40ff658a0f52be1f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-1-2016",
+   "path": "norma-aep/2016/lista-1",
+   "short": "Listă AEP nr. 1/2016",
+   "title": "Listă Autorității Electorale Permanente nr. 1 din 2016-06-13",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/179204",
+   "versions": [
+    {
+     "from": "2016-06-14",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/179204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-10-2016",
+   "path": "norma-aep/2016/lista-10",
+   "short": "Listă AEP nr. 10/2016",
+   "title": "Listă Autorității Electorale Permanente nr. 10 din 2016-06-22",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/179406",
+   "versions": [
+    {
+     "from": "2016-06-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/179406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-11-2016",
+   "path": "norma-aep/2016/lista-11",
+   "short": "Listă AEP nr. 11/2016",
+   "title": "Listă Autorității Electorale Permanente nr. 11 din 2016-06-23",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/179408",
+   "versions": [
+    {
+     "from": "2016-06-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/179408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-12-2016",
+   "path": "norma-aep/2016/lista-12",
+   "short": "Listă AEP nr. 12/2016",
+   "title": "LISTA nr. 12 din 5 iulie 2016 partidelor politice, alianţelor politice, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, pentru alegerea autorităţilor administraţiei publice locale - turul II, desfăşurată conform Hotărârii Guvernului nr. 51/2016 privind stabilirea datei alegerilor locale din anul 2016",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/179882",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/179882",
+     "sha256": "795f24d10bb54af504c39437cfa229a8159c012314735fffbbe0cf8c2ac90566"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-13-2016",
+   "path": "norma-aep/2016/lista-13",
+   "short": "Listă AEP nr. 13/2016",
+   "title": "LISTĂ nr. 13 din 19 decembrie 2016 partidelor politice, alianţelor politice, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, la alegerile pentru Senat şi Camera Deputaţilor desfăşurate conform Hotărârii Guvernului nr. 634/2016 privind stabilirea datei alegerilor pentru Senat şi Camera Deputaţilor din anul 2016",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/184853",
+   "versions": [
+    {
+     "from": "2016-12-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/184853",
+     "sha256": "4113953f142eff406a4fcc2864215d5314688d9ea00d2be90acd5e690dfa2fe6"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-14-2016",
+   "path": "norma-aep/2016/lista-14",
+   "short": "Listă AEP nr. 14/2016",
+   "title": "LISTA nr. 14 din 19 decembrie 2016 partidelor politice, alianţelor politice, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, la alegerile pentru Senat şi Camera Deputaţilor desfăşurate conform Hotărârii Guvernului nr. 634/2016 privind stabilirea datei alegerilor pentru Senat şi Camera Deputaţilor din anul 2016",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/184878",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/184878",
+     "sha256": "d5b452b839f629d5cbfcb15ffad3ea7f051dc5244b5fb190fbac4fd14dd491c5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-15-2016",
+   "path": "norma-aep/2016/lista-15",
+   "short": "Listă AEP nr. 15/2016",
+   "title": "Listă Autorității Electorale Permanente nr. 15 din 2016-12-20",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/184940",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/184940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-16-2016",
+   "path": "norma-aep/2016/lista-16",
+   "short": "Listă AEP nr. 16/2016",
+   "title": "Listă Autorității Electorale Permanente nr. 16 din 2016-12-21",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/184945",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/184945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-2-2016",
+   "path": "norma-aep/2016/lista-2",
+   "short": "Listă AEP nr. 2/2016",
+   "title": "Listă Autorității Electorale Permanente nr. 2 din 2016-06-14",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/179205",
+   "versions": [
+    {
+     "from": "2016-06-14",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/179205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-3-2016",
+   "path": "norma-aep/2016/lista-3",
+   "short": "Listă AEP nr. 3/2016",
+   "title": "LISTĂ nr. 3 din 14 iunie 2016 partidelor politice, alianţelor politice, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, pentru alegerea autorităţilor administraţiei publice locale desfăşurate conform Hotărârii Guvernului nr. 51/2016 privind stabilirea datei alegerilor locale din anul 2016",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/179203",
+   "versions": [
+    {
+     "from": "2016-06-14",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/179203",
+     "sha256": "6fa3439e43e473b64eb6d16723afa0d3fe2dda59beff68dca6ba8889201e77cc"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-4-2016",
+   "path": "norma-aep/2016/lista-4",
+   "short": "Listă AEP nr. 4/2016",
+   "title": "Listă Autorității Electorale Permanente nr. 4 din 2016-06-15",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/179235",
+   "versions": [
+    {
+     "from": "2016-06-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/179235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-6-2016",
+   "path": "norma-aep/2016/lista-6",
+   "short": "Listă AEP nr. 6/2016",
+   "title": "Listă Autorității Electorale Permanente nr. 6 din 2016-06-17",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/179327",
+   "versions": [
+    {
+     "from": "2016-06-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/179327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-7-2016",
+   "path": "norma-aep/2016/lista-7",
+   "short": "Listă AEP nr. 7/2016",
+   "title": "Listă Autorității Electorale Permanente nr. 7 din 2016-06-21",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/179328",
+   "versions": [
+    {
+     "from": "2016-06-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/179328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-9-2016",
+   "path": "norma-aep/2016/lista-9",
+   "short": "Listă AEP nr. 9/2016",
+   "title": "Listă Autorității Electorale Permanente nr. 9 din 2016-06-22",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/179367",
+   "versions": [
+    {
+     "from": "2016-06-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/179367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-metodologie-2016-04-06-2016",
+   "path": "norma-aep/2016/metodologie-2016-04-06",
+   "short": "Metodologia AEP din 2016-04-06",
+   "title": "METODOLOGIE din 6 aprilie 2016 privind tragerea computerizată la sorţi a preşedinţilor birourilor electorale ale secţiilor de votare din ţară şi a locţiitorilor acestora",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/177412",
+   "versions": [
+    {
+     "from": "2016-04-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/177412",
+     "sha256": "28eb5cb2a0383028e7600445ddc0d356353c3c44bd0873492a000c2e959684a1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-rectificare-28-2016",
+   "path": "norma-aep/2016/rectificare-28",
+   "short": "Rectificarea AEP nr. 28/2016",
+   "title": "RECTIFICARE nr. 28 din 7 septembrie 2016 referitoare la Hotărârea Autorităţii Electorale Permanente nr. 28/2016",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/182962",
+   "versions": [
+    {
+     "from": "2016-10-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/182962",
+     "sha256": "eab5c1e2c90dd6e52cf971b7f8348e3072f45e32a291161dcc60853356f4dd13"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-rectificare-39-2-2016",
+   "path": "norma-aep/2016/rectificare-39-2",
+   "short": "Rectificarea AEP nr. 39/2016",
+   "title": "RECTIFICARE nr. 39 din 17 octombrie 2016 referitoare la Hotărârii Autorităţii Electorale Permanente nr. 39/2016",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/184074",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/184074",
+     "sha256": "396bd5ca19e974583b914be989472148b4ccca6c61ae72e73de409db90e075d3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-rectificare-39-2016",
+   "path": "norma-aep/2016/rectificare-39",
+   "short": "Rectificarea AEP nr. 39/2016",
+   "title": "RECTIFICARE nr. 39 din 17 octombrie 2016 referitoare la Hotărârea Autorităţii Electorale Permanente nr. 39/2016",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/183809",
+   "versions": [
+    {
+     "from": "2016-11-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/183809",
+     "sha256": "8989cf38a0ad63ac792e2b4adf218c995b23793bb29097508e6535903ccdb4db"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-rectificare-4-2016",
+   "path": "norma-aep/2016/rectificare-4",
+   "short": "Rectificarea AEP nr. 4/2016",
+   "title": "RECTIFICARE nr. 4 din 15 iunie 2016 referitoare la Lista nr. 4/2016",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/179345",
+   "versions": [
+    {
+     "from": "2016-06-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/179345",
+     "sha256": "cf984094047f10ea759e99e45e3bc4846668d5fc97944012b80b1b8b7c6deac8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-rectificare-6-2016",
+   "path": "norma-aep/2016/rectificare-6",
+   "short": "Rectificarea AEP nr. 6/2016",
+   "title": "RECTIFICARE nr. 6 din 17 iunie 2016 la Lista Autorităţii Electorale Permanente nr. 6/2016",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/179507",
+   "versions": [
+    {
+     "from": "2016-06-28",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/179507",
+     "sha256": "556ad837f0d8af9395a01adb414736828ad758117cbbfd2fb1c9ad07344d9e88"
+    }
+   ]
+  }
+ ]
+}

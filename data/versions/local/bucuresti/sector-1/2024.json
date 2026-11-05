@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-1/2024",
+ "acts": [
+  {
+   "slug": "hcls1-100-2024",
+   "path": "local/bucuresti/sector-1/2024/100",
+   "short": "HCLS1 nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 100/2024",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/152502/100.2024_AN.pdf",
+     "sha256": "de603aa4c84550fefef852ba21577239f5eac8d8b7b1662d254ccb9519058226"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-16-2024",
+   "path": "local/bucuresti/sector-1/2024/16",
+   "short": "HCLS1 nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 16/2024 privind aprobarea Regulamentului Măsurilor de Îmbunătățire a Eficienței Energetice la nivelul locuintelor Multifamiliale din Sectorul 1 al Municipiului București “Rabla pentru Ascensoare” și “Termoficare de la Soare”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/135123/16.2024_AN.pdf",
+     "sha256": "882c8e7cc62d2446154924f46d9f6114e8fc919ca68680121b803da7b204556b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-213-2024",
+   "path": "local/bucuresti/sector-1/2024/213",
+   "short": "HCLS1 nr. 213/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 213/2024 Proiect de hotărâre privind aprobarea Regulamentului de organizare și funcționare al Direcției Generale de Impozite și Taxe Locale",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/175687/213.2024_Anonimizata.pdf",
+     "sha256": "bf9823357e8bf8ee7d308c27794940fa5c080c60f876a7ffe113de269e28b496"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-227-2024",
+   "path": "local/bucuresti/sector-1/2024/227",
+   "short": "HCLS1 nr. 227/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 227/2024 privind aprobarea Regulamentului privind accesul, organizarea și funcționarea bazinelor de înot aflate în administrarea Sectorului 1 al Municipiului București din incinta Școlii Gimnaziale nr. 175 „Sf. Nicolae” și a Școlii Gimnaziale nr. 178",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178706/227.2024_AN.pdf",
+     "sha256": "a8c2140b42247b5e01bffb015cedce688a3e149b76c197b12473b42bd401a9db"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-236-2024",
+   "path": "local/bucuresti/sector-1/2024/236",
+   "short": "HCLS1 nr. 236/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 236/2024 pentru aprobarea Regulamentului privind desfășurarea activităților comerciale pe raza administrativ-teritorială a Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/178766/236.2024_AN.pdf",
+     "sha256": "20859b3b3204e8c52f0f1c981ccdf918c59e9987108ac4117a0f2fe658058a03"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-28-2024",
+   "path": "local/bucuresti/sector-1/2024/28",
+   "short": "HCLS1 nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 28/2024 privind aprobarea unor măsuri urgente pentru îmbunătățirea serviciului de pază și ordine publică corespunzător și a sistemului de supraveghere video în toate unitățile de învățământ de pe raza administrativ-teritorială a Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/151170/28.2024_Anonimizata.pdf",
+     "sha256": "86b31512d3b970493e8a3fe8512293204b64bdf87601c86c7a82d3357e4b90d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-71-2024",
+   "path": "local/bucuresti/sector-1/2024/71",
+   "short": "HCLS1 nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 71/2024 privind probarea criteriilor care se au în vedere la stabilirea ordinii de prioritate în cadrul categoriilor de persoane prevăzute în Legea locuinței nr. 114/1996, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2024",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/150275/71.2024_Anonimizata.pdf",
+     "sha256": "fec7261f289a7e78de1e164e689a1f324c448741ed9aa3c3724847ccd56f4fac"
+    }
+   ]
+  }
+ ]
+}

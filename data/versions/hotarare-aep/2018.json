@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "hotarare-aep/2018",
+ "acts": [
+  {
+   "slug": "hotarare-aep-440-2018",
+   "path": "hotarare-aep/2018/440",
+   "short": "Hotărârea AEP nr. 440/2018",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 440 din 2018-09-19",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/205058",
+   "versions": [
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/205058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-441-2018",
+   "path": "hotarare-aep/2018/441",
+   "short": "Hotărârea AEP nr. 441/2018",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 441 din 2018-09-19",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/205059",
+   "versions": [
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/205059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-447-2018",
+   "path": "hotarare-aep/2018/447",
+   "short": "Hotărârea AEP nr. 447/2018",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 447 din 2018-09-20",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/205089",
+   "versions": [
+    {
+     "from": "2018-09-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/205089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-452-2018",
+   "path": "hotarare-aep/2018/452",
+   "short": "Hotărârea AEP nr. 452/2018",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 452 din 2018-09-21",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/205098",
+   "versions": [
+    {
+     "from": "2018-09-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/205098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-453-2018",
+   "path": "hotarare-aep/2018/453",
+   "short": "Hotărârea AEP nr. 453/2018",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 453 din 2018-09-21",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/205099",
+   "versions": [
+    {
+     "from": "2018-09-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/205099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-464-2018",
+   "path": "hotarare-aep/2018/464",
+   "short": "Hotărârea AEP nr. 464/2018",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 464 din 2018-09-24",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/205170",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/205170",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

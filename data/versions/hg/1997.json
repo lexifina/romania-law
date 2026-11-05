@@ -1,0 +1,1395 @@
+{
+ "country": "RO",
+ "shard": "hg/1997",
+ "acts": [
+  {
+   "slug": "hg-324-1997",
+   "path": "hg/1997/324",
+   "short": "HG nr. 324/1997",
+   "title": "Hotărârea Guvernului nr. 324/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218056",
+   "versions": [
+    {
+     "from": "1997-07-10",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/12450",
+     "sha256": "3e3fb16e86bf986147a44da042f679ec623d11e6a63483552406a86b7eb19a8b"
+    },
+    {
+     "from": "2000-10-27",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218056",
+     "sha256": "53c2002fe79b5220fba2d4a07e8cca24a7dbb73e2e1c25b59e702613bd614bc5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-656-1997",
+   "path": "hg/1997/656",
+   "short": "HG nr. 656/1997",
+   "title": "Hotărârea Guvernului nr. 656/1997 privind aprobarea Clasificarii activităților din economia naționala - CAEN",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13379",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/13379",
+     "sha256": "3d93f0d6c31f3586aa7d64af0916e8405f84e1fac7dc6b460fcc79f31f35a0b8"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/291572",
+     "sha256": "981908bde3436fe33288096bddbcb5832424458b89d2c2097642f049f77aeeb9"
+    },
+    {
+     "from": "2025-03-25",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295491",
+     "sha256": "ed1968a3241cc601fe2cd4474ca132595f7986d73f0b4d0a1885c7b30e36213b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-690-1997",
+   "path": "hg/1997/690",
+   "short": "HG nr. 690/1997",
+   "title": "Hotărârea Guvernului nr. 690/1997 privind organizarea și funcționarea Ministerului Educației Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200009",
+   "versions": [
+    {
+     "from": "1997-11-13",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/13470",
+     "sha256": "2b401ade65b7d63478cd36be7fb5e719f96d2b5653116ee3aa320def156e192c"
+    },
+    {
+     "from": "1998-02-12",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/199971",
+     "sha256": "f4a61cf0b913124573cce92675a1c5454cf6fedd79ad4cda17ca3dbb615f50f1"
+    },
+    {
+     "from": "1999-01-22",
+     "units": 16,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/199988",
+     "sha256": "0e0ee108e63e931e5f4acf98cdccbb5342bd58cded1cb8464fba0559a64f08a5"
+    },
+    {
+     "from": "2001-01-11",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/25993",
+     "sha256": "14b6ca317ea50351d26a611d46afb75f3bcc1008cf1197071ec48ed4216cd66a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-766-1997",
+   "path": "hg/1997/766",
+   "short": "HG nr. 766/1997",
+   "title": "Hotărârea Guvernului nr. 766/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13583",
+   "versions": [
+    {
+     "from": "1997-12-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/13583",
+     "sha256": "646e21675651edada96781e2507b9b996895e82b21ce96a1eb782a58a8d663ca"
+    },
+    {
+     "from": "2002-07-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79212",
+     "sha256": "fb1ed57021845bd4f95aa1a3f6ff68f6bce9d8d112b5cff70e6319a32f456462"
+    },
+    {
+     "from": "2008-10-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98678",
+     "sha256": "28d85af3e09bb0a49b68328e1b6480e8bc154b9a5051f0dbbc6d354924f4ebb3"
+    },
+    {
+     "from": "2017-10-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/194013",
+     "sha256": "66269acbea40c05f7b40b2b1da446beb7f1fd0bbf68f62f3cd381827e1aa0506"
+    }
+   ]
+  },
+  {
+   "slug": "hg-767-1997",
+   "path": "hg/1997/767",
+   "short": "HG nr. 767/1997",
+   "title": "Hotărârea Guvernului nr. 767/1997 privind înfiinţarea Societăţii Naţionale a Sării - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13584",
+   "versions": [
+    {
+     "from": "1997-11-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13584",
+     "sha256": "1b76a073f4a801245d10fa611332ecfbe6c2f11df04813facdb1c23f354c1e73"
+    },
+    {
+     "from": "1998-03-18",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13584",
+     "sha256": "f6d79369f88e054aacc8afb89830f1be2add367e66ebd8244916b54b0edd0e93"
+    }
+   ]
+  },
+  {
+   "slug": "hg-831-1997",
+   "path": "hg/1997/831",
+   "short": "HG nr. 831/1997",
+   "title": "Hotărârea Guvernului nr. 831/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79321",
+   "versions": [
+    {
+     "from": "1997-12-19",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/13651",
+     "sha256": "abe6d127c7e73774df650f56b3918f77a1f704d482e9fdc7795ac5c3747885d6"
+    },
+    {
+     "from": "1998-01-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62757",
+     "sha256": "f64ea4f4a9ddb6a81e082e15a1d552a31f82670d31f3560a9efb5d7e320e58ae"
+    }
+   ]
+  },
+  {
+   "slug": "hg-870-1997",
+   "path": "hg/1997/870",
+   "short": "HG nr. 870/1997",
+   "title": "Hotărârea Guvernului nr. 870/1997 privind autorizarea Ministerului Finanţelor de a garanta un credit extern pentru Ministerul Sănătăţii, în vederea finanţării achiziţionării de echipamente medicale de înalta performanta pentru chirurgia endoscopică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217726",
+   "versions": [
+    {
+     "from": "1997-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13691",
+     "sha256": "8380eec1cd13d02543f01274512d9434078c088a588369cb094eb608cedbf19a"
+    },
+    {
+     "from": "1998-01-29",
+     "units": 3,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/217725",
+     "sha256": "27296e7da8862c15c96985d5cf50fa1229fd0c345aa76cd85be84a0c84ac457e"
+    },
+    {
+     "from": "1999-03-11",
+     "units": 3,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/217726",
+     "sha256": "5960c1895cd23880cb1b215cb50725dd5255c1e694260bb8af69db03c1392f89"
+    }
+   ]
+  },
+  {
+   "slug": "hg-11-1997",
+   "path": "hg/1997/11",
+   "short": "HG nr. 11/1997",
+   "title": "Hotărârea Guvernului nr. 11/1997 pentru modificarea şi completarea Normelor metodologice privind aplicarea Legii nr. 112/1995 pentru reglementarea situaţiei juridice a unor imobile cu destinaţia de locuinţe, trecute în proprietatea statului, stabilite prin Hotărârea Guvernului nr. 20/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10935",
+   "versions": [
+    {
+     "from": "1997-02-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10935",
+     "sha256": "efdd157a05b9977e724028c4a5952ec4c073a82915a0de11637a71a5f3b0687f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-117-1997",
+   "path": "hg/1997/117",
+   "short": "HG nr. 117/1997",
+   "title": "Hotărârea Guvernului nr. 117/1997 pentru anularea unei poziţii din Hotărârea Guvernului nr. 639/1995 , republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11683",
+   "versions": [
+    {
+     "from": "1997-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11683",
+     "sha256": "b405e44c7f00e23dbc34e30d87765e9f22375b4ca72d4fefef0541dcfd4d5721"
+    }
+   ]
+  },
+  {
+   "slug": "hg-129-1997",
+   "path": "hg/1997/129",
+   "short": "HG nr. 129/1997",
+   "title": "Hotărârea Guvernului nr. 129/1997 privind organizarea şi funcţionarea Ministerului Comunicaţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11733",
+   "versions": [
+    {
+     "from": "1997-04-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11733",
+     "sha256": "8fec039001a1b6c9a8f50a4fa2d75a3e584bb0da4f5922a02b9d1dddd46592da"
+    },
+    {
+     "from": "1998-12-30",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/16545",
+     "sha256": "c650aed4bea6659e82ffecaf7d9f6f3bf20c2739c97e348ce93fb1cfc598c578"
+    }
+   ]
+  },
+  {
+   "slug": "hg-130-1997",
+   "path": "hg/1997/130",
+   "short": "HG nr. 130/1997",
+   "title": "Hotărârea Guvernului nr. 130/1997 pentru aprobarea Regulamentului-cadru privind autorizarea, organizarea şi exploatarea jocurilor de noroc, precum şi actualizarea tarifelor de licenţa percepute acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11738",
+   "versions": [
+    {
+     "from": "1997-04-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11738",
+     "sha256": "bab7495cdfa7d14a19eb07800e2ae93752053c1db5d6cc87147d7b434a6991b8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-135-1997",
+   "path": "hg/1997/135",
+   "short": "HG nr. 135/1997",
+   "title": "Hotărârea Guvernului nr. 135/1997 privind stabilirea cotei-părţi din tarifele încasate de Comisia Naţionala pentru Controlul Activităţilor Nucleare, care se fac venit la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11759",
+   "versions": [
+    {
+     "from": "1997-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11759",
+     "sha256": "6445acb3be05062fe6b8677b5e875d33c609a0ed7ea1d7c4c7ab7140ba9533ec"
+    }
+   ]
+  },
+  {
+   "slug": "hg-17-1997",
+   "path": "hg/1997/17",
+   "short": "HG nr. 17/1997",
+   "title": "Hotărârea Guvernului nr. 17/1997 privind înfiinţarea, organizarea şi funcţionarea Departamentului pentru Protecţia Minorităţilor Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11017",
+   "versions": [
+    {
+     "from": "1997-02-05",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11017",
+     "sha256": "ca57913b7dc4f4905d5ccee65d3123904d6c5430bcfb4a6dc411213e73f7a375"
+    }
+   ]
+  },
+  {
+   "slug": "hg-191-1997",
+   "path": "hg/1997/191",
+   "short": "HG nr. 191/1997",
+   "title": "Hotărârea Guvernului nr. 191/1997 pentru modificarea Hotărârii Guvernului nr. 410/1993 privind înfiinţarea Zonei libere Constanţa Sud şi a Regiei Autonome \"Administraţia Zonei Libere Constanţa Sud\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11999",
+   "versions": [
+    {
+     "from": "1997-05-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11999",
+     "sha256": "37f79e8a4df6259a086b8e44becd5ae70d574ebc5e665fd1a1a213109d0c9b34"
+    }
+   ]
+  },
+  {
+   "slug": "hg-208-1997",
+   "path": "hg/1997/208",
+   "short": "HG nr. 208/1997",
+   "title": "Hotărârea Guvernului nr. 208/1997 privind modificarea articolului 11 alineatul (3) din Hotărârea Guvernului nr. 58/1997 privind organizarea şi funcţionarea Ministerului Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12069",
+   "versions": [
+    {
+     "from": "1997-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12069",
+     "sha256": "79a72a120f13ffe5d171296c0b829e4d325bd21169cb482ac35c52dd4fc19b5b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-233-1997",
+   "path": "hg/1997/233",
+   "short": "HG nr. 233/1997",
+   "title": "Hotărârea Guvernului nr. 233/1997 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiţii \"LG-97\" din municipiul Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12167",
+   "versions": [
+    {
+     "from": "1997-05-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12167",
+     "sha256": "b44b2d54fa1bfeee58bee331067e5badce1ddd501690b6f1ef7615958b3bbc1a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-236-1997",
+   "path": "hg/1997/236",
+   "short": "HG nr. 236/1997",
+   "title": "Hotărârea Guvernului nr. 236/1997 privind transmiterea, cu plata, a unor imobile în şi din patrimoniul Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12176",
+   "versions": [
+    {
+     "from": "1997-06-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12176",
+     "sha256": "209a7ca5ac63a7547dcd41f688c933aa5a95883158ce414dd2d86ab6a9143e3a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-238-1997",
+   "path": "hg/1997/238",
+   "short": "HG nr. 238/1997",
+   "title": "Hotărârea Guvernului nr. 238/1997 privind organizarea şi funcţionarea unor instituţii din subordinea Ministerului Culturii, precum şi modul de finanţare a programelor culturale care se realizează pe bază de comenzi de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12182",
+   "versions": [
+    {
+     "from": "1997-05-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12182",
+     "sha256": "787db81f1a5f95c0e690882b32e3335a57c4faff25340bb1e591da95246e9540"
+    }
+   ]
+  },
+  {
+   "slug": "hg-25-1997",
+   "path": "hg/1997/25",
+   "short": "HG nr. 25/1997",
+   "title": "Hotărârea Guvernului nr. 25/1997 privind stabilirea coeficienţilor de indexare trimestriala a salariilor în semestrul I 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11114",
+   "versions": [
+    {
+     "from": "1997-02-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11114",
+     "sha256": "0d6de4054e6c20df1e7f5913659848822513a7cc70949d5d7791b953257a6401"
+    }
+   ]
+  },
+  {
+   "slug": "hg-250-1997",
+   "path": "hg/1997/250",
+   "short": "HG nr. 250/1997",
+   "title": "Hotărârea Guvernului nr. 250/1997 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.275/1990 privind înfiinţarea Administraţiei Naţionale a Drumurilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12216",
+   "versions": [
+    {
+     "from": "1997-06-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12216",
+     "sha256": "9f33ecbd2118becc0b8b37bd19b5eb6fb1f41e9d88de4c41d4437e7e8ab62856"
+    }
+   ]
+  },
+  {
+   "slug": "hg-252-1997",
+   "path": "hg/1997/252",
+   "short": "HG nr. 252/1997",
+   "title": "Hotărârea Guvernului nr. 252/1997 privind prelungirea mandatului directorului adjunct al Proiectului O.N.U. \"Calea ferată transeuropeana (TER)\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12222",
+   "versions": [
+    {
+     "from": "1997-06-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12222",
+     "sha256": "edc94972110dc883f98008d8a0ecc38ea38784c9139493b74b02b93284f822ab"
+    }
+   ]
+  },
+  {
+   "slug": "hg-256-1997",
+   "path": "hg/1997/256",
+   "short": "HG nr. 256/1997",
+   "title": "Hotărârea Guvernului nr. 256/1997 privind organizarea Festivalului şi Concursului Internaţional \"George Enescu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12234",
+   "versions": [
+    {
+     "from": "1997-06-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12234",
+     "sha256": "61c51ce7de6ff3dd64fc46381bc5bf21c0617195753e146fa5606808225d0c4a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-26-1997",
+   "path": "hg/1997/26",
+   "short": "HG nr. 26/1997",
+   "title": "Hotărârea Guvernului nr. 26/1997 cu privire la indexarea şi compensarea salariilor personalului din sectorul bugetar în semestrul I 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11124",
+   "versions": [
+    {
+     "from": "1997-02-25",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11124",
+     "sha256": "e1c34eeaf26ea21cba377ad88cefbecc6b94490e812aabb39731b6812b7121cb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-292-1997",
+   "path": "hg/1997/292",
+   "short": "HG nr. 292/1997",
+   "title": "Hotărârea Guvernului nr. 292/1997 pentru modificarea Normelor metodologice privind derularea fondului pentru finanţarea lucrărilor agricole în anul 1997, aprobate prin Hotărârea Guvernului nr. 84/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12350",
+   "versions": [
+    {
+     "from": "1997-06-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12350",
+     "sha256": "441a01e53be862beb5924994d61ffc9a354c4c8577ceee731f7d89bdf53fb54d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-293-1997",
+   "path": "hg/1997/293",
+   "short": "HG nr. 293/1997",
+   "title": "Hotărârea Guvernului nr. 293/1997 privind acordarea unor fonduri în vederea restructurării şi reabilitării patrimoniului genetic la speciile porcine şi păsări, în scopul păstrării capacităţii de relansare a producţiei naţionale de carne de porc, de pasare şi oua",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12353",
+   "versions": [
+    {
+     "from": "1997-06-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12353",
+     "sha256": "aa56d614b3e0f718ca60974f02461b26aed0fcdfd0119d3f012874396a984a9b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-3-1997",
+   "path": "hg/1997/3",
+   "short": "HG nr. 3/1997",
+   "title": "Hotărârea Guvernului nr. 3/1997 privind unele măsuri de constituire a Fondului de pensii şi asigurări sociale ale agricultorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10792",
+   "versions": [
+    {
+     "from": "1997-01-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10792",
+     "sha256": "3d692b6ee30c9914487fdd463d2e5f35736ffd6aae510bcab358818ed026f77f"
+    },
+    {
+     "from": "2000-07-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/22425",
+     "sha256": "557be3d7ff185e94f5c9e4098346ad7990f7b28017597c9f23a6d013018a2594"
+    }
+   ]
+  },
+  {
+   "slug": "hg-306-1997",
+   "path": "hg/1997/306",
+   "short": "HG nr. 306/1997",
+   "title": "Hotărârea Guvernului nr. 306/1997 privind modul de repartizare a sumelor aprobate prin Legea bugetului de stat pe anul 1997 nr. 72/1997 , în vederea sprijinirii activităţilor desfăşurate de organizaţiile nepolitice ale cetăţenilor aparţinând minorităţilor naţionale şi finanţării unor programe şi proiecte în cadrul Campaniei europene pentru combaterea rasismului, xenofobiei, antisemitismului şi intolerantei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12393",
+   "versions": [
+    {
+     "from": "1997-06-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12393",
+     "sha256": "d9bd06d52d7e9baf30fbb0b72a9a08e3a9560b30af700853f9d153e3e502244c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-319-1997",
+   "path": "hg/1997/319",
+   "short": "HG nr. 319/1997",
+   "title": "Hotărârea Guvernului nr. 319/1997 pentru modificarea structurii organizatorice a Agenţiei Naţionale de Control al Exporturilor Strategice şi al Interzicerii Armelor Chimice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12437",
+   "versions": [
+    {
+     "from": "1997-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12437",
+     "sha256": "7841baa838cc1cdd9899203145163f4a60400beba2f05bb905f540797be61ee7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-325-1997",
+   "path": "hg/1997/325",
+   "short": "HG nr. 325/1997",
+   "title": "Hotărârea Guvernului nr. 325/1997 privind introducerea stagiului de pregătire practica cu durata de un an pentru absolvenţii facultăţilor de medicina şi farmacie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12453",
+   "versions": [
+    {
+     "from": "1997-07-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12453",
+     "sha256": "66dbcb51fd3be5819f23a83ff527a8bbf15c82a2bcb09cd4fff20ee0fda1873d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-328-1997",
+   "path": "hg/1997/328",
+   "short": "HG nr. 328/1997",
+   "title": "Hotărârea Guvernului nr. 328/1997 privind alocarea unor sume din bugetul de stat pe anul 1997 pentru înlăturarea efectelor calamităţilor naturale produse în unele judeţe în perioada octombrie 1996 - mai 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12465",
+   "versions": [
+    {
+     "from": "1997-07-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12465",
+     "sha256": "611a48311f8f358ef00467b56e087e21b78be57964065df4e3e83f8f963f3276"
+    }
+   ]
+  },
+  {
+   "slug": "hg-359-1997",
+   "path": "hg/1997/359",
+   "short": "HG nr. 359/1997",
+   "title": "Hotărârea Guvernului nr. 359/1997 privind modificarea Hotărârii Guvernului nr. 234/1997 pentru abrogarea Hotărârii Guvernului nr. 540/1996 privind înfiinţarea Societăţii Comerciale \"Compania Română de Petrol\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12541",
+   "versions": [
+    {
+     "from": "1997-07-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12541",
+     "sha256": "4b1217a5ebb2e846296b1306b6925b16b4106ef725643d52acd82a424c9ea41a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-361-1997",
+   "path": "hg/1997/361",
+   "short": "HG nr. 361/1997",
+   "title": "Hotărârea Guvernului nr. 361/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12545",
+   "versions": [
+    {
+     "from": "1997-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12545",
+     "sha256": "0c101645a7d553a389fc693160820ad5a3e49ad0b4f67f8f1007891d42c4c071"
+    }
+   ]
+  },
+  {
+   "slug": "hg-390-1997",
+   "path": "hg/1997/390",
+   "short": "HG nr. 390/1997",
+   "title": "Hotărârea Guvernului nr. 390/1997 privind organizarea şi funcţionarea Ministerului Agriculturii şi Alimentaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12606",
+   "versions": [
+    {
+     "from": "1997-08-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12606",
+     "sha256": "7e70aba025f7dd463472bfbaa75ae442a039f8df78dc618bf77025e8e1bab0a8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-398-1997",
+   "path": "hg/1997/398",
+   "short": "HG nr. 398/1997",
+   "title": "Hotărârea Guvernului nr. 398/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12622",
+   "versions": [
+    {
+     "from": "1997-08-06",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/12622",
+     "sha256": "2abee096541e421af99c44514e7ae465e606a422e0771d89e6dedcf2442c4548"
+    }
+   ]
+  },
+  {
+   "slug": "hg-402-1997",
+   "path": "hg/1997/402",
+   "short": "HG nr. 402/1997",
+   "title": "Hotărârea Guvernului nr. 402/1997 privind alocarea de sume din Fondul la dispoziţia Guvernului României pentru relaţiile cu Republica Moldova pe anul 1997 în vederea finanţării unor acţiuni de integrare economică şi culturală între România şi Republica Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12631",
+   "versions": [
+    {
+     "from": "1997-08-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12631",
+     "sha256": "2ee1112de6ba807cfe564008f6ee8b20d3f635dafbaaf6e05d555f0b2f49f05a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-417-1997",
+   "path": "hg/1997/417",
+   "short": "HG nr. 417/1997",
+   "title": "Hotărârea Guvernului nr. 417/1997 pentru modificarea şi completarea Hotărârii Guvernului nr. 107/1992 privind înfiinţarea Regiei Autonome \"LOCATO\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12661",
+   "versions": [
+    {
+     "from": "1997-08-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12661",
+     "sha256": "902c0186cf2b11b723351d28cd9b8e6cd7b62e2007e3b885e8492a25d5f02c0a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-43-1997",
+   "path": "hg/1997/43",
+   "short": "HG nr. 43/1997",
+   "title": "Hotărârea Guvernului nr. 43/1997 pentru modificarea articolului 2 din Hotărârea Guvernului nr. 39/1991 privind autorizarea funcţionării unei filiale a Societăţii Internaţionale de Telecomunicaţii Aeronautice - S.I.T.A. în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11267",
+   "versions": [
+    {
+     "from": "1997-03-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11267",
+     "sha256": "7e2f5faf3987cadd9caf439e19ecf65fdb8a1b7a5dca7521ff1e3abae703b9bd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-443-1997",
+   "path": "hg/1997/443",
+   "short": "HG nr. 443/1997",
+   "title": "Hotărârea Guvernului nr. 443/1997 privind normele pentru stabilirea şi plata alocaţiei suplimentare, precum şi măsurile de aplicare a dispoziţiilor Legii nr. 119/1997 privind alocaţia suplimentară pentru familiile cu copii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12717",
+   "versions": [
+    {
+     "from": "1997-08-15",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12717",
+     "sha256": "59b547644e700febffb2e59a01ddcbac3ff46fb8d06b9726f74220f75da71de9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-445-1997",
+   "path": "hg/1997/445",
+   "short": "HG nr. 445/1997",
+   "title": "Hotărârea Guvernului nr. 445/1997 privind stabilirea Criteriilor generale de acordare a burselor şi a altor forme de sprijin material pentru elevii, studenţii şi cursanţii din învăţământul de stat, cursuri de zi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12724",
+   "versions": [
+    {
+     "from": "1997-08-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12724",
+     "sha256": "b15193ce892170d5c78b39afcb36ca2107f770a36e2d3ae4bd131de7393f2423"
+    }
+   ]
+  },
+  {
+   "slug": "hg-458-1997",
+   "path": "hg/1997/458",
+   "short": "HG nr. 458/1997",
+   "title": "Hotărârea Guvernului nr. 458/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12764",
+   "versions": [
+    {
+     "from": "1997-08-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/12764",
+     "sha256": "f2171f88b52a33ee85f845f1299c6655dc404c60745d2a64e4737034347a52e5"
+    },
+    {
+     "from": "2005-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12764",
+     "sha256": "5f45887b7f1f87bffbb2abea520aca22872537d30952acbe00d541852b0cf45e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-472-1997",
+   "path": "hg/1997/472",
+   "short": "HG nr. 472/1997",
+   "title": "Hotărârea Guvernului nr. 472/1997 pentru modificarea şi completarea Hotărârii Guvernului nr. 294/1997 cu privire la funcţionarea instituţiilor de învăţământ superior, în conformitate cu prevederile Legii nr. 88/1993 privind acreditarea instituţiilor de învăţământ superior şi recunoaşterea diplomelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12806",
+   "versions": [
+    {
+     "from": "1997-09-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12806",
+     "sha256": "af6010c23727650bc6cdc1bbf960d6e8661d97e12604dbf3b083b802281e58a4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-476-1997",
+   "path": "hg/1997/476",
+   "short": "HG nr. 476/1997",
+   "title": "Hotărârea Guvernului nr. 476/1997 privind alocarea unor sume din bugetul de stat pe anul 1997 pentru înlăturarea efectelor calamităţilor naturale produse în unele judeţe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12818",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12818",
+     "sha256": "3c9114e43200b97415f18879aa084b98dbcda68520ab728311a6f84f25e785b4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-477-1997",
+   "path": "hg/1997/477",
+   "short": "HG nr. 477/1997",
+   "title": "Hotărârea Guvernului nr. 477/1997 privind constituirea Comisiei de pregătire a organizării Consiliului Economic şi Social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12821",
+   "versions": [
+    {
+     "from": "1997-09-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12821",
+     "sha256": "5e603c2773f7a7f2c202ce3120d22d3b1c7baae88312e8878a04e4d7528b0b38"
+    }
+   ]
+  },
+  {
+   "slug": "hg-488-1997",
+   "path": "hg/1997/488",
+   "short": "HG nr. 488/1997",
+   "title": "Hotărârea Guvernului nr. 488/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12854",
+   "versions": [
+    {
+     "from": "1997-09-10",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12854",
+     "sha256": "eb9b8d78ed3bd89b9e7b1d092bf2c35f96c491936fb22bbf4d7e54f9f54a09de"
+    }
+   ]
+  },
+  {
+   "slug": "hg-494-1997",
+   "path": "hg/1997/494",
+   "short": "HG nr. 494/1997",
+   "title": "Hotărârea Guvernului nr. 494/1997 privind transferul unor sume de la bugetul de stat rectificat pe anul 1997 către Regia Autonomă de Electricitate \"Renel\" şi Regia Autonomă a Gazelor Naturale \"Romgaz\" Mediaş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12871",
+   "versions": [
+    {
+     "from": "1997-09-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12871",
+     "sha256": "34f824d45bdb8a5555225232ee1aa9db625246d64f5998534358acbe6a3686b9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-495-1997",
+   "path": "hg/1997/495",
+   "short": "HG nr. 495/1997",
+   "title": "Hotărârea Guvernului nr. 495/1997 privind conținutul, eliberarea și actualizarea livretului de familie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12874",
+   "versions": [
+    {
+     "from": "1997-09-19",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/12874",
+     "sha256": "93ac1fd7ea2834b9bb19067e1eba5924d7bbfd26f457dbf0f02aa1bec2f786e7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-506-1997",
+   "path": "hg/1997/506",
+   "short": "HG nr. 506/1997",
+   "title": "Hotărârea Guvernului nr. 506/1997 pentru modificarea şi completarea Hotărârii Guvernului nr. 17/1997 privind înfiinţarea, organizarea şi funcţionarea Departamentului pentru Protecţia Minorităţilor Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12907",
+   "versions": [
+    {
+     "from": "1997-09-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12907",
+     "sha256": "8db38751b7a3a4bc0782da81dab1b2ca5e01c6bb3a712d4c05034a5713f823eb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-507-1997",
+   "path": "hg/1997/507",
+   "short": "HG nr. 507/1997",
+   "title": "Hotărârea Guvernului nr. 507/1997 pentru modificarea şi completarea Hotărârii Guvernului nr. 456/1994 privind organizarea şi funcţionarea Ministerului Lucrărilor Publice şi Amenajării Teritoriului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12910",
+   "versions": [
+    {
+     "from": "1997-09-22",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12910",
+     "sha256": "2847f8067f5705c3841a36b4861afd65baba9c70449532b57dd52f0177a17e58"
+    }
+   ]
+  },
+  {
+   "slug": "hg-510-1997",
+   "path": "hg/1997/510",
+   "short": "HG nr. 510/1997",
+   "title": "Hotărârea Guvernului nr. 510/1997 pentru aprobarea normelor metodologice de aplicare a Legii nr. 85/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12919",
+   "versions": [
+    {
+     "from": "1997-11-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12919",
+     "sha256": "c283be8d82f99d56997727635f40014120496ead6aa9da1faeb16513fb9e3790"
+    }
+   ]
+  },
+  {
+   "slug": "hg-521-1997",
+   "path": "hg/1997/521",
+   "short": "HG nr. 521/1997",
+   "title": "Hotărârea Guvernului nr. 521/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12954",
+   "versions": [
+    {
+     "from": "1997-09-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/12954",
+     "sha256": "cb0914cdb196ff3085fec71c37b4405afecacea694082d4f3788a0a62c2a4c2c"
+    },
+    {
+     "from": "2006-07-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97347",
+     "sha256": "390dccfa5119e606cac54ff45e5da2b5e2a3d8c723e852ef2a15fdb0cd5d977d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-523-1997",
+   "path": "hg/1997/523",
+   "short": "HG nr. 523/1997",
+   "title": "Hotărârea Guvernului nr. 523/1997 privind asigurarea pazei obiectivelor, bunurilor şi valorilor cu efective de jandarmi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12960",
+   "versions": [
+    {
+     "from": "1997-09-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12960",
+     "sha256": "adacc6664e7a459db12c39ee32fe6ac96b31ea64ca4c30e474e7f68252d4c1c5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-565-1997",
+   "path": "hg/1997/565",
+   "short": "HG nr. 565/1997",
+   "title": "Hotărârea Guvernului nr. 565/1997 privind alocarea unor sume Ministerului Transporturilor din Fondul de rezerva bugetară la dispoziţia Guvernului pe anul 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13092",
+   "versions": [
+    {
+     "from": "1997-09-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13092",
+     "sha256": "61fd1a1cf3dbf815945ef384d6d5c0c50482ccf844e61d528af56d34b2ba2b88"
+    }
+   ]
+  },
+  {
+   "slug": "hg-569-1997",
+   "path": "hg/1997/569",
+   "short": "HG nr. 569/1997",
+   "title": "Hotărârea Guvernului nr. 569/1997 privind înfiinţarea de societăţi comerciale prin reorganizarea unor subunităţi din cadrul Regiei Autonome a Cuprului Deva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13104",
+   "versions": [
+    {
+     "from": "1997-10-02",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13104",
+     "sha256": "2f8fa90cdf556815e0bf1e785b721ad8550f8f4b9b23f416a244dc00216d8170"
+    }
+   ]
+  },
+  {
+   "slug": "hg-576-1997",
+   "path": "hg/1997/576",
+   "short": "HG nr. 576/1997",
+   "title": "Hotărârea Guvernului nr. 576/1997 privind înfiinţarea Companiei Naţionale a Lignitului Oltenia - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13127",
+   "versions": [
+    {
+     "from": "1997-09-30",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13127",
+     "sha256": "390f311a3f22d19a95f80f9c6e0ae7cd4677647b8c6ec8bb65d5140844d627be"
+    }
+   ]
+  },
+  {
+   "slug": "hg-578-1997",
+   "path": "hg/1997/578",
+   "short": "HG nr. 578/1997",
+   "title": "Hotărârea Guvernului nr. 578/1997 privind aprobarea bugetelor de venituri şi cheltuieli, rectificate pe anul 1997, ale regiilor autonome, companiilor, societăţilor naţionale şi al Institutului Naţional de Cercetare - Dezvoltare pentru Mecanică Fina - C.E.F.I.N. Bucureşti, din coordonarea Ministerului Industriei şi Comerţului, precum şi a subvenţiilor şi transferurilor pentru unele societăţi comerciale cu capital de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13133",
+   "versions": [
+    {
+     "from": "1997-10-06",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13133",
+     "sha256": "1896fc5a36abd17cb6ccd592da6def2290af63cd1c8899606b809536cf45f7b7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-579-1997",
+   "path": "hg/1997/579",
+   "short": "HG nr. 579/1997",
+   "title": "Hotărârea Guvernului nr. 579/1997 privind înfiinţarea şi organizarea serviciilor publice descentralizate ale ministerelor şi ale celorlalte organe centrale în judeţul Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13136",
+   "versions": [
+    {
+     "from": "1997-10-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13136",
+     "sha256": "029e2409b0ecf342a1f78a951fc3e78919468895e6a21109a6f56f50bdaa23ed"
+    }
+   ]
+  },
+  {
+   "slug": "hg-58-1997",
+   "path": "hg/1997/58",
+   "short": "HG nr. 58/1997",
+   "title": "Hotărârea Guvernului nr. 58/1997 privind organizarea şi funcţionarea Ministerului Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11367",
+   "versions": [
+    {
+     "from": "1997-03-14",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11367",
+     "sha256": "bb78c48e2e9c746cdd82f8dae414109a51bfc1216ea8d1a02b380bfe57410785"
+    },
+    {
+     "from": "1998-12-30",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/16545",
+     "sha256": "c650aed4bea6659e82ffecaf7d9f6f3bf20c2739c97e348ce93fb1cfc598c578"
+    }
+   ]
+  },
+  {
+   "slug": "hg-582-1997",
+   "path": "hg/1997/582",
+   "short": "HG nr. 582/1997",
+   "title": "Hotărârea Guvernului nr. 582/1997 privind introducerea sistemului de marcare pentru băuturi alcoolice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13146",
+   "versions": [
+    {
+     "from": "1997-10-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13146",
+     "sha256": "02c0874dae9c6dcabaea5f7b2b7a7e867189f13370c0572d4e530a686ce55d1a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-6-1997",
+   "path": "hg/1997/6",
+   "short": "HG nr. 6/1997",
+   "title": "Hotărârea Guvernului nr. 6/1997 privind modificarea şi abrogarea unor articole din Hotărârea Guvernului nr. 442/1994 şi abrogarea anexei nr. 3 la Hotărârea Guvernului nr. 642/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10848",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10848",
+     "sha256": "1b4d761e3369612f0a4965719d086428630041e7face684263ad57d219586b26"
+    }
+   ]
+  },
+  {
+   "slug": "hg-64-1997",
+   "path": "hg/1997/64",
+   "short": "HG nr. 64/1997",
+   "title": "Hotărârea Guvernului nr. 64/1997 pentru modificarea Hotărârii Guvernului nr. 181/1992 privind definirea jocurilor de noroc şi stabilirea contravenţiilor la regimul practicării acestor jocuri în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11406",
+   "versions": [
+    {
+     "from": "1997-03-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11406",
+     "sha256": "2d255a8719888d50fcda10ac17fc104bf349e0e935e6f2e071bd917691cf165e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-683-1997",
+   "path": "hg/1997/683",
+   "short": "HG nr. 683/1997",
+   "title": "Hotărârea Guvernului nr. 683/1997 pentru modificarea Hotărârii Guvernului nr. 239/1997 privind stabilirea nivelului maxim al preţului la care energia termica poate fi livrata populaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13453",
+   "versions": [
+    {
+     "from": "1997-11-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13453",
+     "sha256": "9a0e9d92a6b224b55142ff17ef79cc6695d315e679902b37370f393e5ed74f95"
+    }
+   ]
+  },
+  {
+   "slug": "hg-685-1997",
+   "path": "hg/1997/685",
+   "short": "HG nr. 685/1997",
+   "title": "Hotărârea Guvernului nr. 685/1997 pentru modificarea şi completarea Hotărârii Guvernului nr. 293/1997 privind acordarea unor fonduri în vederea restructurării şi reabilitării patrimoniului genetic la speciile porcine şi păsări, în scopul păstrării capacităţii de relansare a producţiei naţionale de carne de porc, de pasare şi oua",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13459",
+   "versions": [
+    {
+     "from": "1997-11-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13459",
+     "sha256": "bf083ecf2a1580d4bcee609b372acf5690f0a182cf7f7738344165eb70e700d0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-687-1997",
+   "path": "hg/1997/687",
+   "short": "HG nr. 687/1997",
+   "title": "Hotărârea Guvernului nr. 687/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216996",
+   "versions": [
+    {
+     "from": "1997-11-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/13464",
+     "sha256": "4cb37fb0402320c664546a01d23f1e60a4aa88f725d903c794d3f09ab492ea28"
+    },
+    {
+     "from": "1998-12-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216993",
+     "sha256": "f645def9d78984d072126bdc4f6396981ca80b9227e5adaf35bb8883a237ee3e"
+    },
+    {
+     "from": "1999-11-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216994",
+     "sha256": "8b75064e0fc2133e36a66e2811c9cc51c78c7f2105bb20f8e7e8007ca9715b59"
+    },
+    {
+     "from": "2004-07-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216995",
+     "sha256": "b06d69a5138a1a20ce9504760201dbd59dcb02a0be22064f38b34a5f375090a7"
+    },
+    {
+     "from": "2007-10-31",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216997",
+     "sha256": "c56266c54248ec884326754ac061b84c4dc3a55c07ba624216015e7a8bd00499"
+    }
+   ]
+  },
+  {
+   "slug": "hg-700-1997",
+   "path": "hg/1997/700",
+   "short": "HG nr. 700/1997",
+   "title": "Hotărârea Guvernului nr. 700/1997 privind reorganizarea Centrului pentru Administrarea şi Protecţia Patrimoniului Culturii din subordinea Ministerului Culturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13492",
+   "versions": [
+    {
+     "from": "1997-11-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13492",
+     "sha256": "d1ebb7b43b6ba1e46b6c4c8ef28fdac06f9bab7e638832d809fc9063aab0a221"
+    }
+   ]
+  },
+  {
+   "slug": "hg-727-1997",
+   "path": "hg/1997/727",
+   "short": "HG nr. 727/1997",
+   "title": "Hotărârea Guvernului nr. 727/1997 privind numirea Comisiei pentru efectuarea cercetării prealabile în vederea declarării utilităţii publice pentru lucrarea de interes naţional \"CET Mintia - Amenajarea spaţiilor de depozitare a zgurii din centrala, supraînălţarea depozitului Valea Bejan între cotele 240 şi 265 mdM şi extinderea depozitului mal drept Raul Mureş\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13539",
+   "versions": [
+    {
+     "from": "1997-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13539",
+     "sha256": "c83748d8c74c52953171c33fa74eb2588556210d9858fc8d7aa4db33359dd8bd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-747-1997",
+   "path": "hg/1997/747",
+   "short": "HG nr. 747/1997",
+   "title": "Hotărârea Guvernului nr. 747/1997 pentru aprobarea Normelor metodologice cu privire la acordarea unui ajutor pentru plata cheltuielilor suplimentare pentru energia termica în lunile sezonului rece, pentru unele categorii ale populaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13561",
+   "versions": [
+    {
+     "from": "1997-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13561",
+     "sha256": "392041f6433cfc879794701147e3ca6dbfae90b8b6a7b224e0ef69dc55a74bf1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-748-1997",
+   "path": "hg/1997/748",
+   "short": "HG nr. 748/1997",
+   "title": "Hotărârea Guvernului nr. 748/1997 pentru instituirea de către România a unui moratoriu de 3 ani la exportul de mine antiinfanterie (antipersonal)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13563",
+   "versions": [
+    {
+     "from": "1997-11-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13563",
+     "sha256": "743754878beb169faed0fb0453ac4ee7290f2d36b9dad34e42dde8c3fb3804c0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-78-1997",
+   "path": "hg/1997/78",
+   "short": "HG nr. 78/1997",
+   "title": "Hotărârea Guvernului nr. 78/1997 privind nivelul taxei de abonament pentru serviciul efectuat de Societatea Română de Radiodifuziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11489",
+   "versions": [
+    {
+     "from": "1997-03-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11489",
+     "sha256": "a1e4613efd76159581f152867f13d1fc543781d4efd8275facdd761c3d1c5b92"
+    }
+   ]
+  },
+  {
+   "slug": "hg-780-1997",
+   "path": "hg/1997/780",
+   "short": "HG nr. 780/1997",
+   "title": "Hotărârea Guvernului nr. 780/1997 privind organizarea în România a Turneului final al Campionatului European de Fotbal Amator pentru tineri sub 21 de ani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13600",
+   "versions": [
+    {
+     "from": "1997-12-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13600",
+     "sha256": "a8117196b09dd0aea77a6ab60345dc79df2e5de6bf5d5b9ea100c214712a3ed9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-786-1997",
+   "path": "hg/1997/786",
+   "short": "HG nr. 786/1997",
+   "title": "Hotărârea Guvernului nr. 786/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13606",
+   "versions": [
+    {
+     "from": "1997-12-15",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13606",
+     "sha256": "98105677a9d33e0cfd88f3a020167c67b1eff2f676a1d2592df0873734f60926"
+    }
+   ]
+  },
+  {
+   "slug": "hg-794-1997",
+   "path": "hg/1997/794",
+   "short": "HG nr. 794/1997",
+   "title": "Hotărârea Guvernului nr. 794/1997 privind constituirea, administrarea şi utilizarea Fondului de contrapartida",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13614",
+   "versions": [
+    {
+     "from": "1997-12-16",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13614",
+     "sha256": "724fe403d6bde497d871559d27108a918bd723e10a1c7c3481a789d4c9102019"
+    }
+   ]
+  },
+  {
+   "slug": "hg-804-1997",
+   "path": "hg/1997/804",
+   "short": "HG nr. 804/1997",
+   "title": "Hotărârea Guvernului nr. 804/1997 privind transmiterea, fără plata, a doua imobile proprietate publică a statului, situate în oraşul Gura Humorului, judeţul Suceava, din administrarea Regiei Autonome a Plumbului şi Zincului Baia Mare în administrarea Ministerului Public şi a Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13624",
+   "versions": [
+    {
+     "from": "1997-12-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13624",
+     "sha256": "245ba410fb26d33ecd959fac96489234f1ff5ad7a416aeb9b76a0f03aa0cf407"
+    }
+   ]
+  },
+  {
+   "slug": "hg-81-1997",
+   "path": "hg/1997/81",
+   "short": "HG nr. 81/1997",
+   "title": "Hotărârea Guvernului nr. 81/1997 privind scoaterea din rezervele materiale naţionale a cantităţii de 100 mii tone grîu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11506",
+   "versions": [
+    {
+     "from": "1997-03-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11506",
+     "sha256": "c126022623fdded56f2e394c5b2bf8c0d8a722d8ff30fb2e934789af394258e5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-811-1997",
+   "path": "hg/1997/811",
+   "short": "HG nr. 811/1997",
+   "title": "Hotărârea Guvernului nr. 811/1997 pentru modificarea şi completarea Normelor privind prevenirea accidentelor turistice şi organizarea activităţii de salvare în munţi, aprobate prin Hotărârea Guvernului nr. 1.269/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13630",
+   "versions": [
+    {
+     "from": "1997-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13630",
+     "sha256": "93c556c8fbcbd3f164d00637299ecd052b38387f3ab1800a19f0820865d35b8c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-837-1997",
+   "path": "hg/1997/837",
+   "short": "HG nr. 837/1997",
+   "title": "Hotărârea Guvernului nr. 837/1997 privind acordarea ajutorului anual pentru acoperirea unei părţi din costul chiriei, energiei electrice şi energiei termice pentru nevoi casnice, cuvenit veteranilor de război, văduvelor de război, precum şi accidentaţilor de război în afară serviciului ordonat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217727",
+   "versions": [
+    {
+     "from": "1997-12-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13658",
+     "sha256": "fe012192f30564df4f8246fd6d04185e82cd486b4cfedd558d302f5e3a8326cf"
+    },
+    {
+     "from": "1997-12-30",
+     "units": 2,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/217727",
+     "sha256": "3ef7806728b0e07ea6619071d79b0952e09ce048f582680a3f5034a5f853c2c1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-84-1997",
+   "path": "hg/1997/84",
+   "short": "HG nr. 84/1997",
+   "title": "Hotărârea Guvernului nr. 84/1997 pentru aprobarea Normelor metodologice privind derularea fondului pentru finanţarea lucrărilor agricole prin băncile comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11523",
+   "versions": [
+    {
+     "from": "1997-03-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11523",
+     "sha256": "660f16e749a44845397d0e38d86e4af45a501b0c69b8b203f88cd77f0432a57b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-863-1997",
+   "path": "hg/1997/863",
+   "short": "HG nr. 863/1997",
+   "title": "Hotărârea Guvernului nr. 863/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13684",
+   "versions": [
+    {
+     "from": "1997-12-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13684",
+     "sha256": "304d4906c2e4e3deb83f21d30dcf8a518fffb6203f2494fadeb7519fd66c67bd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-898-1997",
+   "path": "hg/1997/898",
+   "short": "HG nr. 898/1997",
+   "title": "Hotărârea Guvernului nr. 898/1997 privind alocarea, din Fondul special de dezvoltare aflat la dispoziţia Guvernului, a sumei de 50.475 milioane lei pentru finanţarea investiţiei \"Turnătorie de tuburi de presiune din fonta ductila la Societatea Comercială &lt;&lt;Sidermet&gt;&gt; - S.A. Călan, judeţul Hunedoara\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13721",
+   "versions": [
+    {
+     "from": "1997-12-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13721",
+     "sha256": "5357961c574eed6d728d0105ef35e002fcd9c29e2d274764295d29c7bbc5cfcb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-90-1997",
+   "path": "hg/1997/90",
+   "short": "HG nr. 90/1997",
+   "title": "Hotărârea Guvernului nr. 90/1997 pentru modificarea Hotărârii Guvernului nr. 812/1994 privind modificarea unor condiţii de scoatere din ţara a carburanţilor de către persoanele fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11558",
+   "versions": [
+    {
+     "from": "1997-04-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11558",
+     "sha256": "369fefeac673435b7bd85872096f5ae48bddee920931429b041815fdddbe3947"
+    }
+   ]
+  },
+  {
+   "slug": "hg-909-1997",
+   "path": "hg/1997/909",
+   "short": "HG nr. 909/1997",
+   "title": "Hotărârea Guvernului nr. 909/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13732",
+   "versions": [
+    {
+     "from": "1998-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/13732",
+     "sha256": "326a51eec90893654302374e6cecf43193191629eadbd9beb02d80f5489d4cfa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-92-1997",
+   "path": "hg/1997/92",
+   "short": "HG nr. 92/1997",
+   "title": "Hotărârea Guvernului nr. 92/1997 privind corectarea impozitelor prevăzute în anexa nr. 2 la Legea nr. 42/1993 privind accizele la produsele din import şi din ţara, precum şi impozitul la ţiţeiul din producţia internă şi gazele naturale, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11571",
+   "versions": [
+    {
+     "from": "1997-04-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11571",
+     "sha256": "d773742cf4f0f0ad2301a1b1c71edc20709379e11e0253ffda46e9837b3c8a4f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-928-1997",
+   "path": "hg/1997/928",
+   "short": "HG nr. 928/1997",
+   "title": "Hotărârea Guvernului nr. 928/1997 privind aprobarea Normelor metodologice pentru aplicarea Ordonanţei de urgenţă a Guvernului nr. 31/1997 privind regimul investiţiilor străine în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13757",
+   "versions": [
+    {
+     "from": "1997-12-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13757",
+     "sha256": "3276bfb011b78f9a00ffbaa674e78471999aa83220a6fbe2bf519306d290b76a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-939-1997",
+   "path": "hg/1997/939",
+   "short": "HG nr. 939/1997",
+   "title": "Hotărârea Guvernului nr. 939/1997 privind reorganizarea şi funcţionarea Secretariatului de Stat pentru Handicapaţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13768",
+   "versions": [
+    {
+     "from": "1998-01-09",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13768",
+     "sha256": "1eaaaac8fba429ab4dbae7bb47c67e9000b7e4323ec33dc87c1b4ebc969e4022"
+    },
+    {
+     "from": "2001-01-10",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/25963",
+     "sha256": "57c8474197c8551866d333420f6337544733cf78985acd7b5348044e6ba4f7dc"
+    }
+   ]
+  }
+ ]
+}

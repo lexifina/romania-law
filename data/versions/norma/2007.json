@@ -1,0 +1,651 @@
+{
+ "country": "RO",
+ "shard": "norma/2007",
+ "acts": [
+  {
+   "slug": "norma-bnr-1-2007",
+   "path": "norma/bnr/2007/1",
+   "short": "Norma bnr nr. 1/2007",
+   "title": "Norma nr. 1/2007 pentru modificarea și completarea Normei Băncii Naționale a României nr. 15/2006 privind transmiterea indicatorilor primari prin intermediul Sistemului informatic de raportare către Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78814",
+   "versions": [
+    {
+     "from": "2007-01-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78814",
+     "sha256": "687d537d307c16cc0e5d93ac9ed0eb305e094f6c833da77372f73c694f3e38e0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-10-2007",
+   "path": "norma/bnr/2007/10",
+   "short": "Norma bnr nr. 10/2007",
+   "title": "Norma nr. 10/2007 pentru modificarea Normei Băncii Naționale a României nr. 3/2005 privind funcționarea pieței valutare interbancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83469",
+   "versions": [
+    {
+     "from": "2007-07-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83469",
+     "sha256": "310b749172af97f7c22e582468f76b905c84ae21364710b52026ded704de689c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-11-2007",
+   "path": "norma/bnr/2007/11",
+   "short": "Norma bnr nr. 11/2007",
+   "title": "Norma nr. 11/2007 privind raportarea de date și informații statistice referitoare la plăți, sisteme de plăți și sisteme de decontare a operațiunilor cu instrumente financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84540",
+   "versions": [
+    {
+     "from": "2007-08-16",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84540",
+     "sha256": "4d981d88a3c4be6f4cd6c3926f623ccec3b9a1217142c20e48724a98a6ff1532"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-12-2007",
+   "path": "norma/bnr/2007/12",
+   "short": "Norma bnr nr. 12/2007",
+   "title": "Norma nr. 12/2007 privind raportarea statistică a activelor și pasivelor bilanțiere ale instituțiilor financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85878",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85878",
+     "sha256": "50c10f2ecda601db9a73c1aed741d956a4174fca422b667cf9f410c4508ec9a1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-13-2007",
+   "path": "norma/bnr/2007/13",
+   "short": "Norma bnr nr. 13/2007",
+   "title": "Norma nr. 13/2007 pentru modificarea și completarea Normei Băncii Naționale a României nr. 4/2005 privind efectuarea operațiunilor de schimb valutar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85615",
+   "versions": [
+    {
+     "from": "2007-09-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85615",
+     "sha256": "b4eec4bf72b3784f8e7b236b45343df14cf6155271eb7ccb4d83c3d5a5ae011c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-14-2007",
+   "path": "norma/bnr/2007/14",
+   "short": "Norma bnr nr. 14/2007",
+   "title": "Norma nr. 14/2007 pentru modificarea și completarea Normei nr. 4/1995 privind funcționarea pieței monetare interbancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86724",
+   "versions": [
+    {
+     "from": "2007-11-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86724",
+     "sha256": "03460a8e10a87c5de295aebba9707064d58fe3f8092088aab6cd22dbaa656884"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-15-2007",
+   "path": "norma/bnr/2007/15",
+   "short": "Norma bnr nr. 15/2007",
+   "title": "Norma nr. 15/2007 privind declararea zilei de 31 decembrie 2007 ca zi nebancară și criteriile de desfășurare a compensării multilaterale a plăților pe suport hârtie efectuate cu instrumente de plată de debit în perioada sfârșitului de an 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88025",
+   "versions": [
+    {
+     "from": "2007-12-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88025",
+     "sha256": "c02e7c53bce57e35f13a2d993baf0139bcab9f2b225e0cd5c5dc435fc0fd4961"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-2-2007",
+   "path": "norma/bnr/2007/2",
+   "short": "Norma bnr nr. 2/2007",
+   "title": "Norma nr. 2/2007 pentru modificarea și completarea Normei Băncii Naționale a României nr. 2/2006 privind capitalul minim al instituțiilor financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79575",
+   "versions": [
+    {
+     "from": "2007-02-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79575",
+     "sha256": "a287ad8391f1e858e6a88ef6bd77dbc6d0ab136be8811d322e6342488e650f54"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-3-2007",
+   "path": "norma/bnr/2007/3",
+   "short": "Norma bnr nr. 3/2007",
+   "title": "Norma nr. 3/2007 pentru modificarea și completarea Normei Băncii Naționale a României nr. 3/2006 privind Registrul general, Registrul special și Registrul de evidență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79576",
+   "versions": [
+    {
+     "from": "2007-02-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79576",
+     "sha256": "3e1093c381fbf4967f91d16ad90b05c4ebe78b1c58d56bd6bfe02b1e31a17d88"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-4-2007",
+   "path": "norma/bnr/2007/4",
+   "short": "Norma bnr nr. 4/2007",
+   "title": "Norma nr. 4/2007 pentru modificarea și completarea Normei Băncii Naționale a României nr. 6/2006 privind criteriile pentru înscrierea în Registrul special a instituțiilor financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79591",
+   "versions": [
+    {
+     "from": "2007-02-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79591",
+     "sha256": "fc8da7f2ea903acd85d96ecd01950be0fa7ef5c7c25a740a28eda0ab26d879fd"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-5-2007",
+   "path": "norma/bnr/2007/5",
+   "short": "Norma bnr nr. 5/2007",
+   "title": "Norma nr. 5/2007 privind modificarea și completarea Normelor metodologice nr. 12/2002 pentru aplicarea Regulamentului Băncii Naționale a României nr. 5/2002 privind clasificarea creditelor și plasamentelor, precum și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80410",
+   "versions": [
+    {
+     "from": "2007-06-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80410",
+     "sha256": "881fb2a94300323e1519a3f9e80aac56b278f435d041da701100bf9b56b8f21c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-6-2007",
+   "path": "norma/bnr/2007/6",
+   "short": "Norma bnr nr. 6/2007",
+   "title": "Norma nr. 6/2007 pentru abrogarea Normei Băncii Naționale a României nr. 8/1995 privind nivelul pozițiilor valutare ale sucursalelor din România ale societăților bancare, persoane juridice străine, pentru tranzacțiile valută contra lei efectuate pe piața valutară interbancară, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83011",
+   "versions": [
+    {
+     "from": "2007-06-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83011",
+     "sha256": "f447035e0fffa5cfa4a85c7108c612bec5ac83f1377e2aa02f0ded40688ef494"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-7-2007",
+   "path": "norma/bnr/2007/7",
+   "short": "Norma bnr nr. 7/2007",
+   "title": "Norma nr. 7/2007 pentru abrogarea Normei Băncii Naționale a României nr. 6/2005 privind importul și exportul fizic de instrumente de plată sub formă de numerar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82796",
+   "versions": [
+    {
+     "from": "2007-06-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82796",
+     "sha256": "94c527e88150b95e4be0f2add5d5d7953ec79fda470188c32db522aacfa4ff57"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-8-2007",
+   "path": "norma/bnr/2007/8",
+   "short": "Norma bnr nr. 8/2007",
+   "title": "Norma nr. 8/2007 privind modificarea și completarea Normelor metodologice nr. 12/2002 pentru aplicarea Regulamentului Băncii Naționale a României nr. 5/2002 privind clasificarea creditelor și plasamentelor, precum și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83222",
+   "versions": [
+    {
+     "from": "2007-06-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83222",
+     "sha256": "b715f5f16c1cff14045b03abf2477a38ab4b1a4f32debf99c940069d2e1cd88e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-9-2007",
+   "path": "norma/bnr/2007/9",
+   "short": "Norma bnr nr. 9/2007",
+   "title": "Norma nr. 9/2007 pentru modificarea Normei Băncii Naționale a României nr. 13/2004 privind raportarea tranzacțiilor efectuate pe piața valutară interbancară și a Normei Băncii Naționale a României nr. 15/2006 privind transmiterea indicatorilor primari prin intermediul Sistemului informatic de raportare către Banca Naționala a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83468",
+   "versions": [
+    {
+     "from": "2007-08-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83468",
+     "sha256": "e1e25541be83654ed422374fb327bce5b190134ec1c1a94107d68a4b12fca24b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-1-2007",
+   "path": "norma/csspp/2007/1",
+   "short": "Norma csspp nr. 1/2007",
+   "title": "Norma nr. 1/2007 privind calculul valorii activului net și al valorii unității de fond pentru fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79170",
+   "versions": [
+    {
+     "from": "2007-02-02",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79170",
+     "sha256": "18eede02f687b2388bceec5d853d2eacab9abceb2f4941df0b44bd82833e2ee9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-10-2007",
+   "path": "norma/csspp/2007/10",
+   "short": "Norma csspp nr. 10/2007",
+   "title": "Norma nr. 10/2007 privind calculul actuarial al provizionului tehnic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81341",
+   "versions": [
+    {
+     "from": "2007-04-20",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81341",
+     "sha256": "dcf5eead8351250eb5ca44484a1911e52a02bd7f073d7de79b54a2f91301dea7"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-11-2007",
+   "path": "norma/csspp/2007/11",
+   "short": "Norma csspp nr. 11/2007",
+   "title": "Norma nr. 11/2007 privind auditorul financiar pentru fondurile de pensii administrate privat și administratorii acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81573",
+   "versions": [
+    {
+     "from": "2007-05-02",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81573",
+     "sha256": "e99d62806d1cf2ef2731458fb3aa450b8980274378f95abf1b2371c6ec56adf4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-13-2007",
+   "path": "norma/csspp/2007/13",
+   "short": "Norma csspp nr. 13/2007",
+   "title": "Norma nr. 13/2007 privind autorizarea societății de pensii ca administrator al fondurilor de pensii facultative și al unui fond de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82391",
+   "versions": [
+    {
+     "from": "2007-05-28",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82391",
+     "sha256": "7aa80535720c3d321a3883a07262a19fb7617854b10275af28172e32a817e22f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-14-2007",
+   "path": "norma/csspp/2007/14",
+   "short": "Norma csspp nr. 14/2007",
+   "title": "Norma nr. 14/2007 privind reglementările contabile conforme cu Directiva a IV-a a Comunităților Economice Europene aplicabile entităților autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84220",
+   "versions": [
+    {
+     "from": "2007-07-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84220",
+     "sha256": "a6a5b313792b7ef0ee6b19ebb4ba813c15003c57a2a2fe2844dd15df061a201c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-15-2007",
+   "path": "norma/csspp/2007/15",
+   "short": "Norma csspp nr. 15/2007",
+   "title": "Norma nr. 15/2007 privind obligațiile de raportare și transparență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83743",
+   "versions": [
+    {
+     "from": "2007-07-20",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83743",
+     "sha256": "3bc2790887c2b3fe86726c01a4dafaa7df6b5d82da303141cee8246faa29b440"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-16-2007",
+   "path": "norma/csspp/2007/16",
+   "short": "Norma csspp nr. 16/2007",
+   "title": "Norma nr. 16/2007 pentru modificarea Normei nr. 1/2007 privind calculul valorii activului net și al valorii unității de fond pentru fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83612",
+   "versions": [
+    {
+     "from": "2007-07-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83612",
+     "sha256": "26bee5d4b750e098bb78da6b5e1eda91b9cb5ef95ba22ada56ac81b82439444a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-17-2007",
+   "path": "norma/csspp/2007/17",
+   "short": "Norma csspp nr. 17/2007",
+   "title": "Norma nr. 17/2007 privind calculul valorii activului net și al valorii unității de fond pentru fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83723",
+   "versions": [
+    {
+     "from": "2007-07-20",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83723",
+     "sha256": "5bbb5bdcfe6519bdf2d85a9c8514ee1d78ecd0b945dbac19a46ffe46fa529b4b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-18-2007",
+   "path": "norma/csspp/2007/18",
+   "short": "Norma csspp nr. 18/2007",
+   "title": "Norma nr. 18/2007 (*republicată privind aderarea și evidența participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94022",
+   "versions": [
+    {
+     "from": "2008-06-13",
+     "units": 59,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94022",
+     "sha256": "05c3b7f76af3880fa537feb8be3e247ab7d3a60262e8da81f1c6c6f17bfd327f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-19-2007",
+   "path": "norma/csspp/2007/19",
+   "short": "Norma csspp nr. 19/2007",
+   "title": "Norma nr. 19/2007 pentru modificarea Normei nr. 4/2006 privind proveniența capitalului social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84316",
+   "versions": [
+    {
+     "from": "2007-08-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84316",
+     "sha256": "d3860a154c0e1080ce0286b4c3cb0198b1565be358a3e5b121601b425c5bc3b5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-2-2007",
+   "path": "norma/csspp/2007/2",
+   "short": "Norma csspp nr. 2/2007",
+   "title": "Norma nr. 2/2007 privind autorizarea administratorilor în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80491",
+   "versions": [
+    {
+     "from": "2007-03-22",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80491",
+     "sha256": "ab96e936dbc54aa505b53dd1822b8dd96635c57edc970e9d58aa5cacccc3266b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-20-2007",
+   "path": "norma/csspp/2007/20",
+   "short": "Norma csspp nr. 20/2007",
+   "title": "Norma nr. 20/2007 pentru modificarea Normei nr. 1/2007 privind calculul valorii activului net și al valorii unității de fond pentru fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84318",
+   "versions": [
+    {
+     "from": "2007-08-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84318",
+     "sha256": "f320185766fb79a0b9854ce725ac75099dd8e1e2fd20bcf84e83b0dd6b8c86e2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-21-2007",
+   "path": "norma/csspp/2007/21",
+   "short": "Norma csspp nr. 21/2007",
+   "title": "Norma nr. 21/2007 pentru modificarea Normei nr. 1/2006 privind autorizarea de constituire a societății de pensii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84366",
+   "versions": [
+    {
+     "from": "2007-08-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84366",
+     "sha256": "e36546f09288dc85ed96a8dc45a95fdf5da12b63e71795b235f0c683bf8e4eec"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-22-2007",
+   "path": "norma/csspp/2007/22",
+   "short": "Norma csspp nr. 22/2007",
+   "title": "Norma nr. 22/2007 pentru modificarea Normei nr. 2/2006 privind autorizarea societății de administrare a fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84368",
+   "versions": [
+    {
+     "from": "2007-08-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84368",
+     "sha256": "7fbc37a86886fb5f78bded5762eb1db60a1b581c4f66fe6af8653918695d40ce"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-23-2007",
+   "path": "norma/csspp/2007/23",
+   "short": "Norma csspp nr. 23/2007",
+   "title": "Norma nr. 23/2007 pentru modificarea Normei nr. 3/2007 privind taxele de autorizare, avizare și funcționare în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84222",
+   "versions": [
+    {
+     "from": "2007-08-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84222",
+     "sha256": "191ce26325e03e6014e1df64da4e66deb9478fe25ecd9750228721e14188b69d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-24-2007",
+   "path": "norma/csspp/2007/24",
+   "short": "Norma csspp nr. 24/2007",
+   "title": "Norma nr. 24/2007 privind sistemul de raportare contabilă la 30 iunie 2007 a entităților autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84542",
+   "versions": [
+    {
+     "from": "2007-08-15",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84542",
+     "sha256": "40dcdbacc172f4f53732f6931605d4b91101775b3fd45baa9b121d60192fe336"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-25-2007",
+   "path": "norma/csspp/2007/25",
+   "short": "Norma csspp nr. 25/2007",
+   "title": "Norma nr. 25/2007 privind marketingul fondului de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84574",
+   "versions": [
+    {
+     "from": "2007-08-17",
+     "units": 39,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84574",
+     "sha256": "fafb7b31a7865c7ab2cedc5d460b6b6d3dec11017b9d3599db2d8e436963c4f6"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-26-2007",
+   "path": "norma/csspp/2007/26",
+   "short": "Norma csspp nr. 26/2007",
+   "title": "Norma nr. 26/2007 privind modificarea temporară a procentului maxim care poate fi investit în fiecare categorie de active ale fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84370",
+   "versions": [
+    {
+     "from": "2007-08-13",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84370",
+     "sha256": "d8a9ebb2bf45fad5a49c5fd46d481864bdd6bc152a26a6e3766a02530f6ccb0d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-27-2007",
+   "path": "norma/csspp/2007/27",
+   "short": "Norma csspp nr. 27/2007",
+   "title": "Norma nr. 27/2007 pentru modificarea și completarea Normei nr. 5/2006 privind informațiile conținute în materiale publicitare referitoare la fondurile de pensii facultative și administratorii acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84782",
+   "versions": [
+    {
+     "from": "2007-08-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84782",
+     "sha256": "cd24c3d2216aab2d84d401bc50189c52b7cba2a8287ab0c2eb6dc07d71f2b45e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-28-2007",
+   "path": "norma/csspp/2007/28",
+   "short": "Norma csspp nr. 28/2007",
+   "title": "Norma nr. 28/2007 privind prospectul schemei de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84843",
+   "versions": [
+    {
+     "from": "2007-08-29",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84843",
+     "sha256": "b81999a411229a4aaf3bc7cd18e0ec23c8baea9416a8dee739405540403278c7"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-29-2007",
+   "path": "norma/csspp/2007/29",
+   "short": "Norma csspp nr. 29/2007",
+   "title": "Norma nr. 29/2007 pentru modificarea Normei nr. 25/2007 privind marketingul fondului de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85761",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85761",
+     "sha256": "49503fdd22e8d3187e2fb689a96161567109195f93035b71be336331e0531cb4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-3-2007",
+   "path": "norma/csspp/2007/3",
+   "short": "Norma csspp nr. 3/2007",
+   "title": "Norma nr. 3/2007 privind taxele de autorizare, avizare și funcționare în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80210",
+   "versions": [
+    {
+     "from": "2007-03-14",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80210",
+     "sha256": "126ec8b63498f155ee793ca13cb503f43f4594a6121fec47fbe98e5029586fa6"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-30-2007",
+   "path": "norma/csspp/2007/30",
+   "short": "Norma csspp nr. 30/2007",
+   "title": "Norma nr. 30/2007 pentru modificarea și completarea Normei nr. 3/2007 privind taxele de autorizare, avizare și funcționare în sistemul de pensii administrate privat, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86248",
+   "versions": [
+    {
+     "from": "2007-10-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86248",
+     "sha256": "e07184c4ca2f1d5255a9189c38107ebcb383aab5d239b7f365cab0d5961cf76d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-31-2007",
+   "path": "norma/csspp/2007/31",
+   "short": "Norma csspp nr. 31/2007",
+   "title": "Norma nr. 31/2007 pentru modificarea și completarea Normei nr. 18/2007 privind aderarea inițială și evidența participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86614",
+   "versions": [
+    {
+     "from": "2007-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86614",
+     "sha256": "f632eab6925c31433a023d06c287b64cdb0afab551acf5f87092f881923eaf9d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-4-2007",
+   "path": "norma/csspp/2007/4",
+   "short": "Norma csspp nr. 4/2007",
+   "title": "Norma nr. 4/2007 privind autorizarea fondului de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80328",
+   "versions": [
+    {
+     "from": "2007-03-16",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80328",
+     "sha256": "2474ca6fddb15c92c734985415029c9941769217dfac9ff4e877f7861fb620ca"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-5-2007",
+   "path": "norma/csspp/2007/5",
+   "short": "Norma csspp nr. 5/2007",
+   "title": "Norma nr. 5/2007 privind proveniența capitalului social",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80521",
+   "versions": [
+    {
+     "from": "2007-03-26",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80521",
+     "sha256": "3161a91d7c844416580e49e5007d5fb3c22f37ed4f6f21c79f223a0f2b9f59a2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-8-2007",
+   "path": "norma/csspp/2007/8",
+   "short": "Norma csspp nr. 8/2007",
+   "title": "Norma nr. 8/2007 privind informațiile conținute în materiale publicitare referitoare la fondurile de pensii administrate privat și administratorii acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80853",
+   "versions": [
+    {
+     "from": "2007-04-02",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80853",
+     "sha256": "b584e5aeb6617d570131b90eb0dad17bb27aed7bb7d77668c22a076d38f1d078"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-9-2007",
+   "path": "norma/csspp/2007/9",
+   "short": "Norma csspp nr. 9/2007",
+   "title": "Norma nr. 9/2007 privind marketingul fondului de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81122",
+   "versions": [
+    {
+     "from": "2007-04-13",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81122",
+     "sha256": "c1aae4b490a0b4e9e08a33725021a98fd734ee75333ecf2585f3486739cf3b5f"
+    }
+   ]
+  }
+ ]
+}

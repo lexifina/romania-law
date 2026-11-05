@@ -1,0 +1,60 @@
+{
+"country": "RO",
+"shard": "anspdcp/2018",
+"acts": [
+{
+"slug": "anspdcp-comunicat-sanctiune-2018-2018-12-10",
+"path": "anspdcp/comunicat-sanctiune/2018/2018-12-10",
+"kind": "anspdcp",
+"year": "2018",
+"number": "2018-12-10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Comunicat ANSPDCP din 2018-12-10: Hotărâri definitive de menținere a sancțiunilor aplicate de Autoritatea de supraveghere",
+"short": "Comunicat ANSPDCP din 2018-12-10",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2018-12-10",
+"latest": "2018-12-10",
+"portal": "https://www.dataprotection.ro/?page=Hotarari_definitive_de_mentinere_a_sanctiunilor_aplicate_de_Autoritatea_de_supraveghere&lang=ro"
+},
+{
+"slug": "anspdcp-decizie-2018-99",
+"path": "anspdcp/decizie/2018/99",
+"kind": "anspdcp",
+"year": "2018",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia ANSPDCP nr. 99/2018: ( Formularul de notificare - Notificare prelucrarea datelor cu caracter personal ) - A fost abrogată prin Decizia nr. 99/2018",
+"short": "Decizia ANSPDCP nr. 99/2018",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2018-05-22",
+"latest": "2018-05-22",
+"portal": "https://www.dataprotection.ro/servlet/ViewDocument?id=1497",
+"flags": {
+"repealed_by_note": "Decizia nr. 99/2018"
+}
+},
+{
+"slug": "anspdcp-decizie-2018-174",
+"path": "anspdcp/decizie/2018/174",
+"kind": "anspdcp",
+"year": "2018",
+"number": "174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia ANSPDCP nr. 174/2018: din 18 octombrie 2018 privind lista operațiunilor pentru care este obligatorie realizarea evaluării impactului asupra protecției datelor cu caracter personal",
+"short": "Decizia ANSPDCP nr. 174/2018",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2018-10-31",
+"latest": "2018-10-31",
+"portal": "https://www.dataprotection.ro/servlet/ViewDocument?id=1556"
+}
+]
+}

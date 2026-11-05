@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-6/2020",
+ "acts": [
+  {
+   "slug": "hcls6-166-2020",
+   "path": "local/bucuresti/sector-6/2020/166",
+   "short": "HCLS6 nr. 166/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 166/2020 privind constituirea Comisiei Locale de Ordine Publică Sector 6 - modificata prin HCL S6 nr. 287/12.12.2024",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-constituirea-comisiei-locale-de-ordine-publica-sector-6-0",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-166.pdf",
+     "sha256": "1b260e7a050e5ac54575282d12a81e02187f1e0ce6b0410919b8143920a24218"
+    }
+   ]
+  }
+ ]
+}

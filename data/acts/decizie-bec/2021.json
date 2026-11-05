@@ -1,0 +1,26 @@
+{
+"country": "RO",
+"shard": "decizie-bec/2021",
+"acts": [
+{
+"slug": "decizie-bec-locale-2021-proces-verbal-2021-01-27",
+"path": "decizie-bec/locale-2021/proces-verbal-2021-01-27",
+"kind": "decizie-bec",
+"year": "2021",
+"number": "proces-verbal-2021-01-27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Proces verbal Biroului Electoral Central din 2021-01-27",
+"short": "Proces verbal BEC din 2021-01-27",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/236773",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

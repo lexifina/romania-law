@@ -1,0 +1,381 @@
+{
+ "country": "RO",
+ "shard": "norma/2009",
+ "acts": [
+  {
+   "slug": "norma-bnr-1-2009",
+   "path": "norma/bnr/2009/1",
+   "short": "Norma bnr nr. 1/2009",
+   "title": "Norma nr. 1/2009 privind completarea Normei Băncii Naționale a României nr. 6/2008 pentru modificarea și completarea Normei Băncii Naționale a României nr. 7/1994 privind comerțul făcut de instituțiile de credit cu cecuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101387",
+   "versions": [
+    {
+     "from": "2009-01-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101387",
+     "sha256": "9fd6a53df08486122a8266c85b43a6d01157ad258d1d5446e8cee37ae9550ab2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-10-2009",
+   "path": "norma/bnr/2009/10",
+   "short": "Norma bnr nr. 10/2009",
+   "title": "Norma nr. 10/2009 pentru aplicarea Regulamentului (CE) nr. 25/2009 al Băncii Centrale Europene din 19 decembrie 2008 privind bilanțul sectorului instituții financiare monetare (reformare) (BCE/2008/32)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114409",
+   "versions": [
+    {
+     "from": "2009-12-10",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114409",
+     "sha256": "3d53cdb762e3f8cfd41698d91fe21a933afd1af372937f4e9b0670a5ad1a3c48"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-11-2009",
+   "path": "norma/bnr/2009/11",
+   "short": "Norma bnr nr. 11/2009",
+   "title": "Norma nr. 11/2009 pentru aplicarea Regulamentului (CE) nr. 63/2002 privind statisticile referitoare la ratele dobânzilor practicate de instituțiile financiare monetare pentru depozitele constituite de gospodării și societăți nefinanciare și creditele acordate acestora (BCE/2001/18)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114300",
+   "versions": [
+    {
+     "from": "2009-12-09",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114300",
+     "sha256": "b1c5a8861d8c13cefb1d183f424c6ce5adf33fb600328a8d648b4487ba9a2aba"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-12-2009",
+   "path": "norma/bnr/2009/12",
+   "short": "Norma bnr nr. 12/2009",
+   "title": "Norma nr. 12/2009 pentru modificarea Normei Băncii Naționale a României nr. 26/2006 privind raportarea statistică a datelor pentru elaborarea balanței de plăți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114764",
+   "versions": [
+    {
+     "from": "2009-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114764",
+     "sha256": "cfdac0abe595fbb4f0e8eb1c99774950746aed91c224e996272fafb22b52677e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-3-2009",
+   "path": "norma/bnr/2009/3",
+   "short": "Norma bnr nr. 3/2009",
+   "title": "Norma nr. 3/2009 pentru modificarea Normei tehnice a Băncii Naționale a României nr. 4/2008 privind cecul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102699",
+   "versions": [
+    {
+     "from": "2009-02-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102699",
+     "sha256": "3fb85ca2527bb0172326d5140c785a9077da777c0658359de89a959e7239e878"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-4-2009",
+   "path": "norma/bnr/2009/4",
+   "short": "Norma bnr nr. 4/2009",
+   "title": "Norma nr. 4/2009 pentru modificarea Normei tehnice a Băncii Naționale a României nr. 5/2008 privind cambia și biletul la ordin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102700",
+   "versions": [
+    {
+     "from": "2009-02-25",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102700",
+     "sha256": "62ccd556bcd7102f8afbdeebc36c1cba684d438b230d10aac6232829bb9caae2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-5-2009",
+   "path": "norma/bnr/2009/5",
+   "short": "Norma bnr nr. 5/2009",
+   "title": "Norma nr. 5/2009 pentru modificarea și completarea Normei Băncii Naționale a României nr. 17/2006 privind supravegherea expunerilor instituțiilor financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104480",
+   "versions": [
+    {
+     "from": "2009-04-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104480",
+     "sha256": "0a70e35b2b1caf48386b1487412514b4db202ce9670bee86298612960a2dcd4c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-7-2009",
+   "path": "norma/bnr/2009/7",
+   "short": "Norma bnr nr. 7/2009",
+   "title": "Norma nr. 7/2009 privind modificarea Normelor Băncii Naționale a României nr. 1/2001 privind lichiditatea băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109327",
+   "versions": [
+    {
+     "from": "2009-07-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109327",
+     "sha256": "3252577c4127ea8e16c52e352e447d7930be06c7b7b900ee4e19e005e89a324c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-8-2009",
+   "path": "norma/bnr/2009/8",
+   "short": "Norma bnr nr. 8/2009",
+   "title": "Norma nr. 8/2009 privind modificarea și completarea Normei Băncii Naționale a României nr. 4/2005 privind efectuarea operațiunilor de schimb valutar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110036",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110036",
+     "sha256": "22b647e44818b1b9dba66c9f352998ba23fba3185b4fa9e406fdac71cc0ee651"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-9-2009",
+   "path": "norma/bnr/2009/9",
+   "short": "Norma bnr nr. 9/2009",
+   "title": "Norma nr. 9/2009 pentru modificarea Normei Băncii Naționale a României nr. 15/2006 privind transmiterea indicatorilor primari prin intermediul Sistemului informatic de raportare către Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113210",
+   "versions": [
+    {
+     "from": "2009-11-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113210",
+     "sha256": "8f140e7d91f4e12786eb238a703f1edebc9031466f889b8504b509de5af510e4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-1-2009",
+   "path": "norma/csspp/2009/1",
+   "short": "Norma csspp nr. 1/2009",
+   "title": "Norma nr. 1/2009 pentru modificarea și completarea Normei nr. 14/2007 privind reglementările contabile conforme cu Directiva a IV-a a Comunităților Economice Europene aplicabile entităților autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101665",
+   "versions": [
+    {
+     "from": "2009-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101665",
+     "sha256": "29034b291e062953a1014be370d91c16c9e7df9dc75f72b2d48ed3d3c570822c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-10-2009",
+   "path": "norma/csspp/2009/10",
+   "short": "Norma csspp nr. 10/2009",
+   "title": "Norma nr. 10/2009 privind ratele de rentabilitate ale fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105739",
+   "versions": [
+    {
+     "from": "2009-05-25",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105739",
+     "sha256": "46d89ba05f2b5152a9291b7609131557130da0cdf061e207075ec57d5e8eded0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-12-2009",
+   "path": "norma/csspp/2009/12",
+   "short": "Norma csspp nr. 12/2009",
+   "title": "Norma nr. 12/2009 privind transferul participanților între fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106576",
+   "versions": [
+    {
+     "from": "2009-06-03",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106576",
+     "sha256": "519829df8d5463272b09f2a195e02b709a1ae0dfd777518f82c1421c5113907c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-13-2009",
+   "path": "norma/csspp/2009/13",
+   "short": "Norma csspp nr. 13/2009",
+   "title": "Norma nr. 13/2009 privind sistemul de raportare contabilă la 30 iunie 2009 a entităților autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109644",
+   "versions": [
+    {
+     "from": "2009-07-16",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109644",
+     "sha256": "47e11d530533a569d3062d5649653933a5f7cdb8bb22a727ddc4cd3aaf421845"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-15-2009",
+   "path": "norma/csspp/2009/15",
+   "short": "Norma csspp nr. 15/2009",
+   "title": "Norma nr. 15/2009 privind operațiunile de încasări și plăți efectuate prin conturile fondului de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111790",
+   "versions": [
+    {
+     "from": "2009-10-03",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111790",
+     "sha256": "a592542d54b4a3d5ebf9341f6f12c029c3ed9fe1b10c8b2b04e2a2a57ee84c51"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-16-2009",
+   "path": "norma/csspp/2009/16",
+   "short": "Norma csspp nr. 16/2009",
+   "title": "Norma nr. 16/2009 privind modificarea și completarea Normei nr. 22/2008 pentru modificarea temporară a limitei maxime aplicabile investițiilor fondurilor de pensii administrate privat în titluri de stat, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 38/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112263",
+   "versions": [
+    {
+     "from": "2009-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112263",
+     "sha256": "66a165e1284035fa57f983ad6d09102ddae5f34a1e156b30f78087f24815c0da"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-17-2009",
+   "path": "norma/csspp/2009/17",
+   "short": "Norma csspp nr. 17/2009",
+   "title": "Norma nr. 17/2009 privind modificarea și completarea Normei nr. 23/2008 pentru modificarea temporară a limitei maxime aplicabile investițiilor fondurilor de pensii facultative în titluri de stat, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 39/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112261",
+   "versions": [
+    {
+     "from": "2009-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112261",
+     "sha256": "4064dda7ba4168580ce5520a19bcde9dd3bf5588eaaf8964160d92038dd01a76"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-2-2009",
+   "path": "norma/csspp/2009/2",
+   "short": "Norma csspp nr. 2/2009",
+   "title": "Norma nr. 2/2009 privind întocmirea și depunerea situațiilor financiare anuale de către entitățile autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private pentru exercițiul financiar 2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102184",
+   "versions": [
+    {
+     "from": "2009-02-10",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102184",
+     "sha256": "701face59357d8608c530382374e86c4b32952588c24b94d2e6ced033c00dcee"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-20-2009",
+   "path": "norma/csspp/2009/20",
+   "short": "Norma csspp nr. 20/2009",
+   "title": "Norma nr. 20/2009 pentru completarea Normei nr. 8/2006 privind auditorul financiar pentru fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113283",
+   "versions": [
+    {
+     "from": "2009-11-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113283",
+     "sha256": "61fabb8ff301a64e5b3a455aafbda81367c9c9ad3ee95aca52c6cf5816e62cc9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-21-2009",
+   "path": "norma/csspp/2009/21",
+   "short": "Norma csspp nr. 21/2009",
+   "title": "Norma nr. 21/2009 pentru modificarea și completarea Normei nr. 11/2008 privind colectarea contribuțiilor individuale ale participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114206",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114206",
+     "sha256": "7fec01f34abee8d567d2424349d081c12b456803cbbcb55130434977d634080d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-22-2009",
+   "path": "norma/csspp/2009/22",
+   "short": "Norma csspp nr. 22/2009",
+   "title": "Norma nr. 22/2009 privind aderarea și evidența participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114201",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114201",
+     "sha256": "8b2bcbd949415c366faca53736935b109e5cbc44dec4c5ca1a70bc3805f2eb80"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-4-2009",
+   "path": "norma/csspp/2009/4",
+   "short": "Norma csspp nr. 4/2009",
+   "title": "Norma nr. 4/2009 privind investițiile fondurilor de pensii facultative și organizarea activității de investire",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102318",
+   "versions": [
+    {
+     "from": "2009-05-01",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102318",
+     "sha256": "5f58a791d206f378314f25f0f9c90315ecdc3ed3a3ee739e7c1a97d5bd72b0a1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-7-2009",
+   "path": "norma/csspp/2009/7",
+   "short": "Norma csspp nr. 7/2009",
+   "title": "Norma nr. 7/2009 privind administrarea specială a fondurilor de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104311",
+   "versions": [
+    {
+     "from": "2009-04-06",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104311",
+     "sha256": "1822ad1b50e4d03a05aed85297cfb2c5696850b6a662d40c2774304ee84a4247"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-8-2009",
+   "path": "norma/csspp/2009/8",
+   "short": "Norma csspp nr. 8/2009",
+   "title": "Norma nr. 8/2009 privind administrarea specială a fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104316",
+   "versions": [
+    {
+     "from": "2009-04-06",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104316",
+     "sha256": "da036fe697510f023dadcbf7e29749e72f8b8bc991d85f28dbedeee4fe2b04bc"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-9-2009",
+   "path": "norma/csspp/2009/9",
+   "short": "Norma csspp nr. 9/2009",
+   "title": "Norma nr. 9/2009 privind cunoașterea clientelei în scopul prevenirii spălării banilor și a finanțării actelor de terorism în sistemul de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105326",
+   "versions": [
+    {
+     "from": "2009-05-04",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105326",
+     "sha256": "ef2d34734695abb5ff74035f4cfc53a3fef07382555351c31b08243765d024c7"
+    }
+   ]
+  }
+ ]
+}

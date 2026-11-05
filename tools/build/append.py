@@ -116,11 +116,10 @@ def absent_acts(repo: Path, head: str, listed: set[str], known_paths: dict[str, 
     """Acts main holds that this publish's corpus does not: withdrawn ones (a "Withdraws: <id>" trailer) and ones whose
     part is held back this cycle. Returns (index entries, their versions.json rows, recovered {id: folder})."""
     def versions_at(ref: str) -> dict[str, dict]:
-        out = subprocess.run(['git', 'show', f'{ref}:data/versions.json'], cwd=repo, capture_output=True, text=True,
-                             encoding='utf-8')
+        # data/versions.json and, since 2026-11-05, its shards (listed in data/index.json)
         try:
-            return {a['slug']: a for a in json.loads(out.stdout).get('acts', [])} if not out.returncode else {}
-        except ValueError:
+            return {a['slug']: a for a in B.index_rows(repo, ref, 'versions') or []}
+        except (ValueError, subprocess.CalledProcessError):
             return {}
     rows_for = {s: a for s, a in versions_at(head).items() if s not in listed}
     # Withdrawn: the trailer names the act; the "- <id>: <reason>" lines of the same commit give the reason.
@@ -595,6 +594,9 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
                 pj['paths'].setdefault(s, p)
         pj['paths'] = dict(sorted(pj['paths'].items()))
         docs['data/paths.json'] = json.dumps(pj, ensure_ascii=False, indent=0) + '\n'
+        # data/index.json: primary files plus per-kind-and-year shards (2026-11-05)
+        split_docs(docs, index, repo, c_pub.get('sources', []),
+                   lambda kept: B.reproduce({**c_pub, 'sources': kept}, folder, raw, full_log, all_tags, docs_date))
     # Tools that moved or are no longer shipped (the old flat tools/ layout, tools/acts/) are removed, not left stale.
     shipped_tools = {p for p in git(repo, 'ls-tree', '-r', '--name-only', 'main', 'tools/').splitlines() if p}
     for p in shipped_tools - set(docs):
@@ -624,6 +626,54 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
         raise B.CorpusError('internal: the published head is not an ancestor of the new main')
     summary.update({'main': new_head, 'tags_added': sum(1 for t in tags if t not in existing_tags)})
     return summary
+
+
+def split_docs(docs: dict, index: dict, repo: Path, sources: list, reproduce) -> None:
+    """The indexes split into the primary files and per-kind-and-year shards (build.split_indexes, data/index.json).
+    ACTS.md keeps the primary legislation and links the other kinds' lists, data/acts/<shard>.md; REPRODUCE.md keeps
+    the sources of the primary legislation (and every shared one), the rest go to data/sources/<shard>.csv."""
+    where, kept = B.split_indexes(docs, sources)
+    if len(kept) != len(sources):
+        text = reproduce(kept)
+        text = text.replace('Every word of law in this repository comes from these sources.',
+                            'Every word of law in this repository comes from these sources and, for the acts of the '
+                            'other kinds, from the sources listed beside them in `data/sources/<kind>/<year>.csv` '
+                            '(local acts: `data/sources/local/<council>/<year>.csv`; all in `data/index.json`).', 1)
+        docs['REPRODUCE.md'] = text.replace('is listed in [ACTS.md](ACTS.md)', 'is listed in [ACTS.md](ACTS.md) '
+                                            'and the lists it links', 1)
+    groups: dict = {}
+    for a in index['acts']:  # index order, as ACTS.md had it
+        groups.setdefault(where.get(a['slug']), []).append(a)
+    link = re.compile(r'\]\(([^)#:]+/[^)]*)\)')
+    for s, acts in groups.items():
+        if s is None:
+            continue
+        base = s.rsplit('/', 1)[-1]
+        kind, sub = s.split('/', 1)
+        name = L.KIND_NAMES.get(kind) or L.ORDER_KINDS.get(kind) or kind
+        text = L.acts_md({**index, 'acts': acts}).replace('[data/acts.json](data/acts.json)', f'[{base}.json]({base}.json)')
+        up = '../' * (2 + s.count('/'))  # links in data/acts/<shard>.md are relative to it
+        text = link.sub(lambda m: f'](<{up}{m.group(1)}>)' if ' ' in m.group(1) else f']({up}{m.group(1)})', text)
+        head = f'# {name}: ' + (f'`local/{sub.rsplit("/", 1)[0]}/`, {base}' if kind == 'local' else sub)
+        docs[f'data/acts/{s}.md'] = text.replace('# Every act in this repository', head, 1)
+    md = L.acts_md({**index, 'acts': groups.get(None, [])})
+    md = md.replace('the same list is in [data/acts.json](data/acts.json).',
+                    'the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every '
+                    'other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see '
+                    '[Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.', 1)
+    kinds: dict = {}
+    for s, acts in groups.items():
+        if s is not None:
+            kinds[s.split('/', 1)[0]] = kinds.get(s.split('/', 1)[0], 0) + len(acts)
+    if kinds:
+        order = {k: i for i, k in enumerate(L.KIND_ORDER)}
+        md = md.rstrip('\n') + '\n\n## Other kinds\n\n| Kind | Acts | Lists, by year (local acts: by council and year) |\n' \
+                               '| --- | ---: | --- |\n'
+        md += ''.join(f'| {L.KIND_NAMES.get(k) or L.ORDER_KINDS.get(k) or k} | {n} | [`data/acts/{k}/`](data/acts/{k}/) |\n'
+                      for k, n in sorted(kinds.items(), key=lambda x: (order.get(x[0], 99), x[0])))
+    docs['ACTS.md'] = md
+    existing = set(git(repo, 'ls-tree', '-r', '--name-only', 'main', '--', *B.SHARD_DIRS).splitlines())
+    B.drop_stale_shards(docs, existing)
 
 
 def main():

@@ -1,0 +1,336 @@
+{
+ "country": "RO",
+ "shard": "ordin/1994",
+ "acts": [
+  {
+   "slug": "ordin-bnr-123-1994",
+   "path": "ordin/bnr/1994/123",
+   "short": "Ordin bnr nr. 123/1994",
+   "title": "Ordinul nr. 123/1994 pentru modificarea Ordinului Băncii Naționale a României nr. 257/1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4505",
+   "versions": [
+    {
+     "from": "1994-03-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4505",
+     "sha256": "84fc1f82ddb89ac199bcbd86e0bca0817dddb3144287bbeaba758eb9df126080"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1052-1994",
+   "path": "ordin/finante/1994/1052",
+   "short": "Ordin finante nr. 1052/1994",
+   "title": "Ordinul nr. 1.052/1994 pentru modificarea Regulamentului privind organizarea și funcționarea Gărzii financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5549",
+   "versions": [
+    {
+     "from": "1994-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5549",
+     "sha256": "6075bce2ab3cfa8075b452bceb8d83d0461d0274a596432e99e8357c5088ae28"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1093-1994",
+   "path": "ordin/finante/1994/1093",
+   "short": "Ordin finante nr. 1093/1994",
+   "title": "Ordinul nr. 1.093/1994 privind aprobarea Normelor metodologice pentru aplicarea prevederilor Ordonanței Guvernului nr. 28/1994 privind plata majorărilor de întârziere și a unor sume restante datorate statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5550",
+   "versions": [
+    {
+     "from": "1994-09-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5550",
+     "sha256": "b89c00ce64d2cb0c306d4b59d8d338b175c46534186e6af98c8899103aafc052"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-118-1994",
+   "path": "ordin/finante/1994/118",
+   "short": "Ordin finante nr. 118/1994",
+   "title": "Ordinul nr. 118/1994 pentru aprobarea Normelor metodologice cu privire la modul de aplicare a taxei pe valoarea adăugată aferentă importurilor de mașini și utilaje tehnologice destinate investițiilor productive, precum și materiilor prime și materialelor destinate producției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4485",
+   "versions": [
+    {
+     "from": "1994-03-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4485",
+     "sha256": "a64352be0bb7b7de2811ab5aae8936f82eabc485372349c0ea883061e7055be7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1186-1994",
+   "path": "ordin/finante/1994/1186",
+   "short": "Ordin finante nr. 1186/1994",
+   "title": "Ordinul nr. 1.186/1994 privind aprobarea lansării unei emisiuni de titluri de stat cu discont",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5553",
+   "versions": [
+    {
+     "from": "1994-09-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5553",
+     "sha256": "a7a49d47e9c79592f61318ca15a45318dd38660514c1bc0621dd13a21a74ed35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1284-1994",
+   "path": "ordin/finante/1994/1284",
+   "short": "Ordin finante nr. 1284/1994",
+   "title": "Ordinul nr. 1.284/1994 privind aprobarea lansării unei emisiuni de titluri de stat cu discont",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5557",
+   "versions": [
+    {
+     "from": "1994-10-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5557",
+     "sha256": "b0c6c940825357cfab7d5099f3d063804ae247ef898c27ecc7af8b91e9d21db0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-13-n-1994",
+   "path": "ordin/finante/1994/13-n",
+   "short": "Ordin finante nr. 13/N/1994",
+   "title": "Ordinul nr. 13/N/1994 pentru aprobarea Normelor metodologice privind conținutul-cadru al proiectelor - pe faze de proiectare -, al documentelor de licitație, al ofertelor și al contractelor pentru execuția investițiilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3897",
+   "versions": [
+    {
+     "from": "1994-09-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3897",
+     "sha256": "72bf43cb2237236ee8e2dbac2a95122e0062c3ebb9d749bd6916ccf2d127e0b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1472-1994",
+   "path": "ordin/finante/1994/1472",
+   "short": "Ordin finante nr. 1472/1994",
+   "title": "Ordinul nr. 1.472/1994 pentru modificarea Normelor metodologice nr. 5188/1993 privind așezarea, tehnică de calcul, formularistica, evidenta și vărsarea la bugetul de stat a accizelor la produsele din import și din țara, precum și a impozitului la țițeiul din producția internă și gazele naturale, emise de Ministerul Finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5558",
+   "versions": [
+    {
+     "from": "1994-11-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5558",
+     "sha256": "80e2e2224cc2b13fea75f69cd272acd896a2895d8d2e2252e57164d9f8ccc30a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1587-1994",
+   "path": "ordin/finante/1994/1587",
+   "short": "Ordin finante nr. 1587/1994",
+   "title": "Ordinul nr. 1.587/1994 privind lansarea unei emisiuni de titluri de stat cu discont",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5561",
+   "versions": [
+    {
+     "from": "1994-12-22",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5561",
+     "sha256": "359182bf61f8193224b4a0f153fc82c5eaa47f23a1945a6d6f5fcbbc141c8e14"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1665-1994",
+   "path": "ordin/finante/1994/1665",
+   "short": "Ordin finante nr. 1665/1994",
+   "title": "Ordinul nr. 1.665/1994 privind aprobarea Listei produselor provenite din import scutite de taxa pe valoarea adăugată și a celor supuse taxei pe valoarea adăugată în cota de 9%, pe poziții tarifare corespunzătoare Tarifului vamal de import al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5562",
+   "versions": [
+    {
+     "from": "1995-01-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5562",
+     "sha256": "3333db8f48fa815353dbc40bb4dacea11fd978405e513036914f2e3e9692e0c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1666-1994",
+   "path": "ordin/finante/1994/1666",
+   "short": "Ordin finante nr. 1666/1994",
+   "title": "Ordinul nr. 1.666/1994 pentru aprobarea Normelor metodologice privind corectarea prețurilor de cumpărare a unor mărfuri existente în stoc la 31 decembrie 1994, al căror regim privind taxa pe valoarea adăugată a fost modificat prin Ordonanța Guvernului nr. 33/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5563",
+   "versions": [
+    {
+     "from": "1995-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5563",
+     "sha256": "f234889592c3d8c8a207088f766b67e5a3a62eeae0d83babb4d1b39c837a7291"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-22-1994",
+   "path": "ordin/finante/1994/22",
+   "short": "Ordin finante nr. 22/1994",
+   "title": "Ordinul nr. 22/1994 privind taxele datorate de cetățenii români care se deplasează în străinătate în interes personal sau turistic și în cadrul micului trafic de frontieră, conform Legii nr. 87/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5601",
+   "versions": [
+    {
+     "from": "1994-01-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5601",
+     "sha256": "d710952c864e406268abe7931911d220dd75a985ba774d739e9fbaf7b16f83a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-235-1994",
+   "path": "ordin/finante/1994/235",
+   "short": "Ordin finante nr. 235/1994",
+   "title": "Ordinul nr. 235/1994 pentru completarea Normelor tehnice privind organizarea și desfășurarea activității de jocuri de noroc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4752",
+   "versions": [
+    {
+     "from": "1994-03-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4752",
+     "sha256": "e7cd84cff6feaf3fa79ec64116d60689c208dbee076e3d35aeddfb01677dcf21"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-304-1994",
+   "path": "ordin/finante/1994/304",
+   "short": "Ordin finante nr. 304/1994",
+   "title": "Ordinul nr. 304/1994 privind lansarea emisiunii de titluri de stat seria D1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4868",
+   "versions": [
+    {
+     "from": "1994-03-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4868",
+     "sha256": "26e7c6a7c6c06409fb1abc7430fbd8bd353fcdc611c12e5074e86c1f020a103c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-444-1994",
+   "path": "ordin/finante/1994/444",
+   "short": "Ordin finante nr. 444/1994",
+   "title": "Ordinul nr. 444/1994 pentru modificarea anexei nr. 1 la Legea nr. 42/1993 privind accizele la produsele din import și din țara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5011",
+   "versions": [
+    {
+     "from": "1994-04-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5011",
+     "sha256": "8efb9ac43b09c1d47bfc106e10eb079f012fb96983d2966b728f3c40f48bee72"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-746-1994",
+   "path": "ordin/finante/1994/746",
+   "short": "Ordin finante nr. 746/1994",
+   "title": "Ordinul nr. 746/1994 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 15/1994 privind amortizarea capitalului imobilizat în active corporale și necorporale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5317",
+   "versions": [
+    {
+     "from": "1994-07-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5317",
+     "sha256": "91dca5267f85d2b0f09b55c3ae2bd3c577ba6d8fe6d430ebc2d61cbea08dfccf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-792-1994",
+   "path": "ordin/finante/1994/792",
+   "short": "Ordin finante nr. 792/1994",
+   "title": "Ordinul nr. 792/1994 Anexa la Ordinul comun MF-MLPAT nr. 792/13N din 20 iunie 1994 pentru aprobarea \"Normelor metodologice privind conținutul-cadru al proiectelor - pe faze de proiectare -, al documentelor de licitație, al ofertelor și al contractelor pentru execuția investițiilor publice\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5365",
+   "versions": [
+    {
+     "from": "1994-09-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5365",
+     "sha256": "e4d740e2c4dff19ab5248c34543c1f5dc95d3a97838a51e41ec23039eae5e583"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-817-1994",
+   "path": "ordin/finante/1994/817",
+   "short": "Ordin finante nr. 817/1994",
+   "title": "Ordinul nr. 817/1994 privind aprobarea lansării unei emisiuni de titluri de stat cu discont",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5391",
+   "versions": [
+    {
+     "from": "1994-06-24",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5391",
+     "sha256": "eaecfe03b4070c53d2a952f238554db0faa8d657aa7508945d4cdc7f9baf982a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-886-1994",
+   "path": "ordin/finante/1994/886",
+   "short": "Ordin finante nr. 886/1994",
+   "title": "Ordinul nr. 886/1994 pentru aprobarea Normelor metodologice privind administrarea Fondului special pentru dezvoltarea și modernizarea punctelor de control pentru trecerea frontierei, precum și a celorlalte unități vamale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5455",
+   "versions": [
+    {
+     "from": "1994-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5455",
+     "sha256": "2649a60eefa3ad49ac08d294583e39b11570e4a194010e1739ae8e2fa26323cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-994-1994",
+   "path": "ordin/finante/1994/994",
+   "short": "Ordin finante nr. 994/1994",
+   "title": "Ordinul nr. 994/1994 privind aprobarea Instrucțiunilor pentru aplicarea Legii nr. 32/1994 privind sponsorizarea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5547",
+   "versions": [
+    {
+     "from": "1994-08-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5547",
+     "sha256": "5080354532cbf54adf392486ac7cfc163e214e2d97083e070ba40d112b469524"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-307-1994",
+   "path": "ordin/munca/1994/307",
+   "short": "Ordin munca nr. 307/1994",
+   "title": "Ordinul nr. 307/1994 ORDINUL Nr. 307 din 13 octombrie 1994 pentru aprobarea Instrucțiunilor privind procedura de primire și soluționare a cererilor de plată a ajutorului de șomaj, a ajutorului de integrare profesională și a alocației de sprijin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4872",
+   "versions": [
+    {
+     "from": "1994-11-23",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4872",
+     "sha256": "88260b6489d5af322688ee6937a6d4a2bd403da819dfce49809b0e566d5a4443"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-414-1994",
+   "path": "ordin/sanatate/1994/414",
+   "short": "Ordin sanatate nr. 414/1994",
+   "title": "Ordinul nr. 414/1994 privind titulatura medicilor și farmaciștilor beneficiari ai unor titluri științifice dobândite",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/4979",
+   "versions": [
+    {
+     "from": "1994-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/4979",
+     "sha256": "08f75e4d0da794c626bfb3051c23fdd4223e9656e24021a94e514dd8759ab0a9"
+    }
+   ]
+  }
+ ]
+}

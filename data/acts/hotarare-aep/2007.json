@@ -1,0 +1,23 @@
+{
+"country": "RO",
+"shard": "hotarare-aep/2007",
+"acts": [
+{
+"slug": "hotarare-aep-1-2007",
+"path": "hotarare-aep/2007/1",
+"kind": "hotarare-aep",
+"year": "2007",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 1 din 18 octombrie 2007 privind modelul şi modul de utilizare ale declaraţiei pe propria răspundere date de alegătorii înscrişi în listele electorale suplimentare la alegerea membrilor din România în Parlamentul European",
+"short": "Hotărârea AEP nr. 1/2007",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2007-10-24",
+"latest": "2007-10-24",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/86347"
+}
+]
+}

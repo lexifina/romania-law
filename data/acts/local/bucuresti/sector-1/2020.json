@@ -1,0 +1,205 @@
+{
+"country": "RO",
+"shard": "local/bucuresti/sector-1/2020",
+"acts": [
+{
+"slug": "hcls1-12-2020",
+"path": "local/bucuresti/sector-1/2020/12",
+"kind": "local",
+"year": "2020",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 1 nr. 12/2020 privind aprobarea metodologiei de identificare a persoanelor și familiilor marginalizate social și/sau aflate în risc de marginalizare socială și prevenirea riscului separării copilului de familia sa, precum și modalitățile de intervenție",
+"short": "HCLS1 nr. 12/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-01-28",
+"latest": "2020-01-28",
+"portal": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+"council": "bucuresti/sector-1",
+"council_name": "Consiliul Local al Sectorului 1 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls1-38-2020",
+"path": "local/bucuresti/sector-1/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 1 nr. 38/2020 privind modificarea Anexei nr 1 la Hotărârea Consiliului Local Sector 1 nr. 123/22.04.2019 privind stabilirea, începând cu data de 1 aprilie 2019, a salariilor de bază ale personalului contractual și funcționarilor publici din cadrul familiei ocupaţionale \"Administraţie\" de la nivelul Direcţiei Generale de Impozite şi Taxe Locale a Sectorului 1",
+"short": "HCLS1 nr. 38/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-03-06",
+"latest": "2020-03-06",
+"portal": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+"council": "bucuresti/sector-1",
+"council_name": "Consiliul Local al Sectorului 1 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls1-143-2020",
+"path": "local/bucuresti/sector-1/2020/143",
+"kind": "local",
+"year": "2020",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 1 nr. 143/2020",
+"short": "HCLS1 nr. 143/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+"council": "bucuresti/sector-1",
+"council_name": "Consiliul Local al Sectorului 1 al Municipiului București",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcls1-148-2020",
+"path": "local/bucuresti/sector-1/2020/148",
+"kind": "local",
+"year": "2020",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 1 nr. 148/2020 privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile de la bugetul local al Sectorului 1 al Municipiului București pentru activități culturale nonprofit de interes local",
+"short": "HCLS1 nr. 148/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+"council": "bucuresti/sector-1",
+"council_name": "Consiliul Local al Sectorului 1 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls1-149-2020",
+"path": "local/bucuresti/sector-1/2020/149",
+"kind": "local",
+"year": "2020",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 1 nr. 149/2020 privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile de la bugetul local al Sectorului 1 al Municipiului București pentru activităţi sportive nonprofit de interes local",
+"short": "HCLS1 nr. 149/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+"council": "bucuresti/sector-1",
+"council_name": "Consiliul Local al Sectorului 1 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls1-216-2020",
+"path": "local/bucuresti/sector-1/2020/216",
+"kind": "local",
+"year": "2020",
+"number": "216",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 1 nr. 216/2020 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 12/28.01.2020 privind aprobarea Metodologiei de identificare a persoanelor și familiilor marginalizate social și/sau aflate în risc de marginalizare socială și prevenirea riscului separării copilului de familia sa, precum și modalitățile de intervenție",
+"short": "HCLS1 nr. 216/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+"council": "bucuresti/sector-1",
+"council_name": "Consiliul Local al Sectorului 1 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls1-217-2020",
+"path": "local/bucuresti/sector-1/2020/217",
+"kind": "local",
+"year": "2020",
+"number": "217",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 1 nr. 217/2020 privind aprobarea Procedurii de acordare a unor facilități fiscale",
+"short": "HCLS1 nr. 217/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-13",
+"latest": "2020-08-13",
+"portal": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+"council": "bucuresti/sector-1",
+"council_name": "Consiliul Local al Sectorului 1 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls1-226-2020",
+"path": "local/bucuresti/sector-1/2020/226",
+"kind": "local",
+"year": "2020",
+"number": "226",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 1 nr. 226/2020 privind aprobarea Metodologiei de aplicare a Legii nr.35/2020 privind acordarea unui ajutor financiar familiilor pentru plata serviciilor oferite de bonă familiilor cu domiciliul sau reședința pe raza Sectorului 1 al Municipiului București",
+"short": "HCLS1 nr. 226/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-08-27",
+"latest": "2020-08-27",
+"portal": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+"council": "bucuresti/sector-1",
+"council_name": "Consiliul Local al Sectorului 1 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls1-262-2020",
+"path": "local/bucuresti/sector-1/2020/262",
+"kind": "local",
+"year": "2020",
+"number": "262",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 1 nr. 262/2020 privind probarea Regulamentului Intern al aparatului de specialitate al Primarului Sectorului 1 și al Direcției Publice de Evidență a Persoanelor și Stare Civilă Sector 1, fără personalitate juridică, din subordinea Consiliului Local al Sectorului 1",
+"short": "HCLS1 nr. 262/2020",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2020-09-17",
+"latest": "2020-09-17",
+"portal": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+"council": "bucuresti/sector-1",
+"council_name": "Consiliul Local al Sectorului 1 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

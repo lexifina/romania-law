@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "anspdcp/2008",
+ "acts": [
+  {
+   "slug": "anspdcp-decizie-2008-90",
+   "path": "anspdcp/decizie/2008/90",
+   "short": "Decizia ANSPDCP nr. 90/2008",
+   "title": "Decizia ANSPDCP nr. 90/2008: privind recunoașterea unui nivel de protecție adecvat a datelor cu caracter personal în Jersey - A fost abrogată prin Decizia nr. 99/2018",
+   "url": "https://www.dataprotection.ro/servlet/ViewDocument?id=429",
+   "versions": [
+    {
+     "from": "2008-05-28",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/servlet/ViewDocument?id=429",
+     "sha256": "389d5d66eb27e7cf0a0fe0c9316a48f7486f7e57e33e52c2dfe89bbda69d3092"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-decizie-2008-95",
+   "path": "anspdcp/decizie/2008/95",
+   "short": "Decizia ANSPDCP nr. 95/2008",
+   "title": "Decizia ANSPDCP nr. 95/2008: privind stabilirea formularului tipizat al notificărilor prevăzute de Legea nr. 677/2001 pentru protecția persoanelor cu privire la prelucrarea datelor cu caracter personal și libera circulație a acestor date",
+   "url": "https://www.dataprotection.ro/servlet/ViewDocument?id=461",
+   "versions": [
+    {
+     "from": "2008-12-11",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/servlet/ViewDocument?id=461",
+     "sha256": "6285a59d20a1bfbd1d717572732f2e53a9b30050c2b5ee6d7013a71d104af4d4"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+"country": "RO",
+"shard": "anspdcp/2007",
+"acts": [
+{
+"slug": "anspdcp-decizie-2007-28",
+"path": "anspdcp/decizie/2007/28",
+"kind": "anspdcp",
+"year": "2007",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia ANSPDCP nr. 28/2007: privind transferurile datelor cu caracter personal către alte state - A fost abrogată prin Decizia 200/2015",
+"short": "Decizia ANSPDCP nr. 28/2007",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2007-03-07",
+"latest": "2007-03-07",
+"portal": "https://www.dataprotection.ro/servlet/ViewDocument?id=224",
+"flags": {
+"repealed_by_note": "Decizia 200/2015"
+}
+},
+{
+"slug": "anspdcp-decizie-2007-100",
+"path": "anspdcp/decizie/2007/100",
+"kind": "anspdcp",
+"year": "2007",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia ANSPDCP nr. 100/2007: privind stabilirea cazurilor în care nu este necesară notificarea prelucrării unor date cu caracter personal - A fost abrogată prin Decizia 200/2015",
+"short": "Decizia ANSPDCP nr. 100/2007",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2007-11-23",
+"latest": "2007-11-23",
+"portal": "https://www.dataprotection.ro/servlet/ViewDocument?id=204",
+"flags": {
+"repealed_by_note": "Decizia 200/2015"
+}
+},
+{
+"slug": "anspdcp-decizie-2007-105",
+"path": "anspdcp/decizie/2007/105",
+"kind": "anspdcp",
+"year": "2007",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia ANSPDCP nr. 105/2007: cu privire la prelucrările de date cu caracter personal efectuate în sisteme de evidență de tipul birourilor de credit - A fost abrogată prin Decizia nr. 99/2018",
+"short": "Decizia ANSPDCP nr. 105/2007",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2007-12-15",
+"latest": "2007-12-15",
+"portal": "https://www.dataprotection.ro/servlet/ViewDocument?id=205",
+"flags": {
+"repealed_by_note": "Decizia nr. 99/2018"
+}
+}
+]
+}

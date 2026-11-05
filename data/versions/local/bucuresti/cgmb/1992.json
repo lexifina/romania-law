@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/cgmb/1992",
+ "acts": [
+  {
+   "slug": "hcgmb-12-1992",
+   "path": "local/bucuresti/cgmb/1992/12",
+   "short": "HCGMB nr. 12/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 12/1992 privind modificarea tarifelor de calatorie, pe baza de abonamente, la transportul in comun de persoane in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/82",
+   "versions": [
+    {
+     "from": "1992-05-12",
+     "units": 9,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/82/h012_92.pdf",
+     "sha256": "33a1c7587029e7efbab26f21f433d48f6724fea2b307609f1292dd93625eb09d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-18-1992",
+   "path": "local/bucuresti/cgmb/1992/18",
+   "short": "HCGMB nr. 18/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 18/1992 privind autorizarea circulatiei autovehiculelor destinate transportului de bunuri in zona interzisa circulatiei acestora din municipiul Bucuresti, stabilirea taxelor pentru eliberarea autorizatiei de transport si sanctiunile pentru incalcarea normelor de autorizare",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/106",
+   "versions": [
+    {
+     "from": "1992-06-04",
+     "units": 7,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/106/h018_92.pdf",
+     "sha256": "88c420ef6084abc29839355ff100489f175f098ccc59b7581afc1791c61a9fc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-24-1992",
+   "path": "local/bucuresti/cgmb/1992/24",
+   "short": "HCGMB nr. 24/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 24/1992 cu privire la blocarea, ridicarea, transportul, depozitarea si eliberarea autovehiculelor sau remorcilor stationate neregulamentar pe drumurile publice",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/130",
+   "versions": [
+    {
+     "from": "1992-06-25",
+     "units": 12,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/130/h024_92.pdf",
+     "sha256": "644a79e19c8d2ed5bf8830820574a229af43b97f56e8b2281dc7dff5a14f512e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-25-1992",
+   "path": "local/bucuresti/cgmb/1992/25",
+   "short": "HCGMB nr. 25/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 25/1992 : 25 DIN 25/06/92 - privind elaborarea Regulamentelor de functionare a Consiliilor locale ale sectoarelor municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/134",
+   "versions": [
+    {
+     "from": "1992-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/134/h025_92.pdf",
+     "sha256": "4476eec63ee52713f1d76216c05715351d53da96263a7693145e7a37b8f316c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-29-1992",
+   "path": "local/bucuresti/cgmb/1992/29",
+   "short": "HCGMB nr. 29/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 29/1992 : 29 DIN 25/06/92 - privind sanctionarea cu \"avertisment\" a unor consilieri",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/149",
+   "versions": [
+    {
+     "from": "1992-06-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/149/h029_92.pdf",
+     "sha256": "8e582175fb0966a93d2576b850f5969695332dfdc7beb5d47f65137980995c14"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-58-1992",
+   "path": "local/bucuresti/cgmb/1992/58",
+   "short": "HCGMB nr. 58/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 58/1992 privind modificarea tarifelor de calatorie la transportul in comun de persoane in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/263",
+   "versions": [
+    {
+     "from": "1992-11-05",
+     "units": 7,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/263/h058_92.pdf",
+     "sha256": "71a9ebae610432676d978e7454ec3abf94ccba5a95de635fbcfaae8662cba3a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-68-1992",
+   "path": "local/bucuresti/cgmb/1992/68",
+   "short": "HCGMB nr. 68/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 68/1992 privind majorarea unor taxe si impozite locale Avind in vedere prevederile Ordonantei nr.15/1992 emisa de Guvernul Roma- niei, cu privire la impozitele si taxele locale; Constatind ca rata inflatiei determina cresteri importante la toate capi- tolele bugetului local, impunindu-se cu necesitate majorarea unor impozite si taxe locale pentru asigurarea fondurilor necesare derularii activitatii vitale a Capitalei;",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/301",
+   "versions": [
+    {
+     "from": "1992-11-27",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/301/h068_92.pdf",
+     "sha256": "f3a9828b95e00cfd3142c3138760064f487f052025da222d08590fc11b85b698"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-74-1992",
+   "path": "local/bucuresti/cgmb/1992/74",
+   "short": "HCGMB nr. 74/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 74/1992 privind avizarea tarifelor pentru serviciile prestate de Regia autonoma de distributie a energiei termice Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/318",
+   "versions": [
+    {
+     "from": "1992-12-16",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/318/h074_92.pdf",
+     "sha256": "a1c439581fc35fa5e5fda036d5e19ae64c32dd420d74aeaef000dd087290fa85"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-75-1992",
+   "path": "local/bucuresti/cgmb/1992/75",
+   "short": "HCGMB nr. 75/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 75/1992 privind avizarea tarifelor pentru serviciile prestate de Regia autonoma de distributie a enenrgiei termice - Exploatarea de gospodarie comunala in orasul Buftea si comunele Sectorului Agricol Ilfov",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/320",
+   "versions": [
+    {
+     "from": "1992-12-16",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/320/h075_92.pdf",
+     "sha256": "3580f1231c54544cfc94c1e1535045b0aecacd09ad3cad3a57bc8b81e333a09a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-76-1992",
+   "path": "local/bucuresti/cgmb/1992/76",
+   "short": "HCGMB nr. 76/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 76/1992 privind avizarea tarifelor pentru distributia apei potabile, apei industriale si serviciilor prestate de Regia generala de apa Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/323",
+   "versions": [
+    {
+     "from": "1992-12-16",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/323/h076_92.pdf",
+     "sha256": "38f30e3fa530cc9acd4ae9bd5658aa2a45ddda23a3a1ed2f33742ada0f7d77b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-8-1992",
+   "path": "local/bucuresti/cgmb/1992/8",
+   "short": "HCGMB nr. 8/1992",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 8/1992 : 8 DIN 02/04/92 - privind aprobarea Regulamentului de functionare al Consiliului local al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/62",
+   "versions": [
+    {
+     "from": "1992-04-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1992/62/h08_92.pdf",
+     "sha256": "3ef55495ab63b46620e47084b2d03c1858dac03821c0f5dfa05d5d62606e3a12"
+    }
+   ]
+  }
+ ]
+}

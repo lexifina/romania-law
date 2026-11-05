@@ -1,0 +1,501 @@
+{
+ "country": "RO",
+ "shard": "regulament/2009",
+ "acts": [
+  {
+   "slug": "regulament-bnr-1-2009",
+   "path": "regulament/bnr/2009/1",
+   "short": "Regulament bnr nr. 1/2009",
+   "title": "Regulamentul nr. 1/2009 pentru modificarea Regulamentului nr. 11/2007 privind autorizarea instituțiilor de credit, persoane juridice române, și a sucursalelor din România ale instituțiilor de credit din state terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101354",
+   "versions": [
+    {
+     "from": "2009-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101354",
+     "sha256": "490c8370026216d72933525b6ed47df87d42e5b669a611c93908338ae53e5e25"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-10-2009",
+   "path": "regulament/bnr/2009/10",
+   "short": "Regulament bnr nr. 10/2009",
+   "title": "Regulamentul nr. 10/2009 privind raportarea tranzacțiilor efectuate prin conturile de corespondent și abrogarea unor acte normative care impun restricții în utilizarea acestor conturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109098",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109098",
+     "sha256": "120bd833f8266d434572e42e15eaa8ac8834cece46216dfe99c5dd5ec4e67b1f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-11-2009",
+   "path": "regulament/bnr/2009/11",
+   "short": "Regulament bnr nr. 11/2009",
+   "title": "Regulamentul nr. 11/2009 pentru modificarea Regulamentului nr. 3/2007 privind limitarea riscului de credit la creditele destinate persoanelor fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109175",
+   "versions": [
+    {
+     "from": "2009-07-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109175",
+     "sha256": "bcc100bff0ad22c555c7ebde2614e6278968f42e50c6efbeded4567551e87fbe"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-13-2009",
+   "path": "regulament/bnr/2009/13",
+   "short": "Regulament bnr nr. 13/2009",
+   "title": "Regulamentul nr. 13/2009 pentru modificarea Regulamentului Băncii Naționale a României nr. 3/2009 privind clasificarea creditelor și plasamentelor, precum și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110107",
+   "versions": [
+    {
+     "from": "2009-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110107",
+     "sha256": "886539cd43d66175389ac969cf24ca4022743285648992b7200f97bf299d86d8"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-14-2009",
+   "path": "regulament/bnr/2009/14",
+   "short": "Regulament bnr nr. 14/2009",
+   "title": "Regulamentul nr. 14/2009 privind modificarea Normei metodologice nr. 12/2002 pentru aplicarea Regulamentului Băncii Naționale a României nr. 5/2002 privind clasificarea creditelor și plasamentelor, precum și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110108",
+   "versions": [
+    {
+     "from": "2009-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110108",
+     "sha256": "140b16b9f91356131dd73407946020d1e6848c19e78b18b925d299fa64c302ac"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-15-2009",
+   "path": "regulament/bnr/2009/15",
+   "short": "Regulament bnr nr. 15/2009",
+   "title": "Regulamentul nr. 15/2009 pentru modificarea Regulamentului nr. 11/2007 privind autorizarea instituțiilor de credit, persoane juridice române, și a sucursalelor din România ale instituțiilor de credit din state terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110562",
+   "versions": [
+    {
+     "from": "2009-08-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110562",
+     "sha256": "37f61ab4abee8a26ac2ccb2bf5eb8cdc286a650c47e9895cb13a1a91196fcd46"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-16-2009",
+   "path": "regulament/bnr/2009/16",
+   "short": "Regulament bnr nr. 16/2009",
+   "title": "Regulamentul nr. 16/2009 pentru modificarea Regulamentului Băncii Naționale a României nr. 9/2008 privind cunoașterea clientelei în scopul prevenirii spălării banilor și finanțării terorismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111308",
+   "versions": [
+    {
+     "from": "2009-09-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111308",
+     "sha256": "d899e9c09db76acbb93783580eb01186ca083474e41df6f1613d738c76bcf679"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-17-2009",
+   "path": "regulament/bnr/2009/17",
+   "short": "Regulament bnr nr. 17/2009",
+   "title": "Regulamentul nr. 17/2009 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 11/2007 privind autorizarea instituțiilor de credit, persoane juridice române, și a sucursalelor din România ale instituțiilor de credit din state terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111309",
+   "versions": [
+    {
+     "from": "2009-09-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111309",
+     "sha256": "5909e58eec48f2478c86380cdbfa181c33329aa8d9180b0044818cc69610cb9d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-18-2009",
+   "path": "regulament/bnr/2009/18",
+   "short": "Regulament bnr nr. 18/2009",
+   "title": "Regulamentul nr. 18/2009 privind cadrul de administrare a activității instituțiilor de credit, procesul intern de evaluare a adecvării capitalului la riscuri și condițiile de externalizare a activităților acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111369",
+   "versions": [
+    {
+     "from": "2009-09-23",
+     "units": 230,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111369",
+     "sha256": "153e2ed5ef7c36c5a79bab642ffa955d40b225026873f93d04c995211c059a69"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-19-2009",
+   "path": "regulament/bnr/2009/19",
+   "short": "Regulament bnr nr. 19/2009",
+   "title": "Regulamentul nr. 19/2009 pentru modificarea Regulamentului Băncii Naționale a României nr. 1/2001 privind organizarea și funcționarea la Banca Națională a României a Centralei Incidentelor de Plăți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111885",
+   "versions": [
+    {
+     "from": "2009-10-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111885",
+     "sha256": "4c608ab3a367964d2ae8083854f907da09d74b369313554b33d3f91e0463336c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-2-2009",
+   "path": "regulament/bnr/2009/2",
+   "short": "Regulament bnr nr. 2/2009",
+   "title": "Regulamentul nr. 2/2009 pentru modificarea Regulamentului Băncii Naționale a României nr. 3/2007 privind limitarea riscului de credit la creditele destinate persoanelor fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101540",
+   "versions": [
+    {
+     "from": "2009-01-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101540",
+     "sha256": "f9e820182d684a5615b86bfe27963155128ed601a4182f80a2dff8d2a93bf4d8"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-20-2009",
+   "path": "regulament/bnr/2009/20",
+   "short": "Regulament bnr nr. 20/2009",
+   "title": "Regulamentul nr. 20/2009 privind instituțiile financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112508",
+   "versions": [
+    {
+     "from": "2009-10-21",
+     "units": 132,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112508",
+     "sha256": "0e94834d7902550656f3c808e648b7714d7e9d6fabcc0e81bfc95cfaf3b85a44"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-21-2009",
+   "path": "regulament/bnr/2009/21",
+   "short": "Regulament bnr nr. 21/2009",
+   "title": "Regulamentul nr. 21/2009 privind instituțiile de plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112829",
+   "versions": [
+    {
+     "from": "2009-11-01",
+     "units": 101,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112829",
+     "sha256": "dc429934937c4b7f1f4c77b18af3cb7a57cab89f10aba80535cb69f521e5bfa1"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-24-2009",
+   "path": "regulament/bnr/2009/24",
+   "short": "Regulament bnr nr. 24/2009",
+   "title": "Regulamentul nr. 24/2009 privind lichiditatea instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114686",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114686",
+     "sha256": "b3e931f74f15435449041c5231c9e5c2669205e79a68037e414fedbd99367966"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-25-2009",
+   "path": "regulament/bnr/2009/25",
+   "short": "Regulament bnr nr. 25/2009",
+   "title": "Regulamentul nr. 25/2009 privind utilizarea abordării avansate de evaluare și aprobarea utilizării acestei abordări de către instituțiile de credit, pentru riscul operațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114863",
+   "versions": [
+    {
+     "from": "2009-12-24",
+     "units": 83,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114863",
+     "sha256": "62012a923b3fee7d51c64d8f1e3adf2d4463944a71b754420390d98a3ca1bfe3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-26-2009",
+   "path": "regulament/bnr/2009/26",
+   "short": "Regulament bnr nr. 26/2009",
+   "title": "Regulamentul nr. 26/2009 privind implementarea, validarea și evaluarea abordărilor bazate pe modele interne de rating pentru instituțiile de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114892",
+   "versions": [
+    {
+     "from": "2009-12-24",
+     "units": 206,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114892",
+     "sha256": "b82d1448716259a6917ab7fbae32f038df9b40cd17adf6826c2c7b1efefd8cf3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-27-2009",
+   "path": "regulament/bnr/2009/27",
+   "short": "Regulament bnr nr. 27/2009",
+   "title": "Regulamentul nr. 27/2009 pentru modificarea Regulamentului nr. 9/2008 privind cunoașterea clientelei în scopul prevenirii spălării banilor și finanțării terorismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114725",
+   "versions": [
+    {
+     "from": "2009-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114725",
+     "sha256": "da1ba253a409037df395ebd295ee848d0c1738e7524795fbc0b0695bc6435cc4"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-28-2009",
+   "path": "regulament/bnr/2009/28",
+   "short": "Regulament bnr nr. 28/2009",
+   "title": "Regulamentul nr. 28/2009 privind supravegherea modului de punere în aplicare a sancțiunilor internaționale de blocare a fondurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114688",
+   "versions": [
+    {
+     "from": "2009-12-18",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114688",
+     "sha256": "459decde216fc5c219a0ccd36f3b9a924791d4a183d45bb6ffba4ec9e46d7436"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-29-2009",
+   "path": "regulament/bnr/2009/29",
+   "short": "Regulament bnr nr. 29/2009",
+   "title": "Regulamentul nr. 29/2009 pentru completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 13/18/2006 privind determinarea cerințelor minime de capital pentru instituțiile de credit și firmele de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114911",
+   "versions": [
+    {
+     "from": "2009-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114911",
+     "sha256": "273b0542f1ed66b9b5cb024af5a89af7b78f6e2afb79a75ec8ae24a72f9ca75c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-3-2009",
+   "path": "regulament/bnr/2009/3",
+   "short": "Regulament bnr nr. 3/2009",
+   "title": "Regulamentul nr. 3/2009 privind clasificarea creditelor și plasamentelor, precum și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103999",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103999",
+     "sha256": "d150483819fc53be3c68ec131a434251494ce9cc986202a80fd907c36b6bcd01"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-4-2009",
+   "path": "regulament/bnr/2009/4",
+   "short": "Regulament bnr nr. 4/2009",
+   "title": "Regulamentul nr. 4/2009 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 11/2007 privind autorizarea instituțiilor de credit, persoane juridice române, și a sucursalelor din România ale instituțiilor de credit din state terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103702",
+   "versions": [
+    {
+     "from": "2009-03-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103702",
+     "sha256": "4a1b340e35a96b1cd6cc34636223d30afed2ae04bf773cb17ac7dcad75e939f6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-5-2009",
+   "path": "regulament/bnr/2009/5",
+   "short": "Regulament bnr nr. 5/2009",
+   "title": "Regulamentul nr. 5/2009 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 6/2008 privind modificările în situația instituțiilor de credit, persoane juridice române, și a sucursalelor din România ale instituțiilor de credit din state terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103700",
+   "versions": [
+    {
+     "from": "2009-03-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103700",
+     "sha256": "a25e8351bd964354a13194bab4c5a4f8dca11669a7d36006f516e96f81852db5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-6-2009",
+   "path": "regulament/bnr/2009/6",
+   "short": "Regulament bnr nr. 6/2009",
+   "title": "Regulamentul nr. 6/2009 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 18/23/2006 privind fondurile proprii ale instituțiilor de credit și ale firmelor de investiții, aprobat prin Ordinul Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 15/112/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105760",
+   "versions": [
+    {
+     "from": "2009-05-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105760",
+     "sha256": "23dcf37c28406db7a8775fe971d269b9e112915965a024a269ab464af9f10f24"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-7-2009",
+   "path": "regulament/bnr/2009/7",
+   "short": "Regulament bnr nr. 7/2009",
+   "title": "Regulamentul nr. 7/2009 pentru modificarea Regulamentului Băncii Naționale a României nr. 3/2009 privind clasificarea creditelor și plasamentelor, precum și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105233",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105233",
+     "sha256": "3c486ec4d49a0b19f4bd98b0ae14a00d571ad2b24e6da98cd1d5011be83c17ae"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-8-2009",
+   "path": "regulament/bnr/2009/8",
+   "short": "Regulament bnr nr. 8/2009",
+   "title": "Regulamentul nr. 8/2009 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 4/2004 privind organizarea și funcționarea la Banca Națională a României a Centralei Riscurilor Bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106096",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106096",
+     "sha256": "a45fa61458da09b491ebf5539f7b242fe4592e013f99cb40af0d62d2f8bd5304"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-9-2009",
+   "path": "regulament/bnr/2009/9",
+   "short": "Regulament bnr nr. 9/2009",
+   "title": "Regulamentul nr. 9/2009 pentru abrogarea unor acte normative emise de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106097",
+   "versions": [
+    {
+     "from": "2009-05-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106097",
+     "sha256": "db2606bfc152c449f4ae95c6dcd78ae1ce2a887cdebd1537f2f0d8e8ec8441ce"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-10-2009",
+   "path": "regulament/cnvm/2009/10",
+   "short": "Regulament cnvm nr. 10/2009",
+   "title": "Regulamentul nr. 10/2009 pentru completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 13/18/2006 privind determinarea cerințelor minime de capital pentru instituțiile de credit și firmele de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114953",
+   "versions": [
+    {
+     "from": "2009-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114953",
+     "sha256": "bdde8821bd5a83609f79cbdfe76b23f50e4e2d6cb2cc76f66ed8d140d3228a74"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-2-2009",
+   "path": "regulament/cnvm/2009/2",
+   "short": "Regulament cnvm nr. 2/2009",
+   "title": "Regulamentul nr. 2/2009 privind regulile de procedură și criteriile aplicabile evaluării prudențiale a achizițiilor și majorărilor participațiilor la o societate de servicii de investiții financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103751",
+   "versions": [
+    {
+     "from": "2009-03-24",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103751",
+     "sha256": "bc3b9a55e10915666943e81d86795874b72d5234da20b941873332b7667947e3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-3-2009",
+   "path": "regulament/cnvm/2009/3",
+   "short": "Regulament cnvm nr. 3/2009",
+   "title": "Regulamentul nr. 3/2009 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 18/23/2006 privind fondurile proprii ale instituțiilor de credit și ale firmelor de investiții, aprobat prin Ordinul Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 15/112/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105794",
+   "versions": [
+    {
+     "from": "2009-05-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105794",
+     "sha256": "a1e72de0e5ed7664d9bb4f6e006facd5d7c2fc2f5e158ab9f7e6664cd59491fb"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-4-2009",
+   "path": "regulament/cnvm/2009/4",
+   "short": "Regulament cnvm nr. 4/2009",
+   "title": "Regulamentul nr. 4/2009 REGULAMENT nr. 4/2009 privind Registrul public al Comisiei Naționale a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106101",
+   "versions": [
+    {
+     "from": "2009-05-22",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106101",
+     "sha256": "8e2b89c430883859bb001dab326d1a1812aa03d067f99947386d09a0c6eaea39"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-7-2009",
+   "path": "regulament/cnvm/2009/7",
+   "short": "Regulament cnvm nr. 7/2009",
+   "title": "Regulamentul nr. 7/2009 pentru modificarea Regulamentului nr. 7/2006 privind veniturile Comisiei Naționale a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112870",
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112870",
+     "sha256": "21747c1e21ee01b8eb68b59f7547d0a8d060b100e07c1eedee9a802d3a59970b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-8-2009",
+   "path": "regulament/cnvm/2009/8",
+   "short": "Regulament cnvm nr. 8/2009",
+   "title": "Regulamentul nr. 8/2009 pentru modificarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 17/22/2006 privind supravegherea pe bază consolidată a instituțiilor de credit și a firmelor de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114949",
+   "versions": [
+    {
+     "from": "2009-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114949",
+     "sha256": "29ea7078fc8f000fa4e971446f8f4c7210fbd1351b375fb5e0bf025c6729e100"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-9-2009",
+   "path": "regulament/cnvm/2009/9",
+   "short": "Regulament cnvm nr. 9/2009",
+   "title": "Regulamentul nr. 9/2009 privind supravegherea punerii în aplicare a sancțiunilor internaționale pe piața de capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114895",
+   "versions": [
+    {
+     "from": "2009-12-28",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114895",
+     "sha256": "d7ca2b3edb2816b572ec12c4bcf761c56b361076aacb89fa354e74f68ae23428"
+    }
+   ]
+  }
+ ]
+}

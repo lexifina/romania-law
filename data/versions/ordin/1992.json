@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "ordin/1992",
+ "acts": [
+  {
+   "slug": "ordin-bnr-216-1992",
+   "path": "ordin/bnr/1992/216",
+   "short": "Ordin bnr nr. 216/1992",
+   "title": "Ordinul nr. 216/1992 privind evaluarea pagubelor pentru metalele prețioase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2523",
+   "versions": [
+    {
+     "from": "1992-07-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2523",
+     "sha256": "22b90292c6ba550b98284de914d0a20bf41c2b95117362c4e7d7c5268b921cc0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-257-1992",
+   "path": "ordin/bnr/1992/257",
+   "short": "Ordin bnr nr. 257/1992",
+   "title": "Ordinul nr. 257/1992 privind introducerea reglementărilor necesare în domeniul regimului valutar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2573",
+   "versions": [
+    {
+     "from": "1992-06-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2573",
+     "sha256": "fa240dce7c21e233ab562301c8385620cb6cbc2b9a2d1749c066a02392d0d353"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-334-1992",
+   "path": "ordin/bnr/1992/334",
+   "short": "Ordin bnr nr. 334/1992",
+   "title": "Ordinul nr. 334/1992 privind efectuarea operațiunilor de schimb valutar pentru persoanele fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2634",
+   "versions": [
+    {
+     "from": "1992-07-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2634",
+     "sha256": "17df2fbfb37c2b1bf373e522ebd29529739fb0019c0a418eedccd31357678d84"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-565-1992",
+   "path": "ordin/bnr/1992/565",
+   "short": "Ordin bnr nr. 565/1992",
+   "title": "Ordinul nr. 565/1992 privind componența Comisiei de licitații valutare, însărcinată cu organizarea și desfășurarea ședințelor de licitații valutare în Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2771",
+   "versions": [
+    {
+     "from": "1992-12-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2771",
+     "sha256": "68dce848b6b1147b68dc1b2109f6707773cd5da67a804f353e91c5aeb2eb8f3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1309-1992",
+   "path": "ordin/finante/1992/1309",
+   "short": "Ordin finante nr. 1309/1992",
+   "title": "Ordinul nr. 1.309/1992 pentru aprobarea Regulamentului - cadru privind organizarea și funcționarea Agenției Naționale pentru Titluri de Valoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2938",
+   "versions": [
+    {
+     "from": "1992-11-28",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2938",
+     "sha256": "8ada807f3ec5df83d7c5cc385ac589add3070ed5491600e34c5660d87fc7fee6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-3-1992",
+   "path": "ordin/finante/1992/3",
+   "short": "Ordin finante nr. 3/1992",
+   "title": "Ordinul nr. 3/1992 privind formularul \"Declarație pentru valoarea în vamă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2087",
+   "versions": [
+    {
+     "from": "1992-02-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2087",
+     "sha256": "02350487a33097ac244b15e63183c9a395dc4b3c3fb3db0f4bebf7e8e361b6b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-954-1992",
+   "path": "ordin/sanatate/1992/954",
+   "short": "Ordin sanatate nr. 954/1992",
+   "title": "Ordinul nr. 954/1992 privind comunicarea, cercetarea, înregistrarea, raportarea și evidența accidentelor de muncă și a bolilor profesionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2933",
+   "versions": [
+    {
+     "from": "1992-11-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2933",
+     "sha256": "45d456a37d788312ceab8e5e6ec257219feca76e0726c3d216e283e11cd71261"
+    }
+   ]
+  }
+ ]
+}

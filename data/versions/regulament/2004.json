@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "regulament/2004",
+ "acts": [
+  {
+   "slug": "regulament-bnr-1-2004",
+   "path": "regulament/bnr/2004/1",
+   "short": "Regulament bnr nr. 1/2004",
+   "title": "Regulamentul nr. 1/2004 privind efectuarea operațiunilor valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49664",
+   "versions": [
+    {
+     "from": "2004-02-10",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49664",
+     "sha256": "7ebc33e5fd2da647dca6132788eed850ff5438b39bc36dec21194776fac36ae3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-3-2004",
+   "path": "regulament/bnr/2004/3",
+   "short": "Regulament bnr nr. 3/2004",
+   "title": "Regulamentul nr. 3/2004 privind procedura de mediere a diferendelor apărute în executarea transferurilor transfrontaliere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50931",
+   "versions": [
+    {
+     "from": "2004-04-08",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50931",
+     "sha256": "626a76eaad82c7c4d215532bea25a6ab5a49f626654138e2059c9f49688e4cf3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-4-2004",
+   "path": "regulament/bnr/2004/4",
+   "short": "Regulament bnr nr. 4/2004",
+   "title": "Regulamentul nr. 4/2004 privind organizarea și funcționarea la Banca Națională a României a Centralei Riscurilor Bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54481",
+   "versions": [
+    {
+     "from": "2004-09-01",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54481",
+     "sha256": "bed44289f503084512cd32da3b1d85bc307fe5a8b04ebb609403baec083c6ef6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-5-2004",
+   "path": "regulament/bnr/2004/5",
+   "short": "Regulament bnr nr. 5/2004",
+   "title": "Regulamentul nr. 5/2004 pentru modificarea Regulamentului Băncii Naționale a României nr. 2/2004 privind utilizarea codurilor IBAN în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54818",
+   "versions": [
+    {
+     "from": "2004-08-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54818",
+     "sha256": "9595fb7b1203e2577c4319d45d3729220b8e700d8197d11328c2dbafe547c70d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-1-2004",
+   "path": "regulament/cnvm/2004/1",
+   "short": "Regulament cnvm nr. 1/2004",
+   "title": "Regulamentul nr. 1/2004 privind organizarea Comisiei Naționale a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50778",
+   "versions": [
+    {
+     "from": "2004-03-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50778",
+     "sha256": "0ab50270f8184ecbe2126a36e0a078fa34445454e27f2bb1d7427bf05e242880"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-3-2004",
+   "path": "regulament/cnvm/2004/3",
+   "short": "Regulament cnvm nr. 3/2004",
+   "title": "Regulamentul nr. 3/2004 privind aplicarea metodei votului cumulativ în cadrul societăților deținute public",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51350",
+   "versions": [
+    {
+     "from": "2004-04-22",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51350",
+     "sha256": "7e97ec20868bf3e1c801e1861b39f22f774adc59e769f4db66f1d8507c94e187"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-4-2004",
+   "path": "regulament/cnvm/2004/4",
+   "short": "Regulament cnvm nr. 4/2004",
+   "title": "Regulamentul nr. 4/2004 de modificare a Regulamentului nr. 5/2002 privind modul de încasare și de gestionare a veniturilor extrabugetare din care se finanțează Comisia Națională a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51941",
+   "versions": [
+    {
+     "from": "2004-05-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51941",
+     "sha256": "ccb7dec9a7573cf89d5e99098d494036e826f7ea37bffef7e714fed8e151219c"
+    }
+   ]
+  }
+ ]
+}

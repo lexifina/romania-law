@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/2004",
+ "acts": [
+  {
+   "slug": "instructiuni-cnvm-1-2004",
+   "path": "instructiuni/cnvm/2004/1",
+   "short": "Instrucțiuni cnvm nr. 1/2004",
+   "title": "Instrucțiunile nr. 1/2004 cu privire la asigurarea administrării prudențiale a portofoliului unei societăți de investiții financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49438",
+   "versions": [
+    {
+     "from": "2004-01-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49438",
+     "sha256": "6975bcfbdeea9328ba0dfec8c9fec5dc03cffc8ab4957118875fc16c32d93134"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-munca-67-2004",
+   "path": "instructiuni/munca/2004/67",
+   "short": "Instrucțiuni munca nr. 67/2004",
+   "title": "Instrucțiunile nr. 67/2004 privind aplicarea Ordinului ministrului muncii, solidarității sociale și familiei și al ministrului educației, cercetării și tineretului nr. 353/5.202/2003 pentru aprobarea Metodologiei de autorizare a furnizorilor de formare profesională a adulților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49887",
+   "versions": [
+    {
+     "from": "2004-02-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49887",
+     "sha256": "42122725079c276a5458cec4e35ad175b607f0c03ea6675ef3c3d4008a579046"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "anspdcp/2014",
+ "acts": [
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2014-2014-03-20",
+   "path": "anspdcp/comunicat-sanctiune/2014/2014-03-20",
+   "short": "Comunicat ANSPDCP din 2014-03-20",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2014-03-20",
+   "url": "https://www.dataprotection.ro/?page=Equity_Invest_amendata&lang=ro",
+   "versions": [
+    {
+     "from": "2014-03-20",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Equity_Invest_amendata&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2014-2014-06-17",
+   "path": "anspdcp/comunicat-sanctiune/2014/2014-06-17",
+   "short": "Comunicat ANSPDCP din 2014-06-17",
+   "title": "Comunicat ANSPDCP din 2014-06-17: Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal a aplicat o amendă contravențională în cuantum de 10.000 lei operatorului de date cu caracter personal Hilmi Medical Center SRL",
+   "url": "https://www.dataprotection.ro/?page=ANSPDCP_a_amendat_Hilmi_Medical_Center&lang=ro",
+   "versions": [
+    {
+     "from": "2014-06-17",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=ANSPDCP_a_amendat_Hilmi_Medical_Center&lang=ro",
+     "sha256": "61ff4f155075f156023353a4c44f3092122e23e0980182545288241ff18d3cab"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2014-2014-07-09",
+   "path": "anspdcp/comunicat-sanctiune/2014/2014-07-09",
+   "short": "Comunicat ANSPDCP din 2014-07-09",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2014-07-09",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_de_presa_09_07_2014&lang=ro",
+   "versions": [
+    {
+     "from": "2014-07-09",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_de_presa_09_07_2014&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2014-2014-10-29",
+   "path": "anspdcp/comunicat-sanctiune/2014/2014-10-29",
+   "short": "Comunicat ANSPDCP din 2014-10-29",
+   "title": "Comunicat ANSPDCP din 2014-10-29: Sanctiune aplicată Directiei Finantelor Publice Brașov",
+   "url": "https://www.dataprotection.ro/?page=29_10_2014_Comunicat_de_presa_DGRFP_Brasov&lang=ro",
+   "versions": [
+    {
+     "from": "2014-10-29",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=29_10_2014_Comunicat_de_presa_DGRFP_Brasov&lang=ro",
+     "sha256": "990b795828b8f894ceed0016569e770b8c1834f6fe7e35fecaa14b3dadfcede0"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2014-2014-11-05",
+   "path": "anspdcp/comunicat-sanctiune/2014/2014-11-05",
+   "short": "Comunicat ANSPDCP din 2014-11-05",
+   "title": "Comunicat ANSPDCP din 2014-11-05: Sanctiune aplicata S.C. ORANGE ROMANIA S.A.",
+   "url": "https://www.dataprotection.ro/?page=ANSPDCP_amenda_ORANGE_RO&lang=ro",
+   "versions": [
+    {
+     "from": "2014-11-05",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=ANSPDCP_amenda_ORANGE_RO&lang=ro",
+     "sha256": "bcb0a1ea6561d9e4a2b5c10f75e7ba6378af0f54f8c143561213cddbd23500ef"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-decizie-2014-41",
+   "path": "anspdcp/decizie/2014/41",
+   "short": "Decizia ANSPDCP nr. 41/2014",
+   "title": "Decizia ANSPDCP nr. 41/2014: privind stabilirea unui model de autorizație pentru transferul în străinătate al datelor cu caracter personal în baza regulilor corporatiste obligatorii (Binding Corporate Rules - BCR) - A fost abrogată prin Decizia nr. 99/2018",
+   "url": "https://www.dataprotection.ro/servlet/ViewDocument?id=954",
+   "versions": [
+    {
+     "from": "2014-03-18",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/servlet/ViewDocument?id=954",
+     "sha256": "33a5be633f50380f179a158212fe7f2412527e1600fcf2f2649915c2e17e1fb5"
+    }
+   ]
+  }
+ ]
+}

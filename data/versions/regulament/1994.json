@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "regulament/1994",
+ "acts": [
+  {
+   "slug": "regulament-bnr-4-1994",
+   "path": "regulament/bnr/1994/4",
+   "short": "Regulament bnr nr. 4/1994",
+   "title": "Regulamentul nr. 4/1994 privind efectuarea și controlul operațiunilor de decontare între societățile bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3810",
+   "versions": [
+    {
+     "from": "1994-03-22",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3810",
+     "sha256": "fff03fc2bb0668b351a043c00bb0ee8d979f6a1736f49ee8549da98139b230bd"
+    }
+   ]
+  }
+ ]
+}

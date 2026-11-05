@@ -1,0 +1,83 @@
+{
+"country": "RO",
+"shard": "decizie-bec/2025",
+"acts": [
+{
+"slug": "decizie-bec-locale-2025-2h",
+"path": "decizie-bec/locale-2025/2h",
+"kind": "decizie-bec",
+"year": "2025",
+"number": "2h",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 2H din 11 martie 2025 privind unele măsuri pentru organizarea şi desfăşurarea referendumurilor locale convocate la aceeaşi dată cu un tur de scrutin al alegerilor pentru Preşedintele României din anul 2025",
+"short": "Hotărârea BEC nr. 2h/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-11",
+"latest": "2025-03-11",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/295312"
+},
+{
+"slug": "decizie-bec-referendum-2025-1-h",
+"path": "decizie-bec/referendum-2025/1-h",
+"kind": "decizie-bec",
+"year": "2025",
+"number": "1-h",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Biroul Electoral Jude?ean nr. 1-h din 2025-05-09",
+"short": "Hotărârea Biroul Electoral Jude?ean nr. 1-h/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-05-23",
+"latest": "2025-05-23",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/298247",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-referendum-2025-1",
+"path": "decizie-bec/referendum-2025/1",
+"kind": "decizie-bec",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Biroul Electoral Jude?ean nr. 1 din 2025-05-08",
+"short": "Hotărârea Biroul Electoral Jude?ean nr. 1/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-05-13",
+"latest": "2025-05-13",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/297997",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-referendum-2025-46",
+"path": "decizie-bec/referendum-2025/46",
+"kind": "decizie-bec",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia Biroul Electoral Jude?ean nr. 46 din 2025-05-07",
+"short": "Decizia Biroul Electoral Jude?ean nr. 46/2025",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2025-05-09",
+"latest": "2025-05-09",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/297888",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

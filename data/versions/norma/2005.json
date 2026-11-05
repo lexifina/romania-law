@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "norma/2005",
+ "acts": [
+  {
+   "slug": "norma-bnr-1-2005",
+   "path": "norma/bnr/2005/1",
+   "short": "Norma bnr nr. 1/2005",
+   "title": "Norma nr. 1/2005 privind modul unitar de completare a mențiunilor din ordinele de plată în mesajele electronice utilizate în sistemul ReGIS și în casa de compensare automată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58762",
+   "versions": [
+    {
+     "from": "2005-01-21",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58762",
+     "sha256": "7341b0caf80e965cd907dd37094c3443cd954b0686965274577dde4790bd169b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-10-2005",
+   "path": "norma/bnr/2005/10",
+   "short": "Norma bnr nr. 10/2005",
+   "title": "Norma nr. 10/2005 privind limitarea riscului de credit la creditele destinate persoanelor fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63700",
+   "versions": [
+    {
+     "from": "2005-07-29",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63700",
+     "sha256": "3022117021c04e27e2b270f05c721ae6347f3f10e657b1af782d76a0e7a067d1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-11-2005",
+   "path": "norma/bnr/2005/11",
+   "short": "Norma bnr nr. 11/2005",
+   "title": "Norma nr. 11/2005 privind limitarea gradului de concentrare a expunerilor din credite în valută",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65046",
+   "versions": [
+    {
+     "from": "2005-09-26",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65046",
+     "sha256": "62ae1ad2d69dce898cbe56d14f43d403a0f7962d5d9200c05560b261c64bc9a2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-12-2005",
+   "path": "norma/bnr/2005/12",
+   "short": "Norma bnr nr. 12/2005",
+   "title": "Norma nr. 12/2005 pentru modificarea și completarea Normelor Băncii Naționale a României nr. 12/2003 privind supravegherea solvabilității și expunerilor mari ale instituțiilor de credit, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65038",
+   "versions": [
+    {
+     "from": "2005-09-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65038",
+     "sha256": "f57b5a97b373595d8ffe4d7688460be8dd45bcdee1a3755ab4e251cb216d9ada"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-13-2005",
+   "path": "norma/bnr/2005/13",
+   "short": "Norma bnr nr. 13/2005",
+   "title": "Norma nr. 13/2005 în aplicarea Regulamentului Băncii Naționale a României nr. 11/2005 privind piața primară a titlurilor de stat administrată de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67863",
+   "versions": [
+    {
+     "from": "2006-01-12",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67863",
+     "sha256": "cf9930bbe4fd6048fdb9c32d01e8e06415467b5dcdf99f2db65d721b39c0a417"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-2-2005",
+   "path": "norma/bnr/2005/2",
+   "short": "Norma bnr nr. 2/2005",
+   "title": "Norma nr. 2/2005 privind operațiunile cu numerar ale instituțiilor de credit și Trezoreriei Statului în relația cu Banca Națională a României și decontarea acestor operațiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60524",
+   "versions": [
+    {
+     "from": "2005-04-08",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60524",
+     "sha256": "250933a824f7a5ace5cf021d13c1a4bdd42106fc0d052c2efd0128f824c8399b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-3-2005",
+   "path": "norma/bnr/2005/3",
+   "short": "Norma bnr nr. 3/2005",
+   "title": "Norma nr. 3/2005 privind funcționarea pieței valutare interbancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60610",
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60610",
+     "sha256": "03c29a7913392776ea9852b7d7ed3532ba6e7ade75cc5b4e9b6b6c8f3685adc7"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-4-2005",
+   "path": "norma/bnr/2005/4",
+   "short": "Norma bnr nr. 4/2005",
+   "title": "Norma nr. 4/2005 privind efectuarea operațiunilor de schimb valutar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60600",
+   "versions": [
+    {
+     "from": "2005-04-08",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60600",
+     "sha256": "68d801df64c8505f0ebdfc2bb9b5aa4b2c71ab287af0e16c3a8577521ef2d241"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-5-2005",
+   "path": "norma/bnr/2005/5",
+   "short": "Norma bnr nr. 5/2005",
+   "title": "Norma nr. 5/2005 privind autorizarea operațiunilor valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60601",
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60601",
+     "sha256": "85aba2bc7fd35221ae1c32a4e136149edf47f46b36eb3bf6efd6c4c0edac353a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-6-2005",
+   "path": "norma/bnr/2005/6",
+   "short": "Norma bnr nr. 6/2005",
+   "title": "Norma nr. 6/2005 privind importul și exportul fizic de instrumente de plată sub formă de numerar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60602",
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60602",
+     "sha256": "c8c1211827dd82749cd1a96daf478a01dfcfa0f27ee492fda9106b71cf7d1f1b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-7-2005",
+   "path": "norma/bnr/2005/7",
+   "short": "Norma bnr nr. 7/2005",
+   "title": "Norma nr. 7/2005 privind măsurile de salvgardare care pot fi luate ca urmare a liberalizării operațiunilor în conturi de depozit în moneda naționala (leu)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60603",
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60603",
+     "sha256": "48a6ef483e7581ec3724ca9bc628ff57ae8d182718465b86ee010b57dc98aaf2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-8-2005",
+   "path": "norma/bnr/2005/8",
+   "short": "Norma bnr nr. 8/2005",
+   "title": "Norma nr. 8/2005 pentru prelungirea perioadei de aplicare a prevederilor art. 8 alin. (1) din Norma nr. 4/2004 privind raportarea statistică a datelor pentru elaborarea balanței de plăți a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60514",
+   "versions": [
+    {
+     "from": "2005-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60514",
+     "sha256": "f47a666048d719325df7528278d91421dff707c06c45f61e590715d40fa124b5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-9-2005",
+   "path": "norma/bnr/2005/9",
+   "short": "Norma bnr nr. 9/2005",
+   "title": "Norma nr. 9/2005 privind regimul special de decontare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60515",
+   "versions": [
+    {
+     "from": "2005-04-08",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60515",
+     "sha256": "96aaaf65cf768bbac80753ca1cf772faa1bb97a2f612add0634d53181877cf74"
+    }
+   ]
+  }
+ ]
+}

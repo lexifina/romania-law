@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "ordin/1993",
+ "acts": [
+  {
+   "slug": "ordin-bnr-469-1993",
+   "path": "ordin/bnr/1993/469",
+   "short": "Ordin bnr nr. 469/1993",
+   "title": "Ordinul nr. 469/1993 pentru modificarea anexei nr. 4 la Regulamentul privind efectuarea operațiunilor valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3539",
+   "versions": [
+    {
+     "from": "1993-09-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3539",
+     "sha256": "e9b51f5f53cf5400bd118b4d51fa031a8249a54fccfb4c467b82bd8aa4f76b25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-517-1993",
+   "path": "ordin/bnr/1993/517",
+   "short": "Ordin bnr nr. 517/1993",
+   "title": "Ordinul nr. 517/1993 privind componența Comisiei de licitații valutare, însărcinată cu organizarea și desfășurarea ședințelor de licitații valutare în Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3558",
+   "versions": [
+    {
+     "from": "1993-10-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3558",
+     "sha256": "d707e0ee87010a301b39d5343f1b484e270c15c0947d52161c7b6cf0566277b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1363-1993",
+   "path": "ordin/finante/1993/1363",
+   "short": "Ordin finante nr. 1363/1993",
+   "title": "Ordinul nr. 1.363/1993 pentru aprobarea Instrucțiunilor metodologice privind tehnică de calcul al impozitului pe salarii, formularistica corespunzătoare, atribuțiile și răspunderile organelor fiscale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3733",
+   "versions": [
+    {
+     "from": "1993-11-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3733",
+     "sha256": "151806e2b4dd2a855c2f78235358053d84e68f0a831303d477c44c9cda4e6691"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-613-1993",
+   "path": "ordin/finante/1993/613",
+   "short": "Ordin finante nr. 613/1993",
+   "title": "Ordinul nr. 613/1993 pentru aprobarea Normelor tehnice privind organizarea și desfășurarea activității de jocuri de noroc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3601",
+   "versions": [
+    {
+     "from": "1993-06-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3601",
+     "sha256": "69ff00b82d98652b8e185754a7166195992e79a41f3f6b5cd5e44a4fb952c253"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-766-1993",
+   "path": "ordin/finante/1993/766",
+   "short": "Ordin finante nr. 766/1993",
+   "title": "Ordinul nr. 766/1993 privind aprobarea Îndrumarului pentru aplicarea prevederilor Hotărârii Guvernului nr. 206/1993 privind unele măsuri pentru continuarea liberalizării prețurilor și tarifelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3701",
+   "versions": [
+    {
+     "from": "1993-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3701",
+     "sha256": "7c6dbe7d2c0bdf968dfd6912734d7e559a354b2633dd3c1eca4628ebae7176f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1137-1993",
+   "path": "ordin/sanatate/1993/1137",
+   "short": "Ordin sanatate nr. 1137/1993",
+   "title": "Ordinul nr. 1.137/1993 pentru modificarea Ordinului ministrului sănătății nr. 392/1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3729",
+   "versions": [
+    {
+     "from": "1993-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3729",
+     "sha256": "b3a44b7170f45b55c94b0860395831f459730a11fa5204e1907d92c094cf00ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1213-1993",
+   "path": "ordin/sanatate/1993/1213",
+   "short": "Ordin sanatate nr. 1213/1993",
+   "title": "Ordinul nr. 1.213/1993 pentru modificarea și completarea Ordinului nr. 990/1993 pentru aprobarea Nomenclatorului specialitatilor medicale și farmaceutice, precum și a duratei de pregătire în fiecare specialitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3731",
+   "versions": [
+    {
+     "from": "1994-08-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3731",
+     "sha256": "3548d38fbc3ef65bb1770c4a7d63e683f21df4f3205d72a7da86cdac988a81c8"
+    }
+   ]
+  }
+ ]
+}

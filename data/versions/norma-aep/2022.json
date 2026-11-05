@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "norma-aep/2022",
+ "acts": [
+  {
+   "slug": "norma-aep-cuantum-total-9-037-2022",
+   "path": "norma-aep/2022/cuantum-total-9-037",
+   "short": "Cuantum total AEP nr. 9-037/2022",
+   "title": "CUANTUMUL nr. 9.037 din 4 iulie 2022 datoriilor înregistrate de către partidele politice, alianţele politice, alianţele electorale, organizaţiile cetăţenilor români aparţinând minorităţilor naţionale şi candidaţii independenţi în urma campaniei electorale organizate cu ocazia Referendumului local din data de 19 iunie 2022 din comuna Dumbrăviţa, judeţul Braşov, declarate la Autoritatea Electorală Permanentă, conform art. 47 alin. (1) şi (3) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/257432",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/257432",
+     "sha256": "323437d0d1b869ac27fc752df918190750b6a6af8e902619df4d54ebbad71760"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-9-034-2022",
+   "path": "norma-aep/2022/lista-9-034",
+   "short": "Listă AEP nr. 9-034/2022",
+   "title": "LISTA nr. 9.034 din 4 iulie 2022 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia Referendumului local din data de 19 iunie 2022 din comuna Dumbrăviţa, judeţul Braşov",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/257431",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/257431",
+     "sha256": "e0ec68d4e79f827b7b0ac3d02a5cdf319497fd7e497c172c02343569865ac90a"
+    }
+   ]
+  }
+ ]
+}

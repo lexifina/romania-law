@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "regulament/1993",
+"acts": [
+{
+"slug": "regulament-bnr-4-1993",
+"path": "regulament/bnr/1993/4",
+"kind": "regulament",
+"year": "1993",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 4/1993 *** Republicat privind rezervele obligatorii ale societăților bancare la Banca Națională a României",
+"short": "Regulament bnr nr. 4/1993",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1996-07-11",
+"latest": "1996-07-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/3001",
+"issuer": "bnr",
+"joint": []
+}
+]
+}

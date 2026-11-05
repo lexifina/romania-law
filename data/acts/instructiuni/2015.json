@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "instructiuni/2015",
+"acts": [
+{
+"slug": "instructiuni-asf-1-2015",
+"path": "instructiuni/asf/2015/1",
+"kind": "instructiuni",
+"year": "2015",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 1/2015 pentru modificarea Instrucțiunii Autorității de Supraveghere Financiară nr. 2/2014 privind aplicarea Standardelor internaționale de raportare financiară de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară din Sectorul Instrumentelor și Investițiilor Financiare",
+"short": "Instrucțiuni asf nr. 1/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-05-19",
+"latest": "2015-05-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/168088",
+"issuer": "asf",
+"joint": []
+},
+{
+"slug": "instructiuni-asf-2-2015",
+"path": "instructiuni/asf/2015/2",
+"kind": "instructiuni",
+"year": "2015",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 2/2015 pentru modificarea art. 2 alin. (1) din Instrucțiunea Autorității de Supraveghere Financiară nr. 2/2014 privind aplicarea Standardelor internaționale de raportare financiară de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară din Sectorul Instrumentelor și Investițiilor Financiare",
+"short": "Instrucțiuni asf nr. 2/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-09-02",
+"latest": "2015-09-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/171071",
+"issuer": "asf",
+"joint": []
+}
+]
+}

@@ -1,0 +1,1476 @@
+{
+ "country": "RO",
+ "shard": "ordin/1998",
+ "acts": [
+  {
+   "slug": "ordin-ancpi-336-1998",
+   "path": "ordin/ancpi/1998/336",
+   "short": "Ordin ancpi nr. 336/1998",
+   "title": "Ordinul nr. 336/1998 privind aprobarea tarifelor pentru serviciile prestate de Oficiul Național de Cadastru, Geodezie și Cartografie și de unitățile subordonate acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15902",
+   "versions": [
+    {
+     "from": "1998-10-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15902",
+     "sha256": "0936bc84afa79bbee9f074905eb469596d338d8e582b0b17ff5148b42183e622"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-347-1998",
+   "path": "ordin/ancpi/1998/347",
+   "short": "Ordin ancpi nr. 347/1998",
+   "title": "Ordinul nr. 347/1998 pentru aprobarea Regulamentului privind avizarea lucrărilor de geodezie, cartografie, cadastru, fotogrammetrie și teledetecție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16020",
+   "versions": [
+    {
+     "from": "1998-10-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16020",
+     "sha256": "a2e1c4f023a3b62cd38778923d309beb5560862fa964dfcca5b9b66628b94770"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-1-1998",
+   "path": "ordin/cnvm/1998/1",
+   "short": "Ordin cnvm nr. 1/1998",
+   "title": "Ordinul nr. 1/1998 pentru aprobarea Instrucțiunilor nr. 1/1998 privind completarea și modificarea Instrucțiunilor nr. 5/1997 de încadrare a societăților de investiții financiare în dispozițiile Ordonanței Guvernului nr. 24/1993, aprobată prin Legea nr. 83/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13916",
+   "versions": [
+    {
+     "from": "1998-03-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13916",
+     "sha256": "557101fa0cb432705688c7bc25e1e667fe6b6a3cdfd8d7ed1af8d1e34b1947a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-10-1998",
+   "path": "ordin/cnvm/1998/10",
+   "short": "Ordin cnvm nr. 10/1998",
+   "title": "Ordinul nr. 10/1998 pentru aprobarea Regulamentului nr. 5/1998 privind constituirea și funcționarea fondurilor cu capital de risc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14657",
+   "versions": [
+    {
+     "from": "1998-05-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14657",
+     "sha256": "2d7f3c332394cf39a06fdef83b3fcd7f9194e50a28b0b9cea6cda91c3ffa9b44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-11-1998",
+   "path": "ordin/cnvm/1998/11",
+   "short": "Ordin cnvm nr. 11/1998",
+   "title": "Ordinul nr. 11/1998 pentru abrogarea Instrucțiunilor nr. 1/1998 privind completarea și modificarea Instrucțiunilor nr. 5/1997 de încadrare a societăților de investiții financiare în dispozițiile Ordonanței Guvernului nr. 24/1993, aprobată prin Legea nr. 83/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14659",
+   "versions": [
+    {
+     "from": "1998-05-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14659",
+     "sha256": "7d78d762dbfd8635a1c069837d17e6dbe2ca12f33fdbcd58e29ae7b92d2b1341"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-13-1998",
+   "path": "ordin/cnvm/1998/13",
+   "short": "Ordin cnvm nr. 13/1998",
+   "title": "Ordinul nr. 13/1998 pentru aprobarea Regulamentului nr. 6/1998 privind organizarea și funcționarea organismului de autoreglementare pentru piețele reglementate de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15721",
+   "versions": [
+    {
+     "from": "1998-09-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15721",
+     "sha256": "d4876275501ceb799157c3da93e4a1f9c24dc0c6ec371b314438fe62479da640"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-16-1998",
+   "path": "ordin/cnvm/1998/16",
+   "short": "Ordin cnvm nr. 16/1998",
+   "title": "Ordinul nr. 16/1998 pentru aprobarea Instrucțiunilor nr. 4/1998 de modificare și completare a Instrucțiunilor nr. 2/1998 privind transferul registrelor acționarilor societăților comerciale între doua registre independente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16007",
+   "versions": [
+    {
+     "from": "1998-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16007",
+     "sha256": "5944d2cf5a8680c3190e7406903845cc0e3998b7c918b8449b002bd71e0a6516"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-17-1998",
+   "path": "ordin/cnvm/1998/17",
+   "short": "Ordin cnvm nr. 17/1998",
+   "title": "Ordinul nr. 17/1998 pentru aprobarea Instrucțiunilor nr. 5/1998 privind rapoartele de supraveghere ale piețelor de capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16008",
+   "versions": [
+    {
+     "from": "1998-10-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16008",
+     "sha256": "39da7e52f7a202540be34e63095c5a5e448803fa8f457a336fca894e1e00d221"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-2-1998",
+   "path": "ordin/cnvm/1998/2",
+   "short": "Ordin cnvm nr. 2/1998",
+   "title": "Ordinul nr. 2/1998 pentru aprobarea Regulamentului nr. 1/1998 de completare a Regulamentului nr. 14/1996 cu privire la desfășurarea activităților de compensare, depozitare și decontare de către terți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13931",
+   "versions": [
+    {
+     "from": "1998-03-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13931",
+     "sha256": "91dcd2425631f23b93095a87dc6d8b896ee2ae014485355920c08c11dc542bad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-277-1998",
+   "path": "ordin/cnvm/1998/277",
+   "short": "Ordin cnvm nr. 277/1998",
+   "title": "Ordinul nr. 277/1998 pentru aprobarea Regulamentului nr. 7/1998 privind organizarea Comisiei Naționale a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16460",
+   "versions": [
+    {
+     "from": "1998-12-23",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16460",
+     "sha256": "e8d70ba8245ec08d00a35b4eb944d1fa84c6eed07283808613b7c0212fefea93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-3-1998",
+   "path": "ordin/cnvm/1998/3",
+   "short": "Ordin cnvm nr. 3/1998",
+   "title": "Ordinul nr. 3/1998 pentru aprobarea Regulamentului nr. 3/1998 privind autorizarea și exercitarea intermedierii de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13947",
+   "versions": [
+    {
+     "from": "1998-03-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13947",
+     "sha256": "de340851712a0eb9b7a36325ab48271a2980cda81a63531623aaecae00b0e517"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-4-1998",
+   "path": "ordin/cnvm/1998/4",
+   "short": "Ordin cnvm nr. 4/1998",
+   "title": "Ordinul nr. 4/1998 pentru aprobarea Instrucțiunilor nr. 2/1998 privind transferul registrelor acționarilor societăților comerciale între doua registre independente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13961",
+   "versions": [
+    {
+     "from": "1998-03-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13961",
+     "sha256": "2c8d90fd35b3d1d1d5f9a6d85e87767a8cb513b0ba917682b693204c3285dc23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-5-1998",
+   "path": "ordin/cnvm/1998/5",
+   "short": "Ordin cnvm nr. 5/1998",
+   "title": "Ordinul nr. 5/1998 pentru aprobarea Regulamentului nr. 2/1998 privind depunerea de documente pe cale electronică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13975",
+   "versions": [
+    {
+     "from": "1998-03-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13975",
+     "sha256": "7bdd7d831ff3d453efaae4d795cfc5ccfc639c86a6c9b6b9697d2bbdd91af9f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-8-1998",
+   "path": "ordin/cnvm/1998/8",
+   "short": "Ordin cnvm nr. 8/1998",
+   "title": "Ordinul nr. 8/1998 privind aprobarea Instrucțiunilor nr. 3/1998 pentru completarea Instrucțiunilor nr. 8/1996 privind adunările generale ale deținătorilor de valori mobiliare emise de societățile comerciale deschise",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14578",
+   "versions": [
+    {
+     "from": "1998-04-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14578",
+     "sha256": "71cd5526ad68cb95d0c4225597aa8ec9ac70067f575c9f84478fd58004f886ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-concurenta-34-1998",
+   "path": "ordin/concurenta/1998/34",
+   "short": "Ordin concurenta nr. 34/1998",
+   "title": "Ordinul nr. 34/1998 pentru aprobarea Instrucțiunilor, date în aplicarea art. 33 alin. (2) din Legea concurentei nr. 21/1996, cu privire la calculul taxei de autorizare a concentrărilor economice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14660",
+   "versions": [
+    {
+     "from": "1998-05-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14660",
+     "sha256": "699ec6b140d85c2f3ee09132c305e8893486b7210ac86df74c30929c6a6a23a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-concurenta-7-1998",
+   "path": "ordin/concurenta/1998/7",
+   "short": "Ordin concurenta nr. 7/1998",
+   "title": "Ordinul nr. 7/1998 pentru majorarea plafonului privind cifra de afaceri, prevăzut în Legea concurentei nr. 21/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13993",
+   "versions": [
+    {
+     "from": "1998-02-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13993",
+     "sha256": "018f1db80d31f974474e609cba512885e13602b40cbab563c914edba6088b037"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-220795-1998",
+   "path": "ordin/economie/1998/220795",
+   "short": "Ordin economie nr. 220795/1998",
+   "title": "Ordinul nr. 220.795/1998 privind modificarea și completarea Listei produselor pentru care sunt stabilite valori de comparație în scopul determinării garanției vamale, cuprinsă în anexa nr. 1 la Hotărârea Guvernului nr. 940/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15451",
+   "versions": [
+    {
+     "from": "1998-08-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15451",
+     "sha256": "fd1e421f19c35228077157d4357789e572f38bdbd0fb0b0bc08ffef9d1969b5d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-109-1998",
+   "path": "ordin/finante/1998/109",
+   "short": "Ordin finante nr. 109/1998",
+   "title": "Ordinul nr. 109/1998 pentru actualizarea normelor anuale de venit pe baza cărora se impozitează reprezentantele din România ale societăților comerciale și organizațiilor economice străine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14369",
+   "versions": [
+    {
+     "from": "1998-01-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14369",
+     "sha256": "e01ba49f4bf75c60a913a92b40cf7d36c87c2d0cdf3179dee6d912e364bd7067"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-115-1998",
+   "path": "ordin/finante/1998/115",
+   "short": "Ordin finante nr. 115/1998",
+   "title": "Ordinul nr. 115/1998 privind lansarea unor emisiuni de titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14382",
+   "versions": [
+    {
+     "from": "1998-02-03",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14382",
+     "sha256": "735d68a081e2f0505b5989a8674699997a052b13a0175d21d05d594ec19714fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1177-1998",
+   "path": "ordin/finante/1998/1177",
+   "short": "Ordin finante nr. 1177/1998",
+   "title": "Ordinul nr. 1.177/1998 privind aplicarea prevederilor art. 1 alin. (4) și (10) paragraful 2 din Hotărârea Guvernului nr. 831/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15007",
+   "versions": [
+    {
+     "from": "1998-06-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15007",
+     "sha256": "b3808a9cb5815622dd403bcd9cc5622ac51d850b80f4c6709f83701bd574cc11"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1181-1998",
+   "path": "ordin/finante/1998/1181",
+   "short": "Ordin finante nr. 1181/1998",
+   "title": "Ordinul nr. 1.181/1998 privind aprobarea Instrucțiunilor nr. 46.750/1998 pentru actualizarea cuantumurilor indemnizațiilor de delegare și de detașare, potrivit prevederilor art. 3 din Hotărârea Guvernului nr. 543/1995 privind drepturile bănești ale salariaților instituțiilor publice și regiilor autonome cu specific deosebit pe perioada delegării și detașării în alta localitate, precum și în cazul deplasării, în cadrul localității, în interesul serviciului, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14949",
+   "versions": [
+    {
+     "from": "1998-06-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14949",
+     "sha256": "08675a5ff05b03126ea5ceba58ca15a98a0a330eb3a8fecd01803070957b6eb3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1283-1998",
+   "path": "ordin/finante/1998/1283",
+   "short": "Ordin finante nr. 1283/1998",
+   "title": "Ordinul nr. 1.283/1998 privind aprobarea Procedurii și competentelor de acordare a înlesnirilor la plata impozitelor, taxelor și a altor venituri bugetare, administrate de Ministerul Finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15087",
+   "versions": [
+    {
+     "from": "1998-07-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15087",
+     "sha256": "8826c841b2269c5ed3a8f271c43986344abc9141256f4ed1b1463ad7460c5d5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1524-1998",
+   "path": "ordin/finante/1998/1524",
+   "short": "Ordin finante nr. 1524/1998",
+   "title": "Ordinul nr. 1.524/1998 privind aprobarea modelelor situațiilor financiar-contabile pentru bănci și a normelor metodologice privind întocmirea și utilizarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15606",
+   "versions": [
+    {
+     "from": "1998-09-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15606",
+     "sha256": "92cc40d211f94be83b86f7d95e4159b583eaa9dbbc2c4580f7d4f90b751c15a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1531-1998",
+   "path": "ordin/finante/1998/1531",
+   "short": "Ordin finante nr. 1531/1998",
+   "title": "Ordinul nr. 1.531/1998 pentru completarea normelor metodologice emise în aplicarea Ordonanței de urgență a Guvernului nr. 82/1997 privind regimul accizelor și al altor taxe indirecte, aprobate prin Ordinul ministrului finanțelor nr. 95/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15360",
+   "versions": [
+    {
+     "from": "1998-08-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15360",
+     "sha256": "05c0a4baa74399f35581f0a1436cf8eb1c62b3b011fd36c8a11b089523d57fb4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1547-1998",
+   "path": "ordin/finante/1998/1547",
+   "short": "Ordin finante nr. 1547/1998",
+   "title": "Ordinul nr. 1.547/1998 privind prospectul de emisiuni al certificatelor de trezorerie cu discont, seriile D1 99.02.04, D2 99.02.11, D3 98.11.12, D4 99.02.18, D5 99.08.26",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15352",
+   "versions": [
+    {
+     "from": "1998-07-31",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15352",
+     "sha256": "7798d4e02754a379c2405655c8b158c50a3edc9ada668a2874eda6aaa067be7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1556-1998",
+   "path": "ordin/finante/1998/1556",
+   "short": "Ordin finante nr. 1556/1998",
+   "title": "Ordinul nr. 1.556/1998 în legătură cu intrarea în vigoare a Convenției dintre Guvernul României și Guvernul Republicii Belarus pentru evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit și pe capital și a Protocolului anexat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15660",
+   "versions": [
+    {
+     "from": "1998-09-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15660",
+     "sha256": "a156c7badbc637ce6cf3a3be747f137695475e59b6dd72bc94fc8e053a79b74a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1583-1998",
+   "path": "ordin/finante/1998/1583",
+   "short": "Ordin finante nr. 1583/1998",
+   "title": "Ordinul nr. 1.583/1998 în legătură cu intrarea în vigoare a Convenției dintre Guvernul României și Guvernul Statului Israel pentru evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15661",
+   "versions": [
+    {
+     "from": "1998-09-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15661",
+     "sha256": "f3c294715f0aa0fa0389c90dcac859cc83fd03a352bfb66a055ad703de0aad50"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1591-1998",
+   "path": "ordin/finante/1998/1591",
+   "short": "Ordin finante nr. 1591/1998",
+   "title": "Ordinul nr. 1.591/1998 privind aprobarea Planului de conturi pentru persoanele juridice fără scop lucrativ și a normelor metodologice de utilizare a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16416",
+   "versions": [
+    {
+     "from": "1998-12-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16416",
+     "sha256": "e9755130de09ad581ed5a1b6c6b3bf8b092a1da452a4d6116d8505a91838d759"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-165-1998",
+   "path": "ordin/finante/1998/165",
+   "short": "Ordin finante nr. 165/1998",
+   "title": "Ordinul nr. 165/1998 pentru aprobarea listei produselor provenite din import, scutite de taxa pe valoarea adăugată, și a listei produselor provenite din import, supuse cotei de 11% T.V.A., pe poziții tarifare, corespunzătoare Tarifului vamal de import al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14443",
+   "versions": [
+    {
+     "from": "1998-02-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14443",
+     "sha256": "012ad1e04f13634118dd5e7bb5357f0b1f0a6685dc277184a3e116cebb0ed848"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-166-1998",
+   "path": "ordin/finante/1998/166",
+   "short": "Ordin finante nr. 166/1998",
+   "title": "Ordinul nr. 166/1998 pentru aprobarea Normelor metodologice cu privire la modul de aplicare a suspendării plății taxei pe valoarea adăugată la organele vamale pentru utilajele, instalațiile, echipamentele, mașinile industriale și mașinile agricole care se importa în vederea efectuării și derulării investițiilor prin care se realizează o unitate productiva noua, se dezvolta capacitățile existente sau se retehnologizează fabrici, secții, ateliere, precum și pentru materiile prime prevăzute în lista-anexa la Ordonanța Guvernului nr. 34/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14445",
+   "versions": [
+    {
+     "from": "1998-02-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14445",
+     "sha256": "fdad21dd61c435224de60daab944eda491f096dca62b9be49e65ad63f7af9dba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1772-1998",
+   "path": "ordin/finante/1998/1772",
+   "short": "Ordin finante nr. 1772/1998",
+   "title": "Ordinul nr. 1.772/1998 pentru aprobarea Normelor metodologice de aplicare a Ordonanței Guvernului nr. 23/1995 privind instituirea sistemului de marcare pentru țigarete, produse din tutun și băuturi alcoolice, republicată, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15725",
+   "versions": [
+    {
+     "from": "1998-09-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15725",
+     "sha256": "2adad3cb39bd3d9bd123b15d245bc9db13fa54ce99fa2268893b810ffcaf6838"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1798-1998",
+   "path": "ordin/finante/1998/1798",
+   "short": "Ordin finante nr. 1798/1998",
+   "title": "Ordinul nr. 1.798/1998 pentru aprobarea formularisticii referitoare la aplicarea convențiilor de evitare a dublei impuneri și stabilirea competențelor privind semnarea acestor formulare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15843",
+   "versions": [
+    {
+     "from": "1998-09-22",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15843",
+     "sha256": "8ee590d7dd1f3a56797222967caeba0ed90167325664068b4122051535167b4a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1909-1998",
+   "path": "ordin/finante/1998/1909",
+   "short": "Ordin finante nr. 1909/1998",
+   "title": "Ordinul nr. 1.909/1998 pentru aprobarea Metodologiei privind scutirea de la obligația garantării datoriei vamale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15898",
+   "versions": [
+    {
+     "from": "1998-10-15",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15898",
+     "sha256": "e2834acae4159042558ff1dd52450ca7942d05c646803076ce473c98d14e0c97"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1925-1998",
+   "path": "ordin/finante/1998/1925",
+   "short": "Ordin finante nr. 1925/1998",
+   "title": "Ordinul nr. 1.925/1998 pentru aprobarea Normelor metodologice de modificare și completare a Normelor metodologice privind tehnică de calcul și formularistica necesare pentru accize și alte taxe indirecte, pentru impozitul la țițeiul și gazele naturale din producția internă și taxa pentru jocurile de noroc, precum și modul de realizare a regimului de supraveghere fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15854",
+   "versions": [
+    {
+     "from": "1998-10-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15854",
+     "sha256": "fff0bbd2c00a86d40a0d3fd00754c375368edde124953c454a0473fa8838e3f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1959-1998",
+   "path": "ordin/finante/1998/1959",
+   "short": "Ordin finante nr. 1959/1998",
+   "title": "Ordinul nr. 1.959/1998 privind intrarea în vigoare a Convenției dintre Guvernul României și Guvernul Regatului Belgiei pentru evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit și pe capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16305",
+   "versions": [
+    {
+     "from": "1998-12-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16305",
+     "sha256": "66a1a51879f94bc48d73fbb68fcfdc3870ea4106e9d652cb132389ba3b75ddb7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2048-1998",
+   "path": "ordin/finante/1998/2048",
+   "short": "Ordin finante nr. 2048/1998",
+   "title": "Ordinul nr. 2.048/1998 pentru completarea normelor metodologice aprobate prin Ordinul ministrului finanțelor nr. 1.925/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16177",
+   "versions": [
+    {
+     "from": "1998-11-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16177",
+     "sha256": "a88414571020a4df17288f7d2a2bf1d67a6cc5d7b5618b40e36d2e0bdb89d296"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2049-1998",
+   "path": "ordin/finante/1998/2049",
+   "short": "Ordin finante nr. 2049/1998",
+   "title": "Ordinul nr. 2.049/1998 privind regimul taxei pe valoarea adăugată pentru bunurile și serviciile destinate misiunilor diplomatice, oficiilor consulare și reprezentanțelor internaționale interguvernamentale acreditate în România, precum și personalului diplomatic al acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16458",
+   "versions": [
+    {
+     "from": "1998-12-23",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16458",
+     "sha256": "1190443a2dcad4e2d1fffaee052a0e9c9fb2f04e751286f0cd182a384e9a3b91"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2055-1998",
+   "path": "ordin/finante/1998/2055",
+   "short": "Ordin finante nr. 2055/1998",
+   "title": "Ordinul nr. 2.055/1998 privind aplicarea corespunzătoare a Hotărârii Guvernului nr. 831/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16214",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16214",
+     "sha256": "4cd5ef1ffaeb5e201397b494cc69a20d60d214548cac292bc9d6b481cde5204f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2103-1998",
+   "path": "ordin/finante/1998/2103",
+   "short": "Ordin finante nr. 2103/1998",
+   "title": "Ordinul nr. 2.103/1998 pentru aprobarea formularisticii necesare aplicării Ordonanței Guvernului nr. 82/1998 privind înregistrarea fiscală a plătitorilor de impozite și taxe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16504",
+   "versions": [
+    {
+     "from": "1998-12-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16504",
+     "sha256": "8d86272dd0974affea1788d3e4b9589ef44534ba81331bfdbcfc1875bb62c6be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2113-1998",
+   "path": "ordin/finante/1998/2113",
+   "short": "Ordin finante nr. 2113/1998",
+   "title": "Ordinul nr. 2.113/1998 privind participarea la tratativele desfășurate în vederea vânzării pachetelor de acțiuni deținute de Fondul Proprietății de Stat la societățile comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16236",
+   "versions": [
+    {
+     "from": "1998-11-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16236",
+     "sha256": "f03c27f5bc55df993161ffb6d56255619754272f3bbf78eca837740f55fb6b00"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2165-1998",
+   "path": "ordin/finante/1998/2165",
+   "short": "Ordin finante nr. 2165/1998",
+   "title": "Ordinul nr. 2.165/1998 pentru aprobarea Normelor prudențiale privind managementul societăților comerciale din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16237",
+   "versions": [
+    {
+     "from": "1998-12-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16237",
+     "sha256": "1af1f9e58c2b658b6a9e9a650f305b5e360939e66cd0a14f04fff9356c457578"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2206-1998",
+   "path": "ordin/finante/1998/2206",
+   "short": "Ordin finante nr. 2206/1998",
+   "title": "Ordinul nr. 2.206/1998 pentru aprobarea modelului și a conținutului formularului \"Declarație privind obligațiile de plată la bugetul de stat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16623",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16623",
+     "sha256": "c547b33844b300753745a6fed46ed34f9ee56b0e7410795efe41bd5f427d7954"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2494-1998",
+   "path": "ordin/finante/1998/2494",
+   "short": "Ordin finante nr. 2494/1998",
+   "title": "Ordinul nr. 2.494/1998 privind aprobarea Normelor metodologice pentru aplicarea prevederilor Ordonanței Guvernului nr. 11/1996 privind executarea creanțelor bugetare, cu modificările și completările ulterioare, referitoare la eliberarea și distribuirea sumelor realizate prin executare silită și la prescripția dreptului de a cere executarea silită",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16693",
+   "versions": [
+    {
+     "from": "1999-01-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16693",
+     "sha256": "33049c7052d8b45a4f5a095d750441b3a910db93dd8ce4244d5f35622b848651"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2509-1998",
+   "path": "ordin/finante/1998/2509",
+   "short": "Ordin finante nr. 2509/1998",
+   "title": "Ordinul nr. 2.509/1998 pentru aprobarea Normelor metodologice cu privire la modul de atestare a suspendării plății taxei pe valoarea adăugată la organele vamale pentru utilajele, instalațiile, echipamentele, mașinile industriale și mașinile agricole care se importa în vederea efectuării și derulării investițiilor prin care se realizează o unitate productiva noua, se dezvolta capacitățile existente sau se retehnologizează fabrici, secții, ateliere, precum și pentru materiile prime prevăzute în anexa la Hotărârea Guvernului nr. 713/1998 pentru modificarea Listei cuprinzând materiile prime pentru care se suspenda plata taxei pe valoarea adăugată în vama, prevăzută în anexa la Ordonanța Guvernului nr. 3/1992, republicată, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16775",
+   "versions": [
+    {
+     "from": "1999-01-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16775",
+     "sha256": "56a8cbaf373cad90bcc050381ae5328d53c893950e3d12a38aef9885c2228b23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2515-1998",
+   "path": "ordin/finante/1998/2515",
+   "short": "Ordin finante nr. 2515/1998",
+   "title": "Ordinul nr. 2.515/1998 pentru aprobarea Normelor metodologice privind încheierea exercițiului bugetar al anului 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16406",
+   "versions": [
+    {
+     "from": "1998-12-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16406",
+     "sha256": "66e0a61b95141c1172b2bf91b2a7118b87c6d2683f6812d8e00ece4179838383"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2523-1998",
+   "path": "ordin/finante/1998/2523",
+   "short": "Ordin finante nr. 2523/1998",
+   "title": "Ordinul nr. 2.523/1998 privind aprobarea Listei de valori unice în vama pe produse și grupe de produse",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16738",
+   "versions": [
+    {
+     "from": "1999-01-15",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16738",
+     "sha256": "7d9c4bb603a36a96c208ff19fb45721dede6fda3cffc84f2a25b89007c28b813"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2541-1998",
+   "path": "ordin/finante/1998/2541",
+   "short": "Ordin finante nr. 2541/1998",
+   "title": "Ordinul nr. 2.541/1998 pentru aprobarea modelelor unor formulare tipizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16960",
+   "versions": [
+    {
+     "from": "1999-02-10",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16960",
+     "sha256": "cbffb1868eabb13cd03232fdf97e746b245f834cb48c18fcf07298cba7a919d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2577-1998",
+   "path": "ordin/finante/1998/2577",
+   "short": "Ordin finante nr. 2577/1998",
+   "title": "Ordinul nr. 2.577/1998 pentru aprobarea Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 82/1997 privind regimul accizelor și al altor impozite indirecte, aprobată și modificată prin Legea nr. 196/1998, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16576",
+   "versions": [
+    {
+     "from": "1998-12-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16576",
+     "sha256": "893bf093d74b7bb7ce13ca7eb9f37263893b237e506cb35458d706095f459b7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2610-1998",
+   "path": "ordin/finante/1998/2610",
+   "short": "Ordin finante nr. 2610/1998",
+   "title": "Ordinul nr. 2.610/1998 pentru aprobarea Normelor privind restituirea taxei pe valoarea adăugată cumpărătorilor - persoane fizice - care nu au domiciliul în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16820",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16820",
+     "sha256": "bd77a49c452da4b91ae25c6a1fb05b1979c2916cabf117e10a77d2fc7f956d07"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2627-1998",
+   "path": "ordin/finante/1998/2627",
+   "short": "Ordin finante nr. 2627/1998",
+   "title": "Ordinul nr. 2.627/1998 privind documentația necesară pentru rambursarea taxei pe valoarea adăugată agenților economici înregistrați ca plătitori de taxă pe valoarea adăugată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16818",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16818",
+     "sha256": "9014f01dd07786c329d53b970380f27aecda01650bd9e84b40b0bcfa1b524a06"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2690-1998",
+   "path": "ordin/finante/1998/2690",
+   "short": "Ordin finante nr. 2690/1998",
+   "title": "Ordinul nr. 2.690/1998 privind aprobarea Normelor metodologice pentru aplicarea prevederilor Ordonanței Guvernului nr. 68/1997 privind procedura de întocmire și de depunere a declarațiilor de impozite și taxe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16931",
+   "versions": [
+    {
+     "from": "1999-02-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16931",
+     "sha256": "46f8f6d08aa2a27e51ce1ac5e91ed206dc8c478f19cc4ea03ec4d5e828204b1e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2756-1998",
+   "path": "ordin/finante/1998/2756",
+   "short": "Ordin finante nr. 2756/1998",
+   "title": "Ordinul nr. 2.756/1998 privind încasarea, administrarea și utilizarea în regim extrabugetar a veniturilor realizate de Ministerul Finanțelor din activitatea de distribuire a formularelor tipizate pentru stabilirea, evidenta, urmărirea, încasarea și raportarea impozitelor, taxelor și a altor obligații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16819",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16819",
+     "sha256": "d09dc09ec96bc66cb861984f76c9a0436ce3a07a5835f3191b1bd94136b42470"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-323-1998",
+   "path": "ordin/finante/1998/323",
+   "short": "Ordin finante nr. 323/1998",
+   "title": "Ordinul nr. 323/1998 privind aprobarea Instrucțiunilor nr. 45.447/1998 pentru actualizarea cuantumurilor indemnizațiilor de delegare și de detașare, potrivit prevederilor art. 3 din Hotărârea Guvernului nr. 543/1995 privind drepturile bănești ale salariaților instituțiilor publice și regiilor autonome cu specific deosebit pe perioada delegării și detașării în alta localitate, precum și în cazul deplasării, în cadrul localității, în interesul serviciului, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14508",
+   "versions": [
+    {
+     "from": "1998-03-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14508",
+     "sha256": "e41c61742dedbd3f64005460f864df459af463b06a0d32dcae7ef1e5655127a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-375-1998",
+   "path": "ordin/finante/1998/375",
+   "short": "Ordin finante nr. 375/1998",
+   "title": "Ordinul nr. 375/1998 pentru aprobarea valorilor nominale, a modelarului, a caracteristicilor și a modului de tipărire, livrare, difuzare și păstrare a timbrelor fiscale mobile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14509",
+   "versions": [
+    {
+     "from": "1998-03-02",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14509",
+     "sha256": "ca2b96fc1810a2ea430f11fbe6c9f2dd6dbb4454b1ad558ffe9fef6e02264e5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-389-1998",
+   "path": "ordin/finante/1998/389",
+   "short": "Ordin finante nr. 389/1998",
+   "title": "Ordinul nr. 389/1998 privind lansarea unei emisiuni de titluri de stat seria 1998/VI.1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14511",
+   "versions": [
+    {
+     "from": "1998-03-03",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14511",
+     "sha256": "b85a4037ac8c2287a9e3ced79668e0f1fa8f91f51523a5b1492f212c46665b3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-40-1998",
+   "path": "ordin/finante/1998/40",
+   "short": "Ordin finante nr. 40/1998",
+   "title": "Ordinul nr. 40/1998 în legătură cu intrarea în vigoare a Convenției dintre Guvernul României și Guvernul Republicii Filipine pentru evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14171",
+   "versions": [
+    {
+     "from": "1998-01-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14171",
+     "sha256": "d8b890d4d0ab06c9a983d28d1172010fd9c61f9eaf5b4837bf0d5fa54dbbe4a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-454-1998",
+   "path": "ordin/finante/1998/454",
+   "short": "Ordin finante nr. 454/1998",
+   "title": "Ordinul nr. 454/1998 pentru aprobarea Metodologiei privind scutirea de la obligația garantării datoriei vamale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14513",
+   "versions": [
+    {
+     "from": "1998-03-18",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14513",
+     "sha256": "a5f145e4e2c8baa92013053e9e6dddabecbe175a03d92fc2d6171df7db52e6d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-457-1998",
+   "path": "ordin/finante/1998/457",
+   "short": "Ordin finante nr. 457/1998",
+   "title": "Ordinul nr. 457/1998 privind aprobarea Normelor metodologice pentru modificarea și completarea Normelor metodologice de aplicare a Ordonanței Guvernului nr. 23/1995 privind instituirea sistemului de marcare pentru țigarete, produse din tutun și băuturi alcoolice, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14514",
+   "versions": [
+    {
+     "from": "1998-04-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14514",
+     "sha256": "8195710b19e091598ca9b55467b76996e1fd0808eaefb708bd9108d173f308f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-515-1998",
+   "path": "ordin/finante/1998/515",
+   "short": "Ordin finante nr. 515/1998",
+   "title": "Ordinul nr. 515/1998 privind lansarea unor emisiuni de titluri de stat, seria VAL 3 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14516",
+   "versions": [
+    {
+     "from": "1998-03-11",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14516",
+     "sha256": "1b4b18318822d6a90abdc405bd29c3a7440be26f3b9d1e3aee1040d1ec928359"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-516-1998",
+   "path": "ordin/finante/1998/516",
+   "short": "Ordin finante nr. 516/1998",
+   "title": "Ordinul nr. 516/1998 pentru aprobarea modificării și completării modelelor unor formulare tipizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14517",
+   "versions": [
+    {
+     "from": "1998-03-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14517",
+     "sha256": "2684924e49afeb54aece3518b01c1aa909df1f23b941d662a67129ca550e9537"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-602-1998",
+   "path": "ordin/finante/1998/602",
+   "short": "Ordin finante nr. 602/1998",
+   "title": "Ordinul nr. 602/1998 privind lansarea unor emisiuni de titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14520",
+   "versions": [
+    {
+     "from": "1998-03-25",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14520",
+     "sha256": "69f41218ad0d9ccf4b58fd79fa880394ddd66dd5f2bc2834a678ebca294499f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-71-1998",
+   "path": "ordin/finante/1998/71",
+   "short": "Ordin finante nr. 71/1998",
+   "title": "Ordinul nr. 71/1998 privind lansarea unei emisiuni de titluri de stat, seria 1998/V.1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14278",
+   "versions": [
+    {
+     "from": "1998-01-23",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14278",
+     "sha256": "abadf6c0b6e81c474478ca79f45f02a685ca8aa81476716af42d187c71486b55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-770-1998",
+   "path": "ordin/finante/1998/770",
+   "short": "Ordin finante nr. 770/1998",
+   "title": "Ordinul nr. 770/1998 pentru aprobarea Normelor metodologice de aplicare a Ordonanței Guvernului nr. 14/1998 privind utilizarea veniturilor realizate de instituțiile publice finanțate integral din venituri extrabugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14524",
+   "versions": [
+    {
+     "from": "1998-04-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14524",
+     "sha256": "f2cfc43069bf421b709584701dd519c46a9b46c2d818d10c52562a64c41b1bc9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-784-1998",
+   "path": "ordin/finante/1998/784",
+   "short": "Ordin finante nr. 784/1998",
+   "title": "Ordinul nr. 784/1998 pentru aprobarea Normelor metodologice privind conținutul-cadru de organizare a licitațiilor, prezentare a ofertelor, adjudecare, contractare și decontare a execuției lucrărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14993",
+   "versions": [
+    {
+     "from": "1998-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14993",
+     "sha256": "593eedec28496389aab3a8af36629aefe197216f4107e7d8695303234db65c51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-815-1998",
+   "path": "ordin/finante/1998/815",
+   "short": "Ordin finante nr. 815/1998",
+   "title": "Ordinul nr. 815/1998 pentru modificarea unui formular tipizat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14903",
+   "versions": [
+    {
+     "from": "1998-06-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14903",
+     "sha256": "02a79289ac72c6cbb0bd967b0252c542eafba233e8aef74edad56ff9027d296a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-817-1998",
+   "path": "ordin/finante/1998/817",
+   "short": "Ordin finante nr. 817/1998",
+   "title": "Ordinul nr. 817/1998 pentru aprobarea regulamentului privind organizarea și funcționarea Gărzii financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14554",
+   "versions": [
+    {
+     "from": "1998-04-22",
+     "units": 57,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14554",
+     "sha256": "712ccdbfe1f4487f86c153ba3ca4fbba981927667463821777558978420c2671"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-90-1998",
+   "path": "ordin/finante/1998/90",
+   "short": "Ordin finante nr. 90/1998",
+   "title": "Ordinul nr. 90/1998 privind formularele cu regim special prevăzute în Catalogul formularelor tipizate, comune pe economie, cu regim special de tipărire, înseriere și numerotare, privind activitatea financiară și contabilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14330",
+   "versions": [
+    {
+     "from": "1998-02-27",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14330",
+     "sha256": "cc94b771d76f11b9c5bd1f0585c106cfc36d6e3888ef420af46646dab69a52eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-964-1998",
+   "path": "ordin/finante/1998/964",
+   "short": "Ordin finante nr. 964/1998",
+   "title": "Ordinul nr. 964/1998 privind aprobarea Normelor metodologice pentru aplicarea prevederilor Ordonanței Guvernului nr. 68/1997 privind procedura de întocmire și depunere a declarațiilor de impozite și taxe, aprobată și modificată prin Legea nr. 73/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15006",
+   "versions": [
+    {
+     "from": "1998-06-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15006",
+     "sha256": "f948f781177d72dbf62604ff924c64be1b8bee57af95b3c529f81f02fd9cf0e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-977-1998",
+   "path": "ordin/finante/1998/977",
+   "short": "Ordin finante nr. 977/1998",
+   "title": "Ordinul nr. 977/1998 privind actualizarea limitelor maxime de cheltuieli pentru acțiunile de protocol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14816",
+   "versions": [
+    {
+     "from": "1998-05-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14816",
+     "sha256": "0c6ec9e347e6c547e0a3e2767f1e2bb7c8560c451c743c07133e85b75fd41210"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-998-1998",
+   "path": "ordin/finante/1998/998",
+   "short": "Ordin finante nr. 998/1998",
+   "title": "Ordinul nr. 998/1998 privind aprobarea Normelor metodologice pentru modificarea și completarea Normelor metodologice de aplicare a Ordonanței Guvernului nr. 23/1995 privind instituirea sistemului de marcare pentru țigarete, produse din tutun și băuturi alcoolice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14841",
+   "versions": [
+    {
+     "from": "1998-06-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14841",
+     "sha256": "ee9847e797defb345fddada45f13c305e01868947782abc54d5b1ccc147f0b36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1280-c-1998",
+   "path": "ordin/justitie/1998/1280-c",
+   "short": "Ordin justitie nr. 1280/C/1998",
+   "title": "Ordinul nr. 1.280/C/1998 ORDIN nr. 1.280/c din 14 iulie 1998 pentru aprobarea Normelor metodologice privind constituirea, utilizarea și reportarea veniturilor extrabugetare reprezentând indemnizații cuvenite pentru cazurile de producere a riscurilor asigurate la bunurile din dotare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15414",
+   "versions": [
+    {
+     "from": "1998-08-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15414",
+     "sha256": "17d392287791a8639a6023d84f7177f7004eb28c4537e067f170f8a1859d1a98"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-462-1998",
+   "path": "ordin/justitie/1998/462",
+   "short": "Ordin justitie nr. 462/1998",
+   "title": "Ordinul nr. 462/1998 pentru aprobarea Regulamentului de aplicare a Legii nr. 178/1997 pentru autorizarea și plata interpreților și traducătorilor folosiți de organele de urmărire penală, de instanțele judecătorești, de birourile notarilor publici, de avocați și de Ministerul Justiției",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16213",
+   "versions": [
+    {
+     "from": "1998-11-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16213",
+     "sha256": "e641c2a6950cd52a5520ac308f6bb074f9ecb4525c9adc5e45764833e7b320bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-852-c-1998",
+   "path": "ordin/justitie/1998/852-c",
+   "short": "Ordin justitie nr. 852/C/1998",
+   "title": "Ordinul nr. 852/C/1998 pentru abilitarea cu puteri de ancheta a unor membri ai Consiliului Concurentei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14773",
+   "versions": [
+    {
+     "from": "1998-05-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14773",
+     "sha256": "70b977c5c7c7ccdb03daeaca6990bfee2c4d61e531dfd8b199d39b2d07765ae0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-187-1998",
+   "path": "ordin/munca/1998/187",
+   "short": "Ordin munca nr. 187/1998",
+   "title": "Ordinul nr. 187/1998 privind aprobarea Regulamentului de organizare și funcționare a Comitetului de securitate și sănătate în munca",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14630",
+   "versions": [
+    {
+     "from": "1998-04-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14630",
+     "sha256": "3d9023fce3b17862b63c9530d0853f22de62ddda4f3cfbb2c9eccfe407780546"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-236-1998",
+   "path": "ordin/munca/1998/236",
+   "short": "Ordin munca nr. 236/1998",
+   "title": "Ordinul nr. 236/1998 privind aprobarea Regulamentului de atestare a capacității profesionale a unor persoane fizice și de abilitare a unor persoane juridice pentru a presta servicii în domeniul protecției muncii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14758",
+   "versions": [
+    {
+     "from": "1998-05-26",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14758",
+     "sha256": "e54cec267473f0116d251ae7fa62c8c12fc8905a13dcddb8bc0102003063b121"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-24-1998",
+   "path": "ordin/munca/1998/24",
+   "short": "Ordin munca nr. 24/1998",
+   "title": "Ordinul nr. 24/1998 privind aprobarea Normelor specifice de protecție a muncii pentru activitatea de valorificare a deșeurilor proteice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14094",
+   "versions": [
+    {
+     "from": "1998-02-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14094",
+     "sha256": "980fd5752e6509aa37e2099de652954f9aa6edd2ecd9ddaa60f14642ee10bebd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-281-1998",
+   "path": "ordin/munca/1998/281",
+   "short": "Ordin munca nr. 281/1998",
+   "title": "Ordinul nr. 281/1998 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanței Guvernului nr. 7/1998, privind unele măsuri de protecție a personalului civil disponibilizat ca urmare a programului de restructurare a armatei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15166",
+   "versions": [
+    {
+     "from": "1998-07-14",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15166",
+     "sha256": "3bc8aa3a378edd3b0f67867ee67f5caa0663f3441a6579c66ee0a2d3ea5e41cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-330-1998",
+   "path": "ordin/munca/1998/330",
+   "short": "Ordin munca nr. 330/1998",
+   "title": "Ordinul nr. 330/1998 privind aprobarea Normelor specifice de protecție a muncii pentru transportul intern",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15090",
+   "versions": [
+    {
+     "from": "1998-07-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15090",
+     "sha256": "1836425b07d95dea21c274e12ea96662ee97601394b98e6331850d7a2693cd44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-356-1998",
+   "path": "ordin/munca/1998/356",
+   "short": "Ordin munca nr. 356/1998",
+   "title": "Ordinul nr. 356/1998 privind aprobarea Normelor specifice de protecție a muncii pentru transporturi navale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15312",
+   "versions": [
+    {
+     "from": "1998-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15312",
+     "sha256": "a28fafa7fc364b052867216da36d2fafd03428a93f9f3b1b673f7236fa456a8e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-357-1998",
+   "path": "ordin/munca/1998/357",
+   "short": "Ordin munca nr. 357/1998",
+   "title": "Ordinul nr. 357/1998 privind aprobarea Normelor specifice de protecție a muncii pentru exploatarea și întreținerea drumurilor și podurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15313",
+   "versions": [
+    {
+     "from": "1998-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15313",
+     "sha256": "4236758288f56ae3908779b14880ca3e18fec810c46d7528bb1bf5d6707f2ae9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-358-1998",
+   "path": "ordin/munca/1998/358",
+   "short": "Ordin munca nr. 358/1998",
+   "title": "Ordinul nr. 358/1998 privind aprobarea Normelor specifice de protecție a muncii pentru instalații frigorifice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15314",
+   "versions": [
+    {
+     "from": "1998-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15314",
+     "sha256": "af42552911fa6e6da66467d1f104253879595be4f9fc40d1981de5e699dc26b6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-359-1998",
+   "path": "ordin/munca/1998/359",
+   "short": "Ordin munca nr. 359/1998",
+   "title": "Ordinul nr. 359/1998 privind aprobarea Normelor specifice de protecție a muncii pentru fabricarea cocsului și a produselor cocsochimice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15315",
+   "versions": [
+    {
+     "from": "1998-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15315",
+     "sha256": "9b442e7f6caec5f75d057b4a30f72feb023ac724b09d665157227d3cbc05de9f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-360-1998",
+   "path": "ordin/munca/1998/360",
+   "short": "Ordin munca nr. 360/1998",
+   "title": "Ordinul nr. 360/1998 privind aprobarea Normelor specifice de protecție a muncii pentru fabricarea produselor de morărit și panificație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15316",
+   "versions": [
+    {
+     "from": "1998-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15316",
+     "sha256": "02496c4989a57bdeced7ebe976d7e45dff1659a42c7aea3a28d618537d07a5de"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-411-1998",
+   "path": "ordin/munca/1998/411",
+   "short": "Ordin munca nr. 411/1998",
+   "title": "Ordinul nr. 411/1998 privind aprobarea Normelor specifice de protecție a muncii pentru activități în domeniul sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15874",
+   "versions": [
+    {
+     "from": "1998-10-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15874",
+     "sha256": "084e891798150ef463b84591efb77504f0453ccd920da044e01208ef14128147"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-412-1998",
+   "path": "ordin/munca/1998/412",
+   "short": "Ordin munca nr. 412/1998",
+   "title": "Ordinul nr. 412/1998 privind aprobarea Normelor specifice de protecție a muncii pentru elaborarea și turnarea oțelului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15875",
+   "versions": [
+    {
+     "from": "1998-10-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15875",
+     "sha256": "10481b1e0252862025d5481390c2bf3da0b0cc25e1ca9085224b5e2098c34ae0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-413-1998",
+   "path": "ordin/munca/1998/413",
+   "short": "Ordin munca nr. 413/1998",
+   "title": "Ordinul nr. 413/1998 privind aprobarea Normelor specifice de protecție a muncii pentru elaborarea și turnarea fontei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15918",
+   "versions": [
+    {
+     "from": "1998-10-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15918",
+     "sha256": "3fc0974b81ab99b2e63cf374b6bb93eae8e2254cd202cff92a0b5d56d170fea9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-414-1998",
+   "path": "ordin/munca/1998/414",
+   "short": "Ordin munca nr. 414/1998",
+   "title": "Ordinul nr. 414/1998 privind aprobarea Normelor specifice de protecție a muncii pentru activitatea în turnătorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15919",
+   "versions": [
+    {
+     "from": "1998-10-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15919",
+     "sha256": "c4e9d787ce79f1f6befd6398681c83283035ba9fa535df0c9ca7efaf1cb270d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-415-1998",
+   "path": "ordin/munca/1998/415",
+   "short": "Ordin munca nr. 415/1998",
+   "title": "Ordinul nr. 415/1998 privind aprobarea Normelor specifice de protecție a muncii pentru fabricarea componentelor și echipamentelor electrice, electrotehnice și a materialelor electroizolante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15920",
+   "versions": [
+    {
+     "from": "1998-10-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15920",
+     "sha256": "11647aa8f389da236515768cafbac9eb6a3cf5e7506743bf483c3b64fac258fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-416-1998",
+   "path": "ordin/munca/1998/416",
+   "short": "Ordin munca nr. 416/1998",
+   "title": "Ordinul nr. 416/1998 privind aprobarea Normelor specifice de protecție a muncii pentru exploatarea în subteran a minereurilor feroase, neferoase, rare, radioactive și a nemetaliferelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15921",
+   "versions": [
+    {
+     "from": "1998-10-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15921",
+     "sha256": "ab05d7cdafe8a480b8d8d6322c33d18a74f167f746effd5d917c85fa9de0aade"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-561-1998",
+   "path": "ordin/munca/1998/561",
+   "short": "Ordin munca nr. 561/1998",
+   "title": "Ordinul nr. 561/1998 privind aprobarea Normelor specifice de protecție a muncii pentru fabricarea produselor lactate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16782",
+   "versions": [
+    {
+     "from": "1999-01-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16782",
+     "sha256": "c6615e9ba9f30025cf0c3f69e7dd6f0290d7d8e67b4240b900871ff37e319445"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-634-1998",
+   "path": "ordin/munca/1998/634",
+   "short": "Ordin munca nr. 634/1998",
+   "title": "Ordinul nr. 634/1998 privind completarea Clasificării ocupațiilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16691",
+   "versions": [
+    {
+     "from": "1999-01-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16691",
+     "sha256": "e92739692beff538ece269c791a238f1fa733ea33df2d778fef2498695eff59c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-9-1998",
+   "path": "ordin/munca/1998/9",
+   "short": "Ordin munca nr. 9/1998",
+   "title": "Ordinul nr. 9/1998 privind aprobarea Normelor specifice de protecție a muncii pentru îmbunătățiri funciare și irigații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14010",
+   "versions": [
+    {
+     "from": "1998-02-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14010",
+     "sha256": "735a80eff0aa93482e306f73bcef27e58dc29870b10e013dce4483d1aa75f415"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-714-1998",
+   "path": "ordin/sanatate/1998/714",
+   "short": "Ordin sanatate nr. 714/1998",
+   "title": "Ordinul nr. 714/1998 privind aprobarea Nomenclatorului medicamentelor și produselor biologice de uz uman pentru anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17778",
+   "versions": [
+    {
+     "from": "1999-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17778",
+     "sha256": "24c79b442b3add56a2a4adca5e4f84c4b874b4fb9e6cc2dee39653adc9b0dcf3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-754-1998",
+   "path": "ordin/sanatate/1998/754",
+   "short": "Ordin sanatate nr. 754/1998",
+   "title": "Ordinul nr. 754/1998 privind aprobarea Procedurii și competentelor de acordare a unor înlesniri la plata obligațiilor datorate Fondului special pentru sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16503",
+   "versions": [
+    {
+     "from": "1998-12-28",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16503",
+     "sha256": "f032f3ea90d85e79d3a4cd475d1a0e55a75e2ebdb91140aeaf85a6b1177af1b9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-805-1998",
+   "path": "ordin/sanatate/1998/805",
+   "short": "Ordin sanatate nr. 805/1998",
+   "title": "Ordinul nr. 805/1998 privind reglementarea situației asistenților medicali și a altor categorii de personal cu pregătire postliceala și medie, încadrați cu nerespectarea Normelor privind schimbarea specialității personalului mediu și auxiliar, aprobate prin Ordinul ministrului sănătății nr. 108/1971",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15956",
+   "versions": [
+    {
+     "from": "1998-10-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15956",
+     "sha256": "6340a4e1e4ed7787f1f4a1224c315386c5a4e07ef8e2448f02e483246fa6a4a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-819-1998",
+   "path": "ordin/sanatate/1998/819",
+   "short": "Ordin sanatate nr. 819/1998",
+   "title": "Ordinul nr. 819/1998 pentru modificarea și completarea Normelor metodologice privind constituirea Fondului inițial de asigurări sociale de sănătate în anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14650",
+   "versions": [
+    {
+     "from": "1998-04-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14650",
+     "sha256": "209eaf99658667cf15881047ab07064738eb4ddc0b5b23fa4e960c2f96822118"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-975-1998",
+   "path": "ordin/sanatate/1998/975",
+   "short": "Ordin sanatate nr. 975/1998",
+   "title": "Ordinul nr. 975/1998 privind aprobarea Normelor igienico-sanitare pentru alimente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18423",
+   "versions": [
+    {
+     "from": "1999-06-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18423",
+     "sha256": "fc44744c608185a5804321e610fcf07b4a3254d33d0c6df219c008c029f916b1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-976-1998",
+   "path": "ordin/sanatate/1998/976",
+   "short": "Ordin sanatate nr. 976/1998",
+   "title": "Ordinul nr. 976/1998 pentru aprobarea Normelor de igiena privind producția, prelucrarea, depozitarea, păstrarea, transportul și desfacerea alimentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18424",
+   "versions": [
+    {
+     "from": "1999-06-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18424",
+     "sha256": "ec32e04530a9a2aa5e984a9817820e5614178abd5100d8abdfc66b5d049b6607"
+    }
+   ]
+  }
+ ]
+}

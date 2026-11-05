@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "precizari/1997",
+ "acts": [
+  {
+   "slug": "precizari-bnr-3-1997",
+   "path": "precizari/bnr/1997/3",
+   "short": "Precizări bnr nr. 3/1997",
+   "title": "Precizările nr. 3/1997 privind evidențierea în contabilitate, în cursul anului 1997, a diferențelor de curs valutar de către societățile bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10805",
+   "versions": [
+    {
+     "from": "1997-09-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10805",
+     "sha256": "4072d006806cb7a893a45e024e2b1eafc138f4c31f561f0999c84a33e8afecdd"
+    }
+   ]
+  },
+  {
+   "slug": "precizari-finante-22475-1997",
+   "path": "precizari/finante/1997/22475",
+   "short": "Precizări finante nr. 22475/1997",
+   "title": "Precizările nr. 22.475/1997 privind virarea la bugetul de stat a taxei asupra tranzacțiilor cu valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13897",
+   "versions": [
+    {
+     "from": "1997-08-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13897",
+     "sha256": "0f5dcc19aa2a2766adfdcc901de2e69884576a48b4571e7d4755bf9fa42edbd7"
+    }
+   ]
+  }
+ ]
+}

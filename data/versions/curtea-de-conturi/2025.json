@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "curtea-de-conturi/2025",
+ "acts": [
+  {
+   "slug": "curtea-de-conturi-hotarare-plen-746-2025",
+   "path": "curtea-de-conturi/hotarare-plen/2025/746",
+   "short": "Hotărârea Curtea de Conturi nr. 746/2025",
+   "title": "HOTĂRÂRE nr. 746 din 8 iulie 2025 pentru modificarea şi completarea Regulamentului privind activitatea de audit public extern, aprobat prin Hotărârea plenului Curţii de Conturi nr. 629/2022",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/299898",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/299898",
+     "sha256": "5789e0a74ae29a4abfb7fb0ee3b9c364efb7dc1dacfa71d32376aea34b4e10da"
+    }
+   ]
+  },
+  {
+   "slug": "curtea-de-conturi-hotarare-plen-855-2025",
+   "path": "curtea-de-conturi/hotarare-plen/2025/855",
+   "short": "Hotărârea Curtea de Conturi nr. 855/2025",
+   "title": "HOTĂRÂRE nr. 855 din 7 august 2025 pentru modificarea Hotărârii plenului Curţii de Conturi nr. 330/2024 privind aprobarea criteriilor de majorare a salariilor pentru personalul din cadrul Curţii de Conturi, cu excepţia personalului din cadrul Autorităţii de Audit, conform prevederilor Legii nr. 490/2004 privind stimularea financiară a personalului care gestionează fonduri comunitare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/301292",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/301292",
+     "sha256": "04ec8365cc8d238bd31531a3031e98c29eaab040d2d353e1135009184b23dff9"
+    }
+   ]
+  },
+  {
+   "slug": "curtea-de-conturi-hotarare-plen-940-2025",
+   "path": "curtea-de-conturi/hotarare-plen/2025/940",
+   "short": "Hotărârea Curtea de Conturi nr. 940/2025",
+   "title": "HOTĂRÂRE nr. 940 din 28 august 2025 pentru modificarea Hotărârii plenului Curţii de Conturi nr. 87/2009 privind aprobarea criteriilor de majorare a salariilor pentru personalul din cadrul Autorităţii de Audit, conform prevederilor Legii nr. 490/2004 privind stimularea financiară a personalului care gestionează fonduri comunitare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/301836",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/301836",
+     "sha256": "8b79a10dc408cd405d49c8b7699af5e7d8b7dd95b30b34d61ab78aa58a276eaa"
+    }
+   ]
+  }
+ ]
+}

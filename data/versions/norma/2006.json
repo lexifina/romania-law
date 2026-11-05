@@ -1,0 +1,651 @@
+{
+ "country": "RO",
+ "shard": "norma/2006",
+ "acts": [
+  {
+   "slug": "norma-bnr-1-2006",
+   "path": "norma/bnr/2006/1",
+   "short": "Norma bnr nr. 1/2006",
+   "title": "Norma nr. 1/2006 în aplicarea Regulamentului nr. 12/2005 privind piața secundară a titlurilor de stat administrată de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68958",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 78,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68958",
+     "sha256": "1c96ceeba987ca6cfe151adc40da47922f42176c751e9bd4cda9b6bad8e9fb7b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-10-2006",
+   "path": "norma/bnr/2006/10",
+   "short": "Norma bnr nr. 10/2006",
+   "title": "Norma nr. 10/2006 pentru modificarea și completarea Normei Băncii Naționale a României nr. 10/2004 privind autorizarea băncilor, instituțiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73398",
+   "versions": [
+    {
+     "from": "2006-07-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73398",
+     "sha256": "92960189390abab6001790959f340d316498dd23c50395c2b14c40bf0c8d5441"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-11-2006",
+   "path": "norma/bnr/2006/11",
+   "short": "Norma bnr nr. 11/2006",
+   "title": "Norma nr. 11/2006 privind modificarea și completarea Normelor metodologice ale Băncii Naționale a României nr. 12/2002 pentru aplicarea Regulamentului Băncii Naționale a României nr. 5/2002 privind clasificarea creditelor și plasamentelor, precum și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73233",
+   "versions": [
+    {
+     "from": "2006-07-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73233",
+     "sha256": "b962b6063a67e3a1ffd17b9602cde99076c245ebccc178dafdb50b77676686a9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-12-2006",
+   "path": "norma/bnr/2006/12",
+   "short": "Norma bnr nr. 12/2006",
+   "title": "Norma nr. 12/2006 pentru modificarea și completarea Normelor Băncii Naționale a României nr. 11/2003 privind supravegherea pe bază individuală și consolidată a fondurilor proprii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73234",
+   "versions": [
+    {
+     "from": "2006-07-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73234",
+     "sha256": "87fd1070e913034d5d51be7ea9a0b80b68ca3f4cc5e342e53ad0b59232700c04"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-13-2006",
+   "path": "norma/bnr/2006/13",
+   "short": "Norma bnr nr. 13/2006",
+   "title": "Norma nr. 13/2006 privind raportarea statistică a datelor pentru elaborarea bilanțului monetar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74123",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74123",
+     "sha256": "b9ddad2c743e529b8c8547240057a49bbb3d25b114b5fb1f36c721e15f61d2a8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-14-2006",
+   "path": "norma/bnr/2006/14",
+   "short": "Norma bnr nr. 14/2006",
+   "title": "Norma nr. 14/2006 privind statistica ratelor dobânzii practicate de instituțiile de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74110",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74110",
+     "sha256": "c0d365d048df5766a41da2e155610d8b49f67b2b563aab667f74b6967c122a2a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-15-2006",
+   "path": "norma/bnr/2006/15",
+   "short": "Norma bnr nr. 15/2006",
+   "title": "Norma nr. 15/2006 privind transmiterea indicatorilor primari prin intermediul Sistemului informatic de raportare către Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74631",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74631",
+     "sha256": "2f6c9317453e0ab2eb6bad579c805449d6a3aeb2eaaab7fc5347e5a3d5d4d2e5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-16-2006",
+   "path": "norma/bnr/2006/16",
+   "short": "Norma bnr nr. 16/2006",
+   "title": "Norma nr. 16/2006 privind fondurile proprii ale instituțiilor financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75004",
+   "versions": [
+    {
+     "from": "2006-09-11",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75004",
+     "sha256": "070a43fd442d2cb45ec9c280df9686760fc21bf9264ef8b43d8021ecc614c414"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-17-2006",
+   "path": "norma/bnr/2006/17",
+   "short": "Norma bnr nr. 17/2006",
+   "title": "Norma nr. 17/2006 privind supravegherea expunerilor instituțiilor financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75005",
+   "versions": [
+    {
+     "from": "2006-09-11",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75005",
+     "sha256": "6fe877f786255b43fca717da6e1becda53aefb8dc2d2bfe91eaeaf723ade2e83"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-18-2006",
+   "path": "norma/bnr/2006/18",
+   "short": "Norma bnr nr. 18/2006",
+   "title": "Norma nr. 18/2006 privind organizarea și controlul intern, administrarea riscurilor semnificative, precum și desfășurarea activității de audit intern a instituțiilor financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74996",
+   "versions": [
+    {
+     "from": "2006-09-11",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74996",
+     "sha256": "c9e82aef61ca6df52e404eeaf4e2f45b55c2023ab237952c57b8dbf2cb09b8ac"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-19-2006",
+   "path": "norma/bnr/2006/19",
+   "short": "Norma bnr nr. 19/2006",
+   "title": "Norma nr. 19/2006 privind categoriile de active eligibile pentru suplimentarea portofoliului și substituirea de credite ipotecare din portofoliu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74997",
+   "versions": [
+    {
+     "from": "2006-09-11",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74997",
+     "sha256": "d774b0a2c7ea892284596ee2f7888f301029c88aedbe3444ec0edf241644d622"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-2-2006",
+   "path": "norma/bnr/2006/2",
+   "short": "Norma bnr nr. 2/2006",
+   "title": "Norma nr. 2/2006 privind capitalul minim al instituțiilor financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71192",
+   "versions": [
+    {
+     "from": "2006-05-03",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71192",
+     "sha256": "81ec80a5f5f6afd114749d729b598bd50f4542037132c83983ab8680d34becef"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-20-2006",
+   "path": "norma/bnr/2006/20",
+   "short": "Norma bnr nr. 20/2006",
+   "title": "Norma nr. 20/2006 pentru modificarea și completarea Normei Băncii Naționale a României nr. 10/2005 privind limitarea riscului de credit la creditele destinate persoanelor fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75331",
+   "versions": [
+    {
+     "from": "2006-09-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75331",
+     "sha256": "44d0009bac9029c909345aa2577ca94241ed5d7d54d1ae5633b0bad129a0d563"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-21-2006",
+   "path": "norma/bnr/2006/21",
+   "short": "Norma bnr nr. 21/2006",
+   "title": "Norma nr. 21/2006 privind raportarea tranzacțiilor cu instrumente financiare derivate având ca suport rata dobânzii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76607",
+   "versions": [
+    {
+     "from": "2006-12-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76607",
+     "sha256": "f851d4b1343fbe8d88bf03dca22b9693c8dfcb4c82e61811eb57b9e8ff111fb8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-22-2006",
+   "path": "norma/bnr/2006/22",
+   "short": "Norma bnr nr. 22/2006",
+   "title": "Norma nr. 22/2006 privind raportarea tranzacțiilor cu opțiuni având ca suport cursul de schimb al monedei naționale și a swap-urilor valutare pe rata dobânzii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76614",
+   "versions": [
+    {
+     "from": "2006-12-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76614",
+     "sha256": "fe4d00b85ee1ea2a6ab1c6ea732e7d38cc44925c437799d3299962ba8a43ede8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-23-2006",
+   "path": "norma/bnr/2006/23",
+   "short": "Norma bnr nr. 23/2006",
+   "title": "Norma nr. 23/2006 pentru modificarea și completarea Normelor Băncii Naționale a României nr. 13/2005 în aplicarea Regulamentului Băncii Naționale a României nr. 11/2005 privind piața primară a titlurilor de stat administrată de Banca Națională a României, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77814",
+   "versions": [
+    {
+     "from": "2006-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77814",
+     "sha256": "8cc240404122fb00d8cdaf878b3761b92f5fa74b1720c5da460e8feac602dcac"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-24-2006",
+   "path": "norma/bnr/2006/24",
+   "short": "Norma bnr nr. 24/2006",
+   "title": "Norma nr. 24/2006 pentru abrogarea Normelor Băncii Naționale a României nr. 11/2005 privind limitarea gradului de concentrare a expunerilor din credite în valută",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77889",
+   "versions": [
+    {
+     "from": "2006-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77889",
+     "sha256": "67ec0f4eddf90ec9125930ddb107b10f82d45be05d9227a665ae58929fcd484a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-25-2006",
+   "path": "norma/bnr/2006/25",
+   "short": "Norma bnr nr. 25/2006",
+   "title": "Norma nr. 25/2006 pentru modificarea Normelor Băncii Naționale a României nr. 6/1998 privind notificarea deschiderii în România de reprezentante de către băncile străine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77890",
+   "versions": [
+    {
+     "from": "2006-12-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77890",
+     "sha256": "399cedeb1714af53cceeda8968b3c0cd01ae8779f6ad960cdd32888b5c0ada91"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-26-2006",
+   "path": "norma/bnr/2006/26",
+   "short": "Norma bnr nr. 26/2006",
+   "title": "Norma nr. 26/2006 privind raportarea statistică a datelor pentru elaborarea balanței de plăți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77965",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77965",
+     "sha256": "ba9dbea9e42bcda5ec20830213c6bb9414f95118d8c7cb7b54bbcf8900c682d4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-27-2006",
+   "path": "norma/bnr/2006/27",
+   "short": "Norma bnr nr. 27/2006",
+   "title": "Norma nr. 27/2006 pentru modificarea și completarea Normei Băncii Naționale a României nr. 4/2006 privind procedura de notificare și înscrierea în registre a instituțiilor financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78088",
+   "versions": [
+    {
+     "from": "2006-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78088",
+     "sha256": "3526a2c1e6d8588c7e7df8f750da7353605c2882490f202d47f1218b0ebff368"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-28-2006",
+   "path": "norma/bnr/2006/28",
+   "short": "Norma bnr nr. 28/2006",
+   "title": "Norma nr. 28/2006 privind termenul și procedura declarării la Banca Națională a României a persoanelor juridice fără scop patrimonial care desfășoară activitate de creditare în accepțiunea Ordonanței Guvernului nr. 28/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78072",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78072",
+     "sha256": "d7ced413c3305c27df44cae7def09506a2c5d36f71639d6dda395810950611b2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-3-2006",
+   "path": "norma/bnr/2006/3",
+   "short": "Norma bnr nr. 3/2006",
+   "title": "Norma nr. 3/2006 privind Registrul general, Registrul special și Registrul de evidență",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71193",
+   "versions": [
+    {
+     "from": "2006-05-03",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71193",
+     "sha256": "84ab0e93f05b3667e404d6629da2f8edf498af89f05ae44f3d82e3404fde208d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-4-2006",
+   "path": "norma/bnr/2006/4",
+   "short": "Norma bnr nr. 4/2006",
+   "title": "Norma nr. 4/2006 privind procedura de notificare și înscrierea în registre a instituțiilor financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71206",
+   "versions": [
+    {
+     "from": "2006-05-03",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71206",
+     "sha256": "7d36e1deeb352bce966e5046b75a2f9419443881e9a634c29d3cd2c86c8cb6ec"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-5-2006",
+   "path": "norma/bnr/2006/5",
+   "short": "Norma bnr nr. 5/2006",
+   "title": "Norma nr. 5/2006 pentru modificarea și completarea Normelor Băncii Naționale a României nr. 13/2005 în aplicarea Regulamentului Băncii Naționale a României nr. 11/2005 privind piața primară a titlurilor de stat administrată de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72476",
+   "versions": [
+    {
+     "from": "2006-06-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72476",
+     "sha256": "65621927fd95b8d2bcef337f7e8f02ca11f7c1e92e1c69f6471ea5920a7a211f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-7-2006",
+   "path": "norma/bnr/2006/7",
+   "short": "Norma bnr nr. 7/2006",
+   "title": "Norma nr. 7/2006 privind modificările în situația instituțiilor financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/72420",
+   "versions": [
+    {
+     "from": "2006-06-07",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/72420",
+     "sha256": "c59c9fcbd53b46ef476fecee5c74a129675ee7866ad0eca8584d348c853108d0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-8-2006",
+   "path": "norma/bnr/2006/8",
+   "short": "Norma bnr nr. 8/2006",
+   "title": "Norma nr. 8/2006 privind operațiunile cu numerar ale instituțiilor de credit și Trezoreriei Statului în relația cu Banca Națională a României și decontarea acestor operațiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73035",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73035",
+     "sha256": "dd691fa4d633228d2fe26c5a5429edc92c000bad438ecd76bad594645f48a4b0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-9-2006",
+   "path": "norma/bnr/2006/9",
+   "short": "Norma bnr nr. 9/2006",
+   "title": "Norma nr. 9/2006 pentru modificarea Normelor Băncii Naționale a României nr. 12/2003 privind supravegherea solvabilității și expunerilor mari ale instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73232",
+   "versions": [
+    {
+     "from": "2006-07-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73232",
+     "sha256": "5576d85b2440d415462cf51081bce37e4c8aafd6b0b21194a8fc3f5203b8a1c8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-1-2006",
+   "path": "norma/csspp/2006/1",
+   "short": "Norma csspp nr. 1/2006",
+   "title": "Norma nr. 1/2006 privind autorizarea de constituire a societății de pensii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74933",
+   "versions": [
+    {
+     "from": "2006-09-08",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74933",
+     "sha256": "f9f3de90e9d2c9901269368d7ab38292db867f554e9c01b1b473118f4832be37"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-10-2006",
+   "path": "norma/csspp/2006/10",
+   "short": "Norma csspp nr. 10/2006",
+   "title": "Norma nr. 10/2006 privind marketingul prospectului schemei de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76274",
+   "versions": [
+    {
+     "from": "2006-10-27",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76274",
+     "sha256": "41477b31deeb6d5d7931b750751be23f005c8aef98946f69298eab37cfb72e27"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-11-2006",
+   "path": "norma/csspp/2006/11",
+   "short": "Norma csspp nr. 11/2006",
+   "title": "Norma nr. 11/2006 privind activitatea de depozitare a activelor fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91128",
+   "versions": [
+    {
+     "from": "2006-10-27",
+     "units": 55,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91128",
+     "sha256": "7f9e87d12196008b4c68f3caf65d8e4bb3d541add8d0cfea924bcbe5b6213d9e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-12-2006",
+   "path": "norma/csspp/2006/12",
+   "short": "Norma csspp nr. 12/2006",
+   "title": "Norma nr. 12/2006 privind participanții la un fond de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76249",
+   "versions": [
+    {
+     "from": "2006-10-27",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76249",
+     "sha256": "2dacc4d040e6c326a8cc03fbac8e33b0c440452a690621587adc1cbcbc0f6e82"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-13-2006",
+   "path": "norma/csspp/2006/13",
+   "short": "Norma csspp nr. 13/2006",
+   "title": "Norma nr. 13/2006 privind autorizarea prospectului schemei de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76263",
+   "versions": [
+    {
+     "from": "2006-10-27",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76263",
+     "sha256": "ae9916fdcd054743713e65b2fd37d5a8d52777fda0d00a78e96b93ab9910c4e8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-14-2006",
+   "path": "norma/csspp/2006/14",
+   "short": "Norma csspp nr. 14/2006",
+   "title": "Norma nr. 14/2006 privind transferul participanților între fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76268",
+   "versions": [
+    {
+     "from": "2006-10-27",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76268",
+     "sha256": "337d8b6e6a36c28905b6b556c236610370609954498322a3b393e89f35e5616d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-16-2006",
+   "path": "norma/csspp/2006/16",
+   "short": "Norma csspp nr. 16/2006",
+   "title": "Norma nr. 16/2006 pentru modificarea Normei nr. 2/2006 privind autorizarea societății de administrare a fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77710",
+   "versions": [
+    {
+     "from": "2006-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77710",
+     "sha256": "5af1c5a4dd4d2283ee78c26d417d9aa9961ee24447554768726a1c323dd2da33"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-17-2006",
+   "path": "norma/csspp/2006/17",
+   "short": "Norma csspp nr. 17/2006",
+   "title": "Norma nr. 17/2006 pentru modificarea Normei nr. 9/2006 privind taxele de autorizare, avizare și administrare în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77680",
+   "versions": [
+    {
+     "from": "2006-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77680",
+     "sha256": "dfc158c9e1c6fbcdd922436bef3765457c2d5dee4705fe5e4c81902fd50b09a6"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-18-2006",
+   "path": "norma/csspp/2006/18",
+   "short": "Norma csspp nr. 18/2006",
+   "title": "Norma nr. 18/2006 pentru modificarea Normei nr. 10/2006 privind marketingul prospectului schemei de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77707",
+   "versions": [
+    {
+     "from": "2006-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77707",
+     "sha256": "2fecc5d388bd1d69f2377a0b68b62f8704df40fc5851f0a300a3402da3d4968e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-19-2006",
+   "path": "norma/csspp/2006/19",
+   "short": "Norma csspp nr. 19/2006",
+   "title": "Norma nr. 19/2006 pentru modificarea Normei nr. 12/2006 privind participanții la un fond de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77693",
+   "versions": [
+    {
+     "from": "2006-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77693",
+     "sha256": "92fbb89b68ed78988cd75a36bafd51ff45ebe03b28a223d2b4af30f117af79a3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-2-2006",
+   "path": "norma/csspp/2006/2",
+   "short": "Norma csspp nr. 2/2006",
+   "title": "Norma nr. 2/2006 privind autorizarea societății de administrare a fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74955",
+   "versions": [
+    {
+     "from": "2006-09-08",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74955",
+     "sha256": "c9531a181606912d11d1ba1b41b9f0e5dd372ebba72616ffb9624a244c2f5945"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-3-2006",
+   "path": "norma/csspp/2006/3",
+   "short": "Norma csspp nr. 3/2006",
+   "title": "Norma nr. 3/2006 privind autorizarea fondului de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74966",
+   "versions": [
+    {
+     "from": "2006-09-08",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74966",
+     "sha256": "2e7492237dd61c86cc953c0f5fd6d43c256d7271801021cf1cae1b0097cfde86"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-6-2006",
+   "path": "norma/csspp/2006/6",
+   "short": "Norma csspp nr. 6/2006",
+   "title": "Norma nr. 6/2006 privind prospectul schemei de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74980",
+   "versions": [
+    {
+     "from": "2006-09-08",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74980",
+     "sha256": "bfa6f013d87dce8a90a8d9c9716c9b136148e645ba03ed288f43cc4e6fc1abc0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-7-2006",
+   "path": "norma/csspp/2006/7",
+   "short": "Norma csspp nr. 7/2006",
+   "title": "Norma nr. 7/2006 privind încetarea activității administratorului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74926",
+   "versions": [
+    {
+     "from": "2006-09-08",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74926",
+     "sha256": "353eac551c3d9897691c7be662e41b985af800adfcfdef388cdfbdf26fb13c11"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-8-2006",
+   "path": "norma/csspp/2006/8",
+   "short": "Norma csspp nr. 8/2006",
+   "title": "Norma nr. 8/2006 privind auditorul financiar pentru fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/75148",
+   "versions": [
+    {
+     "from": "2006-09-15",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/75148",
+     "sha256": "ece7ee56c231257e50bb0b47924f7503d5200f5211bfa2f00508791253d65d60"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-9-2006",
+   "path": "norma/csspp/2006/9",
+   "short": "Norma csspp nr. 9/2006",
+   "title": "Norma nr. 9/2006 privind taxele de autorizare, avizare și administrare în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/76258",
+   "versions": [
+    {
+     "from": "2006-10-27",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76258",
+     "sha256": "badc22869070250f3a51e10eb8ccc7c709fe553c53d33cb793d70f5ececde28d"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,336 @@
+{
+ "country": "RO",
+ "shard": "decizie-bec/2024",
+ "acts": [
+  {
+   "slug": "decizie-bec-europarlamentare-2024-172h",
+   "path": "decizie-bec/europarlamentare-2024/172h",
+   "short": "Hotărârea BEC nr. 172h/2024",
+   "title": "HOTĂRÂRE nr. 172H din 28 mai 2024 privind interpretarea dispoziţiilor art. 46 alin. (15) şi (16) din Legea nr. 33/2007 privind organizarea şi desfăşurarea alegerilor pentru Parlamentul European, republicată, cu modificările ulterioare, şi ale art. 89 din Legea nr. 115/2015 pentru alegerea autorităţilor administraţiei publice locale, pentru modificarea Legii administraţiei publice locale nr. 215/2001 , precum şi pentru modificarea şi completarea Legii nr. 393/2004 privind Statutul aleşilor locali, cu modificările şi completările ulterioare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/283337",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/283337",
+     "sha256": "c93a9df9cd707f95c27936cf1474f249188ddf15f10971b648a5a8ebc7721400"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-europarlamentare-2024-41d",
+   "path": "decizie-bec/europarlamentare-2024/41d",
+   "short": "Decizia BEC nr. 41d/2024",
+   "title": "Decizia Biroului Electoral Central nr. 41d din 2024-04-13",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/281770",
+   "versions": [
+    {
+     "from": "2024-04-14",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/281770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-europarlamentare-2024-comunicat-2024-06-18",
+   "path": "decizie-bec/europarlamentare-2024/comunicat-2024-06-18",
+   "short": "Comunicatul BEC din 2024-06-18",
+   "title": "Comunicatul Biroului Electoral Central din 2024-06-18",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/284122",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/284122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-europarlamentare-2024-proces-verbal-2024-06-18",
+   "path": "decizie-bec/europarlamentare-2024/proces-verbal-2024-06-18",
+   "short": "Proces verbal BEC din 2024-06-18",
+   "title": "PROCES-VERBAL*) din 18 iunie 2024 privind centralizarea voturilor şi atribuirea mandatelor la alegerile pentru membrii din România în Parlamentul European din data de 9 iunie 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/284123",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/284123",
+     "sha256": "34129299f59727e2e46e97ea512d2ddb0dc19b6f03f85cae2186f1429d2f4b01"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2024-25h",
+   "path": "decizie-bec/locale-2024/25h",
+   "short": "Hotărârea Biroul Electoral Central pentru Alegerea Membrilor din România în Parlamentul European nr. 25h/2024",
+   "title": "HOTĂRÂRE nr. 25H din 17 aprilie 2024 privind aducerea la cunoştinţa publică a unui semn electoral admis la alegerile pentru autorităţile administraţiei publice locale din data de 9 iunie 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/281892",
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/281892",
+     "sha256": "66fcb8093331b92a9d750633dc4475c671c8d7105801fd6951f0e65f85f922ee"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2024-6h",
+   "path": "decizie-bec/locale-2024/6h",
+   "short": "Hotărârea BEC nr. 6h/2024",
+   "title": "HOTĂRÂRE nr. 6H din 11 noiembrie 2024 privind unele măsuri pentru organizarea şi desfăşurarea referendumurilor locale convocate la aceeaşi dată cu un tur de scrutin al alegerilor pentru Preşedintele României din anul 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/290553",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/290553",
+     "sha256": "247fed691d9ed08401a88028b1fc84f847ab93fc6f885fac2313f7b4c5aba2bc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2024-proces-verbal-2024-07-10-2",
+   "path": "decizie-bec/locale-2024/proces-verbal-2024-07-10-2",
+   "short": "Proces verbal BEC din 2024-07-10",
+   "title": "PROCES-VERBAL din 10 iulie 2024 privind centralizarea pe țară a voturilor și constatarea rezultatului pentru alegerea PRIMARILOR din data de 9 iunie 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/285281",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/285281",
+     "sha256": "e5e00e5175296df1d132839cad785626736d1d5ff74087d51d51abd9f7d4f435"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2024-proces-verbal-2024-07-10-3",
+   "path": "decizie-bec/locale-2024/proces-verbal-2024-07-10-3",
+   "short": "Proces verbal BEC din 2024-07-10",
+   "title": "PROCES-VERBAL din 10 iulie 2024 privind centralizarea pe țară a voturilor și constatarea rezultatului pentru alegerea PREȘEDINȚILOR CONSILIILOR JUDEȚENE din data de 9 iunie 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/285282",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/285282",
+     "sha256": "03200fa425eb5b7907116a1c80e16b425e3a877386f3a00dd61dedb8c1806588"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2024-proces-verbal-2024-07-10-4",
+   "path": "decizie-bec/locale-2024/proces-verbal-2024-07-10-4",
+   "short": "Proces verbal BEC din 2024-07-10",
+   "title": "PROCES-VERBAL din 10 iulie 2024 privind centralizarea pe țară a voturilor și constatarea rezultatului pentru alegerea CONSILIILOR JUDEȚENE din data de 9 iunie 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/285283",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/285283",
+     "sha256": "3e2d484235313184a8b8dbc9f1a61d8c360b9518a13ad1de463f291cde19a91a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2024-proces-verbal-2024-07-10-5",
+   "path": "decizie-bec/locale-2024/proces-verbal-2024-07-10-5",
+   "short": "Proces verbal BEC din 2024-07-10",
+   "title": "PROCES-VERBAL din 10 iulie 2024 privind constatarea rezultatului pentru alegerea CONSILIULUI GENERAL AL MUNICIPIULUI BUCUREȘTI din data de 9 iunie 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/285284",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/285284",
+     "sha256": "1666b2b45b36ff90a1e7ef3fffe0f4b2fad708f8dab9574ffdc74c0d835a6abe"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2024-proces-verbal-2024-07-10-6",
+   "path": "decizie-bec/locale-2024/proces-verbal-2024-07-10-6",
+   "short": "Proces verbal BEC din 2024-07-10",
+   "title": "PROCES-VERBAL din 10 iulie 2024 privind constatarea rezultatului pentru alegerea PRIMARULUI GENERAL AL MUNICIPIULUI BUCUREȘTI din data de 9 iunie 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/285285",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/285285",
+     "sha256": "b6c03a762b05bbbfaee8fd4677abe7747f99ec5b3803295909aae4b8eee03150"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2024-proces-verbal-2024-07-10",
+   "path": "decizie-bec/locale-2024/proces-verbal-2024-07-10",
+   "short": "Proces verbal BEC din 2024-07-10",
+   "title": "PROCES-VERBAL din 10 iulie 2024 privind centralizarea pe țară a voturilor și constatarea rezultatului pentru alegerea CONSILIILOR LOCALE din data de 9 iunie 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/285280",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/285280",
+     "sha256": "b77f8a78ee2b799effca50d9d2ab3ccad4870a641ba68131e1b93edcdedd25a7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2024-1-h",
+   "path": "decizie-bec/parlamentare-2024/1-h",
+   "short": "Hotărârea BEC nr. 1-h/2024",
+   "title": "HOTĂRÂRE nr. 1/H din 6 septembrie 2024 privind aprobarea Regulamentului de organizare şi funcţionare a birourilor şi oficiilor electorale constituite la alegerile pentru Senat şi Camera Deputaţilor din anul 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/288181",
+   "versions": [
+    {
+     "from": "2024-09-09",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/288181",
+     "sha256": "b02330347b55a738e5e423d2a0615d592bfbd0cce84b54385037e0fd0d86c686"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2024-4h",
+   "path": "decizie-bec/parlamentare-2024/4h",
+   "short": "Hotărârea BEC nr. 4h/2024",
+   "title": "HOTĂRÂRE nr. 4H din 19 septembrie 2024 privind completarea Hotărârii Biroului Electoral Central nr. 3H/2024 pentru interpretarea prevederilor art. 53 alin. (2) şi ale art. 54 alin. (1) din Legea nr. 208/2015 privind alegerea Senatului şi a Camerei Deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale Permanente, cu modificările şi completările ulterioare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/288745",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/288745",
+     "sha256": "f93efd034ab79b5e4af3384fd887150896b3c79bed262b0e60355a3e04fa7ac0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2024-5h",
+   "path": "decizie-bec/parlamentare-2024/5h",
+   "short": "Hotărârea BEC nr. 5h/2024",
+   "title": "HOTĂRÂRE nr. 5H din 20 septembrie 2024 privind interpretarea prevederilor art. 118^1 alin. (1) din Legea nr. 208/2015 privind alegerea Senatului şi a Camerei Deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale Permanente, cu modificările şi completările ulterioare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/288762",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/288762",
+     "sha256": "a784ec66350d7d4edb2974e3752cceea42d3946cf21628e4a4d95f5f1dcfb5b7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2024-6h",
+   "path": "decizie-bec/parlamentare-2024/6h",
+   "short": "Hotărârea BEC nr. 6h/2024",
+   "title": "HOTĂRÂRE nr. 6H din 27 septembrie 2024 pentru interpretarea prevederilor art. 13 alin. (6) şi (8) raportat la art. 60 alin. (1) din Legea nr. 208/2015 privind alegerea Senatului şi a Camerei Deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale Permanente, cu modificările şi completările ulterioare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/288975",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/288975",
+     "sha256": "0a867799d0122889537c752b32b8157e4c60ae9ca3356382311cb9105bee5a76"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2024-7h",
+   "path": "decizie-bec/parlamentare-2024/7h",
+   "short": "Hotărârea BEC nr. 7h/2024",
+   "title": "HOTĂRÂRE nr. 7H din 27 septembrie 2024 pentru interpretarea prevederilor art. 52 alin. (5) din Legea nr. 208/2015 privind alegerea Senatului şi a Camerei Deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale Permanente, cu modificările şi completările ulterioare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/288974",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/288974",
+     "sha256": "71d81a2c6f3a1c01188ee53d225adbaaba07a48d0ae2927585e3f00f793ab77f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2024-9h",
+   "path": "decizie-bec/parlamentare-2024/9h",
+   "short": "Hotărârea BEC nr. 9h/2024",
+   "title": "HOTĂRÂRE nr. 9H din 7 decembrie 2024 privind interpretarea prevederilor art. 67 alin. (5) din Legea nr. 370/2004 pentru alegerea Preşedintelui României, republicată, cu modificările şi completările ulterioare, prin raportare la dispoziţiile art. 5 din Ordonanţa de urgenţă a Guvernului nr. 98/2024 privind unele măsuri pentru organizarea şi desfăşurarea alegerilor pentru Preşedintele României din anul 2024 şi a alegerilor pentru Senat şi Camera Deputaţilor din anul 2024 şi ale art. 15^1 şi 15^2 din Legea nr. 3/2000 privind organizarea şi desfăşurarea referendumului, cu modificările şi completările ulterioare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/292117",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/292117",
+     "sha256": "6acb755dba3b7464dc6502e3e7804feab2cbb8c16f5056afa6ab6ae71f910753"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2024-proces-verbal-2024-10-30",
+   "path": "decizie-bec/parlamentare-2024/proces-verbal-2024-10-30",
+   "short": "Proces verbal BEC din 2024-10-30",
+   "title": "PROCES-VERBAL din 30 octombrie 2024 privind aducerea la cunoştinţa publică a listei cuprinzând denumirea şi semnele electorale ale partidelor politice, alianţelor politice şi organizaţiilor cetăţenilor aparţinând minorităţilor naţionale legal constituite care participă la alegerile pentru Senat şi Camera Deputaţilor din anul 2024",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/290169",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/290169",
+     "sha256": "ffbfa45df72b69933869007312d5df03c8a49f374bd4c204b2f016eeacf8c8ea"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2024-proces-verbal-2024-12-10-2",
+   "path": "decizie-bec/parlamentare-2024/proces-verbal-2024-12-10-2",
+   "short": "Proces verbal BEC din 2024-12-10",
+   "title": "Procese-verbale*) din 10 decembrie 2024 privind rezultatele finale ale alegerilor pentru Camera Deputaţilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/292149",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/292149",
+     "sha256": "750f9a4ff51eb50ffac9573771dd6565e7272d0cd92b4df8c09d7409076d90ec"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2024-proces-verbal-2024-12-10",
+   "path": "decizie-bec/parlamentare-2024/proces-verbal-2024-12-10",
+   "short": "Proces verbal BEC din 2024-12-10",
+   "title": "Procese-verbale*) din 10 decembrie 2024 privind rezultatele finale ale alegerilor pentru Senat",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/292148",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/292148",
+     "sha256": "48c008062303ae2cdca2672bbc37d397042a76b27a5fe23c88d300f6961a730d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-referendum-2024-8h",
+   "path": "decizie-bec/referendum-2024/8h",
+   "short": "Hotărârea BEC nr. 8h/2024",
+   "title": "Hotărârea Biroului Electoral Central nr. 8h din 2024-11-28",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/291794",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/291794",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

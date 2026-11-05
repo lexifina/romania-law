@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "regulament/2023",
+ "acts": [
+  {
+   "slug": "regulament-asf-1-2023",
+   "path": "regulament/asf/2023/1",
+   "short": "Regulament asf nr. 1/2023",
+   "title": "Regulamentul nr. 1/2023 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2016 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265250",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265250",
+     "sha256": "4204e6fd5d1ba81b939aa5bf29df7420650bfd05bf93a7f7c541bce4ba5bdf66"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-10-2023",
+   "path": "regulament/asf/2023/10",
+   "short": "Regulament asf nr. 10/2023",
+   "title": "Regulamentul nr. 10/2023 privind stabilirea pragurilor în aplicarea art. 3 din Regulamentul (UE) nr. 858/2022 al Parlamentului European și al Consiliului din 30 mai 2022 privind un regim-pilot pentru infrastructurile pieței bazate pe tehnologia registrelor distribuite, precum și de modificare a Regulamentelor (UE) nr. 600/2014 și (UE) nr. 909/2014 și a Directivei 2014/65/UE, precum și privind aplicarea Ghidului ESMA privind formularele, formatele și modelele standard pentru solicitarea aprobării de gestionare a unei infrastructuri a pieței bazate pe DLT",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/272429",
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/272429",
+     "sha256": "27063596dc854c762290aead837896a363b26410f4cb5b02868a8efc2b113a9c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-11-2023",
+   "path": "regulament/asf/2023/11",
+   "short": "Regulament asf nr. 11/2023",
+   "title": "Regulamentul nr. 11/2023 pentru modificarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2016 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273495",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273495",
+     "sha256": "5d50491eba357a505e6b03798081beeacbca8d0dcad97def3bc52a4b7cad7682"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-12-2023",
+   "path": "regulament/asf/2023/12",
+   "short": "Regulament asf nr. 12/2023",
+   "title": "Regulamentul nr. 12/2023 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 5/2019 privind reglementarea unor dispoziții referitoare la prestarea serviciilor și activităților de investiții conform Legii nr. 126/2018 privind piețele de instrumente financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275971",
+   "versions": [
+    {
+     "from": "2023-11-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275971",
+     "sha256": "8effdf0e0ddd42d2a410402f9a52c998685b148e9ea4a01dba51418690200843"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-13-2023",
+   "path": "regulament/asf/2023/13",
+   "short": "Regulament asf nr. 13/2023",
+   "title": "Regulamentul nr. 13/2023 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2016 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276179",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276179",
+     "sha256": "3e67a991ffd45e774a2b6301cf36e45d704241138327427d492a303b86991850"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-14-2023",
+   "path": "regulament/asf/2023/14",
+   "short": "Regulament asf nr. 14/2023",
+   "title": "Regulamentul nr. 14/2023 privind neaplicarea temporară a cotelor prevăzute la punctele 3, 6 și 9 din anexa nr. 2 la Regulamentul Autorității de Supraveghere Financiară nr. 16/2014 privind veniturile Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/276264",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/276264",
+     "sha256": "98abccbc0fcafd852ae8194e3a121da9d7c62e7f2aedb963cb7e35df9a75005f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-2-2023",
+   "path": "regulament/asf/2023/2",
+   "short": "Regulament asf nr. 2/2023",
+   "title": "Regulamentul nr. 2/2023 privind modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 3/2013 pentru autorizarea și funcționarea contrapărților centrale emis în conformitate cu prevederile Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului din 4 iulie 2012 privind instrumentele financiare derivate extrabursiere, contrapărțile centrale și registrele centrale de tranzacții, aprobat prin Hotărârea Consiliului Autorității de Supraveghere Financiară nr. 28/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265321",
+   "versions": [
+    {
+     "from": "2023-02-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265321",
+     "sha256": "e50fd94c7b557f85c77aa7975e75c602d0d436e5fd376ed49efa3f4ab8727ff0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-3-2023",
+   "path": "regulament/asf/2023/3",
+   "short": "Regulament asf nr. 3/2023",
+   "title": "Regulamentul nr. 3/2023 privind transmiterea informațiilor în Platforma Portal Autorizare de către societățile de administrare a investițiilor și administratorii de fonduri de investiții alternative și pentru modificarea Regulamentului Autorității de Supraveghere Financiară nr. 9/2014 privind autorizarea și funcționarea societăților de administrare a investițiilor, a organismelor de plasament colectiv în valori mobiliare și a depozitarilor organismelor de plasament colectiv în valori mobiliare, precum și pentru abrogarea unui act normativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267220",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267220",
+     "sha256": "1ec7aa777dd5c12690d00e39a7356bebcbc3325658287f18e235850a7c0769ae"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-4-2023",
+   "path": "regulament/asf/2023/4",
+   "short": "Regulament asf nr. 4/2023",
+   "title": "Regulamentul nr. 4/2023 pentru modificarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2022 privind Fondul de compensare a investitorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267120",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267120",
+     "sha256": "54efe0fe3d0f2908e9a74d82858b5cecb73991dbab3694f3be1414867562189d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-5-2023",
+   "path": "regulament/asf/2023/5",
+   "short": "Regulament asf nr. 5/2023",
+   "title": "Regulamentul nr. 5/2023 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară și al Băncii Naționale a României nr. 14/7/2018 privind prestarea de servicii și activități de investiții în numele societăților de servicii de investiții financiare și al instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270798",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270798",
+     "sha256": "18367e4d257ea5b206c0d22d640fa1bb0c3c5b3a21575c4dad74b96b74b5dbdd"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-6-2023",
+   "path": "regulament/asf/2023/6",
+   "short": "Regulament asf nr. 6/2023",
+   "title": "Regulamentul nr. 6/2023 privind neaplicarea temporară a cotei pentru exercitarea supravegherii și controlului activității de asigurări obligatorii de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și de tramvaie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267341",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267341",
+     "sha256": "bc9cd3bba1b54cb092a3e31690222150189021dc3d3b1453f55484505fc7c891"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-7-2023",
+   "path": "regulament/asf/2023/7",
+   "short": "Regulament asf nr. 7/2023",
+   "title": "Regulamentul nr. 7/2023 privind certificatele de depozit având la bază acțiuni emise de o societate cu sediul într-un stat membru sau într-un stat terț, precum și pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 4/2013 privind acțiunile suport pentru certificate de depozit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270852",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270852",
+     "sha256": "4702a2399096f2a057c5db49f39dc17ffd8ca304677a55348c857041bb1f1329"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-8-2023",
+   "path": "regulament/asf/2023/8",
+   "short": "Regulament asf nr. 8/2023",
+   "title": "Regulamentul nr. 8/2023 privind neaplicarea temporară a cotei asupra veniturilor din activitatea de distribuție aferentă asigurărilor de răspundere civilă auto",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270860",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270860",
+     "sha256": "6e186f75da5fae3b946ef48b011e92f58b3e0cd642c5541cf2d0b8a37eb429b5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-1-2023",
+   "path": "regulament/bnr/2023/1",
+   "short": "Regulament bnr nr. 1/2023",
+   "title": "Regulamentul nr. 1/2023 pentru modificarea Regulamentului Băncii Naționale a României nr. 2/2020 privind măsurile de securitate referitoare la riscurile operaționale și de securitate și cerințele de raportare aferente serviciilor de plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/265361",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/265361",
+     "sha256": "0ab6fcb60ac30d4c8783ca13bf765966f446f2e7c9ddcd6b4af098bcc4d22c25"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-3-2023",
+   "path": "regulament/bnr/2023/3",
+   "short": "Regulament bnr nr. 3/2023",
+   "title": "Regulamentul nr. 3/2023 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 20/2009 privind instituțiile financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270882",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270882",
+     "sha256": "49551d8173ef1516e5c7a5b488560776a466a6639397cf5a8db59ae35352e69b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-4-2023",
+   "path": "regulament/bnr/2023/4",
+   "short": "Regulament bnr nr. 4/2023",
+   "title": "Regulamentul nr. 4/2023 privind cerințe prudențiale pentru băncile de dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/270483",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 146,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/270483",
+     "sha256": "5a7a2858dcf63e6014e0c1680c1fc85933cd151e02b7b503e942d7591eac18bc"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-6-2023",
+   "path": "regulament/bnr/2023/6",
+   "short": "Regulament bnr nr. 6/2023",
+   "title": "Regulamentul nr. 6/2023 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 4/2005 privind regimul valutar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273579",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273579",
+     "sha256": "d9bf253856536f353b47345fbe886328b53c7263561c5daac93b304f12f8fa6f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-7-2023",
+   "path": "regulament/bnr/2023/7",
+   "short": "Regulament bnr nr. 7/2023",
+   "title": "Regulamentul nr. 7/2023 privind organizarea și funcționarea la Banca Națională a României a Centralei Incidentelor de Plăți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275888",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 41,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275888",
+     "sha256": "6839e694a5a72a16163786cc0dd83ca7abee5bfd48d8147e7894eb818045a908"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "decizie-bec/2000",
+ "acts": [
+  {
+   "slug": "decizie-bec-locale-2000-13",
+   "path": "decizie-bec/locale-2000/13",
+   "short": "Hotărârea BEC nr. 13/2000",
+   "title": "Hotărârea Biroului Electoral Central nr. 13 din 2000-05-11",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/22354",
+   "versions": [
+    {
+     "from": "2000-05-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/22354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2000-14",
+   "path": "decizie-bec/locale-2000/14",
+   "short": "Hotărârea BEC nr. 14/2000",
+   "title": "Hotărârea Biroului Electoral Central nr. 14 din 2000-05-11",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/22355",
+   "versions": [
+    {
+     "from": "2000-05-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/22355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2000-29",
+   "path": "decizie-bec/locale-2000/29",
+   "short": "Hotărârea BEC nr. 29/2000",
+   "title": "Hotărârea Biroului Electoral Central nr. 29 din 2000-05-23",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/22485",
+   "versions": [
+    {
+     "from": "2000-05-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/22485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2000-30",
+   "path": "decizie-bec/locale-2000/30",
+   "short": "Hotărârea BEC nr. 30/2000",
+   "title": "Hotărârea Biroului Electoral Central nr. 30 din 2000-05-23",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/22486",
+   "versions": [
+    {
+     "from": "2000-05-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/22486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2000-proces-verbal-2000-06-04-2",
+   "path": "decizie-bec/locale-2000/proces-verbal-2000-06-04-2",
+   "short": "Proces verbal BEC din 2000-06-04",
+   "title": "Proces verbal Biroului Electoral Central din 2000-06-04",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/22647",
+   "versions": [
+    {
+     "from": "2000-06-09",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/22647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2000-proces-verbal-2000-06-04",
+   "path": "decizie-bec/locale-2000/proces-verbal-2000-06-04",
+   "short": "Proces verbal BEC din 2000-06-04",
+   "title": "Proces verbal Biroului Electoral Central din 2000-06-04",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/22646",
+   "versions": [
+    {
+     "from": "2000-06-09",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/22646",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

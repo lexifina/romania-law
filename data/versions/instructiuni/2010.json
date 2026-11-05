@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/2010",
+ "acts": [
+  {
+   "slug": "instructiuni-cnvm-3-2010",
+   "path": "instructiuni/cnvm/2010/3",
+   "short": "Instrucțiuni cnvm nr. 3/2010",
+   "title": "Instrucțiunile nr. 3/2010 de modificare a Instrucțiunii nr. 5/2006 cu privire la sistemul de raportare contabilă semestrială a entităților autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121500",
+   "versions": [
+    {
+     "from": "2010-08-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121500",
+     "sha256": "6d967d5ea4402eeca1c13caa3c3025a0a8b0af734d69df48cc5c1166e02603b8"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-4-2010",
+   "path": "instructiuni/cnvm/2010/4",
+   "short": "Instrucțiuni cnvm nr. 4/2010",
+   "title": "Instrucțiunile nr. 4/2010 pentru modificarea Instrucțiunii nr. 2/2007 privind întocmirea și depunerea situațiilor financiare anuale de către entitățile autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124552",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124552",
+     "sha256": "39e9ee0dea50bade15c3da04646f9ce132e6dcae16e69f02360a8cca24f1ad3d"
+    }
+   ]
+  }
+ ]
+}

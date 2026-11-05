@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-5/2017",
+ "acts": [
+  {
+   "slug": "hcls5-128-2017",
+   "path": "local/bucuresti/sector-5/2017/128",
+   "short": "HCLS5 nr. 128/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 128/2017 privind aprobarea Regulamentului Serviciului Public de Salubrizare pe raza Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-128-31-08-2017-privind-aprobarea-regulamentului-serviciului-public-de-salubrizare-pe-raza-sectorului-5-al-municipiului-bucuresti/",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/hotararea-nr-128-31-08-2017-privind-aprobarea-regulamentului-serviciului-public-de-salubrizare-pe-raza-sectorului-5-al-municipiului-bucuresti/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-13-2017",
+   "path": "local/bucuresti/sector-5/2017/13",
+   "short": "HCLS5 nr. 13/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 13/2017 și Anexa nr. 1 privind înființarea funcției de administrator public la nivelul Sectorului 5 și aprobarea criteriilor, procedurilor și atribuțiilor specifice postului de administrator public al Sectorului 5",
+   "url": "https://sector5.ro/hotararea-nr-13-28-02-2017-si-anexa-nr-1-privind-infiintarea-functiei-de-administrator-public-la-nivelul-sectorului-5-si-aprobarea-criteriilor-procedurilor-si-atributiilor-specifice-postului-de-adm/",
+   "versions": [
+    {
+     "from": "2017-02-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hotararea-nr13-28022017-si-anexa-nr1.pdf",
+     "sha256": "cc670f5ad24d1171db7b4e05be49c48cc3405bc3b56eaf30909e5fcebe3d3b48"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-151-2017",
+   "path": "local/bucuresti/sector-5/2017/151",
+   "short": "HCLS5 nr. 151/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 151/2017 privind aprobarea înființării Direcției de Impozite și Taxe Locale a Sectorului 5 ca serviciu public de interes local cu personalitate juridică",
+   "url": "https://sector5.ro/hotararea-nr-151-28-09-2017-privind-aprobarea-infiintarii-directiei-de-impozite-si-taxe-locale-a-sectorului-5-ca-serviciu-public-de-interes-local-cu-personalitate-juridica/",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-nr151-28092017.pdf",
+     "sha256": "b53a56822f8ef2cf5115c9996c71d478d05f00a8298107c30acae46651210d30"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-156-2017",
+   "path": "local/bucuresti/sector-5/2017/156",
+   "short": "HCLS5 nr. 156/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 156/2017 privind aprobarea Regulamentului de Organizare și Funcționare al Direcției de Impozite și Taxe Locale Sector 5 București",
+   "url": "https://sector5.ro/hotararea-nr-156-31-10-2017-privind-aprobarea-regulamentului-de-organizare-si-functionare-al-directiei-de-impozite-si-taxe-locale-sector-5-bucuresti/",
+   "versions": [
+    {
+     "from": "2017-10-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/hotararea-nr-156-31-10-2017-privind-aprobarea-regulamentului-de-organizare-si-functionare-al-directiei-de-impozite-si-taxe-locale-sector-5-bucuresti/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-183-2017",
+   "path": "local/bucuresti/sector-5/2017/183",
+   "short": "HCLS5 nr. 183/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 183/2017 privind aprobarea regulamentelor-cadru de organizare si funcționare ale serviciilor sociale Centrul de Zi Sfanta Maria si Serviciul Adopții-Compartimentul Protecție de Tip Familial aflate în structura Direcţiei Generale de Asistenţă Socială si Protecţia Copilului Sector 5",
+   "url": "https://sector5.ro/hotararea-nr-183-23-11-2017-privind-aprobarea-regulamentelor-cadru-de-organizare-si-functionare-ale-serviciilor-sociale-centrul-de-zi-sfanta-maria-si-serviciul-adoptii-compartimentul-protectie-de-tip/",
+   "versions": [
+    {
+     "from": "2017-11-23",
+     "units": 1,
+     "source_url": "https://sector5.ro/hotararea-nr-183-23-11-2017-privind-aprobarea-regulamentelor-cadru-de-organizare-si-functionare-ale-serviciilor-sociale-centrul-de-zi-sfanta-maria-si-serviciul-adoptii-compartimentul-protectie-de-tip/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-200-2017",
+   "path": "local/bucuresti/sector-5/2017/200",
+   "short": "HCLS5 nr. 200/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 200/2017 privind aprobarea Metodologiei pentru majorarea impozitului pe clădiri și a impozitului pe terenuri cu până la 500% și a criteriilor de încadrare a clădirilor și terenurilor în categoria celor neîngrijite",
+   "url": "https://sector5.ro/hotararea-nr-200-14-12-2017-privind-aprobarea-metodologiei-pentru-majorarea-impozitului-pe-cladiri-si-a-impozitului-pe-terenuri-cu-pana-la-500-si-a-criteriilor-de-incadrare-a-cladirilor-si-terenurilo/",
+   "versions": [
+    {
+     "from": "2017-12-14",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-nr-200-14122017.pdf",
+     "sha256": "3806785bed474369fdf227ccd78e98796b264844d67af6261ee0b8214b385125"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-28-2017",
+   "path": "local/bucuresti/sector-5/2017/28",
+   "short": "HCLS5 nr. 28/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 28/2017 și Anexa nr. 1, privind aprobarea Regulamentului de Organizare și Funcționare al aparatului de specialitate al Primarului Sectorului 5",
+   "url": "https://sector5.ro/hotararea-nr-28-14-03-2017-si-anexa-nr-1-privind-aprobarea-regulamentului-de-organizare-si-functionare-al-aparatului-de-specialitate-al-primarului-sectorului-5/",
+   "versions": [
+    {
+     "from": "2017-03-14",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/05/hotararea-nr28-14032017-si-anexa-nr1.pdf",
+     "sha256": "6f17eaa66887a65636d8176c874be76ad6b0bc352f8210e1e5a4d6a4bbcbbb7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-34-2017",
+   "path": "local/bucuresti/sector-5/2017/34",
+   "short": "HCLS5 nr. 34/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 34/2017 privind completarea art.5 din Anexa 1 la HCL S5 nr. 88/30.09.2016 privind aprobarea Regulamentului pentru emiterea și prelungirea Acordului de funcționare pentru comercializarea produselor și prestarea serviciilor de piață pe raza sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-34-30-03-2017-privind-completarea-art-5-din-anexa-1-la-hcl-s5-nr-88-30-09-2016-privind-aprobarea-regulamentului-pentru-emiterea-si-prelungirea-acordului-de-functionare-pentru-comerciali/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-34-30032017.pdf",
+     "sha256": "a04c599231b73719f2dd5397ec1baf88d19fa1afb11c6ef8820acba717692303"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-35-2017",
+   "path": "local/bucuresti/sector-5/2017/35",
+   "short": "HCLS5 nr. 35/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 35/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-03",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-35-30032017.pdf",
+     "sha256": "ed490f1a57b4b2a082264d1134f0d7841a8b32b4a9c3297d950bad0b6d685192"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-36-2017",
+   "path": "local/bucuresti/sector-5/2017/36",
+   "short": "HCLS5 nr. 36/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 36/2017 privind completarea art. 5 din Anexa 1 a HCL S5 nr. 89/30.09.2016 privind aprobarea Regulamentului pentru emiterea și vizarea anuală a Autorizației privind desfășurarea activităților prevăzute în grupele CAEN 561-Restaurante și 563-Baruri și alte activități de servire a băuturilor pe raza sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-36-30-03-2017-privind-completarea-art-5-din-anexa-1-a-hcl-s5-nr-89-30-09-2016-privind-aprobarea-regulamentului-pentru-emiterea-si-vizarea-anuala-a-autorizatiei-privind-desfasurarea-act/",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-36-30032017.pdf",
+     "sha256": "8bb825cc9a053fd3022277bf8d287894070bd8f561b62fc5802ff8a79efa4bea"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-45-2017",
+   "path": "local/bucuresti/sector-5/2017/45",
+   "short": "HCLS5 nr. 45/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 45/2017 privind completarea Regulamentului de Organizare și Funcționare al aparatului de specialitate al Primarului Sectorului 5",
+   "url": "https://sector5.ro/hotararea-nr-45-10-04-2017-privind-completarea-regulamentului-de-organizare-si-functionare-al-aparatului-de-specialitate-al-primarului-sectorului-5/",
+   "versions": [
+    {
+     "from": "2017-04-10",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hotararea-nr45-10042017.pdf",
+     "sha256": "8133ca575015571042be9a3ddafa635a1b868edfd76abe3cbe4500793909d384"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-57-2017",
+   "path": "local/bucuresti/sector-5/2017/57",
+   "short": "HCLS5 nr. 57/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 57/2017 privind aprobarea regulamentelor – cadru de organizare și funcționare ale serviciilor sociale aflate în structura DGASPC Sector 5",
+   "url": "https://sector5.ro/hotararea-nr-57-16-05-2017-privind-aprobarea-regulamentelor-cadru-de-organizare-si-functionare-ale-serviciilor-sociale-aflate-in-structura-dgaspc-sector-5/",
+   "versions": [
+    {
+     "from": "2017-05-16",
+     "units": 1,
+     "source_url": "https://sector5.ro/hotararea-nr-57-16-05-2017-privind-aprobarea-regulamentelor-cadru-de-organizare-si-functionare-ale-serviciilor-sociale-aflate-in-structura-dgaspc-sector-5/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-69-2017",
+   "path": "local/bucuresti/sector-5/2017/69",
+   "short": "HCLS5 nr. 69/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 69/2017 privind aprobarea Regulamentului Serviciului Public de Administrare a Drumurilor și Străzilor administrate de către Consiliul Local al Sectorului 5",
+   "url": "https://sector5.ro/hotararea-nr-69-305-05-2017-privind-aprobarea-regulamentului-serviciului-public-de-administrare-a-drumurilor-si-strazilor-administrate-de-catre-consiliul-local-al-sectorului-5/",
+   "versions": [
+    {
+     "from": "2017-05-30",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hotararea-nr69-30052017.pdf",
+     "sha256": "768293f0a5141c757b0e9212a64533617ab2badcecbcaa4346729f9b8d4f8bec"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-84-2017",
+   "path": "local/bucuresti/sector-5/2017/84",
+   "short": "HCLS5 nr. 84/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 84/2017 pentru aprobarea Regulamentului privind reglementarea activității de constatare, ridicare, transport, depozitare și restituire/eliberare a autovehiculelor sau vehiculelor staționate/parcate pe carosabil, terenuri, parcări, locuri special amenajate, spații verzi, zone pietonale, scuaruri (zonă verde sau pietonală) și trotuare aparținând domeniului public sau privat al Municipiului București aflate pe raza administrativ-teritorială a Sectorului 5",
+   "url": "https://sector5.ro/hotararea-nr-84-26-06-2017-pentru-aprobarea-regulamentului-privind-reglementarea-activitatii-de-constatare-ridicare-transport-depozitare-si-restituire-eliberare-a-autovehiculelor-sau-vehiculelor-s/",
+   "versions": [
+    {
+     "from": "2017-06-26",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hotararea-nr-84-26062017.pdf",
+     "sha256": "e8aed893819bff6921457373b785453d376f711aff489161ce8e1f798b43cf0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-98-2017",
+   "path": "local/bucuresti/sector-5/2017/98",
+   "short": "HCLS5 nr. 98/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 98/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-07-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-98-28072017.pdf",
+     "sha256": "87a1b75b439495ba7e5b3645293a482d39c92b30e43662034748d31c758dbcee"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-99-2017",
+   "path": "local/bucuresti/sector-5/2017/99",
+   "short": "HCLS5 nr. 99/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 99/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-07-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-99-28072017.pdf",
+     "sha256": "3de85b5abd7e4e50c0f7e6ee3730e935abb82be83db7d1445fcc93822a39d0ed"
+    }
+   ]
+  }
+ ]
+}

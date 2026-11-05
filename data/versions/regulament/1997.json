@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "regulament/1997",
+ "acts": [
+  {
+   "slug": "regulament-bnr-2-1997",
+   "path": "regulament/bnr/1997/2",
+   "short": "Regulament bnr nr. 2/1997",
+   "title": "Regulamentul nr. 2/1997 privind operațiuni cu titluri de stat derulate prin Banca Naționala a României în calitatea sa de agent al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10782",
+   "versions": [
+    {
+     "from": "1997-04-16",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10782",
+     "sha256": "22dc1f29b8a14beadedc62b6afad6ea1e094b4bb21837b8fb82d8f8f425405de"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-3-1997",
+   "path": "regulament/bnr/1997/3",
+   "short": "Regulament bnr nr. 3/1997",
+   "title": "Regulamentul nr. 3/1997 privind efectuarea operațiunilor valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10801",
+   "versions": [
+    {
+     "from": "1997-12-31",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10801",
+     "sha256": "b864088a2ec32a09ba07c6134795725d505b2404fc01c6e0de5e788783bf9cf8"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-2-1997",
+   "path": "regulament/cnvm/1997/2",
+   "short": "Regulament cnvm nr. 2/1997",
+   "title": "Regulamentul nr. 2/1997 de modificare și completare a Regulamentului nr. 3/1996 privind autorizarea și exercitarea intermedierii de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10783",
+   "versions": [
+    {
+     "from": "1997-02-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10783",
+     "sha256": "bfc011a306533e0a62c13eaecf621cecbc07b00044a6ef0b58c997b8a67b90bb"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-3-1997",
+   "path": "regulament/cnvm/1997/3",
+   "short": "Regulament cnvm nr. 3/1997",
+   "title": "Regulamentul nr. 3/1997 pentru completarea Regulamentului nr. 4/1996 privind autorizarea temporară a agenților de valori mobiliare în vederea vânzării acțiunilor dobândite din programul de privatizare în masă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10802",
+   "versions": [
+    {
+     "from": "1997-03-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10802",
+     "sha256": "90563f2d2e06f8e8db4277bd4a171f1582981d74ce2fd24e38c0b0eb5b9f609e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-5-1997",
+   "path": "regulament/cnvm/1997/5",
+   "short": "Regulament cnvm nr. 5/1997",
+   "title": "Regulamentul nr. 5/1997 pentru modificarea și completarea Regulamentului nr. 3/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10839",
+   "versions": [
+    {
+     "from": "1997-06-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10839",
+     "sha256": "faeb711c70c2f92a3c69da77c5685b44bcbf88c8c78e5399ac54f103e51aabd8"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-6-1997",
+   "path": "regulament/cnvm/1997/6",
+   "short": "Regulament cnvm nr. 6/1997",
+   "title": "Regulamentul nr. 6/1997 pentru modificarea art. 5 alin. (1) din Regulamentul nr. 8/1996 privind autorizarea Societății Naționale de Compensare, Decontare și Depozitare pentru Valori Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10859",
+   "versions": [
+    {
+     "from": "1997-06-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10859",
+     "sha256": "a77dc211c1da29b69df9a51bace7c6852ad1ebf3c6c088aff28b54007f6f2548"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-7-1997",
+   "path": "regulament/cnvm/1997/7",
+   "short": "Regulament cnvm nr. 7/1997",
+   "title": "Regulamentul nr. 7/1997 privind organizarea Comisiei Naționale a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10876",
+   "versions": [
+    {
+     "from": "1997-07-07",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10876",
+     "sha256": "fcd7a59960d980ae460ceae6d0092a56a5ebccfdf3de37b95bce4bccbb53c415"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-8-1997",
+   "path": "regulament/cnvm/1997/8",
+   "short": "Regulament cnvm nr. 8/1997",
+   "title": "Regulamentul nr. 8/1997 cu privire la condițiile de îndeplinit pentru evitarea conflictelor de interese de către societățile de depozitare pentru fondurile deschise de investiții și societățile de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10892",
+   "versions": [
+    {
+     "from": "1997-07-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10892",
+     "sha256": "6281a0b385bf523bb34ba28c8501adaec92d6ab46890f798446338c493c20763"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+"country": "RO",
+"shard": "decizie-bec/2005",
+"acts": [
+{
+"slug": "decizie-bec-locale-2005-proces-verbal-2005-04-03",
+"path": "decizie-bec/locale-2005/proces-verbal-2005-04-03",
+"kind": "decizie-bec",
+"year": "2005",
+"number": "proces-verbal-2005-04-03",
+"withdrawn_by": null,
+"reason": null,
+"title": "Proces verbal Biroul Electoral al Municipiului Bucure?ti din 2005-04-03",
+"short": "Proces verbal Biroul Electoral al Municipiului Bucure?ti din 2005-04-03",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2005-04-06",
+"latest": "2005-04-06",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/60541",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-partiale-locale-2005-14",
+"path": "decizie-bec/partiale-locale-2005/14",
+"kind": "decizie-bec",
+"year": "2005",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 14 din 13 martie 2005 privind publicarea în Monitorul Oficial al României, Partea I, a denumirilor şi semnelor electorale ale partidelor politice şi alianţelor electorale care participă la alegerile locale parţiale din data de 3 aprilie 2005",
+"short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 14/2005",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2005-03-15",
+"latest": "2005-03-15",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/59977"
+}
+]
+}

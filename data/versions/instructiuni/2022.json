@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/2022",
+ "acts": [
+  {
+   "slug": "instructiuni-asf-1-2022",
+   "path": "instructiuni/asf/2022/1",
+   "short": "Instrucțiuni asf nr. 1/2022",
+   "title": "Instrucțiunile nr. 1/2022 pentru modificarea Instrucțiunii Autorității de Supraveghere Financiară nr. 1/2016 privind întocmirea și depunerea situației financiare anuale și a raportării anuale de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară - Sectorul instrumentelor și investițiilor financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255088",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255088",
+     "sha256": "6123042329f40868550c68aee480d18b3487ff719d2b750f74bc4824c295e160"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-asf-2-2022",
+   "path": "instructiuni/asf/2022/2",
+   "short": "Instrucțiuni asf nr. 2/2022",
+   "title": "Instrucțiunile nr. 2/2022 pentru modificarea Instrucțiunii Autorității de Supraveghere Financiară nr. 2/2016 privind întocmirea și depunerea raportării contabile semestriale de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară - Sectorul Instrumentelor și Investițiilor Financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258700",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258700",
+     "sha256": "4db9c523907c49c1d8cb39f053b7f96861c3512257bc25565880f407b4d44994"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-asf-3-2022",
+   "path": "instructiuni/asf/2022/3",
+   "short": "Instrucțiuni asf nr. 3/2022",
+   "title": "Instrucțiunile nr. 3/2022 pentru modificarea și completarea Instrucțiunii Autorității de Supraveghere Financiară nr. 1/2021 privind modul de transmitere a raportărilor și a altor documente în format electronic către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/259154",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/259154",
+     "sha256": "4a0e9c8d51502ef64152eca69be831d8ed8ad5e0fd3a8d6c1d97f91045926a75"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-asf-4-2022",
+   "path": "instructiuni/asf/2022/4",
+   "short": "Instrucțiuni asf nr. 4/2022",
+   "title": "Instrucțiunile nr. 4/2022 pentru punerea în aplicare a prevederilor art. 97 din Legea nr. 236/2022 privind supravegherea prudențială a societăților de servicii de investiții financiare, precum și pentru modificarea și completarea unor acte normative și ale art. 57 din Regulamentul (UE) 2019/2.033 al Parlamentului European și al Consiliului din 27 noiembrie 2019 privind cerințele prudențiale ale firmelor de investiții și de modificare a Regulamentelor (UE) nr. 1.093/2010, (UE) nr. 575/2013, (UE) nr. 600/2014 și (UE) nr. 806/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260547",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260547",
+     "sha256": "03ab0fea586794889301ffafa4c80ac306f88a7e4ca0592c80772b1c08dea195"
+    }
+   ]
+  }
+ ]
+}

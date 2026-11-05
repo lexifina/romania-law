@@ -1,0 +1,57 @@
+{
+"country": "RO",
+"shard": "curtea-de-conturi/2022",
+"acts": [
+{
+"slug": "curtea-de-conturi-regulament-regulament-2022-12-20-2022",
+"path": "curtea-de-conturi/regulament/2022/regulament-2022-12-20",
+"kind": "curtea-de-conturi",
+"year": "2022",
+"number": "regulament-2022-12-20",
+"withdrawn_by": null,
+"reason": null,
+"title": "REGULAMENT din 20 decembrie 2022 privind activitatea de audit public extern",
+"short": "Regulamentul Curtea de Conturi din 2022-12-20",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/263698"
+},
+{
+"slug": "curtea-de-conturi-hotarare-plen-599-2022",
+"path": "curtea-de-conturi/hotarare-plen/2022/599",
+"kind": "curtea-de-conturi",
+"year": "2022",
+"number": "599",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 599 din 6 decembrie 2022 pentru modificarea Hotărârii plenului Curţii de Conturi nr. 87/2009 privind aprobarea criteriilor de majorare a salariilor pentru personalul din cadrul Autorităţii de Audit, conform prevederilor Legii nr. 490/2004 privind stimularea financiară a personalului care gestionează fonduri comunitare",
+"short": "Hotărârea Curtea de Conturi nr. 599/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/263045"
+},
+{
+"slug": "curtea-de-conturi-hotarare-plen-629-2022",
+"path": "curtea-de-conturi/hotarare-plen/2022/629",
+"kind": "curtea-de-conturi",
+"year": "2022",
+"number": "629",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 629 din 20 decembrie 2022 pentru aprobarea Regulamentului privind activitatea de audit public extern",
+"short": "Hotărârea Curtea de Conturi nr. 629/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/263697"
+}
+]
+}

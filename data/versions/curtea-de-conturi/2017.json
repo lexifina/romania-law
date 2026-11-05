@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "curtea-de-conturi/2017",
+ "acts": [
+  {
+   "slug": "curtea-de-conturi-hotarare-plen-205-2017",
+   "path": "curtea-de-conturi/hotarare-plen/2017/205",
+   "short": "Hotărârea Curtea de Conturi nr. 205/2017",
+   "title": "HOTĂRÂRE nr. 205 din 31 mai 2017 pentru modificarea şi completarea Regulamentului privind organizarea şi desfăşurarea activităţilor specifice Curţii de Conturi, precum şi valorificarea actelor rezultate din aceste activităţi, aprobat prin Hotărârea Plenului Curţii de Conturi nr. 155/2014",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/190664",
+   "versions": [
+    {
+     "from": "2017-06-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/190664",
+     "sha256": "c51320fd00e0aaed71b87772e7c11f82d5a7748bacfb6b64dafc16a8d897fffd"
+    }
+   ]
+  }
+ ]
+}

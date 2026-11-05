@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "regulament/1993",
+ "acts": [
+  {
+   "slug": "regulament-bnr-4-1993",
+   "path": "regulament/bnr/1993/4",
+   "short": "Regulament bnr nr. 4/1993",
+   "title": "Regulamentul nr. 4/1993 *** Republicat privind rezervele obligatorii ale societăților bancare la Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3001",
+   "versions": [
+    {
+     "from": "1996-07-11",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3001",
+     "sha256": "6955a568f17c6b180a093d03bf8489cba6c58f11ff02b9c6d578e3441eb20a3e"
+    }
+   ]
+  }
+ ]
+}

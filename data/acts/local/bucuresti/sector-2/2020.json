@@ -1,0 +1,229 @@
+{
+"country": "RO",
+"shard": "local/bucuresti/sector-2/2020",
+"acts": [
+{
+"slug": "hcls2-8-2020",
+"path": "local/bucuresti/sector-2/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 2 nr. 8/2020 privind aprobarea Metodologiei de emitere a ,,Autorizaţiei privind desfăşurarea activităţilor prevăzute de grupele CAEN 561 - restaurante, 563 - Baruri şi alte activităţi de servire a băuturilor şi 932 - Alte activităţi recreative şi distractive, pe raza Sectorului 2 al Municipiului Bucureşti” Abrogată/Încetare aplicabilitate prin HCL S2 nr. 142/2023 Modificată/completată prin HCL S2 nr. 139/2020 , HCL S2 nr. 296/2022",
+"short": "HCLS2 nr. 8/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-04",
+"latest": "2020-02-04",
+"portal": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2020/hotararea-nr-008",
+"council": "bucuresti/sector-2",
+"council_name": "Consiliul Local al Sectorului 2 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls2-12-2020",
+"path": "local/bucuresti/sector-2/2020/12",
+"kind": "local",
+"year": "2020",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 2 nr. 12/2020 pentru modificarea și completarea Hotărârii Consiliului Local Sector 2 nr. 52/2017 privind aprobarea Metodologiei de acordare a tichetelor sociale pentru produse alimentare Modifică/completează HCL S2 nr. 52/2017",
+"short": "HCLS2 nr. 12/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-04",
+"latest": "2020-02-04",
+"portal": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2020/hotararea-nr-012",
+"council": "bucuresti/sector-2",
+"council_name": "Consiliul Local al Sectorului 2 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls2-46-2020",
+"path": "local/bucuresti/sector-2/2020/46",
+"kind": "local",
+"year": "2020",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 2 nr. 46/2020 privind unele măsuri in cadrul Administraţiei Pieţelor Sector 2, serviciu public din subordinea Consiliului Local Sector 2, pe perioada stării de urgență",
+"short": "HCLS2 nr. 46/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-04-06",
+"latest": "2020-04-06",
+"portal": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2020/hotararea-nr-046",
+"council": "bucuresti/sector-2",
+"council_name": "Consiliul Local al Sectorului 2 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls2-106-2020",
+"path": "local/bucuresti/sector-2/2020/106",
+"kind": "local",
+"year": "2020",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 2 nr. 106/2020",
+"short": "HCLS2 nr. 106/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-06-05",
+"latest": "2020-06-05",
+"portal": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2020/hotararea-nr-106",
+"council": "bucuresti/sector-2",
+"council_name": "Consiliul Local al Sectorului 2 al Municipiului București",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcls2-139-2020",
+"path": "local/bucuresti/sector-2/2020/139",
+"kind": "local",
+"year": "2020",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 2 nr. 139/2020",
+"short": "HCLS2 nr. 139/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-06-05",
+"latest": "2020-06-05",
+"portal": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2020/hotararea-nr-139",
+"council": "bucuresti/sector-2",
+"council_name": "Consiliul Local al Sectorului 2 al Municipiului București",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcls2-144-2020",
+"path": "local/bucuresti/sector-2/2020/144",
+"kind": "local",
+"year": "2020",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 2 nr. 144/2020 privind aprobarea Metodologiei şi a condiţiilor de acordare a ajutoarelor financiare pentru plata serviciilor oferite de bonăîn baza Legii nr.35/2020",
+"short": "HCLS2 nr. 144/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-07-07",
+"latest": "2020-07-07",
+"portal": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2020/hotararea-nr-144",
+"council": "bucuresti/sector-2",
+"council_name": "Consiliul Local al Sectorului 2 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls2-172-2020",
+"path": "local/bucuresti/sector-2/2020/172",
+"kind": "local",
+"year": "2020",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 2 nr. 172/2020 pentru organizarea activității de punere în aplicare a prevederilor Legii nr. 421/2002 privind regimul juridic al vehiculelor fără stăpân sau abandonate pe terenuri aparţinând domeniului public sau privat al statului ori al unităţilor administrativ-teritoriale, cu modificările și completările ulterioare, precum și pentru reglementarea unor atribuții ale Poliției Locale Sector 2",
+"short": "HCLS2 nr. 172/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-07-07",
+"latest": "2020-07-07",
+"portal": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2020/hotararea-nr-172",
+"council": "bucuresti/sector-2",
+"council_name": "Consiliul Local al Sectorului 2 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls2-179-2020",
+"path": "local/bucuresti/sector-2/2020/179",
+"kind": "local",
+"year": "2020",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 2 nr. 179/2020",
+"short": "HCLS2 nr. 179/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-06",
+"latest": "2020-08-06",
+"portal": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2020/hotararea-nr-179",
+"council": "bucuresti/sector-2",
+"council_name": "Consiliul Local al Sectorului 2 al Municipiului București",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcls2-257-2020",
+"path": "local/bucuresti/sector-2/2020/257",
+"kind": "local",
+"year": "2020",
+"number": "257",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 2 nr. 257/2020 privind aprobarea Metodologiei de închiriere a spațiilor aflate în proprietatea/adminstrarea Primăriei Sectorului 2 al Municipiului București Modificată/completată prin HCL S2 nr. 225/2026",
+"short": "HCLS2 nr. 257/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-10-02",
+"latest": "2020-10-02",
+"portal": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2020/hotararea-nr-257",
+"council": "bucuresti/sector-2",
+"council_name": "Consiliul Local al Sectorului 2 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls2-281-2020",
+"path": "local/bucuresti/sector-2/2020/281",
+"kind": "local",
+"year": "2020",
+"number": "281",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 2 nr. 281/2020 pentru modificarea şi completarea Hotărârii Consiliului Local Sector 2 nr. 3/2011 privind înfiinţarea la nivelul Sectorului 2 al Municipiului Bucureşti a Comisiei locale de ordine publică, cu modificările și completările ulterioare Abrogată/Încetare aplicabilitate prin HCL S2 nr. 347/2021",
+"short": "HCLS2 nr. 281/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2020/hotararea-nr-281",
+"council": "bucuresti/sector-2",
+"council_name": "Consiliul Local al Sectorului 2 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

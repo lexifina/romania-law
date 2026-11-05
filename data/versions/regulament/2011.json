@@ -1,0 +1,666 @@
+{
+ "country": "RO",
+ "shard": "regulament/2011",
+ "acts": [
+  {
+   "slug": "regulament-bnr-1-2011",
+   "path": "regulament/bnr/2011/1",
+   "short": "Regulament bnr nr. 1/2011",
+   "title": "Regulamentul nr. 1/2011 de modificare a Regulamentului Băncii Naționale a României nr. 6/2002 privind regimul rezervelor minime obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127884",
+   "versions": [
+    {
+     "from": "2011-04-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127884",
+     "sha256": "afb63ba55eb3936fb62c43950ed79f000b8c3a76792eebaed59a1db1f150b0b5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-10-2011",
+   "path": "regulament/bnr/2011/10",
+   "short": "Regulament bnr nr. 10/2011",
+   "title": "Regulamentul nr. 10/2011 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 18/2009 privind cadrul de administrare a activității instituțiilor de credit, procesul intern de evaluare a adecvării capitalului la riscuri și condițiile de externalizare a activităților acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130523",
+   "versions": [
+    {
+     "from": "2011-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130523",
+     "sha256": "d39a2e76a6cbaab051884885793873128c2fed9d587cd1ff49ee45b1cb2c71b9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-11-2011",
+   "path": "regulament/bnr/2011/11",
+   "short": "Regulament bnr nr. 11/2011",
+   "title": "Regulamentul nr. 11/2011 privind clasificarea creditelor și plasamentelor, precum și determinarea și utilizarea ajustărilor prudențiale de valoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131751",
+   "versions": [
+    {
+     "from": "2011-09-27",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131751",
+     "sha256": "9dd30e4e858d97bcdead7f88ac1d6911c6be26baa72a50fbcb8553b318501492"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-12-2011",
+   "path": "regulament/bnr/2011/12",
+   "short": "Regulament bnr nr. 12/2011",
+   "title": "Regulamentul nr. 12/2011 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 14/19/2006 privind tratamentul riscului de credit pentru instituțiile de credit și firmele de investiții potrivit abordării standard",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131738",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131738",
+     "sha256": "fdaf8402c632d3b4e6884a4f744a9053479dad51aada5808e4a9b62a129da2cf"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-14-2011",
+   "path": "regulament/bnr/2011/14",
+   "short": "Regulament bnr nr. 14/2011",
+   "title": "Regulamentul nr. 14/2011 pentru completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 22/27/2006 privind adecvarea capitalului instituțiilor de credit și al firmelor de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131749",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131749",
+     "sha256": "64526970ba98a4865efdb4f0fbb46555c2c51f0d875bc9442a9035aa5eea3db3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-15-2011",
+   "path": "regulament/bnr/2011/15",
+   "short": "Regulament bnr nr. 15/2011",
+   "title": "Regulamentul nr. 15/2011 referitor la plasamentele prevăzute de art. 831 din Legea nr. 287/2009 privind Codul civil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131880",
+   "versions": [
+    {
+     "from": "2011-09-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131880",
+     "sha256": "5f8870ccf6fd978b0b54eb95df5eae87f859f2805f5740525fa961decfbc6f7b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-16-2011",
+   "path": "regulament/bnr/2011/16",
+   "short": "Regulament bnr nr. 16/2011",
+   "title": "Regulamentul nr. 16/2011 privind procedura de administrare a riscului de decontare și facilitățile acordate de Banca Națională a României în scopul fluidizării decontării în sistemul ReGIS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132649",
+   "versions": [
+    {
+     "from": "2011-11-03",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132649",
+     "sha256": "ac561495e254f5a9f58616df3ad30673bafef1fc4550da39c73c3d8d2caedb30"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-17-2011",
+   "path": "regulament/bnr/2011/17",
+   "short": "Regulament bnr nr. 17/2011",
+   "title": "Regulamentul nr. 17/2011 privind asigurarea autenticității bancnotelor și monedelor euro",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132874",
+   "versions": [
+    {
+     "from": "2011-11-11",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132874",
+     "sha256": "f0e39eac178fea8dca624ce05d181e811a2ce319ab10264529187c4a4c19cc4f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-19-2011",
+   "path": "regulament/bnr/2011/19",
+   "short": "Regulament bnr nr. 19/2011",
+   "title": "Regulamentul nr. 19/2011 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 13/18/2006 privind determinarea cerințelor minime de capital pentru instituțiile de credit și firmele de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132749",
+   "versions": [
+    {
+     "from": "2011-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132749",
+     "sha256": "e6696a12c0421b913be4cb0114ee11245b0d6514cd1f6c72e7f34c20b320fccc"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-2-2011",
+   "path": "regulament/bnr/2011/2",
+   "short": "Regulament bnr nr. 2/2011",
+   "title": "Regulamentul nr. 2/2011 pentru modificarea Regulamentului nr. 3/2007 privind limitarea riscului de credit la creditele destinate persoanelor fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128262",
+   "versions": [
+    {
+     "from": "2011-05-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128262",
+     "sha256": "9c85e6f9238dd6866aaee3b5fe74702f8946ef6b2ddfd9f6298c6acef43cc97c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-20-2011",
+   "path": "regulament/bnr/2011/20",
+   "short": "Regulament bnr nr. 20/2011",
+   "title": "Regulamentul nr. 20/2011 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 14/19/2006 privind tratamentul riscului de credit pentru instituțiile de credit și firmele de investiții potrivit abordării standard",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132855",
+   "versions": [
+    {
+     "from": "2011-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132855",
+     "sha256": "b795f3c81f27f030fc87bd7cb032a0183ddb03d9fe11e9f478f4653e9349e48c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-21-2011",
+   "path": "regulament/bnr/2011/21",
+   "short": "Regulament bnr nr. 21/2011",
+   "title": "Regulamentul nr. 21/2011 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 18/16/2010 privind tratamentul riscului de credit aferent expunerilor securitizate și pozițiilor din securitizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132820",
+   "versions": [
+    {
+     "from": "2011-11-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132820",
+     "sha256": "47baa6b7fcc6adc47333e761a2785434af475c8af58d54fc0db5fcbee23273d3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-22-2011",
+   "path": "regulament/bnr/2011/22",
+   "short": "Regulament bnr nr. 22/2011",
+   "title": "Regulamentul nr. 22/2011 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 22/27/2006 privind adecvarea capitalului instituțiilor de credit și al firmelor de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132873",
+   "versions": [
+    {
+     "from": "2011-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132873",
+     "sha256": "015a9c4ad2157cbefd7babf2f14bc43d6cb49425c3dcefc9fccaf0f5f8093596"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-23-2011",
+   "path": "regulament/bnr/2011/23",
+   "short": "Regulament bnr nr. 23/2011",
+   "title": "Regulamentul nr. 23/2011 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 25/30/2006 privind cerințele de transparență și de publicare pentru instituțiile de credit și firmele de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133099",
+   "versions": [
+    {
+     "from": "2011-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133099",
+     "sha256": "61e707dec1a22254120a8d575864fa659aa2b7cc262ce558ff60afb4792d9895"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-24-2011",
+   "path": "regulament/bnr/2011/24",
+   "short": "Regulament bnr nr. 24/2011",
+   "title": "Regulamentul nr. 24/2011 privind creditele destinate persoanelor fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132549",
+   "versions": [
+    {
+     "from": "2011-10-31",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132549",
+     "sha256": "9166f8c0d9ce1b7d2d043feef0e66a2e0dc3f3d58fd8e31bd91b96f4691fbed6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-25-2011",
+   "path": "regulament/bnr/2011/25",
+   "short": "Regulament bnr nr. 25/2011",
+   "title": "Regulamentul nr. 25/2011 privind lichiditatea instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133026",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133026",
+     "sha256": "7d2894b15adc71b5ba106e79bd2b2f0006336effd131eaa319d4adcfbae98408"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-26-2011",
+   "path": "regulament/bnr/2011/26",
+   "short": "Regulament bnr nr. 26/2011",
+   "title": "Regulamentul nr. 26/2011 privind deținerile temporare de acțiuni/părți sociale în cursul unei operațiuni de asistență sau restructurare financiară a unei entități din afara sectorului financiar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133383",
+   "versions": [
+    {
+     "from": "2011-12-05",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133383",
+     "sha256": "ac06a87c44d696b337e912bc638d0d4e0a1e127371526093b5370823c082d286"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-27-2011",
+   "path": "regulament/bnr/2011/27",
+   "short": "Regulament bnr nr. 27/2011",
+   "title": "Regulamentul nr. 27/2011 pentru modificarea art. 18 din Regulamentul Băncii Naționale a României nr. 24/2011 privind creditele destinate persoanelor fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133233",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133233",
+     "sha256": "4e5317ee222f917b8962de91f6266ed1209a53e1177f4fbd331a892496489d65"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-28-2011",
+   "path": "regulament/bnr/2011/28",
+   "short": "Regulament bnr nr. 28/2011",
+   "title": "Regulamentul nr. 28/2011 pentru completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 18/23/2006 privind fondurile proprii ale instituțiilor de credit și ale firmelor de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133941",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133941",
+     "sha256": "1d0caf629f37674e239ae20499e73946fd9540f091fda8a642c549870a93150a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-29-2011",
+   "path": "regulament/bnr/2011/29",
+   "short": "Regulament bnr nr. 29/2011",
+   "title": "Regulamentul nr. 29/2011 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 18/2009 privind cadrul de administrare a activității instituțiilor de credit, procesul intern de evaluare a adecvării capitalului la riscuri și condițiile de externalizare a activităților acestora și pentru abrogarea Ordinului Băncii Naționale a României nr. 25/2010 privind raportarea situațiilor referitoare la expunerile din credite înregistrate față de debitorii din afara sectorului instituțiilor de credit care au făcut obiectul prevederilor art. 112 alin. (5) din Regulamentul Băncii Naționale a României nr. 18/2009 privind cadrul de administrare a activității instituțiilor de credit, procesul intern de evaluare a adecvării capitalului la riscuri și condițiile de externalizare a activităților acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133948",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133948",
+     "sha256": "317aff45bc596d8ec07f03b014a6030caa9c76ab5ef08876b0279ddd19cdfa2f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-3-2011",
+   "path": "regulament/bnr/2011/3",
+   "short": "Regulament bnr nr. 3/2011",
+   "title": "Regulamentul nr. 3/2011 pentru modificarea și completarea Regulamentului nr. 3/2009 privind clasificarea creditelor și plasamentelor, precum și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128269",
+   "versions": [
+    {
+     "from": "2011-05-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128269",
+     "sha256": "adf965ab649e831327821a34816f0db0ea602293a95fe977fc7bae49f67f4747"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-30-2011",
+   "path": "regulament/bnr/2011/30",
+   "short": "Regulament bnr nr. 30/2011",
+   "title": "Regulamentul nr. 30/2011 pentru completarea Regulamentului Băncii Naționale a României nr. 11/2011 privind clasificarea creditelor și plasamentelor, precum și determinarea și utilizarea ajustărilor prudențiale de valoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134052",
+   "versions": [
+    {
+     "from": "2011-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134052",
+     "sha256": "e931ddb0aca98fe54c2893096a27d6c26b19c508c71924d5c1b5120a566510d6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-31-2011",
+   "path": "regulament/bnr/2011/31",
+   "short": "Regulament bnr nr. 31/2011",
+   "title": "Regulamentul nr. 31/2011 privind raportarea de date și informații statistice la Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134834",
+   "versions": [
+    {
+     "from": "2012-04-27",
+     "units": 88,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134834",
+     "sha256": "5da65b457fb4cb85fd901455190a2feec3dbe94146ba8609685ee5e0ade879dd"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-4-2011",
+   "path": "regulament/bnr/2011/4",
+   "short": "Regulament bnr nr. 4/2011",
+   "title": "Regulamentul nr. 4/2011 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 21/2009 privind instituțiile de plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128278",
+   "versions": [
+    {
+     "from": "2011-05-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128278",
+     "sha256": "f516ab90aa73d386e155a150ce3b078be4fb131f1ecdd6db55d749890ae65fb4"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-5-2011",
+   "path": "regulament/bnr/2011/5",
+   "short": "Regulament bnr nr. 5/2011",
+   "title": "Regulamentul nr. 5/2011 privind calitatea de persoane declarante la Centrala Riscurilor Bancare a instituțiilor de plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129167",
+   "versions": [
+    {
+     "from": "2011-06-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129167",
+     "sha256": "a5f5d83d530d4f1d52b48d0789d5c19a066c606a064bb76fe349ab0cbe0f4c3f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-6-2011",
+   "path": "regulament/bnr/2011/6",
+   "short": "Regulament bnr nr. 6/2011",
+   "title": "Regulamentul nr. 6/2011 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 25/2009 privind utilizarea abordării avansate de evaluare și aprobarea utilizării acestei abordări de către instituțiile de credit, pentru riscul operațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129486",
+   "versions": [
+    {
+     "from": "2011-06-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129486",
+     "sha256": "1b4aebec715dc0043c8ac53d6cd42711c8f0ef7ecff78396c2d5a0861ee8d3f2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-7-2011",
+   "path": "regulament/bnr/2011/7",
+   "short": "Regulament bnr nr. 7/2011",
+   "title": "Regulamentul nr. 7/2011 pentru modificarea, completarea și abrogarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130155",
+   "versions": [
+    {
+     "from": "2011-07-19",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130155",
+     "sha256": "28dcb8108c9bf680b50760b6ff2ce80b75dc155ab5f3f2f56d4e2d527150e833"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-8-2011",
+   "path": "regulament/bnr/2011/8",
+   "short": "Regulament bnr nr. 8/2011",
+   "title": "Regulamentul nr. 8/2011 privind instituțiile emitente de monedă electronică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130140",
+   "versions": [
+    {
+     "from": "2011-07-18",
+     "units": 86,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130140",
+     "sha256": "a575357c7b2f1ca31eda460066879d73d8a7e41d2c25748396067f668fada1e3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-9-2011",
+   "path": "regulament/bnr/2011/9",
+   "short": "Regulament bnr nr. 9/2011",
+   "title": "Regulamentul nr. 9/2011 privind calitatea de persoane declarante la Centrala Riscurilor Bancare a instituțiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130522",
+   "versions": [
+    {
+     "from": "2011-08-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130522",
+     "sha256": "4eb3bc7f69874cab27bb01a376df9a83b5ea09191ac8298e727f0edd522a9d33"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-1-2011",
+   "path": "regulament/cnvm/2011/1",
+   "short": "Regulament cnvm nr. 1/2011",
+   "title": "Regulamentul nr. 1/2011 pentru modificarea Regulamentului nr. 3/2006 privind autorizarea, organizarea și funcționarea Fondului de compensare a investitorilor, aprobat prin Ordinul Comisiei Naționale a Valorilor Mobiliare nr. 12/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125653",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125653",
+     "sha256": "ea17c23da9ccb1b149269f3e9a3aa135d03ee533b2d334be70145eb030eb7e8a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-10-2011",
+   "path": "regulament/cnvm/2011/10",
+   "short": "Regulament cnvm nr. 10/2011",
+   "title": "Regulamentul nr. 10/2011 referitor la plasamentele prevăzute de art. 831 din Legea nr. 287/2009 privind Codul civil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131887",
+   "versions": [
+    {
+     "from": "2011-09-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131887",
+     "sha256": "4c650501ac8f544cacd2cc7eb454c4469962db4b05e9da3c10eba6f38dc16fa8"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-11-2011",
+   "path": "regulament/cnvm/2011/11",
+   "short": "Regulament cnvm nr. 11/2011",
+   "title": "Regulamentul nr. 11/2011 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 14/19/2006 privind tratamentul riscului de credit pentru instituțiile de credit și firmele de investiții potrivit abordării standard",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132876",
+   "versions": [
+    {
+     "from": "2011-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132876",
+     "sha256": "f45b1309e2717cc5871c97f27901301995d0877c8cccda585bbd218d8c1c82ca"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-12-2011",
+   "path": "regulament/cnvm/2011/12",
+   "short": "Regulament cnvm nr. 12/2011",
+   "title": "Regulamentul nr. 12/2011 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 13/18/2006 privind determinarea cerințelor minime de capital pentru instituțiile de credit și firmele de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132755",
+   "versions": [
+    {
+     "from": "2011-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132755",
+     "sha256": "9fab79b002a5bb807e5dec3d5b50c9aea0a45c11c7dff6755ab84d2f4926da50"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-13-2011",
+   "path": "regulament/cnvm/2011/13",
+   "short": "Regulament cnvm nr. 13/2011",
+   "title": "Regulamentul nr. 13/2011 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 18/16/2010 privind tratamentul riscului de credit aferent expunerilor securitizate și pozițiilor din securitizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132843",
+   "versions": [
+    {
+     "from": "2011-11-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132843",
+     "sha256": "265031c9203ee2d8dc4c6a4ca4f5ba94c99b6431a4d500a75f40df51dfdba9c2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-14-2011",
+   "path": "regulament/cnvm/2011/14",
+   "short": "Regulament cnvm nr. 14/2011",
+   "title": "Regulamentul nr. 14/2011 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 22/27/2006 privind adecvarea capitalului instituțiilor de credit și al firmelor de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132878",
+   "versions": [
+    {
+     "from": "2011-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132878",
+     "sha256": "af7f12de818deba4434f58ab01cdf156030ea735f50332fa089a09d530201d01"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-15-2011",
+   "path": "regulament/cnvm/2011/15",
+   "short": "Regulament cnvm nr. 15/2011",
+   "title": "Regulamentul nr. 15/2011 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 25/30/2006 privind cerințele de transparență și de publicare pentru instituțiile de credit și firmele de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133111",
+   "versions": [
+    {
+     "from": "2011-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133111",
+     "sha256": "239657d7a8672dd83b48f3048ed7fbd7b901b1ee49935e74c40ed4a561f3432b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-16-2011",
+   "path": "regulament/cnvm/2011/16",
+   "short": "Regulament cnvm nr. 16/2011",
+   "title": "Regulamentul nr. 16/2011 de completare a reglementărilor Comisiei Naționale a Valorilor Mobiliare în vederea implementării unor prevederi din Directiva 2010/78/UE a Parlamentului European și a Consiliului din 24 noiembrie 2010 de modificare a Directivelor 98/26/CE, 2002/87/CE, 2003/6/CE, 2003/41/CE, 2003/71/CE, 2004/39/CE, 2004/109/CE, 2005/60/CE, 2006/48/CE, 2006/49/CE și 2009/65/CE cu privire la competențele Autorității europene de supraveghere (Autoritatea bancară europeană), ale Autorității europene de supraveghere (Autoritatea europeană pentru asigurări și pensii ocupaționale) și ale Autorității europene de supraveghere (Autoritatea europeană pentru valori mobiliare și piețe)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133828",
+   "versions": [
+    {
+     "from": "2011-12-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133828",
+     "sha256": "82ae2f6f6f12072f39dd35776e742988234913f62c9732146eb2dfbe621cbc9c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-17-2011",
+   "path": "regulament/cnvm/2011/17",
+   "short": "Regulament cnvm nr. 17/2011",
+   "title": "Regulamentul nr. 17/2011 pentru completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 18/23/2006 privind fondurile proprii ale instituțiilor de credit și ale firmelor de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133946",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133946",
+     "sha256": "0824d6e040b6b1ee36463c1205e6ce418c6fd49b128e2f9a8c8d5d9af18ca0eb"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-18-2011",
+   "path": "regulament/cnvm/2011/18",
+   "short": "Regulament cnvm nr. 18/2011",
+   "title": "Regulamentul nr. 18/2011 privind modificarea și completarea unor regulamente ale Comisiei Naționale a Valorilor Mobiliare în conformitate cu dispozițiile Legii nr. 287/2009 privind Codul civil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134225",
+   "versions": [
+    {
+     "from": "2012-01-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134225",
+     "sha256": "202cdc20c9f7c9d0593f60519d3e13e6340d6c435335edcd5009a48b9094650b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-2-2011",
+   "path": "regulament/cnvm/2011/2",
+   "short": "Regulament cnvm nr. 2/2011",
+   "title": "Regulamentul nr. 2/2011 privind modificarea și completarea Regulamentului nr. 12/2010 privind atestarea organismelor de formare profesională, a operatorilor și specialiștilor pentru piața de capital, aprobat prin Ordinul Comisiei Naționale a Valorilor Mobiliare nr. 36/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126223",
+   "versions": [
+    {
+     "from": "2011-02-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126223",
+     "sha256": "a23185a0e533371d62d1b2c33552ada8fa3df1b1aa1ae3062845f8a71e4c6877"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-3-2011",
+   "path": "regulament/cnvm/2011/3",
+   "short": "Regulament cnvm nr. 3/2011",
+   "title": "Regulamentul nr. 3/2011 privind Reglementările contabile conforme cu Directiva a VII-a a Comunităților Economice Europene aplicabile entităților autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126521",
+   "versions": [
+    {
+     "from": "2011-03-03",
+     "units": 120,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126521",
+     "sha256": "b13548e88f6f2a652bfd635ae89aaecb107522ae2b7585b247e6289f628aacae"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-7-2011",
+   "path": "regulament/cnvm/2011/7",
+   "short": "Regulament cnvm nr. 7/2011",
+   "title": "Regulamentul nr. 7/2011 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 14/19/2006 privind tratamentul riscului de credit pentru instituțiile de credit și firmele de investiții potrivit abordării standard",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131756",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131756",
+     "sha256": "9e5d1bf4b0c45b88a58c89ce1a7eed3217fa239bfc95ee2bb2ff220945b56089"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-8-2011",
+   "path": "regulament/cnvm/2011/8",
+   "short": "Regulament cnvm nr. 8/2011",
+   "title": "Regulamentul nr. 8/2011 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 18/23/2006 privind fondurile proprii ale instituțiilor de credit și ale firmelor de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131754",
+   "versions": [
+    {
+     "from": "2011-09-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131754",
+     "sha256": "d12cc62c9922649137d29b8b6e3cadc9f6d0a0c0c09e531b7e278920d49050f0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-9-2011",
+   "path": "regulament/cnvm/2011/9",
+   "short": "Regulament cnvm nr. 9/2011",
+   "title": "Regulamentul nr. 9/2011 pentru completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 22/27/2006 privind adecvarea capitalului instituțiilor de credit și al firmelor de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131758",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131758",
+     "sha256": "1942eea443686e2b8f9214318a5a26d49ec9779f53a7908a750ff7b5eefefb06"
+    }
+   ]
+  }
+ ]
+}

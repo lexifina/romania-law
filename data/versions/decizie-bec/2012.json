@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "decizie-bec/2012",
+ "acts": [
+  {
+   "slug": "decizie-bec-locale-2012-1",
+   "path": "decizie-bec/locale-2012/1",
+   "short": "Hotărârea BEC nr. 1/2012",
+   "title": "Hotărârea Biroului Electoral Central nr. 1 din 2012-04-05",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/137075",
+   "versions": [
+    {
+     "from": "2012-04-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/137075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2012-77-h",
+   "path": "decizie-bec/locale-2012/77-h",
+   "short": "Hotărârea BEC nr. 77-h/2012",
+   "title": "Hotărârea Biroului Electoral Central nr. 77-h din 2012-06-01",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/138660",
+   "versions": [
+    {
+     "from": "2012-06-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/138660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2012-proces-verbal-2012-06-29-2",
+   "path": "decizie-bec/locale-2012/proces-verbal-2012-06-29-2",
+   "short": "Proces verbal BEC din 2012-06-29",
+   "title": "Proces verbal Biroului Electoral Central din 2012-06-29",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/139207",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/139207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2012-proces-verbal-2012-06-29-3",
+   "path": "decizie-bec/locale-2012/proces-verbal-2012-06-29-3",
+   "short": "Proces verbal BEC din 2012-06-29",
+   "title": "Proces verbal Biroului Electoral Central din 2012-06-29",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/139208",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/139208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2012-proces-verbal-2012-06-29-4",
+   "path": "decizie-bec/locale-2012/proces-verbal-2012-06-29-4",
+   "short": "Proces verbal BEC din 2012-06-29",
+   "title": "Proces verbal Biroului Electoral Central din 2012-06-29",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/139209",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/139209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2012-proces-verbal-2012-06-29-5",
+   "path": "decizie-bec/locale-2012/proces-verbal-2012-06-29-5",
+   "short": "Proces verbal BEC din 2012-06-29",
+   "title": "Proces verbal Biroului Electoral Central din 2012-06-29",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/139210",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/139210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2012-proces-verbal-2012-06-29-6",
+   "path": "decizie-bec/locale-2012/proces-verbal-2012-06-29-6",
+   "short": "Proces verbal BEC din 2012-06-29",
+   "title": "Proces verbal Biroului Electoral Central din 2012-06-29",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/139211",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/139211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2012-proces-verbal-2012-06-29",
+   "path": "decizie-bec/locale-2012/proces-verbal-2012-06-29",
+   "short": "Proces verbal BEC din 2012-06-29",
+   "title": "Proces verbal Biroului Electoral Central din 2012-06-29",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/139206",
+   "versions": [
+    {
+     "from": "2012-06-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/139206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2012-1h",
+   "path": "decizie-bec/parlamentare-2012/1h",
+   "short": "Hotărârea BEC nr. 1h/2012",
+   "title": "Hotărârea Biroului Electoral Central nr. 1h din 2012-09-17",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/141404",
+   "versions": [
+    {
+     "from": "2012-09-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/141404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2012-2h",
+   "path": "decizie-bec/parlamentare-2012/2h",
+   "short": "Hotărârea BEC nr. 2h/2012",
+   "title": "Hotărârea Biroului Electoral Central nr. 2h din 2012-09-20",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/141484",
+   "versions": [
+    {
+     "from": "2012-09-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/141484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2012-3h",
+   "path": "decizie-bec/parlamentare-2012/3h",
+   "short": "Hotărârea BEC nr. 3h/2012",
+   "title": "HOTĂRÂRE nr. 3H din 16 octombrie 2012 privind interpretarea dispoziţiilor art. 16 alin. (5) din Legea nr. 35/2008 pentru alegerea Camerei Deputaţilor şi a Senatului şi pentru modificarea şi completarea Legii nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale, a Legii administraţiei publice locale nr. 215/2001 şi a Legii nr. 393/2004 privind Statutul aleşilor locali",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/142124",
+   "versions": [
+    {
+     "from": "2012-10-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/142124",
+     "sha256": "f634f4e35757e8907a30bac0bb0275b69eea03152005371df4626225bbdf4b6d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2012-4h",
+   "path": "decizie-bec/parlamentare-2012/4h",
+   "short": "Hotărârea BEC nr. 4h/2012",
+   "title": "HOTĂRÂRE nr. 4H din 18 octombrie 2012 privind interpretarea dispoziţiilor art. 68 alin. (2) din Legea nr. 35/2008 pentru alegerea Camerei Deputaţilor şi a Senatului şi pentru modificarea şi completarea Legii nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale, a Legii administraţiei publice locale nr. 215/2001 şi a Legii nr. 393/2004 privind Statutul aleşilor locali",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/142184",
+   "versions": [
+    {
+     "from": "2012-10-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/142184",
+     "sha256": "cc4e4d32620cc7728a0c41100fbd885ec4191ecaf9c8f53b9ef3400db20c10b1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2012-6h",
+   "path": "decizie-bec/parlamentare-2012/6h",
+   "short": "Hotărârea BEC nr. 6h/2012",
+   "title": "HOTĂRÂRE nr. 6H din 20 noiembrie 2012 pentru interpretarea dispoziţiilor art. 8 alin. (4) din Legea nr. 35/2008 pentru alegerea Camerei Deputaţilor şi a Senatului şi pentru modificarea şi completarea Legii nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale, a Legii administraţiei publice locale nr. 215/2001 şi a Legii nr. 393/2004 privind Statutul aleşilor locali",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/143035",
+   "versions": [
+    {
+     "from": "2012-11-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/143035",
+     "sha256": "35761e5f3d47396337c254d2032d91c23f8973fef71d4d6387c1664cf4df8eae"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2012-proces-verbal-2012-12-09",
+   "path": "decizie-bec/parlamentare-2012/proces-verbal-2012-12-09",
+   "short": "Proces verbal BEC din 2012-12-09",
+   "title": "Proces verbal Biroului Electoral Central din 2012-12-09",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/143810",
+   "versions": [
+    {
+     "from": "2012-12-14",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/143810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2012-regulament-2012-09-17",
+   "path": "decizie-bec/parlamentare-2012/regulament-2012-09-17",
+   "short": "Regulamentul BEC din 2012-09-17",
+   "title": "REGULAMENT din 17 septembrie 2012 de organizare şi funcţionare a birourilor şi oficiilor electorale constituite la alegerile pentru Camera Deputaţilor şi Senat din anul 2012",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/141405",
+   "versions": [
+    {
+     "from": "2012-09-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/141405",
+     "sha256": "7a5abaa1217bb3d59e739c7816c5f02cad1443f35b787369b3e8a048a871bb1c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-referendum-2012-1h",
+   "path": "decizie-bec/referendum-2012/1h",
+   "short": "Hotărârea BEC nr. 1h/2012",
+   "title": "HOTĂRÂRE nr. 1H din 10 iulie 2012 privind aprobarea Regulamentului de organizare şi funcţionare a birourilor şi oficiilor electorale constituite la referendumul naţional pentru demiterea Preşedintelui României din 29 iulie 2012",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/139792",
+   "versions": [
+    {
+     "from": "2012-07-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/139792",
+     "sha256": "a2fbb5274d02a0c48733f7668dfa9103345bf2cbc60e7e1505a437bec1895cd8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-referendum-2012-26",
+   "path": "decizie-bec/referendum-2012/26",
+   "short": "Hotărârea BEC nr. 26/2012",
+   "title": "HOTĂRÂRE nr. 26 H din 26 iulie 2012 pentru interpretarea dispoziţiilor art. 25 alin. (3) din Legea nr. 3/2000 privind organizarea şi desfăşurarea referendumului",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/140053",
+   "versions": [
+    {
+     "from": "2012-07-27",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/140053",
+     "sha256": "23dd0f6e05d0a88299637ec5c3f83dc34378491b6dbc295748be26b1d711af4a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-referendum-2012-regulament-2012-07-10",
+   "path": "decizie-bec/referendum-2012/regulament-2012-07-10",
+   "short": "Regulamentul BEC din 2012-07-10",
+   "title": "REGULAMENT din 10 iulie 2012 de organizare şi funcţionare a birourilor şi oficiilor electorale constituite la referendumul naţional pentru demiterea Preşedintelui României din 29 iulie 2012",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/139793",
+   "versions": [
+    {
+     "from": "2012-07-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/139793",
+     "sha256": "921b9b35d2a62b7a0dc6b34292573d8132c6f13bca6072b2fd7ff6ae33122adb"
+    }
+   ]
+  }
+ ]
+}

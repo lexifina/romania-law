@@ -1,0 +1,381 @@
+{
+ "country": "RO",
+ "shard": "regulament/2024",
+ "acts": [
+  {
+   "slug": "regulament-asf-1-2024",
+   "path": "regulament/asf/2024/1",
+   "short": "Regulament asf nr. 1/2024",
+   "title": "Regulamentul nr. 1/2024 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2016 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/278468",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/278468",
+     "sha256": "f5d999cb8273fc03881d7f2bff33d563bcc17b08c5e6b0487b096149bd769187"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-10-2024",
+   "path": "regulament/asf/2024/10",
+   "short": "Regulament asf nr. 10/2024",
+   "title": "Regulamentul nr. 10/2024 privind modificarea art. 4 alin. (6) din Regulamentul Autorității de Supraveghere Financiară nr. 3/2013 pentru autorizarea și funcționarea contrapărților centrale emis în conformitate cu prevederile Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului din 4 iulie 2012 privind instrumentele financiare derivate extrabursiere, contrapărțile centrale și registrele centrale de tranzacții, aprobat prin Hotărârea Consiliului Autorității de Supraveghere Financiară nr. 28/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287559",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287559",
+     "sha256": "5271aa153845a31d3c8280262f1df12a96f3219622f8837f1ff9944793439b7b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-11-2024",
+   "path": "regulament/asf/2024/11",
+   "short": "Regulament asf nr. 11/2024",
+   "title": "Regulamentul nr. 11/2024 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 3/2014 privind unele aspecte legate de aplicarea Ordonanței de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului și a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului din 26 iunie 2013 privind cerințele prudențiale pentru instituțiile de credit și firmele de investiții și de modificare a Regulamentului (UE) nr. 648/2012, precum și pentru modificarea Regulamentului Autorității de Supraveghere Financiară nr. 15/2023 privind autorizarea entităților prevăzute la art. 163^2 din Ordonanța de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289212",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289212",
+     "sha256": "1ca7056fa1d68ea85aa135a4e5c85d9a72475b03606ae734f9a6fe8b0c987d26"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-12-2024",
+   "path": "regulament/asf/2024/12",
+   "short": "Regulament asf nr. 12/2024",
+   "title": "Regulamentul nr. 12/2024 pentru modificarea Regulamentului Autorității de Supraveghere Financiară nr. 8/2024 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289728",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289728",
+     "sha256": "52cfa3216ad956872bf395d59d636fa5eb2468f84fa4bf113340107ee3493cc9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-13-2024",
+   "path": "regulament/asf/2024/13",
+   "short": "Regulament asf nr. 13/2024",
+   "title": "Regulamentul nr. 13/2024 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 4/2021 privind activitatea de control desfășurată de către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290007",
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290007",
+     "sha256": "cfc672fc219741cbde1967114ff8e7233d6b4e7b78da2247eab5bc49ecd3c62f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-14-2024",
+   "path": "regulament/asf/2024/14",
+   "short": "Regulament asf nr. 14/2024",
+   "title": "Regulamentul nr. 14/2024 pentru modificarea Regulamentului Autorității de Supraveghere Financiară nr. 16/2014 privind veniturile Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290157",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290157",
+     "sha256": "3bd0aad7017834ac861f0bfce32e2e5ec9fb9ac32d6bb04360a9dfb9a20d4067"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-15-2024",
+   "path": "regulament/asf/2024/15",
+   "short": "Regulament asf nr. 15/2024",
+   "title": "Regulamentul nr. 15/2024 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 5/2018 privind emitenții de instrumente financiare și operațiuni de piață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/290957",
+   "versions": [
+    {
+     "from": "2024-11-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290957",
+     "sha256": "f5e2acc49df331725dc072a388294f507ee58eb263e76a91a2e7ae189e00c359"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-16-2024",
+   "path": "regulament/asf/2024/16",
+   "short": "Regulament asf nr. 16/2024",
+   "title": "Regulamentul nr. 16/2024 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 5/2019 privind reglementarea unor dispoziții referitoare la prestarea serviciilor și activităților de investiții conform Legii nr. 126/2018 privind piețele de instrumente financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/292160",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/292160",
+     "sha256": "05c3c24a611f749220460ce4d73473edbeae44b4546634545ab8359850392dbf"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-2-2024",
+   "path": "regulament/asf/2024/2",
+   "short": "Regulament asf nr. 2/2024",
+   "title": "Regulamentul nr. 2/2024 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 13/2018 privind locurile de tranzacționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279679",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279679",
+     "sha256": "6b2c52144cea67679a0ff07a7ea2dc46be3c0a48345d03021825722cf6c39318"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-3-2024",
+   "path": "regulament/asf/2024/3",
+   "short": "Regulament asf nr. 3/2024",
+   "title": "Regulamentul nr. 3/2024 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 15/2021 privind utilizarea sistemului de conturi globale și aplicarea mecanismelor fără prevalidarea instrumentelor financiare și a Regulamentului Autorității de Supraveghere Financiară nr. 16/2021 privind constituirea, publicitatea și executarea garanțiilor reale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279680",
+   "versions": [
+    {
+     "from": "2024-03-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279680",
+     "sha256": "1b2190be6cd1b333590c6bc14dc3ab6d5b9b580c84d5c7463797e648733d7560"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-4-2024",
+   "path": "regulament/asf/2024/4",
+   "short": "Regulament asf nr. 4/2024",
+   "title": "Regulamentul nr. 4/2024 privind modificarea art. 4 alin. (6) din Regulamentul Autorității de Supraveghere Financiară nr. 3/2013 pentru autorizarea și funcționarea contrapărților centrale emis în conformitate cu prevederile Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului din 4 iulie 2012 privind instrumentele financiare derivate extrabursiere, contrapărțile centrale și registrele centrale de tranzacții, aprobat prin Hotărârea Consiliului Autorității de Supraveghere Financiară nr. 28/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279503",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279503",
+     "sha256": "b426358bf306bf9267a5c4808c95e6eb4be302bf2e3ea0ab0a535deadcdde016"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-5-2024",
+   "path": "regulament/asf/2024/5",
+   "short": "Regulament asf nr. 5/2024",
+   "title": "Regulamentul nr. 5/2024 privind regimul și principiile aferente remunerării personalului și membrilor Consiliului în cadrul Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282607",
+   "versions": [
+    {
+     "from": "2024-05-13",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/282607",
+     "sha256": "43b2664075a69bef576ad92e305915e1f9d8780b9a1dbb20588782285418258b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-6-2024",
+   "path": "regulament/asf/2024/6",
+   "short": "Regulament asf nr. 6/2024",
+   "title": "Regulamentul nr. 6/2024 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2017 privind depozitarii centrali emis în aplicarea Regulamentului (UE) nr. 909/2014 al Parlamentului European și al Consiliului din 23 iulie 2014 privind îmbunătățirea decontării titlurilor de valoare în Uniunea Europeană și privind depozitarii centrali de titluri de valoare și de modificare a Directivelor 98/26/CE și 2014/65/UE și a Regulamentului (UE) nr. 236/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283078",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/283078",
+     "sha256": "5e2064efcb130a050bffa841b1b6efc4663cfec6917ca674683eb6f57c50c2b7"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-8-2024",
+   "path": "regulament/asf/2024/8",
+   "short": "Regulament asf nr. 8/2024",
+   "title": "Regulamentul nr. 8/2024 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284590",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 177,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284590",
+     "sha256": "b783d88ccd69068e32626635abe90fa82390866bb7decc9217621ac3475025cf"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-9-2024",
+   "path": "regulament/asf/2024/9",
+   "short": "Regulament asf nr. 9/2024",
+   "title": "Regulamentul nr. 9/2024 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 16/2014 privind veniturile Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/285399",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/285399",
+     "sha256": "fa70f1091b141d4659e1e68d37e749a50ce480c4db2c296edd445ddda7a2317f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-1-2024",
+   "path": "regulament/bnr/2024/1",
+   "short": "Regulament bnr nr. 1/2024",
+   "title": "Regulamentul nr. 1/2024 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 3/2018 privind monitorizarea infrastructurilor pieței financiare și a instrumentelor de plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279106",
+   "versions": [
+    {
+     "from": "2024-02-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279106",
+     "sha256": "e79756328524eced0dd2aa415eaadb6ccdb7ec558e2bba10a77950fd16e70924"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-10-2024",
+   "path": "regulament/bnr/2024/10",
+   "short": "Regulament bnr nr. 10/2024",
+   "title": "Regulamentul nr. 10/2024 privind piața secundară a titlurilor de stat administrată de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/287465",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287465",
+     "sha256": "edbd6d033af41dbb4b182ffe126c95d8b526a29150493ffa74b92b053cd6eb2e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-11-2024",
+   "path": "regulament/bnr/2024/11",
+   "short": "Regulament bnr nr. 11/2024",
+   "title": "Regulamentul nr. 11/2024 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 5/2013 privind cerințe prudențiale pentru instituțiile de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/289045",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/289045",
+     "sha256": "c4fa26b0a8b88cf88cebc5832d89d1db22c6e8babb63f7d724f3ca7ccaa24d12"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-2-2024",
+   "path": "regulament/bnr/2024/2",
+   "short": "Regulament bnr nr. 2/2024",
+   "title": "Regulamentul nr. 2/2024 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 4/2019 privind instituțiile de plată și furnizorii specializați în servicii de informare cu privire la conturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/281556",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281556",
+     "sha256": "565d51eb2b0c99a607c57eea09c4b6c1c7ec2e62c5bd68bae679c4f2a4a836f3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-3-2024",
+   "path": "regulament/bnr/2024/3",
+   "short": "Regulament bnr nr. 3/2024",
+   "title": "Regulamentul nr. 3/2024 pentru modificarea Regulamentului Băncii Naționale a României nr. 7/2023 privind organizarea și funcționarea la Banca Națională a României a Centralei Incidentelor de Plăți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284121",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284121",
+     "sha256": "0fef7a4d296af09aec66aefee375613e4c55a20b25e244cf50de9368dd526155"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-4-2024",
+   "path": "regulament/bnr/2024/4",
+   "short": "Regulament bnr nr. 4/2024",
+   "title": "Regulamentul nr. 4/2024 privind autorizarea instituției de credit-punte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284736",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284736",
+     "sha256": "a571f1743e2b7dc6453aaf89e597c2f17b2a795009b69301cc5a5f85aa7b0b51"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-5-2024",
+   "path": "regulament/bnr/2024/5",
+   "short": "Regulament bnr nr. 5/2024",
+   "title": "Regulamentul nr. 5/2024 privind regimul rezervelor minime obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284727",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284727",
+     "sha256": "f49a43c750532b5d609815d865dcf92b347b4fcd82919839e051a8bc155e0825"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-6-2024",
+   "path": "regulament/bnr/2024/6",
+   "short": "Regulament bnr nr. 6/2024",
+   "title": "Regulamentul nr. 6/2024 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 4/2021 privind raportarea de date și informații statistice la Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284728",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284728",
+     "sha256": "dbd6a19ed843232e803dc2058608d5662289f3bedb4847b42b441d9d4bf09ddf"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-7-2024",
+   "path": "regulament/bnr/2024/7",
+   "short": "Regulament bnr nr. 7/2024",
+   "title": "Regulamentul nr. 7/2024 pentru modificarea Regulamentului Băncii Naționale a României nr. 1/2000 privind operațiunile de piață monetară efectuate de Banca Națională a României și facilitățile permanente acordate de aceasta participanților eligibili",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/284729",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284729",
+     "sha256": "8a2095972813b59ed7493add3f4e75043383e757d52f5ecc590d3d2f621d404d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-9-2024",
+   "path": "regulament/bnr/2024/9",
+   "short": "Regulament bnr nr. 9/2024",
+   "title": "Regulamentul nr. 9/2024 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 4/2019 privind instituțiile de plată și furnizorii specializați în servicii de informare cu privire la conturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/286421",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/286421",
+     "sha256": "f265e4f49e7894b9fa0134f87f83a4a3310c303d26c985a1ee0cf406ac7b334c"
+    }
+   ]
+  }
+ ]
+}

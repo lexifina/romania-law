@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "criterii/1992",
+ "acts": [
+  {
+   "slug": "criterii-finante-2665-1992",
+   "path": "criterii/finante/1992/2665",
+   "short": "Criterii finante nr. 2665/1992",
+   "title": "Criteriile nr. 2.665/1992 CRITERII nr. 2665 DIN 28 februarie 1992 privind stabilirea și evaluarea terenurilor aflate în patrimoniul societăților comerciale cu capital de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2944",
+   "versions": [
+    {
+     "from": "1992-03-31",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2944",
+     "sha256": "d3e240228ffa0a2a0253b16623b2244cd69d889bcf0a0584eecdb5792b28fe49"
+    }
+   ]
+  }
+ ]
+}

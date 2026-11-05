@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "norma-aep/2015",
+ "acts": [
+  {
+   "slug": "norma-aep-metodologie-2015-11-03-2015",
+   "path": "norma-aep/2015/metodologie-2015-11-03",
+   "short": "Metodologia AEP din 2015-11-03",
+   "title": "Metodologia Autorității Electorale Permanente din 2015-11-03",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/172745",
+   "versions": [
+    {
+     "from": "2015-11-06",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/172745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-norma-2015-10-28-2015",
+   "path": "norma-aep/2015/norma-2015-10-28",
+   "short": "Normă AEP din 2015-10-28",
+   "title": "Normă Autorității Electorale Permanente din 2015-10-28",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/172552",
+   "versions": [
+    {
+     "from": "2015-11-02",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/172552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-rectificare-11-2015",
+   "path": "norma-aep/2015/rectificare-11",
+   "short": "Rectificarea AEP nr. 11/2015",
+   "title": "RECTIFICARE nr. 11 din 3 noiembrie 2015 referitoare la Hotărârea Autorităţii Electorale Permanente nr. 11/2015 privind aprobarea Metodologiei de admitere în Corpul experţilor electorali",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/175605",
+   "versions": [
+    {
+     "from": "2016-02-05",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/175605",
+     "sha256": "bc202d4df4ccd6ca515002ba7daf88b628949735b6bda8362d466e299592ae5d"
+    }
+   ]
+  }
+ ]
+}

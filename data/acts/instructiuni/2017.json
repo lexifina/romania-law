@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "instructiuni/2017",
+"acts": [
+{
+"slug": "instructiuni-asf-1-2017",
+"path": "instructiuni/asf/2017/1",
+"kind": "instructiuni",
+"year": "2017",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 1/2017 privind întocmirea și depunerea situațiilor financiare anuale de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară - Sectorul instrumentelor și investițiilor financiare, precum și pentru modificarea Instrucțiunii Autorității de Supraveghere Financiară nr. 1/2016 privind întocmirea și depunerea situației financiare anuale și a raportării anuale de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară - Sectorul instrumentelor și investițiilor financiare",
+"short": "Instrucțiuni asf nr. 1/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-03-09",
+"latest": "2017-03-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/187158",
+"issuer": "asf",
+"joint": []
+},
+{
+"slug": "instructiuni-asf-2-2017",
+"path": "instructiuni/asf/2017/2",
+"kind": "instructiuni",
+"year": "2017",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 2/2017 privind abrogarea Ordinului Comisiei Naționale a Valorilor Mobiliare nr. 142/2007 pentru aprobarea Instrucțiunii nr. 7/2007 privind raportarea unor operațiuni",
+"short": "Instrucțiuni asf nr. 2/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-05-26",
+"latest": "2017-05-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/189549",
+"issuer": "asf",
+"joint": []
+}
+]
+}

@@ -1,0 +1,471 @@
+{
+ "country": "RO",
+ "shard": "norma/2008",
+ "acts": [
+  {
+   "slug": "norma-bnr-1-2008",
+   "path": "norma/bnr/2008/1",
+   "short": "Norma bnr nr. 1/2008",
+   "title": "Norma nr. 1/2008 pentru modificarea și completarea Normei Băncii Naționale a României nr. 15/2006 privind transmiterea indicatorilor primari prin intermediul Sistemului informatic de raportare către Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89392",
+   "versions": [
+    {
+     "from": "2008-02-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89392",
+     "sha256": "5ef18b81970f6ea80c91e023fe1959164494af5fe5d51fd8711488b2e11f80bb"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-10-2008",
+   "path": "norma/bnr/2008/10",
+   "short": "Norma bnr nr. 10/2008",
+   "title": "Norma nr. 10/2008 privind modificarea Normei Băncii Naționale a României nr. 6/2008 pentru modificarea și completarea Normelor-cadru ale Băncii Naționale a României nr. 7/1994 privind comerțul făcut de societățile bancare și celelalte societăți de credit, cu cecuri, pe baza Legii nr. 59/1934 asupra cecului, modificată prin Ordonanța Guvernului nr. 11/1993, aprobată și modificată prin Legea nr. 83/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97475",
+   "versions": [
+    {
+     "from": "2008-09-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97475",
+     "sha256": "4b0e91238d3a039870acf41e3958f89e62f9ecf4c8f25ba17d910727e6070c1d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-11-2008",
+   "path": "norma/bnr/2008/11",
+   "short": "Norma bnr nr. 11/2008",
+   "title": "Norma nr. 11/2008 privind modificarea Normei Băncii Naționale a României nr. 7/2008 pentru modificarea și completarea Normelor-cadru ale Băncii Naționale a României nr. 6/1994 privind comerțul făcut de societățile bancare și celelalte societăți de credit, cu cambii și bilete la ordin, pe baza Legii nr. 58/1934 asupra cambiei și biletului la ordin, modificată prin Ordonanța Guvernului nr. 11/1993, aprobată și modificată prin Legea nr. 83/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97476",
+   "versions": [
+    {
+     "from": "2008-09-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97476",
+     "sha256": "2593fe1386119ec5d0534bd429131d5fc090a731f646c811d4152f4ec0bb2f45"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-12-2008",
+   "path": "norma/bnr/2008/12",
+   "short": "Norma bnr nr. 12/2008",
+   "title": "Norma nr. 12/2008 pentru completarea Normei Băncii Naționale a României nr. 4/1995 privind funcționarea pieței monetare interbancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98542",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98542",
+     "sha256": "311b8ffff1d2923880f45a8980bd23728fcf6991d596d8e5ce253f9da8e8cceb"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-2-2008",
+   "path": "norma/bnr/2008/2",
+   "short": "Norma bnr nr. 2/2008",
+   "title": "Norma nr. 2/2008 privind modificarea și completarea Normelor Băncii Naționale a României nr. 1/2001 privind lichiditatea băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92244",
+   "versions": [
+    {
+     "from": "2008-06-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92244",
+     "sha256": "2977408b4913ef2bd9cf50974ce78531cc1e64bd0205196102b6122bccc510bd"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-3-2008",
+   "path": "norma/bnr/2008/3",
+   "short": "Norma bnr nr. 3/2008",
+   "title": "Norma nr. 3/2008 pentru completarea Normei Băncii Naționale a României nr. 13/2004 privind raportarea tranzacțiilor efectuate pe piața valutară interbancară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92559",
+   "versions": [
+    {
+     "from": "2008-05-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92559",
+     "sha256": "7f6a83d55da628d2c5b46784db6a4130550341a006ed6b27e1c9df51f5f2d0df"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-5-2008",
+   "path": "norma/bnr/2008/5",
+   "short": "Norma bnr nr. 5/2008",
+   "title": "Norma nr. 5/2008 privind cambia și biletul la ordin",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95209",
+   "versions": [
+    {
+     "from": "2008-07-03",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95209",
+     "sha256": "3087643a3844f2703f63ac593e8b04c472f252f792899f0abcf53e66203b9714"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-6-2008",
+   "path": "norma/bnr/2008/6",
+   "short": "Norma bnr nr. 6/2008",
+   "title": "Norma nr. 6/2008 pentru modificarea și completarea Normelor-cadru ale Băncii Naționale a României nr. 7/1994 privind comerțul făcut de societățile bancare și celelalte societăți de credit, cu cecuri, pe baza Legii nr. 59/1934 asupra cecului, modificată prin Ordonanța Guvernului nr. 11/1993, aprobată și modificată prin Legea nr. 83/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95334",
+   "versions": [
+    {
+     "from": "2008-07-07",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95334",
+     "sha256": "a4b91b48a39d8a231f2a115301750d34fbe9a97a446f6489f2a31b4d1f700575"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-7-2008",
+   "path": "norma/bnr/2008/7",
+   "short": "Norma bnr nr. 7/2008",
+   "title": "Norma nr. 7/2008 pentru modificarea și completarea Normelor-cadru ale Băncii Naționale a României nr. 6/1994 privind comerțul făcut de societățile bancare și celelalte societăți de credit, cu cambii și bilete la ordin, pe baza Legii nr. 58/1934 asupra cambiei și biletului la ordin, modificată prin Ordonanța Guvernului nr. 11/1993, aprobată și modificată prin Legea nr. 83/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95354",
+   "versions": [
+    {
+     "from": "2008-07-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95354",
+     "sha256": "804f7c399cfc07cb53c53f0b5cbefea1bf4560670e1fdbf6942a3e3c0efe58d1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-8-2008",
+   "path": "norma/bnr/2008/8",
+   "short": "Norma bnr nr. 8/2008",
+   "title": "Norma nr. 8/2008 privind acordarea din bugetul asigurărilor pentru șomaj de credite în condiții avantajoase, respectiv fonduri nerambursabile, întreprinderilor mici și mijlocii, unităților cooperatiste, asociațiilor familiale și persoanelor fizice care desfășoară în mod independent activități economice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96081",
+   "versions": [
+    {
+     "from": "2008-07-29",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96081",
+     "sha256": "a9de3c0fc21408f4b09010e93f54c923c94d2ef7aab51f5a5f6d61dd5b35c1de"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-1-2008",
+   "path": "norma/csspp/2008/1",
+   "short": "Norma csspp nr. 1/2008",
+   "title": "Norma nr. 1/2008 privind calculul actuarial al provizionului tehnic pentru fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88896",
+   "versions": [
+    {
+     "from": "2008-01-17",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88896",
+     "sha256": "bdf38b690f56307673c72b75dc187308a9c97d77f1bf80d5fe6ba0d5dd41da19"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-10-2008",
+   "path": "norma/csspp/2008/10",
+   "short": "Norma csspp nr. 10/2008",
+   "title": "Norma nr. 10/2008 pentru modificarea și completarea Normei nr. 18/2007 privind aderarea inițială și evidența participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91862",
+   "versions": [
+    {
+     "from": "2008-04-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91862",
+     "sha256": "c1dc7176a8731ba13a00a7d58f8a2af81df31101b166f94ad5deb490660e8bbd"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-11-2008",
+   "path": "norma/csspp/2008/11",
+   "short": "Norma csspp nr. 11/2008",
+   "title": "Norma nr. 11/2008 privind colectarea contribuțiilor individuale ale participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92027",
+   "versions": [
+    {
+     "from": "2008-05-02",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92027",
+     "sha256": "2eea20308b648337364f9b0dedd20d8fb85744ef960ae68b565c0f86252dd9e3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-12-2008",
+   "path": "norma/csspp/2008/12",
+   "short": "Norma csspp nr. 12/2008",
+   "title": "Norma nr. 12/2008 privind nivelul minim al capitalului social necesar societății de administrare a investițiilor pentru administrarea de fonduri de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92467",
+   "versions": [
+    {
+     "from": "2008-05-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92467",
+     "sha256": "7a5ac24c76ed69d394c2256a960cf21f40274d7726b8d4ea18b08c57a7ba1c38"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-14-2008",
+   "path": "norma/csspp/2008/14",
+   "short": "Norma csspp nr. 14/2008",
+   "title": "Norma nr. 14/2008 privind protecția participanților în cazul fuziunii fondurilor de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94216",
+   "versions": [
+    {
+     "from": "2008-06-17",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94216",
+     "sha256": "523ece87e0456733d50cf91a99a5d1c91d6883635979e2cfc0a0dc90803b8f74"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-15-2008",
+   "path": "norma/csspp/2008/15",
+   "short": "Norma csspp nr. 15/2008",
+   "title": "Norma nr. 15/2008 pentru modificarea și completarea Normei nr. 13/2007 privind autorizarea societății de pensii ca administrator al fondurilor de pensii facultative și al unui fond de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94312",
+   "versions": [
+    {
+     "from": "2008-06-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94312",
+     "sha256": "4d93c84b05585753dee6e5a428b5ba5b283655aa04c576329e3a6221304e3471"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-16-2008",
+   "path": "norma/csspp/2008/16",
+   "short": "Norma csspp nr. 16/2008",
+   "title": "Norma nr. 16/2008 privind sistemul de raportare contabilă la 30 iunie 2008 a entităților autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95843",
+   "versions": [
+    {
+     "from": "2008-07-22",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95843",
+     "sha256": "9013be0399de77655795f15aad5b0eb2560090721c590dd16e12f3e288d67181"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-17-2008",
+   "path": "norma/csspp/2008/17",
+   "short": "Norma csspp nr. 17/2008",
+   "title": "Norma nr. 17/2008 privind utilizarea activului personal al participantului la un fond de pensii facultative în caz de invaliditate și în caz de deces",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95404",
+   "versions": [
+    {
+     "from": "2008-07-09",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95404",
+     "sha256": "5771799973720b73c7c87160f46e46a70ee9fc00e52079cea9e535b6e24f95de"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-19-2008",
+   "path": "norma/csspp/2008/19",
+   "short": "Norma csspp nr. 19/2008",
+   "title": "Norma nr. 19/2008 privind utilizarea activului personal net al participantului la un fond de pensii administrat privat, în caz de invaliditate și în caz de deces",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97406",
+   "versions": [
+    {
+     "from": "2008-09-17",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97406",
+     "sha256": "9a871b6e719df92e4fc83a1ebd94c9d03c35a5ecf3cb8a1083dcff740890562b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-2-2008",
+   "path": "norma/csspp/2008/2",
+   "short": "Norma csspp nr. 2/2008",
+   "title": "Norma nr. 2/2008 privind organizarea activității de arhivă la administratorii de fonduri de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89151",
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89151",
+     "sha256": "9ca5a4da6d222aa83d52c487ed1d713df71a86355de78388ed799243c00cd232"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-21-2008",
+   "path": "norma/csspp/2008/21",
+   "short": "Norma csspp nr. 21/2008",
+   "title": "Norma nr. 21/2008 privind supravegherea specială a administratorilor fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97901",
+   "versions": [
+    {
+     "from": "2008-10-09",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97901",
+     "sha256": "85842c84e6d32cfff5befdebfc1473035fcbb6a1164410f75254bbf6b56ae22c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-22-2008",
+   "path": "norma/csspp/2008/22",
+   "short": "Norma csspp nr. 22/2008",
+   "title": "Norma nr. 22/2008 pentru modificarea temporară a limitei maxime aplicabile investițiilor fondurilor de pensii administrate privat în titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98727",
+   "versions": [
+    {
+     "from": "2008-11-03",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98727",
+     "sha256": "3fc30565ede0e9d45daa9f2b645730d35a6f639344552388570ff7515c192184"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-23-2008",
+   "path": "norma/csspp/2008/23",
+   "short": "Norma csspp nr. 23/2008",
+   "title": "Norma nr. 23/2008 pentru modificarea temporară a limitei maxime aplicabile investițiilor fondurilor de pensii facultative în titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98729",
+   "versions": [
+    {
+     "from": "2008-11-03",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98729",
+     "sha256": "97fafc1dc3bf1d0c938e4b5252587e0d25a06f44226153c98c2604d84f9ce70f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-24-2008",
+   "path": "norma/csspp/2008/24",
+   "short": "Norma csspp nr. 24/2008",
+   "title": "Norma nr. 24/2008 privind condițiile de autorizare și organizare a activelor și pasivelor pentru societățile de administrare a fondurilor de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100908",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100908",
+     "sha256": "54c9d377553c5664b5c9db158217ed7e8cd646d75d1d5164e2a7fb69c7219a64"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-3-2008",
+   "path": "norma/csspp/2008/3",
+   "short": "Norma csspp nr. 3/2008",
+   "title": "Norma nr. 3/2008 privind transferul participanților între fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89132",
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89132",
+     "sha256": "f163a3163d237b1c70feb883156c73199749ea5231adc5cd5e378a0830970f9f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-5-2008",
+   "path": "norma/csspp/2008/5",
+   "short": "Norma csspp nr. 5/2008",
+   "title": "Norma nr. 5/2008 privind obligațiile de raportare și transparență în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89813",
+   "versions": [
+    {
+     "from": "2008-02-21",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89813",
+     "sha256": "e05cb3bf1fd9c9eb8bc9244ce6fd347b14c7b95030f01fdb3268acd8ab8b7dc3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-6-2008",
+   "path": "norma/csspp/2008/6",
+   "short": "Norma csspp nr. 6/2008",
+   "title": "Norma nr. 6/2008 pentru modificarea Normei nr. 18/2007 privind aderarea inițială și evidența participanților la fondurile de pensii administrate privat, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89893",
+   "versions": [
+    {
+     "from": "2008-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89893",
+     "sha256": "8398e50bcf575b1ff2a7513cd883fa68d99c75f97cf6b5822486a3b5f5d10e25"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-7-2008",
+   "path": "norma/csspp/2008/7",
+   "short": "Norma csspp nr. 7/2008",
+   "title": "Norma nr. 7/2008 privind taxele de autorizare, avizare și funcționare în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91076",
+   "versions": [
+    {
+     "from": "2008-04-07",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91076",
+     "sha256": "a7c6b0c1007cd6a0230e557db97d3fc25c496e2ab978c7ae5f6b6f34d1352dd2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-8-2008",
+   "path": "norma/csspp/2008/8",
+   "short": "Norma csspp nr. 8/2008",
+   "title": "Norma nr. 8/2008 privind taxele de autorizare, avizare și administrare în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91078",
+   "versions": [
+    {
+     "from": "2008-04-07",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91078",
+     "sha256": "ed7f34d7593047041e4649a814cc3ac1b3a22992499026f9778958970c0247e3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-9-2008",
+   "path": "norma/csspp/2008/9",
+   "short": "Norma csspp nr. 9/2008",
+   "title": "Norma nr. 9/2008 privind întocmirea și depunerea situațiilor financiare anuale de către entitățile autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private pentru exercițiul financiar 2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91150",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91150",
+     "sha256": "3ced7a5fe280fe20d8e332746ec1a0dfc1baba37d7017ca2a73a1a078222264c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-1557-2008",
+   "path": "norma/munca/2008/1557",
+   "short": "Norma munca nr. 1557/2008",
+   "title": "Norma nr. 1.557/2008 privind acordarea din bugetul asigurărilor pentru șomaj de credite în condiții avantajoase, respectiv fonduri nerambursabile, întreprinderilor mici și mijlocii, unităților cooperatiste, asociațiilor familiale și persoanelor fizice care desfășoară în mod independent activități economice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96073",
+   "versions": [
+    {
+     "from": "2008-07-29",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96073",
+     "sha256": "34f5fdf97a8db8e6078600f91e541d066d7402da84f87ac218218a3a060782f6"
+    }
+   ]
+  }
+ ]
+}

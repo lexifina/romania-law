@@ -1,0 +1,83 @@
+{
+"country": "RO",
+"shard": "norma-aep/2013",
+"acts": [
+{
+"slug": "norma-aep-lista-1-2013",
+"path": "norma-aep/2013/lista-1",
+"kind": "norma-aep",
+"year": "2013",
+"number": "lista-1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Listă Autorității Electorale Permanente nr. 1 din 2013-02-11",
+"short": "Listă AEP nr. 1/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-02-13",
+"latest": "2013-02-13",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/145492",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-lista-2-2013",
+"path": "norma-aep/2013/lista-2",
+"kind": "norma-aep",
+"year": "2013",
+"number": "lista-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Listă Autorității Electorale Permanente nr. 2 din 2013-02-28",
+"short": "Listă AEP nr. 2/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-03-04",
+"latest": "2013-03-04",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/145862",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-lista-3-2013",
+"path": "norma-aep/2013/lista-3",
+"kind": "norma-aep",
+"year": "2013",
+"number": "lista-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "LISTĂ nr. 3 din 27 mai 2013 privind partidele politice, alianţele politice, alianţele electorale, organizaţiile cetăţenilor români aparţinând minorităţilor naţionale şi candidaţii independenţi care au depus până la data de 27 mai 2013 raportul detaliat al veniturilor şi cheltuielilor electorale întocmit cu ocazia alegerilor locale parţiale din data de 26 mai 2013, listă care se publică de către Autoritatea Electorală Permanentă conform art. 38 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale",
+"short": "Listă AEP nr. 3/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-05-29",
+"latest": "2013-05-29",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/148488"
+},
+{
+"slug": "norma-aep-situatie-1-2013",
+"path": "norma-aep/2013/situatie-1",
+"kind": "norma-aep",
+"year": "2013",
+"number": "situatie-1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Situație Autorității Electorale Permanente nr. 1 din 2013-02-04",
+"short": "Situație AEP nr. 1/2013",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2013-02-08",
+"latest": "2013-02-08",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/145425",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

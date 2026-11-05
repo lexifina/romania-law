@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "instructiuni/2026",
+"acts": [
+{
+"slug": "instructiuni-asf-1-2026",
+"path": "instructiuni/asf/2026/1",
+"kind": "instructiuni",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 1/2026 privind modalitatea de estimare a costurilor și a pierderilor anuale agregate cauzate de incidentele majore legate de tehnologia informației și a comunicațiilor de către entitățile reglementate și supravegheate de Autoritatea de Supraveghere Financiară",
+"short": "Instrucțiuni asf nr. 1/2026",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2026-06-05",
+"latest": "2026-06-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/311226",
+"issuer": "asf",
+"joint": []
+}
+]
+}

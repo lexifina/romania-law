@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/cgmb/1997",
+ "acts": [
+  {
+   "slug": "hcgmb-108-1997",
+   "path": "local/bucuresti/cgmb/1997/108",
+   "short": "HCGMB nr. 108/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 108/1997 privind regulamentul de bransare si utilizare a apei potabile din sistemul de alimentare cu apa a municipiului Bucuresti ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 820/2018",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/559",
+   "versions": [
+    {
+     "from": "1997-06-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/559/h0108_97.pdf",
+     "sha256": "eaf926eb1de86696484bec72364e005888143899fae1c525f47e85531a37900b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-109-1997",
+   "path": "local/bucuresti/cgmb/1997/109",
+   "short": "HCGMB nr. 109/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 109/1997 privind regulamentul de racordare si utilizare a sistemului de canalizare al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/560",
+   "versions": [
+    {
+     "from": "1997-06-26",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/560/h0109_97.pdf",
+     "sha256": "5bbc8beb8f0feab63b2bc901486f3e0365348c0d2bfe07e344c34cb6cceb7768"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-141-1997",
+   "path": "local/bucuresti/cgmb/1997/141",
+   "short": "HCGMB nr. 141/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 141/1997 privind scutirea veteranilor, invalizilor de razboi si fostilor detinuti politici de plata taxei pt. ocuparea terenurilor unicipalitatii pe care sunt",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/621",
+   "versions": [
+    {
+     "from": "1997-07-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/621/h0141_97.pdf",
+     "sha256": "4929550d52811f54a7f56a1071ad1fb98c1a9375025dc1483adb87ad4e1941e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-143-1997",
+   "path": "local/bucuresti/cgmb/1997/143",
+   "short": "HCGMB nr. 143/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 143/1997 privind modificarea cuantumului taxei locale speciale de salubrizate",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/956",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 7,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/956/h0143_97.pdf",
+     "sha256": "5fa6171b91dfea6ea3398fd52f26853b573fe9818d5ac2a39009d188375ee835"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-156-1997",
+   "path": "local/bucuresti/cgmb/1997/156",
+   "short": "HCGMB nr. 156/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 156/1997 privind instituirea taxei pentru eliberarea avizelor in domeniul constructiilor de catre Inspectoratul de Protectie Civila al Municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1075",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1075/h0156_97.pdf",
+     "sha256": "a88fba0170c720841f8a6d7f2530f99e61f97647d17adac49ab57867500d304f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-158-1997",
+   "path": "local/bucuresti/cgmb/1997/158",
+   "short": "HCGMB nr. 158/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 158/1997 privind regulamentul de functionare al Consiliului general al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1076",
+   "versions": [
+    {
+     "from": "1997-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1076/h0158_97.pdf",
+     "sha256": "de59b909d9650446c97437fc5b5926cb5a36f03f32b647165b45771e9446c7d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-170-1997",
+   "path": "local/bucuresti/cgmb/1997/170",
+   "short": "HCGMB nr. 170/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 170/1997 privind aprobarea de inlesniri in plata unor impozite locale datorate de Societatea Comerciala FAUR S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1048",
+   "versions": [
+    {
+     "from": "1997-09-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1048/h0170_97.pdf",
+     "sha256": "fe37c45191550d6ec8c0fe2de6d824ca7c11f555735f405917ffa0df5bc48e0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-186-1997",
+   "path": "local/bucuresti/cgmb/1997/186",
+   "short": "HCGMB nr. 186/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 186/1997 privind aprobarea de inlesniri la plata unor impozite locale datorate de S.C. IMGB S.A.",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1057",
+   "versions": [
+    {
+     "from": "1997-10-09",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1057/h0186_97.pdf",
+     "sha256": "cfad3a871ba8eedda64e46eda43cc203809ca19060db12f57ad417f45ff8137e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-187-1997",
+   "path": "local/bucuresti/cgmb/1997/187",
+   "short": "HCGMB nr. 187/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 187/1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1059",
+   "versions": [
+    {
+     "from": "1997-10-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1059/h0187_97.pdf",
+     "sha256": "38d3c85b8128bfde2f2026ac3efa4d0a90083b2633db54c41d8d24a3be5db575"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-218-1997",
+   "path": "local/bucuresti/cgmb/1997/218",
+   "short": "HCGMB nr. 218/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 218/1997 privind metodologia de evaluare a terenurilor apartinand domeniului privat al municipiului Bucuresti destinate executarii de constructii",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1116",
+   "versions": [
+    {
+     "from": "1997-12-04",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1116/h0218_97.pdf",
+     "sha256": "6c58d973ad48a8a8086728a2131b9b1d1785c3b59f53757bec307371429651e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-22-1997",
+   "path": "local/bucuresti/cgmb/1997/22",
+   "short": "HCGMB nr. 22/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 22/1997 privind aprobarea \"Regulamentului local pentru construirea si amplasarea firmelor si reclamelor publicitare\" privind aprobarea \"Regulamentului local pt. construirea si amplasarea firmelor si reclamelor publicitare\" SE ABROGA PRIN HCGMB NR. 2/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11",
+   "versions": [
+    {
+     "from": "1997-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/11/h022_97.pdf",
+     "sha256": "0986aedbb38e2e0092c0123948a939e0755b9f5e097f98ccc89ea2c90ea7ccc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-242-1997",
+   "path": "local/bucuresti/cgmb/1997/242",
+   "short": "HCGMB nr. 242/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 242/1997 privind modificarea si actualizarea pe bugete componente a sumelor din impozitul pe salarii si transferurile de la bugetul de stat, aprobate pentru municipiul Bucureti pe anul 1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1042",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/1042/h0242_97.pdf",
+     "sha256": "f8fc2dc48d96eb15ec31ae65280991c0feb4271071919cd09c5ee19f2d1efd47"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-28-1997",
+   "path": "local/bucuresti/cgmb/1997/28",
+   "short": "HCGMB nr. 28/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 28/1997 privind aprobarea unui proiect de urbanism zonal al mun. Bucuresti PUZ - Intrarea Straulesti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/435",
+   "versions": [
+    {
+     "from": "1997-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/435/h028_97.pdf",
+     "sha256": "e54ecfb25191687218b63ecf0303731691e0c34da4f14ddf423016efbd9b7e35"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-4-1997",
+   "path": "local/bucuresti/cgmb/1997/4",
+   "short": "HCGMB nr. 4/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 4/1997 privind instituirea taxei speciale pentru ocuparea terenurilor apatinand domeniului privat al municipiului Bucuresti pe care sunt amplasate constructii cu caracter provizoriu",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/369",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 8,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/369/h04_97.pdf",
+     "sha256": "bea3a43b867a62acc1942223be5a3edd8e6c27fbd9956668b7167793b9714102"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-47-1997",
+   "path": "local/bucuresti/cgmb/1997/47",
+   "short": "HCGMB nr. 47/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 47/1997 privind modificarea Hotararilor Consiliului general al municipiului Bucuresti nr.69 din 16.05.1996 si nr.166 din 10.12.1996, referitoare la modificarea taxei locale speciale de salubritate publica pe teritoriul municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/427",
+   "versions": [
+    {
+     "from": "1997-03-27",
+     "units": 7,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/427/h047_97.pdf",
+     "sha256": "af50f135c0e0a5ced457b50ab996c42e196d0656c3b7748ac82d680d23c71a5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-52-1997",
+   "path": "local/bucuresti/cgmb/1997/52",
+   "short": "HCGMB nr. 52/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 52/1997 privind instituirea taxei speciale pentru ocuparea domeniului privat al municipiului Bucuresti, cu constructii provizorii (comert, prestari servicii)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/585",
+   "versions": [
+    {
+     "from": "1997-03-27",
+     "units": 9,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/585/h052_97.pdf",
+     "sha256": "d9a9a4b0cd0ccc97615cf2c4809d8cb4df7e63f005552b790cb27009a2669fd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-75-1997",
+   "path": "local/bucuresti/cgmb/1997/75",
+   "short": "HCGMB nr. 75/1997",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 75/1997 privind modificarea \"Normelor de salubrizare ale municipiului Bucuresti\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/568",
+   "versions": [
+    {
+     "from": "1997-05-29",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1997/568/h075_97.pdf",
+     "sha256": "389a0c345d800ea454ea7a88214286e37fc6ccddfafd45a03682f933a011bdad"
+    }
+   ]
+  }
+ ]
+}

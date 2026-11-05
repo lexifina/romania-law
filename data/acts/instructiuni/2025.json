@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "instructiuni/2025",
+"acts": [
+{
+"slug": "instructiuni-sanatate-1452-2025",
+"path": "instructiuni/sanatate/2025/1452",
+"kind": "instructiuni",
+"year": "2025",
+"number": "1452",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 1.452/2025 privind instituirea stării de alertă epidemiologică determinate de gripă",
+"short": "Instrucțiuni sanatate nr. 1452/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-30",
+"latest": "2025-01-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/294114",
+"issuer": "sanatate",
+"joint": []
+},
+{
+"slug": "instructiuni-sanatate-4960-2025",
+"path": "instructiuni/sanatate/2025/4960",
+"kind": "instructiuni",
+"year": "2025",
+"number": "4960",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 4.960/2025 privind încetarea stării de alertă epidemiologică determinate de gripă",
+"short": "Instrucțiuni sanatate nr. 4960/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-03-21",
+"latest": "2025-03-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/295760",
+"issuer": "sanatate",
+"joint": []
+}
+]
+}

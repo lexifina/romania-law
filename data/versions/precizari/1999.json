@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "precizari/1999",
+ "acts": [
+  {
+   "slug": "precizari-munca-1384-1999",
+   "path": "precizari/munca/1999/1384",
+   "short": "Precizări munca nr. 1384/1999",
+   "title": "Precizările nr. 1.384/1999 privind modul de constituire și virare de către investitori sau proprietari a cotei de 0,5% din valoarea devizului de construcții, cu corespondent în devizul general al lucrării, cota aferentă Casei Sociale a Constructorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18759",
+   "versions": [
+    {
+     "from": "1999-07-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18759",
+     "sha256": "5256da275c8463ad56a0e54644dde86e63c62a07a230c67b51259d2531efd6c3"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+"country": "RO",
+"shard": "curtea-de-conturi/2014",
+"acts": [
+{
+"slug": "curtea-de-conturi-regulament-regulament-2014-05-29-2014",
+"path": "curtea-de-conturi/regulament/2014/regulament-2014-05-29",
+"kind": "curtea-de-conturi",
+"year": "2014",
+"number": "regulament-2014-05-29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul Curții de Conturi din 2014-05-29",
+"short": "Regulamentul Curtea de Conturi din 2014-05-29",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-07-24",
+"latest": "2014-07-24",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/160154",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "curtea-de-conturi-hotarare-plen-155-2014",
+"path": "curtea-de-conturi/hotarare-plen/2014/155",
+"kind": "curtea-de-conturi",
+"year": "2014",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 155 din 29 mai 2014 pentru aprobarea Regulamentului privind organizarea şi desfăşurarea activităţilor specifice Curţii de Conturi, precum şi valorificarea actelor rezultate din aceste activităţi",
+"short": "Hotărârea Curtea de Conturi nr. 155/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-07-24",
+"latest": "2014-07-24",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/160153"
+},
+{
+"slug": "curtea-de-conturi-rectificare-155-2014",
+"path": "curtea-de-conturi/rectificare/2014/155",
+"kind": "curtea-de-conturi",
+"year": "2014",
+"number": "155",
+"withdrawn_by": null,
+"reason": null,
+"title": "RECTIFICARE nr. 155 din 29 mai 2014 referitoare la Hotărârea plenului Curţii de Conturi nr. 155/2014",
+"short": "Rectificarea Curtea de Conturi nr. 155/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-11-07",
+"latest": "2014-11-07",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/162816"
+}
+]
+}

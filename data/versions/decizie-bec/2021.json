@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "decizie-bec/2021",
+ "acts": [
+  {
+   "slug": "decizie-bec-locale-2021-proces-verbal-2021-01-27",
+   "path": "decizie-bec/locale-2021/proces-verbal-2021-01-27",
+   "short": "Proces verbal BEC din 2021-01-27",
+   "title": "Proces verbal Biroului Electoral Central din 2021-01-27",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/236773",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/236773",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

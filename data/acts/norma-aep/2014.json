@@ -1,0 +1,200 @@
+{
+"country": "RO",
+"shard": "norma-aep/2014",
+"acts": [
+{
+"slug": "norma-aep-lista-1-2014",
+"path": "norma-aep/2014/lista-1",
+"kind": "norma-aep",
+"year": "2014",
+"number": "lista-1",
+"withdrawn_by": null,
+"reason": null,
+"title": "LISTĂ nr. 1 din 28 mai 2014 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 38 alin. (1) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, republicată, cu modificările şi completările ulterioare, pentru alegerile parlamentare parţiale desfăşurate într-un număr de 8 colegii uninominale conform Hotărârii Guvernului nr. 199/2014 , Hotărârii Guvernului nr. 249/2014 şi Hotărârii Guvernului nr. 256/2014 privind stabilirea datei alegerilor parţiale pentru Camera Deputaţilor şi Senat",
+"short": "Listă AEP nr. 1/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-05-29",
+"latest": "2014-05-29",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/158613"
+},
+{
+"slug": "norma-aep-lista-2-2014",
+"path": "norma-aep/2014/lista-2",
+"kind": "norma-aep",
+"year": "2014",
+"number": "lista-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Listă Autorității Electorale Permanente nr. 2 din 2014-05-29",
+"short": "Listă AEP nr. 2/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-05-30",
+"latest": "2014-05-30",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/158672",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-lista-3-2014",
+"path": "norma-aep/2014/lista-3",
+"kind": "norma-aep",
+"year": "2014",
+"number": "lista-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Listă Autorității Electorale Permanente nr. 3 din 2014-06-02",
+"short": "Listă AEP nr. 3/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-06-03",
+"latest": "2014-06-03",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/158740",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-lista-4-2014",
+"path": "norma-aep/2014/lista-4",
+"kind": "norma-aep",
+"year": "2014",
+"number": "lista-4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Listă Autorității Electorale Permanente nr. 4 din 2014-06-03",
+"short": "Listă AEP nr. 4/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-06-04",
+"latest": "2014-06-04",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/158768",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-lista-5-2014",
+"path": "norma-aep/2014/lista-5",
+"kind": "norma-aep",
+"year": "2014",
+"number": "lista-5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Listă Autorității Electorale Permanente nr. 5 din 2014-06-04",
+"short": "Listă AEP nr. 5/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-06-05",
+"latest": "2014-06-05",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/158817",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-lista-7-2014",
+"path": "norma-aep/2014/lista-7",
+"kind": "norma-aep",
+"year": "2014",
+"number": "lista-7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Listă Autorității Electorale Permanente nr. 7 din 2014-11-24",
+"short": "Listă AEP nr. 7/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-11-28",
+"latest": "2014-11-28",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/163312",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-norma-2014-04-14-2014",
+"path": "norma-aep/2014/norma-2014-04-14",
+"kind": "norma-aep",
+"year": "2014",
+"number": "norma-2014-04-14",
+"withdrawn_by": null,
+"reason": null,
+"title": "NORME din 14 aprilie 2014 privind constituirea şi restituirea depozitelor candidaţilor la funcţia de deputat sau de senator la alegerile parţiale pentru Camera Deputaţilor şi Senat din data de 25 mai 2014",
+"short": "Normă AEP din 2014-04-14",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-04-16",
+"latest": "2014-04-16",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/157488"
+},
+{
+"slug": "norma-aep-situatie-334-2006-2-2014",
+"path": "norma-aep/2014/situatie-334-2006-2",
+"kind": "norma-aep",
+"year": "2014",
+"number": "situatie-334-2006-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Situație Autorității Electorale Permanente nr. 334-2006 din 2014-07-22",
+"short": "Situație AEP nr. 334-2006/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-07-22",
+"latest": "2014-07-22",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/160059",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-situatie-334-2006-2014",
+"path": "norma-aep/2014/situatie-334-2006",
+"kind": "norma-aep",
+"year": "2014",
+"number": "situatie-334-2006",
+"withdrawn_by": null,
+"reason": null,
+"title": "Situație Autorității Electorale Permanente nr. 334-2006 din 2014-07-04",
+"short": "Situație AEP nr. 334-2006/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-07-04",
+"latest": "2014-07-04",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/159583",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-situatie-334-2006-3-2014",
+"path": "norma-aep/2014/situatie-334-2006-3",
+"kind": "norma-aep",
+"year": "2014",
+"number": "situatie-334-2006-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Situație Autorității Electorale Permanente nr. 334-2006 din 2014-12-19",
+"short": "Situație AEP nr. 334-2006/2014",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2014-12-19",
+"latest": "2014-12-19",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/164017",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

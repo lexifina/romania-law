@@ -1,0 +1,336 @@
+{
+ "country": "RO",
+ "shard": "norma/2025",
+ "acts": [
+  {
+   "slug": "norma-asf-1-2025",
+   "path": "norma/asf/2025/1",
+   "short": "Norma asf nr. 1/2025",
+   "title": "Norma nr. 1/2025 pentru aplicarea Ghidului privind transferul de date între registrele centrale de tranzacții în temeiul Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului din 4 iulie 2012 privind instrumentele financiare derivate extrabursiere, contrapărțile centrale și registrele centrale de tranzacții (EMIR) și al Regulamentului (UE) 2015/2.365 al Parlamentului European și al Consiliului din 25 noiembrie 2015 privind transparența operațiunilor de finanțare prin instrumente financiare și transparența reutilizării și de modificare a Regulamentului (UE) nr. 648/2012 (SFTR)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293775",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293775",
+     "sha256": "5d779b547af4fd41cea8019fd1a411dbb7d1ed9c8550a4a0adfa6d6ce4e56553"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-12-2025",
+   "path": "norma/asf/2025/12",
+   "short": "Norma asf nr. 12/2025",
+   "title": "Norma nr. 12/2025 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 28/2017 privind utilizarea activului personal net al participantului la un fond de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/297826",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/297826",
+     "sha256": "03848bd2978b69a9db62fbdb43fb023ed7bdb21c2437ecf3ca5ceb2820cf3783"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-13-2025",
+   "path": "norma/asf/2025/13",
+   "short": "Norma asf nr. 13/2025",
+   "title": "Norma nr. 13/2025 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 13/2019 privind cadrul unitar de desfășurare a auditului statutar la entitățile autorizate, reglementate și supravegheate de către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298311",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298311",
+     "sha256": "9745264328c38a23ec575b22f80ad867f22b87f53323d820f3befb951bb5be85"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-14-2025",
+   "path": "norma/asf/2025/14",
+   "short": "Norma asf nr. 14/2025",
+   "title": "Norma nr. 14/2025 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 4/2018 privind gestionarea riscurilor operaționale generate de sistemele informatice utilizate de entitățile autorizate/avizate/înregistrate, reglementate și/sau supravegheate de către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298312",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298312",
+     "sha256": "e7c89de06ec34e67b28eac23f30fa7ca7cb711df3e7231a5f9a225270033c450"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-15-2025",
+   "path": "norma/asf/2025/15",
+   "short": "Norma asf nr. 15/2025",
+   "title": "Norma nr. 15/2025 privind modificarea anexei la Norma Autorității de Supraveghere Financiară nr. 13/2018 pentru aplicarea Ghidului Autorității Europene pentru Valori Mobiliare și Piețe (ESMA) privind scenariile de simulare a situațiilor de criză în temeiul art. 28 din Regulamentul (UE) nr. 1.131/2017 privind fondurile de piață monetară (Money-market funds)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299063",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299063",
+     "sha256": "dcafc1700860e472869f9a02fa24235276eca8b1d2f69a2c3cbf6dae30b10cd5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-16-2025",
+   "path": "norma/asf/2025/16",
+   "short": "Norma asf nr. 16/2025",
+   "title": "Norma nr. 16/2025 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 1/2015 privind aderarea și evidența participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298976",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298976",
+     "sha256": "b1b84fbf4cb2fa8cab773891dbac5c91bbcdf45380ee2c78da49b2c5b055520b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-17-2025",
+   "path": "norma/asf/2025/17",
+   "short": "Norma asf nr. 17/2025",
+   "title": "Norma nr. 17/2025 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 7/2017 privind întocmirea și depunerea situațiilor financiare anuale individuale ale entităților din sistemul de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299535",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299535",
+     "sha256": "2df97fa8f0e17b96a583106f97f92c42b1cc0adfd344cb94a524530f79d99a8f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-18-2025",
+   "path": "norma/asf/2025/18",
+   "short": "Norma asf nr. 18/2025",
+   "title": "Norma nr. 18/2025 privind prospectul schemei de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301335",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301335",
+     "sha256": "715d1c869f1cf21ff1983b7bda0e5bab24b4a47413fc70c4446a54993d368ede"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-19-2025",
+   "path": "norma/asf/2025/19",
+   "short": "Norma asf nr. 19/2025",
+   "title": "Norma nr. 19/2025 pentru modificarea art. II din Norma Autorității de Supraveghere Financiară nr. 4/2024 privind modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 39/2015 pentru aprobarea Reglementărilor contabile conforme cu Standardele internaționale de raportare financiară, aplicabile entităților autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară din Sectorul instrumentelor și investițiilor financiare, precum și Fondului de Compensare a Investitorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/302494",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302494",
+     "sha256": "befed1cab7f4f2c836fdd4b017c01e2f4ff384eed63c6c38ae1c62aaeca358bc"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-21-2025",
+   "path": "norma/asf/2025/21",
+   "short": "Norma asf nr. 21/2025",
+   "title": "Norma nr. 21/2025 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 34/2016 privind sistemul de raportare contabilă semestrială în domeniul pensiilor private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301961",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301961",
+     "sha256": "ee85e78577cd723e1b8a155456d88f0473376143b778f3034e8eedfe4a8f0960"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-22-2025",
+   "path": "norma/asf/2025/22",
+   "short": "Norma asf nr. 22/2025",
+   "title": "Norma nr. 22/2025 pentru completarea Normei nr. 15/2009 privind operațiunile de încasări și plăți efectuate prin conturile fondului de pensii administrat privat, aprobată prin Hotărârea Consiliului Comisiei de Supraveghere a Sistemului de Pensii Private nr. 23/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303467",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303467",
+     "sha256": "20e21f2bdbb6d5785b72aa1aee24ba25cca19f81b201d01a09f1ca59130aad79"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-23-2025",
+   "path": "norma/asf/2025/23",
+   "short": "Norma asf nr. 23/2025",
+   "title": "Norma nr. 23/2025 pentru completarea Normei nr. 18/2009 privind operațiunile de încasări și plăți efectuate prin conturile fondului de pensii facultative, aprobată prin Hotărârea Consiliului Comisiei de Supraveghere a Sistemului de Pensii Private nr. 26/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/303466",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303466",
+     "sha256": "455ed36ebd7162a32f967c62beb8230a5698d592b00977246df5fa9078bdb54a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-24-2025",
+   "path": "norma/asf/2025/24",
+   "short": "Norma asf nr. 24/2025",
+   "title": "Norma nr. 24/2025 pentru modificarea art. II din Norma Autorității de Supraveghere Financiară nr. 14/2024 privind modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 41/2015 pentru aprobarea Reglementărilor contabile privind situațiile financiare anuale individuale și situațiile financiare anuale consolidate ale entităților care desfășoară activitate de asigurare și/sau reasigurare, precum și pentru modificarea și completarea anexei la Norma Autorității de Supraveghere Financiară nr. 41/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305077",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305077",
+     "sha256": "2726ac5d9da67bc911a0cd6cc3c550272118175eef46a75feb27d3705b396915"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-25-2025",
+   "path": "norma/asf/2025/25",
+   "short": "Norma asf nr. 25/2025",
+   "title": "Norma nr. 25/2025 pentru aplicarea Ghidului ESMA privind precizarea circumstanțelor pentru aplicarea restricțiilor temporare în cazul unei situații semnificative care nu presupune neîndeplinirea obligațiilor de plată, în conformitate cu art. 45a din Regulamentul (UE) nr. 648/2012 al Parlamentului European și al Consiliului din 4 iulie 2012 privind instrumentele financiare derivate extrabursiere, contrapărțile centrale și registrele centrale de tranzacții (EMIR), a Ghidului ESMA privind aplicarea consecventă a factorilor declanșatori ai utilizării măsurilor de intervenție timpurie și a Ghidului ESMA privind aplicarea circumstanțelor în care se consideră că o contraparte centrală este în curs de a intra în dificultate sau este susceptibilă de a intra în dificultate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306288",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306288",
+     "sha256": "ec715185bb66e1e3968997ffb0b547c577c1299dbfeeb08ffe4989a01b82c196"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-27-2025",
+   "path": "norma/asf/2025/27",
+   "short": "Norma asf nr. 27/2025",
+   "title": "Norma nr. 27/2025 privind cotele contribuțiilor datorate de asigurători Fondului de garantare a asiguraților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/305770",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305770",
+     "sha256": "37999b2f58c6dfd994386f784619c5b047aefe6cca61c6c868f772f2ca2cd871"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-3-2025",
+   "path": "norma/asf/2025/3",
+   "short": "Norma asf nr. 3/2025",
+   "title": "Norma nr. 3/2025 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 18/2018 privind aderarea și evidența participanților la fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294767",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294767",
+     "sha256": "31ef0a87dffe12d530b3fbf824974ec4584730a894856fa8df5a2857104a5867"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-4-2025",
+   "path": "norma/asf/2025/4",
+   "short": "Norma asf nr. 4/2025",
+   "title": "Norma nr. 4/2025 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 19/2021 privind obligațiile de raportare și transparență în sistemul pensiilor private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294933",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294933",
+     "sha256": "462a1f9a72ac5a7f48d21273950590df326a13ad229792d5127513f005605bcd"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-5-2025",
+   "path": "norma/asf/2025/5",
+   "short": "Norma asf nr. 5/2025",
+   "title": "Norma nr. 5/2025 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 22/2015 privind autorizarea fondului de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294999",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294999",
+     "sha256": "c98349d8de7abccf714cf6f6d8021b956213cddb3b662fdd22ef40a1285c9a2d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-6-2025",
+   "path": "norma/asf/2025/6",
+   "short": "Norma asf nr. 6/2025",
+   "title": "Norma nr. 6/2025 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 23/2015 privind autorizarea fondului de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/295000",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/295000",
+     "sha256": "35dfd7ba01b9db846c68b841b45eb038685473fced4be2e527bfdffc97b5206d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-8-2025",
+   "path": "norma/asf/2025/8",
+   "short": "Norma asf nr. 8/2025",
+   "title": "Norma nr. 8/2025 pentru modificarea art. 3 din Norma Autorității de Supraveghere Financiară nr. 22/2020 privind modificarea temporară a limitei maxime aplicabile investițiilor fondurilor de pensii private în titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296446",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296446",
+     "sha256": "a3d036025e3f6216848cd523962082a50df4e742bc58d150284fa2148ee7f169"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-9-2025",
+   "path": "norma/asf/2025/9",
+   "short": "Norma asf nr. 9/2025",
+   "title": "Norma nr. 9/2025 privind modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 34/2020 pentru punerea în aplicare a Sistemului de raportare contabilă semestrială aplicabil entităților din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296995",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296995",
+     "sha256": "174d839f4da0df9d4df18a919c9398f5f9e30cc833b0c1e46f9b8f442ec63656"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-1-2025",
+   "path": "norma/bnr/2025/1",
+   "short": "Norma bnr nr. 1/2025",
+   "title": "Norma nr. 1/2025 privind modificarea și completarea Normei Băncii Naționale a României nr. 1/2022 pentru aplicarea Regulamentului Băncii Naționale a României nr. 8/2022 privind operațiunile de administrare a datoriei publice guvernamentale efectuate de către Ministerul Finanțelor pe piața titlurilor de stat administrată de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/304650",
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/304650",
+     "sha256": "27dce7bae5cd8ea643cca176ab725a9bd891439f7a369798d2fdd44e56ff4e5b"
+    }
+   ]
+  }
+ ]
+}

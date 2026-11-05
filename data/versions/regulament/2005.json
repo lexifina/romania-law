@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "regulament/2005",
+ "acts": [
+  {
+   "slug": "regulament-bnr-10-2005",
+   "path": "regulament/bnr/2005/10",
+   "short": "Regulament bnr nr. 10/2005",
+   "title": "Regulamentul nr. 10/2005 privind facilitățile acordate de Banca Națională a României în scopul fluidizării decontărilor în sistemul ReGIS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65383",
+   "versions": [
+    {
+     "from": "2005-10-03",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65383",
+     "sha256": "307728d8c56c5ee65a7d9b04bd23a545ad188e3072ad38ec05440e4cb8f118fb"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-11-2005",
+   "path": "regulament/bnr/2005/11",
+   "short": "Regulament bnr nr. 11/2005",
+   "title": "Regulamentul nr. 11/2005 privind piața primară a titlurilor de stat administrată de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65371",
+   "versions": [
+    {
+     "from": "2005-10-03",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65371",
+     "sha256": "9ee60d9cc79eab935e18b9554f399a75113fc781288d5cc15383b705e248b036"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-12-2005",
+   "path": "regulament/bnr/2005/12",
+   "short": "Regulament bnr nr. 12/2005",
+   "title": "Regulamentul nr. 12/2005 privind piața secundară a titlurilor de stat administrată de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65372",
+   "versions": [
+    {
+     "from": "2005-10-03",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65372",
+     "sha256": "1a512219386389247943d1e49589cfe30bcb0c2fd875a59b7a9d3df84019a4eb"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-13-2005",
+   "path": "regulament/bnr/2005/13",
+   "short": "Regulament bnr nr. 13/2005",
+   "title": "Regulamentul nr. 13/2005 privind modificarea Normelor metodologice ale Băncii Naționale a României nr. 12/2002 pentru aplicarea Regulamentului Băncii Naționale a României nr. 5/2002 privind clasificarea creditelor și plasamentelor, precum și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67565",
+   "versions": [
+    {
+     "from": "2005-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67565",
+     "sha256": "8e3646fccbdb160f553ef4cdf0d0f32ea8d4f08c71503a0136be0c5793593d49"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-3-2005",
+   "path": "regulament/bnr/2005/3",
+   "short": "Regulament bnr nr. 3/2005",
+   "title": "Regulamentul nr. 3/2005 privind debitarea directă executată prin casa de compensare automată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60400",
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "units": 55,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60400",
+     "sha256": "a2e7ec4a1c5cdd2b862005faa8dd9c35de06c26e0d3bf7886d03a5eb2bc03b11"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-5-2005",
+   "path": "regulament/bnr/2005/5",
+   "short": "Regulament bnr nr. 5/2005",
+   "title": "Regulamentul nr. 5/2005 privind comisioanele practicate de Banca Națională a României pentru efectuarea operațiunilor de depunere și retragere de numerar ale instituțiilor de credit și ale Trezoreriei Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62223",
+   "versions": [
+    {
+     "from": "2005-06-09",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62223",
+     "sha256": "5530cd24e6d906094e9ee8a492f94d49956cbae9a6955aeb7e82b1a03d90d34a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-6-2005",
+   "path": "regulament/bnr/2005/6",
+   "short": "Regulament bnr nr. 6/2005",
+   "title": "Regulamentul nr. 6/2005 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 4/2005 privind regimul valutar și a Normei Băncii Naționale a României nr. 5/2005 privind autorizarea operațiunilor valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63383",
+   "versions": [
+    {
+     "from": "2005-07-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63383",
+     "sha256": "236da8407ba8263346c1b183834182f7bf8c46ae64a88dca60613bb8c1a083f4"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-7-2005",
+   "path": "regulament/bnr/2005/7",
+   "short": "Regulament bnr nr. 7/2005",
+   "title": "Regulamentul nr. 7/2005 pentru modificarea Regulamentului Băncii Naționale a României nr. 1/2001 privind organizarea și funcționarea la Banca Naționala a României a Centralei Incidentelor de Plati",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63699",
+   "versions": [
+    {
+     "from": "2005-08-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63699",
+     "sha256": "eb539c4ac4255cf1d2a75fbd54593f18232ef11466a78db4af25809e50c072b3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-8-2005",
+   "path": "regulament/bnr/2005/8",
+   "short": "Regulament bnr nr. 8/2005",
+   "title": "Regulamentul nr. 8/2005 pentru modificarea Regulamentului Băncii Naționale a României nr. 5/2002 privind clasificarea creditelor și plasamentelor, precum și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65045",
+   "versions": [
+    {
+     "from": "2005-09-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65045",
+     "sha256": "e93a1abccdef7bd8f24d1a3fca4e06a4c5e225b0b7cd4caa8e49f6bfe86715b6"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-9-2005",
+   "path": "regulament/bnr/2005/9",
+   "short": "Regulament bnr nr. 9/2005",
+   "title": "Regulamentul nr. 9/2005 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 1/2005 privind sistemele de plăți care asigură compensarea fondurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65369",
+   "versions": [
+    {
+     "from": "2005-10-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65369",
+     "sha256": "fc2b77fafddea6b32a097d5e1af79ff3104f549c8cabffb2aed94c559554db70"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-11-2005",
+   "path": "regulament/cnvm/2005/11",
+   "short": "Regulament cnvm nr. 11/2005",
+   "title": "Regulamentul nr. 11/2005 privind prevenirea și combaterea spălării banilor și a finanțării actelor de terorism prin intermediul pieței de capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65409",
+   "versions": [
+    {
+     "from": "2005-10-03",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65409",
+     "sha256": "7d1149451b76093d14e3ca8c61aea197ba34514121d3b2e6a104a16bde07616a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-13-2005",
+   "path": "regulament/cnvm/2005/13",
+   "short": "Regulament cnvm nr. 13/2005",
+   "title": "Regulamentul nr. 13/2005 privind autorizarea și funcționarea depozitarului central, caselor de compensare și contrapărților centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119051",
+   "versions": [
+    {
+     "from": "2005-11-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119051",
+     "sha256": "41768960fae20df1299552a5fd4cb5fa86a01590b522acdb896cbb0d2741f69e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-14-2005",
+   "path": "regulament/cnvm/2005/14",
+   "short": "Regulament cnvm nr. 14/2005",
+   "title": "Regulamentul nr. 14/2005 privind înregistrarea și admiterea la tranzacționare a obligațiunilor emise în temeiul Ordonanței de urgență a Guvernului nr. 118/2003 privind măsuri pentru reglementarea unor obligații bugetare ale Societății Comerciale \"Rompetrol Rafinare\" - S.A. Constanța, aprobată cu modificări și completări prin Legea nr. 89/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65637",
+   "versions": [
+    {
+     "from": "2005-11-03",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65637",
+     "sha256": "cb217e725dff2b97fab06b724b5c928ff04f663ccaba70f30065c9d6d65dfd5a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-17-2005",
+   "path": "regulament/cnvm/2005/17",
+   "short": "Regulament cnvm nr. 17/2005",
+   "title": "Regulamentul nr. 17/2005 pentru modificarea Regulamentului Comisiei Naționale a Valorilor Mobiliare nr. 13/2005 privind autorizarea și funcționarea depozitarului central, caselor de compensare și contrapărților centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67697",
+   "versions": [
+    {
+     "from": "2006-01-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67697",
+     "sha256": "39bf201df02514ce98454f6de4eb9b7906a6a254f5305c7dbf6445e898fc6b23"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-19-2005",
+   "path": "regulament/cnvm/2005/19",
+   "short": "Regulament cnvm nr. 19/2005",
+   "title": "Regulamentul nr. 19/2005 pentru modificarea Regulamentului Comisiei Naționale a Valorilor Mobiliare nr. 2/2002 privind transparența și integritatea pieței RASDAQ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67814",
+   "versions": [
+    {
+     "from": "2006-01-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67814",
+     "sha256": "8c9dc4f0ca79282a3de9036607db20423ebac6df8d05c3dd20e31a7800773c8e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-20-2005",
+   "path": "regulament/cnvm/2005/20",
+   "short": "Regulament cnvm nr. 20/2005",
+   "title": "Regulamentul nr. 20/2005 de modificare a Regulamentului nr. 1/2003 privind atestarea profesională a operatorilor și specialiștilor pentru piețele reglementate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67854",
+   "versions": [
+    {
+     "from": "2006-01-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67854",
+     "sha256": "faca317f890a0b1e8eb6c6d590c36a41e9c814a88896e8105617d82d50fd80ed"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-7-2005",
+   "path": "regulament/cnvm/2005/7",
+   "short": "Regulament cnvm nr. 7/2005",
+   "title": "Regulamentul nr. 7/2005 de modificare a Regulamentului nr. 1/2003 privind atestarea profesională a operatorilor și specialiștilor pentru piețele reglementate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65411",
+   "versions": [
+    {
+     "from": "2005-10-03",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65411",
+     "sha256": "751459b94715a10329cbbeff60bc40450adad05d92c79f17e9901c7315aedf6b"
+    }
+   ]
+  }
+ ]
+}

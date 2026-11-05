@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "regulament/2003",
+ "acts": [
+  {
+   "slug": "regulament-bnr-1-2003",
+   "path": "regulament/bnr/2003/1",
+   "short": "Regulament bnr nr. 1/2003",
+   "title": "Regulamentul nr. 1/2003 privind decontarea plăților de mica valoare în relația cu Trezoreria statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44944",
+   "versions": [
+    {
+     "from": "2003-09-01",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44944",
+     "sha256": "7a4b4134825fa7f03b892cbe0031c1ffee9387f67592df79edeb9d0ecb67cd3b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-1-2003",
+   "path": "regulament/cnvm/2003/1",
+   "short": "Regulament cnvm nr. 1/2003",
+   "title": "Regulamentul nr. 1/2003 privind atestarea profesională a operatorilor și specialiștilor pentru piețele reglementate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42022",
+   "versions": [
+    {
+     "from": "2003-02-27",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42022",
+     "sha256": "6f9b933d709c0280f18fb46d2a30e85947bfb4e322dbe62a8fc1adc0eaed853e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-2-2003",
+   "path": "regulament/cnvm/2003/2",
+   "short": "Regulament cnvm nr. 2/2003",
+   "title": "Regulamentul nr. 2/2003 de modificare a Regulamentului nr. 5/2002 privind modul de încasare și de gestionare a veniturilor extrabugetare din care se finanțează Comisia Naționala a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43815",
+   "versions": [
+    {
+     "from": "2003-05-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43815",
+     "sha256": "5d2c25f3a69dab0477d1b953073cf777d78bcbb531bbe8560ffe9e5233e9152a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-6-2003",
+   "path": "regulament/cnvm/2003/6",
+   "short": "Regulament cnvm nr. 6/2003",
+   "title": "Regulamentul nr. 6/2003 de modificare a Regulamentului Comisiei Naționale a Valorilor Mobiliare nr. 3/2003 privind autorizarea și funcționarea societăților de administrare a investițiilor, a fondurilor deschise de investiții, a societăților de investiții și a depozitarilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45560",
+   "versions": [
+    {
+     "from": "2003-08-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45560",
+     "sha256": "0b418bca343cc59b4920a1c16976d6d293b96fa6fa719c96740aec682d54f3f7"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-7-2003",
+   "path": "regulament/cnvm/2003/7",
+   "short": "Regulament cnvm nr. 7/2003",
+   "title": "Regulamentul nr. 7/2003 pentru modificarea anexei la Regulamentul nr. 5/2002 privind modul de încasare și de gestionare a veniturilor extrabugetare din care se finanțează Comisia Naționala a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45599",
+   "versions": [
+    {
+     "from": "2003-08-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45599",
+     "sha256": "d4e1d730d08bd3dee7beb1421ffd9799066d87500eb0bef44eb19ac46b957baf"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-8-2003",
+   "path": "regulament/cnvm/2003/8",
+   "short": "Regulament cnvm nr. 8/2003",
+   "title": "Regulamentul nr. 8/2003 REGULAMENTUL Nr. 8/2003 de modificare a Regulamentului nr. 5/2002 privind modul de încasare și de gestionare a veniturilor extrabugetare din care se finanțează Comisia Națională a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47697",
+   "versions": [
+    {
+     "from": "2003-11-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47697",
+     "sha256": "4ebb331e7d8674e719a2bbdf97a5ce885771cdee1bfdbd5d1681d2445d6662a0"
+    }
+   ]
+  }
+ ]
+}

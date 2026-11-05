@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/2003",
+ "acts": [
+  {
+   "slug": "instructiuni-cnvm-1-2003",
+   "path": "instructiuni/cnvm/2003/1",
+   "short": "Instrucțiuni cnvm nr. 1/2003",
+   "title": "Instrucțiunile nr. 1/2003 privind autorizarea societăților de valori mobiliare ca societăți de servicii de investiții financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42440",
+   "versions": [
+    {
+     "from": "2003-03-21",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42440",
+     "sha256": "66d0d2c910f829836fa6c7e00e146cb71b3b3c6942cadf111769357481bcac88"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-2-2003",
+   "path": "instructiuni/cnvm/2003/2",
+   "short": "Instrucțiuni cnvm nr. 2/2003",
+   "title": "Instrucțiunile nr. 2/2003 INSTRUCȚIUNI nr. 2/2003 de modificare a Instrucțiunilor nr. 4/1999 privind calculul activului net al societăților de investiții financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/43305",
+   "versions": [
+    {
+     "from": "2003-04-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/43305",
+     "sha256": "c3c4e0b9115cdcfcc5ffa45b8dafd3ef71549e9d326e2781614789af0d7f4164"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-4-2003",
+   "path": "instructiuni/cnvm/2003/4",
+   "short": "Instrucțiuni cnvm nr. 4/2003",
+   "title": "Instrucțiunile nr. 4/2003 INSTRUCȚIUNI nr. 4/2003 de modificare a Instrucțiunilor Comisiei Naționale a Valorilor Mobiliare nr. 1/2003 privind autorizarea societăților de valori mobiliare ca societăți de servicii de investiții financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45558",
+   "versions": [
+    {
+     "from": "2003-08-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45558",
+     "sha256": "b35675dd3dcfd1016186b2bea6f060c0107aa6eb0e726d9ddb56248120c1d55b"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-justitie-3128-c-2003",
+   "path": "instructiuni/justitie/2003/3128-c",
+   "short": "Instrucțiuni justitie nr. 3128/C/2003",
+   "title": "Instrucțiunile nr. 3.128/C/2003 privind criteriile de autorizare a operatorilor de arhiva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47476",
+   "versions": [
+    {
+     "from": "2003-11-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47476",
+     "sha256": "be5e6307ed58c45560e69ac6e092d6557b70af517bc65b61ff008485f6c8654b"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-sanatate-1-2003",
+   "path": "instructiuni/sanatate/2003/1",
+   "short": "Instrucțiuni sanatate nr. 1/2003",
+   "title": "Instrucțiunile nr. 1/2003 de aplicare a Normelor privind organizarea, funcționarea și finanțarea unităților de asistența medico-sociale, aprobate prin Hotărârea Guvernului nr. 412/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45757",
+   "versions": [
+    {
+     "from": "2003-08-22",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45757",
+     "sha256": "2c55e026ebf7d035be17a8e2ee1d5f9801bfbf09893dc4130880285f42f2c831"
+    }
+   ]
+  }
+ ]
+}

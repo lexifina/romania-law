@@ -1,0 +1,411 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/cgmb/1999",
+ "acts": [
+  {
+   "slug": "hcgmb-10-1999",
+   "path": "local/bucuresti/cgmb/1999/10",
+   "short": "HCGMB nr. 10/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 10/1999 privind stabilirea nivelurilor unor impozite si taxe locale pe anul 1999 in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1705",
+   "versions": [
+    {
+     "from": "1999-01-14",
+     "units": 7,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1705/h010_99.pdf",
+     "sha256": "870b0bfbc6d5e09bd6080509d1c469c24b088bb2e07cef83704240ef267b029d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-113-1999",
+   "path": "local/bucuresti/cgmb/1999/113",
+   "short": "HCGMB nr. 113/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 113/1999 privind aprobarea “Planului Urbanistic General al municipiului Bucuresti - Etapa I - Sectiunea I",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3684",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3684/h0113_99.pdf",
+     "sha256": "f1a0efa3fb7900c7a85f81b8a1be1445759724f8fa8fb0da729c5d6cfa88a643"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-114-1999",
+   "path": "local/bucuresti/cgmb/1999/114",
+   "short": "HCGMB nr. 114/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 114/1999 privind aprobarea “Planului Urbanistic General al Municipiului Bucuresti” - Etapa I - Sectiunea II",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3685",
+   "versions": [
+    {
+     "from": "1999-06-10",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3685/h0114_99.pdf",
+     "sha256": "67ea8db234c093fc0ff27987bfd0478c1a3339b0b056f6b6131bf2537585adf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-12-1999",
+   "path": "local/bucuresti/cgmb/1999/12",
+   "short": "HCGMB nr. 12/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 12/1999 privind interzicerea organizarii in Municipiul Bucuresti a unor adunari publice",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1383",
+   "versions": [
+    {
+     "from": "1999-01-14",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1383/h012_99.pdf",
+     "sha256": "458b31d6fef7c769dca7abf5729f164e658f985ef785fd734efc8a8e9c53d62a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-147-1999",
+   "path": "local/bucuresti/cgmb/1999/147",
+   "short": "HCGMB nr. 147/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 147/1999 PRIVIND APROBAREA UNUI PLAN URBANISTIC ZONAL",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6319",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/6319/h0147_99.pdf",
+     "sha256": "f2795c3dc566b803438c09f7240e663fc7a3f92c85384537b1fd732d76fb050d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-148-1999",
+   "path": "local/bucuresti/cgmb/1999/148",
+   "short": "HCGMB nr. 148/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 148/1999 privind aprobare Plan Urbanistic General - etapa I Analiza si Diagnosticare, faza I, Urban Proiect Diagnostic si Obiective faza II, I.A. I Mincu",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4688",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4688/h0148_99.pdf",
+     "sha256": "8c270df828e6e711f132588d2bcbc0c65468eb8b354ea55449da90918e3c9d17"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-149-1999",
+   "path": "local/bucuresti/cgmb/1999/149",
+   "short": "HCGMB nr. 149/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 149/1999 privind aprobare Plan Urbanistic Zonal Zona de Nord a municipiului Bucuresti - Faza I",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4689",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4689/h0149_99.pdf",
+     "sha256": "33dbff8b870d2e52e95013c992627d354a6cc2483da638fd9dbfd5ff28c83028"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-150-1999",
+   "path": "local/bucuresti/cgmb/1999/150",
+   "short": "HCGMB nr. 150/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 150/1999 privind aprobarea Planului Urbanistic Zonal Zona de Nord a municipiului Bucuresti - Faza I",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4690",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4690/h0150_99.pdf",
+     "sha256": "422c239a007ede42961fe0ba46746b59b1fb7c0d732b32b53f8ccf4ff75a7fb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-151-1999",
+   "path": "local/bucuresti/cgmb/1999/151",
+   "short": "HCGMB nr. 151/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 151/1999 privind aprobarea Planului Urbanistic Zonal Zona Raului Dambovita - Faza I",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4691",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4691/h0151_99.pdf",
+     "sha256": "63a98cff8ac23e2c4ecef33da9472407ea0c7e576f37113866b430b8e80591af"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-152-1999",
+   "path": "local/bucuresti/cgmb/1999/152",
+   "short": "HCGMB nr. 152/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 152/1999 privind aprobarea Planului Urbanistic Zonal Zona Lacurilor Raului Colentina - Faza I",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4692",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4692/h0152_99.pdf",
+     "sha256": "441cd96f71bab9765e0b1101c4f33cd12e8e770fa0080b71db5583db69ad6c84"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-164-1999",
+   "path": "local/bucuresti/cgmb/1999/164",
+   "short": "HCGMB nr. 164/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 164/1999 privind taxa speciala de salubritate si tariful de salubritate pe teritoriul municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3323",
+   "versions": [
+    {
+     "from": "1999-07-08",
+     "units": 12,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3323/h0164_99.pdf",
+     "sha256": "d4bdf59df73ecde9e7ebde3c43b6339da9b12d0188fe26c425dc6176151f779c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-167-1999",
+   "path": "local/bucuresti/cgmb/1999/167",
+   "short": "HCGMB nr. 167/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 167/1999 privind stabilirea taxei pentru ocuparea domeniului public sau privat al Primariei Municipiului Bucuresti pentru publicitate pe termen scurt",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3326",
+   "versions": [
+    {
+     "from": "1999-07-08",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3326/h0167_99.pdf",
+     "sha256": "6649873fc19638bab905addf6b0fa031df5d8f94aa7f6fd4bb5bd240cec6613c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-172-1999",
+   "path": "local/bucuresti/cgmb/1999/172",
+   "short": "HCGMB nr. 172/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 172/1999 privind aprobarea Normelor de organizare si efectuare a activitatii de blocare sau ridicare, transport, depozitare si eliberare a autovehiculelor oprite sau stationate neregulamentar pe drumurile publice din municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3331",
+   "versions": [
+    {
+     "from": "1999-07-22",
+     "units": 13,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3331/h0172_99.pdf",
+     "sha256": "1c4aef1088c36b237985bd49811754a1f583b8efe3e9a14b8bdc4873e4a5bde3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-18-1999",
+   "path": "local/bucuresti/cgmb/1999/18",
+   "short": "HCGMB nr. 18/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 18/1999 privind aprobarea unui plan urbanistic zonal - Sos.Bucuresti - Targoviste - Sos.Odai -",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1390",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1390/h018_99.pdf",
+     "sha256": "3d39fb86a1fe2b5270f32bbb2f05fb32c875e47481e0a84aaae63361bb622ef8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-187-1999",
+   "path": "local/bucuresti/cgmb/1999/187",
+   "short": "HCGMB nr. 187/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 187/1999 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL - DEPOZIT ECOLOGIC DE DESEURI MENAJERE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3347",
+   "versions": [
+    {
+     "from": "1999-08-05",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3347/h0187_99.pdf",
+     "sha256": "17e3874219886a5f174f9663577ae160d5beee0a6d1f8c71b09bcd9466d64030"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-217-1999",
+   "path": "local/bucuresti/cgmb/1999/217",
+   "short": "HCGMB nr. 217/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 217/1999 privind modificarea si completarea Hotararii CLMB nr.14/30.03.1995 privind aprobarea Metodologiei de aprobare a documentatiilor de urbanism si amenajarea teritoriului si a HCGMB nr.8/30.01.1997",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3374",
+   "versions": [
+    {
+     "from": "1999-08-19",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3374/h0217_99.pdf",
+     "sha256": "e36c14e6d520771bffcd71feae9992e2d8aed651b33311741bcb43cb5ae071d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-223-1999",
+   "path": "local/bucuresti/cgmb/1999/223",
+   "short": "HCGMB nr. 223/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 223/1999 privind trecerea din domeniul public in domeniul privat al municipiului Bucuresti al unui teren in suprafata de 14,467 m.p. conform PUZ aprobat de H.C.G.M.B. nr.186/1999, situat in zona Casei Presei Libere, sector 1, si concesionarea acestuia in vederea executarii unor constructii de birouri si parking subteran",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3380",
+   "versions": [
+    {
+     "from": "1999-09-16",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3380/h0223_99.pdf",
+     "sha256": "63982e78b7d473587037b967c0f5faf64444aa6933cca0f84d22271be1ffccd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-291-1999",
+   "path": "local/bucuresti/cgmb/1999/291",
+   "short": "HCGMB nr. 291/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 291/1999 privind stabilirea nivelului impozitelor locale pentru anul 2000, in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4180",
+   "versions": [
+    {
+     "from": "1999-11-30",
+     "units": 11,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/4180/h0291_99.pdf",
+     "sha256": "757c25967185566dbc8031f6b3b62b44c8073dc9d3b1ef7eed425e900a6d98ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-301-1999",
+   "path": "local/bucuresti/cgmb/1999/301",
+   "short": "HCGMB nr. 301/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 301/1999 privind aprobarea unui Plan Urbanistic Zonal",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3863",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3863/h0301_99.pdf",
+     "sha256": "c64c64d62f56f846c50b20aa18e5f5d49c8145dabf3d92bd77e9de6c8d67bd34"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-322-1999",
+   "path": "local/bucuresti/cgmb/1999/322",
+   "short": "HCGMB nr. 322/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 322/1999 privind modificarea art.1 din H.C.G.M.B. nr.164/1999 si a art.8 din “Regulamentul privind aplicarea taxei speciale de salubritate” aprobat prin H.C.G.M.B. nr.164/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3912",
+   "versions": [
+    {
+     "from": "1999-12-21",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/3912/h0322_99.pdf",
+     "sha256": "485e735a0d5cccd0b88a5583f3fd26b39783b98fb2c6fca795a3ca23e743cbe2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-5-1999",
+   "path": "local/bucuresti/cgmb/1999/5",
+   "short": "HCGMB nr. 5/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 5/1999 privind modificarea cuantumului taxei locale speciale de igienizare publica pe teritoriul municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1714",
+   "versions": [
+    {
+     "from": "1999-01-14",
+     "units": 7,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1714/h05_99.pdf",
+     "sha256": "ba49a4221a4374b913fc995c37238483d8cdddf3587728041ce711439a3f3cfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-52-1999",
+   "path": "local/bucuresti/cgmb/1999/52",
+   "short": "HCGMB nr. 52/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 52/1999 privind aprobarea unui plan urbanistic zonal (Str. Fetesti-Str. Gura Fagetului, sector 3",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1711",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1711/h052_99.pdf",
+     "sha256": "c83fe3f16d16bd680853574c93d3d7dcb74234d34ca6a74b9ae2c760c4e1d20a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-54-1999",
+   "path": "local/bucuresti/cgmb/1999/54",
+   "short": "HCGMB nr. 54/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 54/1999 privind aprobarea procedurilor de licitatie si a criteriilor de precalificare pentru CONCESIONAREA serviciilor de apa si canal",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1698",
+   "versions": [
+    {
+     "from": "1999-02-25",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1698/h054_99.pdf",
+     "sha256": "98080134499b8e3502a411fe0f56f9518943faf755de1471c2324012bc19f333"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-67-1999",
+   "path": "local/bucuresti/cgmb/1999/67",
+   "short": "HCGMB nr. 67/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 67/1999 privind modificarea Hotararii nr.10/14.01.1999 privind stabilirea nivelurilor unor impozite si taxe locale pe anul 1999 in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1703",
+   "versions": [
+    {
+     "from": "1999-03-18",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1703/h067_99.pdf",
+     "sha256": "a38a28d429a06d0b1eae3adb1f3db9202e486c38693c512e17c722c5fc64495d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-7-1999",
+   "path": "local/bucuresti/cgmb/1999/7",
+   "short": "HCGMB nr. 7/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 7/1999 privind prelungirea termenului de aplicare a taxei pentru ocuparea domeniului privat al municipiului Bucuresti cu constructii provizorii (comert, prestari servicii)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1380",
+   "versions": [
+    {
+     "from": "1999-01-14",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1380/h07_99.pdf",
+     "sha256": "b5e04da3394478b3dac6dfac61c0c754264d746d68f377afbebee927132bff71"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-8-1999",
+   "path": "local/bucuresti/cgmb/1999/8",
+   "short": "HCGMB nr. 8/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 8/1999 privind incadrarea in zone a terenurilor pentru care se datoreaza taxa pentru folosirea terenurilor conform Legii nr.69/1993 in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1381",
+   "versions": [
+    {
+     "from": "1999-01-14",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1381/h08_99.pdf",
+     "sha256": "c9a3eb773b6ccf4b05709b23d88073f9a4a51fcabcb3e8a5ee9b1908b3871236"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-88-1999",
+   "path": "local/bucuresti/cgmb/1999/88",
+   "short": "HCGMB nr. 88/1999",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 88/1999",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1563",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1999/1563/h088_99.pdf",
+     "sha256": "9a6fb5aa27374e4fb6e7829f2abca285af736e661c5b3383b509be76bf551d4f"
+    }
+   ]
+  }
+ ]
+}

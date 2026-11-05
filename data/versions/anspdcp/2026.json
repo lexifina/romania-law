@@ -1,0 +1,546 @@
+{
+ "country": "RO",
+ "shard": "anspdcp/2026",
+ "acts": [
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-01-08",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-01-08",
+   "short": "Comunicat ANSPDCP din 2026-01-08",
+   "title": "Comunicat ANSPDCP din 2026-01-08: Amendă pentru încălcarea Legii nr. 506/2004 si a RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_08_01_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_08_01_2026&lang=ro",
+     "sha256": "ccab2b0d09712a9aca40dfb7f1c82227774e005cd7d0dd1a2b60ef89fb3c94f9"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-01-13",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-01-13",
+   "short": "Comunicat ANSPDCP din 2026-01-13",
+   "title": "Comunicat ANSPDCP din 2026-01-13: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_13_01_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_13_01_2026&lang=ro",
+     "sha256": "d59b2dd7bccdab84769c283aa393560df2821314011073510ff25e37492896c5"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-01-19",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-01-19",
+   "short": "Comunicat ANSPDCP din 2026-01-19",
+   "title": "Comunicat ANSPDCP din 2026-01-19: Sancțiuni pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_19_01_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_19_01_2026&lang=ro",
+     "sha256": "cdd828b69c180ca04e803c9c77d42efcb978ba78a3377837113163ab0373c3c8"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-01-30",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-01-30",
+   "short": "Comunicat ANSPDCP din 2026-01-30",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2026-01-30",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_30.01.2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_30.01.2026&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-02-03",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-02-03",
+   "short": "Comunicat ANSPDCP din 2026-02-03",
+   "title": "Comunicat ANSPDCP din 2026-02-03: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_03_02_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_03_02_2026&lang=ro",
+     "sha256": "4c59bbafa54d213870059b6caa2de2c980f266ce32d1aa54109f06411428d961"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-02-04",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-02-04",
+   "short": "Comunicat ANSPDCP din 2026-02-04",
+   "title": "Comunicat ANSPDCP din 2026-02-04: Sancțiune - prelucrare transfrontalieră",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_04_02_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_04_02_2026&lang=ro",
+     "sha256": "2baa21a2d41e5faec6930e8b5849a755eb9d9d3e4d117db7e863dc96613b007f"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-02-05",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-02-05",
+   "short": "Comunicat ANSPDCP din 2026-02-05",
+   "title": "Comunicat ANSPDCP din 2026-02-05: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_05_02_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_05_02_2026&lang=ro",
+     "sha256": "548a8d4e84330c7a1da949d18274c155e0431546b11eb3c60fc29b54d83e85e2"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-02-19",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-02-19",
+   "short": "Comunicat ANSPDCP din 2026-02-19",
+   "title": "Comunicat ANSPDCP din 2026-02-19: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_19_02_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_19_02_2026&lang=ro",
+     "sha256": "1dc29cab6f7a0b4d9ad1eb5c2d5099a94e99ccaeceb6e42e6fda25b8e7906b92"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-02-20",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-02-20",
+   "short": "Comunicat ANSPDCP din 2026-02-20",
+   "title": "Comunicat ANSPDCP din 2026-02-20: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_02_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_02_2026&lang=ro",
+     "sha256": "920266ec953ff4559d3de3728a4adf3e230812957fe118b7d52045b36e84fd48"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-03-05",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-03-05",
+   "short": "Comunicat ANSPDCP din 2026-03-05",
+   "title": "Comunicat ANSPDCP din 2026-03-05: O nouă sancțiune aplicată pentru încălcarea GDPR",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_05_03_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_05_03_2026&lang=ro",
+     "sha256": "09bf1c1438b3ce9614bc8cbc1120c7a72240eec86d6ed49480b0fdf735d16d26"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-03-20",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-03-20",
+   "short": "Comunicat ANSPDCP din 2026-03-20",
+   "title": "Comunicat ANSPDCP din 2026-03-20: Sancțiuni pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_03_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_03_2026&lang=ro",
+     "sha256": "9674dc90dec566df9757e352db2e033a94f89d4e1c7b6a14017be6b935047595"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-03-23",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-03-23",
+   "short": "Comunicat ANSPDCP din 2026-03-23",
+   "title": "Comunicat ANSPDCP din 2026-03-23: Sancțiune aplicată pentru încălcarea GDPR",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23.03.2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23.03.2026&lang=ro",
+     "sha256": "ca32f39c8aa29649bf30e8d1515479dd7af5df21ef5ed9046842491c2be9f658"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-03-25",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-03-25",
+   "short": "Comunicat ANSPDCP din 2026-03-25",
+   "title": "Comunicat ANSPDCP din 2026-03-25: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_25.03.2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_25.03.2026&lang=ro",
+     "sha256": "2f0eeda5a0a70acc38780b8c7abf050e614140c6fc6b3a297422e3d21d6411c0"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-04-03",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-04-03",
+   "short": "Comunicat ANSPDCP din 2026-04-03",
+   "title": "Comunicat ANSPDCP din 2026-04-03: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_03_04_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_03_04_2026&lang=ro",
+     "sha256": "c66f5c72137b8ea22c1ca883d4ad36d7f7215e77011e9af48da2962ecc990171"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-04-28",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-04-28",
+   "short": "Comunicat ANSPDCP din 2026-04-28",
+   "title": "Comunicat ANSPDCP din 2026-04-28: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_28_04_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_28_04_2026&lang=ro",
+     "sha256": "0158beaf48aaf55872fb2ca274f8f6484e2d413962a9dd182f7cabed640495a7"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-04-30",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-04-30",
+   "short": "Comunicat ANSPDCP din 2026-04-30",
+   "title": "Comunicat ANSPDCP din 2026-04-30: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_30_04_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_30_04_2026&lang=ro",
+     "sha256": "85527a0fb7588e32fddb39d6ceabf98af058e85f7d20ef64c0e85a40933493c2"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-05-29",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-05-29",
+   "short": "Comunicat ANSPDCP din 2026-05-29",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2026-05-29",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_29_05_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_29_05_2026&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-06-12",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-06-12",
+   "short": "Comunicat ANSPDCP din 2026-06-12",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2026-06-12",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_12.06.2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_12.06.2026&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-06-15",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-06-15",
+   "short": "Comunicat ANSPDCP din 2026-06-15",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2026-06-15",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_15_06_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_15_06_2026&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-06-16",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-06-16",
+   "short": "Comunicat ANSPDCP din 2026-06-16",
+   "title": "Comunicat ANSPDCP din 2026-06-16: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_16.06.2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_16.06.2026&lang=ro",
+     "sha256": "99ce7b0e45c07144af933529410dc459bcbd88948f6d3550e926ed3b2000f475"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-06-18",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-06-18",
+   "short": "Comunicat ANSPDCP din 2026-06-18",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2026-06-18",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18_06_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18_06_2026&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-06-26",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-06-26",
+   "short": "Comunicat ANSPDCP din 2026-06-26",
+   "title": "Comunicat ANSPDCP din 2026-06-26: Amendă pentru încălcarea Legii nr. 506/2004",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_26.06.2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_26.06.2026&lang=ro",
+     "sha256": "1174a318086113069d6f73f73cd58f72a8a4377c8dc10383d99eb1072831fed4"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-07-01",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-07-01",
+   "short": "Comunicat ANSPDCP din 2026-07-01",
+   "title": "Comunicat ANSPDCP din 2026-07-01: Sancțiune - prelucrare transfrontalieră",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_01_07_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_01_07_2026&lang=ro",
+     "sha256": "f8a69f62c516875c7dfc2557d6400b36e921d3aa4eee1f44ba831c2e2555ea7c"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-07-02",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-07-02",
+   "short": "Comunicat ANSPDCP din 2026-07-02",
+   "title": "Comunicat ANSPDCP din 2026-07-02: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_02_07_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_02_07_2026&lang=ro",
+     "sha256": "d1c0bf3652a08d54e7201018ef140f78822db3a9a621375fd3ed151d57a72b5e"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-07-17",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-07-17",
+   "short": "Comunicat ANSPDCP din 2026-07-17",
+   "title": "Comunicat ANSPDCP din 2026-07-17: Sancțiuni pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_17.07.2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_17.07.2026&lang=ro",
+     "sha256": "c2cb522614e9f5a107d0442bdd186bcf96ea61b31646317572fe993d41b71f99"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-07-31",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-07-31",
+   "short": "Comunicat ANSPDCP din 2026-07-31",
+   "title": "Comunicat ANSPDCP din 2026-07-31: Sancțiune pentru încălcarea RGPDși a Legii nr. 506/2004",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_31.07.2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_31.07.2026&lang=ro",
+     "sha256": "65418b69422b10686af475b09983432f45451261c0d7cc491d0f45777c9406b7"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-08-06",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-08-06",
+   "short": "Comunicat ANSPDCP din 2026-08-06",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2026-08-06",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_06.08.2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_06.08.2026&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-08-19",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-08-19",
+   "short": "Comunicat ANSPDCP din 2026-08-19",
+   "title": "Comunicat ANSPDCP din 2026-08-19: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_19_08_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_19_08_2026&lang=ro",
+     "sha256": "97ad6ea2ab758af22347f6b67e4e2b5624f13108cb66a84c75769fe7fd24a01d"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-08-28",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-08-28",
+   "short": "Comunicat ANSPDCP din 2026-08-28",
+   "title": "Comunicat ANSPDCP din 2026-08-28: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_28.08.2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_28.08.2026&lang=ro",
+     "sha256": "50c18c436ad5978f546fadfb6e2fe6f17d1e50691fbae05e838cf485694592fb"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-09-08",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-09-08",
+   "short": "Comunicat ANSPDCP din 2026-09-08",
+   "title": "Comunicat ANSPDCP din 2026-09-08: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_08_09_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_08_09_2026&lang=ro",
+     "sha256": "3ca243ccddedc31b030644ccdc8ed253263ffa069936b9df27cb03fe0fac93cd"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-09-25",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-09-25",
+   "short": "Comunicat ANSPDCP din 2026-09-25",
+   "title": "Comunicat ANSPDCP din 2026-09-25: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_25_09_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_25_09_2026&lang=ro",
+     "sha256": "78044a5601ccb35824fb113f2df4bad7a87b3064b793d230b65c747ac557f3d4"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-10-02",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-10-02",
+   "short": "Comunicat ANSPDCP din 2026-10-02",
+   "title": "Comunicat ANSPDCP din 2026-10-02: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_02_10_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_02_10_2026&lang=ro",
+     "sha256": "65726388198c9d6fe876547d8fa5197c2626614e110d8e5cbd5d794384dd259d"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-10-07",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-10-07",
+   "short": "Comunicat ANSPDCP din 2026-10-07",
+   "title": "Comunicat ANSPDCP din 2026-10-07: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_07.10.2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_07.10.2026&lang=ro",
+     "sha256": "6b2f7c9c9e66ce6961dfdf2bea0ccdae1c64fb6671452637d4f03ee156442b61"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-10-16",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-10-16",
+   "short": "Comunicat ANSPDCP din 2026-10-16",
+   "title": "Comunicat ANSPDCP din 2026-10-16: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_16.10.2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_16.10.2026&lang=ro",
+     "sha256": "a2c9fd2b3f2e2c477ddbd7d867a30ed16b2ed15f9b4670d05db602e36206f180"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-10-28",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-10-28",
+   "short": "Comunicat ANSPDCP din 2026-10-28",
+   "title": "Comunicat ANSPDCP din 2026-10-28: Amenzi pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_28_10_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_28_10_2026&lang=ro",
+     "sha256": "86d064c7a2ce8e9a1a3ae0b5f2b661a1f9b946fb9fb2a0ffdd2046e7bd6f898a"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2026-2026-10-30",
+   "path": "anspdcp/comunicat-sanctiune/2026/2026-10-30",
+   "short": "Comunicat ANSPDCP din 2026-10-30",
+   "title": "Comunicat ANSPDCP din 2026-10-30: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_30_10_2026&lang=ro",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_30_10_2026&lang=ro",
+     "sha256": "909efa5dc8141464c7ad23784ddad3f3cc9e7b682c32176276b96942e655ac05"
+    }
+   ]
+  }
+ ]
+}

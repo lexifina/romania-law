@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "norma/1994",
+ "acts": [
+  {
+   "slug": "norma-bnr-1-1994",
+   "path": "norma/bnr/1994/1",
+   "short": "Norma bnr nr. 1/1994",
+   "title": "Norma nr. 1/1994 privind refinanțarea societăților bancare prin credit de descoperit de cont (overdraft)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3776",
+   "versions": [
+    {
+     "from": "1994-02-24",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3776",
+     "sha256": "1790b0ed5db05562b20e314f33deee67e71b5053f9174b72ec2fdb0c10289b56"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-10813-1994",
+   "path": "norma/bnr/1994/10813",
+   "short": "Norma bnr nr. 10813/1994",
+   "title": "Norma nr. 10.813/1994 (*republicată privind funcționarea pieței valutare interbancare (anexa nr. 3 la Regulamentul Băncii Naționale a României privind efectuarea operațiunilor valutare)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5582",
+   "versions": [
+    {
+     "from": "1996-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5582",
+     "sha256": "32dec9c5aa0883b7d84c8334b1354dbc63121ea5f8eba018485ce85701c037bc"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-2-1994",
+   "path": "norma/bnr/1994/2",
+   "short": "Norma bnr nr. 2/1994",
+   "title": "Norma nr. 2/1994 privind fondurile proprii ale societăților bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3790",
+   "versions": [
+    {
+     "from": "1994-03-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3790",
+     "sha256": "f1bbbb88fe37dc7f2496a3cd6783c1413b15cd87376cb8560fa7a1a580220485"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-1252-1994",
+   "path": "norma/finante/1994/1252",
+   "short": "Norma finante nr. 1252/1994",
+   "title": "Norma nr. 1.252/1994 NORMA Nr. 1252 din 8 septembrie 1994 cu privire la modul de încasare a taxelor de trecere a frontierei, datorate de cetățenii români",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5555",
+   "versions": [
+    {
+     "from": "1994-09-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5555",
+     "sha256": "0fcb413c7f4f405931782a2123f5aaff04bea6943dea622b5e7c74fdfeb9cedd"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-2162-mc-1994",
+   "path": "norma/finante/1994/2162-mc",
+   "short": "Norma finante nr. 2162/MC/1994",
+   "title": "Norma nr. 2.162/MC/1994 de aplicare a Ordonanței Guvernului nr. 20/1994 privind punerea în siguranța a fondului construit existent",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5568",
+   "versions": [
+    {
+     "from": "1994-10-12",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5568",
+     "sha256": "723fd5ff5d6a54006b583e687203ccc56bc429400e37a3defd791ba318c314b6"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-30654-1994",
+   "path": "norma/finante/1994/30654",
+   "short": "Norma finante nr. 30654/1994",
+   "title": "Norma nr. 30.654/1994 de aplicare a Ordonanței Guvernului nr. 20/1994 privind punerea în siguranța a fondului construit existent",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5590",
+   "versions": [
+    {
+     "from": "1994-10-12",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5590",
+     "sha256": "fcc4faba2cbec4f7242cf096fabaa4d9f9c0e60aaf68644f442f41d04d54d939"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-46544-1994",
+   "path": "norma/finante/1994/46544",
+   "short": "Norma finante nr. 46544/1994",
+   "title": "Norma nr. 46.544/1994 privind organizarea și desfășurarea licitațiilor pentru achizițiile publice de bunuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5594",
+   "versions": [
+    {
+     "from": "1994-07-27",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5594",
+     "sha256": "9745227d5ac9cadf4f3d16d6e85ff7a0c3a85b9253ea82a69c21207f712717d7"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-48211-1994",
+   "path": "norma/finante/1994/48211",
+   "short": "Norma finante nr. 48211/1994",
+   "title": "Norma nr. 48.211/1994 privind perceperea, încasarea, virarea, utilizarea, evidența și controlul destinației sumelor rezultate din aplicarea timbrului literar, cinematografic, teatral, muzical, folcloric și al artelor plastice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5595",
+   "versions": [
+    {
+     "from": "1994-10-17",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5595",
+     "sha256": "53c85f6c8eed870b3682a5d45b1468486e81c2f9f6efa9d4910a2e4ec870244c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-48360-1994",
+   "path": "norma/finante/1994/48360",
+   "short": "Norma finante nr. 48360/1994",
+   "title": "Norma nr. 48.360/1994 NORMA Nr. 48.360 din 8 septembrie 1994 cu privire la modul de încasare a taxelor de trecere a frontierei, datorate de cetățenii români",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5596",
+   "versions": [
+    {
+     "from": "1994-09-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5596",
+     "sha256": "e0e035a13f0b39fb75b3b74c9a46e30185d71ba4c741344ca729484a09c19cf7"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-7026-1994",
+   "path": "norma/finante/1994/7026",
+   "short": "Norma finante nr. 7026/1994",
+   "title": "Norma nr. 7.026/1994 NORMA Nr. 7026 din 8 septembrie 1994 cu privire la modul de încasare a taxelor de trecere a frontierei, datorate de cetățenii români",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5576",
+   "versions": [
+    {
+     "from": "1994-09-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5576",
+     "sha256": "46e819038407724189bcced72e782ee297f09116d4cbe7da68fba89a67aeb1a2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-1720-1994",
+   "path": "norma/sanatate/1994/1720",
+   "short": "Norma sanatate nr. 1720/1994",
+   "title": "Norma nr. 1.720/1994 NORME METODOLOGICE Nr. 1720 din 6 octombrie 1994 pentru modificarea punctului 6 din Normele metodologice nr. 250/1994, emise de Ministerul Sănătății, cu avizul Ministerului Muncii și Protecției Sociale și al Ministerului Finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5565",
+   "versions": [
+    {
+     "from": "1994-10-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5565",
+     "sha256": "ec3651d0010599b789270515659abc052b6c9b105599116045a46c7d110ed8dc"
+    }
+   ]
+  }
+ ]
+}

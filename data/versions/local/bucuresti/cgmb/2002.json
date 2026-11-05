@@ -1,0 +1,576 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/cgmb/2002",
+ "acts": [
+  {
+   "slug": "hcgmb-10-2002",
+   "path": "local/bucuresti/cgmb/2002/10",
+   "short": "HCGMB nr. 10/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 10/2002 privind aprobarea Planului Urbanistic Zonal pentru constructii definitive cu functiunile de locuire, servicii, pe un teren in suprafata de 7,11 ha, situat in sos. Bucuresti-Magurele – str.Teius nr.168-174, sector 5",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7461",
+   "versions": [
+    {
+     "from": "2002-01-29",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/7461/h010_02.pdf",
+     "sha256": "2af5a74193e5457ee983b0d9065dca65d466cb8ec448e9da3b3d158c54950fc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-101-2002",
+   "path": "local/bucuresti/cgmb/2002/101",
+   "short": "HCGMB nr. 101/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 101/2002 privind aprobarea normelor instituite de Consiliul local al sectorului 1 pentru organizarea si functionarea unei S.C.”ECONOMAT 2001” S.R.L.",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7858",
+   "versions": [
+    {
+     "from": "2002-04-18",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/7858/h0101_02.pdf",
+     "sha256": "4c7110aed5cceb712c2b613a7240da74d718a89833518c44a6aaf1eb5073daef"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-11-2002",
+   "path": "local/bucuresti/cgmb/2002/11",
+   "short": "HCGMB nr. 11/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 11/2002",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7462",
+   "versions": [
+    {
+     "from": "2002-01-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/7462/h011_02.pdf",
+     "sha256": "f7ed7231d8f5676e3c42cef06e4168aad82ed4217d92b25d5a8de8df056e332f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-119-2002",
+   "path": "local/bucuresti/cgmb/2002/119",
+   "short": "HCGMB nr. 119/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 119/2002 pentru aprobarea exercitarii de catre Consiliul Local al Sectorului 1 a atributiilor privind stabilirea taxelor practicate de catre Circumscriptiile Sanitar Veterinare Sectorul 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7997",
+   "versions": [
+    {
+     "from": "2002-05-24",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/7997/h0119_02.pdf",
+     "sha256": "f6afcc7de5c0adbb3eeb5bf8b3c9ff31be02bba708f7b83e1d93ba17a0c65ca6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-121-2002",
+   "path": "local/bucuresti/cgmb/2002/121",
+   "short": "HCGMB nr. 121/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 121/2002 pentru aprobarea exercitarii de catre Consiliul Local al Sectorului 1 a atributiilor privind stabilirea taxei de multiplicare pentru pentru documentele eliberate conform prevederilor Legii nr.544/2001, privind liberul acces la informatii de interes public",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7999",
+   "versions": [
+    {
+     "from": "2002-05-24",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/7999/h0121_02.pdf",
+     "sha256": "fd42549afa50fe555944722fac3e5f04f68c68c6df0e91ca2e5338defbcf759b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-136-2002",
+   "path": "local/bucuresti/cgmb/2002/136",
+   "short": "HCGMB nr. 136/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 136/2002 privind stabilirea tarifelor practicate de Centrul de Proiectare Urbana pentru eliberarea avizelor de consultanta preliminara in urbanism, circulatie si amenajarea teritoriului",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8181",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 8,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8181/h0136_02.pdf",
+     "sha256": "98f264a8e88148b4ddb82c18e1feea7f44a5ba04d233c59a3c237a43e6232e86"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-139-2002",
+   "path": "local/bucuresti/cgmb/2002/139",
+   "short": "HCGMB nr. 139/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 139/2002",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8066",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8066/h0139_02.pdf",
+     "sha256": "c287959063d308e4286790e9a7fa38fc15d37f2a7fb528b53bff96d9bdf922f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-140-2002",
+   "path": "local/bucuresti/cgmb/2002/140",
+   "short": "HCGMB nr. 140/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 140/2002",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8145",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8145/h0140_02.pdf",
+     "sha256": "41d5a963d08ee0fbcf0cd9f81a50122c83f60ef32a2a81bcfab2f8cc9e7d028e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-141-2002",
+   "path": "local/bucuresti/cgmb/2002/141",
+   "short": "HCGMB nr. 141/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 141/2002 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL PE UN TEREN IN SUPRAFATA DE 4575, SITUAT IN STR. C-TIN NOICA, SECTOR 6",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8146",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8146/h0141_02.pdf",
+     "sha256": "455045bd60e0c65a4b379bb2de2a6fa0110b3309293542e9be23368e8207ec42"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-142-2002",
+   "path": "local/bucuresti/cgmb/2002/142",
+   "short": "HCGMB nr. 142/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 142/2002 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL PE UN TEREN IN SUPRAFATA STUDIATA DE 15 HA, SITUAT IN CALEA VACARESTI- SPLAIUL DAMBOVITEI, SECTOR 4",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8147",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8147/h0142_02.pdf",
+     "sha256": "b6c34c0b4e2ca88557cb389e1b7f056f9a2853cc46d2b4d570726b7f842aea65"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-143-2002",
+   "path": "local/bucuresti/cgmb/2002/143",
+   "short": "HCGMB nr. 143/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 143/2002",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8148",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8148/h0143_02.pdf",
+     "sha256": "35b8f9d8ab6f90f161d6187e036662ab80eb656ec46606db1ae5536a8e8fef72"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-144-2002",
+   "path": "local/bucuresti/cgmb/2002/144",
+   "short": "HCGMB nr. 144/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 144/2002 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL PE UN TEREN IN SUPRAFATA DE 17,3 HA, SITUAT IN BD. IULIU MANIU- CALEA FERATA DE CENTURA- STR. PRECIZIEI, SECTOR 6",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8149",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8149/h0144_02.pdf",
+     "sha256": "fd1f8d33eb9308912395289d02c263028686026b4624b69075c2c387779e2ce9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-145-2002",
+   "path": "local/bucuresti/cgmb/2002/145",
+   "short": "HCGMB nr. 145/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 145/2002 PRIVIND APROBARE PLANULUI URBANISTIC ZONAL PE UN TEREN IN SUPRAFATA DE 48,5 HA, SITUAT IN SOS. BUCURESTI- TARGOVISTE- LACUL STRAULESTI- STR. REDEA, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8150",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8150/h0145_02.pdf",
+     "sha256": "0eb3b7ba9569e5f3a7637b3cd714197b22ee9201f0c4db016b563617727b86e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-146-2002",
+   "path": "local/bucuresti/cgmb/2002/146",
+   "short": "HCGMB nr. 146/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 146/2002 PRIVIND APROBAREA UNUI PLAN URBANISTIC ZONAL PE UN TEREN IN SUPRAFATA STUDIATA DE 34 HA, SITUAT IN SOS. ODAI- DRUMUL MUNTELE GAINA, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8152",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8152/h0146_02.pdf",
+     "sha256": "30b8e8f6c84c4f79c80cc3e6ccf9aae908965670052d49139dab3976cc666056"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-147-2002",
+   "path": "local/bucuresti/cgmb/2002/147",
+   "short": "HCGMB nr. 147/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 147/2002 privind aprobarea Planului Urbanistic Zonal pe un teren in suprafata de 10750.39 mp, situat in str. Nasaud, nr.97, sector 5",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8151",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8151/h0147_02.pdf",
+     "sha256": "b1f9e5b19941be98dd6220aee39a567fea31c66d2d500d3eabafc78c35a392c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-148-2002",
+   "path": "local/bucuresti/cgmb/2002/148",
+   "short": "HCGMB nr. 148/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 148/2002 privind aprobarea Planului Urbanistic Zonal pe un teren in suprafata studiata de 5 ha, situat in sos. Oltenitei – Calea Vacaresti, sector 4",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8153",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8153/h0148_02.pdf",
+     "sha256": "c26e28f951e564d1e53290e1d0a2cc794917a9214f205d8dace549f0799199d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-149-2002",
+   "path": "local/bucuresti/cgmb/2002/149",
+   "short": "HCGMB nr. 149/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 149/2002",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8154",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8154/h0149_02.pdf",
+     "sha256": "2dda75a73131abee7623c5aa732ee50ab71c7ba3d2b6f6d07c8130cfbbf51882"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-150-2002",
+   "path": "local/bucuresti/cgmb/2002/150",
+   "short": "HCGMB nr. 150/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 150/2002 privind aprobarea Planului Urbanistic Zonal pe un teren in suprafata de 9810 mp, situat in sos. Fundeni nr. 143- 167, sector 2",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8155",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8155/h0150_02.pdf",
+     "sha256": "4f646eb82c4ea312f641da48949dfcdd4eb4065187e94f8775df815ac0bc98cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-151-2002",
+   "path": "local/bucuresti/cgmb/2002/151",
+   "short": "HCGMB nr. 151/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 151/2002 privind aprobarea Planului Urbanistic Zonal pe un teren in suprafata de 12.67 ha, situat in sos. Virtutii – str. Dambovita, sector 6",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8156",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8156/h0151_02.pdf",
+     "sha256": "233e7ddab530baabc9d913da7c3277953b409d2e8a4476516564e1039ef98929"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-169-2002",
+   "path": "local/bucuresti/cgmb/2002/169",
+   "short": "HCGMB nr. 169/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 169/2002 PRIVIND APROBAREA MODIFICARII UNUI PLAN URBANISTIC ZONAL PE UN TEREN IN SUPRAFATA DE 18 HA, SITUAT IN STR. N. CARAMFIL- S0S. NORDULUI- STR. G. GAFENCU, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8407",
+   "versions": [
+    {
+     "from": "2002-06-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8407/h0169_02.pdf",
+     "sha256": "fd9150e89995f424459df0083940ac57904a59accedbd256db76f08861780c59"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-184-2002",
+   "path": "local/bucuresti/cgmb/2002/184",
+   "short": "HCGMB nr. 184/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 184/2002 PRIVIND MODIFICAREA SI COMPLETAREA REGULAMENTULUI PENTRU ORGANIZAREA SI FUNCTIONAREA CIMITIRELOR SI CREMATORIILOR UMANE AFLATE SUB AUTORITATEA CGMB, PRECUM SI ACTUALIZAREA TAXELOR SI TARIFELOR PRACTICATE DE ADMINISTRATIA CIMITIRELOR SI CREMATORIILOR UMANE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8516",
+   "versions": [
+    {
+     "from": "2002-07-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8516/h0184_02.pdf",
+     "sha256": "555e80b8754e4b8322353a4441726aa8186ef79ecf34dc631785c27bc9b0378d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-200-2002",
+   "path": "local/bucuresti/cgmb/2002/200",
+   "short": "HCGMB nr. 200/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 200/2002 privind aprobarea exercitarii de catre Consiliul Local al Sectorului 1 a atributiilor privind stabilirea impozitului pe spectacole pentru activitati artistice si distractive de videoteca si discoteca desfasurate pe raza teritorial-administrativa a sectorului 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8863",
+   "versions": [
+    {
+     "from": "2002-10-17",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8863/h0200_02.pdf",
+     "sha256": "4c76b8648c35ee84af67745ddae902e089c86164f074500e0208dc8f618bdd0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-205-2002",
+   "path": "local/bucuresti/cgmb/2002/205",
+   "short": "HCGMB nr. 205/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 205/2002 Privind aprobarea Planului Urbanistic Zonal pentru constructii definitive pe un teren in suprafata de 82.500 m.p., situat in Bdul Gh. Sincai – Calea Vacaresti, sector 4",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8785",
+   "versions": [
+    {
+     "from": "2002-10-17",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8785/h0205_02.pdf",
+     "sha256": "c23eab40474def0fa3d5061dc4a7bfa505ae23a37e0eed51d900b418f78b4693"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-213-2002",
+   "path": "local/bucuresti/cgmb/2002/213",
+   "short": "HCGMB nr. 213/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 213/2002 Privind trecerea in administrarea Consiliului Local al Sectorului 3 a Bazei Pallady, cu sediul in Bulevardul Theodor Pallady, nr. 262, sector 3, pentru infiintarea Serviciului Specializat pentru Gestionarea cainilor fara Stapan",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8874",
+   "versions": [
+    {
+     "from": "2002-10-17",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8874/h0213_02.pdf",
+     "sha256": "0fde22f566df43462fda81b2a702d6d014a0c6fa729fe6fac2dbed15ea29dcde"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-237-2002",
+   "path": "local/bucuresti/cgmb/2002/237",
+   "short": "HCGMB nr. 237/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 237/2002 Privind stabilirea nivelului impozitelor si taxelor locale pentru anul 2003, Municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/8885",
+   "versions": [
+    {
+     "from": "2002-10-24",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/8885/h0237_02.pdf",
+     "sha256": "609c4470b653270cc813eb793d7ab830af5b0eb0a76978aa2a7f7e406f0d1e0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-302-2002",
+   "path": "local/bucuresti/cgmb/2002/302",
+   "short": "HCGMB nr. 302/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 302/2002 privind scutirea de la plata impozitului pe cladiri si a impozitului pe teren a unor categorii de persoane defavorizate",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/9076",
+   "versions": [
+    {
+     "from": "2002-12-23",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/9076/h0302_02.pdf",
+     "sha256": "2c4f4c7c6be7e547e7f747a187adc24667263b94a3b9cf1eed894ff49b98dd18"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-303-2002",
+   "path": "local/bucuresti/cgmb/2002/303",
+   "short": "HCGMB nr. 303/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 303/2002 privind instituirea taxelor pentru vehicolele lente prevazute in anexa nr. 8 din O.G. nr. 36/2002 privind impozitele si taxele locale, republicata",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/9077",
+   "versions": [
+    {
+     "from": "2002-12-23",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/9077/h0303_02.pdf",
+     "sha256": "fbaab0abe17e3c909dd25c3a81113c4ecd50242cbad0cadc3d66b16baea8c249"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-306-2002",
+   "path": "local/bucuresti/cgmb/2002/306",
+   "short": "HCGMB nr. 306/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 306/2002 privind aprobarea “Regulamentului privind instalarea capacelor gurilor de acces la retelele edilitare subterane si rasuflatoarelor de gaz si a gratarelor gurilor de scurgere a apelor pluviale pe teritoriul municipiului Bucuresti”",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/9080",
+   "versions": [
+    {
+     "from": "2002-12-23",
+     "units": 7,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/9080/h0306_02.pdf",
+     "sha256": "d6119bf039260e7a0082cd13c992177752754d96d507d74231dd83ce9e72c01c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-34-2002",
+   "path": "local/bucuresti/cgmb/2002/34",
+   "short": "HCGMB nr. 34/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 34/2002 privind stabilirea nivelului taxelor extrajudiciare de timbru in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7485",
+   "versions": [
+    {
+     "from": "2002-01-29",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/7485/h034_02.pdf",
+     "sha256": "175c62ba3d742a77ede757652c5d5a4430012c36484ac37d2d2a5be2c291cbe9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-4-2002",
+   "path": "local/bucuresti/cgmb/2002/4",
+   "short": "HCGMB nr. 4/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 4/2002 privind aprobarea Planului Urbanistic Zonal pentru constructii definitive pe un teren in suprafata de 48,1 ha, situat in Bd.Iuliu Maniu – str.Osiei, sector 6",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7457",
+   "versions": [
+    {
+     "from": "2002-01-29",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/7457/h04_02.pdf",
+     "sha256": "ecdd1f9cfa9499b63ac2af622667bdc44d7a2768c830dedf9b15822abf09ea13"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-46-2002",
+   "path": "local/bucuresti/cgmb/2002/46",
+   "short": "HCGMB nr. 46/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 46/2002 privind stabilirea taxei pentru incredintarea cainilor revendicati sau ceruti spre adoptie",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7567",
+   "versions": [
+    {
+     "from": "2002-02-14",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/7567/h046_02.pdf",
+     "sha256": "8ce0a2ed412012bc65b6fd5c7cdf8e44ddbad514882fd9d2906a787c0ba8d823"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-5-2002",
+   "path": "local/bucuresti/cgmb/2002/5",
+   "short": "HCGMB nr. 5/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 5/2002 privind aprobarea Planului Urbanistic Zonal pentru constructii definitive cu functiunea de cimitir, pe un teren in suprafata de 2 ha, situat in str.Maica Teofana nr.17, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7563",
+   "versions": [
+    {
+     "from": "2002-01-29",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/7563/h05_02.pdf",
+     "sha256": "fed5d0709643609f2267df06cff7df73a7a4791dcf85d9eb16b16ab0dbce3861"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-58-2002",
+   "path": "local/bucuresti/cgmb/2002/58",
+   "short": "HCGMB nr. 58/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 58/2002 PRIVIND INSTITUIREA UNOR NORME DE ADMINISTRARE A DOMENIULUI PUBLIC",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7652",
+   "versions": [
+    {
+     "from": "2002-03-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/7652/h058_02.pdf",
+     "sha256": "d94d0da95b98259a08f45f4ec6287ecf36c825c39fa811cfe6caacb0344da704"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-6-2002",
+   "path": "local/bucuresti/cgmb/2002/6",
+   "short": "HCGMB nr. 6/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 6/2002 privind aprobarea Planului Urbanistic Zonal pentru constructii definitive pe un teren in suprafata de 1 ha, situat intre strazile Campineanu – Academiei - Ministerului, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7564",
+   "versions": [
+    {
+     "from": "2002-01-29",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/7564/h06_02.pdf",
+     "sha256": "c1346c0b2fea05fdcd044ef01ff9091fba1da9dcb05ba15fab86cd98e5c0baab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-7-2002",
+   "path": "local/bucuresti/cgmb/2002/7",
+   "short": "HCGMB nr. 7/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 7/2002 privind aprobarea Planului Urbanistic Zonal pentru constructii definitive pe un teren in suprafata de 5,28 ha, situat in sos.Colentina – str.Maior V.Bacila, sector 2",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7458",
+   "versions": [
+    {
+     "from": "2002-01-29",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/7458/h07_02.pdf",
+     "sha256": "bce4a97119d759b65ea1a3bbc2d2ae6c6f2f31a7a029d46bc641b546faa2207e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-75-2002",
+   "path": "local/bucuresti/cgmb/2002/75",
+   "short": "HCGMB nr. 75/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 75/2002 privind aprobarea exercitarii de catre Consiliul Local al Sectorului 1 a unor atributii privind impozitele si taxele locale",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7709",
+   "versions": [
+    {
+     "from": "2002-04-03",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/7709/h075_02.pdf",
+     "sha256": "a520fba4cda7b5c26d14c7e3b2bee298ab5ee641b0a33e8e77819a65358a653a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-8-2002",
+   "path": "local/bucuresti/cgmb/2002/8",
+   "short": "HCGMB nr. 8/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 8/2002 privind aprobarea Planului Urbanistic Zonal pentru constructii definitive cu functiuni de birouri, locuire si functiuni complementare locuirii, pe o suprafata de 4,1 ha situat in Calea Calarasilor – str.Delea Veche – str.Popa Nan, sector 2",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7459",
+   "versions": [
+    {
+     "from": "2002-01-29",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/7459/h08_02.pdf",
+     "sha256": "986129305bcc2509b3518a5c11d6d2279a32c88156cb612fe83a1fac667ca4a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-9-2002",
+   "path": "local/bucuresti/cgmb/2002/9",
+   "short": "HCGMB nr. 9/2002",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 9/2002 privind aprobarea Planului Urbanistic Zonal pentru constructii definitive pe un teren in suprafata de 7 ha, situat in str.Liviu Rebreanu nr.4, bd.Camil Ressu, sector 3",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/7460",
+   "versions": [
+    {
+     "from": "2002-01-29",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2002/7460/h09_02.pdf",
+     "sha256": "e100e7e054abdfdff93fd8218672752b8fdd073cbba6827ee52b1b350c16bc9b"
+    }
+   ]
+  }
+ ]
+}

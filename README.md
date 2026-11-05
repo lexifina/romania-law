@@ -34,8 +34,8 @@ An AI assistant answering a question about Romanian law through the MCP: the ans
 | `<act>/art-NNN.md` | one article per file, one paragraph, letter or point per line; art. 112^1 is `art-112-1.md` |
 | `<act>/README.md` | the act's articles, versions and any decisions made by hand for it |
 | `jurisprudenta/` | court decisions: `ccr/`, `iccj/<panel>/`, `cedo/` |
-| [ACTS.md](ACTS.md) | every act, with its folder, status and span |
-| `data/` | `acts.json`, `paths.json`, `versions.json` and the CSV tables below |
+| [ACTS.md](ACTS.md) | the primary legislation (Constitution, laws, ordinances, decrees, codes), with folder, status and span; every other kind is listed by year in `data/acts/<kind>/<year>.md` (local acts: `data/acts/local/<council>/<year>.md`) |
+| `data/` | `acts.json`, `versions.json` and `laws.csv` for the primary legislation, the same files for every other kind under `data/acts/`, `data/versions/` and `data/laws/` (one per kind and year, all listed in `data/index.json`), `paths.json` and the CSV tables below |
 | `tools/` | `on.py` and `in_vigoare_la.py` (the law on any date); `tools/build/` holds the builder |
 | [AGENTS.md](AGENTS.md) | how a program or an AI agent should query this repository |
 
@@ -58,6 +58,7 @@ Read dates with the tools, not `git rev-list --before`: they pick each version b
 
 | File | What |
 | --- | --- |
+| `data/index.json` | every act list: the primary files (`acts.json`, `versions.json`, `laws.csv`) and one shard per other kind and year, e.g. `data/acts/hg/2016.json`, `data/versions/ordin/2012.json`, `data/laws/local/bucuresti/cgmb/2016.csv`; `data/sources/<kind>/<year>.csv` lists the sources of those acts (REPRODUCE.md lists the rest) |
 | `data/act-links.csv` | links between acts (amends, repeals, approves, promulgates, republishes…) from the Chamber of Deputies' database, captured 2018–2025; not official, and not complete for later links |
 | `data/eu-transposition.csv` | the EU acts each Romanian act transposes, from Romania's notifications to the Commission (`nim`), the act's own note (`clause`) or both |
 | `data/decisions.csv`, `data/rulings-by-provision.json` | every court decision here, and the decisions on each article |

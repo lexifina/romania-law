@@ -1,0 +1,576 @@
+{
+ "country": "RO",
+ "shard": "norma/2020",
+ "acts": [
+  {
+   "slug": "norma-asf-1-2020",
+   "path": "norma/asf/2020/1",
+   "short": "Norma asf nr. 1/2020",
+   "title": "Norma nr. 1/2020 privind aplicarea unor măsuri în cazul retragerii Regatului Unit al Marii Britanii și Irlandei de Nord din Uniunea Europeană fără un acord",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222483",
+   "versions": [
+    {
+     "from": "2020-01-27",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222483",
+     "sha256": "d13b7d51b657aec59fb03836e6ca098725835bacc60019665e29e4f63991d1a9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-10-2020",
+   "path": "norma/asf/2020/10",
+   "short": "Norma asf nr. 10/2020",
+   "title": "Norma nr. 10/2020 privind prospectul fondului de pensii ocupaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224275",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224275",
+     "sha256": "76630ec68c79cf638dcda171660e13422b906b6da18ce4061b12d37e2a5c5e3f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-11-2020",
+   "path": "norma/asf/2020/11",
+   "short": "Norma asf nr. 11/2020",
+   "title": "Norma nr. 11/2020 privind capitalul social al administratorului de fonduri de pensii ocupaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224331",
+   "versions": [
+    {
+     "from": "2020-03-24",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224331",
+     "sha256": "2a7dfa9762b5ed4973b681813605091d09a172343d17bcbd8d1eea87af3a4c2a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-13-2020",
+   "path": "norma/asf/2020/13",
+   "short": "Norma asf nr. 13/2020",
+   "title": "Norma nr. 13/2020 privind autorizarea administratorilor de fonduri de pensii ocupaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224320",
+   "versions": [
+    {
+     "from": "2020-03-24",
+     "units": 64,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224320",
+     "sha256": "ad5a19d0c8bcc84088fe04f0c7fb1f6bd20b8c5f0b30f81254f6ea135dad73e6"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-14-2020",
+   "path": "norma/asf/2020/14",
+   "short": "Norma asf nr. 14/2020",
+   "title": "Norma nr. 14/2020 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 25/2016 privind inventarierea elementelor patrimoniale ale fondurilor de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224390",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224390",
+     "sha256": "9cd46ad4a180e4c5c3a99e582b34fb92f88faed70a8a5abed2a6fcc29e1a1df1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-16-2020",
+   "path": "norma/asf/2020/16",
+   "short": "Norma asf nr. 16/2020",
+   "title": "Norma nr. 16/2020 privind investirea activelor fondurilor de pensii ocupaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224720",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224720",
+     "sha256": "a365284325665e3874025efbd9d883bc5d92b4ae5ef7a54978713a1d45189210"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-17-2020",
+   "path": "norma/asf/2020/17",
+   "short": "Norma asf nr. 17/2020",
+   "title": "Norma nr. 17/2020 privind evaluarea activelor fondurilor de pensii ocupaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224721",
+   "versions": [
+    {
+     "from": "2020-04-08",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224721",
+     "sha256": "23b63bba9609efbc4abbc5b3bd951e05ab370b7a1520868e10f125833e9414f0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-18-2020",
+   "path": "norma/asf/2020/18",
+   "short": "Norma asf nr. 18/2020",
+   "title": "Norma nr. 18/2020 privind operațiunile de încasări și plăți efectuate prin conturile bancare ale fondului de pensii ocupaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224491",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224491",
+     "sha256": "ad7e07525c6a75321db98087d9b9835b4c95cd9e6fc4d97c6d951f7f6645a990"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-19-2020",
+   "path": "norma/asf/2020/19",
+   "short": "Norma asf nr. 19/2020",
+   "title": "Norma nr. 19/2020 privind transferul participanților de la un fond de pensii ocupaționale la un alt fond de pensii ocupaționale sau facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224562",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224562",
+     "sha256": "197293b06fa87af0e90398602a81dd03080b2ac2cf94cfec1fe5878048dbd0d2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-2-2020",
+   "path": "norma/asf/2020/2",
+   "short": "Norma asf nr. 2/2020",
+   "title": "Norma nr. 2/2020 privind aplicarea Ghidului cu privire la criteriile STS pentru securitizarea non-ABCP (EBA/GL/2018/09) și a Ghidului cu privire la criteriile STS pentru securitizarea ABCP (EBA/GL/2018/08)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222680",
+   "versions": [
+    {
+     "from": "2020-02-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222680",
+     "sha256": "7997e3ec5854dac5a015722f81a7e61b1bb2387ee5c20689fcd766b27ad9ae4c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-20-2020",
+   "path": "norma/asf/2020/20",
+   "short": "Norma asf nr. 20/2020",
+   "title": "Norma nr. 20/2020 pentru modificarea și completarea Normei Consiliului Autorității de Supraveghere Financiară nr. 3/2014 privind controlul intern, auditul intern și administrarea riscurilor în sistemul de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224513",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224513",
+     "sha256": "57e37b48642560f2d2063b8a87ddfbc4432bd34ec5defc9f5c803db17319006f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-21-2020",
+   "path": "norma/asf/2020/21",
+   "short": "Norma asf nr. 21/2020",
+   "title": "Norma nr. 21/2020 pentru prorogarea unor termene privind raportările, publicarea informațiilor publice și transmiterea altor documente către Autoritatea de Supraveghere Financiară în domeniul asigurărilor, ca urmare a situației generate de COVID-19 și instituirii stării de urgență în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224612",
+   "versions": [
+    {
+     "from": "2020-04-02",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224612",
+     "sha256": "11f311864f9803eb5e008747b8cfa807af8f8eda73b89df3c34f7244df6895fb"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-22-2020",
+   "path": "norma/asf/2020/22",
+   "short": "Norma asf nr. 22/2020",
+   "title": "Norma nr. 22/2020 privind modificarea temporară a limitei maxime aplicabile investițiilor fondurilor de pensii private în titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224776",
+   "versions": [
+    {
+     "from": "2020-04-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224776",
+     "sha256": "019abee8d23d5e867dadf566d679e6a571f56b8315b6132d0aa7efff0d58747f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-23-2020",
+   "path": "norma/asf/2020/23",
+   "short": "Norma asf nr. 23/2020",
+   "title": "Norma nr. 23/2020 privind aderarea și evidența participanților la fondurile de pensii ocupaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224759",
+   "versions": [
+    {
+     "from": "2020-04-09",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224759",
+     "sha256": "9be2323c26af50fc3b2160aed3c37030d3be9d2fa69d75a2aa36db261ed7a7b2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-25-2020",
+   "path": "norma/asf/2020/25",
+   "short": "Norma asf nr. 25/2020",
+   "title": "Norma nr. 25/2020 pentru prorogarea termenelor de depunere a situațiilor financiare anuale din Norma Autorității de Supraveghere Financiară nr. 7/2017 privind întocmirea și depunerea situațiilor financiare anuale individuale ale entităților din sistemul de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224802",
+   "versions": [
+    {
+     "from": "2020-04-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224802",
+     "sha256": "4b6d2a323a63b3d753155ee29808eeb1149e89434f58afb3f0947f0ebb5b712d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-26-2020",
+   "path": "norma/asf/2020/26",
+   "short": "Norma asf nr. 26/2020",
+   "title": "Norma nr. 26/2020 privind activitatea de depozitare și custodie a activelor fondurilor de pensii ocupaționale și de modificare a unor norme ale Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225565",
+   "versions": [
+    {
+     "from": "2020-05-14",
+     "units": 71,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225565",
+     "sha256": "993f44666b8ad1794501775b97efea64766bb27a42d556ced3fdea24c93b8e03"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-29-2020",
+   "path": "norma/asf/2020/29",
+   "short": "Norma asf nr. 29/2020",
+   "title": "Norma nr. 29/2020 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 34/2016 privind sistemul de raportare contabilă semestrială în domeniul pensiilor private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228556",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228556",
+     "sha256": "353d4cd931537710e06179f4c6393f5f78b59d6613c48a5d37eee0b207dcdfc0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-3-2020",
+   "path": "norma/asf/2020/3",
+   "short": "Norma asf nr. 3/2020",
+   "title": "Norma nr. 3/2020 pentru modificarea Normei nr. 7/2010 privind ratele de rentabilitate ale fondurilor de pensii administrate privat, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 9/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222632",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222632",
+     "sha256": "07d80bca9c7588e71c5862670f7073c508faa20be5a1d1b864c7aaa6eed10119"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-31-2020",
+   "path": "norma/asf/2020/31",
+   "short": "Norma asf nr. 31/2020",
+   "title": "Norma nr. 31/2020 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 24/2015 privind obligațiile de raportare și transparență în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229095",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229095",
+     "sha256": "3efa18530a6481f1a61e7c300471257f377eeea5f4391a72068f66e1b56a9c3f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-32-2020",
+   "path": "norma/asf/2020/32",
+   "short": "Norma asf nr. 32/2020",
+   "title": "Norma nr. 32/2020 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 25/2015 privind obligațiile de raportare și transparență în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229096",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229096",
+     "sha256": "16e77f68de6979ae907ca3258bf932efe44ac89a584b15e67a38ab29b3e7ae97"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-33-2020",
+   "path": "norma/asf/2020/33",
+   "short": "Norma asf nr. 33/2020",
+   "title": "Norma nr. 33/2020 privind externalizarea către furnizorii de servicii de tip cloud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229187",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229187",
+     "sha256": "b835cdac6894593176c4c223195a57faab47e1c45f3cfb307ca5af7fb35d2647"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-34-2020",
+   "path": "norma/asf/2020/34",
+   "short": "Norma asf nr. 34/2020",
+   "title": "Norma nr. 34/2020 pentru punerea în aplicare a Sistemului de raportare contabilă semestrială aplicabil entităților din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229572",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229572",
+     "sha256": "c7e63d2d5c700a101fa17241584a174c6415b299962d4dfa498862ad4f9f0cfa"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-37-2020",
+   "path": "norma/asf/2020/37",
+   "short": "Norma asf nr. 37/2020",
+   "title": "Norma nr. 37/2020 pentru aplicarea Ghidului ESMA privind raportarea către autoritățile competente în conformitate cu articolul 37 din Regulamentul (UE) nr. 1.131/2017 privind fondurile de piață monetară (Money-market funds)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229988",
+   "versions": [
+    {
+     "from": "2020-09-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229988",
+     "sha256": "24f0afba6a1a97c2732fdbb1c1ec8a9c9b8fe4e8c8a9d59d33414af6c6b3ed20"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-38-2020",
+   "path": "norma/asf/2020/38",
+   "short": "Norma asf nr. 38/2020",
+   "title": "Norma nr. 38/2020 pentru modificarea Normei nr. 13/2012 privind calculul actuarial al provizionului tehnic pentru fondurile de pensii administrate privat, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 23/2012, și a Normei Autorității de Supraveghere Financiară nr. 26/2015 privind calculul actuarial al provizionului tehnic pentru fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230375",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230375",
+     "sha256": "4efbb2127b48c5c1839ad276fa48daf1b838036588ed4485b589bc352da65701"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-39-2020",
+   "path": "norma/asf/2020/39",
+   "short": "Norma asf nr. 39/2020",
+   "title": "Norma nr. 39/2020 pentru aplicarea Ghidului ESMA privind simularea situațiilor de criză de lichiditate în OPCVM și FIA",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230510",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230510",
+     "sha256": "5a921edabc257695c2fde0f559582748fc991401d80d85b52d76a0cc9f22ecef"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-4-2020",
+   "path": "norma/asf/2020/4",
+   "short": "Norma asf nr. 4/2020",
+   "title": "Norma nr. 4/2020 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 3/2019 privind comisionul de administrare pentru fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223088",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223088",
+     "sha256": "08af08e6fe7f11d038b582be84b9348fe2fe33c1ca1bfeeb8aa7e9781244beb7"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-40-2020",
+   "path": "norma/asf/2020/40",
+   "short": "Norma asf nr. 40/2020",
+   "title": "Norma nr. 40/2020 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 2/2020 privind aplicarea Ghidului cu privire la criteriile STS pentru securitizarea non-ABCP (EBA/GL/2018/09) și a Ghidului cu privire la criteriile STS pentru securitizarea ABCP (EBA/GL/2018/08)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232601",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232601",
+     "sha256": "083dadc98eccbc325f09ef13808a80e913d028ced209401c12ad71e0f4d27605"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-41-2020",
+   "path": "norma/asf/2020/41",
+   "short": "Norma asf nr. 41/2020",
+   "title": "Norma nr. 41/2020 privind ratele de rentabilitate ale fondurilor de pensii ocupaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233504",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233504",
+     "sha256": "2a13e7c9f25033a26a88e6906c806e7a61ec00b0ca3719e2df91863b92ac0aa3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-42-2020",
+   "path": "norma/asf/2020/42",
+   "short": "Norma asf nr. 42/2020",
+   "title": "Norma nr. 42/2020 pentru modificarea art. 30 din Norma Autorității de Supraveghere Financiară nr. 24/2015 privind obligațiile de raportare și transparență în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235361",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235361",
+     "sha256": "c305bc7ecdde033eeb17a9cf607d597e00b8402345b215a4b91e59f0a7996dde"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-43-2020",
+   "path": "norma/asf/2020/43",
+   "short": "Norma asf nr. 43/2020",
+   "title": "Norma nr. 43/2020 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 33/2017 privind organizarea activității de arhivă la entitățile autorizate/avizate, reglementate și supravegheate de către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235415",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235415",
+     "sha256": "d4e111cb0ac6bd018423ab84509790516df8ba7947af2d56033ae9d6843844c9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-44-2020",
+   "path": "norma/asf/2020/44",
+   "short": "Norma asf nr. 44/2020",
+   "title": "Norma nr. 44/2020 pentru completarea anexei nr. 1 la Norma Autorității de Supraveghere Financiară nr. 1/2015 privind aderarea și evidența participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235881",
+   "versions": [
+    {
+     "from": "2021-01-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235881",
+     "sha256": "0a1f865663382afc51315238480379b2ac33abbb6214827a40d72769d0340c7b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-45-2020",
+   "path": "norma/asf/2020/45",
+   "short": "Norma asf nr. 45/2020",
+   "title": "Norma nr. 45/2020 pentru completarea anexei la Norma Autorității de Supraveghere Financiară nr. 18/2018 privind aderarea și evidența participanților la fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235914",
+   "versions": [
+    {
+     "from": "2021-02-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235914",
+     "sha256": "8d266ddc9300731c3483b3eedcee8d89e426ad00a58d7d856e65453be149fdb2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-46-2020",
+   "path": "norma/asf/2020/46",
+   "short": "Norma asf nr. 46/2020",
+   "title": "Norma nr. 46/2020 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 21/2016 privind raportările referitoare la activitatea de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235722",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235722",
+     "sha256": "23e036cb1b5c2bd7d6a599196ee2f63f020f9016d4305f9f7b1d515af0ed5cfa"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-5-2020",
+   "path": "norma/asf/2020/5",
+   "short": "Norma asf nr. 5/2020",
+   "title": "Norma nr. 5/2020 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 24/2015 privind obligațiile de raportare și transparență în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223234",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223234",
+     "sha256": "137935b0f4ff792f90b69a462c09a623754627cda50c8f880f0c03aaaed68fc3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-6-2020",
+   "path": "norma/asf/2020/6",
+   "short": "Norma asf nr. 6/2020",
+   "title": "Norma nr. 6/2020 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 25/2015 privind obligațiile de raportare și transparență în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223285",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223285",
+     "sha256": "92fecc6a7a778f39e39964507490a33987570dfdca4180559c034ffe910f3332"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-7-2020",
+   "path": "norma/asf/2020/7",
+   "short": "Norma asf nr. 7/2020",
+   "title": "Norma nr. 7/2020 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 11/2015 privind capitalul social al administratorului fondului de pensii administrat privat și pentru completarea art. 33 din Norma nr. 8/2010 privind autorizarea administratorilor de fonduri de pensii private, preluarea administrării fondurilor de pensii facultative și organizarea activelor și pasivelor la nivelul administratorilor de fonduri de pensii private, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 15/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223316",
+   "versions": [
+    {
+     "from": "2020-02-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223316",
+     "sha256": "3fd1d2d3dfc7d5708de78680507b43b1c9afdda14febb44fad6a96cad3bfa8ed"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-8-2020",
+   "path": "norma/asf/2020/8",
+   "short": "Norma asf nr. 8/2020",
+   "title": "Norma nr. 8/2020 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 1/2015 privind aderarea și evidența participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223341",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223341",
+     "sha256": "b63a6d7d3a015c2027e6e758cc0e8513da8f7e7bb92e756f3f55c540cfd6049f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-9-2020",
+   "path": "norma/asf/2020/9",
+   "short": "Norma asf nr. 9/2020",
+   "title": "Norma nr. 9/2020 privind încheierea exercițiului financiar pentru entitățile din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224330",
+   "versions": [
+    {
+     "from": "2020-03-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224330",
+     "sha256": "7749822d55f37aa766198028a1aac880ed7eeb077ee688c121f491c6e0555f73"
+    }
+   ]
+  }
+ ]
+}

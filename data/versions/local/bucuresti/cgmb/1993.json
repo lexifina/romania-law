@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/cgmb/1993",
+ "acts": [
+  {
+   "slug": "hcgmb-14-1993",
+   "path": "local/bucuresti/cgmb/1993/14",
+   "short": "HCGMB nr. 14/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 14/1993 : 14 DIN 24/02/93 - privind majorarea impozitului forfetar datorat de taximetristi",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/91",
+   "versions": [
+    {
+     "from": "1993-02-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/91/h014_93.pdf",
+     "sha256": "1244bfd7e2fcbbe0f2d148ed381740c357847b29e565d83229a8bc8aa6e58155"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-22-1993",
+   "path": "local/bucuresti/cgmb/1993/22",
+   "short": "HCGMB nr. 22/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 22/1993 privind aprobarea \"Normelor orientative privind functionarea sistemului de termoficare\" pentru Regia Autonoma de Distributie a Energiei Termice Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/123",
+   "versions": [
+    {
+     "from": "1993-03-18",
+     "units": 7,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/123/h022_93.pdf",
+     "sha256": "e16de1a5735be2b1fa021666a2776797df38dd673442b8ed35239b12edcda886"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-23-1993",
+   "path": "local/bucuresti/cgmb/1993/23",
+   "short": "HCGMB nr. 23/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 23/1993 privind aprobarea \"Normelor orientative pentru functionarea sistemului de alimentare cu apa si canalizare in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/127",
+   "versions": [
+    {
+     "from": "1993-03-18",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/127/h023_93.pdf",
+     "sha256": "b7253e8effcd1abdc25622c3a5dbe3c6ca9f45dc84ea259cc6e31f2fc01c852d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-24-1993",
+   "path": "local/bucuresti/cgmb/1993/24",
+   "short": "HCGMB nr. 24/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 24/1993 privind aprobarea \"Normelor orientative de salubrizare ale municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/131",
+   "versions": [
+    {
+     "from": "1993-03-18",
+     "units": 7,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/131/h024_93.pdf",
+     "sha256": "5d686417dde7458ae71d0caacb08e15e7a18382eff698d244ad15e0d92c91c31"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-27-1993",
+   "path": "local/bucuresti/cgmb/1993/27",
+   "short": "HCGMB nr. 27/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 27/1993 cu privire la modificarea tarifelor de inchiriere a suprafetelor locative cu alta destinatie si a terenurilor aferente",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/142",
+   "versions": [
+    {
+     "from": "1993-03-18",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/142/h027_93.pdf",
+     "sha256": "c2509fc2a56b60c68e7d382d493c65543a2a8466528e754b2f3e3b9dc3f2319c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-30-1993",
+   "path": "local/bucuresti/cgmb/1993/30",
+   "short": "HCGMB nr. 30/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 30/1993 privind metodologia de licitare a panourilor publicitare",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/154",
+   "versions": [
+    {
+     "from": "1993-04-22",
+     "units": 7,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/154/h030_93.pdf",
+     "sha256": "f5db69cb3d6a6eca2c290ef8ea9705ffaab451792cc7d1623dce54874999e11a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-50-1993",
+   "path": "local/bucuresti/cgmb/1993/50",
+   "short": "HCGMB nr. 50/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 50/1993 privind aprobarea normelor orientative pentru functionarea serviciilor de deratizare si dezinsectie",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/232",
+   "versions": [
+    {
+     "from": "1993-05-19",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/232/h050_93.pdf",
+     "sha256": "6b4865afbf38eb10c51f316c5be3309b4710204e862ebba1c146716847c9ad3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-51-1993",
+   "path": "local/bucuresti/cgmb/1993/51",
+   "short": "HCGMB nr. 51/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 51/1993 privind modificarea tarifelor de calatorie la transportul in comun de persoane in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/236",
+   "versions": [
+    {
+     "from": "1993-05-19",
+     "units": 9,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/236/h051_93.pdf",
+     "sha256": "4ac83ed88efde3c4964f891685ac8f4c5176fe2779a65d4e6b584d17dab78951"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-53-1993",
+   "path": "local/bucuresti/cgmb/1993/53",
+   "short": "HCGMB nr. 53/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 53/1993 : 53 DIN 17/06/93 - privind modificarea tarifelor pentru serviciile prestate de RADET",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/244",
+   "versions": [
+    {
+     "from": "1993-06-17",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/244/h053_93.pdf",
+     "sha256": "282ed05e0e132c667e6144ba046fbc9f56c72b0a8ef47dd56e001ac0636c16af"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-54-1993",
+   "path": "local/bucuresti/cgmb/1993/54",
+   "short": "HCGMB nr. 54/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 54/1993 privind modificarea tarifelor pentru distributia apei potabile, apei industriale si serviciilor prestate de Regia Generala de Apa Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/248",
+   "versions": [
+    {
+     "from": "1993-06-17",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/248/h054_93.pdf",
+     "sha256": "187c03c5009b48aca5fbc4a20704caa328fa51d112436a2d612b9039e64bf1a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-56-1993",
+   "path": "local/bucuresti/cgmb/1993/56",
+   "short": "HCGMB nr. 56/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 56/1993 : 56 DIN 28/06/93 - privind Regulamentul pentru organizarea si funtionarea cimitirelor si crematoriilor umane",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/256",
+   "versions": [
+    {
+     "from": "1993-06-28",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/256/h056_93.pdf",
+     "sha256": "deba00336bf3dff3a2fa06d90b1035cf3b57f4c0490d6c2218aa6cdb23efe417"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-57-1993",
+   "path": "local/bucuresti/cgmb/1993/57",
+   "short": "HCGMB nr. 57/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 57/1993 privind normele de organizare si efectuare a transportului de persoane cu taximetrele pe teritoriul municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/260",
+   "versions": [
+    {
+     "from": "1993-06-28",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/260/h057_93.pdf",
+     "sha256": "e9a7a1a0ff8dabdff2bb6fcb2bdf04b8f1fe7bc791818c27c0439e6afa1e9e93"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-67-1993",
+   "path": "local/bucuresti/cgmb/1993/67",
+   "short": "HCGMB nr. 67/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 67/1993 : 67 DIN 15/07/93 - privind modificarea tarifelor de calatorie la transportul in comun de persoane in municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/298",
+   "versions": [
+    {
+     "from": "1993-07-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/298/h067_93.pdf",
+     "sha256": "d80beae2598785fd45effcc5203612df9166f9d60f46755a1babf82505ddb12c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-68-1993",
+   "path": "local/bucuresti/cgmb/1993/68",
+   "short": "HCGMB nr. 68/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 68/1993 privind reducerea taxei aferente autorizarii constructiei Bisericii din Cimitirul Eroilor Martiri ai Revolutiei din decembrie 1989",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/302",
+   "versions": [
+    {
+     "from": "1993-07-15",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/302/h068_93.pdf",
+     "sha256": "6144283af33dc2a68bdd2ee7b8d9ee1e6e3967a18b7a45058c3154883a76ad29"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-84-1993",
+   "path": "local/bucuresti/cgmb/1993/84",
+   "short": "HCGMB nr. 84/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 84/1993 : 84 DIN 19/08/93 - privind adoptarea \"Metodologiei pentru circulatia proiectelor de hotarari intre comisiile CLMB si de urmarire a executarii hotararilor CLMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/340",
+   "versions": [
+    {
+     "from": "1993-08-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/340/h084_93.pdf",
+     "sha256": "fece10c06972c7bb82f61555a886141aea3370808b2536f5abd296d130eeb66c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-88-1993",
+   "path": "local/bucuresti/cgmb/1993/88",
+   "short": "HCGMB nr. 88/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 88/1993 privind aprobarea \"Normelor pentru ocuparea temporara a terenurilor apartinand domeniului public al Municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/348",
+   "versions": [
+    {
+     "from": "1993-08-27",
+     "units": 8,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/348/h088_93.pdf",
+     "sha256": "5a472e4aebc4bef8c3dee8fa005486915d99b10cf545d0177903755f2ba4b910"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-91-1993",
+   "path": "local/bucuresti/cgmb/1993/91",
+   "short": "HCGMB nr. 91/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 91/1993 : 91 DIN 09/09/93 - privind modificarea tarifelor pentru serviciile prestate de RADET",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/352",
+   "versions": [
+    {
+     "from": "1993-09-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/352/h091_93.pdf",
+     "sha256": "d7af2872043af574cf73f5009ff409543f91262aee8be2afa3335c36cbe6fcf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-93-1993",
+   "path": "local/bucuresti/cgmb/1993/93",
+   "short": "HCGMB nr. 93/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 93/1993 : 93 DIN 09/09/93 - privind reducerea taxei aferente autorizarii lucrarilor de amenajare a Ce ntrului socisal \"SF.DUMITRU\" in incinta Garii de Nord Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/355",
+   "versions": [
+    {
+     "from": "1993-09-09",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/355/h093_93.pdf",
+     "sha256": "7874e6f5b128e9ab0de23c993f8c30591f424aaee1195ce79048c449b8733ea1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-99-1993",
+   "path": "local/bucuresti/cgmb/1993/99",
+   "short": "HCGMB nr. 99/1993",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 99/1993 privind modificarea tarifelor pentru distributia apei potabile, apei industriale si a serviciilor prestate de Regia Generala de Apa Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/367",
+   "versions": [
+    {
+     "from": "1993-09-30",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1993/367/h099_93.pdf",
+     "sha256": "39c2a340d77293f36c0e09bb9c56f8332cce96d060feeef99a1508759d29a43d"
+    }
+   ]
+  }
+ ]
+}

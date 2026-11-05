@@ -1,0 +1,621 @@
+{
+ "country": "RO",
+ "shard": "hotarare-aep/2016",
+ "acts": [
+  {
+   "slug": "hotarare-aep-1-2016",
+   "path": "hotarare-aep/2016/1",
+   "short": "Hotărârea AEP nr. 1/2016",
+   "title": "HOTĂRÂRE nr. 1 din 22 ianuarie 2016 pentru aprobarea modelului listei susţinătorilor care va fi folosit la alegerile locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/175295",
+   "versions": [
+    {
+     "from": "2016-01-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/175295",
+     "sha256": "1be4603fd06fe30c6040e8b26d0f345c50c6dd5e7fd28dc7937e1e1affb7e03e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-11-2016",
+   "path": "hotarare-aep/2016/11",
+   "short": "Hotărârea AEP nr. 11/2016",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 11 din 2016-03-02",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/176324",
+   "versions": [
+    {
+     "from": "2016-03-04",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/176324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-14-2016",
+   "path": "hotarare-aep/2016/14",
+   "short": "Hotărârea AEP nr. 14/2016",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 14 din 2016-04-04",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/177281",
+   "versions": [
+    {
+     "from": "2016-04-06",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/177281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-15-2016",
+   "path": "hotarare-aep/2016/15",
+   "short": "Hotărârea AEP nr. 15/2016",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 15 din 2016-04-06",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/177388",
+   "versions": [
+    {
+     "from": "2016-04-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/177388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-16-2016",
+   "path": "hotarare-aep/2016/16",
+   "short": "Hotărârea AEP nr. 16/2016",
+   "title": "HOTĂRÂRE nr. 16 din 6 aprilie 2016 privind condiţiile de aducere la cunoştinţă publică a delimitării şi a numerotării secţiilor de votare din ţară, precum şi a sediilor acestora",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/177399",
+   "versions": [
+    {
+     "from": "2016-04-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/177399",
+     "sha256": "72416ab23a1b4edc946ed62400392fc3d6a4a102368be757d0bf41e8ace1ed5e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-17-2016",
+   "path": "hotarare-aep/2016/17",
+   "short": "Hotărârea AEP nr. 17/2016",
+   "title": "HOTĂRÂRE nr. 17 din 6 aprilie 2016 pentru aprobarea Metodologiei privind tragerea computerizată la sorţi a preşedinţilor birourilor electorale ale secţiilor de votare din ţară şi a locţiitorilor acestora",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/177411",
+   "versions": [
+    {
+     "from": "2016-04-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/177411",
+     "sha256": "8a045d4eb64cde07a374251e56d50960e450905d3e1d6e48d8c2ad6b43984505"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-19-2016",
+   "path": "hotarare-aep/2016/19",
+   "short": "Hotărârea AEP nr. 19/2016",
+   "title": "HOTĂRÂRE nr. 19 din 18 aprilie 2016 privind aprobarea Ghidului finanţării campaniei electorale la alegerile locale din anul 2016",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/177853",
+   "versions": [
+    {
+     "from": "2016-04-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/177853",
+     "sha256": "2b6079be795202bfba30149f7f386d1177df9148806d21618162e2cd7dee9cf4"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-2-2016",
+   "path": "hotarare-aep/2016/2",
+   "short": "Hotărârea AEP nr. 2/2016",
+   "title": "HOTĂRÂRE nr. 2 din 22 ianuarie 2016 pentru aprobarea modelelor listelor electorale permanente care vor fi folosite la alegerile locale şi parlamentare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/175283",
+   "versions": [
+    {
+     "from": "2016-01-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/175283",
+     "sha256": "a889d500c562b149bd5a4bfd655d501334b7fbf25f06f97c226b0cace331df29"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-20-2016",
+   "path": "hotarare-aep/2016/20",
+   "short": "Hotărârea AEP nr. 20/2016",
+   "title": "HOTĂRÂRE nr. 20 din 20 aprilie 2016 privind modificarea Metodologiei de admitere în Corpul experţilor electorali, aprobată prin Hotărârea Autorităţii Electorale Permanente nr. 11/2015",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/177765",
+   "versions": [
+    {
+     "from": "2016-04-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/177765",
+     "sha256": "806777a18f68f09607335686279979964690cf14b579d269fc526b176c6dba1b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-22-2016",
+   "path": "hotarare-aep/2016/22",
+   "short": "Hotărârea AEP nr. 22/2016",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 22 din 2016-04-26",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/178025",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/178025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-23-2016",
+   "path": "hotarare-aep/2016/23",
+   "short": "Hotărârea AEP nr. 23/2016",
+   "title": "HOTĂRÂRE nr. 23 din 4 mai 2016 privind actualizarea numerotării secţiilor de votare organizate pe teritoriul României",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/178208",
+   "versions": [
+    {
+     "from": "2016-05-06",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/178208",
+     "sha256": "4c340761e0a557b4a392c737dde2b2ded8258241566d08905b3040fb2b155410"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-24-2016",
+   "path": "hotarare-aep/2016/24",
+   "short": "Hotărârea AEP nr. 24/2016",
+   "title": "HOTĂRÂRE nr. 24 din 9 mai 2016 pentru modificarea anexelor nr. 8, 10, 14 şi 17 la Hotărârea Autorităţii Electorale Permanente nr. 12/2016 pentru aprobarea modelelor proceselor-verbale privind consemnarea rezultatului votării la alegerile locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/178339",
+   "versions": [
+    {
+     "from": "2016-05-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/178339",
+     "sha256": "ec56eff210f8b630b581c315a96fe9e09158560e31fa7ae99f7000dd1d08b507"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-25-2016",
+   "path": "hotarare-aep/2016/25",
+   "short": "Hotărârea AEP nr. 25/2016",
+   "title": "HOTĂRÂRE nr. 25 din 10 mai 2016 privind procedura de eliberare a extraselor din Registrul electoral către formaţiunile politice care participă la alegerile locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/178340",
+   "versions": [
+    {
+     "from": "2016-05-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/178340",
+     "sha256": "d1ed41d89d18ef1a43c7f00140f4f85c9e70e5ffbea279ce5ae2564c39ed46b7"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-26-2016",
+   "path": "hotarare-aep/2016/26",
+   "short": "Hotărârea AEP nr. 26/2016",
+   "title": "HOTĂRÂRE nr. 26 din 19 mai 2016 privind modificarea şi completarea Ghidului finanţării campaniei electorale la alegerile locale din anul 2016, aprobat prin Hotărârea Autorităţii Electorale Permanente nr. 19/2016",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/178622",
+   "versions": [
+    {
+     "from": "2016-05-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/178622",
+     "sha256": "f531ef088378569af5dbb979443198e60c2f594d959a3d866019c0dc8982b219"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-27-2016",
+   "path": "hotarare-aep/2016/27",
+   "short": "Hotărârea AEP nr. 27/2016",
+   "title": "HOTĂRÂRE nr. 27 din 20 mai 2016 privind modificarea anexelor nr. 7 şi 8 la Hotărârea Autorităţii Electorale Permanente nr. 12/2016 pentru aprobarea modelelor proceselor-verbale privind consemnarea rezultatului votării la alegerile locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/178623",
+   "versions": [
+    {
+     "from": "2016-05-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/178623",
+     "sha256": "75cf361445de930033900e976674d71e3fbc467b7992e16412b34523469a2523"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-28-2016",
+   "path": "hotarare-aep/2016/28",
+   "short": "Hotărârea AEP nr. 28/2016",
+   "title": "HOTĂRÂRE nr. 28 din 7 septembrie 2016 pentru aprobarea modelelor, dimensiunilor şi condiţiilor de tipărire ale buletinelor de vot care vor fi folosite pentru alegerea Senatului şi a Camerei Deputaţilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/181639",
+   "versions": [
+    {
+     "from": "2016-09-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/181639",
+     "sha256": "6e6755e0018f0a7257dbe9e5ec2a0dd4f9b008b0ed4f3fa85a55dc5eda2ef5ff"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-29-2016",
+   "path": "hotarare-aep/2016/29",
+   "short": "Hotărârea AEP nr. 29/2016",
+   "title": "HOTĂRÂRE nr. 29 din 7 septembrie 2016 pentru aprobarea modelelor ştampilelor electorale care vor fi folosite la alegerile pentru Senat şi Camera Deputaţilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/181640",
+   "versions": [
+    {
+     "from": "2016-09-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/181640",
+     "sha256": "0315b0bcfd2f2621f08ca11863ba9413229f90ad9820083d64c4a583447844f1"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-3-2016",
+   "path": "hotarare-aep/2016/3",
+   "short": "Hotărârea AEP nr. 3/2016",
+   "title": "HOTĂRÂRE nr. 3 din 22 ianuarie 2016 pentru aprobarea modelului listei electorale suplimentare care va fi folosit la alegerile locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/175307",
+   "versions": [
+    {
+     "from": "2016-01-27",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/175307",
+     "sha256": "2f5abea8f24d212ec0c33785da9ba76bb14cccfe3bb8021af4e3f6f75df62ae2"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-30-2016",
+   "path": "hotarare-aep/2016/30",
+   "short": "Hotărârea AEP nr. 30/2016",
+   "title": "HOTĂRÂRE nr. 30 din 7 septembrie 2016 pentru aprobarea modelului timbrului autocolant care va fi folosit la alegerile pentru Senat şi Camera Deputaţilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/181641",
+   "versions": [
+    {
+     "from": "2016-09-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/181641",
+     "sha256": "752f1ab04750e8f6c5e64b80aa9145199b858f97e59c44970514eaf1c7b0e678"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-31-2016",
+   "path": "hotarare-aep/2016/31",
+   "short": "Hotărârea AEP nr. 31/2016",
+   "title": "HOTĂRÂRE nr. 31 din 7 septembrie 2016 pentru aprobarea modelelor listelor electorale suplimentare care vor fi folosite la alegerile pentru Senat şi Camera Deputaţilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/181642",
+   "versions": [
+    {
+     "from": "2016-09-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/181642",
+     "sha256": "57dc4daef543af9e5b051327b36c94c4ed67b4d10c5971548c5bba428f427f48"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-32-2016",
+   "path": "hotarare-aep/2016/32",
+   "short": "Hotărârea AEP nr. 32/2016",
+   "title": "HOTĂRÂRE nr. 32 din 7 septembrie 2016 pentru aprobarea modelului extrasului de pe lista electorală permanentă şi suplimentară care va fi folosit la alegerile pentru Senat şi Camera Deputaţilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/181665",
+   "versions": [
+    {
+     "from": "2016-09-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/181665",
+     "sha256": "0f7532a28d436da4c37137684305c20acf9a775f1c7ec4b9b7ae7a8904311a5c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-33-2016",
+   "path": "hotarare-aep/2016/33",
+   "short": "Hotărârea AEP nr. 33/2016",
+   "title": "HOTĂRÂRE nr. 33 din 7 septembrie 2016 pentru aprobarea modelelor certificatelor doveditoare ale alegerii senatorilor şi deputaţilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/181668",
+   "versions": [
+    {
+     "from": "2016-09-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/181668",
+     "sha256": "21f1aaf3e6e08e9496ca03ff0d1fadfc99dfc1d7761f2191f48f71475b551f9d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-34-2016",
+   "path": "hotarare-aep/2016/34",
+   "short": "Hotărârea AEP nr. 34/2016",
+   "title": "HOTĂRÂRE nr. 34 din 7 septembrie 2016 privind procedura de acreditare, precum şi pentru aprobarea modelelor documentelor de acreditare şi ale ecusoanelor persoanelor acreditate la alegerile pentru Senat şi Camera Deputaţilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/181669",
+   "versions": [
+    {
+     "from": "2016-09-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/181669",
+     "sha256": "82d774862aaff4a2ff5997e143af744711f0289492a0fb019433176f0ff05905"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-35-2016",
+   "path": "hotarare-aep/2016/35",
+   "short": "Hotărârea AEP nr. 35/2016",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 35 din 2016-09-28",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/182225",
+   "versions": [
+    {
+     "from": "2016-10-04",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/182225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-36-2016",
+   "path": "hotarare-aep/2016/36",
+   "short": "Hotărârea AEP nr. 36/2016",
+   "title": "HOTĂRÂRE nr. 36 din 13 octombrie 2016 privind consemnarea opţiunilor ce rezultă din citirea buletinelor de vot pentru alegerea Senatului şi a Camerei Deputaţilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/182644",
+   "versions": [
+    {
+     "from": "2016-10-17",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/182644",
+     "sha256": "2454103aed0a8515d2a8200302267cbf2c2c5955d5cf17a5bdd6311ef08f1150"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-37-2016",
+   "path": "hotarare-aep/2016/37",
+   "short": "Hotărârea AEP nr. 37/2016",
+   "title": "HOTĂRÂRE nr. 37 din 13 octombrie 2016 pentru aprobarea modelului ştampilelor oficiilor electorale ale sectoarelor municipiului Bucureşti care va fi folosit la alegerile pentru Senat şi Camera Deputaţilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/182643",
+   "versions": [
+    {
+     "from": "2016-10-17",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/182643",
+     "sha256": "ad4c7d61c5ea20c6b615be5dc06b07f3984faf04f44412e9765b105140626d7f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-39-2016",
+   "path": "hotarare-aep/2016/39",
+   "short": "Hotărârea AEP nr. 39/2016",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 39 din 2016-10-17",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/182949",
+   "versions": [
+    {
+     "from": "2016-10-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/182949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-4-2016",
+   "path": "hotarare-aep/2016/4",
+   "short": "Hotărârea AEP nr. 4/2016",
+   "title": "HOTĂRÂRE nr. 4 din 22 ianuarie 2016 pentru aprobarea modelului extrasului de pe lista electorală permanentă, complementară şi suplimentară care va fi folosit la alegerile locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/175308",
+   "versions": [
+    {
+     "from": "2016-01-27",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/175308",
+     "sha256": "d6455d0ff0bbe9f1c8f8290f1e72d9698648ddc23d9daed775c2a24fa7132b8d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-40-2016",
+   "path": "hotarare-aep/2016/40",
+   "short": "Hotărârea AEP nr. 40/2016",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 40 din 2016-10-19",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/182835",
+   "versions": [
+    {
+     "from": "2016-10-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/182835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-41-2016",
+   "path": "hotarare-aep/2016/41",
+   "short": "Hotărârea AEP nr. 41/2016",
+   "title": "HOTĂRÂRE nr. 41 din 19 octombrie 2016 pentru modificarea şi completarea Normelor metodologice privind funcţionarea Sistemului informatic de monitorizare a prezenţei la vot şi de prevenire a votului ilegal, selecţia şi desemnarea operatorilor de calculator ai birourilor electorale ale secţiilor de votare, aprobate prin Hotărârea Autorităţii Electorale Permanente nr. 9/2015",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/182828",
+   "versions": [
+    {
+     "from": "2016-10-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/182828",
+     "sha256": "03c13b68fb27b29d1d2517974c514bede68f92984aecd2883b9c539863d07194"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-42-2016",
+   "path": "hotarare-aep/2016/42",
+   "short": "Hotărârea AEP nr. 42/2016",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 42 din 2016-10-20",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/182878",
+   "versions": [
+    {
+     "from": "2016-10-24",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/182878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-43-2016",
+   "path": "hotarare-aep/2016/43",
+   "short": "Hotărârea AEP nr. 43/2016",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 43 din 2016-11-03",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/183369",
+   "versions": [
+    {
+     "from": "2016-11-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/183369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-44-2016",
+   "path": "hotarare-aep/2016/44",
+   "short": "Hotărârea AEP nr. 44/2016",
+   "title": "HOTĂRÂRE nr. 44 din 10 noiembrie 2016 privind setul de condiţii minimale pe care trebuie să le îndeplinească locaţiile în care funcţionează secţiile de votare, precum şi dotarea minimală a acestora",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/183591",
+   "versions": [
+    {
+     "from": "2016-11-14",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/183591",
+     "sha256": "9572a3a0abf7d47dee9fd66a26256d813249fc8290851fcc2ffa303a3b074d60"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-45-2016",
+   "path": "hotarare-aep/2016/45",
+   "short": "Hotărârea AEP nr. 45/2016",
+   "title": "HOTĂRÂRE nr. 45 din 15 noiembrie 2016 privind unele măsuri pentru buna funcţionare a Sistemului informatic de monitorizare a prezenţei la vot şi de prevenire a votului ilegal la secţiile de votare din străinătate organizate pentru alegerile pentru Senat şi Camera Deputaţilor din anul 2016",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/183697",
+   "versions": [
+    {
+     "from": "2016-11-17",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/183697",
+     "sha256": "58a6e02c65bfe4741aae671ead5df8fa8839cee30b80f8283c3ad9c46ba262bd"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-46-2016",
+   "path": "hotarare-aep/2016/46",
+   "short": "Hotărârea AEP nr. 46/2016",
+   "title": "HOTĂRÂRE nr. 46 din 16 noiembrie 2016 privind modificarea şi completarea Hotărârii Autorităţii Electorale Permanente nr. 39/2016 pentru aprobarea modelelor proceselor-verbale privind consemnarea rezultatului votării la alegerile pentru Senat şi Camera Deputaţilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/183699",
+   "versions": [
+    {
+     "from": "2016-11-17",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/183699",
+     "sha256": "764ee423153eeab13a151009a0f5ea136d14962ba5215c2d7c91c89fdec516aa"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-47-2016",
+   "path": "hotarare-aep/2016/47",
+   "short": "Hotărârea AEP nr. 47/2016",
+   "title": "HOTĂRÂRE nr. 47 din 21 noiembrie 2016 pentru modificarea anexei la Hotărârea Autorităţii Electorale Permanente nr. 43/2016 privind stabilirea sediilor secţiilor de votare din străinătate la alegerile pentru Senat şi Camera Deputaţilor din anul 2016",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/183896",
+   "versions": [
+    {
+     "from": "2016-11-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/183896",
+     "sha256": "8c06a1e104ce84beda17b5de2c73c16c12fcc3fc956047b764022f2faca21d03"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-48-2016",
+   "path": "hotarare-aep/2016/48",
+   "short": "Hotărârea AEP nr. 48/2016",
+   "title": "HOTĂRÂRE nr. 48 din 22 noiembrie 2016 privind actualizarea numerotării secţiilor de votare organizate pe teritoriul României",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/183933",
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/183933",
+     "sha256": "1f76c95679f905d6fd4cde150d27fa8647e1c4b61807ff54704c74df26e28a52"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-5-2016",
+   "path": "hotarare-aep/2016/5",
+   "short": "Hotărârea AEP nr. 5/2016",
+   "title": "HOTĂRÂRE nr. 5 din 22 ianuarie 2016 pentru aprobarea modelelor ştampilelor electorale care vor fi folosite la alegerile locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/175309",
+   "versions": [
+    {
+     "from": "2016-01-27",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/175309",
+     "sha256": "1616535d6de18e8dc2924916738a586d2f0798e9be1ed0efb0586b5f78e3561f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-6-2016",
+   "path": "hotarare-aep/2016/6",
+   "short": "Hotărârea AEP nr. 6/2016",
+   "title": "HOTĂRÂRE nr. 6 din 22 ianuarie 2016 pentru aprobarea modelului timbrului autocolant care va fi folosit la alegerile locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/175310",
+   "versions": [
+    {
+     "from": "2016-01-27",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/175310",
+     "sha256": "aebe717561c1aa51fe5948257dd015c36bccab35fa88c492b7a8cc528d5c3cb7"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-7-2016",
+   "path": "hotarare-aep/2016/7",
+   "short": "Hotărârea AEP nr. 7/2016",
+   "title": "HOTĂRÂRE nr. 7 din 22 ianuarie 2016 pentru aprobarea modelului certificatului doveditor al alegerii consilierilor şi a primarilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/175311",
+   "versions": [
+    {
+     "from": "2016-01-27",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/175311",
+     "sha256": "383d438af81dacc40e21d0e0247cb973ad058b5127097ad51ecfb4a804b2d1cb"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-8-2016",
+   "path": "hotarare-aep/2016/8",
+   "short": "Hotărârea AEP nr. 8/2016",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 8 din 2016-02-10",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/175813",
+   "versions": [
+    {
+     "from": "2016-02-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/175813",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

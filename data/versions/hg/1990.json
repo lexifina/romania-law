@@ -1,0 +1,984 @@
+{
+ "country": "RO",
+ "shard": "hg/1990",
+ "acts": [
+  {
+   "slug": "hg-149-1990",
+   "path": "hg/1990/149",
+   "short": "HG nr. 149/1990",
+   "title": "Hotărârea Guvernului nr. 149/1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95482",
+   "versions": [
+    {
+     "from": "1992-09-02",
+     "units": 4,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/95482",
+     "sha256": "6b97b0c206ba220a945f265e00543d81e1e32962fc1ca0d20042e4f6acf092b4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-565-1990",
+   "path": "hg/1990/565",
+   "short": "HG nr. 565/1990",
+   "title": "Hotărârea Guvernului nr. 565/1990 privind înființarea Centrului de cercetări biologice din orașul Jibou, Județul Sălaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243580",
+   "versions": [
+    {
+     "from": "1990-06-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/1102",
+     "sha256": "d7e3757547ef513d7310daedb020029c36ce31382edced9d7abcd47b902bfb81"
+    },
+    {
+     "from": "2021-07-07",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243580",
+     "sha256": "a156f17bab82bdd188dd498141f1378dd657ff9da0aeee31e8a7d49d2e633c82"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1031-1990",
+   "path": "hg/1990/1031",
+   "short": "HG nr. 1031/1990",
+   "title": "Hotărârea Guvernului nr. 1031/1990 privind balanţele materiale pentru anul 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1248",
+   "versions": [
+    {
+     "from": "1992-05-15",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1248",
+     "sha256": "b8e3c7e047658b1a2a9183753323d7b1fcc223b4c18cea34095b06706fcb989e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1041-1990",
+   "path": "hg/1990/1041",
+   "short": "HG nr. 1041/1990",
+   "title": "Hotărârea Guvernului nr. 1041/1990 privind înfiinţarea societăţilor comerciale pe acţiuni în turism",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51928",
+   "versions": [
+    {
+     "from": "1990-09-26",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51928",
+     "sha256": "8a11c3c4356a75ef0447972ccfd08601935ada17d6541d2a679537406a89420d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1061-1990",
+   "path": "hg/1990/1061",
+   "short": "HG nr. 1061/1990",
+   "title": "Hotărârea Guvernului nr. 1061/1990 privind trecerea spaţiilor comerciale de la blocurile neterminate sau nedate în folosinţă, din municipiul Bucureşti, din proprietatea întreprinderilor comerciale sau asociaţiilor de grup în proprietatea D.G.D.A.L. - Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86106",
+   "versions": [
+    {
+     "from": "1992-07-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86106",
+     "sha256": "8a2bdd9aaab906a72e94c6948fed40ba85802baf7600df0bd41132de9d9fe922"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1065-1990",
+   "path": "hg/1990/1065",
+   "short": "HG nr. 1065/1990",
+   "title": "Hotărârea Guvernului nr. 1065/1990 privind gratuităţile şi reducerile de tarife pentru călătoria cu mijloacele de transport feroviare şi auto acordate invalizilor şi veteranilor de război, pensionarilor invalizi ca urmare a participării la revoluţia din decembrie 1989, văduvelor de război şi văduvelor celor căzuţi în revoluţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1255",
+   "versions": [
+    {
+     "from": "1990-10-16",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1255",
+     "sha256": "77973d4ece702aff0fa6191e8d68d00aa72be9fdb7490a5e3d0560972f097c3b"
+    },
+    {
+     "from": "1994-07-07",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/4137",
+     "sha256": "2cb13f69729844516062ca22fe1a9fd61a1384a45171bb2743b93d4504a5ef61"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1079-1990",
+   "path": "hg/1990/1079",
+   "short": "HG nr. 1079/1990",
+   "title": "Hotărârea Guvernului nr. 1079/1990 privind efectuarea recensămîntului populaţiei şi locuinţelor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1261",
+   "versions": [
+    {
+     "from": "1990-10-16",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1261",
+     "sha256": "c9253195d8fb4050df6d5344725bdb547e095baab0e1c10b27527743fcf1e29f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1156-1990",
+   "path": "hg/1990/1156",
+   "short": "HG nr. 1156/1990",
+   "title": "Hotărârea Guvernului nr. 1156/1990 privind deschiderea învăţămîntului superior cu durata de 3 ani (subingineri, conductori arhitecţi şi profesori II)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1285",
+   "versions": [
+    {
+     "from": "1992-05-27",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1285",
+     "sha256": "2d2af916b2cd60577737167ffca9b34837bd575c0a22bf979c6fd0db7283d3f3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1163-1990",
+   "path": "hg/1990/1163",
+   "short": "HG nr. 1163/1990",
+   "title": "Hotărârea Guvernului nr. 1163/1990 privind indexarea salariilor şi pensiilor ca urmare a liberalizării preţurilor şi tarifelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1288",
+   "versions": [
+    {
+     "from": "1990-11-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1288",
+     "sha256": "b4836138695d4008a06b789a473ed5ea68630ec73410516abc13e7b58abe1609"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1164-1990",
+   "path": "hg/1990/1164",
+   "short": "HG nr. 1164/1990",
+   "title": "Hotărârea Guvernului nr. 1164/1990 privind unele măsuri referitoare la tarifele de abonament radio-tv. şi salarizarea inspectorilor remizieri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1289",
+   "versions": [
+    {
+     "from": "1990-11-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1289",
+     "sha256": "63e884f76422bb01836da2ee6695cef52986f1ec8ed8186f3b643a9378704a3a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1170-1990",
+   "path": "hg/1990/1170",
+   "short": "HG nr. 1170/1990",
+   "title": "Hotărârea Guvernului nr. 1170/1990 privind aprobarea structurii organizatorice a Ministerului Comerţului şi Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33683",
+   "versions": [
+    {
+     "from": "1991-09-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33683",
+     "sha256": "b52caf16a1dcf160082a402d2cfa972066db9f295ad388bf6f4de7f08ed5d42b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1199-1990",
+   "path": "hg/1990/1199",
+   "short": "HG nr. 1199/1990",
+   "title": "Hotărârea Guvernului nr. 1199/1990 privind înfiinţarea Regiei autonome de electricitate \"Renel\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1301",
+   "versions": [
+    {
+     "from": "1991-01-26",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1301",
+     "sha256": "04952bafeb3c6f91f7f318a4a0fbba577d25f685ae7f2e2dca73fc4dd745ad4d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1208-1990",
+   "path": "hg/1990/1208",
+   "short": "HG nr. 1208/1990",
+   "title": "Hotărârea Guvernului nr. 1208/1990 privind înfiinţarea Editurii Fundaţiei Culturale Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1302",
+   "versions": [
+    {
+     "from": "1992-05-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1302",
+     "sha256": "24e3fc7f63e3d6a0166c4887fc78ec4066f8e450d1452e0c91f119f49d28e325"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1211-1990",
+   "path": "hg/1990/1211",
+   "short": "HG nr. 1211/1990",
+   "title": "Hotărârea Guvernului nr. 1211/1990 privind înfiinţarea Regiei autonome a lignitului din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1304",
+   "versions": [
+    {
+     "from": "1990-11-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1304",
+     "sha256": "09a9e6b593fa09009716c0f706b08b87be019203f90d6c3ed2321550775175a5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1215-1990",
+   "path": "hg/1990/1215",
+   "short": "HG nr. 1215/1990",
+   "title": "Hotărârea Guvernului nr. 1215/1990 privind regimul de lucru al unităţilor de construcţii în perioada decembrie 1990 - februarie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1307",
+   "versions": [
+    {
+     "from": "1990-11-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1307",
+     "sha256": "2c9a411457e4467359a8c8ed621d2f5a16079fbba3700faa94647b4a2b4f27da"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1228-1990",
+   "path": "hg/1990/1228",
+   "short": "HG nr. 1228/1990",
+   "title": "Hotărârea Guvernului nr. 1228/1990 pentru aprobarea Metodologiei concesionarii, închirierii şi locaţiei gestiunii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1316",
+   "versions": [
+    {
+     "from": "1990-12-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1316",
+     "sha256": "392923ed7148f096f4d9238e61409ece80b2d52d44a01d4a21257b92d6b3b7a6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1250-1990",
+   "path": "hg/1990/1250",
+   "short": "HG nr. 1250/1990",
+   "title": "Hotărârea Guvernului nr. 1250/1990 privind înfiinţarea unor societăţi comerciale pe acţiuni, prin reorganizarea întreprinderilor avicole de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1328",
+   "versions": [
+    {
+     "from": "1991-02-01",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1328",
+     "sha256": "91b52d046595f073411696eef4951ed6b344148c5543cb6aa955528270b32974"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1262-1990",
+   "path": "hg/1990/1262",
+   "short": "HG nr. 1262/1990",
+   "title": "Hotărârea Guvernului nr. 1262/1990 privind înfiinţarea unor societăţi comerciale constructoare de maşini pentru agricultura şi alimentaţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1333",
+   "versions": [
+    {
+     "from": "1991-02-01",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1333",
+     "sha256": "5d29c1394362abade049af41671502afef8f0abc418b27d8fb286f715f217d9a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1264-1990",
+   "path": "hg/1990/1264",
+   "short": "HG nr. 1264/1990",
+   "title": "Hotărârea Guvernului nr. 1264/1990 privind înfiinţarea unor societăţi comerciale pe acţiuni în sectorul de transporturi auto",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21827",
+   "versions": [
+    {
+     "from": "1991-01-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21827",
+     "sha256": "6fa35e945c6c78609b3918c10a4b28e1f4d8dcb2d30cb1c5a9714005016eda90"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1270-1990",
+   "path": "hg/1990/1270",
+   "short": "HG nr. 1270/1990",
+   "title": "Hotărârea Guvernului nr. 1270/1990 privind finanţarea de la bugetul statului a unor obiective de investiţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1338",
+   "versions": [
+    {
+     "from": "1992-05-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1338",
+     "sha256": "e204dd51279db8836b5dd0c398822c1fdbea73a8f89b43c5986e9798d890b952"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1303-1990",
+   "path": "hg/1990/1303",
+   "short": "HG nr. 1303/1990",
+   "title": "Hotărârea Guvernului nr. 1303/1990 privind înfiinţarea unor societăţi comerciale pe acţiuni în domeniul construcţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1365",
+   "versions": [
+    {
+     "from": "1991-02-02",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1365",
+     "sha256": "ae829fd33181ab972d781df204230814660324bb9018db8f58a04deff9f87ed9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1304-1990",
+   "path": "hg/1990/1304",
+   "short": "HG nr. 1304/1990",
+   "title": "Hotărârea Guvernului nr. 1304/1990 privind înfiinţarea unor societăţi comerciale pe acţiuni în domeniul construcţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1366",
+   "versions": [
+    {
+     "from": "1991-02-02",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1366",
+     "sha256": "140c5c586c77547f98746b5e13ddfd0a8d592a5303bae98f4d67b051737d62fc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1309-1990",
+   "path": "hg/1990/1309",
+   "short": "HG nr. 1309/1990",
+   "title": "Hotărârea Guvernului nr. 1309/1990 privind aprobarea unor măsuri de atragere, menţinere şi stabilizare a personalului din activitatea de distribuţie a energiei termice, alimentare cu apa, canalizare şi epurare ape uzate, salubritate, transport în comun - exploatare şi întreţinere reparaţii, spălătorie chimica, curăţenie şi întreţinere parcuri şi străzi, cît şi repararea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1370",
+   "versions": [
+    {
+     "from": "1990-12-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1370",
+     "sha256": "6d41f148525563dc445c206a8bac74932b12233865cf63d074b80b6607680630"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1321-1990",
+   "path": "hg/1990/1321",
+   "short": "HG nr. 1321/1990",
+   "title": "Hotărârea Guvernului nr. 1321/1990 privind înfiinţarea societăţii comerciale pe acţiuni \"Compania de transporturi aeriene române - TAROM\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1378",
+   "versions": [
+    {
+     "from": "1991-01-09",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1378",
+     "sha256": "768f8d1e01b315cc56c18ed6a150c9b94b90b6b8ce7cdac9e4578d62c4e1fcb2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1333-1990",
+   "path": "hg/1990/1333",
+   "short": "HG nr. 1333/1990",
+   "title": "Hotărârea Guvernului nr. 1333/1990 privind înfiinţarea unor societăţi comerciale pe acţiuni în domeniul proiectării şi serviciilor tehnice pentru construcţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1385",
+   "versions": [
+    {
+     "from": "1991-02-02",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1385",
+     "sha256": "748fa4f0a558083cc6e0335f28f231e069c20811d7d2161da70198afd0110e9b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1334-1990",
+   "path": "hg/1990/1334",
+   "short": "HG nr. 1334/1990",
+   "title": "Hotărârea Guvernului nr. 1334/1990 privind înfiinţarea unor societăţi comerciale pe acţiuni în domeniul construcţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1386",
+   "versions": [
+    {
+     "from": "1991-02-02",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1386",
+     "sha256": "f94fe1a3e1c04caacc95e1ff35819be625a5216e4e194ce65e93e7cd03d600d6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1335-1990",
+   "path": "hg/1990/1335",
+   "short": "HG nr. 1335/1990",
+   "title": "Hotărârea Guvernului nr. 1335/1990 privind înfiinţarea Regiei autonome a pădurilor \"ROMSILVA\"- R.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1387",
+   "versions": [
+    {
+     "from": "1991-01-10",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1387",
+     "sha256": "49d2fa5c261173281c8130e19fea1caff72ad78432a49f8cce44dd69ebaa5e1f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1338-1990",
+   "path": "hg/1990/1338",
+   "short": "HG nr. 1338/1990",
+   "title": "Hotărârea Guvernului nr. 1338/1990 privind înfiinţarea regiei autonome \"Administraţia naţionala a aeroporturilor din România\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1390",
+   "versions": [
+    {
+     "from": "1991-01-10",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1390",
+     "sha256": "209d2f1c8e1a1d2a3be3455d9b510ecaeaa07ea59d2e6d6825399e54b5d99221"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1339-1990",
+   "path": "hg/1990/1339",
+   "short": "HG nr. 1339/1990",
+   "title": "Hotărârea Guvernului nr. 1339/1990 privind înfiinţarea unor societăţi comerciale pe acţiuni în domeniul proiectării şi serviciilor tehnice pentru construcţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1391",
+   "versions": [
+    {
+     "from": "1991-02-02",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1391",
+     "sha256": "d6b8341aa9c5057efc208750c5d6aae55b5dd63ab2fbecbd9db694f6efe612cb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1340-1990",
+   "path": "hg/1990/1340",
+   "short": "HG nr. 1340/1990",
+   "title": "Hotărârea Guvernului nr. 1340/1990 privind înfiinţarea unor societăţi comerciale pe acţiuni în domeniul construcţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1392",
+   "versions": [
+    {
+     "from": "1991-02-02",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1392",
+     "sha256": "6b620620359891c4ab18829ec2da18a2c6b199727579f5d2d820f75d460f5814"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1353-1990",
+   "path": "hg/1990/1353",
+   "short": "HG nr. 1353/1990",
+   "title": "Hotărârea Guvernului nr. 1353/1990 privind înfiinţarea de societăţi comerciale pe acţiuni în industria alimentară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1399",
+   "versions": [
+    {
+     "from": "1991-02-08",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1399",
+     "sha256": "bab413db449611caf3525f0f9ec2b19c59b6507ff033bcaa527f62527d460a21"
+    }
+   ]
+  },
+  {
+   "slug": "hg-1365-1990",
+   "path": "hg/1990/1365",
+   "short": "HG nr. 1365/1990",
+   "title": "Hotărârea Guvernului nr. 1365/1990 privind înfiinţarea de societăţi comerciale în informatica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1404",
+   "versions": [
+    {
+     "from": "1991-01-26",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1404",
+     "sha256": "29382ac1c7b9ec0c4caccd6888508bbef848173c79014f3145f9b28034b3dd01"
+    }
+   ]
+  },
+  {
+   "slug": "hg-143-1990",
+   "path": "hg/1990/143",
+   "short": "HG nr. 143/1990",
+   "title": "Hotărârea Guvernului nr. 143/1990 privind structura organizatorica a Comisiei Naţionale pentru Standarde, Metrologie şi Calitate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/954",
+   "versions": [
+    {
+     "from": "1992-04-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/954",
+     "sha256": "a4217030a5f7b5b3860d141ed0c040e9c0c2849bdd28c3f2a77d2b3568d7d9b3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-162-1990",
+   "path": "hg/1990/162",
+   "short": "HG nr. 162/1990",
+   "title": "Hotărârea Guvernului nr. 162/1990 privind atribuţiile Comisiei guvernamentale pentru judeţul Timiş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/963",
+   "versions": [
+    {
+     "from": "1990-02-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/963",
+     "sha256": "c4ff368db4a8da648d72bedd3661b22887878c31f8e88361b77b44a16ae22a83"
+    }
+   ]
+  },
+  {
+   "slug": "hg-196-1990",
+   "path": "hg/1990/196",
+   "short": "HG nr. 196/1990",
+   "title": "Hotărârea Guvernului nr. 196/1990 privind autorizarea Băncii de Investiţii de a acorda credite întreprinderilor mici, asociaţiilor cu scop lucrativ, asociaţiilor familiale şi persoanelor fizice care prestează activităţi economice în mod independent",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/973",
+   "versions": [
+    {
+     "from": "1990-03-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/973",
+     "sha256": "2044710d31fa1db125f380faf9161e45f4dc2d021b880e2b18dfb53e001dff76"
+    }
+   ]
+  },
+  {
+   "slug": "hg-201-1990",
+   "path": "hg/1990/201",
+   "short": "HG nr. 201/1990",
+   "title": "Hotărârea Guvernului nr. 201/1990 pentru aprobarea normelor de aplicare a Decretului-lege nr. 54/1990 privind organizarea şi desfăşurarea unor activităţi economice pe baza liberei iniţiative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/975",
+   "versions": [
+    {
+     "from": "1990-03-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/975",
+     "sha256": "ef2da6304a9a74a267b3b594f9236862c8f2fdf0451f52b7f0b37e761ca8776a"
+    },
+    {
+     "from": "2002-11-04",
+     "units": 0,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/47560",
+     "sha256": "ae8ac78a9e55110fe29b00407648056072d01d2e64d3795180b6981dc63bb30b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-227-1990",
+   "path": "hg/1990/227",
+   "short": "HG nr. 227/1990",
+   "title": "Hotărârea Guvernului nr. 227/1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92160",
+   "versions": [
+    {
+     "from": "1990-03-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/92160",
+     "sha256": "4bbb115d008100ed8a3661e819efc0c2623d67a28f96794b75589080fb2142b7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-262-1990",
+   "path": "hg/1990/262",
+   "short": "HG nr. 262/1990",
+   "title": "Hotărârea Guvernului nr. 262/1990 privind înfiinţarea unor unităţi agricole de stat şi unele măsuri de îmbunătăţire a organizării activităţii unităţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/998",
+   "versions": [
+    {
+     "from": "1990-03-31",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/998",
+     "sha256": "3d2f39234e3fcd8dc3c009c4029a08b1704bf095ba34ef0a67f2127d761c283e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-263-1990",
+   "path": "hg/1990/263",
+   "short": "HG nr. 263/1990",
+   "title": "Hotărârea Guvernului nr. 263/1990 privind autorizarea Ministerului Culturii sa stabilească tarifele şi modalităţile de plată pentru remunerarea colaboratorilor din domeniile culturii şi artei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/999",
+   "versions": [
+    {
+     "from": "1992-04-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/999",
+     "sha256": "7bf2c497fcabb3eb71b7642458a76da1c96dc4b867f6896d17202e1f40aedf1c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-27-1990",
+   "path": "hg/1990/27",
+   "short": "HG nr. 27/1990",
+   "title": "Hotărârea Guvernului nr. 27/1990 privind înfiinţarea unor institute de cercetări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/787",
+   "versions": [
+    {
+     "from": "1990-01-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/787",
+     "sha256": "b68bbb81bd38f03eaed305046a9f41230d2c543bdba161c85e8305893deddbf5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-335-1990",
+   "path": "hg/1990/335",
+   "short": "HG nr. 335/1990",
+   "title": "Hotărârea Guvernului nr. 335/1990 privind unele măsuri din domeniul asigurării şi controlului calităţii produselor, lucrărilor de construcţii şi serviciilor, precum şi din cel al metrologiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1015",
+   "versions": [
+    {
+     "from": "1990-03-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1015",
+     "sha256": "ffe29d1395ab7af36b5db99f947558260ff534e312d5b100ab4a143027cc3ad1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-365-1990",
+   "path": "hg/1990/365",
+   "short": "HG nr. 365/1990",
+   "title": "Hotărârea Guvernului nr. 365/1990 privind stabilirea normelor unitare de structura pentru conducerea şi aparatul propriu al primăriilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21634",
+   "versions": [
+    {
+     "from": "1990-04-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21634",
+     "sha256": "aa8fa05365959a67bba5a53024f5307d5ed271dfa73a8ee5ed84e155780744df"
+    }
+   ]
+  },
+  {
+   "slug": "hg-374-1990",
+   "path": "hg/1990/374",
+   "short": "HG nr. 374/1990",
+   "title": "Hotărârea Guvernului nr. 374/1990 privind funcţionarea Oficiului de Stat pentru Invenţii şi Mărci",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1029",
+   "versions": [
+    {
+     "from": "1992-09-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1029",
+     "sha256": "6d96528d774179a31d510e331a2684d12f8143beca43335290fd51a9550224fc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-382-1990",
+   "path": "hg/1990/382",
+   "short": "HG nr. 382/1990",
+   "title": "Hotărârea Guvernului nr. 382/1990 privind regimul de trimitere în străinătate a cetăţenilor români pentru a acorda asistenţa de specialitate nelegata de livrări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1033",
+   "versions": [
+    {
+     "from": "1990-04-09",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1033",
+     "sha256": "bc02edafe8b035194c957d5f5ea109d706a201e54fba3d012d3d5569a97f9cf3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-399-1990",
+   "path": "hg/1990/399",
+   "short": "HG nr. 399/1990",
+   "title": "Hotărârea Guvernului nr. 399/1990 privind reorganizarea activităţii de avizare a consumurilor de combustibili şi energie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92150",
+   "versions": [
+    {
+     "from": "1990-04-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92150",
+     "sha256": "32f2e60e941c2eb1d3e18783ac22f442da37825ac4dd5cbfce68651c1cd51396"
+    }
+   ]
+  },
+  {
+   "slug": "hg-404-1990",
+   "path": "hg/1990/404",
+   "short": "HG nr. 404/1990",
+   "title": "Hotărârea Guvernului nr. 404/1990 privind completarea Hotărîrii Guvernului nr. 55 din 19 ianuarie 1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1039",
+   "versions": [
+    {
+     "from": "1992-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1039",
+     "sha256": "c6aa6fffc3d62065b613fda334caaa786b92f5f42cdf0568a694ece7d5e3dbac"
+    }
+   ]
+  },
+  {
+   "slug": "hg-434-1990",
+   "path": "hg/1990/434",
+   "short": "HG nr. 434/1990",
+   "title": "Hotărârea Guvernului nr. 434/1990 privind înfiinţarea şi organizarea Oficiului muncii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1051",
+   "versions": [
+    {
+     "from": "1990-09-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1051",
+     "sha256": "37b84f78332846d1f4fc06c73493debfed94739fa85ca661fa86af70d7b8f860"
+    }
+   ]
+  },
+  {
+   "slug": "hg-463-1990",
+   "path": "hg/1990/463",
+   "short": "HG nr. 463/1990",
+   "title": "Hotărârea Guvernului nr. 463/1990 privind reînfiinţarea funcţiei de asistent medical",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1061",
+   "versions": [
+    {
+     "from": "1992-04-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1061",
+     "sha256": "42779bcae4a2e82e623be8267d0c27ce59416bfa86039d6adf5c33f7c433f270"
+    }
+   ]
+  },
+  {
+   "slug": "hg-489-1990",
+   "path": "hg/1990/489",
+   "short": "HG nr. 489/1990",
+   "title": "Hotărârea Guvernului nr. 489/1990 privind stabilirea preţurilor cu amănuntul pentru produsele din import destinate fondului pieţei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92272",
+   "versions": [
+    {
+     "from": "1990-05-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92272",
+     "sha256": "d6378b838ef7eb543596af46b15f6017695740adab67fbdece5a366781feac51"
+    }
+   ]
+  },
+  {
+   "slug": "hg-494-1990",
+   "path": "hg/1990/494",
+   "short": "HG nr. 494/1990",
+   "title": "Hotărârea Guvernului nr. 494/1990 privind înfiinţarea şi reorganizarea unor unităţi din subordinea şi în cadrul Ministerului Transporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1069",
+   "versions": [
+    {
+     "from": "1990-05-15",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1069",
+     "sha256": "c9c06ef5f1172e9197b1542f763720b6f5b48ef5f364ba0120b28047e9445010"
+    }
+   ]
+  },
+  {
+   "slug": "hg-530-1990",
+   "path": "hg/1990/530",
+   "short": "HG nr. 530/1990",
+   "title": "Hotărârea Guvernului nr. 530/1990 privind organizarea şi funcţionarea Registrului Naval Român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1080",
+   "versions": [
+    {
+     "from": "1990-05-17",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1080",
+     "sha256": "a3a2d192e259b2271fa4d32dd52ca3dc5d2a1955406f2d6a8178aebea9708e98"
+    }
+   ]
+  },
+  {
+   "slug": "hg-535-1990",
+   "path": "hg/1990/535",
+   "short": "HG nr. 535/1990",
+   "title": "Hotărârea Guvernului nr. 535/1990 privind repartizarea pe categorii de cheltuieli a veniturilor \"Fondului Libertatea\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1085",
+   "versions": [
+    {
+     "from": "1990-05-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1085",
+     "sha256": "26d9c8a36f5e617a46b8104d8d11e0e0e1abc5296ca60bdca6f9143e0c960dfd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-550-1990",
+   "path": "hg/1990/550",
+   "short": "HG nr. 550/1990",
+   "title": "Hotărârea Guvernului nr. 550/1990 privind reorganizarea Academiei militare şi înfiinţarea Academiei tehnice militare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1094",
+   "versions": [
+    {
+     "from": "1990-05-18",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1094",
+     "sha256": "cb3cadf439a69b79cb5defb62e6f5e0221cb205a970e1e0922a11ba37266c3c1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-61-1990",
+   "path": "hg/1990/61",
+   "short": "HG nr. 61/1990",
+   "title": "Hotărârea Guvernului nr. 61/1990 privind acordarea de facilităţi cetăţenilor români care dobîndesc sume în valută",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/858",
+   "versions": [
+    {
+     "from": "1990-01-20",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/858",
+     "sha256": "437995324ad8d5af6ca7091740b9cebcd13431144a8caab75e1063402389d465"
+    }
+   ]
+  },
+  {
+   "slug": "hg-614-1990",
+   "path": "hg/1990/614",
+   "short": "HG nr. 614/1990",
+   "title": "Hotărârea Guvernului nr. 614/1990 privind modificarea componentei Comisiei mixte permanente româno-iugoslave pentru micul trafic de călători în zona de frontieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1126",
+   "versions": [
+    {
+     "from": "1992-05-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1126",
+     "sha256": "5bfaa7e271ffe4ce2b376e482d6f42ff1c58027bff5a90006d33420b53482edf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-664-1990",
+   "path": "hg/1990/664",
+   "short": "HG nr. 664/1990",
+   "title": "Hotărârea Guvernului nr. 664/1990 privind stabilirea structurii organizatorice şi a numărului de personal pentru Fundaţia Culturală Română",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1145",
+   "versions": [
+    {
+     "from": "1992-05-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1145",
+     "sha256": "642732675948c10d2d353aa216f0ebaa0aa2b9de07373edcfd53ef59465401b0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-711-1990",
+   "path": "hg/1990/711",
+   "short": "HG nr. 711/1990",
+   "title": "Hotărârea Guvernului nr. 711/1990 privind aprobarea documentaţiei tehnico-economice a obiectivului de investiţii \"Lucrări pentru menţinerea capacităţii de producţie de 2.400.000 tone/an lignit la cariera Tismana II, judeţul Gorj\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1163",
+   "versions": [
+    {
+     "from": "1992-11-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1163",
+     "sha256": "262ff219aec0a8f8965e0dc764d550a2bf8a4daf2f85527e075c19541d862ad5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-73-1990",
+   "path": "hg/1990/73",
+   "short": "HG nr. 73/1990",
+   "title": "Hotărârea Guvernului nr. 73/1990 privind unele măsuri pentru menţinerea stabilităţii sistemului energetic naţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22017",
+   "versions": [
+    {
+     "from": "1990-01-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22017",
+     "sha256": "ee1ff4c5702329efc329a7b22556fa7cd5e32afd8ef82beb731d83c39d7bc767"
+    }
+   ]
+  },
+  {
+   "slug": "hg-735-1990",
+   "path": "hg/1990/735",
+   "short": "HG nr. 735/1990",
+   "title": "Hotărârea Guvernului nr. 735/1990 privind aprobarea unor măsuri de atragere, menţinere şi stabilizare a personalului din activitatea de salubritate şi canalizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1168",
+   "versions": [
+    {
+     "from": "1992-11-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1168",
+     "sha256": "9459187e06761622e51b42938f8c105e50cebf9441dcc4d4a45af1016e4159d0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-740-1990",
+   "path": "hg/1990/740",
+   "short": "HG nr. 740/1990",
+   "title": "Hotărârea Guvernului nr. 740/1990 privind unele măsuri în domeniul finanţării-creditării investiţiilor la unităţile de stat, precum şi cu privire la transmiterea fondurilor fixe între întreprinderile de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1171",
+   "versions": [
+    {
+     "from": "1992-05-07",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1171",
+     "sha256": "a2a8d7cf85aa98b3423579147fa754fc8998729c371440e0b2a7ede3c5c6133f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-805-1990",
+   "path": "hg/1990/805",
+   "short": "HG nr. 805/1990",
+   "title": "Hotărârea Guvernului nr. 805/1990 privind organizarea şi atribuţiile Ministerului Comerţului şi Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1183",
+   "versions": [
+    {
+     "from": "1991-09-24",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1183",
+     "sha256": "96b19ef2ad2fb774a6c1094346279df6a7f2818330d47a02340b9fc410793ad1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-945-1990",
+   "path": "hg/1990/945",
+   "short": "HG nr. 945/1990",
+   "title": "Hotărârea Guvernului nr. 945/1990 privind inventarierea şi reevaluarea patrimoniului unităţilor economice de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1198",
+   "versions": [
+    {
+     "from": "1990-08-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1198",
+     "sha256": "bed271d0c9a6ef00bcb8bdbd99ce4004e9ab8b1b5eddb9318a7b23840dd361c4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-956-1990",
+   "path": "hg/1990/956",
+   "short": "HG nr. 956/1990",
+   "title": "Hotărârea Guvernului nr. 956/1990 privind condiţiile de plată a cotei subscrise de România la capitalul Băncii Europene pentru Reconstrucţie şi Dezvoltare şi numirea guvernatorului şi a supleantului sau",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1204",
+   "versions": [
+    {
+     "from": "1992-05-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1204",
+     "sha256": "f666746f7bb746d2710736985a944c48e08a09c75d77571ec80966bfe1c42a21"
+    }
+   ]
+  },
+  {
+   "slug": "hg-984-1990",
+   "path": "hg/1990/984",
+   "short": "HG nr. 984/1990",
+   "title": "Hotărârea Guvernului nr. 984/1990 privind reglementări pentru unele meserii şi funcţii specifice transporturilor pe căile ferate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1219",
+   "versions": [
+    {
+     "from": "1990-09-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1219",
+     "sha256": "f2f26a9f37b12873aa1e8c58ae7656a8f5db23877078a643918750221468044b"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,336 @@
+{
+ "country": "RO",
+ "shard": "regulament/2021",
+ "acts": [
+  {
+   "slug": "regulament-asf-1-2021",
+   "path": "regulament/asf/2021/1",
+   "short": "Regulament asf nr. 1/2021",
+   "title": "Regulamentul nr. 1/2021 pentru modificarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2016 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236189",
+   "versions": [
+    {
+     "from": "2021-01-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236189",
+     "sha256": "45ad5b46befadf690fed8b357ff03295e67dbe3eff274dffa2298d03882de9ab"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-10-2021",
+   "path": "regulament/asf/2021/10",
+   "short": "Regulament asf nr. 10/2021",
+   "title": "Regulamentul nr. 10/2021 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 4/2021 privind activitatea de control desfășurată de către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/244212",
+   "versions": [
+    {
+     "from": "2021-07-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/244212",
+     "sha256": "e52339594f21b9fee12acc101dc57ab9e4c0d5ead991a03c0c75f7c5e15fbb0a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-11-2021",
+   "path": "regulament/asf/2021/11",
+   "short": "Regulament asf nr. 11/2021",
+   "title": "Regulamentul nr. 11/2021 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2015 privind administrarea fondurilor de investiții alternative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/245306",
+   "versions": [
+    {
+     "from": "2021-08-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/245306",
+     "sha256": "8c0d015d8b6cac47e3eea408b1576fbc9acdad6c4c10f274b36d03713f1dc78b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-13-2021",
+   "path": "regulament/asf/2021/13",
+   "short": "Regulament asf nr. 13/2021",
+   "title": "Regulamentul nr. 13/2021 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 5/2018 privind emitenții de instrumente financiare și operațiuni de piață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246640",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246640",
+     "sha256": "5a107a335de1fdfa6ad3ab47fc990deb34b09870abfe368f4b6d64324550894c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-14-2021",
+   "path": "regulament/asf/2021/14",
+   "short": "Regulament asf nr. 14/2021",
+   "title": "Regulamentul nr. 14/2021 pentru modificarea Regulamentului Autorității de Supraveghere Financiară nr. 7/2020 privind autorizarea și funcționarea fondurilor de investiții alternative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247383",
+   "versions": [
+    {
+     "from": "2021-10-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247383",
+     "sha256": "4f7b7894e2d28ace78336b08f449849857ba31b090be9533173fe38ea0f3e7b1"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-15-2021",
+   "path": "regulament/asf/2021/15",
+   "short": "Regulament asf nr. 15/2021",
+   "title": "Regulamentul nr. 15/2021 privind utilizarea sistemului de conturi globale și aplicarea mecanismelor fără prevalidarea instrumentelor financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247917",
+   "versions": [
+    {
+     "from": "2022-08-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247917",
+     "sha256": "e0f7c325b48eab5ce809a418173e9369c3f13f10a6b403e978db121f2fb811bc"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-16-2021",
+   "path": "regulament/asf/2021/16",
+   "short": "Regulament asf nr. 16/2021",
+   "title": "Regulamentul nr. 16/2021 privind constituirea, publicitatea și executarea garanțiilor reale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247918",
+   "versions": [
+    {
+     "from": "2022-08-04",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247918",
+     "sha256": "c8de5b3a8379498bed7518a44ad4ce463407992e3f7fc9bdafddfdbe63d7760b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-17-2021",
+   "path": "regulament/asf/2021/17",
+   "short": "Regulament asf nr. 17/2021",
+   "title": "Regulamentul nr. 17/2021 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 6/2017 privind Fondul național de protecție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/247583",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/247583",
+     "sha256": "c4f1ccc1668dc9be9ae26148c5a4fdd05cd3ec221b00501633a6e6ea04991765"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-18-2021",
+   "path": "regulament/asf/2021/18",
+   "short": "Regulament asf nr. 18/2021",
+   "title": "Regulamentul nr. 18/2021 cu privire la procedura de retragere a notificării efectuate de organismele de plasament colectiv în valori mobiliare sau administratorii de fonduri de investiții alternative din România sau din alte state membre cu privire la distribuția titlurilor de participare, precum și cu privire la procedura de notificare de către administratorii de fonduri de investiții alternative din România sau din alte state membre a activității de premarketing",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248957",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248957",
+     "sha256": "e4214db522abd98608616c278f6fe3742a5b6f2c259298f52f5e897cb0bd89f5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-19-2021",
+   "path": "regulament/asf/2021/19",
+   "short": "Regulament asf nr. 19/2021",
+   "title": "Regulamentul nr. 19/2021 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 16/2014 privind veniturile Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250053",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250053",
+     "sha256": "2e4ae849bb9b0afb41f721abb81ef65d40e485bc62f026a757ee1fb10277415f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-20-2021",
+   "path": "regulament/asf/2021/20",
+   "short": "Regulament asf nr. 20/2021",
+   "title": "Regulamentul nr. 20/2021 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 1/2019 privind evaluarea și aprobarea membrilor structurii de conducere și a persoanelor care dețin funcții-cheie în cadrul entităților reglementate de Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250574",
+   "versions": [
+    {
+     "from": "2022-01-18",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250574",
+     "sha256": "b5b17f255e9d687855ab35049e860cf76ac791665fe6aedf5ab974fafb26d8c4"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-3-2021",
+   "path": "regulament/asf/2021/3",
+   "short": "Regulament asf nr. 3/2021",
+   "title": "Regulamentul nr. 3/2021 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2016 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236741",
+   "versions": [
+    {
+     "from": "2021-02-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236741",
+     "sha256": "fd34a1c681c1e5cabbcbc88f1a416b1bdeaa177564b7aa3b35b6aad23a32ce4a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-5-2021",
+   "path": "regulament/asf/2021/5",
+   "short": "Regulament asf nr. 5/2021",
+   "title": "Regulamentul nr. 5/2021 pentru modificarea și completarea Regulamentului nr. 27/2010 privind supravegherea electronică prin raportări, aprobat prin Ordinul președintelui Comisiei Naționale a Valorilor Mobiliare nr. 100/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239771",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239771",
+     "sha256": "4479b77936a66bfbb2fef2826e24306eac60e30ee0b877d90727e616d557ac1f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-6-2021",
+   "path": "regulament/asf/2021/6",
+   "short": "Regulament asf nr. 6/2021",
+   "title": "Regulamentul nr. 6/2021 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 7/2020 privind autorizarea și funcționarea fondurilor de investiții alternative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239892",
+   "versions": [
+    {
+     "from": "2021-03-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239892",
+     "sha256": "97087ea85725fb9196afe2b9b699179ee78d805ff1062f2483724230fa76ea0d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-7-2021",
+   "path": "regulament/asf/2021/7",
+   "short": "Regulament asf nr. 7/2021",
+   "title": "Regulamentul nr. 7/2021 privind obligația de întocmire de către emitenții ale căror valori mobiliare sunt admise la tranzacționare pe o piață reglementată a rapoartelor financiare anuale în formatul de raportare electronic unic",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/239927",
+   "versions": [
+    {
+     "from": "2021-03-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/239927",
+     "sha256": "613b8a07763465f1e97cc5f20a5f7c2455b951c60e55472a4e11e49035a619f9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-8-2021",
+   "path": "regulament/asf/2021/8",
+   "short": "Regulament asf nr. 8/2021",
+   "title": "Regulamentul nr. 8/2021 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 4/2016 privind organizarea și funcționarea Entității de Soluționare Alternativă a Litigiilor în domeniul financiar nonbancar (SAL-FIN)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/241158",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241158",
+     "sha256": "a3b6de4f419339517118b2f03700ccb642c863f5dc879c3ba926a439711a50a0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-9-2021",
+   "path": "regulament/asf/2021/9",
+   "short": "Regulament asf nr. 9/2021",
+   "title": "Regulamentul nr. 9/2021 pentru modificarea și completarea Regulamentului nr. 3/2006 privind autorizarea, organizarea și funcționarea Fondului de compensare a investitorilor, aprobat prin Ordinul Comisiei Naționale a Valorilor Mobiliare nr. 12/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/241927",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/241927",
+     "sha256": "f5fee9fba33debb0899acdec718d7e12cfdaa5861d3ab9aae4bb6fcd26af1b50"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-2-2021",
+   "path": "regulament/bnr/2021/2",
+   "short": "Regulament bnr nr. 2/2021",
+   "title": "Regulamentul nr. 2/2021 pentru modificarea Regulamentului Băncii Naționale a României nr. 2/2020 privind măsurile de securitate referitoare la riscurile operaționale și de securitate și cerințele de raportare aferente serviciilor de plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243292",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/243292",
+     "sha256": "d776aae2395bddbe48592810ea73cd7f6a7101c30f5afa169ed07d3174b6282e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-3-2021",
+   "path": "regulament/bnr/2021/3",
+   "short": "Regulament bnr nr. 3/2021",
+   "title": "Regulamentul nr. 3/2021 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 20/2009 privind instituțiile financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246569",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246569",
+     "sha256": "606d135d7ef1c77bf67c033dbcfba9179c346851ddfafc616433154533a84d54"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-4-2021",
+   "path": "regulament/bnr/2021/4",
+   "short": "Regulament bnr nr. 4/2021",
+   "title": "Regulamentul nr. 4/2021 privind raportarea de date și informații statistice la Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249068",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 113,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249068",
+     "sha256": "755cad8712f24909d8668adbbe3a4d7d9c3aa84fb9cce618e9d552512eb5784b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-5-2021",
+   "path": "regulament/bnr/2021/5",
+   "short": "Regulament bnr nr. 5/2021",
+   "title": "Regulamentul nr. 5/2021 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 4/2019 privind instituțiile de plată și furnizorii specializați în servicii de informare cu privire la conturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/249180",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/249180",
+     "sha256": "d914091e797eec43b2660d8c836f5b3255db31e2bbe16469a58d8ce48487946a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-6-2021",
+   "path": "regulament/bnr/2021/6",
+   "short": "Regulament bnr nr. 6/2021",
+   "title": "Regulamentul nr. 6/2021 privind condițiile necesare pentru a beneficia de exceptarea de la instituirea mecanismului de urgență potrivit art. 33 alin. (6) din Regulamentul delegat (UE) 2018/389 al Comisiei de completare a Directivei (UE) 2015/2.366 a Parlamentului European și a Consiliului cu privire la standardele tehnice de reglementare pentru autentificarea strictă a clienților și standardele deschise, comune și sigure de comunicare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/250639",
+   "versions": [
+    {
+     "from": "2022-01-19",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/250639",
+     "sha256": "94e022c070c10b519a30d5d90d57ab24bae97805b83ac5aac71ee19b936b5d9c"
+    }
+   ]
+  }
+ ]
+}

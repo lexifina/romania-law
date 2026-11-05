@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "precizari/1994",
+ "acts": [
+  {
+   "slug": "precizari-finante-9967-1994",
+   "path": "precizari/finante/1994/9967",
+   "short": "Precizări finante nr. 9967/1994",
+   "title": "Precizările nr. 9.967/1994 privind determinarea profitului impozabil începând cu data de 1 ianuarie 1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5579",
+   "versions": [
+    {
+     "from": "1994-03-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5579",
+     "sha256": "3feb9420b2c048cedebf046cfb951b27de515f02b4578f3d7bcac4694adbab26"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1041 @@
+{
+ "country": "RO",
+ "shard": "cncd/2020",
+ "acts": [
+  {
+   "slug": "cncd-hotarare-2020-1",
+   "path": "cncd/hotarare/2020/1",
+   "short": "Hotărârea CNCD nr. 1/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 1/2020 din 2020-01-15",
+   "url": "https://www.cncd.ro/hotarari/hotarare-1-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-1-2020/",
+     "sha256": "62ef483585830278190c97996ef87807c8128af13004f6293c614490e31a0f01"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-10",
+   "path": "cncd/hotarare/2020/10",
+   "short": "Hotărârea CNCD nr. 10/2020",
+   "title": "Hotărârea CNCD nr. 10/2020: petentul reclamă faptul că a fost jignit de unii dintre membrii grupul închis de facebook ,,Comuna Brebu” și ulterior exclus din acest grup.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-10-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-10-2020/",
+     "sha256": "aee2ffdc9e19ff6848742f0726934f7295ec278777f918f020f9ca9a020d8477"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-11",
+   "path": "cncd/hotarare/2020/11",
+   "short": "Hotărârea CNCD nr. 11/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 11/2020 din 2020-01-15",
+   "url": "https://www.cncd.ro/hotarari/hotarare-11-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-11-2020/",
+     "sha256": "5fe0b6a5ce7f09f0542263d56558e0fc4da72e02ef63d209e3c307d802d6bb8b"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-12",
+   "path": "cncd/hotarare/2020/12",
+   "short": "Hotărârea CNCD nr. 12/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 12/2020 din 2020-01-15",
+   "url": "https://www.cncd.ro/hotarari/hotarare-12-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-12-2020/",
+     "sha256": "2b3ee5e239a2e815ddeadab80f1d2fc5d6f52ce4dd5fc089d831754f868020c5"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-13",
+   "path": "cncd/hotarare/2020/13",
+   "short": "Hotărârea CNCD nr. 13/2020",
+   "title": "Hotărârea CNCD nr. 13/2020: petentul reclamă sancționarea contravențională nelegală de către Inspectoratul Teritorial in Construcții Mehedinți.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-13-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-13-2020/",
+     "sha256": "670d645c302d44e51499ed30a0bcbd7b0619b6164724e4cf54c82c4354dc19ea"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-14",
+   "path": "cncd/hotarare/2020/14",
+   "short": "Hotărârea CNCD nr. 14/2020",
+   "title": "Hotărârea CNCD nr. 14/2020: petenta reclamă faptul că, la crearea unui cont pe site-uri E-jobs si Best Jobs, pentru intermediere angajare, solicitanții sunt obligați să înregistreze data nașterii care, uneori, nu îi avantajează.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-14-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-14-2020/",
+     "sha256": "96d08633ae556eb9c91371d8d94a55a0717d646a97140d3ba8b913745cf9d042"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-15",
+   "path": "cncd/hotarare/2020/15",
+   "short": "Hotărârea CNCD nr. 15/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 15/2020 din 2020-01-15",
+   "url": "https://www.cncd.ro/hotarari/hotarare-15-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-15-2020/",
+     "sha256": "f008f343be892991a388658dac54358b85cc00cd2791df83fe8a29f3e9c6746d"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-16",
+   "path": "cncd/hotarare/2020/16",
+   "short": "Hotărârea CNCD nr. 16/2020",
+   "title": "Hotărârea CNCD nr. 16/2020: refuzul construcției rampei de acces în scara blocului",
+   "url": "https://www.cncd.ro/hotarari/hotarare-16-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-16-2020/",
+     "sha256": "32bff5a258b7cf429efc8b2a856ac29b82adc0b21095bb04972ba7f39f6abfd4"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-17",
+   "path": "cncd/hotarare/2020/17",
+   "short": "Hotărârea CNCD nr. 17/2020",
+   "title": "Hotărârea CNCD nr. 17/2020: aprobarea organizării unei adunări publice",
+   "url": "https://www.cncd.ro/hotarari/hotarare-17-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-17-2020/",
+     "sha256": "d593b7dccfd7d4bc69d0ee3d8f17fc91a42073e231f25c81d901af2aeb1d95cd"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-18",
+   "path": "cncd/hotarare/2020/18",
+   "short": "Hotărârea CNCD nr. 18/2020",
+   "title": "Hotărârea CNCD nr. 18/2020: refuz închiriere căminului cultural și sala de ședințe a Primăriei Păuliș",
+   "url": "https://www.cncd.ro/hotarari/hotarare-18-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-18-2020/",
+     "sha256": "77d503f0797a8a9fafbb00db0ce347be52a73828422d341c24154dfb6788c2a8"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-19",
+   "path": "cncd/hotarare/2020/19",
+   "short": "Hotărârea CNCD nr. 19/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 19/2020 din 2020-01-15",
+   "url": "https://www.cncd.ro/hotarari/hotarare-19-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-19-2020/",
+     "sha256": "40fcd611c88dfe3872d9fb3c708c9ac78c6071ebf48f751cc05df32070a9034b"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-2",
+   "path": "cncd/hotarare/2020/2",
+   "short": "Hotărârea CNCD nr. 2/2020",
+   "title": "Hotărârea CNCD nr. 2/2020: hărțuire, violență psihica, amenințări și limitarea exercitării atribuțiilor de serviciu, lezarea demnității și a dreptului la muncă cum prevăd dispozițiile art.15",
+   "url": "https://www.cncd.ro/hotarari/hotarare-2-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-2-2020/",
+     "sha256": "15c3c7bf6df07e1f229484f7a9c1235019a051ad97ac8b1c86f934d852a6855c"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-20",
+   "path": "cncd/hotarare/2020/20",
+   "short": "Hotărârea CNCD nr. 20/2020",
+   "title": "Hotărârea CNCD nr. 20/2020: publicarea pe contul personal facebook a unui articol referitor la modalitatea în care se îmbracă bărbații",
+   "url": "https://www.cncd.ro/hotarari/hotarare-20-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-20-2020/",
+     "sha256": "6b9e6d9b2d27a915b0681600aa8927bd62f676d9963498e2baa539631c03dbdd"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-21",
+   "path": "cncd/hotarare/2020/21",
+   "short": "Hotărârea CNCD nr. 21/2020",
+   "title": "Hotărârea CNCD nr. 21/2020: discriminarea și hărțuirea pe criteriul sindical",
+   "url": "https://www.cncd.ro/hotarari/hotarare-21-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-21-2020/",
+     "sha256": "0e184a1ba9ebf88b2ead0d184b0144aec4b12b03a464a532708189f4bdd3a260"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-22",
+   "path": "cncd/hotarare/2020/22",
+   "short": "Hotărârea CNCD nr. 22/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 22/2020 din 2020-01-15",
+   "url": "https://www.cncd.ro/hotarari/hotarare-22-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-22-2020/",
+     "sha256": "98148673494289f5852d07d8cb137501d9a0de4bfe13225754ed1d1fba5f53e1"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-23",
+   "path": "cncd/hotarare/2020/23",
+   "short": "Hotărârea CNCD nr. 23/2020",
+   "title": "Hotărârea CNCD nr. 23/2020: dispoziții discriminatorii cuprinse în Regulamentul Specific al Ligii Naționale de Baschet Masculin 2019-2020, criteriul cetățenie",
+   "url": "https://www.cncd.ro/hotarari/hotarare-23-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-23-2020/",
+     "sha256": "63994d014f3671be97b63259d31ee1af2cff928eff94f6c20d45c3cba6489085"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-24",
+   "path": "cncd/hotarare/2020/24",
+   "short": "Hotărârea CNCD nr. 24/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 24/2020 din 2020-01-15",
+   "url": "https://www.cncd.ro/hotarari/hotarare-24-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-24-2020/",
+     "sha256": "5dba8b52ca05e8930cbf247f1c9b562adfcdc5125c65a4a4480a94039b5feec4"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-25",
+   "path": "cncd/hotarare/2020/25",
+   "short": "Hotărârea CNCD nr. 25/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 25/2020 din 2020-01-15",
+   "url": "https://www.cncd.ro/hotarari/hotarare-25-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-25-2020/",
+     "sha256": "5c12cac97e8b47ff271c90792054698692d8fbbb93e7e979e83e1decc34813c0"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-27",
+   "path": "cncd/hotarare/2020/27",
+   "short": "Hotărârea CNCD nr. 27/2020",
+   "title": "Hotărârea CNCD nr. 27/2020: refuzul decontării onorariului avocațial pentru asigurarea asistenței juridice polițiștilor",
+   "url": "https://www.cncd.ro/hotarari/hotarare-27-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-27-2020/",
+     "sha256": "b52665f9cd029340847030444e1e46002b9c7cc9ef2bd6fa68e7962cde093c79"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-28",
+   "path": "cncd/hotarare/2020/28",
+   "short": "Hotărârea CNCD nr. 28/2020",
+   "title": "Hotărârea CNCD nr. 28/2020: încălcarea demnității pe criteriul de convingeri",
+   "url": "https://www.cncd.ro/hotarari/hotarare-28-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-28-2020/",
+     "sha256": "8dba3e5a9248e4446b0b49237618d251b6792bc8e17c78f70df7921001c8bce5"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-29",
+   "path": "cncd/hotarare/2020/29",
+   "short": "Hotărârea CNCD nr. 29/2020",
+   "title": "Hotărârea CNCD nr. 29/2020: modul de salarizare diferit a persoanelor care lucrează 8 ore pe zi comparativ cu persoanele care lucrează în ture de 24 cu 48 de ore",
+   "url": "https://www.cncd.ro/hotarari/hotarare-29-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-29-2020/",
+     "sha256": "607fdd6b31ea1c88de0dff39e4c8b78a03ee1871add3b5a412a24d5b036c543c"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-3",
+   "path": "cncd/hotarare/2020/3",
+   "short": "Hotărârea CNCD nr. 3/2020",
+   "title": "Hotărârea CNCD nr. 3/2020: prevenirea și combaterea violenței în familie reglementată prin prevederile legii nr. 217/2003",
+   "url": "https://www.cncd.ro/hotarari/hotarare-3-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-3-2020/",
+     "sha256": "240e5775a19e75f77f9e6e6058c0e212608f52a7b2c42d3de26434a51bd823c6"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-30",
+   "path": "cncd/hotarare/2020/30",
+   "short": "Hotărârea CNCD nr. 30/2020",
+   "title": "Hotărârea CNCD nr. 30/2020: modul de salarizare diferit a persoanelor care lucrează 8 ore pe zi comparativ cu persoanele care lucrează în ture de 24 cu 48 de ore",
+   "url": "https://www.cncd.ro/hotarari/hotarare-30-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-30-2020/",
+     "sha256": "5053d0ae2b7af8e46eab65113caf7606bd11d44023640c09ccb42d6a685bc1ee"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-33",
+   "path": "cncd/hotarare/2020/33",
+   "short": "Hotărârea CNCD nr. 33/2020",
+   "title": "Hotărârea CNCD nr. 33/2020: publicarea de articole discriminatorii pe site-ul ziarului Telegraf Expres și pe contul de socializare - facebook",
+   "url": "https://www.cncd.ro/hotarari/hotarare-33-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-33-2020/",
+     "sha256": "52d5e4978684eeacce45ad90944319adc1dee5b707dcd6d3c587e7c0296ca38c"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-34",
+   "path": "cncd/hotarare/2020/34",
+   "short": "Hotărârea CNCD nr. 34/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 34/2020 din 2020-01-22",
+   "url": "https://www.cncd.ro/hotarari/hotarare-34-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-34-2020/",
+     "sha256": "f94a2ce8e59f01f3b9961a87a902d3dc8ae8573a09ba442d95a19e97514278df"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-35",
+   "path": "cncd/hotarare/2020/35",
+   "short": "Hotărârea CNCD nr. 35/2020",
+   "title": "Hotărârea CNCD nr. 35/2020: posibilă faptă de discriminare săvârșită ca urmare a achiziționării unui aparat telefonic și a unui abonament de telefonie mobilă",
+   "url": "https://www.cncd.ro/hotarari/hotarare-35-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-35-2020/",
+     "sha256": "e0582da009a680fdbe5fa4f463c314babac6244d3027e0870ec6645da67ccb07"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-36",
+   "path": "cncd/hotarare/2020/36",
+   "short": "Hotărârea CNCD nr. 36/2020",
+   "title": "Hotărârea CNCD nr. 36/2020: posibilă faptă de discriminare săvârșită de partea reclamată prin aplicarea incorectă și neunitară a dispozițiilor legii nr. 153/2017",
+   "url": "https://www.cncd.ro/hotarari/hotarare-36-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-36-2020/",
+     "sha256": "ec494c0b080fb85cadcf26616d301784c9bda383bda84a88a169435b3ae10e85"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-37",
+   "path": "cncd/hotarare/2020/37",
+   "short": "Hotărârea CNCD nr. 37/2020",
+   "title": "Hotărârea CNCD nr. 37/2020: discriminare la locul de muncă pe criteriul convingerilor",
+   "url": "https://www.cncd.ro/hotarari/hotarare-37-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-37-2020/",
+     "sha256": "b66e7ccd34d9a5111c4a8ae5558e3bc5cc68b6e2981d1f924daa9d1ce14d37f9"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-38",
+   "path": "cncd/hotarare/2020/38",
+   "short": "Hotărârea CNCD nr. 38/2020",
+   "title": "Hotărârea CNCD nr. 38/2020: Neluarea măsurilor de protecție socială de către Primăria Rădăuți pentru petenții ce fac parte dintr-un grup de zece familii defavorizate, de etnie rromă.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-38-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-38-2020/",
+     "sha256": "c2420572aeafa89ee19a24233ad21f982dd8d84f689e7f8e0a443ddf41992560"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-39",
+   "path": "cncd/hotarare/2020/39",
+   "short": "Hotărârea CNCD nr. 39/2020",
+   "title": "Hotărârea CNCD nr. 39/2020: refuz comunicare de către reclamată a listei de alergeni corespunzătoare unui produs comercializat de magazinul Kaufland din loc. Târgu Mureș, motivul probabil fiind acela că petentul suferă de mai multe boli cronice.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-39-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-39-2020/",
+     "sha256": "215a5e430e49ac090aa4d2c06f2dc2ea76ee943409d7fd94c8c5974f70aec5e7"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-4",
+   "path": "cncd/hotarare/2020/4",
+   "short": "Hotărârea CNCD nr. 4/2020",
+   "title": "Hotărârea CNCD nr. 4/2020: cuantumul pensiei stabilită în baza prevederilor Legii nr. 223/2015 privind pensiile militare de stat",
+   "url": "https://www.cncd.ro/hotarari/hotarare-4-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-4-2020/",
+     "sha256": "c077807c038e794341a03ad99dd00ed8be27d5b6710b4ab6e73e38e0e7e4af3c"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-40",
+   "path": "cncd/hotarare/2020/40",
+   "short": "Hotărârea CNCD nr. 40/2020",
+   "title": "Hotărârea CNCD nr. 40/2020: Petentul reclamă tratamentul discriminatoriu la care sunt supuși de către Asociația pentru Dezvoltarea Turismului în Județul Covasna cetățenii români necunoscători ai limbii maghiare sau ai limbii engleze, prin realizarea și promovarea unei aplicații mobile ce conține informații de interes public doar în limbile maghiară și engleză.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-40-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-40-2020/",
+     "sha256": "8dfdf4b8523995c9cea863c113da453891bdbb345fe14aadcb2e7bf133123bb5"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-41",
+   "path": "cncd/hotarare/2020/41",
+   "short": "Hotărârea CNCD nr. 41/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 41/2020 din 2020-01-22",
+   "url": "https://www.cncd.ro/hotarari/hotarare-41-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-41-2020/",
+     "sha256": "e2d1c1b0382f12c0db542b3275dffdce4da7a3bdad9bbd690a05dbf969d1b9eb"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-42",
+   "path": "cncd/hotarare/2020/42",
+   "short": "Hotărârea CNCD nr. 42/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 42/2020 din 2020-01-22",
+   "url": "https://www.cncd.ro/hotarari/hotarare-42-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-42-2020/",
+     "sha256": "f1946d58c7751f89524035e88c57ac044470aa7dcd18172fa993c1a9dfc25f0e"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-43",
+   "path": "cncd/hotarare/2020/43",
+   "short": "Hotărârea CNCD nr. 43/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 43/2020 din 2020-01-22",
+   "url": "https://www.cncd.ro/hotarari/hotarare-43-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-43-2020/",
+     "sha256": "f7fad0b5fea3f2285224db4b6a62851c34f60ed02e909338f4567b484ce12f7f"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-44",
+   "path": "cncd/hotarare/2020/44",
+   "short": "Hotărârea CNCD nr. 44/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 44/2020 din 2020-01-22",
+   "url": "https://www.cncd.ro/hotarari/hotarare-44-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-44-2020/",
+     "sha256": "674313d2657761c68f13a2f422d169a8c13b2943b357b38879ea0beb3f3b87a3"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-45",
+   "path": "cncd/hotarare/2020/45",
+   "short": "Hotărârea CNCD nr. 45/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 45/2020 din 2020-01-22",
+   "url": "https://www.cncd.ro/hotarari/hotarare-45-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-45-2020/",
+     "sha256": "2d461d8145f6a3ec7bfe8564082e42e55a44922738443d46f733048f2ad02f96"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-46",
+   "path": "cncd/hotarare/2020/46",
+   "short": "Hotărârea CNCD nr. 46/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 46/2020 din 2020-01-22",
+   "url": "https://www.cncd.ro/hotarari/hotarare-46-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-46-2020/",
+     "sha256": "23430321d296d76beadddbd875608447ca638fb7dfa7052652f04c32766dd28b"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-47",
+   "path": "cncd/hotarare/2020/47",
+   "short": "Hotărârea CNCD nr. 47/2020",
+   "title": "Hotărârea CNCD nr. 47/2020: petenta reclamă aspecte precum: hărțuirea, victimizarea, punerea în situație milă, degradantă, restrângerea drepturilor prevăzute în calitate de salariat",
+   "url": "https://www.cncd.ro/hotarari/hotarare-47-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-47-2020/",
+     "sha256": "05d4cd2fb8bf902632de129a7a1d8eab70ec1a0af3eeb42545c81d3ebde42864"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-48",
+   "path": "cncd/hotarare/2020/48",
+   "short": "Hotărârea CNCD nr. 48/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 48/2020 din 2020-01-22",
+   "url": "https://www.cncd.ro/hotarari/hotarare-48-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-48-2020/",
+     "sha256": "99908265ad6558858f31ef7531ebddf78e14484c31fa1f35b50957088c199dff"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-49",
+   "path": "cncd/hotarare/2020/49",
+   "short": "Hotărârea CNCD nr. 49/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 49/2020 din 2020-01-22",
+   "url": "https://www.cncd.ro/hotarari/hotarare-49-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-49-2020/",
+     "sha256": "e369938d69bd5ef56cdd0342c84a5c5cf07f499ea50cdfc2fa8b2ede83af5765"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-5",
+   "path": "cncd/hotarare/2020/5",
+   "short": "Hotărârea CNCD nr. 5/2020",
+   "title": "Hotărârea CNCD nr. 5/2020: nerecunoașterea grupei de muncă corespunzătoare condițiilor deosebit de periculoase la calculul vechimii în muncă",
+   "url": "https://www.cncd.ro/hotarari/hotarare-5-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-5-2020/",
+     "sha256": "71e96630c643e276b65ae77c1753a6cf5cc209478a24a802393d33f5b2390293"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-50",
+   "path": "cncd/hotarare/2020/50",
+   "short": "Hotărârea CNCD nr. 50/2020",
+   "title": "Hotărârea CNCD nr. 50/2020: discriminare în exercitarea profesiei pe criteriul dizabilității",
+   "url": "https://www.cncd.ro/hotarari/hotarare-50-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-50-2020/",
+     "sha256": "92381666c4b4625eec7f989074d6b384b0f6da7df3bde75186f3fe365e6d7b73"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-51",
+   "path": "cncd/hotarare/2020/51",
+   "short": "Hotărârea CNCD nr. 51/2020",
+   "title": "Hotărârea CNCD nr. 51/2020: nerecunoașterea grupei de muncă corespunzătoare condițiilor deosebit de periculoase la calculul vechimii în muncă",
+   "url": "https://www.cncd.ro/hotarari/hotarare-51-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-51-2020/",
+     "sha256": "a1de463ac3db1449f0542d95bd77d8c730b00836eeadcb823656dc4afeda5e7a"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-52",
+   "path": "cncd/hotarare/2020/52",
+   "short": "Hotărârea CNCD nr. 52/2020",
+   "title": "Hotărârea CNCD nr. 52/2020: refuzul calculării pensiei în conformitate cu prevederile legii 263/2010",
+   "url": "https://www.cncd.ro/hotarari/hotarare-52-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-52-2020/",
+     "sha256": "7f2f0bf0c32ca9828d59a2d318e7147dcb8d50f357929fcc4c6d15211494fe4f"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-54",
+   "path": "cncd/hotarare/2020/54",
+   "short": "Hotărârea CNCD nr. 54/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 54/2020 din 2020-01-22",
+   "url": "https://www.cncd.ro/hotarari/hotarare-54-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-54-2020/",
+     "sha256": "94d0e39f13477d5adc564a1aa99afdb0ff60bb9fb954cc06d8db1f11d4ee7e48"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-55",
+   "path": "cncd/hotarare/2020/55",
+   "short": "Hotărârea CNCD nr. 55/2020",
+   "title": "Hotărârea CNCD nr. 55/2020: modificarea calificativulului evaluării profesionale din cauza contestării modificării fișei postului",
+   "url": "https://www.cncd.ro/hotarari/hotarare-55-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-55-2020/",
+     "sha256": "bcbe89fd91f9e0810482826daa51892274a699c95b020ec4dce414b9c4487def"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-56",
+   "path": "cncd/hotarare/2020/56",
+   "short": "Hotărârea CNCD nr. 56/2020",
+   "title": "Hotărârea CNCD nr. 56/2020: discriminare prin modul de organizare a unor concursuri de angajare",
+   "url": "https://www.cncd.ro/hotarari/hotarare-56-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-56-2020/",
+     "sha256": "de8b06d9714ffccb1467e7411864b62a9ae0638df7575795216b43b55ce5ecee"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-57",
+   "path": "cncd/hotarare/2020/57",
+   "short": "Hotărârea CNCD nr. 57/2020",
+   "title": "Hotărârea CNCD nr. 57/2020: petentele reclamă limbajul discriminatoriu și jignitor al directorului școlii unde acestea sunt cadre didactice",
+   "url": "https://www.cncd.ro/hotarari/hotarare-57-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-57-2020/",
+     "sha256": "7148db09ac1fe56b717f7b66338746b65ca9f787305cd992701628b6680c95df"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-58",
+   "path": "cncd/hotarare/2020/58",
+   "short": "Hotărârea CNCD nr. 58/2020",
+   "title": "Hotărârea CNCD nr. 58/2020: petentul se consideră discriminat în privința modalității de calcul a pensiei",
+   "url": "https://www.cncd.ro/hotarari/hotarare-58-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-58-2020/",
+     "sha256": "2cf3fce26367188ff48533314097daa674cc056e7c34d5a0a37d77bbf142f5be"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-59",
+   "path": "cncd/hotarare/2020/59",
+   "short": "Hotărârea CNCD nr. 59/2020",
+   "title": "Hotărârea CNCD nr. 59/2020: petentului i-a fost refuzat accesul la piscină din cauză că este de etnie romă",
+   "url": "https://www.cncd.ro/hotarari/hotarare-59-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-59-2020/",
+     "sha256": "990ceabefe5553d46c6ffbf78c762b7efa893678e290b03fdd881b9256da7d96"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-6",
+   "path": "cncd/hotarare/2020/6",
+   "short": "Hotărârea CNCD nr. 6/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 6/2020 din 2020-01-15",
+   "url": "https://www.cncd.ro/hotarari/hotarare-6-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-6-2020/",
+     "sha256": "d3fd68e8cd4a362b53f088da403124febd175c1c570ff2bdb3d93c0eaefe31eb"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-60",
+   "path": "cncd/hotarare/2020/60",
+   "short": "Hotărârea CNCD nr. 60/2020",
+   "title": "Hotărârea CNCD nr. 60/2020: petentul reclamă faptul că a fost încorporat deși avea un handicap, iar ulterior instanța nu i-a dat dreptate pe motiv de tardivitate",
+   "url": "https://www.cncd.ro/hotarari/hotarare-60-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-60-2020/",
+     "sha256": "99c827c9d9ff24d3ba592463d166f0f93661ce30d42d97fd2e970728b6ac38d5"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-61",
+   "path": "cncd/hotarare/2020/61",
+   "short": "Hotărârea CNCD nr. 61/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 61/2020 din 2020-01-22",
+   "url": "https://www.cncd.ro/hotarari/hotarare-61-2020/",
+   "versions": [
+    {
+     "from": "2020-01-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-61-2020/",
+     "sha256": "88a0517a103f0b4d75c2a110f4e582aec086a72b14a7f63201dcd1a6a667095e"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-64",
+   "path": "cncd/hotarare/2020/64",
+   "short": "Hotărârea CNCD nr. 64/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 64/2020 din 2020-01-29",
+   "url": "https://www.cncd.ro/hotarari/hotarare-64-2020/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-64-2020/",
+     "sha256": "a14990ede8f251a9e999ed5ccdd1210970c8af1c2db4877b90da07b5df0b5eb1"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-65",
+   "path": "cncd/hotarare/2020/65",
+   "short": "Hotărârea CNCD nr. 65/2020",
+   "title": "Hotărârea CNCD nr. 65/2020: Încălcarea unor drepturi în timpul executării unei pedepse privative de libertate.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-65-2020/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-65-2020/",
+     "sha256": "604f6849f17f4952cff89fe1b610b213e7409d02535c37a30c3ca05bfb12f3d2"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-66",
+   "path": "cncd/hotarare/2020/66",
+   "short": "Hotărârea CNCD nr. 66/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 66/2020 din 2020-01-29",
+   "url": "https://www.cncd.ro/hotarari/hotarare-66-2020/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-66-2020/",
+     "sha256": "8af903d78e25636775c61566d3347c1ed60c5d55de825237d40a050dabcaac42"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-68",
+   "path": "cncd/hotarare/2020/68",
+   "short": "Hotărârea CNCD nr. 68/2020",
+   "title": "Hotărârea CNCD nr. 68/2020: posibilă discriminare la locul de muncă",
+   "url": "https://www.cncd.ro/hotarari/hotarare-68-2020/",
+   "versions": [
+    {
+     "from": "2008-01-14",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-68-2020/",
+     "sha256": "cae2a61ce0ccc80fe4a5f5d08b146458c30afa5dc4b30bc712a777948fe62d22"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-69",
+   "path": "cncd/hotarare/2020/69",
+   "short": "Hotărârea CNCD nr. 69/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 69/2020 din 2020-01-29",
+   "url": "https://www.cncd.ro/hotarari/hotarare-69-2020/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-69-2020/",
+     "sha256": "9592be1adb6772b81c511ec837e071cc9fffb0e439121436a620011077151c07"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-7",
+   "path": "cncd/hotarare/2020/7",
+   "short": "Hotărârea CNCD nr. 7/2020",
+   "title": "Hotărârea CNCD nr. 7/2020: soluționarea unui dosar penal de către magistrați",
+   "url": "https://www.cncd.ro/hotarari/hotarare-7-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-7-2020/",
+     "sha256": "00b96f6ac80023744ed032dbd8e9109ca79913d1efed0e69a9b454c6348a33d5"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-70",
+   "path": "cncd/hotarare/2020/70",
+   "short": "Hotărârea CNCD nr. 70/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 70/2020 din 2019-01-29",
+   "url": "https://www.cncd.ro/hotarari/hotarare-70-2020/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-70-2020/",
+     "sha256": "b2ecf2af9b3bc26c8bc0bca365a246d9f6c70bfad409df78050bc1eb96658453"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-71",
+   "path": "cncd/hotarare/2020/71",
+   "short": "Hotărârea CNCD nr. 71/2020",
+   "title": "Hotărârea CNCD nr. 71/2020: afirmații care aduc atingere demnității persoanelor aparținând etniei rome și cu o situație socială defavorizată",
+   "url": "https://www.cncd.ro/hotarari/hotarare-71-2020/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-71-2020/",
+     "sha256": "c257979a3cb94c6f88e8c8434828cdece0a1fa5019f169e98f16962a1c9a697e"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-72",
+   "path": "cncd/hotarare/2020/72",
+   "short": "Hotărârea CNCD nr. 72/2020",
+   "title": "Hotărârea CNCD nr. 72/2020: solicitare de despăgubiri pentru pagubele animalelor sălbatice asupra terenurilor petentului și sesizarea unui incident în care fiul acestuia a fost spânzurat de către paznicul de vânătoare,",
+   "url": "https://www.cncd.ro/hotarari/hotarare-72-2020/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-72-2020/",
+     "sha256": "2a31583cced95dd5d2ed4ad55c1f79b170fc1adaa132559c8b8de3529c4728a4"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-73",
+   "path": "cncd/hotarare/2020/73",
+   "short": "Hotărârea CNCD nr. 73/2020",
+   "title": "Hotărârea CNCD nr. 73/2020: discriminare la admiterea în profesia de executor judecătoresc cu scutire de examen",
+   "url": "https://www.cncd.ro/hotarari/hotarare-73-2020/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-73-2020/",
+     "sha256": "9b6e233d8c6021aad5a1844431f9e52aa402a9adeb6745ed8b39d8881dc95baf"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-74",
+   "path": "cncd/hotarare/2020/74",
+   "short": "Hotărârea CNCD nr. 74/2020",
+   "title": "Hotărârea CNCD nr. 74/2020: afirmații care aduc atingere demnității persoanelor aparținând etniei rome și cu o situație socială defavorizată",
+   "url": "https://www.cncd.ro/hotarari/hotarare-74-2020/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-74-2020/",
+     "sha256": "c1d2260b3e64e2b088b72afcdd6162b470d4dbf04333ef8a8e37a3730f468047"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-75",
+   "path": "cncd/hotarare/2020/75",
+   "short": "Hotărârea CNCD nr. 75/2020",
+   "title": "Hotărârea CNCD nr. 75/2020: petentul reclamă faptul că, în momentul în care a returnat un cuptor achiziționat de la firma reclamată, a fost jignit de o angajată care a instigat la violență fizică și verbală un gardian",
+   "url": "https://www.cncd.ro/hotarari/hotarare-75-2020/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-75-2020/",
+     "sha256": "5afed141dd53b8fda93f61131aee0868e64bf3930280bca7cd7d9b38e0c6fd33"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-76",
+   "path": "cncd/hotarare/2020/76",
+   "short": "Hotărârea CNCD nr. 76/2020",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 76/2020 din 2020-01-29",
+   "url": "https://www.cncd.ro/hotarari/hotarare-76-2020/",
+   "versions": [
+    {
+     "from": "2020-01-29",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-76-2020/",
+     "sha256": "e1d8748ecf0322b0534865ecc8f2584e8d7ac108f91cf29f0de154bbb0f2df4b"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-8",
+   "path": "cncd/hotarare/2020/8",
+   "short": "Hotărârea CNCD nr. 8/2020",
+   "title": "Hotărârea CNCD nr. 8/2020: petentul consideră că a fost amendat contravențional din cauza apartenenței sale etnice, fiind maghiar",
+   "url": "https://www.cncd.ro/hotarari/hotarare-8-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-8-2020/",
+     "sha256": "de2b2fd3288fc022bcd47bc038611ddcffadb14356e5189db7347854268d18fd"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2020-9",
+   "path": "cncd/hotarare/2020/9",
+   "short": "Hotărârea CNCD nr. 9/2020",
+   "title": "Hotărârea CNCD nr. 9/2020: petenta, reprezentant legal al jucătorului profesionist de footbal, reclamă faptul că acesta este discriminat la locul de muncă prin tratament diferit aplicat în comparație cu restul echipei.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-9-2020/",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-9-2020/",
+     "sha256": "6390569104b7ad8596ff5092a609f9a2b906da455ed75ff60d48dc5461385b81"
+    }
+   ]
+  }
+ ]
+}

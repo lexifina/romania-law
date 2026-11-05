@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "norma/1992",
+ "acts": [
+  {
+   "slug": "norma-bnr-10-1992",
+   "path": "norma/bnr/1992/10",
+   "short": "Norma bnr nr. 10/1992",
+   "title": "Norma nr. 10/1992 privind împrumuturile acordate debitorilor aflați în relații speciale cu societățile bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2130",
+   "versions": [
+    {
+     "from": "1992-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2130",
+     "sha256": "6983b9eca67e220aaf2dac891805ebc15baeb42c3f39ce5a8c284bb459127ebd"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-11-1992",
+   "path": "norma/bnr/1992/11",
+   "short": "Norma bnr nr. 11/1992",
+   "title": "Norma nr. 11/1992 privind modul de aplicare a reglementărilor în vigoare referitoare la mijloacele de plată străine, devenite proprietate de stat conform legii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2134",
+   "versions": [
+    {
+     "from": "1992-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2134",
+     "sha256": "e71f510b95af65b2962681a98e1a47d97df23fd1f8ec05b7ddbd46a115f5856e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-2-1992",
+   "path": "norma/bnr/1992/2",
+   "short": "Norma bnr nr. 2/1992",
+   "title": "Norma nr. 2/1992 privind modificarea situației societăților bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2079",
+   "versions": [
+    {
+     "from": "1992-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2079",
+     "sha256": "5b391f45291eb74e687b9485e6817185377b1e5465c301c62b84befa27da216b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-3-1992",
+   "path": "norma/bnr/1992/3",
+   "short": "Norma bnr nr. 3/1992",
+   "title": "Norma nr. 3/1992 privind notificarea deschiderii în România de reprezentante de către societățile bancare cu sediul în străinătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2088",
+   "versions": [
+    {
+     "from": "1992-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2088",
+     "sha256": "6bfee8609e1ad1b6c168ca841dc3b16e018c09acb027d38b578beb529c866d68"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-4-1992",
+   "path": "norma/bnr/1992/4",
+   "short": "Norma bnr nr. 4/1992",
+   "title": "Norma nr. 4/1992 privind registrul societăților bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2097",
+   "versions": [
+    {
+     "from": "1992-05-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2097",
+     "sha256": "e01eb523f9d3dbfbb6f8559158de8a3e227765b2f08a46433af1084eb511ec1b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-7-1992",
+   "path": "norma/bnr/1992/7",
+   "short": "Norma bnr nr. 7/1992",
+   "title": "Norma nr. 7/1992 privind capitalul minim al societăților bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2114",
+   "versions": [
+    {
+     "from": "1992-08-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2114",
+     "sha256": "e7c2be76c11611711ec3ee39716a5eb44543f4959b1dbcf223f8ea3ecbb2d3c8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-10355-1992",
+   "path": "norma/finante/1992/10355",
+   "short": "Norma finante nr. 10355/1992",
+   "title": "Norma nr. 10.355/1992 modificări - la Normele metodologice nr. 561/181.040/1992 cu privire la majorarea fondului total destinat plății salariilor pentru care nu se plătește impozit suplimentar, în raport cu sporirea eficientei economice, respectiv a productivității muncii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2951",
+   "versions": [
+    {
+     "from": "1992-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2951",
+     "sha256": "2066be7ebcdc4ccd098c65df50ead7c3945fe37c61cf21b96a2be1e3ae46791d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-182678-1992",
+   "path": "norma/finante/1992/182678",
+   "short": "Norma finante nr. 182678/1992",
+   "title": "Norma nr. 182.678/1992 modificări - la Normele metodologice nr. 561/181.040/1992 cu privire la majorarea fondului total destinat plății salariilor pentru care nu se plătește impozit suplimentar, în raport cu sporirea eficientei economice, respectiv a productivității muncii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2959",
+   "versions": [
+    {
+     "from": "1992-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2959",
+     "sha256": "917c4e8396776f1dbecd757a79052e21a9751da44f862f67ed84c3060c162fab"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-235-1992",
+   "path": "norma/munca/1992/235",
+   "short": "Norma munca nr. 235/1992",
+   "title": "Norma nr. 235/1992 privind condițiile și modul de calcul al majorării fondului lunar destinat plății salariilor pentru care societățile comerciale cu capital majoritar de stat și regiile autonome nu plătesc impozit suplimentar ca urmare a dezvoltării activității și creșterii numărului de personal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2549",
+   "versions": [
+    {
+     "from": "1992-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2549",
+     "sha256": "dfe0c5cd121b620a98e5550f3c6e7132abec2a1f7c20454ca3a9b952fedb2022"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-182879-1992",
+   "path": "norma/sanatate/1992/182879",
+   "short": "Norma sanatate nr. 182879/1992",
+   "title": "Norma nr. 182.879/1992 privind finanțarea ocrotirii sănătății, potrivit Ordonanței Guvernului nr. 22/1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2961",
+   "versions": [
+    {
+     "from": "1992-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2961",
+     "sha256": "4a5c569fdfa2c3ff86ef2cf3c104ca2cc9858398a9a4637d5ad391b650929a7b"
+    }
+   ]
+  }
+ ]
+}

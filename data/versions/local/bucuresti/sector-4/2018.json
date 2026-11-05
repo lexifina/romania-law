@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-4/2018",
+ "acts": [
+  {
+   "slug": "hcls4-104-2018",
+   "path": "local/bucuresti/sector-4/2018/104",
+   "short": "HCLS4 nr. 104/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 104/2018 pentru modificarea și completarea Anexei nr. 1 la Hotărârea Consiliului Local Sector 4 nr. 39/2017 privind constituirea Comisiei Tehnice de Amenajare a Teritoriului și Urbanism a Sectorului 4 al Municipiului București precum și aprobarea Regulamentului de organizare și funcționare a Comisiei Tehnice de Amenajarea Teritoriului și Urbanism",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=80",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2018/05/H_104_.pdf",
+     "sha256": "f0ec2a5235b034c3680ecfdf22f38eb6cb6d173cbeef6562cbf8ebae78fe531f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-116-2018",
+   "path": "local/bucuresti/sector-4/2018/116",
+   "short": "HCLS4 nr. 116/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 116/2018 privind extinderea modalităților de plată a taxelor și tarifelor de parcare la nivelul Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=79",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2018/05/H_116_.pdf",
+     "sha256": "bcc1ffdbb9558b0e0518504997a42c25f526773caca6d6b680163ec2989b2157"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-136-2018",
+   "path": "local/bucuresti/sector-4/2018/136",
+   "short": "HCLS4 nr. 136/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 136/2018 privind solicitarea acordului Consiliul General al Municipiului București în vederea amenajării de către Sectorul 4 al Municipiului București a pistelor de biciclete pe străzile/ trotuarele prevăzute în Anexa la prezenta, de pe raza administrativ-teritorială a Sectorului 4, aflate în administrarea C.G.M.B-Administrația Străzilor, în concordanță cu Planul de Mobilitate Urbană Durabilă",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=79",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2018/06/H_136_.pdf",
+     "sha256": "335b2bb19c96865ca38bad627d61991d68d786b09f1a1dffb28015c03e142036"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-150-2018",
+   "path": "local/bucuresti/sector-4/2018/150",
+   "short": "HCLS4 nr. 150/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 150/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-06-14",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2018/06/H_150_.pdf",
+     "sha256": "6725f10d4a5fbb443cad69d0e4c268463ae41bef9af833f4068e21637a3e91c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-189-2018",
+   "path": "local/bucuresti/sector-4/2018/189",
+   "short": "HCLS4 nr. 189/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 189/2018 pentru abrogarea Hotărârii Consiliului Local Sector 4 nr. 39/27.02.2017 privind constituirea Comisiei Tehnice de Amenajare a Teritoriului și Urbanism a Sectorului 4 al Municipiului București precum și aprobarea Regulamentului de organizare și funcționare a Comisiei Tehnice de Amenajarea Teritoriului și Urbanism, modificată și completată prin HCLS4 nr. 104/26.04.2018",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=77",
+   "versions": [
+    {
+     "from": "2018-07-02",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2018/07/H_189_.pdf",
+     "sha256": "d03022e18a51c0f48a1a076d6541fa47ebe2fbe2af8b48ae61529adbc3c7a4c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-20-2018",
+   "path": "local/bucuresti/sector-4/2018/20",
+   "short": "HCLS4 nr. 20/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 20/2018 privind extinderea modalităților de plată a impozitelor și taxelor locale la nivelul Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=83",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_20_-4.pdf",
+     "sha256": "202d8e23356463f6484683ad5f713438b04e4add7aabdf3d5d844c0700732454"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-215-2018",
+   "path": "local/bucuresti/sector-4/2018/215",
+   "short": "HCLS4 nr. 215/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 215/2018 privind aprobarea regulamentului de salarizare a personalului din proiectele finanțate din fonduri europene nerambursabile, derulate prin Aparatul de Specialitate al Primarului Sectorului 4 al Municipiului București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=76",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2018/09/H_215_.pdf",
+     "sha256": "53ce7e65dfd6bfabe76980f56870101d68236f26c9b60c36762f13c8010c15ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-219-2018",
+   "path": "local/bucuresti/sector-4/2018/219",
+   "short": "HCLS4 nr. 219/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 219/2018 privind modificarea și completarea Anexei nr. 1 la Hotărârea Consiliului Local al Sectorului 4 nr.75/2017, privind metodologia de atribuire a locurilor de parcare rezidențiale, pe raza sectorului 4 al Municipiului București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=76",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2018/09/H_219_.pdf",
+     "sha256": "2a5cb9aad306d3a38df340ffda7f9496bcbf4b253af5efcef68caf72d167aa36"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-259-2018",
+   "path": "local/bucuresti/sector-4/2018/259",
+   "short": "HCLS4 nr. 259/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 259/2018 privind tarifele pentru serviciile prestate și utilizarea domeniului public aflat în administrarea Direcției Piețe și Gestionarea Activități Comerciale Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=75",
+   "versions": [
+    {
+     "from": "2018-10-02",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2018/10/H_259_.pdf",
+     "sha256": "f3141bfee287ad81d4ee7c03d423be389e0b87dd86dbfd21c54afc3d64a110f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-262-2018",
+   "path": "local/bucuresti/sector-4/2018/262",
+   "short": "HCLS4 nr. 262/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 262/2018 privind înființarea și componența Comisiei de Soluționare a Contestațiilor la Repartizarea Locuințelor din fondul locativ de stat din Sectorul 4 al Municipiului București și aprobarea Regulamentului de funcționare a acesteia",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=75",
+   "versions": [
+    {
+     "from": "2018-10-02",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2018/10/H_262_.pdf",
+     "sha256": "7df60950f43b2a78293865cb2d42e571e16859be7ca0bf71f60482cf22af2c15"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-293-2018",
+   "path": "local/bucuresti/sector-4/2018/293",
+   "short": "HCLS4 nr. 293/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 293/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2018/11/H_293_.pdf",
+     "sha256": "1a12ba4958d0ec0364620a8f3fb41793bf90d627e92435028968facc389ddb41"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-304-2018",
+   "path": "local/bucuresti/sector-4/2018/304",
+   "short": "HCLS4 nr. 304/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 304/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2018/12/H_304_.pdf",
+     "sha256": "de3aa35e75b9fd20d413a8987d71004c46d79b955de9d8f5fdc1ca4e077e6693"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-306-2018",
+   "path": "local/bucuresti/sector-4/2018/306",
+   "short": "HCLS4 nr. 306/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 306/2018 pentru modificarea și completarea Anexei nr. 1 la Hotărârea Consiliului Local al Sectorului 4 nr. 150/19.12.2016, privind metodologia de atribuire a locurilor de parcare rezidențiale, pe raza Sectorului 4 al Municipiului București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=73",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2018/12/H_306_.pdf",
+     "sha256": "00c39aee293393c65282e5b212ff65c72fd806cc1f3f860a61c00feb503c18c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-308-2018",
+   "path": "local/bucuresti/sector-4/2018/308",
+   "short": "HCLS4 nr. 308/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 308/2018 pentru modificarea și completarea Anexei la Hotărârea Consiliului Local Sector nr.4 nr.259/02.10.2018 privind tarifele pentru serviciile prestate și utilizarea domeniului public aflat în administrarea Direcției Piețe și Gestionarea Activități Comerciale Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=73",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2018/12/H_308_.pdf",
+     "sha256": "aa4a466da9928dc4883d7f1416cddf8e1396520fc585a987e8853bff038dcf34"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-310-2018",
+   "path": "local/bucuresti/sector-4/2018/310",
+   "short": "HCLS4 nr. 310/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 310/2018 privind aprobarea Metodologiei de internare în cadrul Centrului Medico–Social “Sfântul Andrei” aflat în subordinea Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 4, a contractului pentru acordarea de servicii medico-sociale și a angajamentelor de plată",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=73",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2018/12/H_310_.pdf",
+     "sha256": "f74ee2b00df7999d6040b7843447b05a2f6cf6191078988f3083ab06e1231070"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-339-2018",
+   "path": "local/bucuresti/sector-4/2018/339",
+   "short": "HCLS4 nr. 339/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 339/2018 privind respingerea achiziționării de către Direcția Generală de Impozite și Taxe Locale Sector 4 a unor servicii de consultanță juridică pentru aspectele legale privitoare la instituirea unei taxe pentru activităţile cu impact asupra mediului înconjurător",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=72",
+   "versions": [
+    {
+     "from": "2018-12-13",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2018/12/H_339_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-347-2018",
+   "path": "local/bucuresti/sector-4/2018/347",
+   "short": "HCLS4 nr. 347/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 347/2018 pentru aprobarea Regulamentului, procedurii și modelului de contract privind parcările/parcajele publice aflate în administrarea Sectorului 4 al Municipiului București, prin Direcția Mobilitate Urbană Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=72",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2019/01/H_347_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-59-2018",
+   "path": "local/bucuresti/sector-4/2018/59",
+   "short": "HCLS4 nr. 59/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 59/2018 privind aprobarea cooperării dintre Consiliul Local Sector 4 prin Direcția Piețe și Gestionare Activități Comerciale Sector 4, Primăria Comunei Zimbreasca, Agenția Națională pentru Zootehnie și Direcția pentru Agricultură a Municipiului București, în vederea realizării în comun a unor acțiuni în interesul și pentru cetățenii din Sectorul 4, respectiv organizarea unui „Târg de Paște al mieilor”, într-un spațiu situat în incinta Pieței Apărătorii Patriei din Sectorul 4, a modelului Protocolului de cooperare, precum și avizarea Regulamentului de funcționare al „Târgului de Paște al mieilor”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=81",
+   "versions": [
+    {
+     "from": "2018-03-23",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2018/03/H_59_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-86-2018",
+   "path": "local/bucuresti/sector-4/2018/86",
+   "short": "HCLS4 nr. 86/2018",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 86/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2018/05/H_86_.pdf",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

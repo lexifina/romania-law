@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "norma/2004",
+ "acts": [
+  {
+   "slug": "norma-bnr-1-2004",
+   "path": "norma/bnr/2004/1",
+   "short": "Norma bnr nr. 1/2004",
+   "title": "Norma nr. 1/2004 pentru modificarea Normelor metodologice ale Băncii Naționale a României și Comisiei Naționale a Valorilor Mobiliare nr. 3/2000 de aplicare a Legii nr. 190/1999 privind creditul ipotecar pentru investiții imobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49832",
+   "versions": [
+    {
+     "from": "2004-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49832",
+     "sha256": "2494da11a66c0918432d71135152bcb1d959a43271f056afa016787d9b3513bf"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-10-2004",
+   "path": "norma/bnr/2004/10",
+   "short": "Norma bnr nr. 10/2004",
+   "title": "Norma nr. 10/2004 privind autorizarea băncilor, instituțiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55896",
+   "versions": [
+    {
+     "from": "2004-10-15",
+     "units": 90,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55896",
+     "sha256": "65d0ac6e2dd5abf96c1b33cd9f12f7fd5a5a1735a00b22c0639563808cc8cfcb"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-11-2004",
+   "path": "norma/bnr/2004/11",
+   "short": "Norma bnr nr. 11/2004",
+   "title": "Norma nr. 11/2004 privind modificările în situația băncilor, instituțiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56989",
+   "versions": [
+    {
+     "from": "2004-11-25",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56989",
+     "sha256": "55226c8eb5394fb724dbf94e3abe9278aad6bd1cc80a4d3bf961019bf2d93384"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-12-2004",
+   "path": "norma/bnr/2004/12",
+   "short": "Norma bnr nr. 12/2004",
+   "title": "Norma nr. 12/2004 privind modificarea și completarea Normelor Băncii Naționale a României nr. 3/1998 privind plafoanele tehnice de garantare unilaterală, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56790",
+   "versions": [
+    {
+     "from": "2004-11-18",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56790",
+     "sha256": "9d2920baeac472e7a547f7ac31a8d0987134bf47e89351004f9675fd0101f336"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-14-2004",
+   "path": "norma/bnr/2004/14",
+   "short": "Norma bnr nr. 14/2004",
+   "title": "Norma nr. 14/2004 pentru modificarea și completarea Normelor Băncii Naționale a României nr. 4/2001 privind supravegherea pozițiilor valutare ale băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58142",
+   "versions": [
+    {
+     "from": "2004-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58142",
+     "sha256": "88abadcd8e430d62162a4b3dbecb47d27fbcadc6645351b076d0a3050a739847"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-15-2004",
+   "path": "norma/bnr/2004/15",
+   "short": "Norma bnr nr. 15/2004",
+   "title": "Norma nr. 15/2004 privind principiile supravegherii pe bază consolidată a instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58238",
+   "versions": [
+    {
+     "from": "2004-12-30",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58238",
+     "sha256": "c73ef55d9eaca64362ab145d791f26162b392f6a8de4d2ab2787ad8d19dde88a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-16-2004",
+   "path": "norma/bnr/2004/16",
+   "short": "Norma bnr nr. 16/2004",
+   "title": "Norma nr. 16/2004 privind tehnicile echivalente pentru garantarea autenticității semnăturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58126",
+   "versions": [
+    {
+     "from": "2004-12-27",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58126",
+     "sha256": "2671899966513a4829701b3e89bae5433d281319423defa7b129c57f5a2313da"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-2-2004",
+   "path": "norma/bnr/2004/2",
+   "short": "Norma bnr nr. 2/2004",
+   "title": "Norma nr. 2/2004 privind raportarea statistică la Banca Națională a României a unor operațiuni valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49731",
+   "versions": [
+    {
+     "from": "2004-04-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49731",
+     "sha256": "98bbe7ca45f5997a79a9b1939b27661b0c81b3994e80f9f224964a322a5ab4d3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-3-2004",
+   "path": "norma/bnr/2004/3",
+   "short": "Norma bnr nr. 3/2004",
+   "title": "Norma nr. 3/2004 pentru modificarea Normei Băncii Naționale a României nr. 17/2002 privind raportarea statistică la Banca Națională a României a operațiunilor valutare de capital de natura datoriei private externe pe termen mediu și lung",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49678",
+   "versions": [
+    {
+     "from": "2004-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49678",
+     "sha256": "f853eacd7486358f03909de0c2400a7d3681cbbda55978ed049f839617021906"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-4-2004",
+   "path": "norma/bnr/2004/4",
+   "short": "Norma bnr nr. 4/2004",
+   "title": "Norma nr. 4/2004 privind raportarea statistică a datelor pentru elaborarea balanței de plăți a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53453",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53453",
+     "sha256": "79d4da5717aca99d413cd22481c56edb3db99834c05f25222f8d18fc6d6cc59f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-5-2004",
+   "path": "norma/bnr/2004/5",
+   "short": "Norma bnr nr. 5/2004",
+   "title": "Norma nr. 5/2004 privind adecvarea capitalului instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54607",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54607",
+     "sha256": "06146b81b762add27bd0a52bce57b2b7c87092a2c759227cb9eba158bf8a078d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-6-2004",
+   "path": "norma/bnr/2004/6",
+   "short": "Norma bnr nr. 6/2004",
+   "title": "Norma nr. 6/2004 privind acordarea din bugetul asigurărilor pentru șomaj de credite în condiții avantajoase, respectiv fonduri nerambursabile, întreprinderilor mici și mijlocii, unităților cooperatiste, asociațiilor familiale și persoanelor fizice care desfășoară în mod independent activități economice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54161",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54161",
+     "sha256": "61d664625848f0f61429b20cf28f7147122439a6bad5988b66612fb20108efc5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-7-2004",
+   "path": "norma/bnr/2004/7",
+   "short": "Norma bnr nr. 7/2004",
+   "title": "Norma nr. 7/2004 privind autorizarea organizațiilor cooperației de credit și a organizațiilor cooperatiste de credit prevăzute la art. II alin. (1) din Legea nr. 122/2004 pentru modificarea Ordonanței de urgență a Guvernului nr. 97/2000 privind organizațiile cooperatiste de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54805",
+   "versions": [
+    {
+     "from": "2004-08-30",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54805",
+     "sha256": "0dccad03d1c76cf7b70a85599021ef419b60a5647702106fecae31a945b2aa8a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-8-2004",
+   "path": "norma/bnr/2004/8",
+   "short": "Norma bnr nr. 8/2004",
+   "title": "Norma nr. 8/2004 pentru modificarea și completarea Normelor Băncii Naționale a României nr. 13/2002 privind capitalul minim al organizațiilor cooperatiste de credit și capitalul agregat minim al rețelelor cooperatiste de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54470",
+   "versions": [
+    {
+     "from": "2004-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54470",
+     "sha256": "b00ccf032f5de7429b9eea40e5806b4b1a6f0c0fef1dc14385f71cd415fbddfd"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-9-2004",
+   "path": "norma/bnr/2004/9",
+   "short": "Norma bnr nr. 9/2004",
+   "title": "Norma nr. 9/2004 pentru completarea și modificarea Normelor Băncii Naționale a României nr. 12/2003 privind supravegherea solvabilității și expunerilor mari ale instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54781",
+   "versions": [
+    {
+     "from": "2004-08-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54781",
+     "sha256": "7e90645c1f1a5304689c2c5b252efac20a0dce43f53209da351400df4869cb1e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cnvm-3-2004",
+   "path": "norma/cnvm/2004/3",
+   "short": "Norma cnvm nr. 3/2004",
+   "title": "Norma nr. 3/2004 pentru modificarea Normelor metodologice ale Băncii Naționale a României și Comisiei Naționale a Valorilor Mobiliare nr. 3/2000 de aplicare a Legii nr. 190/1999 privind creditul ipotecar pentru investiții imobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49839",
+   "versions": [
+    {
+     "from": "2004-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49839",
+     "sha256": "52f1cf1363f0158b28078b4caa8c44307fde766941f07460219d35837fd91c12"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-2560-2004",
+   "path": "norma/munca/2004/2560",
+   "short": "Norma munca nr. 2560/2004",
+   "title": "Norma nr. 2.560/2004 privind acordarea din bugetul asigurărilor pentru șomaj de credite în condiții avantajoase, respectiv fonduri nerambursabile, întreprinderilor mici și mijlocii, unităților cooperatiste, asociațiilor familiale și persoanelor fizice care desfășoară în mod independent activități economice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54154",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54154",
+     "sha256": "16ad0db4cdc5b5ed9b478e088d72f85ab80ca101f1134d5660429e2bf326b8de"
+    }
+   ]
+  }
+ ]
+}

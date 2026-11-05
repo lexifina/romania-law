@@ -1,0 +1,103 @@
+{
+"country": "RO",
+"shard": "norma-aep/2019",
+"acts": [
+{
+"slug": "norma-aep-cuantum-total-14-138-2019",
+"path": "norma-aep/2019/cuantum-total-14-138",
+"kind": "norma-aep",
+"year": "2019",
+"number": "cuantum-total-14-138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Cuantum total Autorității Electorale Permanente nr. 14-138 din 2019-07-09",
+"short": "Cuantum total AEP nr. 14-138/2019",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-07-11",
+"latest": "2019-07-11",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/216018",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-cuantum-total-29-889-2019",
+"path": "norma-aep/2019/cuantum-total-29-889",
+"kind": "norma-aep",
+"year": "2019",
+"number": "cuantum-total-29-889",
+"withdrawn_by": null,
+"reason": null,
+"title": "Cuantum total Autorității Electorale Permanente nr. 29-889 din 2019-12-16",
+"short": "Cuantum total AEP nr. 29-889/2019",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-12-20",
+"latest": "2019-12-20",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/221116",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-ghid-2019-10-04-2019",
+"path": "norma-aep/2019/ghid-2019-10-04",
+"kind": "norma-aep",
+"year": "2019",
+"number": "ghid-2019-10-04",
+"withdrawn_by": null,
+"reason": null,
+"title": "GHID din 4 octombrie 2019 privind finanţarea campaniei electorale la alegerile pentru Preşedintele României din anul 2019",
+"short": "Ghidul AEP din 2019-10-04",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-10-04",
+"latest": "2019-10-04",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/218686"
+},
+{
+"slug": "norma-aep-lista-29-890-2019",
+"path": "norma-aep/2019/lista-29-890",
+"kind": "norma-aep",
+"year": "2019",
+"number": "lista-29-890",
+"withdrawn_by": null,
+"reason": null,
+"title": "Listă Autorității Electorale Permanente nr. 29-890 din 2019-12-16",
+"short": "Listă AEP nr. 29-890/2019",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-12-20",
+"latest": "2019-12-20",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/221117",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-norma-2019-10-09-2019",
+"path": "norma-aep/2019/norma-2019-10-09",
+"kind": "norma-aep",
+"year": "2019",
+"number": "norma-2019-10-09",
+"withdrawn_by": null,
+"reason": null,
+"title": "Normă Autorității Electorale Permanente din 2019-10-09",
+"short": "Normă AEP din 2019-10-09",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2019-10-10",
+"latest": "2019-10-10",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/218806",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

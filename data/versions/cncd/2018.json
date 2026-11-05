@@ -1,0 +1,5166 @@
+{
+ "country": "RO",
+ "shard": "cncd/2018",
+ "acts": [
+  {
+   "slug": "cncd-hotarare-2018-1",
+   "path": "cncd/hotarare/2018/1",
+   "short": "Hotărârea CNCD nr. 1/2018",
+   "title": "Hotărârea CNCD nr. 1/2018: petentul consideră că i-a fost îngradit dreptul la muncă",
+   "url": "https://www.cncd.ro/hotarari/hotarare-1-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-1-2018/",
+     "sha256": "aede33aa23f6b60011e9eecec0d0d7ecb4c2c10acb4ede41e775a3359847560b"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-10",
+   "path": "cncd/hotarare/2018/10",
+   "short": "Hotărârea CNCD nr. 10/2018",
+   "title": "Hotărârea CNCD nr. 10/2018: —",
+   "url": "https://www.cncd.ro/hotarari/hotarare-10-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-10-2018/",
+     "sha256": "50f30d2e191e23cc2c3b6fe8c32725dd74bb5860146587623f7796b1cdea1b58"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-106",
+   "path": "cncd/hotarare/2018/106",
+   "short": "Hotărârea CNCD nr. 106/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 106/2018 din 2018-03-07",
+   "url": "https://www.cncd.ro/hotarari/hotarare-106-2018/",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-106-2018/",
+     "sha256": "2a5939f6556e67f889543fdfa3ef102fced8736a673d168b198318ab6b67f153"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-109",
+   "path": "cncd/hotarare/2018/109",
+   "short": "Hotărârea CNCD nr. 109/2018",
+   "title": "Hotărârea CNCD nr. 109/2018: reclamă mai multe persoane cu privire la săvârșirea unor fapte precum, sistarea apei reci, majorarea cotelor la întreținere, ipoteca pe locuință în mod abuziv, loviri, amenințări, sancționare contravențională (în mod abuziv), etc., petentul aparținând cultului mozaic.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-109-2018/",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-109-2018/",
+     "sha256": "b30b4863db0f748d725eef9436f3b1cd1d30d8596aa40fdd4c8c808fc9b3456f"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-11",
+   "path": "cncd/hotarare/2018/11",
+   "short": "Hotărârea CNCD nr. 11/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 11/2018 din 2018-01-10",
+   "url": "https://www.cncd.ro/hotarari/hotarare-11-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-11-2018/",
+     "sha256": "b2a6f9876572aa1a29aa7f24c8bebcee97012131632e0bea4393029a0db01a28"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-110",
+   "path": "cncd/hotarare/2018/110",
+   "short": "Hotărârea CNCD nr. 110/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 110/2018 din 2018-03-07",
+   "url": "https://www.cncd.ro/hotarari/hotarare-110-2018/",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-110-2018/",
+     "sha256": "d80b42616236580d27248975aa29381e93874efbaa017ed4d8311749af15a553"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-111",
+   "path": "cncd/hotarare/2018/111",
+   "short": "Hotărârea CNCD nr. 111/2018",
+   "title": "Hotărârea CNCD nr. 111/2018: transferarea petentului la un penitenciar accesibilizat persoanelor cu dizabilități",
+   "url": "https://www.cncd.ro/hotarari/hotarare-111-18/",
+   "versions": [
+    {
+     "from": "2017-03-07",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-111-18/",
+     "sha256": "999fe250718c28eef974084321b166071e93dc0fbaaff377c54f5924303e0158"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-112",
+   "path": "cncd/hotarare/2018/112",
+   "short": "Hotărârea CNCD nr. 112/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 112/2018 din 2018-03-07",
+   "url": "https://www.cncd.ro/hotarari/hotarare-112-18/",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-112-18/",
+     "sha256": "d383a31c2f597b3c6c205df2e53f09dba19689f68316261cc8315dcb6672c678"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-113",
+   "path": "cncd/hotarare/2018/113",
+   "short": "Hotărârea CNCD nr. 113/2018",
+   "title": "Hotărârea CNCD nr. 113/2018: posibila discriminare prin diferite modalități în timpul serviciului și în legătură cu atribuțiile de serviciu",
+   "url": "https://www.cncd.ro/hotarari/hotarare-113-2018/",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-113-2018/",
+     "sha256": "98d09918a1fa58c66cfae8dd083dcbff9e6705adffb36db695c3815a7e2f342b"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-114",
+   "path": "cncd/hotarare/2018/114",
+   "short": "Hotărârea CNCD nr. 114/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 114/2018 din 2018-03-07",
+   "url": "https://www.cncd.ro/hotarari/hotarare-114-18/",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-114-18/",
+     "sha256": "cb6a6aa74fc110fafcb529df6d57d4edbb6af394bf22ae86020440a84b904060"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-115",
+   "path": "cncd/hotarare/2018/115",
+   "short": "Hotărârea CNCD nr. 115/2018",
+   "title": "Hotărârea CNCD nr. 115/2018: Neacordare a drepturilor salariale restante prevăzute de hotărâri judecătorești definitive, în conformitate cu Legea nr. 85/2016",
+   "url": "https://www.cncd.ro/hotarari/hotarare-115-2018/",
+   "versions": [
+    {
+     "from": "2018-03-14",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-115-2018/",
+     "sha256": "ae8a24beb94a3a446b0f89f19f6cb65b35f3ab1a99df88cb1c351e3136b71b85"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-116",
+   "path": "cncd/hotarare/2018/116",
+   "short": "Hotărârea CNCD nr. 116/2018",
+   "title": "Hotărârea CNCD nr. 116/2018: neacordarea pensiei de serviciu conform Legii nr. 130/2015 pentru completarea Legii nr. 567/2004 și a Normelor de aplicare prevăzute în H.G. nr. 705/2015",
+   "url": "https://www.cncd.ro/hotarari/hotarare-116-2018/",
+   "versions": [
+    {
+     "from": "2018-03-14",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-116-2018/",
+     "sha256": "84ca4fc54b9757204c3adc86c7d9749f468198e99956ad0b26fc327ecd190e0c"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-117",
+   "path": "cncd/hotarare/2018/117",
+   "short": "Hotărârea CNCD nr. 117/2018",
+   "title": "Hotărârea CNCD nr. 117/2018: Prevederi discriminatorii în Legea nr.96/2006",
+   "url": "https://www.cncd.ro/hotarari/hotarare-117-2018/",
+   "versions": [
+    {
+     "from": "2018-03-14",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-117-2018/",
+     "sha256": "f37ff0a65fe5b3921f040aa12083f5804c48d9a44effd0f03345d99cd4b895ab"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-118",
+   "path": "cncd/hotarare/2018/118",
+   "short": "Hotărârea CNCD nr. 118/2018",
+   "title": "Hotărârea CNCD nr. 118/2018",
+   "url": "https://www.cncd.ro/hotarari/hotarare-118-18/",
+   "versions": [
+    {
+     "from": "2018-03-14",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-118-18/",
+     "sha256": "a7c245cf8a055e02e6e44205a2214661059882898892fd0a715d4840fa90ad03"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-119",
+   "path": "cncd/hotarare/2018/119",
+   "short": "Hotărârea CNCD nr. 119/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 119/2018 din 2018-03-14",
+   "url": "https://www.cncd.ro/hotarari/hotarare-119-18/",
+   "versions": [
+    {
+     "from": "2018-03-14",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-119-18/",
+     "sha256": "dee5c025e98affb9d4fd580a4013d4d7564d4bb21f6a747e19e155592609a39d"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-12",
+   "path": "cncd/hotarare/2018/12",
+   "short": "Hotărârea CNCD nr. 12/2018",
+   "title": "Hotărârea CNCD nr. 12/2018: neprelungirea contractului de muncă pe termen limitat datorită înscrierii în sindicat",
+   "url": "https://www.cncd.ro/hotarari/hotarare-12-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-12-2018/",
+     "sha256": "5085c6ae602c64db93d0c7bbb6e5cc80e29820df109eb6f0d3a6db3271d7069b"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-121",
+   "path": "cncd/hotarare/2018/121",
+   "short": "Hotărârea CNCD nr. 121/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 121/2018 din 2018-03-14",
+   "url": "https://www.cncd.ro/hotarari/hotarare-121-2018/",
+   "versions": [
+    {
+     "from": "2018-03-14",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-121-2018/",
+     "sha256": "480617fb2de39ecc9f6263cdc9ed328e55759c1fbc1de0f5455e2d4ecd61cbbf"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-122",
+   "path": "cncd/hotarare/2018/122",
+   "short": "Hotărârea CNCD nr. 122/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 122/2018 din 2018-03-14",
+   "url": "https://www.cncd.ro/hotarari/hotarare-122-2018/",
+   "versions": [
+    {
+     "from": "2018-03-14",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-122-2018/",
+     "sha256": "851762efb974f75ccf3b73a7734fb337fb3aef663d570eee07d22c4fde28ccbb"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-123",
+   "path": "cncd/hotarare/2018/123",
+   "short": "Hotărârea CNCD nr. 123/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 123/2018 din 2018-03-21",
+   "url": "https://www.cncd.ro/hotarari/hotarare-123-2018/",
+   "versions": [
+    {
+     "from": "2018-03-21",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-123-2018/",
+     "sha256": "8964c19b60cad9112f9902ed81a4d3c7c960acf5b14137f638d0c184aa330760"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-124",
+   "path": "cncd/hotarare/2018/124",
+   "short": "Hotărârea CNCD nr. 124/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 124/2018 din 2018-03-21",
+   "url": "https://www.cncd.ro/hotarari/hotarare-124-18/",
+   "versions": [
+    {
+     "from": "2018-03-21",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-124-18/",
+     "sha256": "16872d9f7a2eb04ce263dad789332e050d5b5e97d0fa76934870c027633cc9f4"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-125",
+   "path": "cncd/hotarare/2018/125",
+   "short": "Hotărârea CNCD nr. 125/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 125/2018 din 2018-03-21",
+   "url": "https://www.cncd.ro/hotarari/hotarare-125-18/",
+   "versions": [
+    {
+     "from": "2018-03-21",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-125-18/",
+     "sha256": "b04de042d6a99e787a634266eeaf4841682470c9cfaac91098e91e1e9cf54541"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-126",
+   "path": "cncd/hotarare/2018/126",
+   "short": "Hotărârea CNCD nr. 126/2018",
+   "title": "Hotărârea CNCD nr. 126/2018",
+   "url": "https://www.cncd.ro/hotarari/hotarare-126-2018/",
+   "versions": [
+    {
+     "from": "2018-03-21",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-126-2018/",
+     "sha256": "98f114a26e75001698ebe8bcb30a00718da2acc5787a4ac71897dfafd8e17026"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-129",
+   "path": "cncd/hotarare/2018/129",
+   "short": "Hotărârea CNCD nr. 129/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 129/2018 din 2018-03-20",
+   "url": "https://www.cncd.ro/hotarari/hotarare-129-2018/",
+   "versions": [
+    {
+     "from": "2018-03-20",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-129-2018/",
+     "sha256": "778ee79bea27759335ae93d9627d3365dd730ea82488046350db17dd06983446"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-13",
+   "path": "cncd/hotarare/2018/13",
+   "short": "Hotărârea CNCD nr. 13/2018",
+   "title": "Hotărârea CNCD nr. 13/2018: hărțuire din partea vecinului",
+   "url": "https://www.cncd.ro/hotarari/hotarare-13-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-13-2018/",
+     "sha256": "fcd2951e6947577b76ac447c9ff29fe623a524a67098ac0de8a602e5d966aa76"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-130",
+   "path": "cncd/hotarare/2018/130",
+   "short": "Hotărârea CNCD nr. 130/2018",
+   "title": "Hotărârea CNCD nr. 130/2018: Prevederi discriminatorii în Legea nr. 19/2016 privind aprobarea Ordonanței Guvernului nr. 19/2014 pentru completarea Ordonanței de Urgență a Guvernului nr. 156/2007 privind despăgubirea persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționarii de autoturisme.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-130-2018/",
+   "versions": [
+    {
+     "from": "2018-03-20",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-130-2018/",
+     "sha256": "33575b08e90632f48c392010e9cd33f54531406a63ab01c5a5b5e318cf9fb5e3"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-131",
+   "path": "cncd/hotarare/2018/131",
+   "short": "Hotărârea CNCD nr. 131/2018",
+   "title": "Hotărârea CNCD nr. 131/2018: Intervenția CNCD în soluționarea unui dosar aflat la Parchetul de pe lângă Înalta Curte de Casație și Justiție, asupra unor fapte de corupție, înșelăciune, fals în înscrieri, șantaj, ș.a.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-131-2018/",
+   "versions": [
+    {
+     "from": "2018-03-21",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-131-2018/",
+     "sha256": "5801d24970e79058a2dce639c005e0289cd1baa252bd7c8d5d0a1c55a5130718"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-136",
+   "path": "cncd/hotarare/2018/136",
+   "short": "Hotărârea CNCD nr. 136/2018",
+   "title": "Hotărârea CNCD nr. 136/2018: legea nr.189/2000 discriminatorie în ceea ce privesc persoanele de origine evreiască, născute în România",
+   "url": "https://www.cncd.ro/hotarari/hotarare-136-2018/",
+   "versions": [
+    {
+     "from": "2018-03-28",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-136-2018/",
+     "sha256": "d78a626822aec19cd6c9c689518e4350ff53cab142960640b96d0f08cde89e3f"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-137",
+   "path": "cncd/hotarare/2018/137",
+   "short": "Hotărârea CNCD nr. 137/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 137/2018 din 2018-03-28",
+   "url": "https://www.cncd.ro/hotarari/hotarare-137-2018/",
+   "versions": [
+    {
+     "from": "2018-03-28",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-137-2018/",
+     "sha256": "063a25905fba9b9adf61b6cb999654defdeed8bcf6d052b748f8d15804a6ca18"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-138",
+   "path": "cncd/hotarare/2018/138",
+   "short": "Hotărârea CNCD nr. 138/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 138/2018 din 2018-03-28",
+   "url": "https://www.cncd.ro/hotarari/hotarare-138-2018/",
+   "versions": [
+    {
+     "from": "2018-03-28",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-138-2018/",
+     "sha256": "92f29ff2f1b2975f0a7e302684c39918b477a6d95d8ba960b53a227ebbcc3278"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-139",
+   "path": "cncd/hotarare/2018/139",
+   "short": "Hotărârea CNCD nr. 139/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 139/2018 din 2018-03-28",
+   "url": "https://www.cncd.ro/hotarari/hotarare-139-2018/",
+   "versions": [
+    {
+     "from": "2018-03-28",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-139-2018/",
+     "sha256": "8d94408a5ec160fde9e9a3b0f9bbdf1f6bd8ff57fd6077623e9b1f2c8d307de8"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-140",
+   "path": "cncd/hotarare/2018/140",
+   "short": "Hotărârea CNCD nr. 140/2018",
+   "title": "Hotărârea CNCD nr. 140/2018: Refuzul Cultului Creștin Baptist din România, respectiv Comisiei Pastorale de a soluționa petiția petentului pe motiv ca acesta nu aparține cultului baptist",
+   "url": "https://www.cncd.ro/hotarari/hotarare-140-2018/",
+   "versions": [
+    {
+     "from": "2018-03-28",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-140-2018/",
+     "sha256": "4367a30a27d522805ee41feaa71bd21898b5d9cacdb5a36eb1d2f7d599b9ba95"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-141",
+   "path": "cncd/hotarare/2018/141",
+   "short": "Hotărârea CNCD nr. 141/2018",
+   "title": "Hotărârea CNCD nr. 141/2018: petentul se consideră discriminat în raporturile cu banca deoarece are pașaport german",
+   "url": "https://www.cncd.ro/hotarari/hotarare-141-2018/",
+   "versions": [
+    {
+     "from": "2018-03-27",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-141-2018/",
+     "sha256": "bbbed8f1c40b71d24718f9bbb456592ea4afcc8c8ef23ec8a3f8cca9ca0edf44"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-142",
+   "path": "cncd/hotarare/2018/142",
+   "short": "Hotărârea CNCD nr. 142/2018",
+   "title": "Hotărârea CNCD nr. 142/2018: Neaplicarea dispozițiilor legale în mod unitar de către Curtea de Apel Ploiești, pentru toate persoanele care solicit acordarea grupei I de muncă",
+   "url": "https://www.cncd.ro/hotarari/hotarare-142-2018/",
+   "versions": [
+    {
+     "from": "2018-03-27",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-142-2018/",
+     "sha256": "315b4b93e4ce1ec3c7f6cd60b7797952bf1666d947be5ac6122c06c5fd61a118"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-143",
+   "path": "cncd/hotarare/2018/143",
+   "short": "Hotărârea CNCD nr. 143/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 143/2018 din 2018-04-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-143-18/",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-143-18/",
+     "sha256": "8241b5495e6e25bb60c900961a0098c7666bcb41f2fc1ed46392cb8887acad92"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-144",
+   "path": "cncd/hotarare/2018/144",
+   "short": "Hotărârea CNCD nr. 144/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 144/2018 din 2018-04-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-144-18/",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-144-18/",
+     "sha256": "8be4007b9ee5456f39408c4d002f54f5c8edb234cb87460df220c297502db257"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-145",
+   "path": "cncd/hotarare/2018/145",
+   "short": "Hotărârea CNCD nr. 145/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 145/2018 din 2018-04-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-145-18/",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-145-18/",
+     "sha256": "13797697d5d5ee133d8a5787e72d2b2924446b8137d4b662600f10d07bce5ec0"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-146",
+   "path": "cncd/hotarare/2018/146",
+   "short": "Hotărârea CNCD nr. 146/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 146/2018 din 2018-04-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-146-18/",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-146-18/",
+     "sha256": "380340c7eb61cabb1861f5f3f48302b577dd0ce8cb66a6f2e058281a5118d60e"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-147",
+   "path": "cncd/hotarare/2018/147",
+   "short": "Hotărârea CNCD nr. 147/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 147/2018 din 2018-04-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-147-18/",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-147-18/",
+     "sha256": "1009b23199947803de2a9ee26536cdbb4fe887fec672498ca3f0bdd3efefd1c6"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-148",
+   "path": "cncd/hotarare/2018/148",
+   "short": "Hotărârea CNCD nr. 148/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 148/2018 din 2018-04-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-148-18/",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-148-18/",
+     "sha256": "ad822c0e86faa1c3533f968c223b2d274bd87fe96dcb953b15140127ee10b284"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-149",
+   "path": "cncd/hotarare/2018/149",
+   "short": "Hotărârea CNCD nr. 149/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 149/2018 din 2018-04-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-149-18/",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-149-18/",
+     "sha256": "9ec4cf224d8b20c4f482c08466dc2a2c8147aa2cd9af1a78884e81daade8e887"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-15",
+   "path": "cncd/hotarare/2018/15",
+   "short": "Hotărârea CNCD nr. 15/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 15/2018 din 2018-01-10",
+   "url": "https://www.cncd.ro/hotarari/hotarare-15-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-15-2018/",
+     "sha256": "2b58f3b18f08bdce37f06765f515942b1fe9706f36cbef20239972df82ab0f75"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-150",
+   "path": "cncd/hotarare/2018/150",
+   "short": "Hotărârea CNCD nr. 150/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 150/2018 din 2018-04-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-150-2018/",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-150-2018/",
+     "sha256": "abafce1c192bba7691c724a146da7624f22f84d03c323ab101a7dfc1210dc8d5"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-151",
+   "path": "cncd/hotarare/2018/151",
+   "short": "Hotărârea CNCD nr. 151/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 151/2018 din 2018-04-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-151-2018/",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-151-2018/",
+     "sha256": "2c1b1609bdcef5d6e8e22e6b46d3f6aa50bc9d0ddf642f6c9a45f77b061f7dca"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-152",
+   "path": "cncd/hotarare/2018/152",
+   "short": "Hotărârea CNCD nr. 152/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 152/2018 din 2018-04-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-152-18/",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-152-18/",
+     "sha256": "c91e28f95368243a53109f8a7dd41b9d82a7c52c136da230d35c7c6d4bd8cd22"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-153",
+   "path": "cncd/hotarare/2018/153",
+   "short": "Hotărârea CNCD nr. 153/2018",
+   "title": "Hotărârea CNCD nr. 153/2018: acte și fapte de natură penală săvârșite asupra copilului petentei, de către grupări interlope.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-153-18/",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-153-18/",
+     "sha256": "ecaa4b1ceb6978e48d59a9ce490d4ad0318165b00c6a4be314e2cdae3fe9e1b2"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-154",
+   "path": "cncd/hotarare/2018/154",
+   "short": "Hotărârea CNCD nr. 154/2018",
+   "title": "Hotărârea CNCD nr. 154/2018: uniformizarea la nivel național a funcțiilor deținute cu funcțiile similare ale funcționarilor publici cu statut special, cu aceleași atribuții",
+   "url": "https://www.cncd.ro/hotarari/hotarare-154-2018/",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-154-2018/",
+     "sha256": "6664dbff7a20dddf2a97089922a115e674b0b16b5d42d287db3cd4f64ad6bc94"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-156",
+   "path": "cncd/hotarare/2018/156",
+   "short": "Hotărârea CNCD nr. 156/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 156/2018 din 2018-04-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-156-18/",
+   "versions": [
+    {
+     "from": "2018-04-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-156-18/",
+     "sha256": "371039512eeb19173c186471027dd0981c4f695301d3e90e77b1c99c6236c32b"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-157",
+   "path": "cncd/hotarare/2018/157",
+   "short": "Hotărârea CNCD nr. 157/2018",
+   "title": "Hotărârea CNCD nr. 157/2018: petentul reclamă faptul că nu i s-a eliberat în regim de urgență certificatul de medic specialist medicină de familie",
+   "url": "https://www.cncd.ro/hotarari/hotarare-157-18/",
+   "versions": [
+    {
+     "from": "2018-04-16",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-157-18/",
+     "sha256": "7d5239a68b9f167763eef0ff554ed54257fbba84e1ebf5a1555352043f72ade1"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-158",
+   "path": "cncd/hotarare/2018/158",
+   "short": "Hotărârea CNCD nr. 158/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 158/2018 din 2018-04-18",
+   "url": "https://www.cncd.ro/hotarari/hotarare-158-2018/",
+   "versions": [
+    {
+     "from": "2018-04-18",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-158-2018/",
+     "sha256": "630b65f91841ffce53c7a35751928b27ffde658900c4d92398e8991f29217a4a"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-159",
+   "path": "cncd/hotarare/2018/159",
+   "short": "Hotărârea CNCD nr. 159/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 159/2018 din 2018-04-16",
+   "url": "https://www.cncd.ro/hotarari/hotarare-159-2018/",
+   "versions": [
+    {
+     "from": "2018-04-16",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-159-2018/",
+     "sha256": "771b15590b76fc6d0f27c6d19f5649450f77de685f5a51b8577fb930d628de85"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-16",
+   "path": "cncd/hotarare/2018/16",
+   "short": "Hotărârea CNCD nr. 16/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 16/2018 din 2018-01-10",
+   "url": "https://www.cncd.ro/hotarari/hotarare-16-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-16-2018/",
+     "sha256": "7d5515c1519e755df4177cd6c6c49825a230aaf74e3953ed48f6f860b35dbd30"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-160",
+   "path": "cncd/hotarare/2018/160",
+   "short": "Hotărârea CNCD nr. 160/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 160/2018 din 2018-04-16",
+   "url": "https://www.cncd.ro/hotarari/hotarare-160-18/",
+   "versions": [
+    {
+     "from": "2018-04-16",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-160-18/",
+     "sha256": "6a7e820e94dab87f6b6c3d4bb11caac8ed160ae7a7533504ba6c9473594c5d67"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-161",
+   "path": "cncd/hotarare/2018/161",
+   "short": "Hotărârea CNCD nr. 161/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 161/2018 din 2018-04-25",
+   "url": "https://www.cncd.ro/hotarari/hotarare-161-2018/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-161-2018/",
+     "sha256": "9ac2b2956d1a923e127d6e38c754a5e422f1954dd6303c3c8328700571025314"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-162",
+   "path": "cncd/hotarare/2018/162",
+   "short": "Hotărârea CNCD nr. 162/2018",
+   "title": "Hotărârea CNCD nr. 162/2018: Afirmații jignitoare la adresa petentului având în vedere etnia acestuia",
+   "url": "https://www.cncd.ro/hotarari/hotarare-162-2018/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-162-2018/",
+     "sha256": "f09bd23e65482a32dd5e1e41609bde0095070936367d905a20ff80b7e31d1ffc"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-163",
+   "path": "cncd/hotarare/2018/163",
+   "short": "Hotărârea CNCD nr. 163/2018",
+   "title": "Hotărârea CNCD nr. 163/2018: soluția pronunțată de către instanța de judecată",
+   "url": "https://www.cncd.ro/hotarari/hotarare-163-18/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-163-18/",
+     "sha256": "4567dbba2e5a758be9a2f212c22bf1d0f61e7878ebaf5c6ed556efa3546a4c1e"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-164",
+   "path": "cncd/hotarare/2018/164",
+   "short": "Hotărârea CNCD nr. 164/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 164/2018 din 2018-04-25",
+   "url": "https://www.cncd.ro/hotarari/hotarare-164-2018/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-164-2018/",
+     "sha256": "42d5afe39b8552fbbf1de1591e40838ee47a040edb93c99d77b70fff1090327a"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-165",
+   "path": "cncd/hotarare/2018/165",
+   "short": "Hotărârea CNCD nr. 165/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 165/2018 din 2018-04-25",
+   "url": "https://www.cncd.ro/hotarari/hotarare-165-2018/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-165-2018/",
+     "sha256": "896f460ee00d0bad61dbb1c1cc3a105bf6b9e024b3ba3f997c63550f5995dd1e"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-166",
+   "path": "cncd/hotarare/2018/166",
+   "short": "Hotărârea CNCD nr. 166/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 166/2018 din 2018-04-25",
+   "url": "https://www.cncd.ro/hotarari/hotarare-166-2018/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-166-2018/",
+     "sha256": "3fdc91b1f91ef5cedde01a5779577a79d300e361e2b01836fdef6774249a2e3f"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-167",
+   "path": "cncd/hotarare/2018/167",
+   "short": "Hotărârea CNCD nr. 167/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 167/2018 din 2018-04-25",
+   "url": "https://www.cncd.ro/hotarari/hotarare-167-2018/",
+   "versions": [
+    {
+     "from": "2018-04-25",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-167-2018/",
+     "sha256": "bf756c01833f6e0f62cf55264c161066667e598790e942a8f74e041b2b751c88"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-169",
+   "path": "cncd/hotarare/2018/169",
+   "short": "Hotărârea CNCD nr. 169/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 169/2018 din 2018-05-09",
+   "url": "https://www.cncd.ro/hotarari/hotarare-169-18/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-169-18/",
+     "sha256": "8e0671a0b1c5ecc01b3a3277af3d74f68643e64d58b9efa86eb483b6a2e3d7d4"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-17",
+   "path": "cncd/hotarare/2018/17",
+   "short": "Hotărârea CNCD nr. 17/2018",
+   "title": "Hotărârea CNCD nr. 17/2018: asigurarea serviciilor sociale într-un mod discriminatoriu",
+   "url": "https://www.cncd.ro/hotarari/hotarare-17-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-17-2018/",
+     "sha256": "601676e1b69d64bc5571b4f59e0f41ca570078648274c1b3c449b1c86614af19"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-170",
+   "path": "cncd/hotarare/2018/170",
+   "short": "Hotărârea CNCD nr. 170/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 170/2018 din 2018-05-09",
+   "url": "https://www.cncd.ro/hotarari/hotarare-170-18/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-170-18/",
+     "sha256": "a766bf16a1a327cbe76b99219ac9c8b2011ec9842aad49492f2908304581026c"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-171",
+   "path": "cncd/hotarare/2018/171",
+   "short": "Hotărârea CNCD nr. 171/2018",
+   "title": "Hotărârea CNCD nr. 171/2018: comportament discriminatoriu aplicat de către șeful său pe criteriul etniei, precum și alte ilegalități",
+   "url": "https://www.cncd.ro/hotarari/hotarare-171-2018/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-171-2018/",
+     "sha256": "727e17e6676f4adce6e7ce7b03e08bd37f7fe94faa6b47fae76a593d20e83da8"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-172",
+   "path": "cncd/hotarare/2018/172",
+   "short": "Hotărârea CNCD nr. 172/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 172/2018 din 2018-05-09",
+   "url": "https://www.cncd.ro/hotarari/hotarare-172-2018/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-172-2018/",
+     "sha256": "b02eb3efa8cd6564394ab4a516b8ed0c7769237270d4a6ef1228c554f0b83269"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-173",
+   "path": "cncd/hotarare/2018/173",
+   "short": "Hotărârea CNCD nr. 173/2018",
+   "title": "Hotărârea CNCD nr. 173/2018: refuzul reclamatei de a preda orele de susținere timp de 3 luni, fiului petentului diagnosticat cu retard mintal din spectrul autist, elev în clasa a IV-a",
+   "url": "https://www.cncd.ro/hotarari/hotarare-173-2018/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-173-2018/",
+     "sha256": "662e246fdce6bdf4b0ba587749b0fb5cd67aee7403b2fa63e145916d7dd1ea65"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-174",
+   "path": "cncd/hotarare/2018/174",
+   "short": "Hotărârea CNCD nr. 174/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 174/2018 din 2018-05-09",
+   "url": "https://www.cncd.ro/hotarari/hotarare-174-2018/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-174-2018/",
+     "sha256": "1316b6723440a132461fe9139031b9b7c5a27bc3bd4d93d92b1c181573cac971"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-175",
+   "path": "cncd/hotarare/2018/175",
+   "short": "Hotărârea CNCD nr. 175/2018",
+   "title": "Hotărârea CNCD nr. 175/2018: practici anormale în materie de achiziții",
+   "url": "https://www.cncd.ro/hotarari/hotarare-175-2018/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-175-2018/",
+     "sha256": "ace8ebe8370c6c4be6df7408b309b91a878f481f018b2d3aa87b5dfcb0ff1ef7"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-177",
+   "path": "cncd/hotarare/2018/177",
+   "short": "Hotărârea CNCD nr. 177/2018",
+   "title": "Hotărârea CNCD nr. 177/2018: neacordarea suplimentului postului și suplimentului corespunzător treptei de salarizare",
+   "url": "https://www.cncd.ro/hotarari/hotarare-177-18/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-177-18/",
+     "sha256": "4285049d8e77e7731b26be8ebd707ba4535097f9b9aa325fd7bd51e73a626be1"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-178",
+   "path": "cncd/hotarare/2018/178",
+   "short": "Hotărârea CNCD nr. 178/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 178/2018 din 2018-05-09",
+   "url": "https://www.cncd.ro/hotarari/hotarare-178-2018/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-178-2018/",
+     "sha256": "3e77dbdd425a3864b36bdaf24e6e3e770017a97e1ea4b9c9b573f1f463fe4dc1"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-179",
+   "path": "cncd/hotarare/2018/179",
+   "short": "Hotărârea CNCD nr. 179/2018",
+   "title": "Hotărârea CNCD nr. 179/2018: susținerea unui examen de către concurenți la o diferență de trei zile unul de celălalt.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-179-18/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-179-18/",
+     "sha256": "633ebbd796e39d487dbd079e68e44464800c9ad5cfee3a40687d72535a451dc2"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-18",
+   "path": "cncd/hotarare/2018/18",
+   "short": "Hotărârea CNCD nr. 18/2018",
+   "title": "Hotărârea CNCD nr. 18/2018: petentul reclamă faptul că nu poate beneficia de un credit în vederea cumpărarii unui telefon mobil deoarece este cadru militar și veniturile nu sunt în evidența ANAF",
+   "url": "https://www.cncd.ro/hotarari/hotarare-18-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-18-2018/",
+     "sha256": "4ca1cb82c4d12752ccbebd80eb3bcfb95bf967309d1ac4f83f711ee841bead03"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-180",
+   "path": "cncd/hotarare/2018/180",
+   "short": "Hotărârea CNCD nr. 180/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 180/2018 din 2018-05-09",
+   "url": "https://www.cncd.ro/hotarari/hotarare-180-18/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-180-18/",
+     "sha256": "0c86994a2aa5f6f2bb2c767a2ce70efe175233b07d57e86963c56be972d45854"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-181",
+   "path": "cncd/hotarare/2018/181",
+   "short": "Hotărârea CNCD nr. 181/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 181/2018 din 2018-05-09",
+   "url": "https://www.cncd.ro/hotarari/hotarare-181-18/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-181-18/",
+     "sha256": "656a823146a0a829c2688e904efda3162488bfffee2104c56132960f240e9c03"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-182",
+   "path": "cncd/hotarare/2018/182",
+   "short": "Hotărârea CNCD nr. 182/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 182/2018 din 2018-05-09",
+   "url": "https://www.cncd.ro/hotarari/hotarare-182-18/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-182-18/",
+     "sha256": "b9d9d9c43adec20d6356ae9a7f1cf25f56f34dd8415564a8e4862545b5096a6e"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-183",
+   "path": "cncd/hotarare/2018/183",
+   "short": "Hotărârea CNCD nr. 183/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 183/2018 din 2018-05-09",
+   "url": "https://www.cncd.ro/hotarari/hotarare-183-18/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-183-18/",
+     "sha256": "4aa1a14d9e36b7289d09280d4aa9ce2cbd2afd02d7883339d627760310f91f89"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-184",
+   "path": "cncd/hotarare/2018/184",
+   "short": "Hotărârea CNCD nr. 184/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 184/2018 din 2018-05-09",
+   "url": "https://www.cncd.ro/hotarari/hotarare-184-18/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-184-18/",
+     "sha256": "f36d259c10d3f3847d219d9f5826587d087ca5652d6451e6accec0d267dfd955"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-185",
+   "path": "cncd/hotarare/2018/185",
+   "short": "Hotărârea CNCD nr. 185/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 185/2018 din 2018-05-09",
+   "url": "https://www.cncd.ro/hotarari/hotarare-185-2018/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-185-2018/",
+     "sha256": "0d222a40f2e5a53ec0e3531227d94840b3dbaa051390708d6fb271d63289a87b"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-186",
+   "path": "cncd/hotarare/2018/186",
+   "short": "Hotărârea CNCD nr. 186/2018",
+   "title": "Hotărârea CNCD nr. 186/2018: Injurii și afirmații rasiste cu caracter ofensator",
+   "url": "https://www.cncd.ro/hotarari/hotarare-186-18/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-186-18/",
+     "sha256": "fb4e8f218e543632142cd2c8d2e1ea1a2d2efc94033bbcca1887a2191cb25f65"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-187",
+   "path": "cncd/hotarare/2018/187",
+   "short": "Hotărârea CNCD nr. 187/2018",
+   "title": "Hotărârea CNCD nr. 187/2018: Neîndeplinirea obligațiilor legale de a asigura utilizarea și folosirea în administrația locală a limbii maghiare",
+   "url": "https://www.cncd.ro/hotarari/hotarare-187-2018/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-187-2018/",
+     "sha256": "d9ce338d4ffb7745ca975fb2cfc50752e30e08289fdf40b11657f4413394d02a"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-188",
+   "path": "cncd/hotarare/2018/188",
+   "short": "Hotărârea CNCD nr. 188/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 188/2018 din 2018-05-09",
+   "url": "https://www.cncd.ro/hotarari/hotarare-188-2018/",
+   "versions": [
+    {
+     "from": "2018-05-09",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-188-2018/",
+     "sha256": "e82b357ea214f6ca4ee0700b6b61767c83f018d124a2ce8dcc0a5b47b7412dcb"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-19",
+   "path": "cncd/hotarare/2018/19",
+   "short": "Hotărârea CNCD nr. 19/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 19/2018 din 2018-01-10",
+   "url": "https://www.cncd.ro/hotarari/hotarare-19-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-19-2018/",
+     "sha256": "53f443aed7e221d5b2e02b16ac0ac5821817ef25c89c6138f68f4dc3237ace78"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-190",
+   "path": "cncd/hotarare/2018/190",
+   "short": "Hotărârea CNCD nr. 190/2018",
+   "title": "Hotărârea CNCD nr. 190/2018: nerecunoașterea unor drepturi salariale",
+   "url": "https://www.cncd.ro/hotarari/hotarare-190-2018/",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-190-2018/",
+     "sha256": "bd9cf746c5949954f323b9874a435a829f5b21776fc0c7388d2da1591cce15d0"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-191",
+   "path": "cncd/hotarare/2018/191",
+   "short": "Hotărârea CNCD nr. 191/2018",
+   "title": "Hotărârea CNCD nr. 191/2018: nerecunoașterea unor drepturi salariale",
+   "url": "https://www.cncd.ro/hotarari/hotarare-191-2018/",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-191-2018/",
+     "sha256": "5799159827200dca8a7772aba72fcb7ff492a5da554cf8c611cf9ed1928e6cb8"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-196",
+   "path": "cncd/hotarare/2018/196",
+   "short": "Hotărârea CNCD nr. 196/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 196/2018 din 2018-05-16",
+   "url": "https://www.cncd.ro/hotarari/hotarare-196-18/",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-196-18/",
+     "sha256": "dc62e7eca9c6cf1178e3c0c95418d4e46e611270c900e8874499c7bf3caf9157"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-197",
+   "path": "cncd/hotarare/2018/197",
+   "short": "Hotărârea CNCD nr. 197/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 197/2018 din 2018-05-16",
+   "url": "https://www.cncd.ro/hotarari/hotarare-197-18/",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-197-18/",
+     "sha256": "001a90b3dbb4a8ab7f86ba85805adf345278d8756e027bf545a68f491297dbaa"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-198",
+   "path": "cncd/hotarare/2018/198",
+   "short": "Hotărârea CNCD nr. 198/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 198/2018 din 2018-05-16",
+   "url": "https://www.cncd.ro/hotarari/hotarare-198-2018/",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-198-2018/",
+     "sha256": "8dca60656ee0bb25cbcbd4ea2422f56185cc6bd1810af0fffc73adcff45f9c75"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-199",
+   "path": "cncd/hotarare/2018/199",
+   "short": "Hotărârea CNCD nr. 199/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 199/2018 din 2018-05-16",
+   "url": "https://www.cncd.ro/hotarari/hotarare-199-18/",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-199-18/",
+     "sha256": "079468585cbf2a2798dc6349eb7262fae9b71d12aa2c62f6244a47fa8bb2af65"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-2",
+   "path": "cncd/hotarare/2018/2",
+   "short": "Hotărârea CNCD nr. 2/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 2/2018 din 2018-01-10",
+   "url": "https://www.cncd.ro/hotarari/hotarare-2-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-2-2018/",
+     "sha256": "8d56d910765e64c636722da600c514d86be2b9849cff10dabf27793cefb36b91"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-20",
+   "path": "cncd/hotarare/2018/20",
+   "short": "Hotărârea CNCD nr. 20/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 20/2018 din 2018-01-10",
+   "url": "https://www.cncd.ro/hotarari/hotarare-20-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-20-2018/",
+     "sha256": "e748be6addf079d6c74d196263ab5b293913af5a9bdfc604c0f23c89bdd60059"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-200",
+   "path": "cncd/hotarare/2018/200",
+   "short": "Hotărârea CNCD nr. 200/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 200/2018 din 2018-05-16",
+   "url": "https://www.cncd.ro/hotarari/hotarare-200-18/",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-200-18/",
+     "sha256": "4cfa174e8ef3b6e78e5cc490fa3b083fa6d8f20b032cee86179c60f79daafcd9"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-201",
+   "path": "cncd/hotarare/2018/201",
+   "short": "Hotărârea CNCD nr. 201/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 201/2018 din 2018-05-16",
+   "url": "https://www.cncd.ro/hotarari/hotarare-201-18/",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-201-18/",
+     "sha256": "44fdc0556d5099bccf82bb833b06ec1a2e321d6f8051ff46b7066e8b361cc4e2"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-202",
+   "path": "cncd/hotarare/2018/202",
+   "short": "Hotărârea CNCD nr. 202/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 202/2018 din 2018-05-16",
+   "url": "https://www.cncd.ro/hotarari/hotarare-202-18/",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-202-18/",
+     "sha256": "2a2e571fd2093c1d0d3a47fe1b752b8c331b90bda99d0e6250b74f638f9dcdbd"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-203",
+   "path": "cncd/hotarare/2018/203",
+   "short": "Hotărârea CNCD nr. 203/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 203/2018 din 2018-05-16",
+   "url": "https://www.cncd.ro/hotarari/hotarare-203-18/",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-203-18/",
+     "sha256": "10e99e4f3429c8e3e618c35ccf4a0b32487af069b519706cad58716f236be733"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-204",
+   "path": "cncd/hotarare/2018/204",
+   "short": "Hotărârea CNCD nr. 204/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 204/2018 din 2018-05-23",
+   "url": "https://www.cncd.ro/hotarari/hotarare-204-2018/",
+   "versions": [
+    {
+     "from": "2018-05-23",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-204-2018/",
+     "sha256": "cff3c4057f6f797519dd1d3688f12d1e9cc716e493ff9b8e4557d500f01cc1a8"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-205",
+   "path": "cncd/hotarare/2018/205",
+   "short": "Hotărârea CNCD nr. 205/2018",
+   "title": "Hotărârea CNCD nr. 205/2018: Primăria sectorului 6 nu oficiază căsătorii decât în timpul săptămânii",
+   "url": "https://www.cncd.ro/hotarari/hotarare-205-2018/",
+   "versions": [
+    {
+     "from": "2018-05-23",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-205-2018/",
+     "sha256": "0dabc5691a743a98a7ddfad760bc4453037374cbbd4d4a7e8da41b0a9118792e"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-206",
+   "path": "cncd/hotarare/2018/206",
+   "short": "Hotărârea CNCD nr. 206/2018",
+   "title": "Hotărârea CNCD nr. 206/2018: Neacordarea indemnizației lunare pentru hrană și ajutorul de căldură și punctajul redus acordat la obținerea locuinței sociale",
+   "url": "https://www.cncd.ro/hotarari/hotarare-206-2018/",
+   "versions": [
+    {
+     "from": "2018-05-23",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-206-2018/",
+     "sha256": "b54bb941b8af683f056188a83b077c0c5d92bf9c6310fed603ecf3f49f0543c7"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-209",
+   "path": "cncd/hotarare/2018/209",
+   "short": "Hotărârea CNCD nr. 209/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 209/2018 din 2018-05-23",
+   "url": "https://www.cncd.ro/hotarari/hotarare-209-18/",
+   "versions": [
+    {
+     "from": "2018-05-23",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-209-18/",
+     "sha256": "b8869527dff308717d8b4a0308d14226868a26130f8e6d0ef4d002c4ecadfaf1"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-21",
+   "path": "cncd/hotarare/2018/21",
+   "short": "Hotărârea CNCD nr. 21/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 21/2018 din 2018-01-10",
+   "url": "https://www.cncd.ro/hotarari/hotarare-21-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-21-2018/",
+     "sha256": "577f0615a3eedda9367507f6da734802ce7e0f337b15a401679110604dfed6ef"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-210",
+   "path": "cncd/hotarare/2018/210",
+   "short": "Hotărârea CNCD nr. 210/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 210/2018 din 2018-05-23",
+   "url": "https://www.cncd.ro/hotarari/hotarare-210-18/",
+   "versions": [
+    {
+     "from": "2018-05-23",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-210-18/",
+     "sha256": "7b8f868a559f679a590022c962dfff6e25971ea82511c68ca2ba528b55c42053"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-211",
+   "path": "cncd/hotarare/2018/211",
+   "short": "Hotărârea CNCD nr. 211/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 211/2018 din 2018-05-23",
+   "url": "https://www.cncd.ro/hotarari/hotarare-211-2018/",
+   "versions": [
+    {
+     "from": "2018-05-23",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-211-2018/",
+     "sha256": "c02d05c4b7b0cfd5abddce810d2aa5a91787699f3adc9a7d929c214d41847ddb"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-212",
+   "path": "cncd/hotarare/2018/212",
+   "short": "Hotărârea CNCD nr. 212/2018",
+   "title": "Hotărârea CNCD nr. 212/2018: punctarea orei de Religie deși este opțională. Astfel, se creează o diferentiere la calcularea/încheierea mediei generale anuale favorizând copiii care o frecventează.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-212-2018/",
+   "versions": [
+    {
+     "from": "2018-05-23",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-212-2018/",
+     "sha256": "db2fa95a315a27fdf6b417f35a20584362c7df16ff40a1c8483690bbc38804e6"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-213",
+   "path": "cncd/hotarare/2018/213",
+   "short": "Hotărârea CNCD nr. 213/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 213/2018 din 2018-05-30",
+   "url": "https://www.cncd.ro/hotarari/hotarare-213-18/",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-213-18/",
+     "sha256": "b59f8706dd1f8aa59bd24e0b7a49bcd99c8fb8448ed2097f41e415f24440f137"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-215",
+   "path": "cncd/hotarare/2018/215",
+   "short": "Hotărârea CNCD nr. 215/2018",
+   "title": "Hotărârea CNCD nr. 215/2018: refuzul aprobării cererilor de mutare cu locul de muncă în localitatea natală",
+   "url": "https://www.cncd.ro/hotarari/hotarare-215-18/",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-215-18/",
+     "sha256": "cb1410f504c8972e3ba5603aea9d5345df5b43fd5851432f73a7ffd22813b9fb"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-216",
+   "path": "cncd/hotarare/2018/216",
+   "short": "Hotărârea CNCD nr. 216/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 216/2018 din 2018-05-30",
+   "url": "https://www.cncd.ro/hotarari/hotarare-216-18/",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-216-18/",
+     "sha256": "d26de147c0712d5bcd4337de275c8ec3aefeda863bcbd854633ab5b371b56b22"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-218",
+   "path": "cncd/hotarare/2018/218",
+   "short": "Hotărârea CNCD nr. 218/2018",
+   "title": "Hotărârea CNCD nr. 218/2018: impunerea cunoașterii limbii maghiare pentru ocuparea unui post de consilier juridic la Instituția Primarului Municipiului Satu Mare",
+   "url": "https://www.cncd.ro/hotarari/hotarare-218-18/",
+   "versions": [
+    {
+     "from": "2018-06-06",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-218-18/",
+     "sha256": "c2e41fe45dda83c0f4ced65be6070d09ce9230e5bda6fbfd0020765b41e16177"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-22",
+   "path": "cncd/hotarare/2018/22",
+   "short": "Hotărârea CNCD nr. 22/2018",
+   "title": "Hotărârea CNCD nr. 22/2018: Omiterea personalului din aparatul central al ministerelor, precum și din cel al instituțiilor publice teritoriale, respectiv cel din cadrul instituției prefectului, a creșterii salariale de pâna la 12% conform OUG nr.27/2015 și 20% conform OUG nr. 2/2017",
+   "url": "https://www.cncd.ro/hotarari/hotarare-22-2018/",
+   "versions": [
+    {
+     "from": "2018-01-17",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-22-2018/",
+     "sha256": "fa093b9be988a4f4bb44275e87dea9ac5eaa9d37605cceb46ba4718a6369b342"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-220",
+   "path": "cncd/hotarare/2018/220",
+   "short": "Hotărârea CNCD nr. 220/2018",
+   "title": "Hotărârea CNCD nr. 220/2018: îngrădirea participării la concurs pentru ocuparea unui post de manager în sistemul public de sănătate, pe baza condițiilor impuse prin OMS nr. 611/2017.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-220-18/",
+   "versions": [
+    {
+     "from": "2018-06-06",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-220-18/",
+     "sha256": "28aed204b5f852356a3a7f92f26b30e414a54a0fb5197362e8ee65f96d8c5454"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-221",
+   "path": "cncd/hotarare/2018/221",
+   "short": "Hotărârea CNCD nr. 221/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 221/2018 din 2018-06-06",
+   "url": "https://www.cncd.ro/hotarari/hotarare-221-2018/",
+   "versions": [
+    {
+     "from": "2018-06-06",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-221-2018/",
+     "sha256": "ffdebafbd9cff8e420e5c61c07438ff6e01b253d47937514a0cffbe353b7cd25"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-228",
+   "path": "cncd/hotarare/2018/228",
+   "short": "Hotărârea CNCD nr. 228/2018",
+   "title": "Hotărârea CNCD nr. 228/2018",
+   "url": "https://www.cncd.ro/hotarari/hotarare-228-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-228-2018/",
+     "sha256": "acba87cdf404aa665169d0dca3287d57fb62f462b978ce1956b673cc3f3e5ac2"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-229",
+   "path": "cncd/hotarare/2018/229",
+   "short": "Hotărârea CNCD nr. 229/2018",
+   "title": "Hotărârea CNCD nr. 229/2018: Emiterea certificatului de încadrare în handicap gradul III, boala survenită tardiv, la maturitate, în comparație cu persoanele cărora boala a survenit în copilărie sau adolescență, ce sunt încadrați la gradul II de handicap",
+   "url": "https://www.cncd.ro/hotarari/hotarare-229-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-229-2018/",
+     "sha256": "d5c6f282c9f327417ef755d5aa4f451c1ca80a4fe7838eb6bff16361360d32a4"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-23",
+   "path": "cncd/hotarare/2018/23",
+   "short": "Hotărârea CNCD nr. 23/2018",
+   "title": "Hotărârea CNCD nr. 23/2018: Aspecte de încălcare a legii, a normelor deontologice și profesionale",
+   "url": "https://www.cncd.ro/hotarari/hotarare-23-2018/",
+   "versions": [
+    {
+     "from": "2018-01-17",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-23-2018/",
+     "sha256": "e9f3f54947b3fbe75106affb1f6cd34b777aa2591e254d2ef6ae6c442da416e5"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-230",
+   "path": "cncd/hotarare/2018/230",
+   "short": "Hotărârea CNCD nr. 230/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 230/2018 din 2018-06-20",
+   "url": "https://www.cncd.ro/hotarari/hotarare-230-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-230-2018/",
+     "sha256": "1823823b96397081faa091903987abd20e21afc1663cecef0cd5e370898de59d"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-231",
+   "path": "cncd/hotarare/2018/231",
+   "short": "Hotărârea CNCD nr. 231/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 231/2018 din 2018-06-20",
+   "url": "https://www.cncd.ro/hotarari/hotarare-231-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-231-2018/",
+     "sha256": "f7a2f05586716f16bbba5a8f73f29cd7625dbb2332bba46e93ba28c3f9bd90da"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-232",
+   "path": "cncd/hotarare/2018/232",
+   "short": "Hotărârea CNCD nr. 232/2018",
+   "title": "Hotărârea CNCD nr. 232/2018: Comportament neadecvat din partea colegilor minorului, tolerat de diriginta acestuia și lipsa de reacție a cadrului didactic și a conducerii școlii în vederea remedierii situației, atitudine părtinitoare și discriminatorie aplicată impotriva minorului",
+   "url": "https://www.cncd.ro/hotarari/hotarare-232-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-232-2018/",
+     "sha256": "d0a6098ec7cfe3c5d0ab32e491b20e316680eed642ae30c1a324ed336b8614ca"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-233",
+   "path": "cncd/hotarare/2018/233",
+   "short": "Hotărârea CNCD nr. 233/2018",
+   "title": "Hotărârea CNCD nr. 233/2018: presupuse fapte de discriminare la adresa fiului petentului",
+   "url": "https://www.cncd.ro/hotarari/hotarare-233-2018/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-233-2018/",
+     "sha256": "941d7241d610080397239147c079ce3e600f0fa82eff767cb08924fc8fd99f7c"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-234",
+   "path": "cncd/hotarare/2018/234",
+   "short": "Hotărârea CNCD nr. 234/2018",
+   "title": "Hotărârea CNCD nr. 234/2018: discriminare la locul de muncă",
+   "url": "https://www.cncd.ro/hotarari/hotarare-234-18/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-234-18/",
+     "sha256": "d4344dd4d22309950572b84b378909f6a0c06b39ebc47470f4770623dd224600"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-238",
+   "path": "cncd/hotarare/2018/238",
+   "short": "Hotărârea CNCD nr. 238/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 238/2018 din 2018-06-20",
+   "url": "https://www.cncd.ro/hotarari/hotarare-238-18/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-238-18/",
+     "sha256": "2e023841053ed37ed2119ccf07e554aadc8fd0e500bfadfd6cef064e9f40d9f3"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-239",
+   "path": "cncd/hotarare/2018/239",
+   "short": "Hotărârea CNCD nr. 239/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 239/2018 din 2018-06-20",
+   "url": "https://www.cncd.ro/hotarari/hotarare-239-18/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-239-18/",
+     "sha256": "937a73ab4ca948dfadbbc64be7e0b3f7b30159180f6b1655a27f07bbd80baa7c"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-24",
+   "path": "cncd/hotarare/2018/24",
+   "short": "Hotărârea CNCD nr. 24/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 24/2018 din 2018-01-17",
+   "url": "https://www.cncd.ro/hotarari/hotarare-24-2018/",
+   "versions": [
+    {
+     "from": "2018-01-17",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-24-2018/",
+     "sha256": "c676d821e28c961aedf024bacba56d2908d38eea9e68fb5a4c3706732e4a3caf"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-240",
+   "path": "cncd/hotarare/2018/240",
+   "short": "Hotărârea CNCD nr. 240/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 240/2018 din 2018-06-20",
+   "url": "https://www.cncd.ro/hotarari/hotarare-240-18/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-240-18/",
+     "sha256": "1efe9c0da32d14895214cd57eaacc7315c096c23b66de5fc2e0e8e4b4f7a6a18"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-241",
+   "path": "cncd/hotarare/2018/241",
+   "short": "Hotărârea CNCD nr. 241/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 241/2018 din 2018-06-20",
+   "url": "https://www.cncd.ro/hotarari/hotarare-241-18/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-241-18/",
+     "sha256": "874b1085894fc3246243f10bdc39b75689b4edb3f8f9a01c2aae50410f2d9676"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-242",
+   "path": "cncd/hotarare/2018/242",
+   "short": "Hotărârea CNCD nr. 242/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 242/2018 din 2018-06-20",
+   "url": "https://www.cncd.ro/hotarari/hotarare-242-18/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-242-18/",
+     "sha256": "93ca7127e80e3a31b4295dec7dd5a53cd6ae6f8848b015e505c2048e0839e192"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-243",
+   "path": "cncd/hotarare/2018/243",
+   "short": "Hotărârea CNCD nr. 243/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 243/2018 din 2018-06-20",
+   "url": "https://www.cncd.ro/hotarari/hotarare-243-18/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-243-18/",
+     "sha256": "717b341084783dcccc06c45aa47cc993885c0a2c871b7f0d04573cdf4e949f6a"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-244",
+   "path": "cncd/hotarare/2018/244",
+   "short": "Hotărârea CNCD nr. 244/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 244/2018 din 2018-06-20",
+   "url": "https://www.cncd.ro/hotarari/hotarare-244-18/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-244-18/",
+     "sha256": "8b4401e8aafdca8557cdb7b6cdf176396cb294d0e01d4a089914f7b2e00967b8"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-245",
+   "path": "cncd/hotarare/2018/245",
+   "short": "Hotărârea CNCD nr. 245/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 245/2018 din 2018-06-20",
+   "url": "https://www.cncd.ro/hotarari/hotarare-245-18/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-245-18/",
+     "sha256": "6749b4cc5d4333e359b4e334f28ddd44a644926dd55ed027978044ef8b487e96"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-246",
+   "path": "cncd/hotarare/2018/246",
+   "short": "Hotărârea CNCD nr. 246/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 246/2018 din 2018-06-20",
+   "url": "https://www.cncd.ro/hotarari/hotarare-246-18/",
+   "versions": [
+    {
+     "from": "2018-06-20",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-246-18/",
+     "sha256": "979029d158d44fd2f8e0d1a0530f07d8e4222ad8369aef9b1eb3e3c7e4274d73"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-248",
+   "path": "cncd/hotarare/2018/248",
+   "short": "Hotărârea CNCD nr. 248/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 248/2018 din 2018-06-27",
+   "url": "https://www.cncd.ro/hotarari/hotarare-248-2018/",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-248-2018/",
+     "sha256": "72b91b2b95683cc86eccef32c7d3a42612b84c8183d1f5aa6d91910bc60f1cad"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-25",
+   "path": "cncd/hotarare/2018/25",
+   "short": "Hotărârea CNCD nr. 25/2018",
+   "title": "Hotărârea CNCD nr. 25/2018: Probleme la angajare datorită certificatului de handicap – grad accentuat de depresie, schizofrenie.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-25-2018/",
+   "versions": [
+    {
+     "from": "2018-01-17",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-25-2018/",
+     "sha256": "e3a1c4671900fc952cc83b0a5d32a077774576165280d418d4797c2d80e5dea6"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-252",
+   "path": "cncd/hotarare/2018/252",
+   "short": "Hotărârea CNCD nr. 252/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 252/2018 din 2018-06-27",
+   "url": "https://www.cncd.ro/hotarari/hotarare-252-2018/",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-252-2018/",
+     "sha256": "af61dbaa04f0afc86e4c9550a31a378c40cd3f098d0db520edb9cf269f2614a9"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-253",
+   "path": "cncd/hotarare/2018/253",
+   "short": "Hotărârea CNCD nr. 253/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 253/2018 din 2018-06-27",
+   "url": "https://www.cncd.ro/hotarari/hotarare-253-2018/",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-253-2018/",
+     "sha256": "a25e49a87cabdc762660379143ddc5196b7ab6527c9d092c0a29b85cf160c8c3"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-254",
+   "path": "cncd/hotarare/2018/254",
+   "short": "Hotărârea CNCD nr. 254/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 254/2018 din 2018-06-27",
+   "url": "https://www.cncd.ro/hotarari/hotarare-254-2018/",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-254-2018/",
+     "sha256": "ec8d5da61b851284d89ea5e8bce38ba7765380497ac096aa36ed1b80cdde17f7"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-255",
+   "path": "cncd/hotarare/2018/255",
+   "short": "Hotărârea CNCD nr. 255/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 255/2018 din 2018-06-27",
+   "url": "https://www.cncd.ro/hotarari/hotarare-255-2018/",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-255-2018/",
+     "sha256": "90a032f5d22352cff5d403e95f59e3d8562bcaa1d3173fb7db92387428d017e3"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-256",
+   "path": "cncd/hotarare/2018/256",
+   "short": "Hotărârea CNCD nr. 256/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 256/2018 din 2018-06-27",
+   "url": "https://www.cncd.ro/hotarari/hotarare-256-18/",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-256-18/",
+     "sha256": "09ba39ce53d14aec1bb9fb8b866f13fdea4939f0d6a3e6a29e05251459f56051"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-257",
+   "path": "cncd/hotarare/2018/257",
+   "short": "Hotărârea CNCD nr. 257/2018",
+   "title": "Hotărârea CNCD nr. 257/2018: autosesizare",
+   "url": "https://www.cncd.ro/hotarari/hotarare-257-2018/",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-257-2018/",
+     "sha256": "6b1e27660a2b552697f29a5c0c51de10eda365ae05f5522f28082ff71e8ddafd"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-258",
+   "path": "cncd/hotarare/2018/258",
+   "short": "Hotărârea CNCD nr. 258/2018",
+   "title": "Hotărârea CNCD nr. 258/2018: Petenții reclamă salarizarea personalului angajat în cadrul Instituției Prefectului comparativ cu cei din cadrul autorităților publice locale",
+   "url": "https://www.cncd.ro/hotarari/hotarare-258-18/",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-258-18/",
+     "sha256": "26fa55219c4afe5ed72e86cca4de2573c33f63f55e59675f24a80ba46a6ded3e"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-259",
+   "path": "cncd/hotarare/2018/259",
+   "short": "Hotărârea CNCD nr. 259/2018",
+   "title": "Hotărârea CNCD nr. 259/2018: articolul publicat la data de 17.03.2018 pe site-ul www.comisarul.ro",
+   "url": "https://www.cncd.ro/hotarari/hotarare-259-2018/",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-259-2018/",
+     "sha256": "22592dceb8c7c12fa4253c361c802a276c29a6e5c067f0179ea2e533a75d66e6"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-26",
+   "path": "cncd/hotarare/2018/26",
+   "short": "Hotărârea CNCD nr. 26/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 26/2018 din 2018-01-17",
+   "url": "https://www.cncd.ro/hotarari/hotarare-26-2018/",
+   "versions": [
+    {
+     "from": "2018-01-17",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-26-2018/",
+     "sha256": "a073159f9595dc08f069928db602910c2a166d17ee9183aa6106176c4a1ee683"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-260",
+   "path": "cncd/hotarare/2018/260",
+   "short": "Hotărârea CNCD nr. 260/2018",
+   "title": "Hotărârea CNCD nr. 260/2018: afirmații cu potențial caracter discriminatoriu și blocarea accesului petentului la contul public al părții reclamate",
+   "url": "https://www.cncd.ro/hotarari/hotarare-260-18/",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-260-18/",
+     "sha256": "c7a356ed2150bdcdd0b7630bcc6309ea0f71bf21515cd4eb75790743ec690b39"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-261",
+   "path": "cncd/hotarare/2018/261",
+   "short": "Hotărârea CNCD nr. 261/2018",
+   "title": "Hotărârea CNCD nr. 261/2018: Conflicte familiale",
+   "url": "https://www.cncd.ro/hotarari/hotarare-261-2018/",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-261-2018/",
+     "sha256": "04917428d98f0bb119dc5d21844dd7644b35626325e761566151324891f097d8"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-262",
+   "path": "cncd/hotarare/2018/262",
+   "short": "Hotărârea CNCD nr. 262/2018",
+   "title": "Hotărârea CNCD nr. 262/2018: Conflicte familiale",
+   "url": "https://www.cncd.ro/hotarari/hotarare-262-2018/",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-262-2018/",
+     "sha256": "267cc577694a0dd0555f1aaeeb787cebfa4f5a0b155c4bd43d3968767fe5b712"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-263",
+   "path": "cncd/hotarare/2018/263",
+   "short": "Hotărârea CNCD nr. 263/2018",
+   "title": "Hotărârea CNCD nr. 263/2018: Prevederi discriminatorii în cadrul Hotărârii nr. 16/2018 a Consiliului Local al Sectorului 3",
+   "url": "https://www.cncd.ro/hotarari/hotarare-263-2018/",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-263-2018/",
+     "sha256": "cf8f8d9429e79b9e58f25c21d9e93b681b03baa79e0dd507e4c6f00c5fa06a01"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-264",
+   "path": "cncd/hotarare/2018/264",
+   "short": "Hotărârea CNCD nr. 264/2018",
+   "title": "Hotărârea CNCD nr. 264/2018: Poprire pe pensie în urma unor procese civile",
+   "url": "https://www.cncd.ro/hotarari/hotarare-264-2018/",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-264-2018/",
+     "sha256": "42bf29f95e6f7233b58afe5279045f53e1740080ec8b9490458797015ad02ff9"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-266",
+   "path": "cncd/hotarare/2018/266",
+   "short": "Hotărârea CNCD nr. 266/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 266/2018 din 2018-07-04",
+   "url": "https://www.cncd.ro/hotarari/hotarare-266-18/",
+   "versions": [
+    {
+     "from": "2018-07-04",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-266-18/",
+     "sha256": "053b2739a2cd000a5d0e0d6bdd9e6a211735a5e42776bc04aee5fdab35d709a4"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-267",
+   "path": "cncd/hotarare/2018/267",
+   "short": "Hotărârea CNCD nr. 267/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 267/2018 din 2018-07-04",
+   "url": "https://www.cncd.ro/hotarari/hotarare-267-18/",
+   "versions": [
+    {
+     "from": "2018-07-04",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-267-18/",
+     "sha256": "e10e7a761b307486638587589e6bfc5ee52bfec87bb51efa59c05041e95b7aa7"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-268",
+   "path": "cncd/hotarare/2018/268",
+   "short": "Hotărârea CNCD nr. 268/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 268/2018 din 2018-07-04",
+   "url": "https://www.cncd.ro/hotarari/hotarare-268-18/",
+   "versions": [
+    {
+     "from": "2018-07-04",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-268-18/",
+     "sha256": "2272fc0956abc7d8cbc03064d5362136c8bee7b2b5c21904580e4263ad395546"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-269",
+   "path": "cncd/hotarare/2018/269",
+   "short": "Hotărârea CNCD nr. 269/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 269/2018 din 2018-07-04",
+   "url": "https://www.cncd.ro/hotarari/hotarare-269-2018/",
+   "versions": [
+    {
+     "from": "2018-07-04",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-269-2018/",
+     "sha256": "e4227267b59d44c7fcd35795ba9eab7bf498e75e3d4ff59a5b5e06dfdd9c302e"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-27",
+   "path": "cncd/hotarare/2018/27",
+   "short": "Hotărârea CNCD nr. 27/2018",
+   "title": "Hotărârea CNCD nr. 27/2018: marginalizarea copilului la grădiniță, amenințarea cu excluderea, pe criteriul dizabilității",
+   "url": "https://www.cncd.ro/hotarari/hotarare-27-2018/",
+   "versions": [
+    {
+     "from": "2018-01-17",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-27-2018/",
+     "sha256": "ea37566d09509cb890bfa342c71b53cc0941f0e1d6e27c3be548a8aaa2de3631"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-270",
+   "path": "cncd/hotarare/2018/270",
+   "short": "Hotărârea CNCD nr. 270/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 270/2018 din 2018-06-04",
+   "url": "https://www.cncd.ro/hotarari/hotarare-270-18/",
+   "versions": [
+    {
+     "from": "2018-06-04",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-270-18/",
+     "sha256": "25334c028a201150a0206d8327b07655989b2ae9cbbbdff61c520f5c03cb4df0"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-271",
+   "path": "cncd/hotarare/2018/271",
+   "short": "Hotărârea CNCD nr. 271/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 271/2018 din 2018-07-04",
+   "url": "https://www.cncd.ro/hotarari/hotarare-271-18/",
+   "versions": [
+    {
+     "from": "2018-07-04",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-271-18/",
+     "sha256": "731af19498376bbe49de481a36e1b711b676444758821d39b1b12744b3f3a5e6"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-272",
+   "path": "cncd/hotarare/2018/272",
+   "short": "Hotărârea CNCD nr. 272/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 272/2018 din 2018-07-04",
+   "url": "https://www.cncd.ro/hotarari/hotarare-272-18/",
+   "versions": [
+    {
+     "from": "2018-07-04",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-272-18/",
+     "sha256": "3bd37fa9dad464de4de1f292544a384743f66db56c4b62e50c021d87e840b8b3"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-273",
+   "path": "cncd/hotarare/2018/273",
+   "short": "Hotărârea CNCD nr. 273/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 273/2018 din 2018-07-04",
+   "url": "https://www.cncd.ro/hotarari/hotarare-273-2018/",
+   "versions": [
+    {
+     "from": "2018-07-04",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-273-2018/",
+     "sha256": "c8f111e971c0b5f78090c7911eae0c5d29c106e209c3e75cec9de61b688c9aea"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-274",
+   "path": "cncd/hotarare/2018/274",
+   "short": "Hotărârea CNCD nr. 274/2018",
+   "title": "Hotărârea CNCD nr. 274/2018: revizuire dosar Judecătoria Iași",
+   "url": "https://www.cncd.ro/hotarari/hotarare-274-18/",
+   "versions": [
+    {
+     "from": "2018-07-04",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-274-18/",
+     "sha256": "803c3bd6148f16c1c0b725d40c43ec3df1621dc539f0f0a444bd62f1268a1ab1"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-276",
+   "path": "cncd/hotarare/2018/276",
+   "short": "Hotărârea CNCD nr. 276/2018",
+   "title": "Hotărârea CNCD nr. 276/2018: diferențe salariale între diferite direcții",
+   "url": "https://www.cncd.ro/hotarari/hotarare-276-18/",
+   "versions": [
+    {
+     "from": "2018-07-04",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-276-18/",
+     "sha256": "2ab2d8d051e2a94a759b011ff4ca9d2272e3e7eb432cc8e13855b82df27ade81"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-277",
+   "path": "cncd/hotarare/2018/277",
+   "short": "Hotărârea CNCD nr. 277/2018",
+   "title": "Hotărârea CNCD nr. 277/2018: petentul reclamă discriminarea sa la locul de muncă",
+   "url": "https://www.cncd.ro/hotarari/hotarare-277-18/",
+   "versions": [
+    {
+     "from": "2018-07-04",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-277-18/",
+     "sha256": "1f26e651b91ea24b57da3eae367468b692a9af88a0739607b3c396d4dfd71dca"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-278",
+   "path": "cncd/hotarare/2018/278",
+   "short": "Hotărârea CNCD nr. 278/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 278/2018 din 2018-07-04",
+   "url": "https://www.cncd.ro/hotarari/hotarare-278-18/",
+   "versions": [
+    {
+     "from": "2018-07-04",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-278-18/",
+     "sha256": "263829a24023953c311dcd8bc6ae4945490ad88e88d47bce8ad3e34b3d74a978"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-28",
+   "path": "cncd/hotarare/2018/28",
+   "short": "Hotărârea CNCD nr. 28/2018",
+   "title": "Hotărârea CNCD nr. 28/2018: discriminarea persoanei aflată în executarea unei pedepse privative de libertate",
+   "url": "https://www.cncd.ro/hotarari/hotarare-28-2018/",
+   "versions": [
+    {
+     "from": "2018-01-17",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-28-2018/",
+     "sha256": "a8373e111bdcc11a0d73ba93cb80ed20b8c577bccb5865cb18dcbbba1cd9dff8"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-280-2",
+   "path": "cncd/hotarare/2018/280-2",
+   "short": "Hotărârea CNCD nr. 280-2/2018",
+   "title": "Hotărârea CNCD nr. 280-2/2018: modalitate diferită de evaluare a inspectorilor generali și generali adjuncți",
+   "url": "https://www.cncd.ro/hotarari/hotarare-402-18_dosar-280-18-_i_a_necompetenta/",
+   "versions": [
+    {
+     "from": "2018-10-17",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-402-18_dosar-280-18-_i_a_necompetenta/",
+     "sha256": "606882418c3df005a86942a65fd3e42adc1ad4e6fc686c49d52318f20dfa136d"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-280",
+   "path": "cncd/hotarare/2018/280",
+   "short": "Hotărârea CNCD nr. 280/2018",
+   "title": "Hotărârea CNCD nr. 280/2018: funcția petentei nu se regăsește în Legea cadru nr.153/2017 privind salarizarea personalului plătit din fonduri publice",
+   "url": "https://www.cncd.ro/hotarari/hotarare-280-2018/",
+   "versions": [
+    {
+     "from": "2017-07-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-280-2018/",
+     "sha256": "bb6fc8e91ceecc9f3c5dbb0dccaa3f3b90e740ee74eb575ae4565140ec825071"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-281",
+   "path": "cncd/hotarare/2018/281",
+   "short": "Hotărârea CNCD nr. 281/2018",
+   "title": "Hotărârea CNCD nr. 281/2018: contestație împotriva deciziei CNCD cu un posibil caracter discriminatoriu",
+   "url": "https://www.cncd.ro/hotarari/hotarare-281-2018/",
+   "versions": [
+    {
+     "from": "2018-07-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-281-2018/",
+     "sha256": "339f42e9240e5d2e064d497ca41615681c0f0b2fa9113487651b7d2178ede622"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-282",
+   "path": "cncd/hotarare/2018/282",
+   "short": "Hotărârea CNCD nr. 282/2018",
+   "title": "Hotărârea CNCD nr. 282/2018: anularea hotărârii Consiliului local",
+   "url": "https://www.cncd.ro/hotarari/hotarare-282-2018/",
+   "versions": [
+    {
+     "from": "2018-07-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-282-2018/",
+     "sha256": "cf4de305347972d84df8399ca6de2291c9a67d09a5ecd30b1bb9e1dc09e4356d"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-283",
+   "path": "cncd/hotarare/2018/283",
+   "short": "Hotărârea CNCD nr. 283/2018",
+   "title": "Hotărârea CNCD nr. 283/2018: tergiversarea validării mandatelor de consilier local",
+   "url": "https://www.cncd.ro/hotarari/hotarare-283-2018/",
+   "versions": [
+    {
+     "from": "2018-07-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-283-2018/",
+     "sha256": "882d91c76a7140f2dc849e5fa52a214b8e98d7370fcc7beeaa43bc01e485d7d9"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-284",
+   "path": "cncd/hotarare/2018/284",
+   "short": "Hotărârea CNCD nr. 284/2018",
+   "title": "Hotărârea CNCD nr. 284/2018: comportament agresiv, ieșiri necontrolate ale noului manager",
+   "url": "https://www.cncd.ro/hotarari/hotarare-284-18/",
+   "versions": [
+    {
+     "from": "2018-07-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-284-18/",
+     "sha256": "e61af2e81454e6ee54af6e4e25abdc3adcea10f6604266ba50afed8b376607fb"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-285",
+   "path": "cncd/hotarare/2018/285",
+   "short": "Hotărârea CNCD nr. 285/2018",
+   "title": "Hotărârea CNCD nr. 285/2018: neîncadrarea în trepte de salarizare începând cu anul 2009 corespunzător studiilor absolvite, precum și faptul că nu i s-a acordat drepturile salariale cuvenite",
+   "url": "https://www.cncd.ro/hotarari/hotarare-285-18/",
+   "versions": [
+    {
+     "from": "2018-07-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-285-18/",
+     "sha256": "11e64c2cc1ca0975ffe55372af7230cf9ca86515488f7013725ff8f476a48c4b"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-29",
+   "path": "cncd/hotarare/2018/29",
+   "short": "Hotărârea CNCD nr. 29/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 29/2018 din 2018-01-17",
+   "url": "https://www.cncd.ro/hotarari/hotarare-29-2018/",
+   "versions": [
+    {
+     "from": "2018-01-17",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-29-2018/",
+     "sha256": "07d6e1e5f8741a3097becf03a2c16482778ae88b04b7325ba2b7f5b1de04ac15"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-290",
+   "path": "cncd/hotarare/2018/290",
+   "short": "Hotărârea CNCD nr. 290/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 290/2018 din 2018-07-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-290-2018/",
+   "versions": [
+    {
+     "from": "2018-07-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-290-2018/",
+     "sha256": "6ec93c46b656b30403056354eb51a655d4455c3b56f5a7b18a2840297cf3fde7"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-291",
+   "path": "cncd/hotarare/2018/291",
+   "short": "Hotărârea CNCD nr. 291/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 291/2018 din 2018-07-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-291-18/",
+   "versions": [
+    {
+     "from": "2018-07-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-291-18/",
+     "sha256": "c3e6b4f3eda5ae94eda79743c4199777b4828ee2a1c72e054863ede33c6d4800"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-292",
+   "path": "cncd/hotarare/2018/292",
+   "short": "Hotărârea CNCD nr. 292/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 292/2018 din 2018-07-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-292-2018/",
+   "versions": [
+    {
+     "from": "2018-07-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-292-2018/",
+     "sha256": "939fefb599d3d34962580eb8a6537452958309e00c4502b7278b999c961cbfd3"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-293",
+   "path": "cncd/hotarare/2018/293",
+   "short": "Hotărârea CNCD nr. 293/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 293/2018 din 2018-07-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-293-18/",
+   "versions": [
+    {
+     "from": "2018-07-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-293-18/",
+     "sha256": "36dd2a09ab5b959f5ed564a6770b241978edb16fef0828a4c2aaa4be85011d22"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-294",
+   "path": "cncd/hotarare/2018/294",
+   "short": "Hotărârea CNCD nr. 294/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 294/2018 din 2018-07-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-294-18/",
+   "versions": [
+    {
+     "from": "2018-07-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-294-18/",
+     "sha256": "d25bc4719b5d166ad1b7b924bce2bb2f5c6ccfb697f78502e0d81e9bbbd74cd3"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-295",
+   "path": "cncd/hotarare/2018/295",
+   "short": "Hotărârea CNCD nr. 295/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 295/2018 din 2018-07-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-295-2018/",
+   "versions": [
+    {
+     "from": "2018-07-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-295-2018/",
+     "sha256": "6a0c57b20ddbbc3b9437288a428be2fd0607ab4a1ea47e2ff5d25edfb53428eb"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-299",
+   "path": "cncd/hotarare/2018/299",
+   "short": "Hotărârea CNCD nr. 299/2018",
+   "title": "Hotărârea CNCD nr. 299/2018: afirmații cu caracter discriminatoriu",
+   "url": "https://www.cncd.ro/hotarari/hotarare-299-18/",
+   "versions": [
+    {
+     "from": "2018-07-18",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-299-18/",
+     "sha256": "0c7b181e29dd8a128794b9f0ecfc974f4e4d00a0038d038818241567efe008e5"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-3",
+   "path": "cncd/hotarare/2018/3",
+   "short": "Hotărârea CNCD nr. 3/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 3/2018 din 2018-01-10",
+   "url": "https://www.cncd.ro/hotarari/hotarare-3-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-3-2018/",
+     "sha256": "6dea52accd7fdd6cb44641f515661e05e93ab855033a30f18ced31c82c8e5242"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-30",
+   "path": "cncd/hotarare/2018/30",
+   "short": "Hotărârea CNCD nr. 30/2018",
+   "title": "Hotărârea CNCD nr. 30/2018: plângere penală împotriva a trei procurori de pe lângă Parchetul Înaltei Curți de Casație și Justiție, pentru fals, uz de fals, fals intelectual, respectiv purtare abuzivă în desfășurarea activității de serviciu.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-30-18/",
+   "versions": [
+    {
+     "from": "2018-01-17",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-30-18/",
+     "sha256": "e8a120e1e83e71c2e8ccb2c03958c7336563b43990c49e11383036fff9eee074"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-300",
+   "path": "cncd/hotarare/2018/300",
+   "short": "Hotărârea CNCD nr. 300/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 300/2018 din 2018-07-18",
+   "url": "https://www.cncd.ro/hotarari/hotarare-300-18/",
+   "versions": [
+    {
+     "from": "2018-07-18",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-300-18/",
+     "sha256": "5db01bf4bd5d93e044d739d0a0a543512175d4ffe8b6d86a157738c99b3841a1"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-301",
+   "path": "cncd/hotarare/2018/301",
+   "short": "Hotărârea CNCD nr. 301/2018",
+   "title": "Hotărârea CNCD nr. 301/2018: discriminarea petentei la locul de muncă",
+   "url": "https://www.cncd.ro/hotarari/hotarare-301-18/",
+   "versions": [
+    {
+     "from": "2018-07-18",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-301-18/",
+     "sha256": "27509d2688045b8fa65f99277d6e10db5f131d150341d59c93ab59529346c7f1"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-303",
+   "path": "cncd/hotarare/2018/303",
+   "short": "Hotărârea CNCD nr. 303/2018",
+   "title": "Hotărârea CNCD nr. 303/2018: tratament discriminatoriu și abuziv din partea șefului său",
+   "url": "https://www.cncd.ro/hotarari/hotarare-303-18/",
+   "versions": [
+    {
+     "from": "2018-07-18",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-303-18/",
+     "sha256": "a61467d9d1a2ba6f2ddfc9c41f4ee6d3afe1718d0cf0eec1f0af7d1599b70c79"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-304",
+   "path": "cncd/hotarare/2018/304",
+   "short": "Hotărârea CNCD nr. 304/2018",
+   "title": "Hotărârea CNCD nr. 304/2018: marcarea locurilor de parcare pentru persoane cu dizabilități",
+   "url": "https://www.cncd.ro/hotarari/hotarare-304-18/",
+   "versions": [
+    {
+     "from": "2018-07-18",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-304-18/",
+     "sha256": "d847b718ec704e84dd798acd594c928ea55c6da163cc75a85782935b4993baf9"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-305",
+   "path": "cncd/hotarare/2018/305",
+   "short": "Hotărârea CNCD nr. 305/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 305/2018 din 2018-07-18",
+   "url": "https://www.cncd.ro/hotarari/hotarare-305-18/",
+   "versions": [
+    {
+     "from": "2018-07-18",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-305-18/",
+     "sha256": "2f5442feeeb67b3024d5587e93adbcda53eb38943bb12b1027eb08e101639a76"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-307",
+   "path": "cncd/hotarare/2018/307",
+   "short": "Hotărârea CNCD nr. 307/2018",
+   "title": "Hotărârea CNCD nr. 307/2018: Afirmații ce au afectat demnitatea familiei pe criteriul că a făcut pușcărie, în cadrul unei acțiuni de control la domiciliu de către inspectorii D.S.V.S.A",
+   "url": "https://www.cncd.ro/hotarari/hotarare-307-2018/",
+   "versions": [
+    {
+     "from": "2018-07-25",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-307-2018/",
+     "sha256": "4de244b6897b96ada515a6b0f3a66c4e1b93eb95a0562871690898846022e8d8"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-308",
+   "path": "cncd/hotarare/2018/308",
+   "short": "Hotărârea CNCD nr. 308/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 308/2018 din 2018-08-25",
+   "url": "https://www.cncd.ro/hotarari/hotarare-308-2018/",
+   "versions": [
+    {
+     "from": "2018-08-25",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-308-2018/",
+     "sha256": "b8b8d15b115f64d0ab5dd6a18473cbaa5ca5103207ada8bdc2b21403577e8a15"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-310",
+   "path": "cncd/hotarare/2018/310",
+   "short": "Hotărârea CNCD nr. 310/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 310/2018 din 2018-09-05",
+   "url": "https://www.cncd.ro/hotarari/hotarare-310-2018/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-310-2018/",
+     "sha256": "56d76ce7d15d641858843c852ebd14246b4aba87930b5434e3be068ee0b0582c"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-311",
+   "path": "cncd/hotarare/2018/311",
+   "short": "Hotărârea CNCD nr. 311/2018",
+   "title": "Hotărârea CNCD nr. 311/2018: Plângere penală pentru discriminare împotriva a doi judecători și un procuror",
+   "url": "https://www.cncd.ro/hotarari/hotarare-311-2018/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-311-2018/",
+     "sha256": "0c3ec9d4c04b8362633db34e0d6e4132d6dbfa44da2bcf17c00517c2bd626d4d"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-312",
+   "path": "cncd/hotarare/2018/312",
+   "short": "Hotărârea CNCD nr. 312/2018",
+   "title": "Hotărârea CNCD nr. 312/2018: Încălcarea dreptului la confidențialitate prin dezvăluirea diagnosticului de autism a fiului ei, încadrat la grupa mică a Gradiniței nr. 10, Bacău",
+   "url": "https://www.cncd.ro/hotarari/hotarare-312-2018/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-312-2018/",
+     "sha256": "bff314e4de93edf9f97cb63fe7f672acefde3e8c7271c297103df55176a0c632"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-313",
+   "path": "cncd/hotarare/2018/313",
+   "short": "Hotărârea CNCD nr. 313/2018",
+   "title": "Hotărârea CNCD nr. 313/2018: Dezvăluirea publică pe rețeaua Facebook, a faptului că este purtătoare de virus HIV",
+   "url": "https://www.cncd.ro/hotarari/hotarare-313-2018/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-313-2018/",
+     "sha256": "b3f8577a648c3780a069cfc9be9e39b642b47fc6a3e11f4d095430830d2bfab9"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-314",
+   "path": "cncd/hotarare/2018/314",
+   "short": "Hotărârea CNCD nr. 314/2018",
+   "title": "Hotărârea CNCD nr. 314/2018: Comportament discriminatoriu și jigniri aduse petentului de către reclamat, supraveghetor la Penitenciarul Giurgiu",
+   "url": "https://www.cncd.ro/hotarari/hotarare-314-2018/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-314-2018/",
+     "sha256": "289911c801ef792a6d7303cd4e2f804ead95f4b7eec90aa8890b59c5c0d9c83b"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-315",
+   "path": "cncd/hotarare/2018/315",
+   "short": "Hotărârea CNCD nr. 315/2018",
+   "title": "Hotărârea CNCD nr. 315/2018: discriminare prin încetarea contractului de muncă, urmată de discriminarea privind privarea dreptului de a participa la un concurs de angajare pe postul deținut anterior",
+   "url": "https://www.cncd.ro/hotarari/hotarare-315-2018/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-315-2018/",
+     "sha256": "109cf5880011ad3d76d80bb2b154793bb503ce833559b5d67a1288374b29eaa8"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-316",
+   "path": "cncd/hotarare/2018/316",
+   "short": "Hotărârea CNCD nr. 316/2018",
+   "title": "Hotărârea CNCD nr. 316/2018: petentul reclamă faptul că nu i s-a soluționat favorabil cererea privind acordarea unui stimulent financiar pentru persoanele cu handicap",
+   "url": "https://www.cncd.ro/hotarari/hotarare-316-2018/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-316-2018/",
+     "sha256": "698be16f0cc86c77cc04fa71f8f2793df4ffe660ed72f523018aef08c8b27ff0"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-317",
+   "path": "cncd/hotarare/2018/317",
+   "short": "Hotărârea CNCD nr. 317/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 317/2018 din 2018-09-05",
+   "url": "https://www.cncd.ro/hotarari/hotarare-317-18/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-317-18/",
+     "sha256": "90a5464e6e87c0c9cd3a5f965d84999d0551fa55d4c046827c71d10b2390b837"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-318",
+   "path": "cncd/hotarare/2018/318",
+   "short": "Hotărârea CNCD nr. 318/2018",
+   "title": "Hotărârea CNCD nr. 318/2018: posibile fapte de discriminare la locul de muncă, hărțuire, victimizare",
+   "url": "https://www.cncd.ro/hotarari/hotarare-318-18/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-318-18/",
+     "sha256": "6ce1b32e925644f69ad9b3f23475fc73461b82cea5ce71b01a0d1f405e73f4b4"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-319",
+   "path": "cncd/hotarare/2018/319",
+   "short": "Hotărârea CNCD nr. 319/2018",
+   "title": "Hotărârea CNCD nr. 319/2018: condițiile de încarcerare ale deținuților cu HIV",
+   "url": "https://www.cncd.ro/hotarari/hotarare-319-18/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-319-18/",
+     "sha256": "7382c25b3f446fdf6d10de26e1558d17eeb197477027d1ab874068ca835aeb01"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-32",
+   "path": "cncd/hotarare/2018/32",
+   "short": "Hotărârea CNCD nr. 32/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 32/2018 din 2018-01-17",
+   "url": "https://www.cncd.ro/hotarari/hotarare-32-2018/",
+   "versions": [
+    {
+     "from": "2018-01-17",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-32-2018/",
+     "sha256": "7c6009b975b1fad84ff9762a4cdc61dea1b317edac721830b0539a993d1036cf"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-320",
+   "path": "cncd/hotarare/2018/320",
+   "short": "Hotărârea CNCD nr. 320/2018",
+   "title": "Hotărârea CNCD nr. 320/2018: compensarea cu zile de libertate în contul condițiilor necorespunzătoare de detenție, aplicarea neunitară a Deciziei CEDO POCA și alții, 14 decembrie 2017",
+   "url": "https://www.cncd.ro/hotarari/hotarare-320-18/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-320-18/",
+     "sha256": "7739049f5ea9814f649a2df9c331a4a301e2cd06e2f9a70b6af29616727de04e"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-321",
+   "path": "cncd/hotarare/2018/321",
+   "short": "Hotărârea CNCD nr. 321/2018",
+   "title": "Hotărârea CNCD nr. 321/2018: discriminarea fiicei petentului privind asistarea la ora de religie, motiv pentru care tatăl acesteia a cerut explicații atât conducerii Școlii, cât și cadrului didactic în calitate de învățător al fiicei petentului. Petentul susține faptul că r2 nu a permis petentului ca în pauza dintre ore să comunice cu fiica sa, și consideră că se aplică un tratament diferențiat părinților divorțați față de cei nedivorțați.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-321-2018/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-321-2018/",
+     "sha256": "2c57f5a515eb013f0596008a8837b5250cb372ef73785f8fc2bf3117d29ed1ee"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-322",
+   "path": "cncd/hotarare/2018/322",
+   "short": "Hotărârea CNCD nr. 322/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 322/2018 din 2018-09-05",
+   "url": "https://www.cncd.ro/hotarari/hotarare-322-2018/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-322-2018/",
+     "sha256": "2fb25f807b2499a0968c27c1a4ed8672e1fc46435244f70c36cce70a07b8a912"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-323",
+   "path": "cncd/hotarare/2018/323",
+   "short": "Hotărârea CNCD nr. 323/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 323/2018 din 2018-09-05",
+   "url": "https://www.cncd.ro/hotarari/hotarare-323-18/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-323-18/",
+     "sha256": "8fafb3367c71393bf5f0ac4344bb8df811e0aeaccee7e2311079ccc1adc65b94"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-324",
+   "path": "cncd/hotarare/2018/324",
+   "short": "Hotărârea CNCD nr. 324/2018",
+   "title": "Hotărârea CNCD nr. 324/2018: tergiversarea soluționării unei cereri de despăgubire pentru teren, acordarea unei sume mici pentru despăgubire",
+   "url": "https://www.cncd.ro/hotarari/hotarare-324-18/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-324-18/",
+     "sha256": "7063da8f11aa89ccee3ab0ba28a05f7f860332c66ac822451714686ed625b1d6"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-325",
+   "path": "cncd/hotarare/2018/325",
+   "short": "Hotărârea CNCD nr. 325/2018",
+   "title": "Hotărârea CNCD nr. 325/2018: condiționarea participării la un concurs de lipsa unei condamnări penale ce apare în cazierul judiciar",
+   "url": "https://www.cncd.ro/hotarari/hotarare-325-18/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-325-18/",
+     "sha256": "fdd49e70af68503464c22c9d81b84c4e6deac1bc015fa0b58b242f37f9f4e8cd"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-326",
+   "path": "cncd/hotarare/2018/326",
+   "short": "Hotărârea CNCD nr. 326/2018",
+   "title": "Hotărârea CNCD nr. 326/2018: afirmații cu caracter discriminatoriu",
+   "url": "https://www.cncd.ro/hotarari/hotarare-326-2018/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-326-2018/",
+     "sha256": "016c65f69648cd7e27f93c9b134fc765c4ffbe3f15b7059dd8a70971ae445693"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-327",
+   "path": "cncd/hotarare/2018/327",
+   "short": "Hotărârea CNCD nr. 327/2018",
+   "title": "Hotărârea CNCD nr. 327/2018: conținutul discriminatoriu al deciziei reclamatului din 17.03.2017, necomunicarea deciziei către petent, hărțuire pe criteriul convingerilor",
+   "url": "https://www.cncd.ro/hotarari/hotarare-327-18/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-327-18/",
+     "sha256": "9791f3c83ce74c2e38cf0411479fa98db77a8336fd9392e90a4e87d3991d185d"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-328",
+   "path": "cncd/hotarare/2018/328",
+   "short": "Hotărârea CNCD nr. 328/2018",
+   "title": "Hotărârea CNCD nr. 328/2018: afirmații antimaghiare",
+   "url": "https://www.cncd.ro/hotarari/hotarare-328-2018/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-328-2018/",
+     "sha256": "63d7a2202213d9188718d4948d9cd1f181f1caf896c85f616fd8a69382dff6ee"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-329",
+   "path": "cncd/hotarare/2018/329",
+   "short": "Hotărârea CNCD nr. 329/2018",
+   "title": "Hotărârea CNCD nr. 329/2018: încălcarea dreptului la demnitate prin refuzul respectării unei decizii de instanță, nepromovarea pe o altă treaptă profesională, prezentarea petentei ca fiind o persoană care strică imaginea instituției și afectează bugetul școlii, neacordarea concediului la solicitare în mod similar colegilor",
+   "url": "https://www.cncd.ro/hotarari/hotarare-329-18/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-329-18/",
+     "sha256": "988c404eef5f743f390e1a30a09c0ce4de6eae1588d75b593cdfca218cdb3822"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-33",
+   "path": "cncd/hotarare/2018/33",
+   "short": "Hotărârea CNCD nr. 33/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 33/2018 din 2018-01-17",
+   "url": "https://www.cncd.ro/hotarari/hotarare-33-18/",
+   "versions": [
+    {
+     "from": "2018-01-17",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-33-18/",
+     "sha256": "eef55e9e7285e09be337f3730d32d71067f9882d77da5c1e641936eb784f96f4"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-330",
+   "path": "cncd/hotarare/2018/330",
+   "short": "Hotărârea CNCD nr. 330/2018",
+   "title": "Hotărârea CNCD nr. 330/2018: aplicarea neunitară a dispozițiilor Legii nr. 153/2017",
+   "url": "https://www.cncd.ro/hotarari/hotarare-330-18/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-330-18/",
+     "sha256": "84adb80058e1af37e10ad3fd45ec51ff73f911c17919404a121510b4457a7152"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-331",
+   "path": "cncd/hotarare/2018/331",
+   "short": "Hotărârea CNCD nr. 331/2018",
+   "title": "Hotărârea CNCD nr. 331/2018: fapte de natură penală, jigniri",
+   "url": "https://www.cncd.ro/hotarari/hotarare-331-18/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-331-18/",
+     "sha256": "998a7290d6ec9166bd08e691d6524a954bb02b99889c6df344785cc9b4d59662"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-332",
+   "path": "cncd/hotarare/2018/332",
+   "short": "Hotărârea CNCD nr. 332/2018",
+   "title": "Hotărârea CNCD nr. 332/2018: refuzul angajării pe criteriul de vârstă",
+   "url": "https://www.cncd.ro/hotarari/hotarare-332-18/",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-332-18/",
+     "sha256": "dbc28d8d827b7e60383649ae3c3c01c81827c2202bcc3face8fece6b53e38de6"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-334",
+   "path": "cncd/hotarare/2018/334",
+   "short": "Hotărârea CNCD nr. 334/2018",
+   "title": "Hotărârea CNCD nr. 334/2018: Articol defăimător/jignitor scris pe un website și folosirea pozei fără aprobarea petentului",
+   "url": "https://www.cncd.ro/hotarari/hotarare-334-2018/",
+   "versions": [
+    {
+     "from": "2018-09-12",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-334-2018/",
+     "sha256": "9adace2e9e0166a3e0b3610d663cecc7ce93ddeeceeecf6e4d5a279ae39b3c89"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-335",
+   "path": "cncd/hotarare/2018/335",
+   "short": "Hotărârea CNCD nr. 335/2018",
+   "title": "Hotărârea CNCD nr. 335/2018: Discriminarea unei persoane cu handicap, care în urma apariției unui volum de poezii și a încasării din partea editurii a dreptului de autor, i s-a suspendat plata pensiei minime garantate",
+   "url": "https://www.cncd.ro/hotarari/hotarare-335-2018/",
+   "versions": [
+    {
+     "from": "2018-09-12",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-335-2018/",
+     "sha256": "a8c87b0af9ed042fb0b2ab717308fc4ff87ab2cc644fc8c7b81cbc9c208f0798"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-336",
+   "path": "cncd/hotarare/2018/336",
+   "short": "Hotărârea CNCD nr. 336/2018",
+   "title": "Hotărârea CNCD nr. 336/2018: intervenția CNCD pentru aprobarea dosarului de pensionare anticipată parțială, depus la Casa Locală de Pensii sector 3",
+   "url": "https://www.cncd.ro/hotarari/hotarare-336-2018/",
+   "versions": [
+    {
+     "from": "2018-09-12",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-336-2018/",
+     "sha256": "de8e47455b2cc7de30984e3953cd8473a737622651f04065d5a50cb13df5b088"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-338",
+   "path": "cncd/hotarare/2018/338",
+   "short": "Hotărârea CNCD nr. 338/2018",
+   "title": "Hotărârea CNCD nr. 338/2018: recompartimentarea spațiului, stabilirea de atribuții, expresii verbale nepotrivite din partea unui referent, agresiune verbală ale unui consilier principal și ale unei referente etc",
+   "url": "https://www.cncd.ro/hotarari/hotarare-338-2018/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-338-2018/",
+     "sha256": "84bcde3f2862acb2c4b22cfc00e156dbc8fae5632d353e1a7f5eec153402aa6d"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-339",
+   "path": "cncd/hotarare/2018/339",
+   "short": "Hotărârea CNCD nr. 339/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 339/2018 din 2018-09-19",
+   "url": "https://www.cncd.ro/hotarari/hotarare-339-2018/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-339-2018/",
+     "sha256": "4f534ec518bd3384ff3659cce29a22d19487275db0e27018044fc2dc35587dd3"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-34",
+   "path": "cncd/hotarare/2018/34",
+   "short": "Hotărârea CNCD nr. 34/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 34/2018 din 2018-01-17",
+   "url": "https://www.cncd.ro/hotarari/hotarare-34-2018/",
+   "versions": [
+    {
+     "from": "2018-01-17",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-34-2018/",
+     "sha256": "705e967d3338939fda1093dd161d6791700349eb4ac402ad7cfc8b167d0ae12b"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-340",
+   "path": "cncd/hotarare/2018/340",
+   "short": "Hotărârea CNCD nr. 340/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 340/2018 din 2018-09-19",
+   "url": "https://www.cncd.ro/hotarari/hotarare-340-2018/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-340-2018/",
+     "sha256": "ef6d509ef22b6b55bab8cbdd53087fa9e0c97140aae1cc2d05ca8d5a796ad4c3"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-341",
+   "path": "cncd/hotarare/2018/341",
+   "short": "Hotărârea CNCD nr. 341/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 341/2018 din 2018-09-19",
+   "url": "https://www.cncd.ro/hotarari/hotarare-341-2018/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-341-2018/",
+     "sha256": "bea21af9d09da9433e19b9a8be1dc239da8e19f9a37eb0b97900cae0eed01ed3"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-342",
+   "path": "cncd/hotarare/2018/342",
+   "short": "Hotărârea CNCD nr. 342/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 342/2018 din 2018-09-19",
+   "url": "https://www.cncd.ro/hotarari/hotarare-342-18/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-342-18/",
+     "sha256": "cadd59bd31dbd47e2c20341688130fdaff0ae6f2f1a0b113938287d5b3373192"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-343",
+   "path": "cncd/hotarare/2018/343",
+   "short": "Hotărârea CNCD nr. 343/2018",
+   "title": "Hotărârea CNCD nr. 343/2018: .refuzul petentului la angajare, pe motiv că deține cazier judiciar înregistrat cu o infracțiune penală.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-343-18/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-343-18/",
+     "sha256": "e756d930ae47e7b4bfbb5b84a51209e753fe49fe910f04eea6df6bd5f878e0a4"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-344",
+   "path": "cncd/hotarare/2018/344",
+   "short": "Hotărârea CNCD nr. 344/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 344/2018 din 2018-09-19",
+   "url": "https://www.cncd.ro/hotarari/hotarare-344-18/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-344-18/",
+     "sha256": "50fd2f8af62e6306225b42afaabb50d029da2d6a467f8b36f8dd4732587b3fb9"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-345",
+   "path": "cncd/hotarare/2018/345",
+   "short": "Hotărârea CNCD nr. 345/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 345/2018 din 2018-09-19",
+   "url": "https://www.cncd.ro/hotarari/hotarare-345-18/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-345-18/",
+     "sha256": "be9b5c46ce09baa82f7babb03f2de6840436f4519640ee1de748a93e9206bbe9"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-346",
+   "path": "cncd/hotarare/2018/346",
+   "short": "Hotărârea CNCD nr. 346/2018",
+   "title": "Hotărârea CNCD nr. 346/2018: afirmații jignitoare privind apartenența etnică a petentului (romă)",
+   "url": "https://www.cncd.ro/hotarari/hotarare-346-2018/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-346-2018/",
+     "sha256": "ec806dca247824bb3c6944a2230133b050817b125dbe0dd2ff78b27fab1d7087"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-347",
+   "path": "cncd/hotarare/2018/347",
+   "short": "Hotărârea CNCD nr. 347/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 347/2018 din 2018-09-19",
+   "url": "https://www.cncd.ro/hotarari/hotarare-347-2018/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-347-2018/",
+     "sha256": "b4bc032947c32e981007a40c0ae3f2830e854ac82da91363a9734f8d82f533db"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-348",
+   "path": "cncd/hotarare/2018/348",
+   "short": "Hotărârea CNCD nr. 348/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 348/2018 din 2018-09-19",
+   "url": "https://www.cncd.ro/hotarari/hotarare-348-18/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-348-18/",
+     "sha256": "e9cf3ee1b7390c8880b29df8ee4d9515a85d81ec270dcb08078acecdd1bfef2f"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-349",
+   "path": "cncd/hotarare/2018/349",
+   "short": "Hotărârea CNCD nr. 349/2018",
+   "title": "Hotărârea CNCD nr. 349/2018: afirmații jignitoare la adresa persoanelor de etnie romă",
+   "url": "https://www.cncd.ro/hotarari/hotarare-349-2018/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-349-2018/",
+     "sha256": "a5dcc15b42f23882ce686a1b140e6365e0fd0755ba9c6aba6ca2f2d9f003c5bf"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-350",
+   "path": "cncd/hotarare/2018/350",
+   "short": "Hotărârea CNCD nr. 350/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 350/2018 din 2018-09-19",
+   "url": "https://www.cncd.ro/hotarari/hotarare-350-18/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-350-18/",
+     "sha256": "ed43d51fdda052a590b17a4b12bbba0a707e6ea5ed77466629ab0355fc0ed627"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-351",
+   "path": "cncd/hotarare/2018/351",
+   "short": "Hotărârea CNCD nr. 351/2018",
+   "title": "Hotărârea CNCD nr. 351/2018: afirmații jignitoare la adresa petentului de etnie romă",
+   "url": "https://www.cncd.ro/hotarari/hotarare-351-2018/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-351-2018/",
+     "sha256": "c4a5ea3bcd5b37718cca00708dea5a888468958de04e2ae0e4bdc8f5d4695bad"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-352",
+   "path": "cncd/hotarare/2018/352",
+   "short": "Hotărârea CNCD nr. 352/2018",
+   "title": "Hotărârea CNCD nr. 352/2018: tratramentul diferit al celor care au contestat evaluarea comparativ cu cei care nu au contestat",
+   "url": "https://www.cncd.ro/hotarari/hotarare-352-18/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-352-18/",
+     "sha256": "44a7092264416dd0772ad40742243e9ded873fd7a607df85e2d0e540dc3186e7"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-353",
+   "path": "cncd/hotarare/2018/353",
+   "short": "Hotărârea CNCD nr. 353/2018",
+   "title": "Hotărârea CNCD nr. 353/2018: fapte de natură penală (abuz în serviciu)",
+   "url": "https://www.cncd.ro/hotarari/hotarare-353-18/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-353-18/",
+     "sha256": "55b3298d50ce953ab672af6a78671aa401cfe2a7385e68b07580e08cf5f2a312"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-354",
+   "path": "cncd/hotarare/2018/354",
+   "short": "Hotărârea CNCD nr. 354/2018",
+   "title": "Hotărârea CNCD nr. 354/2018: fapte de natură penală (abuz în serviciu)",
+   "url": "https://www.cncd.ro/hotarari/hotarare-354-18/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-354-18/",
+     "sha256": "66c5b0cab1fde496e13388a9c29594a3bbe17a81a78208a61eaadcf0443e1679"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-355",
+   "path": "cncd/hotarare/2018/355",
+   "short": "Hotărârea CNCD nr. 355/2018",
+   "title": "Hotărârea CNCD nr. 355/2018: obligația de a se prezenta la poliție pentru orice eveniment rutier",
+   "url": "https://www.cncd.ro/hotarari/hotarare-355-18/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-355-18/",
+     "sha256": "4aff28197c35b26e52e931c08c6d3945678217ae54e4abcf78df30b168186841"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-356",
+   "path": "cncd/hotarare/2018/356",
+   "short": "Hotărârea CNCD nr. 356/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 356/2018 din 2018-09-26",
+   "url": "https://www.cncd.ro/hotarari/hotarare-356-18/",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-356-18/",
+     "sha256": "713aa2028f96d7c19054834a4572131a9ef49fa2fa0ad1c6bb5b25b5baae553e"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-358",
+   "path": "cncd/hotarare/2018/358",
+   "short": "Hotărârea CNCD nr. 358/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 358/2018 din 2018-09-26",
+   "url": "https://www.cncd.ro/hotarari/hotarare-358-18/",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-358-18/",
+     "sha256": "5bd218d4c10e57ea6081504e5971ae096cdbb306f043a4a3bc2bb12a59534b61"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-36",
+   "path": "cncd/hotarare/2018/36",
+   "short": "Hotărârea CNCD nr. 36/2018",
+   "title": "Hotărârea CNCD nr. 36/2018: respingerea dosarului profesional în vederea avansării petentei, pe baza neândeplinirii unui criteriu.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-36-18/",
+   "versions": [
+    {
+     "from": "2018-01-23",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-36-18/",
+     "sha256": "b10582ec63fcc1e357d90c945093a867aa5d57352ba06be7863d579b962e8b6e"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-360",
+   "path": "cncd/hotarare/2018/360",
+   "short": "Hotărârea CNCD nr. 360/2018",
+   "title": "Hotărârea CNCD nr. 360/2018: nepunerea în aplicare a unei sentințe judecătorești",
+   "url": "https://www.cncd.ro/hotarari/hotarare-360-18/",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-360-18/",
+     "sha256": "8d01ef2c534c346c336a43e6966b710b2370ed414d3d60abea1b346d596c67b5"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-361",
+   "path": "cncd/hotarare/2018/361",
+   "short": "Hotărârea CNCD nr. 361/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 361/2018 din 2018-09-26",
+   "url": "https://www.cncd.ro/hotarari/hotarare-361-18/",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-361-18/",
+     "sha256": "6366a3df1ef8c9200a1152c6a960462cf027a362a3a8e0387c76c25f8edf7b6f"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-362",
+   "path": "cncd/hotarare/2018/362",
+   "short": "Hotărârea CNCD nr. 362/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 362/2018 din 2018-09-26",
+   "url": "https://www.cncd.ro/hotarari/hotarare-362-18/",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-362-18/",
+     "sha256": "a0ab5c3a7824b8cadeae6d54a20ac69fc9fa3985268a5119cdabf9c857ded84e"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-363",
+   "path": "cncd/hotarare/2018/363",
+   "short": "Hotărârea CNCD nr. 363/2018",
+   "title": "Hotărârea CNCD nr. 363/2018: utilizarea termenilor de „ciumafaie roz”, „derbedeu” respectiv „curvă” la adresa petentei, afirmații legate de viața de familie a petentei",
+   "url": "https://www.cncd.ro/hotarari/hotarare-363-2018/",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-363-2018/",
+     "sha256": "40937f0c064b8f1be2faa58d101de73d80e323145760dc86558837299deac6f3"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-364",
+   "path": "cncd/hotarare/2018/364",
+   "short": "Hotărârea CNCD nr. 364/2018",
+   "title": "Hotărârea CNCD nr. 364/2018: nelegalități la primăria unde lucrează petenta",
+   "url": "https://www.cncd.ro/hotarari/hotarare-364-18/",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-364-18/",
+     "sha256": "27d2d9a560a760455c6761c888794e6535cb9c760fb02ce1c7e470ec8f953aca"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-365",
+   "path": "cncd/hotarare/2018/365",
+   "short": "Hotărârea CNCD nr. 365/2018",
+   "title": "Hotărârea CNCD nr. 365/2018: refuzul mutării de la Jandarmeria Română la Inspectoratul Județean de Poliție Timiș",
+   "url": "https://www.cncd.ro/hotarari/hotarare-365-18/",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-365-18/",
+     "sha256": "15d91b338ce84dda0054ccb24bdb88003a545a5b8f8571681ca19d61f73a5a80"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-366",
+   "path": "cncd/hotarare/2018/366",
+   "short": "Hotărârea CNCD nr. 366/2018",
+   "title": "Hotărârea CNCD nr. 366/2018: încălcarea dreptului la demnitate",
+   "url": "https://www.cncd.ro/hotarari/hotarare-366-18/",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-366-18/",
+     "sha256": "893e27f626ad83350e705a2ffa942610730cf4787968de4cc8ab8315469ff61d"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-367",
+   "path": "cncd/hotarare/2018/367",
+   "short": "Hotărârea CNCD nr. 367/2018",
+   "title": "Hotărârea CNCD nr. 367/2018: fapte de natură penală",
+   "url": "https://www.cncd.ro/hotarari/hotarare-367-2018/",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-367-2018/",
+     "sha256": "464c9d4eb207a435257ab582f42ca759a44738252abf33acf8d30f5fe45affbc"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-368",
+   "path": "cncd/hotarare/2018/368",
+   "short": "Hotărârea CNCD nr. 368/2018",
+   "title": "Hotărârea CNCD nr. 368/2018: interpretarea legislației de salarizare",
+   "url": "https://www.cncd.ro/hotarari/hotarare-368-18/",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-368-18/",
+     "sha256": "b414eb714503b6b2b1833669ece1d040c5444a477018ebf5a12c4b26077989f1"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-369",
+   "path": "cncd/hotarare/2018/369",
+   "short": "Hotărârea CNCD nr. 369/2018",
+   "title": "Hotărârea CNCD nr. 369/2018: comportament neadecvat venit din partea primarului pentru a discredita petenta",
+   "url": "https://www.cncd.ro/hotarari/hotarare-369-2018/",
+   "versions": [
+    {
+     "from": "2018-09-26",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-369-2018/",
+     "sha256": "516979cb036a5a399f1d4ae58d066accda84c3ace9f3715152c0d2296cb82327"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-37",
+   "path": "cncd/hotarare/2018/37",
+   "short": "Hotărârea CNCD nr. 37/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 37/2018 din 2018-01-23",
+   "url": "https://www.cncd.ro/hotarari/hotarare-37-18/",
+   "versions": [
+    {
+     "from": "2018-01-23",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-37-18/",
+     "sha256": "8144437e716d33f0ccffdef3bcc3a6d18b76f7e206ef9ec03f4504cecb1a0f58"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-370",
+   "path": "cncd/hotarare/2018/370",
+   "short": "Hotărârea CNCD nr. 370/2018",
+   "title": "Hotărârea CNCD nr. 370/2018: sistarea apei, reclamații venite din partea vecinilor, este furată de către aceștia etc.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-370-2018/",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-370-2018/",
+     "sha256": "6e5443d5161bd3663559b98bef8453b044c80d1572b04b207a331754dc7d0d9f"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-371",
+   "path": "cncd/hotarare/2018/371",
+   "short": "Hotărârea CNCD nr. 371/2018",
+   "title": "Hotărârea CNCD nr. 371/2018: refuz angajare, criteriu vârstă",
+   "url": "https://www.cncd.ro/hotarari/hotarare-371-2018/",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-371-2018/",
+     "sha256": "c700197f29dc9652f1309fd7d9dbc780e9cf53621d6a06f0bcd8acd7691989a2"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-372",
+   "path": "cncd/hotarare/2018/372",
+   "short": "Hotărârea CNCD nr. 372/2018",
+   "title": "Hotărârea CNCD nr. 372/2018: solicită reevaluarea Proiectului didactic, deoarece timpul acordat pentru lecția deschisă, de 30 de minute, este considerat insuficient pentru desfășurarea lecției/orei deschise",
+   "url": "https://www.cncd.ro/hotarari/hotarare-372-2018/",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-372-2018/",
+     "sha256": "3db215b80b71a24bec5059b22f3ca71b572228e05ecd1037981a347e42c5da72"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-373",
+   "path": "cncd/hotarare/2018/373",
+   "short": "Hotărârea CNCD nr. 373/2018",
+   "title": "Hotărârea CNCD nr. 373/2018: neexecutarea asigurării de viață",
+   "url": "https://www.cncd.ro/hotarari/hotarare-373-2018/",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-373-2018/",
+     "sha256": "689318fd8a37d5568603988a2aeff9d870e593617782069d44b6662c421cdac0"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-374",
+   "path": "cncd/hotarare/2018/374",
+   "short": "Hotărârea CNCD nr. 374/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 374/2018 din 2018-10-03",
+   "url": "https://www.cncd.ro/hotarari/hotarare-374-2018/",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-374-2018/",
+     "sha256": "816a29d202c64976a74427cd3576e5b5e0d7ea2ca24c8ce17bcddaa9d4c85784"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-375",
+   "path": "cncd/hotarare/2018/375",
+   "short": "Hotărârea CNCD nr. 375/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 375/2018 din 2018-10-03",
+   "url": "https://www.cncd.ro/hotarari/hotarare-375-18/",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-375-18/",
+     "sha256": "78a44d93455be09ebd983a4c8668cde875157c136f4769e8564e6ae91bb9360c"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-376",
+   "path": "cncd/hotarare/2018/376",
+   "short": "Hotărârea CNCD nr. 376/2018",
+   "title": "Hotărârea CNCD nr. 376/2018: petentul sesizează cu privire la afirmații ca ”șobolan” și ”lumpen diaspora”",
+   "url": "https://www.cncd.ro/hotarari/hotarare-376-2018/",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-376-2018/",
+     "sha256": "1a5864a3ba514921563f2ced0871c479fc2345137cfd86f824d52b1f180b559d"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-377",
+   "path": "cncd/hotarare/2018/377",
+   "short": "Hotărârea CNCD nr. 377/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 377/2018 din 2018-10-03",
+   "url": "https://www.cncd.ro/hotarari/hotarare-377-18/",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-377-18/",
+     "sha256": "fcbbeae0eb8ed08d44d652f1d56e85eddf2e2ca5709ef4932d77b160c58f4e3f"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-378",
+   "path": "cncd/hotarare/2018/378",
+   "short": "Hotărârea CNCD nr. 378/2018",
+   "title": "Hotărârea CNCD nr. 378/2018: inexistența unui plan de servicii individualizat pentru un copil cu dizabilități, neasigurarea kinetoterapeutului, profesorului logoped, infimierului, șoferului pentru nedeplasabil",
+   "url": "https://www.cncd.ro/hotarari/hotarare-378-2018/",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-378-2018/",
+     "sha256": "1d26be0d11940d847f3198e9d0dd9c5e5667b34e557becd479af88f2dcec2d9b"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-379",
+   "path": "cncd/hotarare/2018/379",
+   "short": "Hotărârea CNCD nr. 379/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 379/2018 din 2018-10-03",
+   "url": "https://www.cncd.ro/hotarari/hotarare-379-18/",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-379-18/",
+     "sha256": "514886df05488c11c598443cb581431e4f671241ae7dcdcca024454649d947ca"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-38",
+   "path": "cncd/hotarare/2018/38",
+   "short": "Hotărârea CNCD nr. 38/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 38/2018 din 2018-01-23",
+   "url": "https://www.cncd.ro/hotarari/hotarare-38-2018/",
+   "versions": [
+    {
+     "from": "2018-01-23",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-38-2018/",
+     "sha256": "15be55f59dbb0d971f19abbf43b0d24fb3eb39be2000eb9b91b06f668bd5ff03"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-380",
+   "path": "cncd/hotarare/2018/380",
+   "short": "Hotărârea CNCD nr. 380/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 380/2018 din 2018-10-03",
+   "url": "https://www.cncd.ro/hotarari/hotarare-380-2018/",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-380-2018/",
+     "sha256": "0b913fd551fa619a54a53a6b762ce38896eee96315586c0ca6955d30acf04973"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-381",
+   "path": "cncd/hotarare/2018/381",
+   "short": "Hotărârea CNCD nr. 381/2018",
+   "title": "Hotărârea CNCD nr. 381/2018: afirmații jignitoare la adresa copiilor din centrele de plasament",
+   "url": "https://www.cncd.ro/hotarari/hotarare-381-2018/",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-381-2018/",
+     "sha256": "2ab5af0be3ad6db54ebcca1b67d2f7982543313e09b73d6c0996209c5328e102"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-382",
+   "path": "cncd/hotarare/2018/382",
+   "short": "Hotărârea CNCD nr. 382/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 382/2018 din 2018-10-03",
+   "url": "https://www.cncd.ro/hotarari/hotarare-382-18/",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-382-18/",
+     "sha256": "348c520bcbfa14e309dde7bd6d7ad7470c5a8cca4c392ec37558a5dc6f49110f"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-383",
+   "path": "cncd/hotarare/2018/383",
+   "short": "Hotărârea CNCD nr. 383/2018",
+   "title": "Hotărârea CNCD nr. 383/2018: nerecunoașterea unor drepturi salariale",
+   "url": "https://www.cncd.ro/hotarari/hotarare-383-18/",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-383-18/",
+     "sha256": "da1bf03234a8518ebf0ef71b02a7682f9ebb2bf0660e8c9a749317e4014d26dd"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-384",
+   "path": "cncd/hotarare/2018/384",
+   "short": "Hotărârea CNCD nr. 384/2018",
+   "title": "Hotărârea CNCD nr. 384/2018: neacordare scutire anuala a taxei pe locurile de veci concesionate fiind persoana fara venit comparativ cu pensionarii cu venituri sub 1900 ron care beneficiaza de scutire.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-384-18/",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-384-18/",
+     "sha256": "96c6a6011eee70889bfe749edd6bab1ff7bda18dd4e8ee5b704f1232901e4438"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-386",
+   "path": "cncd/hotarare/2018/386",
+   "short": "Hotărârea CNCD nr. 386/2018",
+   "title": "Hotărârea CNCD nr. 386/2018: discriminare instituită prin Ordonanța nr. 9/2018 care modifică articolul 263 din Legea Educației Naționale nr. 1/2011",
+   "url": "https://www.cncd.ro/hotarari/hotarare-386-2018/",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-386-2018/",
+     "sha256": "eb1769180fa8cf6b1210bbea63b9c34677ba62c61f51fc7ad878166b4b46de8f"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-387",
+   "path": "cncd/hotarare/2018/387",
+   "short": "Hotărârea CNCD nr. 387/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 387/2018 din 2018-10-03",
+   "url": "https://www.cncd.ro/hotarari/hotarare-387-2018/",
+   "versions": [
+    {
+     "from": "2018-10-03",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-387-2018/",
+     "sha256": "1342f06306d0fb71efd155bcab354de6a7f84931aa0cd3c6d427c081eaf03716"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-39",
+   "path": "cncd/hotarare/2018/39",
+   "short": "Hotărârea CNCD nr. 39/2018",
+   "title": "Hotărârea CNCD nr. 39/2018: impunerea taxei de 11 lei, ca și taxă suplimentară, persoanelor care doresc schimbarea cărții de identitate și nu au domiciliul în localitatea unde se eliberează cărțile de identitate",
+   "url": "https://www.cncd.ro/hotarari/hotarare-39-2018/",
+   "versions": [
+    {
+     "from": "2018-01-23",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-39-2018/",
+     "sha256": "e0f722dcee4ccc65184db0b4cbe1be7b3aae206d0b9d56beaadef9ee106f9fcb"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-390",
+   "path": "cncd/hotarare/2018/390",
+   "short": "Hotărârea CNCD nr. 390/2018",
+   "title": "Hotărârea CNCD nr. 390/2018: discriminarea pensionarilor din sistemul de aparare privind acordarea pensiei militare de stat in baza OUG nr 57/2015 si 59/2017 in raport cu alte persoane cu situatie similara din acelasi sistem sau din alte categorii de pensii ocupationale.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-390-18/",
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-390-18/",
+     "sha256": "49cda6535739c544ad2da289ad50a000d70f21f1b5855a5d859689d9be1ab554"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-391",
+   "path": "cncd/hotarare/2018/391",
+   "short": "Hotărârea CNCD nr. 391/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 391/2018 din 2018-10-10",
+   "url": "https://www.cncd.ro/hotarari/hotarare-391-18/",
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-391-18/",
+     "sha256": "1f8d791de010b50cec50d180e61182ed1133b7ed14d76dab671cfb79867f57de"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-393",
+   "path": "cncd/hotarare/2018/393",
+   "short": "Hotărârea CNCD nr. 393/2018",
+   "title": "Hotărârea CNCD nr. 393/2018: transmiterea către Casa de Pensii Vrancea a unei adeverințe de venit cu o retribuție inferioară",
+   "url": "https://www.cncd.ro/hotarari/hotarare-393-18/",
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-393-18/",
+     "sha256": "f3b2ae92d1e12e25caf38b8759852b464ed9329e75fa175a36cb683fdf4cca4f"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-394",
+   "path": "cncd/hotarare/2018/394",
+   "short": "Hotărârea CNCD nr. 394/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 394/2018 din 2018-10-10",
+   "url": "https://www.cncd.ro/hotarari/hotarare-394-2018/",
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-394-2018/",
+     "sha256": "bef112493f7e2d9d342df3c576c5b0e95ea270f08b97fc43a52a319efc921846"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-395",
+   "path": "cncd/hotarare/2018/395",
+   "short": "Hotărârea CNCD nr. 395/2018",
+   "title": "Hotărârea CNCD nr. 395/2018: afirmații jignitoare și denigratoare la adresa petentei de către o asociată a societății reclamate",
+   "url": "https://www.cncd.ro/hotarari/hotarare-395-2018/",
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-395-2018/",
+     "sha256": "857724702061eb4b92dbcdb439577443bbc52dca8d32ff56fe2e80ac1e65ff4c"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-396",
+   "path": "cncd/hotarare/2018/396",
+   "short": "Hotărârea CNCD nr. 396/2018",
+   "title": "Hotărârea CNCD nr. 396/2018: hărțuire, batjocorire, insulte, monitorizare prin intermediul rețelei facebook",
+   "url": "https://www.cncd.ro/hotarari/hotarare-396-2018/",
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-396-2018/",
+     "sha256": "796623c8ed33d6f6dc338bdd998ce00e21461eac942cc4c6bf4ad99bf2924e26"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-399",
+   "path": "cncd/hotarare/2018/399",
+   "short": "Hotărârea CNCD nr. 399/2018",
+   "title": "Hotărârea CNCD nr. 399/2018: afirmații cu potențial caracter discriminatoriu",
+   "url": "https://www.cncd.ro/hotarari/hotarare-399-2018/",
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-399-2018/",
+     "sha256": "4a06cc95f025c800f46b42b18f55b21c878472c3425fe66b64a83fa0befe6fbd"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-4",
+   "path": "cncd/hotarare/2018/4",
+   "short": "Hotărârea CNCD nr. 4/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 4/2018 din 2018-01-10",
+   "url": "https://www.cncd.ro/hotarari/hotarare-4-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-4-2018/",
+     "sha256": "ec62b27fb74ef15b77ab98531fb67e7d8ba7c702eb9e3a44e9ea13c5d005f23f"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-400",
+   "path": "cncd/hotarare/2018/400",
+   "short": "Hotărârea CNCD nr. 400/2018",
+   "title": "Hotărârea CNCD nr. 400/2018: obligativitatea traducerii manualelor în limba română pentru disciplinele de limbă și literatură maternă, istoria și tradițiile minorităților naționale și educația muzicală pentru minorități, într un termne relativ scurt",
+   "url": "https://www.cncd.ro/hotarari/hotarare-400-2018/",
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-400-2018/",
+     "sha256": "fd20da0202ff042e58347aaf7966f0b973917b703ae248e8ad845f8c70c76845"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-409",
+   "path": "cncd/hotarare/2018/409",
+   "short": "Hotărârea CNCD nr. 409/2018",
+   "title": "Hotărârea CNCD nr. 409/2018: posibilă faptă de discriminare instituită prin art.3, alin.7al OMEN nr. 4165 din 24.07.2018 cu privire la plata/neplata orelor la disciplina Comunicarea în limba română, respectiv Limba si literatura română din planurile cadru ale ciclului primar",
+   "url": "https://www.cncd.ro/hotarari/hotarare-409-2018/",
+   "versions": [
+    {
+     "from": "2018-10-15",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-409-2018/",
+     "sha256": "d5b567280c2c86fddf4feeabc967991a79a21f0c8a8e3e3a88b54873b3b1e44f"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-410",
+   "path": "cncd/hotarare/2018/410",
+   "short": "Hotărârea CNCD nr. 410/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 410/2018 din 2018-10-24",
+   "url": "https://www.cncd.ro/hotarari/hotarare-410-18-dosar-304-2018_i_victimizare_avertisment/",
+   "versions": [
+    {
+     "from": "2018-10-24",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-410-18-dosar-304-2018_i_victimizare_avertisment/",
+     "sha256": "67c16ab58462f14e439b662cd88af301b44c2230e28f8bf12c4e55ea06bb267e"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-413",
+   "path": "cncd/hotarare/2018/413",
+   "short": "Hotărârea CNCD nr. 413/2018",
+   "title": "Hotărârea CNCD nr. 413/2018: soluția pronunțată de către instanța de judecată",
+   "url": "https://www.cncd.ro/hotarari/hotarare-413-2018/",
+   "versions": [
+    {
+     "from": "2018-10-24",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-413-2018/",
+     "sha256": "f11979446b22fc5e8e5c4a35b736be6e99e541f7bee761bbb4ae2aa4da085330"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-418",
+   "path": "cncd/hotarare/2018/418",
+   "short": "Hotărârea CNCD nr. 418/2018",
+   "title": "Hotărârea CNCD nr. 418/2018: acordarea de zile suplimentare de concediu de odihnă plătit pentru angajați din Parchetului General, DNA și DIICOT.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-418-2018/",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-418-2018/",
+     "sha256": "c449ec33e75f5b369b39294070e26ca9e61959abb788f189e6e2d98f36453da8"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-423",
+   "path": "cncd/hotarare/2018/423",
+   "short": "Hotărârea CNCD nr. 423/2018",
+   "title": "Hotărârea CNCD nr. 423/2018: încălcarea dreptului la demnitate a persoanelor cu handicap",
+   "url": "https://www.cncd.ro/hotarari/hotarare-423-2018/",
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-423-2018/",
+     "sha256": "94ce01b112d155a66ffb560d59fc85c94c199b36d9075126ba34541b042e5dcb"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-428",
+   "path": "cncd/hotarare/2018/428",
+   "short": "Hotărârea CNCD nr. 428/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 428/2018 din 2018-11-05",
+   "url": "https://www.cncd.ro/hotarari/hotarare-428-18/",
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-428-18/",
+     "sha256": "cfdb067e3d552747bd41ebae2f679674f9ccefaf2295b7568a59c6ff0d9db9c2"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-432",
+   "path": "cncd/hotarare/2018/432",
+   "short": "Hotărârea CNCD nr. 432/2018",
+   "title": "Hotărârea CNCD nr. 432/2018: Inexistența inscripționării bilingve a indicatoarelor rutiere de intrare și/sau ieșire dintr-o localitate din jud. Cluj",
+   "url": "https://www.cncd.ro/hotarari/hotarare-432-2018/",
+   "versions": [
+    {
+     "from": "2018-11-12",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-432-2018/",
+     "sha256": "4118ab087a9a0ed0b59d06710488a1e9e8f82d0e4c4abb5323998c8e0ee64269"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-434",
+   "path": "cncd/hotarare/2018/434",
+   "short": "Hotărârea CNCD nr. 434/2018",
+   "title": "Hotărârea CNCD nr. 434/2018: discriminare la locul de muncă din cauza problemelor medicale",
+   "url": "https://www.cncd.ro/hotarari/hotarare-434-2018/",
+   "versions": [
+    {
+     "from": "2018-11-12",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-434-2018/",
+     "sha256": "b831c9cd1d61f0dd3f5d2101a637aa77a0a24a8408d44de03e18f8ac1def6dcc"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-435",
+   "path": "cncd/hotarare/2018/435",
+   "short": "Hotărârea CNCD nr. 435/2018",
+   "title": "Hotărârea CNCD nr. 435/2018: comportament neadecvat al cadrelor didactice aplicat minorului pe motiv că acesta ar suferi de “nevroză”",
+   "url": "https://www.cncd.ro/hotarari/hotarare-435-2018/",
+   "versions": [
+    {
+     "from": "2018-11-12",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-435-2018/",
+     "sha256": "be1fe9842d9e9595a9934b0cbb941298795208452d33e3c17a0faa845f7ea4ce"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-436",
+   "path": "cncd/hotarare/2018/436",
+   "short": "Hotărârea CNCD nr. 436/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 436/2018 din 2018-11-12",
+   "url": "https://www.cncd.ro/hotarari/hotarare-436-2018/",
+   "versions": [
+    {
+     "from": "2018-11-12",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-436-2018/",
+     "sha256": "a8f4e0cbae076b3234724d8f085eb3f05351846cb4b4bb4ac6ec72dd8e104760"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-437",
+   "path": "cncd/hotarare/2018/437",
+   "short": "Hotărârea CNCD nr. 437/2018",
+   "title": "Hotărârea CNCD nr. 437/2018: articol publicat în jurnalul de Botoșani la adresa petentului",
+   "url": "https://www.cncd.ro/hotarari/hotarare-437-2018/",
+   "versions": [
+    {
+     "from": "2018-11-12",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-437-2018/",
+     "sha256": "ad233f4c842c86e7bfc447b02b9f2b4878b5bd79792697787f9be54bd57dc136"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-438-2",
+   "path": "cncd/hotarare/2018/438-2",
+   "short": "Hotărârea CNCD nr. 438-2/2018",
+   "title": "Hotărârea CNCD nr. 438-2/2018: aplicarea discriminatorie a prevederilor legale privind sprijinirea în construirea sau cumpărarea o singură dată în timpul carierei profesionale, a unei locuințe proprietate personală",
+   "url": "https://www.cncd.ro/hotarari/hotarare-438-18/",
+   "versions": [
+    {
+     "from": "2018-11-12",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-438-18/",
+     "sha256": "34cbe9a06950e06db43e7fdf51a6f3dac0e0060931c619e66a1c274c47da0b47"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-438",
+   "path": "cncd/hotarare/2018/438",
+   "short": "Hotărârea CNCD nr. 438/2018",
+   "title": "Hotărârea CNCD nr. 438/2018: aplicarea discriminatorie a prevederilor legale privind sprijinirea în construirea sau cumpărarea o singură dată în timpul carierei profesionale, a unei locuințe proprietate personală",
+   "url": "https://www.cncd.ro/hotarari/hotarare-438-18-_dosar-434-18_a_-i_necompetenta/",
+   "versions": [
+    {
+     "from": "2018-11-12",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-438-18-_dosar-434-18_a_-i_necompetenta/",
+     "sha256": "4642097df691a5fbdf46bc786aa4fff07671d38bfb6d5d9ebc3f784f4d0196e5"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-439",
+   "path": "cncd/hotarare/2018/439",
+   "short": "Hotărârea CNCD nr. 439/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 439/2018 din 2018-11-12",
+   "url": "https://www.cncd.ro/hotarari/hotarare-439-2018/",
+   "versions": [
+    {
+     "from": "2018-11-12",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-439-2018/",
+     "sha256": "e9d3779619d4d91032c93f4a3ca411a58fe3dbf34bd0ecb93fe80b7aff8f6554"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-440",
+   "path": "cncd/hotarare/2018/440",
+   "short": "Hotărârea CNCD nr. 440/2018",
+   "title": "Hotărârea CNCD nr. 440/2018: evacuare din locuință ca act antisemit",
+   "url": "https://www.cncd.ro/hotarari/hotarare-440-18/",
+   "versions": [
+    {
+     "from": "2018-11-12",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-440-18/",
+     "sha256": "b515c17a863506e48fbdb1754c0cb907c40a1961cd6d0efe4d78083c8c835e11"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-441-2",
+   "path": "cncd/hotarare/2018/441-2",
+   "short": "Hotărârea CNCD nr. 441-2/2018",
+   "title": "Hotărârea CNCD nr. 441-2/2018: metode discriminatorii de calcul a stagiilor de cotizare pentru indemnizația de șomaj",
+   "url": "https://www.cncd.ro/hotarari/hotarare-441-18/",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-441-18/",
+     "sha256": "9484a661430bf79fde9bdd56c1201138a07f9c0a759440da66c5a0f2019ae0ee"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-441",
+   "path": "cncd/hotarare/2018/441",
+   "short": "Hotărârea CNCD nr. 441/2018",
+   "title": "Hotărârea CNCD nr. 441/2018: metode discriminatorii de calcul a stagiilor de cotizare pentru indemnizația de șomaj",
+   "url": "https://www.cncd.ro/hotarari/hotarare-441-18-dosar-589-2018_a_i_necompetenta/",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-441-18-dosar-589-2018_a_i_necompetenta/",
+     "sha256": "5a5563c182d9a2edb5b985329f3603b4385f27f5080c03cb8d63030328c3d919"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-442-2",
+   "path": "cncd/hotarare/2018/442-2",
+   "short": "Hotărârea CNCD nr. 442-2/2018",
+   "title": "Hotărârea CNCD nr. 442-2/2018: refuz angajare jumătate de normă a unei persoane cu grad de invaliditate 2",
+   "url": "https://www.cncd.ro/hotarari/hotarare-442-18/",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-442-18/",
+     "sha256": "f5fe9e729e171bdf550ef9958921ee4bac2fd0fe0ac09264a5937c479dce16a1"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-442",
+   "path": "cncd/hotarare/2018/442",
+   "short": "Hotărârea CNCD nr. 442/2018",
+   "title": "Hotărârea CNCD nr. 442/2018: refuz angajare jumătate de normă a unei persoane cu grad de invaliditate 2",
+   "url": "https://www.cncd.ro/hotarari/hotarare-442-18-dosar-505-18_d_i_tardivitate/",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-442-18-dosar-505-18_d_i_tardivitate/",
+     "sha256": "4db3aaee200fab488c6970c27635c1e21f51358e3512e922e27562bacad43bfd"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-444",
+   "path": "cncd/hotarare/2018/444",
+   "short": "Hotărârea CNCD nr. 444/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 444/2018 din 2018-11-19",
+   "url": "https://www.cncd.ro/hotarari/hotarare-444-2018/",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-444-2018/",
+     "sha256": "d77e7a0b5c0a1c3eccc6cfcf689f64499661de032c56a6aafe519332a71ea6b0"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-445",
+   "path": "cncd/hotarare/2018/445",
+   "short": "Hotărârea CNCD nr. 445/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 445/2018 din 2018-11-19",
+   "url": "https://www.cncd.ro/hotarari/hotarare-445-2018/",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-445-2018/",
+     "sha256": "aac5ff85e8c596ac4678fe845541b6f1da00504edb1a5fd61d076095eca01711"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-446",
+   "path": "cncd/hotarare/2018/446",
+   "short": "Hotărârea CNCD nr. 446/2018",
+   "title": "Hotărârea CNCD nr. 446/2018: majorarea salarială preferențială",
+   "url": "https://www.cncd.ro/hotarari/hotarare-446-2018/",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-446-2018/",
+     "sha256": "2c1b33a3d596c148ebc95065da92b76308de6ccb558965d08a8dfe4b71bc6cab"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-447",
+   "path": "cncd/hotarare/2018/447",
+   "short": "Hotărârea CNCD nr. 447/2018",
+   "title": "Hotărârea CNCD nr. 447/2018: nemulțumirea petentului față de cuantumul subvenției acordat de către partea reclamată în funcție de încadrarea în codul de cultură",
+   "url": "https://www.cncd.ro/hotarari/hotarare-447-2018/",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-447-2018/",
+     "sha256": "94612c8ccc54e987fd9ce5452573933f91daf15b4e2ce122f8a27587484b821a"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-451",
+   "path": "cncd/hotarare/2018/451",
+   "short": "Hotărârea CNCD nr. 451/2018",
+   "title": "Hotărârea CNCD nr. 451/2018: înaintarea unei plângeri penale împotriva petentului.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-451-2018/",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-451-2018/",
+     "sha256": "64bed5ed56e352ae65a1b4ba7c8329534c67f78391affb3b80012fd112f477c0"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-452",
+   "path": "cncd/hotarare/2018/452",
+   "short": "Hotărârea CNCD nr. 452/2018",
+   "title": "Hotărârea CNCD nr. 452/2018: trecerea în rezervă dispusă doar pentru Divizia din care făcea parte petentul și nu a privit toți militari condamnați în dosarul respectiv .",
+   "url": "https://www.cncd.ro/hotarari/hotarare-452-2018/",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-452-2018/",
+     "sha256": "95744e5526333f760de515741b39050edf4c6f23dd746062243f246207c22a0b"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-457",
+   "path": "cncd/hotarare/2018/457",
+   "short": "Hotărârea CNCD nr. 457/2018",
+   "title": "Hotărârea CNCD nr. 457/2018: încheierea raporturillor de muncă, ca urmare a îndeplinirii vârstei standard de pensionare și contestarea normei juridice (Legii nr.263/2010, privind sistemul unitar de pensii publice).",
+   "url": "https://www.cncd.ro/hotarari/hotarare-457-18/",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-457-18/",
+     "sha256": "6d91f7f7fc430abef8f9dfd37ec9663c449fedb6652e814c746da7d39443878a"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-458",
+   "path": "cncd/hotarare/2018/458",
+   "short": "Hotărârea CNCD nr. 458/2018",
+   "title": "Hotărârea CNCD nr. 458/2018: Petentul se consideră discriminat de către reclamat prin refuzul de a fi promovat pe funcția de asistent medical cu studii superioare prin neaplicarea art. 196 ind. 1 din Legea nr. 95/2006 și a art. 5 din Codul Muncii.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-458-18/",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-458-18/",
+     "sha256": "24f33046ae23c50bec20f4d2b5159dfe84cb7c1ed60c485ea4b504d092b3426a"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-459",
+   "path": "cncd/hotarare/2018/459",
+   "short": "Hotărârea CNCD nr. 459/2018",
+   "title": "Hotărârea CNCD nr. 459/2018: tratament diferențiat la înscrierea pentru concursul de accedere în coprul ofițerilor de poliție din cadrul MAI.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-459-18/",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-459-18/",
+     "sha256": "094540f872ec1bae220c55feb8fd34dcd0b08d5112a7b384a02f9767a555cd8c"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-462",
+   "path": "cncd/hotarare/2018/462",
+   "short": "Hotărârea CNCD nr. 462/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 462/2018 din 2018-11-19",
+   "url": "https://www.cncd.ro/hotarari/hotarare-462-2018/",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-462-2018/",
+     "sha256": "944a010b0bc658fd9e3416ca7e8583f8b51f7d3762c399f1b0ba9805a5f676c0"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-463",
+   "path": "cncd/hotarare/2018/463",
+   "short": "Hotărârea CNCD nr. 463/2018",
+   "title": "Hotărârea CNCD nr. 463/2018: discriminarea din cadrul penitenciarului Iași",
+   "url": "https://www.cncd.ro/hotarari/hotarare-463-18/",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-463-18/",
+     "sha256": "3c580d0af73489cf70ee00e2171929871089a136259ef136898a7ae1ddfe6d24"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-464",
+   "path": "cncd/hotarare/2018/464",
+   "short": "Hotărârea CNCD nr. 464/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 464/2018 din 2018-11-19",
+   "url": "https://www.cncd.ro/hotarari/hotarare-464-2018/",
+   "versions": [
+    {
+     "from": "2018-11-19",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-464-2018/",
+     "sha256": "0faf0ed022b2e4f6441b7bac82b2aa75654a06cf35a00b0fa4522884bbaeda86"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-465",
+   "path": "cncd/hotarare/2018/465",
+   "short": "Hotărârea CNCD nr. 465/2018",
+   "title": "Hotărârea CNCD nr. 465/2018: neacordarea sporului de doctrorat și refuzul emiterii autorizației de construcție",
+   "url": "https://www.cncd.ro/hotarari/hotarare-465-18/",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-465-18/",
+     "sha256": "cc071b20f72e2f3ea870852c78ff36982317ee605da361502aa386420b53ddfd"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-466",
+   "path": "cncd/hotarare/2018/466",
+   "short": "Hotărârea CNCD nr. 466/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 466/2018 din 2018-12-05",
+   "url": "https://www.cncd.ro/hotarari/hotarare-466-18/",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-466-18/",
+     "sha256": "1d154cc27e0e8d1ddea7543c6661f6c2d665649350aa6647de74052c30b2d200"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-467",
+   "path": "cncd/hotarare/2018/467",
+   "short": "Hotărârea CNCD nr. 467/2018",
+   "title": "Hotărârea CNCD nr. 467/2018: Influențarea membrilor comisiei de jurizare din cadrul Concursului pentru proiecte cinematografice, prin afirmația “nu suport sârbii”.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-467-2018/",
+   "versions": [
+    {
+     "from": "2018-12-03",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-467-2018/",
+     "sha256": "7b0be5a13d6237e5788d5696217f6f3a1f13c5d48f886e88047c14d850522302"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-468",
+   "path": "cncd/hotarare/2018/468",
+   "short": "Hotărârea CNCD nr. 468/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 468/2018 din 2018-12-05",
+   "url": "https://www.cncd.ro/hotarari/hotarare-468-18/",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-468-18/",
+     "sha256": "4f62c5b08cb1a32b9ebaad3faece3751004efcd2b5fc12ed1818af70134114fa"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-469",
+   "path": "cncd/hotarare/2018/469",
+   "short": "Hotărârea CNCD nr. 469/2018",
+   "title": "Hotărârea CNCD nr. 469/2018: neacordarea unei legitimații de parcare pentru persoane cu dizabilități valabile pe teritoriul Uniunii Europene, lipsa protecției din partea Consulatului României, jignire",
+   "url": "https://www.cncd.ro/hotarari/hotarare-469-18/",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-469-18/",
+     "sha256": "cee2361a34a77de32da75ccd3a368e24243508bc4725b49d689a366d810b0919"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-470",
+   "path": "cncd/hotarare/2018/470",
+   "short": "Hotărârea CNCD nr. 470/2018",
+   "title": "Hotărârea CNCD nr. 470/2018: recrutarea doar a persoanelor de sex masculin pentru locurile rezervate MAI la Academia Forțelor Aeriene",
+   "url": "https://www.cncd.ro/hotarari/hotarare-470-2018/",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-470-2018/",
+     "sha256": "2095e87ce2446716534f5c75ef3b2c3a60cc5c7448a23e211e53be13b10de95a"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-471",
+   "path": "cncd/hotarare/2018/471",
+   "short": "Hotărârea CNCD nr. 471/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 471/2018 din 2018-12-05",
+   "url": "https://www.cncd.ro/hotarari/hotarare-471-18/",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-471-18/",
+     "sha256": "00d3e9d0358138ebf76682089705c8185856a03d15406f420ab2078903573e0c"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-472",
+   "path": "cncd/hotarare/2018/472",
+   "short": "Hotărârea CNCD nr. 472/2018",
+   "title": "Hotărârea CNCD nr. 472/2018: părțile reclamate ar fi împiedicat revizuirea indemnizației petentului",
+   "url": "https://www.cncd.ro/hotarari/hotarare-472-18/",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-472-18/",
+     "sha256": "c33b190034d088f55c8865d6d864ad6ff0d6e8576e498ac08afc7e129b3eb967"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-478",
+   "path": "cncd/hotarare/2018/478",
+   "short": "Hotărârea CNCD nr. 478/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 478/2018 din 2018-12-05",
+   "url": "https://www.cncd.ro/hotarari/hotarare-478-18/",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-478-18/",
+     "sha256": "9a9ef299df1ed2a3739e34f232b02f6eacceb6b49831a33d71d8328c2d4d96b1"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-479",
+   "path": "cncd/hotarare/2018/479",
+   "short": "Hotărârea CNCD nr. 479/2018",
+   "title": "Hotărârea CNCD nr. 479/2018: prezentarea unei situații petrecute la casa de pensii sector 3",
+   "url": "https://www.cncd.ro/hotarari/hotarare-479-18/",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-479-18/",
+     "sha256": "ab40f06d6e5849a38527a58c87d39225e996c19d1a631a83aa69d944b88d0b18"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-480",
+   "path": "cncd/hotarare/2018/480",
+   "short": "Hotărârea CNCD nr. 480/2018",
+   "title": "Hotărârea CNCD nr. 480/2018: discriminare, hărțuire la locul de muncă",
+   "url": "https://www.cncd.ro/hotarari/hotarare-480-18/",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-480-18/",
+     "sha256": "bd9e08dcb7c54f39517b5c5b057a663ba8d1fd72670c94e6ab566a99ca304be8"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-481",
+   "path": "cncd/hotarare/2018/481",
+   "short": "Hotărârea CNCD nr. 481/2018",
+   "title": "Hotărârea CNCD nr. 481/2018: Încetarea raporturilor de muncă",
+   "url": "https://www.cncd.ro/hotarari/hotarare-481-18/",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-481-18/",
+     "sha256": "b37d5109f1776cbe720e670dc61a3d70f568004370a86f3512196ffcb52420fd"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-482",
+   "path": "cncd/hotarare/2018/482",
+   "short": "Hotărârea CNCD nr. 482/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 482/2018 din 2018-12-05",
+   "url": "https://www.cncd.ro/hotarari/hotarare-482-18/",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-482-18/",
+     "sha256": "33f20351d88d421f5f22460a5f7329f18a6e6229c6aa6dd34997affd7e890ed5"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-485",
+   "path": "cncd/hotarare/2018/485",
+   "short": "Hotărârea CNCD nr. 485/2018",
+   "title": "Hotărârea CNCD nr. 485/2018: încheierea unui proces-verbal în mod abuziv, afirmații jignitoare la adresa petentei",
+   "url": "https://www.cncd.ro/hotarari/hotarare-485-2018/",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-485-2018/",
+     "sha256": "5394bafc10d3dac0f0d93c0eb313aaf3d71b103ab17a3e8c7ff331104207c17b"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-486",
+   "path": "cncd/hotarare/2018/486",
+   "short": "Hotărârea CNCD nr. 486/2018",
+   "title": "Hotărârea CNCD nr. 486/2018: expresii vulgare și amenințări la adresa petentei precum și sancționarea acesteia în mod repetat, criteriul convingeri politice",
+   "url": "https://www.cncd.ro/hotarari/hotarare-486-2018/",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-486-2018/",
+     "sha256": "c1ba452e5586808ff83caea382f1d330ef83ce7739adf37b8e2d19e442803728"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-487",
+   "path": "cncd/hotarare/2018/487",
+   "short": "Hotărârea CNCD nr. 487/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 487/2018 din 2018-12-05",
+   "url": "https://www.cncd.ro/hotarari/hotarare-487-2018/",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-487-2018/",
+     "sha256": "7146d3e8955aca500497bfb79a69821d3960c6f2450cf9d1c20b8f1918b04063"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-488",
+   "path": "cncd/hotarare/2018/488",
+   "short": "Hotărârea CNCD nr. 488/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 488/2018 din 2018-11-05",
+   "url": "https://www.cncd.ro/hotarari/hotarare-488-18/",
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-488-18/",
+     "sha256": "c5d7a8097261d7c109b8ebff57cfbff2c1af84cc2ac33a008d27ed642e620163"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-489",
+   "path": "cncd/hotarare/2018/489",
+   "short": "Hotărârea CNCD nr. 489/2018",
+   "title": "Hotărârea CNCD nr. 489/2018: criterii discriminatorii de acordare a ajutoarelor de urgență din Hotărârea Consiliului Local Focșani nr. 192/2017.",
+   "url": "https://www.cncd.ro/hotarari/hotarare-489-2018/",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-489-2018/",
+     "sha256": "2a8fcef26c064030c1fdf052059cc83aefabd69a09115fb481f6cddc84afc0c7"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-490",
+   "path": "cncd/hotarare/2018/490",
+   "short": "Hotărârea CNCD nr. 490/2018",
+   "title": "Hotărârea CNCD nr. 490/2018: situație discriminatorie reieșită din legislația Autorității Electorale Permanente",
+   "url": "https://www.cncd.ro/hotarari/hotarare-490-2018/",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-490-2018/",
+     "sha256": "1a98e1d6fe24e72e07d35504c8cde48d3373664728cdbdbdce06cb74fc5e87f2"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-497",
+   "path": "cncd/hotarare/2018/497",
+   "short": "Hotărârea CNCD nr. 497/2018",
+   "title": "Hotărârea CNCD nr. 497/2018: neasigurarea locului de parcare pentru o persoană cu dizabilitate",
+   "url": "https://www.cncd.ro/hotarari/hotarare-497-18/",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-497-18/",
+     "sha256": "88ca15501dba15cf525bf0cf052eb095d95716d925ff33b23628d6ea296e6d27"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-498",
+   "path": "cncd/hotarare/2018/498",
+   "short": "Hotărârea CNCD nr. 498/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 498/2018 din 2018-12-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-498-18/",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-498-18/",
+     "sha256": "0f308ce1238e0e9476a9d5e0ac332c5d1754c92354a5c38414c69a06d63488f0"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-499",
+   "path": "cncd/hotarare/2018/499",
+   "short": "Hotărârea CNCD nr. 499/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 499/2018 din 2018-12-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-499-18/",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-499-18/",
+     "sha256": "640e85fb3fcfb772f69eca3a73ac5d88fc0d06f104ebbb3a4a939015bea62a6e"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-5",
+   "path": "cncd/hotarare/2018/5",
+   "short": "Hotărârea CNCD nr. 5/2018",
+   "title": "Hotărârea CNCD nr. 5/2018: a fost numit țigan timp de patru ani de colegii de liceu și supus violenței fizice și verbale",
+   "url": "https://www.cncd.ro/hotarari/hotarare-5-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-5-2018/",
+     "sha256": "0d65044a0e6e0afe343076833c413dd739c4067fc55175035b58b1292b6b9f39"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-50",
+   "path": "cncd/hotarare/2018/50",
+   "short": "Hotărârea CNCD nr. 50/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 50/2018 din 2018-01-31",
+   "url": "https://www.cncd.ro/hotarari/hotarare-50-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-50-2018/",
+     "sha256": "f04812131c20abe7f3621451eaf2b2e8adb5b521ee75507204ccfccc0f92261b"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-500",
+   "path": "cncd/hotarare/2018/500",
+   "short": "Hotărârea CNCD nr. 500/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 500/2018 din 2018-12-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-500-2018/",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-500-2018/",
+     "sha256": "3346f6a135f9a6d1d7c53b145e42ccf8511587c3c6394790120b392a50811ac6"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-501",
+   "path": "cncd/hotarare/2018/501",
+   "short": "Hotărârea CNCD nr. 501/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 501/2018 din 2018-12-11",
+   "url": "https://www.cncd.ro/hotarari/hotarare-501-18/",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-501-18/",
+     "sha256": "40c41cad2211a541fade3e1611791443100e65027052633df9ab846b56384387"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-51",
+   "path": "cncd/hotarare/2018/51",
+   "short": "Hotărârea CNCD nr. 51/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 51/2018 din 2018-01-31",
+   "url": "https://www.cncd.ro/hotarari/hotarare-51-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-51-2018/",
+     "sha256": "2555cfb8a3ef388b142092025f1e6dac94041b630bdf0a6c779eaf2fcaca7ce1"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-52",
+   "path": "cncd/hotarare/2018/52",
+   "short": "Hotărârea CNCD nr. 52/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 52/2018 din 2018-01-31",
+   "url": "https://www.cncd.ro/hotarari/hotarare-52-2018/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-52-2018/",
+     "sha256": "ee850aa36175e549077310bb83cb82dd2f795ec98412ea7be3901c64f5deed4b"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-53",
+   "path": "cncd/hotarare/2018/53",
+   "short": "Hotărârea CNCD nr. 53/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 53/2018 din 2018-01-31",
+   "url": "https://www.cncd.ro/hotarari/hotarare-53-18/",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-53-18/",
+     "sha256": "ce83f68e7f1299615bc3341b255537e0e6290294704a6b01eae1afd566e12696"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-56",
+   "path": "cncd/hotarare/2018/56",
+   "short": "Hotărârea CNCD nr. 56/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 56/2018 din 2018-02-07",
+   "url": "https://www.cncd.ro/hotarari/hotarare-56-2018/",
+   "versions": [
+    {
+     "from": "2018-02-07",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-56-2018/",
+     "sha256": "19d14d6ab2ad395418faea98d5df9c6ee8c63e3792e23408170c13aa79efb9b7"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-58",
+   "path": "cncd/hotarare/2018/58",
+   "short": "Hotărârea CNCD nr. 58/2018",
+   "title": "Hotărârea CNCD nr. 58/2018: nerecunoașterea unor drepturi salariale",
+   "url": "https://www.cncd.ro/hotarari/hotarare-58-18-dosar-267-17_a_i_necompetenta/",
+   "versions": [
+    {
+     "from": "2018-02-07",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-58-18-dosar-267-17_a_i_necompetenta/",
+     "sha256": "b3839ec5de5f6d729cf86739d675ed1f35bc1de3df237bf86025f009f3db49b2"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-6",
+   "path": "cncd/hotarare/2018/6",
+   "short": "Hotărârea CNCD nr. 6/2018",
+   "title": "Hotărârea CNCD nr. 6/2018: e-mail primit de la un coleg considerat discriminatoriu",
+   "url": "https://www.cncd.ro/hotarari/hotarare-6-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-6-2018/",
+     "sha256": "4a2e2369f3db23e7fac6055f0e33b53253f182c42da964c042f0f050d62d7899"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-63",
+   "path": "cncd/hotarare/2018/63",
+   "short": "Hotărârea CNCD nr. 63/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 63/2018 din 2018-02-07",
+   "url": "https://www.cncd.ro/hotarari/hotarare-63-2018/",
+   "versions": [
+    {
+     "from": "2018-02-07",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-63-2018/",
+     "sha256": "06891999db3936d1667339c51af485e29a541dec493163bf98e21cebd7fbae61"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-66",
+   "path": "cncd/hotarare/2018/66",
+   "short": "Hotărârea CNCD nr. 66/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 66/2018 din 2018-02-14",
+   "url": "https://www.cncd.ro/hotarari/hotarare-66-2018/",
+   "versions": [
+    {
+     "from": "2018-02-14",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-66-2018/",
+     "sha256": "61e037c180459f272584aebadb04b00b5426b48df43a9bacbbe2621c578a0678"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-68",
+   "path": "cncd/hotarare/2018/68",
+   "short": "Hotărârea CNCD nr. 68/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 68/2018 din 2018-02-14",
+   "url": "https://www.cncd.ro/hotarari/hotarare-68-2018/",
+   "versions": [
+    {
+     "from": "2018-02-14",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-68-2018/",
+     "sha256": "754c6b16d9e0ed9490d088e7957228503fbc8d59669d3c4310d6407904e27129"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-7",
+   "path": "cncd/hotarare/2018/7",
+   "short": "Hotărârea CNCD nr. 7/2018",
+   "title": "Hotărârea CNCD nr. 7/2018: programarea online pentru înregistrarea cererii de dobândire a cetățeniei române",
+   "url": "https://www.cncd.ro/hotarari/hotarare-7-2018/",
+   "versions": [
+    {
+     "from": "2018-01-07",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-7-2018/",
+     "sha256": "94abfb2273c7b20286b1f9a3cf54978ff043ee0430f7cad7de5841290b6a77ce"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-73",
+   "path": "cncd/hotarare/2018/73",
+   "short": "Hotărârea CNCD nr. 73/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 73/2018 din 2018-02-22",
+   "url": "https://www.cncd.ro/hotarari/hotarare-73-18/",
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-73-18/",
+     "sha256": "8fc4da6e05f4c41564a516edb0ae739eeed3b3914d4dfe4333f4f15626eae242"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-75",
+   "path": "cncd/hotarare/2018/75",
+   "short": "Hotărârea CNCD nr. 75/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 75/2018 din 2018-02-22",
+   "url": "https://www.cncd.ro/hotarari/hotarare-75-2018/",
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-75-2018/",
+     "sha256": "8509eceaee3d43818433235fc695fab572cd69ff7eb5c0579c67d2c5254eae09"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-8",
+   "path": "cncd/hotarare/2018/8",
+   "short": "Hotărârea CNCD nr. 8/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 8/2018 din 2018-01-10",
+   "url": "https://www.cncd.ro/hotarari/hotarare-8-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-8-2018/",
+     "sha256": "3c1299be6a202eb947642ee70c8ee7c77d7846eb9247f44e7983076b8ec631fb"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-82",
+   "path": "cncd/hotarare/2018/82",
+   "short": "Hotărârea CNCD nr. 82/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 82/2018 din 2018-02-22",
+   "url": "https://www.cncd.ro/hotarari/hotarare-82-2018/",
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-82-2018/",
+     "sha256": "aa7462dca3cc8bb12b2fd59060c7a00b34f98bd61fb6c8e523492677cd936c18"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-9",
+   "path": "cncd/hotarare/2018/9",
+   "short": "Hotărârea CNCD nr. 9/2018",
+   "title": "Hotărârea CNCD nr. 9/2018: hărțuire pe criteriul maternității",
+   "url": "https://www.cncd.ro/hotarari/hotarare-9-2018/",
+   "versions": [
+    {
+     "from": "2018-01-10",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-9-2018/",
+     "sha256": "106d7742cd4e9cab3d41134422a5b74769296ede0ef1267396413ccc80b40b9f"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-92",
+   "path": "cncd/hotarare/2018/92",
+   "short": "Hotărârea CNCD nr. 92/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 92/2018 din 2018-02-26",
+   "url": "https://www.cncd.ro/hotarari/hotarare-92-2018/",
+   "versions": [
+    {
+     "from": "2018-02-26",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-92-2018/",
+     "sha256": "8c40164ef8d13af7d237305640680333268c91ff5b77613cd6dfc45d4050d9ae"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-94",
+   "path": "cncd/hotarare/2018/94",
+   "short": "Hotărârea CNCD nr. 94/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 94/2018 din 2018-03-07",
+   "url": "https://www.cncd.ro/hotarari/hotarare-94-2018/",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-94-2018/",
+     "sha256": "74f0eaa6b76e0d6354393a8531236b5ed7d826f1dc55a3b31717f67120d6ef94"
+    }
+   ]
+  },
+  {
+   "slug": "cncd-hotarare-2018-95",
+   "path": "cncd/hotarare/2018/95",
+   "short": "Hotărârea CNCD nr. 95/2018",
+   "title": "Hotărârea Consiliului Național pentru Combaterea Discriminării nr. 95/2018 din 2018-03-07",
+   "url": "https://www.cncd.ro/hotarari/hotarare-95-18-dosar-582-17_-_ii_lipsa-obiect/",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 1,
+     "source_url": "https://www.cncd.ro/hotarari/hotarare-95-18-dosar-582-17_-_ii_lipsa-obiect/",
+     "sha256": "0f11639e899b3170f2df296a349d91d0998bcaa36ae8471c378115855d12dbc3"
+    }
+   ]
+  }
+ ]
+}

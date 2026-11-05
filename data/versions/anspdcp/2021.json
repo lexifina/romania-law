@@ -1,0 +1,411 @@
+{
+ "country": "RO",
+ "shard": "anspdcp/2021",
+ "acts": [
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-02-10",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-02-10",
+   "short": "Comunicat ANSPDCP din 2021-02-10",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2021-02-10",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_10_/_02_/_21&lang=ro",
+   "versions": [
+    {
+     "from": "2021-02-10",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_10_/_02_/_21&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-03-04",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-03-04",
+   "short": "Comunicat ANSPDCP din 2021-03-04",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2021-03-04",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_04_03_2021&lang=ro",
+   "versions": [
+    {
+     "from": "2021-03-04",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_04_03_2021&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-03-18",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-03-18",
+   "short": "Comunicat ANSPDCP din 2021-03-18",
+   "title": "Comunicat ANSPDCP din 2021-03-18: Sanctiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comuncat_presa_18_/_03_/_2021&lang=ro",
+   "versions": [
+    {
+     "from": "2021-03-18",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comuncat_presa_18_/_03_/_2021&lang=ro",
+     "sha256": "4008e52fbcdaee6952140e65f93252e59c73b110ab990359e49025ae400e3940"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-03-23",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-03-23",
+   "short": "Comunicat ANSPDCP din 2021-03-23",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2021-03-23",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23_/_03_/_2021&lang=ro",
+   "versions": [
+    {
+     "from": "2021-03-23",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_23_/_03_/_2021&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-03-30",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-03-30",
+   "short": "Comunicat ANSPDCP din 2021-03-30",
+   "title": "Comunicat ANSPDCP din 2021-03-30: Sanctiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_30_/_03_/_2021&lang=ro",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_30_/_03_/_2021&lang=ro",
+     "sha256": "51d9213f34274122c1b01ec096c3afd3bf16e2c6dcb77d7eefa758752d02841f"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-04-15",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-04-15",
+   "short": "Comunicat ANSPDCP din 2021-04-15",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2021-04-15",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_15_/_04_/_2021&lang=ro",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_15_/_04_/_2021&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-04-19",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-04-19",
+   "short": "Comunicat ANSPDCP din 2021-04-19",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2021-04-19",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_presa_19_/_04_/_2021&lang=ro",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_presa_19_/_04_/_2021&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-05-07",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-05-07",
+   "short": "Comunicat ANSPDCP din 2021-05-07",
+   "title": "Comunicat ANSPDCP din 2021-05-07: Sanctiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_07_/_05_/_2021&lang=ro",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_07_/_05_/_2021&lang=ro",
+     "sha256": "abcadedb304173e5ce654f58dea56a54f8601c48c4a2787b23a81c4eb1bfa296"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-05-13",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-05-13",
+   "short": "Comunicat ANSPDCP din 2021-05-13",
+   "title": "Comunicat ANSPDCP din 2021-05-13: O nouă sanctiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_13_/_05_/_2021&lang=ro",
+   "versions": [
+    {
+     "from": "2021-05-13",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_13_/_05_/_2021&lang=ro",
+     "sha256": "1c05c1ee399cc3eff5d0682fe4738836092a603b756e2c35699f5eb055e0f40a"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-05-14",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-05-14",
+   "short": "Comunicat ANSPDCP din 2021-05-14",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2021-05-14",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_14_/_05_/_2021&lang=ro",
+   "versions": [
+    {
+     "from": "2021-05-14",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_14_/_05_/_2021&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-05-19-2",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-05-19-2",
+   "short": "Comunicat ANSPDCP din 2021-05-19 (2)",
+   "title": "Comunicat ANSPDCP din 2021-05-19 (2): O altă sanctiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_19_05_2021_2&lang=ro",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_19_05_2021_2&lang=ro",
+     "sha256": "b222f12b0cfffe3817901c1d983c7ce832266023b4693e672026d29dcd485f5c"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-05-19",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-05-19",
+   "short": "Comunicat ANSPDCP din 2021-05-19",
+   "title": "Comunicat ANSPDCP din 2021-05-19: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_19_/_05_/_2021_1&lang=ro",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_19_/_05_/_2021_1&lang=ro",
+     "sha256": "92ffb3a9298feedb408adcd830b3555ef80dec8cc529498f26c454d4b8bccb80"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-05-27",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-05-27",
+   "short": "Comunicat ANSPDCP din 2021-05-27",
+   "title": "Comunicat ANSPDCP din 2021-05-27: Sanctiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_27_05_2021&lang=ro",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_27_05_2021&lang=ro",
+     "sha256": "1cc34dc9fb69588bd7ecc8c600be0a0e9a9047cd4bcc1b9695fa20af0a16234d"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-06-09",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-06-09",
+   "short": "Comunicat ANSPDCP din 2021-06-09",
+   "title": "Comunicat ANSPDCP din 2021-06-09: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_09_06_2021&lang=ro",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_09_06_2021&lang=ro",
+     "sha256": "df5905fc6e15a09c15ab66900db6e6b371141962f7cadca7fb576fe58e622961"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-06-16",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-06-16",
+   "short": "Comunicat ANSPDCP din 2021-06-16",
+   "title": "Comunicat ANSPDCP din 2021-06-16: Sanctiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_16_06_2021&lang=ro",
+   "versions": [
+    {
+     "from": "2021-06-16",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_16_06_2021&lang=ro",
+     "sha256": "6716279322f8c4e6a48c3cca0fa845032532cecf60d2e1bab6e397b78c72ec94"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-07-30",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-07-30",
+   "short": "Comunicat ANSPDCP din 2021-07-30",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2021-07-30",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_30_07_2021&lang=ro",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_30_07_2021&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-08-24",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-08-24",
+   "short": "Comunicat ANSPDCP din 2021-08-24",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2021-08-24",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_24_08_2021&lang=ro",
+   "versions": [
+    {
+     "from": "2021-08-24",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_24_08_2021&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-08-25",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-08-25",
+   "short": "Comunicat ANSPDCP din 2021-08-25",
+   "title": "Comunicat ANSPDCP din 2021-08-25: Amendă în aplicarea Legii nr. 190/2018",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_25_08_2021&lang=ro",
+   "versions": [
+    {
+     "from": "2021-08-25",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_25_08_2021&lang=ro",
+     "sha256": "1e7d0226215dd49900804b98f1deaf2ff6a0386db60f954e30726f1fc440fa15"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-10-21",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-10-21",
+   "short": "Comunicat ANSPDCP din 2021-10-21",
+   "title": "Comunicat ANSPDCP din 2021-10-21: Sanctiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_21.10.2021_2&lang=ro",
+   "versions": [
+    {
+     "from": "2021-10-21",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_21.10.2021_2&lang=ro",
+     "sha256": "3716359d16a745a40a0abf0f618d04005c252861ee1ca524782d6e1782cc2753"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-11-01-2",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-11-01-2",
+   "short": "Comunicat ANSPDCP din 2021-11-01 (2)",
+   "title": "Comunicat ANSPDCP din 2021-11-01 (2): Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_01_11_2021_2&lang=ro",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_01_11_2021_2&lang=ro",
+     "sha256": "6571d8e5be6710717e6005cf87e9490e55b3dfa719adae0102dcd0e6410f624b"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-11-01",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-11-01",
+   "short": "Comunicat ANSPDCP din 2021-11-01",
+   "title": "Comunicat ANSPDCP din 2021-11-01: Sanctiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_01_11_2021_1&lang=ro",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_01_11_2021_1&lang=ro",
+     "sha256": "b1e73682362add9b8103b7fabc6f9ec2932454c8044f7336ee47531a078e0d5e"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-11-11",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-11-11",
+   "short": "Comunicat ANSPDCP din 2021-11-11",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2021-11-11",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_11_11_2021&lang=ro",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_11_11_2021&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-11-26",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-11-26",
+   "short": "Comunicat ANSPDCP din 2021-11-26",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2021-11-26",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_26_11_2021_Amenda&lang=ro",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_26_11_2021_Amenda&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-12-06-2",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-12-06-2",
+   "short": "Comunicat ANSPDCP din 2021-12-06 (2)",
+   "title": "Comunicat ANSPDCP din 2021-12-06 (2): Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_06_12_2021_1&lang=ro",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_06_12_2021_1&lang=ro",
+     "sha256": "287e146fa25fb8f821804dbcfdd2f5fc92145d847d0a0442a206e686ec1c1ef8"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-12-06",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-12-06",
+   "short": "Comunicat ANSPDCP din 2021-12-06",
+   "title": "Comunicat ANSPDCP din 2021-12-06: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_06_12_2021_2&lang=ro",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_06_12_2021_2&lang=ro",
+     "sha256": "0e8f786cbb0d5085ac3fef99f12f82db864a002cc733d2f5b628646067ca96ec"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2021-2021-12-13",
+   "path": "anspdcp/comunicat-sanctiune/2021/2021-12-13",
+   "short": "Comunicat ANSPDCP din 2021-12-13",
+   "title": "Comunicat ANSPDCP din 2021-12-13: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_13_12_2021&lang=ro",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_13_12_2021&lang=ro",
+     "sha256": "0d2599f7c66a8870c49f5dca80e82c982929e54f4d40c754dcc97cfae6069066"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-decizie-2021-20",
+   "path": "anspdcp/decizie/2021/20",
+   "short": "Decizia ANSPDCP nr. 20/2021",
+   "title": "Decizia ANSPDCP nr. 20/2021: din 24 iunie 2021 privind aprobarea Cerințelor suplimentare pentru acreditarea organismelor de certificare în temeiul art. 43 din Regulamentul (UE) 2016/679",
+   "url": "https://www.dataprotection.ro/servlet/ViewDocument?id=2083",
+   "versions": [
+    {
+     "from": "2021-07-12",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/servlet/ViewDocument?id=2083",
+     "sha256": "f9850c898dde4b0a2a816b99268edf90dd6922c28b1b7a3fe8161088df82f35c"
+    }
+   ]
+  }
+ ]
+}

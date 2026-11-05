@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-5/2022",
+ "acts": [
+  {
+   "slug": "hcls5-101-2022",
+   "path": "local/bucuresti/sector-5/2022/101",
+   "short": "HCLS5 nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 101/2022 privind aprobarea Regulamentului de gestionare și exploatare a parcărilor publice aflate în administrarea Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-101-04-08-2022-privind-aprobarea-regulamentului-de-gestionare-si-exploatare-a-parcarilor-publice-aflate-in-administrarea-sectorului-5-al-municipiului-bucuresti/",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2022/08/HCL-101.pdf",
+     "sha256": "7fbd0c2959dd8a43aa1a6e15fdffd23169dc2c773f403ab95814f32e0b509a8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-102-2022",
+   "path": "local/bucuresti/sector-5/2022/102",
+   "short": "HCLS5 nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 102/2022 privind aprobarea metodologiei de organizare și desfășurare a examenului pentru obținerea Atestatului de administrator de condominii",
+   "url": "https://sector5.ro/hotararea-nr-102-04-08-2022-privind-aprobarea-metodologiei-de-organizare-si-desfasurare-a-examenului-pentru-obtinerea-atestatului-de-administrator-de-condominii/",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2022/08/HCL-102.pdf",
+     "sha256": "74103d9c92cce39ebcc2b408d1590d3701c361064f543228fc22addb05c40729"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-12-2022",
+   "path": "local/bucuresti/sector-5/2022/12",
+   "short": "HCLS5 nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 12/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-21",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2022/03/HCL-12.pdf",
+     "sha256": "e438bcdd3dae97c5bb1fc749e7b3bc83f6234db04e28cb062267ddd3247ae66d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-155-2022",
+   "path": "local/bucuresti/sector-5/2022/155",
+   "short": "HCLS5 nr. 155/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 155/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2022/09/HCL-155-15.09.2022.pdf",
+     "sha256": "4a74475fd23a4c218f6307f4aa3b0b1317863cad296eb68ac6bc8f13d7ba9185"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-158-2022",
+   "path": "local/bucuresti/sector-5/2022/158",
+   "short": "HCLS5 nr. 158/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 158/2022 pentru modificarea și completarea Anexei Hotărârii Consiliului Local Sector 5 nr. 185/25.11.2021 pentru aprobarea regulamentului privind procedura de emitere a autorizației de funcționare pentru terase sezoniere, comerț de întâmpinare, comerț ambulant, comercializare presă, carte, flori pe domeniul public al Municipiului București aflat în administrarea Consiliului Local al Sectorului 5",
+   "url": "https://sector5.ro/hotararea-nr-158-06-10-2022-pentru-modificarea-si-completarea-anexei-hotararii-consiliului-local-sector-5-nr-185-25-11-2021-pentru-aprobarea-regulamentului-privind-procedura-de-emitere-a-autorizatie/",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2022/10/HCL-nr.-158-06.10.2022.pdf",
+     "sha256": "531b629e31ba13ff7d2a4e2615b1df9e9f28d2cc6529bf8992ebabe76e8cfee1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-159-2022",
+   "path": "local/bucuresti/sector-5/2022/159",
+   "short": "HCLS5 nr. 159/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 159/2022 privind aprobarea procedurii de închiriere prin licitație publică a chioșcurilor destinate comercializării de presă, carte și flori pe raza Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-159-06-10-2022-privind-aprobarea-procedurii-de-inchiriere-prin-licitatie-publica-a-chioscurilor-destinate-comercializarii-de-presa-carte-si-flori-pe-raza-sectorului-5-al-municipiului-b/",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2022/10/HCL-nr.-159-06.10.2022.pdf",
+     "sha256": "403a09fede43adb94dac5f603fe13520d062fe115bf03c7e49b7d637f61f8665"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-161-2022",
+   "path": "local/bucuresti/sector-5/2022/161",
+   "short": "HCLS5 nr. 161/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 161/2022 privind acordarea concediului de odihnă suplimentar salariaților Direcției de Impozite și Taxe Locale a Sectorului 5",
+   "url": "https://sector5.ro/hotararea-nr-161-06-10-2022-privind-acordarea-concediului-de-odihna-suplimentar-salariatilor-directiei-de-impozite-si-taxe-locale-a-sectorului-5/",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2022/10/HCL-nr.-161-06.10.2022.pdf",
+     "sha256": "f727c1f1f8aff9050d627d80095d518f8f32232aa64e07c05ee8252814df0eab"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-162-2022",
+   "path": "local/bucuresti/sector-5/2022/162",
+   "short": "HCLS5 nr. 162/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 162/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2022/10/HCL-nr.-162-06.10.2022.pdf",
+     "sha256": "00eff973e9051e24ad98627806b292352e4278a8cb27d837963c20c021044c5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-163-2022",
+   "path": "local/bucuresti/sector-5/2022/163",
+   "short": "HCLS5 nr. 163/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 163/2022 privind modificarea și completarea Anexei nr. 2 la Hotărârea Consiliului Local Sector 5 nr. 27/20.02.2020 pentru aprobarea Studiului de oportunitate privind modalitatea de gestiune a serviciului public de infrastructură la nivelul Sectorului 5 al Municipiului București, stabilirea modalității de gestiune a serviciului public de infrastructură la nivelul Sectorului 5 al Municipiului București, a Regulamentului de organizare și funcționare a serviciului public de infrastructură, a Caietului de sarcini și a Contractului cadru de delegare a gestiunii serviciului public de infrastructură la nivelul Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-163-06-10-2022-privind-modificarea-si-completarea-anexei-nr-2-la-hotararea-consiliului-local-sector-5-nr-27-20-02-2020-pentru-aprobarea-studiului-de-oportunitate-privind-modalitatea-de/",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2022/10/HCL-163-06.10.2022.pdf",
+     "sha256": "1f878cee3fdeb8dfd5e978cfd6d389f732a17fdccf9151d05d27c0b8258db065"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-164-2022",
+   "path": "local/bucuresti/sector-5/2022/164",
+   "short": "HCLS5 nr. 164/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 164/2022 privind modificarea și completarea Anexei nr. 3 a Hotărârii Consiliului Local Sector 5 nr. 67/23.03.2020 pentru aprobarea Studiului de oportunitate privind modalitatea de gestiune a serviciului public de salubrizare la nivelul Sectorului 5 al Municipiului București, stabilirea modalității de gestiune a serviciului public de salubrizare la nivelul Sectorului 5 al Municipiului București, a Regulamentului de organizare și funcționare al serviciului public de salubrizare, a Caietului de sarcini și a Contractului Cadru de Delegare a gestiunii serviciului public de salubrizare la nivelul Sectorului 5 al Municipiului București, cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-164-06-10-2022-privind-modificarea-si-completarea-anexei-nr-3-a-hotararii-consiliului-local-sector-5-nr-67-23-03-2020-pentru-aprobarea-studiului-de-oportunitate-privind-modalitatea-de/",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2022/10/HCL-164-06.10.2022.pdf",
+     "sha256": "5282e0238690732d4d93c9f16d5fdf31dad2902f5e9ae6e4434770ce90733a96"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-167-2022",
+   "path": "local/bucuresti/sector-5/2022/167",
+   "short": "HCLS5 nr. 167/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 167/2022 privind aprobarea Regulamentului de acordare a serviciilor medicale gratuite sau cu reducere de 50% și tarifele aferente prestațiilor medicale efectuate în cadrul Complexului Multifuncțional „Sf. Andrei”",
+   "url": "https://sector5.ro/hotararea-nr-167-06-10-2022-privind-aprobarea-regulamentului-de-acordare-a-serviciilor-medicale-gratuite-sau-cu-reducere-de-50-si-tarifele-aferente-prestatiilor-medicale-efectuate-in-cadrul-complexul/",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2022/10/HCL-167-06.10.2022.pdf",
+     "sha256": "47513bde18090a8a85260e622c3d2d653c75e98fbc88833d5097bfa0c61733d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-255-2022",
+   "path": "local/bucuresti/sector-5/2022/255",
+   "short": "HCLS5 nr. 255/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 255/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2023/08/HCL-255-28.12.2022.pdf",
+     "sha256": "031bce314c01364658b900597bdc22209c19d737f7587d419ff94f8cb791f17d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-3-2022",
+   "path": "local/bucuresti/sector-5/2022/3",
+   "short": "HCLS5 nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 3/2022 privind unele măsuri de sporire a gradului de siguranță rutieră în proximitatea parcurilor, grădinilor publice, locurilor de joacă și a unităților de învățământ preuniversitar, din Sectorul 5 al municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-03-31-01-2022-privind-unele-masuri-de-sporire-a-gradului-de-siguranta-rutiera-in-proximitatea-parcurilor-gradinilor-publice-locurilor-de-joaca-si-a-unitatilor-de-invatamant-preuniversi/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2022/02/HCL-03-31.01.2022.pdf",
+     "sha256": "92b9f3c42d716ba3169459cfdad44b9ecbf0aaab80ea96c1cb2da57b33429d02"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-36-2022",
+   "path": "local/bucuresti/sector-5/2022/36",
+   "short": "HCLS5 nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 36/2022 pentru modificarea și completarea anexei Hotărârii Consiliului Local Sector 5 nr. 185/25.11.2021 pentru aprobarea regulamentului privind procedura de emitere a autorizației de funcționare pentru terase sezoniere, comerț de întâmpinare, comerț ambulant, comercializare presă, carte, flori pe domeniul public al municipiului București aflat în administrarea Consiliului Local al Sectorului 5",
+   "url": "https://sector5.ro/hotararea-nr-36-07-04-2022-pentru-modificarea-si-completarea-anexei-hotararii-consiliului-local-sector-5-nr-185-25-11-2021-pentru-aprobarea-regulamentului-privind-procedura-de-emitere-a-autorizatiei/",
+   "versions": [
+    {
+     "from": "2022-04-10",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2022/04/HCL-36-07.04.2022.pdf",
+     "sha256": "ffa045a3f5c4aeee6d649ac3cc0488fe61100c352d0d44e824081bcdcaaec87f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-80-2022",
+   "path": "local/bucuresti/sector-5/2022/80",
+   "short": "HCLS5 nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 80/2022 privind aprobarea modalității de realizare a dreptului la transport al persoanelor cu handicap locomotor domiciliate pe raza sectorului 5. Hotărârea nr. 81/27.06.2022 pentru aprobarea Metodologiei privind acordarea gratuităţii la transportul urban cu mijloace de transport în comun de suprafaţă şi cu metroul beneficiarilor Legii nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap,republicată, cu modificările şi completările ulterioare și abrogarea HCL Sector 5 nr. 71/23.03.2020",
+   "url": "https://sector5.ro/hotararea-nr-80-27-06-2022-privind-aprobarea-modalitatii-de-realizare-a-dreptului-la-transport-al-persoanelor-cu-handicap-locomotor-domiciliate-pe-raza-sectorului-5-hotararea-nr-81-27-06-2022-pentr/",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2022/07/HCL-80-27.06.2022.pdf",
+     "sha256": "792b2aa7ae10f4883cca0d9f94a307d48e056612dfc7b4a390e74219e8b288c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-81-2022",
+   "path": "local/bucuresti/sector-5/2022/81",
+   "short": "HCLS5 nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 81/2022 pentru aprobarea Metodologiei privind acordarea gratuităţii la transportul urban cu mijloace de transport în comun de suprafaţă şi cu metroul beneficiarilor Legii nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap, republicată, cu modificările şi completările ulterioare și abrogarea HCL Sector 5 nr. 71/23.03.2020",
+   "url": "https://sector5.ro/hotararea-nr-81-27-06-2022-pentru-aprobarea-metodologiei-privind-acordarea-gratuitatii-la-transportul-urban-cu-mijloace-de-transport-in-comun-de-suprafata-si-cu-metroul-beneficiarilor-legii-nr-448-2/",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2022/07/HCL-81-27.06.2022.pdf",
+     "sha256": "6df596f43301dc14d17bb0b068ba62dfb87c0f78269c76da4453b6713df96e17"
+    }
+   ]
+  }
+ ]
+}

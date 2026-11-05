@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "instructiuni/2018",
+"acts": [
+{
+"slug": "instructiuni-asf-1-2018",
+"path": "instructiuni/asf/2018/1",
+"kind": "instructiuni",
+"year": "2018",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 1/2018 privind întocmirea și depunerea situației financiare interimare de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară - Sectorul instrumentelor și investițiilor financiare",
+"short": "Instrucțiuni asf nr. 1/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-10-09",
+"latest": "2018-10-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/205867",
+"issuer": "asf",
+"joint": []
+}
+]
+}

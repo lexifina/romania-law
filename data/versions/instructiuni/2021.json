@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/2021",
+ "acts": [
+  {
+   "slug": "instructiuni-sanatate-2503-2021",
+   "path": "instructiuni/sanatate/2021/2503",
+   "short": "Instrucțiuni sanatate nr. 2503/2021",
+   "title": "Instrucțiunile nr. 2.503/2021 privind aprobarea Procedurii de administrare a testelor rapide antigen noninvazive efectuate din proba de salivă care urmează a fi utilizate în unitățile de învățământ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/248585",
+   "versions": [
+    {
+     "from": "2021-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/248585",
+     "sha256": "1dd204a80002cdc0e8ad00fc586bc3edefb9504337d49d9e1e2b44ea99716151"
+    }
+   ]
+  }
+ ]
+}

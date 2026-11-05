@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-6/2023",
+ "acts": [
+  {
+   "slug": "hcls6-215-2023",
+   "path": "local/bucuresti/sector-6/2023/215",
+   "short": "HCLS6 nr. 215/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 215/2023 privind aprobarea criteriilor aplicabile în anul 2024 la stabilirea ordinii de prioritate în soluționarea cererilor de locuință, depuse de categoriile de solicitanți prevăzute de Legea locuinței nr. 114/1996 și Ordonanța de Urgență a Guvernului nr. 74/2007",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-criteriilor-aplicabile-anul-2024-la-stabilirea-ordinii-de-prioritate-solutionarea-cererilor-de-locuinta-depuse-de-categoriile-de-solicitanti-prevazute-de-legea-locuintei-nr-1141996-si-ordonanta-de-urgenta-guvernului-nr-742007",
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2023-10/hot%C4%83r%C3%A2re%20modificat%2016%20august.pdf",
+     "sha256": "247abd658cdccaf7a8e3848ddd14a34ec31a4c6e491f5c43ddd363d3625cbd38"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-216-2023",
+   "path": "local/bucuresti/sector-6/2023/216",
+   "short": "HCLS6 nr. 216/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 216/2023 p entru modificarea şi completarea hotărârii Consiliului Local al Sectorului 6 nr. 57/28.03.2023 privind aprobarea Regulamentului de funcţionare a SKATEPARK-urilor situate pe raza administrativ teritorială a Sectorului 6 al Municipiului București, aflate în administrarea Administraţiei Domeniului Public şi Dezvoltare Urbană Sector 6",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-si-completarea-hotararii-consiliului-local-al-sectorului-6-nr-5728032023-privind-aprobarea-regulamentului-de-functionare-skatepark-urilor-situate-pe-raza-administrativ-teritoriala-sectorului-6-al-municipiului-bucuresti-aflate",
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2023-10/hotarare%20modificare%20regulament%20Skatepark%20modificat%2025%20august.pdf",
+     "sha256": "280abf0dc1633cc7f176a0ca4b103db5c1aa34e75eb6224a482a8e5caf012d6a"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "decizie-bec/1991",
+ "acts": [
+  {
+   "slug": "decizie-bec-referendum-1991-comunicat-1991-12-14",
+   "path": "decizie-bec/referendum-1991/comunicat-1991-12-14",
+   "short": "Comunicatul BEC din 1991-12-14",
+   "title": "Comunicatul Biroului Electoral Central din 1991-12-14",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/35748",
+   "versions": [
+    {
+     "from": "1991-12-14",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/35748",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

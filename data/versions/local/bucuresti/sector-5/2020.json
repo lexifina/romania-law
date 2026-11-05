@@ -1,0 +1,351 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-5/2020",
+ "acts": [
+  {
+   "slug": "hcls5-101-2020",
+   "path": "local/bucuresti/sector-5/2020/101",
+   "short": "HCLS5 nr. 101/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 101/2020 privind aprobarea comunicării actelor administrative fiscale, actelor de executare și altor acte emise de către Direcția Impozite și Taxe Locale Sector 5 prin mijloace electronice de transmitere la distanta și/sau tipărirea acestora prin intermediul unui centru de imprimare masivă",
+   "url": "https://sector5.ro/hotararea-nr-101-18-06-2020-privind-aprobarea-comunicarii-actelor-administrative-fiscale-actelor-de-executare-si-altor-acte-emise-de-catre-directia-impozite-si-taxe-locale-sector-5-prin-mijloace-ele/",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-101-1806.pdf",
+     "sha256": "a4c854dae5a2a715b433b12668590b93bf4162b19ff67e9255b752eab32408b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-103-2020",
+   "path": "local/bucuresti/sector-5/2020/103",
+   "short": "HCLS5 nr. 103/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 103/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-103-1806.pdf",
+     "sha256": "037bc93cbadefddd704108c4b8f324ce806fa5a375c7ed9cfeff5c364be2b5d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-108-2020",
+   "path": "local/bucuresti/sector-5/2020/108",
+   "short": "HCLS5 nr. 108/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 108/2020 privind aprobarea criteriilor de acordare și a tarifelor aferente pachetelor de servicii medicale oferite de către Unitățile de Medicină Dentară, Ecografie și Radiologie dentară, Dermatologie, Fiziokinetoterapie, Nutriție, Urologie, Endocrinologie, Neurologie, Alergologie, Medicină internă, Recuperare medicală, ORL, Obstretică-Ginecologie și Oftalmologie din cadrul Complexului Multifuncțional “Sf. Andrei”",
+   "url": "https://sector5.ro/hotararea-nr-108-18-06-2020-privind-aprobarea-criteriilor-de-acordare-si-a-tarifelor-aferente-pachetelor-de-servicii-medicale-oferite-de-catre-unitatile-de-medicina-dentara-ecografie-si-radiologie-d/",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-108-1806.pdf",
+     "sha256": "6e3da97dc8fbc6b8149f685483e0da54c5ae820141c68892665971dba28021b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-111-2020",
+   "path": "local/bucuresti/sector-5/2020/111",
+   "short": "HCLS5 nr. 111/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 111/2020 privind completarea Anexei 3 a Hotărârii Consiliului Local Sector 5 nr. 27/20.02.2020 privind aprobarea Studiului de oportunitate privind modalitatea de gestiune a serviciului public de infrastructură la nivelul Sectorului 5 al Municipiului București, stabilirea modalității de gestiune a serviciului public de infrastructură la nivelul Sectorului 5 al Municipiului București, a Regulamentului de organizare și funcționare a serviciului public de infrastructură, a Caietului de sarcini și a Contractului cadru de delegare a gestiunii serviciului public de infrastructură la nivelul Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-111-18-06-2020-privind-completarea-anexei-3-a-hotararii-consiliului-local-sector-5-nr-27-20-02-2020-privind-aprobarea-studiului-de-oportunitate-privind-modalitatea-de-gestiune-a-servici/",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2020/06/hcl-111-1806-2.pdf",
+     "sha256": "cec53509c65fd8a0a0478c3b3ed8f82a83994201f8249fa2e840157aa9f8f3c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-112-2020",
+   "path": "local/bucuresti/sector-5/2020/112",
+   "short": "HCLS5 nr. 112/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 112/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-122-2020",
+   "path": "local/bucuresti/sector-5/2020/122",
+   "short": "HCLS5 nr. 122/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 122/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-122-1806.pdf",
+     "sha256": "212e306ff0e4acce0bac0e2682e87d9f6baf88c47e36381d7bd5467d2e2a82aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-124-2020",
+   "path": "local/bucuresti/sector-5/2020/124",
+   "short": "HCLS5 nr. 124/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 124/2020 privind completarea Anexei 4 “Contract Cadru de Delegare a gestiunii serviciului public de salubrizare la nivelul Sectorului 5 al Municipiului București“ a Hotărârii Consiliului Local Sector 5 nr.67/23.03.2020 pentru aprobarea Studiului de oportunitate privind modalitatea de gestiune a serviciului public de salubrizare la nivelul Sectorului 5 al Municipiului București, stabilirea modalității de gestiune a serviciului public de salubrizare la nivelul Sectorului 5 al Municipiului București, a Regulamentului de organizare și funcționare a serviciului public de salubrizare, a Caietului de sarcini și a Contractului Cadru de delegare a gestiunii serviciului public de salubrizare la nivelul Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-124-18-06-2020-privind-completarea-anexei-4-contract-cadru-de-delegare-a-gestiunii-serviciului-public-de-salubrizare-la-nivelul-sectorului-5-al-municipiului-bucuresti-a/",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-124-1806.pdf",
+     "sha256": "102d635671cdc53b772df4d1bca047bfcb8ad819ac8a988316d1d8fc1767a08b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-148-2020",
+   "path": "local/bucuresti/sector-5/2020/148",
+   "short": "HCLS5 nr. 148/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 148/2020 privind completarea anexei 5 a Hotărârii Consiliului Local Sector 5 nr.67/23.03.2020 pentru aprobarea Studiului de oportunitate privind modalitatea de gestiune a serviciului public de salubrizare la nivelul Sectorului 5 al Municipiului București, stabilirea modalității de gestiune a serviciului public de salubrizare la nivelul Sectorului 5 al Municipiului București, a Regulamentului de organizare și funcționare a serviciului public de salubrizare, a Caietului de sarcini și a Contractului Cadru de delegare a gestiunii serviciului public de salubrizare la nivelul Sectorului 5 al Municipiului București de delegare a gestiunii serviciului public de salubrizare la nivelul Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-148-30-07-2020-privind-completarea-anexei-5-a-hotararii-consiliului-local-sector-5-nr-67-23-03-2020-pentru-aprobarea-studiului-de-oportunitate-privind-modalitatea-de-gestiune-a-serviciul/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-148.pdf",
+     "sha256": "7df6dcae1e99d15d941a13ad57e000cba858dcdf4f3146d79ad3da17edaa748d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-152-2020",
+   "path": "local/bucuresti/sector-5/2020/152",
+   "short": "HCLS5 nr. 152/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 152/2020 privind modificarea Hotărârii Consiliului Local Sector 5 nr.200/27.08.2018 privind acordarea de beneficii sociale sub formă de tichete sociale pensionarilor din sistemul public de pensii, rezidenți în mod legal pe raza Sectorului 5 și aprobarea Metodologiei de lucru utilizată pentru implementarea acestui proiect social, cu modificările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-152-30-07-2020-privind-modificarea-hotararii-consiliului-local-sector-5-nr-200-27-08-2018-privind-acordarea-de-beneficii-sociale-sub-forma-de-tichete-sociale-pensionarilor-din-sistemul-p/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-152.pdf",
+     "sha256": "37cae542d1854915a9b6a120f387fe5217fc57871f986f3ed344358229daa24b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-154-2020",
+   "path": "local/bucuresti/sector-5/2020/154",
+   "short": "HCLS5 nr. 154/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 154/2020 privind acordarea de beneficii sociale sub formă de tichete sociale persoanelor adulte cu handicap grav, accentuat sau mediu, rezidenţi în mod legal pe raza Sectorului 5 şi aprobarea Metodologiei de lucru utilizată pentru implementarea acestui proiect social",
+   "url": "https://sector5.ro/hotararea-nr-154-30-07-2020-privind-acordarea-de-beneficii-sociale-sub-forma-de-tichete-sociale-persoanelor-adulte-cu-handicap-grav-accentuat-sau-mediu-rezidenti-in-mod-legal-pe-raza-sectorului-5-s/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-154.pdf",
+     "sha256": "e328a33ee08b29ea26e0300c8be30e044ca76af4287e367ddf00a44b84721fc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-160-2020",
+   "path": "local/bucuresti/sector-5/2020/160",
+   "short": "HCLS5 nr. 160/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 160/2020 privind aprobarea Regulamentului – Cadru de organizare și funcționare al serviciului social de zi fără cazare – Centrul Social Comunitar „Ferentari”, aflat în structura Direcției Generale de Asistență Socială și Protecția Copilului Sector 5",
+   "url": "https://sector5.ro/hotararea-nr-160-30-07-2020-privind-aprobarea-regulamentului-cadru-de-organizare-si-functionare-al-serviciului-social-de-zi-fara-cazare-centrul-social-comunitar-ferentari-aflat/",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-160.pdf",
+     "sha256": "bcef88fba1a5af7ff9e463374436fd8f98ffad406d3052f6d9e61ba4821993e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-219-2020",
+   "path": "local/bucuresti/sector-5/2020/219",
+   "short": "HCLS5 nr. 219/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 219/2020 privind unele măsuri de îmbunătățire a activității piețelor din Sectorul 5 al Municipiul București",
+   "url": "https://sector5.ro/hotararea-nr-219-17-12-2020-privind-unele-masuri-de-imbunatatire-a-activitatii-pietelor-din-sectorul-5-al-municipiul-bucuresti/",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-nr-219-17122020.pdf",
+     "sha256": "45fdf3b58c20f3e6ea6d6fa07686f777c527633443e223d8732535a581893e52"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-27-2020",
+   "path": "local/bucuresti/sector-5/2020/27",
+   "short": "HCLS5 nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 27/2020 privind aprobarea Studiului de oportunitate privind modalitatea de gestiune a serviciului public de infrastructură la nivelul Sectorului 5 al Municipiului București, stabilirea modalității de gestiune a serviciului public de infrastructură la nivelul Sectorului 5 al Municipiului București, a Regulamentului de organizare și funcționare a serviciului public de infrastructură, a Caietului de sarcini și a Contractului cadru de delegare a gestiunii serviciului public de infrastructură la nivelul Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-27-20-02-2020-privind-aprobarea-studiului-de-oportunitate-privind-modalitatea-de-gestiune-a-serviciului-public-de-infrastructura-la-nivelul-sectorului-5-al-municipiului-bucuresti-stabil/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/05/hcl-27-20022020-plus-anexa-1.pdf",
+     "sha256": "0e86c16a1eb7653f6b6bf745cf966a4532f52aa41647654597902f74bf80b539"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-29-2020",
+   "path": "local/bucuresti/sector-5/2020/29",
+   "short": "HCLS5 nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 29/2020 privind aprobarea Regulamentului de acordare în anul 2020 a sprijinului pentru tratament balnear oferit vârstnicilor din Sectorul 5, în cadrul Programului ”Sănătate pentru Seniori”, derulat de către Complexul Multifuncțional ”Sf. Andrei”",
+   "url": "https://sector5.ro/hotararea-nr-29-20-02-2020-privind-aprobarea-regulamentului-de-acordare-in-anul-2020-a-sprijinului-pentru-tratament-balnear-oferit-varstnicilor-din-sectorul-5-in-cadrul-programului-sanatate/",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/05/hcl-29-20022020.pdf",
+     "sha256": "6aac9aa92b31fbfd4a1a932d486fe7b77c867235f52544dc29f2dd6cecfc6cfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-52-2020",
+   "path": "local/bucuresti/sector-5/2020/52",
+   "short": "HCLS5 nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 52/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/05/hcl-52-27022020.pdf",
+     "sha256": "95f8f4656a42d97c0ec06c743902653253975a7b9221e4dd55531e7ee849bc35"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-67-2020",
+   "path": "local/bucuresti/sector-5/2020/67",
+   "short": "HCLS5 nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 67/2020 pentru aprobarea Studiului de oportunitate privind modalitatea de gestiune a serviciului public de salubrizare la nivelul Sectorului 5 al Municipiului București, stabilirea modalității de gestiune a serviciului public de salubrizare la nivelul Sectorului 5 al Municipiul București, a Regulamentului de organizare și funcționare a serviciului public de salubrizare, a Caietului de sarcini și a Contractului Cadru de Delegare a gestiunii serviciului public de salubrizare la nivelul Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-67-23-03-2020-pentru-aprobarea-studiului-de-oportunitate-privind-modalitatea-de-gestiune-a-serviciului-public-de-salubrizare-la-nivelul-sectorului-5-al-municipiului-bucuresti-stabilirea/",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-67-23032020.pdf",
+     "sha256": "06fa6f3d1619b5ff7e11282204a6e6e9e20c55c840be76533265c97f9ca7e18f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-68-2020",
+   "path": "local/bucuresti/sector-5/2020/68",
+   "short": "HCLS5 nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 68/2020",
+   "url": null,
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-68-23032020.pdf",
+     "sha256": "55b78ebc40616d6b14891210645f84c72a57cb94d9b9b78e04f703c2033620d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-70-2020",
+   "path": "local/bucuresti/sector-5/2020/70",
+   "short": "HCLS5 nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 70/2020 privind aprobarea Regulamentului-cadru de organizare și funcționare al Locuinței Protejate pentru Victimele Violenței Domestice din cadrul Complexului de Servicii Sociale pentru Victimele Violenței Domestice, aflat în structura Direcției Generale de Asistență Socială și Protecția Copilului Sector 5",
+   "url": "https://sector5.ro/hotararea-nr-70-23-03-2020-privind-aprobarea-regulamentului-cadru-de-organizare-si-functionare-al-locuintei-protejate-pentru-victimele-violentei-domestice-din-cadrul-complexului-de-servicii-sociale-p/",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2020/03/hcl-70-23032020.pdf",
+     "sha256": "2b8bcf99be7bfe87e8ba822989a52732dee4fc404990daa29896ecdd45095d09"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-73-2020",
+   "path": "local/bucuresti/sector-5/2020/73",
+   "short": "HCLS5 nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 73/2020 privind aprobarea regulamentului pentru stabilirea și delimitarea amplasării mobilierului stradal destinat comercializării presă, carte, flori pe raza Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-73-23-03-2020-privind-aprobarea-regulamentului-pentru-stabilirea-si-delimitarea-amplasarii-mobilierului-stradal-destinat-comercializarii-presa-carte-flori-pe-raza-sectorului-5-al-munic/",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-73-23032020.pdf",
+     "sha256": "dcff96a1b8b0b1e6fb96021df941724820cc92118cff752d0d650c5e84f870de"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-77-2020",
+   "path": "local/bucuresti/sector-5/2020/77",
+   "short": "HCLS5 nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 77/2020 PENTRU APROBAREA REGULAMENTULUI PRIVIND ORGANIZAREA ȘI DESFĂȘURAREA ȘEDINȚELOR CONSILIULUI LOCAL AL SECTORULUI 5",
+   "url": "https://sector5.ro/hotararea-nr-77-23-03-2020-pentru-aprobarea-regulamentului-privind-organizarea-si-desfasurarea-sedintelor-consiliului-local-al-sectorului-5/",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2022/07/hcl-77-23032020.pdf",
+     "sha256": "46a95b2feffac67fcb3bff90dcc19f4679a64d5138c7765319cdf870ac9168d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-86-2020",
+   "path": "local/bucuresti/sector-5/2020/86",
+   "short": "HCLS5 nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 86/2020 privind aprobarea Contractului de comision încheiat între Direcția de Impozite și Taxe Locale Sector 5 București și Netopia Payments S.R.L",
+   "url": "https://sector5.ro/hotararea-nr-86-07-05-2020-privind-aprobarea-contractului-de-comision-incheiat-intre-directia-de-impozite-si-taxe-locale-sector-5-bucuresti-si-netopia-payments-s-r-l/",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://sector5.ro/hotararea-nr-86-07-05-2020-privind-aprobarea-contractului-de-comision-incheiat-intre-directia-de-impozite-si-taxe-locale-sector-5-bucuresti-si-netopia-payments-s-r-l/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-87-2020",
+   "path": "local/bucuresti/sector-5/2020/87",
+   "short": "HCLS5 nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 87/2020 privind aprobarea Contractului de comision încheiat între Direcția de Impozite și Taxe Locale Sector 5 București și Idea Bank S.A",
+   "url": "https://sector5.ro/hotararea-nr-87-07-05-2020-privind-aprobarea-contractului-de-comision-incheiat-intre-directia-de-impozite-si-taxe-locale-sector-5-bucuresti-si-idea-bank-s-a/",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-87-07052020.pdf",
+     "sha256": "a83102f49e5701fe769ff1c8f2739159a8959ff2eec2070fa2cfa00f77c86293"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-93-2020",
+   "path": "local/bucuresti/sector-5/2020/93",
+   "short": "HCLS5 nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 93/2020 privind modificarea și completarea Hotărârii Consiliului Local Sector 5 nr. 67/23.03.2020 pentru aprobarea Studiului de oportunitate privind modalitatea de gestiune a serviciului public de salubrizare la nivelul Sectorului 5 al Municipiului București, stabilirea modalității de gestiune a serviciului public de salubrizare la nivelul Sectorului 5 al Municipiul București, a Regulamentului de organizare și funcționare a serviciului public de salubrizare, a Caietului de sarcini și a Contractului Cadru de Delegare a gestiunii serviciului public de salubrizare la nivelul Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-93-07-05-2020-privind-modificarea-si-completarea-hotararii-consiliului-local-sector-5-nr-67-23-03-2020-pentru-aprobarea-studiului-de-oportunitate-privind-modalitatea-de-gestiune-a-servi/",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-93-07052020.pdf",
+     "sha256": "67a9a03d4a77be9030204922cca17a678687b2edb04e83d9b9f02f1a8f648566"
+    }
+   ]
+  }
+ ]
+}

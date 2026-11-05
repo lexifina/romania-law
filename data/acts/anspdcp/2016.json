@@ -1,0 +1,77 @@
+{
+"country": "RO",
+"shard": "anspdcp/2016",
+"acts": [
+{
+"slug": "anspdcp-comunicat-sanctiune-2016-2016-06-02",
+"path": "anspdcp/comunicat-sanctiune/2016/2016-06-02",
+"kind": "anspdcp",
+"year": "2016",
+"number": "2016-06-02",
+"withdrawn_by": null,
+"reason": null,
+"title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2016-06-02",
+"short": "Comunicat ANSPDCP din 2016-06-02",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2016-06-02",
+"latest": "2016-06-02",
+"portal": "https://www.dataprotection.ro/?page=sanctiuni_mai&lang=ro",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "anspdcp-comunicat-sanctiune-2016-2016-08-25",
+"path": "anspdcp/comunicat-sanctiune/2016/2016-08-25",
+"kind": "anspdcp",
+"year": "2016",
+"number": "2016-08-25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Comunicat ANSPDCP din 2016-08-25: Sancțiuni aplicate",
+"short": "Comunicat ANSPDCP din 2016-08-25",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2016-08-25",
+"latest": "2016-08-25",
+"portal": "https://www.dataprotection.ro/?page=Sanctiuni_aplicate_august_2016&lang=ro"
+},
+{
+"slug": "anspdcp-comunicat-sanctiune-2016-2016-10-28",
+"path": "anspdcp/comunicat-sanctiune/2016/2016-10-28",
+"kind": "anspdcp",
+"year": "2016",
+"number": "2016-10-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Comunicat ANSPDCP din 2016-10-28: Sancțiuni aplicate",
+"short": "Comunicat ANSPDCP din 2016-10-28",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2016-10-28",
+"latest": "2016-10-28",
+"portal": "https://www.dataprotection.ro/?page=Comunicat_Amenzi_septembrie_2016&lang=ro"
+},
+{
+"slug": "anspdcp-comunicat-sanctiune-2016-2016-12-20",
+"path": "anspdcp/comunicat-sanctiune/2016/2016-12-20",
+"kind": "anspdcp",
+"year": "2016",
+"number": "2016-12-20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Comunicat ANSPDCP din 2016-12-20: Sancțiuni aplicate - noiembrie",
+"short": "Comunicat ANSPDCP din 2016-12-20",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2016-12-20",
+"latest": "2016-12-20",
+"portal": "https://www.dataprotection.ro/?page=Sanctiuni_aplicate_noiembrie_2016&lang=ro"
+}
+]
+}

@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-6/2025",
+ "acts": [
+  {
+   "slug": "hcls6-125-2025",
+   "path": "local/bucuresti/sector-6/2025/125",
+   "short": "HCLS6 nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 125/2025 pentru aprobarea Regulamentului privind funcționarea și exploatarea stațiilor de reîncărcare a autovehiculelor electrice și hibrid plug-in instalate pe domeniul public din Sectorul 6 al Municipiului București",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-aprobarea-regulamentului-privind-functionarea-si-exploatarea-statiilor-de-reincarcare-autovehiculelor-electrice-si-hibrid-plug-instalate-pe-domeniul-public-din-sectorul-6-al-municipiului-bucuresti",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 7,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2025-07/1%20Proiect%20de%20hotarare%20statii%20de%20reincarcare.pdf",
+     "sha256": "5795e323cf8f0344108a23d9da14ef74aaba244aaedf416a578017b9a5e25aae"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-129-2025",
+   "path": "local/bucuresti/sector-6/2025/129",
+   "short": "HCLS6 nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 129/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f284b0da577b486f7809868193042474366ea35ca6aa71f34bfa1898a3e71c30"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-130-2025",
+   "path": "local/bucuresti/sector-6/2025/130",
+   "short": "HCLS6 nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 130/2025 privind modificarea art. 7 din Anexa la H.C.L. al Sectorului 6 nr. 186/2023 privind atribuirea calității de Unitate de Achiziții Centralizate Sectorului 6 al municipiului București și de aprobare a normelor specifice de funcționare a Unității de Achiziții Centralizate",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2025-07/1.%20Proiect%20de%20hotarare.pdf",
+     "sha256": "621f8120235dc0179136e966e05ebd0a2ff83c958b9da2d605424daf3184e86d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-171-2025",
+   "path": "local/bucuresti/sector-6/2025/171",
+   "short": "HCLS6 nr. 171/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 171/2025 privind aprobarea tarifelor de colectare separată și transport separat al deșeurilor municipale și deșeurilor din construcții abandonate pe căile publice de pe raza administrativ-teritorială a Sectorului 6 al Municipiului București",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-tarifelor-de-colectare-separata-si-transport-separat-al-deseurilor-municipale-si-deseurilor-din-constructii-abandonate-pe-caile-publice-de-pe-raza-administrativ-teritoriala-sectorului-6-al-municipiului-bucuresti",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 6,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2025-09/171-2025HCL_stabilire%20tarife%20deseuri%20voluminoase%20si%20din%20constructii%20abandonate.pdf",
+     "sha256": "7603e50421205b82054968c58caafdc1f070afcb33fbefcc4b5551cbb285553a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-204-2025",
+   "path": "local/bucuresti/sector-6/2025/204",
+   "short": "HCLS6 nr. 204/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 204/2025 privind aprobarea Metodologiei de organizare și desfășurare a Programului ”Școală după Școală” la nivelul Sectorului 6 al Municipiului București și finanțarea programului organizat pentru elevii înscriși în unitățile de învățământ preuniversitar de stat din Sectorul 6 al Municipiului București, pentru anul școlar 2025-2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b65d5a142651b7335c8a508376828808eb87be3d5492e9e161ed9775b0eef280"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-208-2025",
+   "path": "local/bucuresti/sector-6/2025/208",
+   "short": "HCLS6 nr. 208/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 208/2025 pentru modificarea Hotărârii Consiliului Local al Sectorului 6 nr. 204/08.10.2025 privind aprobarea Metodologiei de organizare și desfășurare a Programului ”Școală după Școală” la nivelul Sectorului 6 al Municipiului București și finanțarea programului organizat pentru elevii înscriși în unitățile de învățământ preuniversitar de stat din Sectorul 6 al Municipiului București, pentru anul școlar 2025-2026",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-modificarea-hotararii-consiliului-local-al-sectorului-6-nr-20408102025-privind-aprobarea-metodologiei-de-organizare-si-desfasurare-programului-scoala-dupa-scoala-la-nivelul-sectorului-6-al-municipiului-bucuresti-si-finantarea-programului",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 3,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2025-10/208-2025%20HCL%20SDS.pdf",
+     "sha256": "298f85dd329a4e21c573ecf9e330ec9b5ae35685191df9da0aaf1aed73568b4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-224-2025",
+   "path": "local/bucuresti/sector-6/2025/224",
+   "short": "HCLS6 nr. 224/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 224/2025 pentru aprobarea aplicării tarifului activității de tratare anaerobă a biodeșeurilor colectate separat în instalațiile specifice, inclusiv transportul reziduurilor la depozitele de deșeuri și/sau la instalațiile de valorificare energetică, precum și aprobarea tarifului pentru activitatea de colectare separată și transport separat a biodeșeurilor provenite din piețe",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-aprobarea-aplicarii-tarifului-activitatii-de-tratare-anaeroba-biodeseurilor-colectate-separat-instalatiile-specifice-inclusiv-transportul-reziduurilor-la-depozitele-de-deseuri-sisau-la-instalatiile-de-valorificare-energetica-precum-si",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 7,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2025-11/Proiect-HCL%20aprobare%20ctr%20tratare%20anaeroba%20si%20%20tarif%20colectare%20si%20transport%20biodeseuri%2017.10.2025%20%20final.pdf",
+     "sha256": "8cc125e32801aa9e2ef823edc420b48d4d09b6bfb9be968155ab08e5d296bd58"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-234-2025",
+   "path": "local/bucuresti/sector-6/2025/234",
+   "short": "HCLS6 nr. 234/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 234/2025 privind modificarea și completarea Anexelor nr. 1, nr. 2 și nr. 3 la Hotărârea Consiliului Local al Sectorului 6 nr. 247/2024 pentru aprobarea Regulamentului privind activitatea de organizare, gestionare și exploatare a parcajelor publice aflate în administrarea Sectorului 6 al Municipiului București, prin Administrația Comercială, înființarea locurilor de parcare publice cu plată și stabilirea tarifelor, cu modificările și completările ulterioare",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-modificarea-si-completarea-anexelor-nr-1-nr-2-si-nr-3-la-hotararea-consiliului-local-al-sectorului-6-nr-2472024-pentru-aprobarea-regulamentului-privind-activitatea-de-organizare-gestionare-si-exploatare-parcajelor-publice-aflate",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2025-12/1.%20Proiect%20modif%20HCL%20nr%20247%20%202024%20cu%20Calea%20Giulesti%20fn%20si%20Calea%20Apeducutului%20%28003%29.pdf",
+     "sha256": "8493eeeef9c052e81576c498d0cd21ce73540a617664a838c1f67e6bb281c8e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-235-2025",
+   "path": "local/bucuresti/sector-6/2025/235",
+   "short": "HCLS6 nr. 235/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 235/2025 pentru modificarea și completarea Hotărârii Consiliului Local al Sectorului 6 nr. 204/08.10.2025 privind aprobarea Metodologiei de organizare și desfășurare a Programului ”Școală după Școală” la nivelul Sectorului 6 al Municipiului București și finanțarea programului organizat pentru elevii înscriși în unitățile de învățământ preuniversitar de stat din Sectorul 6 al Municipiului București, pentru anul școlar 2025-2026, modificată prin H.C.L. Sector 6 nr. 208/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "29dcc6c955e37779010634895046393a940f61e4ee8df85dfc188a3066dd77c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-253-2025",
+   "path": "local/bucuresti/sector-6/2025/253",
+   "short": "HCLS6 nr. 253/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 253/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3e151337fed9b35c7e093057ff4fec1f1cfa5ea99e1ea976d9239f8d57dcfb99"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-37-2025",
+   "path": "local/bucuresti/sector-6/2025/37",
+   "short": "HCLS6 nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 37/2025 pentru aprobarea cuantumului maxim și a criteriilor de acordare a prestațiilor financiare excepționale pentru familii care nu au posibilitatea de a acorda copiilor îngrijirea corespunzătoare, în anul 2025",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-aprobarea-cuantumului-maxim-si-criteriilor-de-acordare-prestatiilor-financiare-exceptionale-pentru-familii-care-nu-au-posibilitatea-de-acorda-copiilor-ingrijirea-corespunzatoare-anul-2025",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 7,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2025-03/1.%20Proiect%20de%20hotarare%20presta%C8%9Bii%202025_0.pdf",
+     "sha256": "05811098c6066f6bb5fc11799cafddafcff8c8bf001dfab5b8e2860510bafdb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-38-2025",
+   "path": "local/bucuresti/sector-6/2025/38",
+   "short": "HCLS6 nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 38/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2025-03/1.%20Proiect%20de%20hotarare%20modif.%20HCL%20281%20modificat%20sapae.pdf",
+     "sha256": "3cca77f60bf0c460439d6cffddb63f389a0036d1182862e0c04ea3409a665c56"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-39-2025",
+   "path": "local/bucuresti/sector-6/2025/39",
+   "short": "HCLS6 nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 39/2025 privind modificarea și completarea Anexei nr. 1 la H.C.L. al Sectorului 6 nr. 247/2024 pentru aprobarea Regulamentului privind activitatea de organizare, gestionare și exploatare a parcajelor publice aflate în administrarea Sectorului 6 al Municipiului București, prin Administrația Comercială Sector 6, înființarea locurilor de parcare publice cu plată și stabilirea tarifelor",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9f266414c030f519006bd4e0d7c080663150cb26057ee42e386716896f6365b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-42-2025",
+   "path": "local/bucuresti/sector-6/2025/42",
+   "short": "HCLS6 nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 42/2025 privind abrogarea art. 11 din Hotărârea Consiliului Local al Sectorului 6 nr. 155/2023 pentru aprobarea recalculării și ajustării tarifelor activității de colectare separată și transport separat al deșeurilor, precum și a tarifului de tratare mecano-biologică a deșeurilor reziduale colectate pe raza Sectorului 6 al Municipiului București, cu modificările și completările ulterioare",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-abrogarea-art-1-indice-1-din-hotararea-consiliului-local-al-sectorului-6-nr-1552023-pentru-aprobarea-recalcularii-si-ajustarii-tarifelor-activitatii-de-colectare-separata-si-transport-separat-al-deseurilor-precum-si-tarifului-de-tratare",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 6,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2025-03/1.%20Proiect-HCL%20V2%2011%2003%202025.pdf",
+     "sha256": "9e73bbaf963de5be642fb6d6dba1fb5f008fedf984f00bc6f5c1382baa2426b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-83-2025",
+   "path": "local/bucuresti/sector-6/2025/83",
+   "short": "HCLS6 nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 83/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2025-05/1.%20Proiect%20de%20hotarare%20%20%20Regulament%20de%20functionare%20%281%29.pdf",
+     "sha256": "0db23bf90a75153a7fc2e05218ea706112a5f1f64a76aa31db414d38adaa5e04"
+    }
+   ]
+  },
+  {
+   "slug": "hcls6-85-2025",
+   "path": "local/bucuresti/sector-6/2025/85",
+   "short": "HCLS6 nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 85/2025 pentru aprobarea aplicării tarifului activității de tratare mecano-biologică a deșeurilor, precum și a tarifului activității de eliminare prin depozitare a deșeurilor colectate pe raza Sectorului 6 al Municipiului București",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-pentru-aprobarea-aplicarii-tarifului-activitatii-de-tratare-mecano-biologica-deseurilor-precum-si-tarifului-activitatii-de-eliminare-prin-depozitare-deseurilor-colectate-pe-raza-sectorului-6-al-municipiului-bucuresti",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 9,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2025-05/1.%20Proiect-HCL%20V5%2016%2004%202025.pdf",
+     "sha256": "44ce930574d03c9aec42f2139b310f44bd0d705ab243f951a36ecae63a1ee341"
+    }
+   ]
+  }
+ ]
+}

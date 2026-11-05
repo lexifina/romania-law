@@ -1,0 +1,3891 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/cgmb/2011",
+ "acts": [
+  {
+   "slug": "hcgmb-1-2011",
+   "path": "local/bucuresti/cgmb/2011/1",
+   "short": "HCGMB nr. 1/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 1/2011 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA A CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI, PE PERIOADA 20.01.2011 - 20.04.2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/27984",
+   "versions": [
+    {
+     "from": "2011-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/27984/H001_11.pdf",
+     "sha256": "be5fe81ac8ed116e42b3c970073fbef505a3e4d8b47e4d93b5641e00f43badca"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-10-2011",
+   "path": "local/bucuresti/cgmb/2011/10",
+   "short": "HCGMB nr. 10/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 10/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/27999",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/27999/H010_11.pdf",
+     "sha256": "9bb3b832df3135da27fb8b0a525f1d1437307ca4031204a9f50e1b531b209787"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-100-2011",
+   "path": "local/bucuresti/cgmb/2011/100",
+   "short": "HCGMB nr. 100/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 100/2011 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI SI A DOCUMENTATIEI, FAZA STUDIU DE FEZABILITATE (S.F.)PENTRU OBIECTIVUL DE INVESTITII \"SISTEM DE MANAGEMENT AL SITUATIILOR DE URGENTA LA NIVELUL MUNICIPIULUI BUCURESTI\" SE MODIFICA ART 2 PRIN HCGMB NR. 65/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28580",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28580/H100_11.pdf",
+     "sha256": "452b9f50e621ed8fcf577e413b73cdf4c942ff6327a561fc33b2e267222a7f0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-101-2011",
+   "path": "local/bucuresti/cgmb/2011/101",
+   "short": "HCGMB nr. 101/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 101/2011 PRIVIND MODIFICAREA COMPONENTEI COMISIEI DE VALIDARE DIN CADRUL CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI MODIFICA HCGMB NR. 282/2008",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28581",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28581/H101_11.pdf",
+     "sha256": "e05e3a4bd01b6a383eb2e6220e5122a363b3484997c5291299a185451984fbfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-102-2011",
+   "path": "local/bucuresti/cgmb/2011/102",
+   "short": "HCGMB nr. 102/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 102/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28582",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28582/H102_11.pdf",
+     "sha256": "f9dd2cdb9ae9874654244e4d71da75e8cc09a75a4a971136f45af6da1ac48f79"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-103-2011",
+   "path": "local/bucuresti/cgmb/2011/103",
+   "short": "HCGMB nr. 103/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 103/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28583",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28583/H103_11.pdf",
+     "sha256": "ddfd0cc5bb23fd3ee1e69400d1273a60106ed738f40e7e37b3b36bea5275f5f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-104-2011",
+   "path": "local/bucuresti/cgmb/2011/104",
+   "short": "HCGMB nr. 104/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 104/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28584",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28584/H104_11.pdf",
+     "sha256": "44bd330508c692144ada5281a92c1404e6eec0a8c6f91d8adb2ac083bbbb0675"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-105-2011",
+   "path": "local/bucuresti/cgmb/2011/105",
+   "short": "HCGMB nr. 105/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 105/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28585",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28585/H105_11.pdf",
+     "sha256": "cdce99e02b3b45a732cb1feb52b66619cb248c845756203044ebf3aa873598e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-106-2011",
+   "path": "local/bucuresti/cgmb/2011/106",
+   "short": "HCGMB nr. 106/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 106/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL B-DUL. ION MIHALACHE NR.9, SECTOR 1, BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28586",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28586/H106_11.pdf",
+     "sha256": "b061aaccc00beb291a68380dc055e7469526c942b1a8922980d3e43d78cf57b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-107-2011",
+   "path": "local/bucuresti/cgmb/2011/107",
+   "short": "HCGMB nr. 107/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 107/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL B-DUL NICOLAE BALCESCU NR. 17-19, SECTOR 1, BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28587",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28587/H107_11.pdf",
+     "sha256": "c76245f2ec2887b3d847191c86db31cfa5882c8e12331668c87367bec96c4f44"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-108-2011",
+   "path": "local/bucuresti/cgmb/2011/108",
+   "short": "HCGMB nr. 108/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 108/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28588",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28588/H108_11.pdf",
+     "sha256": "b620ccdf8d2aa008f0b911586aaa169657c390ccf4d9422b84803d8a114c87b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-109-2011",
+   "path": "local/bucuresti/cgmb/2011/109",
+   "short": "HCGMB nr. 109/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 109/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28589",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28589/H109_11.pdf",
+     "sha256": "97a64374dac887f8f2c3df8ac6843a84c007fc7b7141b8d6e0aa8c0273b8ee5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-11-2011",
+   "path": "local/bucuresti/cgmb/2011/11",
+   "short": "HCGMB nr. 11/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 11/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28000",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28000/H011_11.pdf",
+     "sha256": "726ceded6e7dc584bb3cf3e2abddbb3a945f182203eee8e97ef3848970b18c56"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-110-2011",
+   "path": "local/bucuresti/cgmb/2011/110",
+   "short": "HCGMB nr. 110/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 110/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL B-DUL MIRCEA ELIADE NR. 17, SECTOR 1, BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28590",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28590/H110_11.pdf",
+     "sha256": "49ba067c8b05a12ed75ac625f5ac292248943a1927674f01aff9df0fbc59b03a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-111-2011",
+   "path": "local/bucuresti/cgmb/2011/111",
+   "short": "HCGMB nr. 111/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 111/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28576",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28576/H111_11.pdf",
+     "sha256": "eb2aa38a2e9a55669e0796fadd484d6405b6c3f50bfb4f7291cb5c596b468caa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-112-2011",
+   "path": "local/bucuresti/cgmb/2011/112",
+   "short": "HCGMB nr. 112/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 112/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28591",
+   "versions": [
+    {
+     "from": "2011-06-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28591/H112_11.pdf",
+     "sha256": "bb87e18a0ef1fe7b53ed3fdff65582da3a43cdef99c8e6941cbe288673c58ab7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-113-2011",
+   "path": "local/bucuresti/cgmb/2011/113",
+   "short": "HCGMB nr. 113/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 113/2011 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI STUDIULUI DE FEZABILITATE PENTRU OBIECTIVUL DE INVESTITII \"REABILITAREA URBANA A RAULUI DAMBOVITA\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28726",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28726/H_0113_11.pdf",
+     "sha256": "00366498042e8aa236787e9ec2853f0a038807536a56c4c8a814cedcf88d7265"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-114-2011",
+   "path": "local/bucuresti/cgmb/2011/114",
+   "short": "HCGMB nr. 114/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 114/2011 PRIVIND AMENAJAREA SI INTRETINEREA ALVEOLELOR STRADALE DIN CADRUL PLANTATIILOR DE ALINIAMENT DIN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28727",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28727/H_0114_11.pdf",
+     "sha256": "453a221f9cdaaba4f039ea7f1f738c6392f7354a23ec2044cf3532df29880d9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-115-2011",
+   "path": "local/bucuresti/cgmb/2011/115",
+   "short": "HCGMB nr. 115/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 115/2011 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI STUDIULUI DE FEZABILITATE PENTRU INVESTITIA REFERITOARE LA ACOPERISURI VERZI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28728",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28728/H_0115_11.pdf",
+     "sha256": "4406508d0fb4b5e9ffe31b3a645c5034733ebaecc13ed26190d67bf9b7b0e13d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-116-2011",
+   "path": "local/bucuresti/cgmb/2011/116",
+   "short": "HCGMB nr. 116/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 116/2011 PENTRU APROBAREA RAPORTULUI PE ANUL 2010 PRIVIND STADIUL REALIZARII MASURILOR DIN PROGRAMUL INTEGRAT DE GESTIONARE A CALITATII AERULUI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28729",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28729/H_0116_11.pdf",
+     "sha256": "a69eae2a08024b1333368e2e782f2a8c912421bb77374c336131ddedac9158d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-117-2011",
+   "path": "local/bucuresti/cgmb/2011/117",
+   "short": "HCGMB nr. 117/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 117/2011 PRIVIND SOLICITAREA CATRE GUVERNUL ROMANIEI, PRIN MINISTERUL ADMINISTRATIEI SI INTERNELOR, DE A INITIA UN PROIECT DE ACT NORMATIV PENTRU STABILIREA UNOR MASURI DE CONTRACTARE SI/SAU GARANTARE DE IMPRUMUTURI DE CATRE MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28730",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28730/H_0117_11.pdf",
+     "sha256": "3d64b9e73079ca8e8aaef75996766ab3809cd5305794793b94fefbc11cf05c92"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-118-2011",
+   "path": "local/bucuresti/cgmb/2011/118",
+   "short": "HCGMB nr. 118/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 118/2011 PRIVIND APROBAREA PROIECTULUI PILOT \"OXIGENOTERAPIA HIPERBARA\" IN CADRUL SPITALULUI CLINIC \"DR. VICTOR BABES\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28731",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28731/H_0118_11.pdf",
+     "sha256": "e138911db22c31e0cffa108d2d100b627f37ae61670a3f81f07afee94f67bff0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-119-2011",
+   "path": "local/bucuresti/cgmb/2011/119",
+   "short": "HCGMB nr. 119/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 119/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28732",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28732/H_0119_11.pdf",
+     "sha256": "db0e9e8f2a2d67d2c61d38bd6f0007e9e31b41fb179203f0f62bc253aff6ab78"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-12-2011",
+   "path": "local/bucuresti/cgmb/2011/12",
+   "short": "HCGMB nr. 12/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 12/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28001",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28001/H012_11.pdf",
+     "sha256": "491144f6e500548d21f0ec8863ac843f80a62aa3b5d6d7676f181dca64a6187b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-120-2011",
+   "path": "local/bucuresti/cgmb/2011/120",
+   "short": "HCGMB nr. 120/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 120/2011 PRIVIND APROBAREA \"ACORDULUI PENTRU APA DE LA ISTANBUL PENTRU AUTORITATILE LOCALE SI REGIONALE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28738",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28738/H_0120_11.pdf",
+     "sha256": "3c91d5d8911dc547202380573f256370be820c3a80c096ea76b393dedc0883b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-121-2011",
+   "path": "local/bucuresti/cgmb/2011/121",
+   "short": "HCGMB nr. 121/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 121/2011 PRIVIND APROBAREA PROGRAMULUI PE ETAPE CU PRIVIRE LA DEMARAREA PROIECTULUI STATIEI DE EPURARE A MUNICIPIULUI BUCURESTI GLINA FAZA II, IMPREUNA CU LUCRARILE DE REABILITARE COLECTOARE DE APA UZATA SI CASETA DE APA-UZATA-DAMBOVITA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28739",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28739/H_0121_11.pdf",
+     "sha256": "34e19497005cc8e810a206f94f900d3307cc88a41a6266abd338c496d17e50cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-122-2011",
+   "path": "local/bucuresti/cgmb/2011/122",
+   "short": "HCGMB nr. 122/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 122/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28740",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28740/H_0122_11.pdf",
+     "sha256": "9c6d84438a274a17665d85f6c92f01ab39fd82a32271944070177eee54763786"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-123-2011",
+   "path": "local/bucuresti/cgmb/2011/123",
+   "short": "HCGMB nr. 123/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 123/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28741",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28741/H_0123_11.pdf",
+     "sha256": "bede28887b08d8cb0f1161562820913506fed7dd97aa360b901e6604158cbd10"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-124-2011",
+   "path": "local/bucuresti/cgmb/2011/124",
+   "short": "HCGMB nr. 124/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 124/2011 PRIVIND APROBAREA PLANULUI DE MASURI PENTRU REDRESAREA FINANCIARA SI PUNEREA IN COFORMITATE CU REGLEMENTARILE IN VIGOARE A SERVICIULUI PUBLIC DE ALIMENTARE CU ENERGIE TERMICA DIN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28733",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28733/H_0124_11.pdf",
+     "sha256": "6d1255412dacc3321d01f6f97d4b77b55d4bc08003bb1a1ca8a94d65681bb172"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-125-2011",
+   "path": "local/bucuresti/cgmb/2011/125",
+   "short": "HCGMB nr. 125/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 125/2011 PRIVIND APROBAREA ATRIBUTIILOR DIRECTIEI GENERALE DE ASISTENTA SOCIALA A MINICIPIULUI BUCURESTI REFERITOARE LA INHUMAREA PERSOANELOR FARA APARTINATORI CARE DECEDEAZA PE RAZA MUNICIPIULUI BUCURESTI SE MODIFICA PRIN HCGMB NR. 48/2014 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 313/2019",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28742",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28742/H_0125_11.pdf",
+     "sha256": "4929ccb3b48f775b6d2fb875a183bcda5210e22f7eed054fda256b48601b54e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-126-2011",
+   "path": "local/bucuresti/cgmb/2011/126",
+   "short": "HCGMB nr. 126/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 126/2011 PRIVIND APROBAREA TRECERII PARCULUI CRANGASI DIN ADMINISTRAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI IN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 6",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28743",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28743/H_0126_11.pdf",
+     "sha256": "3ace67cadb31fffb540c94f56a709dcb0d9e442141e9387dd241abda9bec52a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-127-2011",
+   "path": "local/bucuresti/cgmb/2011/127",
+   "short": "HCGMB nr. 127/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 127/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28734",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28734/H_0127_11.pdf",
+     "sha256": "b72b78ce6b971406b494f66414bd072d15b652bcac9368863b71214dd830cbd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-128-2011",
+   "path": "local/bucuresti/cgmb/2011/128",
+   "short": "HCGMB nr. 128/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 128/2011 PENTRU APROBAREA LISTEI DE REPARTIZARE A LOCUINTELOR ACHIZITIONATE SAU CONSTRUITE DIN FONDURI PROPRII ALE MUNICIPIULUI BUCURESTI, PROPUSA DE CATRE COMISIA DE EVALUARE A SITUATIILOR SOCIALE DEOSEBITE IN CARE SE GASESC CETATENII MUNICIPIULUI BUCURESTI, SOLICITANTI DE LOCUINTE SOCIALE\" SE COMPLETEAZA PRIN HCGMB NR. 161/2011 SE COMPLETEAZA PRIN HCGMB NR. 178/2011 ANEXA SE COMPLETEAZA PRIN HCGMB NR. 225/2011 SE COMPLETEAZA PRIN HCGMB NR. 128/2012 SE COMPLETEAZA PRIN HCGMB NR. 163/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28735",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28735/H_0128_11.pdf",
+     "sha256": "e9796cf7b3f9145b9b5066fbce4532e9bebda7ec1db592a7d37c56040c853f10"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-129-2011",
+   "path": "local/bucuresti/cgmb/2011/129",
+   "short": "HCGMB nr. 129/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 129/2011 PRIVIND APROBAREA PLANULUI DE OCUPARE A FUNCTIILOR PUBLICE DIN PRIMARIA MUNICIPIULUI BUCURESTI PENTRU ANUL 2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28736",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28736/H_0129_11.pdf",
+     "sha256": "64271017af89e48bb5ac8a30f8ad1e9c6ccf91fd3d63a7665b05e9751f600f64"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-13-2011",
+   "path": "local/bucuresti/cgmb/2011/13",
+   "short": "HCGMB nr. 13/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 13/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28002",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28002/H013_11.pdf",
+     "sha256": "2b764d94c456fb9d142890c112d5ffeb8d7089b832eb1e05f73d502501025267"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-130-2011",
+   "path": "local/bucuresti/cgmb/2011/130",
+   "short": "HCGMB nr. 130/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 130/2011 PRIVIND PROCEDURA PUBLICARII ACTELOR CU CARACTER NORMATIV IN MONITORUL OFICIAL AL MUNICIPIULUI BUCURESTI SI MODALITATEA DE DIFUZARE A ACESTUIA INCETEAZA APLICABILITATEA HCGMB NR. 35/2005 INCETEAZA APLICABILITATEA HCGMB NR. 224/2005 INCETEAZA APLICABILITATEA HCGMB NR. 129/2006 INCETEAZA APLICABILITATEA HCGMB NR. 125/2008",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28744",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28744/H_0130_11.pdf",
+     "sha256": "ccc90a7ff3489cb7b85570a92265825b8ae1f293db11d5f17507e9a9e0df0ce1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-131-2011",
+   "path": "local/bucuresti/cgmb/2011/131",
+   "short": "HCGMB nr. 131/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 131/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28737",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28737/H_0131_11.pdf",
+     "sha256": "f3cc20a025224ce93065ed7bdc938006b8fb904c782016dbd33a3bcad415332d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-132-2011",
+   "path": "local/bucuresti/cgmb/2011/132",
+   "short": "HCGMB nr. 132/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 132/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28745",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28745/H_0132_11.pdf",
+     "sha256": "831470f1582c438a67ee1b5f148592e8cd4706f985ac5f4c662e88a93b539b51"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-133-2011",
+   "path": "local/bucuresti/cgmb/2011/133",
+   "short": "HCGMB nr. 133/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 133/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28746",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28746/H_0133_11.pdf",
+     "sha256": "fb3573a43b4f24b07588e7d95b70d471be168257812acb59a3f63c4556a403e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-134-2011",
+   "path": "local/bucuresti/cgmb/2011/134",
+   "short": "HCGMB nr. 134/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 134/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28747",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28747/H_0134_11.pdf",
+     "sha256": "bd8b8714f8d9e98ad208de4cc4e6f12b35bf0c2838af6dd510d27805138edf08"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-135-2011",
+   "path": "local/bucuresti/cgmb/2011/135",
+   "short": "HCGMB nr. 135/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 135/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28748",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28748/H_0135_11.pdf",
+     "sha256": "000b184be3114f0897d57f5663e87c197b117353c0034fb333056e1d3f04bb4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-136-2011",
+   "path": "local/bucuresti/cgmb/2011/136",
+   "short": "HCGMB nr. 136/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 136/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28749",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28749/H_0136_11.pdf",
+     "sha256": "611a3c687a8364f5d2824d092146e7bbd93c5401347e778028923aa1bfe9fb2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-137-2011",
+   "path": "local/bucuresti/cgmb/2011/137",
+   "short": "HCGMB nr. 137/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 137/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28750",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28750/H_0137_11.pdf",
+     "sha256": "11ef9e5fff04031f5c85710768607d674f1fdd2e0998c60aa3c5669ddbeacbce"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-138-2011",
+   "path": "local/bucuresti/cgmb/2011/138",
+   "short": "HCGMB nr. 138/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 138/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28751",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28751/H_0138_11.pdf",
+     "sha256": "a2fb45c0f626490d6bc6bfdd06ec302ef244c9e4314cf628678d9267d845d2ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-139-2011",
+   "path": "local/bucuresti/cgmb/2011/139",
+   "short": "HCGMB nr. 139/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 139/2011 PRIVIND TRANSMITEREA PARCULUI \"ORASELUL COPIILOR\" DIN ADMINISTRAREA ADMINISTRATIEI LACURI, PARCURI SI AGREMENT BUCURESTI IN ADMINISTRAREA CONSILIULUI LOCAL SECTOR 4",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28752",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28752/H_0139_11.pdf",
+     "sha256": "d7b9d6f6a8a1679e5ae35496c9fa846ea3dc41ef019efcc28156c48f1c843a52"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-14-2011",
+   "path": "local/bucuresti/cgmb/2011/14",
+   "short": "HCGMB nr. 14/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 14/2011 PRIVIND IMPUTERNICIREA CONSILIULUI LOCAL AL SECTORULUI 1 DE A HOTARI CU PRIVIRE LA COOPERAREA DIRECTIEI GENERALE DE ASISTENTA SOCIALA SI PROTECTIA COPILULUI SECTOR 1 CU ASOCIATIA CARITAS BUCURESTI IN VEDEREA REALIZARII PROIECTULUI DE INTERES PUBLIC \"COMPLEXUL DE SERVICII SOCIALE CARITAS - CASA SF IOAN\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28003",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28003/H014_11.pdf",
+     "sha256": "c68eaa9761e50b96f543329e9885e26e5c272d82a340ea8d6fdfaab286c07e0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-140-2011",
+   "path": "local/bucuresti/cgmb/2011/140",
+   "short": "HCGMB nr. 140/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 140/2011 PRIVIND ALOCAREA SUMEI DE 2.500 MII LEI DIN FONDUL DE REZERVA LA DISPOZITIA AUTORITATILOR MUNICIPIULUI BUCURESTI DIN BUGETUL PE ANUL 2011 PENTRU CENTRUL DE PROIECTE SI PROGRAME EDUCATIONALE SI SPORTIVE PENTRU COPII SI TINERET BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28885",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28885/H140_11.pdf",
+     "sha256": "e55c2cf8917cae28a677441e1b4cd41af43144961c81f0b3c9904d1cf52f6f3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-141-2011",
+   "path": "local/bucuresti/cgmb/2011/141",
+   "short": "HCGMB nr. 141/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 141/2011 PRIVIND APROBAREA PRETULUI LOCAL DE FACTURARE A ENERGIEI TERMICE FURNIZATE POPULATIEI, PRACTICAT DE R.A.D.E.T BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28889",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28889/H141_11.pdf",
+     "sha256": "3c53134bbbdd9efa8bc2955f93eda784c49097532cc2d925e9a728b215a13667"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-142-2011",
+   "path": "local/bucuresti/cgmb/2011/142",
+   "short": "HCGMB nr. 142/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 142/2011 PRIVIND APROBAREA TARIFELOR DE TRANSPORT SI DISTRIBUTIE A ENERGIEI TERMICE LIVRATA PRIN PUNCTE TERMICE URBANE SI DE TRANSPORT PENTRU AGENTII ECONOMICI CU PUNCTE TERMICE PROPRII, PRECUM SI A PRETURILOR LOCALE MEDII DE FACTURARE A ENERGIEI TERMICE PENTRU AGENTII ECONOMICI, PRACTICATE DE R.A.D.E.T BUCURESTI\" ABROGA ART. 1, 2 SI 3 ALE HCGMB NR. 6/2010",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28890",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28890/H142_11.pdf",
+     "sha256": "15d599af56ab3c743838e700e6bbf5fe687008afae23703c8f4320f4ef806ed1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-143-2011",
+   "path": "local/bucuresti/cgmb/2011/143",
+   "short": "HCGMB nr. 143/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 143/2011 PRIVIND REPARTIZAREA LA BUGETELE SECTOARELOR MUNICIPIULUI BUCURESTI A UNOR SUME DIN COTE DEFALCATE DIN IMPOZITUL PE VENIT PENTRU ECHILIBRARE, PENTRU SUSTINEREA PROGRAMELOR DE DEZVOLTARE LOCALA SI PENTRU SUSTINEREA PROIECTELOR DE INFRASTRUCTURA CE NECESITA COFINANTARE LOCALA PE ANUL 2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28886",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28886/H143_11.pdf",
+     "sha256": "19524242d1b368d5754c042a926b40943c0ea0b22b3ac0230a1076c1a4898e54"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-144-2011",
+   "path": "local/bucuresti/cgmb/2011/144",
+   "short": "HCGMB nr. 144/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 144/2011 PRIVIND DECONTAREA CHELTUIELILOR EFECTUATE PENTRU REFERENDUMUL LOCAL STABILIT PENTRU 26 IUNIE 2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28887",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28887/H144_11.pdf",
+     "sha256": "93d5d6d494d7a8467f31a3715063058c40f380b0ac3c356e2fdf6de351d1e048"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-145-2011",
+   "path": "local/bucuresti/cgmb/2011/145",
+   "short": "HCGMB nr. 145/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 145/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28891",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28891/H145_11.pdf",
+     "sha256": "f1617e86294bab3e173fe06a06cac34485a1279f0c4d464123433fa738eeb33e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-146-2011",
+   "path": "local/bucuresti/cgmb/2011/146",
+   "short": "HCGMB nr. 146/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 146/2011 PRIVIND MODIFICAREA HCGMB NR. 44/2011, PRIVIND ASOCIEREA MUNICIPIULUI BUCURESTI CU AGENTIA NATIONALA DE PROTECTIA MEDIULUI SI CU INSTITUTUL NATIONAL DE CERCETARE DEZVOLTARE PENTRU PROTECTIA MEDIULUI BUCURESTI IN VEDEREA DERULARII PROIECTULUI INFOENVIRON- \"CRESTEREA CAPACITATII DE CONSTIENTIZARE A CETATENILOR ASUPRA PROBLEMELOR DE MEDIU PRIN INFORMARE SI CUNOASTERE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28892",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28892/H146_11.pdf",
+     "sha256": "3e31bca1c13f92ed3892e0fcfd42d7fac125d0cded165717f6ebbabfb107c176"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-147-2011",
+   "path": "local/bucuresti/cgmb/2011/147",
+   "short": "HCGMB nr. 147/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 147/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28893",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28893/H147_11.pdf",
+     "sha256": "39331192934edda63c2f42e301830b42545d67d825e7092c711ce08df72ddc03"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-148-2011",
+   "path": "local/bucuresti/cgmb/2011/148",
+   "short": "HCGMB nr. 148/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 148/2011 PRIVIND PARTICIPAREA MUNICIPIULUI BUCURESTI LA PROIECTUL \"REDUCEREA EMISIILOR POLUANTE GENERATE DE DEPLASARILE CATRE SI DE LA LOCUL DE MUNCA, PRIN INTRODUCEREA DE SOLUTII DE TRANSPORT ADECVATE\", FINANTAT PRIN PROGRAMUL DE FINANTARE LIFE+ AL FONDULUI EUROPEAN DE MEDIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28895",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28895/H148_11.pdf",
+     "sha256": "47a5b0c758f151a4473723bae04a7168602f03b83804f440304c21c99c9d4d3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-149-2011",
+   "path": "local/bucuresti/cgmb/2011/149",
+   "short": "HCGMB nr. 149/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 149/2011 PRIVIND PARTICIPAREA MUNICIPIULUI BUCURESTI LA PROIECTUL \"REDUCEREA EMISIILOR POLUANTE PRIN IMPLEMENTAREA UNUI SISTEM INTEGRAT DE INFORMARE A CALATORILOR SI A FACILITATILOR PARK&RIDE\", FINANTAT PRIN PROGRAMUL DE FINANTARE LIFE+ AL FONDULUI EUROPEAN DE MEDIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28899",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28899/H149_11.pdf",
+     "sha256": "5df8d8de3d3e3a6e962e2db86a147772afbdd46e01d1599735972e980349e897"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-15-2011",
+   "path": "local/bucuresti/cgmb/2011/15",
+   "short": "HCGMB nr. 15/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 15/2011 PRIVIND CONSTITUIREA COMISIEI LOCALE DE ORDINE PUBLICA A MUNICIPIULUI BUCURESTI SI APROBAREA REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE AL ACESTEIA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28004",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28004/H015_11.pdf",
+     "sha256": "3ce400e7d88b2ebdb40eea40529f00e1bf06a7eea1bb797c081065916bae0401"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-150-2011",
+   "path": "local/bucuresti/cgmb/2011/150",
+   "short": "HCGMB nr. 150/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 150/2011 PRIVIND PARTICIPAREA MUNICIPIULUI BUCURESTI LA PROIECTUL \"ACCESUL SI PLOLITICI DE PARCARE PENTRU IMBUNATATIREA CONDITIILOR DE MEDIU, IN ZONA CENTRALA A BUCURESTIULUI\", FINANTAT PRIN PROGRAMUL DE FINANTARE LIFE+ AL FONDULUI EUROPEAN DE MEDIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28902",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28902/H150_11.pdf",
+     "sha256": "61e7abcaef6c8022b9093e1fffc4e74331899dfe21c6a0b268a164b3985bc7f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-151-2011",
+   "path": "local/bucuresti/cgmb/2011/151",
+   "short": "HCGMB nr. 151/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 151/2011 PRIVIND PARTICIPAREA MUNICIPIULUI BUCURESTI LA PROIECTUL \"REDUCEREA POLUARII PRIN UTILIZAREA IN TRANSPORTUL PUBLIC A UNOR MIJLOACE DE TRANSPORT ECOLOGICE, CU COMBUSTIBILI ALTERNATIVI\", FINANTAT PRIN PROGRAMUL DE FINANTARE LIFE+ AL FONDULUI EUROPEAN DE MEDIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28904",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28904/H151_11.pdf",
+     "sha256": "cb1a6f99e76399ef887eded5b8aa66394be14f6d880203b51960227d63f3f9f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-152-2011",
+   "path": "local/bucuresti/cgmb/2011/152",
+   "short": "HCGMB nr. 152/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 152/2011 PRIVIND VALIDAREA INCLUDERII IN BUGETUL PROPRIU AL MUNICIPIULUI A SUMEI ALOCATE PRIN HOTARAREA GUVERNULUI NR. 649/22.06.2011 PENTRU MONUMENTUL \"PRINTUL RAINER AL III-LEA DE MONACO\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28909",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28909/H152_11.pdf",
+     "sha256": "15bf394123bd35b7e00916cfdb91ea72bb0f3019d8579ca1e577c03c3bd3984a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-153-2011",
+   "path": "local/bucuresti/cgmb/2011/153",
+   "short": "HCGMB nr. 153/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 153/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28910",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28910/H153_11.pdf",
+     "sha256": "2aac35a5ef382f216941a5e74b16934bf50395cb3b29c726f4ac6363465ed4c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-154-2011",
+   "path": "local/bucuresti/cgmb/2011/154",
+   "short": "HCGMB nr. 154/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 154/2011 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI OBIECTIVULUI DE INVESTITII \"BRANSAMENT ELECTRIC LA COMPLEXUL DE SERVICII SOCIO-MEDICALE AL MUNICIPIULUI BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28898",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28898/H154_11.pdf",
+     "sha256": "60fbdfb688a5eee80b0d9a9ce2cd27de4b876027b35512c60577dd01f97f02dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-155-2011",
+   "path": "local/bucuresti/cgmb/2011/155",
+   "short": "HCGMB nr. 155/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 155/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28911",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28911/H155_11.pdf",
+     "sha256": "2a815c6497fe7ae42c8ce98a080c8b9edd20921c6c33668e09d6e717c17aba27"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-156-2011",
+   "path": "local/bucuresti/cgmb/2011/156",
+   "short": "HCGMB nr. 156/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 156/2011 PRIVIND APROBAREA CUANTUMULUI COTIZATIEI ANUALE A PRIMARIEI MUNICIPIULUI BUCURESTI LA ASOCIATIA METROPOLIS - CGLU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28901",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28901/H156_11.pdf",
+     "sha256": "3a6858b4411818513679952b5d740577936b3b0f061144c5a18bece3a1393245"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-157-2011",
+   "path": "local/bucuresti/cgmb/2011/157",
+   "short": "HCGMB nr. 157/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 157/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28905",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28905/H157_11.pdf",
+     "sha256": "473620545e5b43b7a9ac0393644c1afdc664849a8051a34b552fdf656c43634c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-158-2011",
+   "path": "local/bucuresti/cgmb/2011/158",
+   "short": "HCGMB nr. 158/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 158/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28906",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28906/H158_11.pdf",
+     "sha256": "c46b49fb2174e25f6c8aaf11f6d96a7d90bdd886576aef72865d5fd6f99a5090"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-159-2011",
+   "path": "local/bucuresti/cgmb/2011/159",
+   "short": "HCGMB nr. 159/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 159/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28907",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28907/H159_11.pdf",
+     "sha256": "16d017efd807beaafde851f72730179cde182ae43df07d2867f52af917003ff6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-16-2011",
+   "path": "local/bucuresti/cgmb/2011/16",
+   "short": "HCGMB nr. 16/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 16/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28005",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28005/H016_11.pdf",
+     "sha256": "d3d70ee2ada303d5a7db9ccb03d9477d4783a6704ca142134deb41d7937dfefc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-160-2011",
+   "path": "local/bucuresti/cgmb/2011/160",
+   "short": "HCGMB nr. 160/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 160/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28908",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28908/H160_11.pdf",
+     "sha256": "152d7bd2c4ba196aec46b8076c35a6a8fe63a6862146e320659bc435f76b19af"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-161-2011",
+   "path": "local/bucuresti/cgmb/2011/161",
+   "short": "HCGMB nr. 161/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 161/2011 PENTRU COMPLETAREA ANEXEI LA HCGMB NR. 128/2011 PRIVIND APROBAREA LISTEI DE REPARTIZARE A LOCUINTELOR ACHIZITIONATE SAU CONSTRUITE DIN FONDURI PROPRII ALE MUNICIPIULUI BUCURESTI, PROPUSA DE CATRE COMISIA DE EVALUARE A SITUATIILOR SOCIALE DEOSEBITE IN CARE SE GASESC CETATENII MUNICIPIULUI BUCURESTI, SOLICITANTI DE LOCUINTE SOCIALE\" COMPLETEAZA HCGMB NR. 128/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28894",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28894/H161_11.pdf",
+     "sha256": "76b9c87f0acf05e672c84b305ca74899c12de885a88cbdfd76425d28e9f29dc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-162-2011",
+   "path": "local/bucuresti/cgmb/2011/162",
+   "short": "HCGMB nr. 162/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 162/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ALEEA POPESCU VICTOR, NR. 5, SECTOR 4",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28896",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28896/H162_11.pdf",
+     "sha256": "c772ab82b4e0a9837fcb24dc73935a7de12c933192cb7d58581a10e3a607b2cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-163-2011",
+   "path": "local/bucuresti/cgmb/2011/163",
+   "short": "HCGMB nr. 163/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 163/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28897",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28897/H163_11.pdf",
+     "sha256": "b34cc3fe6105d7e8b20e10e2a32f64e63fc907c7114de77a1cb29f20d9dfbe5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-164-2011",
+   "path": "local/bucuresti/cgmb/2011/164",
+   "short": "HCGMB nr. 164/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 164/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28900",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28900/H164_11.pdf",
+     "sha256": "3416f507635bf6d99068b06b750d44ebfa02108cb5f36da543f9c615bafaf068"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-165-2011",
+   "path": "local/bucuresti/cgmb/2011/165",
+   "short": "HCGMB nr. 165/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 165/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28903",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28903/H165_11.pdf",
+     "sha256": "596fc55e5c54842dca2ea1d772ab862f8638f20140ac1775f8db2ef7da8c8d7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-166-2011",
+   "path": "local/bucuresti/cgmb/2011/166",
+   "short": "HCGMB nr. 166/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 166/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28912",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28912/H166_11.pdf",
+     "sha256": "31ec17bbad340b0b8b03feb1eb13a000d649997b1ef527518ed5a2512c490e98"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-167-2011",
+   "path": "local/bucuresti/cgmb/2011/167",
+   "short": "HCGMB nr. 167/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 167/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28913",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28913/H167_11.pdf",
+     "sha256": "320db4c9b392dd49820e091b15fea0a6f717caf93e9e7f8f691d4cd3eddc6151"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-168-2011",
+   "path": "local/bucuresti/cgmb/2011/168",
+   "short": "HCGMB nr. 168/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 168/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL BDUL AEROGARII NR. 38, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28914",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28914/H168_11.pdf",
+     "sha256": "257329cec548f13566f8cd8152cba0d1707f624f5f3246bf5c97ac005fd252a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-169-2011",
+   "path": "local/bucuresti/cgmb/2011/169",
+   "short": "HCGMB nr. 169/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 169/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL PARCAJ SUBTERAN PIATA WALTER MARACINEANU, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28915",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28915/H169_11.pdf",
+     "sha256": "60b4e76687d7d7e7e471f214e895a1474ae14a84e944548bf5a80926629253b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-17-2011",
+   "path": "local/bucuresti/cgmb/2011/17",
+   "short": "HCGMB nr. 17/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 17/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28006",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28006/H017_11.pdf",
+     "sha256": "1159af2b864480f5ffaec2fb2044ee3a72fd4c5f4d84c846d77cbed2c7db14f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-170-2011",
+   "path": "local/bucuresti/cgmb/2011/170",
+   "short": "HCGMB nr. 170/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 170/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL PARCAJ SUBTERAN PIATA DOROBANTILOR, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28916",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28916/H170_11.pdf",
+     "sha256": "3f38e590360b2ec6e716c9b06981763a0eb6597848a1b4f20bcbf24998ee5236"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-171-2011",
+   "path": "local/bucuresti/cgmb/2011/171",
+   "short": "HCGMB nr. 171/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 171/2011 PRIVIND SOLICITAREA CATRE GUVERNUL ROMANIEI DE A EMITE UN ACT NORMATIV PRIVIND INFIINTAREA AUTORITATII METROPOLITANE DE TRANSPORT BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28888",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28888/H171_11.pdf",
+     "sha256": "1e5495d43a2b18a835c86412d33188f3e98e89781ddc45973a757ae30e1c77ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-172-2011",
+   "path": "local/bucuresti/cgmb/2011/172",
+   "short": "HCGMB nr. 172/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 172/2011 PRIVIND ALEGEREA PRESDINTELUI DE SEDINTA A CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI, PE PERIOADA 28.09.2011 - 27.12.2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29319",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29319/H0172_11.pdf",
+     "sha256": "6f52fe416b74eee99e9de5c593302be966e0853f9eb76806b2420f07c867361f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-173-2011",
+   "path": "local/bucuresti/cgmb/2011/173",
+   "short": "HCGMB nr. 173/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 173/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29320",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29320/H0173_11.pdf",
+     "sha256": "e7cef9b820e78fdce38f9cac8011b2060c4dc2e79807318264fd7d59fd6e11ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-174-2011",
+   "path": "local/bucuresti/cgmb/2011/174",
+   "short": "HCGMB nr. 174/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 174/2011 PRIVIND APROBAREA STRUCTURILOR ORGANIZATORICE ALE UNOR SPITALE AFLATE IN ADMINISTRAREA MUNICIPALITATII, PRIN ADMINISTRATIA SPITALELOR SI SERVICIILOR MEDICALE BUCURESTI ART. 1, 2 SE ABROGA PRIN HCGMB NR. 248/2011 ART. 3 SI ANEXA 3 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 105/2016 ANEXELE 1,2, 4 SI 6 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 567/2018 ART. 7 SI ANEXA NR. 7 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 318/2019 ANEXA NR. 7 SE MODIFICA PRIN HCGMB NR. 119/2023",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29322",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29322/H0174_11.pdf",
+     "sha256": "3d15a9e9b2e0fa1a71721314ec42fe8c64beb82ce4ddaa7a8eae359e59123dd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-175-2011",
+   "path": "local/bucuresti/cgmb/2011/175",
+   "short": "HCGMB nr. 175/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 175/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29323",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29323/H0175_11.pdf",
+     "sha256": "f2a1cfbb9d8c4f256bff5e614e0f78e27098b192962b28ec9d637705a9fb6b94"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-176-2011",
+   "path": "local/bucuresti/cgmb/2011/176",
+   "short": "HCGMB nr. 176/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 176/2011 PRIVIND APROBAREA ACORDULUI DE ASOCIERE INCHEIAT INTRE DIRECTIA GENERALA DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI, FUNDATIA CRUCEA ALB-GALBENA SI ASOCIATIA DE AJUTOR MUTUAL BUCURESTI IN VEDEREA IMPLEMENTARII PROIECTULUI\"CENTRUL PILOT DE COORDONARE A SERVICIILOR DE INGRIJIRI LA DOMICILIUL DIN MUNICIPIUL BUCURESTI\" ABROGA HCGMB NR. 233/2009",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29324",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29324/H0176_11.pdf",
+     "sha256": "14cad91b267108524fd855b7afa99db7ae44da587d52870292a5e28f8e29de6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-177-2011",
+   "path": "local/bucuresti/cgmb/2011/177",
+   "short": "HCGMB nr. 177/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 177/2011 PRIVIND APROBAREA PROGRAMULUI\"MASURI DE PROTECTIE SI ASISTENTA SOCIALA PENTRU FACILITAREA ACCESULUI LA INGRIJIRE, EDUCATIE SI SANATATE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29325",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29325/H0177_11.pdf",
+     "sha256": "bc0360e56a3d9337e484cdfcabc999a8a0f198414e3b8280fff7312f9af4be5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-178-2011",
+   "path": "local/bucuresti/cgmb/2011/178",
+   "short": "HCGMB nr. 178/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 178/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29326",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29326/H0178_11.pdf",
+     "sha256": "68dda7bbff14643431ce7c2919629dedaa17fd1df80615ef22e77950ee7df498"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-179-2011",
+   "path": "local/bucuresti/cgmb/2011/179",
+   "short": "HCGMB nr. 179/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 179/2011 PRIVIND IMPUTERNICIREA COMISIILOR LOCALE ALE SECTOARELOR 1-6 DE A HOTARI CU PRIVIRE LA ASOCIEREA CU DIRECTIA GENERALA ANTICORUPTIE DIN CADRUL MINISTERULUI ADMINISTRATIEI SI INTERNELOR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29327",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29327/H0179_11.pdf",
+     "sha256": "dddb864b003a2e811814fb09e9865060147758f35265ea3a8bb0686da4d0fff8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-18-2011",
+   "path": "local/bucuresti/cgmb/2011/18",
+   "short": "HCGMB nr. 18/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 18/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28007",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28007/H018_11.pdf",
+     "sha256": "a679ef4077e6a2709bafdfbf8823806d6f70fffb9d2090c92bb9a530b57b09da"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-180-2011",
+   "path": "local/bucuresti/cgmb/2011/180",
+   "short": "HCGMB nr. 180/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 180/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29328",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29328/H0180_11.pdf",
+     "sha256": "3db083b1a1b35e3c5d495f558e59a0acf689cc46f692e066b0f2a4b7c7e4c05b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-181-2011",
+   "path": "local/bucuresti/cgmb/2011/181",
+   "short": "HCGMB nr. 181/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 181/2011 PRIVIND DAREA IN FOLOSINTA GRATUITA PE O PERIOADA DE 49 DE ANI, CATRE SERVICIUL ROMAN DE INFORMATII-UNITATEA MILITARA 0929 BUCURESTI, A TERENULUI IN SUPRAFATA DE 19 MP AFERENT STRAZII MITROPOLIT ANTIM IVIREANU, SECTOR 5, NECESAR PENTRU AMPLASAREA UNUI GRUP ELECTROGEN",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29331",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29331/H181_11.pdf",
+     "sha256": "9b6b8d73b98d7390527563950c71866f24e2bd8d220eae66ad4bced1e7227378"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-182-2011",
+   "path": "local/bucuresti/cgmb/2011/182",
+   "short": "HCGMB nr. 182/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 182/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29332",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29332/H182_11.pdf",
+     "sha256": "ce98c2cdd337f5b7cddfff7aa8e8bec158f8a753fcdf9fe56dc34240081aa037"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-183-2011",
+   "path": "local/bucuresti/cgmb/2011/183",
+   "short": "HCGMB nr. 183/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 183/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL STR. FABRICA DE CARAMIDA, NR. 3H, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29333",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29333/H183_11.pdf",
+     "sha256": "b443205b3eeb50b26e60fd8f964217c7a80725954712a375fae5c4c8554a6193"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-184-2011",
+   "path": "local/bucuresti/cgmb/2011/184",
+   "short": "HCGMB nr. 184/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 184/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL PUZ-STR. JUSTITIEI NR. FOST 56 SI 56A, 56A, 58, 60, SECTOR 4, BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29335",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29335/H184_11.pdf",
+     "sha256": "b9761ff56c9cde41b5f8bb354d8bf08c6b8e867bda2f9de05df7471bfc9ce4e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-185-2011",
+   "path": "local/bucuresti/cgmb/2011/185",
+   "short": "HCGMB nr. 185/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 185/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL STR. VERONICA MICLE, NR. 29, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29336",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29336/H185_11.pdf",
+     "sha256": "48de37511086bf7bf13933172f75502546a78828060d81073d4071d357ee8397"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-186-2011",
+   "path": "local/bucuresti/cgmb/2011/186",
+   "short": "HCGMB nr. 186/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 186/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL STR. JANDARMERIEI, NR. 2, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29339",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29339/H186_11.pdf",
+     "sha256": "11fafaea6cbad6db5698ed1b8c0e47bbeafca9093f0a582af0f10170f094d005"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-187-2011",
+   "path": "local/bucuresti/cgmb/2011/187",
+   "short": "HCGMB nr. 187/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 187/2011 PRIVIND APROBAREA DOCUMENTATIEI DE URBANISM PUZ- STR. DRUMUL BINELUI- STR. DRUMUL JILAVEI- B-DUL METALURGIEI, SECTOR 4",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29340",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29340/H187_11.pdf",
+     "sha256": "1095856d8e5c2c7d788766aa107d57a3f57c178018c29add37a6772ffccd12f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-188-2011",
+   "path": "local/bucuresti/cgmb/2011/188",
+   "short": "HCGMB nr. 188/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 188/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL STR. SEVASTOPOL, NR. 19A, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29341",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29341/H188_11.pdf",
+     "sha256": "79e2568b6858673f9197367e120e395f36a99fe88953a361b0c8613cdff96a8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-189-2011",
+   "path": "local/bucuresti/cgmb/2011/189",
+   "short": "HCGMB nr. 189/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 189/2011 PRIVIND APROBAREA DOCUMENTATIEI DE URBANISM PUZ- STR. INSTITUTUL MEDICO-MILITAR, NR. 12, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29342",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29342/H189_11.pdf",
+     "sha256": "c1cc36fd160a5321c97a761fd9be73641123d89501e36fafdc81b00022c666bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-19-2011",
+   "path": "local/bucuresti/cgmb/2011/19",
+   "short": "HCGMB nr. 19/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 19/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28008",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28008/H019_11.pdf",
+     "sha256": "3e31f8a59bda263312befedf0f757d6f1709508c6a6babe41fccc4fba7054d1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-190-2011",
+   "path": "local/bucuresti/cgmb/2011/190",
+   "short": "HCGMB nr. 190/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 190/2011 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU STR. BUCIUMENI, NR. 7, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29344",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29344/H190_11.pdf",
+     "sha256": "75ccfd67e97562980ca10cbaa3add56796d3bcbd23c98be4f3431b3815c83414"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-191-2011",
+   "path": "local/bucuresti/cgmb/2011/191",
+   "short": "HCGMB nr. 191/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 191/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL STR. CONSTANTIN BOSIANU, NR. 28, SECTOR 4",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29345",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29345/H191_11.pdf",
+     "sha256": "8db33f80418f01c0e5b98b33510c3208e331f8ba73a12598f6b679f0b8a973b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-192-2011",
+   "path": "local/bucuresti/cgmb/2011/192",
+   "short": "HCGMB nr. 192/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 192/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29346",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29346/H192_11.pdf",
+     "sha256": "ec9bfec3ed1b4db0345abac4425dc0198f2749cfc9d046b33c089e5a9cb0c675"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-193-2011",
+   "path": "local/bucuresti/cgmb/2011/193",
+   "short": "HCGMB nr. 193/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 193/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL STR. CAPITANUL CONSTANTIN, NR. 11, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29347",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29347/H193_11.pdf",
+     "sha256": "7dc5b6eb9cc5b7d5ae3e198e4dbeb0620f194e390ed85dfc8666071942917f94"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-194-2011",
+   "path": "local/bucuresti/cgmb/2011/194",
+   "short": "HCGMB nr. 194/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 194/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29329",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29329/H194_11.pdf",
+     "sha256": "942ee2e76da5f877c92d1d5006a565489c538bb6279bdc1a059b2110c3fe38c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-195-2011",
+   "path": "local/bucuresti/cgmb/2011/195",
+   "short": "HCGMB nr. 195/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 195/2011 PRIVIND APROBAREA METODOLOGIEI PENTRU PUNEREA IN APLICARE A ORDONANTEI DE URGENTA A GUVERNULUI NR. 68/2008 PRIVIND VANZAREA SPATIILOR PROPRIETATE PRIVATA A STATULUI SAU A UNITATILOR ADMINISTRATIV - TERITORIALE, CU DESTINATIA DE CABINETE MEDICALE, PRECUM SI A SPATIILOR IN CARE SE DESFASOARA ACTIVITATI CONEXE ACTULUI MEDICAL",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29330",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29330/H195_11.pdf",
+     "sha256": "9c5a2d11aba52c00b42a98e764936399179762d1fc4e2c675b5b0ecdb89c5d4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-196-2011",
+   "path": "local/bucuresti/cgmb/2011/196",
+   "short": "HCGMB nr. 196/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 196/2011 PRIVIND IMPUTERNICIREA CONSILIULUI LOCAL AL SECTORULUI 1 SA HOTARASCA CU PRIVIRE LA COOPERAREA CU INSPECTORATUL SCOLAR AL MUNICIPIULUI BUCURESTI IN VEDEREA COFINANTARII PROIECTULUI \"POSITIVE THINKING\", NUMARUL 509925-LLP-2010-RO-COMENIUS CAM (ACCOMPANYING MEASURES) DIN CADRUL \"PROGRAMULUI DE INVATARE PE TOT PARCURSUL VIETII\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29334",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29334/H196_11.pdf",
+     "sha256": "8c067a982e66cb905c9e35c84a762a525398a2a41736cf6d3f133c0ee13b6186"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-197-2011",
+   "path": "local/bucuresti/cgmb/2011/197",
+   "short": "HCGMB nr. 197/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 197/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29337",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29337/H197_11.pdf",
+     "sha256": "2005792a2e810fab7565d2d7e8ccb8a031cc2834f8d3b5f40d321b84d914453f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-198-2011",
+   "path": "local/bucuresti/cgmb/2011/198",
+   "short": "HCGMB nr. 198/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 198/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29321",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29321/H0198_11.pdf",
+     "sha256": "d1838739a5d84728df98649b7bcda6ea0d20cf2e7f1add4ff287619e9149aa25"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-199-2011",
+   "path": "local/bucuresti/cgmb/2011/199",
+   "short": "HCGMB nr. 199/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 199/2011 PRIVIND APROBAREA PUNERII IN APLICARE A \"STRATEGIEI DE PREVENIRE A CRIMINALITATII IN MUNICIPIUL BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29338",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29338/H199_11.pdf",
+     "sha256": "f6b170920ee373a973b50efdf555e48fe40c08a5df8d6f083d4cdac3b4d7e459"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-2-2011",
+   "path": "local/bucuresti/cgmb/2011/2",
+   "short": "HCGMB nr. 2/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 2/2011 PRIVIND APROBAREA REGULAMENTULUI LOCAL DE PUBLICITATE AL MUNICIPIULUI BUCURESTI ABROGA HCGMB NR. 57/1996 ABROGA HCGMB NR. 22/1997 EXECUTAREA HOTARARII ESTE SUSPENDARA PANA LA SOLUTIONAREA PE FOND A DOSARULUI NR. 29335/3/2011 HOTARAREA ESTE ANULATA IN PARTE IN CEEA CE PRIVESTE DISPOZITIILE PREVAZUTE LA ART. 7 LITERA B) DIN REGULAMENTUL LOCAL DE PUBLICITATE AL MUNICIPIULUI BUCURESTI CU PRIVIRE LA AMPLASAREA RECLAMELOR PUBLICITARE IN RAPORT DE DISTANTA FATA INTERSECTII SE ANULEAZA DISPOZITIILE ART. 2 LITERA G) PCT. 1 SI DISPOZITIILE ART. 12 LITERELE DE LA A) LA D)PRIN SENTINTA CIVILA NR. 1245/11.03.2013 SUSPENDAREA EFECTELOR HCGMB NR. 2/20.01.2011, INCETEAZA INCEPAND CU DATA DE 03.12.2013 SE ABROGA PRIN HCGMB NR. 488/2018",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/27985",
+   "versions": [
+    {
+     "from": "2011-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/27985/H002_11.pdf",
+     "sha256": "724d43dc15a2f16ab9237ac9860586c0e7d99f3c3a00e36ee7ca072bf484334b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-20-2011",
+   "path": "local/bucuresti/cgmb/2011/20",
+   "short": "HCGMB nr. 20/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 20/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28009",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28009/H020_11.pdf",
+     "sha256": "ebb805987c5cd1bc367bcf0afe18816525a401e86184805797b6ebb784dd5ed0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-200-2011",
+   "path": "local/bucuresti/cgmb/2011/200",
+   "short": "HCGMB nr. 200/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 200/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29512",
+   "versions": [
+    {
+     "from": "2011-10-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29512/H0200_11.pdf",
+     "sha256": "04f120e4e7f9e517a523504b86cd6dbc064c03830b6864899c8703e830ce0e79"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-201-2011",
+   "path": "local/bucuresti/cgmb/2011/201",
+   "short": "HCGMB nr. 201/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 201/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29513",
+   "versions": [
+    {
+     "from": "2011-10-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29513/H0201_11.pdf",
+     "sha256": "ed765c28f659a9ea00897c53472cc3881ca9ab7e5d0656638fb77076f9f84bfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-202-2011",
+   "path": "local/bucuresti/cgmb/2011/202",
+   "short": "HCGMB nr. 202/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 202/2011 PRIVIND APROBAREA STUDIULUI DE OPORTUNITATE PENTRU ATRIBUIREA CONTRACTULUI DE CONCESIUNE A SERVICIILOR DE ADMINISTRARE A STADIONULUI NATIONAL \"LIA MANOLIU\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29514",
+   "versions": [
+    {
+     "from": "2011-10-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29514/H0202_11.pdf",
+     "sha256": "c82e4f3fc36ff67a1730bda86bceba6abfcdfe260beda86e6777ef81f443f9e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-203-2011",
+   "path": "local/bucuresti/cgmb/2011/203",
+   "short": "HCGMB nr. 203/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 203/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29515",
+   "versions": [
+    {
+     "from": "2011-10-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29515/H0203_11.pdf",
+     "sha256": "e409548d57420c27125e24d1327a8c77d80d0cc6baa541576907aa9c436cc3ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-204-2011",
+   "path": "local/bucuresti/cgmb/2011/204",
+   "short": "HCGMB nr. 204/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 204/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29516",
+   "versions": [
+    {
+     "from": "2011-10-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29516/H0204_11.pdf",
+     "sha256": "b3c43b6695fa5add31a2afb729541d71834a70b6eaead3ff8a517c7699ebfabc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-205-2011",
+   "path": "local/bucuresti/cgmb/2011/205",
+   "short": "HCGMB nr. 205/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 205/2011 PENTRU APROBAREA DEMARARII PROCEDURILOR LEGALE PRIVIND DELEGAREA SERVICIULUI PUBLIC DE ALIMENTARE CU ENERGIE TERMICA IN MUNICIPIUL BUCURESTI SE ABROGA PRIN HCGMB NR. 108/2013",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29517",
+   "versions": [
+    {
+     "from": "2011-10-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29517/H0205_11.pdf",
+     "sha256": "37ad80b68caef2412fcc97c1f1e2cb7f126d0236d37b62a09decbacc1fe7b0b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-206-2011",
+   "path": "local/bucuresti/cgmb/2011/206",
+   "short": "HCGMB nr. 206/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 206/2011 PENTRU MODIFICAREA COMPONENTEI CONSILIULUI DE ADMINISTRATIE AL REGIEI AUTONOME DE TRANSPORT BUCURESTI, APROBATA PRIN HOTARAREA CGMB NR. 83/2009, CU MODIFICARILE SI COMPLETARILE ULTERIOARE MODIFICA HCGMB NR. 83/2009",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29612",
+   "versions": [
+    {
+     "from": "2011-11-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29612/H206_11.pdf",
+     "sha256": "c8884ed62623b6112a6dd340da43797d4bf48a650b93683d56af915530052831"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-207-2011",
+   "path": "local/bucuresti/cgmb/2011/207",
+   "short": "HCGMB nr. 207/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 207/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29702",
+   "versions": [
+    {
+     "from": "2011-11-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29702/H0207_11.pdf",
+     "sha256": "d04d1a6442e20b693301dc00c78f24bf8b547f57b8cd5b356585513f7fc414b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-208-2011",
+   "path": "local/bucuresti/cgmb/2011/208",
+   "short": "HCGMB nr. 208/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 208/2011 PRIVIND APROBAREA MODIFICARII ORGANIGRAMEI SI STATULUI DE FUNCTII ALE MUZEULUI MUNICIPIULUI BUCURESTI, PRECUM SI APROBAREA REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE AL INSTITUTIEI INCETEAZA APLICABILITATEA HCGMB NR. 247/2008 INCETEAZA APLICABILITATEA ANEXELOR 18A SI 18B ALE HCGMB NR. 174/2010 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 305/2013",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29703",
+   "versions": [
+    {
+     "from": "2011-11-08",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29703/H208_11.pdf",
+     "sha256": "504c20b3fcbc0ee50dfcdb507afeaef4aacf96100ed9c1c4515f5d395eabdccd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-209-2011",
+   "path": "local/bucuresti/cgmb/2011/209",
+   "short": "HCGMB nr. 209/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 209/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29853",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29853/H209_11.pdf",
+     "sha256": "da9d99b267335a50a3487d1d23d700c341cf76efee2c07757fa06f8b0ad77722"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-21-2011",
+   "path": "local/bucuresti/cgmb/2011/21",
+   "short": "HCGMB nr. 21/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 21/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL B-DUL POLIGRAFIEI NR. 73-75, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28010",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28010/H021_11.pdf",
+     "sha256": "c58be0ad7f5b155dfe82d4091657e3846fcb9ccfd62b68254826d8827b57a843"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-210-2011",
+   "path": "local/bucuresti/cgmb/2011/210",
+   "short": "HCGMB nr. 210/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 210/2011 PRIVIND APROBAREA CONTINUARII SI FINALIZARII DE CATRE ADMINISTRATIA SPITALELOR SI SERVICIILOR MEDICALE BUCURESTI A OBIECTIVULUI DE INVESTITII - AMENAJARE SECTIE IMAGISTICA SI REORGANIZARE MANSARDA LA SPITALUL CLINIC \"SFANTA MARIA\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29855",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29855/H210_11.pdf",
+     "sha256": "8041f18c7d98a05f3dbc515feaecbc25a2acf2826940596152186ebc83603dce"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-211-2011",
+   "path": "local/bucuresti/cgmb/2011/211",
+   "short": "HCGMB nr. 211/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 211/2011 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI STUDIULUI DE FEZABILITATE PENTRU OBIECTIVUL DE INVESTITII \"CUPTOR DE ICINERARE LA CREMATORIUL UMAN VITAN - BARZESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29856",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29856/H211_11.pdf",
+     "sha256": "c607af7c59547b6cb486072c96e0b929155f45b2081fb6feb7fcf714bfaf4917"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-212-2011",
+   "path": "local/bucuresti/cgmb/2011/212",
+   "short": "HCGMB nr. 212/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 212/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29857",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29857/H212_11.pdf",
+     "sha256": "969e44051820fc5cb8893c1322f67f8a9da8fa0c866d4789b5d9ccddd6fd0abb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-213-2011",
+   "path": "local/bucuresti/cgmb/2011/213",
+   "short": "HCGMB nr. 213/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 213/2011 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI STUDIULUI DE FEZABILITATE PENTRU OBIECTIVUL DE INVESTITII CENTRALA TERMICA SCOALA DE ARTA BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29858",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29858/H213_11.pdf",
+     "sha256": "e2eca2d1505e15a08700998ea541b8269316744365a99791ce1b31aa4fa4e6a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-214-2011",
+   "path": "local/bucuresti/cgmb/2011/214",
+   "short": "HCGMB nr. 214/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 214/2011 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI STUDIULUI DE FEZABILITATE PENTRU OBIECTIVUL DE INVESTITII \"CENTRUL DE MEDICINA HIPERBARA\" IN CADRUL SPITALULUI CLINIC \"DR. VICTOR BABES\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29859",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29859/H214_11.pdf",
+     "sha256": "843c87d0c11e8ee6b1752a1971f0c8517fa74c9c8f5be21567a40a4548f1c469"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-215-2011",
+   "path": "local/bucuresti/cgmb/2011/215",
+   "short": "HCGMB nr. 215/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 215/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29860",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29860/H215_11.pdf",
+     "sha256": "6e55712e81477c93b9cbba29bac4dfd444c89a258c01f82181045b2df2465b93"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-216-2011",
+   "path": "local/bucuresti/cgmb/2011/216",
+   "short": "HCGMB nr. 216/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 216/2011 PRIVIND IMPUTERNICIREA CONSILIULUI LOCAL SECTOR 3 SA HOTARASCA CU PRIVIRE LA ASOCIEREA CU REGIA AUTONOMA \"ADMINISTRATIA ROMANA A SERVICIILOR DE TRAFIC AERIAN\" - ROMATSA, IN VEDEREA REALIZARII OBIECTIVULUI DE INVESTITII DESTINAT ACTIVITATII DE INVATAMANT PRESCOLAR (GRADINITE)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29861",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29861/H216_11.pdf",
+     "sha256": "1340d8c1320869990fec7a14108214ef9a6a727b5143b0c43e4923feda86ecf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-217-2011",
+   "path": "local/bucuresti/cgmb/2011/217",
+   "short": "HCGMB nr. 217/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 217/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29871",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29871/H217_11.pdf",
+     "sha256": "758760c8af1a1bbe73137a0847961b916cef0880df51b5b2d794ebcbf5df4cfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-218-2011",
+   "path": "local/bucuresti/cgmb/2011/218",
+   "short": "HCGMB nr. 218/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 218/2011 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI DIN CADRUL PROIECTULUI \"REABILITAREA INFRASTRUCTURII EDUCATIONALE IN BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29875",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29875/H218_11.pdf",
+     "sha256": "48aaa692fa009db2868fa4411672715eb7ec0742df5dedf79ef9febdae87f4a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-219-2011",
+   "path": "local/bucuresti/cgmb/2011/219",
+   "short": "HCGMB nr. 219/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 219/2011 PRIVIND RECTIFICAREA BUGETULUI PROPRIU AL MUNICIPIULUI BUCURESTI PE ANUL 2011 MODIFICA HCGMB NR. 62/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29819",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29819/H219_11.pdf",
+     "sha256": "1d3775ec22e04537466f837d2cd9d476f3c963ad17f8ac44b208150a6f58c69e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-22-2011",
+   "path": "local/bucuresti/cgmb/2011/22",
+   "short": "HCGMB nr. 22/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 22/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28011",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28011/H022_11.pdf",
+     "sha256": "c5a67f7f325a71db283369e711afe188cff6eccab7202d367c93c5e908e35c56"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-220-2011",
+   "path": "local/bucuresti/cgmb/2011/220",
+   "short": "HCGMB nr. 220/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 220/2011 PRIVIND STABILIREA IMPOZITELOR SI TAXELOR LOCALE IN MUNICIPIUL BUCURESTI, PENTRU ANUL 2012 MODIFICA HCGMB NR. 340/2010 SE MODIFICA PRIN HCGMB NR. 211/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29879",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29879/H220_11.pdf",
+     "sha256": "444426c225ae9edfbe7d255ff4df89b42104657223cbc19a4541cb4fc32a7eb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-221-2011",
+   "path": "local/bucuresti/cgmb/2011/221",
+   "short": "HCGMB nr. 221/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 221/2011 PRIVIND STABILIREA PRETURILOR MEDII ALE PRODUSELOR AGRICOLE PENTRU MUNICIPIUL BUCURESTI, PENTRU ANUL 2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29887",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29887/H221_11.pdf",
+     "sha256": "15f74e94c157ddc0e3a611ce8f5c577bc7ac440e9d535038f3072f02f615f76b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-222-2011",
+   "path": "local/bucuresti/cgmb/2011/222",
+   "short": "HCGMB nr. 222/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 222/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29848",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29848/H222_11.pdf",
+     "sha256": "215923f6a3ee7976b39f30f0a4016cba8f66a195ebd824065c61fbc8fc5dd216"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-223-2011",
+   "path": "local/bucuresti/cgmb/2011/223",
+   "short": "HCGMB nr. 223/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 223/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29890",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29890/H223_11.pdf",
+     "sha256": "ef6aa168e6f925fe9db898a1e6286b75b29a108c231fa2e5442fbb06ead46766"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-224-2011",
+   "path": "local/bucuresti/cgmb/2011/224",
+   "short": "HCGMB nr. 224/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 224/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29894",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29894/H224_11.pdf",
+     "sha256": "929487ccf1c39258e749d6666c6bbbdf164196187c119f16528fe52064e4ecf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-225-2011",
+   "path": "local/bucuresti/cgmb/2011/225",
+   "short": "HCGMB nr. 225/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 225/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29902",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29902/H225_11.pdf",
+     "sha256": "599b2b560a2cb340326fc61191b77913205562ea37b03f906234ef0d3a1fc31f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-226-2011",
+   "path": "local/bucuresti/cgmb/2011/226",
+   "short": "HCGMB nr. 226/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 226/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29909",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29909/H226_11.pdf",
+     "sha256": "e32929d789cb45e0321b3bea9a00f131e254d5d79eb2fdcfa623d1a4cf20e5dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-227-2011",
+   "path": "local/bucuresti/cgmb/2011/227",
+   "short": "HCGMB nr. 227/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 227/2011 PRIVIND APROBAREA PROIECTULUI \"IMBUNATATIREA ACCESULUI CETATENILOR LA SERVICII DE SANATATE DE CALITATE PRIN IMPLEMENTAREA UNUI SISTEM INFORMATIC INTEGRAT IN CADRUL SPITALULUI CLINIC PROF. DR. TH. BURGHELE\" SI A CHELTUIELILOR LEGATE DE PROIECT PRIN PROGRAMUL OPERATIONAL SECTORIAL CRESTEREA COMPETITIVITATII ECONOMICE 2007-2013, AXA PRIORITARA III, DOMENIUL MAJOR DE INTERVENTIE 2, OPERATIUNEA 4 SUSTINEREA IMPLEMENTARII DE SOLUTII DE E-SANATATE SI ASIGURAREA CONEXIUNII DE BROADBAND ACOLO UNDE ESTE NECESAR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29910",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29910/H227_11.pdf",
+     "sha256": "69ad264368c135beb4f31e1dbbdf466dd8eaebcdaced68e6f63be2042ba4cf20"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-228-2011",
+   "path": "local/bucuresti/cgmb/2011/228",
+   "short": "HCGMB nr. 228/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 228/2011 PRIVIND APROBAREA PROIECTULUI \"IMPLEMENTAREA UNUI SISTEM INFORMATIC INTEGRAT DE E-SANATATE IN CADRUL SPITALULUI DE BOLI CRONICE \"SF. LUCA\" PENTRU FACILITAREA ACCESULUI CETATENILOR LA SERVICII MEDICALE DE CALITATE\" SI A CHELTUIELILOR LEGATE DE PROIECT PRIN PROGRAMUL OPERATIONAL SECTORIAL CRESTEREA COMPETITIVITATII ECONOMICE 2007-2013, AXA PRIORITARA III, DOMENIUL MAJOR DE INTERVENTIE 2, OPERATIUNEA 4 SUSTINEREA IMPLEMENTARII DE SOLUTII DE E-SANATATE SI ASIGURAREA CONEXIUNII DE BROADBAND ACOLO UNDE ESTE NECESAR SE MODIFICA PRIN HCGMB NR. 208/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29912",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29912/H228_11.pdf",
+     "sha256": "1ba82f09213c014898a93445352b66a121096aa7af862223410ba20ac806fa91"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-229-2011",
+   "path": "local/bucuresti/cgmb/2011/229",
+   "short": "HCGMB nr. 229/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 229/2011 PRIVIND APROBAREA ACORDULUI DE ASOCIERE INCHEIAT INTRE MUNICIPIUL BUCURESTI SI DIRECTIA GENERALA ANTICORUPTIE DIN CADRUL MINISTERULUI ADMINISTRATIEI SI INTERNELOR, IN SCOPUL REALIZARII PROIECTULUI CE VIZEAZA COMBATEREA ACTELOR DE CORUPTIE SE ABROGA PRIN HCGMB NR. 46/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29917",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29917/H229_11.pdf",
+     "sha256": "90fd37d84ac83e3b08943150b1fab09831cdd5c117ca7b22638d5c619f838bb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-23-2011",
+   "path": "local/bucuresti/cgmb/2011/23",
+   "short": "HCGMB nr. 23/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 23/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL CALEA ION ZAVOI-AVIATIA UTILITARA, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28012",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28012/H023_11.pdf",
+     "sha256": "33631219f177be2ab826f46c4f5d2aac6bfbbc294f221270951f30d187e511ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-230-2011",
+   "path": "local/bucuresti/cgmb/2011/230",
+   "short": "HCGMB nr. 230/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 230/2011 PRIVIND APROBAREA DOCUMENTATIEI DE URBANISM PUZ - B-DUL PIERRE DE COUBERTIN NR. 3-5, SECTOR 2",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29924",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29924/H230_11.pdf",
+     "sha256": "685ddac02f01f191931a09cb000c3aa62e7e247b3f0de44ea0cb3410830b3de3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-231-2011",
+   "path": "local/bucuresti/cgmb/2011/231",
+   "short": "HCGMB nr. 231/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 231/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29925",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29925/H231_11.pdf",
+     "sha256": "0fbb46a53c3bd3308346004437226a61ffec5b41c0bd948043ffab91f2ec5d5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-232-2011",
+   "path": "local/bucuresti/cgmb/2011/232",
+   "short": "HCGMB nr. 232/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 232/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29966",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29966/H232_11.pdf",
+     "sha256": "0e073a9c5121b423bb541c14c6e8dc9277477b2ccbbaf7335abdbc6ba57b166b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-233-2011",
+   "path": "local/bucuresti/cgmb/2011/233",
+   "short": "HCGMB nr. 233/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 233/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29973",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29973/H233_11.pdf",
+     "sha256": "62beb88bfd67d8653b7ccec90ac019f4597cf4ff31dfe8e844ccd6482ee6da41"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-234-2011",
+   "path": "local/bucuresti/cgmb/2011/234",
+   "short": "HCGMB nr. 234/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 234/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29975",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29975/H234_11.pdf",
+     "sha256": "77eca9f118e3014feb7f29f03f2bffe0c69467a76f719a023f1f85dfb67af97b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-235-2011",
+   "path": "local/bucuresti/cgmb/2011/235",
+   "short": "HCGMB nr. 235/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 235/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29976",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29976/H235_11.pdf",
+     "sha256": "c8c58c2fe242d6213761653a526ca0b6c5795db3c49edda371bf1293fdc67f8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-236-2011",
+   "path": "local/bucuresti/cgmb/2011/236",
+   "short": "HCGMB nr. 236/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 236/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29977",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29977/H236_11.pdf",
+     "sha256": "760dff43e041cf45f1a1de172ec42f63edeeb6ceb59f00ca237c91261ccea993"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-237-2011",
+   "path": "local/bucuresti/cgmb/2011/237",
+   "short": "HCGMB nr. 237/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 237/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29978",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29978/H237_11.pdf",
+     "sha256": "9a74537437d596630d15e464716afdf092ea9dc46e219675d54c4236104327f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-238-2011",
+   "path": "local/bucuresti/cgmb/2011/238",
+   "short": "HCGMB nr. 238/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 238/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29979",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29979/H238_11.pdf",
+     "sha256": "1e7b596aed86e7f53ca5abde77c030775dc866b61b2a39b8a60e4b9619973721"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-239-2011",
+   "path": "local/bucuresti/cgmb/2011/239",
+   "short": "HCGMB nr. 239/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 239/2011 PRIVIND MASURI PENTRU ASIGURAREA SEDIULUI IN VEDEREA FUNCTIONARII INSTITUTIEI PREFECTULUI MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29980",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29980/H239_11.pdf",
+     "sha256": "8c97a92bf4e70d698e427f36669ff2297b75a20259f7c09d0380485e44a14c59"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-24-2011",
+   "path": "local/bucuresti/cgmb/2011/24",
+   "short": "HCGMB nr. 24/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 24/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL AUTOSTRADA BUCURESTI-BRASOV SECTOR BUCURESTI-PLOIESTI, KM 0+000-KM 19+500",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28013",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28013/H024_11.pdf",
+     "sha256": "3f6ac128d7c6da566fd6fcc4f63d43c2dca1ec2b1319c909bbe6f978191347a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-240-2011",
+   "path": "local/bucuresti/cgmb/2011/240",
+   "short": "HCGMB nr. 240/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 240/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/29854",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/29854/H240_11.pdf",
+     "sha256": "3a0e2bce6fee6e020abe410c038767cbaa874ece8836d193434775c7989e8e18"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-241-2011",
+   "path": "local/bucuresti/cgmb/2011/241",
+   "short": "HCGMB nr. 241/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 241/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30139",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30139/H241_11.pdf",
+     "sha256": "397ebf139119c373f03961be618d5a12de264e4f1d0706b9f93d301559d430dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-242-2011",
+   "path": "local/bucuresti/cgmb/2011/242",
+   "short": "HCGMB nr. 242/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 242/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30140",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30140/H242_11.pdf",
+     "sha256": "b10170d55904e7a9365543440f35868f1cd04f53f700e9a8ee91b490087eb086"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-243-2011",
+   "path": "local/bucuresti/cgmb/2011/243",
+   "short": "HCGMB nr. 243/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 243/2011 PRIVIND IMPUTERNICIREA CONSILIULUI LOCAL SECTOR 6 DE A HOTARA CU PRIVIRE LA COOPERAREA , PRIN DIRECTIA GENERALA DE ASISTENTA SOCIALA SI PROTECTIA COPILULUI SECTOR 6, CU PAROHIA ORTODOXA SF. ANDREI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30141",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30141/H243_11.pdf",
+     "sha256": "b56ed97bf779a1736683f2355e0d52117261100fd348472d246d8713cfc7028d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-244-2011",
+   "path": "local/bucuresti/cgmb/2011/244",
+   "short": "HCGMB nr. 244/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 244/2011 PRIVIND REDUCEREA NUMARULUI DE POSTURI PENTRU UNITATEA ADMINISTRATIV-TERITORIALA-MUNICIPIUL BUCURESTI MODIFICA HCGMB NR. 174/2010 MODIFICA HCGMB NR. 175/2010 MODIFICA HCGMB NR. 42/2011 SE MODIFICA PRIN HCGMB NR. 16/2013 ART. 3 ALIN. (2)-(4) ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 305/2013",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30142",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30142/H244_11.pdf",
+     "sha256": "bd69eb9dfc8d58be932981c96365bb667096d1ef62af464184fd546dc9e8cfe1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-245-2011",
+   "path": "local/bucuresti/cgmb/2011/245",
+   "short": "HCGMB nr. 245/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 245/2011 PRIVIND APROBAREA PLANULUI DE OCUPARE A FUNCTIILOR PUBLICE DIN PRIMARIA MUNICIPIULUI BUCURESTI PENTRU ANUL 2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30143",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30143/H245_11.pdf",
+     "sha256": "55245dbf9bdfbbcfa2007060a333cf9c708cdf5ff52028857ffcf6fe7e616cdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-246-2011",
+   "path": "local/bucuresti/cgmb/2011/246",
+   "short": "HCGMB nr. 246/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 246/2011 PRIVIND APROBAREA PLANULUI DE OCUPARE A FUNCTIILOR PUBLICE DIN CADRUL DIRECTIEI GENERALE DE POLITIE LOCALA SI CONTROL A MUNICIPIULUI BUCURESTI PENTRU ANUL 2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30144",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30144/H246_11.pdf",
+     "sha256": "25312b86919321146ce18cb2e5c1d2804b85efb11600c9a72297b9c48012124e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-247-2011",
+   "path": "local/bucuresti/cgmb/2011/247",
+   "short": "HCGMB nr. 247/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 247/2011 PRIVIND APROBAREA PLANULUI DE OCUPARE A FUNCTIILOR PUBLICE DIN CADRUL DIRECTIEI GENERALE DE EVIDENTA A PERSOANELOR A MUNICIPIULUI BUCURESTI PENTRU ANUL 2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30145",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30145/H247_11.pdf",
+     "sha256": "714545edebdd15eba58d49453d1c4c76055f3245760e17fcae506abb85ecb914"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-248-2011",
+   "path": "local/bucuresti/cgmb/2011/248",
+   "short": "HCGMB nr. 248/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 248/2011 PRIVIND APROBAREA STRUCTURILOR ORGANIZATORICE ALE UNOR SPITALE AFLATE IN ADMINISTRAREA MUNICIPALITATII, PRIN ADMINISTRATIA SPITALELOR SI SERVICIILOR MEDICALE BUCURESTI ABROGA ART. 1, 2 ALE HCGMB NR. 174/2011 ANEXA NR. 5 SE MODIFICA PRIN HCGMB NR. 662/2019 ANEXA NR.1 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 80/2020 ANEXA NR. 5 MODIFICATA PRIN HCGMB NR. 664/2022",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30146",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30146/H248_11.pdf",
+     "sha256": "d7ef4dd2dadfe723533cddf96cce4452482cd1ec6e6f2634009fc6d1d2c5d6b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-249-2011",
+   "path": "local/bucuresti/cgmb/2011/249",
+   "short": "HCGMB nr. 249/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 249/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30147",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30147/H249_11.pdf",
+     "sha256": "58742fcba65b1cba65a57d35c70107a8177aadccf930f27fc7cea56376ef5ffe"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-25-2011",
+   "path": "local/bucuresti/cgmb/2011/25",
+   "short": "HCGMB nr. 25/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 25/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28014",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28014/H025_11.pdf",
+     "sha256": "03eaf1fa4e87c1d54f0fbf8c3cfd83e9145c1837ccdf5f24b3043c743dac7ccb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-250-2011",
+   "path": "local/bucuresti/cgmb/2011/250",
+   "short": "HCGMB nr. 250/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 250/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30148",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30148/H250_11.pdf",
+     "sha256": "655ad00476d16f2069f1d6674b14190527539a5a332264dd6762a652e333bd56"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-251-2011",
+   "path": "local/bucuresti/cgmb/2011/251",
+   "short": "HCGMB nr. 251/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 251/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30149",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30149/H251_11.pdf",
+     "sha256": "f7d4ae44c995b102e4d6d525f8a4488147b45ee1221ebf49d5b1de7c049d4321"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-252-2011",
+   "path": "local/bucuresti/cgmb/2011/252",
+   "short": "HCGMB nr. 252/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 252/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30150",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30150/H252_11.pdf",
+     "sha256": "11054a448da8a35a0273fa519aea18cd44e12d4ed72ef8d2ee7c67d48e057b9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-253-2011",
+   "path": "local/bucuresti/cgmb/2011/253",
+   "short": "HCGMB nr. 253/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 253/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30151",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30151/H253_11.pdf",
+     "sha256": "5c1b14b3ac453a862ef01a5721165f1c6566bb55e8793f6bed73738f96086623"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-254-2011",
+   "path": "local/bucuresti/cgmb/2011/254",
+   "short": "HCGMB nr. 254/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 254/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL PUZ - STR. GRIGORE CERCHEZ, NR. 12, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30152",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30152/H254_11.pdf",
+     "sha256": "16a8929006b7499c3fd7dda2810f7cc36f195c46571273f9dd815e7b3bde2c24"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-255-2011",
+   "path": "local/bucuresti/cgmb/2011/255",
+   "short": "HCGMB nr. 255/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 255/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30153",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30153/H255_11.pdf",
+     "sha256": "9f5b5db9cbf1cad64f32525dd1db18f111fb91096efa748fb991aeb84001a971"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-256-2011",
+   "path": "local/bucuresti/cgmb/2011/256",
+   "short": "HCGMB nr. 256/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 256/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30154",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30154/H256_11.pdf",
+     "sha256": "6e7dd14f691c665e2a8c39cbb136295b2ffad53e407ff8a781199167df584f4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-257-2011",
+   "path": "local/bucuresti/cgmb/2011/257",
+   "short": "HCGMB nr. 257/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 257/2011 PRIVIND IMPUTERNICIREA CONSILIULUI LOCAL AL SECTORULUI 6 DE A HOTARA ASUPRA ASOCIERII CU ASOCIATIA HAM&MIAU IN VEDEREA IMPLEMENTARII PROIECTULUI \"ADAPOST PENTRU CAINII FARA STAPAN\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30155",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30155/H257_11.pdf",
+     "sha256": "a4cb9fd2faeacba221826d1734d42b37b0e809395fdfbd8ce1456e57828209ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-258-2011",
+   "path": "local/bucuresti/cgmb/2011/258",
+   "short": "HCGMB nr. 258/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 258/2011 PRIVIND DESEMNAREA REPREZENTANTULUI CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI IN CONSILIUL DE CONDUCERE AL AUTORITATII METROPOLITANE DE TRANSPORT BUCURESTI SE ABROGA PRIN HCGMB NR. 94/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30156",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30156/H258_11.pdf",
+     "sha256": "57a67e9d5e9cc824bf0d87cefdff9077ac606a550e95087061b8fa402ce9c34c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-259-2011",
+   "path": "local/bucuresti/cgmb/2011/259",
+   "short": "HCGMB nr. 259/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 259/2011 PRIVIND CONSTITUIREA UNEI COMISII SPECIALE DIN CADRUL CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI DE ANALIZA SI VERIFICARE A ACTIVITATII DIRECTIEI GENERALE DE POLITIE LOCALA SI CONTROL A MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30157",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/30157/H259_11.pdf",
+     "sha256": "e7e298aadcdfa42410be9a26e24e22f946b1d64101c85d07698dcd59778aacab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-26-2011",
+   "path": "local/bucuresti/cgmb/2011/26",
+   "short": "HCGMB nr. 26/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 26/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28015",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28015/H026_11.pdf",
+     "sha256": "4e0c526c56188056b3524711a0bb02fe9ee9b1d1f742c8a3d4f4c1096101b690"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-27-2011",
+   "path": "local/bucuresti/cgmb/2011/27",
+   "short": "HCGMB nr. 27/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 27/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL STR. BARBATESCU VECHI, NR. 3-5, SECTOR 5",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28016",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28016/H027_11.pdf",
+     "sha256": "baafdbcd587c818dbac4d28feaea75581a31285f98a667f62d684e50c4b72d93"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-28-2011",
+   "path": "local/bucuresti/cgmb/2011/28",
+   "short": "HCGMB nr. 28/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 28/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28017",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28017/H028_11.pdf",
+     "sha256": "0f767839c562d7696f31f428692bb5586483ccf643fe26b30221633855455fc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-29-2011",
+   "path": "local/bucuresti/cgmb/2011/29",
+   "short": "HCGMB nr. 29/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 29/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28018",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28018/H029_11.pdf",
+     "sha256": "41dcf3b367d205a2b1eb1bf594b92dc749690c45a74f0d4e69e7950f92e01beb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-3-2011",
+   "path": "local/bucuresti/cgmb/2011/3",
+   "short": "HCGMB nr. 3/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 3/2011 PRIVIND APROBAREA ACORDULUI DE COOPERARE INTRE MUNICIPIUL BUCURESTI SI SCTMB METROREX SA, IN VEDEREA REALIZARII LUCRARILOR AFERENTE OBIECTIVULUI DE INVESTITII \"PASAJ RUTIER SUBTERAN RAZOARE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/27986",
+   "versions": [
+    {
+     "from": "2011-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/27986/H003_11.pdf",
+     "sha256": "de0475c06942d3c251da421c60b72807ab0bceb5fa1b6522584df55606cb7e07"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-30-2011",
+   "path": "local/bucuresti/cgmb/2011/30",
+   "short": "HCGMB nr. 30/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 30/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28019",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28019/H030_11.pdf",
+     "sha256": "f3ed23e2b2f302fbdb891c456430fc76a8d48e74c0a1af6a61b9f4a03f79f49d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-31-2011",
+   "path": "local/bucuresti/cgmb/2011/31",
+   "short": "HCGMB nr. 31/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 31/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28020",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28020/H031_11.pdf",
+     "sha256": "dba6e00214f8159a8a6ba36f43c2793494468a59b965bf38ca5f0b59eb8a271e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-32-2011",
+   "path": "local/bucuresti/cgmb/2011/32",
+   "short": "HCGMB nr. 32/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 32/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28021",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28021/H032_11.pdf",
+     "sha256": "8353c8df622378d7d3a473fa0902e0516066acbd182d589ad9804279abd8e62a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-33-2011",
+   "path": "local/bucuresti/cgmb/2011/33",
+   "short": "HCGMB nr. 33/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 33/2011 PRIVIND ACORDAREA DREPTULUI LA TRANSPORT GRATUIT, IN BAZA LEGITIMATIEI DE SERVICIU, PE MIJLOACELE DE TRANSPORT IN COMUN DE SUPRAFATA, PENTRU PERSONALUL PRIMARIEI MUNICIPIULUI BUCURESTI SI INSTITUTIILOR SI SERVICIILOR PUBLICE DE INTERES LOCAL ALE MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/27996",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/27996/H033_11.pdf",
+     "sha256": "0e71e72acae8f273da06eaa414666c92d05ddf33d70da52b3c89b9b70a88d901"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-34-2011",
+   "path": "local/bucuresti/cgmb/2011/34",
+   "short": "HCGMB nr. 34/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 34/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28189",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28189/H034_11.pdf",
+     "sha256": "d4d94487699f65306357028909e44ca76efe6c1c456bc224d3a1fabe00a00a78"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-35-2011",
+   "path": "local/bucuresti/cgmb/2011/35",
+   "short": "HCGMB nr. 35/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 35/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28190",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28190/H035_11.pdf",
+     "sha256": "8aa5d80a66a4607ed0469c65b06cbcbf8c3bb425f5f50bfa8b10d18c3dd6d839"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-36-2011",
+   "path": "local/bucuresti/cgmb/2011/36",
+   "short": "HCGMB nr. 36/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 36/2011 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI STUDIULUI DE FEZABILITATE PENTRU OBIECTIVUL DE INVESTITII \"REABILITAREA SI CONSOLIDAREA CREMATORIULUI CENUSA\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28191",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28191/H036_11.pdf",
+     "sha256": "ccdcdf99fe41851a583e3f0d3953e661ad2796ff0b96abe41de82a423c477d0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-37-2011",
+   "path": "local/bucuresti/cgmb/2011/37",
+   "short": "HCGMB nr. 37/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 37/2011 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI STUDIULUI DE FEZABILITATE PENTRU OBIECTIVUL DE INVESTITII \"EXTINDERE CORP ADMINISTRATIV CIMITIR BELU\" SE MODIFICA PRIN HCGMB NR. 93/2016",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28192",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28192/H037_11.pdf",
+     "sha256": "d4df2640996d2456a77c81a1696e0e1c308d82483b373e1b8e60332bbd68c170"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-38-2011",
+   "path": "local/bucuresti/cgmb/2011/38",
+   "short": "HCGMB nr. 38/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 38/2011 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI STUDIULUI DE FEZABILITATE PENTRU OBIECTIVUL DE INVESTITII AL CENTRULUI DE CULTURA PALATELE BRAMCOVENESTI DE LA PORTILE BUCURESTIULUI DIN MOGOSOAIA - AMENAJARE, RESTAURARE ANSAMBLUL ISTORIC MOGOSOAIA - REFACERE INVELITORI LA OBIECTIVELE GHETARIE, CASA DE OASPETI - CORP C, TURN ACCES, CORP A, CORP B, RESTAURARE SI EXTINDERE ZONA CENTRALA ANEXA SE MODIFICA PRIN HCGMB NR. 15/2013 ANEXA MODIFICATA PRIN HCGMB NR. 335/2022",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28193",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28193/H038_11.pdf",
+     "sha256": "019d5bfe0f109a928373042f8ee29ad02bbc1eea19fbaaee28fd8e7650aeb3ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-39-2011",
+   "path": "local/bucuresti/cgmb/2011/39",
+   "short": "HCGMB nr. 39/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 39/2011 PRIVIND APROBAREA CONTRACTULUI DE FINANTARE NERAMBURSABILA POSDRU/96/6.2/S/60016 INTRE MINISTERUL MUNCII, FAMILIEI SI PROTECTIEI SOCIALE, DIRECTIA GENERALA AUTORITATEA DE MANAGEMENT PENTRU PROGRAMUL OPERATIONAL SECTORIAL \"DEZVOLTAREA RESURSELOR UMANE\" SI DIRECTIA GENERALA DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI IN VEDEREA IMPLEMENTARII PROIECTULUI \"ALATURI DE TINE\" - PARTENERIAT PENTRU INTEGRAREA PROFESIONALA A PERSOANELOR CARE TRAIESC CU HIV/SIDA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28194",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28194/H039_11.pdf",
+     "sha256": "91265f10d9a94706bd3850035e67988f96c6bccdab5f3926770ca1f985b8f1a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-4-2011",
+   "path": "local/bucuresti/cgmb/2011/4",
+   "short": "HCGMB nr. 4/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 4/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/27987",
+   "versions": [
+    {
+     "from": "2011-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/27987/H004_11.pdf",
+     "sha256": "6a4c04d572a9e526aceedb991e308122ac522a74464257c6f8841f6f476e09ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-40-2011",
+   "path": "local/bucuresti/cgmb/2011/40",
+   "short": "HCGMB nr. 40/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 40/2011 PRIVIND APROBAREA REDEVENTEI ANUALE PENTRU SPATIILE CU DESTINATIE DE CABINETE MEDICALE, CONCESIONATE IN CONFORMITATE CU PREVEDERILE HOTARARII GUVERNULUI ROMANIEI NR. 884/2004 ANEXA SE COMPLETEAZA PRIN HCGMB NR. 175/2011 SE COMPLETEAZA PRIN HCGMB NR. 512/2018",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28188",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28188/H040_11.pdf",
+     "sha256": "96f75a3c26df3d07b340be1eec1b3de6baf067874e6f24a24ff82a806f44997c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-41-2011",
+   "path": "local/bucuresti/cgmb/2011/41",
+   "short": "HCGMB nr. 41/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 41/2011 PRIVIND APROBAREA BUGETULUI PROPRIU AL MUNICIPIULUI BUCURESTI PE ANUL 2011 SE ABROGA PRIN HCGMB NR.62/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28187",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28187/H041_11.pdf",
+     "sha256": "472c7496b5c80f25c68a6e3b007c39a10b563cd97f96ab89e5b30c3380f8f1f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-42-2011",
+   "path": "local/bucuresti/cgmb/2011/42",
+   "short": "HCGMB nr. 42/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 42/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28195",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28195/H042_11.pdf",
+     "sha256": "d1aa57409753ee112ba6f8972544f3d48687811f48082a077d66bc7e40f097d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-43-2011",
+   "path": "local/bucuresti/cgmb/2011/43",
+   "short": "HCGMB nr. 43/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 43/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28196",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28196/H043_11.pdf",
+     "sha256": "4ad5aa5ae0fd415754e300488de4fcb465984d7a98aff43a154dd6e3483fac88"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-44-2011",
+   "path": "local/bucuresti/cgmb/2011/44",
+   "short": "HCGMB nr. 44/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 44/2011 PRIVIND ASOCIEREA MUNICIPIULUI BUCURESTI CU AGENTIA NATIONALA DE PROTECTIA MEDIULUI SI CU INSTITUTUL NATIONAL DE PROTECTIA MEDIULUI BUCURESTI IN VEDEREA DERULARII PROIECTULUI INFOENVIRON - \"CRESTEREA CAPACITATII DE CONSTIENTIZARE A CETATENILOR ASUPRA PROBLEMELOR DE MEDIU PRIN INFORMARE SI CUNOASTERE\" SE MODIFICA PRIN HCGMB NR. 146/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28197",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28197/H044_11.pdf",
+     "sha256": "bf41a1a6c3a9f1d7fad9a8c0c9cbb1a71c41d4ece36a146f5741bd910f0f4d0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-45-2011",
+   "path": "local/bucuresti/cgmb/2011/45",
+   "short": "HCGMB nr. 45/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 45/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28198",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28198/H045_11.pdf",
+     "sha256": "3bb65c29ed193b63d1a46a848a0f85770fe9e9234d6ec6d4518f5de160987842"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-46-2011",
+   "path": "local/bucuresti/cgmb/2011/46",
+   "short": "HCGMB nr. 46/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 46/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28199",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28199/H046_11.pdf",
+     "sha256": "fd9339f3a2ff8712b86f3916b107f5e0acd862f28cba6176c5bb43bdde34cbe9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-47-2011",
+   "path": "local/bucuresti/cgmb/2011/47",
+   "short": "HCGMB nr. 47/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 47/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28200",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28200/H047_11.pdf",
+     "sha256": "04514e99c220f58670953e20793310cb9d1699ca3f4c4c8fabaf2d3b06b1193c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-48-2011",
+   "path": "local/bucuresti/cgmb/2011/48",
+   "short": "HCGMB nr. 48/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 48/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL BDUL PRIMAVERII NR. 30, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28201",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28201/H048_11.pdf",
+     "sha256": "81a2ed7bfe25615e99f35021d84550fa29ccf6c52c38e2f160b55066b6c5f768"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-49-2011",
+   "path": "local/bucuresti/cgmb/2011/49",
+   "short": "HCGMB nr. 49/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 49/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28202",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28202/H049_11.pdf",
+     "sha256": "c9523aee35fcb07953046abd83313c89c510ae887da2b7e7dbb39dc20949b2bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-5-2011",
+   "path": "local/bucuresti/cgmb/2011/5",
+   "short": "HCGMB nr. 5/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 5/2011 PRIVIND APROBAREA DEMARARII PROCEDURILOR LEGALE PENTRU REALIZAREA OBIECTIVULUI DE INVESTTII \"PASAJ RUTIER SUBTERAN EROILOR\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/27988",
+   "versions": [
+    {
+     "from": "2011-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/27988/H005_11.pdf",
+     "sha256": "7167b53076a05c6d5dbfdb8b825d9fc30b89c31b2ab0664497cd7d9ace3535dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-50-2011",
+   "path": "local/bucuresti/cgmb/2011/50",
+   "short": "HCGMB nr. 50/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 50/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL BDUL PRIMAVERII NR. 55, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28203",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28203/H050_11.pdf",
+     "sha256": "24f625ab3d4336dd32789cceb3bd10138bb87a32eaf9b05fb423dd68f25fd011"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-51-2011",
+   "path": "local/bucuresti/cgmb/2011/51",
+   "short": "HCGMB nr. 51/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 51/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL STR. DR. SERGIU - STR. DRAGOSLAVELE, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28204",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28204/H051_11.pdf",
+     "sha256": "68a08a0f489a1901c385cca587720ee100ad56edd2ae56a25eb9956c0605c425"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-52-2011",
+   "path": "local/bucuresti/cgmb/2011/52",
+   "short": "HCGMB nr. 52/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 52/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28205",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28205/H052_11.pdf",
+     "sha256": "b94da73bbd2054deac37bc4b2fe83f8f26fb87156c09d7e50be56f854a4a7290"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-53-2011",
+   "path": "local/bucuresti/cgmb/2011/53",
+   "short": "HCGMB nr. 53/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 53/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28206",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28206/H053_11.pdf",
+     "sha256": "00d2e505862c90c8dc77b3bf19cbd5bf50381329fd02afea6556ba9d50711256"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-54-2011",
+   "path": "local/bucuresti/cgmb/2011/54",
+   "short": "HCGMB nr. 54/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 54/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28207",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28207/H054_11.pdf",
+     "sha256": "6dbc1c7fa2925d0486b774ff47d36087c5c32d2a5e5adb3e749f8e60f73d9c0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-55-2011",
+   "path": "local/bucuresti/cgmb/2011/55",
+   "short": "HCGMB nr. 55/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 55/2011 PRIVIND PRELUNGIREA VALABILITATII DOCUMENTATIEI DE URBANISM PUZ- PARCUL CAROL, SECTOR 4 COMPLETEAZA POZ.25 A HCGMB NR. 162/2006",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28208",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28208/H055_11.pdf",
+     "sha256": "7d4604776adb80ddfb079a1c963a2c9f1a9e808385b1ba98c06c23c7dacf7898"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-56-2011",
+   "path": "local/bucuresti/cgmb/2011/56",
+   "short": "HCGMB nr. 56/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 56/2011 PRIVIND PRELUNGIREA VALABILITATII DOCUMENTATIEI DE URBANISM PUZ - PARCUL CISMIGIU COMPLETEAZA POZ 24 A HCGMB NR. 162/2006",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28210",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28210/H056_11.pdf",
+     "sha256": "523ed9c06eae56dc58a6f7abb5981ca9890a695f3475c3a8bc245fc858494ed0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-57-2011",
+   "path": "local/bucuresti/cgmb/2011/57",
+   "short": "HCGMB nr. 57/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 57/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28211",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28211/H057_11.pdf",
+     "sha256": "9d7525e0258de95857353eba61444ef1d2f71afa771aac0c466f3e6259a9e19d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-58-2011",
+   "path": "local/bucuresti/cgmb/2011/58",
+   "short": "HCGMB nr. 58/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 58/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28212",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28212/H058_11.pdf",
+     "sha256": "b1b154c0a4ed81f395571a8ac7dee0f412b8b03a23401243c24f076c7158d8e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-59-2011",
+   "path": "local/bucuresti/cgmb/2011/59",
+   "short": "HCGMB nr. 59/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 59/2011 PRIVIND APROBAREA COMPONENTEI NOMINALE A COMISIEI DE EVALUARE A OFERTELOR SI A COMISIEI DE SOLUTIONARE A CONTESTATIILOR PRIVIND CONCESIONAREA TERENURILOR, DESTINATE CONSTRUIRII, APARTINAND DOMENIULUI PUBLIC/PRIVAT AL MUNICIPIULUI BUCURESTI ABROGA HCGMB NR. 237/2009 SE ABROGA PRIN HCGMB NR. 111/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28213",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28213/H059_11.pdf",
+     "sha256": "ee49d285465ae8df6f26dd63e3f9d00e6a6c57f9e28b76c919ec2ca90a3d33b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-6-2011",
+   "path": "local/bucuresti/cgmb/2011/6",
+   "short": "HCGMB nr. 6/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 6/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/27989",
+   "versions": [
+    {
+     "from": "2011-01-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/27989/H006_11.pdf",
+     "sha256": "75a57b87c541e323b365d1fc16960c8e2a37b72520fbb48a138943c11d756909"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-60-2011",
+   "path": "local/bucuresti/cgmb/2011/60",
+   "short": "HCGMB nr. 60/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 60/2011 PENTRU APROBAREA PLANULUI DE ANALIZA SI ACOPERIRE A RISCURILOR AL MUNICIPIULUI BUCURESTI PENTRU ANUL 2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28209",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28209/H060_11.pdf",
+     "sha256": "22ce375db6a8f4ef39602eaca98a84ba854782459d9a40f1b196781809b032bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-61-2011",
+   "path": "local/bucuresti/cgmb/2011/61",
+   "short": "HCGMB nr. 61/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 61/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28215",
+   "versions": [
+    {
+     "from": "2011-03-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28215/H061_11.pdf",
+     "sha256": "8bb8d7a4f75d6b227d57de0333e4b3eb43af02eadaf878fc2106ee09f05d0aab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-62-2011",
+   "path": "local/bucuresti/cgmb/2011/62",
+   "short": "HCGMB nr. 62/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 62/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28308",
+   "versions": [
+    {
+     "from": "2011-04-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28308/H062_11.pdf",
+     "sha256": "bb02d497dcda570a86c428f3990d42e07176000175f3299eb0bdb8e2585b8514"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-63-2011",
+   "path": "local/bucuresti/cgmb/2011/63",
+   "short": "HCGMB nr. 63/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 63/2011 PRIVIND APROBAREA ORGANIZARII REFERENDUMULUI LOCAL CU PRIVIRE LA MODIFICAREA ORGANIZARII ADMINISTRATIV-TERITORIALE SI A FUNCTIONARII AUTORITATILOR ADMINISTRATIEI PUBLICE LOCALE DIN MUNICIPIUL BUCURESTI SE MODIFICA PRIN HCGMB NR. 95/2011 SE ABROGA PRIN HCGMB NR. 112/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28309",
+   "versions": [
+    {
+     "from": "2011-04-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28309/H063_11.pdf",
+     "sha256": "9c21c92c7afd261cdfbaddca7671ad2d49c55caa1c21ada4d641af327bd5e4dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-64-2011",
+   "path": "local/bucuresti/cgmb/2011/64",
+   "short": "HCGMB nr. 64/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 64/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28310",
+   "versions": [
+    {
+     "from": "2011-04-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28310/H064_11.pdf",
+     "sha256": "0be43c3602e8efa4d0fb2e2ebfcb3d0dfd8cbe8d38dad326d5fd12dfee36117e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-65-2011",
+   "path": "local/bucuresti/cgmb/2011/65",
+   "short": "HCGMB nr. 65/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 65/2011 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA A CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI, PE PERIOADA 28.04.2011-27.07.2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28392",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28392/H065_11.pdf",
+     "sha256": "b8bd73a30ed4695bda16057dd26f54405a17d2b750f6fbe9d916eaeb20fdfb0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-66-2011",
+   "path": "local/bucuresti/cgmb/2011/66",
+   "short": "HCGMB nr. 66/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 66/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28400",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28400/H066_11.pdf",
+     "sha256": "ffc39c8f0d19c8d7b6207b0abec4df64329d7c64697c032391906359b5d3962c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-67-2011",
+   "path": "local/bucuresti/cgmb/2011/67",
+   "short": "HCGMB nr. 67/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 67/2011 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE PENTRU OBIECTIVUL DE INVESITII\"REFACEREA SI CONSOLIDAREA IN REGIM DE URGENTA A STRUCTURII DE REZISTENTA A PASAJULUI DENIVELAT SUPRATERAN BANEASA, PESTE CF BUCURESTI-CONSTANTA\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28393",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28393/H067_11.pdf",
+     "sha256": "4a79ceca971e90e5e083bda2e6bf3c242fb1b3c899d9867b785939c0555fc876"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-68-2011",
+   "path": "local/bucuresti/cgmb/2011/68",
+   "short": "HCGMB nr. 68/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 68/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28394",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28394/H068_11.pdf",
+     "sha256": "4d97306fe075abc6c3b359c5e72bc56a370703533293f1d7f7d183b482e11b3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-69-2011",
+   "path": "local/bucuresti/cgmb/2011/69",
+   "short": "HCGMB nr. 69/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 69/2011 PRIVIND APROBAREA PLANULUI DE OCUPARE A FUNCTIILOR PUBLICE DIN CADRUL DIRECTIEI GENERALE DE EVIDENTA A PERSOANELOR A MUNICIPIULUI BUCURESTI PENTRU ANUL 2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28395",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28395/H069_11.pdf",
+     "sha256": "824412b3aed9c1113b2d425a97e0d876b82bebbe3327839240c5a7e3de706046"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-7-2011",
+   "path": "local/bucuresti/cgmb/2011/7",
+   "short": "HCGMB nr. 7/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 7/2011 PRIVIND IMPUTERNICIREA PRIMARULUI GENERAL AL MUNICIPIULUI BUCURESTI SA NEGOCIEZE SI SA SEMNEZE, IN CONDITIILE LEGII, UN ACORD DE COOPERARE INTRE MUNICIPIUL BUCURESTI SI JUDETUL ILFOV, PRIN CONSILIUL JUDETEAN ILFOV, IN VEDEREA IMPLEMENTARII IN PARTENERIAT A PROIECTULUI \"PENETRATIE PRELUNGIREA GHENCEA-DOMNESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/27995",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/27995/H007_11.pdf",
+     "sha256": "899366117cbb1fc1881b083a34a469fc4b8be3e14aee533127ac493fd879f243"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-70-2011",
+   "path": "local/bucuresti/cgmb/2011/70",
+   "short": "HCGMB nr. 70/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 70/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28412",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28412/H070_11.pdf",
+     "sha256": "09c329cc1f2bbb08aba069b98cee56017297e4bea128ebf8c56b5314273debdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-71-2011",
+   "path": "local/bucuresti/cgmb/2011/71",
+   "short": "HCGMB nr. 71/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 71/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28396",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28396/H071_11.pdf",
+     "sha256": "4d6cca6f267744dd30e72b7707ec045789905edbdbef0e1621e470f5165d8f0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-72-2011",
+   "path": "local/bucuresti/cgmb/2011/72",
+   "short": "HCGMB nr. 72/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 72/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28416",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28416/H072_11.pdf",
+     "sha256": "5b4d15aea99b32a7e8f1fbb9594f5a0eedd71a628d2f3589d367b23d2c2f705c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-73-2011",
+   "path": "local/bucuresti/cgmb/2011/73",
+   "short": "HCGMB nr. 73/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 73/2011 PRIVIND REORGANIZAREA SPITALULUI CLINIC\"PROF. DR. TH. BURGHELE\" ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 567/2018",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28397",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28397/H073_11.pdf",
+     "sha256": "d3ed03e623cfb732a7ec6863f3a2bfeac0b3ab7d4e82364e4aa137a12bbaa042"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-74-2011",
+   "path": "local/bucuresti/cgmb/2011/74",
+   "short": "HCGMB nr. 74/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 74/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28417",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28417/H074_11.pdf",
+     "sha256": "477a8f6439e8f4e9273a07e938ba1341c7ec3f6e489d5fc50b091dc32775546b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-75-2011",
+   "path": "local/bucuresti/cgmb/2011/75",
+   "short": "HCGMB nr. 75/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 75/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28420",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28420/H075_11.pdf",
+     "sha256": "f23c157f7720785b20fa85bea3c1dad0f0a970605f754c32c00a593fd29b8464"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-76-2011",
+   "path": "local/bucuresti/cgmb/2011/76",
+   "short": "HCGMB nr. 76/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 76/2011 PRIVIND PARTICIPAREA MUNICIPIULUI BUCURESTI IN PROIECTUL \"DEZVOLTAREA SI DOTAREA SERVICIILOR SPECIALIZATE PENTRU INTERVENTII IN SITUATII DE URGENTA IN REGIUNEA BUCURESTI-ILFOV\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28419",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28419/H076_11.pdf",
+     "sha256": "ae40ff0061abbaa93794132ab675ab3270f52d3c7dde4bf7df029fb49460c63f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-77-2011",
+   "path": "local/bucuresti/cgmb/2011/77",
+   "short": "HCGMB nr. 77/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 77/2011 PRIVIND APROBAREA \"PLANULUI COMITETULUI MUNICIPIULUI BUCURESTI PENTRU SITUATII DE URGENTA PENTRU ASIGURAREA RESURSELOR UMANE, MATERIALE SI FINANCIARE NECESARE GESTIONARII SITUATIILOR DE URGENTA PE ANUL 2011\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28398",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28398/H077_11.pdf",
+     "sha256": "085b0ba897eb97d14395bec691ace483eb807113e973e6f4d7a802496a08b976"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-78-2011",
+   "path": "local/bucuresti/cgmb/2011/78",
+   "short": "HCGMB nr. 78/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 78/2011 PRIVIND APROBAREA TRECERII IN ADMINISTRAREA DIRECTIEI GENERALE DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI A UNOR SPATII SITUATE IN BLOC M55 DIN ANSAMBLUL DE LOCUINTE STRAPUNGEREA MARASESTI, SECTOR 3, IN VEDEREA AMENAJARII UNEI CRESE IN CADRUL PROIECTULUI POSDRU/71/6.3/S/41699 \" MAI MULTE CENTRE DE INGRIJIRE PENTRU COPILUL TAU, MAI MULTE OPORTUNITATI DE ANGAJARE PENTRU TINE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28418",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28418/H078_11.pdf",
+     "sha256": "f4a1e22842ad6ea1dd68312f200c17b692b98eb3dbbdf85014f32d4f6e729a6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-79-2011",
+   "path": "local/bucuresti/cgmb/2011/79",
+   "short": "HCGMB nr. 79/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 79/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28387",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28387/H079_11.pdf",
+     "sha256": "bf7621729984564bcfad37ab19b24c5522515874dc615cd8cb0f852ddd7bf60d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-8-2011",
+   "path": "local/bucuresti/cgmb/2011/8",
+   "short": "HCGMB nr. 8/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 8/2011 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI STUDIULUI DE FEZABILITATE PENTRU OBIECTIVUL DE INVISTITII \"ALIMENTARE CU ENERGIE ELECTRICA A CIMITIRELOR BERCENI SI DOMNESTI\" ANEXELE SE MODIFICA PRIN HCGMB NR. 212/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/27997",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/27997/H008_11.pdf",
+     "sha256": "e345d601b72c0b953e5af31efe1a777f2c915d8a15df962c47a9e3dc56650326"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-80-2011",
+   "path": "local/bucuresti/cgmb/2011/80",
+   "short": "HCGMB nr. 80/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 80/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL PARCAJ SUBTERAN PIATA ALBA IULIA, SECTOR 3",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28401",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28401/H080_11.pdf",
+     "sha256": "595d4fbbc4674749ef3b0956e5e0368294677a6017eb1a754eddf7f895dd935f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-81-2011",
+   "path": "local/bucuresti/cgmb/2011/81",
+   "short": "HCGMB nr. 81/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 81/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28402",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28402/H081_11.pdf",
+     "sha256": "6cd0242d72e46ada2f78e3f8feb0a7201dfd7a103ca4951f9c1499d2f5902e69"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-82-2011",
+   "path": "local/bucuresti/cgmb/2011/82",
+   "short": "HCGMB nr. 82/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 82/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28403",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28403/H082_11.pdf",
+     "sha256": "a3cbd464c97b295de51269f29d4d1bf25e8e57cb80eb9358ea7fa359b616d28b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-83-2011",
+   "path": "local/bucuresti/cgmb/2011/83",
+   "short": "HCGMB nr. 83/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 83/2011 PRIVIND PRELUNGIREA VALABILITATII DOCUMENTATIEI DE URBANISM \"B-DUL BASARABIA - COMPLEXUL SPORTIV NATIONAL LIA MANOLIU\" COMPLETEAZA HCGMB NR. 213/2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28414",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28414/H083_11.pdf",
+     "sha256": "4e0e0a89ab7676afc63142a829a8286ab9aa651874a8e1ad324dedf695b75f3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-84-2011",
+   "path": "local/bucuresti/cgmb/2011/84",
+   "short": "HCGMB nr. 84/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 84/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28404",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28404/H084_11.pdf",
+     "sha256": "d39a7397202637a2074ae01b61fa85cbb1b2633a9b1f06ff2e9a674ba6cb1a62"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-85-2011",
+   "path": "local/bucuresti/cgmb/2011/85",
+   "short": "HCGMB nr. 85/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 85/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28405",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28405/H085_11.pdf",
+     "sha256": "e408d54688776d331d886a018cb57b1f619e8fb74fd3aa915d65f4ea49b8e2d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-86-2011",
+   "path": "local/bucuresti/cgmb/2011/86",
+   "short": "HCGMB nr. 86/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 86/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28406",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28406/H086_11.pdf",
+     "sha256": "19ff2af4276a204e2aa1882cf2da84bef9a63d1afcfee419bbeac03ff7741513"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-87-2011",
+   "path": "local/bucuresti/cgmb/2011/87",
+   "short": "HCGMB nr. 87/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 87/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28415",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28415/H087_11.pdf",
+     "sha256": "1f72092304fa991a4dd29f4311dd2c4802bd328862830b52b7817e19a160529e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-88-2011",
+   "path": "local/bucuresti/cgmb/2011/88",
+   "short": "HCGMB nr. 88/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 88/2011 PRIVIND MODDIFICAREA PLANULUI URBANISTIC GENERAL AL MUNICIPIULUI BUCURESTI CONFORM SENTINTEI CIVILE NR. 806/CA/21.06.2010, PRONUNTATA DE TRIBUNALUL BRASOV- SECTIA COMERCIALA SI DE CONTENCIOS ADMINISTRATIV SI FISCAL MODIFICA HCGMB NR. 269/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28413",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28413/H088_11.pdf",
+     "sha256": "fc88b8d021f47407c39532c107f77c44fff7c9a62513fdd4d81c5e984690c043"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-89-2011",
+   "path": "local/bucuresti/cgmb/2011/89",
+   "short": "HCGMB nr. 89/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 89/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28407",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28407/H089_11.pdf",
+     "sha256": "82680c094b0b5f4976573fed84c690a6e04d0cb89d80a00b01d015ba903841c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-9-2011",
+   "path": "local/bucuresti/cgmb/2011/9",
+   "short": "HCGMB nr. 9/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 9/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/27998",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/27998/H009_11.pdf",
+     "sha256": "d6bbcce53b0967aca6e0567ddb91a081cc9b4b3c4eaa28bdb0652d236c4a14bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-90-2011",
+   "path": "local/bucuresti/cgmb/2011/90",
+   "short": "HCGMB nr. 90/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 90/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28408",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28408/H090_11.pdf",
+     "sha256": "e577317327d3d1d1b15ca42232fbe4b0a76a3f3064d2b37f9080615be7158a68"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-91-2011",
+   "path": "local/bucuresti/cgmb/2011/91",
+   "short": "HCGMB nr. 91/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 91/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28409",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28409/H091_11.pdf",
+     "sha256": "4be029dcdcf6e82aea59a3feb8f454ba09c821407e850df176b9a28bd5cb9763"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-92-2011",
+   "path": "local/bucuresti/cgmb/2011/92",
+   "short": "HCGMB nr. 92/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 92/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28410",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28410/H092_11.pdf",
+     "sha256": "d2b9a3747b2c1aed74467fd447db8f9d820a33a119c1181bfd6cd038e9ed235b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-93-2011",
+   "path": "local/bucuresti/cgmb/2011/93",
+   "short": "HCGMB nr. 93/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 93/2011 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL STR. DEALUL CUCULUI - STR. POSTALIONULUI, SECTOR 4",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28411",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28411/H093_11.pdf",
+     "sha256": "aecce3be7de43691a44cf7554db137137632c288d4fa63d725d5c3ce4748c1c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-94-2011",
+   "path": "local/bucuresti/cgmb/2011/94",
+   "short": "HCGMB nr. 94/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 94/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28399",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28399/H094_11.pdf",
+     "sha256": "1ad23559622f6b8a898554b83d16d226c9408df7e2fac1a042f876eac94f67f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-95-2011",
+   "path": "local/bucuresti/cgmb/2011/95",
+   "short": "HCGMB nr. 95/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 95/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28465",
+   "versions": [
+    {
+     "from": "2011-05-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28465/H095_11.pdf",
+     "sha256": "01221c251a9ad6354ba5b6e079d58baa592f564a4f05de1d4d64ec6b7a925db7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-96-2011",
+   "path": "local/bucuresti/cgmb/2011/96",
+   "short": "HCGMB nr. 96/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 96/2011 ALOCAREA A 10.000 MII LEI DIN FONDUL DE REZERVA DIN BUGETUL PROPRIU AL MUNICIPULUI BUCURESTI PE ANUL 2011 PENTRU FINANTAREA ORGANIZARII SI DESFASURARII REFERENDUMULUI PRIVIND MODIFICAREA ORGANIZARII ADMINISTRATIV-TERITORIALE SI A FUNCTIONARII AUTORITATILOR ADMINISTRATIEI PUBLICE LOCALE A MUNICIPIULUI BUCURESTI MODIFICA HCGMB NR. 62/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28466",
+   "versions": [
+    {
+     "from": "2011-05-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28466/H096_11.pdf",
+     "sha256": "eff732cf116856cff5d1d82788475f712d555f904801eedfcb1853620b172801"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-97-2011",
+   "path": "local/bucuresti/cgmb/2011/97",
+   "short": "HCGMB nr. 97/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 97/2011 PRIVIND APROBAREA UNOR MODIFICARI IN LISTELE DE INVESTITII ANEXE LA BUGETUL PROPRIU AL MUNICIPIULUI BUCURESTI PE ANUL 2011 MODIFICA HCGMB NR. 62/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28577",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28577/H097_11.pdf",
+     "sha256": "cc4a9ac46f91bca9a599749a7c68017ad85e5c55fe2fcd794faf57f5a77604b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-98-2011",
+   "path": "local/bucuresti/cgmb/2011/98",
+   "short": "HCGMB nr. 98/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 98/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28578",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28578/H098_11.pdf",
+     "sha256": "3c2893f4d60d48bdbd0117416f7bf38882cd4530380e9ac1fdf7384649b862b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-99-2011",
+   "path": "local/bucuresti/cgmb/2011/99",
+   "short": "HCGMB nr. 99/2011",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 99/2011 PRIVIND APROBAREA ADERARII MUNICIPIULUI BUCURESTI LA CONVENTIA PRIMARILOR-ANGAJAMENT VOLUNTAR AL AUTORITATILOR LOCALE IN VEDEREA DEZVOLTARII UNOR PLANURI LOCALE PENTRU PROMOVAREA EFICIENTEI ENERGETICE SI A ENERGIEI DURABILE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/28579",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2011/28579/H099_11.pdf",
+     "sha256": "7ab83a713c2bb16fa1b934e45da623dda2be4484118545f0d39540de13e6fc5d"
+    }
+   ]
+  }
+ ]
+}

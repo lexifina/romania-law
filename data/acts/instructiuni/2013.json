@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "instructiuni/2013",
+"acts": [
+{
+"slug": "instructiuni-asf-1-2013",
+"path": "instructiuni/asf/2013/1",
+"kind": "instructiuni",
+"year": "2013",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 1/2013 pentru modificarea Instrucțiunii nr. 6/2011 privind aplicarea Standardelor internaționale de raportare financiară de către entitățile autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare, aprobată prin Ordinul președintelui Comisiei Naționale a Valorilor Mobiliare nr. 116/2011",
+"short": "Instrucțiuni asf nr. 1/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-05-24",
+"latest": "2013-05-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/148373",
+"issuer": "asf",
+"joint": []
+},
+{
+"slug": "instructiuni-cnvm-1-2013",
+"path": "instructiuni/cnvm/2013/1",
+"kind": "instructiuni",
+"year": "2013",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 1/2013 de modificare și completare a Instrucțiunii nr. 2/2007 privind întocmirea și depunerea situațiilor financiare anuale de către entitățile autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare, aprobată prin Ordinul Comisiei Naționale a Valorilor Mobiliare nr. 30/2007",
+"short": "Instrucțiuni cnvm nr. 1/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-01-19",
+"latest": "2013-01-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/144789",
+"issuer": "cnvm",
+"joint": []
+}
+]
+}

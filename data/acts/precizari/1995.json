@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "precizari/1995",
+"acts": [
+{
+"slug": "precizari-finante-10474-1995",
+"path": "precizari/finante/1995/10474",
+"kind": "precizari",
+"year": "1995",
+"number": "10474",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizările nr. 10.474/1995 privind completarea Normelor comune nr. 16.805/2.812/1994 *) emise de Ministerul Finanțelor și Comisia Națională pentru Statistica",
+"short": "Precizări finante nr. 10474/1995",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1995-03-20",
+"latest": "1995-03-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/7648",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "precizari-finante-14873-1995",
+"path": "precizari/finante/1995/14873",
+"kind": "precizari",
+"year": "1995",
+"number": "14873",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizările nr. 14.873/1995 cu privire la raportarea contabila de la finele trimestrului III/1995",
+"short": "Precizări finante nr. 14873/1995",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1995-10-13",
+"latest": "1995-10-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/7652",
+"issuer": "finante",
+"joint": []
+}
+]
+}

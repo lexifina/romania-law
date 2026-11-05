@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "decizie-bec/1992",
+ "acts": [
+  {
+   "slug": "decizie-bec-locale-1992-comunicat-1992-02-09",
+   "path": "decizie-bec/locale-1992/comunicat-1992-02-09",
+   "short": "Comunicatul BEC din 1992-02-09",
+   "title": "Comunicatul Biroului Electoral Central din 1992-02-09",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/35756",
+   "versions": [
+    {
+     "from": "1992-08-10",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/35756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-1992-proces-verbal-1992-09-27-2",
+   "path": "decizie-bec/parlamentare-1992/proces-verbal-1992-09-27-2",
+   "short": "Proces verbal BEC din 1992-09-27",
+   "title": "Proces verbal Biroului Electoral Central din 1992-09-27",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/94780",
+   "versions": [
+    {
+     "from": "1992-10-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/94780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-1992-proces-verbal-1992-09-27",
+   "path": "decizie-bec/parlamentare-1992/proces-verbal-1992-09-27",
+   "short": "Proces verbal BEC din 1992-09-27",
+   "title": "Proces verbal Biroului Electoral Central din 1992-09-27",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/94779",
+   "versions": [
+    {
+     "from": "1992-10-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/94779",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

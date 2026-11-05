@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "anspdcp/2018",
+ "acts": [
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2018-2018-12-10",
+   "path": "anspdcp/comunicat-sanctiune/2018/2018-12-10",
+   "short": "Comunicat ANSPDCP din 2018-12-10",
+   "title": "Comunicat ANSPDCP din 2018-12-10: Hotărâri definitive de menținere a sancțiunilor aplicate de Autoritatea de supraveghere",
+   "url": "https://www.dataprotection.ro/?page=Hotarari_definitive_de_mentinere_a_sanctiunilor_aplicate_de_Autoritatea_de_supraveghere&lang=ro",
+   "versions": [
+    {
+     "from": "2018-12-10",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Hotarari_definitive_de_mentinere_a_sanctiunilor_aplicate_de_Autoritatea_de_supraveghere&lang=ro",
+     "sha256": "e7aba74b0a686c4d67db3f32402a778fe92f62f00307158223dfd536e2254873"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-decizie-2018-174",
+   "path": "anspdcp/decizie/2018/174",
+   "short": "Decizia ANSPDCP nr. 174/2018",
+   "title": "Decizia ANSPDCP nr. 174/2018: din 18 octombrie 2018 privind lista operațiunilor pentru care este obligatorie realizarea evaluării impactului asupra protecției datelor cu caracter personal",
+   "url": "https://www.dataprotection.ro/servlet/ViewDocument?id=1556",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/servlet/ViewDocument?id=1556",
+     "sha256": "bda138244277bab6c13e3d1acf8a4f0e43a0f5b8ce2176932ab83d265c966f32"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-decizie-2018-99",
+   "path": "anspdcp/decizie/2018/99",
+   "short": "Decizia ANSPDCP nr. 99/2018",
+   "title": "Decizia ANSPDCP nr. 99/2018: ( Formularul de notificare - Notificare prelucrarea datelor cu caracter personal ) - A fost abrogată prin Decizia nr. 99/2018",
+   "url": "https://www.dataprotection.ro/servlet/ViewDocument?id=1497",
+   "versions": [
+    {
+     "from": "2018-05-22",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/servlet/ViewDocument?id=1497",
+     "sha256": "799f80a0704d37d4ea723ce1b839ea957ce107e181ed35c1bbce43fa8d7896ca"
+    }
+   ]
+  }
+ ]
+}

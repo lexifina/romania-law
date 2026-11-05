@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-1/2020",
+ "acts": [
+  {
+   "slug": "hcls1-12-2020",
+   "path": "local/bucuresti/sector-1/2020/12",
+   "short": "HCLS1 nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 12/2020 privind aprobarea metodologiei de identificare a persoanelor și familiilor marginalizate social și/sau aflate în risc de marginalizare socială și prevenirea riscului separării copilului de familia sa, precum și modalitățile de intervenție",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7435/hcl%2012.pdf",
+     "sha256": "8888e22197d8aed38eaaf43a275cdeadbacf3e25a75ebccb63472a58fb4c08b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-143-2020",
+   "path": "local/bucuresti/sector-1/2020/143",
+   "short": "HCLS1 nr. 143/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 143/2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7686/143.2020_Anonimizat.pdf",
+     "sha256": "974388145a4f9066efb6f665c3302c1624b02d235a443fea6a6a727f6eb0b3a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-148-2020",
+   "path": "local/bucuresti/sector-1/2020/148",
+   "short": "HCLS1 nr. 148/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 148/2020 privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile de la bugetul local al Sectorului 1 al Municipiului București pentru activități culturale nonprofit de interes local",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7533/148.2020_Anonimizat.pdf",
+     "sha256": "2558d4493b9d59cd0a09a5aad2bc5de2b4363ad72da8adbc6177903431b49b4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-149-2020",
+   "path": "local/bucuresti/sector-1/2020/149",
+   "short": "HCLS1 nr. 149/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 149/2020 privind aprobarea Regulamentului privind regimul finanțărilor nerambursabile de la bugetul local al Sectorului 1 al Municipiului București pentru activităţi sportive nonprofit de interes local",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7655/149.2020_Anonimizat.pdf",
+     "sha256": "b7303c30e92a202cb806120ad096c53bf3acc7a6668d27202c4a85544561bb02"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-216-2020",
+   "path": "local/bucuresti/sector-1/2020/216",
+   "short": "HCLS1 nr. 216/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 216/2020 privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 12/28.01.2020 privind aprobarea Metodologiei de identificare a persoanelor și familiilor marginalizate social și/sau aflate în risc de marginalizare socială și prevenirea riscului separării copilului de familia sa, precum și modalitățile de intervenție",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/10437/216.2020_Anonimizat.pdf",
+     "sha256": "b393b5d4a83ced94f40c6f50dc764912589ba35744d522d58b81f6f8133685c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-217-2020",
+   "path": "local/bucuresti/sector-1/2020/217",
+   "short": "HCLS1 nr. 217/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 217/2020 privind aprobarea Procedurii de acordare a unor facilități fiscale",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-226-2020",
+   "path": "local/bucuresti/sector-1/2020/226",
+   "short": "HCLS1 nr. 226/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 226/2020 privind aprobarea Metodologiei de aplicare a Legii nr.35/2020 privind acordarea unui ajutor financiar familiilor pentru plata serviciilor oferite de bonă familiilor cu domiciliul sau reședința pe raza Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7716/HCL%20226.pdf",
+     "sha256": "5028d172ae60381c288c8441156dd1161598e1e45711c88aab52843f0e12b363"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-262-2020",
+   "path": "local/bucuresti/sector-1/2020/262",
+   "short": "HCLS1 nr. 262/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 262/2020 privind probarea Regulamentului Intern al aparatului de specialitate al Primarului Sectorului 1 și al Direcției Publice de Evidență a Persoanelor și Stare Civilă Sector 1, fără personalitate juridică, din subordinea Consiliului Local al Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/11954/262.2020%20ANONIMIZAT.pdf",
+     "sha256": "e1896980b5f6196ba1ead99457f55ac1fe3c0cab59b73b227fb032864068940e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-38-2020",
+   "path": "local/bucuresti/sector-1/2020/38",
+   "short": "HCLS1 nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 38/2020 privind modificarea Anexei nr 1 la Hotărârea Consiliului Local Sector 1 nr. 123/22.04.2019 privind stabilirea, începând cu data de 1 aprilie 2019, a salariilor de bază ale personalului contractual și funcționarilor publici din cadrul familiei ocupaţionale \"Administraţie\" de la nivelul Direcţiei Generale de Impozite şi Taxe Locale a Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2020",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7514/38.2020%20Anonimizata.pdf",
+     "sha256": "999668dd56adf4e65e938dd611263af7889e872297fcb47dd276491e1af44265"
+    }
+   ]
+  }
+ ]
+}

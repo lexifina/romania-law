@@ -1,0 +1,381 @@
+{
+ "country": "RO",
+ "shard": "norma/2019",
+ "acts": [
+  {
+   "slug": "norma-asf-1-2019",
+   "path": "norma/asf/2019/1",
+   "short": "Norma asf nr. 1/2019",
+   "title": "Norma nr. 1/2019 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 4/2018 privind gestionarea riscurilor operaționale generate de sistemele informatice utilizate de entitățile autorizate/avizate/înregistrate, reglementate și/sau supravegheate de către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/210439",
+   "versions": [
+    {
+     "from": "2019-01-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/210439",
+     "sha256": "cf1b8050de69a6c5de41254274c026c9a435e614406bb1f3943c7683591c25bf"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-10-2019",
+   "path": "norma/asf/2019/10",
+   "short": "Norma asf nr. 10/2019",
+   "title": "Norma nr. 10/2019 pentru modificarea pct. 18 din anexa la Norma Autorității de Supraveghere Financiară nr. 7/2019 privind încheierea exercițiului financiar 2018 pentru entitățile din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213322",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213322",
+     "sha256": "15dae12666208123892684b5c29012219932da9aa9ae6179f6536df6c5691a21"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-11-2019",
+   "path": "norma/asf/2019/11",
+   "short": "Norma asf nr. 11/2019",
+   "title": "Norma nr. 11/2019 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 24/2015 privind obligațiile de raportare și transparență în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213983",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213983",
+     "sha256": "48281d09a93b76aba47f43d2338ec853f2496b3859f0c3ae2674217c47a51d73"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-12-2019",
+   "path": "norma/asf/2019/12",
+   "short": "Norma asf nr. 12/2019",
+   "title": "Norma nr. 12/2019 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 25/2015 privind obligațiile de raportare și transparență în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213871",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213871",
+     "sha256": "13938f81c4c385e8933375fff31aa6c6f8c2b0292710998193f09161e33f0194"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-13-2019",
+   "path": "norma/asf/2019/13",
+   "short": "Norma asf nr. 13/2019",
+   "title": "Norma nr. 13/2019 privind cadrul unitar de desfășurare a auditului statutar la entitățile autorizate, reglementate și supravegheate de către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214074",
+   "versions": [
+    {
+     "from": "2019-05-21",
+     "units": 59,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214074",
+     "sha256": "007b9a8ff1cec1b2975349a8c26c4838a9b9bd5de2b578685c5c82f9a8526d38"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-14-2019",
+   "path": "norma/asf/2019/14",
+   "short": "Norma asf nr. 14/2019",
+   "title": "Norma nr. 14/2019 pentru aplicarea Ghidului ESMA referitor la gestionarea conflictelor de interese ale contrapărților centrale și a Ghidului ESMA privind măsurile EMIR de marjă antiprociclicitate pentru contrapărțile centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215525",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215525",
+     "sha256": "7e199aafc70515b386dffe3590f6003a2e79bd5c6fb25dfd368a16504401933c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-15-2019",
+   "path": "norma/asf/2019/15",
+   "short": "Norma asf nr. 15/2019",
+   "title": "Norma nr. 15/2019 pentru aplicarea Ghidului ESMA privind raportările referitoare la decontarea internalizată conform art. 9 din Regulamentul privind depozitarii centrali de titluri de valoare (CSDR)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215385",
+   "versions": [
+    {
+     "from": "2019-06-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215385",
+     "sha256": "b6f8b18ba907d3775fd3654a2a1eb11e06fa7390c183691dee70b468f4a0be5e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-16-2019",
+   "path": "norma/asf/2019/16",
+   "short": "Norma asf nr. 16/2019",
+   "title": "Norma nr. 16/2019 pentru modificarea alin. (3) al art. 11 din Norma Autorității de Supraveghere Financiară nr. 20/2018 privind pregătirea profesională a persoanelor implicate în activitatea de distribuție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215514",
+   "versions": [
+    {
+     "from": "2019-06-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215514",
+     "sha256": "f59c3508a56265751db84ab87b395a93a415d0bc6095b759f359c0360e2a156a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-17-2019",
+   "path": "norma/asf/2019/17",
+   "short": "Norma asf nr. 17/2019",
+   "title": "Norma nr. 17/2019 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 34/2016 privind sistemul de raportare contabilă semestrială în domeniul pensiilor private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/215641",
+   "versions": [
+    {
+     "from": "2019-07-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/215641",
+     "sha256": "9fd4396057a908cc4cbf2a47db8a2a57db151d101cacad6cf1ec2f3afca64963"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-19-2019",
+   "path": "norma/asf/2019/19",
+   "short": "Norma asf nr. 19/2019",
+   "title": "Norma nr. 19/2019 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 11/2015 privind capitalul social al administratorului fondului de pensii administrat privat și pentru modificarea Normei nr. 8/2010 privind autorizarea administratorilor de fonduri de pensii private, preluarea administrării fondurilor de pensii facultative și organizarea activelor și pasivelor la nivelul administratorilor de fonduri de pensii private, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 15/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216672",
+   "versions": [
+    {
+     "from": "2019-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216672",
+     "sha256": "c877c287973f5ece8526ef4b2f6c60c886ae9a54aa8703fb283f25b5eae6161f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-2-2019",
+   "path": "norma/asf/2019/2",
+   "short": "Norma asf nr. 2/2019",
+   "title": "Norma nr. 2/2019 privind modificarea și completarea anexei nr. 1 la Norma Autorității de Supraveghere Financiară nr. 39/2015 pentru aprobarea Reglementărilor contabile conforme cu Standardele internaționale de raportare financiară, aplicabile entităților autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară din Sectorul instrumentelor și investițiilor financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211027",
+   "versions": [
+    {
+     "from": "2019-02-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211027",
+     "sha256": "a67deca91f1044173cbd9abb86abb6630be2e867d48206e2ce0048b5a44dd0e5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-20-2019",
+   "path": "norma/asf/2019/20",
+   "short": "Norma asf nr. 20/2019",
+   "title": "Norma nr. 20/2019 pentru punerea în aplicare a Sistemului de raportare contabilă la 30 iunie 2019 a entităților din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216770",
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216770",
+     "sha256": "4299a5bf8b9e311938af06dfa039d71057dbcfa5a21fae1a03ef5e1ea4b79b3d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-21-2019",
+   "path": "norma/asf/2019/21",
+   "short": "Norma asf nr. 21/2019",
+   "title": "Norma nr. 21/2019 privind aplicarea Ghidului ESMA cu privire la indicii de referință nesemnificativi din Regulamentul privind indicii de referință",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216873",
+   "versions": [
+    {
+     "from": "2019-08-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216873",
+     "sha256": "8927d5de846ad7348a4650830ff59f62addefee721ce5d8a54a691824501c145"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-22-2019",
+   "path": "norma/asf/2019/22",
+   "short": "Norma asf nr. 22/2019",
+   "title": "Norma nr. 22/2019 pentru modificarea și completarea Normei nr. 11/2011 privind investirea și evaluarea activelor fondurilor de pensii private, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 22/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218634",
+   "versions": [
+    {
+     "from": "2020-02-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218634",
+     "sha256": "f5eaef142d33e5cd57e6ac659f800d7e8e65560b15929904d44dc89827581ff5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-23-2019",
+   "path": "norma/asf/2019/23",
+   "short": "Norma asf nr. 23/2019",
+   "title": "Norma nr. 23/2019 privind aplicarea Ghidului ESMA pentru aplicarea secțiunilor C punctul 6 și C punctul 7 din anexa 1 la MiFID II",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219030",
+   "versions": [
+    {
+     "from": "2019-10-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219030",
+     "sha256": "84a582e0735445ee098f047b8bb5f4c3c8dda2ea890fe0b68017a564fc284a47"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-24-2019",
+   "path": "norma/asf/2019/24",
+   "short": "Norma asf nr. 24/2019",
+   "title": "Norma nr. 24/2019 privind Fondul de garantare a asiguraților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/218932",
+   "versions": [
+    {
+     "from": "2019-10-16",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/218932",
+     "sha256": "9f0dbf51ab54fe2d83f21204221250f39d6b133ad57915157ce8462cff2a90eb"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-25-2019",
+   "path": "norma/asf/2019/25",
+   "short": "Norma asf nr. 25/2019",
+   "title": "Norma nr. 25/2019 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 24/2015 privind obligațiile de raportare și transparență în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219856",
+   "versions": [
+    {
+     "from": "2020-02-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219856",
+     "sha256": "fe1e99aa302faa7e5b498c35069ae5fe15450ad6c24e14797a5b1d0b3c3a1a40"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-26-2019",
+   "path": "norma/asf/2019/26",
+   "short": "Norma asf nr. 26/2019",
+   "title": "Norma nr. 26/2019 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 25/2015 privind obligațiile de raportare și transparență în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/219844",
+   "versions": [
+    {
+     "from": "2020-02-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/219844",
+     "sha256": "e407880f0074cfaa0769631538824f750829b5a167fbe4cf04b53e97cd17d1fd"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-27-2019",
+   "path": "norma/asf/2019/27",
+   "short": "Norma asf nr. 27/2019",
+   "title": "Norma nr. 27/2019 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 13/2019 privind cadrul unitar de desfășurare a auditului statutar la entitățile autorizate, reglementate și supravegheate de către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220712",
+   "versions": [
+    {
+     "from": "2019-12-06",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220712",
+     "sha256": "730111538a383071760ea9292b9469f8afa011bf5e327e04972dbb95624250cf"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-28-2019",
+   "path": "norma/asf/2019/28",
+   "short": "Norma asf nr. 28/2019",
+   "title": "Norma nr. 28/2019 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 19/2018 privind distribuția de asigurări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221367",
+   "versions": [
+    {
+     "from": "2019-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221367",
+     "sha256": "8c67b9ac68a1a7c7debc7a55b8132380f54dea15c9ee8aa464b139d36abe4c64"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-29-2019",
+   "path": "norma/asf/2019/29",
+   "short": "Norma asf nr. 29/2019",
+   "title": "Norma nr. 29/2019 pentru aplicarea Ghidului ESMA cu privire la factorii de risc în temeiul Regulamentului privind prospectul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/221966",
+   "versions": [
+    {
+     "from": "2020-01-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/221966",
+     "sha256": "9025b1fefe1660e45c818edec9314e8e8f809853848e67811544eb4ed0e16421"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-4-2019",
+   "path": "norma/asf/2019/4",
+   "short": "Norma asf nr. 4/2019",
+   "title": "Norma nr. 4/2019 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 1/2015 privind aderarea și evidența participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211781",
+   "versions": [
+    {
+     "from": "2019-03-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211781",
+     "sha256": "edd7a24b2fe51cd4b4184fc5fc304541169e308efbe0389bd8942635e5087f57"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-6-2019",
+   "path": "norma/asf/2019/6",
+   "short": "Norma asf nr. 6/2019",
+   "title": "Norma nr. 6/2019 privind modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 41/2015 pentru aprobarea Reglementărilor contabile privind situațiile financiare anuale individuale și situațiile financiare anuale consolidate ale entităților care desfășoară activitate de asigurare și/sau reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212338",
+   "versions": [
+    {
+     "from": "2019-04-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212338",
+     "sha256": "f98e00d5beb02e57a16a95f4481446f58d7e7d9296d7c4d73f4fe7b6d8a3c269"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-7-2019",
+   "path": "norma/asf/2019/7",
+   "short": "Norma asf nr. 7/2019",
+   "title": "Norma nr. 7/2019 privind încheierea exercițiului financiar 2018 pentru entitățile din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/211992",
+   "versions": [
+    {
+     "from": "2019-03-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/211992",
+     "sha256": "b1d68f28c891d557580ba87c241f20cf6fd7e12897b03f494d5f1c904faf1131"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-9-2019",
+   "path": "norma/asf/2019/9",
+   "short": "Norma asf nr. 9/2019",
+   "title": "Norma nr. 9/2019 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 7/2017 privind întocmirea și depunerea situațiilor financiare anuale individuale ale entităților din sistemul de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/213280",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/213280",
+     "sha256": "696d5553d973c53be138e02c4860814b0b495963ce6070d739b6af75cd623b71"
+    }
+   ]
+  }
+ ]
+}

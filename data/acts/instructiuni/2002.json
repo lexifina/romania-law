@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "instructiuni/2002",
+"acts": [
+{
+"slug": "instructiuni-finante-20239-2002",
+"path": "instructiuni/finante/2002/20239",
+"kind": "instructiuni",
+"year": "2002",
+"number": "20239",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 20.239/2002 privind decontarea cartelelor magnetice de călătorie gratuita cu metroul, emise în baza prevederilor Legii nr. 42/1990 pentru cinstirea eroilor-martiri și acordarea unor drepturi urmașilor acestora, răniților, precum și luptătorilor pentru victoria Revoluției din decembrie 1989, republicată, cu modificările și completările ulterioare",
+"short": "Instrucțiuni finante nr. 20239/2002",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2002-07-30",
+"latest": "2002-07-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/37716",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "instructiuni-finante-20240-2002",
+"path": "instructiuni/finante/2002/20240",
+"kind": "instructiuni",
+"year": "2002",
+"number": "20240",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 20.240/2002 pentru decontarea cartelelor magnetice de călătorie gratuita cu metroul, emise în baza prevederilor Legii nr. 44/1994 privind veteranii de război, precum și unele drepturi ale invalizilor și văduvelor de război, cu modificările și completările ulterioare",
+"short": "Instrucțiuni finante nr. 20240/2002",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2002-07-30",
+"latest": "2002-07-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/37715",
+"issuer": "finante",
+"joint": []
+}
+]
+}

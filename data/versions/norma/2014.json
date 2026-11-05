@@ -1,0 +1,381 @@
+{
+ "country": "RO",
+ "shard": "norma/2014",
+ "acts": [
+  {
+   "slug": "norma-asf-10-2014",
+   "path": "norma/asf/2014/10",
+   "short": "Norma asf nr. 10/2014",
+   "title": "Norma nr. 10/2014 privind activitatea de depozitare și custodie a activelor fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158143",
+   "versions": [
+    {
+     "from": "2014-08-11",
+     "units": 67,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158143",
+     "sha256": "788c3ab4555d9d22c5c1dfad58b0debb1ee79b8a81863cc043e25854ba230712"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-11-2014",
+   "path": "norma/asf/2014/11",
+   "short": "Norma asf nr. 11/2014",
+   "title": "Norma nr. 11/2014 privind activitatea de depozitare și custodie a activelor fondurilor de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158395",
+   "versions": [
+    {
+     "from": "2014-08-19",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158395",
+     "sha256": "a14e9c450f000e7b4fc57c0a23824a17eb898d0e75917ab01c5d94a3207470c9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-12-2014",
+   "path": "norma/asf/2014/12",
+   "short": "Norma asf nr. 12/2014",
+   "title": "Norma nr. 12/2014 pentru completarea art. 14 din Norma nr. 12/2009 privind transferul participanților între fondurile de pensii administrate privat, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 16/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159079",
+   "versions": [
+    {
+     "from": "2014-06-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159079",
+     "sha256": "5534d926987cc47b90d906cbebcd793f727beed29e336e82e9e11f55b6a5792d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-13-2014",
+   "path": "norma/asf/2014/13",
+   "short": "Norma asf nr. 13/2014",
+   "title": "Norma nr. 13/2014 pentru abrogarea alin. (2) al art. 33 din Norma nr. 8/2010 privind autorizarea administratorilor de fonduri de pensii private, preluarea administrării fondurilor de pensii facultative și organizarea activelor și pasivelor la nivelul administratorilor de fonduri de pensii private, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 15/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159363",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159363",
+     "sha256": "ba8bd53795b8f2d09d8e0fae8e09b9dcfb80c32e6108b2adf966fdde8f725ab8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-14-2014",
+   "path": "norma/asf/2014/14",
+   "short": "Norma asf nr. 14/2014",
+   "title": "Norma nr. 14/2014 pentru modificarea Normei nr. 8/2007 privind informațiile conținute în materiale publicitare referitoare la fondurile de pensii administrate privat și administratorii acestora, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 27/2007, și a art. 71 alin. (7) din Norma nr. 3/2013 privind activitatea de marketing a fondului de pensii administrat privat, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 5/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159364",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159364",
+     "sha256": "3537a3c659f59b40136477e17599255485ba24ba9a511575d6f669bc57cc778f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-15-2014",
+   "path": "norma/asf/2014/15",
+   "short": "Norma asf nr. 15/2014",
+   "title": "Norma nr. 15/2014 pentru modificarea și completarea Normei nr. 5/2006 privind informațiile conținute în materiale publicitare referitoare la fondurile de pensii facultative și administratorii acestora, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 17/2006, și a art. 71 alin. (7) din Norma nr. 16/2013 privind activitatea de marketing al fondului de pensii facultative, aprobată prin Hotărârea Autorității de Supraveghere Financiară nr. 64/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159365",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159365",
+     "sha256": "7a001e534851e8f7d7984fe1e1336f49ee370a9360064b935235645c7536d6c8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-16-2014",
+   "path": "norma/asf/2014/16",
+   "short": "Norma asf nr. 16/2014",
+   "title": "Norma nr. 16/2014 pentru modificarea și completarea Normei nr. 2/2011 privind aderarea și evidența participanților la fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159848",
+   "versions": [
+    {
+     "from": "2014-07-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159848",
+     "sha256": "65ad2760e7192c9756b0cb918ef082ec9a65c8ef8e65c6508a05f9b79a25e8b3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-17-2014",
+   "path": "norma/asf/2014/17",
+   "short": "Norma asf nr. 17/2014",
+   "title": "Norma nr. 17/2014 pentru modificarea Normei nr. 16/2010 privind prospectul schemei de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159836",
+   "versions": [
+    {
+     "from": "2014-07-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159836",
+     "sha256": "bcfc23eda6acd975c50bf0e4c0c37b52b491c51ff37645bb1d38f71e2b352643"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-18-2014",
+   "path": "norma/asf/2014/18",
+   "short": "Norma asf nr. 18/2014",
+   "title": "Norma nr. 18/2014 pentru punerea în aplicare a Sistemului de raportare contabilă la 30 iunie 2014 a societăților din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160295",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160295",
+     "sha256": "faea90c7ddd8c979b0b51b87d06bc15fc9fd5a6a39ef7661b60b2e4537289998"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-19-2014",
+   "path": "norma/asf/2014/19",
+   "short": "Norma asf nr. 19/2014",
+   "title": "Norma nr. 19/2014 pentru modificarea Normelor privind forma și conținutul raportărilor financiare și tehnice pe care trebuie să le întocmească brokerii de asigurare și/sau reasigurare, puse în aplicare prin Ordinul președintelui Comisiei de Supraveghere a Asigurărilor nr. 3/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161534",
+   "versions": [
+    {
+     "from": "2014-09-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161534",
+     "sha256": "782e346d2d78a1938a7c7c41648133bac09878f9c8134132c329122a2dd703c3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-2-2014",
+   "path": "norma/asf/2014/2",
+   "short": "Norma asf nr. 2/2014",
+   "title": "Norma nr. 2/2014 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 13/2013 referitoare la procedura intermediară privind distribuția către investitorii profesionali din România a titlurilor de participare emise de fondurile de investiții alternative administrate în alte state membre ale Uniunii Europene, precum și administrarea de către un administrator de fonduri de investiții alternative dintr-un stat membru a unui alt organism de plasament colectiv în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156592",
+   "versions": [
+    {
+     "from": "2014-03-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156592",
+     "sha256": "a8cc415992e644539f85cfa8df781086730758db4929d1c63e48307d954a0aab"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-21-2014",
+   "path": "norma/asf/2014/21",
+   "short": "Norma asf nr. 21/2014",
+   "title": "Norma nr. 21/2014 privind activitatea de audit financiar la entitățile autorizate, reglementate și supravegheate de către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162688",
+   "versions": [
+    {
+     "from": "2014-11-04",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162688",
+     "sha256": "cbba5fabae3086b30ef030c33d627464815d293b77ba67fd504cae7d1aaf4823"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-22-2014",
+   "path": "norma/asf/2014/22",
+   "short": "Norma asf nr. 22/2014",
+   "title": "Norma nr. 22/2014 pentru modificarea și completarea unor acte normative privind activele admise să acopere rezervele tehnice brute ale asigurătorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162898",
+   "versions": [
+    {
+     "from": "2014-11-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162898",
+     "sha256": "c5b155407599cfffcacae7511dcd2b67cccf5834f6ff0a2c08a1dc342cf52ee8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-23-2014",
+   "path": "norma/asf/2014/23",
+   "short": "Norma asf nr. 23/2014",
+   "title": "Norma nr. 23/2014 privind asigurarea obligatorie de răspundere civilă pentru prejudicii produse prin accidente de vehicule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162929",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 77,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162929",
+     "sha256": "734ca5d8ed9297d3c2f8dfeedeb7d79392b10f6198b6c1d072818a2a48f12c69"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-24-2014",
+   "path": "norma/asf/2014/24",
+   "short": "Norma asf nr. 24/2014",
+   "title": "Norma nr. 24/2014 privind procedura de soluționare a petițiilor referitoare la activitatea asigurătorilor și brokerilor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162923",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162923",
+     "sha256": "b01f4d7a2842e388540cb1f611f9200d3cc7cba45ee783c2f6daaef372d08156"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-25-2014",
+   "path": "norma/asf/2014/25",
+   "short": "Norma asf nr. 25/2014",
+   "title": "Norma nr. 25/2014 pentru modificarea Normelor privind principiile de organizare a unui sistem de control intern și management al riscurilor, precum și organizarea și desfășurarea activității de audit intern la asigurători/reasigurători, aprobate prin Ordinul președintelui Comisiei de Supraveghere a Asigurărilor nr. 18/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162998",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162998",
+     "sha256": "d195b51dfe4b90114693382dff697d016ab2cbd460749aea720490f175910de6"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-26-2014",
+   "path": "norma/asf/2014/26",
+   "short": "Norma asf nr. 26/2014",
+   "title": "Norma nr. 26/2014 privind transferul participanților între fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164143",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164143",
+     "sha256": "eaeca934c05f69a64b1dc1b69a27b170eeecfc1b387f2015468e1ef5939fbbd0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-27-2014",
+   "path": "norma/asf/2014/27",
+   "short": "Norma asf nr. 27/2014",
+   "title": "Norma nr. 27/2014 pentru modificarea Normelor privind condițiile și modalitățile de comunicare electronică a unor informații referitoare la contracte de asigurare, puse în aplicare prin Ordinul președintelui Comisiei de Supraveghere a Asigurărilor nr. 10/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164293",
+   "versions": [
+    {
+     "from": "2014-12-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164293",
+     "sha256": "d7484bb94198af7839f507ac1d6317394e3e3efefec1f31d0af717b7b59f83ba"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-3-2014",
+   "path": "norma/asf/2014/3",
+   "short": "Norma asf nr. 3/2014",
+   "title": "Norma nr. 3/2014 privind controlul intern, auditul intern și administrarea riscurilor în sistemul de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157279",
+   "versions": [
+    {
+     "from": "2014-04-09",
+     "units": 50,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157279",
+     "sha256": "0e95639922cdcd98866522df9668107e654aa79730170acd3ccdea93f241ba3d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-4-2014",
+   "path": "norma/asf/2014/4",
+   "short": "Norma asf nr. 4/2014",
+   "title": "Norma nr. 4/2014 pentru implementarea Ghidului ESMA cu privire la politicile și practicile de remunerare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157331",
+   "versions": [
+    {
+     "from": "2014-04-11",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157331",
+     "sha256": "8949d7e409642efdd622a6d30351e37b81462f1d06102bcbb278b0a7f26297c9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-5-2014",
+   "path": "norma/asf/2014/5",
+   "short": "Norma asf nr. 5/2014",
+   "title": "Norma nr. 5/2014 pentru completarea unor acte normative privind calculul marjei de solvabilitate de care dispune asigurătorul/reasigurătorul, al marjei de solvabilitate minime și al fondului de siguranță",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157471",
+   "versions": [
+    {
+     "from": "2014-04-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157471",
+     "sha256": "c849bb35588b04fb45d0f67d86fd34d840b3a0c25bca4319a30ef7df01c7bc7a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-6-2014",
+   "path": "norma/asf/2014/6",
+   "short": "Norma asf nr. 6/2014",
+   "title": "Norma nr. 6/2014 privind aplicarea Ghidurilor și recomandărilor ESMA privind acordurile scrise între membrii colegiilor pentru contrapărți centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157587",
+   "versions": [
+    {
+     "from": "2014-04-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157587",
+     "sha256": "3e7bc1aa574ba9c91d49a1a20591abd9f330df27c35830cecb693ea45f311cb2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-8-2014",
+   "path": "norma/asf/2014/8",
+   "short": "Norma asf nr. 8/2014",
+   "title": "Norma nr. 8/2014 pentru modificarea și completarea Normei nr. 8/2006 privind auditorul financiar pentru fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157688",
+   "versions": [
+    {
+     "from": "2014-04-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157688",
+     "sha256": "4c49c3665e2a7372cff4e070a4fa5a112764250af14622359b475cd61f2755dd"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-9-2014",
+   "path": "norma/asf/2014/9",
+   "short": "Norma asf nr. 9/2014",
+   "title": "Norma nr. 9/2014 privind organizarea activității de arhivă la asigurători/reasigurători și intermediari în asigurări și/sau în reasigurări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/158045",
+   "versions": [
+    {
+     "from": "2014-05-09",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/158045",
+     "sha256": "61f1536a55d128efaefad7cbdf602277c631ba7883caf0f836d9e3a1bb848c3e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-1-2014",
+   "path": "norma/bnr/2014/1",
+   "short": "Norma bnr nr. 1/2014",
+   "title": "Norma nr. 1/2014 pentru modificarea și completarea Normelor Băncii Naționale a României nr. 2/2012 în aplicarea Regulamentului Băncii Naționale a României nr. 11/2012 privind piața primară a titlurilor de stat administrată de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155758",
+   "versions": [
+    {
+     "from": "2014-03-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155758",
+     "sha256": "1c6ebbb083992821647301d9d1d95b8fd19de7d4f6f9a7551ef35fac00982e91"
+    }
+   ]
+  }
+ ]
+}

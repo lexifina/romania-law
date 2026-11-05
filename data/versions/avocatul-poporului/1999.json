@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "avocatul-poporului/1999",
+ "acts": [
+  {
+   "slug": "avocatul-poporului-regulament-regulament-1999-08-19-1999",
+   "path": "avocatul-poporului/regulament/1999/regulament-1999-08-19",
+   "short": "Regulamentul Avocatul Poporului din 1999-08-19",
+   "title": "REGULAMENT din 1999 de organizare şi funcţionare a instituţiei Avocatul Poporului",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/19024",
+   "versions": [
+    {
+     "from": "1999-08-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/19024",
+     "sha256": "e714a5ec07898ab4c49772ab1e0b2eb1c01d172a404852286de409b3d4295b2b"
+    }
+   ]
+  }
+ ]
+}

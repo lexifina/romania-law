@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "curtea-de-conturi/2018",
+ "acts": [
+  {
+   "slug": "curtea-de-conturi-hotarare-plen-28-2018",
+   "path": "curtea-de-conturi/hotarare-plen/2018/28",
+   "short": "Hotărârea Curtea de Conturi nr. 28/2018",
+   "title": "HOTĂRÂRE nr. 28 din 23 ianuarie 2018 privind modificarea şi completarea Hotărârii Plenului Curţii de Conturi nr. 87/2009 privind aprobarea criteriilor de majorare a salariilor pentru personalul din cadrul Autorităţii de Audit, conform prevederilor Legii nr. 490/2004 privind stimularea financiară a personalului care gestionează fonduri comunitare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/197235",
+   "versions": [
+    {
+     "from": "2018-01-31",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/197235",
+     "sha256": "dc4f14e88de91f4fe9dd53f18826713fda71c243e7bac79bdad9505be2cc1519"
+    }
+   ]
+  }
+ ]
+}

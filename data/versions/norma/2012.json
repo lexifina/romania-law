@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "norma/2012",
+ "acts": [
+  {
+   "slug": "norma-bnr-1-2012",
+   "path": "norma/bnr/2012/1",
+   "short": "Norma bnr nr. 1/2012",
+   "title": "Norma nr. 1/2012 pentru modificarea art. 11 din Normele Băncii Naționale a României nr. 5/2003 privind condițiile specifice de funcționare a caselor de economii pentru domeniul locativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138943",
+   "versions": [
+    {
+     "from": "2012-06-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138943",
+     "sha256": "4f7be1b3b2402176783bc6a5269c2886424540f02abd16d7dda541315169ab17"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-2-2012",
+   "path": "norma/bnr/2012/2",
+   "short": "Norma bnr nr. 2/2012",
+   "title": "Norma nr. 2/2012 în aplicarea Regulamentului Băncii Naționale a României nr. 11/2012 privind piața primară a titlurilor de stat administrată de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143004",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143004",
+     "sha256": "b1f6496951cef7766a92d74c91f0aa8ff0f1957b243c9c97351a1819b40fdd1c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-10-2012",
+   "path": "norma/csspp/2012/10",
+   "short": "Norma csspp nr. 10/2012",
+   "title": "Norma nr. 10/2012 pentru modificarea și completarea Normei nr. 10/2010 privind obligațiile de raportare și transparență în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137678",
+   "versions": [
+    {
+     "from": "2012-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137678",
+     "sha256": "2ae731e10f34a2e0a28c94659c5571c3132525f0fd3cf313893b663ffa934381"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-11-2012",
+   "path": "norma/csspp/2012/11",
+   "short": "Norma csspp nr. 11/2012",
+   "title": "Norma nr. 11/2012 NORMĂ nr. 11/2012 pentru modificarea și completarea Normei nr. 11/2010 privind obligațiile de raportare și transparență în sistemul pensiilor facultative.",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137643",
+   "versions": [
+    {
+     "from": "2012-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137643",
+     "sha256": "04af5b79c74fbc851aea638e42210e7542d10b65622c00fa56105bc37f200310"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-13-2012",
+   "path": "norma/csspp/2012/13",
+   "short": "Norma csspp nr. 13/2012",
+   "title": "Norma nr. 13/2012 privind calculul actuarial al provizionului tehnic pentru fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141533",
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141533",
+     "sha256": "0205f9b885e479952db126cda3bd3e384a1565b9d6e45b03fefd53be5b8f7284"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-14-2012",
+   "path": "norma/csspp/2012/14",
+   "short": "Norma csspp nr. 14/2012",
+   "title": "Norma nr. 14/2012 pentru modificarea Normei nr. 7/2008 privind taxele de autorizare, avizare și funcționare în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141397",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141397",
+     "sha256": "25a5da5a31469c9efc31e6e5aa7844929ecc396ae6ef6a196c44a14d5a90d99a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-15-2012",
+   "path": "norma/csspp/2012/15",
+   "short": "Norma csspp nr. 15/2012",
+   "title": "Norma nr. 15/2012 pentru modificarea Normei nr. 8/2008 privind taxele de autorizare, avizare și administrare în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141400",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141400",
+     "sha256": "0c9bdecb5a633c9345ee149ecca84d572ca858dd0f874d1f8b6557e08cbdc66c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-18-2012",
+   "path": "norma/csspp/2012/18",
+   "short": "Norma csspp nr. 18/2012",
+   "title": "Norma nr. 18/2012 privind obligațiile de raportare și transparență ale Fondului de garantare a drepturilor din sistemul de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144191",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144191",
+     "sha256": "3e1c5406b138ac657185d624a7501a4621930347ce7d797e469ead6c191beb65"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-19-2012",
+   "path": "norma/csspp/2012/19",
+   "short": "Norma csspp nr. 19/2012",
+   "title": "Norma nr. 19/2012 pentru modificarea și completarea Normei nr. 11/2011 privind investirea și evaluarea activelor fondurilor de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144276",
+   "versions": [
+    {
+     "from": "2013-01-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144276",
+     "sha256": "3d51e7679b5a5ff57c6324f654e7c2a7175443162f0f7750ff49fe78997c902e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-6-2012",
+   "path": "norma/csspp/2012/6",
+   "short": "Norma csspp nr. 6/2012",
+   "title": "Norma nr. 6/2012 pentru modificarea și completarea Normei nr. 19/2008 privind utilizarea activului personal net al participantului la un fond de pensii administrat privat, în caz de invaliditate și în caz de deces",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137108",
+   "versions": [
+    {
+     "from": "2012-04-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137108",
+     "sha256": "2ab8e5ac2c2066f34fda0227867298231dea6b3dac31ac4365bd2d5d9caf14c1"
+    }
+   ]
+  }
+ ]
+}

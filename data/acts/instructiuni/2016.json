@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "instructiuni/2016",
+"acts": [
+{
+"slug": "instructiuni-asf-1-2016",
+"path": "instructiuni/asf/2016/1",
+"kind": "instructiuni",
+"year": "2016",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 1/2016 privind întocmirea și depunerea situației financiare anuale și a raportării anuale de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară - Sectorul instrumentelor și investițiilor financiare",
+"short": "Instrucțiuni asf nr. 1/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-03-29",
+"latest": "2016-03-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/176975",
+"issuer": "asf",
+"joint": []
+},
+{
+"slug": "instructiuni-asf-2-2016",
+"path": "instructiuni/asf/2016/2",
+"kind": "instructiuni",
+"year": "2016",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 2/2016 privind întocmirea și depunerea raportării contabile semestriale de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară - Sectorul Instrumentelor și Investițiilor Financiare",
+"short": "Instrucțiuni asf nr. 2/2016",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-07-29",
+"latest": "2016-07-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/180537",
+"issuer": "asf",
+"joint": []
+}
+]
+}

@@ -1,0 +1,351 @@
+{
+ "country": "RO",
+ "shard": "hotarare-aep/2020",
+ "acts": [
+  {
+   "slug": "hotarare-aep-1-2020",
+   "path": "hotarare-aep/2020/1",
+   "short": "Hotărârea AEP nr. 1/2020",
+   "title": "HOTĂRÂRE nr. 1 din 25 iunie 2020 privind modificarea anexei la Hotărârea Autorităţii Electorale Permanente nr. 1/2016 pentru aprobarea modelului listei susţinătorilor care va fi folosit la alegerile locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/227101",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/227101",
+     "sha256": "be3caf3f0b5f8324c7c0ec0448345872cb854cfa5b43de5015fc5eb361f137a8"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-10-2020",
+   "path": "hotarare-aep/2020/10",
+   "short": "Hotărârea AEP nr. 10/2020",
+   "title": "HOTĂRÂRE nr. 10 din 14 septembrie 2020 privind numerotarea secţiilor de votare organizate pe teritoriul României",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/230030",
+   "versions": [
+    {
+     "from": "2020-09-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/230030",
+     "sha256": "73d171a5fe3438390c91f6c20d566a30378a62501bebfbe722ba0e66789f2518"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-11-2020",
+   "path": "hotarare-aep/2020/11",
+   "short": "Hotărârea AEP nr. 11/2020",
+   "title": "HOTĂRÂRE nr. 11 din 17 septembrie 2020 pentru aprobarea modelului notei logistice prevăzute la art. 23 alin. (6) lit. d) din Legea nr. 208/2015 privind alegerea Senatului şi a Camerei Deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale Permanente, care va fi folosit la alegerile pentru Senat şi Camera Deputaţilor din anul 2020",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/230308",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/230308",
+     "sha256": "d9db336afb51243ec3db65285220ab956a4048e22c9c516a1e57707f6864f67c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-13-2020",
+   "path": "hotarare-aep/2020/13",
+   "short": "Hotărârea AEP nr. 13/2020",
+   "title": "HOTĂRÂRE nr. 13 din 23 septembrie 2020 privind modificarea şi completarea unor hotărâri ale Autorităţii Electorale Permanente, precum şi unele măsuri pentru buna organizare şi desfăşurare a alegerilor pentru autorităţile administraţiei publice locale din anul 2020",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/230403",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/230403",
+     "sha256": "7e5ae5619daa6e5d457285cbfb32b0e7932c2fb44ab1b5ed325d44244d8f6a2b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-14-2020",
+   "path": "hotarare-aep/2020/14",
+   "short": "Hotărârea AEP nr. 14/2020",
+   "title": "HOTĂRÂRE nr. 14 din 25 septembrie 2020 pentru aprobarea modelului certificatului doveditor al alegerii consilierilor, primarilor şi a preşedinţilor consiliilor judeţene",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/230466",
+   "versions": [
+    {
+     "from": "2020-09-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/230466",
+     "sha256": "13752e0a20532915a79cb518507e8a2960c754fc8cbe508f3d3fe6010d723a0d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-16-2020",
+   "path": "hotarare-aep/2020/16",
+   "short": "Hotărârea AEP nr. 16/2020",
+   "title": "HOTĂRÂRE nr. 16 din 25 septembrie 2020 pentru completarea Hotărârii Autorităţii Electorale Permanente nr. 13/2020 privind modificarea şi completarea unor hotărâri ale Autorităţii Electorale Permanente, precum şi unele măsuri pentru buna organizare şi desfăşurare a alegerilor pentru autorităţile administraţiei publice locale din anul 2020",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/230467",
+   "versions": [
+    {
+     "from": "2020-09-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/230467",
+     "sha256": "a355a23fc73af00735b7aa43dd222049d4b8d20625e9042dcd3dff4960b9b19a"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-17-2020",
+   "path": "hotarare-aep/2020/17",
+   "short": "Hotărârea AEP nr. 17/2020",
+   "title": "HOTĂRÂRE nr. 17 din 19 octombrie 2020 pentru aprobarea modelelor, a dimensiunilor şi a condiţiilor de tipărire ale buletinelor de vot care vor fi folosite pentru alegerea Senatului şi a Camerei Deputaţilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/231522",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/231522",
+     "sha256": "b28015d2df0c597406c19b566171f316b0221eb47a170a6f42ed6516621aaf75"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-18-2020",
+   "path": "hotarare-aep/2020/18",
+   "short": "Hotărârea AEP nr. 18/2020",
+   "title": "HOTĂRÂRE nr. 18 din 28 octombrie 2020 privind aprobarea Ghidului finanţării campaniei electorale la alegerile pentru Senat şi Camera Deputaţilor din data de 6 decembrie 2020",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/231866",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/231866",
+     "sha256": "bf01cdc43aaf13272f9916d7adf6eb6fa1a135279dcdee3c7b07e0c8c665be49"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-19-2020",
+   "path": "hotarare-aep/2020/19",
+   "short": "Hotărârea AEP nr. 19/2020",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 19 din 2020-10-28",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/231894",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/231894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-2-2020",
+   "path": "hotarare-aep/2020/2",
+   "short": "Hotărârea AEP nr. 2/2020",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 2 din 2020-07-17",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/227951",
+   "versions": [
+    {
+     "from": "2020-07-17",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/227951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-20-2020",
+   "path": "hotarare-aep/2020/20",
+   "short": "Hotărârea AEP nr. 20/2020",
+   "title": "HOTĂRÂRE nr. 20 din 29 octombrie 2020 privind aplicarea prevederilor Legii nr. 288/2015 privind votul prin corespondenţă, precum şi modificarea şi completarea Legii nr. 208/2015 privind alegerea Senatului şi a Camerei Deputaţilor, precum şi pentru organizarea şi funcţionarea Autorităţii Electorale Permanente la alegerile pentru Senat şi Camera Deputaţilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/231958",
+   "versions": [
+    {
+     "from": "2020-10-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/231958",
+     "sha256": "e9fd45db42614463c136bc7d769671f1b07a3f41e769ee75a987b1239deb1187"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-21-2020",
+   "path": "hotarare-aep/2020/21",
+   "short": "Hotărârea AEP nr. 21/2020",
+   "title": "HOTĂRÂRE nr. 21 din 10 noiembrie 2020 privind numerotarea secţiilor de votare organizate pe teritoriul României",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/232895",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/232895",
+     "sha256": "6fe90279be3c5da7c6987e23f604def9b68cab501eb623073d60f5415aa71f73"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-23-2020",
+   "path": "hotarare-aep/2020/23",
+   "short": "Hotărârea AEP nr. 23/2020",
+   "title": "HOTĂRÂRE nr. 23 din 17 noiembrie 2020 privind aprobarea Procedurii de monitorizare video a localurilor secţiilor de votare din străinătate la alegerile pentru Senat şi Camera Deputaţilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/233386",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/233386",
+     "sha256": "bc171f87e4cd0b6f01c94786a4ebba8d54855d55d18bbe667128dbe9fbc5cfd2"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-24-2020",
+   "path": "hotarare-aep/2020/24",
+   "short": "Hotărârea AEP nr. 24/2020",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 24 din 2020-11-17",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/233394",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/233394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-25-2020",
+   "path": "hotarare-aep/2020/25",
+   "short": "Hotărârea AEP nr. 25/2020",
+   "title": "HOTĂRÂRE nr. 25 din 17 noiembrie 2020 pentru aprobarea Normelor metodologice privind organizarea şi funcţionarea Sistemului informatic de centralizare a datelor din procesele-verbale privind consemnarea rezultatelor votării, precum şi unele măsuri privind funcţionarea aplicaţiei informatice de repartizare şi atribuire a mandatelor, la alegerile pentru Senat şi Camera Deputaţilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/233392",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/233392",
+     "sha256": "94dbc1a6670d1c49a3bbdd3a726d7bf36daf4c930cfec8ac2712369a264e5141"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-26-2020",
+   "path": "hotarare-aep/2020/26",
+   "short": "Hotărârea AEP nr. 26/2020",
+   "title": "HOTĂRÂRE nr. 26 din 18 noiembrie 2020 privind aprobarea listei sediilor secţiilor de votare din străinătate la alegerile pentru Senat şi Camera Deputaţilor din anul 2020, precum şi unele măsuri pentru buna organizare a acestora",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/233449",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/233449",
+     "sha256": "fb7b622569ae8776851f6b1b77dc26d4baecfd06a227b3bf11e743bc2dd2a2de"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-29-2020",
+   "path": "hotarare-aep/2020/29",
+   "short": "Hotărârea AEP nr. 29/2020",
+   "title": "HOTĂRÂRE nr. 29 din 26 noiembrie 2020 privind aprobarea implementării soluţiei tehnice de blockchain în Sistemul informatic de monitorizare a prezenţei la vot şi de prevenire a votului ilegal şi în Sistemul informatic de centralizare a datelor din procesele-verbale privind consemnarea rezultatelor votării, precum şi pentru modificarea şi completarea unor hotărâri ale Autorităţii Electorale Permanente",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/233903",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/233903",
+     "sha256": "33bb5e8780b6dec110b3ed494ad38a53bd1a9b261f98108ae24e915a05cdc9bd"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-3-2020",
+   "path": "hotarare-aep/2020/3",
+   "short": "Hotărârea AEP nr. 3/2020",
+   "title": "HOTĂRÂRE nr. 3 din 29 iulie 2020 privind modificarea şi completarea Hotărârii Autorităţii Electorale Permanente nr. 12/2016 pentru aprobarea modelelor proceselor-verbale privind consemnarea rezultatului votării la alegerile locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/228557",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/228557",
+     "sha256": "0eb6ff0d0fc15369ec1c94623a917757ee300d4d17e0106a9ddfb8df1758b1b5"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-32-2020",
+   "path": "hotarare-aep/2020/32",
+   "short": "Hotărârea AEP nr. 32/2020",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 32 din 2020-11-27",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/233948",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/233948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-35-2020",
+   "path": "hotarare-aep/2020/35",
+   "short": "Hotărârea AEP nr. 35/2020",
+   "title": "HOTĂRÂRE nr. 35 din 3 decembrie 2020 privind modificarea poziţiei nr. 427 din lista sediilor secţiilor de votare din străinătate la alegerile pentru Senat şi Camera Deputaţilor din anul 2020, aprobată prin Hotărârea Autorităţii Electorale Permanente nr. 26/2020",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/234185",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/234185",
+     "sha256": "e9c762dccd802ad3ab0c9a9b6ab453cdbd3736f6aab40b68d3c0792ad7a04e3f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-4-2020",
+   "path": "hotarare-aep/2020/4",
+   "short": "Hotărârea AEP nr. 4/2020",
+   "title": "HOTĂRÂRE nr. 4 din 6 august 2020 privind aprobarea Ghidului finanţării campaniei electorale la alegerile pentru autorităţile administraţiei publice locale din data de 27 septembrie 2020",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/228721",
+   "versions": [
+    {
+     "from": "2020-08-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/228721",
+     "sha256": "3c5bb5d66204be5fdd36b9c93a78ffbe4762609d4953aa04f78c392cf5191718"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-6-2020",
+   "path": "hotarare-aep/2020/6",
+   "short": "Hotărârea AEP nr. 6/2020",
+   "title": "HOTĂRÂRE nr. 6 din 17 august 2020 pentru aprobarea procedurii de acreditare, a modelelor documentelor de acreditare şi a modelelor ecusoanelor persoanelor acreditate la alegerile pentru autorităţile administraţiei publice locale din anul 2020",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/229198",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/229198",
+     "sha256": "b77784ee9d609a0caa8c2258adfae67dadca019554c5ebace4521b1c3c8e67f6"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-8-2020",
+   "path": "hotarare-aep/2020/8",
+   "short": "Hotărârea AEP nr. 8/2020",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 8 din 2020-08-21",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/229297",
+   "versions": [
+    {
+     "from": "2020-08-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/229297",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

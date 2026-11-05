@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/2001",
+ "acts": [
+  {
+   "slug": "instructiuni-cnvm-2-2001",
+   "path": "instructiuni/cnvm/2001/2",
+   "short": "Instrucțiuni cnvm nr. 2/2001",
+   "title": "Instrucțiunile nr. 2/2001 de modificare și completare a Instrucțiunilor nr. 3/2000 privind retragerea de pe piețele de valori mobiliare reglementate a societăților comerciale care nu mai întrunesc condițiile de societate deschisă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30905",
+   "versions": [
+    {
+     "from": "2001-09-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30905",
+     "sha256": "6ad8cecd44397161818aeefe5dafa62f359e9984c87c25799b94632c4639836d"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-justitie-1235-c-2001",
+   "path": "instructiuni/justitie/2001/1235-c",
+   "short": "Instrucțiuni justitie nr. 1235/C/2001",
+   "title": "Instrucțiunile nr. 1.235/C/2001 privind criteriile de autorizare a operatorilor de arhiva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29083",
+   "versions": [
+    {
+     "from": "2001-06-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29083",
+     "sha256": "bd0d8f14d98b4bb5a11d2ac2418cfea67439d8da53c96b3198ad8246e2ae9300"
+    }
+   ]
+  }
+ ]
+}

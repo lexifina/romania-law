@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-1/2021",
+ "acts": [
+  {
+   "slug": "hcls1-128-2021",
+   "path": "local/bucuresti/sector-1/2021/128",
+   "short": "HCLS1 nr. 128/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 128/2021 Proiect de hotărâre privind exercitarea dreptului de control al Consiliului Local al Sectorului 1,respectiv Sectorului 1 al Municipiului București în vederea determinării costurile efective necesare pentru prestarea serviciului public de salubrizare pe raza teritorială a Sectorului 1 al Municipiului București de către operatorul Compania Romprest Service SA 20.05.2021 schimbat titlul: K2-154.1 Proiect de hotărâre privind verificarea modului de stabilire a tarifelor pentru activitățile specifice serviciului de salubrizare prin luarea în calcul numai a costurilor care sunt necesare și utile prestării serviciului public de salubrizare pe raza teritorială a Sectorului 1 al Municipiului București de către operatorul delegat, Compania Romprest Service SA",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2021",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/95618/K2-154.pdf",
+     "sha256": "ca7f77bd9fffe369fd3e3de75aebbb78070eb1cb7f3e268a00886bde774868cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-133-2021",
+   "path": "local/bucuresti/sector-1/2021/133",
+   "short": "HCLS1 nr. 133/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 133/2021 privind aprobarea criteriilor care se au în vedere la stabilirea ordinii de prioritate în cadrul categoriilor de persoane prevăzute în Legea locuinței nr. 114/1996, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2021",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/25416/K2-135.pdf",
+     "sha256": "644075e09236c5d637418bfd55b6ec878c030204cde9275c37a9f9cd7ff623d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-135-2021",
+   "path": "local/bucuresti/sector-1/2021/135",
+   "short": "HCLS1 nr. 135/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 135/2021 privind aprobarea Regulamentului privind ridicarea, transportul, depozitarea și eliberarea vehiculelor staţionate neregulamentar pe domeniul public sau în alte locuri decât drumul public (zone pietonale, spaţii verzi, scuaruri, parcări de reşedinţă) şi a celor fără stăpân sau abandonate pe terenuri aparţinând domeniului public/privat al statului",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2021",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/25407/K2-127.pdf",
+     "sha256": "ca6db3afd62f9ed7d8bbf0acaa54f36df47e2b886bdf08bddcc15731b8d5fd5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-143-2021",
+   "path": "local/bucuresti/sector-1/2021/143",
+   "short": "HCLS1 nr. 143/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 143/2021 privind adoptarea “Regulamentului de salubrizare, igienizare și împrejmuire a terenurilor virane aflate pe raza administrativ-teritorială a Sectorului 1”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2021",
+   "versions": [
+    {
+     "from": "2021-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/26544/K2-150.pdf",
+     "sha256": "58632385664180c0cd55e29331017050c3affe55416b76a0a68da049fbc7fb26"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-144-2021",
+   "path": "local/bucuresti/sector-1/2021/144",
+   "short": "HCLS1 nr. 144/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 144/2021 Proiect de hotărâre privind aprobarea Regulamentului pentru accesul și modul de utilizare a curților și terenurilor de sport în aer liber ale unităților de învățământ preuniversitar de stat aflate în administrarea Consiliului Local al Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2021",
+   "versions": [
+    {
+     "from": "2021-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/95636/K2-166.pdf",
+     "sha256": "64dc8fc3ed1c5104419c782252a6ac2e20a7bae62ae043913165f5241adf0997"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-145-2021",
+   "path": "local/bucuresti/sector-1/2021/145",
+   "short": "HCLS1 nr. 145/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 145/2021 Proiect de hotărâre privind aprobarea Regulamentului local privind implicarea publicului în elaborarea sau revizuirea planurilor de urbanism sau de amenajare a teritoriului Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2021",
+   "versions": [
+    {
+     "from": "2021-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/95633/K2-163.pdf",
+     "sha256": "5b69c6348e9eca6a805a68b344df62363efe3dd99f45ae63087d53be03b11d08"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-160-2021",
+   "path": "local/bucuresti/sector-1/2021/160",
+   "short": "HCLS1 nr. 160/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 160/2021 Proiect de hotărâre privind însușirea cererii de chemare în judecată ce constituie obiect al dosarului nr. 12115/3/2021 și mandatarea Primarului Sectorului 1 al Municipiului București în vederea reprezentării Consiliului Local al Sectorului 1 al Municipiului București în dosarul nr. 12115/32021 și în orice demers judiciar care are ca scop exercitarea dreptului de control privind modul de formare a tarifelor pentru activitățile specifice serviciului public de salubrizare, în conformitate cu Hotărârea nr. 128/24.06.2021 a Consiliului Local al Sectorului 1 al Municipiului București #MODIFICĂ TITLUL Proiect de hotărâre privind cererea de chemare în judecată ce constituie obiect al dosarului nr. 12115/3/2021 și mandatarea Primarului Sectorului 1 al Municipiului București în vederea reprezentării Consiliului Local al Sectorului 1 al Municipiului București în dosarul nr. 12115/3/2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2021",
+   "versions": [
+    {
+     "from": "2021-08-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/95943/K2-238.pdf",
+     "sha256": "a2a8bb83ca0c058ba3060b99e94b972f47b4546c367c42da89aa113ec15b03ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-172-2021",
+   "path": "local/bucuresti/sector-1/2021/172",
+   "short": "HCLS1 nr. 172/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 172/2021 Proiect de hotărâre privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 11/28.01.2020 privind aprobarea Regulamentelor de organizare și funcționare ale serviciilor sociale cu și fără cazare din structura organizatorică a Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2021",
+   "versions": [
+    {
+     "from": "2021-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/95973/K2-254.pdf",
+     "sha256": "0d4d368717bb04ddce45d7b5c2192cf0d441f0bade36837c21edbd9f8ab17a35"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-240-2021",
+   "path": "local/bucuresti/sector-1/2021/240",
+   "short": "HCLS1 nr. 240/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 240/2021 Proiect de hotărâre privind implementarea sistemului integrat de teleasistență, teleurgență și telemedicină Butonul de Panică (”Butonul Roșu”) în regim gratuit, cu tarif social și tarif social și tarif integral de către Complexul Multifuncțional Caraiman",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2021",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/96279/K2-373_CMCaraiman_butonul%20rosu.pdf",
+     "sha256": "c6da8c9762e4683e9ef4f5d0b45ecaf403d79cc1586b64d763e6071e906247df"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-27-2021",
+   "path": "local/bucuresti/sector-1/2021/27",
+   "short": "HCLS1 nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 27/2021 privind efectuarea de servicii de imagistică/ radiologie medicale gratuite și cu tarif de către Complexul Multifuncţional Caraiman",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2021",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/25279/27.2021%20Anonimizat.pdf",
+     "sha256": "601ea6fa61486db4112b2102d26f0ba235d7748d685196afcda8fb0e65befa7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-28-2021",
+   "path": "local/bucuresti/sector-1/2021/28",
+   "short": "HCLS1 nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 28/2021 privind efectuarea de analize medicale de laborator gratuite și cu tarif de către Complexul Multifuncţional Caraiman",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2021",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/25280/28.2021%20Anonimizat.pdf",
+     "sha256": "5fa734e910e66f9640c5cd4d4586dc5bb007e91bc6879db48c3ae96c2ab51a5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-29-2021",
+   "path": "local/bucuresti/sector-1/2021/29",
+   "short": "HCLS1 nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 29/2021 privind efectuarea de acte terapeutice de recuperare medicală gratuite, cu tarif social și tarif integral de către Complexul Multifuncţional Caraiman",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2021",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/25281/29.2021%20Anonimizat.pdf",
+     "sha256": "04aae5362f81e736a818b15c4b72afa2f0264fcfd4c31c9fafe9530afa486970"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-30-2021",
+   "path": "local/bucuresti/sector-1/2021/30",
+   "short": "HCLS1 nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 30/2021 privind efectuarea de acte terapeutice stomatologice gratuite, cu tarif social și tarif integral de către Complexul Multifuncţional Caraiman",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2021",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/25282/30.2021%20Anonimizat.pdf",
+     "sha256": "bbfad43b673ecfdcc2e80368b0a9b307e94c8095270e680dde5d42660ab9981d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-49-2021",
+   "path": "local/bucuresti/sector-1/2021/49",
+   "short": "HCLS1 nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 49/2021 privind aprobarea modificării și completării Anexei nr. 3 - Regulamentul de organizare şi funcţionare al aparatului de specialitate al Primarului Sectorului 1 al Municipiului Bucureşti, aprobată prin Hotărârea Consiliului Local al Sectorului 1 nr. 291/04.12.2020",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2021",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/25313/49.2021_Anonimizata.pdf",
+     "sha256": "bbb0f406aa705d23d6af74adb5dc1550c872ef2216c608504ed78192f8f397b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-59-2021",
+   "path": "local/bucuresti/sector-1/2021/59",
+   "short": "HCLS1 nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 59/2021 privind abrogarea Hotărârii Consiliului Local al Sectorului 1 al Municipiului București nr. 262/17.09.2020 privind aprobarea Regulamentului Intern al aparatului de specialitate al Primarului Sectorului 1 și al Direcției Publice de Evidență a Persoanelor și Stare Civilă Sector 1, fără personalitate juridică, din subordinea Consiliului Local al Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2021",
+   "versions": [
+    {
+     "from": "2021-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/25374/59.2021_Anonimizat.pdf",
+     "sha256": "68f9c0d98c228126a84689af40a9fe9e8ac22726fb5f009c951955cb02de7cdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-80-2021",
+   "path": "local/bucuresti/sector-1/2021/80",
+   "short": "HCLS1 nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 80/2021",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2021",
+   "versions": [
+    {
+     "from": "2021-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/25382/80.2021_Anonimizate.pdf",
+     "sha256": "274b0b6e9a536c21d1220142d4d6139699de4d7fc085eee2c85f813168964335"
+    }
+   ]
+  }
+ ]
+}

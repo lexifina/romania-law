@@ -1,0 +1,250 @@
+{
+"country": "RO",
+"shard": "local/bucuresti/sector-4/2009",
+"acts": [
+{
+"slug": "hcls4-12-2009",
+"path": "local/bucuresti/sector-4/2009/12",
+"kind": "local",
+"year": "2009",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 12/2009",
+"short": "HCLS4 nr. 12/2009",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2009-02-26",
+"latest": "2009-02-26",
+"portal": null,
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcls4-23-2009",
+"path": "local/bucuresti/sector-4/2009/23",
+"kind": "local",
+"year": "2009",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 23/2009",
+"short": "HCLS4 nr. 23/2009",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2009-03-31",
+"latest": "2009-03-31",
+"portal": null,
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcls4-26-2009",
+"path": "local/bucuresti/sector-4/2009/26",
+"kind": "local",
+"year": "2009",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 26/2009 privind aprobarea planului de ocupare a funcţiilor publice din cadrul Direcţiei Generale de Impozite şi Taxe Locale Sector 4",
+"short": "HCLS4 nr. 26/2009",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2009-03-31",
+"latest": "2009-03-31",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcls4-30-2009",
+"path": "local/bucuresti/sector-4/2009/30",
+"kind": "local",
+"year": "2009",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 30/2009 PDF Salveaza Print HOTARARE privind modificarea Regulamentelor de functionare a pietelor Sectorului 4 aflate in administrarea directa a Directiei de Administrare a Pietelor Sector 4",
+"short": "HCLS4 nr. 30/2009",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2009-03-31",
+"latest": "2009-03-31",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcls4-53-2009",
+"path": "local/bucuresti/sector-4/2009/53",
+"kind": "local",
+"year": "2009",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 53/2009 privind adoptarea ,,Criteriilor pentru stabilirea ordinii de prioritate în soluţionarea cererilor de locuinţe sociale sau din fondul locativ de stat",
+"short": "HCLS4 nr. 53/2009",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2009-05-28",
+"latest": "2009-05-28",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls4-61-2009",
+"path": "local/bucuresti/sector-4/2009/61",
+"kind": "local",
+"year": "2009",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 61/2009 privind aprobarea prelungirii aplicării tarifelor prevăzute în Anexa la HCLS 4 nr. 6/ 29.01.2009",
+"short": "HCLS4 nr. 61/2009",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2009-06-25",
+"latest": "2009-06-25",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcls4-79-2009",
+"path": "local/bucuresti/sector-4/2009/79",
+"kind": "local",
+"year": "2009",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 79/2009 privind aprobarea procedurii, a anunţului de vânzare şi a caietului de sarcini pentru vânzarea spaţiilor comerciale şi de prestări de servicii conform Legii Nr.550/2002",
+"short": "HCLS4 nr. 79/2009",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2009-08-31",
+"latest": "2009-08-31",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls4-90-2009",
+"path": "local/bucuresti/sector-4/2009/90",
+"kind": "local",
+"year": "2009",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 90/2009 privind adoptarea ,,Criteriilor pentru stabilirea ordinii de prioritate în soluţionarea cererilor de locuinţe sociale sau din fondul locativ de stat,",
+"short": "HCLS4 nr. 90/2009",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2009-09-30",
+"latest": "2009-09-30",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls4-99-2009",
+"path": "local/bucuresti/sector-4/2009/99",
+"kind": "local",
+"year": "2009",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 99/2009 privind aprobarea Metodologiei de atribuire a locurilor de parcare pe raza sectorului 4",
+"short": "HCLS4 nr. 99/2009",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2009-10-29",
+"latest": "2009-10-29",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls4-112-2009",
+"path": "local/bucuresti/sector-4/2009/112",
+"kind": "local",
+"year": "2009",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 112/2009 privind adoptarea ,,Criteriilor pentru stabilirea ordinii de prioritate în soluţionarea cererilor de locuinţe sociale sau din fondul locativ de stat,,",
+"short": "HCLS4 nr. 112/2009",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2009-11-26",
+"latest": "2009-11-26",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls4-115-2009",
+"path": "local/bucuresti/sector-4/2009/115",
+"kind": "local",
+"year": "2009",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 115/2009 privind aprobarea cofinanţării proiectului “Cresterea nivelului de pregatire profesionala a angajatilor Directiei Generale de Impozite si Taxe Locale a Sectorului 4 prin asigurarea unui pachet complex de training ”",
+"short": "HCLS4 nr. 115/2009",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2009-11-26",
+"latest": "2009-11-26",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "anspdcp/2015",
+ "acts": [
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2015-2015-06-18",
+   "path": "anspdcp/comunicat-sanctiune/2015/2015-06-18",
+   "short": "Comunicat ANSPDCP din 2015-06-18",
+   "title": "Comunicat ANSPDCP din 2015-06-18: Sancțiuni aplicate de ANSPDCP",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_investigatii_aprilie&lang=ro",
+   "versions": [
+    {
+     "from": "2015-06-18",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_investigatii_aprilie&lang=ro",
+     "sha256": "8a6555681897dfa08cc702f775dd7e47d678840e55fd8dcbc5521f56c855d113"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2015-2015-06-19",
+   "path": "anspdcp/comunicat-sanctiune/2015/2015-06-19",
+   "short": "Comunicat ANSPDCP din 2015-06-19",
+   "title": "Comunicat ANSPDCP din 2015-06-19: Sancțiuni cookies",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_cookies&lang=ro",
+   "versions": [
+    {
+     "from": "2015-06-19",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_cookies&lang=ro",
+     "sha256": "b0677b30d099605a6837478f2c10149f6d8530f9402ea6c808a8c39b9a2efe0a"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-decizie-2015-200",
+   "path": "anspdcp/decizie/2015/200",
+   "short": "Decizia ANSPDCP nr. 200/2015",
+   "title": "Decizia ANSPDCP nr. 200/2015: din 14 decembrie 2015 privind stabilirea cazurilor de prelucrare a datelor cu caracter personal pentru care nu este necesară notificarea, precum și pentru modificarea și abrogarea unor decizii - A fost abrogată prin Decizia nr. 99/2018",
+   "url": "https://www.dataprotection.ro/servlet/ViewDocument?id=1175",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/servlet/ViewDocument?id=1175",
+     "sha256": "c4cf0a768c7e77074d7c4c26876595e02a6b078aee4c75069facc3b55b82334f"
+    }
+   ]
+  }
+ ]
+}

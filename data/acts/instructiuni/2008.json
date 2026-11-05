@@ -1,0 +1,25 @@
+{
+"country": "RO",
+"shard": "instructiuni/2008",
+"acts": [
+{
+"slug": "instructiuni-cnvm-1-2008",
+"path": "instructiuni/cnvm/2008/1",
+"kind": "instructiuni",
+"year": "2008",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 1/2008 pentru modificarea și completarea Instrucțiunii nr. 2/2007 privind întocmirea și depunerea situațiilor financiare anuale de către entitățile autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare",
+"short": "Instrucțiuni cnvm nr. 1/2008",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2008-03-25",
+"latest": "2008-03-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/90675",
+"issuer": "cnvm",
+"joint": []
+}
+]
+}

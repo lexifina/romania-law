@@ -1,0 +1,336 @@
+{
+ "country": "RO",
+ "shard": "hotarare-aep/2025",
+ "acts": [
+  {
+   "slug": "hotarare-aep-1-2025",
+   "path": "hotarare-aep/2025/1",
+   "short": "Hotărârea AEP nr. 1/2025",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 1 din 2025-02-18",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/294798",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/294798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-11-2025",
+   "path": "hotarare-aep/2025/11",
+   "short": "Hotărârea AEP nr. 11/2025",
+   "title": "HOTĂRÂRE nr. 11 din 21 martie 2025 privind aprobarea Ghidului finanţării campaniei electorale la alegerile pentru Preşedintele României din anul 2025",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/295774",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/295774",
+     "sha256": "3b66ab122375da2cae99a1ac0a1e61b9ac9c399f6c9e5bb6600dcad9aea06277"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-12-2025",
+   "path": "hotarare-aep/2025/12",
+   "short": "Hotărârea AEP nr. 12/2025",
+   "title": "HOTĂRÂRE nr. 12 din 28 martie 2025 privind numerotarea secţiilor de votare organizate pe teritoriul României",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/296000",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/296000",
+     "sha256": "5e1ef791662c9c5e5be3e92b3295a0c01aab48f856f2ea050a01e16911c54967"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-14-2025",
+   "path": "hotarare-aep/2025/14",
+   "short": "Hotărârea AEP nr. 14/2025",
+   "title": "HOTĂRÂRE nr. 14 din 3 aprilie 2025 pentru aprobarea condiţiilor de tipărire a buletinelor de vot care vor fi utilizate la referendumul local din data de 4 mai 2025 din satul Bâlvăneştii de Jos, comuna Bâlvăneşti, judeţul Mehedinţi",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/296412",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/296412",
+     "sha256": "ff81eacc115c5b3fd897efd335ad8dee8372814c75fb28df8401be33d1c38e14"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-15-2025",
+   "path": "hotarare-aep/2025/15",
+   "short": "Hotărârea AEP nr. 15/2025",
+   "title": "HOTĂRÂRE nr. 15 din 3 aprilie 2025 pentru aprobarea condiţiilor de tipărire a buletinelor de vot care vor fi utilizate la referendumul local din data de 4 mai 2025 din comuna Corunca, judeţul Mureş",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/296413",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/296413",
+     "sha256": "846825b7ebe5c94e78b48d5fc5bc6642a329e3fc2e2b14e41bc5b686904c2c35"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-17-2025",
+   "path": "hotarare-aep/2025/17",
+   "short": "Hotărârea AEP nr. 17/2025",
+   "title": "HOTĂRÂRE nr. 17 din 7 aprilie 2025 pentru aprobarea condiţiilor de tipărire a buletinelor de vot care vor fi utilizate la referendumul local din data de 18 mai 2025 din comuna Parva, judeţul Bistriţa-Năsăud",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/296465",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/296465",
+     "sha256": "cf8027d79b0d11a49f59b031f0c04d1f40a528772f59202d089fd67cc664722b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-2-2025",
+   "path": "hotarare-aep/2025/2",
+   "short": "Hotărârea AEP nr. 2/2025",
+   "title": "HOTĂRÂRE nr. 2 din 18 februarie 2025 privind aprobarea modelelor ştampilelor electorale care vor fi folosite la alegerile pentru Preşedintele României din anul 2025",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/294799",
+   "versions": [
+    {
+     "from": "2025-02-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/294799",
+     "sha256": "3c13144aeb7db362dddd18a7534c134c9e809cfaab674a821e88882927d987e7"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-20-2025",
+   "path": "hotarare-aep/2025/20",
+   "short": "Hotărârea AEP nr. 20/2025",
+   "title": "HOTĂRÂRE nr. 20 din 10 aprilie 2025 privind aprobarea Ghidului finanţării campaniei electorale la alegerile locale parţiale din data de 4 mai 2025",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/296584",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/296584",
+     "sha256": "99a6e96cc7c25f018c94de3ce524fec8792406eeb695ed17dbedd0f2d517e17b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-21-2025",
+   "path": "hotarare-aep/2025/21",
+   "short": "Hotărârea AEP nr. 21/2025",
+   "title": "HOTĂRÂRE nr. 21 din 11 aprilie 2025 pentru aprobarea condiţiilor de tipărire a buletinelor de vot care vor fi utilizate la referendumul local din data de 4 mai 2025 din comuna Sălăţig, judeţul Sălaj",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/296608",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/296608",
+     "sha256": "f4bdb4eaeb338cf03f311351231d54ee806d947e920f2290a4ccca37e162dda3"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-22-2025",
+   "path": "hotarare-aep/2025/22",
+   "short": "Hotărârea AEP nr. 22/2025",
+   "title": "HOTĂRÂRE nr. 22 din 17 aprilie 2025 privind modificarea Listei sediilor secţiilor de votare din străinătate la alegerile pentru Preşedintele României din anul 2025, aprobată prin Hotărârea Autorităţii Electorale Permanente nr. 19/2025 , precum şi unele măsuri pentru buna organizare a acestora",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/296766",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/296766",
+     "sha256": "0ac531ca6312458088df74c0a1e76a605e3a30ea0e5ec9c870a19e7d779d498b"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-23-2025",
+   "path": "hotarare-aep/2025/23",
+   "short": "Hotărârea AEP nr. 23/2025",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 23 din 2025-04-23",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/296833",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/296833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-24-2025",
+   "path": "hotarare-aep/2025/24",
+   "short": "Hotărârea AEP nr. 24/2025",
+   "title": "HOTĂRÂRE nr. 24 din 24 aprilie 2025 privind modificarea poziţiei nr. 467 din Lista sediilor secţiilor de votare din străinătate la alegerile pentru Preşedintele României din anul 2025, aprobată prin Hotărârea Autorităţii Electorale Permanente nr. 19/2025 , precum şi unele măsuri pentru buna organizare a acestora",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/296884",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/296884",
+     "sha256": "935a23cb5ec165560d79d3c88f1051f190eb6c0545c3421104c780db583ac44e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-25-2025",
+   "path": "hotarare-aep/2025/25",
+   "short": "Hotărârea AEP nr. 25/2025",
+   "title": "HOTĂRÂRE nr. 25 din 28 aprilie 2025 pentru modificarea anexei la Hotărârea Autorităţii Electorale Permanente nr. 12/2025 privind numerotarea secţiilor de votare organizate pe teritoriul României",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/296981",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/296981",
+     "sha256": "248a4956427f0cfb3b1b05bbc7291c1a888f446891863d2f7cbf4c82a186a72e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-27-2025",
+   "path": "hotarare-aep/2025/27",
+   "short": "Hotărârea AEP nr. 27/2025",
+   "title": "HOTĂRÂRE nr. 27 din 14 mai 2025 pentru modificarea anexei la Hotărârea Autorităţii Electorale Permanente nr. 12/2025 privind numerotarea secţiilor de votare organizate pe teritoriul României",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/298088",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/298088",
+     "sha256": "bbd8ed0fe9f380cff7d60de3e99dbb5725dd511bd22159e591919bc296021305"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-29-2025",
+   "path": "hotarare-aep/2025/29",
+   "short": "Hotărârea AEP nr. 29/2025",
+   "title": "HOTĂRÂRE nr. 29 din 17 noiembrie 2025 privind numerotarea şi sediile secţiilor de votare organizate la alegerile locale parţiale din data de 7 decembrie 2025",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/304242",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/304242",
+     "sha256": "1933b5d02ad0970f3a2743e7168343cb23755b478fe53a3818633bb1d348ea09"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-30-2025",
+   "path": "hotarare-aep/2025/30",
+   "short": "Hotărârea AEP nr. 30/2025",
+   "title": "HOTĂRÂRE nr. 30 din 20 noiembrie 2025 privind aprobarea Ghidului finanţării campaniei electorale la alegerile locale parţiale din data de 7 decembrie 2025",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/304612",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/304612",
+     "sha256": "b04c84c762c183d8e4e548ea881d81832fa4e1a33d9ec0a95be8977f8ebc4e27"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-31-2025",
+   "path": "hotarare-aep/2025/31",
+   "short": "Hotărârea AEP nr. 31/2025",
+   "title": "HOTĂRÂRE nr. 31 din 20 noiembrie 2025 privind unele măsuri pentru buna organizare şi desfăşurare a alegerilor locale parţiale din data de 7 decembrie 2025",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/304614",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/304614",
+     "sha256": "b722424b89f0d5f105e325e17d14824749b09136d9b754b848b23750a5ccacbd"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-4-2025",
+   "path": "hotarare-aep/2025/4",
+   "short": "Hotărârea AEP nr. 4/2025",
+   "title": "HOTĂRÂRE nr. 4 din 18 februarie 2025 privind aprobarea modelului şi a condiţiilor de confecţionare, gestionare şi utilizare a timbrului autocolant la alegerile pentru Preşedintele României din anul 2025",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/294817",
+   "versions": [
+    {
+     "from": "2025-02-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/294817",
+     "sha256": "488605021f833be8c8ee9f46f5fa82cede4b1fabaf86c28b2af6f4c0408e7600"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-5-2025",
+   "path": "hotarare-aep/2025/5",
+   "short": "Hotărârea AEP nr. 5/2025",
+   "title": "HOTĂRÂRE nr. 5 din 21 februarie 2025 pentru stabilirea modelelor proceselor-verbale privind consemnarea şi centralizarea rezultatelor votării la alegerile pentru Preşedintele României din anul 2025",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/294879",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/294879",
+     "sha256": "307c7d3604cb40a9f5c633d20bd1281e4451c2054a343c0bfaba1d62525e5832"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-7-2025",
+   "path": "hotarare-aep/2025/7",
+   "short": "Hotărârea AEP nr. 7/2025",
+   "title": "HOTĂRÂRE nr. 7 din 25 februarie 2025 privind aprobarea Metodologiei de monitorizare video a localurilor secţiilor de votare din străinătate la alegerile pentru Preşedintele României din anul 2025",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/294960",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/294960",
+     "sha256": "8626034c4f8844ce2e5e0c26ca1c3f0ff6ad0a575bc99bfb43b4d1b09aa04a2e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-8-2025",
+   "path": "hotarare-aep/2025/8",
+   "short": "Hotărârea AEP nr. 8/2025",
+   "title": "HOTĂRÂRE nr. 8 din 4 martie 2025 privind aprobarea procedurii de acreditare, a modelelor documentelor de acreditare şi a modelelor ecusoanelor persoanelor acreditate la alegerile pentru Preşedintele României din anul 2025",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/295140",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/295140",
+     "sha256": "9819fd42cd2cd2c3f3ce7b9151cc659acd92a61afd9e041a5e682c772951e447"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-9-2025",
+   "path": "hotarare-aep/2025/9",
+   "short": "Hotărârea AEP nr. 9/2025",
+   "title": "HOTĂRÂRE nr. 9 din 10 martie 2025 privind modul de promovare, distribuire, publicare sau editare a materialelor publicitare politice utilizate în campania electorală la alegerile pentru Preşedintele României din anul 2025",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/295311",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/295311",
+     "sha256": "dd860e08ce75d34fcedf3ff389ddb4a7b2ae41ec0b915b9c417a4b2b175f5664"
+    }
+   ]
+  }
+ ]
+}

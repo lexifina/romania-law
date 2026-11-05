@@ -1,0 +1,26 @@
+{
+"country": "RO",
+"shard": "anspdcp/2011",
+"acts": [
+{
+"slug": "anspdcp-decizie-2011-132",
+"path": "anspdcp/decizie/2011/132",
+"kind": "anspdcp",
+"year": "2011",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia ANSPDCP nr. 132/2011: privind condițiile prelucrãrii codului numeric personal și a altor date cu caracter personal având o funcție de identificare de aplicabilitate generalã. - A fost abrogată prin Decizia nr. 99/2018",
+"short": "Decizia ANSPDCP nr. 132/2011",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2011-12-28",
+"latest": "2011-12-28",
+"portal": "https://www.dataprotection.ro/servlet/ViewDocument?id=761",
+"flags": {
+"repealed_by_note": "Decizia nr. 99/2018"
+}
+}
+]
+}

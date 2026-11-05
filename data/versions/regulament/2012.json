@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "regulament/2012",
+ "acts": [
+  {
+   "slug": "regulament-bnr-1-2012",
+   "path": "regulament/bnr/2012/1",
+   "short": "Regulament bnr nr. 1/2012",
+   "title": "Regulamentul nr. 1/2012 privind organizarea și funcționarea la Banca Națională a României a Centralei Incidentelor de Plăți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134686",
+   "versions": [
+    {
+     "from": "2012-02-06",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134686",
+     "sha256": "bc3550be8e543870f382f121304ffd9f5da92042e3dc0a2adb88edf516ec6183"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-10-2012",
+   "path": "regulament/bnr/2012/10",
+   "short": "Regulament bnr nr. 10/2012",
+   "title": "Regulamentul nr. 10/2012 pentru modificarea Regulamentului Băncii Naționale a României nr. 18/2009 privind cadrul de administrare a activității instituțiilor de credit, procesul intern de evaluare a adecvării capitalului la riscuri și condițiile de externalizare a activităților acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139542",
+   "versions": [
+    {
+     "from": "2012-07-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139542",
+     "sha256": "264d5a0b03f1d610d97c4afecfdcff6f3ce457a770874be149d0bee1013a634f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-11-2012",
+   "path": "regulament/bnr/2012/11",
+   "short": "Regulament bnr nr. 11/2012",
+   "title": "Regulamentul nr. 11/2012 privind piața primară a titlurilor de stat administrată de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139845",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 56,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139845",
+     "sha256": "c52cd426d41b0613af664734982ea425bf7c06fe93ac04c397f474a758568260"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-13-2012",
+   "path": "regulament/bnr/2012/13",
+   "short": "Regulament bnr nr. 13/2012",
+   "title": "Regulamentul nr. 13/2012 pentru abrogarea Regulamentului Băncii Naționale a României nr. 9/2012 privind procedura de soluționare a diferendelor dintre utilizatorii serviciilor de plată și prestatorii de servicii de plată, aplicată de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141823",
+   "versions": [
+    {
+     "from": "2012-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141823",
+     "sha256": "0efb94289297cfc290903b7f5165cbb66ca59b72250dcd621f50d15979edfd0e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-15-2012",
+   "path": "regulament/bnr/2012/15",
+   "short": "Regulament bnr nr. 15/2012",
+   "title": "Regulamentul nr. 15/2012 pentru completarea Regulamentului Băncii Naționale a României nr. 18/2009 privind cadrul de administrare a activității instituțiilor de credit, procesul intern de evaluare a adecvării capitalului la riscuri și condițiile de externalizare a activităților acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143317",
+   "versions": [
+    {
+     "from": "2012-12-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143317",
+     "sha256": "afb8955d6bed9e19649c859192562394ad77ff1ddbf2ebfd8537d9063351b000"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-16-2012",
+   "path": "regulament/bnr/2012/16",
+   "short": "Regulament bnr nr. 16/2012",
+   "title": "Regulamentul nr. 16/2012 privind clasificarea creditelor și plasamentelor, precum și determinarea și utilizarea ajustărilor prudențiale de valoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143964",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143964",
+     "sha256": "a21596608aa06bdcb59814e389ded8dfa1f3c5cdf6ab240e45e38d8ce2d4d7ba"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-17-2012",
+   "path": "regulament/bnr/2012/17",
+   "short": "Regulament bnr nr. 17/2012",
+   "title": "Regulamentul nr. 17/2012 privind unele condiții de creditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143876",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143876",
+     "sha256": "8f658ca94ee0b5829abd18e457878af31ad01ada3546c695cd77da543219121e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-2-2012",
+   "path": "regulament/bnr/2012/2",
+   "short": "Regulament bnr nr. 2/2012",
+   "title": "Regulamentul nr. 2/2012 privind organizarea și funcționarea la Banca Națională a României a Centralei Riscului de Credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257591",
+   "versions": [
+    {
+     "from": "2022-07-18",
+     "units": 49,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257591",
+     "sha256": "9e2ebbe5830e48b77a8f28bcefca22afcf9558337a080f43ab067c6f8bc0a927"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-3-2012",
+   "path": "regulament/bnr/2012/3",
+   "short": "Regulament bnr nr. 3/2012",
+   "title": "Regulamentul nr. 3/2012 pentru modificarea Regulamentului Băncii Naționale a României nr. 1/2000 privind operațiunile de piață monetară efectuate de Banca Națională a României și facilitățile permanente acordate de aceasta participanților eligibili",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134718",
+   "versions": [
+    {
+     "from": "2012-02-22",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134718",
+     "sha256": "15f506d1554569c4c6d41131d22873d206d9738dfa6c0ef01ec27d70c2fea4e0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-4-2012",
+   "path": "regulament/bnr/2012/4",
+   "short": "Regulament bnr nr. 4/2012",
+   "title": "Regulamentul nr. 4/2012 de modificare a Regulamentului Băncii Naționale a României nr. 6/2002 privind regimul rezervelor minime obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135523",
+   "versions": [
+    {
+     "from": "2012-02-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135523",
+     "sha256": "2f5df9eb027f928cb067d33820a3df051cfd120367aa01e4029a40f3b4b7659a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-5-2012",
+   "path": "regulament/bnr/2012/5",
+   "short": "Regulament bnr nr. 5/2012",
+   "title": "Regulamentul nr. 5/2012 privind clasificarea creditelor și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit aplicabil entităților supravegheate de Banca Națională a României, altele decât instituțiile de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136319",
+   "versions": [
+    {
+     "from": "2012-03-20",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136319",
+     "sha256": "7c1914380e7862fed06f772536a46b0a4b68f844cb6de98be7172a7f5f6da672"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-6-2012",
+   "path": "regulament/bnr/2012/6",
+   "short": "Regulament bnr nr. 6/2012",
+   "title": "Regulamentul nr. 6/2012 privind modificarea și completarea Regulamentului Băncii Naționale a României nr. 4/2005 privind regimul valutar, precum și abrogarea Normei Băncii Naționale a României nr. 4/2005 privind efectuarea operațiunilor de schimb valutar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138131",
+   "versions": [
+    {
+     "from": "2012-05-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138131",
+     "sha256": "eb92ec86882a26cf335c064e17f418d1510325385900e021e80a651d8490f09c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-8-2012",
+   "path": "regulament/bnr/2012/8",
+   "short": "Regulament bnr nr. 8/2012",
+   "title": "Regulamentul nr. 8/2012 pentru modificarea Regulamentului Băncii Naționale a României nr. 20/2009 privind instituțiile financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138901",
+   "versions": [
+    {
+     "from": "2012-06-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138901",
+     "sha256": "4bf602d8741f10d4a89d96608ce1d871144951be8c19ead3ee6751410bb645be"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-9-2012",
+   "path": "regulament/bnr/2012/9",
+   "short": "Regulament bnr nr. 9/2012",
+   "title": "Regulamentul nr. 9/2012 privind procedura de soluționare a diferendelor dintre utilizatorii serviciilor de plată și prestatorii de servicii de plată, aplicată de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138915",
+   "versions": [
+    {
+     "from": "2012-06-19",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138915",
+     "sha256": "f4dde17fa555c13b996ee9f9927ea1095c8e28f56f46f847029dd3a95b4ec005"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-10-2012",
+   "path": "regulament/cnvm/2012/10",
+   "short": "Regulament cnvm nr. 10/2012",
+   "title": "Regulamentul nr. 10/2012 REGULAMENT nr. 10/2012 pentru modificarea și completarea unor regulamente ale Comisiei Naționale a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/143452",
+   "versions": [
+    {
+     "from": "2013-01-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143452",
+     "sha256": "1d2c626df3ef9312cccde87aecc12a2133376cfd3f386e4d6d9aedb1be885054"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-11-2012",
+   "path": "regulament/cnvm/2012/11",
+   "short": "Regulament cnvm nr. 11/2012",
+   "title": "Regulamentul nr. 11/2012 REGULAMENTUL nr. 11/2012 pentru modificarea Regulamentului Comisiei Naționale a Valorilor Mobiliare nr. 4/2010 privind înregistrarea la Comisia Națională a Valorilor Mobiliare și funcționarea Societății Comerciale \"Fondul Proprietatea\" - S.A., precum și tranzacționarea acțiunilor emise de aceasta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144107",
+   "versions": [
+    {
+     "from": "2012-12-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144107",
+     "sha256": "778dfeda5f41e7ea07d027b684167459249580059e1b89b661f3e05f0188cd03"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-12-2012",
+   "path": "regulament/cnvm/2012/12",
+   "short": "Regulament cnvm nr. 12/2012",
+   "title": "Regulamentul nr. 12/2012 pentru aplicarea prevederilor art. 6 lit. a) din Ordonanța de urgență a Guvernului nr. 115/2011 privind stabilirea cadrului instituțional și autorizarea Guvernului, prin Ministerul Finanțelor Publice, de a scoate la licitație certificatele de emisii de gaze cu efect de seră atribuite României la nivelul Uniunii Europene și a art. 18 alin. (3) din Regulamentul (UE) nr. 1.031/2010 al Comisiei din 12 noiembrie 2010 privind calendarul, administrarea și alte aspecte ale licitării certificatelor de emisii de gaze cu efect de seră în temeiul Directivei 2003/87/CE a Parlamentului European și a Consiliului de stabilire a unui sistem de comercializare a cotelor de emisie de gaze cu efect de seră în cadrul Comunității",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144248",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144248",
+     "sha256": "1b4e49f90e15673722713b19204118781480c9ca4358bd2c55b7fe0d4c80001b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-5-2012",
+   "path": "regulament/cnvm/2012/5",
+   "short": "Regulament cnvm nr. 5/2012",
+   "title": "Regulamentul nr. 5/2012 pentru modificarea și completarea Regulamentului nr. 12/2010 privind atestarea organismelor de formare profesională, a operatorilor și specialiștilor pentru piața de capital, aprobat prin Ordinul Comisiei Naționale a Valorilor Mobiliare nr. 36/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137132",
+   "versions": [
+    {
+     "from": "2012-04-13",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137132",
+     "sha256": "2fbd299e5d5c2f50e5fd7a9c9f800e06ec82688943166d75dabf47de3a505aab"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-6-2012",
+   "path": "regulament/cnvm/2012/6",
+   "short": "Regulament cnvm nr. 6/2012",
+   "title": "Regulamentul nr. 6/2012 pentru aplicarea art. 41 din Regulamentul (UE) nr. 236/2012 al Parlamentului European și al Consiliului din 14 martie 2012 privind vânzarea în lipsă și anumite aspecte ale swapurilor pe riscul de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141085",
+   "versions": [
+    {
+     "from": "2012-09-07",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141085",
+     "sha256": "65abc7721b57342a3be16d218d4b8afe1a8ce75cfa3bcfec9252e323b9f5789c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-8-2012",
+   "path": "regulament/cnvm/2012/8",
+   "short": "Regulament cnvm nr. 8/2012",
+   "title": "Regulamentul nr. 8/2012 pentru modificarea Regulamentului nr. 1/2004 privind organizarea Comisiei Naționale a Valorilor Mobiliare, pus în aplicare prin Ordinul președintelui Comisiei Naționale a Valorilor Mobiliare nr. 6/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/141702",
+   "versions": [
+    {
+     "from": "2012-10-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/141702",
+     "sha256": "79bd80dfb9ed03789008570177c45906bbdc9c7b55d18b7e70cb91df54a58d42"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "regulament/2016",
+ "acts": [
+  {
+   "slug": "regulament-asf-1-2016",
+   "path": "regulament/asf/2016/1",
+   "short": "Regulament asf nr. 1/2016",
+   "title": "Regulamentul nr. 1/2016 pentru modificarea Regulamentului Autorității de Supraveghere Financiară nr. 9/2015 privind procedura de soluționare de către entitățile reglementate și supravegheate de Autoritatea de Supraveghere Financiară în baza Legii nr. 297/2004 privind piața de capital și a Legii nr. 74/2015 privind administratorii fondurilor de investiții alternative a petițiilor referitoare la activitatea acestora pe piața de capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175361",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175361",
+     "sha256": "40e1d4b60c288b2ae65f42e5dff21b7e1ee43cf13846ad49393403abebfebf83"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-10-2016",
+   "path": "regulament/asf/2016/10",
+   "short": "Regulament asf nr. 10/2016",
+   "title": "Regulamentul nr. 10/2016 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184653",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 185,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184653",
+     "sha256": "ed8cf34c4a46b56c3f088371ba96747b4cb4c34f91a2f3fcc184084384cee405"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-11-2016",
+   "path": "regulament/asf/2016/11",
+   "short": "Regulament asf nr. 11/2016",
+   "title": "Regulamentul nr. 11/2016 privind activitatea de control periodic și inopinat desfășurată de către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/185210",
+   "versions": [
+    {
+     "from": "2016-12-30",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185210",
+     "sha256": "d0bf7e369f48ccb58a13502fceed419e40a38d418ea894e9adcb686e8422ce12"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-2-2016",
+   "path": "regulament/asf/2016/2",
+   "short": "Regulament asf nr. 2/2016",
+   "title": "Regulamentul nr. 2/2016 privind aplicarea principiilor de guvernanță corporativă de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176826",
+   "versions": [
+    {
+     "from": "2016-03-23",
+     "units": 53,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176826",
+     "sha256": "e79f4e1479acbfce6c6eda65ddf58260ea86d6fbb298b8a3f0b24707cb1c5317"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-3-2016",
+   "path": "regulament/asf/2016/3",
+   "short": "Regulament asf nr. 3/2016",
+   "title": "Regulamentul nr. 3/2016 privind criteriile aplicabile și procedura pentru evaluarea prudențială a achizițiilor și majorărilor participațiilor la entitățile reglementate de Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/177187",
+   "versions": [
+    {
+     "from": "2016-04-05",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/177187",
+     "sha256": "9cd728d051fbe6f80667ff2e4136bc7d4cb261be39f4a62caee330c1894264c9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-5-2016",
+   "path": "regulament/asf/2016/5",
+   "short": "Regulament asf nr. 5/2016",
+   "title": "Regulamentul nr. 5/2016 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2015 privind administrarea fondurilor de investiții alternative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178470",
+   "versions": [
+    {
+     "from": "2016-05-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178470",
+     "sha256": "866fab3f5fa4e66a2fe93a4fa142c0361b9fb0013e45cd2a1ac69ce7790b4b9d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-6-2016",
+   "path": "regulament/asf/2016/6",
+   "short": "Regulament asf nr. 6/2016",
+   "title": "Regulamentul nr. 6/2016 pentru modificarea și completarea Regulamentului Comisiei Naționale a Valorilor Mobiliare nr. 32/2006 privind serviciile de investiții financiare, aprobat prin Ordinul Comisiei Naționale a Valorilor Mobiliare nr. 121/2006, și pentru modificarea Regulamentului Comisiei Naționale a Valorilor Mobiliare nr. 5/2010 privind utilizarea sistemului de conturi globale, aplicarea mecanismelor cu și fără prevalidarea instrumentelor financiare, efectuarea operațiunilor de împrumut de valori mobiliare, a celor de constituire a garanțiilor asociate acestora și a tranzacțiilor de vânzare în lipsă, aprobat prin Ordinul Comisiei Naționale a Valorilor Mobiliare nr. 10/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/178936",
+   "versions": [
+    {
+     "from": "2016-08-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/178936",
+     "sha256": "0d042fe355d02bc484febd39809f1506a1165fd8bf23d45f74a0c01bad6bf614"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-7-2016",
+   "path": "regulament/asf/2016/7",
+   "short": "Regulament asf nr. 7/2016",
+   "title": "Regulamentul nr. 7/2016 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 16/2014 privind veniturile Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180472",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180472",
+     "sha256": "f2f516178ad0c85e98335b71edaae6596d5bb1799700ec832ac4b1c40b8ee1da"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-8-2016",
+   "path": "regulament/asf/2016/8",
+   "short": "Regulament asf nr. 8/2016",
+   "title": "Regulamentul nr. 8/2016 pentru modificarea și completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184024",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184024",
+     "sha256": "ede6fae27083c870c8c4d091e6a85918b6a41881d6bc948b21b2ac4bc4db7162"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-9-2016",
+   "path": "regulament/asf/2016/9",
+   "short": "Regulament asf nr. 9/2016",
+   "title": "Regulamentul nr. 9/2016 privind regimul și principiile aferente remunerării personalului Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184593",
+   "versions": [
+    {
+     "from": "2016-12-13",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184593",
+     "sha256": "6ff924806d7f2d2c7878be93cf96443982282ff5979fe319c7ca332a6009b9fc"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-1-2016",
+   "path": "regulament/bnr/2016/1",
+   "short": "Regulament bnr nr. 1/2016",
+   "title": "Regulamentul nr. 1/2016 privind activitatea de emisiune de obligațiuni ipotecare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176495",
+   "versions": [
+    {
+     "from": "2016-03-11",
+     "units": 58,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176495",
+     "sha256": "d8acaafe50ce99a9cf8fb4b88e8dd21c0cce08e559de27bfb0fce9ca7b54107b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-2-2016",
+   "path": "regulament/bnr/2016/2",
+   "short": "Regulament bnr nr. 2/2016",
+   "title": "Regulamentul nr. 2/2016 privind operațiunile de transfer credit și debitare directă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181304",
+   "versions": [
+    {
+     "from": "2016-08-31",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181304",
+     "sha256": "60fbc1d5df09d9a3031acfaa12e475a41b8f29dfa24619b597fa860492d7f2c5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-3-2016",
+   "path": "regulament/bnr/2016/3",
+   "short": "Regulament bnr nr. 3/2016",
+   "title": "Regulamentul nr. 3/2016 privind activele eligibile pentru participarea la operațiunile de piață monetară ale Băncii Naționale a României și acordarea de facilități permanente de către Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181160",
+   "versions": [
+    {
+     "from": "2016-11-25",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181160",
+     "sha256": "2ee1f67c2d97c5ea09bc70c8677f2734d39e1a4021c3e3c861f9f717d50ab998"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-4-2016",
+   "path": "regulament/bnr/2016/4",
+   "short": "Regulament bnr nr. 4/2016",
+   "title": "Regulamentul nr. 4/2016 pentru modificarea Regulamentului Băncii Naționale a României nr. 2/2012 privind organizarea și funcționarea la Banca Națională a României a Centralei Riscului de Credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/181673",
+   "versions": [
+    {
+     "from": "2016-10-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/181673",
+     "sha256": "a46d215f95572e106894c9c11beb1b88a26da21d52c4a74c40797b9665908101"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-5-2016",
+   "path": "regulament/bnr/2016/5",
+   "short": "Regulament bnr nr. 5/2016",
+   "title": "Regulamentul nr. 5/2016 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 17/2012 privind unele condiții de creditare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182012",
+   "versions": [
+    {
+     "from": "2016-09-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182012",
+     "sha256": "d62cd260cdfc8ec80749e5f58a25180e567ad5b78950b2787106ac0b82ae2815"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-6-2016",
+   "path": "regulament/bnr/2016/6",
+   "short": "Regulament bnr nr. 6/2016",
+   "title": "Regulamentul nr. 6/2016 pentru modificarea Regulamentului Băncii Naționale a României nr. 4/2014 privind raportarea de date și informații statistice la Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182628",
+   "versions": [
+    {
+     "from": "2016-10-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182628",
+     "sha256": "19e56d0ee0edc8bca9458de76438711a7605171c7d993bc747793111e3d5be4b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-7-2016",
+   "path": "regulament/bnr/2016/7",
+   "short": "Regulament bnr nr. 7/2016",
+   "title": "Regulamentul nr. 7/2016 privind piața primară a titlurilor de stat administrată de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182424",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 51,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182424",
+     "sha256": "0125b9cea275251649a9561a71131a5f558e2c9b60629f6cbef9e4b16bf4d033"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-8-2016",
+   "path": "regulament/bnr/2016/8",
+   "short": "Regulament bnr nr. 8/2016",
+   "title": "Regulamentul nr. 8/2016 pentru modificarea Regulamentului Băncii Naționale a României nr. 6/2002 privind regimul rezervelor minime obligatorii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182572",
+   "versions": [
+    {
+     "from": "2016-10-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182572",
+     "sha256": "fd96a4fdb6aad07f5fd010c3b5563d134e11d9928465c4e5f5e3e10468a31f83"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-9-2016",
+   "path": "regulament/bnr/2016/9",
+   "short": "Regulament bnr nr. 9/2016",
+   "title": "Regulamentul nr. 9/2016 pentru modificarea Regulamentului Băncii Naționale a României nr. 5/2013 privind cerințe prudențiale pentru instituțiile de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184383",
+   "versions": [
+    {
+     "from": "2016-12-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184383",
+     "sha256": "89861811f14ed1385a38ef1fe2ee3600db478a672ec8f137d8199b0c0fcb30ea"
+    }
+   ]
+  }
+ ]
+}

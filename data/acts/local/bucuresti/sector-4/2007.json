@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/bucuresti/sector-4/2007",
+"acts": [
+{
+"slug": "hcls4-22-2007",
+"path": "local/bucuresti/sector-4/2007/22",
+"kind": "local",
+"year": "2007",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 22/2007",
+"short": "HCLS4 nr. 22/2007",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2007-03-29",
+"latest": "2007-03-29",
+"portal": null,
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+}
+]
+}

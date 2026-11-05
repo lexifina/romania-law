@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "norma/1996",
+ "acts": [
+  {
+   "slug": "norma-bnr-1-1996",
+   "path": "norma/bnr/1996/1",
+   "short": "Norma bnr nr. 1/1996",
+   "title": "Norma nr. 1/1996 privind capitalul minim al societăților bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7696",
+   "versions": [
+    {
+     "from": "1996-02-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7696",
+     "sha256": "2b3f433a0a29f0c2c60fdc6d0aebc5da55b0cc5f360522face9f65af5792f9a3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-10-1996",
+   "path": "norma/bnr/1996/10",
+   "short": "Norma bnr nr. 10/1996",
+   "title": "Norma nr. 10/1996 NORME Nr. 10 din 24 iunie 1996 privind lichiditatea valutară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7860",
+   "versions": [
+    {
+     "from": "1996-07-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7860",
+     "sha256": "54754694d8c95fdf1c21e0fa0dd92a575d955f8f9162415365ef05ec3f7538dc"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-2-1996",
+   "path": "norma/bnr/1996/2",
+   "short": "Norma bnr nr. 2/1996",
+   "title": "Norma nr. 2/1996 privind procedura decăderii din calitatea de fondator, administrator, director și cenzor ai societăților bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7717",
+   "versions": [
+    {
+     "from": "1996-02-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7717",
+     "sha256": "d453dedfa13ccfbf3d06ff528a016ed829882e051a52c5a3ecb385fdc80cefc2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-3-1996",
+   "path": "norma/bnr/1996/3",
+   "short": "Norma bnr nr. 3/1996",
+   "title": "Norma nr. 3/1996 privind procedura reorganizării și lichidării judiciare a societăților bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7735",
+   "versions": [
+    {
+     "from": "1996-02-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7735",
+     "sha256": "7214bc6f157fb0d29fd157811c3483aae0b1a9e62f4e268d7bc65aee8afdea48"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-4-1996",
+   "path": "norma/bnr/1996/4",
+   "short": "Norma bnr nr. 4/1996",
+   "title": "Norma nr. 4/1996 privind aplicarea prevederilor art. 3 din Ordonanța Guvernului nr. 15/1996 privind întărirea disciplinei financiar-valutare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7751",
+   "versions": [
+    {
+     "from": "1996-02-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7751",
+     "sha256": "dc7c454e736dbf11d42d2b6b461d50c16d3b0e394f5253f55a5e28a20eedbd54"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-844-1996",
+   "path": "norma/bnr/1996/844",
+   "short": "Norma bnr nr. 844/1996",
+   "title": "Norma nr. 844/1996 pentru aplicarea Legii nr. 20 din 8 aprilie 1996 privind unele măsuri necesare pentru desfășurarea campaniei agricole din primăvara anului 1996, ca urmare a stării de urgenta din agricultura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9906",
+   "versions": [
+    {
+     "from": "1996-04-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9906",
+     "sha256": "aa844725d5f207392fbff4d43f3753853b3899a355c76e280d17fde70d22237a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-18888-1996",
+   "path": "norma/finante/1996/18888",
+   "short": "Norma finante nr. 18888/1996",
+   "title": "Norma nr. 18.888/1996 NORME Nr. 18.888/7 din 31 mai 1996 privind modificarea Normelor metodologice nr. 16.144/18/1995 ale Ministerului Finanțelor și ale Băncii Naționale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7809",
+   "versions": [
+    {
+     "from": "1996-06-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7809",
+     "sha256": "66f5644e76d787a894adedb34e19583ecc6e495b37bac2799208c8166d5ff184"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-45184-1996",
+   "path": "norma/finante/1996/45184",
+   "short": "Norma finante nr. 45184/1996",
+   "title": "Norma nr. 45.184/1996 privind organizarea și desfășurarea licitațiilor pentru achizițiile publice de bunuri și de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10718",
+   "versions": [
+    {
+     "from": "1996-05-24",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10718",
+     "sha256": "8a7627ab1e804a4069f3671030c0715e74157be54db46a0b85499b76e3236739"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-844-1996",
+   "path": "norma/finante/1996/844",
+   "short": "Norma finante nr. 844/1996",
+   "title": "Norma nr. 844/1996 pentru aplicarea Legii nr. 20 din 8 aprilie 1996 privind unele măsuri necesare pentru desfășurarea campaniei agricole din primăvara anului 1996, ca urmare a stării de urgenta din agricultura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9907",
+   "versions": [
+    {
+     "from": "1996-04-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9907",
+     "sha256": "aa844725d5f207392fbff4d43f3753853b3899a355c76e280d17fde70d22237a"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "regulament/1998",
+ "acts": [
+  {
+   "slug": "regulament-cnvm-1-1998",
+   "path": "regulament/cnvm/1998/1",
+   "short": "Regulament cnvm nr. 1/1998",
+   "title": "Regulamentul nr. 1/1998 de completare a Regulamentului nr. 14/1996 cu privire la desfășurarea activităților de compensare, depozitare și decontare de către terți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13919",
+   "versions": [
+    {
+     "from": "1998-03-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13919",
+     "sha256": "7ab9a6089e7508718088c9265e92fe0aba6fd55c05af52581d6de91516173e45"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-2-1998",
+   "path": "regulament/cnvm/1998/2",
+   "short": "Regulament cnvm nr. 2/1998",
+   "title": "Regulamentul nr. 2/1998 privind depunerea de documente pe cale electronică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13935",
+   "versions": [
+    {
+     "from": "1998-03-19",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13935",
+     "sha256": "3416a1e721b6a62e8ad5a0f02fb7a81ccf49198cadbca8051008cab81cc013ab"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-3-1998",
+   "path": "regulament/cnvm/1998/3",
+   "short": "Regulament cnvm nr. 3/1998",
+   "title": "Regulamentul nr. 3/1998 privind autorizarea și exercitarea intermedierii de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13949",
+   "versions": [
+    {
+     "from": "1998-03-16",
+     "units": 69,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13949",
+     "sha256": "ace2363ebb40b879e0d316a3f5e28675e78a0efadb39ab71b2e2f3bbaa735645"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-4-1998",
+   "path": "regulament/cnvm/1998/4",
+   "short": "Regulament cnvm nr. 4/1998",
+   "title": "Regulamentul nr. 4/1998 privind modalitățile de plată a contravalorii acțiunilor distribuite în urma Programului de privatizare în masa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13964",
+   "versions": [
+    {
+     "from": "1998-03-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13964",
+     "sha256": "3efe1b69205d6e3fcb693ba66f0aff26103509cb5e6b7a3ff3f2a338787ec26e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-5-1998",
+   "path": "regulament/cnvm/1998/5",
+   "short": "Regulament cnvm nr. 5/1998",
+   "title": "Regulamentul nr. 5/1998 privind constituirea și funcționarea fondurilor cu capital de risc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14658",
+   "versions": [
+    {
+     "from": "1998-05-07",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14658",
+     "sha256": "1d68ce7cafb44b7b1dace9311ededd2eb9e89f2dfa8bef8293f7f8036006f1c0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-6-1998",
+   "path": "regulament/cnvm/1998/6",
+   "short": "Regulament cnvm nr. 6/1998",
+   "title": "Regulamentul nr. 6/1998 privind organizarea și funcționarea organismului de autoreglementare pentru piețele reglementate de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15751",
+   "versions": [
+    {
+     "from": "1998-09-28",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15751",
+     "sha256": "ee52c22a7408c71f8b942e2a553725ed6d02532731094d49cf9a594b11f8a6ba"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-7-1998",
+   "path": "regulament/cnvm/1998/7",
+   "short": "Regulament cnvm nr. 7/1998",
+   "title": "Regulamentul nr. 7/1998 privind organizarea Comisiei Naționale a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16505",
+   "versions": [
+    {
+     "from": "1998-12-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16505",
+     "sha256": "f07cce63353c37a3c3193c8f380293c1e390ad7d5732c51b72592885fb206c1f"
+    }
+   ]
+  }
+ ]
+}

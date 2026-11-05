@@ -1,0 +1,651 @@
+{
+ "country": "RO",
+ "shard": "norma/2015",
+ "acts": [
+  {
+   "slug": "norma-asf-1-2015",
+   "path": "norma/asf/2015/1",
+   "short": "Norma asf nr. 1/2015",
+   "title": "Norma nr. 1/2015 privind aderarea și evidența participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164647",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164647",
+     "sha256": "f9d1f2c1e573bf38d013bf757f6116d4511e5b65c158c08568ced04a40c45f1c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-10-2015",
+   "path": "norma/asf/2015/10",
+   "short": "Norma asf nr. 10/2015",
+   "title": "Norma nr. 10/2015 pentru punerea în aplicare a Sistemului de raportare contabilă la 30 iunie 2015 a societăților din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170444",
+   "versions": [
+    {
+     "from": "2015-08-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170444",
+     "sha256": "56a45c8555dad5d48c6a4309cfeda07f3707d78ae789869075a9b2cd0a1c7c21"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-11-2015",
+   "path": "norma/asf/2015/11",
+   "short": "Norma asf nr. 11/2015",
+   "title": "Norma nr. 11/2015 privind capitalul social al administratorului fondului de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170767",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170767",
+     "sha256": "a87515af4f9356546f396a8d7965ac204ab2767a313335e8e33bc24b7791187e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-12-2015",
+   "path": "norma/asf/2015/12",
+   "short": "Norma asf nr. 12/2015",
+   "title": "Norma nr. 12/2015 privind capitalul social al administratorului de fonduri de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170739",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170739",
+     "sha256": "a952e4fe90e7ff1abceb0748b2d12df68b55ee1ea1865640eea4cb95e853ce5b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-13-2015",
+   "path": "norma/asf/2015/13",
+   "short": "Norma asf nr. 13/2015",
+   "title": "Norma nr. 13/2015 pentru modificarea și completarea Normei nr. 11/2011 privind investirea și evaluarea activelor fondurilor de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171110",
+   "versions": [
+    {
+     "from": "2015-09-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171110",
+     "sha256": "d461c081862cb2a1155ac1d981fef54f3b677d96c13fce3b45c7d077b4150b97"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-14-2015",
+   "path": "norma/asf/2015/14",
+   "short": "Norma asf nr. 14/2015",
+   "title": "Norma nr. 14/2015 privind reglementările contabile conforme cu directivele europene aplicabile sistemului de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171426",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 527,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171426",
+     "sha256": "3057678272ef9fe20731204785186c583d8b7b11d98cce21d88dd7cf58dfd208"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-15-2015",
+   "path": "norma/asf/2015/15",
+   "short": "Norma asf nr. 15/2015",
+   "title": "Norma nr. 15/2015 privind comercializarea prin mijloace electronice a contractelor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170791",
+   "versions": [
+    {
+     "from": "2015-08-24",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170791",
+     "sha256": "e18311b8e725943e80e7d38a4693fd4eb23c3c59c2cbe3cf776eafbfb453de4c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-16-2015",
+   "path": "norma/asf/2015/16",
+   "short": "Norma asf nr. 16/2015",
+   "title": "Norma nr. 16/2015 privind Fondul de garantare a asiguraților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171083",
+   "versions": [
+    {
+     "from": "2015-09-02",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171083",
+     "sha256": "7226d4de1072e142686053fa84599f4817b68a78583b3abbf4e0432d9d7f3984"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-17-2015",
+   "path": "norma/asf/2015/17",
+   "short": "Norma asf nr. 17/2015",
+   "title": "Norma nr. 17/2015 privind cotele de contribuție datorate de asigurători Fondului de garantare a asiguraților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171043",
+   "versions": [
+    {
+     "from": "2015-09-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171043",
+     "sha256": "4599146052c53b0dfe909f91a82ec0e0ba159647028da2e82c91667ef4f97f2b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-18-2015",
+   "path": "norma/asf/2015/18",
+   "short": "Norma asf nr. 18/2015",
+   "title": "Norma nr. 18/2015 pentru modificarea Normei nr. 2/2011 privind aderarea și evidența participanților la fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172181",
+   "versions": [
+    {
+     "from": "2015-10-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172181",
+     "sha256": "031ed2595c59850b85b224bac779128041c99c75eb931a23327a66c281708c0a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-19-2015",
+   "path": "norma/asf/2015/19",
+   "short": "Norma asf nr. 19/2015",
+   "title": "Norma nr. 19/2015 privind aplicarea Standardelor internaționale de raportare financiară de către societățile de asigurare, asigurare-reasigurare și de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/172753",
+   "versions": [
+    {
+     "from": "2015-11-09",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/172753",
+     "sha256": "8a378aa67f9bb19cece469b6f4be0a6dcac650f3570f05fcf1885b07c00d3972"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-2-2015",
+   "path": "norma/asf/2015/2",
+   "short": "Norma asf nr. 2/2015",
+   "title": "Norma nr. 2/2015 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 23/2014 privind asigurarea obligatorie de răspundere civilă pentru prejudicii produse prin accidente de vehicule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164749",
+   "versions": [
+    {
+     "from": "2015-01-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164749",
+     "sha256": "c0bf4a660e6dac63bb14aced512193fcef65db838b27e5d42ac60d7d84f49e30"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-20-2015",
+   "path": "norma/asf/2015/20",
+   "short": "Norma asf nr. 20/2015",
+   "title": "Norma nr. 20/2015 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 7/2013 privind forma și clauzele cuprinse în contractul de asigurare obligatorie a locuințelor împotriva cutremurelor, alunecărilor de teren și inundațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173124",
+   "versions": [
+    {
+     "from": "2015-11-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173124",
+     "sha256": "91d36e3c8bdef8fbb2a0d350ad5e7f4c948e720ac0ade451c64c288dc0e86af7"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-21-2015",
+   "path": "norma/asf/2015/21",
+   "short": "Norma asf nr. 21/2015",
+   "title": "Norma nr. 21/2015 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 23/2014 privind asigurarea obligatorie de răspundere civilă pentru prejudicii produse prin accidente de vehicule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173945",
+   "versions": [
+    {
+     "from": "2015-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173945",
+     "sha256": "8f08977422d04fcf86b5c51cf1651a1d85fefcb60f7034ac2da51dab922fcd2b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-22-2015",
+   "path": "norma/asf/2015/22",
+   "short": "Norma asf nr. 22/2015",
+   "title": "Norma nr. 22/2015 privind autorizarea fondului de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174694",
+   "versions": [
+    {
+     "from": "2016-01-07",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174694",
+     "sha256": "f9c1683ce641db01719845a6118e18e43617494a19d18e59296e2c2e039a8dcc"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-23-2015",
+   "path": "norma/asf/2015/23",
+   "short": "Norma asf nr. 23/2015",
+   "title": "Norma nr. 23/2015 privind autorizarea fondului de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174549",
+   "versions": [
+    {
+     "from": "2015-12-31",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174549",
+     "sha256": "9887c5752dfff7211fa4b81396682bd02adfff00b99ed93823d9815c8d24082f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-24-2015",
+   "path": "norma/asf/2015/24",
+   "short": "Norma asf nr. 24/2015",
+   "title": "Norma nr. 24/2015 privind obligațiile de raportare și transparență în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174590",
+   "versions": [
+    {
+     "from": "2016-02-01",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174590",
+     "sha256": "9ed36d04523bfcea37f0cba77458465ced241cd01ec2c4765df240cf7a6ce40c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-25-2015",
+   "path": "norma/asf/2015/25",
+   "short": "Norma asf nr. 25/2015",
+   "title": "Norma nr. 25/2015 privind obligațiile de raportare și transparență în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174630",
+   "versions": [
+    {
+     "from": "2016-02-01",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174630",
+     "sha256": "ec1b9c6932d223797864be410a1ec21d17fee982ea19df4efb7bef78ca0a4bed"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-26-2015",
+   "path": "norma/asf/2015/26",
+   "short": "Norma asf nr. 26/2015",
+   "title": "Norma nr. 26/2015 privind calculul actuarial al provizionului tehnic pentru fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174763",
+   "versions": [
+    {
+     "from": "2016-01-11",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174763",
+     "sha256": "aa753d1cb4c75f56f911efde61510b71ce04cbbcc5198a2776ea4f98a10026f9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-27-2015",
+   "path": "norma/asf/2015/27",
+   "short": "Norma asf nr. 27/2015",
+   "title": "Norma nr. 27/2015 privind activitatea de audit financiar la entitățile autorizate, reglementate și supravegheate de către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174465",
+   "versions": [
+    {
+     "from": "2015-12-29",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174465",
+     "sha256": "1e8b4c82019d922ae2cc32a07122e4d36af8172958aa6e66d7e3b843d974b8ec"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-28-2015",
+   "path": "norma/asf/2015/28",
+   "short": "Norma asf nr. 28/2015",
+   "title": "Norma nr. 28/2015 privind funcționarea asigurătorilor supravegheați conform regimului național",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174492",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 54,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174492",
+     "sha256": "a94f8c94e2bc16292bf8e7f64db035664af0a023c6326596ed24efdfba41e5a5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-29-2015",
+   "path": "norma/asf/2015/29",
+   "short": "Norma asf nr. 29/2015",
+   "title": "Norma nr. 29/2015 privind Registrul asigurătorilor-reasigurătorilor și Registrul brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174404",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174404",
+     "sha256": "b3831a008419ee1738e827775561228f17df5c545450dc205cfaecdefa13fa08"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-3-2015",
+   "path": "norma/asf/2015/3",
+   "short": "Norma asf nr. 3/2015",
+   "title": "Norma nr. 3/2015 privind obligațiile de raportare și transparență ale Fondului de garantare a drepturilor din sistemul de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165584",
+   "versions": [
+    {
+     "from": "2015-02-10",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165584",
+     "sha256": "dc4dfc41a893a754900407f892289e6836e4e09c41ee9aebd8ee98de616591a1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-30-2015",
+   "path": "norma/asf/2015/30",
+   "short": "Norma asf nr. 30/2015",
+   "title": "Norma nr. 30/2015 privind drepturile, obligațiile și competențele administratorului special",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174405",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174405",
+     "sha256": "39c2fb2e5258c7ad3ab9ae04a20a4fc579de419fd44b7aa008102736d913a728"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-31-2015",
+   "path": "norma/asf/2015/31",
+   "short": "Norma asf nr. 31/2015",
+   "title": "Norma nr. 31/2015 privind condițiile pe care trebuie să le îndeplinească persoanele autorizate în evaluarea activelor reprezentate de terenuri și construcții, deținute de asigurători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174406",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174406",
+     "sha256": "c3109816d2556ad6a2da50e083c7aad23a83551ae8c199d35bd949e7e6edbfeb"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-32-2015",
+   "path": "norma/asf/2015/32",
+   "short": "Norma asf nr. 32/2015",
+   "title": "Norma nr. 32/2015 privind organizarea și efectuarea inventarierii elementelor de natura activelor, datoriilor, capitalurilor proprii și a tranzacțiilor privind activitatea de asigurare și de reasigurare ale asigurătorilor/reasigurătorilor și brokerilor de asigurare/reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174402",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174402",
+     "sha256": "a900023875eaa33a0b88f5370747c10baffba792c4e1a39bcc313d2ad4aad3ee"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-33-2015",
+   "path": "norma/asf/2015/33",
+   "short": "Norma asf nr. 33/2015",
+   "title": "Norma nr. 33/2015 privind aprobarea alocării capitalului social necesar autorizării asigurătorilor ca administratori de fonduri de pensii facultative, din capitalul social aferent activității de asigurări de viață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174407",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174407",
+     "sha256": "f50638ebc005698a0702df61dd6ece0359c0de650593910e29e00b57124f4e17"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-34-2015",
+   "path": "norma/asf/2015/34",
+   "short": "Norma asf nr. 34/2015",
+   "title": "Norma nr. 34/2015 privind cerințele cantitative stabilite de Autoritatea Europeană de Supraveghere pentru Asigurări și Pensii Ocupaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174445",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174445",
+     "sha256": "9517c3ce526fcec435a7e88f887aa56a3eba973d973791328474ba02924eb63c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-35-2015",
+   "path": "norma/asf/2015/35",
+   "short": "Norma asf nr. 35/2015",
+   "title": "Norma nr. 35/2015 privind cerințele calitative stabilite de către Autoritatea Europeană de Supraveghere pentru Asigurări și Pensii Ocupaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174401",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174401",
+     "sha256": "7e18ea083e1616f08322945db0fd4aeadb259c8db3ebf6b98d7f7b58aeb13cf0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-36-2015",
+   "path": "norma/asf/2015/36",
+   "short": "Norma asf nr. 36/2015",
+   "title": "Norma nr. 36/2015 pentru aprobarea Reglementărilor contabile privind situațiile financiare anuale individuale și situațiile financiare anuale consolidate aplicabile brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174436",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174436",
+     "sha256": "f825d3176543281c7b3c5a5edddd00252ac15ff2d22378c7423dc4a344c5583b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-37-2015",
+   "path": "norma/asf/2015/37",
+   "short": "Norma asf nr. 37/2015",
+   "title": "Norma nr. 37/2015 privind procedura de întocmire și eliberare a documentului de introducere în reparație a vehiculelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174408",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174408",
+     "sha256": "9113018e9c418704725b2d8f1c9efa37305345abeb43d31257e2763be8b7bfc3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-38-2015",
+   "path": "norma/asf/2015/38",
+   "short": "Norma asf nr. 38/2015",
+   "title": "Norma nr. 38/2015 privind rezervele tehnice constituite pentru activitatea de asigurare, modul de calcul al acestora în scopul întocmirii situațiilor financiare anuale și registrul special de evidență a activelor care le acoperă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174499",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174499",
+     "sha256": "7b3a3d9074f9304b3635cb3cf635531f35dec1431aa95313fe789b386ee336a9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-39-2015",
+   "path": "norma/asf/2015/39",
+   "short": "Norma asf nr. 39/2015",
+   "title": "Norma nr. 39/2015 pentru aprobarea Reglementărilor contabile conforme cu Standardele internaționale de raportare financiară, aplicabile entităților autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară din Sectorul instrumentelor și investițiilor financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174498",
+   "versions": [
+    {
+     "from": "2015-12-30",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174498",
+     "sha256": "8f2612a559e10b6404c00ae6b35e096b69997b0009c951e1869b1ec38c483c86"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-4-2015",
+   "path": "norma/asf/2015/4",
+   "short": "Norma asf nr. 4/2015",
+   "title": "Norma nr. 4/2015 privind încheierea exercițiului financiar 2014 pentru societățile din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165870",
+   "versions": [
+    {
+     "from": "2015-02-20",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165870",
+     "sha256": "c9d285e35fe87d8da497fb46706ab88b451cd7b7a36f36d782f417a7a04c7ccc"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-40-2015",
+   "path": "norma/asf/2015/40",
+   "short": "Norma asf nr. 40/2015",
+   "title": "Norma nr. 40/2015 pentru aprobarea Reglementărilor contabile privind situațiile financiare anuale și situațiile financiare anuale consolidate, aplicabile entităților autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară - Sectorul instrumentelor și investițiilor financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174478",
+   "versions": [
+    {
+     "from": "2015-12-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174478",
+     "sha256": "237dbd8eb42b8813c75cd621908bcd332a7c59d47bd2c246fefceb69e390f4ce"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-41-2015",
+   "path": "norma/asf/2015/41",
+   "short": "Norma asf nr. 41/2015",
+   "title": "Norma nr. 41/2015 pentru aprobarea Reglementărilor contabile privind situațiile financiare anuale individuale și situațiile financiare anuale consolidate ale entităților care desfășoară activitate de asigurare și/sau reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/174560",
+   "versions": [
+    {
+     "from": "2016-01-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/174560",
+     "sha256": "e4aa8bef5aa9d0bbc97a6ed8e302dafb20ebd73c5b984a77dd207ebcbfe4e281"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-5-2015",
+   "path": "norma/asf/2015/5",
+   "short": "Norma asf nr. 5/2015",
+   "title": "Norma nr. 5/2015 privind avizarea fondurilor mutuale pentru gestionarea unor riscuri în agricultură",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166260",
+   "versions": [
+    {
+     "from": "2015-03-11",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166260",
+     "sha256": "32450c22734d57a20d0de5318180634f9b5a3974b6814d2e9c453db681705fd9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-6-2015",
+   "path": "norma/asf/2015/6",
+   "short": "Norma asf nr. 6/2015",
+   "title": "Norma nr. 6/2015 privind gestionarea riscurilor operaționale generate de sistemele informatice utilizate de entitățile reglementate, autorizate/avizate și/sau supravegheate de Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/166956",
+   "versions": [
+    {
+     "from": "2015-04-03",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/166956",
+     "sha256": "ce13629b604b125233bed8fc0a72aecad1220c2eed2203e7ac11e782c007fceb"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-7-2015",
+   "path": "norma/asf/2015/7",
+   "short": "Norma asf nr. 7/2015",
+   "title": "Norma nr. 7/2015 privind utilizarea activului personal net al participantului la un fond de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167355",
+   "versions": [
+    {
+     "from": "2015-05-23",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167355",
+     "sha256": "87eba45684988ecf027624be46eda7e35347e8f93bcde8ba0b30efac96a952e4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-8-2015",
+   "path": "norma/asf/2015/8",
+   "short": "Norma asf nr. 8/2015",
+   "title": "Norma nr. 8/2015 privind utilizarea activului personal net al participantului la un fond de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167296",
+   "versions": [
+    {
+     "from": "2015-05-21",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167296",
+     "sha256": "5dcab2326309af81f61becb6a52aca78031f485979650de60d82305dff1b0454"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-9-2015",
+   "path": "norma/asf/2015/9",
+   "short": "Norma asf nr. 9/2015",
+   "title": "Norma nr. 9/2015 privind autorizarea și funcționarea brokerilor de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167339",
+   "versions": [
+    {
+     "from": "2015-04-22",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167339",
+     "sha256": "2627465bc9b3642f9ef20f6e712948d18c3fc509d04dcc8c5ea62cbc8a896e38"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-1-2015",
+   "path": "norma/bnr/2015/1",
+   "short": "Norma bnr nr. 1/2015",
+   "title": "Norma nr. 1/2015 privind transmiterea indicatorilor primari prin intermediul Sistemului informatic de raportare la Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/165513",
+   "versions": [
+    {
+     "from": "2015-02-09",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/165513",
+     "sha256": "0530610f309e6e4605877296f8aee63d0418d015f50cf18e6fff59b66c1254a4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-2-2015",
+   "path": "norma/bnr/2015/2",
+   "short": "Norma bnr nr. 2/2015",
+   "title": "Norma nr. 2/2015 privind transmiterea prin mijloace electronice a unor documente aferente operațiunilor de piață monetară efectuate de către Banca Națională a României prin intermediul licitației și facilităților permanente acordate de aceasta participanților eligibili",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167406",
+   "versions": [
+    {
+     "from": "2015-05-04",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167406",
+     "sha256": "10c41b5b842c313e82a4e430679c5e43524d4fe5eae32472ceaaa3563707c523"
+    }
+   ]
+  }
+ ]
+}

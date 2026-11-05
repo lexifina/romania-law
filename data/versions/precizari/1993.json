@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "precizari/1993",
+ "acts": [
+  {
+   "slug": "precizari-finante-2011-1993",
+   "path": "precizari/finante/1993/2011",
+   "short": "Precizări finante nr. 2011/1993",
+   "title": "Precizările nr. 2.011/1993 privind măsurile ce trebuie luate pentru închiderea exercițiului financiar pe anul 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3736",
+   "versions": [
+    {
+     "from": "1993-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3736",
+     "sha256": "7861a8287fa592a3ead76168d90bc1fc82ab0c5e84abcbc9c1ce72782e321e6b"
+    }
+   ]
+  },
+  {
+   "slug": "precizari-finante-2328-1993",
+   "path": "precizari/finante/1993/2328",
+   "short": "Precizări finante nr. 2328/1993",
+   "title": "Precizările nr. 2.328/1993 privind înregistrarea în contabilitate a operațiunilor de reevaluare a patrimoniului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3737",
+   "versions": [
+    {
+     "from": "1993-02-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3737",
+     "sha256": "07981791a57ca305d3684ed66747319fb11b4faab5ed4be6437b74cf0902cfef"
+    }
+   ]
+  },
+  {
+   "slug": "precizari-finante-76732-1993",
+   "path": "precizari/finante/1993/76732",
+   "short": "Precizări finante nr. 76732/1993",
+   "title": "Precizările nr. 76.732/1993 privind modificarea cuantumurilor cheltuielilor de protocol și ale cheltuielilor de delegare-detașare, potrivit prevederilor art. 2 din Hotărârea Guvernului nr. 552/1991 și ale art. 7 din Hotărârea Guvernului nr. 412/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3754",
+   "versions": [
+    {
+     "from": "1993-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3754",
+     "sha256": "91695318b0275f74862e7e90818a801eb70f5b0534a688720906878660fde246"
+    }
+   ]
+  },
+  {
+   "slug": "precizari-finante-77479-1993",
+   "path": "precizari/finante/1993/77479",
+   "short": "Precizări finante nr. 77479/1993",
+   "title": "Precizările nr. 77.479/1993 privind modificarea cuantumurilor cheltuielilor de protocol și a cheltuielilor de delegare-detașare, potrivit prevederilor art. 2 din Hotărârea Guvernului nr. 552/1991 și ale art. 7 din Hotărârea Guvernului nr. 412/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3757",
+   "versions": [
+    {
+     "from": "1993-08-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3757",
+     "sha256": "a7ea383a978785b3d4c1fa4b14acc6b4caebb129381be4954a8b27af78e1a932"
+    }
+   ]
+  },
+  {
+   "slug": "precizari-finante-78636-1993",
+   "path": "precizari/finante/1993/78636",
+   "short": "Precizări finante nr. 78636/1993",
+   "title": "Precizările nr. 78.636/1993 privind modificarea cuantumurilor cheltuielilor de protocol și a cheltuielilor de delegare-detașare, potrivit prevederilor art. 2 din Hotărârea Guvernului nr. 552/1991 și ale art. 7 din Hotărârea Guvernului nr. 412/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3758",
+   "versions": [
+    {
+     "from": "1993-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3758",
+     "sha256": "983c0a70d2e0c7ba5bf1d462b63deefab2a33c59d30efdb432f049ad2d5aeb77"
+    }
+   ]
+  }
+ ]
+}

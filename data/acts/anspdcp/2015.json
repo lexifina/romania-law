@@ -1,0 +1,60 @@
+{
+"country": "RO",
+"shard": "anspdcp/2015",
+"acts": [
+{
+"slug": "anspdcp-comunicat-sanctiune-2015-2015-06-18",
+"path": "anspdcp/comunicat-sanctiune/2015/2015-06-18",
+"kind": "anspdcp",
+"year": "2015",
+"number": "2015-06-18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Comunicat ANSPDCP din 2015-06-18: Sancțiuni aplicate de ANSPDCP",
+"short": "Comunicat ANSPDCP din 2015-06-18",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2015-06-18",
+"latest": "2015-06-18",
+"portal": "https://www.dataprotection.ro/?page=Comunicat_Presa_investigatii_aprilie&lang=ro"
+},
+{
+"slug": "anspdcp-comunicat-sanctiune-2015-2015-06-19",
+"path": "anspdcp/comunicat-sanctiune/2015/2015-06-19",
+"kind": "anspdcp",
+"year": "2015",
+"number": "2015-06-19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Comunicat ANSPDCP din 2015-06-19: Sancțiuni cookies",
+"short": "Comunicat ANSPDCP din 2015-06-19",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2015-06-19",
+"latest": "2015-06-19",
+"portal": "https://www.dataprotection.ro/?page=Comunicat_Presa_cookies&lang=ro"
+},
+{
+"slug": "anspdcp-decizie-2015-200",
+"path": "anspdcp/decizie/2015/200",
+"kind": "anspdcp",
+"year": "2015",
+"number": "200",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia ANSPDCP nr. 200/2015: din 14 decembrie 2015 privind stabilirea cazurilor de prelucrare a datelor cu caracter personal pentru care nu este necesară notificarea, precum și pentru modificarea și abrogarea unor decizii - A fost abrogată prin Decizia nr. 99/2018",
+"short": "Decizia ANSPDCP nr. 200/2015",
+"code": null,
+"status": "as published, later changes not yet recorded",
+"versions": 1,
+"from": "2015-12-28",
+"latest": "2015-12-28",
+"portal": "https://www.dataprotection.ro/servlet/ViewDocument?id=1175",
+"flags": {
+"repealed_by_note": "Decizia nr. 99/2018"
+}
+}
+]
+}

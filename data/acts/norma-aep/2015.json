@@ -1,0 +1,63 @@
+{
+"country": "RO",
+"shard": "norma-aep/2015",
+"acts": [
+{
+"slug": "norma-aep-metodologie-2015-11-03-2015",
+"path": "norma-aep/2015/metodologie-2015-11-03",
+"kind": "norma-aep",
+"year": "2015",
+"number": "metodologie-2015-11-03",
+"withdrawn_by": null,
+"reason": null,
+"title": "Metodologia Autorității Electorale Permanente din 2015-11-03",
+"short": "Metodologia AEP din 2015-11-03",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2015-11-06",
+"latest": "2015-11-06",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/172745",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-norma-2015-10-28-2015",
+"path": "norma-aep/2015/norma-2015-10-28",
+"kind": "norma-aep",
+"year": "2015",
+"number": "norma-2015-10-28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Normă Autorității Electorale Permanente din 2015-10-28",
+"short": "Normă AEP din 2015-10-28",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2015-11-02",
+"latest": "2015-11-02",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/172552",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-rectificare-11-2015",
+"path": "norma-aep/2015/rectificare-11",
+"kind": "norma-aep",
+"year": "2015",
+"number": "rectificare-11",
+"withdrawn_by": null,
+"reason": null,
+"title": "RECTIFICARE nr. 11 din 3 noiembrie 2015 referitoare la Hotărârea Autorităţii Electorale Permanente nr. 11/2015 privind aprobarea Metodologiei de admitere în Corpul experţilor electorali",
+"short": "Rectificarea AEP nr. 11/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2016-02-05",
+"latest": "2016-02-05",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/175605"
+}
+]
+}

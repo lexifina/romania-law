@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "norma-aep/2008",
+ "acts": [
+  {
+   "slug": "norma-aep-completare-334-2006-2-2008",
+   "path": "norma-aep/2008/completare-334-2006-2",
+   "short": "Completare AEP nr. 334-2006/2008",
+   "title": "Completare Autorității Electorale Permanente nr. 334-2006 din 2008-07-15",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/95644",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/95644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-completare-334-2006-2008",
+   "path": "norma-aep/2008/completare-334-2006",
+   "short": "Completare AEP nr. 334-2006/2008",
+   "title": "Completare Autorității Electorale Permanente nr. 334-2006 din 2008-06-16",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/94340",
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/94340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-334-2006-2-2008",
+   "path": "norma-aep/2008/lista-334-2006-2",
+   "short": "Listă AEP nr. 334-2006/2008",
+   "title": "Listă Autorității Electorale Permanente nr. 334-2006 din 2008-07-01",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/95094",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/95094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-334-2006-2008",
+   "path": "norma-aep/2008/lista-334-2006",
+   "short": "Listă AEP nr. 334-2006/2008",
+   "title": "Listă Autorității Electorale Permanente nr. 334-2006 din 2008-06-16",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/94159",
+   "versions": [
+    {
+     "from": "2008-06-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/94159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-334-2006-3-2008",
+   "path": "norma-aep/2008/lista-334-2006-3",
+   "short": "Listă AEP nr. 334-2006/2008",
+   "title": "LISTĂ din 11 noiembrie 2008 partidelor politice, alianţelor politice şi electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus până la data de 6 noiembrie 2008 raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 38 alin. (1^1) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu modificările şi completările ulterioare, pentru alegerile locale parţiale desfăşurate conform Hotărârii Guvernului nr. 1.089/2008 privind stabilirea datei alegerilor locale parţiale pentru alegerea primarilor în unele circumscripţii electorale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/99046",
+   "versions": [
+    {
+     "from": "2008-11-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/99046",
+     "sha256": "f03b639f2d98fa850c5366948ccc2efaafc41bcbe0436c55174bd54a3bf51d2d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-334-2006-4-2008",
+   "path": "norma-aep/2008/lista-334-2006-4",
+   "short": "Listă AEP nr. 334-2006/2008",
+   "title": "LISTĂ din 2008 partidelor politice, alianţelor politice şi electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus până la data de 11 decembrie 2008 raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 38 alin. (1^1) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu modificările şi completările ulterioare, pentru alegerile locale parţiale desfăşurate conform Hotărârii Guvernului nr. 1.327/2008 privind stabilirea datei alegerilor locale parţiale pentru alegerea Consiliului local în circumscripţia electorală comunală Criciova din judeţul Timiş",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/100677",
+   "versions": [
+    {
+     "from": "2008-12-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/100677",
+     "sha256": "6cb0ce0359d5f5b5a320a8c8f856acab997f531e314d4acc83141e119102a143"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-983-2008-2008",
+   "path": "norma-aep/2008/lista-983-2008",
+   "short": "Listă AEP nr. 983-2008/2008",
+   "title": "Listă Autorității Electorale Permanente nr. 983-2008 din 2008-12-11",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/100193",
+   "versions": [
+    {
+     "from": "2008-12-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/100193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-norma-2008-09-24-2008",
+   "path": "norma-aep/2008/norma-2008-09-24",
+   "short": "Normă AEP din 2008-09-24",
+   "title": "NORME din 24 septembrie 2008 privind constituirea şi restituirea depozitelor pentru alegerea Camerei Deputaţilor şi a Senatului",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/97606",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/97606",
+     "sha256": "523a2ae4524b9f645b5b595bc40de709e22d8565c1fdd820ba5250370c6370bc"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-situatie-334-2006-2008",
+   "path": "norma-aep/2008/situatie-334-2006",
+   "short": "Situație AEP nr. 334-2006/2008",
+   "title": "Situație Autorității Electorale Permanente nr. 334-2006 din 2008-08-11",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/96475",
+   "versions": [
+    {
+     "from": "2008-08-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/96475",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

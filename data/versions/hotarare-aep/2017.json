@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "hotarare-aep/2017",
+ "acts": [
+  {
+   "slug": "hotarare-aep-19-2017",
+   "path": "hotarare-aep/2017/19",
+   "short": "Hotărârea AEP nr. 19/2017",
+   "title": "HOTĂRÂRE nr. 19 din 23 mai 2017 pentru aprobarea Metodologiei de avizare a actualizării delimitării secţiilor de votare din ţară şi a stabilirii sediilor acestora",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/189527",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/189527",
+     "sha256": "9ba245b2c5a1f094764481e8c53579986fe1a40e7dd15a71a199e9695c6c76b7"
+    }
+   ]
+  }
+ ]
+}

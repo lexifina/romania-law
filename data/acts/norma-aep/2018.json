@@ -1,0 +1,23 @@
+{
+"country": "RO",
+"shard": "norma-aep/2018",
+"acts": [
+{
+"slug": "norma-aep-rectificare-2018-03-01-2018",
+"path": "norma-aep/2018/rectificare-2018-03-01",
+"kind": "norma-aep",
+"year": "2018",
+"number": "rectificare-2018-03-01",
+"withdrawn_by": null,
+"reason": null,
+"title": "RECTIFICĂRI din 2017 referitoare la Raportul privind rezultatul controlului efectuat de Autoritatea Electorală Permanentă la Partidul Social Democrat",
+"short": "Rectificarea AEP din 2018-03-01",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-03-01",
+"latest": "2018-03-01",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/198227"
+}
+]
+}

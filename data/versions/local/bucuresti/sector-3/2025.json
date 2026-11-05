@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-3/2025",
+ "acts": [
+  {
+   "slug": "hcls3-136-2025",
+   "path": "local/bucuresti/sector-3/2025/136",
+   "short": "HCLS3 nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 136/2025 privind aprobarea tarifelor aferente activităţii de administrare şi exploatare a Complexului acvatic- Parc Pantelimon, prin concesiune",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._136_din_26_.03.2025.pdf",
+     "sha256": "3e43708586b788d0af84d806dbf533385c9468462f2bd09cff591a9f109375b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-172-2025",
+   "path": "local/bucuresti/sector-3/2025/172",
+   "short": "HCLS3 nr. 172/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 172/2025 privind finalizarea procedurii de selecţie a Administratorului 5 şi actualizarea Scrisorii de aşteptări a societăţii SD3 - Salubritate şi Deszăpezire S3 SRL",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+   "versions": [
+    {
+     "from": "2025-04-24",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._172_din_24_.04.2025.pdf",
+     "sha256": "3c0dfd4fb0eb54077d0ddd2cfb530e99c802b1d746ccb3dd9f6b05066ec3a15b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-628-2025",
+   "path": "local/bucuresti/sector-3/2025/628",
+   "short": "HCLS3 nr. 628/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 628/2025 privind aprobarea Regulamentului - Cadru în vederea închirierii cinematografului Gloria din Sectorul 3 al Municipiului Bucureşti",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/11",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._628_din_26_.11.2025.pdf",
+     "sha256": "effa7a3a65efbb00c706206b7a6f3e34d3b0a109a7070ba43c4d92f1cbb4b985"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-629-2025",
+   "path": "local/bucuresti/sector-3/2025/629",
+   "short": "HCLS3 nr. 629/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 629/2025 privind aprobarea Regulamentului de închiriere si utilizare temporară a spaţiilor excedentare din unităţile de învăţământ preuniversitar de stat aflate pe raza Sectorului 3",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/11",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._629_din_26_.11.2025.pdf",
+     "sha256": "6e95b8509ee41ffdcb724b5fd083a0da12ad5a92e70758b8ea16424bd3baac23"
+    }
+   ]
+  },
+  {
+   "slug": "hcls3-630-2025",
+   "path": "local/bucuresti/sector-3/2025/630",
+   "short": "HCLS3 nr. 630/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 3 nr. 630/2025 privind modificarea Regulamentului privind gestionarea locurilor din parcările de reşedinţă de pe raza Sectorului 3, aprobat prin HCLS 3 nr. 346/30.08.2022, cu modificările şi completările ulterioare",
+   "url": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/11",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr._630_din_26_.11.2025.pdf",
+     "sha256": "a1c31159c17ec7178cac39100c413c3c0c6e74848a5f39de42ffdcd4d7a34c82"
+    }
+   ]
+  }
+ ]
+}

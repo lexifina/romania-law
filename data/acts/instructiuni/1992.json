@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "instructiuni/1992",
+"acts": [
+{
+"slug": "instructiuni-finante-1409-1992",
+"path": "instructiuni/finante/1992/1409",
+"kind": "instructiuni",
+"year": "1992",
+"number": "1409",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 1.409/1992 privind contribuția agenților economici la constituirea fondului asigurărilor sociale pentru agricultori",
+"short": "Instrucțiuni finante nr. 1409/1992",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1992-11-11",
+"latest": "1992-11-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/2939",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "instructiuni-finante-182798-1992",
+"path": "instructiuni/finante/1992/182798",
+"kind": "instructiuni",
+"year": "1992",
+"number": "182798",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile nr. 182.798/1992 privind contribuția agenților economici la constituirea fondului asigurărilor sociale pentru agricultori",
+"short": "Instrucțiuni finante nr. 182798/1992",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1992-11-11",
+"latest": "1992-11-11",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/2960",
+"issuer": "finante",
+"joint": []
+}
+]
+}

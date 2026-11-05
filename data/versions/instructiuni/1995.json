@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/1995",
+ "acts": [
+  {
+   "slug": "instructiuni-cnvm-2-1995",
+   "path": "instructiuni/cnvm/1995/2",
+   "short": "Instrucțiuni cnvm nr. 2/1995",
+   "title": "Instrucțiunile nr. 2/1995 cu privire la activitățile conexe de intermediere de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5638",
+   "versions": [
+    {
+     "from": "1995-08-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5638",
+     "sha256": "36ed92790d1c894d4eb6e3dbd5d031d795b501feaf6ec322b68c30737ee1d14e"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-5-1995",
+   "path": "instructiuni/cnvm/1995/5",
+   "short": "Instrucțiuni cnvm nr. 5/1995",
+   "title": "Instrucțiunile nr. 5/1995 privind raportarea rezultatelor Programului de ofertă publică de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5672",
+   "versions": [
+    {
+     "from": "1995-11-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5672",
+     "sha256": "e0ff1731aa2f28eaed105ec2c65c2695946f724c44a9d8a782cf9c4904dbc79d"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-6-1995",
+   "path": "instructiuni/cnvm/1995/6",
+   "short": "Instrucțiuni cnvm nr. 6/1995",
+   "title": "Instrucțiunile nr. 6/1995 cu privire la retragerea sau suspendarea autorizației agenților de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5687",
+   "versions": [
+    {
+     "from": "1995-11-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5687",
+     "sha256": "acfe265d6edcd8414b77fd048b78ddfad1d297e8b4c2e2f7b0ce1db5c09d7dab"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-7-1995",
+   "path": "instructiuni/cnvm/1995/7",
+   "short": "Instrucțiuni cnvm nr. 7/1995",
+   "title": "Instrucțiunile nr. 7/1995 cu privire la conținutul minim al materialului publicitar pentru promovarea titlurilor de participare ale fondurilor de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5701",
+   "versions": [
+    {
+     "from": "1995-11-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5701",
+     "sha256": "e176da5e956bf31d9044496b15857edf2f27c215bb8a8eb1f7c5af87e100a3e8"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-8-1995",
+   "path": "instructiuni/cnvm/1995/8",
+   "short": "Instrucțiuni cnvm nr. 8/1995",
+   "title": "Instrucțiunile nr. 8/1995 privind interzicerea activităților de intermediere de valori mobiliare efectuate de către persoane fizice și juridice fără autorizarea Comisiei Naționale a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5713",
+   "versions": [
+    {
+     "from": "1995-12-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5713",
+     "sha256": "7939d7e1adc6d5124aab3180cc250811924b9dd154ecac9d50c5758d9fbad310"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-9-1995",
+   "path": "instructiuni/cnvm/1995/9",
+   "short": "Instrucțiuni cnvm nr. 9/1995",
+   "title": "Instrucțiunile nr. 9/1995 privind interzicerea oricărei propuneri de vînzare/cumpărare de valori mobiliare, efectuată prin mijloace de informare în masa, fără îndeplinirea condițiilor legale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5723",
+   "versions": [
+    {
+     "from": "1995-12-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5723",
+     "sha256": "3736bbe8a9a64308226978ae5b88c428ea96a9e270a933dd7e3cbda88f36b22d"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+"country": "RO",
+"shard": "decizie-bec/2000",
+"acts": [
+{
+"slug": "decizie-bec-locale-2000-proces-verbal-2000-06-04-2",
+"path": "decizie-bec/locale-2000/proces-verbal-2000-06-04-2",
+"kind": "decizie-bec",
+"year": "2000",
+"number": "proces-verbal-2000-06-04-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Proces verbal Biroului Electoral Central din 2000-06-04",
+"short": "Proces verbal BEC din 2000-06-04",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2000-06-09",
+"latest": "2000-06-09",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/22647",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-locale-2000-proces-verbal-2000-06-04",
+"path": "decizie-bec/locale-2000/proces-verbal-2000-06-04",
+"kind": "decizie-bec",
+"year": "2000",
+"number": "proces-verbal-2000-06-04",
+"withdrawn_by": null,
+"reason": null,
+"title": "Proces verbal Biroului Electoral Central din 2000-06-04",
+"short": "Proces verbal BEC din 2000-06-04",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2000-06-09",
+"latest": "2000-06-09",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/22646",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-locale-2000-13",
+"path": "decizie-bec/locale-2000/13",
+"kind": "decizie-bec",
+"year": "2000",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Biroului Electoral Central nr. 13 din 2000-05-11",
+"short": "Hotărârea BEC nr. 13/2000",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2000-05-16",
+"latest": "2000-05-16",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/22354",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-locale-2000-14",
+"path": "decizie-bec/locale-2000/14",
+"kind": "decizie-bec",
+"year": "2000",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Biroului Electoral Central nr. 14 din 2000-05-11",
+"short": "Hotărârea BEC nr. 14/2000",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2000-05-16",
+"latest": "2000-05-16",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/22355",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-locale-2000-29",
+"path": "decizie-bec/locale-2000/29",
+"kind": "decizie-bec",
+"year": "2000",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Biroului Electoral Central nr. 29 din 2000-05-23",
+"short": "Hotărârea BEC nr. 29/2000",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2000-05-26",
+"latest": "2000-05-26",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/22485",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-locale-2000-30",
+"path": "decizie-bec/locale-2000/30",
+"kind": "decizie-bec",
+"year": "2000",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Biroului Electoral Central nr. 30 din 2000-05-23",
+"short": "Hotărârea BEC nr. 30/2000",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2000-05-26",
+"latest": "2000-05-26",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/22486",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

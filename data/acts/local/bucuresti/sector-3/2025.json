@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/bucuresti/sector-3/2025",
+"acts": [
+{
+"slug": "hcls3-136-2025",
+"path": "local/bucuresti/sector-3/2025/136",
+"kind": "local",
+"year": "2025",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 3 nr. 136/2025 privind aprobarea tarifelor aferente activităţii de administrare şi exploatare a Complexului acvatic- Parc Pantelimon, prin concesiune",
+"short": "HCLS3 nr. 136/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-03-26",
+"latest": "2025-03-26",
+"portal": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/03",
+"council": "bucuresti/sector-3",
+"council_name": "Consiliul Local al Sectorului 3 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls3-172-2025",
+"path": "local/bucuresti/sector-3/2025/172",
+"kind": "local",
+"year": "2025",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 3 nr. 172/2025 privind finalizarea procedurii de selecţie a Administratorului 5 şi actualizarea Scrisorii de aşteptări a societăţii SD3 - Salubritate şi Deszăpezire S3 SRL",
+"short": "HCLS3 nr. 172/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-04-24",
+"latest": "2025-04-24",
+"portal": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/04",
+"council": "bucuresti/sector-3",
+"council_name": "Consiliul Local al Sectorului 3 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls3-628-2025",
+"path": "local/bucuresti/sector-3/2025/628",
+"kind": "local",
+"year": "2025",
+"number": "628",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 3 nr. 628/2025 privind aprobarea Regulamentului - Cadru în vederea închirierii cinematografului Gloria din Sectorul 3 al Municipiului Bucureşti",
+"short": "HCLS3 nr. 628/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/11",
+"council": "bucuresti/sector-3",
+"council_name": "Consiliul Local al Sectorului 3 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls3-629-2025",
+"path": "local/bucuresti/sector-3/2025/629",
+"kind": "local",
+"year": "2025",
+"number": "629",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 3 nr. 629/2025 privind aprobarea Regulamentului de închiriere si utilizare temporară a spaţiilor excedentare din unităţile de învăţământ preuniversitar de stat aflate pe raza Sectorului 3",
+"short": "HCLS3 nr. 629/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/11",
+"council": "bucuresti/sector-3",
+"council_name": "Consiliul Local al Sectorului 3 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls3-630-2025",
+"path": "local/bucuresti/sector-3/2025/630",
+"kind": "local",
+"year": "2025",
+"number": "630",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 3 nr. 630/2025 privind modificarea Regulamentului privind gestionarea locurilor din parcările de reşedinţă de pe raza Sectorului 3, aprobat prin HCLS 3 nr. 346/30.08.2022, cu modificările şi completările ulterioare",
+"short": "HCLS3 nr. 630/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://www.primarie3.ro/index.php/consiliul_local/hotarari/2025/11",
+"council": "bucuresti/sector-3",
+"council_name": "Consiliul Local al Sectorului 3 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

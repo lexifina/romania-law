@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/2020",
+ "acts": [
+  {
+   "slug": "instructiuni-asf-1-2020",
+   "path": "instructiuni/asf/2020/1",
+   "short": "Instrucțiuni asf nr. 1/2020",
+   "title": "Instrucțiunile nr. 1/2020 privind transmiterea raportărilor și a altor documente către Autoritatea de Supraveghere Financiară în perioada aplicării măsurilor excepționale generate de criza COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223918",
+   "versions": [
+    {
+     "from": "2020-03-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223918",
+     "sha256": "86e0ca6a0eeceabf2a2d35dc5f2e4997e86f8c0af210df5a6ad6d60f8ffd298b"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-asf-2-2020",
+   "path": "instructiuni/asf/2020/2",
+   "short": "Instrucțiuni asf nr. 2/2020",
+   "title": "Instrucțiunile nr. 2/2020 pentru modificarea anexelor nr. 1-4 din Instrucțiunea Autorității de Supraveghere Financiară nr. 1/2016 privind întocmirea și depunerea situației financiare anuale și a raportării anuale de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară - Sectorul instrumentelor și investițiilor financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224410",
+   "versions": [
+    {
+     "from": "2020-03-26",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224410",
+     "sha256": "586d0e4bf8a04dc5ba014a0ac25376edb5463969c2a79ebb83d6742e618f769c"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-asf-3-2020",
+   "path": "instructiuni/asf/2020/3",
+   "short": "Instrucțiuni asf nr. 3/2020",
+   "title": "Instrucțiunile nr. 3/2020 privind modul de transmitere a raportărilor și a altor documente în format electronic către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225564",
+   "versions": [
+    {
+     "from": "2020-05-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225564",
+     "sha256": "afd4deca84ea6fe0a1a6aaab6ff0a151d6e3dacd878780f9b223a34a1fddaf2c"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-asf-5-2020",
+   "path": "instructiuni/asf/2020/5",
+   "short": "Instrucțiuni asf nr. 5/2020",
+   "title": "Instrucțiunile nr. 5/2020 pentru modificarea anexei nr. 1 la Instrucțiunea Autorității de Supraveghere Financiară nr. 2/2016 privind întocmirea și depunerea raportării contabile semestriale de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară - Sectorul Instrumentelor și Investițiilor Financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229186",
+   "versions": [
+    {
+     "from": "2020-08-18",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229186",
+     "sha256": "e612ad4e97019259106dcf1c4f06ef21edd784597fcaaf0919c36e1297338ae5"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-asf-6-2020",
+   "path": "instructiuni/asf/2020/6",
+   "short": "Instrucțiuni asf nr. 6/2020",
+   "title": "Instrucțiunile nr. 6/2020 pentru prorogarea termenului prevăzut la art. 5 alin. (2) din Instrucțiunea Autorității de Supraveghere Financiară nr. 3/2020 privind modul de transmitere a raportărilor și a altor documente în format electronic către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232752",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232752",
+     "sha256": "42fa2073844155a542d5549faea815ec35549b9b923006f80c99437d49e67d88"
+    }
+   ]
+  }
+ ]
+}

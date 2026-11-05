@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-6/2017",
+ "acts": [
+  {
+   "slug": "hcls6-293-2017",
+   "path": "local/bucuresti/sector-6/2017/293",
+   "short": "HCLS6 nr. 293/2017",
+   "title": "Hotărârea Consiliului Local al Sectorului 6 nr. 293/2017 privind aprobarea Regulamentului privind parcurile, locurile de joacă, locurile de odihnă, grădinile de cartier şi terenurile de sport aflate în administrarea Sectorului 6 al Municipiului Bucureşti. - modificata prin HCL S6 nr. 204/23.09.2022",
+   "url": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-regulamentului-privind-parcurile-locurile-de-joaca-locurile-de-odihna-gradinile-de-cartier-si-terenurile-de-sport-aflate-administrarea-sectorului-6-al-municipiului-bucuresti",
+   "versions": [
+    {
+     "from": "2017-11-23",
+     "units": 1,
+     "source_url": "https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/HCL-S-6-nr-293.pdf",
+     "sha256": "04ed127a0230b1f7dfae5b0c87165c219ade7e3a8479092e4f9b38ddf027996d"
+    }
+   ]
+  }
+ ]
+}

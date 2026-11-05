@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "decizie-bec/1998",
+ "acts": [
+  {
+   "slug": "decizie-bec-locale-1998-10",
+   "path": "decizie-bec/locale-1998/10",
+   "short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 10/1998",
+   "title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 10 din 1998-10-20",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/15978",
+   "versions": [
+    {
+     "from": "1998-10-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/15978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-1998-13",
+   "path": "decizie-bec/locale-1998/13",
+   "short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 13/1998",
+   "title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 13 din 1998-10-28",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/16022",
+   "versions": [
+    {
+     "from": "1998-10-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/16022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-1998-14",
+   "path": "decizie-bec/locale-1998/14",
+   "short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 14/1998",
+   "title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 14 din 1998-10-28",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/16023",
+   "versions": [
+    {
+     "from": "1998-10-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/16023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-1998-15",
+   "path": "decizie-bec/locale-1998/15",
+   "short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 15/1998",
+   "title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 15 din 1998-10-30",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/16028",
+   "versions": [
+    {
+     "from": "1998-11-02",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/16028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-1998-4",
+   "path": "decizie-bec/locale-1998/4",
+   "short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 4/1998",
+   "title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 4 din 1998-10-17",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/15962",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/15962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-1998-5",
+   "path": "decizie-bec/locale-1998/5",
+   "short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 5/1998",
+   "title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 5 din 1998-10-18",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/15963",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/15963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-1998-7",
+   "path": "decizie-bec/locale-1998/7",
+   "short": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 7/1998",
+   "title": "Hotărârea Biroul Electoral al Municipiului Bucure?ti nr. 7 din 1998-10-18",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/15964",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/15964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-1998-proces-verbal-0",
+   "path": "decizie-bec/locale-1998/proces-verbal-0",
+   "short": "Proces verbal Biroul Electoral al Municipiului Bucure?ti nr. 0/1998",
+   "title": "Proces verbal Biroul Electoral al Municipiului Bucure?ti nr. 0 din 1998-11-08",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/16105",
+   "versions": [
+    {
+     "from": "1998-11-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/16105",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

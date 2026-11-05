@@ -1,0 +1,271 @@
+{
+"country": "RO",
+"shard": "local/bucuresti/sector-4/2015",
+"acts": [
+{
+"slug": "hcls4-15-2015",
+"path": "local/bucuresti/sector-4/2015/15",
+"kind": "local",
+"year": "2015",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 15/2015 privind tarifele pentru serviciile prestate si utilizarea domeniului public aflat in administrarea Directiei de Administrare a Pietelor Sector 4",
+"short": "HCLS4 nr. 15/2015",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2015-01-29",
+"latest": "2015-01-29",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=111",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls4-20-2015",
+"path": "local/bucuresti/sector-4/2015/20",
+"kind": "local",
+"year": "2015",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 20/2015 pentru modificarea Hotărârii Consiliului Local al Sectorului 4 nr. 173/15.12.2014 privind aprobarea Metodologiei de atribuire a locurilor de parcare pe raza Sectorului 4",
+"short": "HCLS4 nr. 20/2015",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2015-01-29",
+"latest": "2015-01-29",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=110",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls4-33-2015",
+"path": "local/bucuresti/sector-4/2015/33",
+"kind": "local",
+"year": "2015",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 33/2015",
+"short": "HCLS4 nr. 33/2015",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2015-02-26",
+"latest": "2015-02-26",
+"portal": null,
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcls4-76-2015",
+"path": "local/bucuresti/sector-4/2015/76",
+"kind": "local",
+"year": "2015",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 76/2015 privind aprobarea Regulamentului de Organizare şi Funcţionare al Aparatului de Specialitate al Primarului Sectorului 4 al Municipiului Bucureşti",
+"short": "HCLS4 nr. 76/2015",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2015-04-23",
+"latest": "2015-04-23",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=108",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls4-81-2015",
+"path": "local/bucuresti/sector-4/2015/81",
+"kind": "local",
+"year": "2015",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 81/2015 privind aprobarea Metodologiei de acordare a gratuitatii transportului urban cu metroul si cu mijloace de transport in comun, de suprafata (R.A.T.B.)",
+"short": "HCLS4 nr. 81/2015",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2015-04-23",
+"latest": "2015-04-23",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=108",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls4-103-2015",
+"path": "local/bucuresti/sector-4/2015/103",
+"kind": "local",
+"year": "2015",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 103/2015 privind stabilirea taxei de eliberare a atestatelor de producător",
+"short": "HCLS4 nr. 103/2015",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2015-05-28",
+"latest": "2015-05-28",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=107",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls4-107-2015",
+"path": "local/bucuresti/sector-4/2015/107",
+"kind": "local",
+"year": "2015",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 107/2015 privind aprobarea planului de ocupare a funcţiilor publice din cadrul Direcţiei Generale de Impozite şi Taxe Locale Sector 4",
+"short": "HCLS4 nr. 107/2015",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2015-05-28",
+"latest": "2015-05-28",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=107",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls4-108-2015",
+"path": "local/bucuresti/sector-4/2015/108",
+"kind": "local",
+"year": "2015",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 108/2015 privind modificarea Regulamentelor de functionare ale pietelor din Sectorul 4, aflate in directa administrare a Directiei Piete si Gestionare Activitati Comerciale Sector 4",
+"short": "HCLS4 nr. 108/2015",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2015-05-28",
+"latest": "2015-05-28",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=107",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls4-114-2015",
+"path": "local/bucuresti/sector-4/2015/114",
+"kind": "local",
+"year": "2015",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 114/2015 pentru modificarea şi completarea Hotărârii Consiliului Local al Sectorului 4 nr. 16/2009 privind stabilirea situaţiilor deosebite pentru care se acordă ajutoare de urgenţă şi aprobarea metodologiei",
+"short": "HCLS4 nr. 114/2015",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2015-06-02",
+"latest": "2015-06-02",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=107",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcls4-174-2015",
+"path": "local/bucuresti/sector-4/2015/174",
+"kind": "local",
+"year": "2015",
+"number": "174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 174/2015 privind scutirea de la plata taxei extrajudiciare de timbru pentru certificatele de atestare fiscală emise în format electronic/online către instituţiile publice",
+"short": "HCLS4 nr. 174/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-09-30",
+"latest": "2015-09-30",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=105",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls4-185-2015",
+"path": "local/bucuresti/sector-4/2015/185",
+"kind": "local",
+"year": "2015",
+"number": "185",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 185/2015 privind aprobarea acordarii unor ajutoare de urgenţă şi stabilirea procedurii de întocmire a dosarelor şi a metodologiei de aprobare a ajutoarelor de urgenţă sub formă de tichete sociale, cu ocazia Sfintei Sărbători de Crăciun - Naşterea Domnulu",
+"short": "HCLS4 nr. 185/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-11-26",
+"latest": "2015-11-26",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=104",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls4-189-2015",
+"path": "local/bucuresti/sector-4/2015/189",
+"kind": "local",
+"year": "2015",
+"number": "189",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 4 nr. 189/2015 privind metodologia de acordare a granturilor pentru premierea unităţilor de învăţământ de stat cu rezultate deosebite în domeniul performanţelor şcolare",
+"short": "HCLS4 nr. 189/2015",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2015-11-26",
+"latest": "2015-11-26",
+"portal": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=105",
+"council": "bucuresti/sector-4",
+"council_name": "Consiliul Local al Sectorului 4 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

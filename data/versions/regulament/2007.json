@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "regulament/2007",
+ "acts": [
+  {
+   "slug": "regulament-bnr-1-2007",
+   "path": "regulament/bnr/2007/1",
+   "short": "Regulament bnr nr. 1/2007",
+   "title": "Regulamentul nr. 1/2007 privind registrul instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79573",
+   "versions": [
+    {
+     "from": "2007-02-16",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79573",
+     "sha256": "eadd39c5575f4a17cba0cf2292f74dddd0f200f773eacf5feb722780f279c0d4"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-10-2007",
+   "path": "regulament/bnr/2007/10",
+   "short": "Regulament bnr nr. 10/2007",
+   "title": "Regulamentul nr. 10/2007 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 18/2006 și Regulamentului Comisiei Naționale a Valorilor Mobiliare nr. 23/2006 privind fondurile proprii ale instituțiilor de credit și ale firmelor de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88029",
+   "versions": [
+    {
+     "from": "2007-12-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88029",
+     "sha256": "81b7d555d9fb8505ae5d7a8a2c069f737fa25ec5cf4893e944ee6cf281a09f1e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-11-2007",
+   "path": "regulament/bnr/2007/11",
+   "short": "Regulament bnr nr. 11/2007",
+   "title": "Regulamentul nr. 11/2007 privind autorizarea instituțiilor de credit, persoane juridice române, și a sucursalelor din România ale instituțiilor de credit din state terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87594",
+   "versions": [
+    {
+     "from": "2007-12-06",
+     "units": 98,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87594",
+     "sha256": "340700f3d4a1aad4619638107cf7ae6c50b17a7655ebf79f5e362573fb457247"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-12-2007",
+   "path": "regulament/bnr/2007/12",
+   "short": "Regulament bnr nr. 12/2007",
+   "title": "Regulamentul nr. 12/2007 privind abrogarea unor acte normative emise de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87847",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87847",
+     "sha256": "0d1ed07c9eca5b025bc4ca4eead3060dbd2f2411f7bd94af8fd8aa90c6de9dea"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-3-2007",
+   "path": "regulament/bnr/2007/3",
+   "short": "Regulament bnr nr. 3/2007",
+   "title": "Regulamentul nr. 3/2007 privind limitarea riscului de credit la creditele destinate persoanelor fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80236",
+   "versions": [
+    {
+     "from": "2007-03-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80236",
+     "sha256": "233b0d17d095e2ddb47d028691c270a402b4101547f15f9dde7759e13b19bfce"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-4-2007",
+   "path": "regulament/bnr/2007/4",
+   "short": "Regulament bnr nr. 4/2007",
+   "title": "Regulamentul nr. 4/2007 privind modificarea și completarea Regulamentului Băncii Naționale a României nr. 5/2002 privind clasificarea creditelor și plasamentelor, precum și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/80377",
+   "versions": [
+    {
+     "from": "2007-06-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80377",
+     "sha256": "f09415d8c6ba16c5c356bdc057e957efe3056d35b6b4fad63baa5de6ef121074"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-5-2007",
+   "path": "regulament/bnr/2007/5",
+   "short": "Regulament bnr nr. 5/2007",
+   "title": "Regulamentul nr. 5/2007 pentru modificarea Regulamentului Băncii Naționale a României nr. 5/2002 privind clasificarea creditelor și plasamentelor, precum și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83221",
+   "versions": [
+    {
+     "from": "2007-06-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83221",
+     "sha256": "7a79d4a55dc6d695f8c2cde8e3b08ef23c0a5b85004a6c804a15ae1400bd0a67"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-7-2007",
+   "path": "regulament/bnr/2007/7",
+   "short": "Regulament bnr nr. 7/2007",
+   "title": "Regulamentul nr. 7/2007 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 1/2000 privind operațiunile de piață monetară efectuate de Banca Națională a României și facilitățile permanente acordate de aceasta participanților eligibili (contrapartidelor eligibile)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86337",
+   "versions": [
+    {
+     "from": "2007-10-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86337",
+     "sha256": "0146c6be43fd29d43f811d766e459de9be0f28dc18f30836cd71fa58647879ee"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-9-2007",
+   "path": "regulament/bnr/2007/9",
+   "short": "Regulament bnr nr. 9/2007",
+   "title": "Regulamentul nr. 9/2007 privind monitorizarea sistemelor de plăți, a sistemelor de decontare a operațiunilor cu instrumente financiare și a instrumentelor de plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87250",
+   "versions": [
+    {
+     "from": "2007-11-26",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87250",
+     "sha256": "bf0094957939264d299c86c8a713ccd7b72574172a40844f8ba14648d30e2099"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-12-2007",
+   "path": "regulament/cnvm/2007/12",
+   "short": "Regulament cnvm nr. 12/2007",
+   "title": "Regulamentul nr. 12/2007 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 18/2006 și Regulamentului Comisiei Naționale a Valorilor Mobiliare nr. 23/2006 privind fondurile proprii ale instituțiilor de credit și ale firmelor de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88051",
+   "versions": [
+    {
+     "from": "2007-12-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88051",
+     "sha256": "600e1e537018894c5365669fae7fa47d516e6334a879579f578e693ebd30e3ca"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-2-2007",
+   "path": "regulament/cnvm/2007/2",
+   "short": "Regulament cnvm nr. 2/2007",
+   "title": "Regulamentul nr. 2/2007 de modificare a Regulamentului nr. 13/2005 privind autorizarea și funcționarea depozitarului central, caselor de compensare și contrapărților centrale, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81124",
+   "versions": [
+    {
+     "from": "2007-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81124",
+     "sha256": "80282c104167d9116b04f17d872ec26370f7be2362b97093d859647ba2f79594"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-7-2007",
+   "path": "regulament/cnvm/2007/7",
+   "short": "Regulament cnvm nr. 7/2007",
+   "title": "Regulamentul nr. 7/2007 de modificare a Regulamentului nr. 7/2006 privind veniturile Comisiei Naționale a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85241",
+   "versions": [
+    {
+     "from": "2007-09-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85241",
+     "sha256": "9506af42ab7d5545e8bcca34d02075766120903efe08de525628fc9335a1c4f9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-8-2007",
+   "path": "regulament/cnvm/2007/8",
+   "short": "Regulament cnvm nr. 8/2007",
+   "title": "Regulamentul nr. 8/2007 privind completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 14/19/2006 privind tratamentul riscului de credit pentru instituțiile de credit și firmele de investiții potrivit abordării standard",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85684",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85684",
+     "sha256": "029c2f71e09fc220e73777641cb8d4c1e5a5ac0b15afdc0b2cde1a8c1dc4ce75"
+    }
+   ]
+  }
+ ]
+}

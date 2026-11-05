@@ -1,0 +1,456 @@
+{
+ "country": "RO",
+ "shard": "norma/2017",
+ "acts": [
+  {
+   "slug": "norma-asf-1-2017",
+   "path": "norma/asf/2017/1",
+   "short": "Norma asf nr. 1/2017",
+   "title": "Norma nr. 1/2017 pentru modificarea și completarea Reglementărilor contabile privind situațiile financiare anuale individuale și situațiile financiare anuale consolidate ale entităților care desfășoară activitate de asigurare și/sau reasigurare, aprobate prin Norma Autorității de Supraveghere Financiară nr. 41/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186032",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186032",
+     "sha256": "ae684a24c29fba329c7a75f465ccab79864da8ea26c5907312aa20b61e7976b1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-10-2017",
+   "path": "norma/asf/2017/10",
+   "short": "Norma asf nr. 10/2017",
+   "title": "Norma nr. 10/2017 pentru modificarea și completarea Normei nr. 3/2013 privind activitatea de marketing a fondului de pensii administrat privat, aprobată prin Hotărârea Consiliului Comisiei de Supraveghere a Sistemului de Pensii Private nr. 5/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188754",
+   "versions": [
+    {
+     "from": "2017-05-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188754",
+     "sha256": "7dd7588a8719cabab7ded24adb5cf7c3ebc31dd9f012907899a88fb585ee60c4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-11-2017",
+   "path": "norma/asf/2017/11",
+   "short": "Norma asf nr. 11/2017",
+   "title": "Norma nr. 11/2017 pentru modificarea și completarea Normei nr. 16/2013 privind activitatea de marketing al fondului de pensii facultative, aprobată prin Hotărârea Autorității de Supraveghere Financiară nr. 64/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188755",
+   "versions": [
+    {
+     "from": "2017-05-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188755",
+     "sha256": "e2dbf85b3fad4503d3916c0afbcbca4a21585dc96f1255219ef95204fb36b50a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-12-2017",
+   "path": "norma/asf/2017/12",
+   "short": "Norma asf nr. 12/2017",
+   "title": "Norma nr. 12/2017 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 26/2014 privind transferul participanților între fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188756",
+   "versions": [
+    {
+     "from": "2017-05-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188756",
+     "sha256": "a3d3623331af0db7d2d648cccd22362bb18af56d0fa26697ad7005e8a6da7f70"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-13-2017",
+   "path": "norma/asf/2017/13",
+   "short": "Norma asf nr. 13/2017",
+   "title": "Norma nr. 13/2017 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 14/2006 privind transferul participanților între fondurile de pensii facultative, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 26/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188701",
+   "versions": [
+    {
+     "from": "2017-05-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188701",
+     "sha256": "8d589450998e5e4bed520ff8d2661c7bf217ce3ba2f26b27d3285f6733fa48e6"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-14-2017",
+   "path": "norma/asf/2017/14",
+   "short": "Norma asf nr. 14/2017",
+   "title": "Norma nr. 14/2017 pentru aplicarea Ghidului MAR - Informații referitoare la piețele instrumentelor financiare derivate pe mărfuri sau la piețele spot conexe în vederea definirii informațiilor privilegiate privind instrumentele financiare derivate pe mărfuri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189612",
+   "versions": [
+    {
+     "from": "2017-05-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189612",
+     "sha256": "7898e496104a788d36ddf41e609c6782e52630d0b8fd9d1d3b5806c890d5ac7c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-15-2017",
+   "path": "norma/asf/2017/15",
+   "short": "Norma asf nr. 15/2017",
+   "title": "Norma nr. 15/2017 privind metodologia de calcul de către Autoritatea de Supraveghere Financiară al tarifelor de referință pentru asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și de tramvaie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189325",
+   "versions": [
+    {
+     "from": "2017-05-17",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189325",
+     "sha256": "b291b1e47224858b9b1ce6bcddb8682873c7f46a1cf9598f9ca54ae735299028"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-16-2017",
+   "path": "norma/asf/2017/16",
+   "short": "Norma asf nr. 16/2017",
+   "title": "Norma nr. 16/2017 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 39/2016 privind asigurările auto din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189343",
+   "versions": [
+    {
+     "from": "2017-05-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189343",
+     "sha256": "1816fcd25de5b897a8f8f8509f7b7cdfb7d4d2243082f51dcd68a90aaef3919d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-17-2017",
+   "path": "norma/asf/2017/17",
+   "short": "Norma asf nr. 17/2017",
+   "title": "Norma nr. 17/2017 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 4/2016 privind administrarea Fondului de rezoluție pentru asigurători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/189613",
+   "versions": [
+    {
+     "from": "2017-05-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/189613",
+     "sha256": "f65fab25bee3d14fe860e628ab38b3c593150b4f3f77efe84bf0bf704b12a9b5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-18-2017",
+   "path": "norma/asf/2017/18",
+   "short": "Norma asf nr. 18/2017",
+   "title": "Norma nr. 18/2017 privind procedura de soluționare a petițiilor referitoare la activitatea societăților de asigurare și reasigurare și brokerilor de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191207",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191207",
+     "sha256": "95194f0637df8e1be6558f27731f51df84e6bb02b1f19dd3a9e88cdcf4a0af22"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-19-2017",
+   "path": "norma/asf/2017/19",
+   "short": "Norma asf nr. 19/2017",
+   "title": "Norma nr. 19/2017 pentru punerea în aplicare a Sistemului de raportare contabilă la 30 iunie 2017 a societăților din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191755",
+   "versions": [
+    {
+     "from": "2017-07-28",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191755",
+     "sha256": "3f4c64786dc849f0f119c234e942ce41876928de795e134ac704876a25b49638"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-2-2017",
+   "path": "norma/asf/2017/2",
+   "short": "Norma asf nr. 2/2017",
+   "title": "Norma nr. 2/2017 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 14/2015 privind reglementările contabile conforme cu directivele europene aplicabile sistemului de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/186911",
+   "versions": [
+    {
+     "from": "2017-02-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/186911",
+     "sha256": "9d593c6525af6d8fa16daa1188ba98f741615a5c2068eb87c63f384f9b5c39ac"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-20-2017",
+   "path": "norma/asf/2017/20",
+   "short": "Norma asf nr. 20/2017",
+   "title": "Norma nr. 20/2017 privind asigurările auto din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191950",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 58,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191950",
+     "sha256": "b77e41829d916bcd52407abfc530e047c51a15b163b50040297e22ad3a0a99df"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-21-2017",
+   "path": "norma/asf/2017/21",
+   "short": "Norma asf nr. 21/2017",
+   "title": "Norma nr. 21/2017 pentru modificarea Normei nr. 2/2013 privind calculul actuarial al contribuției anuale datorate de administratorii de fonduri de pensii private Fondului de garantare a drepturilor din sistemul de pensii private, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 3/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192461",
+   "versions": [
+    {
+     "from": "2017-08-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192461",
+     "sha256": "92c9d35b178cbaa54dab20d9e0b9580c9d53392babb3c8dbfef5a6dcf48ac5a0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-22-2017",
+   "path": "norma/asf/2017/22",
+   "short": "Norma asf nr. 22/2017",
+   "title": "Norma nr. 22/2017 privind metodologia de calcul al tarifelor de referință pentru asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și de tramvaie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/192871",
+   "versions": [
+    {
+     "from": "2017-09-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/192871",
+     "sha256": "98f8703cc7e360fafeab297dbe296dc98809c27dfd61c17484a3ad0fe7d94168"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-25-2017",
+   "path": "norma/asf/2017/25",
+   "short": "Norma asf nr. 25/2017",
+   "title": "Norma nr. 25/2017 pentru modificarea și completarea Normei nr. 15/2009 privind operațiunile de încasări și plăți efectuate prin conturile fondului de pensii administrat privat, aprobată prin Hotărârea Consiliului Comisiei de Supraveghere a Sistemului de Pensii Private nr. 23/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195542",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195542",
+     "sha256": "855a5a2deb166142fd41c90c74160d2e0b039f209efbbdfe605dbf5a537309a1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-26-2017",
+   "path": "norma/asf/2017/26",
+   "short": "Norma asf nr. 26/2017",
+   "title": "Norma nr. 26/2017 pentru modificarea și completarea Normei nr. 18/2009 privind operațiunile de încasări și plăți efectuate prin conturile fondului de pensii facultative, aprobată prin Hotărârea Consiliului Comisiei de Supraveghere a Sistemului de Pensii Private nr. 26/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195635",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195635",
+     "sha256": "eb2ecdb18912af9dca3faf424fd794b90d86b00770644a841c3696301a350c08"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-27-2017",
+   "path": "norma/asf/2017/27",
+   "short": "Norma asf nr. 27/2017",
+   "title": "Norma nr. 27/2017 privind utilizarea activului personal net al participantului la un fond de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195543",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195543",
+     "sha256": "791956da36ab577a78017b48f2a2388b6810df95993ec10a2e17c2ccf4008faf"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-29-2017",
+   "path": "norma/asf/2017/29",
+   "short": "Norma asf nr. 29/2017",
+   "title": "Norma nr. 29/2017 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 1/2015 privind aderarea și evidența participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195793",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195793",
+     "sha256": "ec385b6bb04751b117eb4fdb5857f9cda41031a479c8f5ef2ed47308e3e0e217"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-3-2017",
+   "path": "norma/asf/2017/3",
+   "short": "Norma asf nr. 3/2017",
+   "title": "Norma nr. 3/2017 privind încheierea exercițiului financiar 2016 pentru societățile din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187732",
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187732",
+     "sha256": "f30398f9312ce95836d7f107c9f0c383e3d8505671e08be95d84433fe35adedd"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-30-2017",
+   "path": "norma/asf/2017/30",
+   "short": "Norma asf nr. 30/2017",
+   "title": "Norma nr. 30/2017 pentru modificarea art. 12 lit. b) din Norma nr. 2/2011 privind aderarea și evidența participanților la fondurile de pensii facultative, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 2/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195724",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195724",
+     "sha256": "895fa8608486a8ed84ab5c67eda7c22705aa4048bb9b5b4f093061fdd89bf3d1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-31-2017",
+   "path": "norma/asf/2017/31",
+   "short": "Norma asf nr. 31/2017",
+   "title": "Norma nr. 31/2017 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 24/2015 privind obligațiile de raportare și transparență în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196728",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196728",
+     "sha256": "a178aaa54adfc7e5ce2e7ee49cb9453a325765b56d2a3f9c67d4a30c4b64876d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-32-2017",
+   "path": "norma/asf/2017/32",
+   "short": "Norma asf nr. 32/2017",
+   "title": "Norma nr. 32/2017 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 25/2015 privind obligațiile de raportare și transparență în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196769",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196769",
+     "sha256": "425fed8f9bf60674aa152850ed6d512e1a6d8e9d490c73a1ffc57fdf50620240"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-34-2017",
+   "path": "norma/asf/2017/34",
+   "short": "Norma asf nr. 34/2017",
+   "title": "Norma nr. 34/2017 pentru aplicarea Ghidului ESMA privind raportarea tranzacțiilor, păstrarea evidenței ordinelor și sincronizarea ceasurilor în temeiul MIFID II",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/196189",
+   "versions": [
+    {
+     "from": "2017-12-27",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/196189",
+     "sha256": "8d5dc212cebca860d6edcdda384b97a21307289bd2555ad53edc796db8cd2a11"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-4-2017",
+   "path": "norma/asf/2017/4",
+   "short": "Norma asf nr. 4/2017",
+   "title": "Norma nr. 4/2017 pentru completarea Normei Autorității de Supraveghere Financiară nr. 21/2016 privind raportările referitoare la activitatea de asigurare și/sau de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/187685",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/187685",
+     "sha256": "0c40602dbd9437ee05590246b1294f8c08b976fbca76c5e2af46ad1c954b02aa"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-5-2017",
+   "path": "norma/asf/2017/5",
+   "short": "Norma asf nr. 5/2017",
+   "title": "Norma nr. 5/2017 pentru aplicarea Ghidului MAR - Persoanele cărora le este adresată sondarea de piață și a Ghidului MAR - Amânarea publicării informațiilor privilegiate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188112",
+   "versions": [
+    {
+     "from": "2017-04-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188112",
+     "sha256": "fc8f542c3ceb53cf4087c025fed2ad0a420bb30461f2a79049e1ef6607393849"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-6-2017",
+   "path": "norma/asf/2017/6",
+   "short": "Norma asf nr. 6/2017",
+   "title": "Norma nr. 6/2017 pentru modificarea și completarea Reglementărilor contabile privind situațiile financiare anuale individuale și situațiile financiare anuale consolidate ale entităților care desfășoară activitate de asigurare și/sau reasigurare, aprobate prin Norma Autorității de Supraveghere Financiară nr. 41/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188063",
+   "versions": [
+    {
+     "from": "2017-04-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188063",
+     "sha256": "abeda1b00a696fcb95c53fe1cd6cc94d312eae74808662fcae0954abb1818d91"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-7-2017",
+   "path": "norma/asf/2017/7",
+   "short": "Norma asf nr. 7/2017",
+   "title": "Norma nr. 7/2017 privind întocmirea și depunerea situațiilor financiare anuale individuale ale entităților din sistemul de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188089",
+   "versions": [
+    {
+     "from": "2017-04-11",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188089",
+     "sha256": "2adf7d5fe6f297d46d07442b872c770f90294b8c9d90361e4f4fd1a20f7b991a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-8-2017",
+   "path": "norma/asf/2017/8",
+   "short": "Norma asf nr. 8/2017",
+   "title": "Norma nr. 8/2017 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 1/2015 privind aderarea și evidența participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188726",
+   "versions": [
+    {
+     "from": "2017-05-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188726",
+     "sha256": "d860a0cfed5c2653069c0a9064e663d5514394e59b2ce9d6d94289607b4b952b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-9-2017",
+   "path": "norma/asf/2017/9",
+   "short": "Norma asf nr. 9/2017",
+   "title": "Norma nr. 9/2017 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 2/2011 privind aderarea și evidența participanților la fondurile de pensii facultative, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 2/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188727",
+   "versions": [
+    {
+     "from": "2017-05-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188727",
+     "sha256": "39d07e64ef8a0c24ff0f11c752da0f54fbbac2671542bf4c8b82a59507ecc310"
+    }
+   ]
+  }
+ ]
+}

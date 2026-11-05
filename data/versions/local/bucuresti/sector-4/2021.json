@@ -1,0 +1,336 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-4/2021",
+ "acts": [
+  {
+   "slug": "hcls4-101-2021",
+   "path": "local/bucuresti/sector-4/2021/101",
+   "short": "HCLS4 nr. 101/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 101/2021 pentru modificarea și completarea Hotărârii Consiliului Local al Sectorului 4 nr. 150/19.12.2016 privind Metodologia de atribuire a locurilor de parcare rezidențiale, pe raza Sectorului 4 al Municipiului București, cu modificările și completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_101_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-102-2021",
+   "path": "local/bucuresti/sector-4/2021/102",
+   "short": "HCLS4 nr. 102/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 102/2021 privind modificarea și completarea Hotărârii Consiliului Local al Sectorului 4 nr. 347/27.12.2018 pentru aprobarea Regulamentului, procedurii și modelului de contract privind parcările/parcajele publice aflate în administrarea Sectorului 4 al Municipiului București, prin Direcția Mobilitate Urbană Sector 4, cu modificările și completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_102_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-110-2021",
+   "path": "local/bucuresti/sector-4/2021/110",
+   "short": "HCLS4 nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 110/2021 privind completarea Anexei la Hotărârea Consiliului Local Sector 4 nr. 64/11.05.2020 pentru aprobarea închirierii domeniului public și privat, terenuri și construcții, aflat în administrarea Consiliului Local al Sectorului 4 precum și aprobarea regulamentului de închiriere prin licitație publică",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_110_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-116-2021",
+   "path": "local/bucuresti/sector-4/2021/116",
+   "short": "HCLS4 nr. 116/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 116/2021 privind aprobarea actualizării „Regulamentului de organizare și funcționare a serviciului de salubrizare din Sectorul 4 al Municipiului București”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_116_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-125-2021",
+   "path": "local/bucuresti/sector-4/2021/125",
+   "short": "HCLS4 nr. 125/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 125/2021 privind modificarea și completarea Hotărârii Consiliului Local al Sectorului 4 nr. 347/27.12.2018 pentru aprobarea Regulamentului, procedurii și modelului de contract privind parcările/parcajele publice aflate în administrarea Sectorului 4 al Municipiului București, prin Direcția Mobilitate Urbană Sector 4, cu modificările și completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/09/H_125_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-130-2021",
+   "path": "local/bucuresti/sector-4/2021/130",
+   "short": "HCLS4 nr. 130/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 130/2021 pentru aprobarea procedurii privind condițiile și criteriile de emitere a acordurilor de utilizare temporară pentru anumite categorii de locuri publice aparținând domeniului public sau privat, aflate în administrarea Consiliului Local al Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/10/H_130_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-136-2021",
+   "path": "local/bucuresti/sector-4/2021/136",
+   "short": "HCLS4 nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 136/2021 pentru aprobarea Procedurii de întocmire a dosarelor privind acordarea drepturilor prevăzute în Legea nr. 226/2021 privind stabilirea măsurilor de protecție socială pentru consumatorul vulnerabil de energie",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/10/H_136_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-139-2021",
+   "path": "local/bucuresti/sector-4/2021/139",
+   "short": "HCLS4 nr. 139/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 139/2021 pentru completarea Anexei la Hotărârea Consiliului Local Sector 4 nr. 144/2016 privind aprobarea Regulamentului privind desfășurarea activităților de comercializare a produselor și serviciilor de piață pe raza administrativ teritorială a Sectorului 4 al Municipiului București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=50",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_139_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-149-2021",
+   "path": "local/bucuresti/sector-4/2021/149",
+   "short": "HCLS4 nr. 149/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 149/2021 privind modificarea și completarea Hotărârii Consiliului Local Sector 4 nr. 44/25.03.2021 pentru aprobarea Regulamentului de aplicare a Ordonanței Guvernului nr. 21/2002, privind gospodărirea Sectorului 4 al Municipiului București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=49",
+   "versions": [
+    {
+     "from": "2021-10-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/11/H_149_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-170-2021",
+   "path": "local/bucuresti/sector-4/2021/170",
+   "short": "HCLS4 nr. 170/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 170/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_170_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-189-2021",
+   "path": "local/bucuresti/sector-4/2021/189",
+   "short": "HCLS4 nr. 189/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 189/2021 privind modificarea și completarea Hotărârii Consiliului Local Sector 4 nr. 91/30.06.2021 pentru aprobarea regulamentului privind obligațiile de refacere și amenajare a domeniului public afectat de intervențiile tehnico-edilitare efectuate pe spațiile aflate în administrarea Sectorului 4 al Municipiului București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_189_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-197-2021",
+   "path": "local/bucuresti/sector-4/2021/197",
+   "short": "HCLS4 nr. 197/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 197/2021 privind aprobarea metodologiei de acordare a sumelor prevăzute de art 1004 din Legea 273/2004 privind procedura adopției, republicată, cu modificările și completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2022/01/H_197_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-203-2021",
+   "path": "local/bucuresti/sector-4/2021/203",
+   "short": "HCLS4 nr. 203/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 203/2021 privind aprobarea Caietului de sarcini, a modelului Acordului-cadru și contractului subsecvent, precum și a modalității de gestiune a serviciului public de salubrizare pe raza Sectorului 4 al Municipiului București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2022/01/H_203_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-205-2021",
+   "path": "local/bucuresti/sector-4/2021/205",
+   "short": "HCLS4 nr. 205/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 205/2021 privind aprobarea Metodologiei de gestionare a locurilor de parcare aflate pe domeniul public sau privat al Municipiului București de pe raza Sectorului 4, precum și de aplicare a unor sancțiuni contravenționale și/sau măsuri tehnico-administrative în ceea ce privește ocuparea fără drept a domeniului public sau privat al Municipiului București de pe raza Sectorului 4 cu autovehicule de orice tip",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=48",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/12/H_205_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-25-2021",
+   "path": "local/bucuresti/sector-4/2021/25",
+   "short": "HCLS4 nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 25/2021 pentru modificarea și completarea Anexei nr. 1 la Hotărârea Consiliului Local al Sectorului 4 nr. 150/19.12.2016 privind Metodologia de atribuire a locurilor de parcare rezidențiale, pe raza Sectorului 4 al Municipiului București, cu modificările și completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_25_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-37-2021",
+   "path": "local/bucuresti/sector-4/2021/37",
+   "short": "HCLS4 nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 37/2021 privind aprobarea achiziționării serviciilor de consultanță, asistență și reprezentare juridică prin încheierea unor contracte care să asigure apărarea intereselor Direcției Generale de Impozite și Taxe Locale Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-03-22",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/03/H_37_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-44-2021",
+   "path": "local/bucuresti/sector-4/2021/44",
+   "short": "HCLS4 nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 44/2021 pentru aprobarea Regulamentului de aplicare a Ordonanței Guvernului nr. 21/2002, privind gospodărirea Sectorului 4 al Municipiului București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_44_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-5-2021",
+   "path": "local/bucuresti/sector-4/2021/5",
+   "short": "HCLS4 nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 5/2021 privind componența Comisiei nr. 2 - Comisia pentru amenajarea teritoriului, urbanism, realizarea lucrărilor publice, evaluare arhitecturală, conservarea monumentelor istorice și de arhitectură, administrarea domeniului public și privat",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=54",
+   "versions": [
+    {
+     "from": "2021-02-08",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/02/H_5_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-50-2021",
+   "path": "local/bucuresti/sector-4/2021/50",
+   "short": "HCLS4 nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 50/2021 privind instituirea taxei speciale de salubrizare pentru utilizatorii fără contracte individuale de prestări servicii de salubrizare aferentă serviciilor de salubrizare prestate pentru colectarea și gestionarea deșeurilor municipale și pentru aprobarea Regulamentului privind stabilirea și aplicarea taxei speciale de salubrizare pe raza Sectorului 4 al Municipiului București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=53",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/04/H_50_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-74-2021",
+   "path": "local/bucuresti/sector-4/2021/74",
+   "short": "HCLS4 nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 74/2021 pentru aprobarea Regulamentului privind procedura de ridicare a autovehiculelor, prevăzută de Regulamentul de aplicare a Ordonanţei de urgenţă a Guvernului nr. 195/2002, aprobat prin Hotărârea Guvernului nr. 1.391/2006, cu modificările şi completările ulterioare, precum și ridicarea vehiculelor prevăzută de Ordonanţa nr. 21/2002 privind gospodărirea localităţilor urbane şi rurale cu modificările şi completările ulterioare, pe străzile și domeniul public aflat în administrarea Sectorului 4 al Municipiului București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/05/H_74_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-75-2021",
+   "path": "local/bucuresti/sector-4/2021/75",
+   "short": "HCLS4 nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 75/2021 privind modificarea și completarea Hotărârii Consiliului Local al Sectorului 4 nr. 347/27.12.2018 pentru aprobarea Regulamentului, procedurii și modelului de contract privind parcările/parcajele publice aflate în administrarea Sectorului 4 al Municipiului București, prin Direcția Mobilitate Urbană Sector 4, cu modificările și completările ulterioare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=52",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/05/H_75_.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-91-2021",
+   "path": "local/bucuresti/sector-4/2021/91",
+   "short": "HCLS4 nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 91/2021 pentru aprobarea Regulamentului privind obligațiile de refacere și amenajare a domeniului public afectat de intervențiile tehnico-edilitare efectuate pe spațiile aflate în administrarea Sectorului 4 al Municipiului București",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=51",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2021/07/H_91_.pdf",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

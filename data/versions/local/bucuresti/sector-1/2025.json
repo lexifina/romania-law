@@ -1,0 +1,351 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-1/2025",
+ "acts": [
+  {
+   "slug": "hcls1-106-2025",
+   "path": "local/bucuresti/sector-1/2025/106",
+   "short": "HCLS1 nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 106/2025 privind aprobarea închirierii bunurilor aflate pe domeniul public si privat al Sectorului 1 al Municipiului București, terenuri și construcții cu altă destinație decât cea de locuință aflate în administrarea Consiliului Local al Sectorului 1, prin Sectorul 1 al Municipiului București, aprobarea Regulamentului privind modul de organizare și desfășurare a licitațiilor publice pentru închirierea bunurilor aflate pe domeniul public si privat al Sectorului 1 al Municipiului București, terenuri și construcții cu altă destinație decât cea de locuință aflate în administrarea Consiliului Local al Sectorului 1 prin Sectorul 1 al Municipiului București precum și aprobarea documentației de atribuire",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/205531/106.2025-AN.pdf",
+     "sha256": "1a175738f9f1b4bb3e0a1e7dfbaacb6bdeb3053aa34469bf13697aa0742bfc0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-109-2025",
+   "path": "local/bucuresti/sector-1/2025/109",
+   "short": "HCLS1 nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 109/2025 pentru modificarea Hotărârii Consiliului Local al Sectorului 1 nr. 182/2013 privind aprobarea Regulamentului pentru organizarea comerțului stradal pe raza administrativă a sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/205533/109.2025-AN.pdf",
+     "sha256": "367d847f7f2db60bfd4f06bc58d032bf4c20e2be2730f9b0b870a2e1774e1143"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-111-2025",
+   "path": "local/bucuresti/sector-1/2025/111",
+   "short": "HCLS1 nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 111/2025 privind aprobarea regulamentului de organizare și funcționare al aparatului de specialitate al Primarului Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/205522/111.2025-AN.pdf",
+     "sha256": "2c5a38822a8c4318ab76205eb9553a66d8fe29778d3036fb5f8ece988f1f0cd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-112-2025",
+   "path": "local/bucuresti/sector-1/2025/112",
+   "short": "HCLS1 nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 112/2025 pentru modificarea Anexei la Hotărârea Consiliului Local al Sectorului 1 nr. 213/19.11.2024 privind aprobarea Regulamentului de organizare și funcționare ale Direcției Generale de Impozite și Taxe Locale a Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/205534/112.2025-AN.pdf",
+     "sha256": "ec60bb11bd2f89682563c1274c978efbab3369e85d90c540a878907886cd4efb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-139-2025",
+   "path": "local/bucuresti/sector-1/2025/139",
+   "short": "HCLS1 nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 139/2025 privind adoptarea regulamentului de atribuire și exploatare a locurilor de parcare din parcajele de utilitate publică cu plată, parcajele publice de reședință, parcajele automatizate și parcajele destinate autovehiculelor pe două roți, din administrarea Sectorului 1 al Municipiului București, prin Direcția de Utilități Publice, Salubrizare și Protecția Mediului Sector 1 și Direcția Generală de Impozite și Taxe Locale Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/208358/139.2025_AN.pdf",
+     "sha256": "0e91c59af11475a8b48c9fab8683ff4ec00a16583fdfcaa89116aabd310499a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-140-2025",
+   "path": "local/bucuresti/sector-1/2025/140",
+   "short": "HCLS1 nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 140/2025 privind aprobarea Regulamentului privind blocarea, ridicarea, transportul, depozitarea și restituirea vehiculelor staționate neregulamentar pe domeniul public sau în alte locuri decât drumul public, precum și relocarea vehiculelor staționate/parcate pe domeniul public, în caz de utilitate publică sau privată, pe raza Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/209187/140.2025_AN.pdf",
+     "sha256": "44e801f2d44042c9d5f9c3dd2d7ab7302ba2d184ad099f14e67e1fe0e05fc970"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-141-2025",
+   "path": "local/bucuresti/sector-1/2025/141",
+   "short": "HCLS1 nr. 141/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 141/2025 privind aprobarea regulamentului privind utilizarea serviciului de închiriere biciclete al Sectorului 1 al municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/212993/141.2025-AN.pdf",
+     "sha256": "04155463ff91bc19f08c70937c467fc1ddb05195e9a0257bca7cee91436fb960"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-154-2025",
+   "path": "local/bucuresti/sector-1/2025/154",
+   "short": "HCLS1 nr. 154/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 154/2025 privind aprobarea Regulamentului de organizare și funcționare al serviciului public de salubrizare în Sectorul 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/213034/154.2025_AN.pdf",
+     "sha256": "24f68048e797a0b4d8d5278f844de48e3016c7fba999daf561272bf0f2e47837"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-167-2025",
+   "path": "local/bucuresti/sector-1/2025/167",
+   "short": "HCLS1 nr. 167/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 167/2025 privind aprobarea încheierii unui Protocol de colaborare între Sectorul 1 al Municipiului București și Agenția Română pentru Asigurarea Calității în Învățământul Preuniversitar (ARACIP), cu privire la realizarea unor metodologii și instrumente de evaluare a unor proiecte și programe educaționale implementate de Sectorul 1 al Municipiului Bucureşti în unitățile de învățământ preuniversitar de stat, valabil pe perioada mandatului Consiliului Local al Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/213490/167.2025-AN.pdf",
+     "sha256": "470dd9436731184d1cfdebf9505d95ca1f028784218b5a289a68f4cac2b414ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-171-2025",
+   "path": "local/bucuresti/sector-1/2025/171",
+   "short": "HCLS1 nr. 171/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 171/2025 privind aprobarea listei de priorităţi întocmită în baza criteriilor care se au în vedere la stabilirea ordinii de prioritate în cadrul categoriilor de persoane prevăzute în Legea nr. 114/1996 republicată, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/214134/171.2025-AN.pdf",
+     "sha256": "17b267da78bb123e8f000dd225ff794afe5c6ead1a36429d8933990d0bfee0c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-176-2025",
+   "path": "local/bucuresti/sector-1/2025/176",
+   "short": "HCLS1 nr. 176/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 176/2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/214136/176.2025-AN.pdf",
+     "sha256": "bb50410add745336e0d744f8c3edf2a489b8feaa1db12c6d1cea6fa271a18401"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-193-2025",
+   "path": "local/bucuresti/sector-1/2025/193",
+   "short": "HCLS1 nr. 193/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 193/2025 privind solicitarea acordului Consiliului General al Municipiului București pentru instituirea unei taxe speciale de salubrizare pentru utilizatorii casnici și non-casnici din Sectorul 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/216138/193.2025-AN.pdf",
+     "sha256": "a67bc0d1ca01e23b9caae4c9d1d3f006aeb854ac94f7d3f22c103e0a39286341"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-22-2025",
+   "path": "local/bucuresti/sector-1/2025/22",
+   "short": "HCLS1 nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 22/2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/191335/22.2025_AN.pdf",
+     "sha256": "e1d024f4b8a773c15517c5ad6163bde2027d5cd00782013c9a15a983b6dab6a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-270-2025",
+   "path": "local/bucuresti/sector-1/2025/270",
+   "short": "HCLS1 nr. 270/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 270/2025 privind aprobarea Regulamentului de funcționare, exploatare și utilizare a stațiilor de reîncărcare a autovehiculelor electrice și hibrid plug-in instalate pe proprietatea publică a Municipiului București, aflată în administrarea Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/226323/270.2025-AN.pdf",
+     "sha256": "0ab6032699a665c5c5216441f5675b1730019aa497ed07ed1a144c717f080e70"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-307-2025",
+   "path": "local/bucuresti/sector-1/2025/307",
+   "short": "HCLS1 nr. 307/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 307/2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/227977/307.2025%20%2B%20NREM%20C_1477_10.11.2025-AN.pdf",
+     "sha256": "c5cde94ecaf40fa2d7faf4640951f924335cb82d540f96008813478d341f92ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-377-2025",
+   "path": "local/bucuresti/sector-1/2025/377",
+   "short": "HCLS1 nr. 377/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 377/2025 privind aprobarea Regulamentului de colaborare cu asociațiile/ONG-urile în vederea promovării adopției responsabile a câinilor fără stăpân din Centrul Teritorial de Adăpostire și Protecție Temporară a Animalelor Odăi",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-50-2025",
+   "path": "local/bucuresti/sector-1/2025/50",
+   "short": "HCLS1 nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 50/2025 pentru aprobarea Regulamentului privind procedura de lucru pentru vehiculele fără stăpân sau abandonate pe terenuri aparținând domeniului public sau privat al Sectorului 1 al Municipiului București și abrogarea Hotărârii Consiliului Local al Sectorului 1 nr. 16/2016-privind procedura de lucru pe linia vehiculelor fără stăpân sau abandonate pe terenuri aparținând domeniului public sau privat al Sectorului 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/196199/50.2025_AN.pdf",
+     "sha256": "5a8159fe013eaace20f24c64ffaef3b4ba47dd1ca68fb9df607cadd70944e5e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-53-2025",
+   "path": "local/bucuresti/sector-1/2025/53",
+   "short": "HCLS1 nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 53/2025 privind aprobarea criteriilor care se au în vedere la stabilirea ordinii de prioritate în cadrul categoriilor de persoane prevăzute în Legea locuinței nr. 114/1996, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/197751/53.2025_AN.pdf",
+     "sha256": "9ca444b7b7f19909d6291df1ca5ba3d3676d67a87f6ddcfac2faabd654f26915"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-564-2025",
+   "path": "local/bucuresti/sector-1/2025/564",
+   "short": "HCLS1 nr. 564/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 564/2025 privind stabilirea taxei de reabilitare termică la nivelul Sectorului 1 și pentru aprobarea Regulamentului privind stabilirea și modalitatea de recuperare a acesteia, în conformitate cu prevederile Ordonanței de Urgență a Guvernului nr. 18/2009 privind creșterea performanței energetice a blocurilor de locuințe, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/239360/564.2025_AN.pdf",
+     "sha256": "f8f62b875bbf8de9fb609bafe7adca0bca55dd9299cd05b4cea8babd48a6f269"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-63-2025",
+   "path": "local/bucuresti/sector-1/2025/63",
+   "short": "HCLS1 nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 63/2025",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/197761/63.2025_AN.pdf",
+     "sha256": "5420a202345befb84cf3d07e6b840f3f12d5a34b0fc07fd65170e2c0c961b9bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-74-2025",
+   "path": "local/bucuresti/sector-1/2025/74",
+   "short": "HCLS1 nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 74/2025 privind aprobarea tarifelor percepute pentru utilizarea domeniului public aflat în administrarea Consiliului Local al Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/199628/74.2025%20AN.pdf",
+     "sha256": "0f63137c0758da7ec6d0e9be74a01b189bbbf27afe088b56daf8b2f0343446ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-75-2025",
+   "path": "local/bucuresti/sector-1/2025/75",
+   "short": "HCLS1 nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 75/2025 privind aprobarea Regulamentului pentru îmbunătățirea activităților de gospodărire, protecția mediului, întreținere și înfrumusețare a Sectrului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/200168/75.2025_AN.pdf",
+     "sha256": "45aa61934e5a3cd996d00f9290c0d8bbe55a9479dc8e51158ac62a8c049aedee"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-82-2025",
+   "path": "local/bucuresti/sector-1/2025/82",
+   "short": "HCLS1 nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 82/2025 pentru aprobarea Regulamentului privind regimul finanțărilor nerambursabile de la bugetul local al Sectorului 1 al Municipiului București pentru activitățile nonprofit de interes local",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthclbaza/200778/82.2025_AN%201.pdf",
+     "sha256": "fe9dbdded88d561d6b1c35297ff1d9b588f3c14737552d2d62d60ef9a40d33a7"
+    }
+   ]
+  }
+ ]
+}

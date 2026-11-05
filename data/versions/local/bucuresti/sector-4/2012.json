@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-4/2012",
+ "acts": [
+  {
+   "slug": "hcls4-37-2012",
+   "path": "local/bucuresti/sector-4/2012/37",
+   "short": "HCLS4 nr. 37/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 37/2012 privind metodologia de acordare a granturilor pentru premierea unităţilor de învăţământ de stat cu rezultate deosebite în domeniul performanţelor şcolare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6058-8734-2964.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-49-2012",
+   "path": "local/bucuresti/sector-4/2012/49",
+   "short": "HCLS4 nr. 49/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 49/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9174-2179-6906.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-50-2012",
+   "path": "local/bucuresti/sector-4/2012/50",
+   "short": "HCLS4 nr. 50/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 50/2012 pentru modificarea si completarea Procedurii privind modul de organizare si desfasurare a licitatiilor pentru inchirierea spatiilor comerciale aflate in administrarea Directiei de Administrare a Pietelor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4845-7561-3598.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-51-2012",
+   "path": "local/bucuresti/sector-4/2012/51",
+   "short": "HCLS4 nr. 51/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 51/2012 privind aprobarea studiului de fundamentare,a caietului de sarcini in vedere demararii procedurilor pentru atribuirea prin concesiune de lucrari publice a contractului de reconstructie, modernizare si exploatare a Complexului Agroalimentar Piata",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-153-7859-4058.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-52-2012",
+   "path": "local/bucuresti/sector-4/2012/52",
+   "short": "HCLS4 nr. 52/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 52/2012 privind aprobarea Regulamentului de functionare a Complexului agroalimentar piata Aparatorii Patriei",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1737-8993-7279.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-70-2012",
+   "path": "local/bucuresti/sector-4/2012/70",
+   "short": "HCLS4 nr. 70/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 70/2012 pentru modificarea şi completarea Anexei la HCLS4 nr. 37/2012, privind metodologia de acordare a granturilor pentru premierea unităţilor de învăţământ de stat cu rezultate deosebite în domeniul performanţelor şcolare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4762-7313-5080.zip",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

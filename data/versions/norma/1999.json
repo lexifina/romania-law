@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "norma/1999",
+ "acts": [
+  {
+   "slug": "norma-bnr-1-1999",
+   "path": "norma/bnr/1999/1",
+   "short": "Norma bnr nr. 1/1999",
+   "title": "Norma nr. 1/1999 privind registrul bancar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16694",
+   "versions": [
+    {
+     "from": "1999-02-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16694",
+     "sha256": "423c3223621ebf3c770c16d39da9a99d8b269e941ea62a0e6a2f68fa670385ae"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-10-1999",
+   "path": "norma/bnr/1999/10",
+   "short": "Norma bnr nr. 10/1999",
+   "title": "Norma nr. 10/1999 pentru modificarea Normelor nr. 2/1999 privind autorizarea băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20521",
+   "versions": [
+    {
+     "from": "2000-01-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20521",
+     "sha256": "2620584144fdcadbbe110ccfa74c7fd3ad97cd5e3d2844f396a93f3f0be1f67b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-11-1999",
+   "path": "norma/bnr/1999/11",
+   "short": "Norma bnr nr. 11/1999",
+   "title": "Norma nr. 11/1999 pentru modificarea Normelor nr. 3/1999 privind modificările în situația băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20522",
+   "versions": [
+    {
+     "from": "2000-01-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20522",
+     "sha256": "e6538b54bcfc8c40fc9351278f8023bd59598bfd06546783139dd2426d3ef674"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-5-1999",
+   "path": "norma/bnr/1999/5",
+   "short": "Norma bnr nr. 5/1999",
+   "title": "Norma nr. 5/1999 privind capitalul social minim al băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17754",
+   "versions": [
+    {
+     "from": "1999-04-15",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17754",
+     "sha256": "f0ab84ceaf0f055ef2605a7d090eaa295256fd6919cc59b3179dec65d40fd9f4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-6-1999",
+   "path": "norma/bnr/1999/6",
+   "short": "Norma bnr nr. 6/1999",
+   "title": "Norma nr. 6/1999 pentru modificarea Normelor nr. 2/1999 privind autorizarea băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17994",
+   "versions": [
+    {
+     "from": "1999-04-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17994",
+     "sha256": "f150ee7be949c49573dd719cf9650bbf42c3ad60bbc7f2a5542bb0d14793271a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-7-1999",
+   "path": "norma/bnr/1999/7",
+   "short": "Norma bnr nr. 7/1999",
+   "title": "Norma nr. 7/1999 privind fondurile proprii ale băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18127",
+   "versions": [
+    {
+     "from": "1999-05-12",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18127",
+     "sha256": "b30b9a21dcf22d5e256b92246a83130c87ac7fbb5f02cf33982fa8d855c24344"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-8-1999",
+   "path": "norma/bnr/1999/8",
+   "short": "Norma bnr nr. 8/1999",
+   "title": "Norma nr. 8/1999 privind limitarea riscului de credit al băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18338",
+   "versions": [
+    {
+     "from": "1999-08-30",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18338",
+     "sha256": "5eb30fa45f403be88ccff494f19ea4eecd21fed9f1dd30547be50e76a6cc0f7b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-21858-1999",
+   "path": "norma/finante/1999/21858",
+   "short": "Norma finante nr. 21858/1999",
+   "title": "Norma nr. 21.858/1999 privind constituirea și utilizarea Fondului special al aviației civile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20856",
+   "versions": [
+    {
+     "from": "2000-02-04",
+     "units": 38,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20856",
+     "sha256": "54f4e99c3040965825d76e68fd98680a581900fce708b131fd873dd2d0b335e5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-22948-1999",
+   "path": "norma/finante/1999/22948",
+   "short": "Norma finante nr. 22948/1999",
+   "title": "Norma nr. 22.948/1999 privind constituirea și utilizarea Fondului special al drumurilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20743",
+   "versions": [
+    {
+     "from": "2000-01-28",
+     "units": 66,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20743",
+     "sha256": "ced221af1293f68e8a49bca51fefc92f87923ced533ba6ef45daca270bb8ba1c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-justitie-318-fb-1999",
+   "path": "norma/justitie/1999/318-fb",
+   "short": "Norma justitie nr. 318/FB/1999",
+   "title": "Norma nr. 318/FB/1999 pentru aplicarea Hotărârii Guvernului nr. 409/1998 privind condițiile de acordare, în mod gratuit, a asistenței medicale, medicamentelor și protezelor pentru magistrați, personalul auxiliar de specialitate și membrii de familie ai acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19028",
+   "versions": [
+    {
+     "from": "1999-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19028",
+     "sha256": "faf09065fb75778e748167b2eaa7514ca03d77e460c4bbc036f75f85843851ff"
+    }
+   ]
+  },
+  {
+   "slug": "norma-justitie-443-c-1999",
+   "path": "norma/justitie/1999/443-c",
+   "short": "Norma justitie nr. 443/C/1999",
+   "title": "Norma nr. 443/C/1999 pentru aplicarea Ordonanței Guvernului nr. 12/1998 privind taxele de timbru pentru activitatea notarială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18977",
+   "versions": [
+    {
+     "from": "1999-08-11",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18977",
+     "sha256": "b50d52562e44785c78d461029103b1230e45fc68b9b21c4f0141ab2e45a224de"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "norma/2011",
+ "acts": [
+  {
+   "slug": "norma-bnr-1-2011",
+   "path": "norma/bnr/2011/1",
+   "short": "Norma bnr nr. 1/2011",
+   "title": "Norma nr. 1/2011 pentru abrogarea Normelor Băncii Naționale a României nr. 4/2001 privind supravegherea pozițiilor valutare ale băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131657",
+   "versions": [
+    {
+     "from": "2011-09-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131657",
+     "sha256": "5ceece45b9fd54e8a91b14604add3553ba7785b2d8eddcb5f08badf4690f882c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-10-2011",
+   "path": "norma/csspp/2011/10",
+   "short": "Norma csspp nr. 10/2011",
+   "title": "Norma nr. 10/2011 pentru modificarea și completarea Normei nr. 22/2009 privind aderarea și evidența participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132610",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132610",
+     "sha256": "7b23abf8675c356581194189a1ea9778a7a1d49f290f0e5a8ff56f35adb224f7"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-3-2011",
+   "path": "norma/csspp/2011/3",
+   "short": "Norma csspp nr. 3/2011",
+   "title": "Norma nr. 3/2011 pentru întocmirea și depunerea situațiilor financiare anuale individuale pentru entitățile autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126952",
+   "versions": [
+    {
+     "from": "2011-03-21",
+     "units": 46,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126952",
+     "sha256": "baa9a054b2a3170e04cafc9ae3b68491145534a92d70c81a1f000c77ea2ef2e0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-4-2011",
+   "path": "norma/csspp/2011/4",
+   "short": "Norma csspp nr. 4/2011",
+   "title": "Norma nr. 4/2011 pentru modificarea și completarea Normei nr. 10/2010 privind obligațiile de raportare și transparență în sistemul pensiilor administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127413",
+   "versions": [
+    {
+     "from": "2011-04-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127413",
+     "sha256": "253abd054f9a045fbf4fcbf3565fdc6d274901fe86cabd350800148578386367"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-5-2011",
+   "path": "norma/csspp/2011/5",
+   "short": "Norma csspp nr. 5/2011",
+   "title": "Norma nr. 5/2011 pentru modificarea și completarea Normei nr. 11/2010 privind obligațiile de raportare și transparență în sistemul pensiilor facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127416",
+   "versions": [
+    {
+     "from": "2011-04-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127416",
+     "sha256": "9756646d8998ca4854f5decb76cd02cbf1fb13c63c38d804688ef65f2c54f71f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-8-2011",
+   "path": "norma/csspp/2011/8",
+   "short": "Norma csspp nr. 8/2011",
+   "title": "Norma nr. 8/2011 privind marketingul prospectului schemei de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130695",
+   "versions": [
+    {
+     "from": "2011-11-10",
+     "units": 67,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130695",
+     "sha256": "86bf7cf1b2ee1d913313ec08673e5a2ae12b7443e3d72166adb13ceab2075316"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-9-2011",
+   "path": "norma/csspp/2011/9",
+   "short": "Norma csspp nr. 9/2011",
+   "title": "Norma nr. 9/2011 privind sistemul de raportare contabilă semestrială a entităților autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130758",
+   "versions": [
+    {
+     "from": "2011-08-12",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130758",
+     "sha256": "ae7518ecc36abc98138c045964bce4ec873721d65a7fb6623db3f2a01a53c0ca"
+    }
+   ]
+  }
+ ]
+}

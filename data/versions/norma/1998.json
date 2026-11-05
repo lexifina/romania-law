@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "norma/1998",
+ "acts": [
+  {
+   "slug": "norma-bnr-3-1998",
+   "path": "norma/bnr/1998/3",
+   "short": "Norma bnr nr. 3/1998",
+   "title": "Norma nr. 3/1998 privind plafoanele tehnice de garantare unilaterală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15121",
+   "versions": [
+    {
+     "from": "1998-07-03",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15121",
+     "sha256": "255ca0497a23cd97ee431fdd72984cfdeef792127d84c9f150b6494b2e88bab1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-4-1998",
+   "path": "norma/bnr/1998/4",
+   "short": "Norma bnr nr. 4/1998",
+   "title": "Norma nr. 4/1998 privind capitalul social minim al băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15319",
+   "versions": [
+    {
+     "from": "1998-07-29",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15319",
+     "sha256": "f943d8b763fc28f92f4478830937b5ff90ce20672d5d541158733afc4d792f6d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-5-1998",
+   "path": "norma/bnr/1998/5",
+   "short": "Norma bnr nr. 5/1998",
+   "title": "Norma nr. 5/1998 pentru completarea articolului 9 din Normele Băncii Naționale a României nr. 3/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15361",
+   "versions": [
+    {
+     "from": "1998-08-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15361",
+     "sha256": "c82bb766f05dcc348178479be8dbdfe558f0ab9524d28835d94292089bac3e3a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-6-1998",
+   "path": "norma/bnr/1998/6",
+   "short": "Norma bnr nr. 6/1998",
+   "title": "Norma nr. 6/1998 privind notificarea deschiderii în România de reprezentante de către băncile străine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15856",
+   "versions": [
+    {
+     "from": "1998-10-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15856",
+     "sha256": "c98087320c68ec5b07f2f37ac6f4befeb8fab7fa602f056f318d68dd0026661f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-7-1998",
+   "path": "norma/bnr/1998/7",
+   "short": "Norma bnr nr. 7/1998",
+   "title": "Norma nr. 7/1998 privind evidențierea în contabilitatea băncilor a creditelor și dobânzilor aferente contractelor de credit investite cu formula executorie, precum și a bunurilor mobile și imobile, dobândite ca urmare a executării silite a creanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16077",
+   "versions": [
+    {
+     "from": "1998-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16077",
+     "sha256": "417efd2203bfd5a8d1941580a3e71a295d7a8f2c9b369915d1d63dadabe36dd2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-justitie-1887-1998",
+   "path": "norma/justitie/1998/1887",
+   "short": "Norma justitie nr. 1887/1998",
+   "title": "Norma nr. 1.887/1998 pentru aplicarea Hotărârii Guvernului nr. 269/1998 privind reducerile și gratuitățile acordate magistraților și personalului auxiliar de specialitate de la instanțe și parchete pentru transportul intern",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16086",
+   "versions": [
+    {
+     "from": "1998-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16086",
+     "sha256": "a3ec6de607ebe6061ee5bbff02ca465f8372dcc0fecfa28c8403043b27a9306f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-justitie-618-1998",
+   "path": "norma/justitie/1998/618",
+   "short": "Norma justitie nr. 618/1998",
+   "title": "Norma nr. 618/1998 pentru aplicarea Ordonanței Guvernului nr. 12/1998 privind taxele de timbru pentru activitatea notarială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14521",
+   "versions": [
+    {
+     "from": "1998-04-03",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14521",
+     "sha256": "27f69cbfe43e76c2bebb5ecb0247e4f2b3c918af1171e6724665b0c1ebb9af9b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-justitie-773-1998",
+   "path": "norma/justitie/1998/773",
+   "short": "Norma justitie nr. 773/1998",
+   "title": "Norma nr. 773/1998 privind modul de ținere a registrelor comerțului și de efectuare a înregistrărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/14701",
+   "versions": [
+    {
+     "from": "1998-05-11",
+     "units": 109,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/14701",
+     "sha256": "cc7a92fecfadf7b8923f32bcb0359cc7524a04c4326b9e6a3309ff285c89ca62"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+"country": "RO",
+"shard": "decizie-bec/1992",
+"acts": [
+{
+"slug": "decizie-bec-locale-1992-comunicat-1992-02-09",
+"path": "decizie-bec/locale-1992/comunicat-1992-02-09",
+"kind": "decizie-bec",
+"year": "1992",
+"number": "comunicat-1992-02-09",
+"withdrawn_by": null,
+"reason": null,
+"title": "Comunicatul Biroului Electoral Central din 1992-02-09",
+"short": "Comunicatul BEC din 1992-02-09",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "1992-08-10",
+"latest": "1992-08-10",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/35756",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-parlamentare-1992-proces-verbal-1992-09-27-2",
+"path": "decizie-bec/parlamentare-1992/proces-verbal-1992-09-27-2",
+"kind": "decizie-bec",
+"year": "1992",
+"number": "proces-verbal-1992-09-27-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Proces verbal Biroului Electoral Central din 1992-09-27",
+"short": "Proces verbal BEC din 1992-09-27",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "1992-10-15",
+"latest": "1992-10-15",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/94780",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "decizie-bec-parlamentare-1992-proces-verbal-1992-09-27",
+"path": "decizie-bec/parlamentare-1992/proces-verbal-1992-09-27",
+"kind": "decizie-bec",
+"year": "1992",
+"number": "proces-verbal-1992-09-27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Proces verbal Biroului Electoral Central din 1992-09-27",
+"short": "Proces verbal BEC din 1992-09-27",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "1992-10-15",
+"latest": "1992-10-15",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/94779",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "curtea-de-conturi/2022",
+ "acts": [
+  {
+   "slug": "curtea-de-conturi-hotarare-plen-599-2022",
+   "path": "curtea-de-conturi/hotarare-plen/2022/599",
+   "short": "Hotărârea Curtea de Conturi nr. 599/2022",
+   "title": "HOTĂRÂRE nr. 599 din 6 decembrie 2022 pentru modificarea Hotărârii plenului Curţii de Conturi nr. 87/2009 privind aprobarea criteriilor de majorare a salariilor pentru personalul din cadrul Autorităţii de Audit, conform prevederilor Legii nr. 490/2004 privind stimularea financiară a personalului care gestionează fonduri comunitare",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/263045",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/263045",
+     "sha256": "9e26b3fc500131ea929b49ad83ed890b03c8296d12c15ec4ca95b1a9ebe25abe"
+    }
+   ]
+  },
+  {
+   "slug": "curtea-de-conturi-hotarare-plen-629-2022",
+   "path": "curtea-de-conturi/hotarare-plen/2022/629",
+   "short": "Hotărârea Curtea de Conturi nr. 629/2022",
+   "title": "HOTĂRÂRE nr. 629 din 20 decembrie 2022 pentru aprobarea Regulamentului privind activitatea de audit public extern",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/263697",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/263697",
+     "sha256": "0a26d9bea16d7cc924921c537a859aaef510f5ebe43ee3c003770087c142063d"
+    }
+   ]
+  },
+  {
+   "slug": "curtea-de-conturi-regulament-regulament-2022-12-20-2022",
+   "path": "curtea-de-conturi/regulament/2022/regulament-2022-12-20",
+   "short": "Regulamentul Curtea de Conturi din 2022-12-20",
+   "title": "REGULAMENT din 20 decembrie 2022 privind activitatea de audit public extern",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/263698",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/263698",
+     "sha256": "62f1718fd3f5034043af946d5b21c2eaadcc5f96114a8116d1c938429047e071"
+    }
+   ]
+  }
+ ]
+}

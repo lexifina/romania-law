@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/2014",
+ "acts": [
+  {
+   "slug": "instructiuni-asf-1-2014",
+   "path": "instructiuni/asf/2014/1",
+   "short": "Instrucțiuni asf nr. 1/2014",
+   "title": "Instrucțiunile nr. 1/2014 pentru modificarea Instrucțiunii Comisiei Naționale a Valorilor Mobiliare nr. 2/2007 privind întocmirea și depunerea situațiilor financiare anuale de către entitățile autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare, aprobată prin Ordinul Comisiei Naționale a Valorilor Mobiliare nr. 30/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/156527",
+   "versions": [
+    {
+     "from": "2014-03-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156527",
+     "sha256": "cd5df338a6920975f0ef2d527811e17c4a16d3b2c808a1f1a46f1a8391bd87c7"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-asf-2-2014",
+   "path": "instructiuni/asf/2014/2",
+   "short": "Instrucțiuni asf nr. 2/2014",
+   "title": "Instrucțiunile nr. 2/2014 privind aplicarea Standardelor internaționale de raportare financiară de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară din Sectorul Instrumentelor și Investițiilor Financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160547",
+   "versions": [
+    {
+     "from": "2014-08-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160547",
+     "sha256": "a2053ee77bcaec1c7fa58a9b6410cc798d147a7d6a35892c03d30a6bad7deaea"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-asf-3-2014",
+   "path": "instructiuni/asf/2014/3",
+   "short": "Instrucțiuni asf nr. 3/2014",
+   "title": "Instrucțiunile nr. 3/2014 pentru modificarea Instrucțiunii Comisiei Naționale a Valorilor Mobiliare nr. 5/2006 cu privire la sistemul de raportare contabilă semestrială a entităților autorizate, reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare, aprobată prin Ordinul Comisiei Naționale a Valorilor Mobiliare nr. 70/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160561",
+   "versions": [
+    {
+     "from": "2014-08-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160561",
+     "sha256": "93c171346d8b5027e10da4cefa2995ea080c343dd862ef86764597d6cca0d3e5"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-asf-4-2014",
+   "path": "instructiuni/asf/2014/4",
+   "short": "Instrucțiuni asf nr. 4/2014",
+   "title": "Instrucțiunile nr. 4/2014 pentru modificarea Instrucțiunii nr. 3/2006 privind înregistrarea instrumentelor financiare derivate la Comisia Națională a Valorilor Mobiliare, aprobată prin Ordinul Comisiei Naționale a Valorilor Mobiliare nr. 27/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/164180",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/164180",
+     "sha256": "ddbef49a5830906b815a49f7e7df82110419178c5be0078ec0c227ee991937ba"
+    }
+   ]
+  }
+ ]
+}

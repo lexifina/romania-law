@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "norma-aep/2004",
+ "acts": [
+  {
+   "slug": "norma-aep-rectificare-2004-12-08-2004",
+   "path": "norma-aep/2004/rectificare-2004-12-08",
+   "short": "Rectificarea Regia Autonomă Monitorul Oficial din 2004-12-08",
+   "title": "Rectificarea Regia Autonomă Monitorul Oficial din 2004-12-08",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/57879",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/57879",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

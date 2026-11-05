@@ -1,0 +1,621 @@
+{
+ "country": "RO",
+ "shard": "regulament/2010",
+ "acts": [
+  {
+   "slug": "regulament-bnr-1-2010",
+   "path": "regulament/bnr/2010/1",
+   "short": "Regulament bnr nr. 1/2010",
+   "title": "Regulamentul nr. 1/2010 pentru modificarea Regulamentului Băncii Naționale a României nr. 18/2009 privind cadrul de administrare a activității instituțiilor de credit, procesul intern de evaluare a adecvării capitalului la riscuri și condițiile de externalizare a activităților acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115376",
+   "versions": [
+    {
+     "from": "2010-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115376",
+     "sha256": "0612205f1a7093cea61de569427ba63524045b45079f2ee51b7f2eb128eb2bdb"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-10-2010",
+   "path": "regulament/bnr/2010/10",
+   "short": "Regulament bnr nr. 10/2010",
+   "title": "Regulamentul nr. 10/2010 pentru modificarea Regulamentului Băncii Naționale a României nr. 6/2008 privind începerea activității și modificările în situația instituțiilor de credit, persoane juridice române, și a sucursalelor din România ale instituțiilor de credit din state terțe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122252",
+   "versions": [
+    {
+     "from": "2010-09-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122252",
+     "sha256": "1a1b7e92752154c9e86a8ff5715eb1306fbfc0e7ff7b5fce493b811e5a01962b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-11-2010",
+   "path": "regulament/bnr/2010/11",
+   "short": "Regulament bnr nr. 11/2010",
+   "title": "Regulamentul nr. 11/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 18/23/2006 privind fondurile proprii ale instituțiilor de credit și ale firmelor de investiții, aprobat prin Ordinul Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 15/112/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122735",
+   "versions": [
+    {
+     "from": "2010-10-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122735",
+     "sha256": "a136e1b6b868242b3025f6d7a9e496e591aa8080a6edbf8d6be9f3566a26c671"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-13-2010",
+   "path": "regulament/bnr/2010/13",
+   "short": "Regulament bnr nr. 13/2010",
+   "title": "Regulamentul nr. 13/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 15/20/2006 privind tratamentul riscului de credit pentru instituțiile de credit și firmele de investiții potrivit abordării bazate pe modele interne de rating",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123182",
+   "versions": [
+    {
+     "from": "2010-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123182",
+     "sha256": "e69725d1eadb7ba20a88e39dfac731a1377187d32431ba4ae5f7eb6246931d94"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-15-2010",
+   "path": "regulament/bnr/2010/15",
+   "short": "Regulament bnr nr. 15/2010",
+   "title": "Regulamentul nr. 15/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 18/23/2006 privind fondurile proprii ale instituțiilor de credit și ale firmelor de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123184",
+   "versions": [
+    {
+     "from": "2010-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123184",
+     "sha256": "f6feab7d5252d893d69c626a8284e8bb300e61cb6587962e527e7d792acb780c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-16-2010",
+   "path": "regulament/bnr/2010/16",
+   "short": "Regulament bnr nr. 16/2010",
+   "title": "Regulamentul nr. 16/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 19/24/2006 privind tehnicile de diminuare a riscului de credit utilizate de instituțiile de credit și firmele de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123333",
+   "versions": [
+    {
+     "from": "2010-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123333",
+     "sha256": "8450e28d7b153ca6929c250fed13d9fde077ddf759cd49b161f54fe3be7d44f9"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-17-2010",
+   "path": "regulament/bnr/2010/17",
+   "short": "Regulament bnr nr. 17/2010",
+   "title": "Regulamentul nr. 17/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 20/25/2006 privind tratamentul riscului de credit al contrapartidei în cazul instrumentelor financiare derivate, al tranzacțiilor de răscumpărare, al operațiunilor de dare/luare de titluri/mărfuri cu împrumut, al tranzacțiilor cu termen lung de decontare și al tranzacțiilor de creditare în marjă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123289",
+   "versions": [
+    {
+     "from": "2010-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123289",
+     "sha256": "204c67cee24d07751cdaf8d40882b12570aae48415c922802e1e8a6ccd5033cd"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-19-2010",
+   "path": "regulament/bnr/2010/19",
+   "short": "Regulament bnr nr. 19/2010",
+   "title": "Regulamentul nr. 19/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 22/27/2006 privind adecvarea capitalului instituțiilor de credit și al firmelor de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123243",
+   "versions": [
+    {
+     "from": "2010-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123243",
+     "sha256": "9e2b3dfe8c81bfb4950e433e650ea6cff0f07d725e0a8b8fc6f1dcf0a1539e7e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-2-2010",
+   "path": "regulament/bnr/2010/2",
+   "short": "Regulament bnr nr. 2/2010",
+   "title": "Regulamentul nr. 2/2010 pentru modificarea Regulamentului Băncii Naționale a României nr. 20/2009 privind instituțiile financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115377",
+   "versions": [
+    {
+     "from": "2010-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115377",
+     "sha256": "dbb275ab13503266d18f19dcde6fff2040841c35f7a4ac6580a82915dcc0f8b0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-20-2010",
+   "path": "regulament/bnr/2010/20",
+   "short": "Regulament bnr nr. 20/2010",
+   "title": "Regulamentul nr. 20/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 23/28/2006 privind criteriile tehnice referitoare la organizarea și tratamentul riscurilor, precum și criteriile tehnice utilizate de autoritățile competente pentru verificarea și evaluarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123251",
+   "versions": [
+    {
+     "from": "2010-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123251",
+     "sha256": "249a3bbaed8043c828ec2e20f858b6760a72d0c30f1cc83a1444694d59d2c748"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-21-2010",
+   "path": "regulament/bnr/2010/21",
+   "short": "Regulament bnr nr. 21/2010",
+   "title": "Regulamentul nr. 21/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 25/30/2006 privind cerințele de publicare pentru instituțiile de credit și firmele de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123287",
+   "versions": [
+    {
+     "from": "2010-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123287",
+     "sha256": "62bb4f1bc83934d2372fc6982f551c51271078019f0551fcb9da5e1c4dacb939"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-22-2010",
+   "path": "regulament/bnr/2010/22",
+   "short": "Regulament bnr nr. 22/2010",
+   "title": "Regulamentul nr. 22/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 18/2009 privind cadrul de administrare a activității instituțiilor de credit, procesul intern de evaluare a adecvării capitalului la riscuri și condițiile de externalizare a activităților acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122737",
+   "versions": [
+    {
+     "from": "2010-10-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122737",
+     "sha256": "a36d826cadaa89debf49c55f7447e35c76186616cfffc304b49afa1f1256a2a4"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-23-2010",
+   "path": "regulament/bnr/2010/23",
+   "short": "Regulament bnr nr. 23/2010",
+   "title": "Regulamentul nr. 23/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 13/18/2006 privind determinarea cerințelor minime de capital pentru instituțiile de credit și firmele de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123176",
+   "versions": [
+    {
+     "from": "2010-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123176",
+     "sha256": "400c7fa1f1a151335354df5d28ec022f3fd7e11f4246ecc1d444339066473122"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-24-2010",
+   "path": "regulament/bnr/2010/24",
+   "short": "Regulament bnr nr. 24/2010",
+   "title": "Regulamentul nr. 24/2010 privind abrogarea unor acte normative emise de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122910",
+   "versions": [
+    {
+     "from": "2010-10-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122910",
+     "sha256": "25e8ac4d41bf883442d263bcded48fa36708a9b0566f966501aa300a04c72a3b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-25-2010",
+   "path": "regulament/bnr/2010/25",
+   "short": "Regulament bnr nr. 25/2010",
+   "title": "Regulamentul nr. 25/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 18/2009 privind cadrul de administrare a activității instituțiilor de credit, procesul intern de evaluare a adecvării capitalului la riscuri și condițiile de externalizare a activităților acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124608",
+   "versions": [
+    {
+     "from": "2010-12-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124608",
+     "sha256": "56fd3d873c8152f46f797260b44bcf9d9b13301af95f9dd8eb973fae3a358ff5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-3-2010",
+   "path": "regulament/bnr/2010/3",
+   "short": "Regulament bnr nr. 3/2010",
+   "title": "Regulamentul nr. 3/2010 privind comisioanele practicate de Banca Națională a României pentru efectuarea operațiunilor de eliberare și primire de numerar în relația cu instituțiile de credit și Trezoreria Statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117266",
+   "versions": [
+    {
+     "from": "2010-03-22",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117266",
+     "sha256": "2d0c5683d96a8a16316a9ae181563ba3a4add49fbcbfe9b447596701d3f817b0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-4-2010",
+   "path": "regulament/bnr/2010/4",
+   "short": "Regulament bnr nr. 4/2010",
+   "title": "Regulamentul nr. 4/2010 pentru modificarea Regulamentului nr. 24/2009 privind lichiditatea instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117444",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117444",
+     "sha256": "a1583fc1115014a5812e5d60d24c98164b2adbf0a9a879ccb91094371029b874"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-5-2010",
+   "path": "regulament/bnr/2010/5",
+   "short": "Regulament bnr nr. 5/2010",
+   "title": "Regulamentul nr. 5/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 20/2009 privind instituțiile financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118320",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118320",
+     "sha256": "f80ddcc1344d75efe5a22fc1cef27a2af26e0cb62e9d7b34323b9f955cd9e6aa"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-6-2010",
+   "path": "regulament/bnr/2010/6",
+   "short": "Regulament bnr nr. 6/2010",
+   "title": "Regulamentul nr. 6/2010 privind abrogarea unor acte normative emise de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120027",
+   "versions": [
+    {
+     "from": "2010-07-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120027",
+     "sha256": "3ec01de3cc5398f1834648c9a5725fc0f12738dc7a0127c519e3f4c973a5ffb5"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-7-2010",
+   "path": "regulament/bnr/2010/7",
+   "short": "Regulament bnr nr. 7/2010",
+   "title": "Regulamentul nr. 7/2010 pentru abrogarea Regulamentului nr. 1/2008 privind transformarea instituțiilor financiare în instituții de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120400",
+   "versions": [
+    {
+     "from": "2010-07-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120400",
+     "sha256": "635ab180b602d75e85717b007006beb497e004246cbcaeb32cfbef5ecbd5ff9c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-8-2010",
+   "path": "regulament/bnr/2010/8",
+   "short": "Regulament bnr nr. 8/2010",
+   "title": "Regulamentul nr. 8/2010 pentru modificarea Regulamentului nr. 2/2008 privind evaluarea adecvării cadrului de supraveghere din statul terț de origine și verificarea echivalenței supravegherii exercitate de autoritățile competente din state terțe cu cea guvernată de principiile prevăzute în Ordonanța de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului, aprobată cu modificări și completări prin Legea nr. 227/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120401",
+   "versions": [
+    {
+     "from": "2010-07-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120401",
+     "sha256": "a2975eefe46778fee495256d00e1a195a7ef03fe204a1f56947a8047366b5097"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-9-2010",
+   "path": "regulament/bnr/2010/9",
+   "short": "Regulament bnr nr. 9/2010",
+   "title": "Regulamentul nr. 9/2010 privind modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 24/29/2006 privind determinarea cerințelor minime de capital ale instituțiilor de credit și ale firmelor de investiții pentru riscul operațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121192",
+   "versions": [
+    {
+     "from": "2010-08-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121192",
+     "sha256": "4b2e4ce04f711ea82575aa4a06899a260e007fd31f9e7136e810087b691fa472"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-1-2010",
+   "path": "regulament/cnvm/2010/1",
+   "short": "Regulament cnvm nr. 1/2010",
+   "title": "Regulamentul nr. 1/2010 pentru modificarea Regulamentului nr. 7/2006 privind veniturile Comisiei Naționale a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115579",
+   "versions": [
+    {
+     "from": "2010-01-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115579",
+     "sha256": "745f33148fcb1e8b5165192d2ad17ddbb9605a1ee2675555a1482c66f94f2968"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-11-2010",
+   "path": "regulament/cnvm/2010/11",
+   "short": "Regulament cnvm nr. 11/2010",
+   "title": "Regulamentul nr. 11/2010 privind administrarea specială a entităților autorizate de Comisia Națională a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118409",
+   "versions": [
+    {
+     "from": "2010-05-03",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118409",
+     "sha256": "a955616b78be504a02a2c25aad9fc2c8503ce504856b3d45deb73d6b6519b8c0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-13-2010",
+   "path": "regulament/cnvm/2010/13",
+   "short": "Regulament cnvm nr. 13/2010",
+   "title": "Regulamentul nr. 13/2010 privind modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 24/29/2006 privind determinarea cerințelor minime de capital ale instituțiilor de credit și ale firmelor de investiții pentru riscul operațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121194",
+   "versions": [
+    {
+     "from": "2010-08-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121194",
+     "sha256": "a852fd42e074169e88aad7086d1af12007c5dba1e8a3cecad4754305e2c91e52"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-14-2010",
+   "path": "regulament/cnvm/2010/14",
+   "short": "Regulament cnvm nr. 14/2010",
+   "title": "Regulamentul nr. 14/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 18/23/2006 privind fondurile proprii ale instituțiilor de credit și ale firmelor de investiții, aprobat prin Ordinul Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 15/112/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122739",
+   "versions": [
+    {
+     "from": "2010-10-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122739",
+     "sha256": "fb841bf42d85aab6331dcb50eb0cee7c715ee29291ba320d63e266f86c8cdfe3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-15-2010",
+   "path": "regulament/cnvm/2010/15",
+   "short": "Regulament cnvm nr. 15/2010",
+   "title": "Regulamentul nr. 15/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 20/25/2006 privind tratamentul riscului de credit al contrapartidei în cazul instrumentelor financiare derivate, al tranzacțiilor de răscumpărare, al operațiunilor de dare/luare de titluri/mărfuri cu împrumut, al tranzacțiilor cu termen lung de decontare și al tranzacțiilor de creditare în marjă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123293",
+   "versions": [
+    {
+     "from": "2010-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123293",
+     "sha256": "41d8a0cbd7d26ed26c5bdf5c07200bcb47d267881e6a56343ffddd9b6b2af391"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-17-2010",
+   "path": "regulament/cnvm/2010/17",
+   "short": "Regulament cnvm nr. 17/2010",
+   "title": "Regulamentul nr. 17/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 19/24/2006 privind tehnicile de diminuare a riscului de credit utilizate de instituțiile de credit și firmele de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123335",
+   "versions": [
+    {
+     "from": "2010-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123335",
+     "sha256": "858bfdfc4dd26ec1854df7339fb332812dab3ee380f89228625fdc44afab519d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-18-2010",
+   "path": "regulament/cnvm/2010/18",
+   "short": "Regulament cnvm nr. 18/2010",
+   "title": "Regulamentul nr. 18/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 18/23/2006 privind fondurile proprii ale instituțiilor de credit și ale firmelor de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123201",
+   "versions": [
+    {
+     "from": "2010-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123201",
+     "sha256": "34d5e4d5665dc7c6641df84c3b0cddffd66006279db2c600f9381e51d6f75168"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-19-2010",
+   "path": "regulament/cnvm/2010/19",
+   "short": "Regulament cnvm nr. 19/2010",
+   "title": "Regulamentul nr. 19/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 14/19/2006 privind tratamentul riscului de credit pentru instituțiile de credit și firmele de investiții potrivit abordării standard",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123162",
+   "versions": [
+    {
+     "from": "2010-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123162",
+     "sha256": "9afbe31879f0573815c54700d23f5e8614a8a963c574a6d4aac4906fd072ba5f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-2-2010",
+   "path": "regulament/cnvm/2010/2",
+   "short": "Regulament cnvm nr. 2/2010",
+   "title": "Regulamentul nr. 2/2010 pentru modificarea Regulamentului nr. 7/2006 privind veniturile Comisiei Naționale a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116448",
+   "versions": [
+    {
+     "from": "2010-02-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116448",
+     "sha256": "398ad18570f6b6fdeab635b799239378e00f873c985dbd3358b6d0cc767d516c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-20-2010",
+   "path": "regulament/cnvm/2010/20",
+   "short": "Regulament cnvm nr. 20/2010",
+   "title": "Regulamentul nr. 20/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 15/20/2006 privind tratamentul riscului de credit pentru instituțiile de credit și firmele de investiții potrivit abordării bazate pe modele interne de rating",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123198",
+   "versions": [
+    {
+     "from": "2010-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123198",
+     "sha256": "ea223613ab641cc2badf0441d8f5d7b67caa62c728c65be07be422eeafe5a743"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-21-2010",
+   "path": "regulament/cnvm/2010/21",
+   "short": "Regulament cnvm nr. 21/2010",
+   "title": "Regulamentul nr. 21/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 13/18/2006 privind determinarea cerințelor minime de capital pentru instituțiile de credit și firmele de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123180",
+   "versions": [
+    {
+     "from": "2010-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123180",
+     "sha256": "cff11af057c02f15dab59482de923675fb93cc2ac88701c6567860b263667576"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-23-2010",
+   "path": "regulament/cnvm/2010/23",
+   "short": "Regulament cnvm nr. 23/2010",
+   "title": "Regulamentul nr. 23/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 22/27/2006 privind adecvarea capitalului instituțiilor de credit și al firmelor de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123249",
+   "versions": [
+    {
+     "from": "2010-12-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123249",
+     "sha256": "06c0bbf21777475379debeb8f9adbf9030edb1503470ce54525e07c0503c3999"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-24-2010",
+   "path": "regulament/cnvm/2010/24",
+   "short": "Regulament cnvm nr. 24/2010",
+   "title": "Regulamentul nr. 24/2010 privind expunerile mari ale instituțiilor de credit și ale firmelor de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123164",
+   "versions": [
+    {
+     "from": "2010-12-31",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123164",
+     "sha256": "cc0aa3c01c5606e6ea3c9cb36f1cb2dd5425e0154f486cdb7fd01efde53a736e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-25-2010",
+   "path": "regulament/cnvm/2010/25",
+   "short": "Regulament cnvm nr. 25/2010",
+   "title": "Regulamentul nr. 25/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 23/28/2006 privind criteriile tehnice referitoare la organizarea și tratamentul riscurilor, precum și criteriile tehnice utilizate de autoritățile competente pentru verificarea și evaluarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123253",
+   "versions": [
+    {
+     "from": "2010-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123253",
+     "sha256": "8c6c63b7444165d4ae2922b2affb4924b5137d5fcbf2e295ef8239993add4713"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-26-2010",
+   "path": "regulament/cnvm/2010/26",
+   "short": "Regulament cnvm nr. 26/2010",
+   "title": "Regulamentul nr. 26/2010 pentru modificarea și completarea Regulamentului Băncii Naționale a României și al Comisiei Naționale a Valorilor Mobiliare nr. 25/30/2006 privind cerințele de publicare pentru instituțiile de credit și firmele de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123297",
+   "versions": [
+    {
+     "from": "2010-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123297",
+     "sha256": "2a4195aff9f8f656bd07d22b53e6a5fa7c21b568e0930bad8a962e1e07fd25b3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-27-2010",
+   "path": "regulament/cnvm/2010/27",
+   "short": "Regulament cnvm nr. 27/2010",
+   "title": "Regulamentul nr. 27/2010 privind supravegherea electronică prin raportări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124011",
+   "versions": [
+    {
+     "from": "2010-11-29",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124011",
+     "sha256": "98fa68eff738f327588e9ab7b419bff863dae62f5ece9a377622797ef5351a9b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-3-2010",
+   "path": "regulament/cnvm/2010/3",
+   "short": "Regulament cnvm nr. 3/2010",
+   "title": "Regulamentul nr. 3/2010 pentru modificarea și completarea Regulamentului Comisiei Naționale a Valorilor Mobiliare nr. 3/2006 privind autorizarea, organizarea și funcționarea Fondului de compensare a investitorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116590",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116590",
+     "sha256": "de279aa17e778fe32c0bf421d6206d1b146c74351905c64d0655db43925fcf82"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-4-2010",
+   "path": "regulament/cnvm/2010/4",
+   "short": "Regulament cnvm nr. 4/2010",
+   "title": "Regulamentul nr. 4/2010 privind înregistrarea la Comisia Națională a Valorilor Mobiliare și funcționarea Societății Comerciale \"Fondul Proprietatea\" - S.A., precum și tranzacționarea acțiunilor emise de aceasta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117000",
+   "versions": [
+    {
+     "from": "2010-03-12",
+     "units": 44,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117000",
+     "sha256": "fea7cdd34ac4ccee81b50a71146285e2e7182b713e736724213184959551abe0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-7-2010",
+   "path": "regulament/cnvm/2010/7",
+   "short": "Regulament cnvm nr. 7/2010",
+   "title": "Regulamentul nr. 7/2010 pentru modificarea și completarea Regulamentului nr. 6/2009 privind exercitarea anumitor drepturi ale acționarilor în cadrul adunărilor generale ale societăților comerciale, aprobat prin Ordinul președintelui Comisiei Naționale a Valorilor Mobiliare nr. 44/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117347",
+   "versions": [
+    {
+     "from": "2010-03-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117347",
+     "sha256": "71aed956a10381de9ea9a03626eb471aa4c9e91b53e6636b0bc7a1ac9a4eca75"
+    }
+   ]
+  }
+ ]
+}

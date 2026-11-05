@@ -4,10 +4,11 @@ How to query this repository without reading it all. Everything here is plain gi
 
 ## Find an act
 
-- `data/acts.json`: one row per act with `slug` (the act id), `path` (its folder), `kind` (`constitutie`, `lege`, `oug`, `og`, `hg`), `year`, `number`, `title`, `code` (the code's name, if it is one), `status` (`in force`, `repealed <day>`, `amending act`), `versions`, `from`, `latest` and `portal` (the source page).
+- `data/acts.json`: one row per act of the primary legislation with `slug` (the act id), `path` (its folder), `kind` (`constitutie`, `lege`, `oug`, `og`, `decret`, `decret-lege`, `hotarare-parlament`, `cod`), `year`, `number`, `title`, `code` (the code's name, if it is one), `status` (`in force`, `repealed <day>`, `amending act`), `versions`, `from`, `latest` and `portal` (the source page).
+- Every other kind (`hg`, the orders such as `ordin`, `local` and the rest) has the same rows in shards, one file per kind and year: `data/acts/hg/2016.json`, `data/acts/ordin/2012.json`; local acts per council and year, `data/acts/local/bucuresti/cgmb/2016.json`. `data/index.json` lists every shard (`shards[].acts`, `.versions`, `.laws`, `.list`); for the whole list read `data/acts.json` and every shard. `data/versions.json` and `data/laws.csv` are split the same way (`data/versions/<kind>/<year>.json`, `data/laws/<kind>/<year>.csv`), and the sources of a shard's acts are in `data/sources/<kind>/<year>.csv` (REPRODUCE.md lists the others).
 - The folder is the official identifier: Legea nr. 31/1990 is `lege/1990/31/`, OUG nr. 195/2002 `oug/2002/195/`, HG nr. 10/2016 `hg/2016/10/`. A code lives under its own act: Codul civil `lege/2009/287/`, Codul administrativ `oug/2019/57/`, the Constitution `constitutie/1991/`.
-- `data/paths.json` maps every act id to its folder.
-- [ACTS.md](ACTS.md) is the same list for people.
+- `data/paths.json` maps every act id to its folder, every kind included (it is not split).
+- [ACTS.md](ACTS.md) is the same list for people; each shard's list is beside its JSON (`data/acts/hg/2016.md`).
 
 ## Read the law on a day
 
@@ -57,7 +58,7 @@ One commit labelled `Kind: layout` renamed every act folder from its id (`codul-
 
 ## Withdrawn acts and retired ids
 
-An act that turns out not to belong here (for example, an act titled as a Government decision but issued by another body) is removed by a correction commit (`Kind: correction`, one `Withdraws: <id>` trailer per act). The commits that added it stay in the history, and so do its tags, which are never moved or deleted. ACTS.md and `data/acts.json` list it under "Withdrawn", with the reason and the removing commit. Its id is retired: a later act with the same official number gets the id with `-2` appended (`hg-10-2021-2`, tags `hg-10-2021-2/<day>`). Its folder is still the official identifier (`hg/2021/10/`).
+An act that turns out not to belong here (for example, an act titled as a Government decision but issued by another body) is removed by a correction commit (`Kind: correction`, one `Withdraws: <id>` trailer per act). The commits that added it stay in the history, and so do its tags, which are never moved or deleted. ACTS.md and `data/acts.json` (or the kind's shard and its list) show it under "Withdrawn", with the reason and the removing commit. Its id is retired: a later act with the same official number gets the id with `-2` appended (`hg-10-2021-2`, tags `hg-10-2021-2/<day>`). Its folder is still the official identifier (`hg/2021/10/`).
 
 ## Corrected text
 

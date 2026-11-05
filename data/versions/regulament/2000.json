@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "regulament/2000",
+ "acts": [
+  {
+   "slug": "regulament-bnr-2-2000",
+   "path": "regulament/bnr/2000/2",
+   "short": "Regulament bnr nr. 2/2000",
+   "title": "Regulamentul nr. 2/2000 privind clasificarea creditelor și plasamentelor, precum și constituirea, regularizarea și utilizarea provizioanelor specifice de risc de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23202",
+   "versions": [
+    {
+     "from": "2000-07-07",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23202",
+     "sha256": "d84bb700c961f787a0529626c8784341fd205fbc790c882a3ed3c0529cc3721e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-1-2000",
+   "path": "regulament/cnvm/2000/1",
+   "short": "Regulament cnvm nr. 1/2000",
+   "title": "Regulamentul nr. 1/2000 privind modificarea cuantumului taxelor percepute de Comisia Naționala a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21759",
+   "versions": [
+    {
+     "from": "2000-04-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21759",
+     "sha256": "0aaf8dc8072f81f27f0d9f2f62e6f2a7c0b2c635a7382a6bcd94513c8b7bbbfb"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-2-2000",
+   "path": "regulament/cnvm/2000/2",
+   "short": "Regulament cnvm nr. 2/2000",
+   "title": "Regulamentul nr. 2/2000 de aplicare a Legii nr. 190/1999 privind creditul ipotecar pentru investiții imobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21985",
+   "versions": [
+    {
+     "from": "2000-04-24",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21985",
+     "sha256": "a421053e107653fd76e070f80ac666c8b9ea0975a76e729b30d4cf11604e96ee"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-3-2000",
+   "path": "regulament/cnvm/2000/3",
+   "short": "Regulament cnvm nr. 3/2000",
+   "title": "Regulamentul nr. 3/2000 cu privire la modificarea Regulamentului nr. 9/1996 privind constituirea și funcționarea fondurilor deschise de investiții, societăților de investiții, societăților de administrare și societăților de depozitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23743",
+   "versions": [
+    {
+     "from": "2000-08-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23743",
+     "sha256": "c3725cbce8ad40a64d4d90233a3c737461116de1adf44556a1f5f71140268562"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-4-2000",
+   "path": "regulament/cnvm/2000/4",
+   "short": "Regulament cnvm nr. 4/2000",
+   "title": "Regulamentul nr. 4/2000 privind organizarea Comisiei Naționale a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24516",
+   "versions": [
+    {
+     "from": "2000-10-09",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24516",
+     "sha256": "bfa79a331ab3db040e6b880fb69de2aa22a547c1ef2e80fd70b7b80455bd1d9b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-5-2000",
+   "path": "regulament/cnvm/2000/5",
+   "short": "Regulament cnvm nr. 5/2000",
+   "title": "Regulamentul nr. 5/2000 privind decontarea tranzacțiilor cu valori mobiliare efectuate pe piețele reglementate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25780",
+   "versions": [
+    {
+     "from": "2000-12-21",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25780",
+     "sha256": "30123798db0011e08e16b86fdaf04059e504e53fbe4edf1f5f4a0c82c1e29996"
+    }
+   ]
+  }
+ ]
+}

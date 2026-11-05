@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "anspdcp/2016",
+ "acts": [
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2016-2016-06-02",
+   "path": "anspdcp/comunicat-sanctiune/2016/2016-06-02",
+   "short": "Comunicat ANSPDCP din 2016-06-02",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2016-06-02",
+   "url": "https://www.dataprotection.ro/?page=sanctiuni_mai&lang=ro",
+   "versions": [
+    {
+     "from": "2016-06-02",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=sanctiuni_mai&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2016-2016-08-25",
+   "path": "anspdcp/comunicat-sanctiune/2016/2016-08-25",
+   "short": "Comunicat ANSPDCP din 2016-08-25",
+   "title": "Comunicat ANSPDCP din 2016-08-25: Sancțiuni aplicate",
+   "url": "https://www.dataprotection.ro/?page=Sanctiuni_aplicate_august_2016&lang=ro",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Sanctiuni_aplicate_august_2016&lang=ro",
+     "sha256": "474a3737aa247395c753c35354dbe6826cae48241952645bee891a51860fb167"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2016-2016-10-28",
+   "path": "anspdcp/comunicat-sanctiune/2016/2016-10-28",
+   "short": "Comunicat ANSPDCP din 2016-10-28",
+   "title": "Comunicat ANSPDCP din 2016-10-28: Sancțiuni aplicate",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Amenzi_septembrie_2016&lang=ro",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Amenzi_septembrie_2016&lang=ro",
+     "sha256": "be8a6b01ee25e6296be4727b6fcc08cf4edb40a69aa6a429c2fef38928678ce7"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2016-2016-12-20",
+   "path": "anspdcp/comunicat-sanctiune/2016/2016-12-20",
+   "short": "Comunicat ANSPDCP din 2016-12-20",
+   "title": "Comunicat ANSPDCP din 2016-12-20: Sancțiuni aplicate - noiembrie",
+   "url": "https://www.dataprotection.ro/?page=Sanctiuni_aplicate_noiembrie_2016&lang=ro",
+   "versions": [
+    {
+     "from": "2016-12-20",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Sanctiuni_aplicate_noiembrie_2016&lang=ro",
+     "sha256": "88bf447e4b0336ddd8b27cbdf4ba39689a9ec59d1095e1fb25199e9f3b8cb68f"
+    }
+   ]
+  }
+ ]
+}

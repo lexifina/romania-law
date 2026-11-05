@@ -1,0 +1,44 @@
+{
+"country": "RO",
+"shard": "precizari/1996",
+"acts": [
+{
+"slug": "precizari-bnr-5-1996",
+"path": "precizari/bnr/1996/5",
+"kind": "precizari",
+"year": "1996",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizările nr. 5/1996 pentru aplicarea normelor metodologice aprobate prin Hotărârea Guvernului nr. 92/1996",
+"short": "Precizări bnr nr. 5/1996",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1996-09-24",
+"latest": "1996-09-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/7772",
+"issuer": "bnr",
+"joint": []
+},
+{
+"slug": "precizari-finante-5-1996",
+"path": "precizari/finante/1996/5",
+"kind": "precizari",
+"year": "1996",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Precizările nr. 5/1996 pentru aplicarea normelor metodologice aprobate prin Hotărârea Guvernului nr. 92/1996",
+"short": "Precizări finante nr. 5/1996",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1996-09-24",
+"latest": "1996-09-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/10715",
+"issuer": "finante",
+"joint": []
+}
+]
+}

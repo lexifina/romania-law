@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/bucuresti/sector-5/2026",
+"acts": [
+{
+"slug": "hcls5-99-2026",
+"path": "local/bucuresti/sector-5/2026/99",
+"kind": "local",
+"year": "2026",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 5 nr. 99/2026",
+"short": "HCLS5 nr. 99/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-09-01",
+"latest": "2026-09-01",
+"portal": null,
+"council": "bucuresti/sector-5",
+"council_name": "Consiliul Local al Sectorului 5 al Municipiului București",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcls5-125-2026",
+"path": "local/bucuresti/sector-5/2026/125",
+"kind": "local",
+"year": "2026",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 5 nr. 125/2026 privind aprobarea Programului educațional „Literatura în scenă – Bacalaureatul prin teatru”, a bugetului estimativ, a calendarului de desfășurare și a Regulamentului Galei trupelor de teatru liceene din Sectorul 5",
+"short": "HCLS5 nr. 125/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://sector5.ro/hotararea-nr-125-30-09-2026-privind-aprobarea-programului-educational-literatura-in-scena-bacalaureatul-prin-teatru-a-bugetului-estimativ-a-calendarului-de-desfasurare-s/",
+"council": "bucuresti/sector-5",
+"council_name": "Consiliul Local al Sectorului 5 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls5-132-2026",
+"path": "local/bucuresti/sector-5/2026/132",
+"kind": "local",
+"year": "2026",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 5 nr. 132/2026 privind aprobarea Regulamentului pentru emiterea și vizarea anuală a Autorizației privind desfășurarea activităților prevăzute în grupele CAEN 561-Restaurante și 563 – Baruri și alte activități de servire a băuturilor și a Acordului de funcționare pentru comercializarea produselor și prestarea serviciilor de piață pe raza Sectorului 5 al Municipiului București",
+"short": "HCLS5 nr. 132/2026",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://sector5.ro/hotararea-nr-132-29-10-2026-privind-aprobarea-regulamentului-pentru-emiterea-si-vizarea-anuala-a-autorizatiei-privind-desfasurarea-activitatilor-prevazute-in-grupele-caen-561-restaurante-si-563/",
+"council": "bucuresti/sector-5",
+"council_name": "Consiliul Local al Sectorului 5 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

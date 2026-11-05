@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "curtea-de-conturi/2013",
+ "acts": [
+  {
+   "slug": "curtea-de-conturi-hotarare-plen-135-2013",
+   "path": "curtea-de-conturi/hotarare-plen/2013/135",
+   "short": "Hotărârea Curtea de Conturi nr. 135/2013",
+   "title": "HOTĂRÂRE nr. 135 din 16 mai 2013 pentru modificarea Regulamentului privind organizarea şi desfăşurarea activităţilor specifice Curţii de Conturi, precum şi valorificarea actelor rezultate din aceste activităţi, aprobat prin Hotărârea plenului Curţii de Conturi nr. 130/2010",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/150928",
+   "versions": [
+    {
+     "from": "2013-08-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/150928",
+     "sha256": "529beb501b31ae47e12a0279b7fea2350f0e2c3861d5e75e9c9d87c353d3081b"
+    }
+   ]
+  }
+ ]
+}

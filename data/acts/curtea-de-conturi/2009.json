@@ -1,0 +1,60 @@
+{
+"country": "RO",
+"shard": "curtea-de-conturi/2009",
+"acts": [
+{
+"slug": "curtea-de-conturi-regulament-regulament-2009-02-04-2009",
+"path": "curtea-de-conturi/regulament/2009/regulament-2009-02-04",
+"kind": "curtea-de-conturi",
+"year": "2009",
+"number": "regulament-2009-02-04",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul Curții de Conturi din 2009-02-04",
+"short": "Regulamentul Curtea de Conturi din 2009-02-04",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2009-02-10",
+"latest": "2009-02-10",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/102238",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "curtea-de-conturi-rectificare-1-2009",
+"path": "curtea-de-conturi/rectificare/2009/1",
+"kind": "curtea-de-conturi",
+"year": "2009",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "RECTIFICARE nr. 1 din 4 februarie 2009 referitoare la Hotărârea nr. 1/2009",
+"short": "Rectificarea Curtea de Conturi nr. 1/2009",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2009-03-06",
+"latest": "2009-03-06",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/103062"
+},
+{
+"slug": "curtea-de-conturi-hotarare-plen-87-2009",
+"path": "curtea-de-conturi/hotarare-plen/2009/87",
+"kind": "curtea-de-conturi",
+"year": "2009",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "HOTĂRÂRE nr. 87 din 21 iulie 2009 privind aprobarea criteriilor de majorare a salariilor pentru personalul din cadrul Autorităţii de Audit, conform prevederilor Legii nr. 490/2004 privind stimularea financiară a personalului care gestionează fonduri comunitare",
+"short": "Hotărârea Curtea de Conturi nr. 87/2009",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2009-07-27",
+"latest": "2009-07-27",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/109896"
+}
+]
+}

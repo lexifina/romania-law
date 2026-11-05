@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "regulament/1992",
+ "acts": [
+  {
+   "slug": "regulament-bnr-1045-1992",
+   "path": "regulament/bnr/1992/1045",
+   "short": "Regulament bnr nr. 1045/1992",
+   "title": "Regulamentul nr. 1.045/1992 privind efectuarea și controlul operațiunilor de decontare între societățile bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2935",
+   "versions": [
+    {
+     "from": "1992-07-01",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2935",
+     "sha256": "79eaed2320caba8c9dcd2d1d5be212a3ab65473a70d640f13ae9d01435026892"
+    }
+   ]
+  }
+ ]
+}

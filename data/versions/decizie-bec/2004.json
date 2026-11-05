@@ -1,0 +1,336 @@
+{
+ "country": "RO",
+ "shard": "decizie-bec/2004",
+ "acts": [
+  {
+   "slug": "decizie-bec-locale-2004-110",
+   "path": "decizie-bec/locale-2004/110",
+   "short": "Hotărârea BEC nr. 110/2004",
+   "title": "HOTĂRÂRE nr. 110 din 10 iunie 2004 pentru completarea art. 1 din Hotărârea Biroului Electoral Central nr. 87/2004 privind interpretarea unor dispoziţii din Legea nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale referitoare la organizarea şi desfăşurarea celui de-al doilea tur de scrutin pentru alegerea primarilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/52632",
+   "versions": [
+    {
+     "from": "2004-06-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/52632",
+     "sha256": "32e84f66e0e2732b1bd36113dcd4c9c545002ca6711ef216b0c99637c838c7cc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2004-2",
+   "path": "decizie-bec/locale-2004/2",
+   "short": "Hotărârea BEC nr. 2/2004",
+   "title": "HOTĂRÂRE nr. 2 din 23 aprilie 2004 privind interpretarea unor texte din Legea nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/51416",
+   "versions": [
+    {
+     "from": "2004-04-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/51416",
+     "sha256": "4d4a685a27eac3b5bc2d87908a06dd5ac6740f260e71a9146f5ee9a7d3a71ad0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2004-22",
+   "path": "decizie-bec/locale-2004/22",
+   "short": "Hotărârea BEC nr. 22/2004",
+   "title": "HOTĂRÂRE nr. 22 din 27 aprilie 2004 privind interpretarea unor prevederi din actele normative cu aplicabilitate în desfăşurarea alegerilor pentru autorităţile administraţiei publice locale din data de 6 iunie 2004",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/51608",
+   "versions": [
+    {
+     "from": "2004-05-03",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/51608",
+     "sha256": "7c42be5ae949ad7efaf0b9bfc7d80d00a1457a4e1c36143a7761709220b10713"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2004-23",
+   "path": "decizie-bec/locale-2004/23",
+   "short": "Hotărârea BEC nr. 23/2004",
+   "title": "HOTĂRÂRE nr. 23 din 4 mai 2004 privind aplicarea unor prevederi ale Legii nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/51674",
+   "versions": [
+    {
+     "from": "2004-05-05",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/51674",
+     "sha256": "561a24a6bf991229d7e7f28b67f59d307f17111da2ca48fc3198829c1d84fd32"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2004-33",
+   "path": "decizie-bec/locale-2004/33",
+   "short": "Hotărârea BEC nr. 33/2004",
+   "title": "HOTĂRÂRE nr. 33 din 15 mai 2004 privind interpretarea art. 24 alin. (14), art. 28 alin. (8) şi art. 32 alin. (5) din Legea nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/51948",
+   "versions": [
+    {
+     "from": "2004-05-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/51948",
+     "sha256": "694a2bbe6a8d3469c4d0d05495a23815d77544e72f4473acef2e2fa02704e2ea"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2004-39",
+   "path": "decizie-bec/locale-2004/39",
+   "short": "Hotărârea BEC nr. 39/2004",
+   "title": "HOTĂRÂRE nr. 39 din 18 mai 2004 privind interpretarea unor texte din Legea nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/52154",
+   "versions": [
+    {
+     "from": "2004-05-24",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/52154",
+     "sha256": "5e1b1eacbcfe21b1904c9a96f6e6973aa13e8204aad778ae2c414464a14639b3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2004-40",
+   "path": "decizie-bec/locale-2004/40",
+   "short": "Hotărârea BEC nr. 40/2004",
+   "title": "HOTĂRÂRE nr. 40 din 18 mai 2004 privind interpretarea unor texte din Legea nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/52155",
+   "versions": [
+    {
+     "from": "2004-05-24",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/52155",
+     "sha256": "3863b0aab99316614db5bc28f3c745f8aa09ba3f50e626d543ff65a3c127f1af"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2004-41",
+   "path": "decizie-bec/locale-2004/41",
+   "short": "Hotărârea BEC nr. 41/2004",
+   "title": "HOTĂRÂRE nr. 41 din 18 mai 2004 privind interpretarea unor texte din Legea nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/52160",
+   "versions": [
+    {
+     "from": "2004-05-24",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/52160",
+     "sha256": "8a1abb712aaef66050259e6649c1498929f57c2c42d62c7073d6faccb0a0350e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2004-42",
+   "path": "decizie-bec/locale-2004/42",
+   "short": "Hotărârea BEC nr. 42/2004",
+   "title": "HOTĂRÂRE nr. 42 din 18 mai 2004 privind organizarea activităţii de centralizare a voturilor şi constatare a rezultatelor alegerilor autorităţilor administraţiei publice locale la nivelul circumscripţiilor electorale judeţene",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/52161",
+   "versions": [
+    {
+     "from": "2004-05-24",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/52161",
+     "sha256": "7ae12608f7d720e1d2711fca91380d7217749752dae396caee20748fef9cefc0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2004-52",
+   "path": "decizie-bec/locale-2004/52",
+   "short": "Hotărârea BEC nr. 52/2004",
+   "title": "HOTĂRÂRE nr. 52 din 21 mai 2004 privind interpretarea art. 28 alin. (8) şi art. 24 alin. (14) din Legea nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/52236",
+   "versions": [
+    {
+     "from": "2004-05-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/52236",
+     "sha256": "783f9214c31347a9f93a491716651c65e3236c8f05373861ecf5f4b73b96358a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2004-67",
+   "path": "decizie-bec/locale-2004/67",
+   "short": "Hotărârea BEC nr. 67/2004",
+   "title": "HOTĂRÂRE nr. 67 din 25 mai 2004 privind interpretarea art. 72 alin. (6) din Legea nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/52386",
+   "versions": [
+    {
+     "from": "2004-06-02",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/52386",
+     "sha256": "e2e4b97707bb8c4e7d16d940f1b0e2bfdbffd98b33e31f937ed9bc326aba024e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2004-72",
+   "path": "decizie-bec/locale-2004/72",
+   "short": "Hotărârea BEC nr. 72/2004",
+   "title": "HOTĂRÂRE nr. 72 din 29 mai 2004 privind interpretarea art. 85 alin. (3) din Legea nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/52431",
+   "versions": [
+    {
+     "from": "2004-06-03",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/52431",
+     "sha256": "b4de931e09757c9f68feb69ecf5e5cefde606b4440c544e57357d915fcd424ac"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2004-87",
+   "path": "decizie-bec/locale-2004/87",
+   "short": "Hotărârea BEC nr. 87/2004",
+   "title": "HOTĂRÂRE nr. 87 din 4 iunie 2004 privind interpretarea unor dispoziţii din Legea nr. 67/2004 pentru alegerea autorităţilor administraţiei publice locale referitoare la organizarea şi desfăşurarea celui de-al doilea tur de scrutin pentru alegerea primarilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/52539",
+   "versions": [
+    {
+     "from": "2004-06-08",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/52539",
+     "sha256": "c6efba3dfe85b3595590c04a0cc85a15d261fcfa291887f00062c191badd1d13"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-2004-proces-verbal-2004-06-30",
+   "path": "decizie-bec/locale-2004/proces-verbal-2004-06-30",
+   "short": "Proces verbal BEC din 2004-06-30",
+   "title": "Proces verbal Biroului Electoral Central din 2004-06-30",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/53465",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/53465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2004-17",
+   "path": "decizie-bec/parlamentare-2004/17",
+   "short": "Hotărârea BEC nr. 17/2004",
+   "title": "HOTĂRÂRE nr. 17 din 25 octombrie 2004 privind interpretarea unor dispoziţii din Legea nr. 373/2004 pentru alegerea Camerei Deputaţilor şi a Senatului",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/56251",
+   "versions": [
+    {
+     "from": "2004-10-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/56251",
+     "sha256": "9eafcc7c4927f47a56b663758c6018cdaae73ea687a77b06dc1c46e7f652cdd4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2004-19",
+   "path": "decizie-bec/parlamentare-2004/19",
+   "short": "Hotărârea BEC nr. 19/2004",
+   "title": "HOTĂRÂRE nr. 19 din 26 octombrie 2004 pentru aplicarea prevederilor art. 4 alin. (12) din Legea nr. 373/2004 pentru alegerea Camerei Deputaţilor şi a Senatului",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/56252",
+   "versions": [
+    {
+     "from": "2004-10-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/56252",
+     "sha256": "8ec5e3092f6498e41f5edaa60d12e1eaf79be9ce98e1be6d5d63dcf257cd2840"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2004-44",
+   "path": "decizie-bec/parlamentare-2004/44",
+   "short": "Hotărârea BEC nr. 44/2004",
+   "title": "HOTĂRÂRE nr. 44 din 8 noiembrie 2004 privind interpretarea şi aplicarea uniformă a dispoziţiilor art. 71 şi 72 din Legea nr. 373/2004 pentru alegerea Camerei Deputaţilor şi a Senatului în legătură cu afişajul electoral",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/56643",
+   "versions": [
+    {
+     "from": "2004-11-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/56643",
+     "sha256": "6aa267d8a08843ef31361b1ea52bd5de8595265591f6cd05945ffdb5fbccc497"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2004-56",
+   "path": "decizie-bec/parlamentare-2004/56",
+   "short": "Hotărârea BEC nr. 56/2004",
+   "title": "Hotărârea Biroului Electoral Central nr. 56 din 2004-11-12",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/56791",
+   "versions": [
+    {
+     "from": "2004-11-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/56791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2004-66",
+   "path": "decizie-bec/parlamentare-2004/66",
+   "short": "Hotărârea BEC nr. 66/2004",
+   "title": "Hotărârea Biroului Electoral Central nr. 66 din 2004-11-19",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/57036",
+   "versions": [
+    {
+     "from": "2004-11-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/57036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2004-67",
+   "path": "decizie-bec/parlamentare-2004/67",
+   "short": "Hotărârea BEC nr. 67/2004",
+   "title": "Hotărârea Biroului Electoral Central nr. 67 din 2004-11-19",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/57054",
+   "versions": [
+    {
+     "from": "2004-11-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/57054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-2004-78",
+   "path": "decizie-bec/parlamentare-2004/78",
+   "short": "Hotărârea BEC nr. 78/2004",
+   "title": "Hotărârea Biroului Electoral Central nr. 78 din 2004-11-23",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/57455",
+   "versions": [
+    {
+     "from": "2004-12-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/57455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-prezidentiale-2004-32",
+   "path": "decizie-bec/prezidentiale-2004/32",
+   "short": "Hotărârea BEC nr. 32/2004",
+   "title": "Hotărârea Biroului Electoral Central nr. 32 din 2004-10-29",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/56628",
+   "versions": [
+    {
+     "from": "2004-11-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/56628",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

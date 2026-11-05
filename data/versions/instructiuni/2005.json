@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/2005",
+ "acts": [
+  {
+   "slug": "instructiuni-cnvm-10-2005",
+   "path": "instructiuni/cnvm/2005/10",
+   "short": "Instrucțiuni cnvm nr. 10/2005",
+   "title": "Instrucțiunile nr. 10/2005 emisă în aplicarea prevederilor art. 286^1 din Legea nr. 297/2004 privind piața de capital, modificată prin Legea nr. 208/2005 pentru modificarea art. 285 din Legea nr. 297/2004 privind piața de capital și prin Ordonanța Guvernului nr. 41/2005 privind reglementarea unor măsuri financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64654",
+   "versions": [
+    {
+     "from": "2005-08-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64654",
+     "sha256": "960655df9eef93f13fa4f13ee1b1578fbc85440456ac0117d9eca825235252d3"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-11-2005",
+   "path": "instructiuni/cnvm/2005/11",
+   "short": "Instrucțiuni cnvm nr. 11/2005",
+   "title": "Instrucțiunile nr. 11/2005 privind înregistrarea grupurilor la Comisia Națională a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65438",
+   "versions": [
+    {
+     "from": "2005-10-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65438",
+     "sha256": "2894154df44f691eff99b547cde16c3e1cf7f3dcfda6ab0107cffa783a2ed0b7"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-12-2005",
+   "path": "instructiuni/cnvm/2005/12",
+   "short": "Instrucțiuni cnvm nr. 12/2005",
+   "title": "Instrucțiunile nr. 12/2005 privind determinarea, reținerea și virarea impozitului pe câștigul de capital rezultat din transferul titlurilor de valoare, obținut de persoanele fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68493",
+   "versions": [
+    {
+     "from": "2006-02-01",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68493",
+     "sha256": "20e6dc93e6bcf9817ca91b8b1f48b4125b68989e74cab74094b95da5bcc665dc"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-9-2005",
+   "path": "instructiuni/cnvm/2005/9",
+   "short": "Instrucțiuni cnvm nr. 9/2005",
+   "title": "Instrucțiunile nr. 9/2005 cu privire la sistemul de raportare contabilă la 30 iunie 2005 a entităților reglementate și supravegheate de Comisia Națională a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64246",
+   "versions": [
+    {
+     "from": "2005-08-16",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64246",
+     "sha256": "422bfbd0b10b342235c58ceadf9f566b12780dc29fcac51aa3ebc58514ee6d9c"
+    }
+   ]
+  }
+ ]
+}

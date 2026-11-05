@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/2000",
+ "acts": [
+  {
+   "slug": "instructiuni-cnvm-1-2000",
+   "path": "instructiuni/cnvm/2000/1",
+   "short": "Instrucțiuni cnvm nr. 1/2000",
+   "title": "Instrucțiunile nr. 1/2000 privind eliberarea de către societățile de registru independent a registrelor acționarilor societăților comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21178",
+   "versions": [
+    {
+     "from": "2000-02-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21178",
+     "sha256": "14b87034873dd1a547b32a3b3d68775dfdbfbdbadcadd6a2858c8cd50fb2be8e"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-2-2000",
+   "path": "instructiuni/cnvm/2000/2",
+   "short": "Instrucțiuni cnvm nr. 2/2000",
+   "title": "Instrucțiunile nr. 2/2000 cu privire la modificarea și completarea Instrucțiunilor nr. 13/1996 privind evidenta valorilor mobiliare, a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23741",
+   "versions": [
+    {
+     "from": "2000-08-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23741",
+     "sha256": "f27507f8157dea1f99335d69f593881134f9ff1fdfdb83ae086534c44ddf9238"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-3-2000",
+   "path": "instructiuni/cnvm/2000/3",
+   "short": "Instrucțiuni cnvm nr. 3/2000",
+   "title": "Instrucțiunile nr. 3/2000 privind retragerea de pe piețele de valori mobiliare reglementate a societăților comerciale care nu mai întrunesc condițiile de societate deschisă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26421",
+   "versions": [
+    {
+     "from": "2001-01-29",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26421",
+     "sha256": "1923bc71f8ab758ed4fb3ca5ecac6b1147cedbe2e65ddcb5ff5594558cfd0f53"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-cnvm-4-2000",
+   "path": "instructiuni/cnvm/2000/4",
+   "short": "Instrucțiuni cnvm nr. 4/2000",
+   "title": "Instrucțiunile nr. 4/2000 privind verificarea și certificarea situațiilor financiare ale societăților comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25811",
+   "versions": [
+    {
+     "from": "2000-12-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25811",
+     "sha256": "b1e332f36022fdbf2810beccba218704851a5d629ad5246bfbd5a1730552525e"
+    }
+   ]
+  }
+ ]
+}

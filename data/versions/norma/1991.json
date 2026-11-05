@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "norma/1991",
+ "acts": [
+  {
+   "slug": "norma-bnr-2288-1991",
+   "path": "norma/bnr/1991/2288",
+   "short": "Norma bnr nr. 2288/1991",
+   "title": "Norma nr. 2.288/1991 privind regimul conturilor valutare ale persoanelor fizice și persoanelor juridice, în condițiile introducerii convertibilitatii interne, limitate, a leului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2056",
+   "versions": [
+    {
+     "from": "1992-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2056",
+     "sha256": "741ddaf3de58b035b01d4ad7a5aba169f6e3bd1b5d7dd217fe7686c003532661"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-630-1991",
+   "path": "norma/bnr/1991/630",
+   "short": "Norma bnr nr. 630/1991",
+   "title": "Norma nr. 630/1991 pentru aplicarea prevederilor referitoare la înființarea și funcționarea caselor de schimb valutar conform Regulamentului privind operațiunile curente și transferurile de capital cu mijloace de plată străine, emis de Banca Naționala a României și publică t în Monitorul Oficial al României, Partea I, nr. 101 din 13 mai 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1937",
+   "versions": [
+    {
+     "from": "1991-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1937",
+     "sha256": "0d1b7383d06c7bb2b8330bb2f835f7df3421641607cb71495f8a9c3d6a8022df"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-63943-1991",
+   "path": "norma/finante/1991/63943",
+   "short": "Norma finante nr. 63943/1991",
+   "title": "Norma nr. 63.943/1991 privind modul de organizare și exercitare a controlului financiar propriu la ministere, departamente, alte organe centrale de stat, prefecturi și Primăria municipiului București, precum și la regiile autonome",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2064",
+   "versions": [
+    {
+     "from": "1992-04-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2064",
+     "sha256": "96edb2e70ef978922e0c44b411fbc45c8f4f18521b8d81a71760a9f52765d56a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-7351-1991",
+   "path": "norma/finante/1991/7351",
+   "short": "Norma finante nr. 7351/1991",
+   "title": "Norma nr. 7.351/1991 pentru aplicarea prevederilor Hotărîrii Guvernului nr. 680/1991 privind unele măsuri de finanțare a activității de control al statului asupra calității construcțiilor, lucrărilor publice, urbane și amenajarea teritoriului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2061",
+   "versions": [
+    {
+     "from": "1992-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2061",
+     "sha256": "7c981e62b3528fb6b34063a5e4daf6242124d1ffe195e1170bc2b6b0d9a6ca53"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+"country": "RO",
+"shard": "hotarare-aep/2011",
+"acts": [
+{
+"slug": "hotarare-aep-1-2011",
+"path": "hotarare-aep/2011/1",
+"kind": "hotarare-aep",
+"year": "2011",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Autorității Electorale Permanente nr. 1 din 2011-05-24",
+"short": "Hotărârea AEP nr. 1/2011",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2011-05-30",
+"latest": "2011-05-30",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/128905",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hotarare-aep-5-2011",
+"path": "hotarare-aep/2011/5",
+"kind": "hotarare-aep",
+"year": "2011",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Autorității Electorale Permanente nr. 5 din 2011-07-14",
+"short": "Hotărârea AEP nr. 5/2011",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2011-07-25",
+"latest": "2011-07-25",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/130278",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

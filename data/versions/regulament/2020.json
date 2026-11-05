@@ -1,0 +1,486 @@
+{
+ "country": "RO",
+ "shard": "regulament/2020",
+ "acts": [
+  {
+   "slug": "regulament-asf-1-2020",
+   "path": "regulament/asf/2020/1",
+   "short": "Regulament asf nr. 1/2020",
+   "title": "Regulamentul nr. 1/2020 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 5/2018 privind emitenții de instrumente financiare și operațiuni de piață",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222588",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222588",
+     "sha256": "fdc5813f3a5a239c1241c61764c284974cb86c554c8003447e80a5d342f2045b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-10-2020",
+   "path": "regulament/asf/2020/10",
+   "short": "Regulament asf nr. 10/2020",
+   "title": "Regulamentul nr. 10/2020 privind modificarea și completarea unor acte normative ale Autorității de Supraveghere Financiară pentru punerea în aplicare a Legii nr. 1/2020 privind pensiile ocupaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226786",
+   "versions": [
+    {
+     "from": "2020-06-15",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226786",
+     "sha256": "4a2f7e7523cf8f5146c1345a263a41a034bf3a9beac80d68ff060b9472e17390"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-12-2020",
+   "path": "regulament/asf/2020/12",
+   "short": "Regulament asf nr. 12/2020",
+   "title": "Regulamentul nr. 12/2020 pentru modificarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2016 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227709",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227709",
+     "sha256": "c1600dc2751a930267b7d0afa45e206a4888dbb8086b1d4a2335ca706fd95ed3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-14-2020",
+   "path": "regulament/asf/2020/14",
+   "short": "Regulament asf nr. 14/2020",
+   "title": "Regulamentul nr. 14/2020 privind obligația păstrării secretului profesional și a protejării informațiilor nedestinate publicității ale Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228034",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228034",
+     "sha256": "d1995c94eb177fa15580d1a4936627ab70f6fa79122ea2f387174ab71cd9ce7d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-17-2020",
+   "path": "regulament/asf/2020/17",
+   "short": "Regulament asf nr. 17/2020",
+   "title": "Regulamentul nr. 17/2020 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 11/2016 privind activitatea de control periodic și inopinat desfășurată de către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229071",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229071",
+     "sha256": "80d5f4457c8b4445758b2c7d72a8384a88872f2b3e0dbe04b480dc90e3e2cc0b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-18-2020",
+   "path": "regulament/asf/2020/18",
+   "short": "Regulament asf nr. 18/2020",
+   "title": "Regulamentul nr. 18/2020 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară și al Băncii Naționale a României nr. 14/7/2018 privind prestarea de servicii și activități de investiții în numele societăților de servicii de investiții financiare și al instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229539",
+   "versions": [
+    {
+     "from": "2020-08-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229539",
+     "sha256": "851c1b23ccbfc3d44818e83cc7ca02cecd9fd327177ce94aeb2fda5bb92ca392"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-19-2020",
+   "path": "regulament/asf/2020/19",
+   "short": "Regulament asf nr. 19/2020",
+   "title": "Regulamentul nr. 19/2020 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2016 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229573",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229573",
+     "sha256": "d318db055a0dcf957fa700cdc6626ee7d52759d48c53b90b1bbca242f0c1b128"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-2-2020",
+   "path": "regulament/asf/2020/2",
+   "short": "Regulament asf nr. 2/2020",
+   "title": "Regulamentul nr. 2/2020 pentru modificarea Regulamentului Autorității de Supraveghere Financiară nr. 16/2014 privind veniturile Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222631",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222631",
+     "sha256": "2bfe7c231ea394ef8eaa27df59b5e383e6e5d26a6865cd7ed31fe3644cf1d305"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-20-2020",
+   "path": "regulament/asf/2020/20",
+   "short": "Regulament asf nr. 20/2020",
+   "title": "Regulamentul nr. 20/2020 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 9/2014 privind autorizarea și funcționarea societăților de administrare a investițiilor, a organismelor de plasament colectiv în valori mobiliare și a depozitarilor organismelor de plasament colectiv în valori mobiliare, precum și pentru abrogarea alin. (11) și (12) ale art. 45 din Regulamentul Autorității de Supraveghere Financiară nr. 7/2020 privind autorizarea și funcționarea fondurilor de investiții alternative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229613",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229613",
+     "sha256": "e2d70d0d3a2cba00cc1015d074528ec7fee3a09e955ef09821a6b5b88366ab6f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-21-2020",
+   "path": "regulament/asf/2020/21",
+   "short": "Regulament asf nr. 21/2020",
+   "title": "Regulamentul nr. 21/2020 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2016 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229767",
+   "versions": [
+    {
+     "from": "2020-09-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229767",
+     "sha256": "f12ae3b91cd00d198b8f2ac752d17e6eb04a9a78e0fe0f72f2f0fdf1aac6af81"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-22-2020",
+   "path": "regulament/asf/2020/22",
+   "short": "Regulament asf nr. 22/2020",
+   "title": "Regulamentul nr. 22/2020 privind abrogarea Ordinului Comisiei Naționale a Valorilor Mobiliare nr. 67/2006 pentru aprobarea Regulamentului nr. 11/2006 privind securitizarea creanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/232888",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/232888",
+     "sha256": "622329fd8554abfc3214a0cc43aa00380e4067d516691bfb200106d75c213524"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-25-2020",
+   "path": "regulament/asf/2020/25",
+   "short": "Regulament asf nr. 25/2020",
+   "title": "Regulamentul nr. 25/2020 privind supravegherea punerii în aplicare a sancțiunilor internaționale de către Autoritatea de Supraveghere Financiară și entitățile reglementate de aceasta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/234085",
+   "versions": [
+    {
+     "from": "2021-01-02",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234085",
+     "sha256": "3d05d801e09a8e050e83e4b3f332e44af2618a125eaecff23494042734e69d73"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-26-2020",
+   "path": "regulament/asf/2020/26",
+   "short": "Regulament asf nr. 26/2020",
+   "title": "Regulamentul nr. 26/2020 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2016 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/233680",
+   "versions": [
+    {
+     "from": "2020-12-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/233680",
+     "sha256": "7a824fe6da44a40bda88793ed6b5c7d4b42b9250e37aa062f851c6ce3a52af87"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-27-2020",
+   "path": "regulament/asf/2020/27",
+   "short": "Regulament asf nr. 27/2020",
+   "title": "Regulamentul nr. 27/2020 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 16/2014 privind veniturile Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235618",
+   "versions": [
+    {
+     "from": "2020-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235618",
+     "sha256": "792f20371da022528f7da7f58bc36557bdbec506cd590d47c8e16bbb482e8034"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-28-2020",
+   "path": "regulament/asf/2020/28",
+   "short": "Regulament asf nr. 28/2020",
+   "title": "Regulamentul nr. 28/2020 privind formarea, pregătirea și perfecționarea profesională pe piața de capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235973",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 52,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235973",
+     "sha256": "1730657135c49ab5420a05d739674979c03618329dc83d235ff529b5aaa72ddf"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-29-2020",
+   "path": "regulament/asf/2020/29",
+   "short": "Regulament asf nr. 29/2020",
+   "title": "Regulamentul nr. 29/2020 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 13/2019 privind instituirea măsurilor de prevenire și combatere a spălării banilor și a finanțării terorismului prin intermediul sectoarelor financiare supravegheate de Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236077",
+   "versions": [
+    {
+     "from": "2021-01-13",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/236077",
+     "sha256": "5544aee8f1f5585f4961efa5f2fa7169687ec4b987c9ef3ebfdee165e9833957"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-3-2020",
+   "path": "regulament/asf/2020/3",
+   "short": "Regulament asf nr. 3/2020",
+   "title": "Regulamentul nr. 3/2020 pentru reglementarea unor măsuri privind aplicarea prevederilor Regulamentului Autorității de Supraveghere Financiară nr. 16/2014 privind veniturile Autorității de Supraveghere Financiară pe perioada stării de urgență generate de răspândirea COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224463",
+   "versions": [
+    {
+     "from": "2020-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224463",
+     "sha256": "016aed7cea927b769986df661d0465b1a4587f650545c9263a5aa08e3d15331d"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-4-2020",
+   "path": "regulament/asf/2020/4",
+   "short": "Regulament asf nr. 4/2020",
+   "title": "Regulamentul nr. 4/2020 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2016 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224571",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224571",
+     "sha256": "a65d8b449616982e1b6b831771a120b7ba050eef7b2d9e7e4c5134247aa0af20"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-6-2020",
+   "path": "regulament/asf/2020/6",
+   "short": "Regulament asf nr. 6/2020",
+   "title": "Regulamentul nr. 6/2020 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 11/2016 privind activitatea de control periodic și inopinat desfășurată de către Autoritatea de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/224834",
+   "versions": [
+    {
+     "from": "2020-04-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/224834",
+     "sha256": "b928400c987f13b359042012ad8bb63a1ed0888c8d3ad2f36b4573081d1e37ef"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-7-2020",
+   "path": "regulament/asf/2020/7",
+   "short": "Regulament asf nr. 7/2020",
+   "title": "Regulamentul nr. 7/2020 privind autorizarea și funcționarea fondurilor de investiții alternative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225016",
+   "versions": [
+    {
+     "from": "2020-04-24",
+     "units": 80,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225016",
+     "sha256": "c5e1752323c1210cf81d4415e12547b0cafbd225f938a8538a2abc2466005a07"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-8-2020",
+   "path": "regulament/asf/2020/8",
+   "short": "Regulament asf nr. 8/2020",
+   "title": "Regulamentul nr. 8/2020 pentru adoptarea unor măsuri excepționale aplicabile entităților autorizate, reglementate și supravegheate de ASF - Sectorul instrumentelor și investițiilor financiare pe perioada instituirii pe teritoriul României a stării de urgență generate de criza COVID-19",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225068",
+   "versions": [
+    {
+     "from": "2020-04-28",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225068",
+     "sha256": "8396612cf0b389ace26019a6a4c9340ee1e9184334ae3a8e0eaf272316064671"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-9-2020",
+   "path": "regulament/asf/2020/9",
+   "short": "Regulament asf nr. 9/2020",
+   "title": "Regulamentul nr. 9/2020 pentru modificarea și completarea unor acte normative ale Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/225035",
+   "versions": [
+    {
+     "from": "2020-04-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/225035",
+     "sha256": "633599bc2ace5932dd4e7fded285c15579c0c3f7b4672c9762aec40e770a52ac"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-1-2020",
+   "path": "regulament/bnr/2020/1",
+   "short": "Regulament bnr nr. 1/2020",
+   "title": "Regulamentul nr. 1/2020 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 20/2009 privind instituțiile financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/222815",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/222815",
+     "sha256": "260a1a6686613fcbbe444461188b1d9239ef8d9c9ee910bee74d8f209281abf3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-11-2020",
+   "path": "regulament/bnr/2020/11",
+   "short": "Regulament bnr nr. 11/2020",
+   "title": "Regulamentul nr. 11/2020 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 5/2013 privind cerințe prudențiale pentru instituțiile de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235689",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235689",
+     "sha256": "96e525537d1a3ca5a2dfa8b4a682043e73a3df9fb60be085e0bba7b157ad4863"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-12-2020",
+   "path": "regulament/bnr/2020/12",
+   "short": "Regulament bnr nr. 12/2020",
+   "title": "Regulamentul nr. 12/2020 privind autorizarea instituțiilor de credit și modificările în situația acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/235625",
+   "versions": [
+    {
+     "from": "2020-12-24",
+     "units": 233,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/235625",
+     "sha256": "a8e322378a88f497a83e0af3c343c3999b5f4322132bd6dbcd6529c28b16bfbc"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-2-2020",
+   "path": "regulament/bnr/2020/2",
+   "short": "Regulament bnr nr. 2/2020",
+   "title": "Regulamentul nr. 2/2020 privind măsurile de securitate referitoare la riscurile operaționale și de securitate și cerințele de raportare aferente serviciilor de plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/223064",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 141,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/223064",
+     "sha256": "9499704a64511e46d8dd1011336a12925c4e435e9f2f673a03f8d51504cec92b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-3-2020",
+   "path": "regulament/bnr/2020/3",
+   "short": "Regulament bnr nr. 3/2020",
+   "title": "Regulamentul nr. 3/2020 pentru modificarea Regulamentului Băncii Naționale a României nr. 2/2012 privind organizarea și funcționarea la Banca Națională a României a Centralei Riscului de Credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/226169",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/226169",
+     "sha256": "70d2762162d63702f380d4bb9b301750f41abc211d402feebe00e6f9bb71c8e0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-4-2020",
+   "path": "regulament/bnr/2020/4",
+   "short": "Regulament bnr nr. 4/2020",
+   "title": "Regulamentul nr. 4/2020 pentru modificarea Regulamentului Băncii Naționale a României nr. 20/2009 privind instituțiile financiare nebancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227679",
+   "versions": [
+    {
+     "from": "2020-07-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227679",
+     "sha256": "359c32150d301b51d4a2763fcd2e7e96b802a900f38ccdaa18c8982dab960095"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-6-2020",
+   "path": "regulament/bnr/2020/6",
+   "short": "Regulament bnr nr. 6/2020",
+   "title": "Regulamentul nr. 6/2020 privind modificarea unor cerințe de raportare pentru scopuri de supraveghere, prevăzute prin acte normative emise de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/227683",
+   "versions": [
+    {
+     "from": "2020-07-08",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/227683",
+     "sha256": "af5c512297c6df841f9f57a08c4c5e37d16167fa0adb83500c7abd62b1c51a22"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-7-2020",
+   "path": "regulament/bnr/2020/7",
+   "short": "Regulament bnr nr. 7/2020",
+   "title": "Regulamentul nr. 7/2020 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 4/2005 privind regimul valutar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/228720",
+   "versions": [
+    {
+     "from": "2020-08-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/228720",
+     "sha256": "fe251fc471875d69ee3fc0fe38a754c31ab3266bde13265927b5be08ee4a85b7"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-8-2020",
+   "path": "regulament/bnr/2020/8",
+   "short": "Regulament bnr nr. 8/2020",
+   "title": "Regulamentul nr. 8/2020 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară și al Băncii Naționale a României nr. 14/7/2018 privind prestarea de servicii și activități de investiții în numele societăților de servicii de investiții financiare și al instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/229540",
+   "versions": [
+    {
+     "from": "2020-08-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/229540",
+     "sha256": "799ca30b5aed00d0434fded504db3610ed53f62c1cfa79c7d5cee989fcf0b31c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-9-2020",
+   "path": "regulament/bnr/2020/9",
+   "short": "Regulament bnr nr. 9/2020",
+   "title": "Regulamentul nr. 9/2020 privind administrarea riscului de decontare și facilitățile de creditare acordate de Banca Națională a României în scopul fluidizării decontării în sistemul ReGIS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/230411",
+   "versions": [
+    {
+     "from": "2020-12-24",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/230411",
+     "sha256": "15dd048432b16f8543f950f9dfd51f5355f953b68bbea97b7584aeaccc1a80d3"
+    }
+   ]
+  }
+ ]
+}

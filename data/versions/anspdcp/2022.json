@@ -1,0 +1,786 @@
+{
+ "country": "RO",
+ "shard": "anspdcp/2022",
+ "acts": [
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-01-10",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-01-10",
+   "short": "Comunicat ANSPDCP din 2022-01-10",
+   "title": "Comunicat ANSPDCP din 2022-01-10: Top European Amenzi",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_10_01_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-01-10",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_10_01_2022&lang=ro",
+     "sha256": "bbd892c38cca5611d993ea508e7d83f9d8aedb684de1e34321cebd6e185b61ab"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-01-20",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-01-20",
+   "short": "Comunicat ANSPDCP din 2022-01-20",
+   "title": "Comunicat ANSPDCP din 2022-01-20: Sanctiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_01_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_01_2022&lang=ro",
+     "sha256": "6646763bd2751017543d949942e2d027e1fd6850cb1703e19500dd18a1c99ac9"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-02-01",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-02-01",
+   "short": "Comunicat ANSPDCP din 2022-02-01",
+   "title": "Comunicat ANSPDCP din 2022-02-01: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_01_02_2022_2&lang=ro",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_01_02_2022_2&lang=ro",
+     "sha256": "bff02db8c4277ce6426d503b66b4dfdd77955f24b9ec1f844561433892222f9b"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-02-22-2",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-02-22-2",
+   "short": "Comunicat ANSPDCP din 2022-02-22 (2)",
+   "title": "Comunicat ANSPDCP din 2022-02-22 (2): Sanctiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_22_02_2022_1&lang=ro",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_22_02_2022_1&lang=ro",
+     "sha256": "d26a3c14c0b52d82deceb9812e1c28afc2f4ae6c8d98d5fd4a05a32f5508a593"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-02-22",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-02-22",
+   "short": "Comunicat ANSPDCP din 2022-02-22",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2022-02-22",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_22_02_2022_2&lang=ro",
+   "versions": [
+    {
+     "from": "2022-02-22",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_22_02_2022_2&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-03-10",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-03-10",
+   "short": "Comunicat ANSPDCP din 2022-03-10",
+   "title": "Comunicat ANSPDCP din 2022-03-10: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_10_03_2022_3&lang=ro",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_10_03_2022_3&lang=ro",
+     "sha256": "ec13978c38daaa2cf3b24ba1edf02dff53550b37e308cfc6f30fa7361638992f"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-03-25",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-03-25",
+   "short": "Comunicat ANSPDCP din 2022-03-25",
+   "title": "Comunicat ANSPDCP din 2022-03-25: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_25_03_2022_1&lang=ro",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_25_03_2022_1&lang=ro",
+     "sha256": "e29d80a9e5920d3a0a7f382f91b7ac6cff76210a72cc1f6cbb91c7e78cfb0c66"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-03-28",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-03-28",
+   "short": "Comunicat ANSPDCP din 2022-03-28",
+   "title": "Comunicat ANSPDCP din 2022-03-28: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_28_03_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-03-28",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_28_03_2022&lang=ro",
+     "sha256": "dba145ad5164a557f790d9debd260bd021f6729fbc9e5a6d6284ce8e45809a62"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-04-07",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-04-07",
+   "short": "Comunicat ANSPDCP din 2022-04-07",
+   "title": "Comunicat ANSPDCP din 2022-04-07: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_07_04_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_07_04_2022&lang=ro",
+     "sha256": "b3f8713a307652b5ee14660b0d2ef3894988d1a76b879b39689a1f40a99a8f82"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-04-14",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-04-14",
+   "short": "Comunicat ANSPDCP din 2022-04-14",
+   "title": "Comunicat ANSPDCP din 2022-04-14: Hotărâre definitivă privind amenda de 100.000 euro",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_14_04_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_14_04_2022&lang=ro",
+     "sha256": "4934c4fa4080f43e5e05d25a328969a8817f5008245b6b53f8eee1ede9365337"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-04-18",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-04-18",
+   "short": "Comunicat ANSPDCP din 2022-04-18",
+   "title": "Comunicat ANSPDCP din 2022-04-18: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18_04_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18_04_2022&lang=ro",
+     "sha256": "80115263f6c9cbf32c235cb491ac7d98e7f39f54328411bea01d123d58de7ab7"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-05-03",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-05-03",
+   "short": "Comunicat ANSPDCP din 2022-05-03",
+   "title": "Comunicat ANSPDCP din 2022-05-03: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_03_05_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-05-03",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_03_05_2022&lang=ro",
+     "sha256": "c85ceef9e8b7f56e66d1ef75bc32152253d8dba0d944492e755b13d974a613e7"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-05-04",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-05-04",
+   "short": "Comunicat ANSPDCP din 2022-05-04",
+   "title": "Comunicat ANSPDCP din 2022-05-04: O nouă sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_04_05_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_04_05_2022&lang=ro",
+     "sha256": "b927034c2b8fc0c180741415622b7bd0626285454ad396c6b4a4724820024aa2"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-05-12",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-05-12",
+   "short": "Comunicat ANSPDCP din 2022-05-12",
+   "title": "Comunicat ANSPDCP din 2022-05-12: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_12_05_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-05-12",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_12_05_2022&lang=ro",
+     "sha256": "d537d8a7d2afeb9d98a2d52cdb6c29691253d008bc515486155b98767667d20c"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-05-17",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-05-17",
+   "short": "Comunicat ANSPDCP din 2022-05-17",
+   "title": "Comunicat ANSPDCP din 2022-05-17: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_17_05_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_17_05_2022&lang=ro",
+     "sha256": "a25956a39bfae65f181c736eb6c9948fea4f25a0b7f556fa4999ab300d4e0543"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-05-18",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-05-18",
+   "short": "Comunicat ANSPDCP din 2022-05-18",
+   "title": "Comunicat ANSPDCP din 2022-05-18: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18_05_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18_05_2022&lang=ro",
+     "sha256": "f85ac4872274c254b7d2865691e58a60076e8f3143418c082fb33b134c81547e"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-05-24",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-05-24",
+   "short": "Comunicat ANSPDCP din 2022-05-24",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2022-05-24",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_24_05_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_24_05_2022&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-06-03",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-06-03",
+   "short": "Comunicat ANSPDCP din 2022-06-03",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2022-06-03",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_03_06_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-06-03",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_03_06_2022&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-06-08",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-06-08",
+   "short": "Comunicat ANSPDCP din 2022-06-08",
+   "title": "Comunicat ANSPDCP din 2022-06-08: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_08_06_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_08_06_2022&lang=ro",
+     "sha256": "de9dd2c2d5f8122f9bafe7a47fdd580906f89f108b55cd32f28b78fdf3fe4cf0"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-06-15",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-06-15",
+   "short": "Comunicat ANSPDCP din 2022-06-15",
+   "title": "Comunicat ANSPDCP din 2022-06-15: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_15_06_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-06-15",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_15_06_2022&lang=ro",
+     "sha256": "dbea601233e3212b12ee26c88c586804888653c98562211e88ecd9b02157ba60"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-06-20-2",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-06-20-2",
+   "short": "Comunicat ANSPDCP din 2022-06-20 (2)",
+   "title": "Comunicat ANSPDCP din 2022-06-20 (2): Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_06_2022_2&lang=ro",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_06_2022_2&lang=ro",
+     "sha256": "15f51614084369fd55470cb5acdd014f69032403da07d3d3b2bbe051b588a4a7"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-06-20",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-06-20",
+   "short": "Comunicat ANSPDCP din 2022-06-20",
+   "title": "Comunicat ANSPDCP din 2022-06-20: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_06_2022_1&lang=ro",
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_06_2022_1&lang=ro",
+     "sha256": "948a0d711854f717ffad804bed82d915d968ae82b166fbbb7d5244f83529066d"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-06-30",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-06-30",
+   "short": "Comunicat ANSPDCP din 2022-06-30",
+   "title": "Comunicat ANSPDCP din 2022-06-30: O nouă sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_30_06_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_30_06_2022&lang=ro",
+     "sha256": "a3f1d0edf348211b0a01d56d37fb760f1c108ef8d213f9c4afc0ff48fc7ccdf7"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-07-07",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-07-07",
+   "short": "Comunicat ANSPDCP din 2022-07-07",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2022-07-07",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_07_07_2022_02&lang=ro",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_07_07_2022_02&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-07-11",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-07-11",
+   "short": "Comunicat ANSPDCP din 2022-07-11",
+   "title": "Comunicat ANSPDCP din 2022-07-11: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_11_07_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_11_07_2022&lang=ro",
+     "sha256": "2c42d0f3aa281fdd7199435fd801113b29a6b9e1d6bb6b8fa8537be1835ea4f0"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-08-04",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-08-04",
+   "short": "Comunicat ANSPDCP din 2022-08-04",
+   "title": "Comunicat ANSPDCP din 2022-08-04: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_04_08_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-08-04",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_04_08_2022&lang=ro",
+     "sha256": "c7b76685c3c9f39f98d3b3e2db25c27561781915be027611dc1b044a1610695a"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-08-09-2",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-08-09-2",
+   "short": "Comunicat ANSPDCP din 2022-08-09 (2)",
+   "title": "Comunicat ANSPDCP din 2022-08-09 (2): Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_09.08.2022_1&lang=ro",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_09.08.2022_1&lang=ro",
+     "sha256": "bbf9af1bf12cbb239735b7805f7208b256e1916efe788e8fd18daeeeefd74ec3"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-08-09-3",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-08-09-3",
+   "short": "Comunicat ANSPDCP din 2022-08-09 (3)",
+   "title": "Comunicat ANSPDCP din 2022-08-09 (3): Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_09.08.2022_2&lang=ro",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_09.08.2022_2&lang=ro",
+     "sha256": "88b3ae63ab3a0ac2f24d6d58ec772c7c05759acd17a4f3712505eee1dac841d8"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-08-09",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-08-09",
+   "short": "Comunicat ANSPDCP din 2022-08-09",
+   "title": "Comunicat ANSPDCP din 2022-08-09: O nouă sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_09.08.2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_09.08.2022&lang=ro",
+     "sha256": "025c45c5435c690a776610eee981551d2fc0f5d8c590b54fca52a4e0ad4cf1ff"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-08-22",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-08-22",
+   "short": "Comunicat ANSPDCP din 2022-08-22",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2022-08-22",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_22_08_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_22_08_2022&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-08-29",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-08-29",
+   "short": "Comunicat ANSPDCP din 2022-08-29",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2022-08-29",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_29_08_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_29_08_2022&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-09-08",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-09-08",
+   "short": "Comunicat ANSPDCP din 2022-09-08",
+   "title": "Comunicat ANSPDCP din 2022-09-08: O nouă sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_08_09_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-09-08",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_08_09_2022&lang=ro",
+     "sha256": "835bea4b9644c78600e9ab6881a66e7a1ba312f0db22fe03199c75d66cc7e548"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-09-09",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-09-09",
+   "short": "Comunicat ANSPDCP din 2022-09-09",
+   "title": "Comunicat ANSPDCP din 2022-09-09: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_09.09.2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_09.09.2022&lang=ro",
+     "sha256": "75c70a1d04cfb6f8f18bb045452b09269b343d56f5ff13b3d89bafc488d4b222"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-09-19-2",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-09-19-2",
+   "short": "Comunicat ANSPDCP din 2022-09-19 (2)",
+   "title": "Comunicat ANSPDCP din 2022-09-19 (2): O nouă sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_19_09_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_19_09_2022&lang=ro",
+     "sha256": "1f0a41ea4a502953bf2b3df8db957ea2765a3110bce8398f1b643cb2ef18090b"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-09-19",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-09-19",
+   "short": "Comunicat ANSPDCP din 2022-09-19",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2022-09-19",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_19_09_2022_1&lang=ro",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_19_09_2022_1&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-09-21",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-09-21",
+   "short": "Comunicat ANSPDCP din 2022-09-21",
+   "title": "Comunicat ANSPDCP din 2022-09-21: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_21_09_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_21_09_2022&lang=ro",
+     "sha256": "05008185fabd85cf95adc6d076093132fbcace3505686c054776f36827bb709d"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-09-22",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-09-22",
+   "short": "Comunicat ANSPDCP din 2022-09-22",
+   "title": "Comunicat ANSPDCP din 2022-09-22: O nouă sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_22_09_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_22_09_2022&lang=ro",
+     "sha256": "c7212813d5a5bf23ef8ac73f625f304c8ed34036f792e0b0d17387156d829a27"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-10-03",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-10-03",
+   "short": "Comunicat ANSPDCP din 2022-10-03",
+   "title": "Comunicat ANSPDCP din 2022-10-03: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_03.10.2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_03.10.2022&lang=ro",
+     "sha256": "3a0aba17c529a31f8efc177daffcdc2fa23543467c3d3fda2c735aee2a37cc53"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-10-18",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-10-18",
+   "short": "Comunicat ANSPDCP din 2022-10-18",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2022-10-18",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18_10_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-10-18",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18_10_2022&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-11-07",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-11-07",
+   "short": "Comunicat ANSPDCP din 2022-11-07",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2022-11-07",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_07_11_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_07_11_2022&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-11-08",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-11-08",
+   "short": "Comunicat ANSPDCP din 2022-11-08",
+   "title": "Comunicat ANSPDCP din 2022-11-08: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_08_11_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_08_11_2022&lang=ro",
+     "sha256": "1545446abd9bc7bdf8836427f7bb22755de276154248fd41d78a8b2c4594bee3"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-11-09",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-11-09",
+   "short": "Comunicat ANSPDCP din 2022-11-09",
+   "title": "Comunicat ANSPDCP din 2022-11-09: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_09.11.2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_09.11.2022&lang=ro",
+     "sha256": "1b96d2d3b6d48a795ad2fe68921ad43b3bbfdc75c132a25a1c7e6207b6f15092"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-11-16",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-11-16",
+   "short": "Comunicat ANSPDCP din 2022-11-16",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2022-11-16",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_16_11_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_16_11_2022&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-11-18",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-11-18",
+   "short": "Comunicat ANSPDCP din 2022-11-18",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2022-11-18",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18_11_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_18_11_2022&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-11-21",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-11-21",
+   "short": "Comunicat ANSPDCP din 2022-11-21",
+   "title": "Comunicat ANSPDCP din 2022-11-21: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_21_11_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-11-21",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_21_11_2022&lang=ro",
+     "sha256": "fff27effe570773da65d25cbd2b2ac846a8dc9cb25520b6ae9e51f3b05c7c82d"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-11-24",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-11-24",
+   "short": "Comunicat ANSPDCP din 2022-11-24",
+   "title": "Comunicat ANSPDCP din 2022-11-24: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_24_11_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_24_11_2022&lang=ro",
+     "sha256": "f56c1df9d3499e3a1f8abea6fc9599abc2c56cc5fac58bc3c1ab5616fb2be67c"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-11-25",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-11-25",
+   "short": "Comunicat ANSPDCP din 2022-11-25",
+   "title": "Comunicat ANSPDCP din 2022-11-25: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_25_11_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_25_11_2022&lang=ro",
+     "sha256": "7afe1cc6d0841bf63e91745f3ce7aacb71e3ce032d7dc94ba583dde0a8a2a2c3"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-12-09",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-12-09",
+   "short": "Comunicat ANSPDCP din 2022-12-09",
+   "title": "Comunicat ANSPDCP din 2022-12-09: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_09_12_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_09_12_2022&lang=ro",
+     "sha256": "81b40350d944d5646bcf22138472341737d3402aaeea6e607f98a40398ee378c"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-12-15",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-12-15",
+   "short": "Comunicat ANSPDCP din 2022-12-15",
+   "title": "Comunicat ANSPDCP din 2022-12-15: Sancțiune pentru nerespectarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_15_12_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_15_12_2022&lang=ro",
+     "sha256": "393303a6880235eadedfb6a59c3358139dcf4bc03a1c220ef2ee24ffefd135bb"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-12-20",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-12-20",
+   "short": "Comunicat ANSPDCP din 2022-12-20",
+   "title": "Comunicat ANSPDCP din 2022-12-20: Amendă - instituție publică",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_12_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_20_12_2022&lang=ro",
+     "sha256": "b69f3bd9219a60749877a07bfcdb5508610c55bbe17d1346785ef73ddc6e59dd"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-12-22",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-12-22",
+   "short": "Comunicat ANSPDCP din 2022-12-22",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2022-12-22",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_22_12_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_22_12_2022&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2022-2022-12-27",
+   "path": "anspdcp/comunicat-sanctiune/2022/2022-12-27",
+   "short": "Comunicat ANSPDCP din 2022-12-27",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2022-12-27",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_27_12_2022&lang=ro",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_27_12_2022&lang=ro",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

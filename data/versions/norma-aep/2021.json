@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "norma-aep/2021",
+ "acts": [
+  {
+   "slug": "norma-aep-cuantum-total-3-849-2021",
+   "path": "norma-aep/2021/cuantum-total-3-849",
+   "short": "Cuantum total AEP nr. 3-849/2021",
+   "title": "CUANTUMUL nr. 3.849 din 12 februarie 2021 datoriilor înregistrate de către partidele politice, alianţele politice, alianţele electorale, organizaţiile cetăţenilor români aparţinând minorităţilor naţionale şi candidaţii independenţi în urma campaniei electorale organizate cu ocazia alegerii autorităţilor administraţiei publice locale din 24 ianuarie 2021, declarate la Autoritatea Electorală Permanentă, conform art. 47 alin. (1) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/237571",
+   "versions": [
+    {
+     "from": "2021-02-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/237571",
+     "sha256": "67f132208dec49f02a00de81140fea75f3bcc48fa1c0636a8be51b90e17cf919"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-cuantum-total-442-2021",
+   "path": "norma-aep/2021/cuantum-total-442",
+   "short": "Cuantum total AEP nr. 442/2021",
+   "title": "Cuantum total Autorității Electorale Permanente nr. 442 din 2021-01-08",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/236074",
+   "versions": [
+    {
+     "from": "2021-01-13",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/236074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-ghid-2021-06-04-2021",
+   "path": "norma-aep/2021/ghid-2021-06-04",
+   "short": "Ghidul AEP din 2021-06-04",
+   "title": "Ghidul Autorității Electorale Permanente din 2021-06-04",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/243136",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/243136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-13-215-2021",
+   "path": "norma-aep/2021/lista-13-215",
+   "short": "Listă AEP nr. 13-215/2021",
+   "title": "LISTA nr. 13.215 din 30 iunie 2021 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerilor locale parţiale din data de 27 iunie 2021",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/244158",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/244158",
+     "sha256": "6400436206b8cd3bed3ee136274a3151f1645da40ee185aa55e7801378e7c046"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-13-728-2021",
+   "path": "norma-aep/2021/lista-13-728",
+   "short": "Listă AEP nr. 13-728/2021",
+   "title": "Listă Autorității Electorale Permanente nr. 13-728 din 2021-07-06",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/244243",
+   "versions": [
+    {
+     "from": "2021-07-09",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/244243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-13-824-2021",
+   "path": "norma-aep/2021/lista-13-824",
+   "short": "Listă AEP nr. 13-824/2021",
+   "title": "Listă Autorității Electorale Permanente nr. 13-824 din 2021-07-07",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/244317",
+   "versions": [
+    {
+     "from": "2021-07-13",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/244317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-13-963-2021",
+   "path": "norma-aep/2021/lista-13-963",
+   "short": "Listă AEP nr. 13-963/2021",
+   "title": "Listă Autorității Electorale Permanente nr. 13-963 din 2021-07-07",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/244281",
+   "versions": [
+    {
+     "from": "2021-07-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/244281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-14-125-2021",
+   "path": "norma-aep/2021/lista-14-125",
+   "short": "Listă AEP nr. 14-125/2021",
+   "title": "Listă Autorității Electorale Permanente nr. 14-125 din 2021-07-12",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/244364",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/244364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-14-278-2021",
+   "path": "norma-aep/2021/lista-14-278",
+   "short": "Listă AEP nr. 14-278/2021",
+   "title": "LISTA nr. 14.278 din 13 iulie 2021 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerilor locale parţiale din data de 27 iunie 2021",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/244357",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/244357",
+     "sha256": "680d09cb534258a344eab0bdcb14488327edcb350344fb8561f19a364480c9b0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-14-555-2021",
+   "path": "norma-aep/2021/lista-14-555",
+   "short": "Listă AEP nr. 14-555/2021",
+   "title": "LISTA nr. 14.555 din 15 iulie 2021 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerilor locale parţiale din data de 27 iunie 2021",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/244502",
+   "versions": [
+    {
+     "from": "2021-07-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/244502",
+     "sha256": "ee03b8c9ed9d3672346ff50b2554863300dd2b27cc3a21a08191b2ef45bb09e0"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-14-715-2021",
+   "path": "norma-aep/2021/lista-14-715",
+   "short": "Listă AEP nr. 14-715/2021",
+   "title": "LISTA nr. 14.715 din 19 iulie 2021 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerilor locale parţiale din data de 27 iunie 2021",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/244503",
+   "versions": [
+    {
+     "from": "2021-07-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/244503",
+     "sha256": "69c1026555642edf6dbf9378fd3878cee2b36d24035faac0386d45242d65733b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-15-040-2021",
+   "path": "norma-aep/2021/lista-15-040",
+   "short": "Listă AEP nr. 15-040/2021",
+   "title": "LISTA nr. 15.040 din 26 iulie 2021 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerilor locale parţiale din data de 27 iunie 2021",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/245016",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/245016",
+     "sha256": "36284f30cc6fa578ecc19abef1fd369926d25b0cb5c199368b592fc3943cc6ff"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-15-116-2021",
+   "path": "norma-aep/2021/lista-15-116",
+   "short": "Listă AEP nr. 15-116/2021",
+   "title": "Listă Autorității Electorale Permanente nr. 15-116 din 2021-07-27",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/245017",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/245017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-3-534-2021",
+   "path": "norma-aep/2021/lista-3-534",
+   "short": "Listă AEP nr. 3-534/2021",
+   "title": "LISTA nr. 3.534 din 10 februarie 2021 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerii autorităţilor administraţiei publice locale din 24 ianuarie 2021",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/237339",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/237339",
+     "sha256": "0f92ceef8bd78073b1f8458d5f3b28acca055f5bf724a66921c7783534e78f51"
+    }
+   ]
+  }
+ ]
+}

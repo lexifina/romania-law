@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-1/2023",
+ "acts": [
+  {
+   "slug": "hcls1-144-2023",
+   "path": "local/bucuresti/sector-1/2023/144",
+   "short": "HCLS1 nr. 144/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 144/2023 privind aprobarea listei de priorități întocmită în baza criteriilor care se au în vedere la stabilirea ordinii de prioritate în cadrul categoriilor de persoane prevăzute în Legea nr. 114/1996 republicată, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2023",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/127550/144.2023%20an.pdf",
+     "sha256": "f801507d05d888322d43996421766ab6c627e28ca16146ac68fcaf5660665903"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-16-2023",
+   "path": "local/bucuresti/sector-1/2023/16",
+   "short": "HCLS1 nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 16/2023 privind aprobarea criteriilor care se au în vedere la stabilirea ordinii de prioritate în cadrul categoriilor de persoane prevăzute în Legea locuinței nr. 114/1996, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2023",
+   "versions": [
+    {
+     "from": "2023-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/99311/16_31.02.2023_Anonimizat.pdf",
+     "sha256": "ef5d8004f9b0f167f9fd2c148f67dc946df406080e0fcc30b9f78fda806b2c3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-191-2023",
+   "path": "local/bucuresti/sector-1/2023/191",
+   "short": "HCLS1 nr. 191/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 191/2023 privind aprobarea Regulamentului pentru accesul, organizarea și funcționarea bazinelor de înot aflate în administrarea Sectorului 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2023",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/133614/191.2023%20cu%20OM%20SG%20anon.pdf",
+     "sha256": "d11645333fc3be7a8c1e3149afb4395aab66bd0b1bd8f4569d99fe31c2b621ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-41-2023",
+   "path": "local/bucuresti/sector-1/2023/41",
+   "short": "HCLS1 nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 41/2023 privind modificarea Hotărârii Consiliului Local al Sectorului a nr. 197/19.12.2022 privind aprobarea „Regulamentului privind aprobarea unor măsuri locale destinate asigurării nevoilor energetice și eficientizării consumului de energie în gospodăriile din Sectorul 1, în sezonul rece 2022-2023”",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2023",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/103633/41.2023_anonimizata.pdf",
+     "sha256": "11b6522960f82aa2eaf003ddc94d5aa7404185c1d02394655a683faff22099ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-84-2023",
+   "path": "local/bucuresti/sector-1/2023/84",
+   "short": "HCLS1 nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 84/2023",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2023",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/102586/84.2023anon.pdf",
+     "sha256": "fab08a7adec712aaaf2bb834b2995992eb0dbf3722b15639668d251989065018"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,516 @@
+{
+ "country": "RO",
+ "shard": "norma-aep/2020",
+ "acts": [
+  {
+   "slug": "norma-aep-cuantum-total-26-691-2020",
+   "path": "norma-aep/2020/cuantum-total-26-691",
+   "short": "Cuantum total AEP nr. 26-691/2020",
+   "title": "Cuantum total Autorității Electorale Permanente nr. 26-691 din 2020-11-10",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/233164",
+   "versions": [
+    {
+     "from": "2020-11-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/233164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-ghid-2020-08-06-2020",
+   "path": "norma-aep/2020/ghid-2020-08-06",
+   "short": "Ghidul AEP din 2020-08-06",
+   "title": "Ghidul Autorității Electorale Permanente din 2020-08-06",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/228722",
+   "versions": [
+    {
+     "from": "2020-08-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/228722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-ghid-2020-10-28-2020",
+   "path": "norma-aep/2020/ghid-2020-10-28",
+   "short": "Ghidul AEP din 2020-10-28",
+   "title": "Ghidul Autorității Electorale Permanente din 2020-10-28",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/231867",
+   "versions": [
+    {
+     "from": "2020-10-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/231867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-2020-11-18-2020",
+   "path": "norma-aep/2020/lista-2020-11-18",
+   "short": "Listă AEP din 2020-11-18",
+   "title": "Listă Autorității Electorale Permanente din 2020-11-18",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/233534",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/233534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-22-370-2020",
+   "path": "norma-aep/2020/lista-22-370",
+   "short": "Listă AEP nr. 22-370/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 22-370 din 2020-10-05",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/230632",
+   "versions": [
+    {
+     "from": "2020-10-05",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/230632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-22-516-2020",
+   "path": "norma-aep/2020/lista-22-516",
+   "short": "Listă AEP nr. 22-516/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 22-516 din 2020-10-06",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/230835",
+   "versions": [
+    {
+     "from": "2020-10-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/230835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-22-550-2020",
+   "path": "norma-aep/2020/lista-22-550",
+   "short": "Listă AEP nr. 22-550/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 22-550 din 2020-10-06",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/230836",
+   "versions": [
+    {
+     "from": "2020-10-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/230836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-22-566-2020",
+   "path": "norma-aep/2020/lista-22-566",
+   "short": "Listă AEP nr. 22-566/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 22-566 din 2020-10-06",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/230837",
+   "versions": [
+    {
+     "from": "2020-10-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/230837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-22-590-2020",
+   "path": "norma-aep/2020/lista-22-590",
+   "short": "Listă AEP nr. 22-590/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 22-590 din 2020-10-06",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/230838",
+   "versions": [
+    {
+     "from": "2020-10-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/230838",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-22-662-2020",
+   "path": "norma-aep/2020/lista-22-662",
+   "short": "Listă AEP nr. 22-662/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 22-662 din 2020-10-07",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/230847",
+   "versions": [
+    {
+     "from": "2020-10-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/230847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-22-725-2020",
+   "path": "norma-aep/2020/lista-22-725",
+   "short": "Listă AEP nr. 22-725/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 22-725 din 2020-10-07",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/230879",
+   "versions": [
+    {
+     "from": "2020-10-08",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/230879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-22-827-2020",
+   "path": "norma-aep/2020/lista-22-827",
+   "short": "Listă AEP nr. 22-827/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 22-827 din 2020-10-08",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/230880",
+   "versions": [
+    {
+     "from": "2020-10-08",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/230880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-22-908-2020",
+   "path": "norma-aep/2020/lista-22-908",
+   "short": "Listă AEP nr. 22-908/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 22-908 din 2020-10-09",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/230951",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/230951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-23-038-2020",
+   "path": "norma-aep/2020/lista-23-038",
+   "short": "Listă AEP nr. 23-038/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 23-038 din 2020-10-09",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/230952",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/230952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-23-487-2020",
+   "path": "norma-aep/2020/lista-23-487",
+   "short": "Listă AEP nr. 23-487/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 23-487 din 2020-10-13",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/231188",
+   "versions": [
+    {
+     "from": "2020-10-13",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/231188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-23-630-2020",
+   "path": "norma-aep/2020/lista-23-630",
+   "short": "Listă AEP nr. 23-630/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 23-630 din 2020-10-14",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/231207",
+   "versions": [
+    {
+     "from": "2020-10-14",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/231207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-23-872-2020",
+   "path": "norma-aep/2020/lista-23-872",
+   "short": "Listă AEP nr. 23-872/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 23-872 din 2020-10-16",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/231251",
+   "versions": [
+    {
+     "from": "2020-10-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/231251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-24-001-2020",
+   "path": "norma-aep/2020/lista-24-001",
+   "short": "Listă AEP nr. 24-001/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 24-001 din 2020-10-19",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/231523",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/231523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-24-906-2020",
+   "path": "norma-aep/2020/lista-24-906",
+   "short": "Listă AEP nr. 24-906/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 24-906 din 2020-10-27",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/231824",
+   "versions": [
+    {
+     "from": "2020-10-28",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/231824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-25-349-2020",
+   "path": "norma-aep/2020/lista-25-349",
+   "short": "Listă AEP nr. 25-349/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 25-349 din 2020-10-29",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/232073",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/232073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-25-579-2020",
+   "path": "norma-aep/2020/lista-25-579",
+   "short": "Listă AEP nr. 25-579/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 25-579 din 2020-11-02",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/232594",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/232594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-25-787-2020",
+   "path": "norma-aep/2020/lista-25-787",
+   "short": "Listă AEP nr. 25-787/2020",
+   "title": "LISTA nr. 25.787 din 3 noiembrie 2020 partidelor politice, alianţelor politice, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerii autorităţilor administraţiei publice locale din 27 septembrie 2020",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/232692",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/232692",
+     "sha256": "20fbbafe8590eddcae5d70b67a616476917b83212fa1d98a8394d042529d33df"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-31-037-2020",
+   "path": "norma-aep/2020/lista-31-037",
+   "short": "Listă AEP nr. 31-037/2020",
+   "title": "LISTA nr. 31.037 din 14 decembrie 2020 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerilor pentru Senat şi Camera Deputaţilor din data de 6 decembrie 2020",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/235281",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/235281",
+     "sha256": "7773248a96bf49af681d0f456bbc847afe3b305062003a1c11260b152897c9d3"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-31-156-2020",
+   "path": "norma-aep/2020/lista-31-156",
+   "short": "Listă AEP nr. 31-156/2020",
+   "title": "LISTA nr. 31.156 din 15 decembrie 2020 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerilor pentru Senat şi Camera Deputaţilor din data de 6 decembrie 2020",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/235282",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/235282",
+     "sha256": "08dfc7d160b8180d6ef9e6e693b36d8738337b9a9a1dc12803aea487a36b215a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-31-301-2020",
+   "path": "norma-aep/2020/lista-31-301",
+   "short": "Listă AEP nr. 31-301/2020",
+   "title": "LISTA nr. 31.301 din 16 decembrie 2020 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerilor pentru Senat şi Camera Deputaţilor din data de 6 decembrie 2020",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/235362",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/235362",
+     "sha256": "6deed690f03c84e5afe5a2699b06060712251941c5244f859bc548dc71c45d5a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-31-442-2020",
+   "path": "norma-aep/2020/lista-31-442",
+   "short": "Listă AEP nr. 31-442/2020",
+   "title": "LISTA nr. 31.442 din 17 decembrie 2020 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerilor pentru Senat şi Camera Deputaţilor din data de 6 decembrie 2020",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/235440",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/235440",
+     "sha256": "9f1c5214ae682d784203e48917c2aa0ac83eea1a4b4410e34a376186576da653"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-31-894-2020",
+   "path": "norma-aep/2020/lista-31-894",
+   "short": "Listă AEP nr. 31-894/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 31-894 din 2020-12-18",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/235477",
+   "versions": [
+    {
+     "from": "2020-12-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/235477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-32-026-2020",
+   "path": "norma-aep/2020/lista-32-026",
+   "short": "Listă AEP nr. 32-026/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 32-026 din 2020-12-20",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/235510",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/235510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-32-326-2020",
+   "path": "norma-aep/2020/lista-32-326",
+   "short": "Listă AEP nr. 32-326/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 32-326 din 2020-12-22",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/235562",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/235562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-32-586-2020",
+   "path": "norma-aep/2020/lista-32-586",
+   "short": "Listă AEP nr. 32-586/2020",
+   "title": "Listă Autorității Electorale Permanente nr. 32-586 din 2020-12-23",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/235611",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/235611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-33-055-2020",
+   "path": "norma-aep/2020/lista-33-055",
+   "short": "Listă AEP nr. 33-055/2020",
+   "title": "LISTA nr. 33.055 din 29 decembrie 2020 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerilor pentru Senat şi Camera Deputaţilor din data de 6 decembrie 2020",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/235733",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/235733",
+     "sha256": "b5865abca60774efc4a30c2eccecdf5b5e0ee13848bec740d92cef85f129b084"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-metodologie-2020-07-17-2020",
+   "path": "norma-aep/2020/metodologie-2020-07-17",
+   "short": "Metodologia AEP din 2020-07-17",
+   "title": "METODOLOGIE din 17 iulie 2020 depunerii dosarelor de candidatură şi a listelor de susţinători la alegerile locale din anul 2020",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/227952",
+   "versions": [
+    {
+     "from": "2020-07-17",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/227952",
+     "sha256": "8d4df95bbcdc44cfb51d0190bcacc1bf145cadfe7fb2095a6a9680eb4e7cee59"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-procedura-2020-11-17-2020",
+   "path": "norma-aep/2020/procedura-2020-11-17",
+   "short": "Procedură AEP din 2020-11-17",
+   "title": "PROCEDURĂ din 17 noiembrie 2020 de monitorizare video a localurilor secţiilor de votare din străinătate la alegerile pentru Senat şi Camera Deputaţilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/233387",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/233387",
+     "sha256": "ac350a0da489c3cd61eabff5e4aa46a22becfe5cd11a0c0a241a001901cc1630"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-rectificare-2-2020",
+   "path": "norma-aep/2020/rectificare-2",
+   "short": "Rectificarea AEP nr. 2/2020",
+   "title": "RECTIFICARE nr. 2 din 17 iulie 2020 referitoare la Hotărârea Autorităţii Electorale Permanente nr. 2/2020",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/228509",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/228509",
+     "sha256": "0d46979c956b355810e16496b30bb608a378d5fb772adcd0fdc7d5fdda32b3b9"
+    }
+   ]
+  }
+ ]
+}

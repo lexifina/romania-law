@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "norma/2003",
+ "acts": [
+  {
+   "slug": "norma-bnr-1-2003",
+   "path": "norma/bnr/2003/1",
+   "short": "Norma bnr nr. 1/2003",
+   "title": "Norma nr. 1/2003 pentru modificarea și completarea Normelor Băncii Naționale a României nr. 10/2002 privind instrumentele financiare derivate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41811",
+   "versions": [
+    {
+     "from": "2003-02-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41811",
+     "sha256": "538b3f93b0e4ffa552f77ec65f427411e0f3aa961a74857da34e7a428bac972c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-11-2003",
+   "path": "norma/bnr/2003/11",
+   "short": "Norma bnr nr. 11/2003",
+   "title": "Norma nr. 11/2003 privind supravegherea pe bază individuală și consolidată a fondurilor proprii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48964",
+   "versions": [
+    {
+     "from": "2004-04-09",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48964",
+     "sha256": "0e9f032e9ae2bfd8509140cd98ec35aaee36cd113fd6e44da6033e7ba5fc97c5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-12-2003",
+   "path": "norma/bnr/2003/12",
+   "short": "Norma bnr nr. 12/2003",
+   "title": "Norma nr. 12/2003 privind supravegherea solvabilității și expunerilor mari ale instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49269",
+   "versions": [
+    {
+     "from": "2004-01-21",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49269",
+     "sha256": "ff601bdfb3c6aa3f4d5d63e59ac5254d36780b8e77756bfb00ed73011f7d73da"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-13-2003",
+   "path": "norma/bnr/2003/13",
+   "short": "Norma bnr nr. 13/2003",
+   "title": "Norma nr. 13/2003 pentru modificarea și completarea Normelor Băncii Naționale a României nr. 3/2002 privind standardele de cunoaștere a clientelei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48621",
+   "versions": [
+    {
+     "from": "2003-12-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48621",
+     "sha256": "1688a7c3a87f32cccff75135de2ddc901d2e1ee52de3528f9c0ffba18c075869"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-15-2003",
+   "path": "norma/bnr/2003/15",
+   "short": "Norma bnr nr. 15/2003",
+   "title": "Norma nr. 15/2003 privind limitarea riscului de credit la creditul de consum",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48606",
+   "versions": [
+    {
+     "from": "2004-02-01",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48606",
+     "sha256": "c00874c620dc4aea6e89b3e9758e258571fd01c1ed6dc50c3f1af41dcd6c3946"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-17-2003",
+   "path": "norma/bnr/2003/17",
+   "short": "Norma bnr nr. 17/2003",
+   "title": "Norma nr. 17/2003 privind organizarea și controlul intern al activității instituțiilor de credit și administrarea riscurilor semnificative, precum și organizarea și desfășurarea activității de audit intern a instituțiilor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49247",
+   "versions": [
+    {
+     "from": "2004-07-20",
+     "units": 136,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49247",
+     "sha256": "abdbe3a33156634fc724b38e9be8b71d31762f3fcad7f6e5a0188c138842b791"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-2-2003",
+   "path": "norma/bnr/2003/2",
+   "short": "Norma bnr nr. 2/2003",
+   "title": "Norma nr. 2/2003 privind determinarea și raportarea ratelor medii ale dobânzilor practicate în sistemul bancar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42333",
+   "versions": [
+    {
+     "from": "2003-05-13",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42333",
+     "sha256": "cd9970937eb2123b4276deab5c2eb43f15868f3df4d3a31c0c64fd678e6de5b6"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-3-2003",
+   "path": "norma/bnr/2003/3",
+   "short": "Norma bnr nr. 3/2003",
+   "title": "Norma nr. 3/2003 pentru completarea Normelor Băncii Naționale a României nr. 2/1999 privind autorizarea băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42504",
+   "versions": [
+    {
+     "from": "2003-03-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42504",
+     "sha256": "94b62f3e12e0e4dd241ad6e7bfc3b01fd374668471f2265c6d603a4beaeea53b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-4-2003",
+   "path": "norma/bnr/2003/4",
+   "short": "Norma bnr nr. 4/2003",
+   "title": "Norma nr. 4/2003 privind autorizarea caselor de economii pentru domeniul locativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44573",
+   "versions": [
+    {
+     "from": "2003-06-23",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44573",
+     "sha256": "3f1fd74624f3eb56f5c8d0061ee326220f266c9574f7343a5599eb3ca920f436"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-5-2003",
+   "path": "norma/bnr/2003/5",
+   "short": "Norma bnr nr. 5/2003",
+   "title": "Norma nr. 5/2003 privind condițiile specifice de funcționare a caselor de economii pentru domeniul locativ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44574",
+   "versions": [
+    {
+     "from": "2003-06-23",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44574",
+     "sha256": "beac261adb8bd497a0980c8899b1139ab654bebe042764bf307a8964817dea69"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-6-2003",
+   "path": "norma/bnr/2003/6",
+   "short": "Norma bnr nr. 6/2003",
+   "title": "Norma nr. 6/2003 privind fuziunea și divizarea cooperativelor de credit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44598",
+   "versions": [
+    {
+     "from": "2003-06-24",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44598",
+     "sha256": "667b9ad8749051423517353edcf0c1dd5b393fb11c2d284f72f2b03c667085d4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-7-2003",
+   "path": "norma/bnr/2003/7",
+   "short": "Norma bnr nr. 7/2003",
+   "title": "Norma nr. 7/2003 pentru modificarea și completarea Normelor Băncii Naționale a României nr. 1/2001 privind lichiditatea băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44658",
+   "versions": [
+    {
+     "from": "2003-09-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44658",
+     "sha256": "9fd130f319f57931f6437dad5119689d3116aa7ad68eee9ad2e1dc837581eaee"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-8-2003",
+   "path": "norma/bnr/2003/8",
+   "short": "Norma bnr nr. 8/2003",
+   "title": "Norma nr. 8/2003 privind modificarea Normelor Băncii Naționale a României nr. 8/1999 privind limitarea riscului de credit al instituțiilor de credit, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/45499",
+   "versions": [
+    {
+     "from": "2003-08-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/45499",
+     "sha256": "11001c3d5b42e645c44939c5b63f25e84dbd1fb05979ed61ff7a81eab0ce9e50"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-9-2003",
+   "path": "norma/bnr/2003/9",
+   "short": "Norma bnr nr. 9/2003",
+   "title": "Norma nr. 9/2003 privind societățile de credit ipotecar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48436",
+   "versions": [
+    {
+     "from": "2003-12-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48436",
+     "sha256": "07c46d7bf53fcaaf4eb606db76b34e70860920079b44abf64eca708bf2018985"
+    }
+   ]
+  },
+  {
+   "slug": "norma-cnvm-16-2003",
+   "path": "norma/cnvm/2003/16",
+   "short": "Norma cnvm nr. 16/2003",
+   "title": "Norma nr. 16/2003 pentru modificarea și completarea Normelor metodologice nr. 3/2000 de aplicare a Legii nr. 190/1999 privind creditul ipotecar pentru investiții imobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48859",
+   "versions": [
+    {
+     "from": "2004-02-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48859",
+     "sha256": "bbf029f0afe2c77066640f94b24610be93e88de5359b3e805b4c82bc34d47c7b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-15510-2003",
+   "path": "norma/finante/2003/15510",
+   "short": "Norma finante nr. 15510/2003",
+   "title": "Norma nr. 15.510/2003 privind constituirea și utilizarea veniturilor cu destinație specială pentru drumurile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44631",
+   "versions": [
+    {
+     "from": "2003-06-25",
+     "units": 58,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/44631",
+     "sha256": "edeef2e870ce707e7710f5332d47273743e1bd9fcfd11ccb997c16bc26e3c375"
+    }
+   ]
+  }
+ ]
+}

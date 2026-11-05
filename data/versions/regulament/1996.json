@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "regulament/1996",
+ "acts": [
+  {
+   "slug": "regulament-bnr-1-1996",
+   "path": "regulament/bnr/1996/1",
+   "short": "Regulament bnr nr. 1/1996",
+   "title": "Regulamentul nr. 1/1996 privind comisioanele pentru prestarea serviciilor de încasări și plăti cu și fără numerar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7697",
+   "versions": [
+    {
+     "from": "1996-03-29",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7697",
+     "sha256": "e09372d4078e1f7e5531672b37968544357c02e3672933c24ea74b675e96606f"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-2-1996",
+   "path": "regulament/bnr/1996/2",
+   "short": "Regulament bnr nr. 2/1996",
+   "title": "Regulamentul nr. 2/1996 cu privire la operațiunile cu numerar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7718",
+   "versions": [
+    {
+     "from": "1996-02-16",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7718",
+     "sha256": "0b955f20fb8e4763fd894391b18af7577c346781ec4b2fa997cf11e2fadbb966"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-4-1996",
+   "path": "regulament/bnr/1996/4",
+   "short": "Regulament bnr nr. 4/1996",
+   "title": "Regulamentul nr. 4/1996 privind plata prin ordin de plată la cererea directa a beneficiarului prin debitarea cu consimțământ a contului plătitorului (direct debit)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7752",
+   "versions": [
+    {
+     "from": "1996-09-05",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7752",
+     "sha256": "e54cbb39eb9faf60902078ff651e1313e4615dec5e82705fbd3c6b38698c9ea3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-1-1996",
+   "path": "regulament/cnvm/1996/1",
+   "short": "Regulament cnvm nr. 1/1996",
+   "title": "Regulamentul nr. 1/1996 privind statutul comisarului general al Bursei de valori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7698",
+   "versions": [
+    {
+     "from": "1996-02-21",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7698",
+     "sha256": "93da9cfd1602db9f9072b1bbb871f203a195e8774b281610cc9f41c9e1523bd3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-10-1996",
+   "path": "regulament/cnvm/1996/10",
+   "short": "Regulament cnvm nr. 10/1996",
+   "title": "Regulamentul nr. 10/1996 privind cerințele și criteriile de înregistrare și procesul de autorizare ca societăți de registru independent",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7861",
+   "versions": [
+    {
+     "from": "1996-11-06",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7861",
+     "sha256": "205d05b357b19c53e457cb171fb7d4a086dde78f47ed128287c3f96a84126fb2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-12-1996",
+   "path": "regulament/cnvm/1996/12",
+   "short": "Regulament cnvm nr. 12/1996",
+   "title": "Regulamentul nr. 12/1996 privind autorizarea și funcționarea societăților de compensare, decontare și depozitare pentru valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7892",
+   "versions": [
+    {
+     "from": "1996-11-06",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7892",
+     "sha256": "8a3cd7648018c0bef65cf73e38376c11dfb279a57ca1684239f311946d31c1ce"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-14-1996",
+   "path": "regulament/cnvm/1996/14",
+   "short": "Regulament cnvm nr. 14/1996",
+   "title": "Regulamentul nr. 14/1996 cu privire la desfășurarea activităților de compensare, depozitare și decontare de către terți",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7921",
+   "versions": [
+    {
+     "from": "1996-11-04",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7921",
+     "sha256": "3cb6312dd3aa572b0248546c8edde708669e2d41b7adafe0c2fe9f1af1701f75"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-15-1996",
+   "path": "regulament/cnvm/1996/15",
+   "short": "Regulament cnvm nr. 15/1996",
+   "title": "Regulamentul nr. 15/1996 privind plasamentul privat de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7934",
+   "versions": [
+    {
+     "from": "1996-12-19",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7934",
+     "sha256": "76572ee514e2379c05aaad427c842572978964967f931e8fe91f88c2e15011f0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-16-1996",
+   "path": "regulament/cnvm/1996/16",
+   "short": "Regulament cnvm nr. 16/1996",
+   "title": "Regulamentul nr. 16/1996 privind oferta publică de cumpărare de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7947",
+   "versions": [
+    {
+     "from": "1997-01-16",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7947",
+     "sha256": "7e726a53c57d63d5e45c154567c477588b257b44007c5e02a715422ce9a395c3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-17-1996",
+   "path": "regulament/cnvm/1996/17",
+   "short": "Regulament cnvm nr. 17/1996",
+   "title": "Regulamentul nr. 17/1996 pentru modificarea și completarea Regulamentului nr. 10/1996 privind cerințele și criteriile de înregistrare și procesul de autorizare ca societăți de registru independent",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7959",
+   "versions": [
+    {
+     "from": "1997-01-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7959",
+     "sha256": "825f4c7e50c421c8a7c41553b44837eddea64fef7230e4ed9cc6d420d7ff6935"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-2-1996",
+   "path": "regulament/cnvm/1996/2",
+   "short": "Regulament cnvm nr. 2/1996",
+   "title": "Regulamentul nr. 2/1996 privind informarea periodică și continua, realizată de",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7719",
+   "versions": [
+    {
+     "from": "1996-05-07",
+     "units": 28,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7719",
+     "sha256": "f6def97c618f48d9db8a1e4b96a032de979cbf9ba734c1b6902fc30a81df2ade"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-3-1996",
+   "path": "regulament/cnvm/1996/3",
+   "short": "Regulament cnvm nr. 3/1996",
+   "title": "Regulamentul nr. 3/1996 privind autorizarea și exercitarea intermedierii de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7737",
+   "versions": [
+    {
+     "from": "1996-08-05",
+     "units": 59,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7737",
+     "sha256": "025719783c8af56dbfffe074a536c3e77c865a67395fc9753729d13b7d84097b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-4-1996",
+   "path": "regulament/cnvm/1996/4",
+   "short": "Regulament cnvm nr. 4/1996",
+   "title": "Regulamentul nr. 4/1996 privind autorizarea temporară a agenților de valori mobiliare în vederea vânzării acțiunilor dobândite în urma Programului de privatizare în masă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7753",
+   "versions": [
+    {
+     "from": "1996-08-05",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7753",
+     "sha256": "e8b5120d1ede4618e1dc0d52fb1f39f7f63cdf881e287595741dd005c9f6bd7a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-5-1996",
+   "path": "regulament/cnvm/1996/5",
+   "short": "Regulament cnvm nr. 5/1996",
+   "title": "Regulamentul nr. 5/1996 privind procedura de consultare a investitorilor pentru reorganizarea și lichidarea fondurilor deschise de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7770",
+   "versions": [
+    {
+     "from": "1996-08-05",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7770",
+     "sha256": "f4891b178adcbc3efe90e2e5a2840b47a914c1a68b3523dd44e88792c9bc4df0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-6-1996",
+   "path": "regulament/cnvm/1996/6",
+   "short": "Regulament cnvm nr. 6/1996",
+   "title": "Regulamentul nr. 6/1996 privind lichidarea fondurilor deschise de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7791",
+   "versions": [
+    {
+     "from": "1996-08-05",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7791",
+     "sha256": "5399883e11e4f2a3f8f713dba2c1beff624066462e24a11605b2181b3f61f55e"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-8-1996",
+   "path": "regulament/cnvm/1996/8",
+   "short": "Regulament cnvm nr. 8/1996",
+   "title": "Regulamentul nr. 8/1996 privind autorizarea Societății Naționale de Compensare, Decontare și Depozitare pentru Valori Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7828",
+   "versions": [
+    {
+     "from": "1996-08-29",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7828",
+     "sha256": "ae812257c4f66885acd9e6ba819ccb13ee511f6ddcca34e6ee9b8bdb730343f3"
+    }
+   ]
+  }
+ ]
+}

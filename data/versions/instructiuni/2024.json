@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/2024",
+ "acts": [
+  {
+   "slug": "instructiuni-sanatate-4480-2024",
+   "path": "instructiuni/sanatate/2024/4480",
+   "short": "Instrucțiuni sanatate nr. 4480/2024",
+   "title": "Instrucțiunile nr. 4.480/2024 privind încetarea stării de alertă epidemiologică determinate de gripă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/279728",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/279728",
+     "sha256": "eedf34bd80114c1276e741cd0f54e44818ad8bba8e1cd85492130df19b1de6cd"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-sanatate-6226-2024",
+   "path": "instructiuni/sanatate/2024/6226",
+   "short": "Instrucțiuni sanatate nr. 6226/2024",
+   "title": "Instrucțiunile nr. 6.226/2024 privind modalitatea de gestionare a deșeurilor de medicamente neutilizate și/sau expirate provenite de la populație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/281609",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/281609",
+     "sha256": "5109636d75673e99d6cfbd14b2c06cbabf3f84c1f94111e9659cbf673a165dff"
+    }
+   ]
+  }
+ ]
+}

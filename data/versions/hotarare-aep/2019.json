@@ -1,0 +1,336 @@
+{
+ "country": "RO",
+ "shard": "hotarare-aep/2019",
+ "acts": [
+  {
+   "slug": "hotarare-aep-1-416-2019",
+   "path": "hotarare-aep/2019/1-416",
+   "short": "Decizia AEP nr. 1-416/2019",
+   "title": "Decizia Autorității Electorale Permanente nr. 1-416 din 2019-11-19",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/220701",
+   "versions": [
+    {
+     "from": "2019-12-05",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/220701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-11-2019",
+   "path": "hotarare-aep/2019/11",
+   "short": "Hotărârea AEP nr. 11/2019",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 11 din 2019-04-19",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/213234",
+   "versions": [
+    {
+     "from": "2019-04-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/213234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-12-2019",
+   "path": "hotarare-aep/2019/12",
+   "short": "Hotărârea AEP nr. 12/2019",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 12 din 2019-05-10",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/213822",
+   "versions": [
+    {
+     "from": "2019-05-10",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/213822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-25-2019",
+   "path": "hotarare-aep/2019/25",
+   "short": "Hotărârea AEP nr. 25/2019",
+   "title": "HOTĂRÂRE nr. 25 din 30 august 2019 privind modelul, dimensiunile, condiţiile de tipărire, de gestionare şi de utilizare a timbrului autocolant la alegerile pentru Preşedintele României din anul 2019",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/217579",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/217579",
+     "sha256": "b7b8bd0cca133ee81e7f7945b337fe324a07d435948245cb11597ce366bfcd7e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-26-2019",
+   "path": "hotarare-aep/2019/26",
+   "short": "Hotărârea AEP nr. 26/2019",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 26 din 2019-08-30",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/217580",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/217580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-27-2019",
+   "path": "hotarare-aep/2019/27",
+   "short": "Hotărârea AEP nr. 27/2019",
+   "title": "HOTĂRÂRE nr. 27 din 30 august 2019 privind aprobarea modelelor ştampilelor electorale care vor fi folosite la alegerile pentru Preşedintele României",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/217581",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/217581",
+     "sha256": "03038fbbbdd45e7116a4843b53b5455d87599c128c96cfc7abf536419cc0bfdc"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-28-2019",
+   "path": "hotarare-aep/2019/28",
+   "short": "Hotărârea AEP nr. 28/2019",
+   "title": "HOTĂRÂRE nr. 28 din 30 august 2019 privind aprobarea modelului buletinului de vot utilizat în secţiile de votare din ţară, modelului buletinului de vot utilizat în secţiile de votare din străinătate şi a modelului buletinului de vot prin corespondenţă, precum şi a condiţiilor de confecţionare, gestionare şi utilizare a acestora la alegerile pentru Preşedintele României din anul 2019",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/217582",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/217582",
+     "sha256": "c9b24ecf94f64ad3e6a2aeb39d479b95feb96c08cf1c9151d0e92298493d5d7e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-29-2019",
+   "path": "hotarare-aep/2019/29",
+   "short": "Hotărârea AEP nr. 29/2019",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 29 din 2019-08-30",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/217583",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/217583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-30-2019",
+   "path": "hotarare-aep/2019/30",
+   "short": "Hotărârea AEP nr. 30/2019",
+   "title": "HOTĂRÂRE nr. 30 din 30 august 2019 privind stabilirea modelelor proceselor-verbale de consemnare şi centralizare a rezultatelor votării pentru alegerea Preşedintelui României din anul 2019",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/217586",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/217586",
+     "sha256": "60c74515c73811c47edb19c86ae33ebf1bbbbe316b4063d19771628b280cc3a9"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-33-2019",
+   "path": "hotarare-aep/2019/33",
+   "short": "Hotărârea AEP nr. 33/2019",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 33 din 2019-10-03",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/218682",
+   "versions": [
+    {
+     "from": "2019-10-04",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/218682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-34-2019",
+   "path": "hotarare-aep/2019/34",
+   "short": "Hotărârea AEP nr. 34/2019",
+   "title": "HOTĂRÂRE nr. 34 din 4 octombrie 2019 privind aprobarea Ghidului finanţării campaniei electorale la alegerile pentru Preşedintele României din anul 2019",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/218685",
+   "versions": [
+    {
+     "from": "2019-10-04",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/218685",
+     "sha256": "72e44b21471538e5ba301ca1ce645b94ad2381d7fdd316ab7c42aee949207f5a"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-36-2019",
+   "path": "hotarare-aep/2019/36",
+   "short": "Hotărârea AEP nr. 36/2019",
+   "title": "HOTĂRÂRE nr. 36 din 9 octombrie 2019 pentru aprobarea Normelor metodologice privind funcţionarea Sistemului informatic de monitorizare a prezenţei la vot şi de prevenire a votului ilegal, selecţia, desemnarea şi atribuţiile operatorilor de calculator ai birourilor electorale ale secţiilor de votare, verificarea corelaţiilor din procesele-verbale de consemnare a rezultatelor votării, precum şi condiţiile de înregistrare audiovideo a operaţiunilor efectuate de către membrii birourilor electorale ale secţiilor de votare pentru numărarea voturilor",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/218805",
+   "versions": [
+    {
+     "from": "2019-10-10",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/218805",
+     "sha256": "ed60c9070d0a4676bfb0ebea55dd183fb437b87e9f7f8d0d7956ea08e02840b7"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-38-2019",
+   "path": "hotarare-aep/2019/38",
+   "short": "Hotărârea AEP nr. 38/2019",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 38 din 2019-10-20",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/219026",
+   "versions": [
+    {
+     "from": "2019-10-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/219026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-41-2019",
+   "path": "hotarare-aep/2019/41",
+   "short": "Hotărârea AEP nr. 41/2019",
+   "title": "HOTĂRÂRE nr. 41 din 7 noiembrie 2019 privind modificarea listei sediilor secţiilor de votare din străinătate pentru alegerea Preşedintelui României din anul 2019, stabilită prin Hotărârea Autorităţii Electorale Permanente nr. 38/2019",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/219598",
+   "versions": [
+    {
+     "from": "2019-11-08",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/219598",
+     "sha256": "b737982b10cab291e2cdcea67de42155253b714d6c7e2f717edda4a8672620fc"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-43-2019",
+   "path": "hotarare-aep/2019/43",
+   "short": "Hotărârea AEP nr. 43/2019",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 43 din 2019-11-15",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/219874",
+   "versions": [
+    {
+     "from": "2019-11-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/219874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-44-2019",
+   "path": "hotarare-aep/2019/44",
+   "short": "Hotărârea AEP nr. 44/2019",
+   "title": "HOTĂRÂRE nr. 44 din 20 noiembrie 2019 privind modificarea poziţiei nr. 294 din lista sediilor secţiilor de votare din străinătate pentru alegerea Preşedintelui României din anul 2019, stabilită prin Hotărârea Autorităţii Electorale Permanente nr. 38/2019",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/219933",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/219933",
+     "sha256": "eccba71be61a9e87365f88c3496929a0224795811cb459b0fbbcc45c3086bff1"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-45-2019",
+   "path": "hotarare-aep/2019/45",
+   "short": "Hotărârea AEP nr. 45/2019",
+   "title": "HOTĂRÂRE nr. 45 din 20 noiembrie 2019 pentru aprobarea modelului procesului-verbal privind rezultatul alegerilor pentru funcţia de Preşedinte al României în cadrul celui de-al doilea tur de scrutin din 24 noiembrie 2019, ce va fi întocmit de Biroul Electoral Central",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/219959",
+   "versions": [
+    {
+     "from": "2019-11-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/219959",
+     "sha256": "1aaacba6e85c0bb8daacf8f980e3956f376e6afa2bcab798cb7d71295c433cf6"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-46-2019",
+   "path": "hotarare-aep/2019/46",
+   "short": "Hotărârea AEP nr. 46/2019",
+   "title": "HOTĂRÂRE nr. 46 din 22 noiembrie 2019 privind unele măsuri pentru predarea materialelor electorale rezultate din al doilea tur pentru alegerea Preşedintelui României din anul 2019",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/219973",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/219973",
+     "sha256": "5dea39379420fc9a564b84063fbf3efea20f92d6945e1fba496d521c12eb51af"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-6-2019",
+   "path": "hotarare-aep/2019/6",
+   "short": "Hotărârea AEP nr. 6/2019",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 6 din 2019-03-06",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/211712",
+   "versions": [
+    {
+     "from": "2019-03-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/211712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-7-2019",
+   "path": "hotarare-aep/2019/7",
+   "short": "Hotărârea AEP nr. 7/2019",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 7 din 2019-03-13",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/211863",
+   "versions": [
+    {
+     "from": "2019-03-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/211863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-8-2019",
+   "path": "hotarare-aep/2019/8",
+   "short": "Hotărârea AEP nr. 8/2019",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 8 din 2019-03-13",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/211872",
+   "versions": [
+    {
+     "from": "2019-03-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/211872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-9-2019",
+   "path": "hotarare-aep/2019/9",
+   "short": "Hotărârea AEP nr. 9/2019",
+   "title": "HOTĂRÂRE nr. 9 din 25 martie 2019 privind procedura de eliberare a adeverinţelor care atestă îndeplinirea condiţiilor prevăzute de art. 73 alin. (3) şi (4) din Legea nr. 33/2007 privind organizarea şi desfăşurarea alegerilor pentru Parlamentul European, precum şi procedura de acreditare a reprezentanţilor externi ai mass-mediei şi a observatorilor externi la alegerile pentru membrii din România în Parlamentul European",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/212213",
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/212213",
+     "sha256": "ef8b6489033c3230ca5382d68877b0891634d517c783f559de2adcc01c48d48d"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/cgmb/1998",
+ "acts": [
+  {
+   "slug": "hcgmb-105-1998",
+   "path": "local/bucuresti/cgmb/1998/105",
+   "short": "HCGMB nr. 105/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 105/1998 privind modificarea cuantumului taxei locale speciale speciale de salubritate publica pe teritoriul municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1259",
+   "versions": [
+    {
+     "from": "1998-06-25",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1259/h0105_98.pdf",
+     "sha256": "e714b1277a738747c1adced1c44fd58c073c77af7caebf50759d073c4ab775e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-106-1998",
+   "path": "local/bucuresti/cgmb/1998/106",
+   "short": "HCGMB nr. 106/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 106/1998 privind scutirea la plata a unor majorari de intarziere la taxa locala speciala de igienizare publica si taxa locala speciala de salubritate publica",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1260",
+   "versions": [
+    {
+     "from": "1998-06-25",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1260/h0106_98.pdf",
+     "sha256": "7600af87a406e03c4c554c1419db7a18558af5011da544ed6f8c5ac4c7557eba"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-117-1998",
+   "path": "local/bucuresti/cgmb/1998/117",
+   "short": "HCGMB nr. 117/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 117/1998 privind aprobarea unui plan urbanistic zonal",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1269",
+   "versions": [
+    {
+     "from": "1998-07-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1269/h0117_98.pdf",
+     "sha256": "5060e13aa00daf86d8b91e103e9c24be10ef7d000860da0e92371857bb9d2c36"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-141-1998",
+   "path": "local/bucuresti/cgmb/1998/141",
+   "short": "HCGMB nr. 141/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 141/1998 privind aprobarea unui plan urbanistic zonal Intrarea Straulesti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1280",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1280/h0141_98.pdf",
+     "sha256": "9f58b0d2f1d85b3c5c6f494a7cb319ad7aa5f8afc2f91858c759e56f397bfcf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-142-1998",
+   "path": "local/bucuresti/cgmb/1998/142",
+   "short": "HCGMB nr. 142/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 142/1998 privind aprobarea unui plan urbanistic zonal - Str.Cpt.Av.Serbanescu",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1281",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1281/h0142_98.pdf",
+     "sha256": "6e2c62903597ca60c85f7fd70e5e42284a4bb673525ff35a3894a7dffc833fe1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-143-1998",
+   "path": "local/bucuresti/cgmb/1998/143",
+   "short": "HCGMB nr. 143/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 143/1998 privind aprobarea unui plan urbanistic zonal Str.Turnu Magurele-Str.Aurel Persu",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1283",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1283/h0143_98.pdf",
+     "sha256": "40dc216d7fcb5fcc6df7c658216f776439f7e8535c264cf5911a85da67749978"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-156-1998",
+   "path": "local/bucuresti/cgmb/1998/156",
+   "short": "HCGMB nr. 156/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 156/1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1294",
+   "versions": [
+    {
+     "from": "1998-08-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1294/h0156_98.pdf",
+     "sha256": "d5b92c3fc4616089b288e911211b96bf3e715a762f5d018ae424fe19b1516d4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-163-1998",
+   "path": "local/bucuresti/cgmb/1998/163",
+   "short": "HCGMB nr. 163/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 163/1998 privind normele de organizare si efectuare a transportului rutier urban de persoane, in sistem de maxi-taxi, cu microbuze si autobuze pe teritoriul municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1310",
+   "versions": [
+    {
+     "from": "1998-08-20",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1310/h0163_98.pdf",
+     "sha256": "41ab16c8655147e2498418a349365621f40b836b56222d990f806fa958e6844d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-17-1998",
+   "path": "local/bucuresti/cgmb/1998/17",
+   "short": "HCGMB nr. 17/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 17/1998 privind stabilirea nivelurilor unor impozite si taxe locale pe anul 1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1129",
+   "versions": [
+    {
+     "from": "1998-02-26",
+     "units": 8,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1129/h017_98.pdf",
+     "sha256": "1d5755f426e06e2005a4a6f04ba070d499776d087aadbc658990bd911398cc5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-215-1998",
+   "path": "local/bucuresti/cgmb/1998/215",
+   "short": "HCGMB nr. 215/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 215/1998 privind stabilirea criteriilor de selectie a evaluatorilor imobiliari",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1319",
+   "versions": [
+    {
+     "from": "1998-09-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1319/h0215_98.pdf",
+     "sha256": "5350e5e38fd9502e9987632ebc0d7a3150f060377c2a2a8dee68281912b2fb71"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-220-1998",
+   "path": "local/bucuresti/cgmb/1998/220",
+   "short": "HCGMB nr. 220/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 220/1998 privind aprobarea metodologiei pentru punerea in aplicare a prevederilor HG nr.505/20.08.1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1368",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1368/h0220_98.pdf",
+     "sha256": "07f5e5f7efb6597568afa84afb994d11584b9fe57767a520c406fe8ad0444c11"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-236-1998",
+   "path": "local/bucuresti/cgmb/1998/236",
+   "short": "HCGMB nr. 236/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 236/1998 privind aprobarea normelor de organizare si efectuare a transportului de persoane cu taximetrele pe teritoriul municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1704",
+   "versions": [
+    {
+     "from": "1998-10-22",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1704/h0236_98.pdf",
+     "sha256": "a327104fdf8668aa0bd1f78802612baa63160e922f93a609bab8d13e054ffe1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-248-1998",
+   "path": "local/bucuresti/cgmb/1998/248",
+   "short": "HCGMB nr. 248/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 248/1998 privind modificarea Hotararii Consiliului General al municipiului Bucuresti nr.162/1998, privind autorizarea circulatiei autovehiculelor destinate transporturilor de bunuri in zona interzisa circulatiei acestora din municipiul Bucuresti si stabilirea taxelor pentru eliberarea autorizatiei de transport",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1344",
+   "versions": [
+    {
+     "from": "1998-11-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1344/h0248_98.pdf",
+     "sha256": "1e8c6c6901a3104648907d536b4480d265b14601135d254c667fc5220d3b0b65"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-99-1998",
+   "path": "local/bucuresti/cgmb/1998/99",
+   "short": "HCGMB nr. 99/1998",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 99/1998 privind interzicerea arderii deseurilor de cauciuc si mase plastice",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1212",
+   "versions": [
+    {
+     "from": "1998-05-28",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1998/1212/h099_98.pdf",
+     "sha256": "b35e5a6260e8c3754e3c49cc9e4d6385254699a2a111b5b4814736111c282985"
+    }
+   ]
+  }
+ ]
+}

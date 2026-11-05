@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "decizie-bec/2019",
+ "acts": [
+  {
+   "slug": "decizie-bec-europarlamentare-2019-1-h",
+   "path": "decizie-bec/europarlamentare-2019/1-h",
+   "short": "Hotărârea Biroul Electoral Central pentru Alegerea Membrilor din România în Parlamentul European nr. 1-h/2019",
+   "title": "HOTĂRÂRE nr. 1/H din 7 martie 2019 privind aprobarea Regulamentului de organizare şi funcţionare a birourilor electorale constituite pentru alegerea membrilor din România în Parlamentul European din anul 2019",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/211753",
+   "versions": [
+    {
+     "from": "2019-03-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/211753",
+     "sha256": "90cb29226f6955a83045dfc6905aa0a145a61d0169b4c85dd6c7192ba949ce01"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-europarlamentare-2019-2-h",
+   "path": "decizie-bec/europarlamentare-2019/2-h",
+   "short": "Hotărârea BEC nr. 2-h/2019",
+   "title": "HOTĂRÂRE nr. 2/H din 7 martie 2019 privind interpretarea noţiunii \"partid politic care are membri în Parlamentul European\"",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/211768",
+   "versions": [
+    {
+     "from": "2019-03-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/211768",
+     "sha256": "0903b0ba6518c20db8a6a555e251725903e7ea4d547a10b9bf4905652b129c87"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-europarlamentare-2019-3-h",
+   "path": "decizie-bec/europarlamentare-2019/3-h",
+   "short": "Hotărârea BEC nr. 3-h/2019",
+   "title": "HOTĂRÂRE nr. 3/H din 14 mai 2019 privind interpretarea dispoziţiilor art. 51 , art. 52 alin. (1) lit. b) şi art. 52 alin. (4) lit. m) din Legea nr. 33/2007 privind organizarea şi desfăşurarea alegerilor pentru Parlamentul European",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/213976",
+   "versions": [
+    {
+     "from": "2019-05-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/213976",
+     "sha256": "280c502d7c4437a49e5d0df0820c4c419a12c30a0eee7d550b3e215a7111defd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-europarlamentare-2019-4-h",
+   "path": "decizie-bec/europarlamentare-2019/4-h",
+   "short": "Hotărârea BEC nr. 4-h/2019",
+   "title": "HOTĂRÂRE nr. 4/H din 25 mai 2019 privind modificarea art. 21 din Regulamentul de organizare şi funcţionare a birourilor electorale constituite pentru alegerea membrilor din România în Parlamentul European din anul 2019, aprobat prin Hotărârea Biroului Electoral Central nr. 1/H/2019",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/214518",
+   "versions": [
+    {
+     "from": "2019-05-28",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/214518",
+     "sha256": "ded7fefc80ff0421a0f62249c197a7058166c3c129a8bd0df39d3a402d572cbf"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-europarlamentare-2019-comunicat-2019-06-05",
+   "path": "decizie-bec/europarlamentare-2019/comunicat-2019-06-05",
+   "short": "Comunicatul BEC din 2019-06-05",
+   "title": "Comunicatul Biroului Electoral Central din 2019-06-05",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/214774",
+   "versions": [
+    {
+     "from": "2019-06-05",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/214774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-europarlamentare-2019-lege-2019-06-05",
+   "path": "decizie-bec/europarlamentare-2019/lege-2019-06-05",
+   "short": "Lege BEC din 2019-06-05",
+   "title": "PROCES-VERBAL*)^1) din 5 iunie 2019 privind centralizarea voturilor şi atribuirea mandatelor la alegerile pentru Parlamentul European - 26 mai 2019",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/214775",
+   "versions": [
+    {
+     "from": "2019-06-05",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/214775",
+     "sha256": "2ee1285a666d2fc481c99397c06b6b0f9362a1ae365e0a7cfe2affb85a5c9b79"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-europarlamentare-2019-regulament-2019-03-07",
+   "path": "decizie-bec/europarlamentare-2019/regulament-2019-03-07",
+   "short": "Regulamentul Biroul Electoral Central pentru Alegerea Membrilor din România în Parlamentul European din 2019-03-07",
+   "title": "REGULAMENT din 7 martie 2019 de organizare şi funcţionare a birourilor electorale constituite pentru alegerea membrilor din România în Parlamentul European din anul 2019",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/211754",
+   "versions": [
+    {
+     "from": "2019-03-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/211754",
+     "sha256": "065efdd792285f7df846d5ef9ce37e8d033334d46d0031c7e0b6186a5fbb5fb3"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,250 @@
+{
+"country": "RO",
+"shard": "local/bucuresti/sector-5/2025",
+"acts": [
+{
+"slug": "hcls5-26-2025",
+"path": "local/bucuresti/sector-5/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 5 nr. 26/2025 privind modificarea și completareaAnexei nr. 4 și Anexei nr. 5 la Hotărârea Consiliului Local Sector 5 nr. 67/23.03.2020 pentru aprobarea Studiului de oportunitate privind modalitatea de gestiune a serviciului public de salubrizare la nivelul Sectorului 5 al Municipiului București, stabilirea modalității de gestiune a serviciului public de salubrizare la nivelul Sectorului 5 al Municipiului București, a Regulamentului de organizare și funcționare a serviciului public de salubrizare, a Caietului de sarcini și a Contractului Cadru de delegare a gestiunii serviciului public de salubrizare la nivelul Sectorului 5 al Municipiului București, cu modificările și completările ulterioare",
+"short": "HCLS5 nr. 26/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://sector5.ro/hotararea-nr-26-27-02-2025-privind-modificarea-si-completareaanexei-nr-4-si-anexei-nr-5-la-hotararea-consiliului-local-sector-5-nr-67-23-03-2020-pentru-aprobarea-studiului-de-oportunitate-privind/",
+"council": "bucuresti/sector-5",
+"council_name": "Consiliul Local al Sectorului 5 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls5-41-2025",
+"path": "local/bucuresti/sector-5/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 5 nr. 41/2025 privind aprobarea Caietului de sarcini, a Regulamentului de organizare și funcționare al serviciului public de salubrizare de pe raza administrativ teritorială a Sectorului 5 a Municipiului București și modalitatea de delegare a gestiunii, respectiv draftul contractului cadru de concesiune a serviciilor publice de salubrizare de pe raza administrativ-teritorială a Sectorului 5 al Municipiului București",
+"short": "HCLS5 nr. 41/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-03-31",
+"latest": "2025-03-31",
+"portal": "https://sector5.ro/hotararea-nr-41-31-03-2025-privind-aprobarea-caietului-de-sarcini-a-regulamentului-de-organizare-si-functionare-al-serviciului-public-de-salubrizare-de-pe-raza-administrativ-teritoriala-a-sectorului/",
+"council": "bucuresti/sector-5",
+"council_name": "Consiliul Local al Sectorului 5 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls5-51-2025",
+"path": "local/bucuresti/sector-5/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 5 nr. 51/2025",
+"short": "HCLS5 nr. 51/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-04-01",
+"latest": "2025-04-01",
+"portal": null,
+"council": "bucuresti/sector-5",
+"council_name": "Consiliul Local al Sectorului 5 al Municipiului București",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcls5-70-2025",
+"path": "local/bucuresti/sector-5/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 5 nr. 70/2025",
+"short": "HCLS5 nr. 70/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": null,
+"council": "bucuresti/sector-5",
+"council_name": "Consiliul Local al Sectorului 5 al Municipiului București",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcls5-72-2025",
+"path": "local/bucuresti/sector-5/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 5 nr. 72/2025 pentru modificarea și completarea Hotărârii Consiliului Local Sector 5 nr. 41/31.03.2025 privind aprobarea Caietului de sarcini, a Regulamentului de organizare și funcționare al serviciului public de salubrizare de pe raza administrativ teritorială a Sectorului 5 a Municipiului București și modalitatea de delegare a gestiunii, respectiv draftul contractului cadru de delegare a serviciilor publice de salubrizare de pe raza administrativ – teritorială a Sectorului 5 al Municipiului București",
+"short": "HCLS5 nr. 72/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://sector5.ro/hotararea-nr-72-28-05-2025-pentru-modificarea-si-completarea-hotararii-consiliului-local-sector-5-nr-41-31-03-2025-privind-aprobarea-caietului-de-sarcini-a-regulamentului-de-organizare-si-functiona/",
+"council": "bucuresti/sector-5",
+"council_name": "Consiliul Local al Sectorului 5 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls5-76-2025",
+"path": "local/bucuresti/sector-5/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 5 nr. 76/2025 privind aprobarea Metodologiei de gestionare a locurilor de parcare aflate pe domeniul public sau privat al Municipiului București, precum și cea de aplicare a unor sancțiuni contravenționale și/sau măsuri tehnico-administrative în ceea ce privește ocuparea fără drept a domeniului public sau privat de pe raza Sectorului 5 al Municipiului București cu autovehicule de orice tip",
+"short": "HCLS5 nr. 76/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://sector5.ro/hotararea-nr-76-28-05-2025-privind-aprobarea-metodologiei-de-gestionare-a-locurilor-de-parcare-aflate-pe-domeniul-public-sau-privat-al-municipiului-bucuresti-precum-si-cea-de-aplicare-a-unor-sanctiu/",
+"council": "bucuresti/sector-5",
+"council_name": "Consiliul Local al Sectorului 5 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls5-77-2025",
+"path": "local/bucuresti/sector-5/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 5 nr. 77/2025 privind aprobarea Regulamentului de acordare a serviciilor medicale gratuite sau cu reducere de 50% și tarifele aferente prestațiilor medicale efectuate în cadrul ”Complexului Multifuncțional Sf. Andrei”",
+"short": "HCLS5 nr. 77/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-05-29",
+"latest": "2025-05-29",
+"portal": "https://sector5.ro/hotararea-nr-77-28-05-2025-privind-aprobarea-regulamentului-de-acordare-a-serviciilor-medicale-gratuite-sau-cu-reducere-de-50-si-tarifele-aferente-prestatiilor-medicale-efectuate-in-cadrul-c/",
+"council": "bucuresti/sector-5",
+"council_name": "Consiliul Local al Sectorului 5 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls5-105-2025",
+"path": "local/bucuresti/sector-5/2025/105",
+"kind": "local",
+"year": "2025",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 5 nr. 105/2025 pentru modificarea și completarea Hotărârii Consiliului Local Sector 5 nr. 41/31.03.2025 privind aprobarea Caietului de sarcini, a Regulamentului de organizare și funcționare al serviciului public de salubrizare de pe raza administrativ teritorială a Sectorului 5 a Municipiului București și modalitatea de delegare a gestiunii, respectiv draftul contractului cadru de delegare a serviciilor publice de salubrizare de pe raza administrativ – teritorială a Sectorului 5 al Municipiului București cu modificările și completările ulterioare",
+"short": "HCLS5 nr. 105/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-08-25",
+"latest": "2025-08-25",
+"portal": "https://sector5.ro/hotararea-nr-105-22-08-2025-pentru-modificarea-si-completarea-hotararii-consiliului-local-sector-5-nr-41-31-03-2025-privind-aprobarea-caietului-de-sarcini-a-regulamentului-de-organizare-si-function/",
+"council": "bucuresti/sector-5",
+"council_name": "Consiliul Local al Sectorului 5 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls5-144-2025",
+"path": "local/bucuresti/sector-5/2025/144",
+"kind": "local",
+"year": "2025",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 5 nr. 144/2025 pentru aprobarea Regulamentului privind închirierea și utilizarea temporară a spațiilor excedentare din unitățile de învățământ preuniversitar de stat din sectorul 5",
+"short": "HCLS5 nr. 144/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-10-24",
+"latest": "2025-10-24",
+"portal": "https://sector5.ro/hotararea-nr-144-23-10-2025-pentru-aprobarea-regulamentului-privind-inchirierea-si-utilizarea-temporara-a-spatiilor-excedentare-din-unitatile-de-invatamant-preuniversitar-de-stat-din-sectorul-5/",
+"council": "bucuresti/sector-5",
+"council_name": "Consiliul Local al Sectorului 5 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls5-165-2025",
+"path": "local/bucuresti/sector-5/2025/165",
+"kind": "local",
+"year": "2025",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 5 nr. 165/2025 de modificare a Hotărârii Consiliului Local al Sectorului 5 nr. 144/23.10.2025 pentru aprobarea Regulamentului privind închirierea și utilizarea temporară a spațiilor excedentare din unitățile de învățământ preuniversitar de stat din sectorul 5",
+"short": "HCLS5 nr. 165/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://sector5.ro/hotararea-nr-165-26-11-2025-de-modificare-a-hotararii-consiliului-local-al-sectorului-5-nr-144-23-10-2025-pentru-aprobarea-regulamentului-privind-inchirierea-si-utilizarea-temporara-a-spatiilor-exce/",
+"council": "bucuresti/sector-5",
+"council_name": "Consiliul Local al Sectorului 5 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls5-194-2025",
+"path": "local/bucuresti/sector-5/2025/194",
+"kind": "local",
+"year": "2025",
+"number": "194",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 5 nr. 194/2025 pentru modificarea Anexei 3 a Hotărârii Consiliului Local Sector 5 nr. 41/31.03.2025 privind aprobarea Caietului de sarcini, a Regulamentului de organizare și funcționare al serviciului public de salubrizare de pe raza administrativ teritorială a Sectorului 5 a Municipiului București și modalitatea de delegare a gestiunii, respectiv draftul contractului cadru de delegare a serviciilor publice de salubrizare de pe raza administrativ – teritorială a Sectorului 5 al Municipiului București, cu modificările și completările ulterioare",
+"short": "HCLS5 nr. 194/2025",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://sector5.ro/hotararea-nr-194-23-12-2025-pentru-modificarea-anexei-3-a-hotararii-consiliului-local-sector-5-nr-41-31-03-2025-privind-aprobarea-caietului-de-sarcini-a-regulamentului-de-organizare-si-functionare/",
+"council": "bucuresti/sector-5",
+"council_name": "Consiliul Local al Sectorului 5 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

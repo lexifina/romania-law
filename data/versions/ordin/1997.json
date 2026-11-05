@@ -1,0 +1,2001 @@
+{
+ "country": "RO",
+ "shard": "ordin/1997",
+ "acts": [
+  {
+   "slug": "ordin-bnr-232-1997",
+   "path": "ordin/bnr/1997/232",
+   "short": "Ordin bnr nr. 232/1997",
+   "title": "Ordinul nr. 232/1997 pentru aplicarea Regulamentului Băncii Naționale a României nr. 3/1996 privind organizarea și funcționarea la Banca Naționala a României a Centralei Incidentelor de Plati",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12165",
+   "versions": [
+    {
+     "from": "1997-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12165",
+     "sha256": "bb975bb4bfe5e88c6eb96c5bdcbcadaccbc98706236158333d279aafff00daa5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-37-1997",
+   "path": "ordin/bnr/1997/37",
+   "short": "Ordin bnr nr. 37/1997",
+   "title": "Ordinul nr. 37/1997 pentru aplicarea Regulamentului Băncii Naționale a României nr. 3/1996 privind organizarea și funcționarea la Banca Naționala a României a Centralei Incidentelor de Plati",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11222",
+   "versions": [
+    {
+     "from": "1997-01-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11222",
+     "sha256": "76363d3fcf639db34d56329b7b2651119ee02d7e807242f94619f646a07de571"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-1-1997",
+   "path": "ordin/cnvm/1997/1",
+   "short": "Ordin cnvm nr. 1/1997",
+   "title": "Ordinul nr. 1/1997 pentru aprobarea Regulamentului nr. 1/1997 de modificare și completare a Regulamentului nr. 8/1996 privind autorizarea Societății Naționale de Compensare, Decontare și Depozitare pentru Valori Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10749",
+   "versions": [
+    {
+     "from": "1997-02-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10749",
+     "sha256": "b7c28e27e21a73c774fb42d58d0b7b4c4d72685b34b3588ae8079cb79143f1a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-10-1997",
+   "path": "ordin/cnvm/1997/10",
+   "short": "Ordin cnvm nr. 10/1997",
+   "title": "Ordinul nr. 10/1997 pentru aprobarea Instrucțiunilor nr. 6/1997 cu privire la modificarea Instrucțiunilor nr. 13/1996 privind evidenta valorilor mobiliare, a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10922",
+   "versions": [
+    {
+     "from": "1997-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10922",
+     "sha256": "02353bf53dfc11f4c89a633fa771443107048b94abd7406420972fef42e56b19"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-11-1997",
+   "path": "ordin/cnvm/1997/11",
+   "short": "Ordin cnvm nr. 11/1997",
+   "title": "Ordinul nr. 11/1997 privind aprobarea Regulamentului nr. 5/1997 pentru modificarea și completarea Regulamentului nr. 3/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10939",
+   "versions": [
+    {
+     "from": "1997-06-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10939",
+     "sha256": "5f074a96b71e6b2ed3310303f430211d2f40031bbea4fb43ad8125909fac5437"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-12-1997",
+   "path": "ordin/cnvm/1997/12",
+   "short": "Ordin cnvm nr. 12/1997",
+   "title": "Ordinul nr. 12/1997 privind aprobarea Regulamentului nr. 6/1997 pentru modificarea Regulamentului nr. 8/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10954",
+   "versions": [
+    {
+     "from": "1997-06-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10954",
+     "sha256": "5f41afe57244f4b38d825ce971b35621b562c6957b5983c7701f7de6716ef454"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-13-1997",
+   "path": "ordin/cnvm/1997/13",
+   "short": "Ordin cnvm nr. 13/1997",
+   "title": "Ordinul nr. 13/1997 pentru punerea în aplicare a Regulamentului nr. 7/1997 privind organizarea Comisiei Naționale a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10969",
+   "versions": [
+    {
+     "from": "1997-07-07",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10969",
+     "sha256": "bd150b6f3dab1afc832d2ec3f18d59770c00448ac00ace23381785d3292c576e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-15-1997",
+   "path": "ordin/cnvm/1997/15",
+   "short": "Ordin cnvm nr. 15/1997",
+   "title": "Ordinul nr. 15/1997 pentru aprobarea Instrucțiunilor nr.7/1997 cu privire la modificarea Instrucțiunilor nr. 13/1996 privind evidenta valorilor mobiliare, a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10994",
+   "versions": [
+    {
+     "from": "1997-07-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10994",
+     "sha256": "0dbcfc6c7f8365fbf36d402a948a3575a70b2313bdc067eaa3d3e1cf11f6b43b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-19-1997",
+   "path": "ordin/cnvm/1997/19",
+   "short": "Ordin cnvm nr. 19/1997",
+   "title": "Ordinul nr. 19/1997 pentru aprobarea Instrucțiunilor nr. 9/1997 cu privire la modificarea Instrucțiunilor nr. 13/1996 privind evidenta valorilor mobiliare, a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11047",
+   "versions": [
+    {
+     "from": "1997-11-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11047",
+     "sha256": "bc10abf229d537d8116fef61c3fe8e9ed2b7cdc7d7531703ae17201193d22a25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-20-1997",
+   "path": "ordin/cnvm/1997/20",
+   "short": "Ordin cnvm nr. 20/1997",
+   "title": "Ordinul nr. 20/1997 pentru aprobarea Regulamentului nr. 10/1997 privind transformarea fondurilor deschise de investiții în societăți de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11059",
+   "versions": [
+    {
+     "from": "1997-11-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11059",
+     "sha256": "1edb03bdbe3fe039e4de6c0437d70c99bf869a26bf3857a1979edfc2d467ecb0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-22-1997",
+   "path": "ordin/cnvm/1997/22",
+   "short": "Ordin cnvm nr. 22/1997",
+   "title": "Ordinul nr. 22/1997 pentru punerea în aplicare a Instrucțiunilor nr. 10/1997 privind eliberarea de duplicate ale autorizațiilor distruse, pierdute sau furate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11083",
+   "versions": [
+    {
+     "from": "1998-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11083",
+     "sha256": "1709a13d093bd17e3a3c433f20781f3a3039817598bfc18ab5a005beb4db84c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-23-1997",
+   "path": "ordin/cnvm/1997/23",
+   "short": "Ordin cnvm nr. 23/1997",
+   "title": "Ordinul nr. 23/1997 pentru aprobarea Instrucțiunilor nr. 11/1997 privind obligația raportării la societățile de registru independent privat a listei clienților ale căror valori mobiliare sunt deținute în cont la depozitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11095",
+   "versions": [
+    {
+     "from": "1998-01-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11095",
+     "sha256": "444c4b4d1d15f5b1c806f1b73f58be0deabd28803c599798006d7b3d0e8dae5e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-24-1997",
+   "path": "ordin/cnvm/1997/24",
+   "short": "Ordin cnvm nr. 24/1997",
+   "title": "Ordinul nr. 24/1997 pentru aprobarea instrucțiunilor nr. 12/1997 cu privire la modificarea și completarea Instrucțiunilor nr. 13/1996 privind evidenta valorilor mobiliare, a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11108",
+   "versions": [
+    {
+     "from": "1998-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11108",
+     "sha256": "dd47b91b0f8dfd2eb03aa3fcdbf555367807ffcf94a88170540433d325090f6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-25-1997",
+   "path": "ordin/cnvm/1997/25",
+   "short": "Ordin cnvm nr. 25/1997",
+   "title": "Ordinul nr. 25/1997 pentru aprobarea Regulamentului nr. 12/1997 privind modificarea și completarea Regulamentului nr. 9/1997 privind cerințele, criteriile de înregistrare și procedurile de autorizare a societăților de registru independent privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11118",
+   "versions": [
+    {
+     "from": "1998-01-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11118",
+     "sha256": "f6bf3c6ac07c929cbf80e41a1158b2bd9881b9935d6c096853baaa15d2d4de6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-3-1997",
+   "path": "ordin/cnvm/1997/3",
+   "short": "Ordin cnvm nr. 3/1997",
+   "title": "Ordinul nr. 3/1997 pentru aprobarea Instrucțiunilor nr. 1/1997 cu privire la modificarea Instrucțiunilor nr. 13/1996 privind evidenta valorilor mobiliare, a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10797",
+   "versions": [
+    {
+     "from": "1997-02-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10797",
+     "sha256": "4226986c61838193cb1f680dc20eb23af3a96969f32930cc6fc5d6adc5403bb0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-5-1997",
+   "path": "ordin/cnvm/1997/5",
+   "short": "Ordin cnvm nr. 5/1997",
+   "title": "Ordinul nr. 5/1997 pentru aprobarea Instrucțiunilor nr. 3/1997 cu privire la modificarea Instrucțiunilor nr. 13/1996 privind evidenta valorilor mobiliare, a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10835",
+   "versions": [
+    {
+     "from": "1997-03-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10835",
+     "sha256": "eb1bb0e7e8073659ad378a6c197224c7d59136f705c443d65e1a7863b66d41ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-7-1997",
+   "path": "ordin/cnvm/1997/7",
+   "short": "Ordin cnvm nr. 7/1997",
+   "title": "Ordinul nr. 7/1997 pentru aprobarea Instrucțiunilor nr. 4/1997 privind condițiile pe care trebuie să le îndeplinească o persoană pentru a fi aleasă administrator al unei societăți de investiții financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10872",
+   "versions": [
+    {
+     "from": "1997-03-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10872",
+     "sha256": "d15b3cebc41f5d8a1750a08f7679feed2567a1cc5747189ba1b4dcc7bf4d1cf3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-8-1997",
+   "path": "ordin/cnvm/1997/8",
+   "short": "Ordin cnvm nr. 8/1997",
+   "title": "Ordinul nr. 8/1997 pentru aprobarea Instrucțiunilor nr. 5/1997 de încadrare a societăților de investiții financiare în dispozițiile Ordonanței Guvernului nr. 24/1993, aprobată prin Legea nr. 83/1994",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10888",
+   "versions": [
+    {
+     "from": "1997-04-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10888",
+     "sha256": "9d4f5843bb24b89a889763e8865e8e6e5427c874a959ddc373999db663402578"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-9-1997",
+   "path": "ordin/cnvm/1997/9",
+   "short": "Ordin cnvm nr. 9/1997",
+   "title": "Ordinul nr. 9/1997 pentru aprobarea Regulamentului nr. 4/1997 de modificare a Regulamentului nr. 4/1996 privind autorizarea temporară a agenților de valori mobiliare în vederea vânzării acțiunilor dobândite în urma Programului de privatizare în masa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10904",
+   "versions": [
+    {
+     "from": "1997-05-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10904",
+     "sha256": "335f9dab65a01a800bba6d05f7c54aa0229a5a2c8b61dafc4781a35e28c3990d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-concurenta-34-1997",
+   "path": "ordin/concurenta/1997/34",
+   "short": "Ordin concurenta nr. 34/1997",
+   "title": "Ordinul nr. 34/1997 pentru punerea în aplicare a unor regulamente și instrucțiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11196",
+   "versions": [
+    {
+     "from": "1997-03-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11196",
+     "sha256": "d7eeb979a4f21d3f68a342ea612f0b08c2fa2162542bdfe2950df8e4f4f59afb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-concurenta-37-1997",
+   "path": "ordin/concurenta/1997/37",
+   "short": "Ordin concurenta nr. 37/1997",
+   "title": "Ordinul nr. 37/1997 privind stabilirea plafonului prevăzut la art. 8 alin. (1) din Legea concurentei nr. 21/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11223",
+   "versions": [
+    {
+     "from": "1997-03-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11223",
+     "sha256": "26f21487f18eb98cce77042ec313487bc6dcfa540335ad6d5c2410a8cd029be5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-90-n-1997",
+   "path": "ordin/dezvoltare/1997/90-n",
+   "short": "Ordin dezvoltare nr. 90/N/1997",
+   "title": "Ordinul nr. 90/N/1997 pentru aprobarea Metodologiei privind executarea lucrărilor de introducere a cadastrului imobiliar în localități",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11560",
+   "versions": [
+    {
+     "from": "1997-06-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11560",
+     "sha256": "f732066bebfee4e1fbbd2a3cd103d418f32a36fd04fe4eaa22fe518f5ed089f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-91-n-1997",
+   "path": "ordin/dezvoltare/1997/91-n",
+   "short": "Ordin dezvoltare nr. 91/N/1997",
+   "title": "Ordinul nr. 91/N/1997 pentru aprobarea Metodologiei privind executarea lucrărilor de introducere a cadastrului rețelelor edilitare în localități",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11567",
+   "versions": [
+    {
+     "from": "1997-06-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11567",
+     "sha256": "6e67e461c1a003ad71cd715bb4c24964cefc859f7f620e8c4a0e10b4c45b1054"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1026-1997",
+   "path": "ordin/finante/1997/1026",
+   "short": "Ordin finante nr. 1026/1997",
+   "title": "Ordinul nr. 1.026/1997 privind lansarea unor emisiuni de titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13789",
+   "versions": [
+    {
+     "from": "1997-05-29",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13789",
+     "sha256": "a2f572654ab8bf7672cad4bfa165026e8ff0ed9b5c751432a0a336638b8ac1c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1100-1997",
+   "path": "ordin/finante/1997/1100",
+   "short": "Ordin finante nr. 1100/1997",
+   "title": "Ordinul nr. 1.100/1997 cu privire la intrat în vigoare a Convenției dintre Guvernul României și Guvernul Republicii Libaneze",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13795",
+   "versions": [
+    {
+     "from": "1997-06-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13795",
+     "sha256": "91199d55e5a873c10ccdd16aabc63063dc3a0762a2c366f0e5576557e25268bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1101-1997",
+   "path": "ordin/finante/1997/1101",
+   "short": "Ordin finante nr. 1101/1997",
+   "title": "Ordinul nr. 1.101/1997 pentru aprobarea listei produselor provenite din import, scutite de taxa pe valoarea adăugată, și a celor supuse cotei de 9% taxa pe valoarea adăugată, pe poziții tarifare corespunzătoare Tarifului vamal de import al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13796",
+   "versions": [
+    {
+     "from": "1997-06-06",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13796",
+     "sha256": "195c19df0e1c2cdf53bcb8c0e664809dd294315ed4547962eb017859dfbc9be5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1144-1997",
+   "path": "ordin/finante/1997/1144",
+   "short": "Ordin finante nr. 1144/1997",
+   "title": "Ordinul nr. 1.144/1997 privind aprobarea termenelor de plată a obligațiilor bugetare prevăzute la pct. 2 și 8 din Ordonanța de urgență a Guvernului nr. 15/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13797",
+   "versions": [
+    {
+     "from": "1997-07-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13797",
+     "sha256": "eb324f2609441066134c9174861351e3638bb425cd656cd353cb341a14680d14"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1151-1997",
+   "path": "ordin/finante/1997/1151",
+   "short": "Ordin finante nr. 1151/1997",
+   "title": "Ordinul nr. 1.151/1997 privind încadrarea pe clase de calitate a unor sortimente de țigarete",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13798",
+   "versions": [
+    {
+     "from": "1997-06-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13798",
+     "sha256": "610070e030bd0dd5454c2080a326fac87de902726344f890f843c0cb3b66c92e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1169-1997",
+   "path": "ordin/finante/1997/1169",
+   "short": "Ordin finante nr. 1169/1997",
+   "title": "Ordinul nr. 1.169/1997 ORDIN nr. 1.169 din 1997 pentru modificarea și completarea normelor metodologice aprobate prin Ordinul ministrului de stat, ministrul finanțelor, nr. 2.487/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13799",
+   "versions": [
+    {
+     "from": "1997-06-30",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13799",
+     "sha256": "cb2710ab431234c71889dba4c2f0c522bf3b793204ddf764a2f9210f430f98ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1170-1997",
+   "path": "ordin/finante/1997/1170",
+   "short": "Ordin finante nr. 1170/1997",
+   "title": "Ordinul nr. 1.170/1997 privind restituirea taxei pe valoarea adăugată, aferentă bunurilor și serviciilor destinate misiunilor diplomatice, investitorilor străini în domeniul explorării și exploatării zăcămintelor de petrol și gaze, precum și realizării unor obiective finanțate din ajutoare și împrumuturi nerambursabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13802",
+   "versions": [
+    {
+     "from": "1997-06-18",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13802",
+     "sha256": "6657a40edf68037838f8f3cfb47fcb55b5ee24951e35a579a796e82bee43a4a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1188-1997",
+   "path": "ordin/finante/1997/1188",
+   "short": "Ordin finante nr. 1188/1997",
+   "title": "Ordinul nr. 1.188/1997 privind lansarea unor emisiuni de titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13804",
+   "versions": [
+    {
+     "from": "1997-06-25",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13804",
+     "sha256": "4a88b77a0fd2de3f8857ccdb026bc276daab8ce354cb8bec6ffae972eac65d54"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1329-1997",
+   "path": "ordin/finante/1997/1329",
+   "short": "Ordin finante nr. 1329/1997",
+   "title": "Ordinul nr. 1.329/1997 privind aprobarea modelelor formularelor tipizate specifice, utilizate în activitatea de stabilire, evidență, urmărire, încasare și raportare a impozitelor și taxelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13807",
+   "versions": [
+    {
+     "from": "1997-07-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13807",
+     "sha256": "5d406bc970c8b01a0a93dc49c60c4daabcfa198efb63f6b72aa00d9153304654"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1378-1997",
+   "path": "ordin/finante/1997/1378",
+   "short": "Ordin finante nr. 1378/1997",
+   "title": "Ordinul nr. 1.378/1997 privind lansarea unor emisiuni de titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13808",
+   "versions": [
+    {
+     "from": "1997-07-25",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13808",
+     "sha256": "90121b141eecbc4e24a3f3154001be30ae3ecf638fb8a449c34a7f39b8c26928"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1389-1997",
+   "path": "ordin/finante/1997/1389",
+   "short": "Ordin finante nr. 1389/1997",
+   "title": "Ordinul nr. 1.389/1997 privind lansarea unei emisiuni de titluri de stat seria D 98.02.12",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13809",
+   "versions": [
+    {
+     "from": "1997-08-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13809",
+     "sha256": "61c681507563bb410d19d5984b7f78a0a621343b7ad735026df96b0641d74ff6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1418-1997",
+   "path": "ordin/finante/1997/1418",
+   "short": "Ordin finante nr. 1418/1997",
+   "title": "Ordinul nr. 1.418/1997 privind aprobarea Planului de conturi pentru societățile bancare și a normelor metodologice de utilizare a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13810",
+   "versions": [
+    {
+     "from": "1997-08-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13810",
+     "sha256": "01fce44be6bd98dc6c147ae3c92a6187448f4209b4a2b6d068a42f2659d0a9a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1419-1997",
+   "path": "ordin/finante/1997/1419",
+   "short": "Ordin finante nr. 1419/1997",
+   "title": "Ordinul nr. 1.419/1997 pentru aprobarea Normelor de modificare și de completare a Normelor metodologice de aplicare a Ordonanței Guvernului nr. 23/1995 privind instituirea sistemului de marcare pentru țigarete, produse din tutun și băuturi alcoolice, aprobate prin Ordinul ministrului de stat, ministrul finanțelor, nr. 213 din 5 februarie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13811",
+   "versions": [
+    {
+     "from": "1997-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13811",
+     "sha256": "f11225e812679e9d251d50bb624c37cc017d7b1a724fa164a3c86e3b4c3ccb19"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1420-1997",
+   "path": "ordin/finante/1997/1420",
+   "short": "Ordin finante nr. 1420/1997",
+   "title": "Ordinul nr. 1.420/1997 cu privire la unitatea autorizată cu tipărirea și aplicarea marcajelor pentru țigarete, produse din tutun și băuturi alcoolice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13812",
+   "versions": [
+    {
+     "from": "1997-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13812",
+     "sha256": "9abd8b70ef5183429a056eec6e0b42d438eee8b2a0eafd15ccb558d474e4e298"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1446-1997",
+   "path": "ordin/finante/1997/1446",
+   "short": "Ordin finante nr. 1446/1997",
+   "title": "Ordinul nr. 1.446/1997 privind lansarea unei emisiuni de titluri de stat seria 1998/A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13813",
+   "versions": [
+    {
+     "from": "1997-08-12",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13813",
+     "sha256": "14aafa4b69952b32f0c93c8cdb12b7f53cf14f68a4918fe576c88c790025b60b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1455-1997",
+   "path": "ordin/finante/1997/1455",
+   "short": "Ordin finante nr. 1455/1997",
+   "title": "Ordinul nr. 1.455/1997 privind lansarea unei emisiuni de titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13814",
+   "versions": [
+    {
+     "from": "1997-08-15",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13814",
+     "sha256": "16abd79c9129ca7a9afc3de95a64e363ec2f506eb98761a0c5a8fa2743392f5c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1456-1997",
+   "path": "ordin/finante/1997/1456",
+   "short": "Ordin finante nr. 1456/1997",
+   "title": "Ordinul nr. 1.456/1997 referitor la intrarea în vigoare a Convenției dintre Guvernul României și Guvernul Federal al Republicii Federale Iugoslavia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13815",
+   "versions": [
+    {
+     "from": "1997-08-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13815",
+     "sha256": "ed3c0dd2ec5cde8e1dc2c9b04700782147aedadb522afcbd3af2e6af3d311a47"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1499-1997",
+   "path": "ordin/finante/1997/1499",
+   "short": "Ordin finante nr. 1499/1997",
+   "title": "Ordinul nr. 1.499/1997 pentru aprobarea listei produselor provenite din import, scutite de taxa pe valoarea adăugată, și a listei produselor provenite din import, supuse cotei de 9% T.V.A., pe poziții tarifare corespunzătoare Tarifului vamal de import al României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13817",
+   "versions": [
+    {
+     "from": "1997-09-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13817",
+     "sha256": "f848bcff0641dd81f8b2bbe1ede1a790a593c81cb15e4eeeff5d2782aff44b04"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1538-1997",
+   "path": "ordin/finante/1997/1538",
+   "short": "Ordin finante nr. 1538/1997",
+   "title": "Ordinul nr. 1.538/1997 pentru aprobarea Normelor metodologice cu privire la modul de aplicare a suspendării plății taxei pe valoarea adăugată la organele vamale pentru utilajele, instalațiile, echipamentele, mașinile industriale și mașinile agricole care se importa în vederea efectuării și derulării investițiilor prin care se realizează o unitate productiva noua, se dezvolta capacitățile existente sau se retehnologizează fabrici, secții, ateliere, precum și pentru materiile prime prevăzute în lista-anexa la Ordonanța Guvernului nr. 34/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13820",
+   "versions": [
+    {
+     "from": "1997-09-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13820",
+     "sha256": "957cc4034d7554d72105770f9ff5e5d2c24418b9574098082c5494db6127ade5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1549-1997",
+   "path": "ordin/finante/1997/1549",
+   "short": "Ordin finante nr. 1549/1997",
+   "title": "Ordinul nr. 1.549/1997 privind intrarea în vigoare a Convenției dintre Guvernul României și Guvernul Republicii Armenia pentru evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit și pe capital și a Protocolului-anexa, semnate la Erevan la 25 martie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13821",
+   "versions": [
+    {
+     "from": "1997-09-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13821",
+     "sha256": "957dfe180c64430a29fec02f4383b035cafef38e57eedb3f31ac2d043481a967"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1572-1997",
+   "path": "ordin/finante/1997/1572",
+   "short": "Ordin finante nr. 1572/1997",
+   "title": "Ordinul nr. 1.572/1997 privind completarea Normelor metodologice nr. 8.904/1994 de aplicare a Legii nr. 91/1993 privind datoria publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13824",
+   "versions": [
+    {
+     "from": "1997-09-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13824",
+     "sha256": "4ff2699ae84d1140e26dc6b5c794c813b3d6d7b8400ac3585f5b814042abc824"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1585-1997",
+   "path": "ordin/finante/1997/1585",
+   "short": "Ordin finante nr. 1585/1997",
+   "title": "Ordinul nr. 1.585/1997 privind lansarea unor emisiuni de titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13826",
+   "versions": [
+    {
+     "from": "1997-09-24",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13826",
+     "sha256": "3a12999806ee81a0027cad25f9a2c22b5a833e01210e6db2f59dff4ae37cf4ef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1623-1997",
+   "path": "ordin/finante/1997/1623",
+   "short": "Ordin finante nr. 1623/1997",
+   "title": "Ordinul nr. 1.623/1997 referitor la atribuțiile ce revin Ministerului Finanțelor în ceea ce privește achizițiile de investiții, de bunuri și de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13830",
+   "versions": [
+    {
+     "from": "1997-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13830",
+     "sha256": "4241f73e66bdded8208cb38e759ba496ec2f7ed9813891e3851d9f7733917b26"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1670-1997",
+   "path": "ordin/finante/1997/1670",
+   "short": "Ordin finante nr. 1670/1997",
+   "title": "Ordinul nr. 1.670/1997 pentru aprobarea Precizărilor privind reflectarea în contabilitate a unor operațiuni în valută, a diferențelor de curs valutar și a altor operațiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13839",
+   "versions": [
+    {
+     "from": "1997-11-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13839",
+     "sha256": "e1186b9cf002242fcbe3245396c0eabed1ad10d235f177702769db16e42bade4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1853-1997",
+   "path": "ordin/finante/1997/1853",
+   "short": "Ordin finante nr. 1853/1997",
+   "title": "Ordinul nr. 1.853/1997 privind lansarea unor emisiuni de titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13842",
+   "versions": [
+    {
+     "from": "1997-10-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13842",
+     "sha256": "d1c5af0a9c545490d7f02fcea863f03cd6b868b2225cda52afa0a4bbacd0458b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1892-1997",
+   "path": "ordin/finante/1997/1892",
+   "short": "Ordin finante nr. 1892/1997",
+   "title": "Ordinul nr. 1.892/1997 privind actualizarea limitelor maxime de cheltuieli pentru acțiunile de protocol, potrivit prevederilor Ordonanței Guvernului nr. 63/1994 privind actualizarea unor normative de cheltuieli pentru autoritățile și instituțiile publice, aprobată și modificată prin Legea nr. 13/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13843",
+   "versions": [
+    {
+     "from": "1997-11-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13843",
+     "sha256": "29c68960e07bd0aa4202507943fa418c207fe56548e90fab55e3790c3da75643"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1894-1997",
+   "path": "ordin/finante/1997/1894",
+   "short": "Ordin finante nr. 1894/1997",
+   "title": "Ordinul nr. 1.894/1997 privind aprobarea Instrucțiunilor nr. 38.470/1997 pentru actualizarea cuantumurilor indemnizațiilor de delegare și de detașare, potrivit prevederilor art. 3 din Hotărârea Guvernului nr. 543/1995 privind drepturile bănești ale salariaților instituțiilor publice și regiilor autonome cu specific deosebit pe perioada delegării și detașării în alta localitate, precum și în cazul deplasării, în cadrul localității, în interesul serviciului, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13844",
+   "versions": [
+    {
+     "from": "1997-11-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13844",
+     "sha256": "b15609346570de9614ade05cd71eacdd93c42691888dcccb7ba8cbef1d1cf238"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1941-1997",
+   "path": "ordin/finante/1997/1941",
+   "short": "Ordin finante nr. 1941/1997",
+   "title": "Ordinul nr. 1.941/1997 privind stabilirea termenelor de plată a obligațiilor bugetare prevăzute la art. 1 alin. (2) și la art. 2 alin. (1), (3) și (4) din Ordonanța de urgență a Guvernului nr. 59/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13845",
+   "versions": [
+    {
+     "from": "1997-12-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13845",
+     "sha256": "10aeb0ea95cf2ac1db1451fcf443d091a54ba85f44d458860cbba7691d654be6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1949-1997",
+   "path": "ordin/finante/1997/1949",
+   "short": "Ordin finante nr. 1949/1997",
+   "title": "Ordinul nr. 1.949/1997 privind lansarea unor emisiuni de titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13846",
+   "versions": [
+    {
+     "from": "1997-11-24",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13846",
+     "sha256": "ffb9bcd4a9a1c8053b7a181d2f558a8c378dec313e45579c4c2f3ee141c4a20f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1951-1997",
+   "path": "ordin/finante/1997/1951",
+   "short": "Ordin finante nr. 1951/1997",
+   "title": "Ordinul nr. 1.951/1997 privind intrarea în vigoare a Convenției dintre România și Republica Uzbekistan pentru evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit și pe capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13847",
+   "versions": [
+    {
+     "from": "1997-12-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13847",
+     "sha256": "7f0184668bc24907304cfa488d9307f6cbf89fa978fc5a4e28c17a9be28ca4a9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2051-1997",
+   "path": "ordin/finante/1997/2051",
+   "short": "Ordin finante nr. 2051/1997",
+   "title": "Ordinul nr. 2.051/1997 privind aprobarea Normelor metodologice pentru aplicarea prevederilor din Ordonanța Guvernului nr. 11/1996 privind executarea creanțelor bugetare, aprobată și modificată prin Legea nr. 108/1996, modificată și completată prin Ordonanța Guvernului nr. 53/1997, referitoare la compensarea, restituirea și scăderea pentru cauze de insolvabilitate a obligațiilor bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13851",
+   "versions": [
+    {
+     "from": "1998-02-09",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13851",
+     "sha256": "ada4cb62bd4807be0deb49f49294117e79bb678888a24695037befd5aad3b808"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2052-1997",
+   "path": "ordin/finante/1997/2052",
+   "short": "Ordin finante nr. 2052/1997",
+   "title": "Ordinul nr. 2.052/1997 pentru modificarea și completarea ordinelor ministrului de stat, ministrul finanțelor, nr. 620/1997, nr. 972/1996, nr. 1.461/1996, și nr. 1.741/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13852",
+   "versions": [
+    {
+     "from": "1998-02-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13852",
+     "sha256": "23d4ee945e958b6bbfeaf3cb8c97b6b3183a3a52074a8dd21b1bd299be52045f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2101-1997",
+   "path": "ordin/finante/1997/2101",
+   "short": "Ordin finante nr. 2101/1997",
+   "title": "Ordinul nr. 2.101/1997 pentru aprobarea Normelor metodologice privind încheierea exercițiului bugetar la anul 1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13856",
+   "versions": [
+    {
+     "from": "1997-12-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13856",
+     "sha256": "1afc2922c826f3f90643bbe9cdb393adc375778e5386363ada2822be526cbd5a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2143-1997",
+   "path": "ordin/finante/1997/2143",
+   "short": "Ordin finante nr. 2143/1997",
+   "title": "Ordinul nr. 2.143/1997 pentru aprobarea Normelor de completare a Normelor metodologice de aplicare a Ordonanței Guvernului nr. 23/1995 privind instituirea sistemului de marcare pentru țigarete, produse din tutun și băuturi alcoolice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13858",
+   "versions": [
+    {
+     "from": "1997-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13858",
+     "sha256": "e41af62fc9c32b64103ad5d5e90f2092917e1c1bf6305aec3c52f971456e873c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2151-1997",
+   "path": "ordin/finante/1997/2151",
+   "short": "Ordin finante nr. 2151/1997",
+   "title": "Ordinul nr. 2.151/1997 privind lansarea unor emisiuni de titluri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13859",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13859",
+     "sha256": "320bcad75896e23c62db18cc7f6fca5c6ba3fca23294d479358eed6f67d9c66f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2178-1997",
+   "path": "ordin/finante/1997/2178",
+   "short": "Ordin finante nr. 2178/1997",
+   "title": "Ordinul nr. 2.178/1997 în legătură cu intrarea în vigoare a Convenției dintre Guvernul României și Guvernul Ucrainei pentru evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit și pe capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13860",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13860",
+     "sha256": "a3a14970c200c9600a1327523f71e17677eef01392d26319a260a2faa0f9b212"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2234-1997",
+   "path": "ordin/finante/1997/2234",
+   "short": "Ordin finante nr. 2234/1997",
+   "title": "Ordinul nr. 2.234/1997 privind lansarea unei emisiuni de titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13862",
+   "versions": [
+    {
+     "from": "1997-12-19",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13862",
+     "sha256": "a341c503e0fdca47b8f4bc23cb149330f991a03733096731ee01a31470ce7662"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2242-1997",
+   "path": "ordin/finante/1997/2242",
+   "short": "Ordin finante nr. 2242/1997",
+   "title": "Ordinul nr. 2.242/1997 pentru aprobarea Precizărilor privind unele măsuri referitoare la încheierea exercițiului financiar-contabil pe anul 1997 la agenții economici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13863",
+   "versions": [
+    {
+     "from": "1997-12-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13863",
+     "sha256": "b353b1cc7a2f0faffaffab0fa99370bad9777e1d657757d108a925d994f26400"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2288-1997",
+   "path": "ordin/finante/1997/2288",
+   "short": "Ordin finante nr. 2288/1997",
+   "title": "Ordinul nr. 2.288/1997 pentru aprobarea Normelor metodologice privind constituirea Fondului inițial de asigurări sociale de sănătate în anul 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13865",
+   "versions": [
+    {
+     "from": "1997-12-31",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13865",
+     "sha256": "f6340043642a285c2052512233419e2226521ccf02c4fcbb8b24ba34bc473fe6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-284-1997",
+   "path": "ordin/finante/1997/284",
+   "short": "Ordin finante nr. 284/1997",
+   "title": "Ordinul nr. 284/1997 privind modificarea modului de calcul al ratei medii a dobânzii la creditele de licitație, comunicată de Banca Naționala a României, aferentă certificatelor de trezorerie lansate în baza unor ordine ale ministrului de stat, ministrul finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12326",
+   "versions": [
+    {
+     "from": "1997-02-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12326",
+     "sha256": "1d442c8cb13bf87261d5427f8e77a392d45268ec933bdcc1307c4c715e40eaa7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-307-1997",
+   "path": "ordin/finante/1997/307",
+   "short": "Ordin finante nr. 307/1997",
+   "title": "Ordinul nr. 307/1997 privind lansarea unei emisiuni de titluri de stat seria 1997 F6",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12398",
+   "versions": [
+    {
+     "from": "1997-03-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12398",
+     "sha256": "530246a3ec5900ebf3af24aef878d7aa5ff28fa3c316b169f94b42445e925028"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-308-1997",
+   "path": "ordin/finante/1997/308",
+   "short": "Ordin finante nr. 308/1997",
+   "title": "Ordinul nr. 308/1997 privind lansarea unei emisiuni de titluri de stat seria 1997 L1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12402",
+   "versions": [
+    {
+     "from": "1997-03-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12402",
+     "sha256": "4e9967bfa2de7ce55ecc490c5cd3139cfaee6ef82e746e11bee9da97c73897ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-309-1997",
+   "path": "ordin/finante/1997/309",
+   "short": "Ordin finante nr. 309/1997",
+   "title": "Ordinul nr. 309/1997 privind lansarea unei emisiuni de titluri de stat seria 1997 M1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12406",
+   "versions": [
+    {
+     "from": "1997-03-12",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12406",
+     "sha256": "21b3bb04fe823c1d96f4a314bcf60fb22ac0d8a5da6f7f2439e65192fabde20e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-382-1997",
+   "path": "ordin/finante/1997/382",
+   "short": "Ordin finante nr. 382/1997",
+   "title": "Ordinul nr. 382/1997 pentru modificarea și completarea Normelor metodologice nr. 15.901/1996 de aplicare a prevederilor Ordonanței Guvernului nr. 13/1996 privind acordarea unor înlesniri referitoare la majorările de întârziere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12589",
+   "versions": [
+    {
+     "from": "1997-03-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12589",
+     "sha256": "0faa436be920c7d931966662030461c8b2efec0f6c5a7cb72976246688db8709"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-386-1997",
+   "path": "ordin/finante/1997/386",
+   "short": "Ordin finante nr. 386/1997",
+   "title": "Ordinul nr. 386/1997 privind actualizarea limitelor maxime de cheltuieli pentru acțiunile de protocol, potrivit prevederilor Ordonanței Guvernului nr. 63/1994 privind actualizarea unor normative de cheltuieli pentru autoritățile și instituțiile publice, aprobată și modificată prin Legea nr. 13/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12598",
+   "versions": [
+    {
+     "from": "1997-03-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12598",
+     "sha256": "91f6f0421fd9bec3ec09220463de3b3e1627c117d6502a1cec9bfd06f236ba18"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-40-1997",
+   "path": "ordin/finante/1997/40",
+   "short": "Ordin finante nr. 40/1997",
+   "title": "Ordinul nr. 40/1997 pentru aprobarea Precizărilor privind măsurile referitoare în încheierea exercițiului financiar-contabil pe anul 1996 la agenții economici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11247",
+   "versions": [
+    {
+     "from": "1997-01-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11247",
+     "sha256": "3578153e2197054f551604b94464b9ba39545097a91757b3bd0b104135fa4170"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-530-1997",
+   "path": "ordin/finante/1997/530",
+   "short": "Ordin finante nr. 530/1997",
+   "title": "Ordinul nr. 530/1997 privind lansarea unei emisiuni de titluri de stat seria 1997 P1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12984",
+   "versions": [
+    {
+     "from": "1997-03-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12984",
+     "sha256": "3c5da6bedf9b1ad7d15a6ebba9e9f9b6d7d6c573acad9509c571f25cd8fb948a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-6-1997",
+   "path": "ordin/finante/1997/6",
+   "short": "Ordin finante nr. 6/1997",
+   "title": "Ordinul nr. 6/1997 privind lansarea unei emisiuni de titluri de stat seria 1997 N1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10853",
+   "versions": [
+    {
+     "from": "1997-01-07",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10853",
+     "sha256": "b6ebdb53186eccf942165b7ca662b22eff2bc94b50d4d74d45b96523422516c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-603-1997",
+   "path": "ordin/finante/1997/603",
+   "short": "Ordin finante nr. 603/1997",
+   "title": "Ordinul nr. 603/1997 privind lansarea unei emisiuni de titluri de stat seria 1997 C2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13216",
+   "versions": [
+    {
+     "from": "1997-04-08",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13216",
+     "sha256": "172adcbe3a1e8583f01c765b49d82002be7ad0b2fcc3df89eff91bb5fc5f7837"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-604-1997",
+   "path": "ordin/finante/1997/604",
+   "short": "Ordin finante nr. 604/1997",
+   "title": "Ordinul nr. 604/1997 privind lansarea unei emisiuni de titluri de stat seria 1997 N2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13220",
+   "versions": [
+    {
+     "from": "1997-04-08",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13220",
+     "sha256": "21eec11a68d6663ece266db5a2f29e0a2ce6c39495ab0a83900607a0adf1aadb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-615-1997",
+   "path": "ordin/finante/1997/615",
+   "short": "Ordin finante nr. 615/1997",
+   "title": "Ordinul nr. 615/1997 privind modificarea Ordinului ministrului de stat, ministrul finanțelor, nr. 2.361/1996 pentru aprobarea Instrucțiunilor privind administrarea și utilizarea fondului de risc pentru creditele externe contractate în condițiile legii cu garanția statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13254",
+   "versions": [
+    {
+     "from": "1997-04-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13254",
+     "sha256": "588544b0afeaca4f33241d82ef833405037bdf52b465892f25023567e2eb7db5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-620-1997",
+   "path": "ordin/finante/1997/620",
+   "short": "Ordin finante nr. 620/1997",
+   "title": "Ordinul nr. 620/1997 privind aprobarea Normelor metodologice pentru aplicarea prevederilor Ordonanței Guvernului nr. 11/1996 privind executarea creanțelor bugetare, aprobată și modificată prin Legea nr. 108/1996, referitoare la plata obligațiilor bugetare și majorările de întârziere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13271",
+   "versions": [
+    {
+     "from": "1997-05-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13271",
+     "sha256": "f1cd5e84bdb4d81621b62b69e1c46e7f1359cd1eb43d359f8e1083817cd528cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-649-1997",
+   "path": "ordin/finante/1997/649",
+   "short": "Ordin finante nr. 649/1997",
+   "title": "Ordinul nr. 649/1997 privind lansarea unei emisiuni de titluri de stat seria 1997 H4",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13358",
+   "versions": [
+    {
+     "from": "1997-04-15",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13358",
+     "sha256": "4e92c24accc88ffddcc8c7dba502027b1d62b3505d89f11e5bf3a1666a151075"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-720-1997",
+   "path": "ordin/finante/1997/720",
+   "short": "Ordin finante nr. 720/1997",
+   "title": "Ordinul nr. 720/1997 privind lansarea unei emisiuni de certificate de trezorerie cu dobânda seria 1997/I",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13532",
+   "versions": [
+    {
+     "from": "1997-04-16",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13532",
+     "sha256": "dd8ee92e5de06d9b8603ab9b7deeb4e227ed1b7f989e5a1ea055fb350c280dd4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-829-1997",
+   "path": "ordin/finante/1997/829",
+   "short": "Ordin finante nr. 829/1997",
+   "title": "Ordinul nr. 829/1997 privind lansarea unor emisiuni de titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13649",
+   "versions": [
+    {
+     "from": "1997-04-29",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13649",
+     "sha256": "f17a8e70ad330107e79bb1a23612622827c2574d5081c6d4a4118db863b9ab93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-83-1997",
+   "path": "ordin/finante/1997/83",
+   "short": "Ordin finante nr. 83/1997",
+   "title": "Ordinul nr. 83/1997 privind aprobarea Normelor metodologice pentru aplicarea prevederilor art. 83 din Ordonanța Guvernului nr. 11/1996 privind executarea creanțelor bugetare, aprobată și modificată prin Legea nr. 108/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11519",
+   "versions": [
+    {
+     "from": "1997-02-12",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11519",
+     "sha256": "2d3b5aa1280a501f8aa7d4151b5401be7a0ab898a793101a2f4650b7eb1461ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-86-1997",
+   "path": "ordin/finante/1997/86",
+   "short": "Ordin finante nr. 86/1997",
+   "title": "Ordinul nr. 86/1997 privind lansarea unor emisiuni de titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11536",
+   "versions": [
+    {
+     "from": "1997-01-30",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11536",
+     "sha256": "10e90d81d1265a3635dd67d0a7f0931b3f86c1dd60ca9b0be519878b2508cd71"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-919-1997",
+   "path": "ordin/finante/1997/919",
+   "short": "Ordin finante nr. 919/1997",
+   "title": "Ordinul nr. 919/1997 privind încadrarea pe clase de calitate a țigaretelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13746",
+   "versions": [
+    {
+     "from": "1997-05-13",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13746",
+     "sha256": "53a25f410aba730f5eec54257bba0b0982f352cc45b4e1bfc1262c92669672f5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-94-1997",
+   "path": "ordin/finante/1997/94",
+   "short": "Ordin finante nr. 94/1997",
+   "title": "Ordinul nr. 94/1997 privind aprobarea Instrucțiunilor nr. 35.160/1997 pentru actualizarea cuantumurilor indemnizațiilor de delegare și de detașare, potrivit prevederilor art. 3 din Hotărârea Guvernului nr. 543/1995 privind drepturile bănești ale salariaților instituțiilor publice și regiilor autonome cu specific deosebit pe perioada delegării și detașării în alta localitate, precum și în cazul deplasării, în cadrul localității, în interesul serviciului, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11584",
+   "versions": [
+    {
+     "from": "1997-02-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11584",
+     "sha256": "7eefe3204271a992d4e0558f529b00a401ea1edc250445f91be9d8d10708f2f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-949-1997",
+   "path": "ordin/finante/1997/949",
+   "short": "Ordin finante nr. 949/1997",
+   "title": "Ordinul nr. 949/1997 privind efectuarea de către agenții economici a raportărilor contabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13779",
+   "versions": [
+    {
+     "from": "1997-05-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13779",
+     "sha256": "7c437485412a4093243daade4e05bdfe31377ff60a10e1e82248ad0e8df942ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-959-1997",
+   "path": "ordin/finante/1997/959",
+   "short": "Ordin finante nr. 959/1997",
+   "title": "Ordinul nr. 959/1997 privind aprobarea Instrucțiunilor nr. 35.913/1997 pentru actualizarea cuantumurilor indemnizațiilor de delegare și de detașare, potrivit prevederilor art. 3 din Hotărârea Guvernului nr. 543/1995 privind drepturile bănești ale salariaților instituțiilor publice și regiilor autonome cu specific deosebit pe perioada delegării și detașării în alta localitate, precum și în cazul deplasării, în cadrul localității, în interesul serviciului, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13781",
+   "versions": [
+    {
+     "from": "1997-05-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13781",
+     "sha256": "a9c837df4766313c3b693bc14ccd6a215537f65e3e4d0a2954ade94cd2ecb318"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-984-1997",
+   "path": "ordin/finante/1997/984",
+   "short": "Ordin finante nr. 984/1997",
+   "title": "Ordinul nr. 984/1997 privind intrarea în vigoare a Convenției dintre România și Marele Ducat de Luxemburg",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13782",
+   "versions": [
+    {
+     "from": "1997-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13782",
+     "sha256": "2401f3099eac41b3a3c7706cb130dd42b84e01a659cabd6c68b0e1c2163815d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-985-1997",
+   "path": "ordin/finante/1997/985",
+   "short": "Ordin finante nr. 985/1997",
+   "title": "Ordinul nr. 985/1997 privind intrarea în vigoare a Convenției dintre Guvernul României și Guvernul Republicii Algeriene Democratice și Populare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13783",
+   "versions": [
+    {
+     "from": "1997-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13783",
+     "sha256": "78c2eeed260c7e215258fa680f50527375111945357e562888946aacc0f89035"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-986-1997",
+   "path": "ordin/finante/1997/986",
+   "short": "Ordin finante nr. 986/1997",
+   "title": "Ordinul nr. 986/1997 privind intrarea în vigoare a Convenției dintre Guvernul României și Guvernul Regatului Thailandei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13784",
+   "versions": [
+    {
+     "from": "1997-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13784",
+     "sha256": "ccd80fce9f406e74c23c15b5516ff83a366693e43c4c601279478dbb6dc333a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-987-1997",
+   "path": "ordin/finante/1997/987",
+   "short": "Ordin finante nr. 987/1997",
+   "title": "Ordinul nr. 987/1997 privind intrarea în vigoare a Acordului dintre România și Republica Africa de Sud",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13785",
+   "versions": [
+    {
+     "from": "1997-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13785",
+     "sha256": "4d294082d34750318ca23c6c0b106aba2b228a247693790f9585c0efbad83844"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-988-1997",
+   "path": "ordin/finante/1997/988",
+   "short": "Ordin finante nr. 988/1997",
+   "title": "Ordinul nr. 988/1997 privind intrarea în vigoare a Acordului dintre Guvernul României și Guvernul Republicii Croația",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13786",
+   "versions": [
+    {
+     "from": "1997-05-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13786",
+     "sha256": "b860040822ed87f2bd0ff535873537f14b433a4179b7c313268c3ac82f8e3e23"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ins-2527-1997",
+   "path": "ordin/ins/1997/2527",
+   "short": "Ordin ins nr. 2527/1997",
+   "title": "Ordinul nr. 2.527/1997 privind completarea Clasificării ocupațiilor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13876",
+   "versions": [
+    {
+     "from": "1997-12-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13876",
+     "sha256": "021676349eb9cacd56ec4ec1a5adcd7e1656830859283496c45949d49283c26d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2214-1997",
+   "path": "ordin/justitie/1997/2214",
+   "short": "Ordin justitie nr. 2214/1997",
+   "title": "Ordinul nr. 2.214/1997 privind aprobarea Normelor metodologice pentru aplicarea Legii nr. 146/1997 privind taxele judiciare de timbru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13861",
+   "versions": [
+    {
+     "from": "1997-12-11",
+     "units": 42,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13861",
+     "sha256": "513c252106307c0469e95f5d3e26fcaf2026d72c0ea44b5f6790e318795ee826"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2371-c-1997",
+   "path": "ordin/justitie/1997/2371-c",
+   "short": "Ordin justitie nr. 2371/C/1997",
+   "title": "Ordinul nr. 2.371/C/1997 pentru aprobarea Regulamentului de organizare și funcționare a birourilor de carte funciară ale judecătoriilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13871",
+   "versions": [
+    {
+     "from": "1998-02-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13871",
+     "sha256": "0dd0cb15383be800f5349aff4d3abdf47df8c99931f97cd71b7b3360b8fb2163"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-304-c-1997",
+   "path": "ordin/justitie/1997/304-c",
+   "short": "Ordin justitie nr. 304/C/1997",
+   "title": "Ordinul nr. 304/C/1997 pentru abilitarea cu puteri de ancheta a unor membri ai Consiliului Concurentei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12388",
+   "versions": [
+    {
+     "from": "1997-03-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12388",
+     "sha256": "7df26ec6447f1fe364c3204d19a00dfd0bd138b27f44afeeaab79a39a526fe4e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-747-c-1997",
+   "path": "ordin/justitie/1997/747-c",
+   "short": "Ordin justitie nr. 747/C/1997",
+   "title": "Ordinul nr. 747/C/1997 pentru abilitarea unor membri ai Oficiului Concurentei cu puteri de ancheta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13562",
+   "versions": [
+    {
+     "from": "1997-05-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13562",
+     "sha256": "86a5381f973d8c811e55f085272ad9011113811e37510a998611ed724a7441a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-129-1997",
+   "path": "ordin/munca/1997/129",
+   "short": "Ordin munca nr. 129/1997",
+   "title": "Ordinul nr. 129/1997 privind aprobarea Normelor specifice de protecție a muncii pentru mine de cărbune, șisturi și nisipuri bituminoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11735",
+   "versions": [
+    {
+     "from": "1997-03-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11735",
+     "sha256": "d96580ffc9e3b2336221eed12f8d6c2b4804f237eaf9f5e252cf96ee5c413021"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-149-1997",
+   "path": "ordin/munca/1997/149",
+   "short": "Ordin munca nr. 149/1997",
+   "title": "Ordinul nr. 149/1997 privind aprobarea Normelor specifice de securitate a muncii pentru activitatea de creștere a animalelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11825",
+   "versions": [
+    {
+     "from": "1997-03-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11825",
+     "sha256": "159680feec4e751e194f9a3820e6b79bb2170d94e63a00873591cdcc434d26f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-154-1997",
+   "path": "ordin/munca/1997/154",
+   "short": "Ordin munca nr. 154/1997",
+   "title": "Ordinul nr. 154/1997 privind aprobarea Normelor specifice de protecție a muncii pentru activitatea de extracție a gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11847",
+   "versions": [
+    {
+     "from": "1997-03-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11847",
+     "sha256": "53772a5aac49bfc4e1d8112e49553b0b746237e15f5cb14e95212c1bfa5372a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-161-1997",
+   "path": "ordin/munca/1997/161",
+   "short": "Ordin munca nr. 161/1997",
+   "title": "Ordinul nr. 161/1997 privind aprobarea Normelor specifice de protecție a muncii pentru fabricarea lianților și a azbocimentului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11875",
+   "versions": [
+    {
+     "from": "1997-04-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11875",
+     "sha256": "66ca5e12e599081b599a748084083cf8fd857008dcebeac5b3ad7268818e7fbe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-209-1997",
+   "path": "ordin/munca/1997/209",
+   "short": "Ordin munca nr. 209/1997",
+   "title": "Ordinul nr. 209/1997 privind aprobarea Normelor specifice de protecție a muncii pentru mine de cărbune, șisturi și nisipuri bituminoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12075",
+   "versions": [
+    {
+     "from": "1997-05-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12075",
+     "sha256": "61d3da67cbab16a85d8051243a67bb1ce820756974a2f27fea61bdacbe530238"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-210-1997",
+   "path": "ordin/munca/1997/210",
+   "short": "Ordin munca nr. 210/1997",
+   "title": "Ordinul nr. 210/1997 privind aprobarea Normelor specifice de protecție a muncii pentru telecomunicații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12080",
+   "versions": [
+    {
+     "from": "1997-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12080",
+     "sha256": "b8dd0696d9362a289a9f4c3e72b6a231823a8c149d8ac9bacb73c64e1940d6b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-211-1997",
+   "path": "ordin/munca/1997/211",
+   "short": "Ordin munca nr. 211/1997",
+   "title": "Ordinul nr. 211/1997 privind aprobarea Normelor specifice de protecție a muncii pentru extracția țițeiului și a gazelor prin sonde marine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12085",
+   "versions": [
+    {
+     "from": "1997-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12085",
+     "sha256": "47600e4b76822819b8522de8c891018e6efc1aebba6bb6205390298b2f99f725"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-212-1997",
+   "path": "ordin/munca/1997/212",
+   "short": "Ordin munca nr. 212/1997",
+   "title": "Ordinul nr. 212/1997 privind aprobarea Normelor specifice de protecție a muncii pentru extracția țițeiului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12090",
+   "versions": [
+    {
+     "from": "1997-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12090",
+     "sha256": "564f829faaf936a9317a76df9b27e6b61b5026eb3193b5b740d93f951062cc75"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-24-1997",
+   "path": "ordin/munca/1997/24",
+   "short": "Ordin munca nr. 24/1997",
+   "title": "Ordinul nr. 24/1997 privind aprobarea Procedurii de soluționare a cererilor pentru acordarea unor înlesniri la plata obligațiilor datorate bugetului asigurărilor sociale de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11107",
+   "versions": [
+    {
+     "from": "1997-02-14",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11107",
+     "sha256": "a38f2cc8954a06f8da80d0ceaf7b3dc22f589088a29f6725b02c2c07e788c11b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-288-1997",
+   "path": "ordin/munca/1997/288",
+   "short": "Ordin munca nr. 288/1997",
+   "title": "Ordinul nr. 288/1997 privind aprobarea Normelor specifice de protecție a muncii pentru cultura mare, viticultura, pomicultura, legumicultura, plante tehnice și utilizarea substanțelor toxice în activitățile din agricultura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12340",
+   "versions": [
+    {
+     "from": "1997-05-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12340",
+     "sha256": "7dcf9bbac65cf629b05631cf6bbd3221ce6776dc407fa8f9a92c65735ffeaef0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-35-1997",
+   "path": "ordin/munca/1997/35",
+   "short": "Ordin munca nr. 35/1997",
+   "title": "Ordinul nr. 35/1997 privind aprobarea constituirii Sistemului Ministerului Muncii și Protecției Sociale de certificare a conformității echipamentelor tehnice, a echipamentului individual de protecție și a celui de lucru cu cerințele de protecție a muncii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11204",
+   "versions": [
+    {
+     "from": "1997-02-21",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11204",
+     "sha256": "6889d4d9d5f8efffc4c60f0696a29e4444f310853c301dead2edbf84e80f939d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-470-1997",
+   "path": "ordin/munca/1997/470",
+   "short": "Ordin munca nr. 470/1997",
+   "title": "Ordinul nr. 470/1997 privind aprobarea Normelor specifice de protecție a muncii pentru prelucrarea peștelui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12801",
+   "versions": [
+    {
+     "from": "1997-07-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12801",
+     "sha256": "ac6d30e6a2975c6f351271935efed070e8d807f93ba209b82b36cf9fef763c29"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-517-1997",
+   "path": "ordin/munca/1997/517",
+   "short": "Ordin munca nr. 517/1997",
+   "title": "Ordinul nr. 517/1997 privind aprobarea Normelor specifice de protecție a muncii pentru piscicultura și pescuit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12942",
+   "versions": [
+    {
+     "from": "1997-07-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12942",
+     "sha256": "a3126aa4dc771dfe84feab23b1cb3724524c02fcc638bdb36170c79db6725b26"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-518-1997",
+   "path": "ordin/munca/1997/518",
+   "short": "Ordin munca nr. 518/1997",
+   "title": "Ordinul nr. 518/1997 privind aprobarea Normelor specifice de protecție a muncii pentru prelucrarea pietrelor naturale și a marmurei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12946",
+   "versions": [
+    {
+     "from": "1997-07-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12946",
+     "sha256": "1b7afef865981e949f74cc10cf6cef181b5579f987a81880af5dedcf2d0d1b74"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-527-1997",
+   "path": "ordin/munca/1997/527",
+   "short": "Ordin munca nr. 527/1997",
+   "title": "Ordinul nr. 527/1997 privind aprobarea Normelor metodologice pentru desfășurarea activității de executare silită în baza Ordonanței Guvernului nr. 11/1996 privind executarea creanțelor bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12974",
+   "versions": [
+    {
+     "from": "1997-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12974",
+     "sha256": "7f7704ac274c0cbbd9bbee27e61f801e4349b868e2cc8c3881d017dbdfd0bccd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-54-1997",
+   "path": "ordin/munca/1997/54",
+   "short": "Ordin munca nr. 54/1997",
+   "title": "Ordinul nr. 54/1997 privind aprobarea Normelor specifice de securitate a muncii pentru radiocomunicații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11340",
+   "versions": [
+    {
+     "from": "1997-02-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11340",
+     "sha256": "6313b67739167e90c2deaa46240854ab6166d77ab957929d27774aaace9f9400"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-55-1997",
+   "path": "ordin/munca/1997/55",
+   "short": "Ordin munca nr. 55/1997",
+   "title": "Ordinul nr. 55/1997 privind aprobarea Normelor specifice de securitate a muncii pentru turism, alimentație publică și transport de persoane cu instalații pe cablu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11346",
+   "versions": [
+    {
+     "from": "1997-02-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11346",
+     "sha256": "ef9f3a456fad6b54aecb4d78dc12594cb4283af4a087e60df6038881ab494f06"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-57-1997",
+   "path": "ordin/munca/1997/57",
+   "short": "Ordin munca nr. 57/1997",
+   "title": "Ordinul nr. 57/1997 privind aprobarea Normelor specifice de securitate a muncii pentru executarea construcțiilor înalte prin glisări și liftări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/11361",
+   "versions": [
+    {
+     "from": "1997-02-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/11361",
+     "sha256": "dc618354b4a669015208b6d2c682da772b42d21fecd7688ec1805c48f822e70a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-593-1997",
+   "path": "ordin/munca/1997/593",
+   "short": "Ordin munca nr. 593/1997",
+   "title": "Ordinul nr. 593/1997 privind aprobarea Normelor specifice de protecție a muncii pentru activitatea de fabricăre a furnirului, placajului, panelului, lemnului stratificat-densificat și a elementelor mulate din furnire sau așchii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13181",
+   "versions": [
+    {
+     "from": "1997-08-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13181",
+     "sha256": "47d0068c07bbc5f72798aee129de15bf38f3eefde575288fdd507bb846a2fad3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-594-1997",
+   "path": "ordin/munca/1997/594",
+   "short": "Ordin munca nr. 594/1997",
+   "title": "Ordinul nr. 594/1997 privind aprobarea Normelor specifice de protecție a muncii pentru fabricarea betonului celular autoclavizat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13186",
+   "versions": [
+    {
+     "from": "1997-08-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13186",
+     "sha256": "491711c3459aaecb241f61f3b4ae7dc00055ef75e77032a99aa84fd718584b8b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-598-1997",
+   "path": "ordin/munca/1997/598",
+   "short": "Ordin munca nr. 598/1997",
+   "title": "Ordinul nr. 598/1997 privind aprobarea Normelor specifice de protecție a muncii pentru recepționarea, conservarea, păstrarea și valorificarea produselor agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13199",
+   "versions": [
+    {
+     "from": "1997-08-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13199",
+     "sha256": "6162bcfaf1006dd98d35c0e70e3327aaf713981f2b1581f25323197367d2aa7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-599-1997",
+   "path": "ordin/munca/1997/599",
+   "short": "Ordin munca nr. 599/1997",
+   "title": "Ordinul nr. 599/1997 privind aprobarea Normelor specifice de protecție a muncii pentru industria cărnii și a produselor din carne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13203",
+   "versions": [
+    {
+     "from": "1997-08-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13203",
+     "sha256": "71baf5e64518d0459e40753091473162be5f89124887c00d72517db74e6940ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-605-1997",
+   "path": "ordin/munca/1997/605",
+   "short": "Ordin munca nr. 605/1997",
+   "title": "Ordinul nr. 605/1997 privind costul mediu lunar de întreținere pe baza căruia se calculează contribuția de întreținere pentru persoanele asistate în căminele pentru pensionari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13223",
+   "versions": [
+    {
+     "from": "1997-09-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13223",
+     "sha256": "dc202da78e4fab4bbbcd17f1fb4ce565010ecf60057669a564c84725585a03f9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-655-1997",
+   "path": "ordin/munca/1997/655",
+   "short": "Ordin munca nr. 655/1997",
+   "title": "Ordinul nr. 655/1997 privind aprobarea Normelor specifice de protecție a muncii pentru transportul și distribuția energiei electrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13377",
+   "versions": [
+    {
+     "from": "1997-09-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13377",
+     "sha256": "a9de3f164817e6123975904b705563e9b690b0523d483df9e7c47e2481661377"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-664-1997",
+   "path": "ordin/munca/1997/664",
+   "short": "Ordin munca nr. 664/1997",
+   "title": "Ordinul nr. 664/1997 privind aprobarea Normelor specifice de protecție a muncii pentru alpinism utilitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13406",
+   "versions": [
+    {
+     "from": "1997-10-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13406",
+     "sha256": "7af53ff230f9ac9316b0978f6a6f74283ba874b776c38fb572ae003922e55156"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-665-1997",
+   "path": "ordin/munca/1997/665",
+   "short": "Ordin munca nr. 665/1997",
+   "title": "Ordinul nr. 665/1997 privind aprobarea Normelor specifice de protecție a muncii pentru comerțul cu ridicată și cu amănuntul",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13410",
+   "versions": [
+    {
+     "from": "1997-10-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13410",
+     "sha256": "f64b768b4a94fab1817978635f496feddac7a3e0f0807db9b2aca58b7b0f0854"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-666-1997",
+   "path": "ordin/munca/1997/666",
+   "short": "Ordin munca nr. 666/1997",
+   "title": "Ordinul nr. 666/1997 privind aprobarea Normelor specifice de protecție a muncii pentru posta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13414",
+   "versions": [
+    {
+     "from": "1997-10-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13414",
+     "sha256": "5d7a0b2971a9770f13647f4c827fe94d560388fbff52fe3162fdc7a3694af8c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-667-1997",
+   "path": "ordin/munca/1997/667",
+   "short": "Ordin munca nr. 667/1997",
+   "title": "Ordinul nr. 667/1997 privind aprobarea Normelor specifice de protecție a muncii pentru prelucrarea conservelor din legume și fructe și producerea sucurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13418",
+   "versions": [
+    {
+     "from": "1997-10-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13418",
+     "sha256": "d579936b54843a6ac4ad834e8e5937e4e4e97735271e6ee667233c0c45ccc8db"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-683-1997",
+   "path": "ordin/munca/1997/683",
+   "short": "Ordin munca nr. 683/1997",
+   "title": "Ordinul nr. 683/1997 privind aprobarea Normelor specifice de protecție a muncii pentru prospecțiuni și explorări geologice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13454",
+   "versions": [
+    {
+     "from": "1997-10-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13454",
+     "sha256": "357967ba733b0356c47a918ead19849ef23b658b04965e85bee4e8ae4ebcc974"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-718-1997",
+   "path": "ordin/munca/1997/718",
+   "short": "Ordin munca nr. 718/1997",
+   "title": "Ordinul nr. 718/1997 privind aprobarea Normelor specifice de protecție a muncii pentru transporturi aeriene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13527",
+   "versions": [
+    {
+     "from": "1997-10-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13527",
+     "sha256": "4fe6a42e4b0c1375a1df0cfca2de88cf3c05390af9565f2fb1b9cb26a7f40d35"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-719-1997",
+   "path": "ordin/munca/1997/719",
+   "short": "Ordin munca nr. 719/1997",
+   "title": "Ordinul nr. 719/1997 privind aprobarea Normelor specifice de protecție a muncii pentru manipularea, transportul prin purtare și cu mijloace nemecanizate și depozitarea materialelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13530",
+   "versions": [
+    {
+     "from": "1997-10-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13530",
+     "sha256": "98f2868ac1c201b3d50d28960f53267d35a4ea6f80196fe246fcc328caf38872"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-770-1997",
+   "path": "ordin/munca/1997/770",
+   "short": "Ordin munca nr. 770/1997",
+   "title": "Ordinul nr. 770/1997 pentru modificarea unor prevederi din Ordinul ministrului muncii și protecției sociale nr. 655/1997 privind aprobarea Normelor specifice de protecție a muncii pentru transportul și distribuția energiei electrice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13590",
+   "versions": [
+    {
+     "from": "1997-11-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13590",
+     "sha256": "df2e9b39b71e5056988d4a24c4b93236daf935c2252d6a4a9fb1eeade359fbf1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-806-1997",
+   "path": "ordin/munca/1997/806",
+   "short": "Ordin munca nr. 806/1997",
+   "title": "Ordinul nr. 806/1997 privind aprobarea Procedurii de acordare a unor înlesniri la plata obligațiilor datorate bugetului asigurărilor sociale de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13627",
+   "versions": [
+    {
+     "from": "1997-12-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13627",
+     "sha256": "042c068eefc88c8786ef2245a7c44141d7755edc0fbee7a6f3b10b5cc01f9408"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-838-1997",
+   "path": "ordin/munca/1997/838",
+   "short": "Ordin munca nr. 838/1997",
+   "title": "Ordinul nr. 838/1997 privind aprobarea Normelor specifice de protecție a muncii pentru depozitarea, transportul și folosirea materiilor explozive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13660",
+   "versions": [
+    {
+     "from": "1997-12-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13660",
+     "sha256": "9b4143fc6b55da39d2374e3f00e66a0ee7ee8190f221ccbe8e76a9a99f988d1a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-201-1997",
+   "path": "ordin/sanatate/1997/201",
+   "short": "Ordin sanatate nr. 201/1997",
+   "title": "Ordinul nr. 201/1997 pentru aprobarea Normelor metodologice de avizare sanitară și autorizare sanitară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/12042",
+   "versions": [
+    {
+     "from": "1997-12-09",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12042",
+     "sha256": "ad4eda3afd22282af353ec8b6cfbab988cea3199654508dfc566b1d949304524"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-3352-1997",
+   "path": "ordin/sanatate/1997/3352",
+   "short": "Ordin sanatate nr. 3352/1997",
+   "title": "Ordinul nr. 3.352/1997 privind unele măsuri referitoare la activitatea comisiilor de expertiza complexa (pentru învățământul special), a comisiilor pentru ocrotirea minorilor, precum și a comisiilor de diagnostic și triaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13825",
+   "versions": [
+    {
+     "from": "1997-03-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13825",
+     "sha256": "07bcff6d07c1fe90f5d834b397a68f0ad80936b468cf1f5b4297eeec92bfff3a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-768-1997",
+   "path": "ordin/sanatate/1997/768",
+   "short": "Ordin sanatate nr. 768/1997",
+   "title": "Ordinul nr. 768/1997 privind aprobarea Normelor metodologice pentru desfășurarea activității de executare silită în baza Ordonanței Guvernului nr. 11/1996 privind executarea creanțelor bugetare, aprobată și modificată prin Legea nr. 108/1996, cu modificările ulterioare, și a Hotărârii Guvernului nr. 463/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13587",
+   "versions": [
+    {
+     "from": "1997-09-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13587",
+     "sha256": "3ab6855f5a2ec9a84fe2eba7a28e31f91f4fdb60ed6d194c3972cfbdb9dd545b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-858-1997",
+   "path": "ordin/sanatate/1997/858",
+   "short": "Ordin sanatate nr. 858/1997",
+   "title": "Ordinul nr. 858/1997 pentru aprobarea Regulilor de buna practica în studiul clinic al medicamentelor în România și a Normelor de aplicare a Regulilor de buna practica în studiul clinic al medicamentelor în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13679",
+   "versions": [
+    {
+     "from": "1998-04-18",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13679",
+     "sha256": "a21ead69cb3a204f6837cef484204cbfd049566f772d0346e1d45cb8fb5e8443"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-925-1997",
+   "path": "ordin/sanatate/1997/925",
+   "short": "Ordin sanatate nr. 925/1997",
+   "title": "Ordinul nr. 925/1997 pentru modificarea Normelor republicane de radioprotecție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/13712",
+   "versions": [
+    {
+     "from": "1998-02-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/13712",
+     "sha256": "00164b65ec76d0d9fc1a82bc197454734c1ed963b50ec2498a39122fac122765"
+    }
+   ]
+  }
+ ]
+}

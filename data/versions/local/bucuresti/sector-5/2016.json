@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-5/2016",
+ "acts": [
+  {
+   "slug": "hcls5-41-2016",
+   "path": "local/bucuresti/sector-5/2016/41",
+   "short": "HCLS5 nr. 41/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 41/2016 privind aprobarea condițiilor, cuantumului maxim, metodologiei și procedurilor de lucru în vederea acordării prestației financiare excepționale acordate în vederea asigurării dezvoltării armonioase a copilului",
+   "url": "https://sector5.ro/hotararea-nr-41-25-08-2016-privind-aprobarea-conditiilor-cuantumului-maxim-metodologiei-si-procedurilor-de-lucru-in-vederea-acordarii-prestatiei-financiare-exceptionale-acordate-in-vederea-asigura/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-nr41-25082016.pdf",
+     "sha256": "2c298e2ea5af9c5e4290ec46fb2f63da83de210b021e88b2e461eff12ba10316"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-52-2016",
+   "path": "local/bucuresti/sector-5/2016/52",
+   "short": "HCLS5 nr. 52/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 52/2016 privind aprobarea procedurii pentru acordarea tichetelor sociale pentru grădinițe, în vederea stimulării participării în învățământul preșcolar a copiilor proveniți din familii defavorizate",
+   "url": "https://sector5.ro/hotararea-nr-52-25-08-2016-privind-aprobarea-procedurii-pentru-acordarea-tichetelor-sociale-pentru-gradinite-in-vederea-stimularii-participarii-in-invatamantul-prescolar-a-copiilor-proveniti-din-fa/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-nr52-25082016.pdf",
+     "sha256": "4a7ded8aae6f55797d75e0975fcba798f6ba600b10f4e3052e9695acd8272a29"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-88-2016",
+   "path": "local/bucuresti/sector-5/2016/88",
+   "short": "HCLS5 nr. 88/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 88/2016 privind aprobarea Regulamentului pentru emiterea și prelungirea Acordului de funcționare pentru comercializarea produselor și prestarea serviciilor de piață pe raza Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-88-30-09-2016-privind-aprobarea-regulamentului-pentru-emiterea-si-prelungirea-acordului-de-functionare-pentru-comercializarea-produselor-si-prestarea-serviciilor-de-piata-pe-raza-sectoru/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-88-20_10.pdf",
+     "sha256": "2511d80108ba49b998bbb0bdd5354db30db04061862594ee7b28770ea4f9dd79"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-89-2016",
+   "path": "local/bucuresti/sector-5/2016/89",
+   "short": "HCLS5 nr. 89/2016",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 89/2016 privind aprobarea Regulamentului pentru emiterea și vizarea anuală a Autorizației privind desfășurarea activităților prevăzute în grupele CAEN 561 – Restaurante și 563 – Baruri și alte activități de servire a băuturilor pe raza Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-89-30-09-2016-privind-aprobarea-regulamentului-pentru-emiterea-si-vizarea-anuala-a-autorizatiei-privind-desfasurarea-activitatilor-prevazute-in-grupele-caen-561-restaurante-si/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2021/03/hcl-89-20_10.pdf",
+     "sha256": "b0b0a34985613afc1463cb6254615eeb8cd39357e13c01688c42b76c44be0655"
+    }
+   ]
+  }
+ ]
+}

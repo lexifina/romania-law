@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/bucuresti/sector-6/2018",
+"acts": [
+{
+"slug": "hcls6-80-2018",
+"path": "local/bucuresti/sector-6/2018/80",
+"kind": "local",
+"year": "2018",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 6 nr. 80/2018 pentru finanţarea cheltuielilor descentralizate la nivelul judeţelor 11.02.01 0 0 0 0 0 0 0 0 Sume defalcate din taxa pe valoarea adăugată pentru finanţarea cheltuielilor descentraliz",
+"short": "HCLS6 nr. 80/2018",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2018-05-08",
+"latest": "2018-05-08",
+"portal": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-conturilor-anuale-de-executie-pe-anul-2017-ale-sectorului-6-al-municipiului-bucuresti",
+"council": "bucuresti/sector-6",
+"council_name": "Consiliul Local al Sectorului 6 al Municipiului București",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcls6-119-2018",
+"path": "local/bucuresti/sector-6/2018/119",
+"kind": "local",
+"year": "2018",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 6 nr. 119/2018 pentru finanţarea cheltuielilor descentralizate la nivelul judeţelor 11.02.01 0 0 0 0 0 0 0 0 Sume defalcate din taxa pe valoarea adăugată pentru finanţarea cheltuielilor descentralizate la nivelul comunelor, oraşelo",
+"short": "HCLS6 nr. 119/2018",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2018-06-28",
+"latest": "2018-06-28",
+"portal": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-conturilor-de-executie-pe-trimestrul-1-ale-sectorului-6-al-municipiului-bucuresti-pe-anul-2018",
+"council": "bucuresti/sector-6",
+"council_name": "Consiliul Local al Sectorului 6 al Municipiului București",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcls6-183-2018",
+"path": "local/bucuresti/sector-6/2018/183",
+"kind": "local",
+"year": "2018",
+"number": "183",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 6 nr. 183/2018 pentru finanţarea cheltuielilor descentralizate la nivelul judeţelor 11.02.01 0 0 0 0 0 0 0 0 Sume defalcate din taxa pe valoarea adăugată pentru finanţarea cheltuielilor descentralizate la nivelul comunelor, oraşelor, municipiilor, sectoarelor şi Municipiului Bucureşti 11.0",
+"short": "HCLS6 nr. 183/2018",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2018-08-30",
+"latest": "2018-08-30",
+"portal": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-conturilor-de-executie-pe-trimestrul-2-ale-sectorului-6-al-municipiului-bucuresti-pe-anul-2018",
+"council": "bucuresti/sector-6",
+"council_name": "Consiliul Local al Sectorului 6 al Municipiului București",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcls6-191-2018",
+"path": "local/bucuresti/sector-6/2018/191",
+"kind": "local",
+"year": "2018",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 6 nr. 191/2018 privind condițiile de admitere și serviciile oferite, precum şi în baza metodologiei elaborată şi aprobată în acest sens, înregistrată cu nr. A/31777 din 07.10.2015. Prevederile prezentului regulament sunt obligatorii pentru persoanele beneficiare cât și pentru membrii acestora, reprezentanților legali/convenționali cât și pentru angajații cantinei",
+"short": "HCLS6 nr. 191/2018",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2018-08-30",
+"latest": "2018-08-30",
+"portal": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-regulamentului-cadru-de-organizare-si-functionare-al-cantinei-sociale-crangasi-din-cadrul-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-6",
+"council": "bucuresti/sector-6",
+"council_name": "Consiliul Local al Sectorului 6 al Municipiului București",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcls6-197-2018",
+"path": "local/bucuresti/sector-6/2018/197",
+"kind": "local",
+"year": "2018",
+"number": "197",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 6 nr. 197/2018 privind condiţiile de admitere, serviciile oferite etc. (2) Prevederile prezentului regulament sunt obligatorii atât pentru persoanele beneficiare, cât şi pentru angajaţii centrului/unităţii şi, după caz, pentru membrii familiei beneficiarilor, reprezentanţii legali/convenţionali",
+"short": "HCLS6 nr. 197/2018",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2018-08-30",
+"latest": "2018-08-30",
+"portal": "https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-regulamentului-cadru-de-organizare-si-functionare-al-serviciului-asistenta-maternala-din-cadrul-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-6",
+"council": "bucuresti/sector-6",
+"council_name": "Consiliul Local al Sectorului 6 al Municipiului București",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

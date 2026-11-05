@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-5/2026",
+ "acts": [
+  {
+   "slug": "hcls5-125-2026",
+   "path": "local/bucuresti/sector-5/2026/125",
+   "short": "HCLS5 nr. 125/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 125/2026 privind aprobarea Programului educațional „Literatura în scenă – Bacalaureatul prin teatru”, a bugetului estimativ, a calendarului de desfășurare și a Regulamentului Galei trupelor de teatru liceene din Sectorul 5",
+   "url": "https://sector5.ro/hotararea-nr-125-30-09-2026-privind-aprobarea-programului-educational-literatura-in-scena-bacalaureatul-prin-teatru-a-bugetului-estimativ-a-calendarului-de-desfasurare-s/",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2026/10/HCL-nr.-125-30.09.2026.pdf",
+     "sha256": "3074f3c106dfad7f9cf632f802c1625d42dd30a913f83f8bb03256b1eaf99a39"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-132-2026",
+   "path": "local/bucuresti/sector-5/2026/132",
+   "short": "HCLS5 nr. 132/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 132/2026 privind aprobarea Regulamentului pentru emiterea și vizarea anuală a Autorizației privind desfășurarea activităților prevăzute în grupele CAEN 561-Restaurante și 563 – Baruri și alte activități de servire a băuturilor și a Acordului de funcționare pentru comercializarea produselor și prestarea serviciilor de piață pe raza Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-132-29-10-2026-privind-aprobarea-regulamentului-pentru-emiterea-si-vizarea-anuala-a-autorizatiei-privind-desfasurarea-activitatilor-prevazute-in-grupele-caen-561-restaurante-si-563/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2026/10/HCL-nr.-132-29.10.2026.pdf",
+     "sha256": "cac24958935ff8505299729f97d7ac6d38cf77b0635be953d836c2798434a738"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-99-2026",
+   "path": "local/bucuresti/sector-5/2026/99",
+   "short": "HCLS5 nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 99/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2026/09/HCL-nr.-99-din-31.08.2026.pdf",
+     "sha256": "957c21ae13bc34140d232eb231616ca0602fe280e3c8e79d84ab9c85ae2cc40a"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "hotarare-aep/2008",
+ "acts": [
+  {
+   "slug": "hotarare-aep-1-2008",
+   "path": "hotarare-aep/2008/1",
+   "short": "Hotărârea AEP nr. 1/2008",
+   "title": "HOTĂRÂRE nr. 1 din 17 aprilie 2008 pentru aprobarea modelului certificatului doveditor al alegerii consilierilor, primarilor şi preşedinţilor consiliilor judeţene",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/91608",
+   "versions": [
+    {
+     "from": "2008-04-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/91608",
+     "sha256": "8a5481dadf9c2d1b5a10d4882362781909f60e9acf6982ec019c8304b8ad6c18"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-2-2008",
+   "path": "hotarare-aep/2008/2",
+   "short": "Hotărârea AEP nr. 2/2008",
+   "title": "HOTĂRÂRE nr. 2 din 16 septembrie 2008 privind desemnarea reprezentanţilor Autorităţii Electorale Permanente în birourile electorale de circumscripţie constituite pentru alegerea Camerei Deputaţilor şi a Senatului din anul 2008",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/97479",
+   "versions": [
+    {
+     "from": "2008-09-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/97479",
+     "sha256": "6592751148a6abcf8566a7b538f75707653972696a9fe8f50ece1232717d703d"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-4-2008",
+   "path": "hotarare-aep/2008/4",
+   "short": "Hotărârea AEP nr. 4/2008",
+   "title": "HOTĂRÂRE nr. 4 din 29 septembrie 2008 privind condiţiile pe care trebuie să le îndeplinească localurile secţiilor de votare pentru alegerea Camerei Deputaţilor şi a Senatului",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/97742",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/97742",
+     "sha256": "a15ad03e62f61196e1d791f7cec5eed2a04e92a33ab9deb3ba989c71841bb914"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-5-2008",
+   "path": "hotarare-aep/2008/5",
+   "short": "Hotărârea AEP nr. 5/2008",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 5 din 2008-09-30",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/98127",
+   "versions": [
+    {
+     "from": "2008-10-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/98127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-6-2008",
+   "path": "hotarare-aep/2008/6",
+   "short": "Hotărârea AEP nr. 6/2008",
+   "title": "HOTĂRÂRE nr. 6 din 30 septembrie 2008 privind procedura de acreditare pe lângă birourile şi oficiile electorale constituite pentru alegerea Camerei Deputaţilor şi a Senatului din 30 noiembrie 2008",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/97864",
+   "versions": [
+    {
+     "from": "2008-10-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/97864",
+     "sha256": "c0e3952d7576132440d70798059abcc4be1c15e707a66530e38172f91ee61bfe"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-aep-7-2008",
+   "path": "hotarare-aep/2008/7",
+   "short": "Hotărârea AEP nr. 7/2008",
+   "title": "Hotărârea Autorității Electorale Permanente nr. 7 din 2008-10-29",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/98979",
+   "versions": [
+    {
+     "from": "2008-11-10",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/98979",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

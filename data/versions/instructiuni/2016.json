@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/2016",
+ "acts": [
+  {
+   "slug": "instructiuni-asf-1-2016",
+   "path": "instructiuni/asf/2016/1",
+   "short": "Instrucțiuni asf nr. 1/2016",
+   "title": "Instrucțiunile nr. 1/2016 privind întocmirea și depunerea situației financiare anuale și a raportării anuale de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară - Sectorul instrumentelor și investițiilor financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176975",
+   "versions": [
+    {
+     "from": "2016-03-29",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176975",
+     "sha256": "f1305feec7b93070edca47d83671a537fdbe6a48c6198b5840934e36fb132ec0"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-asf-2-2016",
+   "path": "instructiuni/asf/2016/2",
+   "short": "Instrucțiuni asf nr. 2/2016",
+   "title": "Instrucțiunile nr. 2/2016 privind întocmirea și depunerea raportării contabile semestriale de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară - Sectorul Instrumentelor și Investițiilor Financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/180537",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/180537",
+     "sha256": "f92c88d75bd5b52e4b21365f4afe7cf8be562764a4012aaf0c6eaff61ccf2dff"
+    }
+   ]
+  }
+ ]
+}

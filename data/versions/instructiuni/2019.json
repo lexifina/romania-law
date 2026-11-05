@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/2019",
+ "acts": [
+  {
+   "slug": "instructiuni-asf-1-2019",
+   "path": "instructiuni/asf/2019/1",
+   "short": "Instrucțiuni asf nr. 1/2019",
+   "title": "Instrucțiunile nr. 1/2019 pentru modificarea Instrucțiunii Autorității de Supraveghere Financiară nr. 2/2016 privind întocmirea și depunerea raportării contabile semestriale de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară - Sectorul Instrumentelor și Investițiilor Financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/216827",
+   "versions": [
+    {
+     "from": "2019-08-06",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/216827",
+     "sha256": "b89dcc3400cbc17c3a9c9f095214479c795dca811b950f8602a95a099f641582"
+    }
+   ]
+  }
+ ]
+}

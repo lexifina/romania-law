@@ -1,0 +1,426 @@
+{
+ "country": "RO",
+ "shard": "anspdcp/2020",
+ "acts": [
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-01-13",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-01-13",
+   "short": "Comunicat ANSPDCP din 2020-01-13",
+   "title": "Comunicat ANSPDCP din 2020-01-13: Altă amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Alta_amenda_pentru_incalcarea_RGPD_2020_1&lang=ro",
+   "versions": [
+    {
+     "from": "2020-01-13",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Alta_amenda_pentru_incalcarea_RGPD_2020_1&lang=ro",
+     "sha256": "966102fb31f7626ce6896a098d8ba9173ccb2d27b88feb33a075606db48cc1e0"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-01-14",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-01-14",
+   "short": "Comunicat ANSPDCP din 2020-01-14",
+   "title": "Comunicat ANSPDCP din 2020-01-14: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=sanctiune_pentru_incalcarea_RGPD_2020_2&lang=ro",
+   "versions": [
+    {
+     "from": "2020-01-14",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=sanctiune_pentru_incalcarea_RGPD_2020_2&lang=ro",
+     "sha256": "00b609e6a6dcb702a95777e7ad2b05b868669193d4f0f4596ceb50ea213f031c"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-01-16",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-01-16",
+   "short": "Comunicat ANSPDCP din 2020-01-16",
+   "title": "Comunicat ANSPDCP din 2020-01-16: O nouă sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=O_noua_sanctiune_pentru_incalcarea_RGPD_2020_3&lang=ro",
+   "versions": [
+    {
+     "from": "2020-01-16",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=O_noua_sanctiune_pentru_incalcarea_RGPD_2020_3&lang=ro",
+     "sha256": "07411ed1d6fd12d213851e4ef5d37c6e3598a4feb7fe6e375c5aa6be739dc3d0"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-03-18",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-03-18",
+   "short": "Comunicat ANSPDCP din 2020-03-18",
+   "title": "Comunicat ANSPDCP din 2020-03-18: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=sanctiune_vodafone_februarie_2020&lang=ro",
+   "versions": [
+    {
+     "from": "2020-03-18",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=sanctiune_vodafone_februarie_2020&lang=ro",
+     "sha256": "40644ae14e2383d1d15b404912fea1d34b461586102b2a268285c81b39e8ae09"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-03-25-2",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-03-25-2",
+   "short": "Comunicat ANSPDCP din 2020-03-25 (2)",
+   "title": "Comunicat ANSPDCP din 2020-03-25 (2): Sancționarea unui operator pentru încălcarea prevederilor RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_amenda_dante_international_martie_2020&lang=ro",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_amenda_dante_international_martie_2020&lang=ro",
+     "sha256": "50b7c2a19e2751fe2a974548d47d3f93715c7a9524822d1b3b0a9ae5dc6ad0d2"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-03-25-3",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-03-25-3",
+   "short": "Comunicat ANSPDCP din 2020-03-25 (3)",
+   "title": "Comunicat ANSPDCP din 2020-03-25 (3): Sancțiune RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_amenda_enel_martie_2020&lang=ro",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_amenda_enel_martie_2020&lang=ro",
+     "sha256": "2f63f4722ee1cddac361f98474f17ec43bf22cb032d1c696a8ca6cad86e2b0d3"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-03-25-4",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-03-25-4",
+   "short": "Comunicat ANSPDCP din 2020-03-25 (4)",
+   "title": "Comunicat ANSPDCP din 2020-03-25 (4): O nouă amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_amenda_asociatia_sos_infertilitatea&lang=ro",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_amenda_asociatia_sos_infertilitatea&lang=ro",
+     "sha256": "a8ab348b23531ce721f8cf86730a95e25637f2f4a8c98118779bbeb9499caa12"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-03-25",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-03-25",
+   "short": "Comunicat ANSPDCP din 2020-03-25",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2020-03-25",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_noua_amenda_vodafone&lang=ro",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_noua_amenda_vodafone&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-05-05",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-05-05",
+   "short": "Comunicat ANSPDCP din 2020-05-05",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2020-05-05",
+   "url": "https://www.dataprotection.ro/?page=Sanctiune_pentru_incalcarea_RGPD_BCR&lang=ro",
+   "versions": [
+    {
+     "from": "2020-05-05",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Sanctiune_pentru_incalcarea_RGPD_BCR&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-06-11-2",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-06-11-2",
+   "short": "Comunicat ANSPDCP din 2020-06-11 (2)",
+   "title": "Comunicat ANSPDCP din 2020-06-11 (2): O nouă sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=O_noua_sanctiune_pentru_incalcarea_RGPD_iunie_2020&lang=ro",
+   "versions": [
+    {
+     "from": "2020-06-11",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=O_noua_sanctiune_pentru_incalcarea_RGPD_iunie_2020&lang=ro",
+     "sha256": "fe511aec4b0b3abd2e69a63f559147d050543f1b9880ecb35b1c745c5db5ba61"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-06-11",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-06-11",
+   "short": "Comunicat ANSPDCP din 2020-06-11",
+   "title": "Comunicat ANSPDCP din 2020-06-11: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Amenda_pentru_incalcarea_RGPD_iunie_2020&lang=ro",
+   "versions": [
+    {
+     "from": "2020-06-11",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Amenda_pentru_incalcarea_RGPD_iunie_2020&lang=ro",
+     "sha256": "bab49c08934e97e57a17225be0e29588b2dcfa7cee90d4d9682bb596859e06a8"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-06-18",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-06-18",
+   "short": "Comunicat ANSPDCP din 2020-06-18",
+   "title": "Comunicat ANSPDCP din 2020-06-18: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Amenda_pentru_incalcarea_RGPD_Enel_iunie2020&lang=ro",
+   "versions": [
+    {
+     "from": "2020-06-18",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Amenda_pentru_incalcarea_RGPD_Enel_iunie2020&lang=ro",
+     "sha256": "745550f36e3fa21efd3c4c7d4967e8207dc83696ac8c681f4fe4f5f1bf9a0d22"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-07-09",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-07-09",
+   "short": "Comunicat ANSPDCP din 2020-07-09",
+   "title": "Comunicat ANSPDCP din 2020-07-09: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_09_07_20&lang=ro",
+   "versions": [
+    {
+     "from": "2020-07-09",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_09_07_20&lang=ro",
+     "sha256": "90bacfbd7212f31e26da8366908b4eba239985a6eb45ad7492b6883e0c1b31fc"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-07-30-2",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-07-30-2",
+   "short": "Comunicat ANSPDCP din 2020-07-30 (2)",
+   "title": "Comunicat ANSPDCP din 2020-07-30 (2): Amendă pentru încălcare RGPD",
+   "url": "https://www.dataprotection.ro/?page=Amenda_pentru_incalcarea_RGPD_Viva_Credit_IFN&lang=ro",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Amenda_pentru_incalcarea_RGPD_Viva_Credit_IFN&lang=ro",
+     "sha256": "f3a9a951a61f0e37283bed48d6d041327585700d5a022e9d396fa42eccf70ad8"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-07-30",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-07-30",
+   "short": "Comunicat ANSPDCP din 2020-07-30",
+   "title": "Comunicat ANSPDCP din 2020-07-30: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Sanctiune_pentru_incalcarea_RGPD_Posta_Romana&lang=ro",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Sanctiune_pentru_incalcarea_RGPD_Posta_Romana&lang=ro",
+     "sha256": "c1d953292716fff82dca223dd8094018e9c6822ea72e3437e0ac2bf6c7078ebb"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-09-01",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-09-01",
+   "short": "Comunicat ANSPDCP din 2020-09-01",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2020-09-01",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_01_09_2020&lang=ro",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_01_09_2020&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-09-08",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-09-08",
+   "short": "Comunicat ANSPDCP din 2020-09-08",
+   "title": "Comunicat ANSPDCP din 2020-09-08: Sancțiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_08_/_09_/_20&lang=ro",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_08_/_09_/_20&lang=ro",
+     "sha256": "7daad9485744ebe113b2b698113aa7db7c7726d31b8ff8cd54e8ce7fc1dbee4a"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-10-01",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-10-01",
+   "short": "Comunicat ANSPDCP din 2020-10-01",
+   "title": "Comunicat ANSPDCP din 2020-10-01: Sancțiuni pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_01_/_10_/_2020&lang=ro",
+   "versions": [
+    {
+     "from": "2020-10-01",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_01_/_10_/_2020&lang=ro",
+     "sha256": "74a2670ba6cc72b81ab610c06862663399fc417dce808f05ee62782ede4fd719"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-10-15",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-10-15",
+   "short": "Comunicat ANSPDCP din 2020-10-15",
+   "title": "Comunicat ANSPDCP din 2020-10-15: Amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Amenda_pentru_incalcarea_RGPD_15_/_10_/_2020&lang=ro",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Amenda_pentru_incalcarea_RGPD_15_/_10_/_2020&lang=ro",
+     "sha256": "a20b37f162ca537a89af3a4307663157892a5bcf572c5220c12d992e30792f1a"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-10-20",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-10-20",
+   "short": "Comunicat ANSPDCP din 2020-10-20",
+   "title": "Comunicat ANSPDCP din 2020-10-20: Altă amendă pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Alta_amenda_pentru_incalcarea_RGPD_oct_2020&lang=ro",
+   "versions": [
+    {
+     "from": "2020-10-20",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Alta_amenda_pentru_incalcarea_RGPD_oct_2020&lang=ro",
+     "sha256": "cb35ec2873c19d51bdfb930161c6538f43b3680b269d6fa6568ba08db6880825"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-11-23",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-11-23",
+   "short": "Comunicat ANSPDCP din 2020-11-23",
+   "title": "Comunicat ANSPDCP din 2020-11-23: Sanctiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_de_presa_23_/_11_/_2020&lang=ro",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_de_presa_23_/_11_/_2020&lang=ro",
+     "sha256": "b5150853d23fe5770f49d6d12bc9e4f6b567f4e8a58f64d67242a841e4921f29"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-11-24",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-11-24",
+   "short": "Comunicat ANSPDCP din 2020-11-24",
+   "title": "Comunicat ANSPDCP din 2020-11-24: Altă sanctiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_24_11_2020&lang=ro",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_24_11_2020&lang=ro",
+     "sha256": "dda41ef82bb8fed67b991109f44144bc5f8db63b1786b976baf716dc420b7f67"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-12-17",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-12-17",
+   "short": "Comunicat ANSPDCP din 2020-12-17",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2020-12-17",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_17_12_2020&lang=ro",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_17_12_2020&lang=ro",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-12-22-2",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-12-22-2",
+   "short": "Comunicat ANSPDCP din 2020-12-22 (2)",
+   "title": "Comunicat ANSPDCP din 2020-12-22 (2): Sanctiune aplicată unei autorităti publice",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_2_22_12_2020&lang=ro",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_2_22_12_2020&lang=ro",
+     "sha256": "40ee6e6b25dd2ed46996009e72929954ac3470fff073c13831f6b048772fcba7"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-12-22-3",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-12-22-3",
+   "short": "Comunicat ANSPDCP din 2020-12-22 (3)",
+   "title": "Comunicat ANSPDCP din 2020-12-22 (3): O nouă sanctiune aplicată unei autorităti publice",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_3_22_12_2020&lang=ro",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_3_22_12_2020&lang=ro",
+     "sha256": "a8c3e19fb6c633f7adba63a933407d819bc3f11e2750ceed69a6d40898a7f701"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-12-22",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-12-22",
+   "short": "Comunicat ANSPDCP din 2020-12-22",
+   "title": "Comunicat ANSPDCP din 2020-12-22: Sanctiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_22_12_2020&lang=ro",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_22_12_2020&lang=ro",
+     "sha256": "1d44503d08593a87aa51ebd2a3c193b5bea4cd8c5a120506f095edd1fefad8a7"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-12-29",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-12-29",
+   "short": "Comunicat ANSPDCP din 2020-12-29",
+   "title": "Comunicat ANSPDCP din 2020-12-29: O nouă sanctiune pentru încălcarea RGPD",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_Presa_29_12_2020&lang=ro",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_Presa_29_12_2020&lang=ro",
+     "sha256": "c2320335f69d9d5128c6f3a4e0cac373f47da5e69852363a1f4e170f2b344f99"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-comunicat-sanctiune-2020-2020-12-30",
+   "path": "anspdcp/comunicat-sanctiune/2020/2020-12-30",
+   "short": "Comunicat ANSPDCP din 2020-12-30",
+   "title": "Comunicatul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal din 2020-12-30",
+   "url": "https://www.dataprotection.ro/?page=Comunicat_presa_30_12_2020&lang=ro",
+   "versions": [
+    {
+     "from": "2020-12-30",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/?page=Comunicat_presa_30_12_2020&lang=ro",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

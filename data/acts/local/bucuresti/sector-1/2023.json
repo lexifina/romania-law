@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/bucuresti/sector-1/2023",
+"acts": [
+{
+"slug": "hcls1-16-2023",
+"path": "local/bucuresti/sector-1/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 1 nr. 16/2023 privind aprobarea criteriilor care se au în vedere la stabilirea ordinii de prioritate în cadrul categoriilor de persoane prevăzute în Legea locuinței nr. 114/1996, cu modificările și completările ulterioare",
+"short": "HCLS1 nr. 16/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-04-03",
+"latest": "2023-04-03",
+"portal": "https://emol.ro/sectorul-1/registru-hcl/?an=2023",
+"council": "bucuresti/sector-1",
+"council_name": "Consiliul Local al Sectorului 1 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls1-41-2023",
+"path": "local/bucuresti/sector-1/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 1 nr. 41/2023 privind modificarea Hotărârii Consiliului Local al Sectorului a nr. 197/19.12.2022 privind aprobarea „Regulamentului privind aprobarea unor măsuri locale destinate asigurării nevoilor energetice și eficientizării consumului de energie în gospodăriile din Sectorul 1, în sezonul rece 2022-2023”",
+"short": "HCLS1 nr. 41/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-05-15",
+"latest": "2023-05-15",
+"portal": "https://emol.ro/sectorul-1/registru-hcl/?an=2023",
+"council": "bucuresti/sector-1",
+"council_name": "Consiliul Local al Sectorului 1 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls1-84-2023",
+"path": "local/bucuresti/sector-1/2023/84",
+"kind": "local",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 1 nr. 84/2023",
+"short": "HCLS1 nr. 84/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-08-18",
+"latest": "2023-08-18",
+"portal": "https://emol.ro/sectorul-1/registru-hcl/?an=2023",
+"council": "bucuresti/sector-1",
+"council_name": "Consiliul Local al Sectorului 1 al Municipiului București",
+"flags": {
+"text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcls1-144-2023",
+"path": "local/bucuresti/sector-1/2023/144",
+"kind": "local",
+"year": "2023",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 1 nr. 144/2023 privind aprobarea listei de priorități întocmită în baza criteriilor care se au în vedere la stabilirea ordinii de prioritate în cadrul categoriilor de persoane prevăzute în Legea nr. 114/1996 republicată, cu modificările și completările ulterioare",
+"short": "HCLS1 nr. 144/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2023-10-19",
+"latest": "2023-10-19",
+"portal": "https://emol.ro/sectorul-1/registru-hcl/?an=2023",
+"council": "bucuresti/sector-1",
+"council_name": "Consiliul Local al Sectorului 1 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+},
+{
+"slug": "hcls1-191-2023",
+"path": "local/bucuresti/sector-1/2023/191",
+"kind": "local",
+"year": "2023",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Sectorului 1 nr. 191/2023 privind aprobarea Regulamentului pentru accesul, organizarea și funcționarea bazinelor de înot aflate în administrarea Sectorului 1 al Municipiului București",
+"short": "HCLS1 nr. 191/2023",
+"code": null,
+"status": "metadata only (text pending OCR)",
+"versions": 1,
+"from": "2024-01-08",
+"latest": "2024-01-08",
+"portal": "https://emol.ro/sectorul-1/registru-hcl/?an=2023",
+"council": "bucuresti/sector-1",
+"council_name": "Consiliul Local al Sectorului 1 al Municipiului București",
+"flags": {
+"text_pending": "ocr"
+}
+}
+]
+}

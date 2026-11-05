@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/1993",
+ "acts": [
+  {
+   "slug": "instructiuni-finante-2802-1993",
+   "path": "instructiuni/finante/1993/2802",
+   "short": "Instrucțiuni finante nr. 2802/1993",
+   "title": "Instrucțiunile nr. 2.802/1993 de aplicare a Hotărârii Guvernului nr. 610/1992 privind cartea de identitate a vehiculului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3738",
+   "versions": [
+    {
+     "from": "1993-05-28",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3738",
+     "sha256": "5e8bee7a431f419efc9219d6e4a771ec44e1e844e4202cb1d46da990bf6396a5"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-finante-2836-1993",
+   "path": "instructiuni/finante/1993/2836",
+   "short": "Instrucțiuni finante nr. 2836/1993",
+   "title": "Instrucțiunile nr. 2.836/1993 privind unele modificări în planul de conturi pentru industrie și instrucțiunile de aplicare a acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3739",
+   "versions": [
+    {
+     "from": "1993-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3739",
+     "sha256": "ed2b4f5bfcd338db59ed15d29f416332d025ddb185335666f9059189c833d069"
+    }
+   ]
+  }
+ ]
+}

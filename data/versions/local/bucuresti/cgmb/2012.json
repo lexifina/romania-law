@@ -1,0 +1,3486 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/cgmb/2012",
+ "acts": [
+  {
+   "slug": "hcgmb-1-2012",
+   "path": "local/bucuresti/cgmb/2012/1",
+   "short": "HCGMB nr. 1/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 1/2012 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINT A CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI, PE PERIOADA 23.11.2012 - 22.04.2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30314",
+   "versions": [
+    {
+     "from": "2012-01-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30314/H001_12.pdf",
+     "sha256": "229748b3f3ef08ea83b8898ff67be781795de749a3af69ad909bf65169924420"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-10-2012",
+   "path": "local/bucuresti/cgmb/2012/10",
+   "short": "HCGMB nr. 10/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 10/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30386",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30386/H010_12.pdf",
+     "sha256": "cfc2231fcde0820cadd267b0c4ccdbac3fbd2afef4c01f98882f793e4db326ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-100-2012",
+   "path": "local/bucuresti/cgmb/2012/100",
+   "short": "HCGMB nr. 100/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 100/2012 PRIVIND APROBAREA SITUATIILOR FINANCIARE CENTRALIZATE ALE MUNICIPIULUI BUCURESTI-ACTIVITATEA PROPRIE - PE ANUL 2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31568",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31568/H100_12.pdf",
+     "sha256": "d851ec28f06ecde3d078797ef5c45d56c4acae9a5c5a1b5d08f31804fd47ed62"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-102-2012",
+   "path": "local/bucuresti/cgmb/2012/102",
+   "short": "HCGMB nr. 102/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 102/2012 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE SI A INDICATORILORTEHNICO-ECONOMICI AFERENTI STUDIULUI DE FEZABILITATE PENTRU OBIECTIVUL DE INVESTITII \"INCHIDERE INELUL MEDIAN DE CIRCULATIE LA ZONA NORD/AUTOSTRADA URBANA - TRONSON LACUL MORII - SOSEAUA COLENTINA\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31542",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31542/H102_12.pdf",
+     "sha256": "fcf7eb85b52e5c02ff975a0ffd1ab2a7f62c507dfdfa0f5bbe0220fbbce288e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-103-2012",
+   "path": "local/bucuresti/cgmb/2012/103",
+   "short": "HCGMB nr. 103/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 103/2012 PRIVIND APROBAREA PLANULUI INTEGRAT DE DEZVOLTARE URBANA \"ZONA CENTRALA\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31569",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31569/H103_12.pdf",
+     "sha256": "ce5764f82ef38a38c5183f50d43f3156e5fdd67f62631b931901b58fd39ad170"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-104-2012",
+   "path": "local/bucuresti/cgmb/2012/104",
+   "short": "HCGMB nr. 104/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 104/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31548",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31548/H104_12.pdf",
+     "sha256": "1c1b89dc2b20f0e6f7c890e7348b173fee655452ab46a02113b4e563801714de"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-105-2012",
+   "path": "local/bucuresti/cgmb/2012/105",
+   "short": "HCGMB nr. 105/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 105/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31570",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31570/H105_12.pdf",
+     "sha256": "bda94e2b5369b1eb08b3c35651f1a1d63ecbfd6cb8a37f06df140bb7fbbfcccf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-106-2012",
+   "path": "local/bucuresti/cgmb/2012/106",
+   "short": "HCGMB nr. 106/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 106/2012 PRIVIND MODIFICAREA POZITIEI ''SISTEM DE MANAGEMENT AL SITUATIILOR DE URGENTA LA NIVELUL MUNICIPIULUI BUCURESTI'' DIN LISTA OBIECTIVELOR DE INVESTITII APROBATA PENTRU ANUL 2012, ANEXA 2.38-1 LA HOTARAREA C.G.M.B NR. 66/2012 PRIVIND APROBAREA BUGETULUI PROPRIU AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31550",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31550/H106_12.pdf",
+     "sha256": "c0cd40cf3b1171934dd5a64a9ddb42a8c2af7e0dee6a6bcd9d25e28e33e4536a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-107-2012",
+   "path": "local/bucuresti/cgmb/2012/107",
+   "short": "HCGMB nr. 107/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 107/2012 PRIVIND APROBAREA PERMISULUI DE LUCRU PENTRU VEHICULELE CARE COLECTEAZA DESEURILE MENAJERE DE PE RAZA MUNICIPIULUI SE ABROGA PRIN HCGMB NR. 345/2020",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31571",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31571/H107_12.pdf",
+     "sha256": "71e60e0353a48af525ca36db159b16b4691a4f574db7c4fb78b57af24acebbb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-108-2012",
+   "path": "local/bucuresti/cgmb/2012/108",
+   "short": "HCGMB nr. 108/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 108/2012 PRIVIND ATINGEREA TINTELOR DE REDUCERE A DEPOZITARII DESEURILOR MUNICIPALE DIN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31572",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31572/H108_12.pdf",
+     "sha256": "8e73cab71f136b48f122a034f8d9d71c9df047fe4c3bbac65115beef63bc70e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-109-2012",
+   "path": "local/bucuresti/cgmb/2012/109",
+   "short": "HCGMB nr. 109/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 109/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31576",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31576/H109_12.pdf",
+     "sha256": "6676fcc489c8148bab62c62cdeca57a431b5792c2b3e3a101a80a1d1d41ca29a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-11-2012",
+   "path": "local/bucuresti/cgmb/2012/11",
+   "short": "HCGMB nr. 11/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 11/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30387",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30387/H011_12.pdf",
+     "sha256": "4cc90665bf58e3eed38d84274c73cf22a716e7eaa99a13670da3c0e75db989f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-110-2012",
+   "path": "local/bucuresti/cgmb/2012/110",
+   "short": "HCGMB nr. 110/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 110/2012 PRIVIND ALOCAREA SUMEI DE 4.000 MII LEI DIN FONDUL DE REZERVA LA DISPOZITIA AUTORITATILOR MUNICIPIULUI BUCURESTI DIN BUGETUL PE ANUL 2012 PENTRU CENTRUL DE PROIECTE SI PROGRAME EDUCATIONALE SI SPORTIVE PENTRU COPII SI TINERET BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31578",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31578/H110_12.pdf",
+     "sha256": "833549d06a205d07b303dde8748e819b6e0b946e500e5ee3a6dba546289e7674"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-111-2012",
+   "path": "local/bucuresti/cgmb/2012/111",
+   "short": "HCGMB nr. 111/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 111/2012 PRIVIND DESFIINTAREA UNITATII DE IMPLEMENTARE A PROIECTULUI - ISPA DIN CADRUL DIRECTIEI DE MEDIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31580",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31580/H111_12.pdf",
+     "sha256": "97104525bd38c02a0cfbbc27e826eee07ae57a95d4401ca9250e4b3c46fc9ff1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-112-2012",
+   "path": "local/bucuresti/cgmb/2012/112",
+   "short": "HCGMB nr. 112/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 112/2012 PRIVIND APROBAREA EXTINDERII ACTIVITATII AUTORITATII MUNICIPALE DE REGLEMENTARE A SERVICIILOR PUBLICE (AMRSP)IN DOMENIUL TUTUROR SERVICIILOR COMUNITARE DE UTILITATI PUBLICE DIN RASPUNDEREA MUNICIPIULUI BUCURESTI SE MODIFICA PRIN HCGMB NR. 95/2014 SE MODIFICA SI COMPLETEAZA PRIN HCGMB NR. 188/2017 ISI INCETEAZA APLICABILITATEA - PRIN HCGMB NR. 488/2025",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31582",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31582/H112_12.pdf",
+     "sha256": "8a2ce10955e7554ba7013029985626037163d95165e6ee33e111fa6a6e6e9546"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-113-2012",
+   "path": "local/bucuresti/cgmb/2012/113",
+   "short": "HCGMB nr. 113/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 113/2012 PRIVIND APROBAREA MASURILOR PRIORITARE 2012-2015 SI A LISTEI DE INVESTITII PRIORITARE 2012-2015 SI PE TERMEN LUNG, PARTE INTEGRANTA A MASTER PLANULUI SISTEMULUI DE CANALIZARE AL MUNICIPIULUI BUCURESTI, STUDIULUI DE FEZABILITATE AFERENT PROIECTULUI \" FINALIZAREA STATIEI DE EPURARE GLINA, REABILITAREA PRINCIPALELOR COLECTOARE DE CANALIZARE SI A CANALULUI COLECTOR DAMBOVITA (CASETA)\", PRINCIPALILOR INDICATORI TEHNICO-ECONOMICI AFERENTI ETAPEI 1 A PROIECTULUI \" FINALIZAREA STATIEI DE EPURARE GLINA, REABILITAREA PRINCIPALELOR COLECTOARE DE CANALIZARE SI A CANALULUI COLECTOR DAMBOVITA (CASETA)\", CO-FINANTARII OBIECTIVELOR DE INVESTITII PENTRU ETAPA 1 A PROIECTULUI \" FINALIZAREA STATIEI DE EPURARE GLINA, REABILITAREA PRINCIPALELOR COLECTOARE DE CANALIZARE SI A CANALULUI COLECTOR DAMBOVITA (CASETA)\" SI APROBAREA CONTRACTARII UNEI FINANTARI RAMBURSABILE EXTERNE DE LA INSTITUTII FINANCIARE INTERNATIONALE, IN VALOARE DE 59.566.682 EURO, PENTRU COFINANTAREA ETAPEI 1 A PROIECTULUI \" FINALIZAREA STATIEI DE EPURARE GLINA, REABILITAREA PRINCIPALELOR COLECTOARE DE CANALIZARE SI A CANALULUI COLECTOR DAMBOVITA (CASETA)\" SE MODIFICA PRIN HCGMB NR. 143/2013 SE MODIFICA PRIN HCGMB NR. 73/2014 SE MODIFICA SI COMPLETEAZA PRIN HCGMB NR. 214/2014 SE MODIFICA SI COMPLETEAZA PRIN HCGMB NR. 376/2016",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31604",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31604/H113_12.pdf",
+     "sha256": "f7a4752ba04987b103e985ec290f6c0b8ebfb156cf4b4ee558d8d9a391951340"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-114-2012",
+   "path": "local/bucuresti/cgmb/2012/114",
+   "short": "HCGMB nr. 114/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 114/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31594",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31594/H114_12.pdf",
+     "sha256": "a87627b0d0c992957d16fa165865ea866ae25deeedcace6d193b5cd185f5ba3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-115-2012",
+   "path": "local/bucuresti/cgmb/2012/115",
+   "short": "HCGMB nr. 115/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 115/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31595",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31595/H115_12.pdf",
+     "sha256": "59bcf1d92cbdb4edb2f5b71ed4947282377ccb156443acfc935bd636d9b7c18f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-116-2012",
+   "path": "local/bucuresti/cgmb/2012/116",
+   "short": "HCGMB nr. 116/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 116/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31596",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31596/H116_12.pdf",
+     "sha256": "114b1a394f899f742b955f553805475d37540f6eefcdd1e297e370a18fca1ba4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-117-2012",
+   "path": "local/bucuresti/cgmb/2012/117",
+   "short": "HCGMB nr. 117/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 117/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31597",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31597/H117_12.pdf",
+     "sha256": "1d0ce2c5c88571a34339b01d43ad3f986a7f4d53828eb4f5673eed15729326d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-118-2012",
+   "path": "local/bucuresti/cgmb/2012/118",
+   "short": "HCGMB nr. 118/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 118/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31601",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31601/H118_12.pdf",
+     "sha256": "1ae10ca2c383ebe3d91d68b5165e5f951808adee4fd6bee10160853ca656816e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-119-2012",
+   "path": "local/bucuresti/cgmb/2012/119",
+   "short": "HCGMB nr. 119/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 119/2012 PRIVIND INAINTAREA CATRE GUVERNUL ROMANIEI A CERERII DE EMITERE A UNEI HOTARARI PRIVIND TRANSMITEREA BUNURILOR IMOBILE CU TERENUL AFERENT AMPLASAMENTULUI \"ESPLANADA\", SITUAT IN BDUL UNIRII, SECTOR 3, BUCURESTI, DIN PROPRIETATEA PRIVATA A STATULUI IN PROPRIETATEA PUBLICA A MUNICIPIULUI BUCURESTI SE ABROGA PRIN HCGMB NR. 38/2014",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31602",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31602/H119_12.pdf",
+     "sha256": "24839a315c3a32c4659f7d38637eac49f13d7f92adb0ab4e90d774d577d69408"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-12-2012",
+   "path": "local/bucuresti/cgmb/2012/12",
+   "short": "HCGMB nr. 12/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 12/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30388",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30388/H012_12.pdf",
+     "sha256": "dd18bca2db27fcb8500edaf8ea06bf10f147dc97f7997870798301469018d19a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-120-2012",
+   "path": "local/bucuresti/cgmb/2012/120",
+   "short": "HCGMB nr. 120/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 120/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31603",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31603/H120_12.pdf",
+     "sha256": "90599512af147875f312186653ef779bbb8e0fe151bb10d49b31e35f9fdae400"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-121-2012",
+   "path": "local/bucuresti/cgmb/2012/121",
+   "short": "HCGMB nr. 121/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 121/2012 PRIVIND APROBAREA ELABORARII UNUI STUDIU DE FUNDAMENTARE CARE SA PROSPECTEZE POSIBILITATEA DEMARARII UNUI PROIECT DE PARTENERIAT PUBLIC-PRIVAT REFERITOR LA GESTIUNEA SERVICIILOR ENERGETICE AFLATE IN ADMINISTRAREA MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31605",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31605/H121_12.pdf",
+     "sha256": "4fa26272186bd678bbb390b5f5d7f11e5d7ee208449a415bc842cfafd3213492"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-122-2012",
+   "path": "local/bucuresti/cgmb/2012/122",
+   "short": "HCGMB nr. 122/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 122/2012 PRIVIND APROBAREA PROGRAMULUI DE MASURI PENTRU IMBUNATATIREA EFICIENTEI ENERGETICE PENTRU CONSUMATORII FINALI DE ENERGIE DIN INSTITUTIILE PUBLICE DE INTERES LOCAL ALE MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31606",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31606/H122_12.pdf",
+     "sha256": "16c3ddad81853de7cb49df326db5ec105392e0ce450015b9e952ee23077b7f1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-123-2012",
+   "path": "local/bucuresti/cgmb/2012/123",
+   "short": "HCGMB nr. 123/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 123/2012 PENTRU PUNEREA IN APLICARE A ORDONANTEI GUVERNULUI NR. 16/2011 PRIVIND MODIFICAREA SI COMPLETAREA ORDONANTEI GUVERNULUI NR. 20/1994, PRIVIND MASURI PENTRU REDUCEREA RISCULUI SEISMIC AL CONSTRUCTIILOR EXISTENTE, IN VEDEREA FINANTARII DE LA BUGETUL LOCAL, IN LIMITA FONDURILOR ALOCATE ANUAL CU ACEASTA DESTINATIE, A CHELTUIELILOR PRIVIND PROIECTAREA SI EXECUTIA LUCRARILOR DE INTERVENTIE LA SPATIILE CU ALTA DESTINATIE DECAT CEA DE LOCUINTA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31607",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31607/H123_12.pdf",
+     "sha256": "ade21c243aff12a7445ddd4ba919bd1e23467f133933e5c216aa8b2a6c8a1ebd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-124-2012",
+   "path": "local/bucuresti/cgmb/2012/124",
+   "short": "HCGMB nr. 124/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 124/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31608",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31608/H124_12.pdf",
+     "sha256": "208b3aadb8fdd69864e40235db0d0ee33164e80a506a673b81b7dfa370b641cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-125-2012",
+   "path": "local/bucuresti/cgmb/2012/125",
+   "short": "HCGMB nr. 125/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 125/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31609",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31609/H125_12.pdf",
+     "sha256": "3c7afa1a030339f32fc548d3627c97a55633ead816e5b82539b0a5252e86ec57"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-126-2012",
+   "path": "local/bucuresti/cgmb/2012/126",
+   "short": "HCGMB nr. 126/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 126/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31610",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31610/H126_12.pdf",
+     "sha256": "0e38ae03fbc0046229243730bf4210e92cad2beffcec23cf6ea94430cf8a9e30"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-127-2012",
+   "path": "local/bucuresti/cgmb/2012/127",
+   "short": "HCGMB nr. 127/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 127/2012 PRIVIND APROBAREA RAPORTULUI PE ANUL 2011 PRIVIND STADIUL REALIZARII MASURILOR DIN PROGRAMUL INTEGRAT DE GESTIONARE A CALITATII AERULUI IN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31583",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31583/H127_12.pdf",
+     "sha256": "6cf983a3a777ee59b514e218c42a4fc3852ad42c502683d292ae36a447f02540"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-128-2012",
+   "path": "local/bucuresti/cgmb/2012/128",
+   "short": "HCGMB nr. 128/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 128/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31573",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31573/H0128_12.pdf",
+     "sha256": "49c182de5f48acd9527d1c35ce1a81f692ce07a6ce0b1aeb863c677a23e09451"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-129-2012",
+   "path": "local/bucuresti/cgmb/2012/129",
+   "short": "HCGMB nr. 129/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 129/2012 PENTRU APROBAREA \"PLANULUI COMITETULUI MUNICIPIULUI BUCURESTI PENTRU SITUATII DE URGENTA PE ANUL 2012\" PRIVIND ASIGURAREA RESURSELOR UMANE, MATERIALE SI FINANCIARE NECESARE GESTIONARII SITUATIILOR DE URGENTA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31574",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31574/H0129_12.pdf",
+     "sha256": "eb646ec83371a1a631c99b0cfd1f35653ff6dc5eea90536a0b78cfe8e2e9120c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-13-2012",
+   "path": "local/bucuresti/cgmb/2012/13",
+   "short": "HCGMB nr. 13/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 13/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30389",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30389/H013_12.pdf",
+     "sha256": "eb1b203459e4b6df0505dd73919ecd0c15ed81350ec9bd3bd5e14d8421696c5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-130-2012",
+   "path": "local/bucuresti/cgmb/2012/130",
+   "short": "HCGMB nr. 130/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 130/2012 PRIVIND APROBAREA PLANULUI DE ANALIZA SI ACOPERIRE A RISCURILOR AL MUNICIPIULUI BUCURESTI PENTRU ANUL 2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31575",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31575/H0130_12.pdf",
+     "sha256": "0efc4843faa71606463988bdde461ba4f3a2a314ec9739bcfd4f5152e2c778fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-131-2012",
+   "path": "local/bucuresti/cgmb/2012/131",
+   "short": "HCGMB nr. 131/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 131/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31577",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31577/H0131_12.pdf",
+     "sha256": "f875669b8e067151aa8cb40ab9633be12a8046970b8c8a593d9062700d0a4ee7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-132-2012",
+   "path": "local/bucuresti/cgmb/2012/132",
+   "short": "HCGMB nr. 132/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 132/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31581",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31581/H0132_12.pdf",
+     "sha256": "26710c352ae2ed4d73dd1a5b807436e90e6085e1a86a0590cf1bbc28174bdd3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-133-2012",
+   "path": "local/bucuresti/cgmb/2012/133",
+   "short": "HCGMB nr. 133/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 133/2012 PRIVIND REALIZAREA PROIECTULUI CULTURAL \"BUCURESTII LUI CARAGIALE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31585",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31585/H0133_12.pdf",
+     "sha256": "e762aa42fceca90458c9c103bd8198546c76e21094c258ffcbe10134ac6aef73"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-134-2012",
+   "path": "local/bucuresti/cgmb/2012/134",
+   "short": "HCGMB nr. 134/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 134/2012 SE APROBA REALIZAREA PROGRAMULUI MULTIANUAL \"PINACOTECA MUNICIPIULUI BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31586",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31586/H0134_12.pdf",
+     "sha256": "13d3f0554fe254523c84fff7db2f296b72be8bfdfdf587c4e86bb4d1af8e0e9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-135-2012",
+   "path": "local/bucuresti/cgmb/2012/135",
+   "short": "HCGMB nr. 135/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 135/2012 PENTRU APROBAREA REALIZARII STUDIULUI DE FEZABILITATE PRIVIND PROGRAMUL MULTIANUAL INTEGRARE SI DEZVOLTARE INFORMATICA A ACTIVITATILOR ECONOMICO - FINANCIARE ALE PRIMARIEI MUNICIPIULUI BUCURESTI SI INSTITUTIILOR DE SUBORDONARE LOCALA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31587",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31587/H0135_12.pdf",
+     "sha256": "68a577e985dd9b5c9a3020bb40e8ce2fad2f2a8323b45ff1e93fdacdfb329e7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-136-2012",
+   "path": "local/bucuresti/cgmb/2012/136",
+   "short": "HCGMB nr. 136/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 136/2012 PENTRU APROBAREA REGULAMENTULUI LOCAL DE IMPLICARE A PUBLICULUI IN ELABORAREA SAU REVIZUIREA PLANURILOR DE URBANISM SI DE AMENAJARE A TERITORIULUI CE INTRA IN COMPETENTA DE APROBARE A CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31584",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31584/H136_12.pdf",
+     "sha256": "ae00b37fb1a6b7f396d2ac3788d5eb2da2e2b2054c78d49d08384b98ccc59411"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-137-2012",
+   "path": "local/bucuresti/cgmb/2012/137",
+   "short": "HCGMB nr. 137/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 137/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31590",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31590/H137_12.pdf",
+     "sha256": "bf760dfa338f3a1b03d91446a43386138c522ccf0bffd1c09f840ff2f4a0faa9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-138-2012",
+   "path": "local/bucuresti/cgmb/2012/138",
+   "short": "HCGMB nr. 138/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 138/2012 PENTRU MODIFICAREA CODURILOR CAEN 5530 SI 5540 DIN HOTARAREA CGMB NR. 405/2009 PRIVIND STABILIREA NIVELURILOR IMPOZITELOR SI TAXELOR LOCALE IN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31589",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31589/H138_12.pdf",
+     "sha256": "b46f83a3fefe8207557cc3a21ed49865c82c2150049ba499406bde6506c078f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-139-2012",
+   "path": "local/bucuresti/cgmb/2012/139",
+   "short": "HCGMB nr. 139/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 139/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31591",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31591/H139_12.pdf",
+     "sha256": "978ab3c6c2aec9e43e920f502f081ecb6fef0547d442c7906f8e53b1d2bcc91e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-14-2012",
+   "path": "local/bucuresti/cgmb/2012/14",
+   "short": "HCGMB nr. 14/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 14/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30390",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30390/H014_12.pdf",
+     "sha256": "35dd843316013de7998574217b7493c18e78d6e5782db7308587ca5b92be4450"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-140-2012",
+   "path": "local/bucuresti/cgmb/2012/140",
+   "short": "HCGMB nr. 140/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 140/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31593",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31593/H140_12.pdf",
+     "sha256": "1bea8a926d9d8526fdddbde0b39062613ff3a17aca01310dc59f95306159892a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-141-2012",
+   "path": "local/bucuresti/cgmb/2012/141",
+   "short": "HCGMB nr. 141/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 141/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31611",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31611/H141_12.pdf",
+     "sha256": "f9d1874f08668f8e22a5c948ab4a315f94c9069b02addc94bf99d0af4311b17e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-142-2012",
+   "path": "local/bucuresti/cgmb/2012/142",
+   "short": "HCGMB nr. 142/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 142/2012 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI SI A DOCUMENTATIEI DE AVIZARE A LUCRARILOR DE INTERVENTIE PENTRU EXECUTIA LUCRARILOR DE CONSOLIDARE LA IMOBILUL SITUAT IN BUCURESTI, P-TA PACHE PROTOPOPESCU NR. 11, SECTOR 2 ART. 2 SI ANEXELE SE MODIFICA PRIN HCGMB NR. 394/2018 SE MODIFICA PRIN HCGMB NR. 362/2020",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31612",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31612/H142_12.pdf",
+     "sha256": "08c9d28ada9a7e0ff9dde304dfde8b886064cf9029cf080513b73b9805d63006"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-143-2012",
+   "path": "local/bucuresti/cgmb/2012/143",
+   "short": "HCGMB nr. 143/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 143/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31613",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31613/H143_12.pdf",
+     "sha256": "ec087db7e9b38d96bae52faf96ae158639a65119d5fe4b578af660546f27bbc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-144-2012",
+   "path": "local/bucuresti/cgmb/2012/144",
+   "short": "HCGMB nr. 144/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 144/2012 PRIVIND REINCADRAREA PE SECTIUNI A UNOR SUME IN BUGETUL PROPRIU AL MUNICIPIULUI BUCURESTI PE ANUL 2012, CORESPUNZATOR CLASIFICATIEI BUGETARE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31614",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31614/H144_12.pdf",
+     "sha256": "1dabc8faa0328c11d0d4634330c95a1e50f39ad72dd8b92eb6678f61931eebc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-145-2012",
+   "path": "local/bucuresti/cgmb/2012/145",
+   "short": "HCGMB nr. 145/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 145/2012 PRIVIND APROBAREA DOCUMENTATIEI DE URBANISM PLAN URBANISTIC ZONAL (PUZ) - BDUL BUCURESTII NOI NR. 50, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31615",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31615/H145_12.pdf",
+     "sha256": "4629d24b848aa160ceb1f363508049c424ce86e90e4f72b534a117f4d79f01bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-146-2012",
+   "path": "local/bucuresti/cgmb/2012/146",
+   "short": "HCGMB nr. 146/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 146/2012 PRIVIND APROBAREA REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE AL ADMINISTRATIEI SPITALELOR SI SERVICIILOR MEDICALE BUCURESTI CA URMARE A PRELUARII ANSAMBLULUI DE ATRIBUTII SI COMPETENTE EXERCITATE DE MINISTERUL SANATATII CU PRIVIRE LA ASISTENTA MEDICALA SI MEDICINA DENTARA DIN UNITATILE DE INVATAMANT PUBLIC PRESCOLAR, SCOLAR SI UNIVERSITAR DIN MUNICIPIUL BUCURESTI ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 305/2013",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31616",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31616/H146_12.pdf",
+     "sha256": "0d952d0c1e4a003f6d8d7bd185c5cb82c2f2e4edcf552b7683082b4419a1db55"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-147-2012",
+   "path": "local/bucuresti/cgmb/2012/147",
+   "short": "HCGMB nr. 147/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 147/2012 PRIVIND TRANSMITEREA SPATIULUI CU DESTINATIA DE \"PUNCT DE PRIM AJUTOR\" SITUAT IN PASAJUL UNIVERSITATII DIN ADMINISTRAREA ADMINISTRATIEI STRAZILOR BUCURESTI IN ADMINISTRAREA ADMINISTRATIEI SPITALELOR SI SERVICIILOR MEDICALE BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31588",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31588/H147_12.pdf",
+     "sha256": "79958d6eff5c1a6f6942bce362ca7483d8f0490da7abb0a230609a3d985ae9fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-148-2012",
+   "path": "local/bucuresti/cgmb/2012/148",
+   "short": "HCGMB nr. 148/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 148/2012 PRIVIND TRANSMITEREA SPATIILOR CU DESTINATIA DE \"PUNCT DE PRIM AJUTOR\" SITUATE IN INCINTA STADIONULUI NATIONAL LIA MANOLIU, DIN ADMINISTRAREA ADMINISTRATIEI LACURI, PARCURI, AGREMENT BUCURESTI IN ADMINISTRAREA ADMINISTRATIEI SPITALELOR SI SERVICIILOR MEDICALE BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31617",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31617/H148_12.pdf",
+     "sha256": "a64658ff2c78263a418a9c4a8621cdb974d2577a4a7722d968d66abd49d7aa55"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-149-2012",
+   "path": "local/bucuresti/cgmb/2012/149",
+   "short": "HCGMB nr. 149/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 149/2012 PRIVIND APROBAREA UNEI/UNOR FINANTARI RAMBURSABILE INTERNE SI/SAU EXTERNE IN VEDEREA TOTALA DE PANA LA 800.000.000 EURO SAU ECHIVALENT IN LEI, IN VEDEREA RESTRUCTURARII DATORIEI IN VALOARE DE PANA LA 500.000.000 EURO SI REALIZAREA DE INVESTITII",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31592",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31592/H149_12.pdf",
+     "sha256": "588350e35fe2b866eb5bff10087a404fe26f687235c3cd5efcc98dc0c06cec62"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-15-2012",
+   "path": "local/bucuresti/cgmb/2012/15",
+   "short": "HCGMB nr. 15/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 15/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30391",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30391/H015_12.pdf",
+     "sha256": "bdc1319f867cc393a60432c754e065c7bc3279d31c476907edb5c4a0854e7fa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-150-2012",
+   "path": "local/bucuresti/cgmb/2012/150",
+   "short": "HCGMB nr. 150/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 150/2012 SE CONSTITUIE COMISIA DE SELECTIE, FORMATA DIN 5 MEMBRI, SPECIALISTI IN RECRUTAREA RESURSELOR UMANE, PENTRU A INTREPRINDE TOATE DEMERSURILE LEGALE SI ADMINISTRATIVE IN VEDEREA ORGANIZARII PROCEDURII DE EVALUARE/SELECTIE PREALABILA PENTRU NUMIREA MEMBRILOR CONSILIULUI DE ADMINISTRATIE LA REGIILE AUTONOME DE INTERES LOCAL ALE CONSILIULUI DE ADMINISTRATIE LA REGIILE AUTONOME DE INTERES LOCAL ALE MUNICIPIULUI BUCURESTI SI LA SOCIETATILE COMERCIALE LA CARE MUNICIPALITATEA ESTE ACTIONAR UNIC, MAJORITAR SAU LA CARE DETINE CONTROLUL, DUPA CAZ. SE MODIFICA PRIN HCGMB NR. 212/2013 SE ABROGA PRIN HCGMB NR. 90/2014",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31501",
+   "versions": [
+    {
+     "from": "2012-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31501/H0150_12.pdf",
+     "sha256": "dbea91612f346bbe5d6d580e83fe52d8b60042684323e758fe4adef481486f3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-151-2012",
+   "path": "local/bucuresti/cgmb/2012/151",
+   "short": "HCGMB nr. 151/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 151/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31502",
+   "versions": [
+    {
+     "from": "2012-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31502/H0151_12.pdf",
+     "sha256": "cdf14b3dc26ca00cd614f05c1ccfaf9101cf7fbc7dbb2c443028e2761f5011cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-152-2012",
+   "path": "local/bucuresti/cgmb/2012/152",
+   "short": "HCGMB nr. 152/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 152/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31503",
+   "versions": [
+    {
+     "from": "2012-09-04",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31503/H0152_12.pdf",
+     "sha256": "22e375c12f98a52d6bf553f2c2b34f9fcf23dd2262c46b5256e2a1739ac283fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-153-2012",
+   "path": "local/bucuresti/cgmb/2012/153",
+   "short": "HCGMB nr. 153/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 153/2012 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA A CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PE PERIOADA 28.09.2012-27.12.2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31672",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31672/H153_12.pdf",
+     "sha256": "7a1fff3070067b95123297dd1358f3369670561783d126565ad359c4d44ebf32"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-154-2012",
+   "path": "local/bucuresti/cgmb/2012/154",
+   "short": "HCGMB nr. 154/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 154/2012 PRIVIND MAJORAREA BUGETULUI PROPRIU AL MUNICIPIULUI BUCURESTI PE ANUL 2012 CU SUME ALOCATE DIN BUGETUL MINISTERULUI SANATATII PENTRU FINANTAREA ACHIZITIONARII DE APARATURA MEDICALA DE URGENTA SI MODIFICARI IN STRUCTURA VENITURILOR BUGETULUI PE SECTIUNI MODIFICA HCGMB NR. 66/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31673",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31673/H154_12.pdf",
+     "sha256": "a246e4201d605b8af087e855798d042d5de258c57273fc844cdbe65a55626509"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-155-2012",
+   "path": "local/bucuresti/cgmb/2012/155",
+   "short": "HCGMB nr. 155/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 155/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31674",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31674/H155_12.pdf",
+     "sha256": "9e9d9a13e5dd31a44188ad090c123fd8e0e6964f705f9850081b510de814ac42"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-156-2012",
+   "path": "local/bucuresti/cgmb/2012/156",
+   "short": "HCGMB nr. 156/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 156/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31675",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31675/H156_12.pdf",
+     "sha256": "af950d32543130ffe485b2e5a6efa75c746d64ce2bda21288693a7651edd08dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-157-2012",
+   "path": "local/bucuresti/cgmb/2012/157",
+   "short": "HCGMB nr. 157/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 157/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31676",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31676/H157_12.pdf",
+     "sha256": "d33aa2b902ba8ebf24f74748fb57947ea78fb3e2d3fcd8c49a82f59c7cba5411"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-158-2012",
+   "path": "local/bucuresti/cgmb/2012/158",
+   "short": "HCGMB nr. 158/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 158/2012 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI STUDIULUI DE FEZABILITATE PENTRU OBIECTIVUL DE INVESTITII \"RECONFIGURARE INTERSECTIE SOS. PANTELIMON-BD. CHISINAU SI PASAJ RUTIER DENIVELAT SUBTERAN",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31677",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31677/H158_12.pdf",
+     "sha256": "6918967bc6e5c510f0d5a31b767b1f0b71dd0c7e5402f8562a13e9e44564d30c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-159-2012",
+   "path": "local/bucuresti/cgmb/2012/159",
+   "short": "HCGMB nr. 159/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 159/2012 PRIVIND INTEGRAREA TARIFARA PENTRU SISTEMUL DE TRANSPORT PUBLIC DIN MUNICIPIUL BUCURESTI SE MODIFICA PRIN HCGMB NR. 197/2012 SE ABROGA PRIN HCGMB NR. 606/2017",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31678",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31678/H159_12.pdf",
+     "sha256": "73088d663bf70a860609961d2d4ebd4e392275bbfdbc9684b865af86b0a90291"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-16-2012",
+   "path": "local/bucuresti/cgmb/2012/16",
+   "short": "HCGMB nr. 16/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 16/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30392",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30392/H016_12.pdf",
+     "sha256": "4d63491276519ece6bc3d460b7c32508b2c7af8a35cc47a4fa2fe645ad2f1dfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-160-2012",
+   "path": "local/bucuresti/cgmb/2012/160",
+   "short": "HCGMB nr. 160/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 160/2012 PRIVIND SOLICITAREA CATRE GUVERNUL ROMANIEI DE TRANSMITERE A UNOR SUPRAFETE CONSTRUITE DE 10,369 MP, DIN ADMINISTRAREA MINISTERULUI TRANSPORTURILOR SI INFRASTRUCTURII, IN ADMINISTRAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI IN VEDEREA REALIZARII UNOR PARCAJE SI SPATII PUBLICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31679",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31679/H160_12.pdf",
+     "sha256": "c09a02c45c9e8180041360f9fd4ac6ecbcdd3777515c666562970fdf0786316f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-161-2012",
+   "path": "local/bucuresti/cgmb/2012/161",
+   "short": "HCGMB nr. 161/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 161/2012 PRIVIND APROBAREA REGULAMENTULUI DE ORGANIZARE SI DESFASURARE A CONCURSULUI DE PROIECTE DE MANAGEMENT, PRECUM SI A REGULAMENTULUI DE ORGANIZARE SI DESFASURARE A EVALUARII MANAGEMENTULUI LA INSTITUTIILE PUBLICE DE CULTURA DE INTERES LOCAL AL MUNICIPIULUI BUCURESTI INCETEAZA APLICABILITATEA HCGMB NR. 110/2010 ART.3 ALIN 2 DIN ANEXA NR.1 SE MODIFICA PRIN HCGMB NR. 5/2013",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31680",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31680/H161_12.pdf",
+     "sha256": "f50c8f446a3ce73eca950d5eec26cf1e59d948cb51387f37b3b7fc6fee50a6b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-162-2012",
+   "path": "local/bucuresti/cgmb/2012/162",
+   "short": "HCGMB nr. 162/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 162/2012 PRIVIND APROBAREA BUGETULUI AUTORITATII MUNICIPALE DE REGLEMENTARE A SERVICIILOR PUBLICE (AMRSP) PE ANUL 2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31681",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31681/H162_12.pdf",
+     "sha256": "ee4cd53b023bb5e7e0a67d68c5fafbb1845391ea8971fa1b78f16b1acc028246"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-163-2012",
+   "path": "local/bucuresti/cgmb/2012/163",
+   "short": "HCGMB nr. 163/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 163/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31682",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31682/H163_12.pdf",
+     "sha256": "4e1958a63df3ef1d4a396691ba28dc8643d3814d35eb7394225d0bcfc252941b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-164-2012",
+   "path": "local/bucuresti/cgmb/2012/164",
+   "short": "HCGMB nr. 164/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 164/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31683",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31683/H164_12.pdf",
+     "sha256": "16ad2d3004ce5ef12a915b85b73228e5555b89fea4c01194db1579f71b81ebf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-165-2012",
+   "path": "local/bucuresti/cgmb/2012/165",
+   "short": "HCGMB nr. 165/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 165/2012 PRIVIND RETRAGEREA MUNICIPIULUI BUCURESTI DIN CADRUL ASOCIATIEI EUROCITIES",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31684",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31684/H165_12.pdf",
+     "sha256": "3ec1128953a30161991e5a25a4c5686f1ba92ec6e1c826ffc0eeb559a9d7d2c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-166-2012",
+   "path": "local/bucuresti/cgmb/2012/166",
+   "short": "HCGMB nr. 166/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 166/2012 PRIVIND APROBAREA CUANTUMULUI COTIZATIEI ANUALE A PRIMARIEI MUNICIPIULUI BUCURESTI LA ASOCIATIA METROPOLIS-CGLU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31685",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31685/H166_12.pdf",
+     "sha256": "19ea2585b64c89f13c62e1028ae29b09a9b492116045cfb8c3311997a78338ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-167-2012",
+   "path": "local/bucuresti/cgmb/2012/167",
+   "short": "HCGMB nr. 167/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 167/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31686",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31686/H167_12.pdf",
+     "sha256": "90169f8bb44c8b45cc3221bc414be757808972f8d039fd11dd1f7dc55e440131"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-168-2012",
+   "path": "local/bucuresti/cgmb/2012/168",
+   "short": "HCGMB nr. 168/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 168/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31687",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31687/H168_12.pdf",
+     "sha256": "2bb4f9e523c911f88cf251a0f5e878371c4d517508d6c6a1e5924a02a078ea2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-169-2012",
+   "path": "local/bucuresti/cgmb/2012/169",
+   "short": "HCGMB nr. 169/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 169/2012 PRIVIND ALOCAREA SUMEI DE 1.000 MII LEI DIN FONDUL DE REZERVA LA DISPOZITIA AUTORITATILOR MUNICIPIULUI BUCURESTI IN BUGETUL PE ANUL 2012 CATRE MUNICIPIUL RAMNICU VALCEA PENTRU SUSTINEREA ECHIPEI LOCALE DE HANDBAL FEMININ OLTCHIM RAMNICU VALCEA MODIFICA HCGMB NR. 66/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31688",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31688/H169_12.pdf",
+     "sha256": "e886671a7577ad5b13eef8e63c9cdec052bbdd8dbc137d863321874c2106521e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-17-2012",
+   "path": "local/bucuresti/cgmb/2012/17",
+   "short": "HCGMB nr. 17/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 17/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30393",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30393/H017_12.pdf",
+     "sha256": "a5d8bcd945abac09be693a7e6917616af480815e32b47a05df317e495d7f91dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-170-2012",
+   "path": "local/bucuresti/cgmb/2012/170",
+   "short": "HCGMB nr. 170/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 170/2012 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA A CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PENTRU SEDINTA DE INDATA DIN DATA DE 02.10.2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31621",
+   "versions": [
+    {
+     "from": "2012-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31621/H170_12.pdf",
+     "sha256": "c8ee830e83ba340da28a0492d1dbc3bd923671714fad641a7901a39b56984bc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-171-2012",
+   "path": "local/bucuresti/cgmb/2012/171",
+   "short": "HCGMB nr. 171/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 171/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31622",
+   "versions": [
+    {
+     "from": "2012-10-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31622/H171_12.pdf",
+     "sha256": "363f9ee9d5f45d8be27ea4044d09c40273c01d79e33209600e5866c40f1cc7d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-172-2012",
+   "path": "local/bucuresti/cgmb/2012/172",
+   "short": "HCGMB nr. 172/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 172/2012 PRIVIND INITIEREA IN REGIM DE URGENTA A PROCEDURII PENTRU ASIGURAREA SERVICIULUI DE SALUBRIZARE STRADALA SI A SERVICIULUI DE IARNA IN SECTORUL 5 AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31843",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31843/H172_12.pdf",
+     "sha256": "fcc30489da6a1bfb8f312c132c04e377b3bb702fd577debdfd7c3e40cee63429"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-173-2012",
+   "path": "local/bucuresti/cgmb/2012/173",
+   "short": "HCGMB nr. 173/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 173/2012 PRIVIND REDISTRIBUIREA PE SECTIUNI SI MODIFICARI IN STRUCTURA BUGETULUI PE ANUL 2012 AL UNOR INSTITUTII DE INTERES LOCAL SI VIRARI DE CREDITE BUGETARE INTRE CAPITOLE BUGETARE DE CHELTUIELI IN BUGETUL PROPRIU AL MUNICIPIULUI BUCURESTI PE ANUL 2012 MODIFICA HCGMB NR. 66/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31831",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31831/H173_12.pdf",
+     "sha256": "4b05a0fd32d201cb1f4d3727198f99b23f99244fdb22af86b763d07f80d55f98"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-174-2012",
+   "path": "local/bucuresti/cgmb/2012/174",
+   "short": "HCGMB nr. 174/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 174/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31832",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31832/H174_12.pdf",
+     "sha256": "4a3d1bd0cdab4c667eed177aa69370145e049cf98e649b1442c516e3d2986952"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-175-2012",
+   "path": "local/bucuresti/cgmb/2012/175",
+   "short": "HCGMB nr. 175/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 175/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31833",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31833/H175_12.pdf",
+     "sha256": "398c2828b0205b5fc0fd78c95a5bdc0048d66cdfab8cfb7b30b0ea9daecce443"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-176-2012",
+   "path": "local/bucuresti/cgmb/2012/176",
+   "short": "HCGMB nr. 176/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 176/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31847",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31847/H176_12.pdf",
+     "sha256": "02f283067384826a58fee06cacd32bce7cc50d5af842665997d364862be3dd4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-177-2012",
+   "path": "local/bucuresti/cgmb/2012/177",
+   "short": "HCGMB nr. 177/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 177/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31850",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31850/H177_12.pdf",
+     "sha256": "21757c346d2857482392aea0b6e18026abf5e0e96f768112d43a3fb42863007d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-178-2012",
+   "path": "local/bucuresti/cgmb/2012/178",
+   "short": "HCGMB nr. 178/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 178/2012 PRIVIND IMPUTERNICIREA PRIMARULUI GENERAL AL MUNICIPIULUI BUCURESTI IN VEDEREA NEGOCIERII TERMENILOR SI CONDITIILOR UNUI MEMORANDUM AVAND CA OBIECTIV REALIZAREA SERVICIULUI PUBLIC DE ALIMENTARE CU ENERGIE TERMICA IN MUNICIPIUL BUCURESTI- PRODUCERE, TRANSPORT, DISTRIBUTIE SI FURNIZARE PRIN INTERMEDIUL UNUI SISTEM INTEGRAT DE ALIMENTARE CENTRALIZATA CU ENERGIE TERMICA, CU MINISTERUL ECONOMIEI SI MEDIULUI DE AFACERI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31853",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31853/H178_12.pdf",
+     "sha256": "d705e6cf563976d4c3b1a4437158069f1d3a5213eb7e6b7ae77f0bcc95ac3014"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-179-2012",
+   "path": "local/bucuresti/cgmb/2012/179",
+   "short": "HCGMB nr. 179/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 179/2012 PRIVIND APROBAREA INCHEIERII INTELEGERII PRIETENESTI DE INFRATIRE SI COOPERARE INTRE CONSILIUL LOCAL AL SECTORULUI 1 AL MUNICIPIULUI BUCURESTI(ROMANIA) SI DISTRICTUL BEYOGLU - ISTANBUL(TURCIA)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31855",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31855/H179_12.pdf",
+     "sha256": "c66ce2943660cdc827c1e5ff3c518bf49678ebf4ec6fba4382d33553f7befc63"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-18-2012",
+   "path": "local/bucuresti/cgmb/2012/18",
+   "short": "HCGMB nr. 18/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 18/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30394",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30394/H018_12.pdf",
+     "sha256": "c40fc3c6b8ce3a0178da1442e12e4ca725593e971657c553ba876ba3380b70ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-180-2012",
+   "path": "local/bucuresti/cgmb/2012/180",
+   "short": "HCGMB nr. 180/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 180/2012 PRIVIND APROBAREA PARTICIPARII MUNICIPIULUI BUCURESTI LA PROIECTUL EUROPEAN URBIQUITOUS \"MANAGEMENTUL TRANSPORTULUI URBAN PRIN ACCESIBILIZAREA PRETUTINDENI A INFORMATIEI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31856",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31856/H180_12.pdf",
+     "sha256": "61b634dd365d43f5879dd6d6856e9754d5e4018a9c2da499c7af7ba98ebdf07c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-181-2012",
+   "path": "local/bucuresti/cgmb/2012/181",
+   "short": "HCGMB nr. 181/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 181/2012 PENTRU ATRAGEREA DE FINANTARI DIN SPONSORIZARI SI DONATII SI FOLOSIREA FINANTARILOR IN DEZVOLTAREA UNOR PROIECTE DE INTERES PUBLIC GENERAL , IN DOMENIUL RELATIILOR PUBLICE SI INFORMARII PUBLICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31857",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31857/H181_12.pdf",
+     "sha256": "68a905f87db6ab43e7167f5a5238ce47badd8a25151abea9d03a8cd81d638566"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-182-2012",
+   "path": "local/bucuresti/cgmb/2012/182",
+   "short": "HCGMB nr. 182/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 182/2012 PRIVIND INCHEIEREA UNOR CONTRACTE SUBSECVENTE LA ACORDURILE CADRU INCHEIATE DE MUNICIPIUL BUCURESTI PENTRU ACHIZITIONAREA DE SERVICII JURIDICE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31858",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31858/H182_12.pdf",
+     "sha256": "d7fb5fc50feada907b6783ca6ace0d3ca0131cd0d70a819235f96c32497af164"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-183-2012",
+   "path": "local/bucuresti/cgmb/2012/183",
+   "short": "HCGMB nr. 183/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 183/2012 PRIVIND APROBAREA PARTICIPARII DIRECTIEI GENERALE DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI, IN CALITATE DE COORDONATOR AL PROIECTELOR \"MUNCA SOCIALA STRADALA SI DE PROXIMITATE: ADAPTAREA LA REALITATE\" SI \"DREPTUL LA DREPTURI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31837",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31837/H183_12.pdf",
+     "sha256": "7b2bf820306f36457b04c79d79e857e93934f9a78cce30914184bfcee6f5814d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-184-2012",
+   "path": "local/bucuresti/cgmb/2012/184",
+   "short": "HCGMB nr. 184/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 184/2012 PRIVIND APROBAREA PARTICIPARII DIRECTIEI GENERALE DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI, IN CALITATE DE PARTENER LA PROIECTUL \"SERVICII INTEGRATE DE FORMARE PENTRU ASISTENTA SOCIALA A PERSOANELOR VULNERABILE PENTRU INTEGRAREA ACESTORA PE PIATA MUNCII\"(CONTRACT DE FINANTARE POSDRU/96/6.2/S/62487)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31840",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31840/H184_12.pdf",
+     "sha256": "463df5419ee664dcc4d9fd444fd3376c63f54f1d9a2f58696bf9d1d3432a5c51"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-185-2012",
+   "path": "local/bucuresti/cgmb/2012/185",
+   "short": "HCGMB nr. 185/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 185/2012 PRIVIND APROBAREA ACORDULUI DE ASOCIERE INCHEIAT INTRE DIRECTIA GENERALA DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI, FUNDATIA CRUCEA ALB-GALBENA SI ASOCIATIA DE AJUTOR MUTUAL BUCURESTI IN VEDEREA ASIGURARII CONTINUITATII PROIECTULUI \"CENTRUL PILOT DE COORDONARE A SERVICIILOR DE INGRIJIRI LA DOMICILIU DIN MUNICIPIUL BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31841",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31841/H185_12.pdf",
+     "sha256": "6382bc4c37f75e4dad50f90683c264877efdf601ef5a88a05b8a9d7a8f39c618"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-186-2012",
+   "path": "local/bucuresti/cgmb/2012/186",
+   "short": "HCGMB nr. 186/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 186/2012 PRIVIND APROBAREA ACORDULUI DE ASOCIERE DINTRE MUNICIPIUL BUCURESTI, PRIN DIRECTIA GENERALA DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI SI ASOCIATIA\"AGENTIA ADVENTISTA PENTRU DEZVOLTARE, REFACERE SI AJUTOR\" - ADRA ROMANIA, IN VEDEREA IMPLEMENTARII IN COMUN A PROIECTULUI PRIVIND SUSTINEREA \"CENTRULUI DE PRIMIRE IN REGIM DE URGENTA A VICTIMELOR VIOLENTEI - CASA ADRA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31836",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31836/H186_12.pdf",
+     "sha256": "f23315d5e3cdd4b1b75697e56b086f0f31f243c905fbfc0c6ad952cd128ff307"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-187-2012",
+   "path": "local/bucuresti/cgmb/2012/187",
+   "short": "HCGMB nr. 187/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 187/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31838",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31838/H187_12.pdf",
+     "sha256": "b10ff9fc966f08803e7b7540084ff66b06b0859cdcb3645981da5e61f9b3b634"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-188-2012",
+   "path": "local/bucuresti/cgmb/2012/188",
+   "short": "HCGMB nr. 188/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 188/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31839",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31839/H188_12.pdf",
+     "sha256": "f56366e63b8ecd1317661654ea039817eb6e22e10906bd7af0d0ad7cd399c67f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-189-2012",
+   "path": "local/bucuresti/cgmb/2012/189",
+   "short": "HCGMB nr. 189/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 189/2012 PRIVIND APROBAREA REGULAMENTULUI COMISIEI DE SELECTIE SI A ANUNTURILOR PUBLICE PENTRU EVALUAREA/SELECTIA PREALABILA IN VEDEREA NUMIRII MEMBRILOR CONSILIULUI DE ADMINISTRATIE LA REGIILE AUTONOME DE INTERES LOCAL AL MUNICIPIULUI BUCURESTI SI LA SOCIETATILE COMERCIALE LA CARE MUNICIPALITATEA ESTE ACTIONAR UNIC, MAJORITAR SAU LA CARE DETINE CONTROLUL SE MODIFICA PRIN HCGMB NR. 207/2013 SE ABROGA PRIN HCGMB NR. 57/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31844",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31844/H189_12.pdf",
+     "sha256": "f983d10d731dbc41684d9014d14acd8e52cd7b19eb1af6ad46a2fe2047266cec"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-19-2012",
+   "path": "local/bucuresti/cgmb/2012/19",
+   "short": "HCGMB nr. 19/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 19/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30395",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30395/H019_12.pdf",
+     "sha256": "fc22278159de6394014c1d3242dc4fdf2e79932ec237d116323b68bf328a9e12"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-190-2012",
+   "path": "local/bucuresti/cgmb/2012/190",
+   "short": "HCGMB nr. 190/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 190/2012 PRIVIND IMPUTERNICIREA CONSILIULUI LOCAL AL SECTOTULUI 3 DE A HOTARI CU PRIVIRE LA ASOCIEREA SAU COOPERAREA CU AUTORITATI ALE ADMINISTRATIEI PUBLICE LOCALE DIN REGIUNEA BUCURESTI-ILFOV PENTRU A CREA UN FORUM EUROPEAN EDUCATIONAL PENTRU MANAGEMENT SCOLAR AL REGIUNII BUCURESTI - ILFOV",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31834",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31834/H190_12.pdf",
+     "sha256": "e59d5ec07637ea50f3b5cb004f6f8abe3a0cf2589c5b6ec6185613effcb6bcb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-191-2012",
+   "path": "local/bucuresti/cgmb/2012/191",
+   "short": "HCGMB nr. 191/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 191/2012 PRIVIND IMPUTERNICIREA CONSILIULUI LOCAL AL SECTOTULUI 3 DE A HOTARI CU PRIVIRE LA INFIINTAREA UNEI ASOCIATII DE DEZVOLATARE INTERCOMUNITARA IMPREUNA CU UNITATILE ADMINISTRATIV - TERITORIALE LIMITROFE, RESPECTIV COMUNELE GLINA, CERNICA, ORASELE PANTELIMON SI POPESTI - LEORDENI, PENTRU FURNIZAREA IN COMUN A SERVICIILOR DE INTERES LOCAL",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31835",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31835/H191_12.pdf",
+     "sha256": "607cf756de0c3bd6f36738dc906d12c8a87919272603c685a84fb7206c62686d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-192-2012",
+   "path": "local/bucuresti/cgmb/2012/192",
+   "short": "HCGMB nr. 192/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 192/2012 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL MODERNIZAREA CENTURII RUTIERE A MUNICIPIULUI BUCURESTI INTRE A1-DN7 SI A2 (KM. 23+600 - KM. 55+520)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31846",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31846/H192_12.pdf",
+     "sha256": "2c697d6e21fb6dfb2eb642e6fd70e096eed1cd4f181179e19dbeb16ed34f1f4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-193-2012",
+   "path": "local/bucuresti/cgmb/2012/193",
+   "short": "HCGMB nr. 193/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 193/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31848",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31848/H193_12.pdf",
+     "sha256": "f6550b5c1895dc6bdaf7c049f9c597279b715a47ea3d76284c2df072cec52218"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-194-2012",
+   "path": "local/bucuresti/cgmb/2012/194",
+   "short": "HCGMB nr. 194/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 194/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31842",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31842/H194_12.pdf",
+     "sha256": "6453868b1fd6ef2bf0996ba48016f70665e0a7f677c0f14c5fff8199837b8031"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-195-2012",
+   "path": "local/bucuresti/cgmb/2012/195",
+   "short": "HCGMB nr. 195/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 195/2012 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL B-DUL BUCURESTII NOI NR.166A - 166B (FOST NR. 166), SECTOR 1, BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31845",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31845/H195_12.pdf",
+     "sha256": "d25a2ee9a6e73164746f9997d93bdfdaac17d45ee67eb4000d896d73167a6100"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-196-2012",
+   "path": "local/bucuresti/cgmb/2012/196",
+   "short": "HCGMB nr. 196/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 196/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31849",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31849/H196_12.pdf",
+     "sha256": "cb35f01858e347424bb06b53bd44d2b13e33d0084bf05ddd8d9fa87ab757dee3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-197-2012",
+   "path": "local/bucuresti/cgmb/2012/197",
+   "short": "HCGMB nr. 197/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 197/2012 PENTRU MODIFICAREA HOTARARII NR. 159/2012 PRIVIND INTEGRAREA TARIFARA PENTRU SISTEMUL DE TRANSPORT PUBLIC DIN MUNICIPIUL BUCURESTI MODIFICA HCGMB NR. 159/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31851",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31851/H197_12.pdf",
+     "sha256": "8e9f58febf21cc272b7ef0b6f69868c356263a2a53fab5db3f273697077bd439"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-198-2012",
+   "path": "local/bucuresti/cgmb/2012/198",
+   "short": "HCGMB nr. 198/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 198/2012 PRIVIND DESEMNAREA UNOR CONSILIERI DIN CADRUL CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI CA MEMBRII IN COMISIA DE EVALUARE A OFERTELOR SI COMISIA DE SOLUTIONARE A CONTESTATIILOR PRIVIN CONCESIONAREA TERENURILOR, DESTINATE CONSTRUIRII, APARTINAND DOMENIULUI PRIVAT/PUBLIC AL MUNICIPIULUI BUCURESTI ABROGA HCGMB NR. 237/2009 SE ABROGA PRIN HCGMB NR. 191/2016",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31852",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31852/H198_12.pdf",
+     "sha256": "1e25c219a6048673267c7fc21526726b4256582722bc0c269037e40d54f386c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-199-2012",
+   "path": "local/bucuresti/cgmb/2012/199",
+   "short": "HCGMB nr. 199/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 199/2012 PRIVIND NUMIREA UNUI REPREZENTANT IN COMISIA MUNICIPIULUI BUCURESTI PENTRU STABILIREA DREPTULUI DE PROPRIETATE PRIVATA ASUPRA TERENURILOR ABROGA HCGMB NR. 291/2007 SE ABROGA PRIN HCGMB NR. 110/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31854",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31854/H199_12.pdf",
+     "sha256": "1b358ad88687d59f62e61ed624e6505a9bf9cd820b8c293d88fa0944ff721f6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-2-2012",
+   "path": "local/bucuresti/cgmb/2012/2",
+   "short": "HCGMB nr. 2/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 2/2012 PRIVIND APROBAREA DEFINITIVA A REZULTATULUI EXECUTIEI BUGETULUI PE ANUL 2011 CONFORM ORDINULUI MINISTRULUI FINANTELOR PUBLICE NR. 2985/2011 MODIFICAT PRIN ORDINUL MINISTRULUI FINANTELOR PUBLICE NR. 18/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30315",
+   "versions": [
+    {
+     "from": "2012-01-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30315/H002_12.pdf",
+     "sha256": "68ce84bd71a6310cf957e6c07f762020127c4e980eb554f2bc904b81e2bd0b65"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-20-2012",
+   "path": "local/bucuresti/cgmb/2012/20",
+   "short": "HCGMB nr. 20/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 20/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30396",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30396/H020_12.pdf",
+     "sha256": "cda0e96cca89675e33e9934dbda0f3d3ffef17336ba9886bd54efabf06e8bac2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-200-2012",
+   "path": "local/bucuresti/cgmb/2012/200",
+   "short": "HCGMB nr. 200/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 200/2012 PRIVIND PRELUNGIREA CONTRACTULUI DE INCHIRIERE APROBAT PRIN HOTARAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 352/22.10.2009 COMPLETEAZA HCGMB NR. 352/2009",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31988",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31988/H200_12.pdf",
+     "sha256": "a35484a1d3ce2924c489d2ac5384fb4d3d837e57139a4fc8459be0bb86b200ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-201-2012",
+   "path": "local/bucuresti/cgmb/2012/201",
+   "short": "HCGMB nr. 201/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 201/2012 PRIVIND RECTIFICAREA BUGETULUI PROPRIU AL MUNICIPIULUI BUCURESTI PE ANUL 2012 PENTRU A CONSULTA ANEXELE DATI CLIC AICI MODIFICA HCGMB NR. 66/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31930",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31930/H201_2012.pdf",
+     "sha256": "5b6c9861a3073d4d0e394aba65c71e03b2f11b087d6f35d8efeac1a72e3fc30f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-202-2012",
+   "path": "local/bucuresti/cgmb/2012/202",
+   "short": "HCGMB nr. 202/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 202/2012 PRIVIND APROBAREA MEMORANDUMULUI AVAND CA OBIECTIV REALIZAREA SERVICIULUI PUBLIC DE ALIMENTARE CU ENERGIE TERMICA IN MUNICIPIUL BUCURESTI - PRODUCERE, TRANSPORT, DISTRIBUTIE SI FURNIZARE PRIN INTERMEDIUL UNUI SISTEM INTEGRAT DE ALIMENTARE CENTRALIZATA CU ENERGIE TERMICA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31987",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31987/H202_12.pdf",
+     "sha256": "00d5aacc05b8cd525f2b8ae53d43c9074d2778716f5fbc49cb6b266aa50bc22a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-203-2012",
+   "path": "local/bucuresti/cgmb/2012/203",
+   "short": "HCGMB nr. 203/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 203/2012 PRIVIND DECLARAREA CA BUNURI APARTINAND DOMENIULUI PUBLIC A UNOR TERENURI DIN MUNICIPIUL BUCURESTI SI TRANSMITEREA ACESTORA IN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 5 MODIFICA SI COMPLETEAZA ANEXA LA HCGMB NR. 186/2008",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31989",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31989/H203_12.pdf",
+     "sha256": "3202de60b47031067cde1afbe659fc10712ac568838cb07aa159fc0d40b6b1e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-204-2012",
+   "path": "local/bucuresti/cgmb/2012/204",
+   "short": "HCGMB nr. 204/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 204/2012 PRIVIND IMPUTERNICIREA CONSILIULUI LOCAL AL SECTORULUI 3 DE A HOTARI CU PRIVIRE LA INFIINTAREA UNEI SOCIETATI COMERCIALE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31931",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31931/H204_12.pdf",
+     "sha256": "4e38390f7b0968f91a861c6b9b717da02a74f94bccd92285178f387ecd978388"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-205-2012",
+   "path": "local/bucuresti/cgmb/2012/205",
+   "short": "HCGMB nr. 205/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 205/2012 PRIVIND IMPUTERNICIREA CONSILIULUI LOCAL AL SECTORULUI 6 DE A HOTARI CU PRIVIRE LA COOPERAREA DIRECTIEI GENERALE DE ASISTENTA SOCIALA SI PROTECTIA COPILULUI SECTOR 6 CU ASOCIATIA \"CENTRUL CRESTIN BUCURESTI\" IN VEDEREA IMPLEMENTARII PROIECTULUI \"CENTRUL PILOT MULTIFUNCTIONAL ROMANIA KIDS\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31990",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31990/H205_12.pdf",
+     "sha256": "338c247b3b28ddfb9f00c14504b1b7f5e365b1afc527081e9a1af570e7b01a20"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-206-2012",
+   "path": "local/bucuresti/cgmb/2012/206",
+   "short": "HCGMB nr. 206/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 206/2012 PRIVIND ADERAREA MUNICIPIULUI BUCURESTI LA ORGANIZATIA MONDIALA A ORASELOR SI ADMINISTRATIILOR LOCALE IN DOMENIUL GUVERNARII ELECTRONICE (WE GO)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31991",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31991/H206_12.pdf",
+     "sha256": "ca2cdb157187c055cf694dccc0b98570b8b21bbd1e8ee9e2cea2f001ca366c8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-207-2012",
+   "path": "local/bucuresti/cgmb/2012/207",
+   "short": "HCGMB nr. 207/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 207/2012 PRIVIND APROBAREA LISTEI DE ATRIBUIRE PROPUSA DE CATRE \"COMISIA DE EVALUARE A SITUATIILOR SOCIALE DEOSEBITE IN CARE SE GASESC CETATENII MUNICIPIULUI BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31992",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31992/H207_12.pdf",
+     "sha256": "143d1dea5aba3ba2a52bd30a69ee1b1a958fbe66669ac26f4f9222de6224ec5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-208-2012",
+   "path": "local/bucuresti/cgmb/2012/208",
+   "short": "HCGMB nr. 208/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 208/2012 PENTRU MODIFICAREA HOTARARII CGMB NR. 228/28.11.2011 PRIVIND APROBAREA PROIECTULUI \"IMPLEMENTAREA UNUI SISTEM INTEGRAT DE E-SANATATE IN CADRUL SPITALULUI DE BOLI CRONICE \"SF. LUCA\" PENTRU FACILITAREA ACCESULUI CETATENILOR LA SERVICII MEDICALE DE CALITATE\" SI A CHELTUIELILOR LEGATE DE PROIECT PRIN PROGRAMUL OPERATIONAL SECTORIAL CRESTEREA COMPETITIVITATII ECONOMICE 2007-2013, AXA PRIORITARA III, DOMENIUL MAJOR DE INTERVENTIE 2, OPERATIUNEA 4 SUSTINEREA IMPLEMENTARII DE SOLUTII DE E-SANATATE SI ASIGURAREA CONEXIUNII DE BROADBAND ACOLO UNDE ESTE NECESAR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31993",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31993/H208_12.pdf",
+     "sha256": "b2b6e2fd610828dcc0f5dcb57ca7f3b01d16af02bd6d25892b7a05441cdde040"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-209-2012",
+   "path": "local/bucuresti/cgmb/2012/209",
+   "short": "HCGMB nr. 209/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 209/2012 PRIVIND REPARTIZAREA PE SECTOARELE MUNICIPIULUI BUCURESTI A SUMELOR PENTRU FINANTAREA DREPTURILOR PRIVIND ACORDAREA DE PRODUSE LACTATE SI PANIFICATIE PENTRU ELEVII DIN INVATAMANTUL PRIMAR SI GIMNAZIAL DE STAT SI PRIVAT, PRECUM SI PENTRU COPII PRESCOLARI DIN GRADINITELE DE STAT SI PRIVATE CU PROGRAM NORMAL DE 4 ORE, CONFORM OUG NR. 61/2012 MODIFICA SI COMPLETEAZA HCGMB NR. 40/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31994",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31994/H209_12.pdf",
+     "sha256": "ce5d69e9cf177d9b2020321dfe27cb583f6f87e1a8fb10f008677fe3682c1c49"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-21-2012",
+   "path": "local/bucuresti/cgmb/2012/21",
+   "short": "HCGMB nr. 21/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 21/2012 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL B-DUL NICOLAE GRIGORESCU NR. 117-121, SECTOR 3",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30397",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30397/H021_12.pdf",
+     "sha256": "fbb5c91894d3810868f87f577caef6259632c71ea39ece696532857e7bf97598"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-210-2012",
+   "path": "local/bucuresti/cgmb/2012/210",
+   "short": "HCGMB nr. 210/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 210/2012 PRIVIND STABILIREA PRETURILOR MEDII ALE PRODUSELOR AGRICOLE PENTRU MUNICIPIUL BUCURESTI, PENTRU ANUL 2013",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31996",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31996/H210_12.pdf",
+     "sha256": "77de5bbcb5b1b38f6da737db43ed9223e5686857428d23d698d5e5964249d530"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-211-2012",
+   "path": "local/bucuresti/cgmb/2012/211",
+   "short": "HCGMB nr. 211/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 211/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31997",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31997/H211_12.pdf",
+     "sha256": "ee3d9742ad52b3851f6519a666c6fa1c9b76de674d47c950f8dee2fe42c7b898"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-212-2012",
+   "path": "local/bucuresti/cgmb/2012/212",
+   "short": "HCGMB nr. 212/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 212/2012 PRIVIND APROBAREA PLANULUI DE OCUPARE A FUNCTIILOR PUBLICE DIN CADRUL DIRECTIEI GENERALE DE POLITIE LOCALA SI CONTROL A MUNICIPIULUI BUCURESTI PENTRU ANUL 2013",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32002",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32002/H212_12.pdf",
+     "sha256": "882a8a3db2e59dbe2e54957c592cf1ccb63995cdc822494f8fc16441aa40205c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-213-2012",
+   "path": "local/bucuresti/cgmb/2012/213",
+   "short": "HCGMB nr. 213/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 213/2012 PRIVIND APROBAREA PLANULUI DE OCUPARE A A FUNCTIILOR PUBLICE DIN CADRUL DIRECTIEI GENERALE DE EVIDENTA A PERSOANELOR A MUNICIPIULUI BUCURESTI PENTRU ANUL 2013",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32003",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32003/H213_12.pdf",
+     "sha256": "86780bbdb6384325dc319cf47eadc92bc00941261f47ff54ca0f15fb96b331a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-214-2012",
+   "path": "local/bucuresti/cgmb/2012/214",
+   "short": "HCGMB nr. 214/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 214/2012 PRIVIND APROBAREA PLANULUI DE OCUPAREA A FUNCTIILOR PUBLICE DIN PRIMARIA MUNICIPIULUI BUCURESTI PENTRU ANUL 2013",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32004",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32004/H214_12.pdf",
+     "sha256": "429ce73b8f2a46b74d65db110b36cecfe85fdc257d575c82a4967e6c25080d6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-215-2012",
+   "path": "local/bucuresti/cgmb/2012/215",
+   "short": "HCGMB nr. 215/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 215/2012 PRIVIND NECESITATEA ACHIZITIONARII DE CATRE ADMINISTRATIA LACURI, PARCURI SI AGREMENT BUCURESTI A UNOR SERVICII DE ASISTENTA SI REPREZENTARE JURIDICA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32005",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32005/H215_12.pdf",
+     "sha256": "5fba21c3d163515eef7b5a6f7e0f88cab7f40b39b31b6dca0cf4d94439973cb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-216-2012",
+   "path": "local/bucuresti/cgmb/2012/216",
+   "short": "HCGMB nr. 216/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 216/2012 PRIVIND APROBAREA BUGETULUI AUTORITATII MUNICIPALE DE REGLEMENTARE A SERVICIILOR PUBLICE (AMRSP)PE ANUL 2013",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32006",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32006/H216_12.pdf",
+     "sha256": "969130276d9b70074ad80d44b6b87f7e5883d71e3b1fe8c530586d477ad1b98a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-217-2012",
+   "path": "local/bucuresti/cgmb/2012/217",
+   "short": "HCGMB nr. 217/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 217/2012 PRIVIND TRANSMITEREA DIN ADMINISTRAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI IN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 5 A SPATIULUI CU ALTA DESTINATIE DECAT ACEEA DE LOCUINTA SITUAT LA PARTERUL BLOCULUI M23 DIN B-DUL OCTAVIAN GOGA NR. 12, SECTOR 3 ABROGA HCGMB NR. 374/2009 SUSPENDATA DE CATRE INSTANTA CURTII DE APEL BUCURESTI SECTIA A VIII-A CONTENCIOS ADMINISTRATIV SI FISCAL IN DOSARUL NR. 12550/3/2013. ANULATA PRIN SENTINTA CIVILA NR. 7430 DIN 12.11.2014 PRONUNTATA DE CATRE TRIBUNALUL BUCURESTI - SECTIA A II-A CONTENCIOS ADMINISTRATIV SI FISCAL",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32007",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32007/H217_12.pdf",
+     "sha256": "bfd6cf1867988717330ea8c3bd4b01a0877b22d352788d50e5643cc273c030e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-218-2012",
+   "path": "local/bucuresti/cgmb/2012/218",
+   "short": "HCGMB nr. 218/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 218/2012 PRIVIND APROBAREA PROIECTULUI \"CENTRUL DE CERCETARE TRANSLATIONALA IN PSIHIATRIE SI NEUROSTIINTE DIN CADRUL SPITALULUI CLINIC DE PSIHIATRIE PROF. DR. ALEXANDRU OBREGIA\" SI A CHELTUIELILOR LEGATE DE PROIECT PRIN PROGRAMUL OPERATIONAL SECTORIAL CRESTEREA COMPETITIVITATII ECONOMICE 2007-2013 AXA PRIORITARA II, DOMENIUL MAJOR DE INTERVENTIE 2, OPERATIUNEA 2.2.1 DEZVOLTAREA INFRASTRUCTURII CERCETARE DEZVOLTARE (CD) EXISTENTE SI CREAREA DE NOI INFRASTRUCTURI CD (LABORATOARE, CENTRE DE CERCETARE)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32008",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32008/H218_12.pdf",
+     "sha256": "e231db6de3fa506f905992799e9488cdaa8ac255ade4290b26a168f372ade01e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-219-2012",
+   "path": "local/bucuresti/cgmb/2012/219",
+   "short": "HCGMB nr. 219/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 219/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32009",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32009/H219_12.pdf",
+     "sha256": "11f7e21769e383d91aeb8f0999a6ff7193208dd2f1d96b5d4023ea88f994b052"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-22-2012",
+   "path": "local/bucuresti/cgmb/2012/22",
+   "short": "HCGMB nr. 22/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 22/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30398",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30398/H022_12.pdf",
+     "sha256": "edf02135dc49b53db19cbe8145728f8364e556ea5c6df85829897f03c777b680"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-220-2012",
+   "path": "local/bucuresti/cgmb/2012/220",
+   "short": "HCGMB nr. 220/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 220/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32010",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32010/H220_12.pdf",
+     "sha256": "f6a80dc1de3b48cdc5453ae28cf563bd427f19125ecd1a74726e29b6fe5a8a93"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-221-2012",
+   "path": "local/bucuresti/cgmb/2012/221",
+   "short": "HCGMB nr. 221/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 221/2012 PRIVIND APROBAREA ACHIZITIONARII DE CATRE ADMINSTRATIA SPITALELOR SI SERVICIILOR MEDICALE BUCURESTI A UNOR SERVICII DE CONSULTANTA, ASISTENTA SI REPREZENTARE JURIDICA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32011",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32011/H221_12.pdf",
+     "sha256": "8fd738e58e9e4f16a290d57f2472933efeff3e23cbf7ff4bf33da467e6139460"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-222-2012",
+   "path": "local/bucuresti/cgmb/2012/222",
+   "short": "HCGMB nr. 222/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 222/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32013",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32013/H222_12.pdf",
+     "sha256": "431c240da23cb8c397373d01a860fb278428fd206929ece23e5b5305f93eb43d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-223-2012",
+   "path": "local/bucuresti/cgmb/2012/223",
+   "short": "HCGMB nr. 223/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 223/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32014",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32014/H223_12.pdf",
+     "sha256": "332c986b853e74aa9672f8994e8d34840ff2a410e9e0b070589fa32840591df3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-224-2012",
+   "path": "local/bucuresti/cgmb/2012/224",
+   "short": "HCGMB nr. 224/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 224/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32015",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32015/H224_12.pdf",
+     "sha256": "89403b246318a7e99b763ae88ce80b785643793b37a0846e4722e9074efd2f94"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-225-2012",
+   "path": "local/bucuresti/cgmb/2012/225",
+   "short": "HCGMB nr. 225/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 225/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32016",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32016/H225_12.pdf",
+     "sha256": "03683dc60208863b4b42eb7f8aee20bbb2645a552eedb105b30f26fabba3ac21"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-226-2012",
+   "path": "local/bucuresti/cgmb/2012/226",
+   "short": "HCGMB nr. 226/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 226/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32017",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32017/H226_12.pdf",
+     "sha256": "c261658742defd4bff6c3f61f10bd4095ea916cc99b2f388c73c99d9763e0f31"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-227-2012",
+   "path": "local/bucuresti/cgmb/2012/227",
+   "short": "HCGMB nr. 227/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 227/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32018",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32018/H227_12.pdf",
+     "sha256": "b6f015d660223c5e88320331d506e0f7e636b0b9a957af9963db37d17b4aaf61"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-228-2012",
+   "path": "local/bucuresti/cgmb/2012/228",
+   "short": "HCGMB nr. 228/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 228/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32019",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32019/H228_12.pdf",
+     "sha256": "f7cac3d378f95f853c66ac7e5a0c6ee44fd6d80b29c3d4a7943145d0414d9454"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-229-2012",
+   "path": "local/bucuresti/cgmb/2012/229",
+   "short": "HCGMB nr. 229/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 229/2012 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL B-DUL ALEXANDRU OBREGIA NR. 19A SI NR. 19G, SECTOR 4",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32020",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32020/H229_12.pdf",
+     "sha256": "0d97539451eb45b5b3b75dce4d8093324e38916553662631117489b3ecf3639c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-23-2012",
+   "path": "local/bucuresti/cgmb/2012/23",
+   "short": "HCGMB nr. 23/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 23/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30399",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30399/H023_12.pdf",
+     "sha256": "896148c58e5037d15a1ee6f80f2907b156cb3745fdfe61e72fe1ef13492304bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-230-2012",
+   "path": "local/bucuresti/cgmb/2012/230",
+   "short": "HCGMB nr. 230/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 230/2012 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA A CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PE PERIOADA IANUARIE 2013- MARTIE 2013",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31998",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31998/H230_12.pdf",
+     "sha256": "514e4a90be018d02750dd26d4c818be5da5dfb3b18f2e41ef5d4bb7b047b22fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-231-2012",
+   "path": "local/bucuresti/cgmb/2012/231",
+   "short": "HCGMB nr. 231/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 231/2012 PRIVIND RECTIFICAREA BUGETULUI PROPRIU AL MUNICIPIULUI BUCURESTI PE ANUL 2012 PENTRU A CONSULTA ANEXELE DATI CLIC AICI MODIFICA HCGMB NR. 66/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31995",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31995/H231_12.pdf",
+     "sha256": "f773011b83daa89a6aec2ae96e656c7ff2bd11ceaeb64993c67666b057a4456f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-232-2012",
+   "path": "local/bucuresti/cgmb/2012/232",
+   "short": "HCGMB nr. 232/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 232/2012 PRIVIND PRELUNGIREA PERIOADEI DE VALABILITATE A PLANULUI URBANISTIC GENERAL AL MUNICIPIULUI BUCURESTI COMPLETEAZA HCGMB NR. 269/2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31999",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31999/H232_12.pdf",
+     "sha256": "478c68d55a0f0ec63bc259901448514e331ed6e03015bd27e30280080bf53a03"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-233-2012",
+   "path": "local/bucuresti/cgmb/2012/233",
+   "short": "HCGMB nr. 233/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 233/2012 PRIVIND APROBAREA ORGANIGRAMEI, A STATULUI DE FUNCTII SI A REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE ALE ADMINISTRATIEI LACURI, PARCURI SI AGREMENT BUCURESTI INCETEAZA APLICABILITATEA HCGMB NR. 351/2008 INCETEAZA APLICABILITATEA ANEXELOR 7A SI 7B ALE HCGMB NR. 174/2010 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 305/2013",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/32000",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/32000/H233_12.pdf",
+     "sha256": "01b06b0743de411e848f4be8423c189059da72c87e5679817c9cafc756f41d32"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-24-2012",
+   "path": "local/bucuresti/cgmb/2012/24",
+   "short": "HCGMB nr. 24/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 24/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30400",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30400/H024_12.pdf",
+     "sha256": "62147379bd6327010322543e733306e48b3819a3e7d03d253654e898890f3655"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-25-2012",
+   "path": "local/bucuresti/cgmb/2012/25",
+   "short": "HCGMB nr. 25/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 25/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30401",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30401/H025_12.pdf",
+     "sha256": "0aec237ebc5d5664f62e83e097bba7712d786a96acafc2ebeba7164ea70ac35d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-26-2012",
+   "path": "local/bucuresti/cgmb/2012/26",
+   "short": "HCGMB nr. 26/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 26/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30402",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30402/H026_12.pdf",
+     "sha256": "a742105b5a52874ac032b9217862dc39902bd537d6419ecee331c4f263d24680"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-27-2012",
+   "path": "local/bucuresti/cgmb/2012/27",
+   "short": "HCGMB nr. 27/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 27/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30403",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30403/H027_12.pdf",
+     "sha256": "9b6b75e7f7afafba3eca9ffa363d91bff2004a55799c0867808db57ccd548fb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-28-2012",
+   "path": "local/bucuresti/cgmb/2012/28",
+   "short": "HCGMB nr. 28/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 28/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30404",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30404/H028_12.pdf",
+     "sha256": "9c3017a6198e26e5b89474e298d92a8c597f756f49bce4ad18f3b54d30bc9cb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-29-2012",
+   "path": "local/bucuresti/cgmb/2012/29",
+   "short": "HCGMB nr. 29/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 29/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30405",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30405/H029_12.pdf",
+     "sha256": "1869f2ff3a0683dbb36e2f7f94db98f4aa4b727402b6121ee523909d5cd8f8e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-3-2012",
+   "path": "local/bucuresti/cgmb/2012/3",
+   "short": "HCGMB nr. 3/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 3/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30379",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30379/H003_12.pdf",
+     "sha256": "c196cda8f4e607792489e1f79c7dd53b6b1577cd7991a6c468b7d67eeac1c95b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-30-2012",
+   "path": "local/bucuresti/cgmb/2012/30",
+   "short": "HCGMB nr. 30/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 30/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30406",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30406/H030_12.pdf",
+     "sha256": "9e1d54ddf618b48df6cb4634e843ab9c47a48480f675101b61081de811de93e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-31-2012",
+   "path": "local/bucuresti/cgmb/2012/31",
+   "short": "HCGMB nr. 31/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 31/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30407",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30407/H031_12.pdf",
+     "sha256": "3904d0e3dd0d8445be4723bf7b12c84bdb5ed45572563fd8113ab5b8e4a2ccfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-32-2012",
+   "path": "local/bucuresti/cgmb/2012/32",
+   "short": "HCGMB nr. 32/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 32/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30408",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30408/H032_12.pdf",
+     "sha256": "645e3613a2a9e75a35b1ef504c6993647288bab47b970ff6ec201e5135a1f370"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-33-2012",
+   "path": "local/bucuresti/cgmb/2012/33",
+   "short": "HCGMB nr. 33/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 33/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30409",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30409/H033_12.pdf",
+     "sha256": "5c93e4564994d31c57a5b2c2070b30e833b998c03d52345bc9f72788e2d24568"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-34-2012",
+   "path": "local/bucuresti/cgmb/2012/34",
+   "short": "HCGMB nr. 34/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 34/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30410",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30410/H034_12.pdf",
+     "sha256": "49db4baa0e632a278e2bd4458258dc4d443c9f560e1ce3731e4a30d3bcb558ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-35-2012",
+   "path": "local/bucuresti/cgmb/2012/35",
+   "short": "HCGMB nr. 35/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 35/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30411",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30411/H035_12.pdf",
+     "sha256": "88f4a996635519d7c7007f5d258d6ea9d40e8f24c130d6341ade1b814b71eb6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-36-2012",
+   "path": "local/bucuresti/cgmb/2012/36",
+   "short": "HCGMB nr. 36/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 36/2012 PRIVIND INFIINTAREA UIP - FAZA 2 GLINA SI A COMPARTIMENTULUI - EFICIENTA ENERGETICA IN CADRUL DIRECTIEI UTILITATI PUBLICE SI REORGANIZARE UIP - ISPA DIN CADRUL DIRECTIEI DE MEDIU MODIFICA HCGMB NR. 174/2010",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30412",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30412/H036_12.pdf",
+     "sha256": "08574e41c8ddb37bceb489e912590e1a2617ea535c5e18ff5a0be04c522a2e0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-37-2012",
+   "path": "local/bucuresti/cgmb/2012/37",
+   "short": "HCGMB nr. 37/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 37/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30684",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30684/H037_12.pdf",
+     "sha256": "06086b19b349b65f21a6420a46d5f908864113e948bcd63d25afae898785c659"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-38-2012",
+   "path": "local/bucuresti/cgmb/2012/38",
+   "short": "HCGMB nr. 38/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 38/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30685",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30685/H038_12.pdf",
+     "sha256": "40cd3bf27b922dbc60e1f653beac7793cd27cec410ce4fbf11939c50f7fd2b46"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-39-2012",
+   "path": "local/bucuresti/cgmb/2012/39",
+   "short": "HCGMB nr. 39/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 39/2012 PRIVIND ACORDAREA UNOR AJUTOARE FINANCIARE DE URGENTA JUDETELOR VRANCEA SI BUZAU AFECTATE DE NINSORILE ABUNDENTE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30454",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30454/H039_12.pdf",
+     "sha256": "d3995ace516651687e2539458eea7c3c951347de4e2f685e540d09ae89dcc220"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-4-2012",
+   "path": "local/bucuresti/cgmb/2012/4",
+   "short": "HCGMB nr. 4/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 4/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30380",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30380/H004_12.pdf",
+     "sha256": "3bea2ba416ca3c8e95f7b36bc9be5b152144718fa6ee577fa2beab831cd1ff64"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-40-2012",
+   "path": "local/bucuresti/cgmb/2012/40",
+   "short": "HCGMB nr. 40/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 40/2012 PRIVIND REPARTIZAREA PE SECTOARELE MUNICIPIULUI BUCURESTI A SUMELOR DEFALCATE DIN TAXA PE VALOAREA ADAUGATA DESTINATE FINANTARII DREPTURILOR PRIVIND ACORDAREA DE PRODUSE LACTATE, DE PANIFICATIE, MIERE DE ALBINE SI IMPLEMENTARII CONSUMULUI DE FRUCTE PROASPETE IN SCOLI CONFORM LEGII BUGETULUI DE STAT PE ANUL 2012 SE MODIFICA SI COMPLETEAZA PRIN HCGMB NR. 209/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30686",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30686/H040_12.pdf",
+     "sha256": "5cbcc9a5263bb128f9dd4948f7ce3dd20393941a0ef0c3e91e04f03a207b3f02"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-41-2012",
+   "path": "local/bucuresti/cgmb/2012/41",
+   "short": "HCGMB nr. 41/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 41/2012 PRIVIND REPARTIZAREA PE SECTOARELE MUNICIPIULUI BUCURESTI A SUMELOR DIN COTELE DEFALCATE DIN IMPOZITUL PE VENIT PENTRU ECHILIBRAREA BUGETELOR LOCALE PENTRU FINANTAREA PROGRAMELOR DE DEZVOLTARE LOCALA SI A PROIECTELOR DE INFRASTRUCTURA CARE NECESITA COFINANTARE LOCALA PE ANUL 2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30687",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30687/H041_12.pdf",
+     "sha256": "fe93177fe87aaf989bfc11111f786f6100ab9178399bd09a28715b4c182a9857"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-42-2012",
+   "path": "local/bucuresti/cgmb/2012/42",
+   "short": "HCGMB nr. 42/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 42/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30688",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30688/H042_12.pdf",
+     "sha256": "758321f3bd0b315e88c56c44ac6a0f2e358e4caf9a080bca3ad2d156fb223cc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-43-2012",
+   "path": "local/bucuresti/cgmb/2012/43",
+   "short": "HCGMB nr. 43/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 43/2012 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI STUDIULUI DE FEZABILITATE PENTRU OBIECTIVUL DE INVESTITIE SPITALUL CLINIC PROF. DR. THEODOR BURGHELE - REABILITARE INSTALATII TERMICE INSTALATIA INTERIOARA DE CLIMATIZARE CU VENTILOCONVECTOARE SE MODIFICA PRIN HCGMB NR. 14/2022",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30689",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30689/H043_12.pdf",
+     "sha256": "0f826026ffc7593952f6a3650432e5e73a58e4e0721a7f583320a53db4c0359a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-44-2012",
+   "path": "local/bucuresti/cgmb/2012/44",
+   "short": "HCGMB nr. 44/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 44/2012 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI STUDIULUI DE FEZABILITATE PENTRU OBIECTIVUL DE INVESTITIE SPITALUL CLINIC PROF. DR. THEODOR BURGHELE - MODERNIZARE SPATII MEDICALE, MANSARDARE, SUPRAETAJARE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30690",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30690/H044_12.pdf",
+     "sha256": "4942f7bb8e4b2698fdcbcd3d64085926d65d98dbeec064bc47cdd95ce3b33c68"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-45-2012",
+   "path": "local/bucuresti/cgmb/2012/45",
+   "short": "HCGMB nr. 45/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 45/2012 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI OBIECTIVULUI DE INVESTITII AL BIBLIOTECII METROPOLITANE BUCURESTI-AMENAJARE INTERIOARA SI EXTERIOARA CASA ANTON PAN",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30691",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30691/H045_12.pdf",
+     "sha256": "50fff7a8543ad5ddb5e9caca09c85c4a663a4ecc9fcb2ce3984ec34876eaf191"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-46-2012",
+   "path": "local/bucuresti/cgmb/2012/46",
+   "short": "HCGMB nr. 46/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 46/2012 PRIVIND APROBAREA PROTOCOLULUI DE COLABORARE INCHEIAT INTRE MINISTERUL ADMINISTRATIEI SI INTERNELOR PRIN DIRECTIA GENERALA ANTICORUPTIE SI MUNICIPIUL BUCURESTI, IN VEDEREA PROMOVARII UNOR MESAJE CU CONTINUT INFORMATIV-PREVENTIV ANTICORUPTIE SI PENTRU DIVERSIFICAREA CANALELOR DE INFORMARE A SOCIETATII CIVILE ABROGA HCGMB NR. 229/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30692",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30692/H046_12.pdf",
+     "sha256": "dcd04551990329bdcad8609f28b45edb1125d8756359fa31ff24abb514932e94"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-47-2012",
+   "path": "local/bucuresti/cgmb/2012/47",
+   "short": "HCGMB nr. 47/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 47/2012 PRIVIND SCHIMBAREA DENUMIRII DE STRADA BUESTRULUI, SECTOR 2 IN STRADA BEIRUT",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30455",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30455/H047_12.pdf",
+     "sha256": "cf90952bf3fd86a817ffaf7e5d9bb793944d4408872d7b4ac3cdf5f953d90cd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-48-2012",
+   "path": "local/bucuresti/cgmb/2012/48",
+   "short": "HCGMB nr. 48/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 48/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30693",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30693/H048_12.pdf",
+     "sha256": "8bb7f7df34064f31cdea3416607249186cbe864bbb07512d6fd96945c6d2c689"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-49-2012",
+   "path": "local/bucuresti/cgmb/2012/49",
+   "short": "HCGMB nr. 49/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 49/2012 PRIVIND DESEMNAREA UNUI REPREZENTANT AL CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI IN CONSILIUL DE ADMINISTRATIE AL CLUBULUI COPIILOR NR. 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30694",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30694/H049_12.pdf",
+     "sha256": "20c79b707aa517f4cb8a49af2de565a45e553083eb1721355a52dcf5318ffb38"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-5-2012",
+   "path": "local/bucuresti/cgmb/2012/5",
+   "short": "HCGMB nr. 5/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 5/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30381",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30381/H005_12.pdf",
+     "sha256": "02c1f425683ae362637fc0eb71089a712c6b319647c8661566c0f97935caf660"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-50-2012",
+   "path": "local/bucuresti/cgmb/2012/50",
+   "short": "HCGMB nr. 50/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 50/2012 PRIVIND CONSTITUIREA UNEI COMISII DE ANALIZA SI VERIFICARE A ACTIVITATII ADMINISTRATIEI STRAZILOR",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30695",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30695/H050_12.pdf",
+     "sha256": "e414effa5e74fe54e8f51b2944dd80f4e2fa11c41e99869ad52f533d875fd607"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-51-2012",
+   "path": "local/bucuresti/cgmb/2012/51",
+   "short": "HCGMB nr. 51/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 51/2012 PRIVIND CONSTITUIREA UNEI COMISII DE ANALIZA SI VERIFICARE A ACTIVITATII ADMINISTRATIEI LACURI, PARCURI SI AGREMENT BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30696",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30696/H051_12.pdf",
+     "sha256": "870d77e1d1af0be2beb25fc748464b678420ba4bf1c7055327fd9e6e5061d3a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-52-2012",
+   "path": "local/bucuresti/cgmb/2012/52",
+   "short": "HCGMB nr. 52/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 52/2012 PRIVIND CONSTITUIREA UNEI COMISII DE ANALIZA SI VERIFICARE A ACTIVITATII DIRECTIEI GENERALE INFRASTRUCTURA SI SERVICII PUBLICE DIN CADRUL PRIMARIEI MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30697",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30697/H052_12.pdf",
+     "sha256": "acfc88fe949b0163dd72ba4a08b00407e398e9e14331b94fa2ea2025de149e02"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-53-2012",
+   "path": "local/bucuresti/cgmb/2012/53",
+   "short": "HCGMB nr. 53/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 53/2012 PRIVIND COMBATEREA CAPUSELOR DIN SPATII DE UTILITATE PUBLICA-PARCURI, GRADINI PUBLICE, LIZIERE DE PADURI, LOCURI DE JOACA- DIN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30834",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30834/H053_12.pdf",
+     "sha256": "44052456fcbe1305aea5a3c529817b7222c4a2723d6f1bcbbfe7b5c97ba5ed52"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-54-2012",
+   "path": "local/bucuresti/cgmb/2012/54",
+   "short": "HCGMB nr. 54/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 54/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30835",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30835/H054_12.pdf",
+     "sha256": "4caebba996a98b0a476adb47e306cfe1645dfa7613590b85f9576b72831fbc20"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-55-2012",
+   "path": "local/bucuresti/cgmb/2012/55",
+   "short": "HCGMB nr. 55/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 55/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30836",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30836/H055_12.pdf",
+     "sha256": "1e5a676c6f97281bc4b0b24142c569ee961c508a6d52e14a5bf49aa0599489f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-56-2012",
+   "path": "local/bucuresti/cgmb/2012/56",
+   "short": "HCGMB nr. 56/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 56/2012 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI PENTRU OBIECTIVUL DE INVESTITII MODERNIZARE RETELE TERMICE PRIMARE CET TITAN- SOS. PANTELIMON, CAMIN CP0-CAMIN CV 5/4",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30837",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30837/H056_12.pdf",
+     "sha256": "0b32d20075f0cd8f46cec6c4098c258215be0a2fdfbed8542276bfa97ece4093"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-57-2012",
+   "path": "local/bucuresti/cgmb/2012/57",
+   "short": "HCGMB nr. 57/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 57/2012 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI PENTRU OBIECTIVUL DE INVESTITII REABILITARE SI MODERNIZARE RETELE TERMICE PRIMARE TITAN BDUL N. GRIGORESCU - STR. L. PATRASCANU - BDUL BASARBIA, CAMIN CV4-CAMIN CM7, LOT II",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30838",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30838/H057_12.pdf",
+     "sha256": "d539e9291a11a43c0af6f65c443e0fb7bf5371816591f825c31b718127a378f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-58-2012",
+   "path": "local/bucuresti/cgmb/2012/58",
+   "short": "HCGMB nr. 58/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 58/2012 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI PENTRU OBIECTIVUL DE INVESTITII MODERNIZARE RETELE TERMICE PRIMARE CET TITAN- SOS. PANTELIMON, CAMINE CM 11-CCF 2",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30839",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30839/H058_12.pdf",
+     "sha256": "1fa2280976c20170693a8192df8c2c2554a78c35e777d619e9a3c1a39ba5efad"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-59-2012",
+   "path": "local/bucuresti/cgmb/2012/59",
+   "short": "HCGMB nr. 59/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 59/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30840",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30840/H059_12.pdf",
+     "sha256": "1938c213d4dcc18df61796bc01f948e5eec997bffe5a0196dbd8e5d844decb6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-6-2012",
+   "path": "local/bucuresti/cgmb/2012/6",
+   "short": "HCGMB nr. 6/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 6/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30382",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30382/H006_12.pdf",
+     "sha256": "86ae81ca557ddd8a072a336a469859e1f9e95886d4205beb52a52130e252fab3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-60-2012",
+   "path": "local/bucuresti/cgmb/2012/60",
+   "short": "HCGMB nr. 60/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 60/2012 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI STUDIULUI DE FEZABILITATE PENTRU OBIECTIVUL DE INVESTITII AL TEATRULUI TINERETULUI METROPOLIS- SALA DE SPECTACOL TEATRUL TINERETULUI METROPOLIS",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30841",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30841/H060_12.pdf",
+     "sha256": "ee1a30038b9eff2ff41f21b561aef337140c2f4a1098fe37c5fb1dc568548808"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-61-2012",
+   "path": "local/bucuresti/cgmb/2012/61",
+   "short": "HCGMB nr. 61/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 61/2012 PRIVIND APROBAREA DOCUMENTATIEI TEHNICO-ECONOMICE CONFORM INDICATORILOR TEHNICO-ECONOMICI AI OBIECTIVULUI DE INVESTITII CANALIZARE PLUVIALA STRADA GHERGHITEI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30842",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30842/H061_12.pdf",
+     "sha256": "a8e48bd11b1e92b197608870af3098e483cdcf1318e269d71a65c73729065b89"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-62-2012",
+   "path": "local/bucuresti/cgmb/2012/62",
+   "short": "HCGMB nr. 62/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 62/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30843",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30843/H062_12.pdf",
+     "sha256": "a29c2a69c8db04320cc2ecf2376f45703722fbac22b892a36ba2343466768b2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-63-2012",
+   "path": "local/bucuresti/cgmb/2012/63",
+   "short": "HCGMB nr. 63/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 63/2012 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI DOCUMENTATIEI DE AVIZARE A LUCRARILOR DE INTERVENTIE (DALI)- PENTRU OBIECTIVUL DE INVESTITII \"REABILITARE SPITAL CLINIC DE BOLI INFECTIOASE SI TROPICALE DR. VICTOR BABES - PAVILIONUL B2 SI PAVILIONUL B4\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30844",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30844/H063_12.pdf",
+     "sha256": "18908f0813455e3903b667392f25f6cd2220c23896dea269e037aeece9048b10"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-64-2012",
+   "path": "local/bucuresti/cgmb/2012/64",
+   "short": "HCGMB nr. 64/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 64/2012 PRIVIND APROBAREA INDICATORILOR TEHNICO-ECONOMICI AFERENTI DOCUMENTATIEI DE AVIZARE A LUCRARILOR DE INTERVENTIE (DALI)- PENTRU OBIECTIVUL DE INVESTITII AL SPITALULUI CLINIC DE BOLI INFECTIOASE SI TROPICALE DR. VICTOR BABES \"REPARATII CAPITALE LA INSTALATIA DE CANALIZARE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30845",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30845/H064_12.pdf",
+     "sha256": "68e6a2e1686ae3e49e510ac281075bf370c027c0748258b947a3259928526172"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-65-2012",
+   "path": "local/bucuresti/cgmb/2012/65",
+   "short": "HCGMB nr. 65/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 65/2012 PRIVIND IMPUTERNICIREA PRIMARULUI GENERAL SA SEMNEZE SCRISOAREA DE INTENTIE CU BANCA MONDIALA - CORPORATIA FINANCIARA INTERNATIONALA (BM-IFC) IN VEDEREA OBTINERII UNEI LINII DE CREDIT PENTRU SUSTINEREA LUCRARILOR LA CENTRUL DE COMANDA SI CONTROL PENTRU SITUATII DE URGENTA AL MUNICIPIULUI BUCURESTI MODIFICA ART 2 AL HCGMB NR. 100/2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30846",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30846/H065_12.pdf",
+     "sha256": "9013eacc74f6a857d89f799fb36e71af741f0270d3436b39b40190de19ba8ad9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-66-2012",
+   "path": "local/bucuresti/cgmb/2012/66",
+   "short": "HCGMB nr. 66/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 66/2012 PRIVIND APROBAREA BUGETULUI PROPRIU AL MUNICIPIULUI BUCURESTI PE ANUL 2012 SE MODIFICA PRIN HCGMB NR. 154/2012 SE MODIFICA PRIN HCGMB NR. 169/2012 SE MODIFICA PRIN HCGMB NR. 176/2012 SE MODIFICA PRIN HCGMB NR. 174/2012 SE MODIFICA PRIN HCGMB NR. 201/2012 SE MODIFICA PRIN HCGMB NR. 231/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30832",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30832/H066_12.pdf",
+     "sha256": "379f6a64aec3c37914749506badc7806f461013730385ef7fd6543f2365fa34e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-67-2012",
+   "path": "local/bucuresti/cgmb/2012/67",
+   "short": "HCGMB nr. 67/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 67/2012 PRIVIND SOLICITAREA CATRE GUVERNUL ROMANIEI DE A EMITE UN ACT NORMATIV PRIVIND DESFIINTAREA SPITALULUI CLINIC DE DERMATOVENEROLOGIE \" PROF. DR. SCARLAT LONGHIN\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30847",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30847/H067_12.pdf",
+     "sha256": "dff87d6c6f2e66bddf703d8545a298775657fa3ef6f5564e4b6de683f7a8dd39"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-68-2012",
+   "path": "local/bucuresti/cgmb/2012/68",
+   "short": "HCGMB nr. 68/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 68/2012 PRIVIND IMPUTERNICIREA CONSILIULUI LOCAL AL SECTORULUI 6 DE A HOTARI CU PRIVIRE LA COOPERAREA, PRIN DIRECTIA GENERALA DE ASISTENTA SOCIALA SI PROTECTIA COPILULUI SECTOR 6, CU ASOCIATIA AHAVA, IN VEDEREA FINANTARII SI IMPLEMENTARII IN COMUN A PROIECTULUI \"SPITAL SOCIAL SFANTUL NECTARIE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30987",
+   "versions": [
+    {
+     "from": "2012-04-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30987/H068_12.pdf",
+     "sha256": "a122c414cf85ff9f436460400fd537a4a3cd99ae28ddf2cf9b0c50c7e63c5fe8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-69-2012",
+   "path": "local/bucuresti/cgmb/2012/69",
+   "short": "HCGMB nr. 69/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 69/2012 PRIVIND CONSTITUIREA COMISIEI DE ANALIZA SI VERIFICARE A ACTIVITATII DIRECTIEI GENERALE INFRASTRUCTURA SI SERVICII PUBLICE DIN CADRUL PRIMARIEI MUNICIPIULUI BUCURESTI, PRECUM SI ABROGAREA HOTARARII CGMB NR. 52/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30988",
+   "versions": [
+    {
+     "from": "2012-04-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30988/H069_12.pdf",
+     "sha256": "115b4d6095dbb80f90322da7d824839ed26876cab6c998bd8829be27bd4113a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-7-2012",
+   "path": "local/bucuresti/cgmb/2012/7",
+   "short": "HCGMB nr. 7/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 7/2012 PRIVIND APROBAREA DOCUMENTATIEI DE URBANISM PUZ - STR. PRIDVORULUI - STR. GURA OCNITEI, SECTOR 4",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30383",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30383/H007_12.pdf",
+     "sha256": "8ffe47cea1a763dc5719d49dcd7174b6b373991616c181f7200ceedeaa02562a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-70-2012",
+   "path": "local/bucuresti/cgmb/2012/70",
+   "short": "HCGMB nr. 70/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 70/2012 PRIVIND CONSTITUIREA COMISIEI DE ANALIZA SI VERIFICARE A ACTIVITATII ADMINISTRATIEI LACURI, PARCURI SI AGREMENT BUCURESTI, PRECUM SI ABROGAREA HOTARARII CGMB NR. 51/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30989",
+   "versions": [
+    {
+     "from": "2012-04-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30989/H070_12.pdf",
+     "sha256": "6433924259f9fd9eb6504fb877bf20e197a3b3db1a706f335a981adaffe335cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-71-2012",
+   "path": "local/bucuresti/cgmb/2012/71",
+   "short": "HCGMB nr. 71/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 71/2012 PRIVIND CONSTITUIREA COMISIEI DE ANALIZA SI VERIFICARE A ACTIVITATII ADMINISTRATIEI STRAZILOR, PRECUM SI ABROGAREA HOTARARII CGMB NR. 50/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30990",
+   "versions": [
+    {
+     "from": "2012-04-06",
+     "units": 1,
+     "source_url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-72-2012",
+   "path": "local/bucuresti/cgmb/2012/72",
+   "short": "HCGMB nr. 72/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 72/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31233",
+   "versions": [
+    {
+     "from": "2012-06-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31233/H072_12.pdf",
+     "sha256": "b937356458482ed3b2570bfba31cae278067b32a208087ac83af17e9ef18434a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-73-2012",
+   "path": "local/bucuresti/cgmb/2012/73",
+   "short": "HCGMB nr. 73/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 73/2012 PRIVIND VALIDAREA MANDATELOR CONSILIERILOR DIN CADRUL CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31234",
+   "versions": [
+    {
+     "from": "2012-06-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31234/H073_12.pdf",
+     "sha256": "bafb1be1dd29e6e729a9a0ab6fade87d9b15528ffca9ca0731e119b7dbe4e004"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-74-2012",
+   "path": "local/bucuresti/cgmb/2012/74",
+   "short": "HCGMB nr. 74/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 74/2012 PRIVIND CONSTITUIREA LEGALA A CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31235",
+   "versions": [
+    {
+     "from": "2012-06-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31235/H074_12.pdf",
+     "sha256": "e9f140b40a4c3c383bde981a4d5cb2110e2594cb21a36f0f4be05566a9b49ef3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-75-2012",
+   "path": "local/bucuresti/cgmb/2012/75",
+   "short": "HCGMB nr. 75/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 75/2012 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA A CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PE PERIOADA 20.06.2012-19.09.2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31236",
+   "versions": [
+    {
+     "from": "2012-06-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31236/H075_12.pdf",
+     "sha256": "3bf1ac73da452edb009925af3669b99d1052978871974fc7453aa7ff7f0704aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-76-2012",
+   "path": "local/bucuresti/cgmb/2012/76",
+   "short": "HCGMB nr. 76/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 76/2012 PRIVIND ALEGEREA VICEPRIMARILOR MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31391",
+   "versions": [
+    {
+     "from": "2012-07-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31391/H076_12.pdf",
+     "sha256": "27c1d892abf28dc70998d684f6086455f6b10f67db5da4862e67ea99caea5c20"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-77-2012",
+   "path": "local/bucuresti/cgmb/2012/77",
+   "short": "HCGMB nr. 77/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 77/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31392",
+   "versions": [
+    {
+     "from": "2012-07-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31392/H077_12.pdf",
+     "sha256": "71a143a3db74acb7c73ea8b3b6405289bd6cf1ae1d4363caf6407ab79a5cc5f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-78-2012",
+   "path": "local/bucuresti/cgmb/2012/78",
+   "short": "HCGMB nr. 78/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 78/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31393",
+   "versions": [
+    {
+     "from": "2012-07-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31393/H078_12.pdf",
+     "sha256": "dfd8d0559973e20f5b0883a2279591354a3327180addcf686c8ae5ba6b34133d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-79-2012",
+   "path": "local/bucuresti/cgmb/2012/79",
+   "short": "HCGMB nr. 79/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 79/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31394",
+   "versions": [
+    {
+     "from": "2012-07-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31394/H079_12.pdf",
+     "sha256": "6697c6ab8be5d81ea43a5e2176ce57d70dc2f33480dd8ceccae9fd8ec284d544"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-8-2012",
+   "path": "local/bucuresti/cgmb/2012/8",
+   "short": "HCGMB nr. 8/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 8/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30384",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30384/H008_12.pdf",
+     "sha256": "23675e523b890e68ebde92cecf7d9c134ff583d0557b37871998e1ce3b4e71ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-80-2012",
+   "path": "local/bucuresti/cgmb/2012/80",
+   "short": "HCGMB nr. 80/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 80/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31395",
+   "versions": [
+    {
+     "from": "2012-07-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31395/H080_12.pdf",
+     "sha256": "71ffd9979d40a08dcafbd1b9b0fe39d545dd1a3639d3f577d295074ccf2f5060"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-81-2012",
+   "path": "local/bucuresti/cgmb/2012/81",
+   "short": "HCGMB nr. 81/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 81/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31396",
+   "versions": [
+    {
+     "from": "2012-07-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31396/H081_12.pdf",
+     "sha256": "f9d322ca81a5594bf48db78cd1560b655b99bd6a714355da1fd0f20fcb0ad564"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-82-2012",
+   "path": "local/bucuresti/cgmb/2012/82",
+   "short": "HCGMB nr. 82/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 82/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31399",
+   "versions": [
+    {
+     "from": "2012-07-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31399/H082_12.pdf",
+     "sha256": "8c7261664364077b105785925a85051246df6cd3be5e97309ed939df220e6f07"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-83-2012",
+   "path": "local/bucuresti/cgmb/2012/83",
+   "short": "HCGMB nr. 83/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 83/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31398",
+   "versions": [
+    {
+     "from": "2012-07-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31398/H83_12.pdf",
+     "sha256": "52f7d5c94ee641ed71b3ec0ae8a411969596029754cec299ca5ba7ebf551b480"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-84-2012",
+   "path": "local/bucuresti/cgmb/2012/84",
+   "short": "HCGMB nr. 84/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 84/2012 PRIVIND DESEMNAREA A TREI REPREZENTANTI AI CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI CA MEMBRI IN COMISIA PENTRU INDRUMAREA SI SUPRAVEGHEREA COMISIILOR ORGANIZATE LA NIVEL DE SECTOARE PENTRU APLICAREA LEGII NR. 550/2002 SE MODIFICA PRIN HCGMB NR. 208/2013 SE ABROGA PRIN HCGMB NR. 189/2016",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31552",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31552/H084_12.pdf",
+     "sha256": "343cfbd7d21c80e9ecb2989982c5e32ef6ccae0f373cb042fbe5ce06fc37e933"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-85-2012",
+   "path": "local/bucuresti/cgmb/2012/85",
+   "short": "HCGMB nr. 85/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 85/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31553",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31553/H085_12.pdf",
+     "sha256": "56dcc669c15f60cae2e0793e9b4738738330a06679c099d23f6e6d3253cdff8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-86-2012",
+   "path": "local/bucuresti/cgmb/2012/86",
+   "short": "HCGMB nr. 86/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 86/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31554",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31554/H086_12.pdf",
+     "sha256": "68127545e88f1186088b5cfc20fc2925c795c4a6979bd8d785c65c16bc00af38"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-87-2012",
+   "path": "local/bucuresti/cgmb/2012/87",
+   "short": "HCGMB nr. 87/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 87/2012 PRIVIND DESEMNAREA UNOR CONSILIERI DIN CADRUL CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI, CA MEMBRI TITULARI SI SUPLEANTI IN COMISIA DE REPARTIZARE A LOCUINTELOR PENTRU PERSOANELE DIN IMOBILELE CE VOR FI SUPUSE LUCRARILOR DE CONSOLIDARE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31555",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31555/H087_12.pdf",
+     "sha256": "fd7b231b920dffc8987d14eefd08a671178ea6ffd23f855801326c250dacf860"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-88-2012",
+   "path": "local/bucuresti/cgmb/2012/88",
+   "short": "HCGMB nr. 88/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 88/2012 PRIVIND DESEMNAREA UNOR CONSILIERI DIN CADRUL CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI, CA MEMBRI TITULARI SI SUPLEANTI IN COMISIA DE REPARTIZARE A LOCUINTELOR PENTRU PERSOANELE EVACUATE SAU AFLATE IN CURS DE EVACUARE DIN ZONA PILOT A DIN CENTRUL ISTORIC AL MUNICIPIULUI BUCURESTI SE ABROGA PRIN HCGMB NR. 196/2016",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31556",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31556/H088_12.pdf",
+     "sha256": "6b10173c706f0caaaf72bd66d1766c6813a972fb7f96943dcb69102efb57161f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-89-2012",
+   "path": "local/bucuresti/cgmb/2012/89",
+   "short": "HCGMB nr. 89/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 89/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31557",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31557/H089_12.pdf",
+     "sha256": "d27eb89219aafef2a55f4da591762c016cb4eab43bbf64145b35253304c350a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-9-2012",
+   "path": "local/bucuresti/cgmb/2012/9",
+   "short": "HCGMB nr. 9/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 9/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/30385",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/30385/H009_12.pdf",
+     "sha256": "14cc861be3c51418507c587cec23ae3fc44e191667db2c0edac6dc368f062d83"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-90-2012",
+   "path": "local/bucuresti/cgmb/2012/90",
+   "short": "HCGMB nr. 90/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 90/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31558",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31558/H090_12.pdf",
+     "sha256": "77d5e798e35f900f4c17681c6414f1edefa9b04c3d842a250e738bb49c124deb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-91-2012",
+   "path": "local/bucuresti/cgmb/2012/91",
+   "short": "HCGMB nr. 91/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 91/2012 PRIVIND DESEMNAREA UNOR CONSILIERI DIN CADRUL CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI, CA MEMBRI TITULARI SI SUPLEANTI IN COMISIA DE ANALIZA A DOSARELOR SOLICITANTILOR DE LOCUINTE SOCIALE SI DE SPATII CU ALTA DESTINATIE DECAT ACEEA DE LOCUINTA BENEFICIARI AI LEGII NR. 341/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31559",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31559/H091_12.pdf",
+     "sha256": "48194c76658bdad926e5379f3f8a882767f4a25df47ae9366c6f467b686c33d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-92-2012",
+   "path": "local/bucuresti/cgmb/2012/92",
+   "short": "HCGMB nr. 92/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 92/2012 PRIVIND DESEMNAREA UNOR CONSILIERI DIN CADRUL CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI, CA MEMBRI TITULARI SI SUPLEANTI IN COMISIA DE REPARTIZARE A LOCUINTELOR PENTRU PERSOANELE EXPROPRIATE PENTRU CAUZA DE UTILITATE PUBLICA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31560",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31560/H092_12.pdf",
+     "sha256": "4cff69c8564a43c7cf2ce286a453959c292c6efb5686d13640b053c7503ba42c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-93-2012",
+   "path": "local/bucuresti/cgmb/2012/93",
+   "short": "HCGMB nr. 93/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 93/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31561",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31561/H093_12.pdf",
+     "sha256": "8533d0db4570ccfaff6ad4955c9dfde5e9556a309c1b041e6ded17fe886b2fde"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-94-2012",
+   "path": "local/bucuresti/cgmb/2012/94",
+   "short": "HCGMB nr. 94/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 94/2012 PRIVIND DESEMNAREA REPREZENTANTULUI CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI IN CONSILIUL DE CONDUCERE AL AUTORITATII METROPOLITANE DE TRANSPORT BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31562",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31562/H094_12.pdf",
+     "sha256": "f09ee5a8c946c663b2cc309b6dfc1b9242497c0299eeb4a5f8dcc83d4479903c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-95-2012",
+   "path": "local/bucuresti/cgmb/2012/95",
+   "short": "HCGMB nr. 95/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 95/2012 PRIVIND DESEMNAREA UNUI REPREZNTANT AL CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI IN COMISIA DE ORIENTARE SCOLARA SI PROFESIONALA CONSTITUITA LA NIVELUL INSPECTORATULUI SCOLAR AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31563",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31563/H095_12.pdf",
+     "sha256": "b80466731051da4c7de303528de9bcc4b7c19efe38746fe5800ce4bb0f12ad43"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-96-2012",
+   "path": "local/bucuresti/cgmb/2012/96",
+   "short": "HCGMB nr. 96/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 96/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31564",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31564/H096_12.pdf",
+     "sha256": "7ee961e8ab9d1f18f0121c3d5ca48d12748ab51b2417a65f2cb4fac0e5bd3e6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-97-2012",
+   "path": "local/bucuresti/cgmb/2012/97",
+   "short": "HCGMB nr. 97/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 97/2012 PRIVIND APROBAREA CONTULUI DE INCHEIERE A EXERCITIULUI BUGETAR PE ANUL 2010",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31565",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31565/H097_12.pdf",
+     "sha256": "ceeb21415e2371e8ddb8783bf990ac8e7b338a3defc0f5f36b44c40f68eb5647"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-98-2012",
+   "path": "local/bucuresti/cgmb/2012/98",
+   "short": "HCGMB nr. 98/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 98/2012 PRIVIND APROBAREA SITUATIILOR FINANCIARE CENTRALIZATE ALE MUNICIPIULUI BUCURESTI-ACTIVITATEA PROPRIE- PE ANUL 2010",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31566",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31566/H098_12.pdf",
+     "sha256": "2b3c7fc2d49a08da2f058f3ce9fe5d944ddb461ba23d8c572a4d80d1f6707722"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-99-2012",
+   "path": "local/bucuresti/cgmb/2012/99",
+   "short": "HCGMB nr. 99/2012",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 99/2012 PRIVIND APROBAREA CONTULUI DE INCHEIERE A EXERCITIULUI BUGETAR PE ANUL 2011",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/31567",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2012/31567/H099_12.pdf",
+     "sha256": "02a0f20a322eeb7b930a0e89b096a2fa1b0bf8e45c3d182f736f099fa6bc14d8"
+    }
+   ]
+  }
+ ]
+}

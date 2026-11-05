@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "norma/2013",
+ "acts": [
+  {
+   "slug": "norma-asf-11-2013",
+   "path": "norma/asf/2013/11",
+   "short": "Norma asf nr. 11/2013",
+   "title": "Norma nr. 11/2013 privind implementarea principiului egalității de tratament între femei și bărbați în ceea ce privește accesul la serviciile din domeniul asigurărilor și furnizarea de servicii în domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/151507",
+   "versions": [
+    {
+     "from": "2013-09-20",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/151507",
+     "sha256": "7d25030e8db27c8e420b9384573086d54dafa144811d79f73a450905d8f01bbe"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-15-2013",
+   "path": "norma/asf/2013/15",
+   "short": "Norma asf nr. 15/2013",
+   "title": "Norma nr. 15/2013 pentru modificarea art. 29 alin. (2) din Normele privind autorizarea și funcționarea asigurătorilor, puse în aplicare prin Ordinul președintelui Comisiei de Supraveghere a Asigurărilor nr. 16/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152759",
+   "versions": [
+    {
+     "from": "2013-11-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152759",
+     "sha256": "35b2b01ccb587d014b1c67c47bb5dc0b885478fd9ce02da024afae8dd8a4fa69"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-17-2013",
+   "path": "norma/asf/2013/17",
+   "short": "Norma asf nr. 17/2013",
+   "title": "Norma nr. 17/2013 pentru modificarea Normelor privind autorizarea brokerilor de asigurare și/sau de reasigurare, precum și condițiile de menținere a acesteia, puse în aplicare prin Ordinul președintelui Comisiei de Supraveghere a Asigurărilor nr. 15/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153598",
+   "versions": [
+    {
+     "from": "2013-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153598",
+     "sha256": "ce747b532f55e2664ff58cef69bc59f145934a5310de85acd59d0f32cebbf651"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-18-2013",
+   "path": "norma/asf/2013/18",
+   "short": "Norma asf nr. 18/2013",
+   "title": "Norma nr. 18/2013 pentru modificarea și completarea Normelor privind supravegherea suplimentară a societăților de asigurare/reasigurare care fac parte dintr-un grup de asigurare/reasigurare, puse în aplicare prin Ordinul președintelui Comisiei de Supraveghere a Asigurărilor nr. 9/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154497",
+   "versions": [
+    {
+     "from": "2014-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154497",
+     "sha256": "cbe7476dd9d13a02c17a0043a89e64504e810165fb141fe007f2c5539544efaf"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-3-2013",
+   "path": "norma/asf/2013/3",
+   "short": "Norma asf nr. 3/2013",
+   "title": "Norma nr. 3/2013 pentru punerea în aplicare a Sistemului de raportare contabilă la 30 iunie 2013 a societăților din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150150",
+   "versions": [
+    {
+     "from": "2013-07-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150150",
+     "sha256": "b909ddb794f4ba400e24be9f0d3a428641d81c02dd4d3c3cfa4aeda76df1bb99"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-6-2013",
+   "path": "norma/asf/2013/6",
+   "short": "Norma asf nr. 6/2013",
+   "title": "Norma nr. 6/2013 privind Poolul de Asigurare împotriva Dezastrelor Naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150770",
+   "versions": [
+    {
+     "from": "2013-08-20",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150770",
+     "sha256": "ca8d44fe5ca1d4de24fb0080702c1eef03a35b449a8853451efbf0cba89a7f7e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-7-2013",
+   "path": "norma/asf/2013/7",
+   "short": "Norma asf nr. 7/2013",
+   "title": "Norma nr. 7/2013 privind forma și clauzele cuprinse în contractul de asigurare obligatorie a locuințelor împotriva cutremurelor, alunecărilor de teren și inundațiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150780",
+   "versions": [
+    {
+     "from": "2013-08-20",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150780",
+     "sha256": "d3fc875082c928733a98f73ffab5a83832ff3c781b59b70b509f202e64a2bf4f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-1-2013",
+   "path": "norma/bnr/2013/1",
+   "short": "Norma bnr nr. 1/2013",
+   "title": "Norma nr. 1/2013 privind operațiunile cu numerar ale instituțiilor de credit și Trezoreriei Statului în relația cu Banca Națională a României și decontarea acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152455",
+   "versions": [
+    {
+     "from": "2013-11-11",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152455",
+     "sha256": "bc14e72159fa681f5a2136c4ee3f6faac557f8229089ca4775f4a96ef8ac8f68"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,306 @@
+{
+ "country": "RO",
+ "shard": "norma-aep/2009",
+ "acts": [
+  {
+   "slug": "norma-aep-lista-11-2009",
+   "path": "norma-aep/2009/lista-11",
+   "short": "Listă AEP nr. 11/2009",
+   "title": "LISTĂ nr. 11 din 9 aprilie 2009 partidelor politice, alianţelor politice şi electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus până la data de 9 aprilie 2009 raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 38 alin. (1^1) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu modificările şi completările ulterioare, pentru alegerile locale parţiale desfăşurate conform Hotărârii Guvernului nr. 74/2009 privind stabilirea datei alegerilor locale parţiale pentru alegerea primarilor în unele circumscripţii electorale - turul II şi Hotărârii Guvernului nr. 176/2009 privind stabilirea datei alegerilor locale parţiale pentru alegerea unui consiliu local şi a unui primar",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/104670",
+   "versions": [
+    {
+     "from": "2009-04-13",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/104670",
+     "sha256": "e2adf40a96a5f49e02357765f16f454b855f4e85ab7e32e91ed956bc19f3d69b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-12-2009",
+   "path": "norma-aep/2009/lista-12",
+   "short": "Listă AEP nr. 12/2009",
+   "title": "Listă Autorității Electorale Permanente nr. 12 din 2009-04-16",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/104904",
+   "versions": [
+    {
+     "from": "2009-04-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/104904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-14-2009",
+   "path": "norma-aep/2009/lista-14",
+   "short": "Listă AEP nr. 14/2009",
+   "title": "LISTĂ nr. 14 din 15 mai 2009 partidelor politice, alianţelor politice şi electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus până la data de 15 mai 2009 raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 38 alin. (1^1) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu modificările şi completările ulterioare, pentru alegerile locale parţiale desfăşurate conform Hotărârii Guvernului nr. 374/2009 privind stabilirea datei alegerilor locale parţiale pentru alegerea unui consiliu local şi a unor primari",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/106112",
+   "versions": [
+    {
+     "from": "2009-05-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/106112",
+     "sha256": "4b62e889cb72530431ae31cd5447ff613af9e896c8dc808dcfeecb28013c70b6"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-15-2009",
+   "path": "norma-aep/2009/lista-15",
+   "short": "Listă AEP nr. 15/2009",
+   "title": "LISTA nr. 15 din 21 mai 2009 partidelor politice, alianţelor politice şi electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus până la data de 21 mai 2009 raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 38 alin. (1^1) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu modificările şi completările ulterioare, pentru alegerile locale parţiale desfăşurate conform Hotărârii Guvernului nr. 374/2009 privind stabilirea datei alegerilor locale parţiale pentru alegerea unui consiliu local şi a unor primari",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/106168",
+   "versions": [
+    {
+     "from": "2009-05-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/106168",
+     "sha256": "d7e245d83a7a2b70eaaf8eb4f48924e3af39e0584ca4f200cbd573399f989e3d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-17-2009",
+   "path": "norma-aep/2009/lista-17",
+   "short": "Listă AEP nr. 17/2009",
+   "title": "LISTĂ nr. 17 din 7 iulie 2009 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi care au depus până la data de 7 iulie 2009 raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 38 alin. (1^1) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu modificările şi completările ulterioare, pentru alegerile locale parţiale desfăşurate conform Hotărârii Guvernului nr. 610/2009 privind stabilirea datei alegerilor locale parţiale pentru alegerea unui primar şi a unui consiliu local",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/109356",
+   "versions": [
+    {
+     "from": "2009-07-08",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/109356",
+     "sha256": "651137fbe6c9387d4441ffa7110e82e98a97875d22c77307f8318bdb20631fb2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-19-2009",
+   "path": "norma-aep/2009/lista-19",
+   "short": "Listă AEP nr. 19/2009",
+   "title": "LISTA nr. 19 din 18 august 2009 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi care au depus până la data de 18 august 2009 raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 38 alin. (1^1) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu modificările şi completările ulterioare, pentru alegerile locale parţiale desfăşurate conform Hotărârii Guvernului nr. 779/2009 privind stabilirea datei alegerilor locale parţiale pentru alegerea primarilor în unele circumscripţii electorale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/110646",
+   "versions": [
+    {
+     "from": "2009-08-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/110646",
+     "sha256": "c922c2d6477aa4d1cc0c7bd28b70215f181501cb9ee6a07cd9477d90064a50d2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-20-2009",
+   "path": "norma-aep/2009/lista-20",
+   "short": "Listă AEP nr. 20/2009",
+   "title": "LISTĂ nr. 20 din 24 august 2009 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi care au depus până la data de 24 august 2009 raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 38 alin. (1^1) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu modificările şi completările ulterioare, pentru alegerile locale parţiale desfăşurate conform Hotărârii Guvernului nr. 779/2009 privind stabilirea datei alegerilor locale parţiale pentru alegerea primarilor în unele circumscripţii electorale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/110801",
+   "versions": [
+    {
+     "from": "2009-08-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/110801",
+     "sha256": "28d45e43f345ff10a796c486cdcfe61e6f7a7cd0bf6cd6c13e623544dff98fdb"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-21-2009",
+   "path": "norma-aep/2009/lista-21",
+   "short": "Listă AEP nr. 21/2009",
+   "title": "Listă Autorității Electorale Permanente nr. 21 din 2009-08-27",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/110928",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/110928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-22-2009",
+   "path": "norma-aep/2009/lista-22",
+   "short": "Listă AEP nr. 22/2009",
+   "title": "LISTA nr. 22 din 4 septembrie 2009 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi care au depus până la data de 4 septembrie 2009 raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 38 alin. (1^1) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu modificările şi completările ulterioare, pentru alegerile locale parţiale desfăşurate conform Hotărârii Guvernului nr. 808/2009 privind stabilirea datei alegerilor locale parţiale pentru alegerea unor primari şi a unui consiliu local",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/111090",
+   "versions": [
+    {
+     "from": "2009-09-09",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/111090",
+     "sha256": "6c39ff3ba3279d53ef2fa4ed42b94a4bac7fac7f35bac064ecca0f63639575b5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-23-2009",
+   "path": "norma-aep/2009/lista-23",
+   "short": "Listă AEP nr. 23/2009",
+   "title": "Listă Autorității Electorale Permanente nr. 23 din 2009-10-05",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/111886",
+   "versions": [
+    {
+     "from": "2009-10-06",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/111886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-24-2009",
+   "path": "norma-aep/2009/lista-24",
+   "short": "Listă AEP nr. 24/2009",
+   "title": "LISTĂ nr. 24 din 9 noiembrie 2009 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi care au depus până la data de 9 noiembrie 2009 raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 38 alin. (1^1) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu modificările şi completările ulterioare, pentru alegerile locale parţiale desfăşurate conform Hotărârii Guvernului nr. 1.034/2009 privind stabilirea datei alegerilor locale parţiale pentru alegerea unor primari şi a unui consiliu local",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/113254",
+   "versions": [
+    {
+     "from": "2009-11-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/113254",
+     "sha256": "db6590c2ca47ede813898b220c53add4fc3d43c1ecf3b1f3ff33a81de7885cc9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-25-2009",
+   "path": "norma-aep/2009/lista-25",
+   "short": "Listă AEP nr. 25/2009",
+   "title": "LISTĂ nr. 25 din 13 noiembrie 2009 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi care au depus până la data de 13 noiembrie 2009 raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 38. alin. (1^1) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu modificările şi completările ulterioare, pentru alegerile locale parţiale desfăşurate conform Hotărârii Guvernului nr. 1.034/2009 privind stabilirea datei alegerilor locale parţiale pentru alegerea unor primari şi a unui consiliu local",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/113405",
+   "versions": [
+    {
+     "from": "2009-11-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/113405",
+     "sha256": "61424416a60f15a71be0666ec92461a14667473d5eda13f2b66ed51c5474c52f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-26-2009",
+   "path": "norma-aep/2009/lista-26",
+   "short": "Listă AEP nr. 26/2009",
+   "title": "LISTĂ nr. 26 din 27 noiembrie 2009 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi care au depus până la data de 27 noiembrie 2009 raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 38 alin. (1^1) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu modificările şi completările ulterioare, pentru alegerile locale parţiale desfăşurate conform Hotărârii Guvernului nr. 1.034/2009 privind stabilirea datei alegerilor locale parţiale pentru alegerea unor primari şi a unui consiliu local şi Hotărârii Guvernului nr. 1.220/2009 privind stabilirea datei alegerilor locale parţiale pentru alegerea primarului municipiului Mediaş, judeţul Sibiu",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/114014",
+   "versions": [
+    {
+     "from": "2009-12-02",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/114014",
+     "sha256": "3c629b47bbd33b52136ba665e4383e2c69774c397c179f56289c599d961efb91"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-27-2009",
+   "path": "norma-aep/2009/lista-27",
+   "short": "Listă AEP nr. 27/2009",
+   "title": "Listă Autorității Electorale Permanente nr. 27 din 2009-12-11",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/114474",
+   "versions": [
+    {
+     "from": "2009-12-15",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/114474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-4-2009",
+   "path": "norma-aep/2009/lista-4",
+   "short": "Listă AEP nr. 4/2009",
+   "title": "LISTĂ nr. 4 din 9 ianuarie 2009 partidelor politice, alianţelor politice şi electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus până la data de 9 ianuarie 2009 raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 38. alin. (1^1) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu modificările şi completările ulterioare, pentru alegerile locale parţiale desfăşurate conform Hotărârii Guvernului nr. 1.395/2008 privind stabilirea datei alegerilor locale parţiale pentru alegerea primarului în Circumscripţia electorală",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/101355",
+   "versions": [
+    {
+     "from": "2009-01-14",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/101355",
+     "sha256": "f183655ccf2c4cff2c1264ee359d866e6d23f0323050524d2cb6e0c7af062370"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-6-2009",
+   "path": "norma-aep/2009/lista-6",
+   "short": "Listă AEP nr. 6/2009",
+   "title": "LISTA nr. 6 din 19 februarie 2009 partidelor politice, alianţelor politice şi electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus până la data de 19 februarie 2009 raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 38 alin. (1^1) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu modificările şi completările ulterioare, pentru alegerile locale parţiale desfăşurate conform Hotărârii Guvernului nr. 1/2009 privind stabilirea datei alegerilor locale parţiale pentru alegerea primarilor în unele circumscripţii electorale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/102517",
+   "versions": [
+    {
+     "from": "2009-02-19",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/102517",
+     "sha256": "7ec9d36d04bf3816be882dea0c8d70cea814d91a77346d150f8a703ce6c22bb5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-7-2009",
+   "path": "norma-aep/2009/lista-7",
+   "short": "Listă AEP nr. 7/2009",
+   "title": "Listă Autorității Electorale Permanente nr. 7 din 2009-02-20",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/102576",
+   "versions": [
+    {
+     "from": "2009-02-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/102576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-8-2009",
+   "path": "norma-aep/2009/lista-8",
+   "short": "Listă AEP nr. 8/2009",
+   "title": "Listă Autorității Electorale Permanente nr. 8 din 2009-02-25",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/102840",
+   "versions": [
+    {
+     "from": "2009-02-27",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/102840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-9-2009",
+   "path": "norma-aep/2009/lista-9",
+   "short": "Listă AEP nr. 9/2009",
+   "title": "LISTĂ nr. 9 din 2 aprilie 2009 partidelor politice, alianţelor politice şi electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus până la data de 2 aprilie 2009 raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 38 alin. (1^1) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu modificările şi completările ulterioare, pentru alegerile locale parţiale desfăşurate conform Hotărârii Guvernului nr. 74/2009 privind stabilirea datei alegerilor locale parţiale pentru alegerea primarilor în unele circumscripţii electorale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/104421",
+   "versions": [
+    {
+     "from": "2009-04-07",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/104421",
+     "sha256": "2e4299d50174cedaa9c6e8a4d35eabae1b30a88070d147f9181444c1d01e796d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-situatie-5-2009",
+   "path": "norma-aep/2009/situatie-5",
+   "short": "Situație AEP nr. 5/2009",
+   "title": "Situație Autorității Electorale Permanente nr. 5 din 2009-01-29",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/102142",
+   "versions": [
+    {
+     "from": "2009-02-06",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/102142",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

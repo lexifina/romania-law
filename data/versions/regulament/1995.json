@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "regulament/1995",
+ "acts": [
+  {
+   "slug": "regulament-bnr-1-1995",
+   "path": "regulament/bnr/1995/1",
+   "short": "Regulament bnr nr. 1/1995",
+   "title": "Regulamentul nr. 1/1995 privind principiile și organizarea avizării tehnice a sistemelor de plăti și decontări fără numerar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5626",
+   "versions": [
+    {
+     "from": "1995-04-26",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5626",
+     "sha256": "1d8b11e12194115830923d475beab9ec8fb26815fc271eb1d4dc81b7b4aa603a"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-3-1995",
+   "path": "regulament/bnr/1995/3",
+   "short": "Regulament bnr nr. 3/1995",
+   "title": "Regulamentul nr. 3/1995 privind condițiile și modul de efectuare a refinanțării societăților bancare de către Banca Naționala a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5651",
+   "versions": [
+    {
+     "from": "1995-08-01",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5651",
+     "sha256": "2669c3806185f5e99d838dc475218e3fb234a91d1ff5f2954db42489c6f1c6f3"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-6-1995",
+   "path": "regulament/bnr/1995/6",
+   "short": "Regulament bnr nr. 6/1995",
+   "title": "Regulamentul nr. 6/1995 privind principiile și organizarea plăților cu card de către societățile bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5689",
+   "versions": [
+    {
+     "from": "1995-12-05",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5689",
+     "sha256": "948b299ae036a03ad608f3cfe40cec848563c059d10a21c25174447b0077d329"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-5-1995",
+   "path": "regulament/cnvm/1995/5",
+   "short": "Regulament cnvm nr. 5/1995",
+   "title": "Regulamentul nr. 5/1995 privind codul de etica și conduita a membrilor și personalului Comisiei Naționale a Valorilor Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5675",
+   "versions": [
+    {
+     "from": "1995-09-19",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5675",
+     "sha256": "058e6f9ed2621710fb8e70730d15ec389612208b73a2f60689090597f5e0aef9"
+    }
+   ]
+  }
+ ]
+}

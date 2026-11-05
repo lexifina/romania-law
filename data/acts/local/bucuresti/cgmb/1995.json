@@ -1,0 +1,249 @@
+{
+"country": "RO",
+"shard": "local/bucuresti/cgmb/1995",
+"acts": [
+{
+"slug": "hcgmb-9-1995",
+"path": "local/bucuresti/cgmb/1995/9",
+"kind": "local",
+"year": "1995",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 9/1995 privind aprobarea de inlesniri la plata unor taxe si impozite locale",
+"short": "HCGMB nr. 9/1995",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1995-03-23",
+"latest": "1995-03-23",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/70",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcgmb-11-1995",
+"path": "local/bucuresti/cgmb/1995/11",
+"kind": "local",
+"year": "1995",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 11/1995 : 11 DIN 23/03/95 - privind esalonarea in 12 rate lunare a taxei aferente autorizatiei lucrarilor de consolidare si restaurare a Bisericii \"Coltea\" Bucuresti",
+"short": "HCGMB nr. 11/1995",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "1995-03-23",
+"latest": "1995-03-23",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/80",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcgmb-14-1995",
+"path": "local/bucuresti/cgmb/1995/14",
+"kind": "local",
+"year": "1995",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 14/1995 privind aprobarea \"Metodologiei de aprobare a documentatiilor de urbanism si amenajarea teritoriului\"",
+"short": "HCGMB nr. 14/1995",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1995-03-30",
+"latest": "1995-03-30",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/93",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcgmb-15-1995",
+"path": "local/bucuresti/cgmb/1995/15",
+"kind": "local",
+"year": "1995",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 15/1995 : 15 DIN 30/03/95 - privind aprobarea \"Regulamentului local-cadru in ce priveste autorizarea constructiilor de locuinte si altor constructii civile in municipiul Bucuresti\"",
+"short": "HCGMB nr. 15/1995",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "1995-03-30",
+"latest": "1995-03-30",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/97",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcgmb-30-1995",
+"path": "local/bucuresti/cgmb/1995/30",
+"kind": "local",
+"year": "1995",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 30/1995 privind infiintarea comisiilor de supraveghere a negocierii tarifelor la serviciile publice de interes local",
+"short": "HCGMB nr. 30/1995",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1995-07-11",
+"latest": "1995-07-11",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/156",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"annex_missing": true,
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcgmb-49-1995",
+"path": "local/bucuresti/cgmb/1995/49",
+"kind": "local",
+"year": "1995",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 49/1995 : 49 DIN 20/07/95 - privin modificarea tarifelor practicate de RGAB,RADET, RASUB si RATB pent ru serviciile prestate catre consumatori",
+"short": "HCGMB nr. 49/1995",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "1995-07-20",
+"latest": "1995-07-20",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/230",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcgmb-58-1995",
+"path": "local/bucuresti/cgmb/1995/58",
+"kind": "local",
+"year": "1995",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 58/1995 privind amanarea de la plata taxelor pentru eliberarea certificatelor de urbanism si a autorizatiilor de construire pentru consolidarea imobilelor din patrimoniul municipiului Bucuresti, administrate de Directia de Administrare a Fondului Imobiliar",
+"short": "HCGMB nr. 58/1995",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1995-07-27",
+"latest": "1995-07-27",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/266",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcgmb-75-1995",
+"path": "local/bucuresti/cgmb/1995/75",
+"kind": "local",
+"year": "1995",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 75/1995 : 75 DIN 02/10/95 - priv.termenele de prezent.catre comisiile de specialitate a proc.verb ale de negociere, ref.la tarif.practicate de reg.autonome de sub autorit CLMB",
+"short": "HCGMB nr. 75/1995",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "1995-10-02",
+"latest": "1995-10-02",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/322",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcgmb-90-1995",
+"path": "local/bucuresti/cgmb/1995/90",
+"kind": "local",
+"year": "1995",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 90/1995 privind aprobarea procesului verbal de negociere a tarifelor la serviciile publice prestate de R.G.A.B.",
+"short": "HCGMB nr. 90/1995",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1995-10-26",
+"latest": "1995-10-26",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1245",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcgmb-91-1995",
+"path": "local/bucuresti/cgmb/1995/91",
+"kind": "local",
+"year": "1995",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 91/1995 privind aprobarea procesului verbal de negociere a tarifelor la serviciile publice prestate de RADET",
+"short": "HCGMB nr. 91/1995",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "1995-10-26",
+"latest": "1995-10-26",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/1244",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcgmb-92-1995",
+"path": "local/bucuresti/cgmb/1995/92",
+"kind": "local",
+"year": "1995",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului General al Municipiului București nr. 92/1995 : 92 DIN 26/10/95 - privind aprobarea procesului verbal de negociere a tarifelor la serviciil e publice prestate de R.A.T.B",
+"short": "HCGMB nr. 92/1995",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "1995-10-26",
+"latest": "1995-10-26",
+"portal": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/354",
+"council": "bucuresti/cgmb",
+"council_name": "Consiliul General al Municipiului București",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

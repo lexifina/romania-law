@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "norma-aep/2026",
+ "acts": [
+  {
+   "slug": "norma-aep-lista-120-2026",
+   "path": "norma-aep/2026/lista-120",
+   "short": "Listă AEP nr. 120/2026",
+   "title": "Listă Autorității Electorale Permanente nr. 120 din 2026-01-08",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/306519",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/306519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-239-2026",
+   "path": "norma-aep/2026/lista-239",
+   "short": "Listă AEP nr. 239/2026",
+   "title": "Listă Autorității Electorale Permanente nr. 239 din 2026-01-08",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/306520",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/306520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-825-2026",
+   "path": "norma-aep/2026/lista-825",
+   "short": "Listă AEP nr. 825/2026",
+   "title": "Listă Autorității Electorale Permanente nr. 825 din 2026-01-20",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/306579",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/306579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-972-2026",
+   "path": "norma-aep/2026/lista-972",
+   "short": "Listă AEP nr. 972/2026",
+   "title": "LISTA nr. 972 din 21 ianuarie 2026 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerilor locale parţiale din data de 7 decembrie 2025",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/306718",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/306718",
+     "sha256": "3aac722ba2e8c8acf4c38c5d5bbebc5e3213694a417a9aa65a1721dc5fb4cda9"
+    }
+   ]
+  }
+ ]
+}

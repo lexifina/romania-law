@@ -1,0 +1,2001 @@
+{
+ "country": "RO",
+ "shard": "hg/2026",
+ "acts": [
+  {
+   "slug": "hg-135-2026",
+   "path": "hg/2026/135",
+   "short": "HG nr. 135/2026",
+   "title": "Hotărârea Guvernului nr. 135/2026 privind actualizarea valorii de inventar a unui imobil, ca urmare a reevaluării, aflat în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul General al Poliţiei Române - Inspectoratul de Poliţie Judeţean Botoşani, trecerea unei părţi din acesta în domeniul public al judeţului Botoşani şi pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308285",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308285",
+     "sha256": "6595e5736870d298a4cf1a5ee921a48f09398aa5d9723cb9f11a609c6f27721a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-139-2026",
+   "path": "hg/2026/139",
+   "short": "HG nr. 139/2026",
+   "title": "Hotărârea Guvernului nr. 139/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 685/2022 privind instituirea regimului de arie naturală protejată şi declararea ariilor speciale de conservare ca parte integrantă a reţelei ecologice europene Natura 2000 în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308286",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308286",
+     "sha256": "ea45760c572ac84a45ab5a876a7dfd4bdd3669fd827765942be35ca8f45941c0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-141-2026",
+   "path": "hg/2026/141",
+   "short": "HG nr. 141/2026",
+   "title": "Hotărârea Guvernului nr. 141/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.571/2022 privind stabilirea cadrului general de implementare a intervenţiilor aferente sectoarelor vegetal şi zootehnic din cadrul Planului strategic PAC 2023-2027, finanţate din Fondul european de garantare agricolă şi de la bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308264",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308264",
+     "sha256": "3611ad0063b5a76840d196aa32758c9972217db287a121a13962766f2ab7051f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-182-2026",
+   "path": "hg/2026/182",
+   "short": "HG nr. 182/2026",
+   "title": "Hotărârea Guvernului nr. 182/2026 pentru modificarea şi completarea Normelor metodologice de aplicare a Legii nr. 200/2006 privind constituirea şi utilizarea Fondului de garantare pentru plata creanţelor salariale, aprobate prin Hotărârea Guvernului nr. 1.850/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308883",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308883",
+     "sha256": "bb219c95937d6115db4a8b7deef2f6ac25434027b1f59a38c166fd35b8cba9b3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-219-2026",
+   "path": "hg/2026/219",
+   "short": "HG nr. 219/2026",
+   "title": "Hotărârea Guvernului nr. 219/2026 pentru modificarea Hotărârii Guvernului nr. 52/2018 privind organizarea şi funcţionarea Ministerului Investiţiilor şi Proiectelor Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309698",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309698",
+     "sha256": "2c263e352beb9c5d73392ab85cea4442bd341b2060639e75d865446e9ebf2631"
+    }
+   ]
+  },
+  {
+   "slug": "hg-23-2026",
+   "path": "hg/2026/23",
+   "short": "HG nr. 23/2026",
+   "title": "Hotărârea Guvernului nr. 23/2026 pentru aprobarea primului amendament convenit între Guvernul României și Banca Internațională pentru Reconstrucție și Dezvoltare, prin scrisoarea semnată la Bruxelles la 19 octombrie 2025 și la București la 28 octombrie 2025, la Acordul de împrumut (Proiect privind consolidarea bazelor pentru îmbunătățirea furnizării serviciilor judiciare) dintre România și Banca Internațională pentru Reconstrucție și Dezvoltare, semnat la București la 17 iulie 2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306502",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306502",
+     "sha256": "f2188f6fc96201692d16a723517db82c2cea283dbc8c56ac11f24ae031736a88"
+    }
+   ]
+  },
+  {
+   "slug": "hg-233-2026",
+   "path": "hg/2026/233",
+   "short": "HG nr. 233/2026",
+   "title": "Hotărârea Guvernului nr. 233/2026 privind acordarea cetăţeniei române domnului T. F",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309759",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309759",
+     "sha256": "5fe8fcfc7da3c12e04b7e173c092eea7f92f977e96c5a74c3a17bed3cbc2a0a1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-234-2026",
+   "path": "hg/2026/234",
+   "short": "HG nr. 234/2026",
+   "title": "Hotărârea Guvernului nr. 234/2026 privind acordarea cetăţeniei române domnului T. J. F. L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309760",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309760",
+     "sha256": "04762f42076b8025ad746e54e171b81432a4ac6ad66f403ab33f6e573fd7a423"
+    }
+   ]
+  },
+  {
+   "slug": "hg-235-2026",
+   "path": "hg/2026/235",
+   "short": "HG nr. 235/2026",
+   "title": "Hotărârea Guvernului nr. 235/2026 privind acordarea cetăţeniei române domnului M. K",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309761",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309761",
+     "sha256": "0ed53e435e1bdc8cb5f7d521710148ee8300a9eee11197c6d7f3fcd572493333"
+    }
+   ]
+  },
+  {
+   "slug": "hg-372-2026",
+   "path": "hg/2026/372",
+   "short": "HG nr. 372/2026",
+   "title": "Hotărârea Guvernului nr. 372/2026 privind modificarea Hotărârii Guvernului nr. 936/2020 pentru aprobarea cadrului general necesar în vederea implicării autorităţilor şi instituţiilor din România în procesul de programare şi negociere a fondurilor externe nerambursabile aferente perioadei de programare 2021-2027 şi a cadrului instituţional de coordonare, gestionare şi control al acestor fonduri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310264",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310264",
+     "sha256": "59f889b1a5f7647794275463acfb0144c4ea55a16df7c6c416b7aabcc41de18d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-38-2026",
+   "path": "hg/2026/38",
+   "short": "HG nr. 38/2026",
+   "title": "Hotărârea Guvernului nr. 38/2026 privind modificarea art. 1 din Hotărârea Guvernului nr. 1.264/2010 pentru aprobarea programului-cadru de emisiuni de titluri de stat \"Medium Term Notes\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307099",
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307099",
+     "sha256": "722bd517d9936c97737d4a35d041c0c08bb4ce93e13d31df2de27be3e5540e6b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-39-2026",
+   "path": "hg/2026/39",
+   "short": "HG nr. 39/2026",
+   "title": "Hotărârea Guvernului nr. 39/2026 pentru modificarea titlului VIII \"Accize şi alte taxe speciale\" din Normele metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal , aprobate prin Hotărârea Guvernului nr. 1/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307112",
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307112",
+     "sha256": "bfb95fdd7a5155207adc92ad05c7c4f9febfb973ace49aa0e714e0f85cc4f948"
+    }
+   ]
+  },
+  {
+   "slug": "hg-393-2026",
+   "path": "hg/2026/393",
+   "short": "HG nr. 393/2026",
+   "title": "Hotărârea Guvernului nr. 393/2026 pentru aprobarea Listei cuprinzând produsele militare supuse regimului de control al exporturilor, importurilor şi altor operaţiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310851",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310851",
+     "sha256": "ddc1085c6e82884e37a9a52d7839d1e94dae64d8ab8e784056ac4ab6389d3ae5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-41-2026",
+   "path": "hg/2026/41",
+   "short": "HG nr. 41/2026",
+   "title": "Hotărârea Guvernului nr. 41/2026 pentru modificarea Hotărârii Guvernului nr. 1.102/2014 privind stabilirea condiţiilor pentru punerea la dispoziţie pe piaţă a articolelor pirotehnice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307100",
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307100",
+     "sha256": "2ee4c0c1617d693b125fc095255ca4636d87e365be4dcc562412f10153f716b2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-419-2026",
+   "path": "hg/2026/419",
+   "short": "HG nr. 419/2026",
+   "title": "Hotărârea Guvernului nr. 419/2026 pentru completarea Hotărârii Guvernului nr. 29/2018 pentru stabilirea criteriilor pe baza cărora se aplică majorarea prevăzută la art. 17 alin. (1 )-( 2^1) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311220",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311220",
+     "sha256": "f4e8fcbb2547a8c9200cad780f7e62b4525f502f96ad6b259940ab4557b02886"
+    }
+   ]
+  },
+  {
+   "slug": "hg-449-2026",
+   "path": "hg/2026/449",
+   "short": "HG nr. 449/2026",
+   "title": "Hotărârea Guvernului nr. 449/2026 privind modificarea Hotărârii Guvernului nr. 60/1995 privind organizarea şi funcţionarea Regiei Autonome \"Rasirom\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311286",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311286",
+     "sha256": "1a3798e6b1ec8eae0497d661ddd0c7a6aecb6b9a11205ecd50b69521324382fa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-509-2026",
+   "path": "hg/2026/509",
+   "short": "HG nr. 509/2026",
+   "title": "Hotărârea Guvernului nr. 509/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 685/2022 privind instituirea regimului de arie naturală protejată şi declararea ariilor speciale de conservare ca parte integrantă a reţelei ecologice europene Natura 2000 în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311969",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311969",
+     "sha256": "66e05804ac9a4e3bb9cb441d4967eca4163d000c20b4f50112d959042c1101ed"
+    }
+   ]
+  },
+  {
+   "slug": "hg-585-2026",
+   "path": "hg/2026/585",
+   "short": "HG nr. 585/2026",
+   "title": "Hotărârea Guvernului nr. 585/2026 pentru completarea Hotărârii Guvernului nr. 1.204/2022 privind constituirea, organizarea şi funcţionarea Băncii de Investiţii şi Dezvoltare - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313319",
+   "versions": [
+    {
+     "from": "2026-08-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313319",
+     "sha256": "2330b492b8fe4e257efcb0875e0d099dd33a9245deb10853bb2c500ef07c187d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-642-2026",
+   "path": "hg/2026/642",
+   "short": "HG nr. 642/2026",
+   "title": "Hotărârea Guvernului nr. 642/2026 pentru modificarea anexei nr. 3 la Normele metodologice pentru aplicarea Legii nr. 269/2004 privind acordarea unui ajutor financiar în vederea stimulării achiziţionării de calculatoare, aprobate prin Hotărârea Guvernului nr. 1.294/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313589",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313589",
+     "sha256": "5477fb0c65ebf18bd7656f8cdad2cea263c946b0ef0413dd50741b46f05dc5f5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-679-2026",
+   "path": "hg/2026/679",
+   "short": "HG nr. 679/2026",
+   "title": "Hotărârea Guvernului nr. 679/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.756/2006 privind limitarea nivelului emisiilor de zgomot în mediu produs de echipamente destinate utilizării în exteriorul clădirilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313893",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313893",
+     "sha256": "0e8635d6cfedb4705bd39ac56e9df5a8cb870ad6b0ce17400964a17ef10afaf2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-689-2026",
+   "path": "hg/2026/689",
+   "short": "HG nr. 689/2026",
+   "title": "Hotărârea Guvernului nr. 689/2026 pentru completarea Hotărârii Guvernului nr. 30/2017 privind organizarea şi funcţionarea Ministerului Agriculturii şi Dezvoltării Rurale, precum şi pentru modificarea art. 6 alin. (6) din Hotărârea Guvernului nr. 1.186/2014 privind organizarea şi funcţionarea Autorităţii pentru Administrarea Sistemului Naţional Antigrindină şi de Creştere a Precipitaţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313905",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313905",
+     "sha256": "ba531661f4d01be6aa3c35f8e9459528ee86aaf9019a66ec9dc08d90e3dbc2cc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-700-2026",
+   "path": "hg/2026/700",
+   "short": "HG nr. 700/2026",
+   "title": "Hotărârea Guvernului nr. 700/2026 pentru modificarea Hotărârii Guvernului nr. 16/2017 privind organizarea şi funcţionarea Ministerului Afacerilor Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314009",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314009",
+     "sha256": "3a27a2249d8f7fc96892974eeae378176bb749ae868e6357354d65cd42a89be2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-738-2026",
+   "path": "hg/2026/738",
+   "short": "HG nr. 738/2026",
+   "title": "Hotărârea Guvernului nr. 738/2026 privind modificarea Hotărârii Guvernului nr. 732/2025 pentru aprobarea Metodologiei-cadru de acordare a burselor şi cuantumul acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314719",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314719",
+     "sha256": "7fbb87f1b207c382f72cca59735c859d981202beeab4ad078f303edb4fb71c3f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-822-2026",
+   "path": "hg/2026/822",
+   "short": "HG nr. 822/2026",
+   "title": "Hotărârea Guvernului nr. 822/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 824/2015 privind stabilirea condiţiilor pentru punerea la dispoziţie pe piaţă a recipientelor simple sub presiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315201",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315201",
+     "sha256": "4ed52e5c5a4b65e457ea2d03daa81458bbc9c211c5868da31201febfdc81ae47"
+    }
+   ]
+  },
+  {
+   "slug": "hg-823-2026",
+   "path": "hg/2026/823",
+   "short": "HG nr. 823/2026",
+   "title": "Hotărârea Guvernului nr. 823/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 410/2016 privind stabilirea condiţiilor pentru introducerea pe piaţă sau punerea în funcţiune a ascensoarelor şi pentru punerea la dispoziţie pe piaţă a componentelor de siguranţă pentru ascensoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315190",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315190",
+     "sha256": "020df70874c3732f7a146f8af28cf7afa3673df7538127652302500e815c1ba2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-824-2026",
+   "path": "hg/2026/824",
+   "short": "HG nr. 824/2026",
+   "title": "Hotărârea Guvernului nr. 824/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 123/2015 privind stabilirea condiţiilor pentru punerea la dispoziţie pe piaţă a echipamentelor sub presiune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315161",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315161",
+     "sha256": "120ae0d34389ae512594342ac9f38a81831ec03e6c6d78273440875905140279"
+    }
+   ]
+  },
+  {
+   "slug": "hg-951-2026",
+   "path": "hg/2026/951",
+   "short": "HG nr. 951/2026",
+   "title": "Hotărârea Guvernului nr. 951/2026 pentru completarea Hotărârii Guvernului nr. 1.074/2021 privind stabilirea sistemului de garanţie-returnare pentru ambalaje primare nereutilizabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315986",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315986",
+     "sha256": "db92fd879a6017dd97409d4a7c459d64839251134c671802e69b29ba2fa3d198"
+    }
+   ]
+  },
+  {
+   "slug": "hg-103-2026",
+   "path": "hg/2026/103",
+   "short": "HG nr. 103/2026",
+   "title": "Hotărârea Guvernului nr. 103/2026 privind actualizarea valorii de inventar a unor imobile aflate în domeniul public al statului şi în administrarea Ministerului Afacerilor Interne - Inspectoratul General de Aviaţie şi unităţile subordonate, ca urmare a reevaluării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308003",
+   "versions": [
+    {
+     "from": "2026-03-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308003",
+     "sha256": "faf6d45a819e48d68b6e669f2750f038141f18f02025a353a8bed9183816221c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-108-2026",
+   "path": "hg/2026/108",
+   "short": "HG nr. 108/2026",
+   "title": "Hotărârea Guvernului nr. 108/2026 pentru modificarea art. 16 alin. (2) şi (3) din Hotărârea Guvernului nr. 1.570/2022 privind stabilirea cadrului general de implementare a intervenţiilor specifice dezvoltării rurale cuprinse în Planul strategic PAC 2023-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308069",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308069",
+     "sha256": "ff182dd2df4f3c8b237f08edc54fdaefe76b386280fc7ed3915a84d3d93b4b13"
+    }
+   ]
+  },
+  {
+   "slug": "hg-120-2026",
+   "path": "hg/2026/120",
+   "short": "HG nr. 120/2026",
+   "title": "Hotărârea Guvernului nr. 120/2026 privind aprobarea modelului de steag al comunei Suseni, judeţul Harghita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308347",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308347",
+     "sha256": "f0c0dd817c9340487f22f25b5405ba911003ed18ba516a31c7c5f4bb8dad30ce"
+    }
+   ]
+  },
+  {
+   "slug": "hg-121-2026",
+   "path": "hg/2026/121",
+   "short": "HG nr. 121/2026",
+   "title": "Hotărârea Guvernului nr. 121/2026 privind modificarea şi completarea anexei la Hotărârea Guvernului nr. 720/2008 pentru aprobarea Listei cuprinzând denumirile comune internaţionale corespunzătoare medicamentelor de care beneficiază asiguraţii, cu sau fără contribuţie personală, pe bază de prescripţie medicală, în sistemul de asigurări sociale de sănătate, precum şi denumirile comune internaţionale corespunzătoare medicamentelor care se acordă în cadrul programelor naţionale de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308124",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308124",
+     "sha256": "0814d9c59798cc1017272d541490575c487a0e91082ca66ea905774763239a04"
+    }
+   ]
+  },
+  {
+   "slug": "hg-13-2026",
+   "path": "hg/2026/13",
+   "short": "HG nr. 13/2026",
+   "title": "Hotărârea Guvernului nr. 13/2026 privind actualizarea valorii de inventar a bunurilor imobile identificate cu nr. MF 154932, MF 154933, MF 154936, MF 154937, MF 154459 și MF 154938, aflate în domeniul public al statului și în administrarea Ministerului Educației și Cercetării, pentru Universitatea \"Ștefan cel Mare\" din Suceava, ca urmare a reevaluării, a adresei poștale a imobilelor identificate cu nr. MF 154932 și MF 154933, comasarea numerelor MF 154932 și MF 154933 la poziția cu nr. MF 154933, ca urmare a înscrierii acestora în aceeași carte funciară, modificarea elementelor-cadru de descriere tehnică ale imobilului cu nr. MF 154933, și comasarea numerelor MF 154936 și MF 154937 la poziția cu nr. MF 154937, ca urmare a înscrierii acestora în aceeași carte funciară, precum și modificarea elementelor-cadru de descriere tehnică ale imobilului cu nr. MF 154937",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306475",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306475",
+     "sha256": "105328459e2c11c6092ecbdfb8517ba1d4e1ceeaf58d751b53ed11ef5348bc76"
+    }
+   ]
+  },
+  {
+   "slug": "hg-132-2026",
+   "path": "hg/2026/132",
+   "short": "HG nr. 132/2026",
+   "title": "Hotărârea Guvernului nr. 132/2026 privind trecerea unui bun imobil din domeniul public al statului şi din administrarea Ministerului Educaţiei şi Cercetării, prin Inspectoratul Şcolar Judeţean Sălaj, în domeniul public al judeţului Sălaj, pentru Centrul Şcolar pentru Educaţie Incluzivă \"Speranţa\" din Zalău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308304",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308304",
+     "sha256": "2c99f02d8a94e17b5b17f5c914dc6c5fbfd5afe6afa3ff4a3950d22d0c13f1dd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-138-2026",
+   "path": "hg/2026/138",
+   "short": "HG nr. 138/2026",
+   "title": "Hotărârea Guvernului nr. 138/2026 pentru modificarea anexelor nr. 4 , 5 , 6 şi 8 la Normele metodologice cu privire la realizarea activităţilor de cooperare internaţională pentru dezvoltare şi asistenţă umanitară, aprobate prin Hotărârea Guvernului nr. 690/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308292",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308292",
+     "sha256": "82f02912c0954c2f5d576855794c507abaca7b2d8f8d447af1cc9a43c34ae7ac"
+    }
+   ]
+  },
+  {
+   "slug": "hg-142-2026",
+   "path": "hg/2026/142",
+   "short": "HG nr. 142/2026",
+   "title": "Hotărârea Guvernului nr. 142/2026 privind trecerea unei suprafeţe de 7,50 ha de teren cu destinaţie forestieră din domeniul public al statului în domeniul privat al acestuia şi în administrarea Regiei Naţionale a Pădurilor - Romsilva, în vederea reconstituirii dreptului de proprietate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308310",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308310",
+     "sha256": "9310335b6ac439c430c9ccc8f6c1ea627471e827a08ab1898b496ed53a3dd1c9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-145-2026",
+   "path": "hg/2026/145",
+   "short": "HG nr. 145/2026",
+   "title": "Hotărârea Guvernului nr. 145/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.094/2025 privind instituirea unei scheme de ajutor de stat pentru compensarea creşterii accizei la motorina utilizată drept combustibil pentru motor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308241",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308241",
+     "sha256": "2bb6da4d0eb4e476d101d5068cc134857d4d23c00cef86951b1f74413e19812a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-146-2026",
+   "path": "hg/2026/146",
+   "short": "HG nr. 146/2026",
+   "title": "Hotărârea Guvernului nr. 146/2026 pentru stabilirea salariului de bază minim brut pe ţară garantat în plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308231",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308231",
+     "sha256": "e6ba0f9b274ee58739716163a162f130d356bd5ba96b6f1fd46e425060c45df4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-152-2026",
+   "path": "hg/2026/152",
+   "short": "HG nr. 152/2026",
+   "title": "Hotărârea Guvernului nr. 152/2026 privind actualizarea elementelor de descriere tehnică şi a valorii de inventar ale unui imobil aflat în domeniul public al statului şi în administrarea Ministerului Justiţiei, precum şi trecerea acestuia din administrarea Ministerului Justiţiei în administrarea Tribunalului Sibiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308378",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308378",
+     "sha256": "c63e8d64060bfc6d98a3ab7c140797ada118cd2bb6bcbdebdcb0d7c0c7a379b4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-16-2026",
+   "path": "hg/2026/16",
+   "short": "HG nr. 16/2026",
+   "title": "Hotărârea Guvernului nr. 16/2026 privind închirierea unor părți din imobilul 1369 aflat în domeniul public al statului și în administrarea Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306500",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306500",
+     "sha256": "2c6148b52837f663a34fd7354a04db4fb2b47700b75b2d0e40036dc230a11751"
+    }
+   ]
+  },
+  {
+   "slug": "hg-162-2026",
+   "path": "hg/2026/162",
+   "short": "HG nr. 162/2026",
+   "title": "Hotărârea Guvernului nr. 162/2026 privind aprobarea cuantumului contribuţiei anuale de participare a României în calitate de membru afiliat la Asociaţia Internaţională a Securităţii Sociale (ISSA) pentru anul 2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308911",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308911",
+     "sha256": "3896da026c23b3397f82e110ffe0964e1485406ffc0cd6f5f0f48bfda9f579a9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-166-2026",
+   "path": "hg/2026/166",
+   "short": "HG nr. 166/2026",
+   "title": "Hotărârea Guvernului nr. 166/2026 privind rechemarea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308857",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308857",
+     "sha256": "9cf401b82c9384d21aad32fd5d7f89b8f63638ec6e97917a2b5e81ad76bcc1aa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-167-2026",
+   "path": "hg/2026/167",
+   "short": "HG nr. 167/2026",
+   "title": "Hotărârea Guvernului nr. 167/2026 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308858",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308858",
+     "sha256": "b74974d3956faa97ba626d5737b45764b737eead20d5909a71ac6ca6c919916a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-17-2026",
+   "path": "hg/2026/17",
+   "short": "HG nr. 17/2026",
+   "title": "Hotărârea Guvernului nr. 17/2026 privind închirierea unei părți din imobilul 878 aflat în domeniul public al statului și în administrarea Ministerului Apărării Naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306501",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306501",
+     "sha256": "20a11146cf41e83a9691152eb5f2d134df74d2b1597fc8a262c03a5f02ea75e2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-184-2026",
+   "path": "hg/2026/184",
+   "short": "HG nr. 184/2026",
+   "title": "Hotărârea Guvernului nr. 184/2026 pentru modificarea şi completarea titlului VIII \"Accize şi alte taxe speciale\" din Normele metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal , aprobate prin Hotărârea Guvernului nr. 1/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308948",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308948",
+     "sha256": "3b4735cbf4b38e69ab5cc04253251d535ed5a32fa189d178d7fe388ac6f1a0e3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-191-2026",
+   "path": "hg/2026/191",
+   "short": "HG nr. 191/2026",
+   "title": "Hotărârea Guvernului nr. 191/2026 privind aprobarea Nomenclatorului domeniilor şi al specializărilor/programelor de studii universitare şi a structurii instituţiilor de învăţământ superior pentru anul universitar 2026-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309536",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309536",
+     "sha256": "36ba9b16115c0112bbc69127ed7acf83c6ea175c9f39f4bbc31174ac184706f9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-192-2026",
+   "path": "hg/2026/192",
+   "short": "HG nr. 192/2026",
+   "title": "Hotărârea Guvernului nr. 192/2026 privind aprobarea domeniilor şi programelor de studii universitare de master acreditate şi a numărului maxim de studenţi ce pot fi şcolarizaţi în anul universitar 2026-2027",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309563",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309563",
+     "sha256": "7213274d058c04da13a16434b2ca7c90bf4da9a7aa5fcc301b7963b6a4e788a3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-194-2026",
+   "path": "hg/2026/194",
+   "short": "HG nr. 194/2026",
+   "title": "Hotărârea Guvernului nr. 194/2026 privind aprobarea Strategiei naţionale a rezervelor de stat pentru perioada 2026-2030",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309529",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309529",
+     "sha256": "eb3cf7bf54ac185c80cdc39153031328c6635d605ec6829d527f71409f278a93"
+    }
+   ]
+  },
+  {
+   "slug": "hg-222-2026",
+   "path": "hg/2026/222",
+   "short": "HG nr. 222/2026",
+   "title": "Hotărârea Guvernului nr. 222/2026 privind modificarea şi completarea Statutului Agenţiei Naţionale pentru Ocuparea Forţei de Muncă, aprobat prin Hotărârea Guvernului nr. 1.610/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309615",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309615",
+     "sha256": "c42a486026e7c0f48574cb43d04618b70f2be7a509d2f9736e0f536bfe0ec409"
+    }
+   ]
+  },
+  {
+   "slug": "hg-245-2026",
+   "path": "hg/2026/245",
+   "short": "HG nr. 245/2026",
+   "title": "Hotărârea Guvernului nr. 245/2026 pentru modificarea anexei nr. 2 la Hotărârea Guvernului nr. 1.210/2022 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate pe amplasamentul suplimentar, aprobarea listei cuprinzând imobilul proprietate publică a statului şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada de Centură Bucureşti km 0 + 000- km 100 + 900, Sector Centura Sud km 52 + 770-km 100 + 900, lotul 2 km 69 + 000-km 85 + 300\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309813",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309813",
+     "sha256": "c9846282d6d04982de0f3f1163ea69af92451705da0cf6ce0f998e37a64393dd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-248-2026",
+   "path": "hg/2026/248",
+   "short": "HG nr. 248/2026",
+   "title": "Hotărârea Guvernului nr. 248/2026 privind transmiterea unei părţi dintr-un imobil aflat în domeniul public al statului din administrarea Ministerului Apărării Naţionale în administrarea Ministerului Transporturilor şi Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310256",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310256",
+     "sha256": "b3ee1f121f9fc94acffe243ac6b4af41adcc151ef1d2ad46ae8d59d58d0980e8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-256-2026",
+   "path": "hg/2026/256",
+   "short": "HG nr. 256/2026",
+   "title": "Hotărârea Guvernului nr. 256/2026 privind închirierea unei părţi din imobilul 3565 aflat în domeniul privat al statului şi în administrarea Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310231",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310231",
+     "sha256": "88f50566550e8b3193c07413c5f55e1c2e35f3b00cd2c33d41154e9c5c020ced"
+    }
+   ]
+  },
+  {
+   "slug": "hg-264-2026",
+   "path": "hg/2026/264",
+   "short": "HG nr. 264/2026",
+   "title": "Hotărârea Guvernului nr. 264/2026 pentru aprobarea Programului social de interes naţional de susţinere a cuplurilor şi a femeilor singure pentru creşterea natalităţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309786",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309786",
+     "sha256": "3ee4cee0a2b71c28d22a8a2e594597a5737e6a839cc61371300e9eea33031bc9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-271-2026",
+   "path": "hg/2026/271",
+   "short": "HG nr. 271/2026",
+   "title": "Hotărârea Guvernului nr. 271/2026 pentru declararea proiectului \"Linia Electrică Aeriană (LEA) 400 kV Suceava - Bălţi pentru porţiunea din proiect de pe teritoriul României\" ca proiect de importanţă naţională privind reţeaua electrică de transport, precum şi pentru aprobarea amplasamentului şi declanşarea procedurii de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310278",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310278",
+     "sha256": "4ea880c143b7ccaef3b241de5ac5d5b1266b8782f5d97551305e027e0ef956bd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-292-2026",
+   "path": "hg/2026/292",
+   "short": "HG nr. 292/2026",
+   "title": "Hotărârea Guvernului nr. 292/2026 privind eliberarea domnului Oprea Mihai din funcţia de prefect al judeţului Vâlcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310072",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310072",
+     "sha256": "d2bd211c41e28952872c1a0d1ad18fad636fdde736e0093bae64555d63cfd631"
+    }
+   ]
+  },
+  {
+   "slug": "hg-294-2026",
+   "path": "hg/2026/294",
+   "short": "HG nr. 294/2026",
+   "title": "Hotărârea Guvernului nr. 294/2026 privind eliberarea domnului Heler Sandu din funcţia de subprefect al judeţului Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310074",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310074",
+     "sha256": "698d205aa18ed9c827688c4df7932719df9c548deaecb8a2696db935539e974e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-297-2026",
+   "path": "hg/2026/297",
+   "short": "HG nr. 297/2026",
+   "title": "Hotărârea Guvernului nr. 297/2026 privind eliberarea domnului Ivancea Valentin din funcţia de subprefect al judeţului Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310077",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310077",
+     "sha256": "da9f58cb3b6b721cecd0947bccda5ecd38f7ef025c09543ce3f41c5019815f0b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-299-2026",
+   "path": "hg/2026/299",
+   "short": "HG nr. 299/2026",
+   "title": "Hotărârea Guvernului nr. 299/2026 privind eliberarea domnului Pavel Emilian din funcţia de subprefect al judeţului Bihor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310079",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310079",
+     "sha256": "72fd0e5e27dc792b344166760a12884db5853d03ea0a1c5ff09de39fa747158c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-342-2026",
+   "path": "hg/2026/342",
+   "short": "HG nr. 342/2026",
+   "title": "Hotărârea Guvernului nr. 342/2026 privind numirea domnului Stauder Rudolf în funcţia de prefect al judeţului Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310122",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310122",
+     "sha256": "ecade09c714156149ad251c93f798d1909d6151f8783cdf2c4e9862d5fe962e6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-343-2026",
+   "path": "hg/2026/343",
+   "short": "HG nr. 343/2026",
+   "title": "Hotărârea Guvernului nr. 343/2026 privind numirea domnului Pavel Cristinel în funcţia de prefect al judeţului Mehedinţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310123",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310123",
+     "sha256": "d03244164a1de714906a8134920a26af863352ffa3959eb36a16f103e30f4ed1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-344-2026",
+   "path": "hg/2026/344",
+   "short": "HG nr. 344/2026",
+   "title": "Hotărârea Guvernului nr. 344/2026 privind numirea doamnei Apostol Maria în funcţia de prefect al judeţului Neamţ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310124",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310124",
+     "sha256": "162bab349080efec73e1b5ddcdb5079c059228dbd8d0ac9d27e40e1bbcaa2c8a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-345-2026",
+   "path": "hg/2026/345",
+   "short": "HG nr. 345/2026",
+   "title": "Hotărârea Guvernului nr. 345/2026 privind numirea domnului Nicolae Ştefan în funcţia de prefect al judeţului Olt",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310125",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310125",
+     "sha256": "e78f94facba13096f54d38179a963fbc4ee6591f613199a889e3b1cab5e59b69"
+    }
+   ]
+  },
+  {
+   "slug": "hg-348-2026",
+   "path": "hg/2026/348",
+   "short": "HG nr. 348/2026",
+   "title": "Hotărârea Guvernului nr. 348/2026 privind numirea domnului Terente Eugen în funcţia de prefect al judeţului Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310128",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310128",
+     "sha256": "0f81e85d4bb30afb52aef665e139df24083edbf59f4e26dcb2b9141e6ca5e548"
+    }
+   ]
+  },
+  {
+   "slug": "hg-349-2026",
+   "path": "hg/2026/349",
+   "short": "HG nr. 349/2026",
+   "title": "Hotărârea Guvernului nr. 349/2026 privind numirea domnului Şerban Andrei în funcţia de prefect al judeţului Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310129",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310129",
+     "sha256": "ca176cf90f11d4be4464cc2fec6e7416caf05ba8a8dd3cd254d74d6d640b464e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-360-2026",
+   "path": "hg/2026/360",
+   "short": "HG nr. 360/2026",
+   "title": "Hotărârea Guvernului nr. 360/2026 privind aprobarea Planului naţional de paturi pentru perioada 2026-2028",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310161",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310161",
+     "sha256": "ac73fb402f24a01b235cc51e2e06ccd27fbb0515040587973b1d51eaacd01caa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-362-2026",
+   "path": "hg/2026/362",
+   "short": "HG nr. 362/2026",
+   "title": "Hotărârea Guvernului nr. 362/2026 privind acordarea unor ajutoare de urgenţă pentru sprijinirea familiilor şi persoanelor singure afectate de incendiul produs în localitatea Rucăreni, comuna Soveja, judeţul Vrancea, şi pentru suplimentarea bugetului Ministerului Muncii, Familiei, Tineretului şi Solidarităţii Sociale din Fondul de rezervă bugetară la dispoziţia Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310163",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310163",
+     "sha256": "50828a9bac7cd6b953334e65e3d15222e221e60ca38e7178ea1370a8657437c8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-376-2026",
+   "path": "hg/2026/376",
+   "short": "HG nr. 376/2026",
+   "title": "Hotărârea Guvernului nr. 376/2026 privind actualizarea descrierii tehnice şi a valorii de inventar a unui drum forestier, precum şi trecerea, cu titlu gratuit, a unui tronson din acesta şi a terenului aferent din domeniul public al statului şi din administrarea Regiei Naţionale a Pădurilor - Romsilva în domeniul public al oraşului Novaci, judeţul Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310395",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310395",
+     "sha256": "e3135ca7b3bf546d4041a05a6d7e69bc03b832c77b5dad0509ded046a890dd83"
+    }
+   ]
+  },
+  {
+   "slug": "hg-396-2026",
+   "path": "hg/2026/396",
+   "short": "HG nr. 396/2026",
+   "title": "Hotărârea Guvernului nr. 396/2026 pentru aprobarea modului de repartizare şi de utilizare parţială a sumelor prevăzute la lit. c), d) şi e) din anexa nr. 3/13/02a la Legea bugetului de stat pe anul 2026 nr. 43/2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310930",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310930",
+     "sha256": "f4c7125cff8605594f00881b96071a11c44db30e0579ba38eac93aef2dc09f7c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-40-2026",
+   "path": "hg/2026/40",
+   "short": "HG nr. 40/2026",
+   "title": "Hotărârea Guvernului nr. 40/2026 pentru modificarea Hotărârii Guvernului nr. 1.093/2006 privind stabilirea cerinţelor minime de securitate şi sănătate pentru protecţia lucrătorilor împotriva riscurilor legate de expunerea la locul de muncă la agenţi cancerigeni sau mutageni ori la substanţe toxice pentru reproducere, precum şi pentru modificarea şi completarea Hotărârii Guvernului nr. 1.218/2006 privind stabilirea cerinţelor minime de securitate şi sănătate în muncă pentru asigurarea protecţiei lucrătorilor împotriva riscurilor legate de prezenţa agenţilor chimici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307136",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307136",
+     "sha256": "4a55d0ec50a036df7d6ebb367407516afce794187e8d6c077c26fbf43f1b3317"
+    }
+   ]
+  },
+  {
+   "slug": "hg-409-2026",
+   "path": "hg/2026/409",
+   "short": "HG nr. 409/2026",
+   "title": "Hotărârea Guvernului nr. 409/2026 pentru completarea Hotărârii Guvernului nr. 1.029/2008 privind condiţiile introducerii pe piaţă a maşinilor, precum şi a Hotărârii Guvernului nr. 245/2016 privind stabilirea condiţiilor pentru punerea la dispoziţie pe piaţă a echipamentelor şi sistemelor de protecţie destinate utilizării în atmosfere potenţial explozive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311111",
+   "versions": [
+    {
+     "from": "2026-05-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311111",
+     "sha256": "9b63de52adb0c7df63014f10a3e8df7b1eb35f8579ebd81ad5edca8107087d5c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-43-2026",
+   "path": "hg/2026/43",
+   "short": "HG nr. 43/2026",
+   "title": "Hotărârea Guvernului nr. 43/2026 pentru aprobarea Acordului de cooperare dintre Guvernul României şi Guvernul Ordinului Suveran Militar Ospitalier al Sfântului Ioan de Ierusalim, Rodos şi Malta, semnat la Roma la 11 mai 2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307138",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307138",
+     "sha256": "ff1987b031ced532c7d4b0b597718fccb533c260e808792e289d2c5c446e1be0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-430-2026",
+   "path": "hg/2026/430",
+   "short": "HG nr. 430/2026",
+   "title": "Hotărârea Guvernului nr. 430/2026 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului a unor bunuri imobile intrate în proprietatea publică a statului în baza Hotărârii Guvernului nr. 474/2013 privind aprobarea amplasamentului şi declanşarea procedurii de expropriere a imobilelor situate în coridorul de expropriere al lucrării \"Conductă de interconectare a Sistemului naţional de transport gaze naturale din România cu Sistemul de transport gaze naturale din Republica Moldova pe direcţia Iaşi (România) - Ungheni (Republica Moldova)\", darea acestora în administrarea Autorităţii Naţionale de Reglementare în Domeniul Minier, Petrolier şi al Stocării Geologice a Dioxidului de Carbon, precum şi modificarea anexei nr. 22 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311274",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311274",
+     "sha256": "9adab7cdb6015dbe70c8df4ea4064530ae55e92811d52c8b495d81f428a92855"
+    }
+   ]
+  },
+  {
+   "slug": "hg-46-2026",
+   "path": "hg/2026/46",
+   "short": "HG nr. 46/2026",
+   "title": "Hotărârea Guvernului nr. 46/2026 privind actualizarea valorilor de inventar, a datelor de identificare, a codurilor de clasificație și a elementelor de descriere tehnică ale unor bunuri aflate în domeniul public al statului, în administrarea Ministerului Transporturilor și Infrastructurii și în concesiunea Companiei Naționale Aeroporturi București - S.A., ca urmare a reevaluării acestora și a actualizării unor cărți funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307162",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307162",
+     "sha256": "5e85f85d72e1441ef6e9315907feee19b81f9a1e79488094e1acce492fb66916"
+    }
+   ]
+  },
+  {
+   "slug": "hg-468-2026",
+   "path": "hg/2026/468",
+   "short": "HG nr. 468/2026",
+   "title": "Hotărârea Guvernului nr. 468/2026 privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 1.024/2021 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Sibiu-Piteşti\" - Secţiunea 3 Cornetu-Tigveni, precum şi modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 1.024/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311500",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311500",
+     "sha256": "f39302f24d5211db6f6ea634a4d98b18adebb0b80fb55603db7a8665dc6f6c2d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-469-2026",
+   "path": "hg/2026/469",
+   "short": "HG nr. 469/2026",
+   "title": "Hotărârea Guvernului nr. 469/2026 privind suplimentarea pe anul 2026 a sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 799/2019 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere situat pe amplasamentul lucrării de utilitate publică de interes naţional privind obiectivul de investiţii \"Programul strategic de dezvoltare a infrastructurii aeroportuare la Aeroportul Internaţional Henri Coandă - Bucureşti\", precum şi modificarea anexei nr. 2 la Hotărârea Guvernului nr. 799/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311537",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311537",
+     "sha256": "9075f0c8766fbca1bc17d168d8aeca304c5887f86ee3df3f95d4451e71ba90fa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-47-2026",
+   "path": "hg/2026/47",
+   "short": "HG nr. 47/2026",
+   "title": "Hotărârea Guvernului nr. 47/2026 privind actualizarea codului de clasificaţie şi a descrierii tehnice a unor bunuri imobile aparţinând domeniului public al statului, divizarea unor bunuri şi transmiterea părţilor divizate din acestea, din administrarea Administraţiei Naţionale de Meteorologie - R.A. în administrarea Ministerului Transporturilor şi Infrastructurii, în vederea realizării de către Metrorex - S.A. a lucrării de utilitate publică de interes naţional \"Legătura reţelei de metrou cu Aeroportul Internaţional Henri Coandă - Otopeni (Magistrala 6: 1 Mai-Otopeni)\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307185",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307185",
+     "sha256": "498460dc10234ec263765a371afe1762c72e6fb020d858ed0020b8b2191ddc59"
+    }
+   ]
+  },
+  {
+   "slug": "hg-475-2026",
+   "path": "hg/2026/475",
+   "short": "HG nr. 475/2026",
+   "title": "Hotărârea Guvernului nr. 475/2026 pentru suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 960/2015 privind aprobarea amplasamentului şi declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate în coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Deschiderea şi punerea în exploatare a carierei Jilţ Nord la o capacitate de 4,5 milioane tone/an lignit\", precum şi modificarea anexei nr. 2 la Hotărârea Guvernului nr. 960/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311541",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311541",
+     "sha256": "0bad4343acf298a96fd8c42d9ecd6218a39157b5eda7af0d15120f32b7bb1294"
+    }
+   ]
+  },
+  {
+   "slug": "hg-477-2026",
+   "path": "hg/2026/477",
+   "short": "HG nr. 477/2026",
+   "title": "Hotărârea Guvernului nr. 477/2026 privind modificarea şi completarea Metodologiei de evaluare externă a calităţii educaţiei în învăţământul superior, aprobată prin Hotărârea Guvernului nr. 962/2024 , şi prorogarea termenului prevăzut la art. 67",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311464",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311464",
+     "sha256": "7a8665bbf080d5cde7ecb4273e76e9ea76364f12c8065b04036bfb6ec80648a1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-478-2026",
+   "path": "hg/2026/478",
+   "short": "HG nr. 478/2026",
+   "title": "Hotărârea Guvernului nr. 478/2026 privind modificarea Hotărârii Guvernului nr. 421/2018 pentru instituirea unei scheme de ajutor de stat privind sprijinirea producţiei de opere audiovizuale pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311465",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311465",
+     "sha256": "d80e340fc92ac36f34d3ffac2e6c056f2ba8a35f61416b6a857ab2c731efefe0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-479-2026",
+   "path": "hg/2026/479",
+   "short": "HG nr. 479/2026",
+   "title": "Hotărârea Guvernului nr. 479/2026 privind modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.327/2023 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Tren metropolitan Gilău - Floreşti - Cluj-Napoca - Baciu - Apahida - Jucu - Bonţida - etapa I a sistemului de transport metropolitan rapid Cluj: Magistrala I de metrou şi tren metropolitan, inclusiv legătura dintre acestea. Componenta 1. Magistrala I de metrou Cluj\", aprobarea listei imobilelor proprietate publică a statului, precum şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional, actualizarea valorii de inventar a imobilului MF 163008 aflat în domeniul public al statului şi în administrarea Ministerului Sănătăţii, precum şi transmiterea unor părţi ale acestuia din administrarea Ministerului Sănătăţii în administrarea Ministerului Transporturilor şi Infrastructurii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311928",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311928",
+     "sha256": "8a70034616cde375551fba5b25eef128f5f8e1279aaa0e26db519c1e12090067"
+    }
+   ]
+  },
+  {
+   "slug": "hg-487-2026",
+   "path": "hg/2026/487",
+   "short": "HG nr. 487/2026",
+   "title": "Hotărârea Guvernului nr. 487/2026 privind transmiterea unui imobil aflat în proprietatea publică a statului din administrarea Serviciului Român de Informaţii în administrarea Ministerului Transporturilor şi Infrastructurii, precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311844",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311844",
+     "sha256": "45f92e6a537e4f1bd9045c4cd59179d88894ca2fd5f23693dfcea91ad7a355dd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-49-2026",
+   "path": "hg/2026/49",
+   "short": "HG nr. 49/2026",
+   "title": "Hotărârea Guvernului nr. 49/2026 privind trecerea unui imobil aflat în domeniul public al statului și în administrarea Regiei Autonome \"Administrația Română a Serviciilor de Trafic Aerian\", regie autonomă ce funcționează sub autoritatea Ministerului Transporturilor și Infrastructurii, în domeniul public al orașului Simeria, județul Hunedoara, precum și modificarea anexei nr. 16 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307163",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307163",
+     "sha256": "e1d7a85b61ea9255ec91f06390b0d61c03f4280d5fc4e74d1783728cac51eb2f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-493-2026",
+   "path": "hg/2026/493",
+   "short": "HG nr. 493/2026",
+   "title": "Hotărârea Guvernului nr. 493/2026 privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 1.630/2024 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată, aprobarea listei imobilelor proprietate publică a statului, precum şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional „Autostrada de centură Bucureşti“, sector Centura Nord km 0 + 000-km 52 + 770, lot 1 km 2 + 500-km 20 + 000, precum şi modificarea anexei nr. 2 la Hotărârea Guvernului nr. 1.630/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311578",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311578",
+     "sha256": "6d244673d337b2896d81c0d91113736f296c167b669e3d8affc69020381beee0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-5-2026",
+   "path": "hg/2026/5",
+   "short": "HG nr. 5/2026",
+   "title": "Hotărârea Guvernului nr. 5/2026 privind modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 521/2023 pentru aprobarea pachetelor de servicii şi a Contractului-cadru care reglementează condiţiile acordării asistenţei medicale, a medicamentelor şi a dispozitivelor medicale, în cadrul sistemului de asigurări sociale de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/306453",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/306453",
+     "sha256": "812a587c4e723e769f28f6317a1c627e0e6e07e56222207a08ec10deb28f8674"
+    }
+   ]
+  },
+  {
+   "slug": "hg-50-2026",
+   "path": "hg/2026/50",
+   "short": "HG nr. 50/2026",
+   "title": "Hotărârea Guvernului nr. 50/2026 privind trecerea din domeniul public al statului în domeniul privat al statului a unor bunuri aflate în administrarea Ministerului Transporturilor și Infrastructurii și în concesiunea Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A. - Sucursala Regională CF București pentru scoaterea din funcțiune, în vederea valorificării și, după caz, casării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307164",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307164",
+     "sha256": "2e671579da87b92d7668d8c57ccd6ad83c011fff7fe9a5a3f5e7bf3b8257c21c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-500-2026",
+   "path": "hg/2026/500",
+   "short": "HG nr. 500/2026",
+   "title": "Hotărârea Guvernului nr. 500/2026 pentru suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 552/2018 privind aprobarea amplasamentului şi declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate în coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Lucrări pentru punerea în funcţiune a capacităţii finale de producţie de 8.500 mii tone/an lignit la cariera Jilţ Sud\", precum şi pentru modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 552/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311943",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311943",
+     "sha256": "97383b49379da641a3aee6fb058fc56249a642d14a871fbbf762fd7f5a7c9e8a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-501-2026",
+   "path": "hg/2026/501",
+   "short": "HG nr. 501/2026",
+   "title": "Hotărârea Guvernului nr. 501/2026 pentru modificarea Hotărârii Guvernului nr. 828/2024 privind organizarea şi funcţionarea Comisiei Naţionale pentru Controlul Activităţilor Nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311944",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311944",
+     "sha256": "501aa9c386e55966865697069b697f57af26716a2b87b45b042d2720e72889aa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-52-2026",
+   "path": "hg/2026/52",
+   "short": "HG nr. 52/2026",
+   "title": "Hotărârea Guvernului nr. 52/2026 privind actualizarea descrierii tehnice, adresei și valorii de inventar ale unor bunuri aflate în domeniul public al statului și în administrarea Agenției Naționale pentru Zootehnie \"Prof. dr. G.K. Constantinescu\", din subordinea Ministerului Agriculturii și Dezvoltării Rurale, și trecerea acestora în domeniul public al comunei Poșta Câlnău, județul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307165",
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307165",
+     "sha256": "8e72b8f556cc8d69218de938dc33f1bd5982f020e6d71b79171cf8ecba5d8e49"
+    }
+   ]
+  },
+  {
+   "slug": "hg-520-2026",
+   "path": "hg/2026/520",
+   "short": "HG nr. 520/2026",
+   "title": "Hotărârea Guvernului nr. 520/2026 privind aprobarea modelului steagului comunei Pănet, judeţul Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312171",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312171",
+     "sha256": "8fcf4047b672e2588eedc6f9df4f1770bec0cc061d711686d4683ff56e9349d2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-521-2026",
+   "path": "hg/2026/521",
+   "short": "HG nr. 521/2026",
+   "title": "Hotărârea Guvernului nr. 521/2026 privind aprobarea modelului steagului comunei Ghergheasa, judeţul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312172",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312172",
+     "sha256": "b1f0224b2d8fd0f76e8d7c2b9debf20b451a99b213c06c9c6357ab7834a90786"
+    }
+   ]
+  },
+  {
+   "slug": "hg-522-2026",
+   "path": "hg/2026/522",
+   "short": "HG nr. 522/2026",
+   "title": "Hotărârea Guvernului nr. 522/2026 privind aprobarea stemei comunei Cupşeni, judeţul Maramureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312173",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312173",
+     "sha256": "437567110178e96095fd8d8a599a5b356b63731d91cbfa48eef35c498b2c7412"
+    }
+   ]
+  },
+  {
+   "slug": "hg-527-2026",
+   "path": "hg/2026/527",
+   "short": "HG nr. 527/2026",
+   "title": "Hotărârea Guvernului nr. 527/2026 privind stabilirea unor măsuri în acordarea de ajutoare de urgenţă în bani pentru sprijinirea familiilor şi persoanelor singure afectate de incendiul produs în localitatea Rucăreni, comuna Soveja, judeţul Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312147",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312147",
+     "sha256": "39b7ee5cc5d79a6fa53d761974dac3476cdca8e88e82851385aad84e4a47d1ac"
+    }
+   ]
+  },
+  {
+   "slug": "hg-537-2026",
+   "path": "hg/2026/537",
+   "short": "HG nr. 537/2026",
+   "title": "Hotărârea Guvernului nr. 537/2026 pentru suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 1.120/2020 privind aprobarea amplasamentului şi declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Lucrări pentru menţinerea şi dezvoltarea capacităţii la cariera Tismana I, judeţul Gorj, la 5.000.000 tone/an lignit\", precum şi modificarea anexei nr. 2 la Hotărârea Guvernului nr. 1.120/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312217",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312217",
+     "sha256": "e8746f48110a319b303885abe89c5d2da69386c56ecc8b621ce522385063addb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-547-2026",
+   "path": "hg/2026/547",
+   "short": "HG nr. 547/2026",
+   "title": "Hotărârea Guvernului nr. 547/2026 pentru modificarea Hotărârii Guvernului nr. 784/2017 privind reorganizarea Staţiunii de Cercetare-Dezvoltare Agricolă Lovrin şi modificarea anexei nr. 3 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312418",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312418",
+     "sha256": "b9dc7a3dbfacd9bf19d4f59484ae3339e06127187766cf7d996a8bbea177d032"
+    }
+   ]
+  },
+  {
+   "slug": "hg-555-2026",
+   "path": "hg/2026/555",
+   "short": "HG nr. 555/2026",
+   "title": "Hotărârea Guvernului nr. 555/2026 privind rechemarea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312488",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312488",
+     "sha256": "a6221ff5c94fa27dd62a92858ba0b3687a80090c15323815b18598010851fe26"
+    }
+   ]
+  },
+  {
+   "slug": "hg-556-2026",
+   "path": "hg/2026/556",
+   "short": "HG nr. 556/2026",
+   "title": "Hotărârea Guvernului nr. 556/2026 privind rechemarea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312489",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312489",
+     "sha256": "55b92c39f0b4a017e90a5e6fd0607473803e89879e7b57bb05e48f567e602003"
+    }
+   ]
+  },
+  {
+   "slug": "hg-557-2026",
+   "path": "hg/2026/557",
+   "short": "HG nr. 557/2026",
+   "title": "Hotărârea Guvernului nr. 557/2026 privind rechemarea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312490",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312490",
+     "sha256": "fd30a4a483855ff7383a037c5ba9c95675b0535a89ab2aa252b3ff9ed42b5a8b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-559-2026",
+   "path": "hg/2026/559",
+   "short": "HG nr. 559/2026",
+   "title": "Hotărârea Guvernului nr. 559/2026 privind aprobarea Strategiei pentru o mai bună reglementare 2026-2034",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313091",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313091",
+     "sha256": "ed91cf5a44445465b2bc10bc287d54ed27fbe9cb845bad413eda2029f8592b3f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-560-2026",
+   "path": "hg/2026/560",
+   "short": "HG nr. 560/2026",
+   "title": "Hotărârea Guvernului nr. 560/2026 privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 1.285/2022 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate pe amplasamentul suplimentar, aprobarea listei imobilelor proprietate publică a statului, precum şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada de centură Bucureşti km 0 + 000-km 100 + 900 - Sector Centură Sud - Lot 3, Sector 1 km 85 + 300-km 100 + 765 aferent Centură Sud; Sector 2 km 0 + 000-km 2 + 500 aferent Centură Nord\", precum şi modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 1.285/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313081",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313081",
+     "sha256": "820482308f7f3eb9114ec71cd8585de71f6e779cc6ed2a49182b4d51691645e1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-603-2026",
+   "path": "hg/2026/603",
+   "short": "HG nr. 603/2026",
+   "title": "Hotărârea Guvernului nr. 603/2026 privind adoptarea unor măsuri de siguranţă pe piaţa de energie electrică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313295",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313295",
+     "sha256": "08a3d271ecab12e6cc57f30c7d9366e21667931c4f7c3e0450ec2d52fab14d05"
+    }
+   ]
+  },
+  {
+   "slug": "hg-608-2026",
+   "path": "hg/2026/608",
+   "short": "HG nr. 608/2026",
+   "title": "Hotărârea Guvernului nr. 608/2026 pentru stabilirea Listei sectoarelor ce cuprind activităţi care se desfăşoară în funcţie de succesiunea anotimpurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313452",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313452",
+     "sha256": "91378aeff621d690828582d292ca9ae25997f92573c5080e42ea83200ad0b0e3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-612-2026",
+   "path": "hg/2026/612",
+   "short": "HG nr. 612/2026",
+   "title": "Hotărârea Guvernului nr. 612/2026 pentru modificarea unor acte normative în domeniul închiderii unor mine şi cariere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313432",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313432",
+     "sha256": "7384891a678b7aa86c4788c7b81d7bd5732cec8e6c388eaa240689e5ee157181"
+    }
+   ]
+  },
+  {
+   "slug": "hg-614-2026",
+   "path": "hg/2026/614",
+   "short": "HG nr. 614/2026",
+   "title": "Hotărârea Guvernului nr. 614/2026 pentru modificarea şi completarea Normelor de efectuare a activităţii de transport rutier de mărfuri periculoase în România, aprobate prin Hotărârea Guvernului nr. 1.175/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313480",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313480",
+     "sha256": "a73aaef48cc70ce6717c8f56b83bd21bc363ba06d9101b091b38a16454406a68"
+    }
+   ]
+  },
+  {
+   "slug": "hg-630-2026",
+   "path": "hg/2026/630",
+   "short": "HG nr. 630/2026",
+   "title": "Hotărârea Guvernului nr. 630/2026 privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 1.558/2022 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Sibiu-Făgăraş\", aprobarea listei imobilelor proprietate publică a statului, precum şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional, precum şi modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 1.558/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313628",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313628",
+     "sha256": "30f2b769517c8497c222594d6548ad1becf02942a2d15e1b3ad28e8bcb8c38d3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-631-2026",
+   "path": "hg/2026/631",
+   "short": "HG nr. 631/2026",
+   "title": "Hotărârea Guvernului nr. 631/2026 privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 1.532/2022 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional, aprobarea listei imobilelor proprietate publică a statului, precum şi aprobarea listei imobilelor proprietate publică a unităţilor administrativ-teritoriale care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Amenajare sens giratoriu la intersecţia DN 6 cu DJ 401A, în oraşul Bragadiru\", precum şi modificarea anexei nr. 2 la Hotărârea Guvernului nr. 1.532/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313497",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313497",
+     "sha256": "a16ff4ee16eca982e7e01d42847183020516ffd852596cec5822804e97042fb1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-633-2026",
+   "path": "hg/2026/633",
+   "short": "HG nr. 633/2026",
+   "title": "Hotărârea Guvernului nr. 633/2026 privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 415/2010 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată situate pe amplasamentul lucrării de utilitate publică \"Autostrada Bucureşti-Constanţa, tronsonul 6, Cernavodă-Constanţa\", precum şi modificarea şi completarea anexelor nr. 1 şi 2 la Hotărârea Guvernului nr. 415/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313509",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313509",
+     "sha256": "3c68b7ccf05bb598e1947ff1e9767684a5fb1e7f9d69d4f4d7c0e8eb1b0496fc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-637-2026",
+   "path": "hg/2026/637",
+   "short": "HG nr. 637/2026",
+   "title": "Hotărârea Guvernului nr. 637/2026 pentru modificarea anexei la Hotărârea Guvernului nr. 1.235/2022 privind aprobarea distribuţiei bugetului aferent reformelor şi investiţiilor finanţate prin Planul naţional de redresare şi rezilienţă al României pentru fiecare coordonator de reformă şi/sau investiţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313581",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313581",
+     "sha256": "db198dc098a94141ff934421346d5abd05c4bfc385c551cc87017a8bf9634a66"
+    }
+   ]
+  },
+  {
+   "slug": "hg-641-2026",
+   "path": "hg/2026/641",
+   "short": "HG nr. 641/2026",
+   "title": "Hotărârea Guvernului nr. 641/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 188/2025 privind organizarea şi funcţionarea Autorităţii Naţionale pentru Cercetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313585",
+   "versions": [
+    {
+     "from": "2026-08-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313585",
+     "sha256": "0394293767f22aa9621e09f6a90a09e34654a4f677122b4c288a81122f8fc700"
+    }
+   ]
+  },
+  {
+   "slug": "hg-648-2026",
+   "path": "hg/2026/648",
+   "short": "HG nr. 648/2026",
+   "title": "Hotărârea Guvernului nr. 648/2026 privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 282/2017 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Varianta de ocolire a municipiului Satu Mare\", precum şi modificarea anexei nr. 2 la Hotărârea Guvernului nr. 282/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313603",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313603",
+     "sha256": "bdec79b557b58c869e482bcbc95c364c638802406c378d517f58b5b92bdc3e8f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-65-2026",
+   "path": "hg/2026/65",
+   "short": "HG nr. 65/2026",
+   "title": "Hotărârea Guvernului nr. 65/2026 privind modificarea Hotărârii Guvernului nr. 405/2025 pentru numirea reprezentanților Guvernului în Consiliul de administrație al Casei Naționale de Pensii Publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307239",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307239",
+     "sha256": "0d62b13008446eb62b829fe4414a22fc8306a31c14709ef6830503c37bf13809"
+    }
+   ]
+  },
+  {
+   "slug": "hg-651-2026",
+   "path": "hg/2026/651",
+   "short": "HG nr. 651/2026",
+   "title": "Hotărârea Guvernului nr. 651/2026 privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 1.193/2021 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate pe amplasamentul suplimentar, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Drum expres Craiova-Piteşti şi legăturile la drumurile existente\", tronsonul 3, aflate pe raza localităţilor Bărăşti, Coloneşti, Optaşi-Măgura, Priseaca, Scorniceşti, Tătuleşti şi Valea Mare din judeţul Olt, precum şi modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 1.193/2021",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313649",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313649",
+     "sha256": "04498470d3f148c36f3d6fba48a5ae465cab5030e9399e4af888947ecd900cff"
+    }
+   ]
+  },
+  {
+   "slug": "hg-67-2026",
+   "path": "hg/2026/67",
+   "short": "HG nr. 67/2026",
+   "title": "Hotărârea Guvernului nr. 67/2026 privind eliberarea domnului Diaconu Dan din funcţia de prefect al judeţului Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307367",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307367",
+     "sha256": "b4df1440c3d10051006c3ae6f429d2637633c9b8a370d5d49ae78ce66e0eeb1f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-68-2026",
+   "path": "hg/2026/68",
+   "short": "HG nr. 68/2026",
+   "title": "Hotărârea Guvernului nr. 68/2026 privind numirea domnului Durle Dumitru-Cosmin în funcţia de prefect al judeţului Dolj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307368",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307368",
+     "sha256": "860628d838e59a9c26c36baed7cf34958095264216e76386cc8c257ecc9424e1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-690-2026",
+   "path": "hg/2026/690",
+   "short": "HG nr. 690/2026",
+   "title": "Hotărârea Guvernului nr. 690/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.094/2025 privind instituirea unei scheme de ajutor de stat pentru compensarea creşterii preţului la motorină prin compensarea parţială a accizei la motorina utilizată drept combustibil pentru motor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313995",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313995",
+     "sha256": "8afc26263ca111243905573bf3616671d4dbba4e4bbc3067c3970b24b521f71b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-692-2026",
+   "path": "hg/2026/692",
+   "short": "HG nr. 692/2026",
+   "title": "Hotărârea Guvernului nr. 692/2026 privind acordarea unor ajutoare de urgenţă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/313997",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/313997",
+     "sha256": "b53643ccb9710dac91c35a2c69c19ecd29a54c7d1a666322f54248d9fc5397ba"
+    }
+   ]
+  },
+  {
+   "slug": "hg-698-2026",
+   "path": "hg/2026/698",
+   "short": "HG nr. 698/2026",
+   "title": "Hotărârea Guvernului nr. 698/2026 pentru modificarea Hotărârii Guvernului nr. 43/2020 privind organizarea şi funcţionarea Ministerului Mediului, Apelor şi Pădurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314036",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314036",
+     "sha256": "8c55d5737b5383fdb6e3d650d6ba396228f137c9245231ca133625402f7776ef"
+    }
+   ]
+  },
+  {
+   "slug": "hg-701-2026",
+   "path": "hg/2026/701",
+   "short": "HG nr. 701/2026",
+   "title": "Hotărârea Guvernului nr. 701/2026 privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 346/2022 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Varianta ocolitoare a oraşului Aleşd\", precum şi modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 346/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314017",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314017",
+     "sha256": "ba09292680202ca1b046dbc1e6b0d955c5469516039e03f4d92b2d1ad5f18d71"
+    }
+   ]
+  },
+  {
+   "slug": "hg-745-2026",
+   "path": "hg/2026/745",
+   "short": "HG nr. 745/2026",
+   "title": "Hotărârea Guvernului nr. 745/2026 privind suplimentarea pe anul 2026 a sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 799/2019 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere situat pe amplasamentul lucrării de utilitate publică de interes naţional privind obiectivul de investiţii \"Programul strategic de dezvoltare a infrastructurii aeroportuare la Aeroportul Internaţional Henri Coandă - Bucureşti\", precum şi modificarea anexei nr. 2 la Hotărârea Guvernului nr. 799/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314758",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314758",
+     "sha256": "bf67627633f88ad8744135b9a1977393264e7d6e1e446fa53bb6d6d815e309d7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-747-2026",
+   "path": "hg/2026/747",
+   "short": "HG nr. 747/2026",
+   "title": "Hotărârea Guvernului nr. 747/2026 privind suplimentarea pe anul 2026 a sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 799/2019 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere situat pe amplasamentul lucrării de utilitate publică de interes naţional privind obiectivul de investiţii „Programul strategic de dezvoltare a infrastructurii aeroportuare la Aeroportul Internaţional Henri Coandă - Bucureşti“, precum şi modificarea anexei nr. 2 la Hotărârea Guvernului nr. 799/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314759",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314759",
+     "sha256": "a3efbddaf221a4d14adc3639ad8d9e07da184f5479b64d6359da8c0545162193"
+    }
+   ]
+  },
+  {
+   "slug": "hg-749-2026",
+   "path": "hg/2026/749",
+   "short": "HG nr. 749/2026",
+   "title": "Hotărârea Guvernului nr. 749/2026 pentru suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 1.121/2020 privind aprobarea amplasamentului şi declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Deschiderea şi punerea în exploatare a Carierei Timişeni-Pinoasa, judeţul Gorj, la o capacitate de 8.000.000 tone/an lignit\", precum şi pentru modificarea anexei nr. 2 la Hotărârea Guvernului nr. 1.121/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314742",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314742",
+     "sha256": "e3de2f1f14c07cc90f109a32f418f44248b009ec9ddc85a76615cdb0ee07769f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-756-2026",
+   "path": "hg/2026/756",
+   "short": "HG nr. 756/2026",
+   "title": "Hotărârea Guvernului nr. 756/2026 privind actualizarea valorii de inventar a unui bun imobil aflat în domeniul public al statului şi în administrarea Tribunalului Dolj, precum şi trecerea unei părţi din acesta din domeniul public al statului în domeniul privat al acestuia, în vederea scoaterii din funcţiune şi demolării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314824",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314824",
+     "sha256": "409baa200e38c7bab9f5aa6b68320d53a85dfdfc4699db6c2e0542947b983edc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-771-2026",
+   "path": "hg/2026/771",
+   "short": "HG nr. 771/2026",
+   "title": "Hotărârea Guvernului nr. 771/2026 privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 1.179/2023 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Târgu Mureş - Târgu-Neamţ - secţiunea III: Leghin - Târgu-Neamţ, km 181+195 (89+000)-km 211+107 (118+912)\", aprobarea listei imobilelor proprietate publică a statului, precum şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional, precum şi modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 1.179/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314890",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314890",
+     "sha256": "cfe595e86150bbc9627578128754a4ab93568225f449730abad599224c14faa2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-772-2026",
+   "path": "hg/2026/772",
+   "short": "HG nr. 772/2026",
+   "title": "Hotărârea Guvernului nr. 772/2026 privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 794/2020 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată situate pe amplasamentul suplimentar, necesare pentru relocarea utilităţilor, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Centura municipiului Rădăuţi\", precum şi pentru modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 794/2020",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314903",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314903",
+     "sha256": "f9c1228b5122808ba2a946f0160f69575f7003db4cc11e7739659e1abef29e57"
+    }
+   ]
+  },
+  {
+   "slug": "hg-773-2026",
+   "path": "hg/2026/773",
+   "short": "HG nr. 773/2026",
+   "title": "Hotărârea Guvernului nr. 773/2026 privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 1.701/2024 privind aprobarea declanşării procedurilor de expropriere a tuturor imobilelor proprietate privată, aprobarea listei imobilelor proprietate publică a statului, precum şi a listei imobilelor proprietate publică a unităţii administrativ-teritoriale, situate pe amplasamentul suplimentar care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Electrificarea şi reabilitarea liniei de cale feratǎ Cluj-Napoca - Oradea - Episcopia Bihor\", aflate pe raza unităţii administrativ-teritoriale Cluj-Napoca, judeţul Cluj, precum şi modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 1.701/2024",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314906",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314906",
+     "sha256": "5a5e16b26bf7ddc974efa4acdfa04bfca9657bb19126a5afe42f3412fc85c28d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-775-2026",
+   "path": "hg/2026/775",
+   "short": "HG nr. 775/2026",
+   "title": "Hotărârea Guvernului nr. 775/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 1.040/2025 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Autostrada Târgu Mureş - Târgu-Neamţ - Secţiunea II: Miercurea Nirajului-Leghin\" situate pe raza localităţilor Acăţari, Miercurea Nirajului, Bereni, Măgherani, Chibed, Sărăţeni din judeţul Mureş, Praid, Joseni, Lăzarea, Ditrău, Tulgheş din judeţul Harghita şi Grinţies, Ceahlău, Poiana Teiului, Pipirig, Vânători-Neamţ din judeţul Neamţ, aprobarea listei imobilelor proprietate publică a statului, precum şi aprobarea listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314891",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314891",
+     "sha256": "788aaaa0c4604aafa6cbb268de732daa8d197f450a35d190bcc105863b8755a6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-777-2026",
+   "path": "hg/2026/777",
+   "short": "HG nr. 777/2026",
+   "title": "Hotărârea Guvernului nr. 777/2026 pentru modificarea Hotărârii Guvernului nr. 189/2025 privind organizarea şi funcţionarea Ministerului Economiei, Digitalizării, Antreprenoriatului şi Turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314866",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314866",
+     "sha256": "17c5d81b027dce9145a529080675f2c3b960f07a441f775e8461ab6d25e50e53"
+    }
+   ]
+  },
+  {
+   "slug": "hg-784-2026",
+   "path": "hg/2026/784",
+   "short": "HG nr. 784/2026",
+   "title": "Hotărârea Guvernului nr. 784/2026 privind suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 912/2019 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Legătură Centură Oradea (Giraţie Calea Sântandrei) - Autostrada 3 (Biharia)\", precum şi modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 912/2019",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314984",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314984",
+     "sha256": "a9e5b1bd3edc309891842bffcc8733ab8220e20d12011f433c8aa1b2591aa75c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-785-2026",
+   "path": "hg/2026/785",
+   "short": "HG nr. 785/2026",
+   "title": "Hotărârea Guvernului nr. 785/2026 privind realocarea pe anul 2026 a sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 958/2025 pentru suplimentarea sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 399/2023 privind declanşarea procedurilor de expropriere a tuturor imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Lărgire la 4 benzi a Centurii Rutiere a Municipiului Bucureşti Sud între A2 km 23 + 600 şi A1 km 55 + 520 şi Amenajare punct de întoarcere în soluţie giratorie pe CB în zona autostrăzii A1 - Lot 2 - Lărgire la 4 benzi a Centurii Rutiere a Municipiului Bucureşti Sud între km 54 + 700 şi DN 5 km 40 + 000\", aprobarea listei imobilelor proprietate publică a statului, precum şi a listei imobilelor proprietate publică a unităţilor administrativ-teritoriale, care fac parte din coridorul de expropriere al lucrării de utilitate publică de interes naţional, precum şi modificarea anexei nr. 2 la Hotărârea Guvernului nr. 399/2023",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314985",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314985",
+     "sha256": "f0922b4583bc37fa7c7fff50e3c2abda353f496d70f6ab77faa7103ff3219f9e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-788-2026",
+   "path": "hg/2026/788",
+   "short": "HG nr. 788/2026",
+   "title": "Hotărârea Guvernului nr. 788/2026 pentru completarea art. 5^1 din Hotărârea Guvernului nr. 656/1997 privind aprobarea Clasificării activităţilor din economia naţională - CAEN",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314970",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314970",
+     "sha256": "c2a2546a6163354a12a47bc8f241443745a55f96fcf714c32e741226b8491a3e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-810-2026",
+   "path": "hg/2026/810",
+   "short": "HG nr. 810/2026",
+   "title": "Hotărârea Guvernului nr. 810/2026 privind suplimentarea pe anul 2026 a sumei prevăzute ca justă despăgubire, aprobată prin Hotărârea Guvernului nr. 496/2017 privind declanşarea procedurilor de expropriere a imobilelor proprietate privată care constituie coridorul de expropriere al lucrării de utilitate publică de interes naţional \"Legătura reţelei de metrou cu Aeroportul Internaţional Henri Coandă - Otopeni (Magistrala 6. 1 Mai - Otopeni)\", precum şi modificarea şi completarea anexei nr. 2 la Hotărârea Guvernului nr. 496/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315200",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315200",
+     "sha256": "faa56583ccf9167e1c762992dd7d08a8ea5a46449cbfc617bf01f2b5c61ab77e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-91-2026",
+   "path": "hg/2026/91",
+   "short": "HG nr. 91/2026",
+   "title": "Hotărârea Guvernului nr. 91/2026 privind modificarea codului de clasificaţie, denumirii, elementelor-cadru de descriere tehnică şi actualizarea valorii de inventar ale unui bun imobil situat în Târgu Lăpuş, identificat prin numărul MF 27482, aflat în domeniul public al statului şi în administrarea Direcţiei Generale Regionale a Finanţelor Publice Cluj-Napoca, şi modificarea anexei nr. 9 la Hotărârea Guvernului nr. 1.705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307536",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307536",
+     "sha256": "415c9f8b2cca9d1049e406f48800a7f8f2f7fd8f64e1bf5e8ec9a4218c097be3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-93-2026",
+   "path": "hg/2026/93",
+   "short": "HG nr. 93/2026",
+   "title": "Hotărârea Guvernului nr. 93/2026 privind trecerea din domeniul public în domeniul privat al statului a unor construcţii aflate în administrarea Universităţii din Oradea, instituţie aflată în coordonarea Ministerului Educaţiei şi Cercetării, pentru scoaterea din funcţiune, în vederea valorificării şi casării, după caz",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307545",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307545",
+     "sha256": "7e5b1c73f70d369885b82e4f2c890fffa512522894115543f39314052fa8db0f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-94-2026",
+   "path": "hg/2026/94",
+   "short": "HG nr. 94/2026",
+   "title": "Hotărârea Guvernului nr. 94/2026 privind înscrierea în inventarul centralizat al bunurilor din domeniul public al statului şi darea în administrarea Autorităţii Naţionale de Reglementare în Domeniul Minier, Petrolier şi al Stocării Geologice a Dioxidului de Carbon a zăcământului de lignit din perimetrul de exploatare Miculeşti IV - Extins, judeţul Gorj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307546",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307546",
+     "sha256": "5e42885bdbc7e1080eca588f1478665e2d9bd12d11e528985cfc0214d3e64c49"
+    }
+   ]
+  },
+  {
+   "slug": "hg-950-2026",
+   "path": "hg/2026/950",
+   "short": "HG nr. 950/2026",
+   "title": "Hotărârea Guvernului nr. 950/2026 pentru modificarea şi completarea Hotărârii Guvernului nr. 751/2026 privind acordarea unui sprijin financiar de urgenţă în agricultură producătorilor agricoli din sectorul vegetal, pentru suprafeţele cultivate cu porumb şi/sau floarea-soarelui afectate de seceta pedologică manifestată în anul 2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315985",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315985",
+     "sha256": "ab26ee435d1cedca44c8262a71014179bad3e56052b35ee116b71b95b63a474c"
+    }
+   ]
+  }
+ ]
+}

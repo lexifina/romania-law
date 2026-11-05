@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/2009",
+ "acts": [
+  {
+   "slug": "instructiuni-cnvm-1-2009",
+   "path": "instructiuni/cnvm/2009/1",
+   "short": "Instrucțiuni cnvm nr. 1/2009",
+   "title": "Instrucțiunile nr. 1/2009 pentru modificarea și completarea Instrucțiunii nr. 3/2006 privind înregistrarea instrumentelor financiare derivate la Comisia Națională a Valorilor Mobiliare, aprobată prin Ordinul președintelui Comisiei Naționale a Valorilor Mobiliare nr. 27/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106815",
+   "versions": [
+    {
+     "from": "2009-06-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106815",
+     "sha256": "635eb5023efed832b89212a1a0253d76b68b7a081a54b3781aad4390cef8ded2"
+    }
+   ]
+  }
+ ]
+}

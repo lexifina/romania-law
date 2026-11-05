@@ -1,0 +1,126 @@
+{
+"country": "RO",
+"shard": "hotarare-aep/2018",
+"acts": [
+{
+"slug": "hotarare-aep-440-2018",
+"path": "hotarare-aep/2018/440",
+"kind": "hotarare-aep",
+"year": "2018",
+"number": "440",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Autorității Electorale Permanente nr. 440 din 2018-09-19",
+"short": "Hotărârea AEP nr. 440/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-09-20",
+"latest": "2018-09-20",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/205058",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hotarare-aep-441-2018",
+"path": "hotarare-aep/2018/441",
+"kind": "hotarare-aep",
+"year": "2018",
+"number": "441",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Autorității Electorale Permanente nr. 441 din 2018-09-19",
+"short": "Hotărârea AEP nr. 441/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-09-20",
+"latest": "2018-09-20",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/205059",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hotarare-aep-447-2018",
+"path": "hotarare-aep/2018/447",
+"kind": "hotarare-aep",
+"year": "2018",
+"number": "447",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Autorității Electorale Permanente nr. 447 din 2018-09-20",
+"short": "Hotărârea AEP nr. 447/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-09-21",
+"latest": "2018-09-21",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/205089",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hotarare-aep-452-2018",
+"path": "hotarare-aep/2018/452",
+"kind": "hotarare-aep",
+"year": "2018",
+"number": "452",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Autorității Electorale Permanente nr. 452 din 2018-09-21",
+"short": "Hotărârea AEP nr. 452/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-09-21",
+"latest": "2018-09-21",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/205098",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hotarare-aep-453-2018",
+"path": "hotarare-aep/2018/453",
+"kind": "hotarare-aep",
+"year": "2018",
+"number": "453",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Autorității Electorale Permanente nr. 453 din 2018-09-21",
+"short": "Hotărârea AEP nr. 453/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-09-21",
+"latest": "2018-09-21",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/205099",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hotarare-aep-464-2018",
+"path": "hotarare-aep/2018/464",
+"kind": "hotarare-aep",
+"year": "2018",
+"number": "464",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Autorității Electorale Permanente nr. 464 din 2018-09-24",
+"short": "Hotărârea AEP nr. 464/2018",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2018-09-26",
+"latest": "2018-09-26",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/205170",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

@@ -1,0 +1,66 @@
+{
+"country": "RO",
+"shard": "hotarare-aep/2010",
+"acts": [
+{
+"slug": "hotarare-aep-1-2010",
+"path": "hotarare-aep/2010/1",
+"kind": "hotarare-aep",
+"year": "2010",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Autorității Electorale Permanente nr. 1 din 2010-02-01",
+"short": "Hotărârea AEP nr. 1/2010",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2010-02-03",
+"latest": "2010-02-03",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/115808",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hotarare-aep-2-2010",
+"path": "hotarare-aep/2010/2",
+"kind": "hotarare-aep",
+"year": "2010",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Autorității Electorale Permanente nr. 2 din 2010-03-16",
+"short": "Hotărârea AEP nr. 2/2010",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2010-03-22",
+"latest": "2010-03-22",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/117259",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "hotarare-aep-4-2010",
+"path": "hotarare-aep/2010/4",
+"kind": "hotarare-aep",
+"year": "2010",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Autorității Electorale Permanente nr. 4 din 2010-10-26",
+"short": "Hotărârea AEP nr. 4/2010",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2010-11-02",
+"latest": "2010-11-02",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/123185",
+"flags": {
+"text_withheld": "personal_data"
+}
+}
+]
+}

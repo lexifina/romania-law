@@ -1,0 +1,426 @@
+{
+ "country": "RO",
+ "shard": "norma/2022",
+ "acts": [
+  {
+   "slug": "norma-asf-1-2022",
+   "path": "norma/asf/2022/1",
+   "short": "Norma asf nr. 1/2022",
+   "title": "Norma nr. 1/2022 pentru aplicarea Ghidului ESMA privind acordurile scrise dintre membrii colegiilor pentru contrapărți centrale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251120",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251120",
+     "sha256": "bfca429f05349a1de4bb246dc717aa0ac801ba4514804d8660d4ed649850ccd8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-11-2022",
+   "path": "norma/asf/2022/11",
+   "short": "Norma asf nr. 11/2022",
+   "title": "Norma nr. 11/2022 pentru modificarea și completarea Normei nr. 16/2010 privind prospectul schemei de pensii facultative, aprobată prin Hotărârea Comisiei de Supraveghere a Sistemului de Pensii Private nr. 27/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/253711",
+   "versions": [
+    {
+     "from": "2022-04-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/253711",
+     "sha256": "c8000ee72f7467dcd9a8a7028709dea7b84994090149192d05688686fe994cd2"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-12-2022",
+   "path": "norma/asf/2022/12",
+   "short": "Norma asf nr. 12/2022",
+   "title": "Norma nr. 12/2022 pentru aplicarea Ghidului ESMA privind raportările referitoare la cazurile de neexecutare a decontării în temeiul art. 7 din Regulamentul (UE) nr. 909/2014 al Parlamentului European și al Consiliului din 23 iulie 2014 privind îmbunătățirea decontării titlurilor de valoare în Uniunea Europeană și privind depozitarii centrali de titluri de valoare și de modificare a Directivelor 98/26/CE și 2014/65/UE și a Regulamentului (UE) nr. 236/2012 (CSDR)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254382",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254382",
+     "sha256": "0cd0d7415ede9d79db31372af3ef357a21dba203b96b08656a98605c8c2ad1fa"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-13-2022",
+   "path": "norma/asf/2022/13",
+   "short": "Norma asf nr. 13/2022",
+   "title": "Norma nr. 13/2022 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 9/2020 privind încheierea exercițiului financiar pentru entitățile din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254295",
+   "versions": [
+    {
+     "from": "2022-04-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254295",
+     "sha256": "71ecc44e017a7a558f1ab6563fa6a56d68c9b7770a8696a160b604e26f92805f"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-14-2022",
+   "path": "norma/asf/2022/14",
+   "short": "Norma asf nr. 14/2022",
+   "title": "Norma nr. 14/2022 privind modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 34/2020 pentru punerea în aplicare a Sistemului de raportare contabilă semestrială aplicabil entităților din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254302",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254302",
+     "sha256": "01c66af8b4f30c9682a57875961f573bb0b057241be9bdc510082eaeedb5c1e8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-15-2022",
+   "path": "norma/asf/2022/15",
+   "short": "Norma asf nr. 15/2022",
+   "title": "Norma nr. 15/2022 privind calculul actuarial al provizionului tehnic pentru fondurile de pensii ocupaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255793",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255793",
+     "sha256": "e19a970725b4fbee880c0ba290a2b537f39063bce2fa9602d6a4febdd417b54c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-16-2022",
+   "path": "norma/asf/2022/16",
+   "short": "Norma asf nr. 16/2022",
+   "title": "Norma nr. 16/2022 pentru aplicarea prevederilor Ghidului ESMA privind metodologia, funcția de supraveghere și ținerea evidențelor în temeiul Regulamentului privind indicii de referință și pentru modificarea și completarea anexei la Norma Autorității de Supraveghere Financiară nr. 21/2019 privind aplicarea Ghidului ESMA cu privire la indicii de referință nesemnificativi din Regulamentul privind indicii de referință",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/255715",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/255715",
+     "sha256": "6c9014266e095314fbd520c1f7ebf3e4c82c5aeabc5dd82b933971ba660b60b1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-18-2022",
+   "path": "norma/asf/2022/18",
+   "short": "Norma asf nr. 18/2022",
+   "title": "Norma nr. 18/2022 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 20/2017 privind asigurările auto din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256115",
+   "versions": [
+    {
+     "from": "2022-06-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256115",
+     "sha256": "764e08a686287140aecfac844c4155e06545bc6df39d229e4145d7ee4fccb90c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-19-2022",
+   "path": "norma/asf/2022/19",
+   "short": "Norma asf nr. 19/2022",
+   "title": "Norma nr. 19/2022 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 1/2015 privind aderarea și evidența participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256489",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256489",
+     "sha256": "6aa075dc8d62abd6ad6910c1002d33edaab37972484bda9f18a167eb87599703"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-2-2022",
+   "path": "norma/asf/2022/2",
+   "short": "Norma asf nr. 2/2022",
+   "title": "Norma nr. 2/2022 pentru aplicarea Ghidului ESMA privind comunicările publicitare în temeiul Regulamentului (UE) 2019/1.156 al Parlamentului European și al Consiliului din 20 iunie 2019 privind facilitarea distribuției transfrontaliere a organismelor de plasament colectiv și de modificare a Regulamentelor (UE) nr. 345/2013, (UE) nr. 346/2013 și (UE) nr. 1.286/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251124",
+   "versions": [
+    {
+     "from": "2022-02-02",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251124",
+     "sha256": "a219920c204fd65db0c3ee90e9527c4a6a95b8a95cedb120dbfeda9095e54576"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-20-2022",
+   "path": "norma/asf/2022/20",
+   "short": "Norma asf nr. 20/2022",
+   "title": "Norma nr. 20/2022 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 18/2018 privind aderarea și evidența participanților la fondurile de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256490",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256490",
+     "sha256": "25d3687345610963f218cb82cda3b9ec7432b6734dca0f29e96873652dd749ba"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-21-2022",
+   "path": "norma/asf/2022/21",
+   "short": "Norma asf nr. 21/2022",
+   "title": "Norma nr. 21/2022 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 19/2021 privind obligațiile de raportare și transparență în sistemul pensiilor private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257028",
+   "versions": [
+    {
+     "from": "2022-07-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257028",
+     "sha256": "eed00c370ee0a7d941709a000b3bbdcb84b6bfe111471377a668fc7ceca59106"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-22-2022",
+   "path": "norma/asf/2022/22",
+   "short": "Norma asf nr. 22/2022",
+   "title": "Norma nr. 22/2022 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 20/2017 privind asigurările auto din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/257832",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/257832",
+     "sha256": "9fb196242be3f980db7870f3355ecc9ba9daad0e32574ae0815780f8195090df"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-23-2022",
+   "path": "norma/asf/2022/23",
+   "short": "Norma asf nr. 23/2022",
+   "title": "Norma nr. 23/2022 pentru aplicarea Ghidului MAR - Amânarea publicării informațiilor privilegiate și interacțiunile care fac obiectul supravegherii prudențiale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/258272",
+   "versions": [
+    {
+     "from": "2022-08-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/258272",
+     "sha256": "7cd4579bc9d395c4961d61039abad434901488f4534a83186821108801d9b496"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-25-2022",
+   "path": "norma/asf/2022/25",
+   "short": "Norma asf nr. 25/2022",
+   "title": "Norma nr. 25/2022 privind autorizarea societăților și desfășurarea activității de asigurare și de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260304",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260304",
+     "sha256": "e6be5466153f6d0013c80d1d2b5a3ca3c7fddcf6d4c6908e4d16e0718bfdf8b5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-26-2022",
+   "path": "norma/asf/2022/26",
+   "short": "Norma asf nr. 26/2022",
+   "title": "Norma nr. 26/2022 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 15/2016 privind aprobarea Reglementărilor contabile aferente situațiilor financiare anuale aplicabile Fondului de garantare a asiguraților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260334",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260334",
+     "sha256": "a6210aeb50bedcf25699ba3621e7c83ff595f3546dabd33bdd46b5a99ea7cbbb"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-29-2022",
+   "path": "norma/asf/2022/29",
+   "short": "Norma asf nr. 29/2022",
+   "title": "Norma nr. 29/2022 privind modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 39/2015 pentru aprobarea Reglementărilor contabile conforme cu Standardele internaționale de raportare financiară, aplicabile entităților autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară din Sectorul instrumentelor și investițiilor financiare, precum și Fondului de Compensare a Investitorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263733",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263733",
+     "sha256": "4db3069eb40613c5d05c68c46182574a49116832229e53d3b47875c3651e09a5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-3-2022",
+   "path": "norma/asf/2022/3",
+   "short": "Norma asf nr. 3/2022",
+   "title": "Norma nr. 3/2022 pentru aplicarea Ghidului ESMA privind obligațiile în materie de date de piață prevăzute în MiFID II/MiFIR",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251536",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251536",
+     "sha256": "9f146a6e88e49201a0c70f4cb494a48c3377392e2f86eaa8b0d7d8f26717bfb6"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-30-2022",
+   "path": "norma/asf/2022/30",
+   "short": "Norma asf nr. 30/2022",
+   "title": "Norma nr. 30/2022 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 20/2017 privind asigurările auto din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263046",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263046",
+     "sha256": "8c1a36db17ef42ece0ada004de99816c0d4a647fb1698c9e79f84b0e4fd940b1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-31-2022",
+   "path": "norma/asf/2022/31",
+   "short": "Norma asf nr. 31/2022",
+   "title": "Norma nr. 31/2022 pentru completarea Normei Autorității de Supraveghere Financiară nr. 17/2015 privind cotele de contribuție datorate de asigurători Fondului de garantare a asiguraților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263194",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263194",
+     "sha256": "2262fd2c7291889dc586854724b4388d6421f95bc5a6e3a5c25770a4bb7203d9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-32-2022",
+   "path": "norma/asf/2022/32",
+   "short": "Norma asf nr. 32/2022",
+   "title": "Norma nr. 32/2022 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 9/2020 privind încheierea exercițiului financiar pentru entitățile din domeniul asigurărilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263377",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263377",
+     "sha256": "104ed4e418e090375037243f62c775389d17f76c0549015b9571a9454c80012b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-4-2022",
+   "path": "norma/asf/2022/4",
+   "short": "Norma asf nr. 4/2022",
+   "title": "Norma nr. 4/2022 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 19/2021 privind obligațiile de raportare și transparență în sistemul pensiilor private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251887",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251887",
+     "sha256": "0deb6fc7384035c0c4b0e9dcbd9332fee241cdabaa59b7fd2157026d93b7f394"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-5-2022",
+   "path": "norma/asf/2022/5",
+   "short": "Norma asf nr. 5/2022",
+   "title": "Norma nr. 5/2022 pentru completarea Normei Autorității de Supraveghere Financiară nr. 17/2015 privind cotele de contribuție datorate de asigurători Fondului de garantare a asiguraților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251729",
+   "versions": [
+    {
+     "from": "2022-02-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251729",
+     "sha256": "a99f48c8e96f7b57301f7cecdf599bd9ec48e0079db48ed8ba35264acfe44387"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-6-2022",
+   "path": "norma/asf/2022/6",
+   "short": "Norma asf nr. 6/2022",
+   "title": "Norma nr. 6/2022 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 24/2019 privind Fondul de garantare a asiguraților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251870",
+   "versions": [
+    {
+     "from": "2022-02-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251870",
+     "sha256": "8d941e73d3e7ddf6e572600e8080de722f956ca3bbee3a746ee54da7d2f04522"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-7-2022",
+   "path": "norma/asf/2022/7",
+   "short": "Norma asf nr. 7/2022",
+   "title": "Norma nr. 7/2022 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 19/2015 privind aplicarea Standardelor internaționale de raportare financiară de către societățile de asigurare, asigurare-reasigurare și de reasigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251888",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251888",
+     "sha256": "6f14bf194dfa085091d0651e4440b6af654b6d7e216f2fb0ef2f915440e272b9"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-8-2022",
+   "path": "norma/asf/2022/8",
+   "short": "Norma asf nr. 8/2022",
+   "title": "Norma nr. 8/2022 pentru modificarea și completarea Normei Autorității de Supraveghere Financiară nr. 27/2017 privind utilizarea activului personal net al participantului la un fond de pensii administrat privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252588",
+   "versions": [
+    {
+     "from": "2022-03-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252588",
+     "sha256": "fd72f049c14be6596e60efd342cb7e93318fe87e868a061b5e881c557e5e4ca4"
+    }
+   ]
+  },
+  {
+   "slug": "norma-asf-9-2022",
+   "path": "norma/asf/2022/9",
+   "short": "Norma asf nr. 9/2022",
+   "title": "Norma nr. 9/2022 pentru modificarea Normei Autorității de Supraveghere Financiară nr. 28/2017 privind utilizarea activului personal net al participantului la un fond de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252589",
+   "versions": [
+    {
+     "from": "2022-03-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252589",
+     "sha256": "9fba0610381c38b35bb2bf0c4c4c11b4108b167b5e1387c34217934f9f59bd4d"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-1-2022",
+   "path": "norma/bnr/2022/1",
+   "short": "Norma bnr nr. 1/2022",
+   "title": "Norma nr. 1/2022 pentru aplicarea Regulamentului Băncii Naționale a României nr. 8/2022 privind operațiunile de administrare a datoriei publice guvernamentale efectuate de către Ministerul Finanțelor pe piața titlurilor de stat administrată de Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/254349",
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 63,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/254349",
+     "sha256": "c905272138b44cb374061c2876ff73b99570963fe6b4a9d028cb80619265fcad"
+    }
+   ]
+  }
+ ]
+}

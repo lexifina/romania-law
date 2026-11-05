@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-1/2022",
+ "acts": [
+  {
+   "slug": "hcls1-125-2022",
+   "path": "local/bucuresti/sector-1/2022/125",
+   "short": "HCLS1 nr. 125/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 125/2022 privind aprobarea Regulamentului privind aprobarea procedurii și a conținutului - cadru al documentației pentru emiterea \"Certificatului de atestare a edificării construcțiilor executate fără Autorizație de Construire sau cu nerespectarea prevederilor Autorizației de Construire, și pentru care s-a împlinit termenul de prescripție\", conform art. 37, alin. (6) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2022",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/98792/125.2022_Anonimizat.pdf",
+     "sha256": "1a77f52a1fdbbb8f47542f19bccd091052abfa838fb7dac69a939423b3b8ffab"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-126-2022",
+   "path": "local/bucuresti/sector-1/2022/126",
+   "short": "HCLS1 nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 126/2022 privind aprobarea Regulamentului privind aprobarea procedurii de emitere a Certificatului de atestare a stadiului realizării construcției și aprobarea conținutului cadru al documentației privind emiterea Certificatului de atestare a stadiului realizării construcției",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2022",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/98829/126.2022_Anonimizat.pdf",
+     "sha256": "eb08f788ec2752a44a111817135ee13591078e4a8ee7b2830d4a5c7374e338ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-132-2022",
+   "path": "local/bucuresti/sector-1/2022/132",
+   "short": "HCLS1 nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 132/2022 privind continuarea implementării sistemului integrat de teleasistență, teleurgență și telemedicină ”Brățara Vieții” în regim gratuit, cu tarif social și tarif integral de către Complexul Multifuncţional Caraiman",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2022",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/98767/132.2022_Anonimizat.pdf",
+     "sha256": "4fd862827d1ecebbbc965542a9be5b8d94a175d342b7d61ca5dfdf888ee0412f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-156-2022",
+   "path": "local/bucuresti/sector-1/2022/156",
+   "short": "HCLS1 nr. 156/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 156/2022 Proiect de hotărâre pentru aprobarea criteriilor de selecție a blocurilor de locuințe în vederea implementării unui Proict pilot ”Termoficarea de la soare” care va sta la baza programului local multianual privind creșterea performanței energetice a blocurilor de locuințe prin soluții de eficientizare energetică",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2022",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/98299/156.2022-anonimizate.pdf",
+     "sha256": "95346693787b6728424fb2f02a4957eededc22e5874be22aeaf70b90ba11bef2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-159-2022",
+   "path": "local/bucuresti/sector-1/2022/159",
+   "short": "HCLS1 nr. 159/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 159/2022 privind efectuarea de analize medicale de laborator gratuite și cu tarif de către Complexul Multifuncțional Caraiman",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2022",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/98879/159.2022-anonimizate.pdf",
+     "sha256": "6854d210ef426c08bb832e86107a6e4c8a0a04558a31b186f8a698a0fb733390"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-160-2022",
+   "path": "local/bucuresti/sector-1/2022/160",
+   "short": "HCLS1 nr. 160/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 160/2022 privind efectuarea de acte terapeutice de recuperare medicală gratuite, cu tarif social și tarif integral de către Complexul Multifuncțional Caraiman",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2022",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/98880/160.2022-anonimizate.pdf",
+     "sha256": "a8eb3cbd7cfbc42ad597a3808e9c2e9f2de2a9759d8d6886d3461643db5be4fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-197-2022",
+   "path": "local/bucuresti/sector-1/2022/197",
+   "short": "HCLS1 nr. 197/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 197/2022 privind aprobarea „Regulamentului privind aprobarea unor măsuri locale destinate asigurării nevoilor energetice și eficientizării consumului de energie în gospodăriile din Sectorul 1, în sezonul rece 2022-2023\"",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2022",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/99296/197.2022%20anonimizat%C4%83.pdf",
+     "sha256": "9ef3d6345c28143b3a60dcebe1a4cfc9699e99973c67123fdc3fefb121c28424"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-23-2022",
+   "path": "local/bucuresti/sector-1/2022/23",
+   "short": "HCLS1 nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 23/2022 Proiect de hotărâre privind modificarea Hotărârii Consiliului Local al Sectorului 1 nr.240/22.12.2021 privind implementarea sistemului integrat de teleasistență, teleurgență și telemedicină Butonul de Panică (”Butonul Roșu”) în regim gratuit, cu tarif social și tarif integral de către Complexul Multifuncțional Caraiman",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2022",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/97926/23.2022_Anonimizata.pdf",
+     "sha256": "d604c05b6aea10069b524c96e58e9477c4da4d7d7716025888117e67dee2fba4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-5-2022",
+   "path": "local/bucuresti/sector-1/2022/5",
+   "short": "HCLS1 nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 5/2022 Proiect de hotărâre privind aprobarea Caietului de sarcini al activității de sortare a deșeurilor municipale și a deșeurilor similare în stațiile de sortare aferentă serviciului public de salubrizare a Sectorul 1 al Municipiului București",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2022",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/96118/5.2022_Anonimizata.pdf",
+     "sha256": "2f495d1ee71279fb6bdd6b118636c05a4559ac219aa06b9ccfc95cf12e5d1c18"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-65-2022",
+   "path": "local/bucuresti/sector-1/2022/65",
+   "short": "HCLS1 nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 65/2022",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2022",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/98108/65.2022%2BOmSG_Anonimizat.pdf",
+     "sha256": "5df366598683ca00adacc35b712abe9fbd33c4f6b9b486eba5df8e0c2cdfd7a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-70-2022",
+   "path": "local/bucuresti/sector-1/2022/70",
+   "short": "HCLS1 nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 70/2022 Proiect de hotărâre privind aprobarea regulamentului de organizare a activității de transport școlar pentru copiii din comunitatea Giulești-Chitila Triaj",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2022",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/98240/70.2022_Anonimizata.pdf",
+     "sha256": "23f4197b7e66a7fd759c579ff23280fffe643ad9383a843ed9b9f686f4be6442"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-71-2022",
+   "path": "local/bucuresti/sector-1/2022/71",
+   "short": "HCLS1 nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 71/2022 Proiect de hotărâre privind aprobarea costului mediu lunar și a normelor metodologice privind modul de calcul al contribuției lunare de întreținere stabilite pentru beneficiarii Complexului social de servicii Odăi - Cămin pentru persoane vârstnice și Complexului social de servicii Străulești din subordinea Direcției Generale de Asistență Socială și Protecția Copilului Sector 1",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2022",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/98242/71.2022_Anonimizata.pdf",
+     "sha256": "5eaa71e613bd7f2815f599c943db1f7c29c4febf74426ef750f677fd193e75de"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-9-2022",
+   "path": "local/bucuresti/sector-1/2022/9",
+   "short": "HCLS1 nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 9/2022 Proiect de hotărâre privind aprobarea actelor administrative fiscale, actelor de executare şi altor acte emise de către Direcția Generală de Impozite și Taxe Locale a Sectorului 1, ce pot fi comunicate prin mijloace electronice de transmitere la distanţă sau tipărite prin intermediul unui centru de imprimare masivă, valabile fără semnătura persoanelor împuternicite şi ştampila organului fiscal local",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2022",
+   "versions": [
+    {
+     "from": "2022-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/96209/9.2022_Anonimizata.pdf",
+     "sha256": "c24a06ce1404e85e8f08ee0bd193d4bdc8753bfbc806f21a58e691754067105a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls1-95-2022",
+   "path": "local/bucuresti/sector-1/2022/95",
+   "short": "HCLS1 nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Sectorului 1 nr. 95/2022 Proiect de hotărâre privind aprobarea listei de priorități întocmită în baza criteriilor care se au în vedere la stabilirea ordinii de prioritate în cadrul categoriilor de persoane prevăzute în Legea locuinței nr.114/1996, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/sectorul-1/registru-hcl/?an=2022",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/98365/95.2022_Anonimizat.pdf",
+     "sha256": "5aa863ef08d695f7f76a50291910b226a5aa665e29eac828e8c1fabe936d37d4"
+    }
+   ]
+  }
+ ]
+}

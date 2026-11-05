@@ -1,0 +1,4116 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/cgmb/2015",
+ "acts": [
+  {
+   "slug": "hcgmb-1-2015",
+   "path": "local/bucuresti/cgmb/2015/1",
+   "short": "HCGMB nr. 1/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 1/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34570",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34570/H001_15.pdf",
+     "sha256": "bfad1297a4a188fa951644d30525e7d5f4beb3430f5df9511d2d075b319fa366"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-10-2015",
+   "path": "local/bucuresti/cgmb/2015/10",
+   "short": "HCGMB nr. 10/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 10/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34571",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34571/H010_15.pdf",
+     "sha256": "de75c881ba7861d63673b7a3326cbbd2d10b28528c8cfbb19010fe5003685ba4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-100-2015",
+   "path": "local/bucuresti/cgmb/2015/100",
+   "short": "HCGMB nr. 100/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 100/2015 PRIVIND ATRIBUIREA DENUMIRII DE \"PIATA STRASBOURG\" SPATIULUI PUBLIC SITUAT LA INTERSECTIA STRAZII PARIS CU STRADA WASHINTON SI STRADA TIRANA, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35035",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35035/H100_15.pdf",
+     "sha256": "471b8df939f710f8bb08cdf5875f0841e53fe716745eaac6e84ed6dd1c84819e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-101-2015",
+   "path": "local/bucuresti/cgmb/2015/101",
+   "short": "HCGMB nr. 101/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 101/2015 PRIVIND APROBAREA FINANTARII PROGRAMULUI UNITAR DE IGIENIZARE DE LA BUGETUL LOCAL AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35036",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35036/H101_15.pdf",
+     "sha256": "aa28745dd3dc4872bb0d10a05ce82587ac32ea35307b10773a031a97b3e6cb2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-102-2015",
+   "path": "local/bucuresti/cgmb/2015/102",
+   "short": "HCGMB nr. 102/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 102/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35037",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35037/H102_15.pdf",
+     "sha256": "c80c41305e3dae1eae62d1dd2b36328293462ba899338d356f7b32f54498c2f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-103-2015",
+   "path": "local/bucuresti/cgmb/2015/103",
+   "short": "HCGMB nr. 103/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 103/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35038",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35038/H103_15.pdf",
+     "sha256": "f9334147c5f8551f303649942d89682ffb71765865bab21bad43aa686b339610"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-104-2015",
+   "path": "local/bucuresti/cgmb/2015/104",
+   "short": "HCGMB nr. 104/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 104/2015 PRIVIND ABROGAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 83/29.04.2014 SI AVIZAREA SUPRAFETEI ADMINISTRATIVE CE VA URMA SA FACA PARTE DIN ARIA NATURALA PROTEJATA \"PARCUL NATURAL VACARESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35039",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35039/H104_15.pdf",
+     "sha256": "140feb1ad3cfebe172cf2a2524b100c84aee3c89837d36d04054d655d77b1b07"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-105-2015",
+   "path": "local/bucuresti/cgmb/2015/105",
+   "short": "HCGMB nr. 105/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 105/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35040",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35040/H105_15.pdf",
+     "sha256": "b0bb1eee0696f4cacbcf4f9e6b11fd336779075d86c7804b1812c279ab9de08c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-106-2015",
+   "path": "local/bucuresti/cgmb/2015/106",
+   "short": "HCGMB nr. 106/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 106/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35041",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35041/H106_15.pdf",
+     "sha256": "f83a0c45b5675f3690653f6f2bc33b819c9711e37e8ffc2288fdfd38456daf41"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-107-2015",
+   "path": "local/bucuresti/cgmb/2015/107",
+   "short": "HCGMB nr. 107/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 107/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35042",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35042/H107_15.pdf",
+     "sha256": "7c1042f4d6c8e8a2458b640761fb5ccf76d8d66fbcb70802e503f5ecada23be7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-108-2015",
+   "path": "local/bucuresti/cgmb/2015/108",
+   "short": "HCGMB nr. 108/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 108/2015 PRIVIND PUNEREA IN APLICARE A SENTINTEI CIVILE NR. 2623/22.06.2011 PRONUNTATA DE TRIBUNALUL BUCURESTI-SECTIA IX-A CONTENCIOS ADMINISTRATIV SI FISCAL, DEFINITIVA SI IREVOCABILA, INVESTITA CU TITLU EXECUTORIU",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35043",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35043/H108_15.pdf",
+     "sha256": "0243690eb0fb44d7d28ed25195aa140982c29650a8ffbdcee2932d953ef075a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-109-2015",
+   "path": "local/bucuresti/cgmb/2015/109",
+   "short": "HCGMB nr. 109/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 109/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35044",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35044/H109_15.pdf",
+     "sha256": "258b31a1decf0543146380887f9cc7b1b8d54be178d33f222a3dbb6f15937c94"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-11-2015",
+   "path": "local/bucuresti/cgmb/2015/11",
+   "short": "HCGMB nr. 11/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 11/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34573",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34573/H011_15.pdf",
+     "sha256": "c1c532affb08a4de6e20f3bc73f14c9852109abd8f0fbc0d13a877bae2822bcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-110-2015",
+   "path": "local/bucuresti/cgmb/2015/110",
+   "short": "HCGMB nr. 110/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 110/2015 PRIVIND NUMIREA UNUI REPREZENTANT AL CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PENTRU STABILIREA DREPTULUI DE PROPRIETATE PRIVATA ASUPRA TERENURILOR ABROGA HCGMB NR. 199/2012 SE ABROGA PRIN HCGMB NR. 326/2016",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35045",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35045/H110_15.pdf",
+     "sha256": "d1b6f1de2ce870d22c73e2bc41d760089cbd7131715ce621afc41cc4a4146937"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-111-2015",
+   "path": "local/bucuresti/cgmb/2015/111",
+   "short": "HCGMB nr. 111/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 111/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35046",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35046/H111_15.pdf",
+     "sha256": "2af2c5325228f26da78c9e2ed1564893ff350f8770825463881685bf5909c535"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-112-2015",
+   "path": "local/bucuresti/cgmb/2015/112",
+   "short": "HCGMB nr. 112/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 112/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35047",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35047/H112_15.pdf",
+     "sha256": "c72fde758dabba5787c12e83f8d7ba7b19ee60377e8357c3423759ecc4840019"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-113-2015",
+   "path": "local/bucuresti/cgmb/2015/113",
+   "short": "HCGMB nr. 113/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 113/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35048",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35048/H113_15.pdf",
+     "sha256": "204e9dcd8923f3d8bce55f65ad05399c0691ae24c4b82736928138cbec5f8738"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-114-2015",
+   "path": "local/bucuresti/cgmb/2015/114",
+   "short": "HCGMB nr. 114/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 114/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35049",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35049/H114_15.pdf",
+     "sha256": "605cb35e27af6fe9cd94da6642e8e3adc1e13b4e4ab29a67cecbc67647e61adb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-115-2015",
+   "path": "local/bucuresti/cgmb/2015/115",
+   "short": "HCGMB nr. 115/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 115/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35050",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35050/H115_15.pdf",
+     "sha256": "01a1806d6b9b987ef230f7d3a9dec871969dad8c6ed8fd88a1406dccfc95dfde"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-116-2015",
+   "path": "local/bucuresti/cgmb/2015/116",
+   "short": "HCGMB nr. 116/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 116/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35101",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35101/H116_15.pdf",
+     "sha256": "e90feac876c1e004c2b9b2d3269c9f78a9551aeb76a9dd336d2f172f4878fe1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-117-2015",
+   "path": "local/bucuresti/cgmb/2015/117",
+   "short": "HCGMB nr. 117/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 117/2015 PRIVIND MODIFICAREA COMPONENTEI AUTORITATII TERITORIALE DE ORDINE PUBLICA A MUNICIPIULUI BUCURESTI MODIFICA HCGMB NR. 90/2012 MODIFICA HCGMB NR. 96/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35102",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35102/H117_15.pdf",
+     "sha256": "41a94e32c452297e043bc1d71106933c0ded69bee404259db37ad969d2bd0350"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-118-2015",
+   "path": "local/bucuresti/cgmb/2015/118",
+   "short": "HCGMB nr. 118/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 118/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35103",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35103/H118_15.pdf",
+     "sha256": "d888ed512eea9d624ff8ccc5bf32953c05175376df49141b23ea6b755715004b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-119-2015",
+   "path": "local/bucuresti/cgmb/2015/119",
+   "short": "HCGMB nr. 119/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 119/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35104",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35104/H119_15.pdf",
+     "sha256": "904d39a97c6fc7ce7342426a67f2ffe613a46d865c459c5039c37216a732f121"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-12-2015",
+   "path": "local/bucuresti/cgmb/2015/12",
+   "short": "HCGMB nr. 12/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 12/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34576",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34576/H012_15.pdf",
+     "sha256": "abb126ae3e8d9fb71e9c9e1bdc52a6c840b1bb466dc3ad7135401ee969566845"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-120-2015",
+   "path": "local/bucuresti/cgmb/2015/120",
+   "short": "HCGMB nr. 120/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 120/2015 PRIVIND REVOCAREA HOTARARII C.G.M.B NR. 194/2014 PRIVIND INCETAREA MANDATULUI DE CONSILIER AL DOMNEI ZARKOCZY JULIA SI VACANTAREA UNUI POST DE CONSILIER DIN CADRUL CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI REVOCA HCGMB NR. 194/2014",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35105",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35105/H120_15.pdf",
+     "sha256": "ebf5044d32c333b1b95a0b7823a5fa6f9d03f4d93aea497de828417863003ddb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-121-2015",
+   "path": "local/bucuresti/cgmb/2015/121",
+   "short": "HCGMB nr. 121/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 121/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35106",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35106/H121_15.pdf",
+     "sha256": "8a949f06c289ab3779f134f1061e5afe8aaca70b5f1b26d3001e48e335450b05"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-122-2015",
+   "path": "local/bucuresti/cgmb/2015/122",
+   "short": "HCGMB nr. 122/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 122/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35107",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35107/H122_15.pdf",
+     "sha256": "1918d6c09efc6f76f1acb201a2d82bc032548f4692e43c698efa9a21f592bf56"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-123-2015",
+   "path": "local/bucuresti/cgmb/2015/123",
+   "short": "HCGMB nr. 123/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 123/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35108",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35108/H123_15.pdf",
+     "sha256": "ee5620970506bb8e2c3c7df6cf2e1281d6b82226000ff40ea384b0dddef50be0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-124-2015",
+   "path": "local/bucuresti/cgmb/2015/124",
+   "short": "HCGMB nr. 124/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 124/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35109",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35109/H124_15.pdf",
+     "sha256": "4c536084fa438dbb2ad60667324d55f01bdb1ba7cf538a1ff56f51406930ece4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-125-2015",
+   "path": "local/bucuresti/cgmb/2015/125",
+   "short": "HCGMB nr. 125/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 125/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35110",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35110/H125_15.pdf",
+     "sha256": "70ad3b00feb028df2dfb8fe9318197ab6b0c50d819748b19fab2812299b5539c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-126-2015",
+   "path": "local/bucuresti/cgmb/2015/126",
+   "short": "HCGMB nr. 126/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 126/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35111",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35111/H126_15.pdf",
+     "sha256": "2b405cf87ce6ea6b615f6b8e7c1905a46aac757bbd0b22b631cc520ffd166114"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-127-2015",
+   "path": "local/bucuresti/cgmb/2015/127",
+   "short": "HCGMB nr. 127/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 127/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35112",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35112/H127_15.pdf",
+     "sha256": "275e0f7c22aef4fc43e720b33ce3b48361dec0c68c23872a71dc17b08321c58c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-128-2015",
+   "path": "local/bucuresti/cgmb/2015/128",
+   "short": "HCGMB nr. 128/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 128/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35113",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35113/H128_15.pdf",
+     "sha256": "f659a187be4b3ab9e016eaaee50669202bc6c567f5a32a61bfae19e283b7d04d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-129-2015",
+   "path": "local/bucuresti/cgmb/2015/129",
+   "short": "HCGMB nr. 129/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 129/2015 PRIVIND DERULAREA DE CATRE TEATRUL TINERETULUI METROPOLIS A PROIECTULUI \"ALEEA CELEBRITATILOR\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35114",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35114/H129_15.pdf",
+     "sha256": "5344825c3b6460eb3f622dfe530e975caac2a4caa0c556eecbc3d01b01cb2327"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-13-2015",
+   "path": "local/bucuresti/cgmb/2015/13",
+   "short": "HCGMB nr. 13/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 13/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34578",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34578/H013_15.pdf",
+     "sha256": "700b4c8490ac21c42ded23937a5c0d0021421d082013acfb9cc3c897518c3716"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-130-2015",
+   "path": "local/bucuresti/cgmb/2015/130",
+   "short": "HCGMB nr. 130/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 130/2015 PRIVIND APROBAREA PLANULUI DE ADMINISTRARE AL CONSILIULUI DE ADMINISTRATIE AL REGIEI AUTONOME DE DISTRIBUTIE A ENERGIEI TERMICE BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35115",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35115/H130_15.pdf",
+     "sha256": "a97b8ded5e95725e19a3d5bf57557dc54162020c5739e5665b5b32544054e85a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-131-2015",
+   "path": "local/bucuresti/cgmb/2015/131",
+   "short": "HCGMB nr. 131/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 131/2015 PRIVIND APROBAREA UTILIZARII CANTITATII DE SINA DE TRAMVAI AFLATA PE STOC IN MAGAZIA DE INVESTITII A REGIEI AUTONOME DE TRANSPORT BUCURESTI CA URMARE A FINALIZARII LUCRARILOR DE REABILITARE LA OBIECTIVUL DE INVESTITII \"MODERNIZAREA INFRASTRUCTURII RETELEI DE TRAMVAI IN ZONA DE SUD-VEST A MUNICIPIULUI BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35116",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35116/H131_15.pdf",
+     "sha256": "8ee34dc6c95862b3473dfed4f16b65bec1ffa3a735206365c69a50015c2eef58"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-132-2015",
+   "path": "local/bucuresti/cgmb/2015/132",
+   "short": "HCGMB nr. 132/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 132/2015 PRIVIND APROBAREA DOCUMENTATIEI DE AVIZARE A LUCRARILOR DE INTERVENTIE SI A INDICATORILOR TEHNICO-ECONOMICI AFERENTI OBIECTIVULUI DE INVESTITII - MODERNIZAREA CENTRALEI TERMICE DE LA SEDIUL DEPOULUI COLENTINA - FAZA \"DOCUMENTATIE DE INTERVENTIE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35117",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35117/H132_15.pdf",
+     "sha256": "f2787d2110b403a9509b611f1cbc70eed9207ba8b38c6ad8976457fe0a4c4405"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-133-2015",
+   "path": "local/bucuresti/cgmb/2015/133",
+   "short": "HCGMB nr. 133/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 133/2015 PRIVIND APROBAREA DOCUMENTATIEI DE AVIZARE A LUCRARILOR DE INTERVENTIE SI A INDICATORILOR TEHNICO-ECONOMICI AFERENTI OBIECTIVULUI DE INVESTITII - \"MODERNIZAREA CENTRALEI TERMICE DE LA SEDIUL DIRECTIEI INTRETINERE SISTEME ENERGETICE SI CALE DE RULARE\" - FAZA \"DOCUMENTATIE DE INTERVENTIE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35118",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35118/H133_15.pdf",
+     "sha256": "84bc9193d801fa0f9096944ace77d6718aae3fed1c91135e45282e3655fc1afe"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-134-2015",
+   "path": "local/bucuresti/cgmb/2015/134",
+   "short": "HCGMB nr. 134/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 134/2015 PRIVIND APROBAREA DOCUMENTATIEI DE AVIZARE A LUCRARILOR DE INTERVENTIE SI A INDICATORILOR TEHNICO-ECONOMICI AFERENTI OBIECTIVULUI DE INVESTITII - \"MODERNIZAREA CENTRALEI TERMICE DE LA SEDIUL DEPOULUI DE TROLEIBUZE VATRA LUMINOASA\" - FAZA \"DOCUMENTATIE DE INTERVENTIE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35119",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35119/H134_15.pdf",
+     "sha256": "f8e9b19ca1fd5b6eeb7c853bc00c3c90e8619d41f174a203feb6c889ef2fc49e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-135-2015",
+   "path": "local/bucuresti/cgmb/2015/135",
+   "short": "HCGMB nr. 135/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 135/2015 PRIVIND APROBAREA INTELEGERII DE COOPERARE INTRE MUNICIPIUL BUCURESTI, DIN ROMANIA SI ORASUL AUTONOM BUENOS AIRES, DIN REPUBLICA ARGENTINA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35120",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35120/H135_15.pdf",
+     "sha256": "53abf1da1ea1490849c1323f1b48f867a5b1f43459303b3129f974e9da628051"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-136-2015",
+   "path": "local/bucuresti/cgmb/2015/136",
+   "short": "HCGMB nr. 136/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 136/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35121",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35121/H136_15.pdf",
+     "sha256": "a6e8cf6bd856fb39aa4256af936955863b056a9aca6393d4b39586d4fd07efe1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-137-2015",
+   "path": "local/bucuresti/cgmb/2015/137",
+   "short": "HCGMB nr. 137/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 137/2015 PRIVIND MODIFICAREA COMPONENTEI AUTORITATII TERITORIALE DE ORDINE PUBLICA A MUNICIPIULUI BUCURESTI MODIFICA HCGMB NR. 96/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35122",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35122/H137_15.pdf",
+     "sha256": "73eae287aad323b5f983211f54d25f6f2449673e6bfc4b502f314cf8bf593666"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-138-2015",
+   "path": "local/bucuresti/cgmb/2015/138",
+   "short": "HCGMB nr. 138/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 138/2015 PRIVIND DECLANSAREA PROCEDURILOR DE EXPRIPRIERE PENTRU IMOBILELE PROPRIETATE PRIVATA SITUATE PE AMPLASAMENTUL LUCRARII DE UTILITATE PUBLICA \"PENETRATIE PRELUNGIREA GHENCEA-DOMNESTI\" IN VEDEREA EFECTUARII LUCRARILOR DE INTERES PUBLIC LOCAL SE MODIFICA PRIN HCGMB NR. 1/2019 SE COMPLETEAZA PRIN HCGMB NR. 224/2019 SE MODIFICA PRIN HCGMB NR. 291/2019 ANEXA NR. 2 SI ART. 4 SE MODIFICA PRIN HCGMB NR. 60/2021ART. NR. 2 SI ART. 4 SI 5 DIN HCGMB NR. 138/2015 SE MODIFICA SI COMPLETEAZA PRIN HCGMB NR. 143/2021 ART. NR. 2 SI NR. 4 SE MODIFICA PRIN HCGMB NR. 336/2021 ANEXELE NR. 1 SI NR. 2 SE MODIFICA PRIN HCGMB NR. 117/2026",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35123",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35123/H138_15.pdf",
+     "sha256": "c55e88319c323b17f1c642d4b41a31068ba75d8871bcbf9e1af52b59d60ecf93"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-139-2015",
+   "path": "local/bucuresti/cgmb/2015/139",
+   "short": "HCGMB nr. 139/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 139/2015 PRIVIND APROBAREA PREDARII IN ADMINISTRARE CATRE ADMINISTRATIA STRAZILOR, ADMINISTRATIA LACURI PARCURI SI AGREMENT BUCURESTI, REGIA AUTONOMA DE TRANSPORT BUCURESTI SI PRIMARIA MUNICIPIULUI BUCURESTI - DIRECTIA UTILITATI PUBLICE A UNOR OBIECTIVE CE FAC PARTE DIN \"PASAJUL RUTIER DENIVELAT SUPERIOR BASARAB\" COMPLETEAZA ANEXA 2 A HCGMB NR. 254/2008 SE MODIFICA PRIN HCGMB 466/2019",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35124",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35124/H139_15.pdf",
+     "sha256": "3e90558d9b698d9f3310e3147ae14d62af7d87177c634ace8f82b2bdedb307db"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-14-2015",
+   "path": "local/bucuresti/cgmb/2015/14",
+   "short": "HCGMB nr. 14/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 14/2015 PRIVIND VALIDAREA MODIFICARILOR IN BUGETUL PROPRIU AL MUNICIPIULUI BUCURESTI PE ANUL 2014 APROBATE PRIN DISPOZITIA PRIMARULUI GENERAL NR. 1170/30.12.2014 SI DISPOZITIA PRIMARULUI GENERAL NR. 1171/30.12.2014 IN CONFORMITATE CU ART. 82 DIN LEGEA NR. 273/2006 PRIVIND FINANTELE PUBLICE LOCALE, CU MODIFICARILE SI COMPLETARILE ULTERIOARE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34579",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34579/H014_15.pdf",
+     "sha256": "b1ffd15b15d28168428584ce4035f275f67d01c572ec507d502277c5dbec1523"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-140-2015",
+   "path": "local/bucuresti/cgmb/2015/140",
+   "short": "HCGMB nr. 140/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 140/2015 PRIVIND MODIFICAREA LISTELOR OBIECTIVELOR DE INVESTITII - ANEXE LA BUGETUL PE ANUL 2015 PENTRU SPITALUL SF. MARIA SI SPITALUL DR. VICTOR BABES CU INCADRAREA IN TOTALUL APROBAT PRIN HCGMB 80/2015 SI COMPLETAREA ANEXEI 2.41 PRIVIND APROBAREA NMARULUI DE PERSONAL PE ANUL 2015 CU NUMARUL DE PERSONAL AFERENT SPITALELOR SI PERSONALULUI DIN CABINETELE SCOLARE DIN STRUCTURA ADMINISTRATIEI SPITALELOR SI SERVICIILOR MEDICALE BUCURESTI MODIFICA SI COMPLETEAZA HCGMB NR. 80/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35125",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35125/H140_15.pdf",
+     "sha256": "27ffc559dce29b9cf0c6c2eb5368031b106580fc5306d6c7c80ba085435ec33a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-141-2015",
+   "path": "local/bucuresti/cgmb/2015/141",
+   "short": "HCGMB nr. 141/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 141/2015 PRIVIND APROBAREA \"PLANULUI COMITETULUI MUNICIPIULUI BUCURESTI PENTRU SITUATII DE URGENTA PE ANUL 2015\" PRIVIND ASIGURAREA RESURSELOR UMANE, MATERIALE SI FINANCIARE NECESARE GESTIONARII SITUATIILOR DE URGENTA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35126",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35126/H141_15.pdf",
+     "sha256": "6bdadb8c4d72ec3d48bcdf82cbe996c715e68ac05cac7caa8d5bcdc081a3d5f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-142-2015",
+   "path": "local/bucuresti/cgmb/2015/142",
+   "short": "HCGMB nr. 142/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 142/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35127",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35127/H142_15.pdf",
+     "sha256": "62670ca20f91898848a9b37508ef95d2359393f76ee4a8fd643ba3436373223b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-143-2015",
+   "path": "local/bucuresti/cgmb/2015/143",
+   "short": "HCGMB nr. 143/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 143/2015 PRIVIND DESEMNAREA REPREZENTANTILOR MUNICIPIULUI BUCURESTI IN PRIMA ADUNARE GENERALA SI IN PRIMUL CONSILIU DIRECTOR ALE ASOCIATIEI DE TRANSPORT METROPOLITAN BUCURESTI SE ABROGA PRIN HCGMB NR. 140/2017",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35128",
+   "versions": [
+    {
+     "from": "2015-06-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35128/H143_15.pdf",
+     "sha256": "ec039883aaae5b6d0f65da57c85c1f2568f9162c2971237f5d98611430a3be5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-144-2015",
+   "path": "local/bucuresti/cgmb/2015/144",
+   "short": "HCGMB nr. 144/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 144/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35240",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35240/H144_15.pdf",
+     "sha256": "fed624474a170cad524c7f877b65732683388bd1f8d7d91145183f643114e56b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-145-2015",
+   "path": "local/bucuresti/cgmb/2015/145",
+   "short": "HCGMB nr. 145/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 145/2015 PRIVIND ALOCAREA SMEI DE 2.740 MII LEI DIN FONDUL DE REZERVA LA DISPOZITIA AUTORITATILOR MUNICIPIULUI BUCURESTI DIN BUGETUL PE ANUL 2015 PENTRU ADMINISTRATIA MONUMENTELOR SI PATRIMONIULUI TURISTIC",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35235",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35235/H145_15.pdf",
+     "sha256": "8825b99c5edacae47e044b70cd4f65a6bec3b384f3fe21d49281f4d02f711824"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-146-2015",
+   "path": "local/bucuresti/cgmb/2015/146",
+   "short": "HCGMB nr. 146/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 146/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35236",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35236/H146_15.pdf",
+     "sha256": "15004332ac317ade6dcdf0618f394e731fa579579382a08ad863f42cc756ed53"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-147-2015",
+   "path": "local/bucuresti/cgmb/2015/147",
+   "short": "HCGMB nr. 147/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 147/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35241",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35241/H147_15.pdf",
+     "sha256": "99fc0a05328ff009fcb12597a63059d88c390d5e452e7290260c8b166897c9f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-148-2015",
+   "path": "local/bucuresti/cgmb/2015/148",
+   "short": "HCGMB nr. 148/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 148/2015 PRIVIND APROBAREA RAPORTULUI AFERENT ANULUI 2014 PRIVIND STADIUL REALIZARII MASURILOR DIN PROGRAMUL INTEGRAT DE GESTIONARE A CALITATII AERULUI IN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35242",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35242/H148_15.pdf",
+     "sha256": "e915a31ed82495786e2ebc951c56f2c4932ac9fd188f61f9c09591203d94f971"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-149-2015",
+   "path": "local/bucuresti/cgmb/2015/149",
+   "short": "HCGMB nr. 149/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 149/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35243",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35243/H149_15.pdf",
+     "sha256": "693a1fe93b6e640761547769a63efe3183b7085cd9ba4177f7161bce084fda59"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-15-2015",
+   "path": "local/bucuresti/cgmb/2015/15",
+   "short": "HCGMB nr. 15/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 15/2015 PRIVIND APROBAREA PARTICIPARII CENTRULUI DE PROIECTE SI PROGRAME EDUCATIONALE SI SPORTIVE PENTRU COPII SI TINERET BUCURESTI LA PROIECTUL \"O SANSA LA UN VIITOR MAI BUN PENTRU COPII IN SITUATIE DE RISC DIN MUNICIPIUL BUCURESTI\", PRIN ACCESAREA GRANTURILOR SEE 2009-2014, IN CADRUL PROGRAMULUI RO 10 \"COPII SI TINERI IN SITUATII DE RISC SI INITIATIVE LOCALE SI REGIONALE PENTRU REDUCEREA INEGALITATILOR NATIONALE SI PROMOVAREA INCLUZIUNII SOCIALE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34581",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34581/H015_15.pdf",
+     "sha256": "860fb7f34c1456296babfb1cff2d79926495ad9891b41da68c8ec6eee2ebbe39"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-150-2015",
+   "path": "local/bucuresti/cgmb/2015/150",
+   "short": "HCGMB nr. 150/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 150/2015 PRIVIND IMPUTERNICIREA CONSILIULUI LOCAL SECTOR 3 DE A HOTARA CU PRIVIRE LA COOPERAREA, PRIN DIRECTIA GENERALA DE ASISTENTA SOCIALA SI PROTECTIA COPILULUI SECTOR 3, CU FUNDATIA \"HOPE AND HOMES FOR CHILDREN\" ROMANIA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35244",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35244/H150_15.pdf",
+     "sha256": "5358d72e391f1298d669a687eb4e82ebb921ae10aac526aff99151bf1a5ad9ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-151-2015",
+   "path": "local/bucuresti/cgmb/2015/151",
+   "short": "HCGMB nr. 151/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 151/2015 PRIVIND INFIINTAREA UNOR PUNCTE DE INFORMARE SI DOCUMENTARE ALE PRIMARIEI MUNICIPIULUI BUCURESTI PENTRU RELATII CU CETATENII MODIFICA ANEXA HCGMB NR. 109/2003 SE MODIFICA SI COMPLETEAZA PRIN HCGMB NR. 68/2016 SE MODIFICA PRIN HCGMB NR. 619/2018 ANEXA SE MODIFICA PRIN HCGMB NR. 555/2019",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35245",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35245/H151_15.pdf",
+     "sha256": "6b3eaecd8cd67d0440023f7f00e983320a9c4422e7bfd477c164423ce0672ef1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-152-2015",
+   "path": "local/bucuresti/cgmb/2015/152",
+   "short": "HCGMB nr. 152/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 152/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35237",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35237/H152_15.pdf",
+     "sha256": "9aa8be413b3ccda6bea500139433b79c644c56442905f34228d332393a207649"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-153-2015",
+   "path": "local/bucuresti/cgmb/2015/153",
+   "short": "HCGMB nr. 153/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 153/2015 PRIVIND TRANSMITEREA UNOR SECTOARE DE DRUM NATIONAL, SITUATE IN INTRAVILANUL MUNICIPIULUI BUCURESTI, AFLATE IN DOMENIUL PUBLIC AL STATULUI, DIN ADMINISTRAREA MINISTERULUI TRANSPORTURILOR IN ADMINISTRAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI - ADMINISTRATIA STRAZILOR INCETEAZA APLICABILITATEA HCGMB NR. 48/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35238",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35238/H153_15.pdf",
+     "sha256": "9330d1575eb36fbe72994cca3d2d583bc4b2093a540d4112e03963f0ffbee2f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-154-2015",
+   "path": "local/bucuresti/cgmb/2015/154",
+   "short": "HCGMB nr. 154/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 154/2015 PRIVIND MODIFICAREA COMPETENTEI AUTORITATII TERITORIALE DE ORDINE PUBLICA A MUNICIPIULUI BUCURESTI MODIFICA HCGMB NR. 96/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35239",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35239/H154_15.pdf",
+     "sha256": "4560224179abfcab8172d9dd23baf4b15db47ff0f91fddffbfb553d3e4806b5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-155-2015",
+   "path": "local/bucuresti/cgmb/2015/155",
+   "short": "HCGMB nr. 155/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 155/2015 PRIVIND IMPUTERNICIREA CONSILIULUI LOCAL AL SECTORULUI 4 AL MUNICIPIULUI BUCURESTI SA HOTARASCA CU PRIVIRE LA ADERAREA LA CLUSTERUL ENERGIEI REGENERABILE LA DUNARE SI MAREA NEAGRA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35246",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35246/H155_15.pdf",
+     "sha256": "3a822c6b8bc35e6e964ba8c276359169e56e686f7631296763ffa31bf2ba4472"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-156-2015",
+   "path": "local/bucuresti/cgmb/2015/156",
+   "short": "HCGMB nr. 156/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 156/2015 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU (P.U.D)- INTERVENTII URBANISTICE IN ZONA CENTRALA A CAPITALEI, DETALIUL 4.1 SI 4.2 - REALIZARE ACCESE AUTO SI PIETONALE SUPLIMENTARE IN PARCAJ SUBTERAN INTERCONTINENTAL",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35248",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35248/H156_15.pdf",
+     "sha256": "da19d9e3844a5c47a1337f38eec4139666aec9d05e3abaefc8d8f1710fc09dfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-157-2015",
+   "path": "local/bucuresti/cgmb/2015/157",
+   "short": "HCGMB nr. 157/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 157/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35247",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35247/H157_15.pdf",
+     "sha256": "c259d8ead9ef740769175664f36a35bd7e00f92e1fb6722b0cf7212e2a147dd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-158-2015",
+   "path": "local/bucuresti/cgmb/2015/158",
+   "short": "HCGMB nr. 158/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 158/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35311",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35311/H158_15.pdf",
+     "sha256": "91ceb02603aae4589029922d0dc8a68215b9a7154e37ec3f421928577c58a028"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-159-2015",
+   "path": "local/bucuresti/cgmb/2015/159",
+   "short": "HCGMB nr. 159/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 159/2015 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA A CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PE PERIOADA 04 SEPTEMBRIE 2015 - 03 DECEMBRIE 2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35312",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35312/H159_15.pdf",
+     "sha256": "a23c2e5f7c753914f9725ad1c677329906176be78d4af858f13b3b87046d69a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-16-2015",
+   "path": "local/bucuresti/cgmb/2015/16",
+   "short": "HCGMB nr. 16/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 16/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34583",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34583/H016_15.pdf",
+     "sha256": "69327ed1bcc8d50f6b44a77e5c30116632e565c206a51630d11ea5d354b0a9a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-160-2015",
+   "path": "local/bucuresti/cgmb/2015/160",
+   "short": "HCGMB nr. 160/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 160/2015 PRIVIND APROBAREA BUGETULUI FONDURILOR NERAMBURSABILE AL DIRECTIEI GENERALE DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI PE ANUL 2015 SI A CHELTUIELILOR NEELIGIBILE IN BUGETUL LOCAL PENTRU IMPLEMENTAREA PROIECTULUI \"CENTRUL ZEBRA ZOU - UN SERVICIU INCLUSIV DE INGRIJIRE SI EDUCATIE TIMPURIE IN CARTIERUL FLOREASCA DIN MUNICIPIUL BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35313",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35313/H160_15.pdf",
+     "sha256": "734bdfd6dccd9723030f084aa3146d3005604b245c7d13bf9e5f74e06fe9b3ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-161-2015",
+   "path": "local/bucuresti/cgmb/2015/161",
+   "short": "HCGMB nr. 161/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 161/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35314",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35314/H161_15.pdf",
+     "sha256": "ff812585860cf4ea246f3c3539593e88a2c9a36a0ce041c29270e06c173e3085"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-162-2015",
+   "path": "local/bucuresti/cgmb/2015/162",
+   "short": "HCGMB nr. 162/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 162/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35315",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35315/H162_15.pdf",
+     "sha256": "556fd2e53fcedb8ac9b2c0e55f4013554cbd5b2b1bf740e29c78d04f0d442828"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-163-2015",
+   "path": "local/bucuresti/cgmb/2015/163",
+   "short": "HCGMB nr. 163/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 163/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35316",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35316/H163_15.pdf",
+     "sha256": "6c11e2348194c85fc3223dc5db01f6bd2ffbecd4f176e31db5ba0cf12ab60985"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-164-2015",
+   "path": "local/bucuresti/cgmb/2015/164",
+   "short": "HCGMB nr. 164/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 164/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35317",
+   "versions": [
+    {
+     "from": "2015-09-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35317/H164_15.pdf",
+     "sha256": "71f0215fc13648bdc4b20a84c08c4ef3ad8feaa9f3ce8e577609cffb8076732a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-165-2015",
+   "path": "local/bucuresti/cgmb/2015/165",
+   "short": "HCGMB nr. 165/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 165/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35318",
+   "versions": [
+    {
+     "from": "2015-09-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35318/H165_15.pdf",
+     "sha256": "f1e1b63ad000a2032c2059d4d6c01a71788072107315f3f7fc4e6af690fdff56"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-166-2015",
+   "path": "local/bucuresti/cgmb/2015/166",
+   "short": "HCGMB nr. 166/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 166/2015 PRIVIND ALEGEREA UNUI VICEPRIMAR AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35319",
+   "versions": [
+    {
+     "from": "2015-09-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35319/H166_15.pdf",
+     "sha256": "78442c8f48b50e4602f8f18aa8209ee62820dddd716fe854878f22a5b20693ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-167-2015",
+   "path": "local/bucuresti/cgmb/2015/167",
+   "short": "HCGMB nr. 167/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 167/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35320",
+   "versions": [
+    {
+     "from": "2015-09-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35320/H167_15.pdf",
+     "sha256": "3b0e304ae9f52d445e444a383bf93bbff671b30f5f3eb4997d380174fecf306d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-168-2015",
+   "path": "local/bucuresti/cgmb/2015/168",
+   "short": "HCGMB nr. 168/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 168/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35321",
+   "versions": [
+    {
+     "from": "2015-09-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35321/H168_15.pdf",
+     "sha256": "1ba34e0cefb7dca792d155c2eed6763859b6c24c5f76a2922e480ab0c6402934"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-169-2015",
+   "path": "local/bucuresti/cgmb/2015/169",
+   "short": "HCGMB nr. 169/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 169/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35325",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35325/H169_15.pdf",
+     "sha256": "48e78779caea6477d4df991a41b558c5ad0b29dec2bdf711998c3fe0fa73c2dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-17-2015",
+   "path": "local/bucuresti/cgmb/2015/17",
+   "short": "HCGMB nr. 17/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 17/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34585",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34585/H017_15.pdf",
+     "sha256": "12ff1e6e5ac1b3f8a6df0097ab3a393b83c6f1f688bdfae4be8e8501e38a3be3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-170-2015",
+   "path": "local/bucuresti/cgmb/2015/170",
+   "short": "HCGMB nr. 170/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 170/2015 PRIVIND APROBAREA ACHIZITIONARII DE SERVICII DE AUDIT EXTERN DE CATEE MUNICIPIUL BUCURESTI PENTRU PRIMARIA MUNICIPIULUI BUCURESTI, INSTITUTIILE PUBLICE DE INTERES LOCAL ALE MUNICIPIULUI BUCURESTI SI REGIILE AUTONOME",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35326",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35326/H170_15.pdf",
+     "sha256": "7503b4e2a3d9be25fda950c5ce8648786a3740223ba22ee32de2ecca5461a997"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-171-2015",
+   "path": "local/bucuresti/cgmb/2015/171",
+   "short": "HCGMB nr. 171/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 171/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35327",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35327/H171_15.pdf",
+     "sha256": "c711b5b1234ff09ab8b967088f189a906bd0d36553d3e410c05074bb360e1ad8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-172-2015",
+   "path": "local/bucuresti/cgmb/2015/172",
+   "short": "HCGMB nr. 172/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 172/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35328",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35328/H172_15.pdf",
+     "sha256": "fc31e4ebff675b9d0288122951ce05443931d20642170029fedbcdde12ad5ec4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-173-2015",
+   "path": "local/bucuresti/cgmb/2015/173",
+   "short": "HCGMB nr. 173/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 173/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35329",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35329/H173_15.pdf",
+     "sha256": "caca55f608003a639251d1b2273232621b7d773f09ed5ac5a6222c69ba4b904e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-174-2015",
+   "path": "local/bucuresti/cgmb/2015/174",
+   "short": "HCGMB nr. 174/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 174/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35330",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35330/H174_15.pdf",
+     "sha256": "ac53b1b5c37a3b8344fac0b8126162422dd7113ea3ba86ffa80ee42b4402a0d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-175-2015",
+   "path": "local/bucuresti/cgmb/2015/175",
+   "short": "HCGMB nr. 175/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 175/2015 PRIVIND ATRIBUIREA DENUMIRII DE INTRAREA PERU, SECTOR 1, BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35332",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35332/H175_15.pdf",
+     "sha256": "7f69d803de3253ddaad583ca8352d30092bf1bce65dba97def7ae66aae6cf68f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-176-2015",
+   "path": "local/bucuresti/cgmb/2015/176",
+   "short": "HCGMB nr. 176/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 176/2015 PRIVIND CONSTITUIREA UNEI COMISII DE ANALIZA SI VERIFICARE A ACTIVITATII TEATRULUI ODEON",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35333",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35333/H176_15.pdf",
+     "sha256": "cd9cf72aed1bea723e89c4756dba045a0238a5d6e3d77903ef1ff0a9d9591135"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-177-2015",
+   "path": "local/bucuresti/cgmb/2015/177",
+   "short": "HCGMB nr. 177/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 177/2015 PRIVIND MAJORAREA CHELTUIELILOR DE PERSONAL APROBATE UNOR INSTITUTII DE INTERES LOCAL PENTRU A ASIGURA PLATA SALARIILOR IN LUNA OCTOMBRIE 2015 IN LIMITA PLAFONULUI APROBAT MUNICIPIULUI BUCURESTI PRIN UTILIZAREA SUMEI DE 524 MII LEI DIN FONDUL DE REZERVA LA DISPOZITIA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI IN BUGETUL APROBAT PE ANUL 2015 COMPLETEAZA HCGMB NR. 80/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35334",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35334/H177_15.pdf",
+     "sha256": "6ce5f53699d27e8f83edce03156c29f7ca5d1dbe511c6b73a033cfe5c02651aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-178-2015",
+   "path": "local/bucuresti/cgmb/2015/178",
+   "short": "HCGMB nr. 178/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 178/2015 PRIVIND RECTIFICAREA BUGETULUI CASEI DE CULTURA FRIEDERICH SCHILLER PE ANUL 2015, INSTITUTIE PUBLICA DE INTERES LOCAL FINANTATA INTEGRAL DIN VENITURI PROPRII PENTRU ASIGURAREA PLATII DREPTURILOR DE PERSONAL INCEPAND CU LUNA OCTOMBRIE 2015 COMPLETEAZA HCGMB NR. 80/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35335",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35335/H178_15.pdf",
+     "sha256": "559fba67a03db5269929a0d4c50ffb15caad0632a177efcb4a5ae8e317547d39"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-179-2015",
+   "path": "local/bucuresti/cgmb/2015/179",
+   "short": "HCGMB nr. 179/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 179/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35331",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35331/H179_15.pdf",
+     "sha256": "b46059fa3f01896f5709f6b0231fe9e64aea6c2d4b1a330f1d74ec0345eefc8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-18-2015",
+   "path": "local/bucuresti/cgmb/2015/18",
+   "short": "HCGMB nr. 18/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 18/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34589",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34589/H018_15.pdf",
+     "sha256": "7857450d88922a77f26c0d02491ff4d27cf842333679e6d474a350ab2b8ad860"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-180-2015",
+   "path": "local/bucuresti/cgmb/2015/180",
+   "short": "HCGMB nr. 180/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 180/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35347",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35347/H180_2015.pdf",
+     "sha256": "79c9a5975c6de973e5ff8556a7fd05f828d65788b1f20cb5a270924b8f775a85"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-181-2015",
+   "path": "local/bucuresti/cgmb/2015/181",
+   "short": "HCGMB nr. 181/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 181/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35348",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35348/H181_2015.pdf",
+     "sha256": "2cdd0bfa58136650c9576636d85802ab3d116b7f69ea6165c086e4c495528063"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-182-2015",
+   "path": "local/bucuresti/cgmb/2015/182",
+   "short": "HCGMB nr. 182/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 182/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35349",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35349/H182_2015.pdf",
+     "sha256": "7ee701e0156728f0575cd98578a3cc11442710b39df2689d689430bbbd3b2aa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-183-2015",
+   "path": "local/bucuresti/cgmb/2015/183",
+   "short": "HCGMB nr. 183/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 183/2015 PRIVIND RECTIFICAREA BUGETULUI PROPRIU AL MUNICIPIULUI BUCURESTI PE ANUL 2015 MODIFICA HCGMB NR. 80/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35337",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35337/H183_15.pdf",
+     "sha256": "d46bc75a9a491922e4fc3d668e1e8f91b97869d0a152fc4a1e3e1534186f5823"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-184-2015",
+   "path": "local/bucuresti/cgmb/2015/184",
+   "short": "HCGMB nr. 184/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 184/2015 PENTRU APROBAREA \"PLANULUI DE OCUPARE A FUNCTIILOR PUBLICE DIN PRIMARIA MUNICIPIULUI BUCURESTI PENTRU ANUL 2016\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35350",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35350/H184_2015.pdf",
+     "sha256": "737e9793338347860abe27c99f56d578ecdb26f6949c60bf1a279f5884a3f182"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-185-2015",
+   "path": "local/bucuresti/cgmb/2015/185",
+   "short": "HCGMB nr. 185/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 185/2015 PENTRU APROBAREA \"PLANULUI DE OCUPARE A FUNCTIILOR PUBLICE DIN CADRUL DIRECTIEI GENERALE DE POLITIE LOCALA SI CONTROL A MUNICIPIULUI BUCURESTI PENTRU ANUL 2016\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35351",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35351/H185_2015.pdf",
+     "sha256": "5cd6c01539f302a102bb98da59e02de4da734fd3aa1ffbe0f23012cc3905bb78"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-186-2015",
+   "path": "local/bucuresti/cgmb/2015/186",
+   "short": "HCGMB nr. 186/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 186/2015 PENTRU APROBAREA \"PLANULUI DE OCUPARE A FUNCTIILOR PUBLICE DIN CADRUL DIRECTIEI GENERALE DE EVIDENTA A PERSONELOR A MUNICIPIULUI BUCURESTI PENTRU ANUL 2016\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35352",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35352/H186_2015.pdf",
+     "sha256": "0830ee5d5927f556a083977bde581487f7a06b416a536c2e3736c55333f55155"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-187-2015",
+   "path": "local/bucuresti/cgmb/2015/187",
+   "short": "HCGMB nr. 187/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 187/2015 PRIVIND ATRIBUIREA DENUMIRII DE PIATA IRINA NICOLAU SPATIUL PUBLIC SITUAT LA INTERSECTIA DINTRE CALEA PLEVNEI SI STRADA SFANTUL CONSTANTIN, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35353",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35353/H187_2015.pdf",
+     "sha256": "f916a4ac6c27725301e4efad703fa3de192cbd66f4896c7aa284c25218f1af71"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-188-2015",
+   "path": "local/bucuresti/cgmb/2015/188",
+   "short": "HCGMB nr. 188/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 188/2015 PRIVIND APROBAREA COMPONENTEI COMISIEI DE CONCURS SI A COMISIEI DE CONTESTATII PENTRU OCUPAREA POSTURILOR DIN APARATUL PERMANENT DE LUCRU AL CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI ABROGA ART. 3 AL HCGMB NR. 183/2007",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35354",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35354/H188_2015.pdf",
+     "sha256": "a3bc63bfbda6fa7b18726ee8bb32af26253e5680e3d35aa41a54c9ad5bfc12a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-189-2015",
+   "path": "local/bucuresti/cgmb/2015/189",
+   "short": "HCGMB nr. 189/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 189/2015 PRIVIND APROBAREA ACORDULUI DE ASOCIERE INCHEIAT INTRE DIRECTIA GENERALA DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI, FUNDATIA CRUCEA ALB-GALBENA SI ASOCIATIA DE AJUTOR MUTUAL BUCURESTI IN VEDEREA ASIGURARII CONTINUITATII PROIECTULUI \"CENTRUL PILOT DE COORDONARE A SERVIVIILOR DE INGRIJIRI LA DOMICILIU DIN MUNICIPIUL BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35355",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35355/H189_2015.pdf",
+     "sha256": "07895a1cf83d11c3c7fa256fb009643a16d25bc7f116799b0e34be8c082b7e82"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-19-2015",
+   "path": "local/bucuresti/cgmb/2015/19",
+   "short": "HCGMB nr. 19/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 19/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34592",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34592/H019_15.pdf",
+     "sha256": "6cf070f272cabe6397329ca554352c065caef97d76c4c498c9d827d46b59f6d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-190-2015",
+   "path": "local/bucuresti/cgmb/2015/190",
+   "short": "HCGMB nr. 190/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 190/2015 PRIVIND IMPUTERNICIREA PRIMARULUI GENERAL AL MUNICIPIULUI BUCURESTI DE A DEMARA PROCEDURILE LEGALE IN VEDEREA INCHEIERII UNUI PROTOCOL DE COLABORARE INTRE MUNICIPIUL BUCURESTI SI AGENTIA NATIONALA DE CADASTRU SI PUBLICITATE IMOBILIARA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35356",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35356/H190_2015.pdf",
+     "sha256": "ec3d5af529ed099de2d6e42a8b03bc90f65cff242699d81ed38ce18fcac17ccd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-191-2015",
+   "path": "local/bucuresti/cgmb/2015/191",
+   "short": "HCGMB nr. 191/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 191/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35357",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35357/H191_2015.pdf",
+     "sha256": "ddcd8a6283b090c659a193be8490698b4b273bb3c1b1241004178e9be664ee32"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-192-2015",
+   "path": "local/bucuresti/cgmb/2015/192",
+   "short": "HCGMB nr. 192/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 192/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35358",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35358/H192_2015.pdf",
+     "sha256": "f78790f6178f291979a28b27d0a210c5fdadcdb3953d9b04066d028f135aa855"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-193-2015",
+   "path": "local/bucuresti/cgmb/2015/193",
+   "short": "HCGMB nr. 193/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 193/2015 PRIVIND APROBAREA CONTRACTARII DE LA mINISTERUL FINANTELOR PUBLICE A UNUI IMPRUMUT DIN VENITURI DIN PRIVATIZARE, IN CONFORMITATE CU PREVEDERILE ORDONANTEI DE URGENTA A GUVERNULUI NR. 46/2015 PENTRU STABILIREA UNOR MASURI FINANCIARE SI PENTRU MODIFIAREA SI COMPLETAREA UNOR ACTE NORMATIVE",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35359",
+   "versions": [
+    {
+     "from": "2015-11-16",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35359/H193_15.pdf",
+     "sha256": "0ba769ad2bd3fda83f2f336e7c927eaf503649c33444cbffc301329628284acb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-194-2015",
+   "path": "local/bucuresti/cgmb/2015/194",
+   "short": "HCGMB nr. 194/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 194/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35361",
+   "versions": [
+    {
+     "from": "2015-11-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35361/H194_15.pdf",
+     "sha256": "f8030a0d4a10ed2a261554a447094e83006f1c6a93e060cb7bfd41e34322e688"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-195-2015",
+   "path": "local/bucuresti/cgmb/2015/195",
+   "short": "HCGMB nr. 195/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 195/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35360",
+   "versions": [
+    {
+     "from": "2015-11-24",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35360/H195_15.pdf",
+     "sha256": "41da25514efd4ac7e86330c64010b7af5748143619c7dd81fdfb48fedfb8d677"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-196-2015",
+   "path": "local/bucuresti/cgmb/2015/196",
+   "short": "HCGMB nr. 196/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 196/2015 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA A CONSILIULUI GENERAL AL MUNICIPIULUI MBUCURESTI PENTRU SEDINTA EXTRAORDINARA DIN DATA DE 25 NOIEMBRIE 2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35362",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35362/H196_15.pdf",
+     "sha256": "3ac36ec7c88570b93aae2bee3a836dbb8c0c96f1e3ae05cfeaf262bae915e076"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-197-2015",
+   "path": "local/bucuresti/cgmb/2015/197",
+   "short": "HCGMB nr. 197/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 197/2015 PRIVIND IMPUTERNICIREA CONSILIULUI LOCAL AL SECTORULUI 3 DE A INTREPRINDE DEMERSURI CU PRIVIRE LA DIZOLVAREA SI LICHIDAREA ASOCIATIEI DE DEZVOLTARE INTERCOMUNITARA \"BUCURESTI 2020\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35363",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35363/H197_15.pdf",
+     "sha256": "75a8f3c25e6ad9bf0f6b8e65b8adfd8cd13c5803db62aa5364f7a78d8468db1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-198-2015",
+   "path": "local/bucuresti/cgmb/2015/198",
+   "short": "HCGMB nr. 198/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 198/2015 PRIVIND ALEGEREA UNUI VICEPRIMAR AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35364",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35364/H198_15.pdf",
+     "sha256": "5080d1ba9e7d9606af68271eafb634cdf178320b70fedd2f241762a82eca2baf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-199-2015",
+   "path": "local/bucuresti/cgmb/2015/199",
+   "short": "HCGMB nr. 199/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 199/2015 PRIVIND DESEMNAREA UNUI VICEPRIMAE SA EXERCITE ATRIBUTIILE FUNCTIEI DE PRIMAE GENERAL AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35365",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35365/H199_15.pdf",
+     "sha256": "fd257c3c8ef2ee1b60e4498d1924a5377cdd36031a2e22e9a2680831e24125d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-2-2015",
+   "path": "local/bucuresti/cgmb/2015/2",
+   "short": "HCGMB nr. 2/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 2/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34569",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34569/H002_15.pdf",
+     "sha256": "8b85d64e0900556de534cb4fa7d6f6584c1442f1889ff214986186b48b29a2c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-20-2015",
+   "path": "local/bucuresti/cgmb/2015/20",
+   "short": "HCGMB nr. 20/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 20/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34595",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34595/H020_15.pdf",
+     "sha256": "3b2f42354349a9dfd6d14bf609ccc65536326a5824fc5ac0127fa53f5f5700b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-200-2015",
+   "path": "local/bucuresti/cgmb/2015/200",
+   "short": "HCGMB nr. 200/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 200/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35371",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35371/H200_15.pdf",
+     "sha256": "76f94eca6144ea490d1e2ce9a4a0d5200a54c2b6b15b0bf3e8f62aaea86d78e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-201-2015",
+   "path": "local/bucuresti/cgmb/2015/201",
+   "short": "HCGMB nr. 201/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 201/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35372",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35372/H201_15.pdf",
+     "sha256": "baaec0f2d31fd2df8f3bdb9cad4f37bd9d6d8d331f674eef676dc1ab1e6e5abd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-202-2015",
+   "path": "local/bucuresti/cgmb/2015/202",
+   "short": "HCGMB nr. 202/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 202/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35373",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35373/H202_15.pdf",
+     "sha256": "9ea7127034edeb4961741a489a633df6d013316d6f10d29bfa70e294e1d8ea9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-203-2015",
+   "path": "local/bucuresti/cgmb/2015/203",
+   "short": "HCGMB nr. 203/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 203/2015 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA A CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PE PERIOADA 04 DECEMBRIE 2015 - 03 MARTIE 2016",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35374",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35374/H203_15.pdf",
+     "sha256": "1fecb62ab7f636671538a1b1377b4ab9efd72b97eb016e79e71b0097a2b08587"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-204-2015",
+   "path": "local/bucuresti/cgmb/2015/204",
+   "short": "HCGMB nr. 204/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 204/2015 PRIVIND APROBAREA BUGETULUI PROPRIU AL REGIEI AUTONOME DE DISTRIBUTIE A ENERGIEI TERMICE BUCURESTI PE ANUL 2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35375",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35375/H204_15.pdf",
+     "sha256": "e6a8650d92f3c0f09cf65a85de640cc76a16d4822f7c2d978cc6cf9804cb1d6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-205-2015",
+   "path": "local/bucuresti/cgmb/2015/205",
+   "short": "HCGMB nr. 205/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 205/2015 PRIVIND ACORDAREA LOCURILOR DE INHUMARE/NISELOR SI EXECUTAREA DE LUCRARI FUNERARE CU TITLU GRATUIT VICTIMELOR INCENDIULUI DIN CLUBUL COLECTIV",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35376",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35376/H205_15.pdf",
+     "sha256": "3c406420f878494578611b34c43a90495ea5e784e659c45a44fe75a4be017875"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-206-2015",
+   "path": "local/bucuresti/cgmb/2015/206",
+   "short": "HCGMB nr. 206/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 206/2015 PRIVIND STABILIREA PRETURILOR MEDII ALE PRODUSELOR AGRICOLE PENTRU MUNICIPIUL BUCURESTI, PENTRU ANUL 2016",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35377",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35377/H206_15.pdf",
+     "sha256": "23f26fac3e6a3573bf5c6c7d1a4153d24af267df70d49889677d7ddd974fd27d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-207-2015",
+   "path": "local/bucuresti/cgmb/2015/207",
+   "short": "HCGMB nr. 207/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 207/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35378",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35378/H207_15.pdf",
+     "sha256": "4c7d71dc7c5c2581f6dd1140acc3e2a1522222ff115e97f1fe76f36645880db9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-208-2015",
+   "path": "local/bucuresti/cgmb/2015/208",
+   "short": "HCGMB nr. 208/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 208/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35379",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35379/H208_15.pdf",
+     "sha256": "7fd49dcfb64aa8dfb32ce25fb5b884b747010c6b2fb50f8117071e99a8b4f4df"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-209-2015",
+   "path": "local/bucuresti/cgmb/2015/209",
+   "short": "HCGMB nr. 209/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 209/2015 PRIVIND IMPUTERNICIREA AUTORITATII MUNICIPALE DE REGLEMENTARE A SERVICIILOR PUBLICE (AMRSP) PENTRU ELABORAREA STUDIULUI DE OPORTUNITATE PRIVIND REORGANIZAREA REGIEI AUTONOME DE TRANSPORT BUCURESTI (RATB)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35380",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35380/H209_15.pdf",
+     "sha256": "db80cf90a5fb650d6593a2bc9064884ada2785a0081f216342b4c335ae815dcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-21-2015",
+   "path": "local/bucuresti/cgmb/2015/21",
+   "short": "HCGMB nr. 21/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 21/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34598",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34598/H021_15.pdf",
+     "sha256": "b1ae79899841cb4ef31a48bcc932af56ddea4c6b7ba85c4359340deb081912a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-210-2015",
+   "path": "local/bucuresti/cgmb/2015/210",
+   "short": "HCGMB nr. 210/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 210/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35381",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35381/H210_15.pdf",
+     "sha256": "297fdb871f7ae53a7ac27622591eca2cd120ebfdf8ded312012b81657f642256"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-211-2015",
+   "path": "local/bucuresti/cgmb/2015/211",
+   "short": "HCGMB nr. 211/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 211/2015 PRIVIND APROBAREA ADERARII MUNICIPIULUI BUCURESTI LA PROGRAMUL ORASE INTERCULTURALE, DEZVOLTATE DE CATRE CONSILIUL EUROPEI ANEXA LA HCGMB 211/2015 MODIFICA PRIN HCGMB NR. 531/2022",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35382",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35382/H211_15.pdf",
+     "sha256": "04dbd5027a7b9caf0f03967f3d46135413a1c6ad96bbce03c323ddd360686bcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-212-2015",
+   "path": "local/bucuresti/cgmb/2015/212",
+   "short": "HCGMB nr. 212/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 212/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35383",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35383/H212_15.pdf",
+     "sha256": "da3f2205f09762382d75a0d11897c1fd8522a4e8bbd675d095a051a3a48d94f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-213-2015",
+   "path": "local/bucuresti/cgmb/2015/213",
+   "short": "HCGMB nr. 213/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 213/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35384",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35384/H213_15.pdf",
+     "sha256": "eaadeb5e086fa2fbfed53ea0651c62ac9f76843b9854e5602abbffa4c7324ef1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-214-2015",
+   "path": "local/bucuresti/cgmb/2015/214",
+   "short": "HCGMB nr. 214/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 214/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35385",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35385/H214_15.pdf",
+     "sha256": "a271adcd8a004afa097a710d438fca06c540f299bee4bd56e07af690fd6404b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-215-2015",
+   "path": "local/bucuresti/cgmb/2015/215",
+   "short": "HCGMB nr. 215/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 215/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35386",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35386/H215_15.pdf",
+     "sha256": "f5f4e680ed293d070269a717ff36387dbdc95522fc2adbdf98d373096ca47a7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-216-2015",
+   "path": "local/bucuresti/cgmb/2015/216",
+   "short": "HCGMB nr. 216/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 216/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35387",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35387/H216_15.pdf",
+     "sha256": "6c1f556aa4d6be7717d380e91ba36ccee6113299f162ef6417d68b7005e576c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-217-2015",
+   "path": "local/bucuresti/cgmb/2015/217",
+   "short": "HCGMB nr. 217/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 217/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35388",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35388/H217_15.pdf",
+     "sha256": "60250fbdd0d1c03ba92f6c6c96f55eeda131c262c0649b8e3dad175573ee7306"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-218-2015",
+   "path": "local/bucuresti/cgmb/2015/218",
+   "short": "HCGMB nr. 218/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 218/2015 PRIVIND STABILIREA IMPOZITELOR SI TAXELOR LOCALE IN MUNICIPIUL BUCURESTI, INCEPAND CU ANUL 2016 SE SOLICITA INDREPTAREA ERORII MATERIALE DIN CUPRINSUL ANEXEI NR. 3.1., PRIN URMARE, SINTAGMA \"TAXA HOTELIERA\" SE INLOCUIESTE CU \"TAXA SPECIALA PENTRU PROMOVAREA TURISTICA A MUNICIPIULUI BUCURESTI\". SE MODIFICA SI COMPLETEAZA PRIN HCGMB NR. 58/2016",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35390",
+   "versions": [
+    {
+     "from": "2015-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35390/H218_15.pdf",
+     "sha256": "b0e0b70d973d871b9c58bb77b71f12840cfa583d96c50d7054aa27b038eb4c96"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-219-2015",
+   "path": "local/bucuresti/cgmb/2015/219",
+   "short": "HCGMB nr. 219/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 219/2015 PRIVIND REGLEMENTAREA PROCEDURILOR DE APROBARE A PLANURILOR URBANISTICE ZONALE IN MUNICIPIUL BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35391",
+   "versions": [
+    {
+     "from": "2015-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35391/H219_15.pdf",
+     "sha256": "833020aff2557a2fb5d5b3baf8c4ca048116ae553e330db8a78d617e957cf6d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-22-2015",
+   "path": "local/bucuresti/cgmb/2015/22",
+   "short": "HCGMB nr. 22/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 22/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34601",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34601/H022_15.pdf",
+     "sha256": "e1f90695124e687433c97fb283736ead75a29bf09c7902d9c8781117ef8aa530"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-220-2015",
+   "path": "local/bucuresti/cgmb/2015/220",
+   "short": "HCGMB nr. 220/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 220/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35389",
+   "versions": [
+    {
+     "from": "2015-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35389/H220_15.pdf",
+     "sha256": "e7fdb1d5f9146f8b5afba1840f52c3ebe1ab6133c2b9366087eb4da146b6b5bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-221-2015",
+   "path": "local/bucuresti/cgmb/2015/221",
+   "short": "HCGMB nr. 221/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 221/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35392",
+   "versions": [
+    {
+     "from": "2015-12-10",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35392/H221_15.pdf",
+     "sha256": "a505e657027dd402317d81286ac01f917e2dc70907a72fee1f44b5b9ee8d3396"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-222-2015",
+   "path": "local/bucuresti/cgmb/2015/222",
+   "short": "HCGMB nr. 222/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 222/2015 PRIVIND RECTIFICAREA BUGETULUI PROPRIU AL MUNICIPIULUI BUCURESTI PE ANUL 2015 PENTRU CONSULTAREA ANEXELOR CLICK AICI MODIFICA HCGMB NR. 80/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35402",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35402/H222_15.pdf",
+     "sha256": "9f013247e628264dca676578a4c6a529c79b685ad679e774a02d1e8058d6e27b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-223-2015",
+   "path": "local/bucuresti/cgmb/2015/223",
+   "short": "HCGMB nr. 223/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 223/2015 PRIVIND AAPROBAREA BUGETULUI PROPRIU AL REGIEI AUTONOME DE TRANSPORT BUCURESTI PE ANUL 2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35414",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35414/H223_15.pdf",
+     "sha256": "7e7c4c1e6212dd456c7ae75b6d2b691673287b8b5016eaaa75e614c29f36c68f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-224-2015",
+   "path": "local/bucuresti/cgmb/2015/224",
+   "short": "HCGMB nr. 224/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 224/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35415",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35415/H224_15.pdf",
+     "sha256": "2024f4834b44ca206eb48e31a82d347bf212713f6228ae11541fa260855575d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-225-2015",
+   "path": "local/bucuresti/cgmb/2015/225",
+   "short": "HCGMB nr. 225/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 225/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35416",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35416/H225_15.pdf",
+     "sha256": "7cb2fb8b14b624bc421a10bb72594bd64722f851b6d5f3b8b00e4aa4b18b7d87"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-226-2015",
+   "path": "local/bucuresti/cgmb/2015/226",
+   "short": "HCGMB nr. 226/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 226/2015 PRIVIND APROBAREA DOCUMENTATIEI DE URBANISM PLAN URBANISTIC ZONAL PUZ - STR. DRUMUL STEGARULUI - STR. PISCU NOU, SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35465",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35465/H226_15.pdf",
+     "sha256": "7ade75fce4d99725fd8ede0a2fa1a1052886bf198770044e340172b751069d27"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-227-2015",
+   "path": "local/bucuresti/cgmb/2015/227",
+   "short": "HCGMB nr. 227/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 227/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35417",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35417/H227_15.pdf",
+     "sha256": "391efa47e6d70167b2fd9e7ce93b99fed0e2160e07b4c6f94701981cdff0abcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-228-2015",
+   "path": "local/bucuresti/cgmb/2015/228",
+   "short": "HCGMB nr. 228/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 228/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35418",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35418/H228_15.pdf",
+     "sha256": "46a56135e26704cbe4061d13341cbe4da910bf70234a7a9b4fa12b5e7c73af5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-229-2015",
+   "path": "local/bucuresti/cgmb/2015/229",
+   "short": "HCGMB nr. 229/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 229/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35419",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35419/H229_15.pdf",
+     "sha256": "a517d2c6f9286bb488630df6784191a4393f863cf6d1012823389a6f7ff30c07"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-23-2015",
+   "path": "local/bucuresti/cgmb/2015/23",
+   "short": "HCGMB nr. 23/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 23/2015 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA A CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PE PERIOADA 04 MARTIE 2015-03 IUNIE 2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34669",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34669/H023_15.pdf",
+     "sha256": "03cf5dd2b6b9efc4dda9d5e96aae6adc6dfee0b688e410b7f88ef38fec3de2f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-230-2015",
+   "path": "local/bucuresti/cgmb/2015/230",
+   "short": "HCGMB nr. 230/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 230/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35420",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35420/H230_15.pdf",
+     "sha256": "6338c2ab0b59659da73d83b0f7ca00703c9d970da44c0d947f9f94b3d03ee84f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-231-2015",
+   "path": "local/bucuresti/cgmb/2015/231",
+   "short": "HCGMB nr. 231/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 231/2015 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL PUZ - ANSAMBLUL REZIDENTIAL FUNDENI NR. 27, 27B, 29, 29B, 31A, 31F-39, 43, 43B, 45-49 SI 51-53, SECTOR 2",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35421",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35421/H231_15.pdf",
+     "sha256": "f676e5c6bbb4b58cfa2c09fa011a59da23bb66fcb9627ac7da75881a63f8389c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-232-2015",
+   "path": "local/bucuresti/cgmb/2015/232",
+   "short": "HCGMB nr. 232/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 232/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35422",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35422/H232_15.pdf",
+     "sha256": "2404294e6f3d9095d1f68964b8e24525184ff01d5b31f0c379cc309e85ddb92f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-233-2015",
+   "path": "local/bucuresti/cgmb/2015/233",
+   "short": "HCGMB nr. 233/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 233/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35423",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35423/H233_15.pdf",
+     "sha256": "47d59ac7ec6e3530d662608fcea3839d27b3816446d7fc89609b8307daa20be3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-234-2015",
+   "path": "local/bucuresti/cgmb/2015/234",
+   "short": "HCGMB nr. 234/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 234/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35424",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35424/H234_15.pdf",
+     "sha256": "dffc27d95e6ac53ce87db3f6063cbce3cd0f1ce018d30a2056364148e870a863"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-235-2015",
+   "path": "local/bucuresti/cgmb/2015/235",
+   "short": "HCGMB nr. 235/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 235/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35425",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35425/H235_15.pdf",
+     "sha256": "136be9f8974c3f71bf67b3d0c15ed1c14c8aa45332d6de1d23cf74131acca873"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-236-2015",
+   "path": "local/bucuresti/cgmb/2015/236",
+   "short": "HCGMB nr. 236/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 236/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35426",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35426/H236_15.pdf",
+     "sha256": "6e7fb417b64a984aa1a4bf7138c553f37ce5badb43d675f810ab5e440eb3f428"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-237-2015",
+   "path": "local/bucuresti/cgmb/2015/237",
+   "short": "HCGMB nr. 237/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 237/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35427",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35427/H237_15.pdf",
+     "sha256": "a204ac88eeb805bbf1a8e8249ae6a080b43b337f5169073e324055590b98fd0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-238-2015",
+   "path": "local/bucuresti/cgmb/2015/238",
+   "short": "HCGMB nr. 238/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 238/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35428",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35428/H238_15.pdf",
+     "sha256": "d78964580b160db3df8552d78be2cc927ef1c198a93829c9fad353947ddafb9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-239-2015",
+   "path": "local/bucuresti/cgmb/2015/239",
+   "short": "HCGMB nr. 239/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 239/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35429",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35429/H239_15.pdf",
+     "sha256": "0151eea5ada6e1622fb514f9d9d4746b269d7db6bac69b1470d5b7e875a5f89e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-24-2015",
+   "path": "local/bucuresti/cgmb/2015/24",
+   "short": "HCGMB nr. 24/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 24/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34670",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34670/H024_15.pdf",
+     "sha256": "5c71a8d823eece5b04dfe4521d86fa300744ae65a20d61c35de1eb9f2c6e01ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-240-2015",
+   "path": "local/bucuresti/cgmb/2015/240",
+   "short": "HCGMB nr. 240/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 240/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35430",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35430/H240_15.pdf",
+     "sha256": "e3e07c39916117dcb64f1a8c79f25693334a8599b3e9bb9dd438d65701294262"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-241-2015",
+   "path": "local/bucuresti/cgmb/2015/241",
+   "short": "HCGMB nr. 241/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 241/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35431",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35431/H241_15.pdf",
+     "sha256": "98cd9526346d6641cf24e46c4fdcd7e57a5eb445c42ea05876252c9e368f5125"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-242-2015",
+   "path": "local/bucuresti/cgmb/2015/242",
+   "short": "HCGMB nr. 242/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 242/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35432",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35432/H242_15.pdf",
+     "sha256": "91069b4b9c684f59440695fce8b89c5600d77adaa7dba31ee69fffa2bec58ca4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-243-2015",
+   "path": "local/bucuresti/cgmb/2015/243",
+   "short": "HCGMB nr. 243/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 243/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35433",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35433/H243_15.pdf",
+     "sha256": "5c57afdce99496287f048b1e92945c9d062a26f3e60060a819ec3bb546935761"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-244-2015",
+   "path": "local/bucuresti/cgmb/2015/244",
+   "short": "HCGMB nr. 244/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 244/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35434",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35434/H244_15.pdf",
+     "sha256": "57c0297497f265044ecb5c97ef0fb3fd0aa4654e7e0c6d01056409f0eb19ffb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-245-2015",
+   "path": "local/bucuresti/cgmb/2015/245",
+   "short": "HCGMB nr. 245/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 245/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35435",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35435/H245_15.pdf",
+     "sha256": "b21927539832196ec15bb320ed756c0cc2f25939e73d8ace1886b6b6ace45ef0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-246-2015",
+   "path": "local/bucuresti/cgmb/2015/246",
+   "short": "HCGMB nr. 246/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 246/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35436",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35436/H246_15.pdf",
+     "sha256": "86a2a74f2d5f84c54abdd2785c041f8fbce39f640972c67c3fb99750619d3029"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-247-2015",
+   "path": "local/bucuresti/cgmb/2015/247",
+   "short": "HCGMB nr. 247/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 247/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35437",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35437/H247_15.pdf",
+     "sha256": "d2f85149b9e44a7ec759aab350ac7c125df7fe8cbb2ebc0cf0c8365b4334853f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-248-2015",
+   "path": "local/bucuresti/cgmb/2015/248",
+   "short": "HCGMB nr. 248/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 248/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35438",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35438/H248_15.pdf",
+     "sha256": "98fa7301262420d1c5857f02bc43e6a638c1a19c4a28553ad8164ecdb9f331bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-249-2015",
+   "path": "local/bucuresti/cgmb/2015/249",
+   "short": "HCGMB nr. 249/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 249/2015 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL B-DUL EXPOZITIEI NR. 24F(FOST 22-30/ NR. CADASTRAL 262697), SECTOR 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35439",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35439/H249_15.pdf",
+     "sha256": "606605fc113c3a21fc1637c8fd7f36a04941d68d78501e30458d4623a4de1e7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-25-2015",
+   "path": "local/bucuresti/cgmb/2015/25",
+   "short": "HCGMB nr. 25/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 25/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34671",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34671/H025_15.pdf",
+     "sha256": "615b15951c240b1e0f8e895f3848c0c8b9e2c72f3af8fbec45591e4e3c6fc284"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-250-2015",
+   "path": "local/bucuresti/cgmb/2015/250",
+   "short": "HCGMB nr. 250/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 250/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35440",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35440/H250_15.pdf",
+     "sha256": "6ad92a1f7f55a34cb6d8e49589d737d89c7e9a2600f03dd80d85a686d789d1e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-251-2015",
+   "path": "local/bucuresti/cgmb/2015/251",
+   "short": "HCGMB nr. 251/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 251/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35441",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35441/H251_15.pdf",
+     "sha256": "be341fce0e188d9472d2f71124e436167f4cc0c8cd1bd5095b2d7cbe456df15d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-252-2015",
+   "path": "local/bucuresti/cgmb/2015/252",
+   "short": "HCGMB nr. 252/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 252/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35442",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35442/H252_15.pdf",
+     "sha256": "189f4493d97044f1f4f44a9a5949a5e7d53fb5f5e6698b24aa753712548583a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-253-2015",
+   "path": "local/bucuresti/cgmb/2015/253",
+   "short": "HCGMB nr. 253/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 253/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35443",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35443/H253_15.pdf",
+     "sha256": "e7f73f4c5663d3687503e31ab4f40ca2a83e8106dd587b642e7c492df1489d78"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-254-2015",
+   "path": "local/bucuresti/cgmb/2015/254",
+   "short": "HCGMB nr. 254/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 254/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35444",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35444/H254_15.pdf",
+     "sha256": "19d5fa675cbd08743f1e56b45229d6079a863005af2a3c18a746d7c6e1cb1418"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-255-2015",
+   "path": "local/bucuresti/cgmb/2015/255",
+   "short": "HCGMB nr. 255/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 255/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35445",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35445/H255_15.pdf",
+     "sha256": "05513f62097cf2c944e29873a1456839f1aba3fe211cf3cb28ddb558a4c46ccf"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-256-2015",
+   "path": "local/bucuresti/cgmb/2015/256",
+   "short": "HCGMB nr. 256/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 256/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35446",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35446/H256_15.pdf",
+     "sha256": "5fd6a428a9ef0831cd985e41e594d39e60c383ab7bb265f26c767b32c0be6ac9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-257-2015",
+   "path": "local/bucuresti/cgmb/2015/257",
+   "short": "HCGMB nr. 257/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 257/2015 PRIVIND APROBAREA DOCUMENTATIEI DE URBANISM PLAN URBANISTIC ZONAL(P.U.Z.) B-DUL METALURGIEI NR. 81C, SECTOR 4, BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35447",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35447/H257_15.pdf",
+     "sha256": "f0df7cfc5054f3c873adf6018ee6dbd9ba8bf5f30e69922b086a800dbc2a4cc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-258-2015",
+   "path": "local/bucuresti/cgmb/2015/258",
+   "short": "HCGMB nr. 258/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 258/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35448",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35448/H258_15.pdf",
+     "sha256": "9a330ffa1e4ec3775899f818f4940cc726cc5338b025d51db0ec6d1ebd051056"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-259-2015",
+   "path": "local/bucuresti/cgmb/2015/259",
+   "short": "HCGMB nr. 259/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 259/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35403",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35403/H259_15.pdf",
+     "sha256": "7d77437fe8d46f57d15c5eb11d45469351d5cf95bd0cc0b744c7060f6baedc01"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-26-2015",
+   "path": "local/bucuresti/cgmb/2015/26",
+   "short": "HCGMB nr. 26/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 26/2015 PRIVIND MODIFICAREA COMPONENTEI AUTORITATII TERITORIALE DE ORDINE PUBLICA A MUNICIPIULUI BUCURESTI MODIFICA HCGMB NR. 90/2012 MODIFICA HCGMB NR. 96/2012 ABROGA HCGMB NR. 279/2014",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34673",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34673/H026_15.pdf",
+     "sha256": "b7731d65f29f169d5ea06587a2c98e3b532ece2f058f442ebf616a714a518219"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-260-2015",
+   "path": "local/bucuresti/cgmb/2015/260",
+   "short": "HCGMB nr. 260/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 260/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35404",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35404/H260_15.pdf",
+     "sha256": "e1845aaf20668bc128d06dcf561d26c0797e4c50605e87828963cfd183393357"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-261-2015",
+   "path": "local/bucuresti/cgmb/2015/261",
+   "short": "HCGMB nr. 261/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 261/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35405",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35405/H261_15.pdf",
+     "sha256": "896b898d1758091b4e74275e85dff409013f2eca2255c76cf32b024a19c6a218"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-262-2015",
+   "path": "local/bucuresti/cgmb/2015/262",
+   "short": "HCGMB nr. 262/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 262/2015 PRIVIND MODIFICAREA COMPONENTEI AUTORITATII TERITORIALE DE ORDINE PUBLICA A MUNICIPIULUI BUCURESTI> MODIFICA HCGMB NR. 96/2012",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35459",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35459/H262_15.pdf",
+     "sha256": "5d3cf5ff071f5296f0dcc0828b611a0a19b0e4da240bad264e5d2a10b44c882c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-263-2015",
+   "path": "local/bucuresti/cgmb/2015/263",
+   "short": "HCGMB nr. 263/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 263/2015 PRIVIND APROBAREA BUGETULUI AUTORITATII MUNICIPALE DE REGLEMENTARE A SERVICIILOR PUBLICE (AMRSP) PE ANUL 2016",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35460",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35460/H263_15.pdf",
+     "sha256": "778b214472be9a89b82d03b5f713335f39bef1a45c0a6eb5b8f9d9540ee85b49"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-264-2015",
+   "path": "local/bucuresti/cgmb/2015/264",
+   "short": "HCGMB nr. 264/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 264/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35408",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35408/H264_15.pdf",
+     "sha256": "e65601aa8602e1052f7a6ef1895f061119e0ad9785e37c643e356c6a703d9bb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-265-2015",
+   "path": "local/bucuresti/cgmb/2015/265",
+   "short": "HCGMB nr. 265/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 265/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35409",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35409/H265_15.pdf",
+     "sha256": "8397040bec31cbd0cd9c45782c63c4579c971b2f45865e6a0eee73e17eb2fd56"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-266-2015",
+   "path": "local/bucuresti/cgmb/2015/266",
+   "short": "HCGMB nr. 266/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 266/2015 PRIVIND NUMIREA PERSOANEI CARE VA TINE REGISTRUL DE EVIDENTA A DATORIEI PUBLICE LOCALE SI REGISTRUL DE EVIDENTA A GARANTIILOR LOCALE> ABROGA HCGMB NR. 261/2002",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35461",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35461/H266_15.pdf",
+     "sha256": "ea4f4fa436b11aebb7405eeae1d3e968a5ce033cd15c9049789c6f5a6b1729f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-267-2015",
+   "path": "local/bucuresti/cgmb/2015/267",
+   "short": "HCGMB nr. 267/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 267/2015 PRIVIND SUPLIMENTAREA, DIN BUGETUL LOCAL, A SUBVENTIEI PENTRU ENERGIE TERMICA LA POPULATIE PE ANUL 2015> MODIFICA HCGMB NR. 80/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35406",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35406/H267_15.pdf",
+     "sha256": "13fff7289801220cfcc25b18fd98fc3466d46a994ad5f35c613fdfd24c31a96d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-268-2015",
+   "path": "local/bucuresti/cgmb/2015/268",
+   "short": "HCGMB nr. 268/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 268/2015 PRIVIND RECTIFICAREA LISTEI OBIECTIVELOR DE INVESTITII PE ANUL 2015 A SPITALULUI COLTEA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35407",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35407/H268_15.pdf",
+     "sha256": "7249c5b33015c41bb7d6f513b3ac8cf72aea84cd6b6cd2b0dad5db614afef35b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-269-2015",
+   "path": "local/bucuresti/cgmb/2015/269",
+   "short": "HCGMB nr. 269/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 269/2015 PRIVIND INCLUDEREA IN LISTA DE INVESTITII A MUNICIPIULUI BUCURESTI PENTRU ANUL 2016 A PROIECTULUI \"MODERNIZARE INFRASTUCTURA RUTIERA PIATA SUDULUI\" SI APROBAREA FINANTARII DE LA BUGETUL LOCAL A TUTUROR COSTURILOR NEELIGIBILE AFERENTE ACESTUIA SE ABROGA PRIN HCGMB NR. 184/2016",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35410",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35410/H269_15.pdf",
+     "sha256": "0e0e5a8ac74f18028440d4ca6e8b5a0f0ab5544ae00f7830534359892462df1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-27-2015",
+   "path": "local/bucuresti/cgmb/2015/27",
+   "short": "HCGMB nr. 27/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 27/2015 PRIVIND DECLANSAREA PROCEDURII DE EXPROPRIERE PENTRU IMOBILELE PROPRIETATE PRIVATA SITUATE PE AMPLASAMENTUL LUCRARII DE UTILITATE PUBLICA \"LARGIRE SOSEAUA FABRICA DE GLUCOZA INTRE STRADA BARBU VACARESCU SI STRADA PETRICANI - TRONSON I\", IN VEDEREA EFECTUARII LUCRARILOR DE INTERES PUBLIC LOCAL ABROGA HCGMB NR. 311/2010 ABROGA HCGMB NR. 337/2010 ANEXELE 1 SI 2 SE MODIFICA PRIN HCGMB NR. 73/2019 SE MODIFICA PRIN HCGMB NR 290/2019 ANEXA NR. 2 SI ART. 4 SE MODIFICA PRIN HCGMB NR. 61/2021 ANEXA NR. 1 MODIFICATA PRIN HCGMB NR. 295/2026",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34675",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34675/H027_15.pdf",
+     "sha256": "fdeaf9296c77ccdbf13682d3592f41c7b6c06949b4ea13d154978051a774447d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-270-2015",
+   "path": "local/bucuresti/cgmb/2015/270",
+   "short": "HCGMB nr. 270/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 270/2015 PRIVIND INCLUDEREA IN LISTA DE INVESTITII A MUNICIPIULUI BUCURESTI PENTRU ANUL 2016 A PROIECTULUI COD SMIS 31386 \"AMENAJARE CIRCUIT TURISTIC PE LACURILE FLOREASCA SI TEI (SI ZONA ADIACENTA LOR)\" SI APROBAREA CHELTUIELILOR FINANTARII DE LA BUGETUL LOCAL A TUTUROR COSTURILOR NEELIGIBILE SI A COSTURILOR SUPLIMENTARE CONEXE AFERENTE ACESTUIA ART. 3 SE MODIFICA PRIN HCGMB NR. 90/2016 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 641/2017",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35411",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35411/H270_15.pdf",
+     "sha256": "d3bb8badb0d2cc85682dd22a13a85e9a792020f4fc9682ce47ba7d60a1424954"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-271-2015",
+   "path": "local/bucuresti/cgmb/2015/271",
+   "short": "HCGMB nr. 271/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 271/2015 PRIVIND INCLUDEREA IN LISTA DE INVESTITII A MUNICIPIULUI BUCURESTI PENTRU ANUL 2016 A PROIECTULUI COD SMIS 31313 \"REABILITAREA, MODERNIZAREA SI ECHIPAREA AMBULATORIULUI INTEGRAT AL SPITALULUI CLINIC DE ORTOPEDIE FOISOR\" SI APROBAREA FINANTARII DE LA BUGETUL LOCAL A TUTUROR COSTURILOR NEELIGIBILE SI A COSTURILOR SUPLIMENTARE CONEXE AFERENTE ACESTUIA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35412",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35412/H271_15.pdf",
+     "sha256": "df426284cfe0f415f648b6169f35be4c0147314a7ce9209c063bd435dc049a3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-272-2015",
+   "path": "local/bucuresti/cgmb/2015/272",
+   "short": "HCGMB nr. 272/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 272/2015 PRIVIND ACORDAREA SCUTIRILOR LA PLATA IMPOZITULUI/ TAXEI PE CLADIRI/TERENURI SI A TAXELOR PENTRU ELIBERAREA CERTIFICATELOR, AVIZELOR SI AUTORIZATIILOR PREVAZUTE IN LEGEA NR. 227/2015 PRIVIND CODUL FISCAL, CU MODIFICARILE SI COMPLETARILE ULTERIOARE, IN MUNICIPIUL BUCURESTI, INCEPAND CU ANUL 2016 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 514/2025",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35462",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35462/H272_15.pdf",
+     "sha256": "1479f1b0a79ca929a030d2b20e14f1b8825bc7da64ffef90c334caf66b432ca7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-273-2015",
+   "path": "local/bucuresti/cgmb/2015/273",
+   "short": "HCGMB nr. 273/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 273/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35463",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35463/H273_15.pdf",
+     "sha256": "99dd1ca0c2f9409aac80f5aac9d4164222d4af3ae94a63d512dcdfd0c2d04074"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-274-2015",
+   "path": "local/bucuresti/cgmb/2015/274",
+   "short": "HCGMB nr. 274/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 274/2015 PRIVIND RECTIFICAREA BUGETULUI MUNICIPIULUI BUCURESTI PE ANUL 2015> MODIFICA HCGMB NR. 80/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35413",
+   "versions": [
+    {
+     "from": "2015-12-29",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35413/H274_15.pdf",
+     "sha256": "2d0a643b959d9e8a5e88025f3bc00466fd2dbdb236320d552ec5ef304ac9d4a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-28-2015",
+   "path": "local/bucuresti/cgmb/2015/28",
+   "short": "HCGMB nr. 28/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 28/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34677",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34677/H028_15.pdf",
+     "sha256": "e5c60db5c1a3618de95944626cb7fcf9185576465a669fc163bf7f52ce23d7f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-29-2015",
+   "path": "local/bucuresti/cgmb/2015/29",
+   "short": "HCGMB nr. 29/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 29/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34672",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34672/H029_15.pdf",
+     "sha256": "98fb065c78fba7686ae0d4598ac8638ce56203b9103ff221bb478a368b0da39d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-3-2015",
+   "path": "local/bucuresti/cgmb/2015/3",
+   "short": "HCGMB nr. 3/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 3/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34572",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34572/H003_15.pdf",
+     "sha256": "f7395b3991b21d9d7916654ce27c524749a4ba02c8a201936ff3fc33ac92a44c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-30-2015",
+   "path": "local/bucuresti/cgmb/2015/30",
+   "short": "HCGMB nr. 30/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 30/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34674",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34674/H030_15.pdf",
+     "sha256": "5ffd881a88f802a13d4999cc025fd91af6d700b956d056ee82ff136385746993"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-31-2015",
+   "path": "local/bucuresti/cgmb/2015/31",
+   "short": "HCGMB nr. 31/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 31/2015 PRIVIND REORGANIZAREA CENTRULUI DE PROIECTE SI PROGRAME EDUCATIONALE SI SPORTIVE PENTRU COPII SI TINERET INCETEAZA VALABILITATEA ART. 2 SI 3ALE HCGMB NR. 266/2009 MODIFICA ART. 3 AL HCGMB NR. 305/2013 INCETEAZA VALABILITATEA ART. 3.2 SI ANEXELOR 36A SI 36B ALE HCGMB NR. 305/2013 INCETEAZA APLICABILITATEA PRIN HCGMB NR. 369/2016",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34676",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34676/H031_15.pdf",
+     "sha256": "a3e53f7abf285a7eea81976e926564207fdeed3ed0926542d1257e839246792a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-32-2015",
+   "path": "local/bucuresti/cgmb/2015/32",
+   "short": "HCGMB nr. 32/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 32/2015 PENTRU APROBAREA TRANSMITERII IN ADMINISTRAREA CENTRULUI DE PROIECTE SI PROGRAME EDUCATIONALE SI SPORTIVE PENTRU COPII SI TINERET BUCURESTI (CPPESCTB) A BAZEI SPORTIVE COMPLEXUL \"LIA MANOLIU\", SITUATA IN BDUL BASARABIA NR. 37-39, SECTOR 2 BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34678",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34678/H032_15.pdf",
+     "sha256": "d34af59253b9876d2c092886f0d01c50133ab2eddcb1905442ece780e54ff6dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-33-2015",
+   "path": "local/bucuresti/cgmb/2015/33",
+   "short": "HCGMB nr. 33/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 33/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34679",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34679/H033_15.pdf",
+     "sha256": "0dd06aa13fa92b90eade0f083c81f1a0d9a461aea0c4f40cb9eed2bcc1a2d36e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-34-2015",
+   "path": "local/bucuresti/cgmb/2015/34",
+   "short": "HCGMB nr. 34/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 34/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34680",
+   "versions": [
+    {
+     "from": "2015-02-12",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34680/H034_15.pdf",
+     "sha256": "934821a6ff2a5c84ff41ae56f3a4cf215a7e875eee74530c8de0ef90c22c3d60"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-35-2015",
+   "path": "local/bucuresti/cgmb/2015/35",
+   "short": "HCGMB nr. 35/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 35/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34681",
+   "versions": [
+    {
+     "from": "2015-02-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34681/H035_15.pdf",
+     "sha256": "5d3f07a6bd075e9b10da5aaf27d5234f73e0b48ba0c1de14e346a18165d7f497"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-36-2015",
+   "path": "local/bucuresti/cgmb/2015/36",
+   "short": "HCGMB nr. 36/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 36/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34682",
+   "versions": [
+    {
+     "from": "2015-02-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34682/H036_15.pdf",
+     "sha256": "fb4888ee723d7df6ef1c06ac1782454ae075c5abc9bfaeadef42d83ad8967303"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-37-2015",
+   "path": "local/bucuresti/cgmb/2015/37",
+   "short": "HCGMB nr. 37/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 37/2015 PRIVIND APROBAREA PARTICIPARII MUNICIPIULUI BUCURESTI CA PARTENER IN PROIECTUL CREATE(\"CONGESTION REDUCTION IN EUROPE: ADVANCING TRANSPORT EFFICIENCY\"- \"DIMINUAREA CONGESTIEI IN EUROPA: EFICIENTA AVANSATA IN TRANSPORTURI\") DIN CADRUL PROGRAMULUI EUROPEAN HORIZON 2020",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34683",
+   "versions": [
+    {
+     "from": "2015-02-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34683/H037_15.pdf",
+     "sha256": "0bdc4c181f12fcd6e96e14f43a94d734b5670095baa9dc84d5b5746795239bcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-38-2015",
+   "path": "local/bucuresti/cgmb/2015/38",
+   "short": "HCGMB nr. 38/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 38/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34807",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34807/H038_15.pdf",
+     "sha256": "3149a6a37b2e7922d9ddd8b33987d3eb4809860408e9a74bdf8dc2b82a00c8f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-39-2015",
+   "path": "local/bucuresti/cgmb/2015/39",
+   "short": "HCGMB nr. 39/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 39/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34808",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34808/H039_15.pdf",
+     "sha256": "6645059e8181617fc8027ec280047366ffb29bd8b2f4d0e16f4aa111455bbb4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-4-2015",
+   "path": "local/bucuresti/cgmb/2015/4",
+   "short": "HCGMB nr. 4/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 4/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34574",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34574/H004_15.pdf",
+     "sha256": "e5f568519c74ebab2f4efabf775a9fd27b59162a8ecac308dd37f4a2cfc9867a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-40-2015",
+   "path": "local/bucuresti/cgmb/2015/40",
+   "short": "HCGMB nr. 40/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 40/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34809",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34809/H040_15.pdf",
+     "sha256": "055240c4e4c420c14d44d92f912fea03fe43af13b76c7374e86d756e5333a089"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-41-2015",
+   "path": "local/bucuresti/cgmb/2015/41",
+   "short": "HCGMB nr. 41/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 41/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34810",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34810/H041_15.pdf",
+     "sha256": "92b3f690dee778674318a31c6ec9ec8710ec6fd9d91e3c96e0539e0303239d15"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-42-2015",
+   "path": "local/bucuresti/cgmb/2015/42",
+   "short": "HCGMB nr. 42/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 42/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34811",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34811/H042_15.pdf",
+     "sha256": "959bc53c16755cc1342bd773b9be1464fe2ec5680ed592e93eddbd4ecb9aed68"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-43-2015",
+   "path": "local/bucuresti/cgmb/2015/43",
+   "short": "HCGMB nr. 43/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 43/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34812",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34812/H043_15.pdf",
+     "sha256": "51b5a9f7fdafa9164a1a7145c5e05daade8af40fa3bf6255b0e866e7163c3fb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-44-2015",
+   "path": "local/bucuresti/cgmb/2015/44",
+   "short": "HCGMB nr. 44/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 44/2015 PRIVIND COOPERAREA INTRE MUNICIPIUL BUCURESTI SI SCOALA NATIONALA DE STUDII POLITICE SI ADMINISTRATIVE (SNSPA) IN VEDEREA FINANTARII SI REALIZARII IN COMUN A UNOR EVENIMENTE IN CADRUL PROIECTULUI \"25 DE ANI SNSPA-SCOALA TA DE GUVERNARE\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34813",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34813/H044_15.pdf",
+     "sha256": "469970157b8c7f86538ce49667c30d3e471e351eab7709d40a755834a93a4686"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-45-2015",
+   "path": "local/bucuresti/cgmb/2015/45",
+   "short": "HCGMB nr. 45/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 45/2015 PRIVIND ATRIBUIREA DENUMIRII DE PIATA TARAS SEVCENCO SPATIULUI PUBLIC SITUAT LA INTERSECTIA BULEVADRUL DACIA CU STRADA VIITORULUI SI STRADA GHEORGHE D. PALADE, SECTOR 2, BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34814",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34814/H045_15.pdf",
+     "sha256": "786bb069788231de06048e1580d016c70a3fa864660bac6d78b8aba1736ec608"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-46-2015",
+   "path": "local/bucuresti/cgmb/2015/46",
+   "short": "HCGMB nr. 46/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 46/2015 CU PRIVIRE LA IMPUTERNICIREA CONSILIULUI LOCAL AL SECTORULUI 4 AL MUNICIPIULUI BUCURESTI PENTRU ADERAREA LA ASOCIATIA CLUSTERULUI DE INGINERIE ELECTRICA",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34815",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34815/H046_15.pdf",
+     "sha256": "085e6942c81f24447a6b68076bbc5cf4cb4d9ab433cbbb53ea5b5010e4552285"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-47-2015",
+   "path": "local/bucuresti/cgmb/2015/47",
+   "short": "HCGMB nr. 47/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 47/2015 PRIVIND APROBAREA ASIGURARII DE CATRE REGIA AUTONOMA DE TRANSPORT BUCURESTI A TRANSPORTULUI PUBLIC LOCAL GRATUIT PENTRU COPII PRESCOLARI, ELEVI SI CADRELE DIDACTICE DIN BUCURESTI CARE PARTICIPA LA ACTIVITATILE DESFASURATE IN CADRUL PROGRAMULUI \"SCOALA ALTFEL: SA STII MAI MULTE, SA FII MAI BUN!\", IN SAPTAMANA 6-10 APRILIE 2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34816",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34816/H047_15.pdf",
+     "sha256": "22364a57199236265749af6eb18ab81e2704c921c3eaa6e8e530bb4ca19f70de"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-48-2015",
+   "path": "local/bucuresti/cgmb/2015/48",
+   "short": "HCGMB nr. 48/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 48/2015 PRIVIND TRANSMITEREA UNOR SECTOARE DE DRUM NATIONAL, SITUATE IN INTRAVILANUL MUNICIPIULUI BUCURESTI, AFLATE IN DOMENIUL PUBLIC AL STATULUI, DIN ADMINISTRAREA DEPARTAMENTULUI PENTRU PRIOECTE DE INFRASTRUCTURA, INVESTITII STRAINE, PARTENERIAT PUBLIC-PRIVAT SI PROMOVAREA EXPORTURILOR IN ADMINISTRAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI-ADMINISTRATIA STRAZILOR ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 154/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34817",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34817/H048_15.pdf",
+     "sha256": "de395fb562a3195105779105c190fbd7fcd613d33cf19ea890bd6c895612f713"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-49-2015",
+   "path": "local/bucuresti/cgmb/2015/49",
+   "short": "HCGMB nr. 49/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 49/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34818",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34818/H049_15.pdf",
+     "sha256": "c021680b777f6e7ba49d7ea54f11df39f767981a7896762ca5791e0bc7833170"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-5-2015",
+   "path": "local/bucuresti/cgmb/2015/5",
+   "short": "HCGMB nr. 5/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 5/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34575",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34575/H005_15.pdf",
+     "sha256": "af6cb14e255ad343c83d94ae2684e9941071941874c1785c25054172a1414d28"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-50-2015",
+   "path": "local/bucuresti/cgmb/2015/50",
+   "short": "HCGMB nr. 50/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 50/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34819",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34819/H050_15.pdf",
+     "sha256": "dcfde35ae269d93086fafb8b00635a983f023908f313f651941936fc2291d817"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-51-2015",
+   "path": "local/bucuresti/cgmb/2015/51",
+   "short": "HCGMB nr. 51/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 51/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34820",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34820/H051_15.pdf",
+     "sha256": "b633962f4965243c76d05dd1a546edc7348d83885b9eff27c4a42112e047d4e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-52-2015",
+   "path": "local/bucuresti/cgmb/2015/52",
+   "short": "HCGMB nr. 52/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 52/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34821",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34821/H052_15.pdf",
+     "sha256": "be32bc7bfb2a7ee05c9901276be7587a6b39c40ca31a543c6aabe7534fa6e162"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-53-2015",
+   "path": "local/bucuresti/cgmb/2015/53",
+   "short": "HCGMB nr. 53/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 53/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34822",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34822/H053_15.pdf",
+     "sha256": "7ff611ce890429db16fa85f8125efd4c875837da50f14783d155eb87dae79af2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-54-2015",
+   "path": "local/bucuresti/cgmb/2015/54",
+   "short": "HCGMB nr. 54/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 54/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34823",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34823/H054_15.pdf",
+     "sha256": "97f155c5b14067dcb7c5b5cccdb684a4124dd8108cbad9b737e0ab8d837238d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-55-2015",
+   "path": "local/bucuresti/cgmb/2015/55",
+   "short": "HCGMB nr. 55/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 55/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34824",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34824/H055_15.pdf",
+     "sha256": "13dce546fcd318be3530d4b54c4f0a67a15e564201c2d21e1fd9499a9e2919fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-56-2015",
+   "path": "local/bucuresti/cgmb/2015/56",
+   "short": "HCGMB nr. 56/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 56/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34825",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34825/H056_15.pdf",
+     "sha256": "2b01caa2c52ee077b67f0e76b745811167bd6fdc6f074e66337cb958a4de7c9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-57-2015",
+   "path": "local/bucuresti/cgmb/2015/57",
+   "short": "HCGMB nr. 57/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 57/2015 PRIVIND CONSTITUIREA COMISIEI DE SELECTIE FORMATA DIN 5 MEMBRI, SPECIALISTI IN RECRUTAREA RESURSELOR UMANE, PENTRU A INTREPRINDE DEMERSURILE LEGALE SI ADMINISTRATIVE IN VEDEREA ORGANIZARII PROCEDURII DE EVALUARE/SELECTIE PREALABILA PENTRU NUMIREA MEMBRILOR CONSILIULUI DE ADMINISTRATIE AL REGIEI AUTONOME DE DISTRIBUTIE A ENERGIEI TERMICE ABROGA HCGMB NR. 189/2012 ABROGA HCGMB NR. 199/2014",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34826",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34826/H057_15.pdf",
+     "sha256": "d0ad6185665eb65eaae6b56b42e83f0ac51bde4282fcf5c6d092bbdf08665340"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-58-2015",
+   "path": "local/bucuresti/cgmb/2015/58",
+   "short": "HCGMB nr. 58/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 58/2015 PRIVIND CONSTITUIREA COMISIEI DE SELECTIE FORMATA DIN 5 MEMBRI, SPECIALISTI IN RECRUTAREA RESURSELOR UMANE, PENTRU A INTREPRINDE DEMERSURILE LEGALE SI ADMINISTRATIVE IN VEDEREA ORGANIZARII PROCEDURII DE EVALUARE/SELECTIE PREALABILA PENTRU NUMIREA MEMBRILOR CONSILIULUI DE ADMINISTRATIE AL REGIEI AUTONOME DE TRANSPORT BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34827",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34827/H058_15.pdf",
+     "sha256": "08017cb83a8e8946e9be9a59946248a1eeb024f5d42424725e76e645064bd786"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-59-2015",
+   "path": "local/bucuresti/cgmb/2015/59",
+   "short": "HCGMB nr. 59/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 59/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34828",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34828/H059_15.pdf",
+     "sha256": "3844aee6929396f81bc82d54b1c9e69106e89f1e0886eb2821600d0ad3be497c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-6-2015",
+   "path": "local/bucuresti/cgmb/2015/6",
+   "short": "HCGMB nr. 6/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 6/2015 PRIVIND TRANSMITEREA DIN ADMINISTRAREA CONSILIULUI LOCAL SECTOR 1 IN ADMINISTRAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PRIN ADMINISTRATIA STRAZILOR, A STRAZILOR DIN SECTORUL 1 AFERENTE CARTIERULUI ANL HENRI COANDA, IN VEDEREA REALIZARII PRIN COFINANTARE DIN FONDURI EUROPENE NERAMBURSABILE A OBIECTIVULUI \"REALIZAREA RETELELOR PUBLICE DE ALIMENTARE CU APA, CANALIZARE, ILUMINAT PUBLIC, PRECUM SI A DRUMURILOR AFERENTE ANSAMBLULUI DE LOCUINTE HENRI COANDA, SECTOR 1 - LOT I\" MODIFICA ANEXA 1 A HCGMB NR. 254/2008",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34577",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34577/H006_15.pdf",
+     "sha256": "aa4271414c3e5cf26d0806ff1c6804c8acfd88113f83e7006933a2fa9384fa54"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-60-2015",
+   "path": "local/bucuresti/cgmb/2015/60",
+   "short": "HCGMB nr. 60/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 60/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34830",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34830/H060_15.pdf",
+     "sha256": "c30f8bacf1d1397a8b24c772635da9ce51ee4d002ff018f0c6a61d3edefcf147"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-61-2015",
+   "path": "local/bucuresti/cgmb/2015/61",
+   "short": "HCGMB nr. 61/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 61/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34829",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34829/H061_15.pdf",
+     "sha256": "1a9b911cde9df7489a073494e9a2e07653e8530aa43ca5a54eec3694afcd28d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-62-2015",
+   "path": "local/bucuresti/cgmb/2015/62",
+   "short": "HCGMB nr. 62/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 62/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34834",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34834/H062_15.pdf",
+     "sha256": "a9643d0b17f3aba8cca4330bcbcd6f221fe3fc7009149e8967ea31936b092d47"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-63-2015",
+   "path": "local/bucuresti/cgmb/2015/63",
+   "short": "HCGMB nr. 63/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 63/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34837",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34837/H063_15.pdf",
+     "sha256": "4b6dd4228a1b99bfe6740db50cd83c31dfa23112d51140569d6fed921a5c66c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-64-2015",
+   "path": "local/bucuresti/cgmb/2015/64",
+   "short": "HCGMB nr. 64/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 64/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34839",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34839/H064_15.pdf",
+     "sha256": "2713e6b563acb2feb998302b8aa6685f0301f9ef61b7a43e39dc514779850709"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-65-2015",
+   "path": "local/bucuresti/cgmb/2015/65",
+   "short": "HCGMB nr. 65/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 65/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34841",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34841/H065_15.pdf",
+     "sha256": "15298ad87f0e91854de92fffcd83bf71ccd5e3416984afc77ffd459b7c82f860"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-66-2015",
+   "path": "local/bucuresti/cgmb/2015/66",
+   "short": "HCGMB nr. 66/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 66/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34831",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34831/H066_15.pdf",
+     "sha256": "922e4c768b78412093be8e2f975b7a402c452e5a4a7e89132e284609aa0315b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-67-2015",
+   "path": "local/bucuresti/cgmb/2015/67",
+   "short": "HCGMB nr. 67/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 67/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34832",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34832/H067_15.pdf",
+     "sha256": "3a62c1725b71bfc2a1b082759759e9ac4836efe7e84ad23da9e9d717746e5934"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-68-2015",
+   "path": "local/bucuresti/cgmb/2015/68",
+   "short": "HCGMB nr. 68/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 68/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34833",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34833/H068_15.pdf",
+     "sha256": "29ccda6b11006f8024629e3477133d9fdbdc0b8f31ef9889fd0a2aa13aca095c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-69-2015",
+   "path": "local/bucuresti/cgmb/2015/69",
+   "short": "HCGMB nr. 69/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 69/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34835",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34835/H069_15.pdf",
+     "sha256": "f50b6bacea55724afb592a99172dc4a1a05c29f890958f3df9dbf0598c647df7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-7-2015",
+   "path": "local/bucuresti/cgmb/2015/7",
+   "short": "HCGMB nr. 7/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 7/2015 PRIVIND APROBAREA ACORDULUI DE ASOCIERE INCHEIAT INTRE DIRECTIA GENERALA DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI SI ARAS - ASOCIATIA ROMANA ANTI-SIDA, IN VEDEREA ASIGURARII CONTINUITATII PROIECTULUI \"UN PAS INAINTE PENTRU INTEGRAREA SOCIALA A PERSOANELOR VULNERABILE DIN BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34580",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34580/H007_15.pdf",
+     "sha256": "ed0e749edf63229bd266c2999cb36d40a04a9d15d86f219ab08bf53d9c86b758"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-70-2015",
+   "path": "local/bucuresti/cgmb/2015/70",
+   "short": "HCGMB nr. 70/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 70/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34836",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34836/H070_15.pdf",
+     "sha256": "d9e82f4aef6fd6a3a2d04b43545b10d62e10bb4e1cc0665198db7e5781156d91"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-71-2015",
+   "path": "local/bucuresti/cgmb/2015/71",
+   "short": "HCGMB nr. 71/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 71/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34838",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34838/H071_15.pdf",
+     "sha256": "1f33476936494b3f304ca2ac43932d3a26a9b6b1b330ed78b1bbcc90f1829193"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-72-2015",
+   "path": "local/bucuresti/cgmb/2015/72",
+   "short": "HCGMB nr. 72/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 72/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34840",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34840/H072_15.pdf",
+     "sha256": "00ba50bb4025706e5dec854ea1bc880cf4de15e22010bd591203c08b6f6a6fe8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-73-2015",
+   "path": "local/bucuresti/cgmb/2015/73",
+   "short": "HCGMB nr. 73/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 73/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34842",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34842/H073_15.pdf",
+     "sha256": "d44e914520cf77acb0b87ccc50f022babb3a33082bac53ec2beda4ce76e04834"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-74-2015",
+   "path": "local/bucuresti/cgmb/2015/74",
+   "short": "HCGMB nr. 74/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 74/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34843",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34843/H074_15.pdf",
+     "sha256": "cc401cf4474e88681bfba0cd72129e52b8b60cc7de35161a3ee8e00b02df4bf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-75-2015",
+   "path": "local/bucuresti/cgmb/2015/75",
+   "short": "HCGMB nr. 75/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 75/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34844",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34844/H075_15.pdf",
+     "sha256": "b492bd6abfc6ff1a8f1371e5c7e87852f198f1ddf7f34e3d1fc2cb15a3c2ae12"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-76-2015",
+   "path": "local/bucuresti/cgmb/2015/76",
+   "short": "HCGMB nr. 76/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 76/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34845",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34845/H076_15.pdf",
+     "sha256": "54bfe6ef73489543fff3181096b4498a2e7000ddc998c06f326e0820b421dff8"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-77-2015",
+   "path": "local/bucuresti/cgmb/2015/77",
+   "short": "HCGMB nr. 77/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 77/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34847",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34847/H077_15.pdf",
+     "sha256": "04b766ca1b9b10bf13d80ae6e48452760155636d62a26d35b13019ee9e23b0a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-78-2015",
+   "path": "local/bucuresti/cgmb/2015/78",
+   "short": "HCGMB nr. 78/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 78/2015 PRIVIND DESEMNAREA A DOI REPREZENTANTI AI CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI, CA MEMBRI IN CONSILIUL DE ADMINISTRATIE AL UNITATII DE INVATAMANT SPECIALIZATA IN ACTIVITATI EXTRASCOLARE PALATUL NATIONAL AL COPIILOR ISI ICETEAZA APLICABILITATEA PRIN HCGMB NR. 8/2023",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34848",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34848/H078_15.pdf",
+     "sha256": "e65eaec29872326c3baa55f5d9c65efb9a7b67d38feda8e12f59544f5b2c6522"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-79-2015",
+   "path": "local/bucuresti/cgmb/2015/79",
+   "short": "HCGMB nr. 79/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 79/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34846",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34846/H079_15.pdf",
+     "sha256": "71c983159c4d845d4fbfd24323e8799a33d784c5b36d92808b5ba9abea553360"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-8-2015",
+   "path": "local/bucuresti/cgmb/2015/8",
+   "short": "HCGMB nr. 8/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 8/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34582",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34582/H008_15.pdf",
+     "sha256": "d1c65536b63486d7967ea827cb07497d1f4b8d8cf08b5ee1e1a2155f8bb3cecb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-80-2015",
+   "path": "local/bucuresti/cgmb/2015/80",
+   "short": "HCGMB nr. 80/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 80/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34805",
+   "versions": [
+    {
+     "from": "2015-04-06",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34805/H080_15.pdf",
+     "sha256": "fa8784076d755bd2827ac5af3bffed6b5e49ed4f383f8ef81f9215528e03438c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-81-2015",
+   "path": "local/bucuresti/cgmb/2015/81",
+   "short": "HCGMB nr. 81/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 81/2015 PRIVIND REPARTIZAREA PE SECTOARELE MUNICIPIULUI BUCURESTI A SUMELOR DIN COTELE DEFALCATE DIN IMPOZITUL PE VENIT PENTRU ECHILIBRAREA BUGETELOR LOCALE PENTRU ACHITAREA ARIERATELOR PROVENITE DIN NEPLATA CHELTUIELILOR DE FUNCTIONARE SI/SAU DE CAPITAL IN ORDINEA CRONOLOGICA A VECHIMII ARIERATELOR SI PENTRU SUSTINEREA PROGRAMELOR DE DEZVOLTARE LOCALA SI A PROIECTELOR DE INFRASTRUCTURA CARE NECESITA COFINANTARE LOCALA PE ANUL 2015 SI ESTIMARE 2016-2018",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34918",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34918/H081_15.pdf",
+     "sha256": "65582e0a07852f85ae04bdb2255b2ecdc3c66df60d5c5da2ede1cd281489d8c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-82-2015",
+   "path": "local/bucuresti/cgmb/2015/82",
+   "short": "HCGMB nr. 82/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 82/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34919",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34919/H082_15.pdf",
+     "sha256": "a00548f37513a935a2a3c28ec8025d86f9003d3275174fa4e2356e02e8f657df"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-83-2015",
+   "path": "local/bucuresti/cgmb/2015/83",
+   "short": "HCGMB nr. 83/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 83/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34920",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34920/H083_15.pdf",
+     "sha256": "65e945dbced78aa8168491bbe844a2e2056de14133b0be9937a7706e7d636aa0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-84-2015",
+   "path": "local/bucuresti/cgmb/2015/84",
+   "short": "HCGMB nr. 84/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 84/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34921",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34921/H084_15.pdf",
+     "sha256": "3681e78981207e2fc51d8196abb7e0438bef650656c324009c477398d7126007"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-85-2015",
+   "path": "local/bucuresti/cgmb/2015/85",
+   "short": "HCGMB nr. 85/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 85/2015 PRIVIND APROBAREA PARTICIPARII MUNICIPIULUI BUCURESTI CA PARTENER IN PROIECTUL CONSENSUM (\"STRATEGIC CONCEPTS AND E-SOLUTIONS AIMED AT STRENGTHENING THE LOCAL AUTHORITIES' CAPACITY TO ENHANCE SUSTAINABLE URBAN MOBILITY\" - \"CONCEPTE STRATEGICE SI E-SOLUTII MENITE A INTARI CAPACITATEA AUTORITATILOR LOCALE DE IMBUNATATIRE A MOBILITATII URBANE SUSTENABILE\")DIN CADRUL PROGRAMULUI EUROPEAN HORIZON 2020",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34922",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34922/H085_15.pdf",
+     "sha256": "4d447a56bba593d1cff5510c04e6286c53272677ddda5ff9a4f9ee1c45e5531f"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-86-2015",
+   "path": "local/bucuresti/cgmb/2015/86",
+   "short": "HCGMB nr. 86/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 86/2015 PRIVIND APROBAREA PARTICIPARII MUNICIPIULUI BUCURESTI CA PARTENER IN PROIECTUL MOTIVATE ( \"MOBILITY FOR THE FUTURE THROUGH INNOVATIVE LIVING LAB ENVIRONMENTS\" - \" MOBILITATE PENTRU VIITOR PE BAZA CONCEPTULUI DE CERCETARE INOVATOARE DE TIP LABORATOR VIU\") DIN CADRUL PROGRAMULUI EIROPEAN \"HORIZON 2020\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34923",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34923/H086_15.pdf",
+     "sha256": "95331c37f9ee5d3e670d260dfbe0fbd03e1368d18cb6d425991d51b350d8d694"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-87-2015",
+   "path": "local/bucuresti/cgmb/2015/87",
+   "short": "HCGMB nr. 87/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 87/2015 PRIVIND APROBAREA METODOLOGIILOR DE ADMITERE SI GAZDUIRE A BENEFICIARILOR IN CENTRELE REZIDENTIALE SI CENTRELE DE ZI AFLATE IN SUBORDINEA DIRECTIEI GENERALE DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34924",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34924/H087_15.pdf",
+     "sha256": "33f18629b7335d80a28c6f685345152f8566e7d62ef47f9142da4c23e26417ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-88-2015",
+   "path": "local/bucuresti/cgmb/2015/88",
+   "short": "HCGMB nr. 88/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 88/2015 PRIVIND APROBAREA ACORDULUI DE ASOCIERE INCHEIAT INTRE DIRECTIA GENERALA DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI SI ASOCIATIA \"CENTRUL ROMAN PENTRU COPII DISPARUTI SI EXPLOATATI SEXUAL - FOCUS\" IN VEDEREA IMPLEMENTARII PROIECTULUI \"DEZVOLTAREA UNOR SOLUTII SUSTENABILE PENTRU OPERAREA HOTLINE-ULUI 116000 IN ROMANIA\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34925",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34925/H088_15.pdf",
+     "sha256": "91cc8a414c87a2ce499596813e8cb78daa1a4fa5939baeb789a0999f8e9785f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-89-2015",
+   "path": "local/bucuresti/cgmb/2015/89",
+   "short": "HCGMB nr. 89/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 89/2015 PRIVIND APROBAREA ACTULUI ADITIONAL LA ACORDUL DE ASOCIERE INCHEIAT INTRE DIRECTIA GENERALA DE ASISTENTA SOCIALA A MUNICIPIULUI BUCURESTI, FUNDATIA CRUCEA ALB-GALBENA SI ASOCIATIA DE AJUTOR MUTUAL BUCURESTI IN VEDEREA ASIGURARII CONTINUITATII PROIECTULUI \"CENTRU PILOT DE COORDONARE A SERVICIILOR DE INGRIJIRI LA DOMICILIU DIN MUNICIPIUL BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34926",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34926/H089_15.pdf",
+     "sha256": "3a5bfc3f7f73468b048f872340f74c2006d5775eebfa69a13a7505b2e12ee068"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-9-2015",
+   "path": "local/bucuresti/cgmb/2015/9",
+   "short": "HCGMB nr. 9/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 9/2015 PRIVIND APROBAREA LISTELOR DE ATRIBUIRE PROPUSE DE CATRE \"COMISIA DE EVALUARE A SITUATIILOR SOCIALE DEOSEBITE IN CARE SE GASESC CETATENII MUNICIPIULUI BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34584",
+   "versions": [
+    {
+     "from": "2015-02-02",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34584/H009_15.pdf",
+     "sha256": "2e167fce4e78895afe1dda33aa3e36b9f915a8df4f08840b026465590c811083"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-90-2015",
+   "path": "local/bucuresti/cgmb/2015/90",
+   "short": "HCGMB nr. 90/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 90/2015 PRIVIND ASOCIEREA MUNICIPIULUI BUCURESTI CU UNELE UNITATI ADMINISTRATIV-TERITORIALE DIN JUDETUL ILFOV IN VEDEREA CONSTITUIRII ASOCIATIEI DE TRANSPORT METROPOLITAN BUCURESTI (A.T.M.B.) SE ABROGA PRIN HCGMB NR. 140/2017",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34927",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34927/H090_15.pdf",
+     "sha256": "797180193d9c539224790ec5969b1373f4ea18510435bba2fbb5a800a8871e10"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-91-2015",
+   "path": "local/bucuresti/cgmb/2015/91",
+   "short": "HCGMB nr. 91/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 91/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34928",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34928/H091_15.pdf",
+     "sha256": "d0ef35593e77bfa2071e9d3515d180d89998de3624cdbe2f54b7dcfaf06c1eed"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-92-2015",
+   "path": "local/bucuresti/cgmb/2015/92",
+   "short": "HCGMB nr. 92/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 92/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34929",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34929/H092_15.pdf",
+     "sha256": "5e1c54ca76a086ea7ec522d0c3beddd112908f0388af18cc4fe678ae1383624a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-93-2015",
+   "path": "local/bucuresti/cgmb/2015/93",
+   "short": "HCGMB nr. 93/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 93/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34930",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34930/H093_15.pdf",
+     "sha256": "f099b970bfbf91f5eec49a35944b05e97cabce914e13d33eb8a883ca65b75d28"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-94-2015",
+   "path": "local/bucuresti/cgmb/2015/94",
+   "short": "HCGMB nr. 94/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 94/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/34931",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/34931/H094_15.pdf",
+     "sha256": "8870770713692f2ada4d9679f08322e01119a091dbc065a7ede6333b6af3aedd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-95-2015",
+   "path": "local/bucuresti/cgmb/2015/95",
+   "short": "HCGMB nr. 95/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 95/2015 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA A CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI PE PERIOADA 04 IUNIE 2015 - 03 SEPTEMBRIE 2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35030",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35030/H095_15.pdf",
+     "sha256": "677591a13a7e4f45306438f7f0f400a5ed3112410b658644b689510309b27a41"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-96-2015",
+   "path": "local/bucuresti/cgmb/2015/96",
+   "short": "HCGMB nr. 96/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 96/2015 PRIVIND IMPUTERNICIREA CONSILIILOR LOCALE ALE SECTOARELOR 1-6 DE A INCHEIA CU INSTITUTIA PREFECTULUI MUNICIPIULUI BUCURESTI CONTRACTE DE COMODAT PENTRU FOLOSINTA SPATIILOR IN CARE ISI DESFASOARA ACTIVITATEA SERVICIUL PUBLIC COMUNITAR PENTRU ELIBERAREA SI EVIDENTA PASAPOARTELOR SIMPLE LA NIVELUL SECTOARELOR MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35031",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35031/H096_15.pdf",
+     "sha256": "f0b87847ff7c5289474d0303f0425d6f54de35e8267e357e8e00b8dfe59a78da"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-97-2015",
+   "path": "local/bucuresti/cgmb/2015/97",
+   "short": "HCGMB nr. 97/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 97/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35032",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35032/H097_15.pdf",
+     "sha256": "a4a80170cc55469d1dc492c50716f89613a1d13560bb0e93f8c7847810ff864a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-98-2015",
+   "path": "local/bucuresti/cgmb/2015/98",
+   "short": "HCGMB nr. 98/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 98/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35033",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35033/H098_15.pdf",
+     "sha256": "0cf45e064a0d3ea9dfb727a445a3fab04c4f3a69cb2a0831c566ffb350a98961"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-99-2015",
+   "path": "local/bucuresti/cgmb/2015/99",
+   "short": "HCGMB nr. 99/2015",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 99/2015",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/35034",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2015/35034/H099_15.pdf",
+     "sha256": "9d788c29c53cc010f7c01d86baf4f954d4aca2187ae6a8a630a295ba49851f08"
+    }
+   ]
+  }
+ ]
+}

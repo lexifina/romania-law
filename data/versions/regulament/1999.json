@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "regulament/1999",
+ "acts": [
+  {
+   "slug": "regulament-bnr-1-1999",
+   "path": "regulament/bnr/1999/1",
+   "short": "Regulament bnr nr. 1/1999",
+   "title": "Regulamentul nr. 1/1999 privind organizarea și funcționarea la Banca Naționala a României a Centralei Riscurilor Bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20278",
+   "versions": [
+    {
+     "from": "2000-02-01",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20278",
+     "sha256": "6da21c4b462c93da448ef503994a1e82777cfc4500bd0f7e78540df4ed3f041b"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-1-1999",
+   "path": "regulament/cnvm/1999/1",
+   "short": "Regulament cnvm nr. 1/1999",
+   "title": "Regulamentul nr. 1/1999 privind modul de încasare și de gestionare a veniturilor extrabugetare din care se finanțează Comisia Naționala a Valorilor Mobiliare potrivit Ordonanței de urgență a Guvernului nr. 6/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17110",
+   "versions": [
+    {
+     "from": "1999-03-10",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17110",
+     "sha256": "a481a732263d531b0a1a166b66813f4079c8d42e7777816238d5314b656658cd"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-10-1999",
+   "path": "regulament/cnvm/1999/10",
+   "short": "Regulament cnvm nr. 10/1999",
+   "title": "Regulamentul nr. 10/1999 privind modul de încasare și de gestionare a veniturilor extrabugetare din care se finanțează Comisia Naționala a Valorilor Mobiliare potrivit Ordonanței de urgență a Guvernului nr. 6/1999, aprobată și modificată prin Legea nr. 139/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19768",
+   "versions": [
+    {
+     "from": "1999-11-02",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19768",
+     "sha256": "0fa201ba8ded2bd85622d20ab1db95a81315ca9b5c9f6f74184f3e17a1079db2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-12-1999",
+   "path": "regulament/cnvm/1999/12",
+   "short": "Regulament cnvm nr. 12/1999",
+   "title": "Regulamentul nr. 12/1999 privind funcționarea Colectivului tehnic pentru reglementarea și supravegherea pieței RASDAQ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20668",
+   "versions": [
+    {
+     "from": "2000-01-26",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20668",
+     "sha256": "d53d348625272b3c5757e2c93c05d6717d6fb170b45b21741aefbc2c14d84b17"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-13-1999",
+   "path": "regulament/cnvm/1999/13",
+   "short": "Regulament cnvm nr. 13/1999",
+   "title": "Regulamentul nr. 13/1999 privind licitația electronică pe piața RASDAQ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20680",
+   "versions": [
+    {
+     "from": "2000-01-26",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20680",
+     "sha256": "6c95dd9bddc175bbab42c17b671fca36f8074b6a1b03ec3777af66bcf42c0a81"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-2-1999",
+   "path": "regulament/cnvm/1999/2",
+   "short": "Regulament cnvm nr. 2/1999",
+   "title": "Regulamentul nr. 2/1999 privind organizarea pieței valorilor mobiliare necotate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17249",
+   "versions": [
+    {
+     "from": "1999-03-25",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17249",
+     "sha256": "718eebd7e848bd4de992f395de5297c84cfd9fca1a20197e380b72606c1ae783"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-3-1999",
+   "path": "regulament/cnvm/1999/3",
+   "short": "Regulament cnvm nr. 3/1999",
+   "title": "Regulamentul nr. 3/1999 REGULAMENTUL Nr. 3/1999 DE PROCEDURA al Camerei Arbitrale a Bursei de Valori București și al Camerei Arbitrale a Pieței RASDAQ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18660",
+   "versions": [
+    {
+     "from": "1999-07-05",
+     "units": 71,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18660",
+     "sha256": "11553a2caa06b6856ab2b16cbcbe1577b0e9d225c4a1c1290d62a62d40eb28c0"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-6-1999",
+   "path": "regulament/cnvm/1999/6",
+   "short": "Regulament cnvm nr. 6/1999",
+   "title": "Regulamentul nr. 6/1999 privind calificarea unor titluri de credit ca valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17988",
+   "versions": [
+    {
+     "from": "1999-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17988",
+     "sha256": "68f5c1dc8b851bf6f659963bd687bef88defdceeb91fc16717cc34a3d79a28f4"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-7-1999",
+   "path": "regulament/cnvm/1999/7",
+   "short": "Regulament cnvm nr. 7/1999",
+   "title": "Regulamentul nr. 7/1999 privind alocarea de către registrele independente a codurilor pentru conturile de valori mobiliare ale investitorilor, persoane fizice și juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19760",
+   "versions": [
+    {
+     "from": "1999-11-02",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19760",
+     "sha256": "cc9a1d70e2fd7906f41275b38ecc47bf1f61e2eba4a6214d88c57d7d4e0a391c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-8-1999",
+   "path": "regulament/cnvm/1999/8",
+   "short": "Regulament cnvm nr. 8/1999",
+   "title": "Regulamentul nr. 8/1999 de modificare și completare a Regulamentului nr. 8/1996 privind autorizarea Societății Naționale de Compensare, Decontare și Depozitare pentru Valori Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19762",
+   "versions": [
+    {
+     "from": "1999-11-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19762",
+     "sha256": "8830ad22b1b5a0c117ce14662bdee5c2adbf8a4141e94c0b35d5a2b9babaf6ab"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-cnvm-9-1999",
+   "path": "regulament/cnvm/1999/9",
+   "short": "Regulament cnvm nr. 9/1999",
+   "title": "Regulamentul nr. 9/1999 privind organizarea și funcționarea Organismului posttranzacționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19764",
+   "versions": [
+    {
+     "from": "1999-11-02",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19764",
+     "sha256": "0a636a8c23a0ec4b9542b87c1bfb0f98efaaf2fc10ab3a459434208a9e4f10a8"
+    }
+   ]
+  }
+ ]
+}

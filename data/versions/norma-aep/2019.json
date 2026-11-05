@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "norma-aep/2019",
+ "acts": [
+  {
+   "slug": "norma-aep-cuantum-total-14-138-2019",
+   "path": "norma-aep/2019/cuantum-total-14-138",
+   "short": "Cuantum total AEP nr. 14-138/2019",
+   "title": "Cuantum total Autorității Electorale Permanente nr. 14-138 din 2019-07-09",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/216018",
+   "versions": [
+    {
+     "from": "2019-07-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/216018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-cuantum-total-29-889-2019",
+   "path": "norma-aep/2019/cuantum-total-29-889",
+   "short": "Cuantum total AEP nr. 29-889/2019",
+   "title": "Cuantum total Autorității Electorale Permanente nr. 29-889 din 2019-12-16",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/221116",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/221116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-ghid-2019-10-04-2019",
+   "path": "norma-aep/2019/ghid-2019-10-04",
+   "short": "Ghidul AEP din 2019-10-04",
+   "title": "GHID din 4 octombrie 2019 privind finanţarea campaniei electorale la alegerile pentru Preşedintele României din anul 2019",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/218686",
+   "versions": [
+    {
+     "from": "2019-10-04",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/218686",
+     "sha256": "e802fe12a53710c40f20615f6723dfd06c67b1d11e63db0daf845207eae8ba41"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-29-890-2019",
+   "path": "norma-aep/2019/lista-29-890",
+   "short": "Listă AEP nr. 29-890/2019",
+   "title": "Listă Autorității Electorale Permanente nr. 29-890 din 2019-12-16",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/221117",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/221117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-norma-2019-10-09-2019",
+   "path": "norma-aep/2019/norma-2019-10-09",
+   "short": "Normă AEP din 2019-10-09",
+   "title": "Normă Autorității Electorale Permanente din 2019-10-09",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/218806",
+   "versions": [
+    {
+     "from": "2019-10-10",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/218806",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

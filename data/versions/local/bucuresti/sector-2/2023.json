@@ -1,0 +1,351 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/sector-2/2023",
+ "acts": [
+  {
+   "slug": "hcls2-109-2023",
+   "path": "local/bucuresti/sector-2/2023/109",
+   "short": "HCLS2 nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 109/2023",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-109-din-2023",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-109-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-124-2023",
+   "path": "local/bucuresti/sector-2/2023/124",
+   "short": "HCLS2 nr. 124/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 124/2023 privind aprobarea Regulamentului pentru organizarea și funcționarea comisiilor de evaluare a propunerilor de proiecte și a comisiei de soluționare a contestațiilor constituite în baza Legii nr. 350/2005, cu modificările și completările ulterioare Abrogată / Încetare aplicabilitate prin HCL S2 nr. 130/2024 Abrog ă /Încetează aplicabilitatea HCL S2 nr. 83/2022",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-124-din-2023",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-124-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-142-2023",
+   "path": "local/bucuresti/sector-2/2023/142",
+   "short": "HCLS2 nr. 142/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 142/2023 privind aprobarea Metodologiei de emitere a „Autorizatiei privind desfăşurarea activităţilor prevăzute de grupele CAEN 561 - restaurante, 563 - Baruri şi alte activităţi d e servire a băuturilor şi 932 - Alte activităţi recreative şi distractive, pe raza Sectorului 2 al Municipiului Bucureşti \" Abrog ă /Încetează aplicabilitatea HCL S2 nr. 8/2020 ( HCL S2 nr. 139/2020 , HCL S2 nr. 179/2020 , HCL S2 nr. 296/2022 ) Modificată/completată prin HCL S2 nr. 157/2024",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-142-din-2023",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-142-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-147-2023",
+   "path": "local/bucuresti/sector-2/2023/147",
+   "short": "HCLS2 nr. 147/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 147/2023",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-147-din-2023",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-147-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-148-2023",
+   "path": "local/bucuresti/sector-2/2023/148",
+   "short": "HCLS2 nr. 148/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 148/2023",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-148-din-2023",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-148-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-17-2023",
+   "path": "local/bucuresti/sector-2/2023/17",
+   "short": "HCLS2 nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 17/2023",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-017-din-2023",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-017-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-18-2023",
+   "path": "local/bucuresti/sector-2/2023/18",
+   "short": "HCLS2 nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 18/2023",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-018-din-2023",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-018-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-187-2023",
+   "path": "local/bucuresti/sector-2/2023/187",
+   "short": "HCLS2 nr. 187/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 187/2023",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-187-din-2023",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-187-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-19-2023",
+   "path": "local/bucuresti/sector-2/2023/19",
+   "short": "HCLS2 nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 19/2023 privind aprobarea tarifului distinct pentru „Sortarea deşeurilor reciclabile” aferent Contractului nr. 1128/1999 şi a actelor adiţionale subsecvente",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-019-din-2023",
+   "versions": [
+    {
+     "from": "2023-01-27",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-019-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-217-2023",
+   "path": "local/bucuresti/sector-2/2023/217",
+   "short": "HCLS2 nr. 217/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 217/2023 pentru implementarea la nivelul Sectorului 2 al Municipiului București a măsurilor privind stabilirea cuantumului, condiţiilor şi mecanismului de acordare a sumelor forfetare potrivit Ordonanţei de urgenţă a Guvernului nr. 15/2022 privind acordarea de sprijin şi asistenţă umanitară de către statul român cetăţenilor străini sau apatrizilor aflaţi în situaţii deosebite, proveniţi din zona conflictului armat din Ucraina",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-217-din-2023",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-217-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-276-2023",
+   "path": "local/bucuresti/sector-2/2023/276",
+   "short": "HCLS2 nr. 276/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 276/2023 pentru modificarea și completarea Hotărârii Consiliului Local Sector 2 al Municipiului București nr. 301/2019 privind stabilirea și sancționarea faptelor ce constituie contravenții pe raza Sectorului 2 al Municipiului București, cu modificările și completările ulterioare Modifică/completează HCL S2 nr. 301/2019",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-276-din-2023",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-276-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-331-2023",
+   "path": "local/bucuresti/sector-2/2023/331",
+   "short": "HCLS2 nr. 331/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 331/2023 privind aprobarea ”Regulamentului pentru avizarea ocupării temporare a zonelor publice din Sectorul 2 al Municipiului București de către agenții economici cu vitrine frigorifice, automate, expunere de întâmpinare și terase, pe raza Sectorului 2 al Municipiului Bucureşti” Abrog ă /Încetează aplicabilitatea HCL S2 nr. 215/2018",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-331-din-2023",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-331-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-337-2023",
+   "path": "local/bucuresti/sector-2/2023/337",
+   "short": "HCLS2 nr. 337/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 337/2023 pentru aprobarea Regulamentului privind acordarea alocării financiare pentru facilitarea participării elevilor înscriși în unitățile de învățământ din Sectorul 2 al Municipiului București la Programul “Școala dupășcoală“ Modificată/completată prin HCL S2 nr. 308/2024 Abrog ă /Încetează aplicabilitatea HCL S2 nr. 4/2023 NOTĂ privind RECTIFICAREA erorii materiale din cuprinsul Anexei la Hotărârea nr. 337 adoptată de Consiliul Local al Sectorului 2 Bucureşti în şedinţa din data de 30.08.2023",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-337-din-2023",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/documente/nota-rectificare-hcl-337-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-352-2023",
+   "path": "local/bucuresti/sector-2/2023/352",
+   "short": "HCLS2 nr. 352/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 352/2023 pentru aprobarea Metodologiei privind acordarea sprijinului financiar pentru plata mesei la grupele de grădiniță cu program prelungit pentru copiii proveniți din familii cu venituri mici sau fără venituri Modificată/completată prin HCL S2 nr. 44/2026",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-352-din-2023",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-352-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-382-2023",
+   "path": "local/bucuresti/sector-2/2023/382",
+   "short": "HCLS2 nr. 382/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 382/2023 pentru aprobarea Regulamentului privind acordarea de subvenţii asociaţiilor, fundaţiilor şi cultelor religioase recunoscute în România, care înfiinţeazăşi administrează unităţi de asistenţă socială a căror activitate se adresează beneficiarilor de pe raza Sectorului 2 în anul 2024",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-382-din-2023",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-382-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-396-2023",
+   "path": "local/bucuresti/sector-2/2023/396",
+   "short": "HCLS2 nr. 396/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 396/2023 pentru modificarea şi completarea Hotărârii Consiliului Local Sector 2 nr. 3/2011 privind înfiinţarea la nivelul Sectorului 2 al Municipiului Bucureşti a Comisiei locale de ordine publică, cu modificările și completările ulterioare Modifică/completează HCL S2 nr. 3/2011 , HCL S2 nr. 347/2021",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-396-din-2023",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-396-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-399-2023",
+   "path": "local/bucuresti/sector-2/2023/399",
+   "short": "HCLS2 nr. 399/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 399/2023",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-399-din-2023",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-399-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-4-2023",
+   "path": "local/bucuresti/sector-2/2023/4",
+   "short": "HCLS2 nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 4/2023 privind aprobarea Regulamentului de finanţare pentru facilitarea participării la activităţi educative de tip “Școală dupa școală” pentru elevii înscrişi în unităţile de învăţământ din Sectorul 2 al Municipiului Bucureşti, aprobarea beneficiarilor proiectului şi a alocării financiare pentru desfăşurarea programelor de tip “Şcoală dupa şcoală” Abrogată / Încetare aplicabilitate prin HCL S2 nr. 337/2023",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-004-din-2023",
+   "versions": [
+    {
+     "from": "2023-01-17",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-004-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-430-2023",
+   "path": "local/bucuresti/sector-2/2023/430",
+   "short": "HCLS2 nr. 430/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 430/2023 privind aprobarea măsurilor pentru menţinerea echilibrului contractual constând în actualizarea suprafeţelor cuprinse în Anexa 2 la caietul de sarcini - Aria delegării şi modificarea tarifelor practicate pentru operaţiile de curățenie, aferente Contractului nr. 99349/30.05.2023 privind “Delegarea serviciului de Salubrizare a suprafețelor din domeniul public al Sectorului 2 al Municipiului Bucureşti ce nu fac obiectul contractului nr.1128/1999”",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-430-din-2023",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-430-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-457-2023",
+   "path": "local/bucuresti/sector-2/2023/457",
+   "short": "HCLS2 nr. 457/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 457/2023 privind aprobarea Regulamentului pentru închirierea locurilor în parcările securizate pentru biciclete de pe raza Sectorului 2 al Municipiului București",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-457-din-2023",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-457-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-526-2023",
+   "path": "local/bucuresti/sector-2/2023/526",
+   "short": "HCLS2 nr. 526/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 526/2023 privind acordarea de subvenții în anul 2024 pentru 3 unități private de asistență socială a căror activitate se adresează beneficiarilor de pe raza Sectorului 2, conform Regulamentului cuprins în Hotărârea Consiliului Local Sector 2 nr. 382/27.09.2023 respectiv Asociația Română AntiSIDA, Filiala Asociației Diaconia Sector 2 și Arhiepiscopia Bucureștilor",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-526-din-2023",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-526-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-59-2023",
+   "path": "local/bucuresti/sector-2/2023/59",
+   "short": "HCLS2 nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 59/2023 privind aprobarea unor metodologii de lucru şi de calcul al contribuţiei de întreţinere datorată de către persoane vârstnice/susţinătorii legali ai acestora în cadrul unor organisme private (organizaţii/fundaţii) care furnizează servicii sociale cu cazare persoanelor vârstnice domiciliate pe raza administrativ-teritorială a sectorului 2 Abrogată / Încetare aplicabilitate prin HCL S2 nr. 59/2026",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-059-din-2023",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-059-din-2023/download",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls2-67-2023",
+   "path": "local/bucuresti/sector-2/2023/67",
+   "short": "HCLS2 nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Sectorului 2 nr. 67/2023 privind avizarea Programului de dezvoltare economico-socială, organizare, amenajarea teritoriului şi urbanism- Strategia de Dezvoltare Locală Integratăşi Durabilă a Sectorului 2 pentru perioada 2021-2027 Abrog ă /Încetează aplicabilitatea HCL S2 nr. 139/2017",
+   "url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/2023/hotararea-nr-067-din-2023",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 1,
+     "source_url": "https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-067-din-2023/download",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

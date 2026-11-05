@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "instructiuni/2023",
+ "acts": [
+  {
+   "slug": "instructiuni-asf-2-2023",
+   "path": "instructiuni/asf/2023/2",
+   "short": "Instrucțiuni asf nr. 2/2023",
+   "title": "Instrucțiunile nr. 2/2023 pentru modificarea și completarea Instrucțiunii Autorității de Supraveghere Financiară nr. 1/2016 privind întocmirea și depunerea situației financiare anuale și a raportării anuale de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară - Sectorul instrumentelor și investițiilor financiare, precum și de către Fondul de Compensare a Investitorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/267340",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/267340",
+     "sha256": "232f2aedb615c169d0d5671412d7f5ebafdb40f83ad72b673bf51c5e7480cc0b"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-asf-3-2023",
+   "path": "instructiuni/asf/2023/3",
+   "short": "Instrucțiuni asf nr. 3/2023",
+   "title": "Instrucțiunile nr. 3/2023 pentru modificarea anexei nr. 1 la Instrucțiunea Autorității de Supraveghere Financiară nr. 2/2016 privind întocmirea și depunerea raportării contabile semestriale de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară - Sectorul Instrumentelor și Investițiilor Financiare, precum și de către Fondul de Compensare a Investitorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/273532",
+   "versions": [
+    {
+     "from": "2023-08-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/273532",
+     "sha256": "dcc686bace5ad84672c605d0bd3bb49da9852b6f7f1953fb4c2fd27d5ff4986b"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-asf-4-2023",
+   "path": "instructiuni/asf/2023/4",
+   "short": "Instrucțiuni asf nr. 4/2023",
+   "title": "Instrucțiunile nr. 4/2023 pentru aplicarea Ghidului privind utilizarea soluțiilor de înregistrare la distanță a clienților în temeiul art. 13 alin. (1) din Directiva (UE) 2015/849",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/275647",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/275647",
+     "sha256": "00c41bbab21981da0b757100b9821d16fb3f7b126f1420b9a2b7b6762c7a5346"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-sanatate-161-2023",
+   "path": "instructiuni/sanatate/2023/161",
+   "short": "Instrucțiuni sanatate nr. 161/2023",
+   "title": "Instrucțiunile nr. 161/2023 privind instituirea stării de alertă epidemiologică determinate de gripă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/263711",
+   "versions": [
+    {
+     "from": "2023-01-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263711",
+     "sha256": "7deef5df02e618b7b92afa8ee2c82b2c46b74797370ac67f32fbfab9428b9d1e"
+    }
+   ]
+  },
+  {
+   "slug": "instructiuni-sanatate-5288-2023",
+   "path": "instructiuni/sanatate/2023/5288",
+   "short": "Instrucțiuni sanatate nr. 5288/2023",
+   "title": "Instrucțiunile nr. 5.288/2023 privind încetarea stării de alertă epidemiologică determinate de gripă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/266013",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266013",
+     "sha256": "2ba182bd2b6ca12a718e7deb26f8742d12fb937f296a97d667c409fcc82e1b2d"
+    }
+   ]
+  }
+ ]
+}

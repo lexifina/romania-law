@@ -6,7 +6,7 @@ The shared builder turns `corpus.json` into the git repository. It produces:
 
 - the commits, streamed through `git fast-import`
 - the tags and the future branch
-- `REPRODUCE.md` and `data/versions.json`
+- `REPRODUCE.md` and `data/versions.json` (appends split it, with `data/acts.json` and `data/laws.csv`, into the primary legislation and one shard per other kind and year, listed in `data/index.json`)
 - `tools/on.py`, `tools/check_repo.py` and `tools/build.py`
 - the site data
 - the checks

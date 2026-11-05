@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/cgmb/2000",
+ "acts": [
+  {
+   "slug": "hcgmb-109-2000",
+   "path": "local/bucuresti/cgmb/2000/109",
+   "short": "HCGMB nr. 109/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 109/2000 privind modificarea si completarea H.C.G.M.B. nr.81/2000, privind modificarea modului de colectare a taxelor locale speciale de salubritate si igienizare publica pe teritoriul Municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4656",
+   "versions": [
+    {
+     "from": "2000-04-20",
+     "units": 7,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4656/h0109_00.pdf",
+     "sha256": "ccfbf21f0ac2b101cfab2a4694653ae4511ec9dcf0ba56282bf7a3d369de3ff0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-115-2000",
+   "path": "local/bucuresti/cgmb/2000/115",
+   "short": "HCGMB nr. 115/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 115/2000 PRIVIND APROBAREA REGULAMENTULUI CADRU DE ORGANIZARE SI FUNCTIONARE A INSTITUTIILOR PUBLICE DE CULTURA AFLATE SUB AUTORITATEA CGMB",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4667",
+   "versions": [
+    {
+     "from": "2000-04-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4667/h0115_00.pdf",
+     "sha256": "f461b9f35caa1b1d3cb855e21e70a697e4b6e930990c0bf3fd46dd5f99972231"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-144-2000",
+   "path": "local/bucuresti/cgmb/2000/144",
+   "short": "HCGMB nr. 144/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 144/2000 privind modificarea HCGMB nr.172/1999 referitoare la aprobarea Normelor de organizare si efectuare a activitatilor de blocare sau ridicare, transport, depozitare si eliberare a autovehiculelor oprite sau stationate neregulamentar pe drumurile publice din municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4671",
+   "versions": [
+    {
+     "from": "2000-05-18",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4671/h0144_00.pdf",
+     "sha256": "6a72fd1cb577bc136fa87a3880371f66cc65565d86ae2707c9f11c6320ea9ae3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-149-2000",
+   "path": "local/bucuresti/cgmb/2000/149",
+   "short": "HCGMB nr. 149/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 149/2000 privind aprobarea unor planuri urbanistice",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4817",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 8,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4817/h0149_00.pdf",
+     "sha256": "0c3e817b02268e7b2e808c663336114b5b6de9f50f939312c901de93891f8929"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-162-2000",
+   "path": "local/bucuresti/cgmb/2000/162",
+   "short": "HCGMB nr. 162/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 162/2000 PRIVIND APROBAREA NORMELOR ANUALE DE VENIT PE ANUL 2000",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4773",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4773/h0162_00.pdf",
+     "sha256": "b771f58c41accdcc5806f274f82f06bd50005a88617fa5ae3a44fd8a5d5c1235"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-170-2000",
+   "path": "local/bucuresti/cgmb/2000/170",
+   "short": "HCGMB nr. 170/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 170/2000 privind aprobarea unui plan urbanistic",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/3581",
+   "versions": [
+    {
+     "from": "2000-06-15",
+     "units": 7,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/3581/h0170_00.pdf",
+     "sha256": "2e6f096ccff3dedb60502fa4d3936deff73f1d31decdfd4ecaf2d97e4ded37b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-171-2000",
+   "path": "local/bucuresti/cgmb/2000/171",
+   "short": "HCGMB nr. 171/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 171/2000 privind aprobarea unui plan urbanistic",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4991",
+   "versions": [
+    {
+     "from": "2000-06-15",
+     "units": 8,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4991/h0171_00.pdf",
+     "sha256": "136e1f887691de18c732ef2bcc757d188892171b4082fdfd8e712ba96acb99a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-173-2000",
+   "path": "local/bucuresti/cgmb/2000/173",
+   "short": "HCGMB nr. 173/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 173/2000 privind aprobarea unui plan urbanistic",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4986",
+   "versions": [
+    {
+     "from": "2000-06-15",
+     "units": 10,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4986/h0173_00.pdf",
+     "sha256": "c67242c78841254f0b597b217a394d6b88aa5b3ebbec293e85e3ae56be91c6e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-223-2000",
+   "path": "local/bucuresti/cgmb/2000/223",
+   "short": "HCGMB nr. 223/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 223/2000 privind aprobarea unui Plan Urbanistic",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5519",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5519/h0223_00.pdf",
+     "sha256": "8a4176baf1ead27f9d4d13f493d640f1925887df0e62882b1725cd9e31030a08"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-233-2000",
+   "path": "local/bucuresti/cgmb/2000/233",
+   "short": "HCGMB nr. 233/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 233/2000 privind interzicerea accesului si circulatiei de motive cu tractiune animala pe drumurile publice din municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5528",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5528/h0233_00.pdf",
+     "sha256": "5e5675e99e9724f4338682e83f6493abf7665b723f731fc055bed62e7e5aa19b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-234-2000",
+   "path": "local/bucuresti/cgmb/2000/234",
+   "short": "HCGMB nr. 234/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 234/2000 privind normele de organizare si efectuare a transportului rutier public urban de persoane prin servicii regulate cu autobuze si microbuze pe teritoriul municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/6539",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/6539/h0234_00.pdf",
+     "sha256": "1ea247858eea2b32ed792269550a799ba0150d12a6f5c3be20f4a0f211293111"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-245-2000",
+   "path": "local/bucuresti/cgmb/2000/245",
+   "short": "HCGMB nr. 245/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 245/2000 privind aprobarea Regulamentului privind schimbarea sau atribuirea de denumiri pentru unitatile si obiectivele de interes local, arterele de circulatie, pietele publice si pentru atribuirea numerelor postale de proprietati in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5679",
+   "versions": [
+    {
+     "from": "2000-11-09",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5679/h0245_00.pdf",
+     "sha256": "0e2466da38f741c06d130c8e33df970015d39cd096a76fbc5e1c2acca756f172"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-246-2000",
+   "path": "local/bucuresti/cgmb/2000/246",
+   "short": "HCGMB nr. 246/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 246/2000 privind circulatia vehiculelor destinate transportului de bunuri in zona centrala a municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5647",
+   "versions": [
+    {
+     "from": "2000-11-09",
+     "units": 9,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5647/h0246_00.pdf",
+     "sha256": "92b9658a89d56d5fe5caa72abbfa850cefb6d7276529d29fd9c24734a1041079"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-273-2000",
+   "path": "local/bucuresti/cgmb/2000/273",
+   "short": "HCGMB nr. 273/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 273/2000 privind stabilirea nivelului impozitelor si taxelor locale pe anul 2001, in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5685",
+   "versions": [
+    {
+     "from": "2000-12-21",
+     "units": 13,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5685/h0273_00.pdf",
+     "sha256": "697d7e6903dbac353b2879f57ae6c389bc8b3f9694d019da3ef853588f35899e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-277-2000",
+   "path": "local/bucuresti/cgmb/2000/277",
+   "short": "HCGMB nr. 277/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 277/2000 privind modificarea HCGMB nr.246/2000 privind circulatia vehiculelor destinate transportului de bunuri in zona centrala a municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5689",
+   "versions": [
+    {
+     "from": "2000-12-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5689/h0277_00.pdf",
+     "sha256": "2a7241e0f04cc74f0b6e874190a2e1ec95dc9997c0d2335f1d19de0e38ed5886"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-285-2000",
+   "path": "local/bucuresti/cgmb/2000/285",
+   "short": "HCGMB nr. 285/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 285/2000 privind aprobarea unui Plan Urbanistic",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/5851",
+   "versions": [
+    {
+     "from": "2000-12-21",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/5851/h0285_00.pdf",
+     "sha256": "884de7f42af82adb20beefec70d98ae5992781f1e6ea269ffe2497e370ef2c65"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-71-2000",
+   "path": "local/bucuresti/cgmb/2000/71",
+   "short": "HCGMB nr. 71/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 71/2000 privind modificarea si completarea Metodologiei pentru punerea in aplicare a H.G. nr.505/20.08.1998 privind vanzarea catre actualii detinatori a unor spatii construite din fondurile statului si aflate in administrarea Consiliului General al Municipiului Bucuresti, aprobata prin H.C.G.M.B. nr.220/22.10.1998",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4648",
+   "versions": [
+    {
+     "from": "2000-03-02",
+     "units": 8,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4648/h071_00.pdf",
+     "sha256": "2b3f65e876c3ce39846da703da7a96c0d44fd0c8304134a03ad26335f43050e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-81-2000",
+   "path": "local/bucuresti/cgmb/2000/81",
+   "short": "HCGMB nr. 81/2000",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 81/2000 privind modificarea modului de colectare a taxelor locale speciale de salubritate si igienizare publica pe teritoriul Municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/4649",
+   "versions": [
+    {
+     "from": "2000-03-16",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2000/4649/h081_00.pdf",
+     "sha256": "46745087d01699dd97314fcd9646aaa8812d6680c57e786552c423a6faac9630"
+    }
+   ]
+  }
+ ]
+}

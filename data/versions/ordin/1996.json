@@ -1,0 +1,1296 @@
+{
+ "country": "RO",
+ "shard": "ordin/1996",
+ "acts": [
+  {
+   "slug": "ordin-cnvm-1-1996",
+   "path": "ordin/cnvm/1996/1",
+   "short": "Ordin cnvm nr. 1/1996",
+   "title": "Ordinul nr. 1/1996 pentru aprobarea Instrucțiunilor nr. 1/1996 cu privire la publicitatea fondurilor de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7693",
+   "versions": [
+    {
+     "from": "1996-01-25",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7693",
+     "sha256": "3ee306e770fab0c63ddbaf9faa6e14f08192ceb04664326e7cd4252d1925892c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-12-1996",
+   "path": "ordin/cnvm/1996/12",
+   "short": "Ordin cnvm nr. 12/1996",
+   "title": "Ordinul nr. 12/1996 privind aprobarea Instrucțiunilor nr. 7 din 7 mai 1996 cu privire la administrarea prudenta a portofoliului și la transparenta politicii de investiții a societăților de administrare a investițiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7887",
+   "versions": [
+    {
+     "from": "1996-05-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7887",
+     "sha256": "3e9948c294c0fea22125f241860b1c28ba063c5e65e1e91eef62e576063a0e88"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-13-1996",
+   "path": "ordin/cnvm/1996/13",
+   "short": "Ordin cnvm nr. 13/1996",
+   "title": "Ordinul nr. 13/1996 pentru aprobarea Regulamentului nr. 4/1996 privind autorizarea temporară a agenților de valori mobiliare în vederea vânzării acțiunilor dobândite în urma Programului de privatizare în masă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7903",
+   "versions": [
+    {
+     "from": "1996-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7903",
+     "sha256": "9c1de84c3f22c0569e096a6802f4c00f9ccb41772373e1a6bcdd70c99041f44e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-15-1996",
+   "path": "ordin/cnvm/1996/15",
+   "short": "Ordin cnvm nr. 15/1996",
+   "title": "Ordinul nr. 15/1996 pentru aprobarea Regulamentului nr. 3/1996 privind autorizarea și exercitarea intermedierii de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7933",
+   "versions": [
+    {
+     "from": "1996-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7933",
+     "sha256": "06d990cdcede3ed78260eaf34b4a312f88da424392d4e433ea2ae3c3c727f2ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-16-1996",
+   "path": "ordin/cnvm/1996/16",
+   "short": "Ordin cnvm nr. 16/1996",
+   "title": "Ordinul nr. 16/1996 pentru aprobarea Regulamentului nr. 5/1996 privind procedura de consultare a investitorilor pentru reorganizarea și lichidarea fondurilor deschise de investiții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7945",
+   "versions": [
+    {
+     "from": "1996-08-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7945",
+     "sha256": "93acd8c927e018431b33d2ad50ba780c93124088bdf782401d6eb9b4c8c57b51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-18-1996",
+   "path": "ordin/cnvm/1996/18",
+   "short": "Ordin cnvm nr. 18/1996",
+   "title": "Ordinul nr. 18/1996 pentru aprobarea Regulamentului nr. 7/1996 privind autorizarea și funcționarea organismelor de autoreglementare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7973",
+   "versions": [
+    {
+     "from": "1996-08-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7973",
+     "sha256": "14df0a2c5559e9d0f906efc3a9509c7036dfe6ec8bcbe52bbbe32e47dcd29328"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-2-1996",
+   "path": "ordin/cnvm/1996/2",
+   "short": "Ordin cnvm nr. 2/1996",
+   "title": "Ordinul nr. 2/1996 pentru aprobarea Instrucțiunilor nr. 2/1996 cu privire la emiterea de acțiuni în forma dematerializată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7715",
+   "versions": [
+    {
+     "from": "1996-01-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7715",
+     "sha256": "46450e0825e344278570eb25fd592ac4e444ff695ab34893041440761d74c4a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-20-1996",
+   "path": "ordin/cnvm/1996/20",
+   "short": "Ordin cnvm nr. 20/1996",
+   "title": "Ordinul nr. 20/1996 pentru aprobarea Regulamentului nr. 9/1996 privind constituirea și funcționarea fondurilor deschise de investiții, societăților de investiții, societăților de administrare și societăților de depozitare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7999",
+   "versions": [
+    {
+     "from": "1996-11-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7999",
+     "sha256": "4e31bec61b91795740f7d187b95e4a7ee79b064ffd51820c43f6c6078c1cf317"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-3-1996",
+   "path": "ordin/cnvm/1996/3",
+   "short": "Ordin cnvm nr. 3/1996",
+   "title": "Ordinul nr. 3/1996 pentru aprobarea Regulamentului nr. 6/1995 privind oferta publică de vînzare de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7732",
+   "versions": [
+    {
+     "from": "1996-02-21",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7732",
+     "sha256": "fba35a45621acfbbb49ffcf3a383f2ff65a56914a5f605ac0730fc192edc9465"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-32-1996",
+   "path": "ordin/cnvm/1996/32",
+   "short": "Ordin cnvm nr. 32/1996",
+   "title": "Ordinul nr. 32/1996 pentru aprobarea Instrucțiunilor nr. 13/1996 privind evidenta valorilor mobiliare, a",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8131",
+   "versions": [
+    {
+     "from": "1997-01-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8131",
+     "sha256": "65827ebb0f09a94c807715588af429d75f9b6f7cc91342bd80c70bec0ea5906b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-33-1996",
+   "path": "ordin/cnvm/1996/33",
+   "short": "Ordin cnvm nr. 33/1996",
+   "title": "Ordinul nr. 33/1996 pentru aprobarea Regulamentului nr. 16/1996 privind oferta publică de cumpărare de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8143",
+   "versions": [
+    {
+     "from": "1997-01-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8143",
+     "sha256": "1501f8625a3ec85701015bf52abb304dc50c5b843caa4ccdac3d2fa5dc01d67a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-4-1996",
+   "path": "ordin/cnvm/1996/4",
+   "short": "Ordin cnvm nr. 4/1996",
+   "title": "Ordinul nr. 4/1996 pentru aprobarea Regulamentului nr. 1/1996 privind statutul comisarului general al Bursei de valori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7750",
+   "versions": [
+    {
+     "from": "1996-02-21",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7750",
+     "sha256": "ae198f43bb135d2c487fbae32ad346f605160ef774d12f5c7df0fdadc6a22cd5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-5-1996",
+   "path": "ordin/cnvm/1996/5",
+   "short": "Ordin cnvm nr. 5/1996",
+   "title": "Ordinul nr. 5/1996 pentru aprobarea Instrucțiunilor nr. 3/1996 de modificare și de completare a Instrucțiunilor nr. 2/1995 cu privire la activitățile conexe de intermediere de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7768",
+   "versions": [
+    {
+     "from": "1996-02-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7768",
+     "sha256": "65caf2f53cc186e0b79ddb1053481b3b754e7a3b9c4d98e97e39a3e5f2c77a6d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-9-1996",
+   "path": "ordin/cnvm/1996/9",
+   "short": "Ordin cnvm nr. 9/1996",
+   "title": "Ordinul nr. 9/1996 pentru aprobarea Regulamentului nr. 2/1996 privind informarea periodică și continua, realizată de",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7843",
+   "versions": [
+    {
+     "from": "1996-05-07",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7843",
+     "sha256": "61d27c230b8c10a66030b92b5558cc6f71590cef80241a984af89acc2ca6595d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-3376-mc-1996",
+   "path": "ordin/dezvoltare/1996/3376-mc",
+   "short": "Ordin dezvoltare nr. 3376/MC/1996",
+   "title": "Ordinul nr. 3.376/MC/1996 pentru aprobarea condițiilor de autorizare a construcțiilor cu caracter militar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9726",
+   "versions": [
+    {
+     "from": "1996-05-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9726",
+     "sha256": "639a8f516b98f7f8c83026cd95bbf9f8ceda006721d588299a0a783bfccd00c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1015-1996",
+   "path": "ordin/finante/1996/1015",
+   "short": "Ordin finante nr. 1015/1996",
+   "title": "Ordinul nr. 1.015/1996 privind completarea Ordinului ministrului de stat, ministrul finanțelor, nr. 1.801/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10083",
+   "versions": [
+    {
+     "from": "1996-05-30",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10083",
+     "sha256": "e166e9969178e516e1bcddb60db9f0f9bf1e34461f074b6ca44a4ab1fef28f63"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1067-1996",
+   "path": "ordin/finante/1996/1067",
+   "short": "Ordin finante nr. 1067/1996",
+   "title": "Ordinul nr. 1.067/1996 privind lansarea unor emisiuni de titluri de stat cu discont",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10134",
+   "versions": [
+    {
+     "from": "1996-05-17",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10134",
+     "sha256": "6be64cd6dcc62a574f01d87f6b0894853015eaad171740cd32a8ebb9fc2e0dd5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-108-1996",
+   "path": "ordin/finante/1996/108",
+   "short": "Ordin finante nr. 108/1996",
+   "title": "Ordinul nr. 108/1996 privind lansarea unei emisiuni de titluri de stat cu discont",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8572",
+   "versions": [
+    {
+     "from": "1996-01-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8572",
+     "sha256": "eb4ea02250716c5345de80e5481d2dcbb05908319aefbfc71044b9cc1f9eaf4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1146-1996",
+   "path": "ordin/finante/1996/1146",
+   "short": "Ordin finante nr. 1146/1996",
+   "title": "Ordinul nr. 1.146/1996 privind modificarea modelelor unor formulare tipizate prevăzute în anexa nr. 1a) la Ordinul ministrului de stat, ministrul finanțelor, nr. 1.801/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10208",
+   "versions": [
+    {
+     "from": "1996-08-14",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10208",
+     "sha256": "c759ced82f79a706d85b4782fbb21a835e8d26115b358ebe2dd78a753bdf2ee6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1147-1996",
+   "path": "ordin/finante/1996/1147",
+   "short": "Ordin finante nr. 1147/1996",
+   "title": "Ordinul nr. 1.147/1996 pentru aprobarea Procedurii și a competentelor de acordare a înlesnirilor la plata impozitelor, taxelor și a altor venituri bugetare administrate de Ministerul Finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10210",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10210",
+     "sha256": "72eb008befa8e31a8e9f3cb3ce6ea294dd258163d9c36c800ec437cff1a602dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1318-1996",
+   "path": "ordin/finante/1996/1318",
+   "short": "Ordin finante nr. 1318/1996",
+   "title": "Ordinul nr. 1.318/1996 ORDIN Nr. 1.318 din 12 iunie 1996 privind lansarea unei emisiuni de titluri de stat seria D 3.96.09.26",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10384",
+   "versions": [
+    {
+     "from": "1996-06-20",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10384",
+     "sha256": "8eee1e72596ea9c09ddaa629a70271166d371491c883afbf7648a65e8d9bb310"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1369-1996",
+   "path": "ordin/finante/1996/1369",
+   "short": "Ordin finante nr. 1369/1996",
+   "title": "Ordinul nr. 1.369/1996 pentru aprobarea Normelor metodologice privind acordarea de către stat de garanții pentru credite interne contractate de agenții economici de la băncile comerciale și constituirea fondului de risc pentru garanțiile acordate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10436",
+   "versions": [
+    {
+     "from": "1996-08-16",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10436",
+     "sha256": "12b34f998150b68a02afdcbddd15d9c969f0aa099de9cd9825dc4fb667e2b121"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1424-1996",
+   "path": "ordin/finante/1996/1424",
+   "short": "Ordin finante nr. 1424/1996",
+   "title": "Ordinul nr. 1.424/1996 privind lansarea unei emisiuni de titluri de stat seria D3.96.10.17",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10494",
+   "versions": [
+    {
+     "from": "1996-07-08",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10494",
+     "sha256": "d02816af425aa2909683af245a86f6825491f8344353b9d2298dcb278ca550af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1491-1996",
+   "path": "ordin/finante/1996/1491",
+   "short": "Ordin finante nr. 1491/1996",
+   "title": "Ordinul nr. 1.491/1996 privind lansarea unei emisiuni de titluri de stat, seria 1996 D3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10568",
+   "versions": [
+    {
+     "from": "1996-07-26",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10568",
+     "sha256": "9c8cffd70827787c94f49633ca5253b476261d5772a387347988b9e73df455c1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1537-1996",
+   "path": "ordin/finante/1996/1537",
+   "short": "Ordin finante nr. 1537/1996",
+   "title": "Ordinul nr. 1.537/1996 privind lansarea unei emisiuni de titluri de stat seria 1996 E1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10618",
+   "versions": [
+    {
+     "from": "1996-08-02",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10618",
+     "sha256": "03e64ca27805a42a3e35070520fd5d62b53b4c4f6444b13940abae61f7f2446c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1606-1996",
+   "path": "ordin/finante/1996/1606",
+   "short": "Ordin finante nr. 1606/1996",
+   "title": "Ordinul nr. 1.606/1996 privind lansarea unor emisiuni de titluri de stat seriile 1996 F1, 1996 F2, 1996 F3 și 1996 F4",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10652",
+   "versions": [
+    {
+     "from": "1996-08-13",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10652",
+     "sha256": "6340ca6a5aa7f5e843d7b06d73beb2a96f68bff03919b97e688c4cedc322c534"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1646-1996",
+   "path": "ordin/finante/1996/1646",
+   "short": "Ordin finante nr. 1646/1996",
+   "title": "Ordinul nr. 1.646/1996 privind modificarea Prospectului de emisiuni al obligațiunilor de tezaur, aprobat prin Ordinul nr. 1.612/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10654",
+   "versions": [
+    {
+     "from": "1996-08-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10654",
+     "sha256": "ab2e4628fc42a14e9dd83588f2026a78df4cf2a45581bd5edf70e0285956f45d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1733-1996",
+   "path": "ordin/finante/1996/1733",
+   "short": "Ordin finante nr. 1733/1996",
+   "title": "Ordinul nr. 1.733/1996 privind aprobarea Instrucțiunilor nr. 47.933/1996 pentru actualizarea cuantumurilor indemnizațiilor de delegare și de detașare, potrivit prevederilor art. 3 din Hotărârea Guvernului nr. 543/1995 privind drepturile bănești ale salariaților instituțiilor publice și regiilor autonome cu specific deosebit pe perioada delegării și detașării în alta localitate, precum și în cazul deplasării, în cadrul localității, în interesul serviciului, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10658",
+   "versions": [
+    {
+     "from": "1996-09-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10658",
+     "sha256": "1898f633ffbc0488bd101fda99ca8132ae71d287448df2387602c8cecf8d96bd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1740-1996",
+   "path": "ordin/finante/1996/1740",
+   "short": "Ordin finante nr. 1740/1996",
+   "title": "Ordinul nr. 1.740/1996 privind stabilirea termenelor de plată pentru obligațiile bugetare care nu au termene de plată prevăzute în actele normative care le-au reglementat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10659",
+   "versions": [
+    {
+     "from": "1996-10-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10659",
+     "sha256": "7e60f574372d22a2e7fc4821693599e03f477320bf8840ddde930ab217d067f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1741-1996",
+   "path": "ordin/finante/1996/1741",
+   "short": "Ordin finante nr. 1741/1996",
+   "title": "Ordinul nr. 1.741/1996 privind aprobarea Normelor metodologice pentru aplicarea prevederilor referitoare la executarea silită a bunurilor imobile din Ordonanța Guvernului nr. 11/1996 privind executarea creanțelor bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10660",
+   "versions": [
+    {
+     "from": "1996-11-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10660",
+     "sha256": "3b4432002fb73a1426c925a80753092ad86eed2ea12aac789562f57dced33d55"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1743-1996",
+   "path": "ordin/finante/1996/1743",
+   "short": "Ordin finante nr. 1743/1996",
+   "title": "Ordinul nr. 1.743/1996 pentru aprobarea Normelor metodologice privind conținutul-cadru al proiectelor - pe faze de proiectare -, al documentelor de licitație, al ofertelor și al contractelor pentru execuția investițiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10661",
+   "versions": [
+    {
+     "from": "1996-10-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10661",
+     "sha256": "4f8676fb6af66a4566e00d553dd55a6cbecac9c1705de0689bc566c3444bb398"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1789-1996",
+   "path": "ordin/finante/1996/1789",
+   "short": "Ordin finante nr. 1789/1996",
+   "title": "Ordinul nr. 1.789/1996 ORDIN Nr. 1789 din 10 septembrie 1996 privind lansarea unei emisiuni de titluri de stat cu dobânda, seria 1997 A1",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10663",
+   "versions": [
+    {
+     "from": "1996-09-17",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10663",
+     "sha256": "6e1e2dbc3a236d78560d4f591b34295fc8b02354e6f5e6a44b6f690004c6b085"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1933-1996",
+   "path": "ordin/finante/1996/1933",
+   "short": "Ordin finante nr. 1933/1996",
+   "title": "Ordinul nr. 1.933/1996 privind lansarea unor emisiuni de titluri de stat cu dobânda",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10667",
+   "versions": [
+    {
+     "from": "1996-10-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10667",
+     "sha256": "022cce1af94e9654fa9be5465cb54189fbd39014277ffeae79c2a9f65a709440"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1994-1996",
+   "path": "ordin/finante/1996/1994",
+   "short": "Ordin finante nr. 1994/1996",
+   "title": "Ordinul nr. 1.994/1996 pentru aprobarea Normelor privind obiectivele ce se verifica, în mod distinct, la regiile autonome, în cadrul activității de verificare și certificare a bilanțurilor contabile, potrivit art. 7 alin. 2 din Hotărârea Guvernului nr. 483/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10669",
+   "versions": [
+    {
+     "from": "1996-11-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10669",
+     "sha256": "3e745e1eb902656341984289826fc54a746d421de8e1849a7833a722a7d36c99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1998-1996",
+   "path": "ordin/finante/1996/1998",
+   "short": "Ordin finante nr. 1998/1996",
+   "title": "Ordinul nr. 1.998/1996 pentru aprobarea Normelor privind constituirea, utilizarea și gestionarea Fondului special pentru protejarea asiguraților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10670",
+   "versions": [
+    {
+     "from": "1996-10-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10670",
+     "sha256": "78855a5088729faedf40c0076a99a02961b118dad18befa1351bbbfc879247f7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2096-1996",
+   "path": "ordin/finante/1996/2096",
+   "short": "Ordin finante nr. 2096/1996",
+   "title": "Ordinul nr. 2.096/1996 privind lansarea unei emisiuni de titluri de stat cu dobânda, seria 1996 D4",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10672",
+   "versions": [
+    {
+     "from": "1996-10-23",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10672",
+     "sha256": "d02c052f5a2ea1dac5bb5a80f3200776c6d35f70858e96e7a82b09e36e926aac"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2148-1996",
+   "path": "ordin/finante/1996/2148",
+   "short": "Ordin finante nr. 2148/1996",
+   "title": "Ordinul nr. 2.148/1996 cu privire la completarea Ordinului ministrului de stat, ministrul finanțelor, nr. 972/1996 și a Normelor metodologice pentru aplicarea prevederilor referitoare la executarea silită a creanțelor bugetare din Ordonanța Guvernului nr. 11/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10676",
+   "versions": [
+    {
+     "from": "1996-11-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10676",
+     "sha256": "ba295eae1ede139a204136b56b3db99cc8c6dbc8566f45f114b7aa18ab4a6023"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2212-1996",
+   "path": "ordin/finante/1996/2212",
+   "short": "Ordin finante nr. 2212/1996",
+   "title": "Ordinul nr. 2.212/1996 pentru modificarea și completarea Ordinului ministrului de stat, ministrul finanțelor, nr. 1.369/1996 pentru aprobarea Normelor metodologice privind acordarea de către stat de garanții pentru credite interne contractate de agenții economici de la băncile comerciale și constituirea fondului de risc pentru garanțiile acordate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10679",
+   "versions": [
+    {
+     "from": "1996-11-25",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10679",
+     "sha256": "4c0567666bfbe630800bc826dd7a658f75b3d7b70207f5891371a009485f64e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2269-1996",
+   "path": "ordin/finante/1996/2269",
+   "short": "Ordin finante nr. 2269/1996",
+   "title": "Ordinul nr. 2.269/1996 pentru aprobarea înlocuirii anexei nr. 9 la Normele metodologice nr. 48.211/1994 privind perceperea, încasarea, virarea, utilizarea, evidenta și controlul destinației sumelor rezultate din aplicarea timbrului literar, cinematografic, teatral, muzical, folcloric și al artelor plastice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10680",
+   "versions": [
+    {
+     "from": "1996-11-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10680",
+     "sha256": "4c2b15ed138386b7f4eb2bd3f52b65adc70b817e6fc97567fa3808ce6236c4e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2270-1996",
+   "path": "ordin/finante/1996/2270",
+   "short": "Ordin finante nr. 2270/1996",
+   "title": "Ordinul nr. 2.270/1996 cu privire la recuperarea creanțelor cesionate de agenții economici garantați în numele și în contul statului de către Ministerul Finanțelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10681",
+   "versions": [
+    {
+     "from": "1996-11-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10681",
+     "sha256": "55b9b1af53159874c263a29e215d4ab769fc7bc49ce8bfee41c19dda03d6f179"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2289-1996",
+   "path": "ordin/finante/1996/2289",
+   "short": "Ordin finante nr. 2289/1996",
+   "title": "Ordinul nr. 2.289/1996 privind Normele de organizare, funcționare a activității de vînzări la bord, precum și de efectuare a controlului vamal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10682",
+   "versions": [
+    {
+     "from": "1996-12-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10682",
+     "sha256": "f5a5af1fffbfc1823a1c091e4fe3d3175c090b9d7cbf8dac8d1e9592a5c22930"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2312-1996",
+   "path": "ordin/finante/1996/2312",
+   "short": "Ordin finante nr. 2312/1996",
+   "title": "Ordinul nr. 2.312/1996 privind legitimațiile eliberate persoanelor care aplica procedura de executare silită a creanțelor bugetare provenite din impozite, taxe și alte venituri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10685",
+   "versions": [
+    {
+     "from": "1996-12-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10685",
+     "sha256": "cde453c3a251e6d364c736ddef0b1146f90593981ab4ab35076b25e90c86371e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2318-1996",
+   "path": "ordin/finante/1996/2318",
+   "short": "Ordin finante nr. 2318/1996",
+   "title": "Ordinul nr. 2.318/1996 privind lansarea unei emisiuni de titluri de stat seria 1996 F5",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10686",
+   "versions": [
+    {
+     "from": "1996-11-18",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10686",
+     "sha256": "555879ddc4ccd23ba9c58de1cd365b0cf04427bfde53e5296fc50412a2d02298"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2361-1996",
+   "path": "ordin/finante/1996/2361",
+   "short": "Ordin finante nr. 2361/1996",
+   "title": "Ordinul nr. 2.361/1996 pentru aprobarea Instrucțiunilor privind administrarea și utilizarea fondului de risc pentru creditele externe contractate în condițiile legii cu garanția statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10687",
+   "versions": [
+    {
+     "from": "1996-12-04",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10687",
+     "sha256": "fa01e9c295da6715bf4ab9a60d4e3042e4f3eb1152b2a8d4673b1187a31b06e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2366-1996",
+   "path": "ordin/finante/1996/2366",
+   "short": "Ordin finante nr. 2366/1996",
+   "title": "Ordinul nr. 2.366/1996 privind lansarea unei emisiuni de titluri de stat seria 1996 G3",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10688",
+   "versions": [
+    {
+     "from": "1996-11-27",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10688",
+     "sha256": "ae02862671e5afb80283cabb714a01c39123a26e9c03ef64b95d0ed049a17c33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2368-1996",
+   "path": "ordin/finante/1996/2368",
+   "short": "Ordin finante nr. 2368/1996",
+   "title": "Ordinul nr. 2.368/1996 privind lansarea unei emisiuni de titluri de stat seria 1996 F6",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10689",
+   "versions": [
+    {
+     "from": "1996-11-28",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10689",
+     "sha256": "cfc12cc8f4353404bddd80ce157fbb7eccc3924ef8b911ad63ceb3892d9d702e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2436-1996",
+   "path": "ordin/finante/1996/2436",
+   "short": "Ordin finante nr. 2436/1996",
+   "title": "Ordinul nr. 2.436/1996 privind aprobarea Normelor tehnice cu privire la aplicarea asigurării obligatorii de răspundere civilă pentru pagube produse prin accidente de autovehicule",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10690",
+   "versions": [
+    {
+     "from": "1996-11-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10690",
+     "sha256": "2b00d5ce0bb18d0a292c6a233cd8594d941c5b80b8c82c2d7c6c6e9325b6abc1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2452-1996",
+   "path": "ordin/finante/1996/2452",
+   "short": "Ordin finante nr. 2452/1996",
+   "title": "Ordinul nr. 2.452/1996 privind cheltuielile de executare silită a creanțelor bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10691",
+   "versions": [
+    {
+     "from": "1996-12-30",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10691",
+     "sha256": "bb8ce4dc9983115747d6647801edc1dbcbcb62532bcb914e2e271f06ae5b38a6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2487-1996",
+   "path": "ordin/finante/1996/2487",
+   "short": "Ordin finante nr. 2487/1996",
+   "title": "Ordinul nr. 2.487/1996 pentru aprobarea Normelor metodologice privind finanțarea investițiilor instituțiilor publice prin trezoreria statului și a Normelor metodologice privind aplicarea de către trezoreriile statului a mecanismului de finanțare a investițiilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10692",
+   "versions": [
+    {
+     "from": "1996-12-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10692",
+     "sha256": "0f7af4a73d4b650a2b25c249a3cb6b0d1ed89f3b7ac84e7ac88cd46d59c45e99"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2488-1996",
+   "path": "ordin/finante/1996/2488",
+   "short": "Ordin finante nr. 2488/1996",
+   "title": "Ordinul nr. 2.488/1996 pentru aprobarea Normelor metodologice privind încheierea exercițiului bugetar al anului 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10693",
+   "versions": [
+    {
+     "from": "1996-12-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10693",
+     "sha256": "3a6d4c980678a4b9b43bdc30316deedc4dc90a8a87442dd657105d317f0f18a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-2598-1996",
+   "path": "ordin/finante/1996/2598",
+   "short": "Ordin finante nr. 2598/1996",
+   "title": "Ordinul nr. 2.598/1996 privind lansarea unor emisiuni de titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10694",
+   "versions": [
+    {
+     "from": "1996-12-19",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10694",
+     "sha256": "ced049e7b485441c63c42b8633c2b7121928aacc0fc602cdca45d7cba0816bd9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-317-1996",
+   "path": "ordin/finante/1996/317",
+   "short": "Ordin finante nr. 317/1996",
+   "title": "Ordinul nr. 317/1996 privind aprobarea lansării unei emisiuni de titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9084",
+   "versions": [
+    {
+     "from": "1996-02-19",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9084",
+     "sha256": "4eead21192ba543b98ad7b47f576426e2f825d33c4032e741d25f5cf7739be73"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-320-1996",
+   "path": "ordin/finante/1996/320",
+   "short": "Ordin finante nr. 320/1996",
+   "title": "Ordinul nr. 320/1996 privind necesitatea actualizării modelelor și caracteristicilor formularelor tipizate specifice, potrivit modificărilor intervenite în legislația fiscală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9089",
+   "versions": [
+    {
+     "from": "1996-03-12",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9089",
+     "sha256": "b1034612842c2d3708a5ec1320fd081685b86dbfe01a7ff6b4bd49d292c4a1cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-33-1996",
+   "path": "ordin/finante/1996/33",
+   "short": "Ordin finante nr. 33/1996",
+   "title": "Ordinul nr. 33/1996 pentru aprobarea Precizărilor privind măsurile referitoare la încheierea exercițiului financiar pe anul 1995 la agenții economici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8141",
+   "versions": [
+    {
+     "from": "1996-01-16",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8141",
+     "sha256": "a13d0d26ec504a4c167dbd088d5899349c4e7b716c4d57c9648448acde26eef1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-545-1996",
+   "path": "ordin/finante/1996/545",
+   "short": "Ordin finante nr. 545/1996",
+   "title": "Ordinul nr. 545/1996 privind lansarea unor emisiuni de titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9544",
+   "versions": [
+    {
+     "from": "1996-03-18",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9544",
+     "sha256": "a8ec55d191ee3ea00c222adf524b1ff89e3e7bcfefa8be3bf98d7e887977f382"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-677-1996",
+   "path": "ordin/finante/1996/677",
+   "short": "Ordin finante nr. 677/1996",
+   "title": "Ordinul nr. 677/1996 pentru aprobarea Normelor metodologice privind modul de utilizare a mijloacelor extrabugetare constituite în baza Hotărârii Guvernului nr. 226/1995, la dispoziția Ministerului Finanțelor, din comisioanele încasate în contul serviciilor prestate pentru Societatea Comercială \"Asigurarea Românească\" - S.A. - ASIROM și pentru alți beneficiari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9736",
+   "versions": [
+    {
+     "from": "1996-04-23",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9736",
+     "sha256": "5ad73f17f5d901ccf0c30a901480deded1ddff5940e2e54816b5b4a32f60cc94"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-761-1996",
+   "path": "ordin/finante/1996/761",
+   "short": "Ordin finante nr. 761/1996",
+   "title": "Ordinul nr. 761/1996 pentru aprobarea Instrucțiunilor privind impunerea liber-profesionistilor și a altor persoane fizice autorizate potrivit legii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9818",
+   "versions": [
+    {
+     "from": "1996-06-28",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9818",
+     "sha256": "5de88a149f7440693d103c6da99e5ea33fc99af0b02ba06a28105783847d49fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-856-1996",
+   "path": "ordin/finante/1996/856",
+   "short": "Ordin finante nr. 856/1996",
+   "title": "Ordinul nr. 856/1996 privind lansarea unei emisiuni de titluri de stat seria 1996 D2",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9921",
+   "versions": [
+    {
+     "from": "1996-04-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9921",
+     "sha256": "2ec3d23a1131dd37d99f2bfb0cf525117ec0c9fb3912489c33c2c80f0e558d4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-884-1996",
+   "path": "ordin/finante/1996/884",
+   "short": "Ordin finante nr. 884/1996",
+   "title": "Ordinul nr. 884/1996 pentru aprobarea Normelor privind încadrarea în munca a unor persoane prin încheierea convențiilor civile de prestări de servicii pentru încasarea creanțelor bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9947",
+   "versions": [
+    {
+     "from": "1996-05-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9947",
+     "sha256": "6422ba1bee57447d31f96a10f0fe0e8752b5c3be037c225b4947f48bb2b1ed5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-886-1996",
+   "path": "ordin/finante/1996/886",
+   "short": "Ordin finante nr. 886/1996",
+   "title": "Ordinul nr. 886/1996 privind aprobarea Instrucțiunilor nr. 18.089/1996 pentru actualizarea cuantumului indemnizațiilor de delegare și de detașare, potrivit prevederilor art. 3 din Hotărârea Guvernului nr. 543/1995 privind drepturile bănești ale salariaților instituțiilor publice și regiilor autonome cu specific deosebit pe perioada delegării, detașării și deplasării în cadrul localității, în interesul serviciului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9950",
+   "versions": [
+    {
+     "from": "1996-05-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9950",
+     "sha256": "56144d75f8311b495b5815e16887c99d33312dad179cc7b9607cdc37397a3795"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-972-1996",
+   "path": "ordin/finante/1996/972",
+   "short": "Ordin finante nr. 972/1996",
+   "title": "Ordinul nr. 972/1996 privind aprobarea Normelor metodologice pentru aplicarea prevederilor referitoare la executarea silită a creanțelor bugetare din Ordonanța Guvernului nr. 11/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10039",
+   "versions": [
+    {
+     "from": "1996-05-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10039",
+     "sha256": "643cb173b1ba8d3039f2219abb30509ca9dd529c897a0149404d6eb7d338c24a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-974-1996",
+   "path": "ordin/finante/1996/974",
+   "short": "Ordin finante nr. 974/1996",
+   "title": "Ordinul nr. 974/1996 privind lansarea unei emisiuni de titluri de stat cu discont seria D3 96.08.15",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10042",
+   "versions": [
+    {
+     "from": "1996-05-06",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10042",
+     "sha256": "5388a8622021a06ead65cecf62c568d7d1da0e3880a7a43ea629542bd488f204"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-1410-c-1996",
+   "path": "ordin/justitie/1996/1410-c",
+   "short": "Ordin justitie nr. 1410/C/1996",
+   "title": "Ordinul nr. 1.410/C/1996 pentru modificarea Regulamentului de punere în aplicare a Legii notarilor publici și a activității notariale nr. 36/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10479",
+   "versions": [
+    {
+     "from": "1997-02-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10479",
+     "sha256": "409787408bf69e131a1a6c783be3dbed91c5d4abc52c89f94f2f67e489cc211a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-115-1996",
+   "path": "ordin/munca/1996/115",
+   "short": "Ordin munca nr. 115/1996",
+   "title": "Ordinul nr. 115/1996 privind aprobarea Normelor specifice de securitate a muncii pentru fabricarea țevilor și produselor tubulare din oțel",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8605",
+   "versions": [
+    {
+     "from": "1996-04-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8605",
+     "sha256": "641df5e60d6135cff39841215ee3ca431b6655d2f93da0f881ba82fc1c6bf7a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-116-1996",
+   "path": "ordin/munca/1996/116",
+   "short": "Ordin munca nr. 116/1996",
+   "title": "Ordinul nr. 116/1996 privind aprobarea Normelor de securitate a muncii pentru lucrările de zidărie, montaj prefabricate și finisaje în construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8610",
+   "versions": [
+    {
+     "from": "1996-04-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8610",
+     "sha256": "7889c2ba970786ad948dbdb23ccd1676d0e1275e5ef31492828feb9aca0aa7b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-117-1996",
+   "path": "ordin/munca/1996/117",
+   "short": "Ordin munca nr. 117/1996",
+   "title": "Ordinul nr. 117/1996 privind aprobarea Normelor specifice de securitate a muncii pentru lucrări de instalații tehnico-sanitare și de încălzire",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8615",
+   "versions": [
+    {
+     "from": "1996-04-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8615",
+     "sha256": "4f6d89f3711d89d8baf06fef815cf79c5511246eaced9ad89467c8e14d6916ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-118-1996",
+   "path": "ordin/munca/1996/118",
+   "short": "Ordin munca nr. 118/1996",
+   "title": "Ordinul nr. 118/1996 privind aprobarea Normelor specifice de securitate a muncii pentru activități de vopsire",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8620",
+   "versions": [
+    {
+     "from": "1996-04-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8620",
+     "sha256": "69f6f8f20cff67b15faa6a5c3f6b6fc0a64cd451425ca90e28183c5b910a2d76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-2112-1996",
+   "path": "ordin/munca/1996/2112",
+   "short": "Ordin munca nr. 2112/1996",
+   "title": "Ordinul nr. 2.112/1996 privind completarea Clasificării ocupațiilor din România (C.O.R.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10674",
+   "versions": [
+    {
+     "from": "1996-12-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10674",
+     "sha256": "836b182ca9c73d140b30240e58c28f75380a60c632d085ed50b7452b0c6493e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-225-1996",
+   "path": "ordin/munca/1996/225",
+   "short": "Ordin munca nr. 225/1996",
+   "title": "Ordinul nr. 225/1996 ORDIN Nr. 225 din 4 iunie 1996 pentru aprobarea Normelor tehnice privind deținerea, prepararea, experimentarea, distrugerea, transportul, depozitarea, mânuirea și folosirea materiilor explozive utilizate în activitățile deținătorilor și autorizarea artificierilor pirotehniști",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8892",
+   "versions": [
+    {
+     "from": "1996-06-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8892",
+     "sha256": "513ebdb2610c43e0f437ff310cc680ca566c0b87ee5a324c4955ff2ea1c2a607"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-310-1996",
+   "path": "ordin/munca/1996/310",
+   "short": "Ordin munca nr. 310/1996",
+   "title": "Ordinul nr. 310/1996 privind aprobarea Normelor specifice de securitate a muncii pentru prelucrarea automată a datelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9064",
+   "versions": [
+    {
+     "from": "1996-08-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9064",
+     "sha256": "40ddcf0424b72e0b7c6eb95782dd7013d168ab33cbc7df309263b414eff4dc44"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-311-1996",
+   "path": "ordin/munca/1996/311",
+   "short": "Ordin munca nr. 311/1996",
+   "title": "Ordinul nr. 311/1996 privind obligațiile cetățenilor români care intenționează să lucreze în Israel",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9067",
+   "versions": [
+    {
+     "from": "1996-09-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9067",
+     "sha256": "dff626e5574c32060f9f4fb28831974e48c9cc96cc078e3932f46805d5675b33"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-312-1996",
+   "path": "ordin/munca/1996/312",
+   "short": "Ordin munca nr. 312/1996",
+   "title": "Ordinul nr. 312/1996 privind aprobarea Normelor specifice de securitate a muncii pentru producerea materialelor termo- și hidroizolante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9070",
+   "versions": [
+    {
+     "from": "1996-08-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9070",
+     "sha256": "31e917fdae16ecab570818fa6b6bc6ca67ceb9aaf4cfb2c72e2ab7f2ca4d13e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-313-1996",
+   "path": "ordin/munca/1996/313",
+   "short": "Ordin munca nr. 313/1996",
+   "title": "Ordinul nr. 313/1996 privind aprobarea Normelor specifice de securitate a muncii pentru fabricarea și prelucrarea fibrelor de sticla",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9073",
+   "versions": [
+    {
+     "from": "1996-08-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9073",
+     "sha256": "ba036ee4d2ed658fd46d7f2eda77dd49706c5a5308f92513093241c8f783ebb6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-314-1996",
+   "path": "ordin/munca/1996/314",
+   "short": "Ordin munca nr. 314/1996",
+   "title": "Ordinul nr. 314/1996 privind aprobarea Normelor specifice de securitate a muncii pentru exploatarea metroului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9076",
+   "versions": [
+    {
+     "from": "1996-08-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9076",
+     "sha256": "0b60d96667d0fce8de4addff97196d76f9994c8b6e6490b8b8d6303fe0c5af6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-315-1996",
+   "path": "ordin/munca/1996/315",
+   "short": "Ordin munca nr. 315/1996",
+   "title": "Ordinul nr. 315/1996 privind aprobarea Normelor specifice de securitate a muncii pentru fabricarea produselor din ceramica bruta și fina pentru construcții",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9079",
+   "versions": [
+    {
+     "from": "1996-08-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9079",
+     "sha256": "8c881ab44eab10c294659f4de4867254a60f2f98d12f81cd54dab4eb7266b42d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-388-1996",
+   "path": "ordin/munca/1996/388",
+   "short": "Ordin munca nr. 388/1996",
+   "title": "Ordinul nr. 388/1996 privind aprobarea normelor metodologice în aplicarea prevederilor Legii protecției muncii nr. 90/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9227",
+   "versions": [
+    {
+     "from": "1996-10-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9227",
+     "sha256": "161f363b9b357620da724d164461c521fe5e8b3c68ad4fb7cbfdf8914a7caeaa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-389-1996",
+   "path": "ordin/munca/1996/389",
+   "short": "Ordin munca nr. 389/1996",
+   "title": "Ordinul nr. 389/1996 ORDIN Nr. 389 din 10 septembrie 1996 privind aprobarea Normelor specifice de securitate a muncii pentru prelucrarea azbestului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9230",
+   "versions": [
+    {
+     "from": "1996-09-17",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9230",
+     "sha256": "0d4c817a10a76ea406da4dd0d07d2c1d816b834e3286bf1a98231c1635670a5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-441-1996",
+   "path": "ordin/munca/1996/441",
+   "short": "Ordin munca nr. 441/1996",
+   "title": "Ordinul nr. 441/1996 pentru aprobarea Metodologiei privind modul de recorelare a pensiilor pentru munca depusa și limita de vârsta cu vechime integrală și de invaliditate gradul I",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9333",
+   "versions": [
+    {
+     "from": "1996-11-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9333",
+     "sha256": "92dc606e9236c8f87e034102f5b4816ff35baf27f257250c861f7d54a5bc7f49"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-568-1996",
+   "path": "ordin/munca/1996/568",
+   "short": "Ordin munca nr. 568/1996",
+   "title": "Ordinul nr. 568/1996 privind aprobarea Normelor specifice de securitate a muncii pentru fabricarea mașinilor electrice rotative, a transformatoarelor și a condensatoarelor de forța",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9588",
+   "versions": [
+    {
+     "from": "1996-12-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9588",
+     "sha256": "ba94402e00a8db268f2d684acb9e5afcc6a688164df8c676541ed574852fb330"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-569-1996",
+   "path": "ordin/munca/1996/569",
+   "short": "Ordin munca nr. 569/1996",
+   "title": "Ordinul nr. 569/1996 privind aprobarea Normelor specifice de securitate a muncii pentru producerea aerului comprimat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9591",
+   "versions": [
+    {
+     "from": "1996-12-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9591",
+     "sha256": "7d9ace317b780d8f262bf7ec4834e0b77f204dc80608465f8d9a973adfd1e17a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-570-1996",
+   "path": "ordin/munca/1996/570",
+   "short": "Ordin munca nr. 570/1996",
+   "title": "Ordinul nr. 570/1996 privind aprobarea Normelor specifice de securitate a muncii pentru tratamente termice și termochimice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9594",
+   "versions": [
+    {
+     "from": "1996-12-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9594",
+     "sha256": "4fcd611a9b39f6ab36afdabb064afa308e92e1ea95f5683d1d121a4b2cacd7a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-578-1996",
+   "path": "ordin/munca/1996/578",
+   "short": "Ordin munca nr. 578/1996",
+   "title": "Ordinul nr. 578/1996 pentru aprobarea Normelor generale de protecție a muncii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/9609",
+   "versions": [
+    {
+     "from": "1996-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9609",
+     "sha256": "ebc92c0f5cf505c8b34eb735dbac7abafb9692534eca591f466aa72b322b7221"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-89-1996",
+   "path": "ordin/munca/1996/89",
+   "short": "Ordin munca nr. 89/1996",
+   "title": "Ordinul nr. 89/1996 privind aprobarea Normelor specifice de securitate a muncii pentru gospodărie comunală și salubritate publică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8490",
+   "versions": [
+    {
+     "from": "1996-04-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8490",
+     "sha256": "46e945e6750ec344ff1461033ff54e6cead31026270f518ff56ac592474592e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-90-1996",
+   "path": "ordin/munca/1996/90",
+   "short": "Ordin munca nr. 90/1996",
+   "title": "Ordinul nr. 90/1996 privind aprobarea Normelor specifice de securitate a muncii pentru fabricarea, depozitarea și transportul firelor și fibrelor sintetice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8495",
+   "versions": [
+    {
+     "from": "1996-04-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8495",
+     "sha256": "3337d612b85b2b725d41beac7dddc1192c314bb66867bb080214b4ba779be881"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1573-1996",
+   "path": "ordin/sanatate/1996/1573",
+   "short": "Ordin sanatate nr. 1573/1996",
+   "title": "Ordinul nr. 1.573/1996 privind modificarea Ordinului ministrului sănătății nr. 2.234/1994 pentru aprobarea Normelor privind eliberarea autorizațiilor de funcționare a unităților farmaceutice, precum și a regulamentelor de organizare și funcționare a acestor unități",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10650",
+   "versions": [
+    {
+     "from": "1996-07-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10650",
+     "sha256": "21e4f1f9bdcc0ed8452f30cf98732b3b663478783f3abb26e8615d35f4435e51"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1988-1996",
+   "path": "ordin/sanatate/1996/1988",
+   "short": "Ordin sanatate nr. 1988/1996",
+   "title": "Ordinul nr. 1.988/1996 privind controlul calității produselor farmaceutice și a altor produse de uz uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10668",
+   "versions": [
+    {
+     "from": "1996-12-16",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10668",
+     "sha256": "44a19105ee46a3846b8b2a30a8ead28647a0dc0eab3ed57fd9938e459bdf3a44"
+    }
+   ]
+  }
+ ]
+}

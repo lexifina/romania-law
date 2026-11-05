@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "regulament/2026",
+ "acts": [
+  {
+   "slug": "regulament-asf-1-2026",
+   "path": "regulament/asf/2026/1",
+   "short": "Regulament asf nr. 1/2026",
+   "title": "Regulamentul nr. 1/2026 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 7/2020 privind autorizarea și funcționarea fondurilor de investiții alternative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307525",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307525",
+     "sha256": "933f2e9840b014e2a7145ea79490b5a10ade3f61b6865edf9196b832927f07d7"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-2-2026",
+   "path": "regulament/asf/2026/2",
+   "short": "Regulament asf nr. 2/2026",
+   "title": "Regulamentul nr. 2/2026 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 9/2014 privind autorizarea și funcționarea societăților de administrare a investițiilor, a organismelor de plasament colectiv în valori mobiliare și a depozitarilor organismelor de plasament colectiv în valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308140",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308140",
+     "sha256": "6ebce8ad630aab56a629a520a71ad3ed6ff71615fb19c862d0beae8989732821"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-3-2026",
+   "path": "regulament/asf/2026/3",
+   "short": "Regulament asf nr. 3/2026",
+   "title": "Regulamentul nr. 3/2026 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 4/2016 privind organizarea și funcționarea Entității de Soluționare Alternativă a Litigiilor în domeniul financiar nonbancar (SAL-FIN)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/309831",
+   "versions": [
+    {
+     "from": "2026-04-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/309831",
+     "sha256": "b9382427b53ea77e8aa190b107e09be128bc1b859bd158360d95cebc088f6fbd"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-4-2026",
+   "path": "regulament/asf/2026/4",
+   "short": "Regulament asf nr. 4/2026",
+   "title": "Regulamentul nr. 4/2026 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 8/2025 privind organizarea și funcționarea Autorității de Supraveghere Financiară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311124",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311124",
+     "sha256": "57832761bbba257fdf24127a0f0e2bdb8b4d20c4bf2e00befe2163d938e3576c"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-5-2026",
+   "path": "regulament/asf/2026/5",
+   "short": "Regulament asf nr. 5/2026",
+   "title": "Regulamentul nr. 5/2026 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2022 privind Fondul de compensare a investitorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/312308",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/312308",
+     "sha256": "5efff61c9bb18614a56a3ddf90ac7cfff7078c7b68be9d8fe193a45bfe3ff372"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-6-2026",
+   "path": "regulament/asf/2026/6",
+   "short": "Regulament asf nr. 6/2026",
+   "title": "Regulamentul nr. 6/2026 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 10/2015 privind administrarea fondurilor de investiții alternative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314048",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314048",
+     "sha256": "24440c1221ab2f785319a300a230b22b490f260e30a9a27ca2762f9200209025"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-7-2026",
+   "path": "regulament/asf/2026/7",
+   "short": "Regulament asf nr. 7/2026",
+   "title": "Regulamentul nr. 7/2026 pentru completarea Regulamentului Autorității de Supraveghere Financiară nr. 5/2019 privind reglementarea unor dispoziții referitoare la prestarea serviciilor și activităților de investiții conform Legii nr. 126/2018 privind piețele de instrumente financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314394",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314394",
+     "sha256": "68f80fdf5b212447730291de6699cf616fec22aff96663fb200e80b744836278"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-8-2026",
+   "path": "regulament/asf/2026/8",
+   "short": "Regulament asf nr. 8/2026",
+   "title": "Regulamentul nr. 8/2026 pentru modificarea lit. c) a art. 3 din Regulamentul Autorității de Supraveghere Financiară nr. 11/2018 privind aplicarea unor prevederi ale art. 104 din Legea nr. 126/2018 privind piețele de instrumente financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314580",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314580",
+     "sha256": "83f2bdb68493ad5af5b45b72fb4e642e7a1ba82067c6a14126c9a7e726d912e2"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-asf-9-2026",
+   "path": "regulament/asf/2026/9",
+   "short": "Regulament asf nr. 9/2026",
+   "title": "Regulamentul nr. 9/2026 pentru modificarea și completarea Regulamentului Autorității de Supraveghere Financiară nr. 9/2014 privind autorizarea și funcționarea societăților de administrare a investițiilor, a organismelor de plasament colectiv în valori mobiliare și a depozitarilor organismelor de plasament colectiv în valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/315268",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/315268",
+     "sha256": "493e13e82fe754df63c7ae4a09353c01c19d0804fddfe3e8c430944dbc6ce9ed"
+    }
+   ]
+  },
+  {
+   "slug": "regulament-bnr-1-2026",
+   "path": "regulament/bnr/2026/1",
+   "short": "Regulament bnr nr. 1/2026",
+   "title": "Regulamentul nr. 1/2026 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 4/2023 privind cerințe prudențiale pentru băncile de dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/308453",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/308453",
+     "sha256": "643c901a8801b2fc27b8f14408725da290a426cde9a366df9bda6eacafe8257b"
+    }
+   ]
+  }
+ ]
+}

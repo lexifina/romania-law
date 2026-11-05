@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "decizie-bec/1996",
+ "acts": [
+  {
+   "slug": "decizie-bec-locale-1996-1",
+   "path": "decizie-bec/locale-1996/1",
+   "short": "Hotărârea BEC nr. 1/1996",
+   "title": "HOTĂRÂRE nr. 1 din 26 aprilie 1996 privind unele precizări referitoare la alegerile locale",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/7690",
+   "versions": [
+    {
+     "from": "1996-04-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/7690",
+     "sha256": "185da616d712d5fe1846fdda07df744824e95f243cc95f9caf5ced11017af8cd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-1996-19",
+   "path": "decizie-bec/locale-1996/19",
+   "short": "Hotărârea BEC nr. 19/1996",
+   "title": "HOTĂRÂRE nr. 19 din 21 mai 1996 privind repartizarea mandatelor de consilieri",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/7984",
+   "versions": [
+    {
+     "from": "1996-05-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/7984",
+     "sha256": "5c9b0c001c62ca25acb1ff161ded3b6c505a6f83a29a9c8cc4d357ee5a0c8bdf"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-1996-54",
+   "path": "decizie-bec/locale-1996/54",
+   "short": "Hotărârea BEC nr. 54/1996",
+   "title": "Hotărârea Biroului Electoral Central nr. 54 din 1996-10-24",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/8303",
+   "versions": [
+    {
+     "from": "1996-10-31",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/8303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-1996-anexa-1996-06-02",
+   "path": "decizie-bec/locale-1996/anexa-1996-06-02",
+   "short": "Anexă BEC din 1996-06-02",
+   "title": "ANEXA din 2 iunie 1996 la procesele-verbale privind alegerea primarilor, consilierilor locali şi consilierilor judeţeni",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/7672",
+   "versions": [
+    {
+     "from": "1996-06-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/7672",
+     "sha256": "dec2837decd68b6d467168b27120031228c12fd48542c90a05a621d53c443592"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-1996-proces-verbal-1996-06-02-2",
+   "path": "decizie-bec/locale-1996/proces-verbal-1996-06-02-2",
+   "short": "Proces verbal BEC din 1996-06-02",
+   "title": "Proces verbal Biroului Electoral Central din 1996-06-02",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/7676",
+   "versions": [
+    {
+     "from": "1996-06-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/7676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-1996-proces-verbal-1996-06-02-3",
+   "path": "decizie-bec/locale-1996/proces-verbal-1996-06-02-3",
+   "short": "Proces verbal BEC din 1996-06-02",
+   "title": "Proces verbal Biroului Electoral Central din 1996-06-02",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/7677",
+   "versions": [
+    {
+     "from": "1996-06-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/7677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-1996-proces-verbal-1996-06-02",
+   "path": "decizie-bec/locale-1996/proces-verbal-1996-06-02",
+   "short": "Proces verbal BEC din 1996-06-02",
+   "title": "Proces verbal Biroului Electoral Central din 1996-06-02",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/7675",
+   "versions": [
+    {
+     "from": "1996-06-12",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/7675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-1996-proces-verbal-1996-06-19-2",
+   "path": "decizie-bec/locale-1996/proces-verbal-1996-06-19-2",
+   "short": "Proces verbal BEC din 1996-06-19",
+   "title": "Proces verbal Biroului Electoral Central din 1996-06-19",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/7679",
+   "versions": [
+    {
+     "from": "1996-06-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/7679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-1996-proces-verbal-1996-06-19-3",
+   "path": "decizie-bec/locale-1996/proces-verbal-1996-06-19-3",
+   "short": "Proces verbal BEC din 1996-06-19",
+   "title": "PROCES VERBAL*) din 19 iunie 1996 privind centralizarea pe ţara a voturilor şi constatarea rezultatului pentru alegerea CONSILIILOR JUDEŢENE",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/7680",
+   "versions": [
+    {
+     "from": "1996-06-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/7680",
+     "sha256": "525c548c8a979e5538e8ae876d43e89edea425524a936a1b05d3783e77f3f9b2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-locale-1996-proces-verbal-1996-06-19",
+   "path": "decizie-bec/locale-1996/proces-verbal-1996-06-19",
+   "short": "Proces verbal BEC din 1996-06-19",
+   "title": "Proces verbal Biroului Electoral Central din 1996-06-19",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/7678",
+   "versions": [
+    {
+     "from": "1996-06-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/7678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "decizie-bec-parlamentare-1996-37",
+   "path": "decizie-bec/parlamentare-1996/37",
+   "short": "Hotărârea BEC nr. 37/1996",
+   "title": "Hotărârea Biroului Electoral Central nr. 37 din 1996-10-18",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/8181",
+   "versions": [
+    {
+     "from": "1996-10-31",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/8181",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

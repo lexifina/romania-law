@@ -1,0 +1,137 @@
+{
+"country": "RO",
+"shard": "norma-aep/2017",
+"acts": [
+{
+"slug": "norma-aep-instructiuni-4-2017",
+"path": "norma-aep/2017/instructiuni-4",
+"kind": "norma-aep",
+"year": "2017",
+"number": "instructiuni-4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Instrucțiunile Autorității Electorale Permanente nr. 4 din 2017-10-09",
+"short": "Instrucțiunile AEP nr. 4/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2017-10-10",
+"latest": "2017-10-10",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/193859",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-lista-1-2017",
+"path": "norma-aep/2017/lista-1",
+"kind": "norma-aep",
+"year": "2017",
+"number": "lista-1",
+"withdrawn_by": null,
+"reason": null,
+"title": "LISTA nr. 1 din 19 iunie 2017 partidelor politice, alianţelor politice, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, la alegerile locale parţiale desfăşurate conform Hotărârii Guvernului nr. 251/2017 privind stabilirea datei alegerilor locale parţiale pentru primari în unele circumscripţii electorale",
+"short": "Listă AEP nr. 1/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-06-20",
+"latest": "2017-06-20",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/190261"
+},
+{
+"slug": "norma-aep-lista-2-2017",
+"path": "norma-aep/2017/lista-2",
+"kind": "norma-aep",
+"year": "2017",
+"number": "lista-2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Listă Autorității Electorale Permanente nr. 2 din 2017-06-21",
+"short": "Listă AEP nr. 2/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2017-06-22",
+"latest": "2017-06-22",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/190311",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-lista-3-2017",
+"path": "norma-aep/2017/lista-3",
+"kind": "norma-aep",
+"year": "2017",
+"number": "lista-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "LISTA nr. 3 din 22 iunie 2017 partidelor politice, alianţelor politice, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, la alegerile locale parţiale desfăşurate conform Hotărârii Guvernului nr. 251/2017 privind stabilirea datei alegerilor locale parţiale pentru primari în unele circumscripţii electorale",
+"short": "Listă AEP nr. 3/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-06-22",
+"latest": "2017-06-22",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/190324"
+},
+{
+"slug": "norma-aep-lista-5-2017",
+"path": "norma-aep/2017/lista-5",
+"kind": "norma-aep",
+"year": "2017",
+"number": "lista-5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Listă Autorității Electorale Permanente nr. 5 din 2017-06-27",
+"short": "Listă AEP nr. 5/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2017-06-28",
+"latest": "2017-06-28",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/190424",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-lista-7-2017",
+"path": "norma-aep/2017/lista-7",
+"kind": "norma-aep",
+"year": "2017",
+"number": "lista-7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Listă Autorității Electorale Permanente nr. 7 din 2017-11-22",
+"short": "Listă AEP nr. 7/2017",
+"code": null,
+"status": "metadata only (text withheld: personal data)",
+"versions": 1,
+"from": "2017-11-23",
+"latest": "2017-11-23",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/194990",
+"flags": {
+"text_withheld": "personal_data"
+}
+},
+{
+"slug": "norma-aep-metodologie-2017-05-23-2017",
+"path": "norma-aep/2017/metodologie-2017-05-23",
+"kind": "norma-aep",
+"year": "2017",
+"number": "metodologie-2017-05-23",
+"withdrawn_by": null,
+"reason": null,
+"title": "METODOLOGIE din 23 mai 2017 de avizare a actualizării delimitării secţiilor de votare din ţară şi a stabilirii sediilor acestora",
+"short": "Metodologia AEP din 2017-05-23",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-05-25",
+"latest": "2017-05-25",
+"portal": "http://legislatie.just.ro/Public/DetaliiDocument/189528"
+}
+]
+}

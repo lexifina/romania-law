@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "anspdcp/2007",
+ "acts": [
+  {
+   "slug": "anspdcp-decizie-2007-100",
+   "path": "anspdcp/decizie/2007/100",
+   "short": "Decizia ANSPDCP nr. 100/2007",
+   "title": "Decizia ANSPDCP nr. 100/2007: privind stabilirea cazurilor în care nu este necesară notificarea prelucrării unor date cu caracter personal - A fost abrogată prin Decizia 200/2015",
+   "url": "https://www.dataprotection.ro/servlet/ViewDocument?id=204",
+   "versions": [
+    {
+     "from": "2007-11-23",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/servlet/ViewDocument?id=204",
+     "sha256": "1e61fe585f563de9fa94d911b2f49f436ec1758513db5717a0a901918df45fa6"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-decizie-2007-105",
+   "path": "anspdcp/decizie/2007/105",
+   "short": "Decizia ANSPDCP nr. 105/2007",
+   "title": "Decizia ANSPDCP nr. 105/2007: cu privire la prelucrările de date cu caracter personal efectuate în sisteme de evidență de tipul birourilor de credit - A fost abrogată prin Decizia nr. 99/2018",
+   "url": "https://www.dataprotection.ro/servlet/ViewDocument?id=205",
+   "versions": [
+    {
+     "from": "2007-12-15",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/servlet/ViewDocument?id=205",
+     "sha256": "5ec9eedb8f8717c1ffd1227647102ca8d7907cdfea05d78aa3aa6aca1c2462d6"
+    }
+   ]
+  },
+  {
+   "slug": "anspdcp-decizie-2007-28",
+   "path": "anspdcp/decizie/2007/28",
+   "short": "Decizia ANSPDCP nr. 28/2007",
+   "title": "Decizia ANSPDCP nr. 28/2007: privind transferurile datelor cu caracter personal către alte state - A fost abrogată prin Decizia 200/2015",
+   "url": "https://www.dataprotection.ro/servlet/ViewDocument?id=224",
+   "versions": [
+    {
+     "from": "2007-03-07",
+     "units": 1,
+     "source_url": "https://www.dataprotection.ro/servlet/ViewDocument?id=224",
+     "sha256": "5e426e344af1056d95ff302de524349c387dd3d12d5dc1476ee6f5467fc8502a"
+    }
+   ]
+  }
+ ]
+}

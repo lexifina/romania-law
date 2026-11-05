@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "curtea-de-conturi/2010",
+ "acts": [
+  {
+   "slug": "curtea-de-conturi-hotarare-plen-130-2010",
+   "path": "curtea-de-conturi/hotarare-plen/2010/130",
+   "short": "Hotărârea Curtea de Conturi nr. 130/2010",
+   "title": "HOTĂRÂRE nr. 130 din 4 noiembrie 2010 pentru aprobarea Regulamentului privind organizarea şi desfăşurarea activităţilor specifice Curţii de Conturi, precum şi valorificarea actelor rezultate din aceste activităţi",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/124385",
+   "versions": [
+    {
+     "from": "2010-12-13",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/124385",
+     "sha256": "5eb331040c59d40e85c0836f7cb924ccbbfa594104ec6389fceec67dd9e90de7"
+    }
+   ]
+  },
+  {
+   "slug": "curtea-de-conturi-regulament-130-2010-2010",
+   "path": "curtea-de-conturi/regulament/2010/130-2010",
+   "short": "Regulamentul Curtea de Conturi nr. 130-2010/2010",
+   "title": "Regulamentul Curții de Conturi nr. 130-2010 din 2010-11-04",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/124386",
+   "versions": [
+    {
+     "from": "2010-12-13",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/124386",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

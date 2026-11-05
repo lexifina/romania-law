@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "norma/2010",
+ "acts": [
+  {
+   "slug": "norma-bnr-1-2010",
+   "path": "norma/bnr/2010/1",
+   "short": "Norma bnr nr. 1/2010",
+   "title": "Norma nr. 1/2010 privind transmiterea prin mijloace electronice a unor documente aferente operațiunilor de piață monetară efectuate de către Banca Națională a României prin intermediul licitației și facilităților permanente acordate de aceasta participanților eligibili",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120451",
+   "versions": [
+    {
+     "from": "2010-08-02",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120451",
+     "sha256": "2e3e0c0040319cb2dd4cf027caf8e44432fe8043242dfd79a657d44d28c54f5e"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-2-2010",
+   "path": "norma/bnr/2010/2",
+   "short": "Norma bnr nr. 2/2010",
+   "title": "Norma nr. 2/2010 privind transmiterea prin mijloace electronice a unor documente aferente licitațiilor și subscripțiilor de titluri de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120452",
+   "versions": [
+    {
+     "from": "2010-08-02",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120452",
+     "sha256": "4e21464c54117a2ec28282a6b56b61dae85fb049163cfcb88421e0ef870229e5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-12-2010",
+   "path": "norma/csspp/2010/12",
+   "short": "Norma csspp nr. 12/2010",
+   "title": "Norma nr. 12/2010 privind autorizarea de constituire a societății de pensii și autorizarea de administrare a fondurilor de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122730",
+   "versions": [
+    {
+     "from": "2010-10-14",
+     "units": 69,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122730",
+     "sha256": "6cf7431a9fec59c27a0569e0b72605c598e13ce734c7e5ffca987e0e78c77561"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-13-2010",
+   "path": "norma/csspp/2010/13",
+   "short": "Norma csspp nr. 13/2010",
+   "title": "Norma nr. 13/2010 privind autorizarea de constituire a societății de pensii și autorizarea de administrare a fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122728",
+   "versions": [
+    {
+     "from": "2010-10-14",
+     "units": 66,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122728",
+     "sha256": "fc5c5408afe9b5346b39ad974acf08375dc3bd016cf259bb904c76360d0c5402"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-15-2010",
+   "path": "norma/csspp/2010/15",
+   "short": "Norma csspp nr. 15/2010",
+   "title": "Norma nr. 15/2010 pentru modificarea Normei nr. 26/2007 privind modificarea temporară a procentului maxim care poate fi investit în fiecare categorie de active ale fondurilor de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123207",
+   "versions": [
+    {
+     "from": "2010-11-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123207",
+     "sha256": "8b16cf5086d538ac71b61770d8fa7e10bacaf0c1f6111c631438cc7770fb3c38"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-16-2010",
+   "path": "norma/csspp/2010/16",
+   "short": "Norma csspp nr. 16/2010",
+   "title": "Norma nr. 16/2010 privind prospectul schemei de pensii facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124057",
+   "versions": [
+    {
+     "from": "2010-11-30",
+     "units": 43,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124057",
+     "sha256": "88a0a6b76818f69f84a0b661259001686c9410e5eb7d199a5ae4f81a54fbe585"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-2-2010",
+   "path": "norma/csspp/2010/2",
+   "short": "Norma csspp nr. 2/2010",
+   "title": "Norma nr. 2/2010 pentru modificarea și completarea Normei nr. 22/2009 privind aderarea și evidența participanților la fondurile de pensii administrate privat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115872",
+   "versions": [
+    {
+     "from": "2010-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115872",
+     "sha256": "97efb48315791cf65d8d1bef66492054a333d0b6a2993732fb91e75f0119464c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-8-2010",
+   "path": "norma/csspp/2010/8",
+   "short": "Norma csspp nr. 8/2010",
+   "title": "Norma nr. 8/2010 NORMA nr. 8/2010 privind autorizarea administratorilor de fonduri de pensii private, preluarea administrării fondurilor de pensii facultative și organizarea activelor și pasivelor la nivelul administratorilor de fonduri de pensii private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120374",
+   "versions": [
+    {
+     "from": "2010-07-08",
+     "units": 45,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120374",
+     "sha256": "d149bfa2839b2392df36f9db51464305ab9f4070cbf488aa7eb0fcd818fdbbb1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csspp-9-2010",
+   "path": "norma/csspp/2010/9",
+   "short": "Norma csspp nr. 9/2010",
+   "title": "Norma nr. 9/2010 privind sistemul de raportare contabilă la 30 iunie 2010 a entităților autorizate, reglementate și supravegheate de Comisia de Supraveghere a Sistemului de Pensii Private",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121496",
+   "versions": [
+    {
+     "from": "2010-08-16",
+     "units": 27,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121496",
+     "sha256": "cd1aedb8f7e17d3c20c8127c927c0505199ef723549add03ee5b929df5738ed5"
+    }
+   ]
+  }
+ ]
+}

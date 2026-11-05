@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "norma/2001",
+ "acts": [
+  {
+   "slug": "norma-bnr-1-2001",
+   "path": "norma/bnr/2001/1",
+   "short": "Norma bnr nr. 1/2001",
+   "title": "Norma nr. 1/2001 privind lichiditatea băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28008",
+   "versions": [
+    {
+     "from": "2001-07-20",
+     "units": 48,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28008",
+     "sha256": "df25b0b82d60d17d349c234f5791aff0a17cc1a1a10d62ec9c1aa94447e26e02"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-2-2001",
+   "path": "norma/bnr/2001/2",
+   "short": "Norma bnr nr. 2/2001",
+   "title": "Norma nr. 2/2001 privind acordarea de credite din bugetul Fondului pentru plata ajutorului de șomaj în baza Legii nr. 1/1991 privind protecția socială a șomerilor și reintegrarea lor profesională, republicată, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28739",
+   "versions": [
+    {
+     "from": "2001-06-01",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28739",
+     "sha256": "b0515e8cb453fe91ada9a9a38a4482fe7690650267c156d60c9a2c2ef1a91863"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-3-2001",
+   "path": "norma/bnr/2001/3",
+   "short": "Norma bnr nr. 3/2001",
+   "title": "Norma nr. 3/2001 pentru modificarea Normelor Băncii Naționale a României nr. 1/2001 privind lichiditatea băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30141",
+   "versions": [
+    {
+     "from": "2001-11-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30141",
+     "sha256": "79c854600366e3633cd2e53ad1a6dda065f2bda21f92859f6149dae2809bbcf8"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-4-2001",
+   "path": "norma/bnr/2001/4",
+   "short": "Norma bnr nr. 4/2001",
+   "title": "Norma nr. 4/2001 privind supravegherea pozițiilor valutare ale băncilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31104",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31104",
+     "sha256": "649ad74b7271c4f060a26e5e6a89a95c886a568a17b5d49a5e85fa5924d22894"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-5-2001",
+   "path": "norma/bnr/2001/5",
+   "short": "Norma bnr nr. 5/2001",
+   "title": "Norma nr. 5/2001 privind documentația necesară în vederea autorizării operațiunilor financiar-bancare, prevăzute de Ordonanța de urgență a Guvernului nr. 159/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33021",
+   "versions": [
+    {
+     "from": "2001-12-28",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33021",
+     "sha256": "d234b582c72d54ef5561a1992876f79e0b0acf571c54ed7d7db04699ba363b60"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csa-1-2001",
+   "path": "norma/csa/2001/1",
+   "short": "Norma csa nr. 1/2001",
+   "title": "Norma nr. 1/2001 privind cuantumul și termenul de plată a taxei de funcționare datorate de asiguratori și de brokerii de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29638",
+   "versions": [
+    {
+     "from": "2001-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29638",
+     "sha256": "222474561c1068a4151dde7949080c7024d08abe0b0c308d09ce87c0a02f750c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csa-2-2001",
+   "path": "norma/csa/2001/2",
+   "short": "Norma csa nr. 2/2001",
+   "title": "Norma nr. 2/2001 privind informațiile și documentele cerute pentru autorizarea asigurătorilor și criteriile pentru aprobarea acționarilor semnificativi și a persoanelor semnificative ale asigurătorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30263",
+   "versions": [
+    {
+     "from": "2001-08-24",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30263",
+     "sha256": "db62969bbb79981f69c0ec7205294d5229ccc9f7014d595d00f5cf30e06b32b1"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csa-3-2001",
+   "path": "norma/csa/2001/3",
+   "short": "Norma csa nr. 3/2001",
+   "title": "Norma nr. 3/2001 privind clasele de asigurări care pot fi practicate de societățile de asigurare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30265",
+   "versions": [
+    {
+     "from": "2001-08-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30265",
+     "sha256": "7f185e9de5dc27a033ef460dae5605c2548fac2fdddd001c6d3a8c43dd9a0540"
+    }
+   ]
+  },
+  {
+   "slug": "norma-csa-6-2001",
+   "path": "norma/csa/2001/6",
+   "short": "Norma csa nr. 6/2001",
+   "title": "Norma nr. 6/2001 privind categoriile de active admise sa reprezinte rezervele tehnice ale asiguratorului care practica asigurări generale, regulile de dispersare a plasamentelor, precum și coeficientul de lichiditate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31418",
+   "versions": [
+    {
+     "from": "2001-10-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31418",
+     "sha256": "747803987f4d4d4b5860a6a3fab29416f08a60fad5f6c6d2b192f8b8d3fe0600"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-21137-2001",
+   "path": "norma/finante/2001/21137",
+   "short": "Norma finante nr. 21137/2001",
+   "title": "Norma nr. 21.137/2001 privind constituirea și utilizarea Fondului special al drumurilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30765",
+   "versions": [
+    {
+     "from": "2001-09-19",
+     "units": 71,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30765",
+     "sha256": "d05232eebbd631883ff706ccd900af0f1b923bb1c31a6e404789ff4640f50748"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-8100-2001",
+   "path": "norma/finante/2001/8100",
+   "short": "Norma finante nr. 8100/2001",
+   "title": "Norma nr. 8.100/2001 privind constituirea și utilizarea veniturilor cu destinație specială pentru aviația civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30113",
+   "versions": [
+    {
+     "from": "2001-08-15",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30113",
+     "sha256": "34adeb1b9f694522953ecddbdf4ec0ce8a6ed76588c051b7ef462d6734ddf704"
+    }
+   ]
+  },
+  {
+   "slug": "norma-munca-2443-2001",
+   "path": "norma/munca/2001/2443",
+   "short": "Norma munca nr. 2443/2001",
+   "title": "Norma nr. 2.443/2001 privind acordarea de credite din bugetul Fondului pentru plata ajutorului de șomaj în baza Legii nr. 1/1991 privind protecția socială a șomerilor și reintegrarea lor profesională, republicată, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28738",
+   "versions": [
+    {
+     "from": "2001-06-01",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28738",
+     "sha256": "c04f6984ea353aeb52ccd9fd1ce570947ecd2bd4d7d8b4418914de18057e430c"
+    }
+   ]
+  }
+ ]
+}

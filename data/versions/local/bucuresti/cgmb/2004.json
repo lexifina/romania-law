@@ -1,0 +1,561 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/cgmb/2004",
+ "acts": [
+  {
+   "slug": "hcgmb-114-2004",
+   "path": "local/bucuresti/cgmb/2004/114",
+   "short": "HCGMB nr. 114/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 114/2004 privind interzicerea circulatiei vehiculelor in parcurile si gradinile publice din municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12842",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 10,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12842/h0114_04.pdf",
+     "sha256": "978a6cc3dae7ba15b9448a2fc2dd0b9d5d91732ce2d15bb3d89e1ea76b1041c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-116-2004",
+   "path": "local/bucuresti/cgmb/2004/116",
+   "short": "HCGMB nr. 116/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 116/2004 privind aprobarea regulamentului de organizare si desfasurare a concursurilor pentru ocuparea posturilor vacante de conducatori ai institutiilor/serviciilor publice cu sau fara personalitate juridica din subordinea C.G.M.B. (cu exceptia institutiilor de cultura), precum si a functiei de director general al regiilor autonome de interes local de sub autoritatea acestuia",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12858",
+   "versions": [
+    {
+     "from": "2004-07-21",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12858/h0116_04.pdf",
+     "sha256": "a6e1c97aa24c6fcf977b8333d3fac969b3c8814ea019a54aed516a32d4edac95"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-128-2004",
+   "path": "local/bucuresti/cgmb/2004/128",
+   "short": "HCGMB nr. 128/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 128/2004 privind majorarea taxei pentru incredintarea cainilor revendicati sau ceruti spre adoptie",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13013",
+   "versions": [
+    {
+     "from": "2004-08-26",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13013/h0128_04.pdf",
+     "sha256": "5a70e7a9bceea787fc05984fd559c953c5ab67f9e41385addebf2548454bf016"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-13-2004",
+   "path": "local/bucuresti/cgmb/2004/13",
+   "short": "HCGMB nr. 13/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 13/2004 privind aprobarea Planului Urbanistic Zonal – Str. Alexandrina, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11604",
+   "versions": [
+    {
+     "from": "2004-01-22",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11604/h013_04.pdf",
+     "sha256": "64f24238db7ad4a763aa7d07cb72099bbf20b1deea06fecac6851c77e7507361"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-131-2004",
+   "path": "local/bucuresti/cgmb/2004/131",
+   "short": "HCGMB nr. 131/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 131/2004 privind majorarea tarifelor pe mijloacele de transport in comun ale Regiei Autonome de Transport Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13016",
+   "versions": [
+    {
+     "from": "2004-08-26",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13016/h0131_04.pdf",
+     "sha256": "632e0fb4f79af5e78a4804657a1458402b6ad348aa1224b5e6995e31a52c9a74"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-134-2004",
+   "path": "local/bucuresti/cgmb/2004/134",
+   "short": "HCGMB nr. 134/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 134/2004 privind circulatia autovehiculelor destinate transportului de marfuri si a utilajelor cu masa totala maxima autorizata mai mare de 5 tone in municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13019",
+   "versions": [
+    {
+     "from": "2004-08-26",
+     "units": 15,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13019/h0134_04.pdf",
+     "sha256": "0733c44ed20b437885dca5b80b752018a87a712d9dadff12cd92c1cddbedfa23"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-14-2004",
+   "path": "local/bucuresti/cgmb/2004/14",
+   "short": "HCGMB nr. 14/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 14/2004 privind aprobarea Planului Urbanistic Zonal – Bdul Dacia, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11605",
+   "versions": [
+    {
+     "from": "2004-01-22",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11605/h014_04.pdf",
+     "sha256": "0209b2a1fec7b5386825bc09d02f7f144729c131a0ab667146ae33fb6d0f5c34"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-15-2004",
+   "path": "local/bucuresti/cgmb/2004/15",
+   "short": "HCGMB nr. 15/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 15/2004 privind aprobarea Planului Urbanistic Zonal pe o suprafata de cca. 2000 m.p. situat in zona Calea Buzesti – Str. Muntii Tatra, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11606",
+   "versions": [
+    {
+     "from": "2004-01-22",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11606/h015_04.pdf",
+     "sha256": "20a47eb45892a5921115605f3a6e63e5ca9f44e4be19b105aa5e61766998a67b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-16-2004",
+   "path": "local/bucuresti/cgmb/2004/16",
+   "short": "HCGMB nr. 16/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 16/2004 privind aprobarea Planului Urbanistic Zonal – Str. Pictor Stahi nr. 1, sector 1, Bucuresti (Supr. incinta – 175 m.p.)",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11607",
+   "versions": [
+    {
+     "from": "2004-01-22",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11607/h016_04.pdf",
+     "sha256": "3b270702e79e03017453be68714bcf225a921d98f7c83298f378767d4778fe86"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-164-2004",
+   "path": "local/bucuresti/cgmb/2004/164",
+   "short": "HCGMB nr. 164/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 164/2004 privind majorarea taxei pentru incredintarea cainilor revendicati sau ceruti spre adoptie",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13311",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13311/h0164_04.pdf",
+     "sha256": "91c868a7382c57122d702c7f60de5072406c6f44ccc190d524739a8e3000ba76"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-168-2004",
+   "path": "local/bucuresti/cgmb/2004/168",
+   "short": "HCGMB nr. 168/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 168/2004 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL \"STRADA EDGAR QUINET - STRADA CARTII\", PENTRU UN TERITORIU IN SUPRAFATA STUDIATA DE 7,80 HA, SITUAT IN SECTORUL 1 AL MUN. BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13314",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13314/h0168_04.pdf",
+     "sha256": "4e38f9e690dfca3daf8bc41f771fa0322f105c742f6b94bbcb6a2145076ac722"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-193-2004",
+   "path": "local/bucuresti/cgmb/2004/193",
+   "short": "HCGMB nr. 193/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 193/2004 privind aprobarea Planului Urbanistic Zonal – Cimitirul Progresul",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13381",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13381/h0193_04.pdf",
+     "sha256": "7a49a3a0fc779e886a3b59fd67662dbd7167a6fd5be43795f3794e9740d93498"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-194-2004",
+   "path": "local/bucuresti/cgmb/2004/194",
+   "short": "HCGMB nr. 194/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 194/2004 privind stabilirea limitei intravilanului municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13382",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 7,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13382/h0194_04.pdf",
+     "sha256": "95b94a6e881e4a7d103f185c2a7b04a1607b86cbb1d1ec741092f1291841cfe1"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-195-2004",
+   "path": "local/bucuresti/cgmb/2004/195",
+   "short": "HCGMB nr. 195/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 195/2004 cu privire la „Regulament – Regimul de amplasare a statiilor de distributie a carburantilor pentru alimentarea autovehiculelor in Municipiul Bucuresti”",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13383",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13383/h0195_04.pdf",
+     "sha256": "ccb7353f7630ba5a0d2ff19e4994e5722a49baca58a45edafe53b666cf52f44a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-199-2004",
+   "path": "local/bucuresti/cgmb/2004/199",
+   "short": "HCGMB nr. 199/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 199/2004 privind instituirea unor norme de administrare a domeniului public in sensul constituirii unei servituti de trecere in suprafata de 105,29 m.p. pe terenul proprietatea Municipiului Bucuresti din str.Luterana nr.13 in favoarea Bisericii Reformate Calvineum",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13387",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13387/h0199_04.pdf",
+     "sha256": "da5fb0074d077cc6bc7103ccf189600e8568c8a4ff5a7bc398256365d033b8bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-209-2004",
+   "path": "local/bucuresti/cgmb/2004/209",
+   "short": "HCGMB nr. 209/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 209/2004 privind aprobarea Planului Urbanistic Zonal PUZ – str. Gh. Lazar nr.5 b, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13409",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13409/h0209_04.pdf",
+     "sha256": "81bb22c91740cc797243531921f6c980c90fcdf9c18b1608de7dab0165f9647a"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-210-2004",
+   "path": "local/bucuresti/cgmb/2004/210",
+   "short": "HCGMB nr. 210/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 210/2004 privind aprobarea Planului Urbanistic Zonal str. Alex. Puskin- str.Jean Monnet- str.A.P. Cehov, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13410",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13410/h0210_04.pdf",
+     "sha256": "7c7a9435278fd815c8ed2ecf2e6a6e19d1d756ad993acac2e010cff2041215be"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-211-2004",
+   "path": "local/bucuresti/cgmb/2004/211",
+   "short": "HCGMB nr. 211/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 211/2004 privind aprobarea Planului Urbanistic Zonal Modificare PUZ- str.Putul de Piatra nr.6, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13411",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13411/h0211_04.pdf",
+     "sha256": "fa55ddc363bc396e70f7a66662e07ced34f75053ba2de5e978de17fc8bda0492"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-212-2004",
+   "path": "local/bucuresti/cgmb/2004/212",
+   "short": "HCGMB nr. 212/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 212/2004 privind aprobarea Planului Urbanistic Zonal Modificare PUZ – str.Banu Antonache nr.44A, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13412",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13412/h0212_04.pdf",
+     "sha256": "43433191368ab0d97dbcb4e69364aacbaaea5648d70b3dedc4dd7bcf302e1016"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-213-2004",
+   "path": "local/bucuresti/cgmb/2004/213",
+   "short": "HCGMB nr. 213/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 213/2004 privind aprobarea Planului Urbanistic Zonal Modificare PUZ – Bd.Mircea Eliade nr. 5 A, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13413",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13413/h0213_04.pdf",
+     "sha256": "5ffda861ca0cf6f271ee9a1c8cbf1f2f73be5a2ac9f16e0b1bd2b25bf8cf937b"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-214-2004",
+   "path": "local/bucuresti/cgmb/2004/214",
+   "short": "HCGMB nr. 214/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 214/2004 privind aprobarea Planului Urbanistic Zonal str. Alex. Constantinescu nr.6, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13414",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13414/h0214_04.pdf",
+     "sha256": "579ead8651173433fbae2042b2ae461c154fa8ebe22cdd94aa89e38b541fed6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-215-2004",
+   "path": "local/bucuresti/cgmb/2004/215",
+   "short": "HCGMB nr. 215/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 215/2004 privind aprobarea Planului Urbanistic Zonal Calea Rahovei nr.266 A, sector 5",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13415",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13415/h0215_04.pdf",
+     "sha256": "7675deaecaf6dd3be7136a37437148acf08b247fa12c84a827ffdb22ca939592"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-219-2004",
+   "path": "local/bucuresti/cgmb/2004/219",
+   "short": "HCGMB nr. 219/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 219/2004 privind modificarea si completarea Hotararii Consiliului General al Municipiului Bucuresti nr.164/2004, referitoare la majorarea taxei pentru incredintarea cainilor revendicati sau ceruti spre adoptie",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13419",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13419/h0219_04.pdf",
+     "sha256": "15f1260f8c4c13a63e895e46944991cb156a398346f3e51f22d4f11898f1daf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-233-2004",
+   "path": "local/bucuresti/cgmb/2004/233",
+   "short": "HCGMB nr. 233/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 233/2004 PRIVIND STABILIREA NIVELULUI UNOR IMPOZITE SI TAXE LOCALE IN MUNICIPIUL BUCURESTI, PENTRU ANUL 2005",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13497",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13497/h0233_04.pdf",
+     "sha256": "3ad2198aa19bde7f39d0c8be3164cce4d8169a517df2d5bfcae6291c42569651"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-237-2004",
+   "path": "local/bucuresti/cgmb/2004/237",
+   "short": "HCGMB nr. 237/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 237/2004 privind aprobarea Planului Urbanistic Zonal –str.Povernei nr.15-17, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13501",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13501/h0237_04.pdf",
+     "sha256": "9e2a48e705271be1b27a7c16f6e8430e76c598837ef91659fe35f49ffc2bfc49"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-238-2004",
+   "path": "local/bucuresti/cgmb/2004/238",
+   "short": "HCGMB nr. 238/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 238/2004 privind aprobarea Planului Urbanistic Zonal –Sos.Straulesti nr.58-60, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13502",
+   "versions": [
+    {
+     "from": "2004-11-11",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13502/h0238_04.pdf",
+     "sha256": "5bea85338e93993035e818a8d4ef72659478367f5cc866e961e37eb212b46080"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-24-2004",
+   "path": "local/bucuresti/cgmb/2004/24",
+   "short": "HCGMB nr. 24/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 24/2004 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL \"PRINCIPALELE PENETRATII RUTIERE AUTOSTRADA BUCURESTI - CONSTANTA \" PENTRU O SUPRAFATA STUDIATA DE 101,50 HA., SITUATA IN SECTORUL 3 AL MUNICIPIULUI BUCURESTI",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/11999",
+   "versions": [
+    {
+     "from": "2004-02-26",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/11999/h024_04.pdf",
+     "sha256": "a2e3ba21f54961505dcf9ad1832410e4e57bf461966a415d3ab63c041598958e"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-252-2004",
+   "path": "local/bucuresti/cgmb/2004/252",
+   "short": "HCGMB nr. 252/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 252/2004 PRIVIND APROBAREA \"PLANULUI URBANISTIC ZONAL- ZONA CENTRULUI ISTORIC AL MUN. BUCURESTI\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13737",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13737/h0252_04.pdf",
+     "sha256": "456b8294eba070e454260a22de87d99c9a8f03d0e703967525d7c7ff1fd6a603"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-266-2004",
+   "path": "local/bucuresti/cgmb/2004/266",
+   "short": "HCGMB nr. 266/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 266/2004 privind modificarea Hotararii CGMB nr.233/2000 referitoare la interzicerea accesului si circulatiei vehiculelor cu tractiune animala pe drumurile publice din municipiul Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/13750",
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/13750/h0266_04.pdf",
+     "sha256": "f93fb44867bc9c28343981c8f7b88b608e22786881d09504918a7ab9f4917edb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-46-2004",
+   "path": "local/bucuresti/cgmb/2004/46",
+   "short": "HCGMB nr. 46/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 46/2004 privind aprobarea Planului Urbanistic Zonal Str. Putul de Piatra nr. 6, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12144",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12144/h046_04.pdf",
+     "sha256": "62eae24f28314be10b1e6bc819bd1984dd8dbdc2e6143fc2780ec5922e467dbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-47-2004",
+   "path": "local/bucuresti/cgmb/2004/47",
+   "short": "HCGMB nr. 47/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 47/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12145",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12145/h047_04.pdf",
+     "sha256": "f9b3812bd00b4eb69a37c9a1abe8f6920a8d5841ebf988e54f48b0c9aa76ebc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-48-2004",
+   "path": "local/bucuresti/cgmb/2004/48",
+   "short": "HCGMB nr. 48/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 48/2004 privind aprobarea Planului Urbanistic Zonal Str. GH. MANU nr. 2-4, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12133",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12133/h048_04.pdf",
+     "sha256": "e77a2cd5574af19058a434a6bff7ec7a2c77c433665840e9da302ae05feb2817"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-53-2004",
+   "path": "local/bucuresti/cgmb/2004/53",
+   "short": "HCGMB nr. 53/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 53/2004 privind stabilirea nivelurilor taxelor prevazute la art. 267, 268 si 271 din Legea privind Codul fiscal nr. 571/2003 pentru Municipiul Bucuresti, pentru anul 2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12190",
+   "versions": [
+    {
+     "from": "2004-03-25",
+     "units": 9,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12190/h053_04.pdf",
+     "sha256": "2e210afcc45352f2ef5ef97832294b418c1912bfced72e47a098247d19984393"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-67-2004",
+   "path": "local/bucuresti/cgmb/2004/67",
+   "short": "HCGMB nr. 67/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 67/2004 privind aprobarea Regulamentului pentru apararea impotriva incendiilor pentru domeniul public si privat al municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12575",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12575/h067_04.pdf",
+     "sha256": "50c4bc2807da89c28b033aa7f44b3bbc0a7a891132d0ee2abbbc0e012f32a7aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-76-2004",
+   "path": "local/bucuresti/cgmb/2004/76",
+   "short": "HCGMB nr. 76/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 76/2004 privind aprobarea Planului Urbanistic Zonal “Complex multifunctional Calea Grivitei – Str. Buzesti - in cadrul Nodului Intermodal Gara de Nord”, sector 1",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12387",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12387/h076_04.pdf",
+     "sha256": "ec9ee04f259096c4b291a9b07c00adada27841e524cf36a3528cccaee4e33105"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-84-2004",
+   "path": "local/bucuresti/cgmb/2004/84",
+   "short": "HCGMB nr. 84/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 84/2004 privind reactualizare taxelor pentru parcajele de utilitate publica cu plata",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12365",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 6,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12365/h084_04.pdf",
+     "sha256": "07bfab1a48d2f931e2eb5dba8f7d7acabd731484160902f16001199fb119b408"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-90-2004",
+   "path": "local/bucuresti/cgmb/2004/90",
+   "short": "HCGMB nr. 90/2004",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 90/2004",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/12380",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/2004/12380/h090_04.pdf",
+     "sha256": "066ec4969fa685327336508be8050bca71dc59ab6c0efe2301de310fd30ced20"
+    }
+   ]
+  }
+ ]
+}

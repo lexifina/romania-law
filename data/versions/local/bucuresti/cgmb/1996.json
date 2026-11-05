@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/bucuresti/cgmb/1996",
+ "acts": [
+  {
+   "slug": "hcgmb-101-1996",
+   "path": "local/bucuresti/cgmb/1996/101",
+   "short": "HCGMB nr. 101/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 101/1996 privind modificarea Regulamentului de functionare al Consiliului local al mun. Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/447",
+   "versions": [
+    {
+     "from": "1996-06-13",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/447/h0101_96.pdf",
+     "sha256": "f7097544fb20eed3b05e97e8f955b4fe8d93e904b30bd940d1cf1888d89eac37"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-12-1996",
+   "path": "local/bucuresti/cgmb/1996/12",
+   "short": "HCGMB nr. 12/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 12/1996 privind aprobarea planului urbanistic zonal \" Zona str. VAlea Oltului, etapa 3\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/542",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/542/h012_96.pdf",
+     "sha256": "2cfe161d365d3cb67a202cd60ad4d0d648fd02dc156551a3b93938d0d08be482"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-129-1996",
+   "path": "local/bucuresti/cgmb/1996/129",
+   "short": "HCGMB nr. 129/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 129/1996 privind acordarea unor reduceri si scutiri la tarifele de transport",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/532",
+   "versions": [
+    {
+     "from": "1996-08-13",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/532/h0129_96.pdf",
+     "sha256": "133e1f162f735de0a636a99ad95a7def58eaf3c213b4adb6cabdf08e4dd0a00c"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-134-1996",
+   "path": "local/bucuresti/cgmb/1996/134",
+   "short": "HCGMB nr. 134/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 134/1996 privind reglementarea comertului stradal pe teritoriul municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/528",
+   "versions": [
+    {
+     "from": "1996-09-12",
+     "units": 9,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/528/h0134_96.pdf",
+     "sha256": "4b8bc8128abe4af64fca7551b44bf75e368d9e8a921c10efcd73c3d1fbcb45fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-141-1996",
+   "path": "local/bucuresti/cgmb/1996/141",
+   "short": "HCGMB nr. 141/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 141/1996 privind aprobarea documentatiilor tehnico-economice ( proiect tehnic+caiet de sarcini) pentru modernizarea Pietelor Obor si Matache",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/524",
+   "versions": [
+    {
+     "from": "1996-10-03",
+     "units": 3,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/524/h0141_96.pdf",
+     "sha256": "27014e220cb6782c3144dc1fbc2c19bbcbda58ba0aa0b88b054bc509909febdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-158-1996",
+   "path": "local/bucuresti/cgmb/1996/158",
+   "short": "HCGMB nr. 158/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 158/1996 privind amanarea la plata a taxei pentru autorizatia de construire datorata de SC \"Piata de Gros\" S.A",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/508",
+   "versions": [
+    {
+     "from": "1996-11-21",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/508/h0158_96.pdf",
+     "sha256": "de37cbc60e62c27ec82ae66ea1de88fc91365be80df574b61a9181205d4cf138"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-164-1996",
+   "path": "local/bucuresti/cgmb/1996/164",
+   "short": "HCGMB nr. 164/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 164/1996 privind transformarea Directiei Generale de Urbanism si Amenajarea Teritoriului in Departament de Urbanism si Amenajarea Teritoriului",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/502",
+   "versions": [
+    {
+     "from": "1996-12-10",
+     "units": 4,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/502/h0164_96.pdf",
+     "sha256": "f54c9a43e35c7cde5900d6633b41e54734263659b00f65f326f447ef18cc8955"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-22-1996",
+   "path": "local/bucuresti/cgmb/1996/22",
+   "short": "HCGMB nr. 22/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 22/1996 privind aprobarea plan urbanistic zona Berceni Sud",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/370",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 1,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/370/h022_96.pdf",
+     "sha256": "5c646ad030574b536cea752a7924794bdfe617716bf952137255ed4774d71c64"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-57-1996",
+   "path": "local/bucuresti/cgmb/1996/57",
+   "short": "HCGMB nr. 57/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 57/1996 privind aplicarea de sanctiuni pentru afisajul ilegal",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/417",
+   "versions": [
+    {
+     "from": "1996-04-18",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/417/h057_96.pdf",
+     "sha256": "bf728d35aa5d3e7f7e15818f3a2f51f891b565c7594f322661124b734a7d6311"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-68-1996",
+   "path": "local/bucuresti/cgmb/1996/68",
+   "short": "HCGMB nr. 68/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 68/1996 privind instituirea taxelor locale de igienizare publica pe teritoriul municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/587",
+   "versions": [
+    {
+     "from": "1996-05-16",
+     "units": 7,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/587/h068_96.pdf",
+     "sha256": "f7c20b69903651d46a2c0737e4817135119572513c0fe57366feb669b8eefdb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-69-1996",
+   "path": "local/bucuresti/cgmb/1996/69",
+   "short": "HCGMB nr. 69/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 69/1996 privind instituirea taxelor locale speciale de salubritate publica pe teritoriul municipiului Bucuresti",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/589",
+   "versions": [
+    {
+     "from": "1996-05-16",
+     "units": 7,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/589/h069_96.pdf",
+     "sha256": "436fc83431071c70ae277475e701c5351c5d47978a364edd962aceec9021afd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcgmb-9-1996",
+   "path": "local/bucuresti/cgmb/1996/9",
+   "short": "HCGMB nr. 9/1996",
+   "title": "Hotărârea Consiliului General al Municipiului București nr. 9/1996 privind aprobarea \"Regulamentului pentru organizarea si functionarea cimitirelor si crematoriilor umane\"",
+   "url": "https://acteinterne.pmb.ro/legis/acteinterne/acte_int/71",
+   "versions": [
+    {
+     "from": "1996-01-25",
+     "units": 5,
+     "source_url": "https://doc.pmb.ro/legis/acteinterne/1996/71/h09_96.pdf",
+     "sha256": "f262d6be695af99c332b802e28dfd0c48ad019efcc62c80c317828e5e7623c44"
+    }
+   ]
+  }
+ ]
+}

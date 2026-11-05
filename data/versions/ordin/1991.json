@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "ordin/1991",
+ "acts": [
+  {
+   "slug": "ordin-bnr-548-1991",
+   "path": "ordin/bnr/1991/548",
+   "short": "Ordin bnr nr. 548/1991",
+   "title": "Ordinul nr. 548/1991 privind stabilirea prețurilor de achiziție ale metalelor prețioase de către Banca Națională a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1894",
+   "versions": [
+    {
+     "from": "1991-12-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1894",
+     "sha256": "d2368ababfde41c421ac35f0c67f57464783561585c31e59ab894f1313cfdd46"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-616-1991",
+   "path": "ordin/bnr/1991/616",
+   "short": "Ordin bnr nr. 616/1991",
+   "title": "Ordinul nr. 616/1991 pentru aducerea la îndeplinire a hotărîrilor consiliului de administrație al Băncii Naționale a României privind unificarea cursurilor de schimb și introducerea convertibilității interne, limitate, a leului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1928",
+   "versions": [
+    {
+     "from": "1991-11-30",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1928",
+     "sha256": "0ea50441d08aa5882d3bfcddb2dfe0343b6c1e2a5964d6843041fc5fb3c6172d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1105-1991",
+   "path": "ordin/finante/1991/1105",
+   "short": "Ordin finante nr. 1105/1991",
+   "title": "Ordinul nr. 1.105/1991 cu privire la liberalizarea prețurilor și măsuri de protecție socială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2052",
+   "versions": [
+    {
+     "from": "1991-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2052",
+     "sha256": "164d19c7bf118aeff656fb55dcc461bb34aeff133f66eb3e95ec5912f5dd1d5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-131-1991",
+   "path": "ordin/finante/1991/131",
+   "short": "Ordin finante nr. 131/1991",
+   "title": "Ordinul nr. 131/1991 privind impozitul pe circulația mărfurilor datorat de importatori, cît și de intermediari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1628",
+   "versions": [
+    {
+     "from": "1991-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1628",
+     "sha256": "d71463a61e8c14d151d92d371b4fe65532adc909b639e7ab502ce34b33b4c3bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-141-1991",
+   "path": "ordin/finante/1991/141",
+   "short": "Ordin finante nr. 141/1991",
+   "title": "Ordinul nr. 141/1991 privind unele măsuri de limitare a creșterii prețurilor în cadrul acțiunii de liberalizare a acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33755",
+   "versions": [
+    {
+     "from": "1991-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33755",
+     "sha256": "f0c983130edd40aaccd4d3f269ed54301c55bca060a535674a5a0c82a3d8c057"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-21-1991",
+   "path": "ordin/finante/1991/21",
+   "short": "Ordin finante nr. 21/1991",
+   "title": "Ordinul nr. 21/1991 privind stabilirea modului de impunere a veniturilor realizate din activitatea de taximetrie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1465",
+   "versions": [
+    {
+     "from": "1991-09-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1465",
+     "sha256": "5fe9a3bb3be056b0839057d0a60574de2b4e7e45b6cae23a90deb33051ad620a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-282-1991",
+   "path": "ordin/finante/1991/282",
+   "short": "Ordin finante nr. 282/1991",
+   "title": "Ordinul nr. 282/1991 privind cotele de impozit pe circulația mărfurilor pentru anumite produse",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1741",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1741",
+     "sha256": "1b2ea55424cdcbd9e3f8450da8f4a64164e15cd1531a9dbaf22225683226d4a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-4-1991",
+   "path": "ordin/finante/1991/4",
+   "short": "Ordin finante nr. 4/1991",
+   "title": "Ordinul nr. 4/1991 pentru aprobarea Regulamentului privind organizarea și funcționarea Gărzii financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1423",
+   "versions": [
+    {
+     "from": "1991-07-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1423",
+     "sha256": "192a642ea3cb2c69df4793fb29b5dd372a4e8490d934cb22480208137fe95d8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-748-1991",
+   "path": "ordin/finante/1991/748",
+   "short": "Ordin finante nr. 748/1991",
+   "title": "Ordinul nr. 748/1991 cu privire la liberalizarea prețurilor și măsuri de protecție socială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1996",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1996",
+     "sha256": "58f30f5102113e6b3fb6585ef35d55a1fba60fb3b421ee208e00c81b30195cc3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-104-1991",
+   "path": "ordin/munca/1991/104",
+   "short": "Ordin munca nr. 104/1991",
+   "title": "Ordinul nr. 104/1991 al Departamentului Protecției Muncii privind autorizarea funcționării unităților din punct de vedere al protecției muncii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1605",
+   "versions": [
+    {
+     "from": "1992-07-22",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1605",
+     "sha256": "80d41494e7c6754da4222217a7c004db698535de49e6e73b2acc8dcc77aac756"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-17-1991",
+   "path": "ordin/munca/1991/17",
+   "short": "Ordin munca nr. 17/1991",
+   "title": "Ordinul nr. 17/1991 pentru aprobarea Instrucțiunilor privind procedura de primire și soluționare a cererilor de plată a ajutorului de șomaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1458",
+   "versions": [
+    {
+     "from": "1991-06-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1458",
+     "sha256": "ed1b871bf404a4fed46d76a69b5fb0341bb609d8581e5fa7b7da2a128fd1ee08"
+    }
+   ]
+  }
+ ]
+}

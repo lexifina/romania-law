@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "norma-aep/2025",
+ "acts": [
+  {
+   "slug": "norma-aep-cuantum-total-11-923-2025",
+   "path": "norma-aep/2025/cuantum-total-11-923",
+   "short": "Cuantum total AEP nr. 11-923/2025",
+   "title": "Cuantum total Autorității Electorale Permanente nr. 11-923 din 2025-05-21",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/298287",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/298287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-cuantum-total-12-117-2025",
+   "path": "norma-aep/2025/cuantum-total-12-117",
+   "short": "Cuantum total AEP nr. 12-117/2025",
+   "title": "Cuantum total Autorității Electorale Permanente nr. 12-117 din 2025-05-23",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/298424",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/298424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-cuantum-total-12-644-2025",
+   "path": "norma-aep/2025/cuantum-total-12-644",
+   "short": "Cuantum total AEP nr. 12-644/2025",
+   "title": "Cuantum total Autorității Electorale Permanente nr. 12-644 din 2025-06-02",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/298872",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/298872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-ghid-2025-03-21-2025",
+   "path": "norma-aep/2025/ghid-2025-03-21",
+   "short": "Ghidul AEP din 2025-03-21",
+   "title": "Ghidul Autorității Electorale Permanente din 2025-03-21",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/295775",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/295775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-ghid-2025-04-10-2025",
+   "path": "norma-aep/2025/ghid-2025-04-10",
+   "short": "Ghidul AEP din 2025-04-10",
+   "title": "GHIDUL din 10 aprilie 2025 finanţării campaniei electorale la alegerile locale parţiale din data de 4 mai 2025",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/296585",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/296585",
+     "sha256": "b8712bdb2a85e51fa03b032afa0f67461404b7481eaae21453d088234a99f76c"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-11-254-2025",
+   "path": "norma-aep/2025/lista-11-254",
+   "short": "Listă AEP nr. 11-254/2025",
+   "title": "LISTA nr. 11.254 din 14 mai 2025 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerilor locale parţiale din data de 4 mai 2025",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/298118",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/298118",
+     "sha256": "b5c25465fe56d48ef5b47204ebd554eb22383febdbb471530029812113f9fd94"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-11-369-2025",
+   "path": "norma-aep/2025/lista-11-369",
+   "short": "Listă AEP nr. 11-369/2025",
+   "title": "Listă Autorității Electorale Permanente nr. 11-369 din 2025-05-15",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/298190",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/298190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-11-739-2025",
+   "path": "norma-aep/2025/lista-11-739",
+   "short": "Listă AEP nr. 11-739/2025",
+   "title": "Listă Autorității Electorale Permanente nr. 11-739 din 2025-05-19",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/298191",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/298191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-11-926-2025",
+   "path": "norma-aep/2025/lista-11-926",
+   "short": "Listă AEP nr. 11-926/2025",
+   "title": "Listă Autorității Electorale Permanente nr. 11-926 din 2025-05-21",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/298288",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/298288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-11-964-2025",
+   "path": "norma-aep/2025/lista-11-964",
+   "short": "Listă AEP nr. 11-964/2025",
+   "title": "Listă Autorității Electorale Permanente nr. 11-964 din 2025-05-21",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/298342",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/298342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-11-983-2025",
+   "path": "norma-aep/2025/lista-11-983",
+   "short": "Listă AEP nr. 11-983/2025",
+   "title": "Listă Autorității Electorale Permanente nr. 11-983 din 2025-05-21",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/298343",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/298343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-12-116-2025",
+   "path": "norma-aep/2025/lista-12-116",
+   "short": "Listă AEP nr. 12-116/2025",
+   "title": "Listă Autorității Electorale Permanente nr. 12-116 din 2025-05-23",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/298423",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/298423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-20-751-2025",
+   "path": "norma-aep/2025/lista-20-751",
+   "short": "Listă AEP nr. 20-751/2025",
+   "title": "LISTA nr. 20.751 din 9 decembrie 2025 partidelor politice, alianţelor politice, alianţelor electorale, organizaţiilor cetăţenilor români aparţinând minorităţilor naţionale şi a candidaţilor independenţi pentru care a fost depus raportul detaliat al veniturilor şi cheltuielilor electorale, conform art. 47 alin. (2) din Legea nr. 334/2006 privind finanţarea activităţii partidelor politice şi a campaniilor electorale, cu ocazia alegerilor locale parţiale din data de 7 decembrie 2025",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/305120",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/305120",
+     "sha256": "5ed5c2d5d020cbe38ac583b89dd6fb8a352139766ea02846e660be81d8e2f183"
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-21-147-2025",
+   "path": "norma-aep/2025/lista-21-147",
+   "short": "Listă AEP nr. 21-147/2025",
+   "title": "Listă Autorității Electorale Permanente nr. 21-147 din 2025-12-15",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/305641",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/305641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-21-404-2025",
+   "path": "norma-aep/2025/lista-21-404",
+   "short": "Listă AEP nr. 21-404/2025",
+   "title": "Listă Autorității Electorale Permanente nr. 21-404 din 2025-12-18",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/305775",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/305775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-21-841-2025",
+   "path": "norma-aep/2025/lista-21-841",
+   "short": "Listă AEP nr. 21-841/2025",
+   "title": "Listă Autorității Electorale Permanente nr. 21-841 din 2025-12-24",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/306509",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/306509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-lista-553-2025",
+   "path": "norma-aep/2025/lista-553",
+   "short": "Listă AEP nr. 553/2025",
+   "title": "Listă Autorității Electorale Permanente nr. 553 din 2025-01-15",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/293799",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/293799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "norma-aep-metodologie-2025-02-25-2025",
+   "path": "norma-aep/2025/metodologie-2025-02-25",
+   "short": "Metodologia AEP din 2025-02-25",
+   "title": "METODOLOGIE din 25 februarie 2025 de monitorizare video a localurilor secţiilor de votare din străinătate la alegerile pentru Preşedintele României din anul 2025",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/294961",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "http://legislatie.just.ro/Public/DetaliiDocument/294961",
+     "sha256": "dea94aa1e36a2fd97f1ae1de178de41d3c95d8f8f2f578bf163327bccad68c47"
+    }
+   ]
+  }
+ ]
+}

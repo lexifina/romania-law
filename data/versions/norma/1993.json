@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "norma/1993",
+ "acts": [
+  {
+   "slug": "norma-bnr-4225-1993",
+   "path": "norma/bnr/1993/4225",
+   "short": "Norma bnr nr. 4225/1993",
+   "title": "Norma nr. 4.225/1993 de aplicare a prevederilor Hotărîrii Guvernului nr. 148 din 12 aprilie 1993 cu privire la încasările în valuta din operațiunile cu străinătatea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3743",
+   "versions": [
+    {
+     "from": "1993-06-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3743",
+     "sha256": "64c161bdbe924c9e7ab877fdedf972a07eb7f5d544819e6abfd75998499ecd75"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-7-1993",
+   "path": "norma/bnr/1993/7",
+   "short": "Norma bnr nr. 7/1993",
+   "title": "Norma nr. 7/1993 privind deschiderea de unități teritoriale de către societățile bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3013",
+   "versions": [
+    {
+     "from": "1994-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3013",
+     "sha256": "c8b9d4c22019e17fc40b7d41d153d9515a641b0471afb08fca138e361042151a"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-8-1993",
+   "path": "norma/bnr/1993/8",
+   "short": "Norma bnr nr. 8/1993",
+   "title": "Norma nr. 8/1993 privind capitalul social minim al societăților bancare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3018",
+   "versions": [
+    {
+     "from": "1994-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3018",
+     "sha256": "932343fcefa376c9e5294a74d5553f6a7133c28a4bec1188ffde1e338e408b27"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-4225-1993",
+   "path": "norma/finante/1993/4225",
+   "short": "Norma finante nr. 4225/1993",
+   "title": "Norma nr. 4.225/1993 de aplicare a prevederilor Hotărîrii Guvernului nr. 148 din 12 aprilie 1993 cu privire la încasările în valuta din operațiunile cu străinătatea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3742",
+   "versions": [
+    {
+     "from": "1993-06-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3742",
+     "sha256": "7c33a632f718b34299b4934daf1a6009313f91c8c8ee82681b0588d34546fad5"
+    }
+   ]
+  },
+  {
+   "slug": "norma-finante-4500-1993",
+   "path": "norma/finante/1993/4500",
+   "short": "Norma finante nr. 4500/1993",
+   "title": "Norma nr. 4.500/1993 privind taxa pe valoarea adăugată aferentă operațiunilor referitoare la vînzări de bunuri și prestări de servicii în favoarea misiunilor diplomatice și instituțiilor asimilate acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3745",
+   "versions": [
+    {
+     "from": "1993-09-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3745",
+     "sha256": "5345e2185799c02d1061a9fbd0f7d0cbc9b64fe598ae1ed6b7e610732d3806e6"
+    }
+   ]
+  },
+  {
+   "slug": "norma-sanatate-1002-1993",
+   "path": "norma/sanatate/1993/1002",
+   "short": "Norma sanatate nr. 1002/1993",
+   "title": "Norma nr. 1.002/1993 privind compensarea prețurilor cu amănuntul la unele medicamente de uz uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/3728",
+   "versions": [
+    {
+     "from": "1993-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3728",
+     "sha256": "e5acf6201a59d47ebbc480aed55b5c02c27f2815490796dbddc34281c1deedc6"
+    }
+   ]
+  }
+ ]
+}

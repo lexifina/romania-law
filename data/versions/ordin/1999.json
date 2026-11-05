@@ -1,0 +1,1851 @@
+{
+ "country": "RO",
+ "shard": "ordin/1999",
+ "acts": [
+  {
+   "slug": "ordin-agricultura-138929-1999",
+   "path": "ordin/agricultura/1999/138929",
+   "short": "Ordin agricultura nr. 138929/1999",
+   "title": "Ordinul nr. 138.929/1999 privind sursele și procedura de constituire, completare și modificare a bazei de date statistice la import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19322",
+   "versions": [
+    {
+     "from": "1999-10-09",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19322",
+     "sha256": "008d9d11e00af5831f97a1857d669ed6fabc754614ca2019c31a5ba90e01c43e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-450-1999",
+   "path": "ordin/ancpi/1999/450",
+   "short": "Ordin ancpi nr. 450/1999",
+   "title": "Ordinul nr. 450/1999 pentru aprobarea Regulamentului privind recepția lucrărilor de geodezie, cartografie, cadastru, fotogrammetrie și teledetecție",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16877",
+   "versions": [
+    {
+     "from": "1999-02-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16877",
+     "sha256": "6c4705f706b60a350e7eb6fc88ad50a2ff9a170e06c4108225950c31315ea183"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-451-1999",
+   "path": "ordin/ancpi/1999/451",
+   "short": "Ordin ancpi nr. 451/1999",
+   "title": "Ordinul nr. 451/1999 pentru aprobarea Regulamentului privind autorizarea persoanelor fizice și juridice care pot sa realizeze și sa verifice lucrări de specialitate în domeniile cadastrului, geodeziei și cartografiei pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16878",
+   "versions": [
+    {
+     "from": "1999-02-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16878",
+     "sha256": "be3deddc447811dd8bf84402110147328d9b4203c582c572ab1bea79c1bb36e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-468-1999",
+   "path": "ordin/ancpi/1999/468",
+   "short": "Ordin ancpi nr. 468/1999",
+   "title": "Ordinul nr. 468/1999 privind aprobarea tarifelor pentru serviciile prestate de Oficiul Național de Cadastru, Geodezie și Cartografie și de unitățile subordonate acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17177",
+   "versions": [
+    {
+     "from": "1999-03-18",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17177",
+     "sha256": "f432aa58afd764393ff94ede9676d9c283a3f70307b9dd91e09a9d8e1ac7fa5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-602-1999",
+   "path": "ordin/ancpi/1999/602",
+   "short": "Ordin ancpi nr. 602/1999",
+   "title": "Ordinul nr. 602/1999 privind modificarea Ordinului președintelui Oficiului Național de Cadastru, Geodezie și Cartografie nr. 460/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19463",
+   "versions": [
+    {
+     "from": "1999-10-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19463",
+     "sha256": "f10f590b20132cb3c7c12d882fa6b13bb2acae6b76b04600cec122cfe1d6f3bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ancpi-691-1999",
+   "path": "ordin/ancpi/1999/691",
+   "short": "Ordin ancpi nr. 691/1999",
+   "title": "Ordinul nr. 691/1999 privind aprobarea Regulamentului pentru verificarea lucrărilor de specialitate din domeniile cadastrului, geodeziei și cartografiei, realizate de persoanele fizice și juridice autorizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20461",
+   "versions": [
+    {
+     "from": "1999-12-29",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20461",
+     "sha256": "49f86753804bb3433008f44ec8b798b28774cff2c0121132e19e8bd1cb2776e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-1-1999",
+   "path": "ordin/bnr/1999/1",
+   "short": "Ordin bnr nr. 1/1999",
+   "title": "Ordinul nr. 1/1999 privind înregistrarea în registrul comerțului a obiectului de activitate autorizat al băncilor, persoane juridice române, și al sucursalelor băncilor, persoane juridice străine, care au fost autorizate să funcționeze pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16920",
+   "versions": [
+    {
+     "from": "1999-02-09",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16920",
+     "sha256": "5335f93073fe7fa029e900c72973ccaf72b668a18b39950545020370e8f4eeb8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-11-1999",
+   "path": "ordin/bnr/1999/11",
+   "short": "Ordin bnr nr. 11/1999",
+   "title": "Ordinul nr. 11/1999 privind procedura de decontare prin conturile de tip \"Banca în faliment\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18640",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18640",
+     "sha256": "deadc68e83fdfbedbde1be34efb7b9055ceb4af4f45ae3b13cb89f26b333ec53"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-2-1999",
+   "path": "ordin/bnr/1999/2",
+   "short": "Ordin bnr nr. 2/1999",
+   "title": "Ordinul nr. 2/1999 privind depășirea problemei aferente modului de stocare, reprezentare și utilizare a datei calendaristice corespunzătoare perioadei anului 2000 în cadrul sistemelor informatice ale băncilor, persoane juridice române, și ale sucursalelor băncilor, persoane juridice străine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16932",
+   "versions": [
+    {
+     "from": "1999-02-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16932",
+     "sha256": "beafbc416d1948bdf2771908ff3b555fd76ebe0c25ac58eabc05862dbb3f10dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnas-143-1999",
+   "path": "ordin/cnas/1999/143",
+   "short": "Ordin cnas nr. 143/1999",
+   "title": "Ordinul nr. 143/1999 pentru aprobarea Normelor metodologice de aplicare a Contractului-cadru privind condițiile acordării asistenței medicale în cadrul sistemului asigurărilor sociale de sănătate pe anul 1999, aprobat prin Hotărârea Guvernului nr. 312/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19195",
+   "versions": [
+    {
+     "from": "1999-09-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19195",
+     "sha256": "52c43a0ef34bd2999d32d3a5bb3cdb22cf7e2cb84866fa9b98e7c1912bdb14d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnas-189-1999",
+   "path": "ordin/cnas/1999/189",
+   "short": "Ordin cnas nr. 189/1999",
+   "title": "Ordinul nr. 189/1999 pentru completarea anexei nr. 2 la Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 328/70/1999 pentru aprobarea Listei denumirilor comune internaționale (D.C.I.) ale medicamentelor din Nomenclatorul de medicamente și produse biologice de uz uman, de care beneficiază asigurații, pe bază de prescripție medicală, în tratamentul ambulatoriu, cu sau fără contribuție personală, și a modului de prescriere, eliberare și de decontare a medicamentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20566",
+   "versions": [
+    {
+     "from": "2000-01-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20566",
+     "sha256": "3e295d0c6d97856a075fc31d2e973954068b381c26cf8c1d7f47611555a65026"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnas-190-1999",
+   "path": "ordin/cnas/1999/190",
+   "short": "Ordin cnas nr. 190/1999",
+   "title": "Ordinul nr. 190/1999 pentru aprobarea Listei cuprinzând bolile pentru care asigurații beneficiază, în tratamentul ambulatoriu, de medicamente eliberate fără contribuție personală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20565",
+   "versions": [
+    {
+     "from": "2000-01-12",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20565",
+     "sha256": "965a9b4cbe68031905ac84ed0678fbb36111d85d2590aa4f6448487e1c350382"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-1-1999",
+   "path": "ordin/cnvm/1999/1",
+   "short": "Ordin cnvm nr. 1/1999",
+   "title": "Ordinul nr. 1/1999 pentru aplicarea Instrucțiunilor nr. 1/1999 privind transferul registrelor acționarilor societăților comerciale între doua registre independente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16789",
+   "versions": [
+    {
+     "from": "1999-01-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16789",
+     "sha256": "9d30e5f98bd1f1980240bb3f26318bc4b01fa432af18f6e797753ae6ba81fae7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-10-1999",
+   "path": "ordin/cnvm/1999/10",
+   "short": "Ordin cnvm nr. 10/1999",
+   "title": "Ordinul nr. 10/1999 pentru aprobarea Regulamentului nr. 6/1999 privind calificarea unor titluri de credit ca valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17987",
+   "versions": [
+    {
+     "from": "1999-04-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17987",
+     "sha256": "052971838b00c2985ab23a4251002ff45339a4dd8af26024fb14318b8b384bea"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-15-1999",
+   "path": "ordin/cnvm/1999/15",
+   "short": "Ordin cnvm nr. 15/1999",
+   "title": "Ordinul nr. 15/1999 pentru aprobarea Regulamentului nr. 7/1999 privind alocarea de către registrele independente a codurilor pentru conturile de valori mobiliare ale investitorilor, persoane fizice și juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19759",
+   "versions": [
+    {
+     "from": "1999-11-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19759",
+     "sha256": "0d8811cfe75d5358714b0117c1300376db3928dbf19172d3951c516e8f102d7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-16-1999",
+   "path": "ordin/cnvm/1999/16",
+   "short": "Ordin cnvm nr. 16/1999",
+   "title": "Ordinul nr. 16/1999 pentru aprobarea Regulamentului nr. 8/1999 de modificare și completare a Regulamentului nr. 8/1996 privind autorizarea Societății Naționale de Compensare, Decontare și Depozitare pentru Valori Mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19761",
+   "versions": [
+    {
+     "from": "1999-11-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19761",
+     "sha256": "b64af2a1bef025785632ada2a4b9b99230f1e476569364d072f9f44b00193728"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-17-1999",
+   "path": "ordin/cnvm/1999/17",
+   "short": "Ordin cnvm nr. 17/1999",
+   "title": "Ordinul nr. 17/1999 pentru aprobarea Regulamentului nr. 9/1999 privind organizarea și funcționarea Organismului posttranzacționare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19763",
+   "versions": [
+    {
+     "from": "1999-11-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19763",
+     "sha256": "10c494f83abf78c7a62324fc3d57084366d979f52eaa9edf813a605a3b53fe68"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-18-1999",
+   "path": "ordin/cnvm/1999/18",
+   "short": "Ordin cnvm nr. 18/1999",
+   "title": "Ordinul nr. 18/1999 pentru aprobarea Instrucțiunilor nr. 6/1999 privind suspendarea de la tranzacționare pe piața RASDAQ a societăților comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19765",
+   "versions": [
+    {
+     "from": "1999-11-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19765",
+     "sha256": "fe996e3243da46aec346de1155a817292c03fe9beb888b76815d9165e121662a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-19-1999",
+   "path": "ordin/cnvm/1999/19",
+   "short": "Ordin cnvm nr. 19/1999",
+   "title": "Ordinul nr. 19/1999 pentru aprobarea Regulamentului nr. 10/1999 privind modul de încasare și de gestionare a veniturilor extrabugetare din care se finanțează Comisia Naționala a Valorilor Mobiliare potrivit Ordonanței de urgență a Guvernului nr. 6/1999, aprobată și modificată prin Legea nr. 139/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19767",
+   "versions": [
+    {
+     "from": "1999-11-02",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19767",
+     "sha256": "22f7827b35d20ed93c1d58c7e6cda5ee9431c8ab275ce67d344c236452ac4c93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-2-1999",
+   "path": "ordin/cnvm/1999/2",
+   "short": "Ordin cnvm nr. 2/1999",
+   "title": "Ordinul nr. 2/1999 pentru aprobarea Instrucțiunilor nr. 2/1999 privind regulile de acceptare spre executare a unui ordin de vânzare de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17983",
+   "versions": [
+    {
+     "from": "1999-04-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17983",
+     "sha256": "1e093c3433dc3155e03d8bf1744dc6f0296c781d216c5035408ae9fc7e99297d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-21-1999",
+   "path": "ordin/cnvm/1999/21",
+   "short": "Ordin cnvm nr. 21/1999",
+   "title": "Ordinul nr. 21/1999 pentru aprobarea Instrucțiunilor nr. 7/1999 de completare a Instrucțiunilor nr. 2/1999 privind regulile de acceptare spre executare a unui ordin de vânzare de valori mobiliare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20665",
+   "versions": [
+    {
+     "from": "2000-01-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20665",
+     "sha256": "d8136729b9b6f9f2c5aa6ca944973236dfb5166cb5c27054e98147aed96faf67"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-22-1999",
+   "path": "ordin/cnvm/1999/22",
+   "short": "Ordin cnvm nr. 22/1999",
+   "title": "Ordinul nr. 22/1999 pentru aprobarea Regulamentului nr. 12/1999 privind funcționarea Colectivului tehnic pentru reglementarea și supravegherea pieței RASDAQ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20667",
+   "versions": [
+    {
+     "from": "2000-01-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20667",
+     "sha256": "dc5151fa656ab8a0b41d22ac217ccb59decac1e9604e67ea8e700d367abb4234"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-23-1999",
+   "path": "ordin/cnvm/1999/23",
+   "short": "Ordin cnvm nr. 23/1999",
+   "title": "Ordinul nr. 23/1999 pentru aprobarea Regulamentului nr. 13/1999 privind licitația electronică pe piața RASDAQ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20679",
+   "versions": [
+    {
+     "from": "2000-01-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20679",
+     "sha256": "a7f0052880615fdd809af752028330b531603846ae83112a2b72a3ebc1998d76"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-25-1999",
+   "path": "ordin/cnvm/1999/25",
+   "short": "Ordin cnvm nr. 25/1999",
+   "title": "Ordinul nr. 25/1999 pentru aprobarea Instrucțiunilor nr. 9/1999 privind prevenirea și combaterea spălării banilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20671",
+   "versions": [
+    {
+     "from": "2000-01-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20671",
+     "sha256": "203a9a95ef32db8a24f196cd82c39d94a0360fc40e0740d6251770a2e4c429a2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-3-1999",
+   "path": "ordin/cnvm/1999/3",
+   "short": "Ordin cnvm nr. 3/1999",
+   "title": "Ordinul nr. 3/1999 pentru aprobarea Regulamentului nr. 1/1999 privind modul de încasare și de gestionare a veniturilor extrabugetare din care se finanțează Comisia Naționala a Valorilor Mobiliare potrivit Ordonanței de urgență a Guvernului nr. 6/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17109",
+   "versions": [
+    {
+     "from": "1999-03-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17109",
+     "sha256": "189b1b61b76aad6b98f31bcd31d97cc1f994aad56eac34caeddf9d01589742c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-5-1999",
+   "path": "ordin/cnvm/1999/5",
+   "short": "Ordin cnvm nr. 5/1999",
+   "title": "Ordinul nr. 5/1999 privind aprobarea Instrucțiunilor nr. 3/1999 pentru aplicarea prevederilor Ordonanței de urgență a Guvernului nr. 52/1998, privind unele măsuri de protecție pentru persoanele disponibilizate, și ale Hotărârii Guvernului nr. 58/1999 privind aprobarea Normelor pentru aplicarea prevederilor Ordonanței de urgență a Guvernului nr. 9/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17985",
+   "versions": [
+    {
+     "from": "1999-04-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17985",
+     "sha256": "16df5aa6ba3a8579ca97adc24cd45d27be2709c417f3d608baba7eb90afc4c1e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-6-1999",
+   "path": "ordin/cnvm/1999/6",
+   "short": "Ordin cnvm nr. 6/1999",
+   "title": "Ordinul nr. 6/1999 privind aprobarea Regulamentului nr. 3/1999 de procedura al Camerei Arbitrale a Bursei de Valori București și al Camerei Arbitrale a Pieței RASDAQ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18659",
+   "versions": [
+    {
+     "from": "1999-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18659",
+     "sha256": "e0c588e1edafaa98e89780db136f1f1fac46ecc6232a5a4a8b2827ec49baf3fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-7-1999",
+   "path": "ordin/cnvm/1999/7",
+   "short": "Ordin cnvm nr. 7/1999",
+   "title": "Ordinul nr. 7/1999 pentru aprobarea Regulamentului nr. 4/1999 privind supravegherea electronică a pieței de capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18183",
+   "versions": [
+    {
+     "from": "1999-05-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18183",
+     "sha256": "6ca602a02a1763f9fb43a367701367c08f77640694907d27e72b849df9556530"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-8-1999",
+   "path": "ordin/cnvm/1999/8",
+   "short": "Ordin cnvm nr. 8/1999",
+   "title": "Ordinul nr. 8/1999 pentru aprobarea Regulamentului nr. 5/1999 privind transformarea fondurilor deschise de investiții în fonduri cu capital de risc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18148",
+   "versions": [
+    {
+     "from": "1999-05-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18148",
+     "sha256": "333d3de1660405b844d1e085e247718e64a98625a252fc58ac8e7878fb5ef819"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-9-1999",
+   "path": "ordin/cnvm/1999/9",
+   "short": "Ordin cnvm nr. 9/1999",
+   "title": "Ordinul nr. 9/1999 pentru aprobarea Instrucțiunilor nr. 4/1999 privind calculul activului net al societăților de investiții financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18184",
+   "versions": [
+    {
+     "from": "1999-05-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18184",
+     "sha256": "eaccc1aa017510209824e427f7f86b8283f9ab6b7732f680b3b8b1f4d4fc7fb0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-economie-20-1999",
+   "path": "ordin/economie/1999/20",
+   "short": "Ordin economie nr. 20/1999",
+   "title": "Ordinul nr. 20/1999 privind verificarea potențialului tehnic și uman al agenților economici ofertanți pentru executarea lucrărilor de închidere a minelor/carierelor și de reconstrucție ecologica a zonelor afectate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16984",
+   "versions": [
+    {
+     "from": "1999-02-18",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16984",
+     "sha256": "5c1716bf6863462c8ac18e809e8a5be400b76a18d9f1f4291faaca27b3d40b36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1042-1999",
+   "path": "ordin/finante/1999/1042",
+   "short": "Ordin finante nr. 1042/1999",
+   "title": "Ordinul nr. 1.042/1999 pentru aprobarea valorilor nominale, a modelarului, a caracteristicilor și a modului de tipărire, livrare, difuzare și păstrare a timbrelor fiscale mobile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19396",
+   "versions": [
+    {
+     "from": "1999-10-04",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19396",
+     "sha256": "ab4efd27ccb73d3b998265279e089931138be2b80dc84300e43128d979e0d249"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1046-1999",
+   "path": "ordin/finante/1999/1046",
+   "short": "Ordin finante nr. 1046/1999",
+   "title": "Ordinul nr. 1.046/1999 pentru aprobarea Metodologiei privind scutirea de la obligația garantării datoriei vamale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19707",
+   "versions": [
+    {
+     "from": "1999-10-28",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19707",
+     "sha256": "e8571164acffeb7c8479a7eb30b6e79334d6cf6e6f451d18a173f74ca085d6d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1059-1999",
+   "path": "ordin/finante/1999/1059",
+   "short": "Ordin finante nr. 1059/1999",
+   "title": "Ordinul nr. 1.059/1999 pentru aprobarea Normelor metodologice privind modul de aplicare a prevederilor art. I pct. 2 din Ordonanța Guvernului nr. 120/1999 pentru modificarea și completarea Ordonanței Guvernului nr. 66/1994 privind formarea și utilizarea resurselor derulate prin trezoreria statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19442",
+   "versions": [
+    {
+     "from": "1999-10-04",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19442",
+     "sha256": "79f6f82ee86e30d14ea0e7e184a478f226c98b20e001347d7cc64688b7b2a42e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-107-1999",
+   "path": "ordin/finante/1999/107",
+   "short": "Ordin finante nr. 107/1999",
+   "title": "Ordinul nr. 107/1999 pentru modificarea și completarea Ordinului ministrului finanțelor nr. 2.049/1998 privind regimul taxei pe valoarea adăugată pentru bunurile și serviciile destinate misiunilor diplomatice, oficiilor consulare și reprezentantelor internaționale interguvernamentale acreditate în România, precum și personalului diplomatic al acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17076",
+   "versions": [
+    {
+     "from": "1999-03-02",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17076",
+     "sha256": "8d034161ec4e98479ba9055cfc07c702db65a56d008fe884ac56b587562245d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1192-1999",
+   "path": "ordin/finante/1999/1192",
+   "short": "Ordin finante nr. 1192/1999",
+   "title": "Ordinul nr. 1.192/1999 privind aprobarea nomenclatorului activităților independente pentru care venitul net se poate determina pe baza normelor de venit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19855",
+   "versions": [
+    {
+     "from": "1999-11-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19855",
+     "sha256": "a4873e3052e7f3ad653f804c5d1326bc014fa6db00d1b9fe865a8dd202bf8591"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1193-1999",
+   "path": "ordin/finante/1999/1193",
+   "short": "Ordin finante nr. 1193/1999",
+   "title": "Ordinul nr. 1.193/1999 referitor la fișele fiscale prevăzute de Ordonanța Guvernului nr. 73/1999 privind impozitul pe venit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19681",
+   "versions": [
+    {
+     "from": "1999-10-25",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19681",
+     "sha256": "a74be9ef0d604101b05a3ffcecb2f7480bb925f11b4f22f2684730af91cf211f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1223-1999",
+   "path": "ordin/finante/1999/1223",
+   "short": "Ordin finante nr. 1223/1999",
+   "title": "Ordinul nr. 1.223/1999 pentru aprobarea Precizărilor metodologice privind stingerea unor obligații de plată potrivit prevederilor art. 45 din Ordonanța de urgență a Guvernului nr. 140/1999 cu privire la rectificarea bugetului de stat pe anul 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19621",
+   "versions": [
+    {
+     "from": "1999-10-21",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19621",
+     "sha256": "68ef14d1be8e5f128ca39dd5c504aa6abcb4ff605c0917388014045cacd64419"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1227-1999",
+   "path": "ordin/finante/1999/1227",
+   "short": "Ordin finante nr. 1227/1999",
+   "title": "Ordinul nr. 1.227/1999 privind modificarea Ordinului ministrului finanțelor nr. 1.134/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19641",
+   "versions": [
+    {
+     "from": "1999-10-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19641",
+     "sha256": "f8d514fd6ed23cae9ee1c004ab60af562c367db59981c978f1f6ced3497473dd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1229-1999",
+   "path": "ordin/finante/1999/1229",
+   "short": "Ordin finante nr. 1229/1999",
+   "title": "Ordinul nr. 1.229/1999 pentru aprobarea Precizărilor privind înregistrarea în contabilitatea Ministerului Muncii și Protecției Sociale, a unităților sale teritoriale, precum și în contabilitatea agenților economici a operațiunilor privind constituirea și utilizarea Fondului național de solidaritate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19804",
+   "versions": [
+    {
+     "from": "1999-11-08",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19804",
+     "sha256": "4c88226ae6391387f7d334984094a48dac7a9e2487ad07517ff4b91959cd3791"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1277-1999",
+   "path": "ordin/finante/1999/1277",
+   "short": "Ordin finante nr. 1277/1999",
+   "title": "Ordinul nr. 1.277/1999 privind emisiunea de certificate de trezorerie cu dobânda pentru populație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19706",
+   "versions": [
+    {
+     "from": "1999-10-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19706",
+     "sha256": "5a17d8d8f4532ba25891660691c33487856adbb2a5b9a5e1aea784f3f0eab173"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1313-1999",
+   "path": "ordin/finante/1999/1313",
+   "short": "Ordin finante nr. 1313/1999",
+   "title": "Ordinul nr. 1.313/1999 pentru aprobarea modelului și conținutului formularelor de declarare a obligațiilor de plată la bugetul de stat datorate de persoanele juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20448",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 22,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20448",
+     "sha256": "63407902c62929079ee25e93fa3afffbb06f6f4249511383bc5cd4d2756e7a80"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1321-1999",
+   "path": "ordin/finante/1999/1321",
+   "short": "Ordin finante nr. 1321/1999",
+   "title": "Ordinul nr. 1.321/1999 pentru modificarea Ordinului ministrului finanțelor nr. 1.059/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19993",
+   "versions": [
+    {
+     "from": "1999-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19993",
+     "sha256": "ce95835d0ff674919564fe2c8c334fba730e9de9b74ed474af086fcf8da6898d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1323-1999",
+   "path": "ordin/finante/1999/1323",
+   "short": "Ordin finante nr. 1323/1999",
+   "title": "Ordinul nr. 1.323/1999 privind emisiunea de certificate de trezorerie cu dobânda pentru populație",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19798",
+   "versions": [
+    {
+     "from": "1999-11-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19798",
+     "sha256": "87b3154b2e5d2ac08a485502ffdf8b0808af1975e6ba7d529861a30889ea765e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1376-1999",
+   "path": "ordin/finante/1999/1376",
+   "short": "Ordin finante nr. 1376/1999",
+   "title": "Ordinul nr. 1.376/1999 privind aprobarea Normelor metodologice pentru aplicarea prevederilor Ordonanței Guvernului nr. 11/1996 privind executarea creanțelor bugetare, aprobată și modificată prin Legea nr. 108/1996, cu modificările și completările ulterioare, referitoare la cesiunea creanțelor bugetare fata de debitorii, societăți comerciale aflate în procedura reorganizării judiciare și a falimentului, supuse executării silite",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20262",
+   "versions": [
+    {
+     "from": "1999-12-16",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20262",
+     "sha256": "3a2f993e532c925175c707693e4f56eccc5fb4965394634fea0578b31a855dd7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-140-1999",
+   "path": "ordin/finante/1999/140",
+   "short": "Ordin finante nr. 140/1999",
+   "title": "Ordinul nr. 140/1999 pentru aprobarea criteriilor referitoare la autorizarea funcționării unităților",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17067",
+   "versions": [
+    {
+     "from": "1999-03-02",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17067",
+     "sha256": "58f6ff56f37d6c60eca0ed4aef1834466d260bd3b3c4e0843084807428ed9800"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1423-1999",
+   "path": "ordin/finante/1999/1423",
+   "short": "Ordin finante nr. 1423/1999",
+   "title": "Ordinul nr. 1.423/1999 pentru aprobarea modelului și conținutului unor formulare prevăzute de Ordonanța Guvernului nr. 73/1999 privind impozitul pe venit",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20146",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20146",
+     "sha256": "7524b4b70012e875f1a6a5f94b3be908c3d9b71ce22512cf015dcfc2e0adbfd7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1436-1999",
+   "path": "ordin/finante/1999/1436",
+   "short": "Ordin finante nr. 1436/1999",
+   "title": "Ordinul nr. 1.436/1999 privind modificarea Ordinul ministrului finanțelor nr. 1.351/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20042",
+   "versions": [
+    {
+     "from": "1999-11-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20042",
+     "sha256": "74db4609d2410266d7d891d2724b758730f8f2a2b776ce5f6a73fcdf95ba0ba8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1437-1999",
+   "path": "ordin/finante/1999/1437",
+   "short": "Ordin finante nr. 1437/1999",
+   "title": "Ordinul nr. 1.437/1999 privind modificarea Ordinul ministrului finanțelor nr. 1.352/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20043",
+   "versions": [
+    {
+     "from": "1999-11-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20043",
+     "sha256": "6ec01f032ae4b2c85cb4d2081d3be697e654e20e89d3696e98366e5cf2b76697"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1485-1999",
+   "path": "ordin/finante/1999/1485",
+   "short": "Ordin finante nr. 1485/1999",
+   "title": "Ordinul nr. 1.485/1999 pentru publicarea pe serverul Ministerului Finanțelor a informațiilor privind plătitorii de impozite și taxe înregistrați (agenți economici și instituții publice)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20339",
+   "versions": [
+    {
+     "from": "1999-12-23",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20339",
+     "sha256": "d3432cee7db3a4bcaf6de7578d55f3ac8ddef54b99357b0ddf848872fbc7fe25"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1496-1999",
+   "path": "ordin/finante/1999/1496",
+   "short": "Ordin finante nr. 1496/1999",
+   "title": "Ordinul nr. 1.496/1999 pentru aprobarea Normelor prudențiale privind acoperirea riscurilor de tip catastrofă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20340",
+   "versions": [
+    {
+     "from": "1999-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20340",
+     "sha256": "385ca9b89b86534582db22ce72094185bc5a4aeb6a8e7f2c8afc253cab3341f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1538-1999",
+   "path": "ordin/finante/1999/1538",
+   "short": "Ordin finante nr. 1538/1999",
+   "title": "Ordinul nr. 1.538/1999 pentru aprobarea Normelor metodologice privind încheierea exercițiului bugetar al anului 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20306",
+   "versions": [
+    {
+     "from": "1999-12-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20306",
+     "sha256": "26a17aae37deff76903a1d9683b457b6d2ca045288b8a73955428c563219091e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1540-1999",
+   "path": "ordin/finante/1999/1540",
+   "short": "Ordin finante nr. 1540/1999",
+   "title": "Ordinul nr. 1.540/1999 pentru aprobarea metodologiei de înregistrare în contabilitate a operațiunilor legate de primirea și utilizarea fondurilor din contribuția financiară a Comunității Europene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20390",
+   "versions": [
+    {
+     "from": "1999-12-29",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20390",
+     "sha256": "8b82a2a12cdd1e1846856d78ca9d74b1244da4b4c4da783de0ecc3719daf3802"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1542-1999",
+   "path": "ordin/finante/1999/1542",
+   "short": "Ordin finante nr. 1542/1999",
+   "title": "Ordinul nr. 1.542/1999 pentru aprobarea modelelor unor formulare tipizate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20563",
+   "versions": [
+    {
+     "from": "2000-01-11",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20563",
+     "sha256": "d93a93d8b8563e00be11acb4d522cdd039f4ba6c4e4e02c448cbbf2e78b9679c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1574-1999",
+   "path": "ordin/finante/1999/1574",
+   "short": "Ordin finante nr. 1574/1999",
+   "title": "Ordinul nr. 1.574/1999 pentru actualizarea cuantumurilor indemnizațiilor de delegare și de detașare, prevăzute în anexa la Hotărârea Guvernului nr. 543/1995 privind drepturile bănești ale salariaților instituțiilor publice și ai regiilor autonome cu specific deosebit pe perioada delegării și detașării în alta localitate, precum și în cazul deplasării în cadrul localității, în interesul serviciului, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20410",
+   "versions": [
+    {
+     "from": "1999-12-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20410",
+     "sha256": "5d24367c3714df3c704d0661ba9ae1bd3833c7aa3516026496e8526afe3d3b3e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1631-1999",
+   "path": "ordin/finante/1999/1631",
+   "short": "Ordin finante nr. 1631/1999",
+   "title": "Ordinul nr. 1.631/1999 privind aprobarea Normelor metodologice de aplicare a Legii datoriei publice nr. 81/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20921",
+   "versions": [
+    {
+     "from": "2000-02-11",
+     "units": 24,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20921",
+     "sha256": "570089f76cb7363f472f129663336328f73a1ce3f8181951975388159006dd8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-21846-1999",
+   "path": "ordin/finante/1999/21846",
+   "short": "Ordin finante nr. 21846/1999",
+   "title": "Ordinul nr. 21.846/1999 pentru aprobarea Normelor metodologice de aplicare a Ordonanței de urgenta a Guvernului nr. 142/1999 privind instituirea sistemului de plată pentru motorina, pe bază de bonuri valorice, în vederea înființării culturilor de cereale păioase și efectuării arăturilor din toamna anului 1999, modificată și completată prin Ordonanța de urgență a Guvernului nr. 177/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19958",
+   "versions": [
+    {
+     "from": "1999-11-17",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19958",
+     "sha256": "4e73fe51d2e6d53a64ef97f42fa8291a7f4bdd1729cd9e9703e66b6a84440987"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-288-1999",
+   "path": "ordin/finante/1999/288",
+   "short": "Ordin finante nr. 288/1999",
+   "title": "Ordinul nr. 288/1999 pentru modificarea și completarea Ordinului ministrului finanțelor nr. 1.283/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18156",
+   "versions": [
+    {
+     "from": "1999-05-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18156",
+     "sha256": "c6def0762265ac6728c7ded62c4a0a04c6061cc07db721e9f19deb57d8c78154"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-30-1999",
+   "path": "ordin/finante/1999/30",
+   "short": "Ordin finante nr. 30/1999",
+   "title": "Ordinul nr. 30/1999 pentru aprobarea Normelor metodologice privind virarea impozitului pe salarii la bugetul de stat, precum și a cotelor defalcate din acesta la bugetele locale potrivit Legii nr. 189/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16794",
+   "versions": [
+    {
+     "from": "1999-01-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16794",
+     "sha256": "4eb6e9b7adbe8d59dcb62ec8e5fa53df5e1cd62632a0b27f4967b074c90480e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-314-1999",
+   "path": "ordin/finante/1999/314",
+   "short": "Ordin finante nr. 314/1999",
+   "title": "Ordinul nr. 314/1999 pentru aprobarea Precizărilor privind reflectarea în contabilitate a unor operațiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17624",
+   "versions": [
+    {
+     "from": "1999-04-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17624",
+     "sha256": "da95e0bea7ecbfbd55ff74738cd1af7e871084bee353f16f4e15dd89ff853e93"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-32-1999",
+   "path": "ordin/finante/1999/32",
+   "short": "Ordin finante nr. 32/1999",
+   "title": "Ordinul nr. 32/1999 pentru actualizarea normelor anuale de venit, pe baza cărora se impozitează reprezentantele din România ale societăților comerciale și organizațiilor economice străine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16840",
+   "versions": [
+    {
+     "from": "1999-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16840",
+     "sha256": "012f3cc2b14551f400de8978c8524a9335469ec5220bf02f7e9be3250e98f666"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-398-1999",
+   "path": "ordin/finante/1999/398",
+   "short": "Ordin finante nr. 398/1999",
+   "title": "Ordinul nr. 398/1999 privind aprobarea Normelor metodologice pentru aplicarea prevederilor Ordonanței Guvernului nr. 11/1996 privind executarea creanțelor bugetare, aprobată și modificată prin Legea nr. 108/1996, cu modificările și completările ulterioare, referitoare la măsuri asiguratorii și la contestația la executare silită",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18125",
+   "versions": [
+    {
+     "from": "1999-05-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18125",
+     "sha256": "ac3c7011d55f5c6dc7866f31fe579368e7bba215977b2a66bee6240990e7a7b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-403-1999",
+   "path": "ordin/finante/1999/403",
+   "short": "Ordin finante nr. 403/1999",
+   "title": "Ordinul nr. 403/1999 pentru aprobarea Reglementărilor contabile armonizate cu Directiva a IV-a a Comunităților Economice Europene și cu Standardele de Contabilitate Internaționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19441",
+   "versions": [
+    {
+     "from": "1999-10-04",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19441",
+     "sha256": "98e2f88637840869144b986feca63e82417b5fb78db31546c5ff54fa75568db6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-407-1999",
+   "path": "ordin/finante/1999/407",
+   "short": "Ordin finante nr. 407/1999",
+   "title": "Ordinul nr. 407/1999 privind aprobarea Normelor metodologice pentru aplicarea prevederilor Ordonanței de urgență a Guvernului nr. 16/1999 privind scutirea de la plata taxei de reclama și publicitate, precum și a majorărilor de întârziere aferente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18182",
+   "versions": [
+    {
+     "from": "1999-05-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18182",
+     "sha256": "b976bb1981736a0c31595a754ae7240f7a032b3e65168123cca809ab7f9536be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-438-1999",
+   "path": "ordin/finante/1999/438",
+   "short": "Ordin finante nr. 438/1999",
+   "title": "Ordinul nr. 438/1999 privind aprobarea actualizării nivelului taxelor anuale care se percep pentru jocurile de noroc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18336",
+   "versions": [
+    {
+     "from": "1999-06-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18336",
+     "sha256": "3bc38f851fafeceb565ea826e287a58b90fe300f53ad1b2aca2f6acbdcbbabca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-448-1999",
+   "path": "ordin/finante/1999/448",
+   "short": "Ordin finante nr. 448/1999",
+   "title": "Ordinul nr. 448/1999 privind certificatul de atestare fiscală pentru persoane juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19263",
+   "versions": [
+    {
+     "from": "1999-09-15",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19263",
+     "sha256": "9bd3071ba69f194659b7f08b482733cad3c36b22bb34b677ba27c8e036432b21"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-50-1999",
+   "path": "ordin/finante/1999/50",
+   "short": "Ordin finante nr. 50/1999",
+   "title": "Ordinul nr. 50/1999 pentru modificarea anexei nr. 3 la Ordinul ministrului finanțelor nr. 2.577/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16747",
+   "versions": [
+    {
+     "from": "1999-01-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16747",
+     "sha256": "fa7166c91ecedaac6ad2e8752e7687961bab8ab3002a70c02691a2724c5006aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-505-1999",
+   "path": "ordin/finante/1999/505",
+   "short": "Ordin finante nr. 505/1999",
+   "title": "Ordinul nr. 505/1999 privind aprobarea Instrucțiunilor nr. 301.635/1999 pentru actualizarea cuantumurilor indemnizațiilor de delegare și de detașare, potrivit prevederilor art. 3 din Hotărârea Guvernului nr. 543/1995 privind drepturile bănești ale salariaților instituțiilor publice și regiilor autonome cu specific deosebit pe perioada delegării și detașării în alta localitate, precum și în cazul deplasării, în cadrul localității, în interesul serviciului, republicată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18245",
+   "versions": [
+    {
+     "from": "1999-05-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18245",
+     "sha256": "2090aa247f8aec054701fbc57a60ccbfd03f1113ec45468c69285cc178fe74b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-53-1999",
+   "path": "ordin/finante/1999/53",
+   "short": "Ordin finante nr. 53/1999",
+   "title": "Ordinul nr. 53/1999 privind aprobarea soluțiilor pentru aplicarea unitară a prevederilor Ordonanței de urgență a Guvernului nr. 50/1998 și ale Ordonanței Guvernului nr. 1/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16749",
+   "versions": [
+    {
+     "from": "1999-01-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16749",
+     "sha256": "1dc83d69fcc51e17dd36ab66e71ea9707862cddd7a0ee05d0936ba61e829810b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-534-1999",
+   "path": "ordin/finante/1999/534",
+   "short": "Ordin finante nr. 534/1999",
+   "title": "Ordinul nr. 534/1999 privind intrarea în vigoare a Convenției dintre Guvernul României și Guvernul Georgiei pentru evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit și pe capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18707",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18707",
+     "sha256": "fa6fc734298c4d1348e5dd0fa48c2bcfd98029cc6e079050c190c316bfa1412d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-561-1999",
+   "path": "ordin/finante/1999/561",
+   "short": "Ordin finante nr. 561/1999",
+   "title": "Ordinul nr. 561/1999 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 11/1999 privind acordarea de facilități fiscale agenților economici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18554",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18554",
+     "sha256": "9ae2959df35b67a1f08e995e04c505fd4c793e023c586363c4851624a63cb042"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-577-1999",
+   "path": "ordin/finante/1999/577",
+   "short": "Ordin finante nr. 577/1999",
+   "title": "Ordinul nr. 577/1999 privind actualizarea limitelor maxime de cheltuieli pentru acțiunile de protocol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18537",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18537",
+     "sha256": "5f97e19fee818783e1e3880322cc4bdf95df2e47c044615b481af384890f78bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-608-1999",
+   "path": "ordin/finante/1999/608",
+   "short": "Ordin finante nr. 608/1999",
+   "title": "Ordinul nr. 608/1999 privind aprobarea Normelor metodologice pentru aplicarea Ordonanței de urgență a Guvernului nr. 68/1999 privind stimularea plății obligațiilor fata de bugetul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18468",
+   "versions": [
+    {
+     "from": "1999-06-17",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18468",
+     "sha256": "8d42a3dd29e6a4ff0799a1e9c40867fbeb24c338845aeca5bc194cfc6e1fb756"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-638-1999",
+   "path": "ordin/finante/1999/638",
+   "short": "Ordin finante nr. 638/1999",
+   "title": "Ordinul nr. 638/1999 pentru aprobarea Instrucțiunilor de lucru privind facilitățile acordate conform art. 6-8 din Ordonanța Guvernului nr. 116/1998 privind instituirea regimului special pentru activitatea de transport maritim internațional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18579",
+   "versions": [
+    {
+     "from": "1999-06-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18579",
+     "sha256": "2eb1d712461baeebaa0c6bd19cf6beab828fab6a104c3de805eb3bef575369c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-642-1999",
+   "path": "ordin/finante/1999/642",
+   "short": "Ordin finante nr. 642/1999",
+   "title": "Ordinul nr. 642/1999 pentru aprobarea Precizărilor privind înregistrarea în contabilitatea ordonatorilor principali de credite și a agenților economici a operațiunilor de finanțare a proiectelor și programelor de restructurare și reforma din Fondul la dispoziția Guvernului, constituit din vărsăminte din privatizare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18555",
+   "versions": [
+    {
+     "from": "1999-06-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18555",
+     "sha256": "a9b7264f3945be8d01804f490d0cae19888b82fe0209d8b08f0cd424b1b6bb3f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-645-1999",
+   "path": "ordin/finante/1999/645",
+   "short": "Ordin finante nr. 645/1999",
+   "title": "Ordinul nr. 645/1999 pentru modificarea Ordinului ministrului finanțelor nr. 567/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18504",
+   "versions": [
+    {
+     "from": "1999-06-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18504",
+     "sha256": "180261a3a4b77943838c3dd3560d9011fe3148dfc036dd6e9f54ca33fa6bc2c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-646-1999",
+   "path": "ordin/finante/1999/646",
+   "short": "Ordin finante nr. 646/1999",
+   "title": "Ordinul nr. 646/1999 pentru modificarea Ordinului ministrului finanțelor nr. 568/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18505",
+   "versions": [
+    {
+     "from": "1999-06-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18505",
+     "sha256": "24da67bdc39d140ecf6648a2c5b97cccc55e0ed0f048b7a7291a3535bf7efcfb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-659-1999",
+   "path": "ordin/finante/1999/659",
+   "short": "Ordin finante nr. 659/1999",
+   "title": "Ordinul nr. 659/1999 privind actualizarea accizelor stabilite în lei prin Ordonanța de urgență a Guvernului nr. 82/1997, cu modificările și completările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18476",
+   "versions": [
+    {
+     "from": "1999-06-22",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18476",
+     "sha256": "35a1d2e305693ad58b3ab572571631d279e43cba3504ed99deaeff5b688282ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-66-1999",
+   "path": "ordin/finante/1999/66",
+   "short": "Ordin finante nr. 66/1999",
+   "title": "Ordinul nr. 66/1999 pentru modificarea Normelor metodologice nr. 48.211/1994 privind perceperea, încasarea, virarea, utilizarea, evidenta și controlul destinației sumelor rezultate din aplicarea timbrului literar, cinematografic, teatral, muzical, folcloric și al artelor plastice, cu modificările ulterioare,",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16909",
+   "versions": [
+    {
+     "from": "1999-02-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16909",
+     "sha256": "9ca6d4a3f46741c875b1781b582454c47653e234a6ee65391308b0db07e6d227"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-675-1999",
+   "path": "ordin/finante/1999/675",
+   "short": "Ordin finante nr. 675/1999",
+   "title": "Ordinul nr. 675/1999 privind acțiunile care trebuie întreprinse pentru trecerea la anul 2000 a sistemelor informatice financiar-contabile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18708",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18708",
+     "sha256": "31bd0844bd212791e44883ea349a5bbd73391e35295b0639bd8c7d8823f78deb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-685-1999",
+   "path": "ordin/finante/1999/685",
+   "short": "Ordin finante nr. 685/1999",
+   "title": "Ordinul nr. 685/1999 pentru stabilirea structurii raportărilor prevăzute de Ordonanța de urgență a Guvernului nr. 94/1999 privind sistemul de monitorizare a cheltuielilor de personal din bugetul de stat pe anul 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18580",
+   "versions": [
+    {
+     "from": "1999-06-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18580",
+     "sha256": "6aa1365a2a94730d0d41bec79fbb7627a2e9f3ef02b287595feef63dbcedfb72"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-686-1999",
+   "path": "ordin/finante/1999/686",
+   "short": "Ordin finante nr. 686/1999",
+   "title": "Ordinul nr. 686/1999 pentru aprobarea Normelor privind înregistrarea în contabilitate a operațiunilor de leasing",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18760",
+   "versions": [
+    {
+     "from": "1999-07-14",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18760",
+     "sha256": "4f64b3d8562609186069e5212a2d87b1102156815b031358278bbc0087da9ee1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-779-1999",
+   "path": "ordin/finante/1999/779",
+   "short": "Ordin finante nr. 779/1999",
+   "title": "Ordinul nr. 779/1999 în legătură cu intrarea în vigoare a Convenției dintre România și Regatul Olandei pentru evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit și pe capital și a protocolului anexat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19013",
+   "versions": [
+    {
+     "from": "1999-08-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19013",
+     "sha256": "57545c4896f062d21b2d9d2dbd106b48c418364c107055c2cd79475d984bcf48"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-792-1999",
+   "path": "ordin/finante/1999/792",
+   "short": "Ordin finante nr. 792/1999",
+   "title": "Ordinul nr. 792/1999 pentru aprobarea Instrucțiunilor cuprinzând procedura de acordare a asistenței pentru contribuabili",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19189",
+   "versions": [
+    {
+     "from": "1999-09-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19189",
+     "sha256": "6c35dadb77d1d7ffbf0f48e52d872df68e203c6950aa8412d9288bfae31d38af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-805-1999",
+   "path": "ordin/finante/1999/805",
+   "short": "Ordin finante nr. 805/1999",
+   "title": "Ordinul nr. 805/1999 privind formularele tipizate pentru impozite și taxe locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19429",
+   "versions": [
+    {
+     "from": "1999-10-05",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19429",
+     "sha256": "4bb1b3449aabebb4d294dedb87e0bbafc633b0ed0397fb5a953568253da3979a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-811-1999",
+   "path": "ordin/finante/1999/811",
+   "short": "Ordin finante nr. 811/1999",
+   "title": "Ordinul nr. 811/1999 privind intrarea în vigoare a Convenției dintre Guvernul României și Guvernul Republicii Namibia pentru evitarea dublei impuneri cu privire la impozitele pe venit și pe capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19048",
+   "versions": [
+    {
+     "from": "1999-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19048",
+     "sha256": "273fbaeff1be2743bce0e5aa27a3c7d66b332d89dd02735bb480036eca486cad"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-815-1999",
+   "path": "ordin/finante/1999/815",
+   "short": "Ordin finante nr. 815/1999",
+   "title": "Ordinul nr. 815/1999 pentru aprobarea Normelor metodologice privind aducerea la îndeplinire a prevederilor art. 55 din Legea bugetului de stat pe anul 1999 nr. 36/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19027",
+   "versions": [
+    {
+     "from": "1999-08-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19027",
+     "sha256": "679cdfe69453d036547dae148f4a65ca13eb0f858ae4ceeb3eb4bae9bb4bf754"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-840-1999",
+   "path": "ordin/finante/1999/840",
+   "short": "Ordin finante nr. 840/1999",
+   "title": "Ordinul nr. 840/1999 privind stabilirea termenelor de plată a obligațiilor bugetare prevăzute în Ordonanța de urgență a Guvernului nr. 51/1998, modificată și completată prin Ordonanța de urgență a Guvernului nr. 64/1999, și în Hotărârea Guvernului nr. 387/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18952",
+   "versions": [
+    {
+     "from": "1999-08-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18952",
+     "sha256": "709f93b7d182903b922e5c53cd1da20e4b5d96e9bf8d1ef569fb928d32a01518"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-91-1999",
+   "path": "ordin/finante/1999/91",
+   "short": "Ordin finante nr. 91/1999",
+   "title": "Ordinul nr. 91/1999 privind aprobarea formularului specific cu regim special \"Autorizație de comercializare\" pentru alcool, băuturi alcoolice, produse din tutun și sortimente de cafea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16995",
+   "versions": [
+    {
+     "from": "1999-02-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16995",
+     "sha256": "006d4d6d434340c9855a37555cc8555645f3341058763d489259568201aaa9af"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-974-1999",
+   "path": "ordin/finante/1999/974",
+   "short": "Ordin finante nr. 974/1999",
+   "title": "Ordinul nr. 974/1999 privind actualizarea accizelor stabilite în lei prin Ordonanța de urgență a Guvernului nr. 82/1997, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19167",
+   "versions": [
+    {
+     "from": "1999-09-02",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19167",
+     "sha256": "27dca5beaaf298abc01609517ba7aed81054bdc57cbf74fe050bd9ecfec6225e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-980-1999",
+   "path": "ordin/finante/1999/980",
+   "short": "Ordin finante nr. 980/1999",
+   "title": "Ordinul nr. 980/1999 pentru modificarea Normelor metodologice de aplicare a Ordonanței Guvernului nr. 23/1995 privind instituirea sistemului de marcare pentru țigarete, produse din tutun și băuturi alcoolice, republicată, cu modificările ulterioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19949",
+   "versions": [
+    {
+     "from": "1999-11-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19949",
+     "sha256": "27df7c1bb68f6cedca4c192f4859dc3413e3ec329c0e02e00bb8dccf40854df8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-984-1999",
+   "path": "ordin/finante/1999/984",
+   "short": "Ordin finante nr. 984/1999",
+   "title": "Ordinul nr. 984/1999 privind aprobarea actualizării taxelor anuale care se percep pentru jocurile de noroc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19395",
+   "versions": [
+    {
+     "from": "1999-10-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19395",
+     "sha256": "3f3cd16c0c16eab7e0ad0ce923df4f7a797124da4ac904f9c94138621d2b8245"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2628-c-1999",
+   "path": "ordin/justitie/1999/2628-c",
+   "short": "Ordin justitie nr. 2628/C/1999",
+   "title": "Ordinul nr. 2.628/C/1999 pentru aprobarea Statutului Corpului executorilor bancari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19951",
+   "versions": [
+    {
+     "from": "1999-11-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19951",
+     "sha256": "af7cf49059ae6e596917bcd68da7ea9b11f137067d0b389ca051899091ab4349"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-2986-c-1999",
+   "path": "ordin/justitie/1999/2986-c",
+   "short": "Ordin justitie nr. 2986/C/1999",
+   "title": "Ordinul nr. 2.986/C/1999 pentru aprobarea Regulamentului de organizare și funcționare a Uniunii Naționale a Practicienilor în Reorganizare și Lichidare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20516",
+   "versions": [
+    {
+     "from": "2000-01-04",
+     "units": 76,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20516",
+     "sha256": "8027c4aad3c64596228046f850616d4a5ce8e19254e0a7c59da116e687a83b54"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-3003-1999",
+   "path": "ordin/justitie/1999/3003",
+   "short": "Ordin justitie nr. 3003/1999",
+   "title": "Ordinul nr. 3.003/1999 pentru aprobarea Regulamentului privind activitatea Arbitrajului de pe lângă Casa Naționala de Asigurări de Sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23730",
+   "versions": [
+    {
+     "from": "2000-08-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23730",
+     "sha256": "34ec99411976ac1fb15e31e921e5334adf48a14722df519415a9dd86cc20d83a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-3022-c-1999",
+   "path": "ordin/justitie/1999/3022-c",
+   "short": "Ordin justitie nr. 3022/C/1999",
+   "title": "Ordinul nr. 3.022/C/1999 privind abilitarea cu puteri de ancheta pentru investigarea faptelor care constituie încălcări ale prevederilor Legii concurentei nr. 21/1996 a persoanelor desemnate de Consiliul Concurentei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20629",
+   "versions": [
+    {
+     "from": "2000-01-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20629",
+     "sha256": "484d08721beca556127db952a6d61e243aa3898ff686f43b53b69944e6e8e238"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-justitie-760-c-1999",
+   "path": "ordin/justitie/1999/760-c",
+   "short": "Ordin justitie nr. 760/C/1999",
+   "title": "Ordinul nr. 760/C/1999 privind aprobarea Normelor metodologice pentru aplicarea Legii nr. 146/1997 privind taxele judiciare de timbru",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18959",
+   "versions": [
+    {
+     "from": "1999-08-10",
+     "units": 47,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18959",
+     "sha256": "f056a490a35e9364317bb1291134802bbf44ace77fd43a70227dd933f16843e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-137-1999",
+   "path": "ordin/munca/1999/137",
+   "short": "Ordin munca nr. 137/1999",
+   "title": "Ordinul nr. 137/1999 privind stabilirea valorii nominale indexate a unui tichet de masa pentru semestrul I 1999, potrivit prevederilor art. 31 din Normele de aplicare a Legii nr. 142/1998 privind acordarea tichetelor de masa, aprobate prin Hotărârea Guvernului nr. 5/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17256",
+   "versions": [
+    {
+     "from": "1999-03-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17256",
+     "sha256": "20e1aaa5b743f52da5adb5cdef7f4449ec41ff36c703d13fe22196924e081d47"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-169-1999",
+   "path": "ordin/munca/1999/169",
+   "short": "Ordin munca nr. 169/1999",
+   "title": "Ordinul nr. 169/1999 privind stabilirea contribuției de întreținere în instituțiile de asistența socială",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17558",
+   "versions": [
+    {
+     "from": "1999-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17558",
+     "sha256": "5bb35187e1b4f1447a55cbae5f37895ef63db47c9e6556793280fda119421064"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-177-1999",
+   "path": "ordin/munca/1999/177",
+   "short": "Ordin munca nr. 177/1999",
+   "title": "Ordinul nr. 177/1999 privind aprobarea Normelor specifice de protecție a muncii pentru fabricarea uleiurilor și a altor grăsimi vegetale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18346",
+   "versions": [
+    {
+     "from": "1999-06-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18346",
+     "sha256": "83f75fb431f11e208977ec6671012843deaeccd71a2e26276a28c16b449642bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-178-1999",
+   "path": "ordin/munca/1999/178",
+   "short": "Ordin munca nr. 178/1999",
+   "title": "Ordinul nr. 178/1999 privind aprobarea Normelor specifice de protecție a muncii pentru industria de prelucrare a tutunului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18347",
+   "versions": [
+    {
+     "from": "1999-06-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18347",
+     "sha256": "86f4315c2de7fd3c28ffd13c7bbdd9d4e4477388bf86e168488977a74b4d6e9f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-191-1999",
+   "path": "ordin/munca/1999/191",
+   "short": "Ordin munca nr. 191/1999",
+   "title": "Ordinul nr. 191/1999 privind aprobarea Normelor specifice de protecție a muncii pentru prelucrarea, păstrarea, industrializarea și livrarea furajelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18733",
+   "versions": [
+    {
+     "from": "1999-07-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18733",
+     "sha256": "f159644e026f5106402e25583050399baec97d03c223b4d990a1e63785fcaf56"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-214-1999",
+   "path": "ordin/munca/1999/214",
+   "short": "Ordin munca nr. 214/1999",
+   "title": "Ordinul nr. 214/1999 privind aprobarea Normelor specifice de protecție a muncii pentru exploatarea substanțelor minerale în cariere prin derocare cu explozivi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18444",
+   "versions": [
+    {
+     "from": "1999-06-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18444",
+     "sha256": "8d4a09881e30261a66235979676aefead5467d919c06722eb7dff9a3a6c016cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-215-1999",
+   "path": "ordin/munca/1999/215",
+   "short": "Ordin munca nr. 215/1999",
+   "title": "Ordinul nr. 215/1999 privind aprobarea Normelor specifice de protecție a muncii pentru mine de petrol",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18445",
+   "versions": [
+    {
+     "from": "1999-06-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18445",
+     "sha256": "c0233214bf65c275f7a4627f81f00c4939337e6500ba66cf732af3b2243d30f8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-283-1999",
+   "path": "ordin/munca/1999/283",
+   "short": "Ordin munca nr. 283/1999",
+   "title": "Ordinul nr. 283/1999 privind aprobarea Normelor specifice de protecție a muncii pentru lucrări de montaj utilaj tehnologic și construcții metalice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18980",
+   "versions": [
+    {
+     "from": "1999-08-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18980",
+     "sha256": "382bbda8038666cdcd4c20691a46b2e1d699aea54408e72807f707b363189c36"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-294-1999",
+   "path": "ordin/munca/1999/294",
+   "short": "Ordin munca nr. 294/1999",
+   "title": "Ordinul nr. 294/1999 privind aprobarea Normelor specifice de protecție a muncii pentru fabricarea porțelanului și a ceramicii fine pentru menaj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18735",
+   "versions": [
+    {
+     "from": "1999-07-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18735",
+     "sha256": "ab35ec3c52f7b59eb7fe28bff00008aeac09a5e878b0d75a2c0ecd4f71fc1e78"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-419-1999",
+   "path": "ordin/munca/1999/419",
+   "short": "Ordin munca nr. 419/1999",
+   "title": "Ordinul nr. 419/1999 pentru aprobarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 100/1999, referitoare la unele măsuri de protecție socială a salariaților civili disponibilizați ca urmare a programului de restructurare a Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19069",
+   "versions": [
+    {
+     "from": "1999-08-20",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19069",
+     "sha256": "6e1023321170116c8ef256a64515ee819d4aee73212aee1ae6a654d1d7429e60"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-446-1999",
+   "path": "ordin/munca/1999/446",
+   "short": "Ordin munca nr. 446/1999",
+   "title": "Ordinul nr. 446/1999 privind aprobarea Normelor specifice de protecție a muncii pentru fabricarea zahărului și a produselor zaharoase",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19699",
+   "versions": [
+    {
+     "from": "1999-10-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19699",
+     "sha256": "c7bfc3e03124c3facfd51c62e022c379fddf774460e773e2a385ac2eb11fb4e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-455-1999",
+   "path": "ordin/munca/1999/455",
+   "short": "Ordin munca nr. 455/1999",
+   "title": "Ordinul nr. 455/1999 privind stabilirea valorii nominale indexate a unui tichet de masa pentru semestrul II 1999, potrivit prevederilor art. 31 din Normele de aplicare a Legii nr. 142/1998 privind acordarea tichetelor de masa, aprobate prin Hotărârea Guvernului nr. 5/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19025",
+   "versions": [
+    {
+     "from": "1999-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19025",
+     "sha256": "8948b3f0c6922e96ceef163c7e36d486dd620243062343bb9a8783c5123236fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-697-1999",
+   "path": "ordin/munca/1999/697",
+   "short": "Ordin munca nr. 697/1999",
+   "title": "Ordinul nr. 697/1999 privind aprobarea Normelor specifice de protecție a muncii pentru transportul prin conducte al gazelor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20375",
+   "versions": [
+    {
+     "from": "1999-12-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20375",
+     "sha256": "b1fda3f3b395796bb100d9532d2962181b90cfcbc9391c2bd5d8a402b93836bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-747-1999",
+   "path": "ordin/munca/1999/747",
+   "short": "Ordin munca nr. 747/1999",
+   "title": "Ordinul nr. 747/1999 pentru aprobarea Normelor privind încasarea, evidenta și modul de utilizare a sumelor provenite din comisionul încasat de inspectoratele teritoriale de muncă și de direcțiile generale de muncă și protecție socială, potrivit art. 12 din Legea nr. 130/1999, cu modificările și completările ulterioare, a Procedurii de înregistrare a contractelor individuale de muncă și a modului de ținere a evidentei muncii prestate de salariații angajatorilor prevăzuți la art. 8 din Legea nr. 130/1999, cu modificările și completările ulterioare, precum și de înregistrare și evidenta a convențiilor civile de prestări de servicii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20500",
+   "versions": [
+    {
+     "from": "1999-12-31",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20500",
+     "sha256": "2230e0128c0f8fd70359bc96cdb7f3a4efed9bed4101ae34bfed290fa76e6965"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-748-1999",
+   "path": "ordin/munca/1999/748",
+   "short": "Ordin munca nr. 748/1999",
+   "title": "Ordinul nr. 748/1999 privind aprobarea Normelor specifice de protecție a muncii pentru exploatarea stufului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21169",
+   "versions": [
+    {
+     "from": "2000-02-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21169",
+     "sha256": "134731193f642472ec6b45bf19703b9da92ac80cf7eaad544d683b2e48db6615"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-munca-78-1999",
+   "path": "ordin/munca/1999/78",
+   "short": "Ordin munca nr. 78/1999",
+   "title": "Ordinul nr. 78/1999 privind aprobarea Normelor specifice de protecție a muncii pentru desfacerea produselor petroliere",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18116",
+   "versions": [
+    {
+     "from": "1999-05-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18116",
+     "sha256": "d31fedc7e56d971a141527021526d958357f56ef682d73eb3829d83412aefcb2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-2120-1999",
+   "path": "ordin/sanatate/1999/2120",
+   "short": "Ordin sanatate nr. 2120/1999",
+   "title": "Ordinul nr. 2.120/1999 pentru încadrarea în grupa II de muncă a unor locuri de muncă și activități din cadrul Societății Comerciale \"Aerostar\" - S.A. Bacău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19620",
+   "versions": [
+    {
+     "from": "1999-10-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19620",
+     "sha256": "914c9feae87b6cf93e56d968f5a051caf3aa3afd83fa53725bcd1e4dfc579498"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-318-1999",
+   "path": "ordin/sanatate/1999/318",
+   "short": "Ordin sanatate nr. 318/1999",
+   "title": "Ordinul nr. 318/1999 privind aprobarea Normelor metodologice de aplicare a Ordonanței de urgență a Guvernului nr. 55/1999 pentru interzicerea publicității produselor din tutun în sălile de spectacol și interzicerea vânzării produselor din tutun minorilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18983",
+   "versions": [
+    {
+     "from": "1999-08-12",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18983",
+     "sha256": "81d17883f76716a6080ed1189a8edba6a9c60035d42490be11a7b0346015ac89"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-328-1999",
+   "path": "ordin/sanatate/1999/328",
+   "short": "Ordin sanatate nr. 328/1999",
+   "title": "Ordinul nr. 328/1999 pentru aprobarea Listei denumirilor comune internaționale (D.C.I.) ale medicamentelor din Nomenclatorul de medicamente și produse biologice de uz uman, de care beneficiază asigurații, pe bază de prescripție medicală, în tratamentul ambulatoriu, cu sau fără contribuție personală, și a Modului de prescriere, eliberare și de decontare a medicamentelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19004",
+   "versions": [
+    {
+     "from": "1999-09-16",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19004",
+     "sha256": "750c4431649858e6a359bc5a65de15b3a17d40bdb37221b6e2e7e4b49ea0ed31"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-330-1999",
+   "path": "ordin/sanatate/1999/330",
+   "short": "Ordin sanatate nr. 330/1999",
+   "title": "Ordinul nr. 330/1999 pentru aprobarea Normelor privind organizarea și funcționarea inspecției sanitare de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18419",
+   "versions": [
+    {
+     "from": "1999-07-16",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18419",
+     "sha256": "1ceffbab67e9794c073af4ec60cfc70646e77336050c4ee4592680ee357758c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-331-1999",
+   "path": "ordin/sanatate/1999/331",
+   "short": "Ordin sanatate nr. 331/1999",
+   "title": "Ordinul nr. 331/1999 pentru aprobarea Normelor de avizare sanitară a proiectelor obiectivelor și de autorizare sanitară a obiectivelor cu impact asupra sănătății publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18421",
+   "versions": [
+    {
+     "from": "1999-07-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18421",
+     "sha256": "a819ef5436a39f5278547bd5c1204e62532e93965eab764233e7b58aa8afb45e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-356-1999",
+   "path": "ordin/sanatate/1999/356",
+   "short": "Ordin sanatate nr. 356/1999",
+   "title": "Ordinul nr. 356/1999 privind aprobarea Programului de pregătire pentru practicarea ocupației de îngrijitor la domiciliu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18994",
+   "versions": [
+    {
+     "from": "1999-08-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18994",
+     "sha256": "f62701f7ec03d279f2a3d23512b5c1ff93cc6f0d633235ee0e9e73719eda042f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-527-1999",
+   "path": "ordin/sanatate/1999/527",
+   "short": "Ordin sanatate nr. 527/1999",
+   "title": "Ordinul nr. 527/1999 pentru stabilirea activităților conexe serviciilor medicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18982",
+   "versions": [
+    {
+     "from": "1999-08-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18982",
+     "sha256": "bc3ee473fae52dee836687309e07587d77fecfaac14baddecf51deda08c565d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-623-1999",
+   "path": "ordin/sanatate/1999/623",
+   "short": "Ordin sanatate nr. 623/1999",
+   "title": "Ordinul nr. 623/1999 pentru aprobarea componentei trusei sanitare auto și a conținutului minim obligatoriu al acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20352",
+   "versions": [
+    {
+     "from": "1999-12-24",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20352",
+     "sha256": "ea8ac7657b1634d0681f0c7985c57186c204fef413b1dee0a3ccc5f3364ae9fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-80-1999",
+   "path": "ordin/sanatate/1999/80",
+   "short": "Ordin sanatate nr. 80/1999",
+   "title": "Ordinul nr. 80/1999 privind organizarea și funcționarea compartimentelor de igiena radiațiilor nucleare, aflate în rețeaua Ministerului Sănătății",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17753",
+   "versions": [
+    {
+     "from": "1999-04-13",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17753",
+     "sha256": "42540ea93de75a4df49aaf04391e5daefc7054473531cbee7f7254ac6ad11c09"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-824-1999",
+   "path": "ordin/sanatate/1999/824",
+   "short": "Ordin sanatate nr. 824/1999",
+   "title": "Ordinul nr. 824/1999 pentru aprobarea programului de restructurare a Stației de Verificare și Întreținere a Aparaturii Medicale București",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20044",
+   "versions": [
+    {
+     "from": "1999-12-02",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20044",
+     "sha256": "68e5e6610130933bda5c1d57f3c7ee3e41ae921711fd3c3cfa02e7a72c47a7d7"
+    }
+   ]
+  }
+ ]
+}
