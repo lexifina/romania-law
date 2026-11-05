@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-68-2022",
+   "path": "local/prahova/campina/2022/68",
+   "short": "HCL Câmpina nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 68/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0a647bac84882c980b059861d295d844021fbc05edb458d3340d7fdbba9ccc80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-69-2022",
+   "path": "local/prahova/campina/2022/69",
+   "short": "HCL Câmpina nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 69/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1266438dae6040d78084dd01d1170e42bdcc8ced73ff0444dc4d54015f66bda6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-76-2022",
    "path": "local/prahova/campina/2022/76",
    "short": "HCL Câmpina nr. 76/2022",

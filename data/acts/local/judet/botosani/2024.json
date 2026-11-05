@@ -3,6 +3,28 @@
 "shard": "local/judet/botosani/2024",
 "acts": [
 {
+"slug": "hcj-botosani-21-2024",
+"path": "local/judet/botosani/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 21/2024 privind aprobarea atribuirii licenţelor de traseu pentru operatorii de transport rutier a căror oferte au fost stabilite câştigătoare pentru traseele din Grupa nr.13 în cadrul procedurii de atribuire a contractelor de delegare a gestiunii serviciului public de transport judeţean de persoane",
+"short": "HCJ Botoșani nr. 21/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-26",
+"latest": "2024-01-26",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-botosani-78-2024",
 "path": "local/judet/botosani/2024/78",
 "kind": "local",
@@ -22,6 +44,28 @@
 "council_name": "Consiliul Județean Botoșani",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-botosani-111-2024",
+"path": "local/judet/botosani/2024/111",
+"kind": "local",
+"year": "2024",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 111/2024 privind aprobarea Regulamentului de organizare şi funcţionare a Serviciului Public Comunitar de Evidență a Persoanelor al Județului Botoșani din subordinea Consiliului Județean Botoșani",
+"short": "HCJ Botoșani nr. 111/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review"
 }
 },
 {
@@ -66,6 +110,28 @@
 "council_name": "Consiliul Județean Botoșani",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-botosani-151-2024",
+"path": "local/judet/botosani/2024/151",
+"kind": "local",
+"year": "2024",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 151/2024 privind aprobarea atribuirii licenţelor de traseu pentru operatorii de transport rutier a căror oferte au fost stabilite câştigătoare pentru traseele din Grupele nr.1 și 10 în cadrul procedurii de atribuire a contractelor de delegare a gestiunii serviciului public de transport judeţean de p",
+"short": "HCJ Botoșani nr. 151/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-28",
+"latest": "2024-08-28",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review"
 }
 }
 ]

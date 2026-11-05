@@ -3,6 +3,36 @@
  "shard": "local/judet/prahova/2020",
  "acts": [
   {
+   "slug": "hcj-prahova-187-2020",
+   "path": "local/judet/prahova/2020/187",
+   "short": "HCJ Prahova nr. 187/2020",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 187/2020 privind stabilirea prețurilor medii ale produselor agricole și a prețului mediu al ierbii obținută de pe pajiști, pentru anul fiscal 2021",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-187-din-data-23-12-2020.pdf",
+     "sha256": "ae88bd178298ef3feb3adc13ab0faae92df4877e53e3fe9eaffd5489fd362e16"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-188-2020",
+   "path": "local/judet/prahova/2020/188",
+   "short": "HCJ Prahova nr. 188/2020",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 188/2020 privind stabilirea unor taxe și taxe speciale pentru anul fiscal 2021",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-188-din-data-23-12-2020.pdf",
+     "sha256": "ae73922690ec0ea057bb5ea4730ad6b687dcb7adf13bc8b9ff5ce76319942149"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-189-2020",
    "path": "local/judet/prahova/2020/189",
    "short": "HCJ Prahova nr. 189/2020",
@@ -164,6 +194,51 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-200-din-data-30-12-2020.pdf",
      "sha256": "ca0245b8f4c55741d8b57ad2779c8192c81783828935824177c51ae12a7793f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-23-2020",
+   "path": "local/judet/prahova/2020/23",
+   "short": "HCJ Prahova nr. 23/2020",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 23/2020 privind aprobarea Regulamentului privind repartizarea și închirierea locuințelor de serviciu din fondul locativ al județului Prahova și aprobarea componenței comisiei speciale pentru analizarea cererilor şi formularea propunerilor în vederea întocmirii listei de",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/?dpage=7",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-23-din-data-20-02-2020.pdf",
+     "sha256": "28f0182f618ff49e5ac72c023c1ade6b74fbb875da635e76ba74d9a47d962656"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-5-2020",
+   "path": "local/judet/prahova/2020/5",
+   "short": "HCJ Prahova nr. 5/2020",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 5/2020 privind aprobarea tarifului de sortare a deşeurilor reciclabile în Depozitul Ecologic din Vălenii de Munte",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/?dpage=7",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-5-din-data-30-01-2020.pdf",
+     "sha256": "d9c0f63c456ca8c3a6d649799257a2ae5aa90bded83295ac18171fd3636246c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-71-2020",
+   "path": "local/judet/prahova/2020/71",
+   "short": "HCJ Prahova nr. 71/2020",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 71/2020 privind aprobarea modificării și completării normelor financiare pentru activitatea sportivă a Clubului Sportiv ,,ACTIV PRAHOVA – PLOIEȘTI",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2020/?dpage=5",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-71-din-data-16-06-2020.pdf",
+     "sha256": "1b45cf09fe9bf68d6633b90e7f319b3ee809ee69b14ba62822cd5ef862a8d54a"
     }
    ]
   }

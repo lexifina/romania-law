@@ -3,6 +3,29 @@
 "shard": "local/judet/salaj/2022",
 "acts": [
 {
+"slug": "hcj-salaj-35-2022",
+"path": "local/judet/salaj/2022/35",
+"kind": "local",
+"year": "2022",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 35/2022",
+"short": "HCJ Sălaj nr. 35/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-30",
+"latest": "2022-03-30",
+"portal": null,
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-salaj-83-2022",
 "path": "local/judet/salaj/2022/83",
 "kind": "local",
@@ -45,6 +68,28 @@
 "flags": {
 "annex_missing": true,
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-salaj-115-2022",
+"path": "local/judet/salaj/2022/115",
+"kind": "local",
+"year": "2022",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 115/2022 pentru modificarea Hotărârii Consiliului Judeţean Sălaj nr.183 din 29 decembrie 2021 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2022",
+"short": "HCJ Sălaj nr. 115/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-08-26",
+"latest": "2022-08-26",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=92:hotarari-2022&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "review"
 }
 },
 {

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/adjud/2004",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--adjud-24-2004",
+   "path": "local/vrancea/adjud/2004/24",
+   "short": "HCL Adjud nr. 24/2004",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 24/2004 pentru urbanism ,amenajarea teritoriului, protectia mediului, realizarea lucrarilor publice,, conservarea monumentelor istorice si de arhitectura a Consiliului local al municipiului Adjud Avand in vedere dispozitiile Legii nr. 571/2003 rectificata in 6.02.2004 privind aprobarea Noului Cod Fiscal",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2007/",
+   "versions": [
+    {
+     "from": "2004-03-04",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/14-04-25-03-43-46HCL_24.pdf",
+     "sha256": "5fb34746f045fc610aaeceb40ffd83a9835d571c877af43fd87a62832b7216c9"
+    }
+   ]
+  }
+ ]
+}

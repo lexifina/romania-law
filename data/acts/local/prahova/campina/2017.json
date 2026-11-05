@@ -1,0 +1,252 @@
+{
+"country": "RO",
+"shard": "local/prahova/campina/2017",
+"acts": [
+{
+"slug": "hcl-prahova--campina-23-2017",
+"path": "local/prahova/campina/2017/23",
+"kind": "local",
+"year": "2017",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 23/2017",
+"short": "HCL Câmpina nr. 23/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-02-23",
+"latest": "2017-02-23",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-94-2017",
+"path": "local/prahova/campina/2017/94",
+"kind": "local",
+"year": "2017",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 94/2017 privind aprobarea dezmembrariiunei suprafete din terenul proprietate publica aI MunicipiuIui Campina, cu destinatia cimitir cu Nr. cadastral si Carte Funciara nr.25665 Avand in vedere expunerea de motive nr.69.020/23 iunie 2017 a membrilor Comisiei de specialitate amenajarea teritoriului, urbanism, ecologie si protectia mediului, prin care propune aprobarea dezmembrarii unei suprafete din terenul",
+"short": "HCL Câmpina nr. 94/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-06-29",
+"latest": "2017-06-29",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2017/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-prahova--campina-97-2017",
+"path": "local/prahova/campina/2017/97",
+"kind": "local",
+"year": "2017",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 97/2017 privind aprobarea infiintarii a 3 (trei) amplasamente pentru desfasurarea activitatii de comerf stradaI de lunga durata si sezonier Avand in vedere expunerea de motive nr.69.004/22 iunie 2017 a membrilor Comisiei amenajarea teritoriului, urbanism, ecologie si protectia mediului, prin care propun aprobarea infiintarii a 3 (trei) amplasamente pentru desfasurarea activitatii de comer{ stradal de lung",
+"short": "HCL Câmpina nr. 97/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-06-29",
+"latest": "2017-06-29",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2017/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-prahova--campina-116-2017",
+"path": "local/prahova/campina/2017/116",
+"kind": "local",
+"year": "2017",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 116/2017 privind aprobarea ajustarii tarifului practicat de S.C",
+"short": "HCL Câmpina nr. 116/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-07-27",
+"latest": "2017-07-27",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2017/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-prahova--campina-121-2017",
+"path": "local/prahova/campina/2017/121",
+"kind": "local",
+"year": "2017",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 121/2017 privind aprobarea inventarierii in domeniul privat al Municipiului (^5mpina a terenului in suprafata de 388,00 m.p., situat in Municipiul Campina, str.Tirgu Mures, f.nr., Tarla 83, Parcela Cc 159 Avand in vedere expunerea de motive nr.69.075/19 iulie 2017 a membrilor Comisiei amenajarea teritoriului, urbanism, ecologie si protectia mediului, prin care propun aprobarea inventarierii in domeniul pri",
+"short": "HCL Câmpina nr. 121/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-07-27",
+"latest": "2017-07-27",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2017/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-prahova--campina-122-2017",
+"path": "local/prahova/campina/2017/122",
+"kind": "local",
+"year": "2017",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 122/2017 privind aprobarea inventarierii m domeniul privat al MunicipiuTBrt^fmpina a terenului in suprafata de 2.250,00 m.p., situat in MunicipiuI Campina, str.Tirgu Mures, f.nr., Tarla 83, ParceIa Cc 159 Avand in vedere expunerea de motive nr.69.071/19 iulie 2017 a membrilor Comisiei amenajarea teritoriului, urbanism, ecologie si protectia mediului, prin care propun aprobarea inventarierii in domeniul pri",
+"short": "HCL Câmpina nr. 122/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-07-21",
+"latest": "2017-07-21",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2017/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-prahova--campina-151-2017",
+"path": "local/prahova/campina/2017/151",
+"kind": "local",
+"year": "2017",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 151/2017",
+"short": "HCL Câmpina nr. 151/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-09-28",
+"latest": "2017-09-28",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-153-2017",
+"path": "local/prahova/campina/2017/153",
+"kind": "local",
+"year": "2017",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 153/2017",
+"short": "HCL Câmpina nr. 153/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-09-28",
+"latest": "2017-09-28",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-165-2017",
+"path": "local/prahova/campina/2017/165",
+"kind": "local",
+"year": "2017",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 165/2017",
+"short": "HCL Câmpina nr. 165/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-10-26",
+"latest": "2017-10-26",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-190-2017",
+"path": "local/prahova/campina/2017/190",
+"kind": "local",
+"year": "2017",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 190/2017 privind atestarea apartenenteila domeniulprivat al Munici a terenului in suprafata de 151,00 m.p., situat in Municip Aleea Scolii, nr.2, Tarla 83, Parcela Cc 920/1 Avand in vedere expunerea de motive nr.69.477/23 noiembrie 2017 a membrilor Comisiei amenajarea teritoriului, urbanism, ecologie si protectia mediului, prin care propun atestarea apartenentei la domeniul privat al Municipiului Campina a",
+"short": "HCL Câmpina nr. 190/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-11-28",
+"latest": "2017-11-28",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2017/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-prahova--campina-191-2017",
+"path": "local/prahova/campina/2017/191",
+"kind": "local",
+"year": "2017",
+"number": "191",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 191/2017 privind atestarea apartenentei Ia domeniul privat al Municip1 __ a terenului in suprafata de 100,00 m.p., situat !n Municipiuft3Smpina, str.l Mai,f.nr., Tarla 83, Parcela Cc 887 Avand in vedere expunerea de motive nr.69.401/13 noiembrie 2017 a membrilor Comisiei amenajarea teritoriului, urbanism, ecologie si protectia mediului, prin care propun atestarea apartenentei la domeniul privat al Municipi",
+"short": "HCL Câmpina nr. 191/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-11-28",
+"latest": "2017-11-28",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2017/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

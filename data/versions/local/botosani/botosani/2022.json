@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-botosani--botosani-309-2022",
+   "path": "local/botosani/botosani/2022/309",
+   "short": "HCL Botoșani nr. 309/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Botoșani nr. 309/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primariabt.ro/wp-content/uploads/formidable/9/309.pdf",
+     "sha256": "a39f02f4a402426d1946b4d051b2b55e8be44a5fb4904abae674c4d39bb6612e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-botosani--botosani-7-2022",
    "path": "local/botosani/botosani/2022/7",
    "short": "HCL Botoșani nr. 7/2022",

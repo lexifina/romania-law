@@ -3,6 +3,21 @@
  "shard": "local/judet/olt/2022",
  "acts": [
   {
+   "slug": "hcj-olt-129-2022",
+   "path": "local/judet/olt/2022/129",
+   "short": "HCJ Olt nr. 129/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 129/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16283.pdf",
+     "sha256": "de16a3f9bb30eff07bbcc25caf16f2169471995c9e5cf4e531a163599d2fed0e"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-130-2022",
    "path": "local/judet/olt/2022/130",
    "short": "HCJ Olt nr. 130/2022",
@@ -14,6 +29,21 @@
      "units": 1,
      "source_url": "https://cjolt.ro/cjoltfiles/documente/16377.pdf",
      "sha256": "7e305185de9c88c066c8fe0e6172331b0b5c3cd8cf3b3c92d932d4e3b997e7c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-163-2022",
+   "path": "local/judet/olt/2022/163",
+   "short": "HCJ Olt nr. 163/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 163/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16482.pdf",
+     "sha256": "cae0f823c5774770a22aa494e8e66b8e28f44c137ef9bd06763ffe86d2dedb9e"
     }
    ]
   },
@@ -44,6 +74,36 @@
      "units": 1,
      "source_url": "https://cjolt.ro/cjoltfiles/documente/15666.pdf",
      "sha256": "7dc7c4954963d2d8be1ec9623963c4aafb6c93af3e6a47edb6dd5df2087f79e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-95-2022",
+   "path": "local/judet/olt/2022/95",
+   "short": "HCJ Olt nr. 95/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 95/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-20",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/15971.pdf",
+     "sha256": "166b5653bf6114b488257f2b93e8afd54143818d72b57fe754791adf3d0a1e79"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-98-2022",
+   "path": "local/judet/olt/2022/98",
+   "short": "HCJ Olt nr. 98/2022",
+   "title": "Hotărârea Consiliului Județean Olt nr. 98/2022 cu privire la reluarea concursului de proiecte de management, aprobarea modificăriicondițiilor de participare la concursul de proiecte de management organizat pentru Muzeul Județean Olt, aprobarea Caietului de obiective și a Regulamentului de organizare şi desfăşurare a concursului de proiecte de management, precum și cu privire la desemnarea comisiei de concurs, a secretariatului comisiei de conc",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/16085.pdf",
+     "sha256": "512cfc51c76f1ac7e280c299bb5f4662961e4386a9fc2c92af862aa16dc605fd"
     }
    ]
   }

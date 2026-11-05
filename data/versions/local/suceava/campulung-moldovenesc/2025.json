@@ -3,6 +3,21 @@
  "shard": "local/suceava/campulung-moldovenesc/2025",
  "acts": [
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-107-2025",
+   "path": "local/suceava/campulung-moldovenesc/2025/107",
+   "short": "HCL Câmpulung Moldovenesc nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 107/2025 privind aprobarea Regulamentului de funcționare al bazei sportive „Rarăul” din municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 august 2025; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 27756 din 11.08.2025; -Raportul de specialitate al Clubului Sportiv",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_107_2025.docx",
+     "sha256": "e6925f9da7125b2c55b4c1622238071c4adfd8c0401f5190ea8e292c6b56c331"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-164-2025",
    "path": "local/suceava/campulung-moldovenesc/2025/164",
    "short": "HCL Câmpulung Moldovenesc nr. 164/2025",
@@ -44,6 +59,36 @@
      "units": 1,
      "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_166_2025.docx",
      "sha256": "7ce997da7f39141e11154dd6f1ad0075ef285025c7540896f83997cf54776dec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-35-2025",
+   "path": "local/suceava/campulung-moldovenesc/2025/35",
+   "short": "HCL Câmpulung Moldovenesc nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 35/2025 privind aprobarea regulamentului de organizare și desfășurare a evaluării anuale a managementului la Biblioteca Municipală Câmpulung Moldovenesc, pentru perioada 01.01.2024 – 31.12.2024 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 27 martie 2025; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2025",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_035_2025.docx",
+     "sha256": "dac45e1d3ec6cc0c1d322f5490a77433c758cb380d4c2e657d96916d08ab9c7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-8-2025",
+   "path": "local/suceava/campulung-moldovenesc/2025/8",
+   "short": "HCL Câmpulung Moldovenesc nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 8/2025 privind aprobarea procedurilor și criteriilor pentru organizarea concursului de ocupare a funcției contractuale de conducere de președinte club la Clubul Sportiv Municipal „Rarăul” Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 30 ianuarie; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2025",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_008_2025.docx",
+     "sha256": "3cd9634407ad9c72ac4665e0bfa299e5414ae294afea182490409ab2380a9cf2"
     }
    ]
   }

@@ -3,6 +3,51 @@
  "shard": "local/judet/botosani/2021",
  "acts": [
   {
+   "slug": "hcj-botosani-113-2021",
+   "path": "local/judet/botosani/2021/113",
+   "short": "HCJ Botoșani nr. 113/2021",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 113/2021 privind acordarea unui mandat special reprezentantului Județului Botoșani în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară ”AQUA BOTOȘANI” pentru aprobarea modificării prețului și tarifului la serviciile publice de alimentare cu apă potabilă și de canalizare – epu",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-05-12",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H113_20210512.pdf",
+     "sha256": "aa1af7dc28c0997a917d077eb01fa16248b19dbaec3871f114544ff5ad631ae5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-118-2021",
+   "path": "local/judet/botosani/2021/118",
+   "short": "HCJ Botoșani nr. 118/2021",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 118/2021 pentru aprobarea Regulamentului de organizare şi funcţionare al Serviciului public de adăpostire a animalelor aflate în pericol pe raza judeţului Botoșani, pentru care s-a emis ordin de plasare în adăpost",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H118_20210526.pdf",
+     "sha256": "f999274b3fc3b2804c196de10a828813b3fac810d6864e63ebcc1a2c7f721dce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-139-2021",
+   "path": "local/judet/botosani/2021/139",
+   "short": "HCJ Botoșani nr. 139/2021",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 139/2021 privind aprobarea taxelor şcolare pentru elevii Şcolii Populare de Arte „George Enescu” Botoşani, pe anul şcolar 2021 - 2022",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H139_20210630.pdf",
+     "sha256": "722c6f312320cd07e91dcbaaafa87f42f8a1411e7de3ff5f93cb63a25ae6bc08"
+    }
+   ]
+  },
+  {
    "slug": "hcj-botosani-219-2021",
    "path": "local/judet/botosani/2021/219",
    "short": "HCJ Botoșani nr. 219/2021",
@@ -14,6 +59,51 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/H219_20211027.pdf",
      "sha256": "dc5c77c00c2537d8eab44b2128e843f8b738fc75c2e0241cf48555e663302913"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-234-2021",
+   "path": "local/judet/botosani/2021/234",
+   "short": "HCJ Botoșani nr. 234/2021",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 234/2021 privind aprobarea Regulamentului serviciului public de transport judeţean de persoane prin curse regulate, în județul Botoșani şi a Caietului de sarcini al serviciului public de transport judeţean de persoane prin curse regulate, în județul Botoșani",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H234_20211125.pdf",
+     "sha256": "2ca9613238070f41c6d379eade8dcfef7d49183a23eda38d36078dff4aed085e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-246-2021",
+   "path": "local/judet/botosani/2021/246",
+   "short": "HCJ Botoșani nr. 246/2021",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 246/2021 privind acordarea unui mandat special reprezentantului Județului Botoșani în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară ”AQUA BOTOȘANI” pentru aprobarea modificării prețului și tarifului la serviciile publice de alimentare cu apă potabilă și de canalizare – epu",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H246_20211125.pdf",
+     "sha256": "16fbcca166ebdd3a9a6020e807011737894583e1f6787a602f65660c0f474fe4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-253-2021",
+   "path": "local/judet/botosani/2021/253",
+   "short": "HCJ Botoșani nr. 253/2021",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 253/2021 privind aprobarea tarifelor practicate de Orchestra Populară „Rapsozii Botoșanilor” pentru serviciile prestate în anul 2022",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H253_20211222.pdf",
+     "sha256": "2b895c4ea4502529aeecade0a93bd707e6ff6ec25d20596e1d515b271e778727"
     }
    ]
   },
@@ -44,6 +134,36 @@
      "units": 1,
      "source_url": "https://www.cjbotosani.ro/files/H255_20211222.pdf",
      "sha256": "488289d83b5414cdf6d931ef6b7c878c788052f747fae5d3d1286775c6dbfb75"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-256-2021",
+   "path": "local/judet/botosani/2021/256",
+   "short": "HCJ Botoșani nr. 256/2021",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 256/2021 privind aprobarea tarifelor pentru serviciile prestate de Memorialul Ipotești – Centrul Național de Studii „Mihai Eminescu”, pentru anul 2022",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H256_20211222.pdf",
+     "sha256": "cc0300aed7bd1227d8525d660e0e1938947ab80689e46f6f34d54c9de1f20a9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-botosani-257-2021",
+   "path": "local/judet/botosani/2021/257",
+   "short": "HCJ Botoșani nr. 257/2021",
+   "title": "Hotărârea Consiliului Județean Botoșani nr. 257/2021 privind aprobarea tarifelor practicate de Muzeul Județean Botoşani, pentru serviciile prestate, în anul 2022",
+   "url": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://www.cjbotosani.ro/files/H257_20211222.pdf",
+     "sha256": "2d0143d437feba8f0d2829f58ac6da18952070d80934ddbe6d0ef3d97cea2e19"
     }
    ]
   },

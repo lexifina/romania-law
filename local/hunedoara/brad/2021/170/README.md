@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Municipiului Brad nr. 170/2021 privind aprobarea Planului de Mobilitate Urbană Durabilă al Municipiului Brad 2021 - 2027
+
+HCL Brad nr. 170/2021 · 1 versions, from 2021-11-25 (latest in force: 2021-11-25) · <https://emol.ro/brad-hd/registru-hcl/42927>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-hunedoara--brad-170-2021` (tags `hcl-hunedoara--brad-170-2021/<day>`; `python tools/on.py <day> hcl-hunedoara--brad-170-2021`).
+
+## Decisions made by hand
+
+- HCL Brad nr. 170/2021: listed from Consiliul Local al Municipiului Brad (emol.ro); metadata only for now: no document of it is held.
+- HCL Brad nr. 170/2021: dated from 25 November 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Brad nr. 170/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

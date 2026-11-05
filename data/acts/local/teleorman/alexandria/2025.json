@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/teleorman/alexandria/2025",
+"acts": [
+{
+"slug": "hcl-teleorman--alexandria-343-2025",
+"path": "local/teleorman/alexandria/2025/343",
+"kind": "local",
+"year": "2025",
+"number": "343",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 343/2025",
+"short": "HCL Alexandria nr. 343/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-10",
+"latest": "2025-11-10",
+"portal": null,
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+}
+]
+}

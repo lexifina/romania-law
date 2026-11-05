@@ -25,6 +25,74 @@
 }
 },
 {
+"slug": "hcj-olt-95-2022",
+"path": "local/judet/olt/2022/95",
+"kind": "local",
+"year": "2022",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 95/2022",
+"short": "HCJ Olt nr. 95/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-06-20",
+"latest": "2022-06-20",
+"portal": null,
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-olt-98-2022",
+"path": "local/judet/olt/2022/98",
+"kind": "local",
+"year": "2022",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 98/2022 cu privire la reluarea concursului de proiecte de management, aprobarea modificăriicondițiilor de participare la concursul de proiecte de management organizat pentru Muzeul Județean Olt, aprobarea Caietului de obiective și a Regulamentului de organizare şi desfăşurare a concursului de proiecte de management, precum și cu privire la desemnarea comisiei de concurs, a secretariatului comisiei de conc",
+"short": "HCJ Olt nr. 98/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-06-30",
+"latest": "2022-06-30",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2022/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-olt-129-2022",
+"path": "local/judet/olt/2022/129",
+"kind": "local",
+"year": "2022",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 129/2022",
+"short": "HCJ Olt nr. 129/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-08-25",
+"latest": "2022-08-25",
+"portal": null,
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-olt-130-2022",
 "path": "local/judet/olt/2022/130",
 "kind": "local",
@@ -44,6 +112,29 @@
 "council_name": "Consiliul Județean Olt",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-olt-163-2022",
+"path": "local/judet/olt/2022/163",
+"kind": "local",
+"year": "2022",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 163/2022",
+"short": "HCJ Olt nr. 163/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-26",
+"latest": "2022-10-26",
+"portal": null,
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
 }
 },
 {

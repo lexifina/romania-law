@@ -318,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-21-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/21",
+   "short": "HCL Câmpulung Moldovenesc nr. 21/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 21/2012 pentru aprobarea Regulamentului privind amplasarea mijloacelor de publicitate în municipiul Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 februarie 2012; Având în vedere: - Expunerea de motive a primarului Municipiului Câmpulung Moldovenesc, înregistrată la nr. 2501 din 10.02.2012; - Raportul Direcției urbanism - Compartime",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2012",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_021_2012.pdf",
+     "sha256": "3d11a6b4edfba49033b1b0733feb33fca279adeaa0df569d5333c7f23931116c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-26-2012",
    "path": "local/suceava/campulung-moldovenesc/2012/26",
    "short": "HCL Câmpulung Moldovenesc nr. 26/2012",
@@ -348,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-44-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/44",
+   "short": "HCL Câmpulung Moldovenesc nr. 44/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 44/2012 pentru completarea Normelor cu privire la buna gospodărire, întreținerea și folosirea construcțiilor de orice fel, activitățile de întreținere și curățenie a localității, activități comerciale, protecția mediului, conviețuirea socială, ordinea și liniștea publică și traficul rutier în municipiul Câmpulung Moldovenesc aprobate prin Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc n",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2012",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_044_2012.pdf",
+     "sha256": "54bb6affcbeefe8363f46cc355e19e74f4eb5bbdc5c27b4c15bae5fad12e7044"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-48-2012",
    "path": "local/suceava/campulung-moldovenesc/2012/48",
    "short": "HCL Câmpulung Moldovenesc nr. 48/2012",
@@ -374,6 +404,21 @@
      "units": 6,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_075_2012.pdf",
      "sha256": "c8b36c863be99991c70d1752d2919e9fa258a9cb3f525f39ff8ee9c484982a8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-88-2012",
+   "path": "local/suceava/campulung-moldovenesc/2012/88",
+   "short": "HCL Câmpulung Moldovenesc nr. 88/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 88/2012 pentru modificarea articolului 1 alineatul (2) din Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 17/2011 privind înființarea Comisiei locale de ordine publică a municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 26 iulie 2012; Având în vedere: Expunerea de motive a primarului Municipiului Câmpulung Mold",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2012",
+   "versions": [
+    {
+     "from": "2012-07-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_088_2012.pdf",
+     "sha256": "241300d936c4016dd374c48bc440136c70541d1892e09e08947d9ead5d04f6dc"
     }
    ]
   },

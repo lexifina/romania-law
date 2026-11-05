@@ -730,6 +730,28 @@
 }
 },
 {
+"slug": "hcj-vaslui-110-2021",
+"path": "local/judet/vaslui/2021/110",
+"kind": "local",
+"year": "2021",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vaslui nr. 110/2021 pentru modificarea anexelor nr.2, nr.3 şi nr.4 la Hotărârea Consiliului Judeţean Vaslui nr. 79/2021 privind aprobarea Metodologiei de evaluare și selecție a propunerilor de proiecte depuse în cadrul Programului judeţean pentru finanţarea nerambursabilă a activităţilor non-profit de interes local pentru anul 2021, precum și a Ghidurilor Solicitantului pentru domeniile cultură, culte, social și spor",
+"short": "HCJ Vaslui nr. 110/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-07-19",
+"latest": "2021-07-19",
+"portal": "https://cjvs.eu/hotarari-2021/",
+"council": "judet/vaslui",
+"council_name": "Consiliul Județean Vaslui",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-vaslui-123-2021",
 "path": "local/judet/vaslui/2021/123",
 "kind": "local",

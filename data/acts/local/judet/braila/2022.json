@@ -92,6 +92,28 @@
 }
 },
 {
+"slug": "hcj-braila-78-2022",
+"path": "local/judet/braila/2022/78",
+"kind": "local",
+"year": "2022",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 78/2022 pentru modificarea unor acte administrative în domeniul Autorității Teritoriale de Ordine Publică Brăila",
+"short": "HCJ Brăila nr. 78/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2022-I-0001FEBA?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-braila-82-2022",
 "path": "local/judet/braila/2022/82",
 "kind": "local",
@@ -177,6 +199,28 @@
 "council_name": "Consiliul Județean Brăila",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-braila-173-2022",
+"path": "local/judet/braila/2022/173",
+"kind": "local",
+"year": "2022",
+"number": "173",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 173/2022 privind aprobarea Regulamentului privind conditiile, criteriile si procedura de finantare a programelor sportive, în baza prevederilor Legii educatiei fizice si sportului nr. 69/2000, cu modificarile si completarile ulterioare, pentru anul 2022",
+"short": "HCJ Brăila nr. 173/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-07-26",
+"latest": "2022-07-26",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2022-II-0001FE2E?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"text_pending": "review"
 }
 },
 {
@@ -423,6 +467,28 @@
 "council_name": "Consiliul Județean Brăila",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-braila-327-2022",
+"path": "local/judet/braila/2022/327",
+"kind": "local",
+"year": "2022",
+"number": "327",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 327/2022 cu privire la stabilirea preturilor medii ale produselor agricole, pentru evaluarea in lei a venitului brut, in cazul in care arenda se exprima in natura, valabile pentru anul fiscal 2023 la nivelul judetului Braila",
+"short": "HCJ Brăila nr. 327/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-28",
+"latest": "2022-12-28",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2022-III-0003112E?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"text_pending": "review"
 }
 }
 ]

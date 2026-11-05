@@ -273,6 +273,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-37-2013",
+   "path": "local/suceava/campulung-moldovenesc/2013/37",
+   "short": "HCL Câmpulung Moldovenesc nr. 37/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 37/2013 pentru modificarea anexei nr.1 la Hotarârea Consiliului Local al municipiului Câmpulung Moldovenesc nr.31/2011 cu privire la aprobarea procedurii de valorificare si a procedurii de stabilire a preturilor de pornire la licitatie pentru vânzarea materialului lemnos din fondul forestier apartinând municipiului Câmpulung Moldovenesc catre operatorii economici atestati Consiliul Local al Municipiului C",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2013",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_037_2013.pdf",
+     "sha256": "126dec5ef87e597295ff0f8eddf991fe83c24d8a967f4b649a4f1c0aa4af8ffc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-38-2013",
+   "path": "local/suceava/campulung-moldovenesc/2013/38",
+   "short": "HCL Câmpulung Moldovenesc nr. 38/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 38/2013 pentru modificarea anexei nr.1 la Hotarârea Consiliului Local al municipiului Câmpulung Moldovenesc nr.78/2011 cu privire la aprobarea procedurii de valorificare si a procedurii de stabilire a preturilor de vânzare a materialului lemnos catre populatia municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în sedinta ordinara din data de 25 aprilie 2013",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2013",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_038_2013.pdf",
+     "sha256": "49cb9506a33e581f6b0662acc2d14ab50630ce327fd538c734177e8bf97ad39d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-40-2013",
    "path": "local/suceava/campulung-moldovenesc/2013/40",
    "short": "HCL Câmpulung Moldovenesc nr. 40/2013",

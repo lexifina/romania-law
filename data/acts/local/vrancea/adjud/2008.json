@@ -3,6 +3,28 @@
 "shard": "local/vrancea/adjud/2008",
 "acts": [
 {
+"slug": "hcl-vrancea--adjud-32-2008",
+"path": "local/vrancea/adjud/2008/32",
+"kind": "local",
+"year": "2008",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 32/2008 privind blocarea, ridicarea, transportul, depozitarea și eliberarea autovehiculelor sau a remorcilor staționate neregulamentar pe domeniul public sau privat din municipiul Adjud și aprobarea regulamentului pentru aceasta activitate - Consiliul local al municipiului Adjud – întrunit in sedinta extraordinară: - analizând popunerea Primarului municipiului cu privire la stabilirea metodologiei de desf",
+"short": "HCL Adjud nr. 32/2008",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2008-02-25",
+"latest": "2008-02-25",
+"portal": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2008/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-vrancea--adjud-57-2008",
 "path": "local/vrancea/adjud/2008/57",
 "kind": "local",
@@ -23,6 +45,50 @@
 "flags": {
 "annex_missing": true,
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-69-2008",
+"path": "local/vrancea/adjud/2008/69",
+"kind": "local",
+"year": "2008",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 69/2008 pentru amenajarea teritoriului, urbanism , administrarea domeniului public si privat al municipiului, juridica si de disciplina a Consiliului local al municipiului Adjud ; Avand in vedere dispozitiile Legii nr. 50/1991 privind autorizarea executarii constructiilor si unele masuri pentru realizarea locuintelor, republicata in anul 2004 coroborat cu art.13 lit.c din Legea 350/2001 privind amenajarea",
+"short": "HCL Adjud nr. 69/2008",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2008-05-15",
+"latest": "2008-05-15",
+"portal": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2008/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-90-2008",
+"path": "local/vrancea/adjud/2008/90",
+"kind": "local",
+"year": "2008",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 90/2008 privind aprobarea modelului și încheierea Contractului de mandat între Consiliul local Adjud și reprezentatul acestuia în AGA a SC CUP SA Focșani Consiliul local al municipiului Adjud, întrunit în ședință ordinară: - luând act de Proiectul de hotarare inițiat de Primarul municipiului Adjud și de Raportul de specialitate ; - văzând Avizul favorabil al Comisiei pentru amenajarea teritoriului, urbani",
+"short": "HCL Adjud nr. 90/2008",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2008-08-21",
+"latest": "2008-08-21",
+"portal": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2008/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"text_pending": "review"
 }
 }
 ]

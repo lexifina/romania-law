@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcj-braila-74-2024",
+"path": "local/judet/braila/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 74/2024 privind stabilirea taxelor si tarifelor reprezentand venituri proprii ale Consiliului Judetean Braila si ale institutiilor publice subordonate acestuia, pentru anul fiscal 2024",
+"short": "HCJ Brăila nr. 74/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2024-I-00037096?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-braila-77-2024",
 "path": "local/judet/braila/2024/77",
 "kind": "local",
@@ -176,6 +198,28 @@
 "council_name": "Consiliul Județean Brăila",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-braila-138-2024",
+"path": "local/judet/braila/2024/138",
+"kind": "local",
+"year": "2024",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 138/2024 privind aprobarea Regulamentului privind conditiile, criteriile si procedura de finantare a programelor sportive de utilitate publica, în baza prevederilor Legii educatiei fizice si sportului nr. 69/2000, cu modificarile si completarile ulterioare, pentru anul 2024",
+"short": "HCJ Brăila nr. 138/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2024-III-00039BE6?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"text_pending": "review"
 }
 },
 {

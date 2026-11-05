@@ -3,6 +3,21 @@
  "shard": "local/suceava/campulung-moldovenesc/2021",
  "acts": [
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-151-2021",
+   "path": "local/suceava/campulung-moldovenesc/2021/151",
+   "short": "HCL Câmpulung Moldovenesc nr. 151/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 151/2021 privind aprobarea Regulamentului de Organizare și Funcționare al Serviciului Public Comunitar Local de Evidență a Persoanelor –Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 25 noiembrie 2021; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 32892 din 10.11.2021; -Raportul de",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2021",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_151_2021.docx",
+     "sha256": "dd0a41aff9b4a7a1396aef8fa8e23424c085b4c098060489d33c0e5098004bdc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-170-2021",
    "path": "local/suceava/campulung-moldovenesc/2021/170",
    "short": "HCL Câmpulung Moldovenesc nr. 170/2021",

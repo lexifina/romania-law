@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcj-braila-142-2026",
+   "path": "local/judet/braila/2026/142",
+   "short": "HCJ Brăila nr. 142/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 142/2026 privind aprobarea Regulamentului pentru amplasarea construcțiilor, instalațiilor și panourilor publicitare în zona drumurilor județene",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/F419D996DEF3DEECC2258E4400414B8E/$FILE/HOT%20142.pdf",
+     "sha256": "c00858101324bfa29edf312b953503ec9db91ecfa080abaa143d62e1410c894b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-17-2026",
    "path": "local/judet/braila/2026/17",
    "short": "HCJ Brăila nr. 17/2026",
@@ -59,6 +74,36 @@
      "units": 6,
      "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/043B494A2E54ADFCC2258D95003AE163/$FILE/HOT%2017.pdf",
      "sha256": "c7d7ae6ef63d68b4d80f6124b9f6f105504c958cd34fb968585266e184a73b2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-176-2026",
+   "path": "local/judet/braila/2026/176",
+   "short": "HCJ Brăila nr. 176/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 176/2026 privind stabilirea taxelor și tarifelor reprezentând venituri proprii ale Consiliului Județean Brăila și ale instituțiilor publice subordonate acestuia, pentru anul fiscal 2026",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/DAAC2B94264880E3C2258E660020C030/$FILE/HOT%20176.pdf",
+     "sha256": "5cb5af016b468ae273aafbcc1ba74066f4c29bb760d951900a1792dac0e3b674"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-221-2026",
+   "path": "local/judet/braila/2026/221",
+   "short": "HCJ Brăila nr. 221/2026",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 221/2026 privind aprobarea tarifului mediu modificat lei/km/loc, fără TVA și a tarifelor de călătorie modificate, recalculate în funcție de tariful mediu modificat lei/km/loc, fără TVA, pentru serviciul public de transport județean de persoane prin curse regulate, pe traseele : nr. 020 Brăila – Oprișenești – C.Gabrielescu și nr. 027 Brăila – Silistraru – Urleasca, respectiv a încheierii unor Acte Adițional",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/BDF316C86068A02EC2258E97001B64D1/$FILE/HOT%20221.pdf",
+     "sha256": "f8b35eee8e87a16bb70c79cc995c6f1ef2fad6183051d35bb45727d3f4d63eb6"
     }
    ]
   },

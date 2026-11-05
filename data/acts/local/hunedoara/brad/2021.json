@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/brad/2021",
+"acts": [
+{
+"slug": "hcl-hunedoara--brad-168-2021",
+"path": "local/hunedoara/brad/2021/168",
+"kind": "local",
+"year": "2021",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 168/2021 privind aprobarea Strategiei Integrate de Dezvoltare Urbană a Municipiului Brad 2021 - 2027",
+"short": "HCL Brad nr. 168/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/brad-hd/registru-hcl/42925",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--brad-169-2021",
+"path": "local/hunedoara/brad/2021/169",
+"kind": "local",
+"year": "2021",
+"number": "169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 169/2021 privind aprobarea Politicilor publice ce necesită resurse financiare din bugetele aferente anilor 2021 și 2022",
+"short": "HCL Brad nr. 169/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/brad-hd/registru-hcl/42926",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--brad-170-2021",
+"path": "local/hunedoara/brad/2021/170",
+"kind": "local",
+"year": "2021",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 170/2021 privind aprobarea Planului de Mobilitate Urbană Durabilă al Municipiului Brad 2021 - 2027",
+"short": "HCL Brad nr. 170/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/brad-hd/registru-hcl/42927",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--brad-171-2021",
+"path": "local/hunedoara/brad/2021/171",
+"kind": "local",
+"year": "2021",
+"number": "171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 171/2021 privind aprobarea Criteriilor de prioritizare a investițiilor în sectoarele educație, sănătate, asistență socială, infrastructură (mediu și transport) pentru realizarea bugetului aferent anilor 2021 și 2022",
+"short": "HCL Brad nr. 171/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/brad-hd/registru-hcl/42928",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

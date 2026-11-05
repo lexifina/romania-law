@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcj-vaslui-146-2023",
+   "path": "local/judet/vaslui/2023/146",
+   "short": "HCJ Vaslui nr. 146/2023",
+   "title": "Hotărârea Consiliului Județean Vaslui nr. 146/2023 pentru modificarea și completarea anexei la Hotărârea Consiliului Județean Vaslui nr.20/2021 privind aprobarea Regulamentului cuprinzând măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri care se supun adoptării Consiliului Județean Vaslui 02 august",
+   "url": "https://cjvs.eu/hotarari-2023/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "http://cjvs.eu/wp-content/downloads/Hotarari/2023/HotarareaNr146_2023.pdf",
+     "sha256": "b970b23e667d4ed2bf71b2dff60535b44ba614e50b661cfbea770383a601c691"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vaslui-174-2023",
    "path": "local/judet/vaslui/2023/174",
    "short": "HCJ Vaslui nr. 174/2023",

@@ -68,6 +68,29 @@
 "flags": {
 "text_pending": "ocr"
 }
+},
+{
+"slug": "hcl-hunedoara--brad-101-2022",
+"path": "local/hunedoara/brad/2022/101",
+"kind": "local",
+"year": "2022",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 101/2022",
+"short": "HCL Brad nr. 101/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/brad-hd/registru-hcl/67227",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
 }
 ]
 }

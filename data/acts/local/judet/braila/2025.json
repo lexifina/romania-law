@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcj-braila-38-2025",
+"path": "local/judet/braila/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 38/2025 privind aprobarea Regulamentului pentru amplasarea construcțiilor, instalațiilor și panourilor publicitare în zona drumurilor județene",
+"short": "HCJ Brăila nr. 38/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-03-27",
+"latest": "2025-03-27",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2025-0003C836?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-braila-43-2025",
 "path": "local/judet/braila/2025/43",
 "kind": "local",
@@ -221,6 +243,28 @@
 "council_name": "Consiliul Județean Brăila",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-braila-165-2025",
+"path": "local/judet/braila/2025/165",
+"kind": "local",
+"year": "2025",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 165/2025 privind aprobarea taxelor școlare, taxelor pentru alte activități desfașurate, precum și a unor facilități acordate în cadrul Școlii Populare de Arte și Meserii ,,Vespasian Lungu ‘’ Brăila, pentru anul școlar 2025 – 2026",
+"short": "HCJ Brăila nr. 165/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2025-0003C836?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"text_pending": "review"
 }
 },
 {

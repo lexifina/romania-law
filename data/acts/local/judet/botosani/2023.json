@@ -91,6 +91,117 @@
 }
 },
 {
+"slug": "hcj-botosani-226-2023",
+"path": "local/judet/botosani/2023/226",
+"kind": "local",
+"year": "2023",
+"number": "226",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 226/2023 privind stabilirea tarifelor pentru serviciile prestate de Centrul Judeţean pentru Conservarea şi Promovarea Culturii Tradiţionale Botoşani, pentru anul 2024",
+"short": "HCJ Botoșani nr. 226/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-botosani-227-2023",
+"path": "local/judet/botosani/2023/227",
+"kind": "local",
+"year": "2023",
+"number": "227",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 227/2023 privind aprobarea tarifelor pentru serviciile prestate de Școala Populară de Arte „George Enescu” Botoșani pentru anul 2024",
+"short": "HCJ Botoșani nr. 227/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-botosani-228-2023",
+"path": "local/judet/botosani/2023/228",
+"kind": "local",
+"year": "2023",
+"number": "228",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 228/2023",
+"short": "HCJ Botoșani nr. 228/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-botosani-229-2023",
+"path": "local/judet/botosani/2023/229",
+"kind": "local",
+"year": "2023",
+"number": "229",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 229/2023 privind aprobarea tarifelor practicate de Muzeul Județean Botoşani, pentru serviciile prestate, în anul 2024",
+"short": "HCJ Botoșani nr. 229/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-botosani-230-2023",
+"path": "local/judet/botosani/2023/230",
+"kind": "local",
+"year": "2023",
+"number": "230",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 230/2023 privind aprobarea tarifelor pentru serviciile prestate de Memorialul Ipotești – Centrul Național de Studii „Mihai Eminescu”, pentru anul 2024",
+"short": "HCJ Botoșani nr. 230/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-botosani-237-2023",
 "path": "local/judet/botosani/2023/237",
 "kind": "local",

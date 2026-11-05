@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcj-braila-129-2021",
+   "path": "local/judet/braila/2021/129",
+   "short": "HCJ Brăila nr. 129/2021",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 129/2021 privind stabilirea taxelor si tarifelor reprezentand venituri proprii ale Consiliului Judetean Braila si ale institutiilor publice subordonate acestuia, pentru anul fiscal 2021",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2021-I-0001AA1A?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/853F650ED3A70CEAC22587280023A665/$FILE/HOTARAREA%20NR.%20129%20DIN%2022.07.2021.pdf",
+     "sha256": "a548371efdc8b0329584bf93a86d5a24c6d510cc3204cff93bed8edb068eca96"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-133-2021",
    "path": "local/judet/braila/2021/133",
    "short": "HCJ Brăila nr. 133/2021",
@@ -74,6 +89,36 @@
      "units": 6,
      "source_url": "https://cjbraila.ro/dm/portal.nsf/93DAA4A3522E1CC0C22586B1003DD823/$FILE/HOTARAREA%20NR.%2018%20DIN%2015.02.2021.pdf",
      "sha256": "c947ebbf207ba41db39a099d939e8c5c8f1fa888e58778be5001d874114d366c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-188-2021",
+   "path": "local/judet/braila/2021/188",
+   "short": "HCJ Brăila nr. 188/2021",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 188/2021 privind stabilirea taxelor si tarifelor reprezentand venituri proprii ale Consiliului Judetean Braila si ale institutiilor publice subordonate acestuia, pentru anul fiscal 2021",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2021-II-0001D5CE?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-09-14",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/15920C3EAF82ED9FC225877A0020127F/$FILE/HOTARAREA%20NR.%20188%20DIN%2014.09.2021.doc.pdf",
+     "sha256": "da842e4250fcd93babfe217a717810cf9db985a3cd6abd6b86f3460987ffa607"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-255-2021",
+   "path": "local/judet/braila/2021/255",
+   "short": "HCJ Brăila nr. 255/2021",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 255/2021 privind aprobarea Regulamentului pentru finanțarea asocierilor Județului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2021-II-0001D5CE?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/B69813371F451D88C22587AC002D0D04/$FILE/HOTARAREA%20NR.%20255%20DIN%206.12.2021.pdf",
+     "sha256": "b171842e06fd511176963e8f64ba94d51b5faaf0fed17bd5e0a4d53226fe3d71"
     }
    ]
   },

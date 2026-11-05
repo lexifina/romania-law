@@ -70,6 +70,28 @@
 }
 },
 {
+"slug": "hcj-vrancea-34-2026",
+"path": "local/judet/vrancea/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 34/2026 privind aprobarea regulamentului de utilizare, funcționare și exploatare a 6 stații de reîncărcare a vehiculelor electrice și hibrid plug-in; - potrivit prevederilor: - art.3 alin.(l), lit.i) și art.5, pct.2, lit.j) din O.G nr.71/2002 privind organizarea și funcționarea serviciilor publice de administrare a domeniului public și privat de interes local, cu modificările și completările ulterioare;",
+"short": "HCJ Vrancea nr. 34/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-18",
+"latest": "2026-03-18",
+"portal": "https://cjvrancea.ro/hotarari/page/9/",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-vrancea-112-2026",
 "path": "local/judet/vrancea/2026/112",
 "kind": "local",
@@ -89,6 +111,29 @@
 "council_name": "Consiliul Județean Vrancea",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcj-vrancea-114-2026",
+"path": "local/judet/vrancea/2026/114",
+"kind": "local",
+"year": "2026",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 114/2026",
+"short": "HCJ Vrancea nr. 114/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-25",
+"latest": "2026-05-25",
+"portal": "https://cjvrancea.ro/hotarari/page/6/",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
 }
 },
 {

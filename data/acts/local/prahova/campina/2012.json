@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/prahova/campina/2012",
+"acts": [
+{
+"slug": "hcl-prahova--campina-156-2012",
+"path": "local/prahova/campina/2012/156",
+"kind": "local",
+"year": "2012",
+"number": "156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 156/2012",
+"short": "HCL Câmpina nr. 156/2012",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2012-12-18",
+"latest": "2012-12-18",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+}
+]
+}

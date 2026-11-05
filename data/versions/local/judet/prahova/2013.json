@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/prahova/2013",
+ "acts": [
+  {
+   "slug": "hcj-prahova-139-2013",
+   "path": "local/judet/prahova/2013/139",
+   "short": "HCJ Prahova nr. 139/2013",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 139/2013 privind modificarea anexei la Hotărârea nr. 30/2013 a Consiliului judeţean Prahova referitoare la stabilirea preţurilor medii ale produselor agricole pentru anul fiscal 2013",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2013/?dpage=5",
+   "versions": [
+    {
+     "from": "2013-08-20",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-139-din-data-2013-08-20.doc",
+     "sha256": "8d1c52c97622ab579610eb1d0b7ae3680390b5126144d2c43beefde2cda01f61"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-24-2013",
+   "path": "local/judet/prahova/2013/24",
+   "short": "HCJ Prahova nr. 24/2013",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 24/2013 privind modificarea criteriilor, procedurilor şi atribuţiilor specifice în baza cărora preşedintele Consiliului judeţean numeşte şi eliberează din funcţie administratorul public",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2013/?dpage=8",
+   "versions": [
+    {
+     "from": "2013-02-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-024-din-data-2013-02-25.doc",
+     "sha256": "1da003e69efe5d576ca7a90ed94ec6f24f55c5040960a8a8d96004deaa9cb7ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-30-2013",
+   "path": "local/judet/prahova/2013/30",
+   "short": "HCJ Prahova nr. 30/2013",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 30/2013 privind stabilirea preţurilor medii ale produselor agricole pentru anul fiscal 2013",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2013/?dpage=8",
+   "versions": [
+    {
+     "from": "2013-02-25",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-030-din-data-2013-02-25.doc",
+     "sha256": "a7f11397f46bd862ebb129c1f89f50fb66020c249830595cefa93c54adec949a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-58-2013",
+   "path": "local/judet/prahova/2013/58",
+   "short": "HCJ Prahova nr. 58/2013",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 58/2013 privind aprobarea tarifelor pentru realizarea unor activități în spații din imobile proprietate publică a județului Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2013/?dpage=7",
+   "versions": [
+    {
+     "from": "2013-04-26",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-058-din-data-2013-04-26.doc",
+     "sha256": "8cff8f11f682fc2af593ab498b76edaf0a93a2e1d21be40b4ebdc3911af34ef8"
+    }
+   ]
+  }
+ ]
+}

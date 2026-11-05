@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcj-prahova-148-2016",
+   "path": "local/judet/prahova/2016/148",
+   "short": "HCJ Prahova nr. 148/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 148/2016 privind unele masuri pentru exercitarea, in numele judetului, a drepturilor si a obligatiilor acestuia la societatile la care detin calitatea de actionar",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=2",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-148-din-data-2016-09-30.pdf",
+     "sha256": "4c26250efdb2134da105e55c6a36dd1e52facc96152b2d3a0f0d0768ededd6d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-164-2016",
+   "path": "local/judet/prahova/2016/164",
+   "short": "HCJ Prahova nr. 164/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 164/2016 privind modificarea criteriilor, procedurilor si atributiilor specifice in baza carora presedintele Consiliului judetean numeste si elibereaza din functie administratorul public",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-164-din-data-2016-10-31.pdf",
+     "sha256": "3b950a4587f795d19118759b831041902c7de7ef7baf3704301263da269873f0"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-187-2016",
    "path": "local/judet/prahova/2016/187",
    "short": "HCJ Prahova nr. 187/2016",
@@ -29,6 +59,36 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-187-din-data-2016-12-22.pdf",
      "sha256": "68e9cee2ab6a6f6cee810d783d89540df91611a2b8aad19d220d3720889d8d5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-188-2016",
+   "path": "local/judet/prahova/2016/188",
+   "short": "HCJ Prahova nr. 188/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 188/2016 privind stabilirea taxelor speciale aplicabile in anul fiscal 2017 in vederea eliberarii unor documente din domeniul constructiilor",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-188-din-data-2016-12-22.pdf",
+     "sha256": "9ee85b7c477851bd2f6bd5ea9d956c752dc38f5b65ea88a27858994078cb2e24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-72-2016",
+   "path": "local/judet/prahova/2016/72",
+   "short": "HCJ Prahova nr. 72/2016",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 72/2016 privind stabilirea preturilor medii ale produselor agricole si a pretului mediu al ierbii obtinuta de pe pajisti, pentru anul fiscal 2016",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2016/?dpage=5",
+   "versions": [
+    {
+     "from": "2016-05-24",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-072-din-data-2016-05-24.pdf",
+     "sha256": "bb17f81e6815d455dc7523c1274b3ed65f536b2591b996efa3c2100b1feb39c7"
     }
    ]
   }

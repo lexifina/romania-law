@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/judet/prahova/2011",
+ "acts": [
+  {
+   "slug": "hcj-prahova-12-2011",
+   "path": "local/judet/prahova/2011/12",
+   "short": "HCJ Prahova nr. 12/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 12/2011 privind stabilirea taxelor în domeniul construcţiilor, aplicabile în anul fiscal 2011",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=5",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-012-din-data-2011-02-11.doc",
+     "sha256": "1c69bd1599314063687720d4678bf9eab7a3f8bcebdfc1cae3c6ce94584cbe0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-14-2011",
+   "path": "local/judet/prahova/2011/14",
+   "short": "HCJ Prahova nr. 14/2011",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 14/2011 privind stabilirea preţurilor medii ale produselor agricole pentru anul fiscal 2011",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2011/?dpage=5",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-014-din-data-2011-02-11.doc",
+     "sha256": "5621a80e2f8f095d21062fd130763a289c34899c9fc94627e3233d4f4b55e061"
+    }
+   ]
+  }
+ ]
+}

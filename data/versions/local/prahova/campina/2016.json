@@ -3,6 +3,21 @@
  "shard": "local/prahova/campina/2016",
  "acts": [
   {
+   "slug": "hcl-prahova--campina-112-2016",
+   "path": "local/prahova/campina/2016/112",
+   "short": "HCL Câmpina nr. 112/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 112/2016 privind aprobarea reorganizarii Comisiei tehnice de urbanism si amen teritoriului din cadrul Primariei municipiului Campina Avand in vedere: - expunerea de motive nr.69.022/12 august 2016 a membrilor Comisiei amenajarea teritoriului, urbanism, ecologie si protectia mediului, prin care propun aprobarea reorganizarii Comisiei tehnice de urbanism $i amenajarea teritoriului din cadrul Primariei munici",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2016/",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-112-reorganizare-Comisia-teh-urbanism-si-amenajarea-teritoriului-PMC.pdf",
+     "sha256": "ee34954bcdad16447a9542709d13d9cfeb8d6b0cca334458b5564b3ae3f329a7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-116-2016",
    "path": "local/prahova/campina/2016/116",
    "short": "HCL Câmpina nr. 116/2016",
@@ -14,6 +29,36 @@
      "units": 1,
      "source_url": null,
      "sha256": "2527b0e25f739594a165736a3bc7b238e66db706cd84a4d4467ed00090d7a2ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-117-2016",
+   "path": "local/prahova/campina/2016/117",
+   "short": "HCL Câmpina nr. 117/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 117/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1a9e742575ff32e3a0c7014338bed7c183c05ef832b226f6abdd5df95dd85786"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-118-2016",
+   "path": "local/prahova/campina/2016/118",
+   "short": "HCL Câmpina nr. 118/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 118/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "69c84de3b6500329019899a96a299833fa923e4a84f3a623ce63d0f601e758f9"
     }
    ]
   },
@@ -44,6 +89,51 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-172-impozite-si-taxe-2017.pdf",
      "sha256": "1d7ea70a1138a70adff139a0e437e7169f512ad5f269929fc26c9cf7fe54412e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-28-2016",
+   "path": "local/prahova/campina/2016/28",
+   "short": "HCL Câmpina nr. 28/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 28/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "30a5c3d5a17d207b981320e760a7f3bed70c63b9414e4a7a38e6cb20740a81b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-47-2016",
+   "path": "local/prahova/campina/2016/47",
+   "short": "HCL Câmpina nr. 47/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 47/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d89743b8ee8bd544b18b06eaae963cf4641d463954e3a525eaa74a149202b64f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-64-2016",
+   "path": "local/prahova/campina/2016/64",
+   "short": "HCL Câmpina nr. 64/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 64/2016",
+   "url": null,
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3db0ecb4629fbb1b1f556cbc258935e3f1a7372796be9a497c766ad871d91ebb"
     }
    ]
   },

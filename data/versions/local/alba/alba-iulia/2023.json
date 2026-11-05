@@ -3,6 +3,96 @@
  "shard": "local/alba/alba-iulia/2023",
  "acts": [
   {
+   "slug": "hcl-alba--alba-iulia-406-2023",
+   "path": "local/alba/alba-iulia/2023/406",
+   "short": "HCL Alba Iulia nr. 406/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 406/2023 privind aprobarea Metodologiei privind înregistrarea, analiza, repartizarea și administrarea locuinţelor sociale construite prin Strategia de Dezvoltare Locală a zonei urbane marginalizate din municipiul Alba Iulia",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/125498",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/36776/Metodologie%20de%20atribuire%20locuinte%20sociale%20revizuite%20Comisie%20final.doc",
+     "sha256": "78fd228acf1fcbfd39a63a42523c6fc38875f1836107e5e2c3a508c25d24c184"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-438-2023",
+   "path": "local/alba/alba-iulia/2023/438",
+   "short": "HCL Alba Iulia nr. 438/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 438/2023 privind aprobarea transmiterii în folosință gratuită către Asociația Pensionarilor „Speranța de Alba” a unui imobil (construcție) în suprafață utilă de 15 mp, situat în Municipiul Alba Iulia, str. Cloșca, bl. CF11, ap. „Spațiu comercial”, județul Alba",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/126784",
+   "versions": [
+    {
+     "from": "2023-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/37489/Acte%20infiintare%20Asociatia%20Pensionarilor.pdf",
+     "sha256": "a2719792531c085110b0689eaca7331c323563a8313a67c40bb3178b8c01ded3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-446-2023",
+   "path": "local/alba/alba-iulia/2023/446",
+   "short": "HCL Alba Iulia nr. 446/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 446/2023 privind aprobarea transmiterii în administrarea Inspectoratului de Poliție Județean Alba a unor bunuri (construcție și teren), aflate în domeniul public al municipiului Alba Iulia",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/128325",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/38101/Contract%20cadru%20anexa.doc",
+     "sha256": "e9191588cba73a2edb2df06d58828d7cb3b694c810b6a815569b5666a418ae4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-455-2023",
+   "path": "local/alba/alba-iulia/2023/455",
+   "short": "HCL Alba Iulia nr. 455/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 455/2023 privind actualizarea programului de transport public local de persoane pentru zona tarifară „zona 1 municipiul Alba Iulia”",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/130946",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/39031/Anexa%20HCL%20455_2023.pdf",
+     "sha256": "1cf65e7aad05e94263cb89340193d55b63f8e5191dbf94ab3a94a34770af1110"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-456-2023",
+   "path": "local/alba/alba-iulia/2023/456",
+   "short": "HCL Alba Iulia nr. 456/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 456/2023 privind aprobarea listei de priorităţi, în vederea repartizării locuinţelor sociale construite prin Strategia de Dezvoltare Locală a zonei urbane marginalizate din Municipiul Alba Iulia",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/130947",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "http://ec.europa.eu/regional_policy/sources/docgener/informat/2014/guidance_clld_local_actors_ro.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-478-2023",
+   "path": "local/alba/alba-iulia/2023/478",
+   "short": "HCL Alba Iulia nr. 478/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 478/2023 privind înscrierea dreptului de proprietate a Municipiului Alba Iulia – domeniul public asupra unor imobile (drum), strada Oașa, Pepinierei, Valea Argintului, Cerbului, Stufului, situate în Alba Iulia",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/130969",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/39055/Str.%20Pepinierei%20PAD%20HCL.pdf",
+     "sha256": "c622b210a42d3bc78c37d1e7d3332c4d218625ae3e28c6bc2c5b0f4c9fac5323"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--alba-iulia-513-2023",
    "path": "local/alba/alba-iulia/2023/513",
    "short": "HCL Alba Iulia nr. 513/2023",

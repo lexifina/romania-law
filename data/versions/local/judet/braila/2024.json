@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcj-braila-138-2024",
+   "path": "local/judet/braila/2024/138",
+   "short": "HCJ Brăila nr. 138/2024",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 138/2024 privind aprobarea Regulamentului privind conditiile, criteriile si procedura de finantare a programelor sportive de utilitate publica, în baza prevederilor Legii educatiei fizice si sportului nr. 69/2000, cu modificarile si completarile ulterioare, pentru anul 2024",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2024-III-00039BE6?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/A131FAE390FAAAF7C2258B540038FAE7/$FILE/Hotararea%20nr.%20138%20din%2027%20iunie%202024.pdf",
+     "sha256": "c53dce930bcfb7502f8956a711fc60d7d279ddb763a675fe9d1e2fd849a2cca5"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-140-2024",
    "path": "local/judet/braila/2024/140",
    "short": "HCJ Brăila nr. 140/2024",
@@ -164,6 +179,21 @@
      "units": 8,
      "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/0EEC61303CF619B0C2258AD60026523D/$FILE/Hotararea%20nr.%2057%20din%2027%20februarie%202024.pdf",
      "sha256": "470f301c5a5cbdee1ac01d41eb3eebed67150dc355ffcce71ac4e27623c6d2d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-74-2024",
+   "path": "local/judet/braila/2024/74",
+   "short": "HCJ Brăila nr. 74/2024",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 74/2024 privind stabilirea taxelor si tarifelor reprezentand venituri proprii ale Consiliului Judetean Braila si ale institutiilor publice subordonate acestuia, pentru anul fiscal 2024",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2024-I-00037096?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm_cj/portal.nsf/FB13126738A68C15C2258AFA002DA16D/$FILE/Hotararea%20nr.%2074%20din%2028%20martie%202024.pdf",
+     "sha256": "89923c7f7322f90e649cbf7ee647a29301e4e24e417fa9aa5c97de1c46c8b64d"
     }
    ]
   },

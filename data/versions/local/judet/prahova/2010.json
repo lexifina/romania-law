@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/judet/prahova/2010",
+ "acts": [
+  {
+   "slug": "hcj-prahova-172-2010",
+   "path": "local/judet/prahova/2010/172",
+   "short": "HCJ Prahova nr. 172/2010",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 172/2010 privind aprobarea Regulamentului de organizare şi funcţionare a Serviciului Public Judeţean Salvamont Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2010/?dpage=3",
+   "versions": [
+    {
+     "from": "2010-09-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-172-din-data-2010-09-28.doc",
+     "sha256": "e12b7c04217951d774b5c45d8feb86bc7a3a4439ba62edaf930d62170cf703ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-240-2010",
+   "path": "local/judet/prahova/2010/240",
+   "short": "HCJ Prahova nr. 240/2010",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 240/2010 privind completarea şi modificarea Regulamentului pentru efectuarea serviciului de transport public judeţean de persoane prin curse regulate",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2010/",
+   "versions": [
+    {
+     "from": "2010-12-22",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-240-din-data-2010-12-22.doc",
+     "sha256": "aa36e23b3d92f7ed450cea376863da62190fa4141c21b9ecb4a1a6e36b6acd53"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-76-2010",
+   "path": "local/judet/prahova/2010/76",
+   "short": "HCJ Prahova nr. 76/2010",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 76/2010 pentru modificarea anexei la Hotărârea Consiliului Judeţean Prahova nr. 32/2010 privind aprobarea structurii serviciilor specifice prin care se constituie veniturile proprii ale Camerei Agricole Judeţene Prahova, cuantumul tarifelor, precum şi modalităţile de în",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2010/?dpage=6",
+   "versions": [
+    {
+     "from": "2010-05-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-076-din-data-2010-05-28.doc",
+     "sha256": "4661391984d00858b5bd9a595c369d32ff8773416e87fc451978630c685c7f17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-83-2010",
+   "path": "local/judet/prahova/2010/83",
+   "short": "HCJ Prahova nr. 83/2010",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 83/2010 privind actualizarea caietului de sarcini al serviciului de transport public judeţean de persoane prin curse regulate",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2010/?dpage=5",
+   "versions": [
+    {
+     "from": "2010-05-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-083-din-data-2010-05-28.doc",
+     "sha256": "557c09ab0c1fdd7d822e66f76bf2ce9f722836294a077b977a112e403d9543b3"
+    }
+   ]
+  }
+ ]
+}

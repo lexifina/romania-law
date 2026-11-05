@@ -3,6 +3,28 @@
 "shard": "local/judet/neamt/2025",
 "acts": [
 {
+"slug": "hcj-neamt-120-2025",
+"path": "local/judet/neamt/2025/120",
+"kind": "local",
+"year": "2025",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Neamț nr. 120/2025 pentru completarea Hotărârii Consiliului Județean Neamț nr.112/2024 privind stabilirea taxelor, tarifelor şi amenzilor din competenţa de aprobare a Consiliului Judeţean Neamţ, pentru anul fiscal 2025 - Modifica 112/2024 ( anexa nr.8) Instituția Prefectului/Președintele Consiliului Județean Neamț/autoritățile și instituțiile publice interesate Vezi HCJ",
+"short": "HCJ Neamț nr. 120/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-28",
+"latest": "2025-04-28",
+"portal": "https://cjneamt.ro/ro/servicii-si-autorizatii-online/registru-pentru-evidenta-hotararilor-consiliului-judetean-2025/",
+"council": "judet/neamt",
+"council_name": "Consiliul Județean Neamț",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-neamt-124-2025",
 "path": "local/judet/neamt/2025/124",
 "kind": "local",

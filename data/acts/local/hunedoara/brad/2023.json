@@ -23,6 +23,28 @@
 "flags": {
 "text_pending": "ocr"
 }
+},
+{
+"slug": "hcl-hunedoara--brad-75-2023",
+"path": "local/hunedoara/brad/2023/75",
+"kind": "local",
+"year": "2023",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Brad nr. 75/2023 privind aprobarea Strategiei Locale pentru Serviciul de Alimentare cu Energie Termică a Populației din Municipiul Brad pentru perioada 2022-2033 și perspectiva anului 2045",
+"short": "HCL Brad nr. 75/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-16",
+"latest": "2023-05-16",
+"portal": "https://emol.ro/brad-hd/registru-hcl/101749",
+"council": "hunedoara/brad",
+"council_name": "Consiliul Local al Municipiului Brad",
+"flags": {
+"text_pending": "source"
+}
 }
 ]
 }

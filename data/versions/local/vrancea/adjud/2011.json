@@ -31,6 +31,21 @@
      "sha256": "4b632b17f52417947364b41e00a270d10f275f9d08f18cd6482f72ac717bcd95"
     }
    ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-217-2011",
+   "path": "local/vrancea/adjud/2011/217",
+   "short": "HCL Adjud nr. 217/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 217/2011 privind stabilirea impozitelor și taxelor locale pentru anul 2012 Consiliul local al municipiului Adjud, întrunit în ședință ordinară: - Analizând Expunerea de motive a Primarului municipiului Adjud care a inițiat proiectul de hotărâre privind stabilirea taxelor și impozitelor locale pentru anul 2012 și Raportul de specialitate al Serviciului Impozite și Taxe locale; - Luând act de avizul favorabi",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/HCL_217.pdf",
+     "sha256": "0b8a2b9fb3e14caf0a8e3618f0faf540a47b1a53e25f55523ecfd55f5374022d"
+    }
+   ]
   }
  ]
 }

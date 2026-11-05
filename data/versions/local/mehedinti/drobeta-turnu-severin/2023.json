@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/drobeta-turnu-severin/2023",
  "acts": [
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-103-2023",
+   "path": "local/mehedinti/drobeta-turnu-severin/2023/103",
+   "short": "HCL Drobeta-Turnu Severin nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 103/2023 pentru aprobarea adiționării Contractului nr. 12734/02.08.2006 de delegare prin concesiune a serviciului public de salubrizare din Municipiul Drobeta Turnu Severin, privind diminuarea suprafeței de teren pe care se realizează investiția ”depozit de deșeuri municipale și industriale”de către Societatea Brantner Servicii Ecologice S.R.L și modificarea Anexei 1 C",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/97318",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/26006/Anexa%20HCL%20%20CU%20DEPOZITUL.doc",
+     "sha256": "0ff06b4830ab76b54a319633b4466970d9a9c50f06cccde17932ca8a08606990"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-133-2023",
    "path": "local/mehedinti/drobeta-turnu-severin/2023/133",
    "short": "HCL Drobeta-Turnu Severin nr. 133/2023",
@@ -44,6 +59,66 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/28722/ANEXA%20.pdf",
      "sha256": "abdd7316abd9e0720919f97df2b9fa743529e02038b043524140e3043a58fb64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-168-2023",
+   "path": "local/mehedinti/drobeta-turnu-severin/2023/168",
+   "short": "HCL Drobeta-Turnu Severin nr. 168/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 168/2023",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/106752",
+   "versions": [
+    {
+     "from": "2023-06-13",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/106752",
+     "sha256": "5804d9b53c9f69dbda608ba7ceeff4265211122bb730808aa16ce0e7e6bd81fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-204-2023",
+   "path": "local/mehedinti/drobeta-turnu-severin/2023/204",
+   "short": "HCL Drobeta-Turnu Severin nr. 204/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 204/2023 privind acordarea de rechizite şcolare copiilor din clasele I-IV proveniți din familii defavorizate",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/113608",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/32727/Anexa%20HCL.docx",
+     "sha256": "a394de7fb5614a86a9b8761c4ed9109197603a4fd509e999d410fae0ec3c6ae1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-205-2023",
+   "path": "local/mehedinti/drobeta-turnu-severin/2023/205",
+   "short": "HCL Drobeta-Turnu Severin nr. 205/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 205/2023 privind acordarea pentru anul şcolar 2023-2024 a pachetului cu rechizite şcolare ,, Primul ghiozdan”",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/113609",
+   "versions": [
+    {
+     "from": "2023-08-02",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/32728/anexa%20HCL.docx",
+     "sha256": "0e148616ad657a70156413c46ab8d99cf7833580d406ce79a3d6eaf1d086cf7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-26-2023",
+   "path": "local/mehedinti/drobeta-turnu-severin/2023/26",
+   "short": "HCL Drobeta-Turnu Severin nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 26/2023 privind actualizarea inventarului bunurilor care alcătuiesc domeniul privat al Municipiului Drobeta Turnu Severin precum și modificarea Anexei nr. 1 la HCL nr. 21/1999",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/87627",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/22397/Anexa.docx",
+     "sha256": "17e49da03b235bb9711c80c63d2588aff12ccf94a6aa41e42eec3a7c34b02a31"
     }
    ]
   },
@@ -138,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-36-2023",
+   "path": "local/mehedinti/drobeta-turnu-severin/2023/36",
+   "short": "HCL Drobeta-Turnu Severin nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 36/2023 privind mandatarea reprezentantului Consiliului Local al municipiului Drobeta Turnu Severin în Adunarea Generală a Asociației pentru Managementul Serviciilor de Apă și de Canalizare Mehedinți, pentru a vota aprobarea Strategiei de Dezvoltare a Serviciului Public de Alimentare cu Apă şi de Canalizare Mehedinţi 2022-2027",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/87637",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/22411/STRATEGIE.doc",
+     "sha256": "80e9ae0f68d7f70ac71ae7822e87b04eeacb56252aa30b7a38b6c9b1b41669a3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-396-2023",
    "path": "local/mehedinti/drobeta-turnu-severin/2023/396",
    "short": "HCL Drobeta-Turnu Severin nr. 396/2023",
@@ -149,6 +239,66 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/54401/HCL%20396%20din%2020%20decembrie%202023.pdf",
      "sha256": "405e31c008bc7aaa89d94a9c900c9b99573cb36075149222bb6227f7ebfd653d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-54-2023",
+   "path": "local/mehedinti/drobeta-turnu-severin/2023/54",
+   "short": "HCL Drobeta-Turnu Severin nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 54/2023",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/92144",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/92144",
+     "sha256": "b9306e6e81ce6b13a3d24b7e1803bf2398df3473ee35bc6948b020917b973b1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-70-2023",
+   "path": "local/mehedinti/drobeta-turnu-severin/2023/70",
+   "short": "HCL Drobeta-Turnu Severin nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 70/2023 privind atestarea inventarului bunurilor care aparțin domeniului public al Municipiului Drobeta-Turnu Severin, județul Mehedinți",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/92160",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/24325/Anexa%20HCL%20teren%20V%C4%83r%C4%83nic.doc",
+     "sha256": "9f0f29ef6874439d1b328c45abd4579b8ac8de7ffc918c80738517827d2232ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-73-2023",
+   "path": "local/mehedinti/drobeta-turnu-severin/2023/73",
+   "short": "HCL Drobeta-Turnu Severin nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 73/2023 privind aprobarea Nomenclatorului stradal Municipiului Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/92163",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/24359/LISTA%20NOMENCLATOR%20APROBARE.docx",
+     "sha256": "b63e8d2302b1df6c7b6ee024a6de73f4c4c1d6d5cde35fac0379d516e5131173"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-75-2023",
+   "path": "local/mehedinti/drobeta-turnu-severin/2023/75",
+   "short": "HCL Drobeta-Turnu Severin nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 75/2023 privind apartenența la domeniul public al Municipiului Drobeta-Turnu Severin a imobilului-teren în suprafață de 8734 m2,a imobilului teren în suprafață de 5755 m2 a imobilului teren în suprafață de 832 m2 cu destinația de stradă situate în intravilanul Municipiului Drobeta-Turnu Severin, zona Walter Mărăcineanu precum și declararea acestora de utilitate publică",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/92165",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/24328/Anexa%20Raport%20Comisie%20special%C4%83.doc",
+     "sha256": "4bc352acddbe448012e2961e90bca5bba829de0606a7df16eea4c3a9d65d17f7"
     }
    ]
   },

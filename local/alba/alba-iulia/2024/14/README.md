@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 14/2024 privind modificarea si completarea Anexei la HCL nr. 4/2024 privind organizarea Galei Sportului Albaiulian și premierea sportivilor și antrenorilor din municipiul Alba Iulia, care au obținut rezultate deosebite la acțiuni sportive naționale și internaționale în anul 2023
+
+HCL Alba Iulia nr. 14/2024 · 1 versions, from 2024-03-29 (latest in force: 2024-03-29) · <https://emol.ro/albaiulia-ab/registru-hcl/139958>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-alba--alba-iulia-14-2024` (tags `hcl-alba--alba-iulia-14-2024/<day>`; `python tools/on.py <day> hcl-alba--alba-iulia-14-2024`).
+
+## Decisions made by hand
+
+- HCL Alba Iulia nr. 14/2024: listed from Consiliul Local al Municipiului Alba Iulia (emol.ro); an individual decision: metadata only.
+- HCL Alba Iulia nr. 14/2024: dated from 29 March 2024, the day the council's register gives it as published (adopted 30 January 2024).
+- HCL Alba Iulia nr. 14/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

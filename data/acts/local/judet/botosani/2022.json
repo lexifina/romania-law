@@ -3,6 +3,95 @@
 "shard": "local/judet/botosani/2022",
 "acts": [
 {
+"slug": "hcj-botosani-19-2022",
+"path": "local/judet/botosani/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 19/2022",
+"short": "HCJ Botoșani nr. 19/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": null,
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-botosani-93-2022",
+"path": "local/judet/botosani/2022/93",
+"kind": "local",
+"year": "2022",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 93/2022 privind acordarea unui mandat special reprezentantului Județului Botoșani în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară ”AQUA BOTOȘANI” pentru aprobarea modificării prețului și tarifului la serviciile publice de alimentare cu apă potabilă și de canalizare – epu",
+"short": "HCJ Botoșani nr. 93/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-botosani-124-2022",
+"path": "local/judet/botosani/2022/124",
+"kind": "local",
+"year": "2022",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 124/2022 privind aprobarea taxelor şcolare pentru elevii Şcolii Populare de Arte „George Enescu” Botoşani, pe anul şcolar 2022 - 2023",
+"short": "HCJ Botoșani nr. 124/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-06-27",
+"latest": "2022-06-27",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-botosani-240-2022",
+"path": "local/judet/botosani/2022/240",
+"kind": "local",
+"year": "2022",
+"number": "240",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 240/2022 privind aprobarea Regulamentului de acordare a stimulentelor financiare elevilor din instituțiile de învățământ din județul Botoșani, care au obținut rezultate de excepție la olimpiadele și concursurile școlare județene",
+"short": "HCJ Botoșani nr. 240/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-28",
+"latest": "2022-11-28",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-botosani-251-2022",
 "path": "local/judet/botosani/2022/251",
 "kind": "local",
@@ -22,6 +111,73 @@
 "council_name": "Consiliul Județean Botoșani",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-botosani-252-2022",
+"path": "local/judet/botosani/2022/252",
+"kind": "local",
+"year": "2022",
+"number": "252",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 252/2022",
+"short": "HCJ Botoșani nr. 252/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-botosani-254-2022",
+"path": "local/judet/botosani/2022/254",
+"kind": "local",
+"year": "2022",
+"number": "254",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 254/2022 privind stabilirea tarifelor pentru serviciile prestate de Centrul Judeţean pentru Conservarea şi Promovarea Culturii Tradiţionale Botoşani, pentru anul 2023",
+"short": "HCJ Botoșani nr. 254/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-botosani-255-2022",
+"path": "local/judet/botosani/2022/255",
+"kind": "local",
+"year": "2022",
+"number": "255",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 255/2022 privind aprobarea tarifelor practicate de Muzeul Județean Botoşani, pentru serviciile prestate, în anul 2023",
+"short": "HCJ Botoșani nr. 255/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/alte-documente/informari-proiecte-de-hotarari-cu-caracter-normativ/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review"
 }
 }
 ]

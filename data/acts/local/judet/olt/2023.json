@@ -3,6 +3,28 @@
 "shard": "local/judet/olt/2023",
 "acts": [
 {
+"slug": "hcj-olt-85-2023",
+"path": "local/judet/olt/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 85/2023 pentru acordarea unui mandat special reprezentantului Unității Administrativ-Teritoriale Județul Olt în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „OLT-ECO” în vederea exercitării votului pentru modificarea tarifelor aferente serviciilor de salubrizare de pe raza județului Olt prevăzute în Contractele de delegare nr. 6867/18.06.2018 și nr. 2542/06.12.2021, pentru modificarea Regu",
+"short": "HCJ Olt nr. 85/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-25",
+"latest": "2023-05-25",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-olt-114-2023",
 "path": "local/judet/olt/2023/114",
 "kind": "local",
@@ -47,6 +69,73 @@
 }
 },
 {
+"slug": "hcj-olt-140-2023",
+"path": "local/judet/olt/2023/140",
+"kind": "local",
+"year": "2023",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 140/2023",
+"short": "HCJ Olt nr. 140/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-30",
+"latest": "2023-08-30",
+"portal": null,
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-olt-168-2023",
+"path": "local/judet/olt/2023/168",
+"kind": "local",
+"year": "2023",
+"number": "168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 168/2023 pentru modificarea Regulamentului de acordare a premiilor elevilor olimpici și cadrelor didactice care au obținut rezultate excepționale la olimpiadele școlare de specialitate, aprobat prin Hotărârea Consiliului Județean Olt nr. 182/25.10.2018",
+"short": "HCJ Olt nr. 168/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-28",
+"latest": "2023-09-28",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/registrul-pentru-evidenta-hotararilor-consiliului-judetean/registrul-pentru-evidenta-hotararilor-consiliului-judetean-2023/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-olt-199-2023",
+"path": "local/judet/olt/2023/199",
+"kind": "local",
+"year": "2023",
+"number": "199",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 199/2023 cu privire la avizarea Normelor specifice privind realizarea sau amplasarea în zona drumurilor publice de interes local a panourilor publicitare, a oricăror construcții sau activități comerciale, căi de acces, amenajări sau instalații în orice scop și a tarifelor aferente eliberării Acordurilor prealabile și a Autorizațiilor de Amplasare și Acces la drum, înaintate de Primăria comunei Bârza, județ",
+"short": "HCJ Olt nr. 199/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-olt-225-2023",
 "path": "local/judet/olt/2023/225",
 "kind": "local",
@@ -88,6 +177,50 @@
 "council_name": "Consiliul Județean Olt",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-olt-234-2023",
+"path": "local/judet/olt/2023/234",
+"kind": "local",
+"year": "2023",
+"number": "234",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 234/2023 privind aprobarea Regulamentului de acordare premii pentru sportivii și antrenorii din județul Olt care au obținut rezultate deosebite la Jocurile Olimpice, Campionatele Mondiale, Europene, Balcanice și Naționale – Sporturi Olimpice Vizualizare",
+"short": "HCJ Olt nr. 234/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-olt-245-2023",
+"path": "local/judet/olt/2023/245",
+"kind": "local",
+"year": "2023",
+"number": "245",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 245/2023 cu privire la aprobarea tarifelor de călătorie pentru biletele și abonamentele practicate de operatorii de transport declarați câștigători în cadrul procedurii de atribuire a contrac",
+"short": "HCJ Olt nr. 245/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2023/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"text_pending": "review"
 }
 }
 ]

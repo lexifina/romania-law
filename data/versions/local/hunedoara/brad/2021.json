@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/brad/2021",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--brad-168-2021",
+   "path": "local/hunedoara/brad/2021/168",
+   "short": "HCL Brad nr. 168/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 168/2021 privind aprobarea Strategiei Integrate de Dezvoltare Urbană a Municipiului Brad 2021 - 2027",
+   "url": "https://emol.ro/brad-hd/registru-hcl/42925",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/1236/SIDU%20Brad.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-169-2021",
+   "path": "local/hunedoara/brad/2021/169",
+   "short": "HCL Brad nr. 169/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 169/2021 privind aprobarea Politicilor publice ce necesită resurse financiare din bugetele aferente anilor 2021 și 2022",
+   "url": "https://emol.ro/brad-hd/registru-hcl/42926",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/1237/PP%20Brad.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-170-2021",
+   "path": "local/hunedoara/brad/2021/170",
+   "short": "HCL Brad nr. 170/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 170/2021 privind aprobarea Planului de Mobilitate Urbană Durabilă al Municipiului Brad 2021 - 2027",
+   "url": "https://emol.ro/brad-hd/registru-hcl/42927",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/1238/PMUD%20Brad.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-171-2021",
+   "path": "local/hunedoara/brad/2021/171",
+   "short": "HCL Brad nr. 171/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 171/2021 privind aprobarea Criteriilor de prioritizare a investițiilor în sectoarele educație, sănătate, asistență socială, infrastructură (mediu și transport) pentru realizarea bugetului aferent anilor 2021 și 2022",
+   "url": "https://emol.ro/brad-hd/registru-hcl/42928",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/1239/CP%20Brad.pdf",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,50 @@
 "shard": "local/suceava/campulung-moldovenesc/2022",
 "acts": [
 {
+"slug": "hcl-suceava--campulung-moldovenesc-32-2022",
+"path": "local/suceava/campulung-moldovenesc/2022/32",
+"kind": "local",
+"year": "2022",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 32/2022 privind aprobarea regulamentului de organizare și desfășurare a evaluării anuale a managementului la Muzeul“Arta Lemnului” Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 31 martie 2022; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 8241 din 10.03.2022; -Raportul de speciali",
+"short": "HCL Câmpulung Moldovenesc nr. 32/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2022",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-48-2022",
+"path": "local/suceava/campulung-moldovenesc/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 48/2022 privind aprobarea proiectului ELABORAREA ȘI ACTUALIZAREA ÎN FORMAT GIS A PLANULUI URBANISTIC GENERAL IN MUNICIPIUL CAMPULUNG MOLDOVENESC, JUDEȚUL SUCEAVA și a cheltuielilor legate de proiect, în vederea finanțării în cadrul Planului Național de Redresare și Reziliență (PNRR), Componenta 10 Fondul Local, I.4 Elaborarea/actualizarea în format GIS a documentelor de amenajare a teritoriului și de plan",
+"short": "HCL Câmpulung Moldovenesc nr. 48/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-19",
+"latest": "2022-05-19",
+"portal": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2022",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-suceava--campulung-moldovenesc-153-2022",
 "path": "local/suceava/campulung-moldovenesc/2022/153",
 "kind": "local",

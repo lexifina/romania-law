@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--brad-101-2022",
+   "path": "local/hunedoara/brad/2022/101",
+   "short": "HCL Brad nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 101/2022",
+   "url": "https://emol.ro/brad-hd/registru-hcl/67227",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/14736/REGULAMENT%20ORG%20SI%20FUNCT.doc",
+     "sha256": "3723a7eab2f504b00290fd40eb8f8d7f715efc767220d2a7f250fb9ea1bdaf1a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--brad-42-2022",
    "path": "local/hunedoara/brad/2022/42",
    "short": "HCL Brad nr. 42/2022",

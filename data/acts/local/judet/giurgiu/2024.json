@@ -3,6 +3,28 @@
 "shard": "local/judet/giurgiu/2024",
 "acts": [
 {
+"slug": "hcj-giurgiu-49-2024",
+"path": "local/judet/giurgiu/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Giurgiu nr. 49/2024 pentru modificarea anexei la Hotărârea Consiliului Județean Giurgiu nr.116 din 26 aprilie 2023 privind aprobarea Regulamentului de acordare a stimulentelor financiare cadrelor didactice și elevilor din instituțiile de învățământ preuniversitar de stat din județul Giurgiu în anul 2023 cu modificările și completările ulterioare CONSILIUL JUDEȚEAN GIURGIU întrunit în ședință extraordinară Având în ve",
+"short": "HCJ Giurgiu nr. 49/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-16",
+"latest": "2024-02-16",
+"portal": "https://cjgiurgiu.ro/ova_sev/hotarari-2024/",
+"council": "judet/giurgiu",
+"council_name": "Consiliul Județean Giurgiu",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-giurgiu-58-2024",
 "path": "local/judet/giurgiu/2024/58",
 "kind": "local",

@@ -1,0 +1,74 @@
+{
+"country": "RO",
+"shard": "local/judet/prahova/2004",
+"acts": [
+{
+"slug": "hcj-prahova-50-2004",
+"path": "local/judet/prahova/2004/50",
+"kind": "local",
+"year": "2004",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 50/2004",
+"short": "HCJ Prahova nr. 50/2004",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2004-04-20",
+"latest": "2004-04-20",
+"portal": null,
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-prahova-68-2004",
+"path": "local/judet/prahova/2004/68",
+"kind": "local",
+"year": "2004",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 68/2004",
+"short": "HCJ Prahova nr. 68/2004",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2004-06-15",
+"latest": "2004-06-15",
+"portal": null,
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-prahova-83-2004",
+"path": "local/judet/prahova/2004/83",
+"kind": "local",
+"year": "2004",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 83/2004 privind stabilirea unor taxe în domeniul construcțiilor Văzând Expunerea de motive prezentată de Președintele Consiliului Județean Prahova și Raportul comun al Direcției de Amenajarea Teritoriului, Urbanism și Gestiunea Localităților și al Direcției Economico Financiare, nr. 3339 din data 24.05.2004 prin care se propune stabilirea și majorarea unor taxe în domeniul construcțiilor",
+"short": "HCJ Prahova nr. 83/2004",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2004-08-19",
+"latest": "2004-08-19",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2004/?dpage=3",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

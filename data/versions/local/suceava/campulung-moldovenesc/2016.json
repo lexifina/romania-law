@@ -3,6 +3,21 @@
  "shard": "local/suceava/campulung-moldovenesc/2016",
  "acts": [
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-121-2016",
+   "path": "local/suceava/campulung-moldovenesc/2016/121",
+   "short": "HCL Câmpulung Moldovenesc nr. 121/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 121/2016 cu privire la stabilirea impozitelor și taxelor locale pentru anul 2017 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 24 noiembrie 2016, Având în vedere : -Expunerea de motive a primarului municipiului Câmpulung Moldovenesc, înregistrată la nr. 21769 din 04.10.2016; -Raportul Direcției economice, înregistrat la nr. 21771 din 04.10.2016; -Raportul C",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2016",
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_121_2016.pdf",
+     "sha256": "0730e255a601ba35d635b8e54d5228a55cb61036a9fefb99f0ed355bfbc1b74e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-122-2016",
    "path": "local/suceava/campulung-moldovenesc/2016/122",
    "short": "HCL Câmpulung Moldovenesc nr. 122/2016",
@@ -303,6 +318,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-66-2016",
+   "path": "local/suceava/campulung-moldovenesc/2016/66",
+   "short": "HCL Câmpulung Moldovenesc nr. 66/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 66/2016 pentru modificarea articolului 4 din Hotărârea Consiliului Local al municipiului Câmpulung Moldovenesc nr. 19/2015 de aprobare a Regulamentului privind regimul finanțărilor nerambursabile din fondurile bugetului local al municipiului Câmpulung Moldovenesc alocate pentru activități nonprofit de interes local și a unor măsuri pentru punerea în aplicare a acestuia Consiliul Local al municipiului Câmp",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2016",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_066_2016.pdf",
+     "sha256": "a57e6ef4cb7b8f9ee688e9504806adacae292d53fcba4fde801a750c7489afdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-89-2016",
+   "path": "local/suceava/campulung-moldovenesc/2016/89",
+   "short": "HCL Câmpulung Moldovenesc nr. 89/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 89/2016 pentru modificarea articolului 1 alineatul (1) din Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr 17/2011 privind înființarea Comisiei locale de ordine publică a municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 29 septembrie 2016; Având în vedere: -Expunerea de motive a primarului Municipiului Câmpulung",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2016",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_089_2016.pdf",
+     "sha256": "52ab6848d22c91779d52d1e44da6dc9246e5ba48933caa22bb4f9fcd625a457f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-92-2016",
    "path": "local/suceava/campulung-moldovenesc/2016/92",
    "short": "HCL Câmpulung Moldovenesc nr. 92/2016",
@@ -314,6 +359,36 @@
      "units": 1,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_092_2016.pdf",
      "sha256": "4425c586e48d1d23bd48d02e86e61cf6f446e1de6f6af3bde90947902b8a2ff7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-95-2016",
+   "path": "local/suceava/campulung-moldovenesc/2016/95",
+   "short": "HCL Câmpulung Moldovenesc nr. 95/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 95/2016 pentru modificarea articolului 3 din Hotărărea Consiliului Local al Municipiului Câmpulung Moldovenesc, nr. 42/2016 privind aprobarea procedurilor și criteriilor pentru organizarea concursului de ocupare a funcției contractuale de conducere de director la Clubul Sportiv Municipal „Rarăul ” Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2016",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_095_2016.pdf",
+     "sha256": "18eaa92a047d4b8e9d1b4e3f02f2c514917ecc333cc9b7fee257b25ea268cb17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-96-2016",
+   "path": "local/suceava/campulung-moldovenesc/2016/96",
+   "short": "HCL Câmpulung Moldovenesc nr. 96/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 96/2016 privind modificarea Anexei nr. 1 la Hotărârea Consiliului Local al municipiului Câmpulung Moldovenesc nr. 79 din 25 septembrie 2014 pentru constituirea Comisiei tehnice de amenajare a teritoriului și urbanism și aprobarea Regulamentului de funcționare a Comisiei tehnice de amenajare a teritoriului și urbanism a municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenes",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2016",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_096_2016.pdf",
+     "sha256": "6169e4c3c519aadb2f5a2081140e7d62ea47534355056c3fe15a3a1c1345e926"
     }
    ]
   }

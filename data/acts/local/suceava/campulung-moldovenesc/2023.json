@@ -3,6 +3,50 @@
 "shard": "local/suceava/campulung-moldovenesc/2023",
 "acts": [
 {
+"slug": "hcl-suceava--campulung-moldovenesc-38-2023",
+"path": "local/suceava/campulung-moldovenesc/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 38/2023 privind aprobarea regulamentului de organizare și desfășurare a evaluării anuale a managementului la Muzeul“Arta Lemnului” Câmpulung Moldovenesc, pentru perioada 01.01.2022 – 31.12.2022 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 30 martie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat",
+"short": "HCL Câmpulung Moldovenesc nr. 38/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-30",
+"latest": "2023-03-30",
+"portal": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2023",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-44-2023",
+"path": "local/suceava/campulung-moldovenesc/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 44/2023 pentru modificarea aliniatului (1) al articolului 2 din Hotărârea Consiliului Local al municipiului Câmpulung Moldovenesc nr. 38 din 30 martie 2023 privind aprobarea regulamentului de organizare și desfășurare a evaluării anuale a managementului la Muzeul“Arta Lemnului” Câmpulung Moldovenesc, pentru perioada 01.01.2022 – 31.12.2022 Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în",
+"short": "HCL Câmpulung Moldovenesc nr. 44/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2023",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-suceava--campulung-moldovenesc-182-2023",
 "path": "local/suceava/campulung-moldovenesc/2023/182",
 "kind": "local",

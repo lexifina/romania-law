@@ -61,6 +61,66 @@
      "sha256": "ab389642e4ce8d011980b2996e8f9c55c863b763fd4e912d9899465dcad0aa6e"
     }
    ]
+  },
+  {
+   "slug": "hcj-olt-213-2024",
+   "path": "local/judet/olt/2024/213",
+   "short": "HCJ Olt nr. 213/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 213/2024 pentru eliberarea acordului prealabil și autorizației de amplasare și/sau de acces la drumurile județene, a tarifelor de utilizare a suprafețelor din zona drumurilor județene, precum și a tarifelor pentru exercitarea dreptului de acces pe, deasupra, în sau sub imobilele proprietate publică a județului Olt pentru anul 2025 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/21728.pdf",
+     "sha256": "228b4565315c0c01c5e6796867aa2ebabc819ac442dec8a478071680bdd4938b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-214-2024",
+   "path": "local/judet/olt/2024/214",
+   "short": "HCJ Olt nr. 214/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 214/2024 cu privire la aprobarea unor taxe și tarife pentru activitățile prestate de unele instituții de cultură de interes județean, pentru anul 2025 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/21729.pdf",
+     "sha256": "44bbc5d9df4f3049be4820a17b396e9042ec41b700b9e9b36ee08b85601d370e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-215-2024",
+   "path": "local/judet/olt/2024/215",
+   "short": "HCJ Olt nr. 215/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 215/2024 cu privire la aprobare taxe pentru anul 2025 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/21730.pdf",
+     "sha256": "b29dfffd01ba863772e7ae9ab711dc97871ca068191236e8bb580f79bd2b7d19"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-22-2024",
+   "path": "local/judet/olt/2024/22",
+   "short": "HCJ Olt nr. 22/2024",
+   "title": "Hotărârea Consiliului Județean Olt nr. 22/2024 pentru modificarea Regulamentului de acordare premii pentru sportivii și antrenorii din județul Olt care au obținut rezultate deosebite la Jocurile Olimpice, Campionatele Mondiale, Europene, Balcanice și Naționale – Sporturi Olimpice aprobat prin Hotărârea Consiliului Județean Olt nr. 234 din 21.12.2023 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://cjolt.ro/storage/formidable/223/19088-2.pdf",
+     "sha256": "63f030961664d582e5d3a16cf1c983453e38b898ecba6812002baf510642c818"
+    }
+   ]
   }
  ]
 }

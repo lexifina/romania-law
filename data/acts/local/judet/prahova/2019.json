@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcj-prahova-129-2019",
+"path": "local/judet/prahova/2019/129",
+"kind": "local",
+"year": "2019",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 129/2019 privind modificarea și completarea Hotărârii Consiliului Județean Prahova nr. 189/2018 privind stabilirea unor taxe și taxe speciale pentru anul fiscal 2019",
+"short": "HCJ Prahova nr. 129/2019",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2019-09-23",
+"latest": "2019-09-23",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/?dpage=2",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-prahova-151-2019",
 "path": "local/judet/prahova/2019/151",
 "kind": "local",
@@ -88,6 +110,50 @@
 "council_name": "Consiliul Județean Prahova",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-prahova-166-2019",
+"path": "local/judet/prahova/2019/166",
+"kind": "local",
+"year": "2019",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 166/2019 privind stabilirea unor taxe și taxe speciale pentru anul fiscal 2020",
+"short": "HCJ Prahova nr. 166/2019",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2019-12-16",
+"latest": "2019-12-16",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-prahova-167-2019",
+"path": "local/judet/prahova/2019/167",
+"kind": "local",
+"year": "2019",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 167/2019 privind stabilirea prețurilor medii ale produselor agricole și a prețului mediu al ierbii obținută de pe pajiști, pentru anul fiscal 2020",
+"short": "HCJ Prahova nr. 167/2019",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2019-12-16",
+"latest": "2019-12-16",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2019/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
 }
 },
 {

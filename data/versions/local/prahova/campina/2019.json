@@ -3,6 +3,51 @@
  "shard": "local/prahova/campina/2019",
  "acts": [
   {
+   "slug": "hcl-prahova--campina-102-2019",
+   "path": "local/prahova/campina/2019/102",
+   "short": "HCL Câmpina nr. 102/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 102/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "02910128b229c59a1641faa09f2e9ca46ed344769c78fcf32fcc4bcb72eddd77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-121-2019",
+   "path": "local/prahova/campina/2019/121",
+   "short": "HCL Câmpina nr. 121/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 121/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a16e08195e7a83d62bf20b1749cfaace7b43b6f4826aec4f78be3a2630f68c67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-125-2019",
+   "path": "local/prahova/campina/2019/125",
+   "short": "HCL Câmpina nr. 125/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 125/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7d74f4b469e66ea42938d903b15de428c196a24f84b8df2044c5010c4db33ac6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-172-2019",
    "path": "local/prahova/campina/2019/172",
    "short": "HCL Câmpina nr. 172/2019",
@@ -29,6 +74,36 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2019/04/Hotararea-nr.-25-actualizare-inform-cadastrale-teren-15524-mp.pdf",
      "sha256": "9c4a6f20f3b4315fd40977988cdb7e46c558457a3d4ccb780cbeda3e88fd17cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-39-2019",
+   "path": "local/prahova/campina/2019/39",
+   "short": "HCL Câmpina nr. 39/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 39/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-23",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2019/05/Hotararea-nr39-mod-si-complet-HCL-13-din-ian-2019-ROF-SPAEPCA.pdf",
+     "sha256": "3cdff5c506dd25fcdd1ec011b22e45f8231360698646e58103c7b3d120872be5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-41-2019",
+   "path": "local/prahova/campina/2019/41",
+   "short": "HCL Câmpina nr. 41/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 41/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-23",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2019/05/Hotararea-nr41-indexare-impozite-si-taxe-2020.pdf",
+     "sha256": "a93b29b640c71b638045547c1547b59622daab5c3b6342c54b1bc1ba8f254c27"
     }
    ]
   }

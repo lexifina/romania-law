@@ -76,6 +76,21 @@
      "sha256": "245587a9e4fa4944e6db36ba4b7f61caf2fd49264445cb6871e41ca81bc55ec9"
     }
    ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-80-2020",
+   "path": "local/suceava/campulung-moldovenesc/2020/80",
+   "short": "HCL Câmpulung Moldovenesc nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 80/2020 privind aprobarea organizării concursului de proiecte de management în vederea ocupării postului de manager al Muzeului “Arta Lemnului” Câmpulung Moldovenesc, a regulamentului de organizare și desfășurare a concursului, a caietului de obiective, a condițiilor de participare la concurs și a bibliografiei Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 27 augu",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/HCL_080_2020.docx",
+     "sha256": "9340b15da28f8aef3cc0d827a09b497a3e0da509b11ae8d591e7e7ae8a7ebee6"
+    }
+   ]
   }
  ]
 }

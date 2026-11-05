@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcj-braila-285-2023",
+"path": "local/judet/braila/2023/285",
+"kind": "local",
+"year": "2023",
+"number": "285",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 285/2023 privind aprobarea Regulamentului pentru finanțarea asocierilor Județului Brăila",
+"short": "HCJ Brăila nr. 285/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2023-III-00036A6A?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-braila-297-2023",
 "path": "local/judet/braila/2023/297",
 "kind": "local",

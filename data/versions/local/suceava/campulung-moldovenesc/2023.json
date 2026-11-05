@@ -91,6 +91,36 @@
      "sha256": "d937384538c985d68f8e165c34308f247b70272ae68a5c31a19170d164036663"
     }
    ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-38-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/38",
+   "short": "HCL Câmpulung Moldovenesc nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 38/2023 privind aprobarea regulamentului de organizare și desfășurare a evaluării anuale a managementului la Muzeul“Arta Lemnului” Câmpulung Moldovenesc, pentru perioada 01.01.2022 – 31.12.2022 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 30 martie 2023; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2023",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_038_2023.docx",
+     "sha256": "c020449f19a0740cd11f9f8956c067f3d6a33bb48f3589fb3327bc2c2a1b6e5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-44-2023",
+   "path": "local/suceava/campulung-moldovenesc/2023/44",
+   "short": "HCL Câmpulung Moldovenesc nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 44/2023 pentru modificarea aliniatului (1) al articolului 2 din Hotărârea Consiliului Local al municipiului Câmpulung Moldovenesc nr. 38 din 30 martie 2023 privind aprobarea regulamentului de organizare și desfășurare a evaluării anuale a managementului la Muzeul“Arta Lemnului” Câmpulung Moldovenesc, pentru perioada 01.01.2022 – 31.12.2022 Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2023",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_044.docx",
+     "sha256": "ccfa7ed2b2c583a3900789d58497cb81a721ccd2e092630c7e216508d8194d8b"
+    }
+   ]
   }
  ]
 }

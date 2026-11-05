@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--deva-340-2022",
+   "path": "local/hunedoara/deva/2022/340",
+   "short": "HCL Deva nr. 340/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 340/2022 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul 2023 în Municipiul Deva",
+   "url": "https://emol.ro/deva-hd/registru-hcl/71594",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/16125/anexa%20impozit.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--deva-55-2022",
    "path": "local/hunedoara/deva/2022/55",
    "short": "HCL Deva nr. 55/2022",

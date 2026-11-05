@@ -3,6 +3,72 @@
 "shard": "local/judet/prahova/2023",
 "acts": [
 {
+"slug": "hcj-prahova-8-2023",
+"path": "local/judet/prahova/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 8/2023 privind stabilirea prețurilor medii ale produselor agricole și a prețului mediu al ierbii obținută de pe pajiști, pentru anul fiscal 2023",
+"short": "HCJ Prahova nr. 8/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/?dpage=13",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-prahova-170-2023",
+"path": "local/judet/prahova/2023/170",
+"kind": "local",
+"year": "2023",
+"number": "170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 170/2023 privind aprobarea Regulamentului privind circulația pe drumurile publice judetene a vehiculelor rutiere cu greutăți și/sau dimensiuni de gabarit care depășesc limitele maxime prevăzute de Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor, republicată",
+"short": "HCJ Prahova nr. 170/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-07-31",
+"latest": "2023-07-31",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/?dpage=8",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-prahova-171-2023",
+"path": "local/judet/prahova/2023/171",
+"kind": "local",
+"year": "2023",
+"number": "171",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 171/2023 pentru modificarea prevederilor Hotărârii Consiliului Județean Prahova nr. 8/2023 privind stabilirea prețurilor medii ale produselor agricole și a prețului mediu al ierbii obținută de pe pajiști, pentru anul fiscal 2023",
+"short": "HCJ Prahova nr. 171/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-07-31",
+"latest": "2023-07-31",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2023/?dpage=8",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-prahova-361-2023",
 "path": "local/judet/prahova/2023/361",
 "kind": "local",

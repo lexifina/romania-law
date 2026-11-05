@@ -3,6 +3,28 @@
 "shard": "local/judet/olt/2019",
 "acts": [
 {
+"slug": "hcj-olt-51-2019",
+"path": "local/judet/olt/2019/51",
+"kind": "local",
+"year": "2019",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 51/2019 pentru modificarea anexei la Hotărârea Consiliului Județean Olt nr. 211/20.12.2018 cu privire la: – aprobarea taxelor şcolare pentru activităţile prestate de Şcoala Populară de Arte şi Meserii în anul şcolar 2018-2019; – aprobarea unor taxe şi tarife pentru activităţile prestate de unele instituţii de cultură de interes județean, pentru anul 2019 Vizualizare",
+"short": "HCJ Olt nr. 51/2019",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2019-04-24",
+"latest": "2019-04-24",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-olt-71-2019",
 "path": "local/judet/olt/2019/71",
 "kind": "local",
@@ -47,6 +69,28 @@
 }
 },
 {
+"slug": "hcj-olt-166-2019",
+"path": "local/judet/olt/2019/166",
+"kind": "local",
+"year": "2019",
+"number": "166",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 166/2019 pentru modificarea Regulamentului de acordare a premiilor elevilor olimpici și cadrelor didactice, care au obținut rezultate excepționale la olimpiadele școlare de specialitate, aprobat prin Hotărârea Consiliului Județean Olt nr.182/25.10.2018 Vizualizare",
+"short": "HCJ Olt nr. 166/2019",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2019-10-24",
+"latest": "2019-10-24",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-olt-202-2019",
 "path": "local/judet/olt/2019/202",
 "kind": "local",
@@ -66,6 +110,28 @@
 "council_name": "Consiliul Județean Olt",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-olt-208-2019",
+"path": "local/judet/olt/2019/208",
+"kind": "local",
+"year": "2019",
+"number": "208",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Olt nr. 208/2019 pentru modificarea Regulamentului de acordare a premiilor elevilor olimpici și cadrelor didactice, care au obținut rezultate excepționale la olimpiadele școlare de specialitate, aprobat prin Hotărârea Consiliului Județean Olt nr. 182/25.10.2018 Vizualizare",
+"short": "HCJ Olt nr. 208/2019",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2019-12-19",
+"latest": "2019-12-19",
+"portal": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+"council": "judet/olt",
+"council_name": "Consiliul Județean Olt",
+"flags": {
+"text_pending": "review"
 }
 },
 {

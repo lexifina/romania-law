@@ -16,6 +16,66 @@
      "sha256": "ea73ace2de8db64f3feffa359cf5c33614774b7b19221c87efcc5d7f99e0797b"
     }
    ]
+  },
+  {
+   "slug": "hcj-prahova-177-2018",
+   "path": "local/judet/prahova/2018/177",
+   "short": "HCJ Prahova nr. 177/2018",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 177/2018 privind modificarea și completarea Regulamentului de acordare a stimulentelor financiare elevilor și cadrelor didactice din instituțiile de învățământ preuniversitar din județul Prahova",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2018/?dpage=3",
+   "versions": [
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-177-din-data-28-11-2018.pdf",
+     "sha256": "89f801e91dc8da7c3f8fc8ae299b6b8f6028a95e86fdebf55a0f3a699ee0b69a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-189-2018",
+   "path": "local/judet/prahova/2018/189",
+   "short": "HCJ Prahova nr. 189/2018",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 189/2018 privind stabilirea unor taxe și taxe speciale pentru anul fiscal 2019",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2018/?dpage=2",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-189-din-data-18-12-2018.pdf",
+     "sha256": "630503998694509cd2438737eeb475dea235c1ef314635d0c9dbade5920a1802"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-190-2018",
+   "path": "local/judet/prahova/2018/190",
+   "short": "HCJ Prahova nr. 190/2018",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 190/2018 privind stabilirea prețurilor medii ale produselor agricole și a prețului mediu al ierbii obținută de pe pajiști, pentru anul fiscal 2019",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2018/?dpage=2",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-190-din-data-18-12-2018.pdf",
+     "sha256": "fdef9c62cf8f7e77a7adebe958d43b03526280bf4a317e0762579551bb1f7c67"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-91-2018",
+   "path": "local/judet/prahova/2018/91",
+   "short": "HCJ Prahova nr. 91/2018",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 91/2018 pentru modificarea Hotărârii nr. 81/2013 a Consiliului județean Prahova privind înființarea pe lângă Direcția Generală de Asistență Socială și Protecția Copilului Prahova a Comitetului de analiză a problemelor persoanelor cu handicap și aprobarea Regulamentului d",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2018/?dpage=11",
+   "versions": [
+    {
+     "from": "2018-07-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-091-din-data-30-07-2018.pdf",
+     "sha256": "4173a1884fd37a94ab37c4d82d4b60fe16629337ba7ea287d33ab2163d55ee16"
+    }
+   ]
   }
  ]
 }

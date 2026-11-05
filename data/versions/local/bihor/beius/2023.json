@@ -318,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-bihor--beius-139-2023",
+   "path": "local/bihor/beius/2023/139",
+   "short": "HCL Beiuș nr. 139/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 139/2023 privind actualizarea Regulamentului de ordine interioara al aparatului de specialitate al Primarului municipiului Beius si al institutiilor subordonate, pentru personalul contractual",
+   "url": "https://emol.ro/beius-bh/registru-hcl/107208",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/29816/Anex%C4%83%20HCL%20139%20din%2030%20Mai%202023.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-bihor--beius-141-2023",
    "path": "local/bihor/beius/2023/141",
    "short": "HCL Beiuș nr. 141/2023",
@@ -419,6 +434,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/30733/Anex%C4%83%20HCL%20150%20din%2016%20Iunie%202023.pdf",
      "sha256": "ac13b864542592b802122ca42fdc8485e6e0ebfb6abd24b69d2f217fa51bf7ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-151-2023",
+   "path": "local/bihor/beius/2023/151",
+   "short": "HCL Beiuș nr. 151/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 151/2023 privind aprobarea documentaţiei referitoare la modalitatea de gestiune a serviciiului comunitar de utilităţi publice în Municipiul Beiuş (Studiu de oportunitate, Caiet de sarcini şi Contract de delegare), servicii constând în activităţile măturat, spălat şi stropitul căilor publice de pe raza municipiului Beiuş, inclusiv colectarea şi transportul deşeurilor de pământ şi pietre provenite de pe căile publice la depozitele de deşeuri, precum şi a deşeurilor provenite din coşurile stradale la depozitele de deşeuri şi/sau la instalaţiile de tratare",
+   "url": "https://emol.ro/beius-bh/registru-hcl/109676",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/30736/Anex%C4%83%20HCL%20151%20din%2016%20Iunie%202023.pdf",
+     "sha256": null
     }
    ]
   },
@@ -1754,6 +1784,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/27437/Anex%C4%83%20HCL%20nr.%2093%20din%2010.04.2023.pdf",
      "sha256": "c1d9475631526faa905047dedd085f38895e20163d8608bd3fc2b1278639142b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-bihor--beius-94-2023",
+   "path": "local/bihor/beius/2023/94",
+   "short": "HCL Beiuș nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 94/2023 privind aprobarea Planului de Analiză si Acoperire a Riscurilor al municipiului Beius pentru anul 2023",
+   "url": "https://emol.ro/beius-bh/registru-hcl/101231",
+   "versions": [
+    {
+     "from": "2023-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/27438/Anex%C4%83%20HCL%20nr.%2094%20din%2010.04.2023.pdf",
+     "sha256": null
     }
    ]
   },

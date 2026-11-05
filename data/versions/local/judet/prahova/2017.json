@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcj-prahova-151-2017",
+   "path": "local/judet/prahova/2017/151",
+   "short": "HCJ Prahova nr. 151/2017",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 151/2017 privind modificarea Hotărârii nr. 124/25.07.2017 a Consiliului Județean Prahova, pentru aprobarea Regulamentului de stabilire a unor forme de sprijin financiar de la bugetul Județului Prahova pentru unitățile de cult din Județul Prahova, aparținând cultelor religioase recunoscute din România, constituirea comisiei de selecție a solicitărilor de sprijin financiar, precum și a comisiei de soluționarea contestațiilor",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/?dpage=3",
+   "versions": [
+    {
+     "from": "2017-08-22",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.151-din-data-22-08-2017.pdf",
+     "sha256": "3c31a8d0a266d511fccc687796f37db79e126506815994e32a78073ea165e1ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-163-2017",
+   "path": "local/judet/prahova/2017/163",
+   "short": "HCJ Prahova nr. 163/2017",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 163/2017 privind aprobarea tarifului de sortare a deşeurilor reciclabile în Depozitul Ecologic din Vălenii de Munte",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/?dpage=3",
+   "versions": [
+    {
+     "from": "2017-09-29",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.163-din-data-29-09-2017.pdf",
+     "sha256": "707dbb5796cf283fc4244bed737a9241b4e942993d8410dfd67b3fb39df5a0f9"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-190-2017",
    "path": "local/judet/prahova/2017/190",
    "short": "HCJ Prahova nr. 190/2017",
@@ -33,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcj-prahova-206-2017",
+   "path": "local/judet/prahova/2017/206",
+   "short": "HCJ Prahova nr. 206/2017",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 206/2017 privind modificarea Hotărârii Consiliului Județean Prahova nr.71/2015 referitoare la actualizarea caietului de sarcini al serviciului de transport public județean de persoane prin curse regulate",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-11-24",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.206-din-data-24-11-2017.pdf",
+     "sha256": "b7f8b94241990a1e12860cdce945c6d01d7b464f25c8e8baf8ac4af0c29216c3"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-212-2017",
    "path": "local/judet/prahova/2017/212",
    "short": "HCJ Prahova nr. 212/2017",
@@ -44,6 +89,66 @@
      "units": 1,
      "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.212-din-data-18-12-2017.pdf",
      "sha256": "34ed86ccf1b396409b7795514f77653a2a44db64ddd805dfcf91ff6c0672e2ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-213-2017",
+   "path": "local/judet/prahova/2017/213",
+   "short": "HCJ Prahova nr. 213/2017",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 213/2017 privind stabilirea taxelor speciale aplicabile în anul fiscal 2018 în vederea eliberării unor documente din domeniul construcţiilor",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-12-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.213-din-data-18-12-2017.pdf",
+     "sha256": "da074179e1f4e028524963a97a1f7a2aa5070d19be36c0b0db42da4b4fcfcc59"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-214-2017",
+   "path": "local/judet/prahova/2017/214",
+   "short": "HCJ Prahova nr. 214/2017",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 214/2017 privind stabilirea prețurilor medii ale produselor agricole și a prețului mediu al ierbii obținută de pe pajiști, pentru anul fiscal 2018",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/",
+   "versions": [
+    {
+     "from": "2017-12-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.214-din-data-18-12-2017.pdf",
+     "sha256": "21b8a1d988ab5894060b5ff7023f730c247393c5cf8476920d27f37a3cfcdee5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-32-2017",
+   "path": "local/judet/prahova/2017/32",
+   "short": "HCJ Prahova nr. 32/2017",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 32/2017 privind stabilirea preturilor medii ale produselor agricole si a pretului mediu al ierbii obtinuta de pe pajisti, pentru anul fiscal 2017",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/?dpage=7",
+   "versions": [
+    {
+     "from": "2017-03-17",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-032-din-data-2017-03-17.pdf",
+     "sha256": "ac3d8c5151fa30a3706d19ce53f76fe46a52dad7f1fec7ac4417c62e949bff7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-42-2017",
+   "path": "local/judet/prahova/2017/42",
+   "short": "HCJ Prahova nr. 42/2017",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 42/2017 privind aprobarea modificarii tarifului aplicat pentru activitatea de sortare a deseurilor municipale in judetul Prahova in cadrul Statiei de Sortare Boldesti Scaeni",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/?dpage=7",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-042-din-data-2017-03-30.pdf",
+     "sha256": "9aecf0ee43e0730eb1cb94ee5d8d086fbcb39ebef0dc1a5e79ab894912e113b5"
     }
    ]
   },

@@ -91,6 +91,50 @@
 }
 },
 {
+"slug": "hcl-suceava--campulung-moldovenesc-37-2013",
+"path": "local/suceava/campulung-moldovenesc/2013/37",
+"kind": "local",
+"year": "2013",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 37/2013 pentru modificarea anexei nr.1 la Hotarârea Consiliului Local al municipiului Câmpulung Moldovenesc nr.31/2011 cu privire la aprobarea procedurii de valorificare si a procedurii de stabilire a preturilor de pornire la licitatie pentru vânzarea materialului lemnos din fondul forestier apartinând municipiului Câmpulung Moldovenesc catre operatorii economici atestati Consiliul Local al Municipiului C",
+"short": "HCL Câmpulung Moldovenesc nr. 37/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-04-25",
+"latest": "2013-04-25",
+"portal": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2013",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-suceava--campulung-moldovenesc-38-2013",
+"path": "local/suceava/campulung-moldovenesc/2013/38",
+"kind": "local",
+"year": "2013",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 38/2013 pentru modificarea anexei nr.1 la Hotarârea Consiliului Local al municipiului Câmpulung Moldovenesc nr.78/2011 cu privire la aprobarea procedurii de valorificare si a procedurii de stabilire a preturilor de vânzare a materialului lemnos catre populatia municipiului Câmpulung Moldovenesc Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în sedinta ordinara din data de 25 aprilie 2013",
+"short": "HCL Câmpulung Moldovenesc nr. 38/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-04-25",
+"latest": "2013-04-25",
+"portal": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2013",
+"council": "suceava/campulung-moldovenesc",
+"council_name": "Consiliul Local al Municipiului Câmpulung Moldovenesc",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-suceava--campulung-moldovenesc-40-2013",
 "path": "local/suceava/campulung-moldovenesc/2013/40",
 "kind": "local",

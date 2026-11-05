@@ -16,6 +16,21 @@
      "sha256": "621591f2cc24a65e2323762ca69da301b59ba21ef5e4a85f1e7b510db4009818"
     }
    ]
+  },
+  {
+   "slug": "hcl-hunedoara--brad-73-2026",
+   "path": "local/hunedoara/brad/2026/73",
+   "short": "HCL Brad nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Brad nr. 73/2026 privind aprobarea Regulamentului pentru buna gospodărire a municipiului Brad",
+   "url": "https://emol.ro/brad-hd/registru-hcl/269991",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/99391/Anexa%20-%20REGULAMENT%20gospod%C4%83rire%20municipal%C4%83%20Brad.doc",
+     "sha256": "43a06cff8bb37c2c07d6a92688718039e28d3cc318883f4d3b1690f0015273f3"
+    }
+   ]
   }
  ]
 }

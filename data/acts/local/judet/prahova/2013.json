@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/judet/prahova/2013",
+"acts": [
+{
+"slug": "hcj-prahova-24-2013",
+"path": "local/judet/prahova/2013/24",
+"kind": "local",
+"year": "2013",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 24/2013 privind modificarea criteriilor, procedurilor şi atribuţiilor specifice în baza cărora preşedintele Consiliului judeţean numeşte şi eliberează din funcţie administratorul public",
+"short": "HCJ Prahova nr. 24/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-02-25",
+"latest": "2013-02-25",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2013/?dpage=8",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-prahova-30-2013",
+"path": "local/judet/prahova/2013/30",
+"kind": "local",
+"year": "2013",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 30/2013 privind stabilirea preţurilor medii ale produselor agricole pentru anul fiscal 2013",
+"short": "HCJ Prahova nr. 30/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-02-25",
+"latest": "2013-02-25",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2013/?dpage=8",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-prahova-58-2013",
+"path": "local/judet/prahova/2013/58",
+"kind": "local",
+"year": "2013",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 58/2013 privind aprobarea tarifelor pentru realizarea unor activități în spații din imobile proprietate publică a județului Prahova",
+"short": "HCJ Prahova nr. 58/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-04-26",
+"latest": "2013-04-26",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2013/?dpage=7",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-prahova-139-2013",
+"path": "local/judet/prahova/2013/139",
+"kind": "local",
+"year": "2013",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 139/2013 privind modificarea anexei la Hotărârea nr. 30/2013 a Consiliului judeţean Prahova referitoare la stabilirea preţurilor medii ale produselor agricole pentru anul fiscal 2013",
+"short": "HCJ Prahova nr. 139/2013",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2013-08-20",
+"latest": "2013-08-20",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2013/?dpage=5",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

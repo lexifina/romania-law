@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--drobeta-turnu-severin-287-2025",
+"path": "local/mehedinti/drobeta-turnu-severin/2025/287",
+"kind": "local",
+"year": "2025",
+"number": "287",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 287/2025 privind constituirea fondului de risc și aprobarea comisionului de risc pentru acoperirea riscurilor financiare ce decurg din garantarea de către municipiul Drobeta Turnu Severin a împrumutului în valoare de 1.500.000 lei contractat de PIEȚE ȘI TÂRGURI DROBETA S.R.L",
+"short": "HCL Drobeta-Turnu Severin nr. 287/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-19",
+"latest": "2025-12-19",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/241055",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-mehedinti--drobeta-turnu-severin-288-2025",
 "path": "local/mehedinti/drobeta-turnu-severin/2025/288",
 "kind": "local",

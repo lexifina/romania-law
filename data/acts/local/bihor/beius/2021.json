@@ -70,6 +70,28 @@
 }
 },
 {
+"slug": "hcl-bihor--beius-220-2021",
+"path": "local/bihor/beius/2021/220",
+"kind": "local",
+"year": "2021",
+"number": "220",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 220/2021 privind aprobarea iniţierii procedurii prevăzute de lege în vederea ocupării pe durată determinată de 4 ani a postului de conducere vacant, corespunzător funcţiei contractuale de conducere de Director grad I al Clubului Sportiv Bihorul Beiuş",
+"short": "HCL Beiuș nr. 220/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-27",
+"latest": "2021-10-27",
+"portal": "https://emol.ro/beius-bh/registru-hcl/39460",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-bihor--beius-249-2021",
 "path": "local/bihor/beius/2021/249",
 "kind": "local",

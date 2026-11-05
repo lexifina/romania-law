@@ -3,6 +3,21 @@
  "shard": "local/judet/salaj/2021",
  "acts": [
   {
+   "slug": "hcj-salaj-118-2021",
+   "path": "local/judet/salaj/2021/118",
+   "short": "HCJ Sălaj nr. 118/2021",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 118/2021 pentru modificarea Hotărârii Consiliului Judeţean Sălaj nr.104 din 17 decembrie 2020 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2021",
+   "url": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=93:hotarari-2021&catid=2",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2021/hot1182021.pdf",
+     "sha256": "ffee7e67ccebf154c7d114953caa52e57903a34e7146b94070d1b566bcd6d610"
+    }
+   ]
+  },
+  {
    "slug": "hcj-salaj-127-2021",
    "path": "local/judet/salaj/2021/127",
    "short": "HCJ Sălaj nr. 127/2021",
@@ -134,6 +149,21 @@
      "units": 5,
      "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2021/hot382021.pdf",
      "sha256": "75f5bcdd512bbc089774a73c5954174c90b4ec97f0be0f926d5671677ebce0a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-salaj-4-2021",
+   "path": "local/judet/salaj/2021/4",
+   "short": "HCJ Sălaj nr. 4/2021",
+   "title": "Hotărârea Consiliului Județean Sălaj nr. 4/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://cjsj.ro/date/hotcjsj/hotarari2021/hot42021.pdf",
+     "sha256": "39737c762ed117a19c006ae83b06b1ff719cfef186258c68279ce1145a998c6a"
     }
    ]
   },

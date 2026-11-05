@@ -47,6 +47,116 @@
 }
 },
 {
+"slug": "hcj-botosani-82-2020",
+"path": "local/judet/botosani/2020/82",
+"kind": "local",
+"year": "2020",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 82/2020 privind aprobarea taxelor şcolare pentru elevii Şcolii Populare de Arte „George Enescu” Botoşani, pe anul şcolar 2020 - 2021",
+"short": "HCJ Botoșani nr. 82/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-botosani-142-2020",
+"path": "local/judet/botosani/2020/142",
+"kind": "local",
+"year": "2020",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 142/2020 privind aprobarea tarifelor practicate de Muzeul Județean Botoşani, pentru serviciile prestate, în anul 2021",
+"short": "HCJ Botoșani nr. 142/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-botosani-143-2020",
+"path": "local/judet/botosani/2020/143",
+"kind": "local",
+"year": "2020",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 143/2020 privind aprobarea tarifelor pentru serviciile prestate de Memorialul Ipotești – Centrul Național de Studii „Mihai Eminescu”, pentru anul 2021",
+"short": "HCJ Botoșani nr. 143/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-botosani-144-2020",
+"path": "local/judet/botosani/2020/144",
+"kind": "local",
+"year": "2020",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 144/2020 privind stabilirea tarifelor pentru serviciile prestate de Centrul Judeţean pentru Conservarea şi Promovarea Culturii Tradiţionale Botoşani, pentru anul 2021",
+"short": "HCJ Botoșani nr. 144/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-botosani-145-2020",
+"path": "local/judet/botosani/2020/145",
+"kind": "local",
+"year": "2020",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Botoșani nr. 145/2020 privind aprobarea tarifelor practicate de Orchestra Populară „Rapsozii Botoșanilor” pentru serviciile prestate în anul 2021",
+"short": "HCJ Botoșani nr. 145/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://www.cjbotosani.ro/monitorul-oficial/hotararile-autoritatii-deliberative/",
+"council": "judet/botosani",
+"council_name": "Consiliul Județean Botoșani",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-botosani-146-2020",
 "path": "local/judet/botosani/2020/146",
 "kind": "local",

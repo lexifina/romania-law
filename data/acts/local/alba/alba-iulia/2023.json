@@ -3,6 +3,138 @@
 "shard": "local/alba/alba-iulia/2023",
 "acts": [
 {
+"slug": "hcl-alba--alba-iulia-406-2023",
+"path": "local/alba/alba-iulia/2023/406",
+"kind": "local",
+"year": "2023",
+"number": "406",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 406/2023 privind aprobarea Metodologiei privind înregistrarea, analiza, repartizarea și administrarea locuinţelor sociale construite prin Strategia de Dezvoltare Locală a zonei urbane marginalizate din municipiul Alba Iulia",
+"short": "HCL Alba Iulia nr. 406/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://emol.ro/albaiulia-ab/registru-hcl/125498",
+"council": "alba/alba-iulia",
+"council_name": "Consiliul Local al Municipiului Alba Iulia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--alba-iulia-438-2023",
+"path": "local/alba/alba-iulia/2023/438",
+"kind": "local",
+"year": "2023",
+"number": "438",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 438/2023 privind aprobarea transmiterii în folosință gratuită către Asociația Pensionarilor „Speranța de Alba” a unui imobil (construcție) în suprafață utilă de 15 mp, situat în Municipiul Alba Iulia, str. Cloșca, bl. CF11, ap. „Spațiu comercial”, județul Alba",
+"short": "HCL Alba Iulia nr. 438/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-13",
+"latest": "2023-11-13",
+"portal": "https://emol.ro/albaiulia-ab/registru-hcl/126784",
+"council": "alba/alba-iulia",
+"council_name": "Consiliul Local al Municipiului Alba Iulia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--alba-iulia-446-2023",
+"path": "local/alba/alba-iulia/2023/446",
+"kind": "local",
+"year": "2023",
+"number": "446",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 446/2023 privind aprobarea transmiterii în administrarea Inspectoratului de Poliție Județean Alba a unor bunuri (construcție și teren), aflate în domeniul public al municipiului Alba Iulia",
+"short": "HCL Alba Iulia nr. 446/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-17",
+"latest": "2023-11-17",
+"portal": "https://emol.ro/albaiulia-ab/registru-hcl/128325",
+"council": "alba/alba-iulia",
+"council_name": "Consiliul Local al Municipiului Alba Iulia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--alba-iulia-455-2023",
+"path": "local/alba/alba-iulia/2023/455",
+"kind": "local",
+"year": "2023",
+"number": "455",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 455/2023 privind actualizarea programului de transport public local de persoane pentru zona tarifară „zona 1 municipiul Alba Iulia”",
+"short": "HCL Alba Iulia nr. 455/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/albaiulia-ab/registru-hcl/130946",
+"council": "alba/alba-iulia",
+"council_name": "Consiliul Local al Municipiului Alba Iulia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--alba-iulia-456-2023",
+"path": "local/alba/alba-iulia/2023/456",
+"kind": "local",
+"year": "2023",
+"number": "456",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 456/2023 privind aprobarea listei de priorităţi, în vederea repartizării locuinţelor sociale construite prin Strategia de Dezvoltare Locală a zonei urbane marginalizate din Municipiul Alba Iulia",
+"short": "HCL Alba Iulia nr. 456/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/albaiulia-ab/registru-hcl/130947",
+"council": "alba/alba-iulia",
+"council_name": "Consiliul Local al Municipiului Alba Iulia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-alba--alba-iulia-478-2023",
+"path": "local/alba/alba-iulia/2023/478",
+"kind": "local",
+"year": "2023",
+"number": "478",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 478/2023 privind înscrierea dreptului de proprietate a Municipiului Alba Iulia – domeniul public asupra unor imobile (drum), strada Oașa, Pepinierei, Valea Argintului, Cerbului, Stufului, situate în Alba Iulia",
+"short": "HCL Alba Iulia nr. 478/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/albaiulia-ab/registru-hcl/130969",
+"council": "alba/alba-iulia",
+"council_name": "Consiliul Local al Municipiului Alba Iulia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-alba--alba-iulia-513-2023",
 "path": "local/alba/alba-iulia/2023/513",
 "kind": "local",

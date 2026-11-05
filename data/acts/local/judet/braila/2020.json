@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcj-braila-50-2020",
+"path": "local/judet/braila/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 50/2020 pentru administrație publică locală, juridică, relații publice și relații internaționale; In conformitate cu prevederile art.173 alin.(1) lit. c, art.357 alin.(1), alin.(3) si alin.(4) din Ordonanta de Urgenta a Guvernului nr.57/2019, privind Codul administrativ, Ordinului Ministerului Finantelor Publice nr.2861/2009 pentru aprobarea Normelor privind organizarea si efectuarea inventarierii element",
+"short": "HCJ Brăila nr. 50/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-27",
+"latest": "2020-02-27",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2020-I-000199FA?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-braila-74-2020",
 "path": "local/judet/braila/2020/74",
 "kind": "local",
@@ -135,6 +157,28 @@
 }
 },
 {
+"slug": "hcj-braila-81-2020",
+"path": "local/judet/braila/2020/81",
+"kind": "local",
+"year": "2020",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 81/2020 privind stabilirea taxelor si tarifelor reprezentand venituri proprii ale Consiliului Judetean Braila si ale institutiilor publice subordonate acestuia, pentru anul fiscal 2020",
+"short": "HCJ Brăila nr. 81/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2020-I-000199FA?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-braila-115-2020",
 "path": "local/judet/braila/2020/115",
 "kind": "local",
@@ -176,6 +220,28 @@
 "council_name": "Consiliul Județean Brăila",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-braila-118-2020",
+"path": "local/judet/braila/2020/118",
+"kind": "local",
+"year": "2020",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 118/2020 privind aprobarea Regulamentului pentru finanțarea asocierilor Județului Brăila",
+"short": "HCJ Brăila nr. 118/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2020-I-000199FA?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"text_pending": "review"
 }
 },
 {
@@ -418,6 +484,50 @@
 "council_name": "Consiliul Județean Brăila",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-braila-290-2020",
+"path": "local/judet/braila/2020/290",
+"kind": "local",
+"year": "2020",
+"number": "290",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 290/2020 privind aprobarea Regulamentului privind condițiile, criteriile și procedura de finanțare a programelor sportive, în baza prevederilor Legii educației fizice și sportului nr. 69/2000, cu modificarile și completările ulterioare, pentru anul 2020",
+"short": "HCJ Brăila nr. 290/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2020-III-0001AA16?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-braila-291-2020",
+"path": "local/judet/braila/2020/291",
+"kind": "local",
+"year": "2020",
+"number": "291",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 291/2020 privind aprobarea Regulamentului pentru finanțarea asocierilor Județului Brăila",
+"short": "HCJ Brăila nr. 291/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2020-III-0001AA16?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"text_pending": "review"
 }
 },
 {

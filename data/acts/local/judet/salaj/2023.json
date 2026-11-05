@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcj-salaj-118-2023",
+"path": "local/judet/salaj/2023/118",
+"kind": "local",
+"year": "2023",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 118/2023 pentru completarea Hotărârii Consiliului Judeţean Sălaj nr. 170 din 29 decembrie 2022 privind stabilirea taxelor şi tarifelor de competenţa Consiliului Judeţean Sălaj, pentru anul 2023",
+"short": "HCJ Sălaj nr. 118/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean?view=article&id=91:hotarari-2023&catid=2",
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-salaj-137-2023",
 "path": "local/judet/salaj/2023/137",
 "kind": "local",
@@ -88,6 +110,29 @@
 "council_name": "Consiliul Județean Sălaj",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-salaj-150-2023",
+"path": "local/judet/salaj/2023/150",
+"kind": "local",
+"year": "2023",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Sălaj nr. 150/2023",
+"short": "HCJ Sălaj nr. 150/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-24",
+"latest": "2023-10-24",
+"portal": null,
+"council": "judet/salaj",
+"council_name": "Consiliul Județean Sălaj",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -3,6 +3,171 @@
  "shard": "local/arges/campulung/2022",
  "acts": [
   {
+   "slug": "hcl-arges--campulung-1-2022",
+   "path": "local/arges/campulung/2022/1",
+   "short": "HCL Câmpulung nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 1/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-01-09",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%201%20din%2009.01.2022.pdf",
+     "sha256": "0b660e027976c982969d4efb3b7121687739f895d698e60aab340aad708f72b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-10-2022",
+   "path": "local/arges/campulung/2022/10",
+   "short": "HCL Câmpulung nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 10/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-01-09",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2010%20din%2009.01.2022.pdf",
+     "sha256": "f7b09f281d0dd1a41d9314837e660feda868f89d2bd82032585b45517e41d13c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-100-2022",
+   "path": "local/arges/campulung/2022/100",
+   "short": "HCL Câmpulung nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 100/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20100%20din%2015.04.2022.pdf",
+     "sha256": "a4305e60494c99ac341cceda4df0fbf1770358e87d893d72284a1e7261514789"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-101-2022",
+   "path": "local/arges/campulung/2022/101",
+   "short": "HCL Câmpulung nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 101/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20101%20din%2015.04.2022.pdf",
+     "sha256": "b8a586169a8e3459a8dcf138fd54dc020f7cbe0c6c5a5f4b085f9cb4e064f2d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-102-2022",
+   "path": "local/arges/campulung/2022/102",
+   "short": "HCL Câmpulung nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 102/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20102%20din%2015.04.2022.pdf",
+     "sha256": "c98c83f793eb845858c24a94a810555b033743804212e7dc8e2837d876795468"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-103-2022",
+   "path": "local/arges/campulung/2022/103",
+   "short": "HCL Câmpulung nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 103/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20103%20din%2015.04.2022.pdf",
+     "sha256": "8a1ebcfdb0541c1d73afeb60b00bc5feecbcd2a07a97a69d193936c0ee509ba2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-104-2022",
+   "path": "local/arges/campulung/2022/104",
+   "short": "HCL Câmpulung nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 104/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20104%20din%2015.04.2022.pdf",
+     "sha256": "3c67c8c95eaf305119b540b14437a3b96d898418e6a6bdb1910c60a09884386b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-105-2022",
+   "path": "local/arges/campulung/2022/105",
+   "short": "HCL Câmpulung nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 105/2022 cu privire la aprobarea Contului de Execuţie al Municipiului Câmpulung la data de 31 12 2021 Hotărâre cu privire la aprobarea Contului de Execuţie al Municipiului Câmpulung la data de 31 12 2021",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20105%20din%2028.04.2022.pdf",
+     "sha256": "bd9de4a3585f86e5fb5f5fcbc3294adc9f222032b30869c84539747907b717e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-106-2022",
+   "path": "local/arges/campulung/2022/106",
+   "short": "HCL Câmpulung nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 106/2022 cu privire la aprobarea Contului de Execuţie al Municipiului Câmpulung la data de 31 03 2022 Hotărâre cu privire la aprobarea Contului de Execuţie al Municipiului Câmpulung la data de 31 03 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20106%20din%2028.04.2022.pdf",
+     "sha256": "3727f4adfc30e6fc2c039992c08052d914818ef86f01cfa7dcf89b26c98d3da4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-107-2022",
+   "path": "local/arges/campulung/2022/107",
+   "short": "HCL Câmpulung nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 107/2022 cu privire la înlocuirea unui reprezentant al Consiliului Local în Consiliul de Administrație al Colegiului Tehnic Hotărâre cu privire la înlocuirea unui reprezentant al Consiliului Local în Consiliul de Administrație al Colegiului Tehnic",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20107%20din%2028.04.2022.pdf",
+     "sha256": "dcf2e8fba5a2b7efb056b765059103518a856f50a37c6645f1ec1c937e88c9b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-108-2022",
+   "path": "local/arges/campulung/2022/108",
+   "short": "HCL Câmpulung nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 108/2022 cu privire la aprobarea modificării statului de funcții al Spitalului Municipal Câmpulung Hotărâre cu privire la aprobarea modificării statului de funcții al Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20108%20din%2028.04.2022.pdf",
+     "sha256": "a77a0dae2de0cf71535c780c38976a6d29207f342edaa09eab7f6fc042320fd4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-109-2022",
    "path": "local/arges/campulung/2022/109",
    "short": "HCL Câmpulung nr. 109/2022",
@@ -14,6 +179,111 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20109%20din%2028.04.2022.pdf",
      "sha256": "436a299b08fa7a38ba1b30648d16db54ea9b6ed0a248e858e7dff19224a7d169"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-11-2022",
+   "path": "local/arges/campulung/2022/11",
+   "short": "HCL Câmpulung nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 11/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-01-09",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2011%20din%2009.01.2022.pdf",
+     "sha256": "082ecef0784268d671a9075bed81c1bba59b66356e9fbf07283b130684e3e6d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-110-2022",
+   "path": "local/arges/campulung/2022/110",
+   "short": "HCL Câmpulung nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 110/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20110%20din%2028.04.2022.pdf",
+     "sha256": "0f6f1d765fb8d7f417c2c6ca7a82dd62455ef588c5ecf6e206393cba748d0af5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-111-2022",
+   "path": "local/arges/campulung/2022/111",
+   "short": "HCL Câmpulung nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 111/2022 cu privire la aprobarea Ghidului solicitantului privind regimul finanțărilor alocate de la bugetul local al Municipiului Câmpulung pentru activități nonprofit de interes local în anul 2022 Hotărâre cu privire la aprobarea Ghidului solicitantului privind regimul finanțărilor alocate de la bugetul local al Municipiului Câmpulung pentru activități nonprofit de interes local în anul 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20111%20din%2028.04.2022.pdf",
+     "sha256": "7ae05ad0b58e9f32abc25579a4752dced7862b8e202fdbe06282497ed455fc52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-112-2022",
+   "path": "local/arges/campulung/2022/112",
+   "short": "HCL Câmpulung nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 112/2022 cu privire la aprobarea Programului de lucrări pe anul 2022 al Serviciului Public de Administrarea Domeniului Public și Privat al Municipiului Câmpulung Hotărâre cu privire la aprobarea Programului de lucrări pe anul 2022 al Serviciului Public de Administrarea Domeniului Public și Privat al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20112%20din%2028.04.2022.pdf",
+     "sha256": "d2d67f7aa7e833abded08f9fccf248148bce32770ed6e6d012753ee5e734ed9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-114-2022",
+   "path": "local/arges/campulung/2022/114",
+   "short": "HCL Câmpulung nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 114/2022 cu privire la neexercitarea dreptului de preempţiune al Consiliului Local Câmpulung pentru imobilul din Municipiul Câmpulung, str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20114%20din%2028.04.2022.pdf",
+     "sha256": "d1cafefa5d416a8f25df6769660f7ee68fbdb73be7f00d9520019cb360331752"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-115-2022",
+   "path": "local/arges/campulung/2022/115",
+   "short": "HCL Câmpulung nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 115/2022 cu privire la aprobarea comisiei de examinare pentru ocuparea funcției de Șef Laborator Radiologie și Imagistica Medicală din cadrul Spitalului Municipal Câmpulung Hotărâre cu privire la aprobarea comisiei de examinare pentru ocuparea funcției de Șef Laborator Radiologie și Imagistica Medicală din cadrul Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20115%20din%2011.05.2022.pdf",
+     "sha256": "55f53d1ac2953c7dd30f28317bd687c7b11e7b38bd4bfe69d31d60f586e10908"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-116-2022",
+   "path": "local/arges/campulung/2022/116",
+   "short": "HCL Câmpulung nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 116/2022 cu privire la aprobarea comisiei de examinare pentru ocuparea funcțiiei de Șef Laborator Analize Medicale din cadrul Spitalului Municipal Câmpulung Hotărâre cu privire la aprobarea comisiei de examinare pentru ocuparea funcțiiei de Șef Laborator Analize Medicale din cadrul Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-11",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20116%20din%2011.05.2022.pdf",
+     "sha256": "a786551328f6c4e7db818247b12b8ec12b8d204ab32735cf94550d1af565f631"
     }
    ]
   },
@@ -48,6 +318,156 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-119-2022",
+   "path": "local/arges/campulung/2022/119",
+   "short": "HCL Câmpulung nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 119/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20119%20din%2020.05.2022.pdf",
+     "sha256": "e920cdc5f50a26478c76c6e663dc90809428229865d6942470996f54286946fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-12-2022",
+   "path": "local/arges/campulung/2022/12",
+   "short": "HCL Câmpulung nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 12/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-01-09",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2012%20din%2009.01.2022.pdf",
+     "sha256": "5cac8661ae9b9e7353059803bdec8fa6fbeda2e056c72e2e9155561e6b93ca70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-120-2022",
+   "path": "local/arges/campulung/2022/120",
+   "short": "HCL Câmpulung nr. 120/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 120/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20120%20din%2020.05.2022.pdf",
+     "sha256": "b47b6af95738dd7a3e40935a78c6c90395b828753097ca2a4146c94380f76821"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-121-2022",
+   "path": "local/arges/campulung/2022/121",
+   "short": "HCL Câmpulung nr. 121/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 121/2022 cu privire la aprobarea deplasării unei delegații din partea Municipiului Câmpulung la sediul Băncii Europene de Investiții din Luxemburg Hotărâre cu privire la aprobarea deplasării unei delegații din partea Municipiului Câmpulung la sediul Băncii Europene de Investiții din Luxemburg",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20121%20din%2024.05.2022.pdf",
+     "sha256": "a5a26fae3596cd334dbe9240f105ea64a9f2ec6de49353c3ee19f092ddc0e43d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-122-2022",
+   "path": "local/arges/campulung/2022/122",
+   "short": "HCL Câmpulung nr. 122/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 122/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20122%20din%2024.05.2022.pdf",
+     "sha256": "08e3b63980712f9bc170e19deac41fe72c8e37007b75e98d55024e3aee364948"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-123-2022",
+   "path": "local/arges/campulung/2022/123",
+   "short": "HCL Câmpulung nr. 123/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 123/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20123%20din%2026.05.2022.pdf",
+     "sha256": "3129090c2674624ed3d517c6775aebe0f1cda95f019feb3b0a7a65deb7b02a45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-124-2022",
+   "path": "local/arges/campulung/2022/124",
+   "short": "HCL Câmpulung nr. 124/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 124/2022 cu privire la aprobarea concesionării terenului în suprafață de 4,2 mp aparținând domeniului public al Municipiului Câmpulung, situat în Câmpulung, str.Șoseaua Națională, nr.173, bl.A4, sc.A, parter, ap.1, județul Argeș, în vederea edificării unui balcon în proiecție, aferent apartamentului Hotărâre cu privire la aprobarea concesionării terenului în suprafață de 4,2 mp aparținând domeniului public",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20124%20din%2026.05.2022.pdf",
+     "sha256": "bb7dba61282dc96db14cce84185444fcd9e2091474a826f0a5a5368fea72fe43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-125-2022",
+   "path": "local/arges/campulung/2022/125",
+   "short": "HCL Câmpulung nr. 125/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 125/2022 cu privire la aprobarea concesionării terenului în suprafață de 2,38 mp apartinând domeniului public al Municipiului Câmpulung, situat în Câmpulung, str. Lt",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20125%20din%2026.05.2022.pdf",
+     "sha256": "10066814a54c0a853c86563c68969fd095e2c1d7dce7bc224a0062adc8f2b7ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-126-2022",
+   "path": "local/arges/campulung/2022/126",
+   "short": "HCL Câmpulung nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 126/2022 cu privire la aprobarea concesionării terenului în suprafață de 3,91 mp apartinând domeniului public al Municipiului Câmpulung, situat în Câmpulung, str. Lt",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20126%20din%2026.05.2022.pdf",
+     "sha256": "ab4460bef148d73a8a902c289f4ca240296599b371be7afdec14fec307892b64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-127-2022",
+   "path": "local/arges/campulung/2022/127",
+   "short": "HCL Câmpulung nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 127/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20127%20din%2026.05.2022.pdf",
+     "sha256": "59f209d031560f2c39d870187af30e2f61e549cdd435e8db061c4c3cb20da091"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-128-2022",
    "path": "local/arges/campulung/2022/128",
    "short": "HCL Câmpulung nr. 128/2022",
@@ -59,6 +479,126 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20128%20din%2026.05.2022.pdf",
      "sha256": "61a50cd5d6e7347cc7be857ff2c3c987de542e277ae0ada058ef3897416c8654"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-129-2022",
+   "path": "local/arges/campulung/2022/129",
+   "short": "HCL Câmpulung nr. 129/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 129/2022 cu privire la rectificarea bugetului local al Municipiului Câmpulung pe anul 2022 Hotărâre cu privire la rectificarea bugetului local al Municipiului Câmpulung pe anul 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20129%20din%2026.05.2022.pdf",
+     "sha256": "9de4f02ba07d32305b10cae36e2c7e7cf0fac04e73fe1016ac681ab82ce727d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-130-2022",
+   "path": "local/arges/campulung/2022/130",
+   "short": "HCL Câmpulung nr. 130/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 130/2022 cu privire la modificarea Listei evenimentelor ce vor avea loc în cursul anului 2022 Hotărâre cu privire la modificarea Listei evenimentelor ce vor avea loc în cursul anului 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20130%20din%2026.05.2022.pdf",
+     "sha256": "1573d57d5a98a9ffa60c6ee59112de5008612544e5159ab5ccce213a5966a330"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-131-2022",
+   "path": "local/arges/campulung/2022/131",
+   "short": "HCL Câmpulung nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 131/2022 cu privire la scoaterea din funcțiune și aprobarea demolării Centralei Termice și a Depozitului de Cărbune Cenușă Vișoi 3C 50G&L situate în Municipiul Câmpulung, str.Alexandru cel Bun Hotărâre cu privire la scoaterea din funcțiune și aprobarea demolării Centralei Termice și a Depozitului de Cărbune Cenușă Vișoi 3C 50G&L situate în Municipiul Câmpulung, str.Alexandru cel Bun",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20131%20din%2026.05.2022.pdf",
+     "sha256": "2071ea8c6e4337ec5de5e074ad3f2c2ec2e9d1c18bac148c33c6f55e105c29c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-132-2022",
+   "path": "local/arges/campulung/2022/132",
+   "short": "HCL Câmpulung nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 132/2022 cu privire la aprobarea Fișei de date și a nivelului redevenței aferentă achiziției “ Delegarea de gestiune a Serviciului de Dezinsecție, Dezinfecție și Deratizare “ Hotărâre cu privire la aprobarea Fișei de date și a nivelului redevenței aferentă achiziției “ Delegarea de gestiune a Serviciului de Dezinsecție, Dezinfecție și Deratizare “",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20132%20din%2026.05.2022.pdf",
+     "sha256": "c1410ed008d39e3b98ed63f5ad232455d81b7b8751d19098ffa017827649b509"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-133-2022",
+   "path": "local/arges/campulung/2022/133",
+   "short": "HCL Câmpulung nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 133/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20133%20din%2026.05.2022.pdf",
+     "sha256": "e82efa0769c35441e5eb926f4c49ed07cdc40ef068d1511ff792d255253048f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-134-2022",
+   "path": "local/arges/campulung/2022/134",
+   "short": "HCL Câmpulung nr. 134/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 134/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20134%20din%2026.05.2022.pdf",
+     "sha256": "c976f7c1cb8bce50ee40419e27f0c7f792e7d3a3b297d979c75ebed8c4df34a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-135-2022",
+   "path": "local/arges/campulung/2022/135",
+   "short": "HCL Câmpulung nr. 135/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 135/2022 cu privire la suplimentarea numărului de burse ce se acordă elevilor din învăţământul preuniversitar de stat, cu frecvență în semestrul II al anului școlar 2021 – 2022 la Colegiul Național Dinicu Golescu Hotărâre cu privire la suplimentarea numărului de burse ce se acordă elevilor din învăţământul preuniversitar de stat, cu frecvență în semestrul II al anului școlar 2021 – 2022 la Colegiul Naționa",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20135%20din%2026.05.2022.pdf",
+     "sha256": "f43c8517ae04f567199036b1fd9bc0249eb265cbede649dbdeaeb747b737ebd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-136-2022",
+   "path": "local/arges/campulung/2022/136",
+   "short": "HCL Câmpulung nr. 136/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 136/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20136%20din%2030.05.2022.pdf",
+     "sha256": "82117fca4e162bf57481d8a135aface2acb7cdd7ab7c643529da12f90c7ba096"
     }
    ]
   },
@@ -78,6 +618,246 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-138-2022",
+   "path": "local/arges/campulung/2022/138",
+   "short": "HCL Câmpulung nr. 138/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 138/2022 cu privire la aprobarea modificarii componenței comisiei de specialitate nr.5 a Consiliului Local al Municipiului Câmpulung Hotărâre cu privire la aprobarea modificarii componenței comisiei de specialitate nr.5 a Consiliului Local al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20138%20din%2030.06.2022.pdf",
+     "sha256": "24fcd5d816992b8a38bdb2d693b1b1be30fab383c818641d1c2c6839595d8c74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-139-2022",
+   "path": "local/arges/campulung/2022/139",
+   "short": "HCL Câmpulung nr. 139/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 139/2022 cu privire la aprobarea înlocuirii unui reprezentant al Consiliului Local în Consiliul de Administrație al Școlii de Muzică Hotărâre cu privire la aprobarea înlocuirii unui reprezentant al Consiliului Local în Consiliul de Administrație al Școlii de Muzică",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20139%20din%2030.06.2022.pdf",
+     "sha256": "ae96fd1d4e8877a76d28d3a9e690e8cbd6e4e5ccfcf53ae0a1b33b7c6bf54e32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-14-2022",
+   "path": "local/arges/campulung/2022/14",
+   "short": "HCL Câmpulung nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 14/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-01-17",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2014%20din%2017.01.2022.pdf",
+     "sha256": "b80366b70b5ba2aa09b1bd310e5a751ba17eb740486d8353a523744ce91b7895"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-140-2022",
+   "path": "local/arges/campulung/2022/140",
+   "short": "HCL Câmpulung nr. 140/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 140/2022 cu privire la înlocuirea unui reprezentant al Consiliului Local în Comisia pentru evaluarea și asigurarea calității și Comisia pentru prevenirea și combaterea violenței în mediu școlar din cadrul Școlii de Muzică Hotărâre cu privire la înlocuirea unui reprezentant al Consiliului Local în Comisia pentru evaluarea și asigurarea calității și Comisia pentru prevenirea și combaterea violenței în mediu",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20140%20din%2030.06.2022.pdf",
+     "sha256": "d4600de9d4f5139d2cb8c0aef49f42d97de31db9f7cfd054947963cdd12da7e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-141-2022",
+   "path": "local/arges/campulung/2022/141",
+   "short": "HCL Câmpulung nr. 141/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 141/2022 cu privire la înlocuirea unui reprezentant al Consiliului Local în Consiliul de Administrație al Spitalului de Pneumoftiziologie Câmpulung Hotărâre cu privire la înlocuirea unui reprezentant al Consiliului Local în Consiliul de Administrație al Spitalului de Pneumoftiziologie Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20141%20din%2030.06.2022.pdf",
+     "sha256": "3f8458ef39477511d825d6b03a9f69dc13cef4a70f16c3ade1d09a94e4b4b3e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-142-2022",
+   "path": "local/arges/campulung/2022/142",
+   "short": "HCL Câmpulung nr. 142/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 142/2022 cu privire la înlocuirea unui reprezentant al Consiliului Local în Comisia de sistematizare a circulației rutiere și pietonale în Municipiul Câmpulung Hotărâre cu privire la înlocuirea unui reprezentant al Consiliului Local în Comisia de sistematizare a circulației rutiere și pietonale în Municipiul Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20142%20din%2030.06.2022.pdf",
+     "sha256": "d1ae92098c245432262f9f2745d94ffc021b259ccab141f7535e2931355ca153"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-143-2022",
+   "path": "local/arges/campulung/2022/143",
+   "short": "HCL Câmpulung nr. 143/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 143/2022 cu privire la validarea rezultatului concursului pentru șef al Laboratorului de analize medicale din cadrul Spitalului Municipal Câmpulung Hotărâre cu privire la validarea rezultatului concursului pentru șef al Laboratorului de analize medicale din cadrul Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20143%20din%2030.06.2022.pdf",
+     "sha256": "3a6de2cd539e18b4a93ef047a66762d981de1a2575ca844097430414f0c8a5ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-144-2022",
+   "path": "local/arges/campulung/2022/144",
+   "short": "HCL Câmpulung nr. 144/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 144/2022 cu privire la validarea rezultatului concursului pentru șef Laborator de Radiologie din cadrul Spitalului Municipal Câmpulung Hotărâre cu privire la validarea rezultatului concursului pentru șef Laborator de Radiologie din cadrul Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20144%20din%2030.06.2022.pdf",
+     "sha256": "d15a0f441b233d0e34559b147cf1ce78c5de8000eb50191fa0c86907a4d6c94e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-145-2022",
+   "path": "local/arges/campulung/2022/145",
+   "short": "HCL Câmpulung nr. 145/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 145/2022 cu privire la stabilirea salariilor de bază pentru personalul plătit din fonduri publice – buget local – aferent familiei ocupaționale „ADMINISTRAȚIE ” utilizate în cadrul aparatului de specialitate al Primarului Municipiului Câmpulung și în serviciile publice subordonate acestora, începând Hotărâre cu privire la stabilirea salariilor de bază pentru personalul plătit din fonduri publice – buget lo",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20145%20din%2030.06.2022.pdf",
+     "sha256": "69e2d8c3c626e0e9e57bd1931e007cc4bd915673c8bd289ba834e2e67eae1a0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-146-2022",
+   "path": "local/arges/campulung/2022/146",
+   "short": "HCL Câmpulung nr. 146/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 146/2022 cu privire la modificarea Listei evenimentelor ce vor avea loc în cursul anului 2022 Hotărâre cu privire la modificarea Listei evenimentelor ce vor avea loc în cursul anului 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20146%20din%2030.06.2022.pdf",
+     "sha256": "153583f0e2bc56fdf8705cecd88c7a3d2378e158de94a6256c20c136b84eaff0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-147-2022",
+   "path": "local/arges/campulung/2022/147",
+   "short": "HCL Câmpulung nr. 147/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 147/2022 cu privire la aprobarea atribuirii în regim de închiriere a spațiului din strada Republicii , nr.17, ce aparține domeniului privat al Municipiului Câmpulung, cu destinația de sediu partid politic",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20147%20din%2030.06.2022.pdf",
+     "sha256": "e0cae1cbd09934776b08528624f2766b848447625105dc62f8f23b73b89c3e81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-148-2022",
+   "path": "local/arges/campulung/2022/148",
+   "short": "HCL Câmpulung nr. 148/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 148/2022 cu privire la aprobarea programului evenimentului “ Împreună pentru Câmpulung - Zilele Municipiului Câmpulung ”, ediția XXII Hotărâre cu privire la aprobarea programului evenimentului “ Împreună pentru Câmpulung - Zilele Municipiului Câmpulung ”, ediția XXII",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20148%20din%2030.06.2022.pdf",
+     "sha256": "896b22607ab97c3ac6a9bf147ca7e831b349990d02f9817b0ca8f26c966066c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-149-2022",
+   "path": "local/arges/campulung/2022/149",
+   "short": "HCL Câmpulung nr. 149/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 149/2022 cu privire la aprobarea studiului de fezabilitate, devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții “ Sistem supraveghere video și dispecerat în Municipiul Câmpulung “ Hotărâre cu privire la aprobarea studiului de fezabilitate, devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții “ Sistem supraveghere video și dispecerat în Mu",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20149%20din%2030.06.2022.pdf",
+     "sha256": "68719039589bc1fc1146140bae88082ffc738bc50c647e4ba006d3f6a4c3f65a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-15-2022",
+   "path": "local/arges/campulung/2022/15",
+   "short": "HCL Câmpulung nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 15/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2015%20din%2031.01.2022.pdf",
+     "sha256": "65f9c244456fc80e6e65aed1c418cd4d2235e658c4305b1c2522e2b0c16e4699"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-150-2022",
+   "path": "local/arges/campulung/2022/150",
+   "short": "HCL Câmpulung nr. 150/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 150/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20150%20din%2030.06.2022.pdf",
+     "sha256": "8a814c8458b235536189422b56563db58db1edbb43ddc9451dfcbb41b082995c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-151-2022",
+   "path": "local/arges/campulung/2022/151",
+   "short": "HCL Câmpulung nr. 151/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 151/2022 cu privire la aprobarea achiziționării de servicii juridice de consultanță, asistență și reprezentare pentru dosarul nr.2123/205/2022 Hotărâre cu privire la aprobarea achiziționării de servicii juridice de consultanță, asistență și reprezentare pentru dosarul nr.2123/205/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20151%20din%2030.06.2022.pdf",
+     "sha256": "316f00dc0577d746b1e576c1281e347e1c30fba05f976784378204abba2e36bc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-153-2022",
    "path": "local/arges/campulung/2022/153",
    "short": "HCL Câmpulung nr. 153/2022",
@@ -89,6 +869,906 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/7853/Deviz%20general%20gaze.pdf",
      "sha256": "8d8bf0d5b94e4519cea96b857c44022bac43b861e38499693c673ae65e0c1b98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-154-2022",
+   "path": "local/arges/campulung/2022/154",
+   "short": "HCL Câmpulung nr. 154/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 154/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20154%20din%2013.07.2022.pdf",
+     "sha256": "50dfbcb6a7da9930673c2c91b76725b0dbc583162db8118549a5b0d90519d4cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-155-2022",
+   "path": "local/arges/campulung/2022/155",
+   "short": "HCL Câmpulung nr. 155/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 155/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20155%20din%2013.07.2022.pdf",
+     "sha256": "0388586e20dd7d9a198ba01565e301f88b7f4c7683ad1eb922d794614106d24b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-156-2022",
+   "path": "local/arges/campulung/2022/156",
+   "short": "HCL Câmpulung nr. 156/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 156/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20156%20din%2013.07.2022.pdf",
+     "sha256": "e3b5e4ff18fe2bc835dbbe8354445fdf1b33ba58b33d5e6ed9ff98b72ca2f8c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-157-2022",
+   "path": "local/arges/campulung/2022/157",
+   "short": "HCL Câmpulung nr. 157/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 157/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20157%20din%2013.07.2022.pdf",
+     "sha256": "78a8150a03a8448ce7696c77245e5cdb3b9479ac6a2874b0c3320779271da3df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-158-2022",
+   "path": "local/arges/campulung/2022/158",
+   "short": "HCL Câmpulung nr. 158/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 158/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20158%20din%2013.07.2022.pdf",
+     "sha256": "721fe0b18b18234db685752c8cffb9ca8a13e6edde83f69ec07bd4d4ec7ba97a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-159-2022",
+   "path": "local/arges/campulung/2022/159",
+   "short": "HCL Câmpulung nr. 159/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 159/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20159%20din%2013.07.2022.pdf",
+     "sha256": "71481e1158dbe04440da12524ab58885a2ed3b9c01066c1925c9c93079809538"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-16-2022",
+   "path": "local/arges/campulung/2022/16",
+   "short": "HCL Câmpulung nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 16/2022 cu privire la aprobarea achiziționării de servicii juridice de consultanță, asistență și/sau reprezentare a Municipiului Câmpulung, a Primăriei Municipiului Câmpulung și a Consiliului Local al Municipiului Câmpulung pentru promovarea unor acțiuni, apărări și căi de atac, cât și achiziționar Hotărâre cu privire la aprobarea achiziționării de servicii juridice de consultanță, asistență și/sau reprez",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2016%20din%2031.01.2022.pdf",
+     "sha256": "733e083f9131161f8b4c7dac50ad3e9a616a29e36feaa24e811875accf980a74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-160-2022",
+   "path": "local/arges/campulung/2022/160",
+   "short": "HCL Câmpulung nr. 160/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 160/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20160%20din%2013.07.2022.pdf",
+     "sha256": "99e50213d80fdd95d9a8578ebd8d5e2c8c69b7bf56ddc25a6d6a5027731b1636"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-161-2022",
+   "path": "local/arges/campulung/2022/161",
+   "short": "HCL Câmpulung nr. 161/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 161/2022 cu privire la aprobarea Devizului General actualizat al investiției „Reabilitare conductă de aducțiune apă brută (DN800) în Municipiul Câmpulung” Hotărâre cu privire la aprobarea Devizului General actualizat al investiției „Reabilitare conductă de aducțiune apă brută (DN800) în Municipiul Câmpulung”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20161%20din%2013.07.2022.pdf",
+     "sha256": "e1bf83da6d52b65252df08b9a05530bb52957846864fd554ef309656842bf387"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-164-2022",
+   "path": "local/arges/campulung/2022/164",
+   "short": "HCL Câmpulung nr. 164/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 164/2022 cu privire la aprobarea modificării Programului evenimentului “Împreună pentru Câmpulung – Zilele Municipiului Câmpulung ”, ediția XXII Hotărâre cu privire la aprobarea modificării Programului evenimentului “Împreună pentru Câmpulung – Zilele Municipiului Câmpulung ”, ediția XXII",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20164%20din%2013.07.2022.pdf",
+     "sha256": "5f8f0ddc05e943bed164faf5700ba23ef6c24eeac1b1dcd53ca0626ff15e9494"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-166-2022",
+   "path": "local/arges/campulung/2022/166",
+   "short": "HCL Câmpulung nr. 166/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 166/2022 privind aprobarea acordării unor premii în cadrul evenimentului “Împreună pentru Câmpulung – Zilele Municipiului Câmpulung ”, ediția XXII Hotărâre privind aprobarea acordării unor premii în cadrul evenimentului “Împreună pentru Câmpulung – Zilele Municipiului Câmpulung ”, ediția XXII",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20166%20din%2019.07.2022.pdf",
+     "sha256": "8e23348bf0b9092951c7a35b0c9ebb5e11eb78d61223ef280c6b68993bbf0818"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-167-2022",
+   "path": "local/arges/campulung/2022/167",
+   "short": "HCL Câmpulung nr. 167/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 167/2022 cu privire la înființarea Grupului de Lucru local la nivelul Municipiului Câmpulung Hotărâre cu privire la înființarea Grupului de Lucru local la nivelul Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20167%20din%2019.07.2022.pdf",
+     "sha256": "e1a2e93619d462e0a45ce123bd623db4589dcff3b644e1484e740c50940c45df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-168-2022",
+   "path": "local/arges/campulung/2022/168",
+   "short": "HCL Câmpulung nr. 168/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 168/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20168%20din%2019.07.2022.pdf",
+     "sha256": "4085ec974e2396cf01f1f19ecc7b52c6794243675f9462c9c0ff88b25699c167"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-169-2022",
+   "path": "local/arges/campulung/2022/169",
+   "short": "HCL Câmpulung nr. 169/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 169/2022 cu privire la aprobarea Contului de Execuție al Municipiului Câmpulung la data de 30.06.2022 Hotărâre cu privire la aprobarea Contului de Execuție al Municipiului Câmpulung la data de 30.06.2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20169%20din%2029.07.2022.pdf",
+     "sha256": "8975d1fa7a62acf46cb2d5c6eed00a5459f6ec17d75911aea78cf1923ede4b63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-17-2022",
+   "path": "local/arges/campulung/2022/17",
+   "short": "HCL Câmpulung nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 17/2022 cu privire la aprobarea Planului de lucrări de interes local pentru repartizarea orelor de muncă persoanelor beneficiare de ajutor social pentru anul 2022 Hotărâre cu privire la aprobarea Planului de lucrări de interes local pentru repartizarea orelor de muncă persoanelor beneficiare de ajutor social pentru anul 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2017%20din%2031.01.2022.pdf",
+     "sha256": "f208662928896c30694c42296c4a610d192347f76d3e0fdcb561708a9042a022"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-170-2022",
+   "path": "local/arges/campulung/2022/170",
+   "short": "HCL Câmpulung nr. 170/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 170/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20170%20din%2029.07.2022.pdf",
+     "sha256": "d2b7aaefa1e8d43a1b1a5e89757389a14babdf32a40548b4f9c7878978e19a5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-171-2022",
+   "path": "local/arges/campulung/2022/171",
+   "short": "HCL Câmpulung nr. 171/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 171/2022 cu privire la aprobarea DALI și a indicatorilor tehnico-economici ai obiectivului de investiții “Reabilitare și consolidare clădire bibliotecă aferentă Colegiului Pedagogic Carol I ” Hotărâre cu privire la aprobarea DALI și a indicatorilor tehnico-economici ai obiectivului de investiții “Reabilitare și consolidare clădire bibliotecă aferentă Colegiului Pedagogic Carol I ”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20171%20din%2029.07.2022.pdf",
+     "sha256": "cf49a4f78ef8da50c1362873ae618cc138d9d811cb0362a9d914abd152da5e72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-173-2022",
+   "path": "local/arges/campulung/2022/173",
+   "short": "HCL Câmpulung nr. 173/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 173/2022 cu privire la aprobarea unor măsuri pentru achiziționarea pachetului de acțiuni deținut de SC FINANCIAR URBAN SRL la SC EDILUL CGA SA Câmpulung Hotărâre cu privire la aprobarea unor măsuri pentru achiziționarea pachetului de acțiuni deținut de SC FINANCIAR URBAN SRL la SC EDILUL CGA SA Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20173%20din%2029.07.2022.pdf",
+     "sha256": "8acb8f2e7c3fd8b6e36d65838b2c6823716450e78aee539d54499e9d05af9a2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-174-2022",
+   "path": "local/arges/campulung/2022/174",
+   "short": "HCL Câmpulung nr. 174/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 174/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20174%20din%2029.07.2022.pdf",
+     "sha256": "893ff22d7bbdd33c6c46d81f01f4e4c2669bbbde0becff5f461052f6dabb6c88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-175-2022",
+   "path": "local/arges/campulung/2022/175",
+   "short": "HCL Câmpulung nr. 175/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 175/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20175%20din%2029.07.2022.pdf",
+     "sha256": "53bbc2c7e0358773a37e0285ed87cd73cbac3f1b526dae7ef4ffd7dad5b511ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-176-2022",
+   "path": "local/arges/campulung/2022/176",
+   "short": "HCL Câmpulung nr. 176/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 176/2022 cu privire la suplimentarea la Colegiul Național Dinicu Golescu a numărului burselor școlare ce se vor acorda din bugetul local al Municipiului Câmpulung elevilor din învățământul preuniversitar de stat, cu frecvență, în semestrul al II-lea al anului școlar 2021-2022 Hotărâre cu privire la suplimentarea la Colegiul Național Dinicu Golescu a numărului burselor școlare ce se vor acorda din bugetul l",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20176%20din%2012.08.2022.pdf",
+     "sha256": "e97306cb742548aa83d4aa7c35a1ac69389b1f11a8b156edd9ec449a4bfc5e52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-177-2022",
+   "path": "local/arges/campulung/2022/177",
+   "short": "HCL Câmpulung nr. 177/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 177/2022 cu privire la neexercitarea dreptului de preempțiune al Consiliului Local al Municipiului Câmpulung pentru imobilul din Municipiul Câmpulung, str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20177%20din%2012.08.2022.pdf",
+     "sha256": "958e7ca16ef553c95ae7cddc99205f3642278f827c1d41e4b5b5add3e2f97ae5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-179-2022",
+   "path": "local/arges/campulung/2022/179",
+   "short": "HCL Câmpulung nr. 179/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 179/2022 cu privire la aprobarea Devizului General actualizat și al indicatorilor tehnico-economici actualizați ai obiectivului de investiții “Bloc de locuințe sociale 50 de apartamente în Municipiul Câmpulung” Hotărâre cu privire la aprobarea Devizului General actualizat și al indicatorilor tehnico-economici actualizați ai obiectivului de investiții “Bloc de locuințe sociale 50 de apartamente în Municipiu",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20179%20din%2012.08.2022.pdf",
+     "sha256": "34acba013034ca740e6ff42b6a0362f9095b7a1727ba0b75a5cb837883a986e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-180-2022",
+   "path": "local/arges/campulung/2022/180",
+   "short": "HCL Câmpulung nr. 180/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 180/2022 cu privire la rectificarea bugetului local al Municipiului Câmpulung pe anul 2022 Hotărâre cu privire la rectificarea bugetului local al Municipiului Câmpulung pe anul 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20180%20din%2018.08.2022.pdf",
+     "sha256": "6c49fc242bd5b89488e70625530178188e76f5f20a28c229c0d3cf3da5c84b1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-181-2022",
+   "path": "local/arges/campulung/2022/181",
+   "short": "HCL Câmpulung nr. 181/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 181/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-08-18",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20181%20din%2018.08.2022.pdf",
+     "sha256": "a50f698b592da08efc85caec6269bfc5f21475f0f5de5148de9bcb90233768fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-182-2022",
+   "path": "local/arges/campulung/2022/182",
+   "short": "HCL Câmpulung nr. 182/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 182/2022 cu privire la neexercitarea dreptului de preempțiune al Consiliului Local al Municipiului Câmpulung pentru imobilul din Municipiul Câmpulung, str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20182%20din%2031.08.2022.pdf",
+     "sha256": "9319b6fec2dde496be897ed2bfb2e7879e5280f28807ea1bb5b739fec13cf621"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-183-2022",
+   "path": "local/arges/campulung/2022/183",
+   "short": "HCL Câmpulung nr. 183/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 183/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20183%20din%2031.08.2022.pdf",
+     "sha256": "6f47cd602b1305b911043be7d3438134a7a21f69f307db36e1b131ded6f6505e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-185-2022",
+   "path": "local/arges/campulung/2022/185",
+   "short": "HCL Câmpulung nr. 185/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 185/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20185%20din%2031.08.2022.pdf",
+     "sha256": "708a499980fb215d35f2cc542192064e5aabe2fcbc9d6769729ce4acb5f00e3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-186-2022",
+   "path": "local/arges/campulung/2022/186",
+   "short": "HCL Câmpulung nr. 186/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 186/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20186%20din%2031.08.2022.pdf",
+     "sha256": "f0514759fb7c9fd48bf6a2b1577db9222bfd7678916de4554c279bb47006bf3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-187-2022",
+   "path": "local/arges/campulung/2022/187",
+   "short": "HCL Câmpulung nr. 187/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 187/2022 cu privire la desemnarea reprezentanților consiliului local în comisiile de evaluare a probei interviu pentru concursul de ocupare a funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat de pe raza municipiului Câmpulung Hotărâre cu privire la desemnarea reprezentanților consiliului local în comisiile de evaluare a probei interviu pentru concursul de ocupare",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20187%20din%2031.08.2022.pdf",
+     "sha256": "4049988b86f028591ee35faf8e3ffa747b66044c140044e29361f6ef7546534c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-188-2022",
+   "path": "local/arges/campulung/2022/188",
+   "short": "HCL Câmpulung nr. 188/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 188/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20188%20din%2031.08.2022.pdf",
+     "sha256": "c2135cf323394a2fef0721e31b86fba84c6244e03335b53f9812c4f782c522ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-189-2022",
+   "path": "local/arges/campulung/2022/189",
+   "short": "HCL Câmpulung nr. 189/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 189/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20189%20din%2006.09.2022.pdf",
+     "sha256": "1852099be6db75d0f5a4f6c1b8535af07337a278adadddc74783ae5f25f9f667"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-19-2022",
+   "path": "local/arges/campulung/2022/19",
+   "short": "HCL Câmpulung nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 19/2022 cu privire la aprobarea bugetului local al Municipiului Câmpulung pe anul 2022 și estimările pentru anii 2023-2025 Hotărâre cu privire la aprobarea bugetului local al Municipiului Câmpulung pe anul 2022 și estimările pentru anii 2023-2025",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2019%20din%2011.02.2022.pdf",
+     "sha256": "bf4689e473a5cf362e2996dd55d2b78539d8c7eb4ee37fb769c8c40c28b29949"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-190-2022",
+   "path": "local/arges/campulung/2022/190",
+   "short": "HCL Câmpulung nr. 190/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 190/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20190%20din%2006.09.2022.pdf",
+     "sha256": "75ef0edfe5e825405e4e0b7130bd649bb453dab618f45897d04f16ee5e95855f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-192-2022",
+   "path": "local/arges/campulung/2022/192",
+   "short": "HCL Câmpulung nr. 192/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 192/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20192%20din%2014.09.2022.pdf",
+     "sha256": "3e25a0d1d66139316df75fc1844e30521b014990d881fd250d58771b22c990fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-193-2022",
+   "path": "local/arges/campulung/2022/193",
+   "short": "HCL Câmpulung nr. 193/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 193/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20193%20din%2014.09.2022.pdf",
+     "sha256": "0eabd60b16a2aefb1def82430ea5139ad2cb4be09e91ad50452211bdb251d8ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-194-2022",
+   "path": "local/arges/campulung/2022/194",
+   "short": "HCL Câmpulung nr. 194/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 194/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20194%20din%2021.09.2022.pdf",
+     "sha256": "11d8d0032cca235fed6df394059be90db4fd7973d47f0b03da8ed5e51ba32683"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-195-2022",
+   "path": "local/arges/campulung/2022/195",
+   "short": "HCL Câmpulung nr. 195/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 195/2022 privind aprobarea achiziționării de servicii juridice de consultanță, asistență și pentru dosarul nr. 4367/109/2022 Hotărâre privind aprobarea achiziționării de servicii juridice de consultanță, asistență și pentru dosarul nr. 4367/109/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20195%20din%2023.09.2022.pdf",
+     "sha256": "31b4511113af1ba5752792088a3dde9c17e3249fd86f1fa4e9f9651178431c66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-196-2022",
+   "path": "local/arges/campulung/2022/196",
+   "short": "HCL Câmpulung nr. 196/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 196/2022 cu privire la aprobarea depunerii unei cereri de intervenție și achiziționarea de servicii juridice în dosarul nr. 2376/109/2022 Hotărâre cu privire la aprobarea depunerii unei cereri de intervenție și achiziționarea de servicii juridice în dosarul nr. 2376/109/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20196%20din%2023.09.2022.pdf",
+     "sha256": "9dd4d1d92503360fca6fd4db19d416faa3f4e3f55b9cf7fb65f4de7823751919"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-197-2022",
+   "path": "local/arges/campulung/2022/197",
+   "short": "HCL Câmpulung nr. 197/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 197/2022 cu privire la rectificarea bugetului local al Municipiului Câmpulung pe anul 2022 Hotărâre cu privire la rectificarea bugetului local al Municipiului Câmpulung pe anul 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20197%20din%2023.09.2022.pdf",
+     "sha256": "5ec7ff2edba12ae25095dd1b6cc660b8a66a8be6811d40321226b380e8fe56ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-198-2022",
+   "path": "local/arges/campulung/2022/198",
+   "short": "HCL Câmpulung nr. 198/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 198/2022 cu privire la alegerea viceprimarului Municipiului Câmpulung Hotărâre cu privire la alegerea viceprimarului Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-09-23",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20198%20din%2023.09.2022.pdf",
+     "sha256": "b64d79eff2fd4c83d22f0d1b613c1162d884a43d71ecff5cbe1aaa7e61bfbd81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-199-2022",
+   "path": "local/arges/campulung/2022/199",
+   "short": "HCL Câmpulung nr. 199/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 199/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20199%20din%2029.09.2022.pdf",
+     "sha256": "0f60922811fc932ce9697f9dcd79eff5204b6e756eb428812df11c651a212446"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-2-2022",
+   "path": "local/arges/campulung/2022/2",
+   "short": "HCL Câmpulung nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 2/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-01-09",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%202%20din%2009.01.2022.pdf",
+     "sha256": "576c5022e56501f33dcb954ec7f301de063005a65eeb04d01c4a7337e6c503d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-200-2022",
+   "path": "local/arges/campulung/2022/200",
+   "short": "HCL Câmpulung nr. 200/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 200/2022 cu privire la desemnarea reprezentanților Consiliului Local al Municipiului Câmpulung în Consiliile de Administrație ale unităților de învățământ preuniversitare de stat și particular din Municipiul Câmpulung pentru anul școlar 2022 - 2023 Hotărâre cu privire la desemnarea reprezentanților Consiliului Local al Municipiului Câmpulung în Consiliile de Administrație ale unităților de învățământ preun",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20200%20din%2029.09.2022.pdf",
+     "sha256": "5b59027d48c552bf8682edc2ee00b6dce3ec3ec4473bb2caa7bead28db31a39c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-201-2022",
+   "path": "local/arges/campulung/2022/201",
+   "short": "HCL Câmpulung nr. 201/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 201/2022 cu privire la desemnarea reprezentanților Consiliului Local al Municipiului Câmpulung în Comisia pentru prevenirea și combaterea violenței în mediul școlar în cadrul unităților de învățământ de pe raza Municipiului Câmpulung Hotărâre cu privire la desemnarea reprezentanților Consiliului Local al Municipiului Câmpulung în Comisia pentru prevenirea și combaterea violenței în mediul școlar în cadrul",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20201%20din%2029.09.2022.pdf",
+     "sha256": "bf5cae60d76c930c94b490491cb804d789f8f7e9c58c025d321799158347594f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-202-2022",
+   "path": "local/arges/campulung/2022/202",
+   "short": "HCL Câmpulung nr. 202/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 202/2022 cu privire la desemnarea reprezentanților Consiliului Local al Municipiului Câmpulung în Comisia pentru evaluarea și asigurarea calității în cadrul unităților de învățământ de pe raza Municipiului Câmpulung Hotărâre cu privire la desemnarea reprezentanților Consiliului Local al Municipiului Câmpulung în Comisia pentru evaluarea și asigurarea calității în cadrul unităților de învățământ de pe raza",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20202%20din%2029.09.2022.pdf",
+     "sha256": "fece4e80fd8c8d571dd2cb0d0b6fe9fb09911852f79d570d8fa24b430ea1b953"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-203-2022",
+   "path": "local/arges/campulung/2022/203",
+   "short": "HCL Câmpulung nr. 203/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 203/2022 cu privire la casarea autoturismului marca Dacia Logan cu număr de înmatriculare AG 32 PCC Hotărâre cu privire la casarea autoturismului marca Dacia Logan cu număr de înmatriculare AG 32 PCC",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20203%20din%2029.09.2022.pdf",
+     "sha256": "bb0a58583bee12e7aebfbe1f6e77f334b1647f65a0e65cd537b6d11621f8c804"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-205-2022",
+   "path": "local/arges/campulung/2022/205",
+   "short": "HCL Câmpulung nr. 205/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 205/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20205%20din%2029.09.2022.pdf",
+     "sha256": "3ddef4ae38e343b13710bcb8307002712f8cb9375fa6cb0ac6f985d1e16d1378"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-207-2022",
+   "path": "local/arges/campulung/2022/207",
+   "short": "HCL Câmpulung nr. 207/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 207/2022 cu privire la rectificarea bugetului local al Municipiului Câmpulung pe anul 2022 Hotărâre cu privire la rectificarea bugetului local al Municipiului Câmpulung pe anul 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20207%20din%2004.10.2022.pdf",
+     "sha256": "f4f3486594aec421b4f418773b215f0e0a7f9fe123b9189f2eae977d08b9a26d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-208-2022",
+   "path": "local/arges/campulung/2022/208",
+   "short": "HCL Câmpulung nr. 208/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 208/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20208%20din%2007.10.2022.pdf",
+     "sha256": "fa08476221474ebf891047a06694c8668e18ae2e396aaa3cebd24f8e81dcc8a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-209-2022",
+   "path": "local/arges/campulung/2022/209",
+   "short": "HCL Câmpulung nr. 209/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 209/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20209%20din%2007.10.2022.pdf",
+     "sha256": "84ab69f807562c994c00055309a8ca82d53e6c8249b5eb75bdf3f5a014418fa0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-21-2022",
+   "path": "local/arges/campulung/2022/21",
+   "short": "HCL Câmpulung nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 21/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2021%20din%2011.02.2022.pdf",
+     "sha256": "709cf8894f8e5ff8ea9dc535544eeb90d1c76153feb8f748beb27b8d91cc38c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-210-2022",
+   "path": "local/arges/campulung/2022/210",
+   "short": "HCL Câmpulung nr. 210/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 210/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20210%20din%2007.10.2022.pdf",
+     "sha256": "2aff60230cf6b9aac216135ddca01147e98b2067688cce1774b8c1ed83e40488"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-211-2022",
+   "path": "local/arges/campulung/2022/211",
+   "short": "HCL Câmpulung nr. 211/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 211/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20211%20din%2007.10.2022.pdf",
+     "sha256": "e6caca0b5cebc2a5bce0ac4db7e9ae43b613cca8b86c06c257841c27b37e9602"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-212-2022",
+   "path": "local/arges/campulung/2022/212",
+   "short": "HCL Câmpulung nr. 212/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 212/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20212%20din%2007.10.2022.pdf",
+     "sha256": "62113432f74fb19fe9fc7ec58b549df5b4fc5450cdfaa7a682c6fcc79d41294e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-213-2022",
+   "path": "local/arges/campulung/2022/213",
+   "short": "HCL Câmpulung nr. 213/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 213/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20213%20din%2007.10.2022.pdf",
+     "sha256": "80cd0cba86ae2c5ce2c150d503ea897d1846f430cc18190fe331cdf72f2c040c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-214-2022",
+   "path": "local/arges/campulung/2022/214",
+   "short": "HCL Câmpulung nr. 214/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 214/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20214%20din%2007.10.2022.pdf",
+     "sha256": "b798433b875b42c55dc72c55cce319bcfbd79a5cc514e9906798df932569f62f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-215-2022",
+   "path": "local/arges/campulung/2022/215",
+   "short": "HCL Câmpulung nr. 215/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 215/2022 cu privire la aprobarea devizului general și a indicatorilor tehnico-economici pentru obiectivul de investiții \"Rețea de canalizare ape menajere pe Str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20215%20din%2007.10.2022.pdf",
+     "sha256": "9d2f59b6dcfab42f502fd328becab17f45c8693afd10d18faa9a37ba8bd1dff9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-219-2022",
+   "path": "local/arges/campulung/2022/219",
+   "short": "HCL Câmpulung nr. 219/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 219/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20219%20din%2013.10.2022.pdf",
+     "sha256": "4ded1d6f00e8f36fb9942a22e2388a4dd2ea1e79aec50e55ed283508b2a08f03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-22-2022",
+   "path": "local/arges/campulung/2022/22",
+   "short": "HCL Câmpulung nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 22/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2022%20din%2011.02.2022.pdf",
+     "sha256": "2195dd43bf17cc125957cdfdab1ab9ebaf91057321bbffc9dfa2e57b28d0ab33"
     }
    ]
   },
@@ -108,6 +1788,531 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-222-2022",
+   "path": "local/arges/campulung/2022/222",
+   "short": "HCL Câmpulung nr. 222/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 222/2022 cu privire la stabilirea sumei cheltuielilor de executare silită generate de comunicarea somației, adresei de înființare a popririi și a altor documente emise în cadrul procedurii de executare silită Hotărâre cu privire la stabilirea sumei cheltuielilor de executare silită generate de comunicarea somației, adresei de înființare a popririi și a altor documente emise în cadrul procedurii de executar",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20222%20din%2020.10.2022.pdf",
+     "sha256": "e88db2d67962238fcaf48d99021c1ca58ee5a2c4637437ef244b3f9749af8fba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-223-2022",
+   "path": "local/arges/campulung/2022/223",
+   "short": "HCL Câmpulung nr. 223/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 223/2022 cu privire la aprobarea Contului de Execuție al Municipiului Câmpulung la data de 30.09.2022 Hotărâre cu privire la aprobarea Contului de Execuție al Municipiului Câmpulung la data de 30.09.2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20223%20din%2020.10.2022.pdf",
+     "sha256": "5c4acd5d6db2c42db9406da6c8d394c9c89b11fb0abb732495d851743392ad1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-224-2022",
+   "path": "local/arges/campulung/2022/224",
+   "short": "HCL Câmpulung nr. 224/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 224/2022 cu privire la rectificarea bugetului local al Municipiului Câmpulung pe anul 2022 Hotărâre cu privire la rectificarea bugetului local al Municipiului Câmpulung pe anul 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20224%20din%2020.10.2022.pdf",
+     "sha256": "12f8756e073992bad3ff4c20877c9d5c3abce236b605094845088f4209190ac4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-225-2022",
+   "path": "local/arges/campulung/2022/225",
+   "short": "HCL Câmpulung nr. 225/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 225/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20225%20din%2020.10.2022.pdf",
+     "sha256": "b5c6365321aa8bc1dbee064145777797c9b77c87cf3f2634ef6c230298e39261"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-227-2022",
+   "path": "local/arges/campulung/2022/227",
+   "short": "HCL Câmpulung nr. 227/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 227/2022 privind aprobarea numărului și cuantumului burselor școlare ce se acordă din bugetul local al Municipiului Câmpulung elevilor din învățământul preuniversitar în anul școlar 2022-2023 Hotărâre privind aprobarea numărului și cuantumului burselor școlare ce se acordă din bugetul local al Municipiului Câmpulung elevilor din învățământul preuniversitar în anul școlar 2022-2023",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20227%20din%2020.10.2022.pdf",
+     "sha256": "d2bb5a4428ec4a9d0b6e5cdf7bdab0a56b6157b7f1efd6acfd51b79d8dce0702"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-228-2022",
+   "path": "local/arges/campulung/2022/228",
+   "short": "HCL Câmpulung nr. 228/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 228/2022 cu privire la aprobarea devizului general actualizat și al indicatorilor tehnico-economici actualizați ai obiectivului de investiții “Reabilitarea stației de epurare(linia apei) în Municipiul Câmpulung, județul Argeș” Hotărâre cu privire la aprobarea devizului general actualizat și al indicatorilor tehnico-economici actualizați ai obiectivului de investiții “Reabilitarea stației de epurare(linia a",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20228%20din%2020.10.2022.pdf",
+     "sha256": "8c310fc2cd068ebc674049dc784c21138c51106e66e3d7825c26652656db1177"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-229-2022",
+   "path": "local/arges/campulung/2022/229",
+   "short": "HCL Câmpulung nr. 229/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 229/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20229%20din%2020.10.2022.pdf",
+     "sha256": "11b35ee497be2c96513fd6b4ae5c56911f7695d642c635aec3d6e883c1c6785d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-23-2022",
+   "path": "local/arges/campulung/2022/23",
+   "short": "HCL Câmpulung nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 23/2022 cu privire la desemnarea reprezentanților consiliului local în comisiile de evaluare a probei interviu pentru concursul de ocupare a funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat de pe raza municipiului Câmpulung Hotărâre cu privire la desemnarea reprezentanților consiliului local în comisiile de evaluare a probei interviu pentru concursul de ocupare",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2023%20din%2028.02.2022.pdf",
+     "sha256": "609bbd00869af09c4985a85f9c745dcb25e4db1b61af38a6a1e7d04bd5e16e80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-231-2022",
+   "path": "local/arges/campulung/2022/231",
+   "short": "HCL Câmpulung nr. 231/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 231/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20231%20din%2020.10.2022.pdf",
+     "sha256": "e1c34f91021c05f3f096916bf04b8a2f712fc7dc23d7d676eab21c1b35205261"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-232-2022",
+   "path": "local/arges/campulung/2022/232",
+   "short": "HCL Câmpulung nr. 232/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 232/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20232%20din%2020.10.2022.pdf",
+     "sha256": "c4450f01d79aa6516a1d3ad8ee5a3695826c6a8fc036407daedb013e218152e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-233-2022",
+   "path": "local/arges/campulung/2022/233",
+   "short": "HCL Câmpulung nr. 233/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 233/2022 cu privire la înlocuirea unui reprezentant al Consiliului Local în Consiliul de Administrație al Spitalului Municipal Câmpulung Hotărâre cu privire la înlocuirea unui reprezentant al Consiliului Local în Consiliul de Administrație al Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20233%20din%2020.10.2022.pdf",
+     "sha256": "858578bb47eb2893e47de7c6a1efe5496f9a676e2ac0578792b8ebbded3078fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-234-2022",
+   "path": "local/arges/campulung/2022/234",
+   "short": "HCL Câmpulung nr. 234/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 234/2022 cu privire la înlocuirea unui reprezentant al Consiliului Local în Consiliul de Administrație al Spitalului de Pneumoftiziologie Câmpulung Hotărâre cu privire la înlocuirea unui reprezentant al Consiliului Local în Consiliul de Administrație al Spitalului de Pneumoftiziologie Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20234%20din%2020.10.2022.pdf",
+     "sha256": "26fa083327ec8752ff21a4342251943f71f6df2f7a83280b5d921194d567bf71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-235-2022",
+   "path": "local/arges/campulung/2022/235",
+   "short": "HCL Câmpulung nr. 235/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 235/2022 cu privire la însușirea, de principiu, a prețului de cumpărare a pachetului de acțiuni de 31% deținut de SC FINANCIAR URBAN SRL la SC EDILUL CGA SA Câmpulung Hotărâre cu privire la însușirea, de principiu, a prețului de cumpărare a pachetului de acțiuni de 31% deținut de SC FINANCIAR URBAN SRL la SC EDILUL CGA SA Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20235%20din%2020.10.2022.pdf",
+     "sha256": "05f29bdc0e454a3967cf6f7f0f0c7667e099a40dd1f140b1c07fa5601ec91822"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-236-2022",
+   "path": "local/arges/campulung/2022/236",
+   "short": "HCL Câmpulung nr. 236/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 236/2022 cu privire la rectificarea bugetului local al Municipiului Câmpulung pe anul 2022 Hotărâre cu privire la rectificarea bugetului local al Municipiului Câmpulung pe anul 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20236%20din%2031.10.2022.pdf",
+     "sha256": "80a33f0e9d478a05d418497d1ed758ed464555c4548ab7b15cab4448ba7209a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-237-2022",
+   "path": "local/arges/campulung/2022/237",
+   "short": "HCL Câmpulung nr. 237/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 237/2022 privind aprobarea achiziționării de servicii de consultanță privind elaborarea documentelor în vederea delegării serviciului public de alimentare cu apă și canalizare Hotărâre privind aprobarea achiziționării de servicii de consultanță privind elaborarea documentelor în vederea delegării serviciului public de alimentare cu apă și canalizare",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20237%20din%2031.10.2022.pdf",
+     "sha256": "f5d18eaa6ff6a07696bd0dedfa7acd0ada0974f6871b31153af57211407f1dbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-239-2022",
+   "path": "local/arges/campulung/2022/239",
+   "short": "HCL Câmpulung nr. 239/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 239/2022 privind aprobarea asocierii Municipiului Câmpulung cu alte unități administrativ-teritoriale în vederea constituirii \"ASOCIAȚIEI PENTRU DEZVOLTARE INTERCOMUNITARĂ - ITI ȚINUTUL PLAI MUSCELEAN\" Hotărâre privind aprobarea asocierii Municipiului Câmpulung cu alte unități administrativ-teritoriale în vederea constituirii \"ASOCIAȚIEI PENTRU DEZVOLTARE INTERCOMUNITARĂ - ITI ȚINUTUL PLAI MUSCELEAN",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20239%20din%2031.10.2022.pdf",
+     "sha256": "001be9749b2e21a3e006282156773db71e81f2c5558d3c1cc1f0a4414d5488c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-24-2022",
+   "path": "local/arges/campulung/2022/24",
+   "short": "HCL Câmpulung nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 24/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2024%20din%2028.02.2022.pdf",
+     "sha256": "0e4a48f75627f85c8d25e4485852e8cc73f561356d386e0833ce7a8baf533405"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-240-2022",
+   "path": "local/arges/campulung/2022/240",
+   "short": "HCL Câmpulung nr. 240/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 240/2022 privind aprobarea achiziționării pachetului de acțiuni de 31% deținute de SC FINANCIAR URBAN SRL la SC EDILUL CGA SA Câmpulung Hotărâre privind aprobarea achiziționării pachetului de acțiuni de 31% deținute de SC FINANCIAR URBAN SRL la SC EDILUL CGA SA Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20240%20din%2022.11.2022.pdf",
+     "sha256": "f9183543ba4002cf7ddbe7d460930af183364282eb2164532b43f5a29aa32d13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-241-2022",
+   "path": "local/arges/campulung/2022/241",
+   "short": "HCL Câmpulung nr. 241/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 241/2022 privind rectificarea bugetului local al Municipiului Câmpulung pe anul 2022 Hotărâre privind rectificarea bugetului local al Municipiului Câmpulung pe anul 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20241%20din%2029.11.2022.pdf",
+     "sha256": "1fc43bdddc799db4844879961326f77eab4050a096a60e58f77a7f1b2a90da1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-242-2022",
+   "path": "local/arges/campulung/2022/242",
+   "short": "HCL Câmpulung nr. 242/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 242/2022 privind suplimentarea numărului de beneficiari de burse școlare ce se vor acorda elevilor din învățământul preuniversitar în anul școlar 2022 - 2023 Hotărâre privind suplimentarea numărului de beneficiari de burse școlare ce se vor acorda elevilor din învățământul preuniversitar în anul școlar 2022 - 2023",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20242%20din%2029.11.2022.pdf",
+     "sha256": "3e3c69d8b13d92290e9838e96dccf4d16c412a08cdae4bed58621f10e1d4a546"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-244-2022",
+   "path": "local/arges/campulung/2022/244",
+   "short": "HCL Câmpulung nr. 244/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 244/2022 privind aprobarea diminuării cu 605 mp a suprafeței de teren ce face obiectul contractului de concesiune nr. 8924/26/21.03.2018, încheiat între Municipiul Câmpulung și SC XU SHENG COMIMPEX, cât și a diminuării proporționale a redevenței aferente terenului Hotărâre privind aprobarea diminuării cu 605 mp a suprafeței de teren ce face obiectul contractului de concesiune nr. 8924/26/21.03.2018, închei",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20244%20din%2029.11.2022.pdf",
+     "sha256": "c02fb1668f6d7554a5222dff0fc66ca1d150f56a89140002ec709de3613d51b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-245-2022",
+   "path": "local/arges/campulung/2022/245",
+   "short": "HCL Câmpulung nr. 245/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 245/2022 privind prelungirea duratei de valabilitate a contractelor de închiriere și stabilirea nivelului chiriilor lunare pentru locuinţele ANL, aflate în administrarea Municipiului Câmpulung Hotărâre privind prelungirea duratei de valabilitate a contractelor de închiriere și stabilirea nivelului chiriilor lunare pentru locuinţele ANL, aflate în administrarea Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20245%20din%2029.11.2022.pdf",
+     "sha256": "e553626c1b9b95ac8b783885ec8ac66f56a70f308b0c3f9901af0fab1139ab19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-246-2022",
+   "path": "local/arges/campulung/2022/246",
+   "short": "HCL Câmpulung nr. 246/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 246/2022 privind aprobarea concesionării terenului în suprafață de 24,50 mp apartinând domeniului public al Municipiului Câmpulung, situat în Câmpulung, str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20246%20din%2029.11.2022.pdf",
+     "sha256": "78756ca36de0a4619a259fa234829d612d40a1ac7d637dd97a2a4cae1dc61fdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-247-2022",
+   "path": "local/arges/campulung/2022/247",
+   "short": "HCL Câmpulung nr. 247/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 247/2022 privind aprobarea concesionării terenului în suprafată de 4,00 mp aparținând domeniului public al Municipiului Campulung, situat în Câmpulung, str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20247%20din%2029.11.2022.pdf",
+     "sha256": "5554bd6e367e3415eeca6e0f3a1978e96bea9e97332aff23e804daf68c8f181f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-248-2022",
+   "path": "local/arges/campulung/2022/248",
+   "short": "HCL Câmpulung nr. 248/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 248/2022 privind aprobarea concesionării terenului în suprafată de 9,90 mp apartinând domeniului public al Municipiului Câmpulung, situat în Câmpulung, str. Gruiului, nr. 74bis, bl. P13, sc. B, parter, ap. 3, judetul Arges, în vederea edificării unor balcoane în proiecție (balcon 1 = 3,80 mp și balc Hotărâre privind aprobarea concesionării terenului în suprafată de 9,90 mp apartinând domeniului public al M",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20248%20din%2029.11.2022.pdf",
+     "sha256": "16327832a0ff4c9b71ec0488ef1c5c066ae338a868dfa829bf468ec951578bfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-249-2022",
+   "path": "local/arges/campulung/2022/249",
+   "short": "HCL Câmpulung nr. 249/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 249/2022 privind aprobarea concesionării terenului în suprafată de 9,00 mp aparținând domeniului public/privat al Municipiului Câmpulung, situat în str.Negru Vodă, nr.86, bl.2, sc.A, parter, ap.3, judetul Arges, în vederea construirii unei săli de așteptare prin care se face accesul în sediul CAR In Hotărâre privind aprobarea concesionării terenului în suprafată de 9,00 mp aparținând domeniului public/priv",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20249%20din%2029.11.2022.pdf",
+     "sha256": "3f6369d95dd6a60604eadd2a99d913d2b073ea4f9225f864e7d0deb174e6ffce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-25-2022",
+   "path": "local/arges/campulung/2022/25",
+   "short": "HCL Câmpulung nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 25/2022 cu privire la aprobarea Statului de funcții și Organigramei Serviciului Public de Administrarea Domeniului Public și Privat Hotărâre cu privire la aprobarea Statului de funcții și Organigramei Serviciului Public de Administrarea Domeniului Public și Privat",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2025%20din%2028.02.2022.pdf",
+     "sha256": "1c0bc7568b22c6cf4843ff96175f86adadfd46163775244f211cc1e567f7e37f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-250-2022",
+   "path": "local/arges/campulung/2022/250",
+   "short": "HCL Câmpulung nr. 250/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 250/2022 privind aprobarea menținerii concesiunii și prelungirii contractelor de concesiune a terenurilor aparținând domeniului public al Municipiului Câmpulung Hotărâre privind aprobarea menținerii concesiunii și prelungirii contractelor de concesiune a terenurilor aparținând domeniului public al Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20250%20din%2029.11.2022.pdf",
+     "sha256": "db5209b67cd1e09e7b924cd7ec645ffa56003eb3b740aa4b2cd1136a5fc8bb8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-251-2022",
+   "path": "local/arges/campulung/2022/251",
+   "short": "HCL Câmpulung nr. 251/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 251/2022 privind privind delegarea atribuțiilor temporare de administrare a SC PIEȚE-SERVICII COMUNITARE MUSCEL SRL până la preluarea efectivă a mandatului de către administratorul provizoriu Hotărâre privind privind delegarea atribuțiilor temporare de administrare a SC PIEȚE-SERVICII COMUNITARE MUSCEL SRL până la preluarea efectivă a mandatului de către administratorul provizoriu",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20251%20din%2005.12.2022.pdf",
+     "sha256": "ffaba0c92705383962357fb047eaacd8c983ddc17baff917f2aa2472c5150937"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-252-2022",
+   "path": "local/arges/campulung/2022/252",
+   "short": "HCL Câmpulung nr. 252/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 252/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20252%20din%2005.12.2022.pdf",
+     "sha256": "1805d50dfa9f4c7b7102355377e0220e9b841b0dd0d7d9b5bf803185245b7096"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-254-2022",
+   "path": "local/arges/campulung/2022/254",
+   "short": "HCL Câmpulung nr. 254/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 254/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20254%20din%2014.12.2022.pdf",
+     "sha256": "60c857c2adcf529fd5810b1752c27ff91c5ec55275328974034444d382a81d1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-255-2022",
+   "path": "local/arges/campulung/2022/255",
+   "short": "HCL Câmpulung nr. 255/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 255/2022 privind aprobarea actualizării analizei cost beneficiu și a indicatorilor tehnico-economici pentru obiectivul de investiţie \"Reabilitarea și modernizarea clădirilor școlare și împrejmuirii acestora în Municipiul Câmpulung – Școala Grădiște\" Hotărâre privind aprobarea actualizării analizei cost beneficiu și a indicatorilor tehnico-economici pentru obiectivul de investiţie \"Reabilitarea și moderniza",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20255%20din%2014.12.2022.pdf",
+     "sha256": "e4b61b02306d9dac12e3ca275d9eeb286d27527d6a842c5b8c9ed947df8fe625"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-256-2022",
+   "path": "local/arges/campulung/2022/256",
+   "short": "HCL Câmpulung nr. 256/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 256/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20256%20din%2014.12.2022.pdf",
+     "sha256": "16ebbdfb8eab177fefe6715edc4f077621a68753da8f5af0d63064c81acfbd44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-257-2022",
+   "path": "local/arges/campulung/2022/257",
+   "short": "HCL Câmpulung nr. 257/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 257/2022 privind actualizarea devizului general aferent obiectivului de investiții \"Extinderea sistemului de canalizare pe str G. Alexandrescu, Valea Barbușii, Leculești și Pârșenilor din ZUM Cazărmilor\" Hotărâre privind actualizarea devizului general aferent obiectivului de investiții \"Extinderea sistemului de canalizare pe str G. Alexandrescu, Valea Barbușii, Leculești și Pârșenilor din ZUM Cazărmil",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20257%20din%2014.12.2022.pdf",
+     "sha256": "d3a5fea7aca55fd3ee4cea93b5542524fb57ba5ed97803a5ec0f646603306cc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-258-2022",
+   "path": "local/arges/campulung/2022/258",
+   "short": "HCL Câmpulung nr. 258/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 258/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20258%20din%2014.12.2022.pdf",
+     "sha256": "81bbea87485cdc891deba2acb96656c00e1b9f508633432e33ae4d930e841bc4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-26-2022",
    "path": "local/arges/campulung/2022/26",
    "short": "HCL Câmpulung nr. 26/2022",
@@ -119,6 +2324,81 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2026%20din%2028.02.2022.pdf",
      "sha256": "caed31d4d4dde421b954fede89a9950116abb0dea374504e6125fceebce0ff17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-260-2022",
+   "path": "local/arges/campulung/2022/260",
+   "short": "HCL Câmpulung nr. 260/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 260/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20260%20din%2014.12.2022.pdf",
+     "sha256": "65367ae01db292e777743bab3d97e63de8f885d7a5c1a81f2508b5b493588b50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-261-2022",
+   "path": "local/arges/campulung/2022/261",
+   "short": "HCL Câmpulung nr. 261/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 261/2022 privind actualizarea Devizului General aferent obiectivului de investiții „Reabilitare străzi în Municipiul Câmpulung – județul Argeș (străzile: Drăcești, Boboc, Rujoi, Nedelești, Plăieși, Leculești, Livadiei, I. Țicăloiu, Chilii)” – Lucrări de consolidare a terenului în zona de risc Chilii Hotărâre privind actualizarea Devizului General aferent obiectivului de investiții „Reabilitare străzi în Mu",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20261%20din%2014.12.2022.pdf",
+     "sha256": "8f26b7ed57b6720c35c3ed3658303705a924a54ce34718c57d603993429f19cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-262-2022",
+   "path": "local/arges/campulung/2022/262",
+   "short": "HCL Câmpulung nr. 262/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 262/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20262%20din%2014.12.2022.pdf",
+     "sha256": "03d38b6230785085f04327e9a27cbede307d464433a44e7f26d33c3add6be307"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-263-2022",
+   "path": "local/arges/campulung/2022/263",
+   "short": "HCL Câmpulung nr. 263/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 263/2022 privind rectificarea bugetului local al Municipiului Câmpulung pe anul 2022 Hotărâre privind rectificarea bugetului local al Municipiului Câmpulung pe anul 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20263%20din%2014.12.2022.pdf",
+     "sha256": "46f247300c2008f93232583ff944fee18c4360b47d77334c4787e9e85968e8fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-264-2022",
+   "path": "local/arges/campulung/2022/264",
+   "short": "HCL Câmpulung nr. 264/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 264/2022 privind aprobarea suplimentării numărului burselor școlare ce se vor acorda din bugetul local elevilor din învățămânrului preuniversitar cu frecvență în anul școlar 2022 – 2023 Hotărâre privind aprobarea suplimentării numărului burselor școlare ce se vor acorda din bugetul local elevilor din învățămânrului preuniversitar cu frecvență în anul școlar 2022 – 2023",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20264%20din%2014.12.2022.pdf",
+     "sha256": "584f6b8ae23286d116a5c7e7e68f84ce43c816b314bb19812e116b7747ac2be4"
     }
    ]
   },
@@ -153,6 +2433,546 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-267-2022",
+   "path": "local/arges/campulung/2022/267",
+   "short": "HCL Câmpulung nr. 267/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 267/2022 privind actualizarea Devizului General aferent obiectivului de investiții \"Extinderea rețelei de distribuție a gazelor naturale în Zona Urbană Marginalizată Cazărmilor din Municipiul Câmpulung\" Hotărâre privind actualizarea Devizului General aferent obiectivului de investiții \"Extinderea rețelei de distribuție a gazelor naturale în Zona Urbană Marginalizată Cazărmilor din Municipiul Câmpulun",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20267%20din%2014.12.2022.pdf",
+     "sha256": "97871433c64dbb0656a85e43dfde7d10730deb2701809bc9a879ceb160032c32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-268-2022",
+   "path": "local/arges/campulung/2022/268",
+   "short": "HCL Câmpulung nr. 268/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 268/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20268%20din%2014.12.2022.pdf",
+     "sha256": "213e9c179b0669dbb44c39bee75cae9c87d0c51c56137e4992df71bf27f11fc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-269-2022",
+   "path": "local/arges/campulung/2022/269",
+   "short": "HCL Câmpulung nr. 269/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 269/2022 privind actualizarea Devizului General aferent obiectivului de investiții \"Construirea infrastructurii de locuire socială pentru persoanele victime ale violenței în familie\" Hotărâre privind actualizarea Devizului General aferent obiectivului de investiții \"Construirea infrastructurii de locuire socială pentru persoanele victime ale violenței în familie\"",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20269%20din%2014.12.2022.pdf",
+     "sha256": "4173282be82c9640893a4f69fd8bf585ac4ee091589bce0b8cbadf8e15a79a4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-27-2022",
+   "path": "local/arges/campulung/2022/27",
+   "short": "HCL Câmpulung nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 27/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2027%20din%2028.02.2022.pdf",
+     "sha256": "ff2db930fa68ebab402321a98731a828c78ec82b30024f11c73aa7144ea2d639"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-270-2022",
+   "path": "local/arges/campulung/2022/270",
+   "short": "HCL Câmpulung nr. 270/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 270/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20270%20din%2014.12.2022.pdf",
+     "sha256": "68c624a001514a3e5f70f14a3de77d474f3860b412937f8d6f63c61bb76a800e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-271-2022",
+   "path": "local/arges/campulung/2022/271",
+   "short": "HCL Câmpulung nr. 271/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 271/2022 privind actualizarea Devizului General aferent obiectivului de investiții \"Realizarea unui centru medico-social integrat în ZUM Pescăreasa\" Hotărâre privind actualizarea Devizului General aferent obiectivului de investiții \"Realizarea unui centru medico-social integrat în ZUM Pescăreasa\"",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20271%20din%2014.12.2022.pdf",
+     "sha256": "d2248b4e84cdfd649c5ba5821f0b2c0c989ef194d55555453b25f7a1af483986"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-272-2022",
+   "path": "local/arges/campulung/2022/272",
+   "short": "HCL Câmpulung nr. 272/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 272/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20272%20din%2014.12.2022.pdf",
+     "sha256": "8868a37e33e09fb92003b785cfa563bffdb14a51bf670dc4103b602bcd079776"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-273-2022",
+   "path": "local/arges/campulung/2022/273",
+   "short": "HCL Câmpulung nr. 273/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 273/2022 privind actualizarea Devizului General aferent obiectivului de investiții „Reabilitarea sistemului de iluminat public în Municipiul Câmpulung” Hotărâre privind actualizarea Devizului General aferent obiectivului de investiții „Reabilitarea sistemului de iluminat public în Municipiul Câmpulung”",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20273%20din%2014.12.2022.pdf",
+     "sha256": "dd7bacc095c63b08e8091067e05e60a54a424577eba13e5cb02754adccfc6c03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-274-2022",
+   "path": "local/arges/campulung/2022/274",
+   "short": "HCL Câmpulung nr. 274/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 274/2022 privind neexercitarea dreptului de preempţiune al Consiliului local Câmpulung pentru imobilul din Municipiul Câmpulung, identificat cu număr cadastral 83405, 83405-C1, întabulat în cartea funciară nr. 83405 a Municipiului Câmpulung str",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20274%20din%2014.12.2022.pdf",
+     "sha256": "b919c15036b3d2ef0a32f47f2b6eb6cc74cf5df16a85aac9f08201747e18abff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-276-2022",
+   "path": "local/arges/campulung/2022/276",
+   "short": "HCL Câmpulung nr. 276/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 276/2022 privind desemnarea reprezentanților Consiliului Local în Consiliul de Administrație al Spitalului Municipal Câmpulung Hotărâre privind desemnarea reprezentanților Consiliului Local în Consiliul de Administrație al Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20276%20din%2014.12.2022.pdf",
+     "sha256": "69bee1fc855f74360223823432b135a4e2c4604de1cc4d0c792ed051e9c9f64a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-277-2022",
+   "path": "local/arges/campulung/2022/277",
+   "short": "HCL Câmpulung nr. 277/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 277/2022 privind desemnarea reprezentanților Consiliului Local în Consiliul de Administrație al Spitalului Municipal Câmpulung Hotărâre privind desemnarea reprezentanților Consiliului Local în Consiliul de Administrație al Spitalului Municipal Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20277%20din%2014.12.2022.pdf",
+     "sha256": "3e79664015233575ccf7af55bed446611d6c72871c44b60cc25c266fc6c2b465"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-278-2022",
+   "path": "local/arges/campulung/2022/278",
+   "short": "HCL Câmpulung nr. 278/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 278/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20278%20din%2014.12.2022.pdf",
+     "sha256": "d71e23ce3c0887c8eb71961eaee31bbf39c382e23ad99b4f5e3f66672c8f4d34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-279-2022",
+   "path": "local/arges/campulung/2022/279",
+   "short": "HCL Câmpulung nr. 279/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 279/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20279%20din%2015.12.2022.pdf",
+     "sha256": "dd0cce4159bf8aafbfba45c067709221d247a2ca5a9c2d1054853ab8c63bf83e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-28-2022",
+   "path": "local/arges/campulung/2022/28",
+   "short": "HCL Câmpulung nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 28/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2028%20din%2028.02.2022.pdf",
+     "sha256": "7c1f748d7da8a3db9b0642d34ffc68ff8e46a52139e8aa70948b7063018e99b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-282-2022",
+   "path": "local/arges/campulung/2022/282",
+   "short": "HCL Câmpulung nr. 282/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 282/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-15",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20282%20din%2015.12.2022.pdf",
+     "sha256": "a4db962e105dbf87a2af6302a4204b620d77be2ca5b491b6425bf967c144fbfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-283-2022",
+   "path": "local/arges/campulung/2022/283",
+   "short": "HCL Câmpulung nr. 283/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 283/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20283%20din%2016.12.2022.pdf",
+     "sha256": "eda62c8a42cacfb8b73d48074a60ac1e7a3430a59f6825030e8af1dc9d532ce0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-284-2022",
+   "path": "local/arges/campulung/2022/284",
+   "short": "HCL Câmpulung nr. 284/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 284/2022 cu privire la aprobarea procedurii de publicare a listei contribuabililor persoane juridice care au declarat și au achitat la scadentă obligațiile fiscale de plată și nu înregistrează obligații restante la bugetul local Hotărâre cu privire la aprobarea procedurii de publicare a listei contribuabililor persoane juridice care au declarat și au achitat la scadentă obligațiile fiscale de plată și nu î",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20284%20din%2020.12.2022.pdf",
+     "sha256": "35b8256d862f046a09895f6ef8520711b474978e21274316d2ef95153ab528d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-286-2022",
+   "path": "local/arges/campulung/2022/286",
+   "short": "HCL Câmpulung nr. 286/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 286/2022 privind aprobarea contului de execuție al Municipiului Câmpulung la data de 14.12.2022 Hotărâre privind aprobarea contului de execuție al Municipiului Câmpulung la data de 14.12.2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20286%20din%2020.12.2022.pdf",
+     "sha256": "ec91cebe6aac78c5628f8df9deadb7dce1aea2074089932581f9daa1a59e3a75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-287-2022",
+   "path": "local/arges/campulung/2022/287",
+   "short": "HCL Câmpulung nr. 287/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 287/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20287%20din%2020.12.2022.pdf",
+     "sha256": "16736fab258aa12755b05203d2c2cd4219d89c3c279b5a457800714a0c7d61cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-288-2022",
+   "path": "local/arges/campulung/2022/288",
+   "short": "HCL Câmpulung nr. 288/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 288/2022 privind aprobarea Strategiei de Dezvoltare Locală al Municipiului Câmpulung 2021 - 2027 Hotărâre privind aprobarea Strategiei de Dezvoltare Locală al Municipiului Câmpulung 2021 - 2027",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20288%20din%2020.12.2022.pdf",
+     "sha256": "d0b43697ed9f886d21c6ee2975c1fba78cb876c8211ef791dfe9dc5de9be1587"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-289-2022",
+   "path": "local/arges/campulung/2022/289",
+   "short": "HCL Câmpulung nr. 289/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 289/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20289%20din%2020.12.2022.pdf",
+     "sha256": "73bb9f9d74d273a85c9a79702ec4d29178e12cb84820e61f2bac3d31faf346de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-29-2022",
+   "path": "local/arges/campulung/2022/29",
+   "short": "HCL Câmpulung nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 29/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2029%20din%2028.02.2022.pdf",
+     "sha256": "935574ab3e71992effbee7b85d44b0b248cc9f873e5a1f245277194ccfb40b82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-290-2022",
+   "path": "local/arges/campulung/2022/290",
+   "short": "HCL Câmpulung nr. 290/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 290/2022 privind privind prelungirea duratei contractelor de închiriere pentru suprafețele de teren ce aparțin domeniului public al Municipiului Câmpulung, ocupate de construcții provizorii (garaje, copertine) Hotărâre privind privind prelungirea duratei contractelor de închiriere pentru suprafețele de teren ce aparțin domeniului public al Municipiului Câmpulung, ocupate de construcții provizorii (garaje",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20290%20din%2020.12.2022.pdf",
+     "sha256": "81c996705d724afeeb459e5f8ca4c87407c3c501552d8a8e1ad7393ec7cb0cc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-291-2022",
+   "path": "local/arges/campulung/2022/291",
+   "short": "HCL Câmpulung nr. 291/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 291/2022 privind prelungirea duratei contractelor de închiriere pentru terenurile ce aparțin domeniului public sau privat al Municipiului Câmpulung, ocupate de construcții cu destinația de balcoane Hotărâre privind prelungirea duratei contractelor de închiriere pentru terenurile ce aparțin domeniului public sau privat al Municipiului Câmpulung, ocupate de construcții cu destinația de balcoane",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20291%20din%2020.12.2022.pdf",
+     "sha256": "ee7fadde0dbf6171467410a0fbe1c08d83e179d8ce2ea5592048c98fc394855b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-292-2022",
+   "path": "local/arges/campulung/2022/292",
+   "short": "HCL Câmpulung nr. 292/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 292/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20292%20din%2020.12.2022.pdf",
+     "sha256": "3a02394c9c21515e18fb657c0f45075cfc60702cc5e94ee6286f0050c286d4d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-293-2022",
+   "path": "local/arges/campulung/2022/293",
+   "short": "HCL Câmpulung nr. 293/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 293/2022 cu privire la utilizarea unei sume din excedentul bugetar al anilor precedenti pentru acoperirea temporară a golurilor de casă provenite din decalajele între veniturile şi cheltuielile secţiunii de dezvoltare în anul 2022 Hotărâre cu privire la utilizarea unei sume din excedentul bugetar al anilor precedenti pentru acoperirea temporară a golurilor de casă provenite din decalajele între veniturile",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20293%20din%2020.12.2022.pdf",
+     "sha256": "02a80d2caf9796a2b4583973177a51c78a524af2184eb49f77e6a9733f0977a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-294-2022",
+   "path": "local/arges/campulung/2022/294",
+   "short": "HCL Câmpulung nr. 294/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 294/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20294%20din%2020.12.2022.pdf",
+     "sha256": "8e68f1422dc7de593ae401f8e9d40c7bc72cfc669790984b9c0ade71fdb6342e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-295-2022",
+   "path": "local/arges/campulung/2022/295",
+   "short": "HCL Câmpulung nr. 295/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 295/2022 privind rectificarea bugetului local al Municipiului Câmpulung pe anul 2022 Hotărâre privind rectificarea bugetului local al Municipiului Câmpulung pe anul 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20295%20din%2020.12.2022.pdf",
+     "sha256": "595fa9fa5b218f868b05b573ea32ab4184f731600a8c56f76c3f882d50a9b428"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-297-2022",
+   "path": "local/arges/campulung/2022/297",
+   "short": "HCL Câmpulung nr. 297/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 297/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20297%20din%2020.12.2022.pdf",
+     "sha256": "63e3d6fe0a3338d3f6156b669a032c2dea6b4e26c3b7a0e40c5f298a589a2360"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-298-2022",
+   "path": "local/arges/campulung/2022/298",
+   "short": "HCL Câmpulung nr. 298/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 298/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20298%20din%2020.12.2022.pdf",
+     "sha256": "98b2b9343715a486e4366d69b37bbdd55a2fe5298c1678e1dadc7af88005d545"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-299-2022",
+   "path": "local/arges/campulung/2022/299",
+   "short": "HCL Câmpulung nr. 299/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 299/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20299%20din%2020.12.2022.pdf",
+     "sha256": "f23625b3f2fe102d68aa614a74ccd4c553455317039e57bdb84b4269068ae7ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-3-2022",
+   "path": "local/arges/campulung/2022/3",
+   "short": "HCL Câmpulung nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 3/2022 cu privire la aprobarea studiului de fezabilitate, devizului general al indicatorilor tehnico-economici pentru obiectivul de investiții „ Extinderea rețelei de distribuțiea gazelor naturale în Zona Urbană Marginalizată Cazărmilor din unicipiul Câmpulung “ Hotărâre cu privire la aprobarea studiului de fezabilitate, devizului general al indicatorilor tehnico-economici pentru obiectivul de investiții",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-01-09",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%203%20din%2009.01.2022.pdf",
+     "sha256": "301d1209cececb3e336dcda1e07df9875dd78a394ce73704f1a9d951c3ffd3a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-30-2022",
+   "path": "local/arges/campulung/2022/30",
+   "short": "HCL Câmpulung nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 30/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2030%20din%2028.02.2022.pdf",
+     "sha256": "9f3fe37db0a881c541af4c1078e86b541915689551cf2bc2cd621d6ec13e7cdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-300-2022",
+   "path": "local/arges/campulung/2022/300",
+   "short": "HCL Câmpulung nr. 300/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 300/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20300%20din%2020.12.2022.pdf",
+     "sha256": "1b85bd0cde5898e614ba84bf5f0c94c6e7b58000af382cef8602c6a3351ea171"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-301-2022",
+   "path": "local/arges/campulung/2022/301",
+   "short": "HCL Câmpulung nr. 301/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 301/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20301%20din%2020.12.2022.pdf",
+     "sha256": "9540b6787292c59dd4f7299bf8a55616e039613436a93d79535dd367a7edaab2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-302-2022",
+   "path": "local/arges/campulung/2022/302",
+   "short": "HCL Câmpulung nr. 302/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 302/2022 cu privire la majorarea capitalului social al SC Edilul CGA SA Câmpulung Hotărâre cu privire la majorarea capitalului social al SC Edilul CGA SA Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20302%20din%2020.12.2022.pdf",
+     "sha256": "e24c8fa33f943ff0a289b5c3f79402c1f4ffd22a2fd7d1ba6f65694a4811df0d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-303-2022",
    "path": "local/arges/campulung/2022/303",
    "short": "HCL Câmpulung nr. 303/2022",
@@ -168,6 +2988,51 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-304-2022",
+   "path": "local/arges/campulung/2022/304",
+   "short": "HCL Câmpulung nr. 304/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 304/2022 privind rectificarea bugetului local al Municipiului Câmpulung pe anul 2022 Hotărâre privind rectificarea bugetului local al Municipiului Câmpulung pe anul 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20304%20din%2028.12.2022.pdf",
+     "sha256": "bccb54abf97a7f9a69809c8aae5901897479c4b42e864209cda59f34caec73ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-305-2022",
+   "path": "local/arges/campulung/2022/305",
+   "short": "HCL Câmpulung nr. 305/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 305/2022 privind reţeaua unităţilor de învăţământ ce va funcţiona în anul scolar 2023 – 2024 în Municipiul Câmpulung Hotărâre privind reţeaua unităţilor de învăţământ ce va funcţiona în anul scolar 2023 – 2024 în Municipiul Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20305%20din%2028.12.2022.pdf",
+     "sha256": "d944ae959b363906819366e38ec2dfbf40f08376d38fc4820ff0ebc62567292f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-306-2022",
+   "path": "local/arges/campulung/2022/306",
+   "short": "HCL Câmpulung nr. 306/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 306/2022 privind aprobarea organigramei și a statului de funcții ale Spitalului de Pneumoftiziologie Câmpulung Hotărâre privind aprobarea organigramei și a statului de funcții ale Spitalului de Pneumoftiziologie Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20306%20din%2028.12.2022.pdf",
+     "sha256": "fc0365eb6550d606c7bc1b622bd5facbc53af0cb5b418643c7515c0783a33fec"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-307-2022",
    "path": "local/arges/campulung/2022/307",
    "short": "HCL Câmpulung nr. 307/2022",
@@ -179,6 +3044,321 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20307%20din%2028.12.2022.pdf",
      "sha256": "1677eb71d888d6d8615129ae94fa8c4bb2d6f6a667d75c16844b67ed91d24d59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-308-2022",
+   "path": "local/arges/campulung/2022/308",
+   "short": "HCL Câmpulung nr. 308/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 308/2022 privind prelungirea duratei contractelor de închiriere pentru spații ce aparțin domeniului public și privat al Municipiului Câmpulung, destinate sediilor partidelor politice Hotărâre privind prelungirea duratei contractelor de închiriere pentru spații ce aparțin domeniului public și privat al Municipiului Câmpulung, destinate sediilor partidelor politice",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20308%20din%2028.12.2022.pdf",
+     "sha256": "77421054f65b8afb4b904aba072ec224e3248829823eb6107d88075c7dd00bfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-309-2022",
+   "path": "local/arges/campulung/2022/309",
+   "short": "HCL Câmpulung nr. 309/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 309/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20309%20din%2028.12.2022.pdf",
+     "sha256": "d520151e3e6d5a30e868e798373c995702087206f641b583c5a0ef1b6159afc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-310-2022",
+   "path": "local/arges/campulung/2022/310",
+   "short": "HCL Câmpulung nr. 310/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 310/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%20310%20din%2028.12.2022.pdf",
+     "sha256": "f152dadec90964fdbf98a1a43087f39f8692f7c005f86c3ebeb976ab8a9b4085"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-35-2022",
+   "path": "local/arges/campulung/2022/35",
+   "short": "HCL Câmpulung nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 35/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2035%20din%2028.02.2022.pdf",
+     "sha256": "65b1a6acd45a23c93d52ec206756b935b5c2897791c224e7ee4f98478305e9e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-36-2022",
+   "path": "local/arges/campulung/2022/36",
+   "short": "HCL Câmpulung nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 36/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2036%20din%2028.02.2022.pdf",
+     "sha256": "0f8c297cc35408a1d39365a701c3ba36e7635c9f284c163213b8596fcf53f29d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-37-2022",
+   "path": "local/arges/campulung/2022/37",
+   "short": "HCL Câmpulung nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 37/2022 cu privire la rectificarea bugetului local al Municipiului Câmpulung pe anul 2022 Hotărâre cu privire la rectificarea bugetului local al Municipiului Câmpulung pe anul 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2037%20din%2009.03.2022.pdf",
+     "sha256": "921c26cd955483ab433c73bf69879210624821ec77ee5085038176c9307ef323"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-38-2022",
+   "path": "local/arges/campulung/2022/38",
+   "short": "HCL Câmpulung nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 38/2022 cu privire la adaptarea organigramei și a statului de funcții ale aparatului de specialitate al Primarului Municipiului Câmpulung Hotărâre cu privire la adaptarea organigramei și a statului de funcții ale aparatului de specialitate al Primarului Municipiului Câmpulung",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2038%20din%2009.03.2022.pdf",
+     "sha256": "eee5cb25dcb2f1f98c4fcce10452d01fef714924e468f10d181e7760bce378e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-42-2022",
+   "path": "local/arges/campulung/2022/42",
+   "short": "HCL Câmpulung nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 42/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2042%20din%2025.03.2022.pdf",
+     "sha256": "aab0513ca812c78e8526380df31a645ac5e2220256aeee18bb6582054a1bc3e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-43-2022",
+   "path": "local/arges/campulung/2022/43",
+   "short": "HCL Câmpulung nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 43/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2043%20din%2025.03.2022.pdf",
+     "sha256": "e46a7d27ee42168c22ea7d5e11efd0770917b1a91ee17dc103f8b362f38b1d27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-44-2022",
+   "path": "local/arges/campulung/2022/44",
+   "short": "HCL Câmpulung nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 44/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2044%20din%2025.03.2022.pdf",
+     "sha256": "491187065419136b6cdfb998f9d201a928f9bd69872c15311ea5f1e5448ca6df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-45-2022",
+   "path": "local/arges/campulung/2022/45",
+   "short": "HCL Câmpulung nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 45/2022 cu privire la nr,9/09 01 2022 privind aprobarea Studiului de Fezabilitate, a Devizului general și a indicatorilor tehnico-economici ai obiectivului de investiții : “ Construirea infrastructurii de locuire socială pentru persoanele victime ale violenței în familie” Hotărâre cu privire la nr,9/09 01 2022 privind aprobarea Studiului de Fezabilitate, a Devizului general și a indicatorilor tehnico-econ",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2045%20din%2025.03.2022.pdf",
+     "sha256": "2e9ebbc10e5ee9b5181149430d851fc38d4f81832ae159f2b294a9a0874ae623"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-47-2022",
+   "path": "local/arges/campulung/2022/47",
+   "short": "HCL Câmpulung nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 47/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2047%20din%2025.03.2022.pdf",
+     "sha256": "5a94b40f264a514159fe874cc57fc59719902b06a352a62900af8b469ba437d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-49-2022",
+   "path": "local/arges/campulung/2022/49",
+   "short": "HCL Câmpulung nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 49/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2049%20din%2025.03.2022.pdf",
+     "sha256": "0febc70bb9df1020d28342e98327d037f67524f37b7d45c87a45b35154d26cc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-5-2022",
+   "path": "local/arges/campulung/2022/5",
+   "short": "HCL Câmpulung nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 5/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-01-09",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%205%20din%2009.01.2022.pdf",
+     "sha256": "2c8d39525db8e1c6d4ef4ec8c4e7603eecde1a7a9d96f4b22ad9241173e8e449"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-51-2022",
+   "path": "local/arges/campulung/2022/51",
+   "short": "HCL Câmpulung nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 51/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-25",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2051%20din%2025.03.2022.pdf",
+     "sha256": "f92145f84ed8fb92db304cb52ca12ee63b0e56ba8e356c51852bb47886e1c34d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-52-2022",
+   "path": "local/arges/campulung/2022/52",
+   "short": "HCL Câmpulung nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 52/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2052%20din%2031.03.2022.pdf",
+     "sha256": "0f53a05db7f81468af088367d975b6a2ebd88f5e3621e1788923a9b03baf1b88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-53-2022",
+   "path": "local/arges/campulung/2022/53",
+   "short": "HCL Câmpulung nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 53/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2053%20din%2031.03.2022.pdf",
+     "sha256": "a70d6b5711a3df70216d965b27f05e6ca8222adea9ac87c92f86fce39b281b0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-54-2022",
+   "path": "local/arges/campulung/2022/54",
+   "short": "HCL Câmpulung nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 54/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2054%20din%2031.03.2022.pdf",
+     "sha256": "f1296fbdaa5991b88b0c0d5a726c46a02cdb0d67a9767302bc235d63c0462217"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-55-2022",
+   "path": "local/arges/campulung/2022/55",
+   "short": "HCL Câmpulung nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 55/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2055%20din%2031.03.2022.pdf",
+     "sha256": "21e353f24c6a158062933db203a146626749cdf063254c686342d3207749b0e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-56-2022",
+   "path": "local/arges/campulung/2022/56",
+   "short": "HCL Câmpulung nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 56/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2056%20din%2031.03.2022.pdf",
+     "sha256": "44f06b8bc8f051d979075db05fae8423a69e57b81e1cb8e14379599e0a64ea0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-57-2022",
+   "path": "local/arges/campulung/2022/57",
+   "short": "HCL Câmpulung nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 57/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2057%20din%2031.03.2022.pdf",
+     "sha256": "a17bd73b082fa1866eeb0d496c1aef31f3cf32dfbae0757c40c2fba63c4ff49a"
     }
    ]
   },
@@ -213,6 +3393,66 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-6-2022",
+   "path": "local/arges/campulung/2022/6",
+   "short": "HCL Câmpulung nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 6/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-01-09",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%206%20din%2009.01.2022.pdf",
+     "sha256": "90d30118b786f7b1ae94b1cd96ae118aba4aa08ac290947fb89a2d10833773c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-60-2022",
+   "path": "local/arges/campulung/2022/60",
+   "short": "HCL Câmpulung nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 60/2022 cu privire la aprobarea bugetului de venituri și cheltuieli pe anul 2022 al S.C.Piețe-Servicii Comunitare Muscel SRL Hotărâre cu privire la aprobarea bugetului de venituri și cheltuieli pe anul 2022 al S.C.Piețe-Servicii Comunitare Muscel SRL",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2060%20din%2031.03.2022.pdf",
+     "sha256": "6186d1e3a2c503953073776f40db9f145184b0e294663d42c82eadc6106d696e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-62-2022",
+   "path": "local/arges/campulung/2022/62",
+   "short": "HCL Câmpulung nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 62/2022 cu privire la aprobarea unor măsuri de administrare a domeniului public și privat al municipiului Câmpulung, respectiv pentru terenurile ocupate de construcții provizorii (garaje, copertine, magazii) Hotărâre cu privire la aprobarea unor măsuri de administrare a domeniului public și privat al municipiului Câmpulung, respectiv pentru terenurile ocupate de construcții provizorii (garaje, copertine",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2062%20din%2031.03.2022.pdf",
+     "sha256": "be1c9d19b4947725b5c2889e4514e8d843c1b00960a239dff681a12f2e8e9444"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-63-2022",
+   "path": "local/arges/campulung/2022/63",
+   "short": "HCL Câmpulung nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 63/2022 cu privire la aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local al Municipiului Câmpulung pentru anul 2022 Hotărâre cu privire la aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local al Municipiului Câmpulung pentru anul 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2063%20din%2031.03.2022.pdf",
+     "sha256": "70581b98982a4ff4233b4a323104d092220a64b2296c8f81b625324f86fefd4c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-64-2022",
    "path": "local/arges/campulung/2022/64",
    "short": "HCL Câmpulung nr. 64/2022",
@@ -228,6 +3468,141 @@
    ]
   },
   {
+   "slug": "hcl-arges--campulung-65-2022",
+   "path": "local/arges/campulung/2022/65",
+   "short": "HCL Câmpulung nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 65/2022 cu privire la aprobarea achiziționării unor servicii de consultanță juridică și economică de către SC EDILUL CGA SA Hotărâre cu privire la aprobarea achiziționării unor servicii de consultanță juridică și economică de către SC EDILUL CGA SA",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2065%20din%2031.03.2022.pdf",
+     "sha256": "c349512a1696e55151a6fcfe5d4d1f5362c0b0f63f01380c69d54e4413f7c618"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-66-2022",
+   "path": "local/arges/campulung/2022/66",
+   "short": "HCL Câmpulung nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 66/2022 cu privire la aprobarea numarului si cuantumului burselor scolare ce se vor acorda din bugetul local elevilor din invatământul preuniver-sitar de stat cu frecvența în semestrul II al anului școlar 2021 - 2022 Hotărâre cu privire la aprobarea numarului si cuantumului burselor scolare ce se vor acorda din bugetul local elevilor din invatământul preuniver-sitar de stat cu frecvența în semestrul II al",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2066%20din%2031.03.2022.pdf",
+     "sha256": "384b9d90fd83688ee4d3a56f3bc77ba2c7acf219c9582cae01cfb862aed2b29e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-67-2022",
+   "path": "local/arges/campulung/2022/67",
+   "short": "HCL Câmpulung nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 67/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2067%20din%2031.03.2022.pdf",
+     "sha256": "6e91ea95f72ebc1bce0b159ee48120bc2b94b3a232759ecfc7b86c121d2f5215"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-68-2022",
+   "path": "local/arges/campulung/2022/68",
+   "short": "HCL Câmpulung nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 68/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2068%20din%2031.03.2022.pdf",
+     "sha256": "6652e118d99dcf7675fa691cdee8ebd8bf0e53f68eae228c2beb2e6e882f7f6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-69-2022",
+   "path": "local/arges/campulung/2022/69",
+   "short": "HCL Câmpulung nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 69/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2069%20din%2031.03.2022.pdf",
+     "sha256": "8dfd63de8280240bda2b2fd7632605e24faccaeb0e90d210188c4964cadbf927"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-7-2022",
+   "path": "local/arges/campulung/2022/7",
+   "short": "HCL Câmpulung nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 7/2022 cu privire la aprobarea studiului de fezabilitate, devizului general și indicatorilor tehnico-economici pentru obiectivul de investiții „ Realizarea unui centru medico-social “ Hotărâre cu privire la aprobarea studiului de fezabilitate, devizului general și indicatorilor tehnico-economici pentru obiectivul de investiții „ Realizarea unui centru medico-social “",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-01-09",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%207%20din%2009.01.2022.pdf",
+     "sha256": "ef752f49fcd9a39367066d2b3c3235e1acdac18805787d75595177c1de1379cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-70-2022",
+   "path": "local/arges/campulung/2022/70",
+   "short": "HCL Câmpulung nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 70/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2070%20din%2031.03.2022.pdf",
+     "sha256": "7c792f98a7a110fd3605dd67e55548e233c39e5cce2804ecd4ffb11245a8a171"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-71-2022",
+   "path": "local/arges/campulung/2022/71",
+   "short": "HCL Câmpulung nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 71/2022 cu privire la rectificarea bugetului local al Municipiului Câmpulung pe anul 2022 Hotărâre cu privire la rectificarea bugetului local al Municipiului Câmpulung pe anul 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2071%20din%2031.03.2022.pdf",
+     "sha256": "5ca2d6d469b717937fbe3f5329e18de6c70b7815ee127fea878337151d031434"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-72-2022",
+   "path": "local/arges/campulung/2022/72",
+   "short": "HCL Câmpulung nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 72/2022 cu privire la aprobarea bugetului de venituri și cheltuieli pe anul 2022 Hotărâre cu privire la aprobarea bugetului de venituri și cheltuieli pe anul 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2072%20din%2031.03.2022.pdf",
+     "sha256": "90d0f28d60f2225018b2641a07c5aebd261c3d9b4965f2b9d57056a06716826e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--campulung-73-2022",
    "path": "local/arges/campulung/2022/73",
    "short": "HCL Câmpulung nr. 73/2022",
@@ -239,6 +3614,366 @@
      "units": 1,
      "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2073%20din%2031.03.2022.pdf",
      "sha256": "5b82ee1075bc11bc32e65e1c7a48aacdf91ba0ad283dea42507bdc8a5a18fba0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-74-2022",
+   "path": "local/arges/campulung/2022/74",
+   "short": "HCL Câmpulung nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 74/2022 cu privire la modificarea componenței Hotărâre cu privire la modificarea componenței",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2074%20din%2031.03.2022.pdf",
+     "sha256": "6a6b604f410f085e85e172fa822c5d0c95e0a3e5048727d0db56fbd141660a1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-75-2022",
+   "path": "local/arges/campulung/2022/75",
+   "short": "HCL Câmpulung nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 75/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2075%20din%2031.03.2022.pdf",
+     "sha256": "eb6fa72670607aee7f35fa1fbd137fd4e0cd85522a4171f86f220fd0c7de28e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-76-2022",
+   "path": "local/arges/campulung/2022/76",
+   "short": "HCL Câmpulung nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 76/2022 cu privire la înlocuirea unui reprezentant Hotărâre cu privire la înlocuirea unui reprezentant",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2076%20din%2031.03.2022.pdf",
+     "sha256": "0919830800206b6756ce83d0b49c47a3e96922400b81dd42277e90f749716b48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-77-2022",
+   "path": "local/arges/campulung/2022/77",
+   "short": "HCL Câmpulung nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 77/2022 cu privire la înființarea Compartimentului de Transport Public Local Hotărâre cu privire la înființarea Compartimentului de Transport Public Local",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2077%20din%2031.03.2022.pdf",
+     "sha256": "9433ff9baa842b1fd46ec8fff162060d3e7d9d5050730be34d4a2cd807289c34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-78-2022",
+   "path": "local/arges/campulung/2022/78",
+   "short": "HCL Câmpulung nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 78/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2078%20din%2031.03.2022.pdf",
+     "sha256": "9a1ed6bfe674c86dc322bafb624e72a2ef39f0e08898204b91f7681c26e4fa90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-79-2022",
+   "path": "local/arges/campulung/2022/79",
+   "short": "HCL Câmpulung nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 79/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2079%20din%2031.03.2022.pdf",
+     "sha256": "addb82b68fae15bd3c50b13d0008fa2f27810dfa60f2b0a7114b58567efd487d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-8-2022",
+   "path": "local/arges/campulung/2022/8",
+   "short": "HCL Câmpulung nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 8/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-01-09",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%208%20din%2009.01.2022.pdf",
+     "sha256": "3cbab6526ac40a86d5272dbf95f68324a58b2470d55741d4295bcdb081d94700"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-80-2022",
+   "path": "local/arges/campulung/2022/80",
+   "short": "HCL Câmpulung nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 80/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2080%20din%2031.03.2022.pdf",
+     "sha256": "aac4b2a4d9a69cc8b631a7afaffcc0c55a199c805c994108c3f544966b1401e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-81-2022",
+   "path": "local/arges/campulung/2022/81",
+   "short": "HCL Câmpulung nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 81/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2081%20din%2031.03.2022.pdf",
+     "sha256": "a19cfaf344267b74dde85065ec368e0151b0f72c46474729773d09fc1f11028d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-83-2022",
+   "path": "local/arges/campulung/2022/83",
+   "short": "HCL Câmpulung nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 83/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2083%20din%2031.03.2022.pdf",
+     "sha256": "33b1c934d3652a58f1d91b2144d5a9a149ae11f50a741df2a116ab4b1855df27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-84-2022",
+   "path": "local/arges/campulung/2022/84",
+   "short": "HCL Câmpulung nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 84/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2084%20din%2031.03.2022.pdf",
+     "sha256": "ee21551851ac2808d756d066b19107b8fcabf42961bcc6874ed541f685203721"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-85-2022",
+   "path": "local/arges/campulung/2022/85",
+   "short": "HCL Câmpulung nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 85/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2085%20din%2031.03.2022.pdf",
+     "sha256": "348f5b0a0bfc81ec234e9e47f340853cee71f8566fc8159e3f50feedc83bbd05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-87-2022",
+   "path": "local/arges/campulung/2022/87",
+   "short": "HCL Câmpulung nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 87/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2087%20din%2001.04.2022.pdf",
+     "sha256": "7316e470fc4b683a63c26687521d5177166b4736783a832a24e1bd85fd179ef7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-89-2022",
+   "path": "local/arges/campulung/2022/89",
+   "short": "HCL Câmpulung nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 89/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2089%20din%2001.04.2022.pdf",
+     "sha256": "2edf0eda1a95806dab60ac282732f6a61a1e388203df40255537881debc6fd72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-9-2022",
+   "path": "local/arges/campulung/2022/9",
+   "short": "HCL Câmpulung nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 9/2022 cu privire la aprobarea studiului de fezabilitate, devizului general și indicatorilor tehnico-economici pentru obiectivul de investiții „ Construirea infrastructurii de locuire socială pentru persoanele victime ale violenței în familie “ Hotărâre cu privire la aprobarea studiului de fezabilitate, devizului general și indicatorilor tehnico-economici pentru obiectivul de investiții „ Construirea inf",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-01-09",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%209%20din%2009.01.2022.pdf",
+     "sha256": "e8314ae89ca1a988208ad8054d5c9333a0abb7496e444cbd37e4d6fe732d6d0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-90-2022",
+   "path": "local/arges/campulung/2022/90",
+   "short": "HCL Câmpulung nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 90/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2090%20din%2001.04.2022.pdf",
+     "sha256": "c211e899d084fc1900bf84fe1c802dbc6d94bce91438ec759979bf3d73bdab82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-91-2022",
+   "path": "local/arges/campulung/2022/91",
+   "short": "HCL Câmpulung nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 91/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2091%20din%2001.04.2022.pdf",
+     "sha256": "6e3f38ae9eb7e67c5446d15658d0ebfe8050aa146ef0d01e00e8cf1f21da3f50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-92-2022",
+   "path": "local/arges/campulung/2022/92",
+   "short": "HCL Câmpulung nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 92/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2092%20din%2001.04.2022.pdf",
+     "sha256": "7d325b5149f28cd758210724f83977ec9989936e2251d2e9197a644168c8c1ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-93-2022",
+   "path": "local/arges/campulung/2022/93",
+   "short": "HCL Câmpulung nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 93/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2093%20din%2012.04.2022.pdf",
+     "sha256": "1f58f5ed24c3ff12e3af144e0618ae70c48469d04b1f775db4a903c3555e3578"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-95-2022",
+   "path": "local/arges/campulung/2022/95",
+   "short": "HCL Câmpulung nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 95/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2095%20din%2012.04.2022.pdf",
+     "sha256": "ef66e0706348aecc2341128b0ad62a82de7453d599493ee4fcdb2993054cccaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-96-2022",
+   "path": "local/arges/campulung/2022/96",
+   "short": "HCL Câmpulung nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 96/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2096%20din%2012.04.2022.pdf",
+     "sha256": "2f2923a604ec619f733df616c02b4f200fd3ae8d693a88db59afd9def7e1a2b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-97-2022",
+   "path": "local/arges/campulung/2022/97",
+   "short": "HCL Câmpulung nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 97/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2097%20din%2012.04.2022.pdf",
+     "sha256": "3d7a34b62c4cba8a9816920ebe3d7aac82104f60b9e559a4053a7d6eb8d1a0fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-98-2022",
+   "path": "local/arges/campulung/2022/98",
+   "short": "HCL Câmpulung nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 98/2022 cu privire la rectificarea bugetului local al Municipiului Câmpulung pe anul 2022 Hotărâre cu privire la rectificarea bugetului local al Municipiului Câmpulung pe anul 2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-12",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2098%20din%2012.04.2022.pdf",
+     "sha256": "5e7a1060532062d18358b6e56a750f7fac82bdaf1e2165edf279d03272e725b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--campulung-99-2022",
+   "path": "local/arges/campulung/2022/99",
+   "short": "HCL Câmpulung nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung nr. 99/2022",
+   "url": "https://www.primariacampulung.ro/consiliul-local/registrul-de-hotarari",
+   "versions": [
+    {
+     "from": "2022-04-15",
+     "units": 1,
+     "source_url": "https://www.primariacampulung.ro/file-zone/registre/HCL/2022/HCL%20nr.%2099%20din%2015.04.2022.pdf",
+     "sha256": "f7a040b89b88b58fece056b5fd119ac96365f64fd1ba4693ffe58af97cb5af39"
     }
    ]
   }

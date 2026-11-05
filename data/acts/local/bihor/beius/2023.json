@@ -628,6 +628,28 @@
 }
 },
 {
+"slug": "hcl-bihor--beius-94-2023",
+"path": "local/bihor/beius/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 94/2023 privind aprobarea Planului de Analiză si Acoperire a Riscurilor al municipiului Beius pentru anul 2023",
+"short": "HCL Beiuș nr. 94/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-24",
+"latest": "2023-04-24",
+"portal": "https://emol.ro/beius-bh/registru-hcl/101231",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-bihor--beius-97-2023",
 "path": "local/bihor/beius/2023/97",
 "kind": "local",
@@ -1100,6 +1122,28 @@
 }
 },
 {
+"slug": "hcl-bihor--beius-139-2023",
+"path": "local/bihor/beius/2023/139",
+"kind": "local",
+"year": "2023",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 139/2023 privind actualizarea Regulamentului de ordine interioara al aparatului de specialitate al Primarului municipiului Beius si al institutiilor subordonate, pentru personalul contractual",
+"short": "HCL Beiuș nr. 139/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://emol.ro/beius-bh/registru-hcl/107208",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-bihor--beius-141-2023",
 "path": "local/bihor/beius/2023/141",
 "kind": "local",
@@ -1229,6 +1273,28 @@
 "council_name": "Consiliul Local al Municipiului Beiuș",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-bihor--beius-151-2023",
+"path": "local/bihor/beius/2023/151",
+"kind": "local",
+"year": "2023",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Beiuș nr. 151/2023 privind aprobarea documentaţiei referitoare la modalitatea de gestiune a serviciiului comunitar de utilităţi publice în Municipiul Beiuş (Studiu de oportunitate, Caiet de sarcini şi Contract de delegare), servicii constând în activităţile măturat, spălat şi stropitul căilor publice de pe raza municipiului Beiuş, inclusiv colectarea şi transportul deşeurilor de pământ şi pietre provenite de pe căile publice la depozitele de deşeuri, precum şi a deşeurilor provenite din coşurile stradale la depozitele de deşeuri şi/sau la instalaţiile de tratare",
+"short": "HCL Beiuș nr. 151/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://emol.ro/beius-bh/registru-hcl/109676",
+"council": "bihor/beius",
+"council_name": "Consiliul Local al Municipiului Beiuș",
+"flags": {
+"text_pending": "source"
 }
 },
 {

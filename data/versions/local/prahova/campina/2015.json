@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/campina/2015",
+ "acts": [
+  {
+   "slug": "hcl-prahova--campina-121-2015",
+   "path": "local/prahova/campina/2015/121",
+   "short": "HCL Câmpina nr. 121/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 121/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e31f3b796896ab8df5ef36a63d424ba3814111c9a0a5734a2b6d4b8a023172ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-68-2015",
+   "path": "local/prahova/campina/2015/68",
+   "short": "HCL Câmpina nr. 68/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 68/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cb1cb5b7f2c72a95d49092dff7c39014b3f548444c48add1be8700af98c3a2ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-70-2015",
+   "path": "local/prahova/campina/2015/70",
+   "short": "HCL Câmpina nr. 70/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 70/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "39d9e207da7127ce728747aab3d19243cd184f9c10a5dc72b617b865e4ebe0d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-77-2015",
+   "path": "local/prahova/campina/2015/77",
+   "short": "HCL Câmpina nr. 77/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 77/2015 privind aprobarea inventarieriim domeniul privat al municipiuluf^&BfpTna a imobilului - teren Tnsuprafata de 202,00 m.p. - m exclusivitate si 13,50 m.p. - indiviz din 27,00 m.p., situat m municipiul Campina, str.Independentei, f.nr., Tarla 83, ParceIa Cc 242 Avand in vedere: - expunerea de motive nr.63.869/15 iunie 2015 a membrilor Comisiei amenajarea teritoriului, urbanism, ecologie $i protec{ia",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-77-inv-dom-privat-202-mp-si-135-mp-indiv-din-27-mp-str.-Independentei-fnr.-dl-Ceptureanu.pdf",
+     "sha256": "972421dd3579f6353b39fb84df7dd08453da37d1535969318aa78241a071f5e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-87-2015",
+   "path": "local/prahova/campina/2015/87",
+   "short": "HCL Câmpina nr. 87/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 87/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5e44dc3db2727f2d63dc243874b0f4af87fd346af3aaeceac05a6f71d010827f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-88-2015",
+   "path": "local/prahova/campina/2015/88",
+   "short": "HCL Câmpina nr. 88/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 88/2015 privind aprobarea PlanuIui Urbanistic de Detal pentru \"Modificare retragere fata de limita laterala dreapta (estica) stabilita prin PUG si obtinere Autorizatie de reconstruire locuinta (S+P+Em) la distanta de 0,90 m fata de limita estica aterenului, construire alei auto-pietonaIe, parcare proprie, platforma betonata pentru pubeIe de gunoi, pod de Iemn peste canaluI pluvial, imprejmuire interioara",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2015/",
+     "sha256": "bd36d5ca61bd1ac18826af6039883610514469196d5356eb7f85c87d239f7531"
+    }
+   ]
+  }
+ ]
+}

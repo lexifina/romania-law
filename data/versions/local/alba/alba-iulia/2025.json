@@ -3,6 +3,471 @@
  "shard": "local/alba/alba-iulia/2025",
  "acts": [
   {
+   "slug": "hcl-alba--alba-iulia-108-2025",
+   "path": "local/alba/alba-iulia/2025/108",
+   "short": "HCL Alba Iulia nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 108/2025 privind trecerea unui imobil (teren) din domeniul privat al municipiului Alba Iulia în domeniul public al acestuia",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/199318",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/68018/PAD.pdf",
+     "sha256": "1d867bc96fa998a577aff556cb8f932fc0be517b390e20cb56f7293a421e7169"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-109-2025",
+   "path": "local/alba/alba-iulia/2025/109",
+   "short": "HCL Alba Iulia nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 109/2025 privind acceptarea donaţiei către Municipiului Alba Iulia-domeniul public, a unui imobil",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/199319",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/68019/Anexa.pdf",
+     "sha256": "65c16d4b17626c2cf28f790c481fd3f58b184ccc197d3bacaaae013288276171"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-111-2025",
+   "path": "local/alba/alba-iulia/2025/111",
+   "short": "HCL Alba Iulia nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 111/2025 privind acceptarea donaţiei către Municipiul Alba Iulia- domeniul public, a unor imobile (terenuri)",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/199321",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/68020/Anexa.pdf",
+     "sha256": "fe99667ced8be1beca651ab01c03cd34dc933e4afba782780784f0d07a78bb19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-117-2025",
+   "path": "local/alba/alba-iulia/2025/117",
+   "short": "HCL Alba Iulia nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 117/2025 privind aprobarea transmiterii în administrarea Centrului Cultural Palatul Principilor a unor bunuri aflate în domeniul public al municipiului Alba Iulia",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/199327",
+   "versions": [
+    {
+     "from": "2025-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/68033/Contract%20cadru%20administrare%20Palatul%20Principilor%20Casa%20Velican.doc",
+     "sha256": "73547ccb5a31d5f5eef1f3d8ddd29f6f7d5867bbf21e39baaa044c61a1d58f89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-136-2025",
+   "path": "local/alba/alba-iulia/2025/136",
+   "short": "HCL Alba Iulia nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 136/2025 cu privire la actualizarea programului de transport public local de persoane pentru zona tarifară „zona 1 municipiul Alba Iulia”",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/205104",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/70479/ANEXA.pdf",
+     "sha256": "8912cfa941ef0a6db64ef2b1ab8d8422c1d22e7275f2fe254f6c1a694560f32f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-145-2025",
+   "path": "local/alba/alba-iulia/2025/145",
+   "short": "HCL Alba Iulia nr. 145/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 145/2025 privind aprobarea documentației cadastrale de dezmembrare a unui imobil",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/205113",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/70483/DXF-Model.pdf",
+     "sha256": "dbd02903d538ecb2a17b84ab957d73fd7a24de3cbc3233cb02cbac2d8556c353"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-146-2025",
+   "path": "local/alba/alba-iulia/2025/146",
+   "short": "HCL Alba Iulia nr. 146/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 146/2025 privind aprobarea documentației cadastrale de dezmembrare a unui imobil",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/205114",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/70486/Plan%20HCL.pdf",
+     "sha256": "343fd67d685d3560a1c425c27731d91d6520330809e46ef11c363f8edac3e6ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-148-2025",
+   "path": "local/alba/alba-iulia/2025/148",
+   "short": "HCL Alba Iulia nr. 148/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 148/2025 privind acceptarea donaţiei către Municipiul Alba Iulia- domeniul public, a unui imobil (teren)",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/205116",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/70488/Anexa.pdf",
+     "sha256": "ad718d09c4f568e12b06a4280fb35d5a5bc0560b796725f029d87eec6403ea4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-150-2025",
+   "path": "local/alba/alba-iulia/2025/150",
+   "short": "HCL Alba Iulia nr. 150/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 150/2025 privind acceptarea donaţiei către Municipiul Alba Iulia- domeniul public, a unui imobil înscris în CF nr. 113375",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/205118",
+   "versions": [
+    {
+     "from": "2025-05-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/70489/plan%20Aleea%20Vilelor-Model.pdf",
+     "sha256": "c7614335796a52ae951197000590d247ccd2e0acc9da0feee1f137dafa1479e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-176-2025",
+   "path": "local/alba/alba-iulia/2025/176",
+   "short": "HCL Alba Iulia nr. 176/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 176/2025 privind declanșarea procedurii de expropriere a unor imobile in vederea realizarii obiectivului de investiții: FLUIDIZAREA TRAFICULUI RUTIER PRIN MĂSURI DE MOBILITATE URBANĂ DURABILĂ – CONSTRUIRE ARTERA CU ROL DE CULOAR VERDE DE MOBILITATE PE LATURA DE SUD VEST A MUNICIPIULUI ALBA IULIA",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/209779",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/72469/Raport%20de%20Evaluare.pdf",
+     "sha256": "0a01e8ce2cd042fa042ef1834215ee7fb4e411b3b225e27136b4d6bdc3cce7a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-179-2025",
+   "path": "local/alba/alba-iulia/2025/179",
+   "short": "HCL Alba Iulia nr. 179/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 179/2025 privind aprobarea încheierii unei convenţii de constituire a drepturilor de uz, servitute și acces la utilitățile publice în favoarea SC DISTRIBUȚIE ENERGIE ELECTRICĂ ROMÂNIA SA",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/209782",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/72472/Anexa%20HCL%20conven%C8%9Bie%20Electrica.doc",
+     "sha256": "0d907104c6b8c60d98c1beb9623f6aa96f648968f7619758d748e76bcd5d2716"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-191-2025",
+   "path": "local/alba/alba-iulia/2025/191",
+   "short": "HCL Alba Iulia nr. 191/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 191/2025 privind declanșarea procedurii de expropriere a unor imobile (terenuri) în vederea realizării obiectivului de investiții: ”DESCONGESTIONARE TRAFIC INTRARE N-V MUNICIPIUL ALBA IULIA DN74 – CONSTRUIRE PASAJ SUBTERAN ZONA STADION UNIREA LA INTERSECȚIA B-DULUI REPUBLICII CU B-DUL REVOLUȚIEI 1989”",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/209794",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/72495/Raport%20de%20evaluare.pdf",
+     "sha256": "d01a515fc8cc893bd0d20f97bfcfdacd01549450f279e92f23a511bb93ef75de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-208-2025",
+   "path": "local/alba/alba-iulia/2025/208",
+   "short": "HCL Alba Iulia nr. 208/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 208/2025 privind aprobarea încheierii unei convenţii de constituire a drepturilor de uz, servitute și acces la utilitățile publice în favoarea SC DISTRIBUȚIE ENERGIE ELECTRICĂ ROMÂNIA SA",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/214672",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/74301/Anexa%20HCL%20conven%C8%9Bie%20Electrica.doc",
+     "sha256": "7a0491489e73e4dbd9cac02e133044c0919c3ce1dd2c290248a57554f0021ec0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-21-2025",
+   "path": "local/alba/alba-iulia/2025/21",
+   "short": "HCL Alba Iulia nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 21/2025 privind aprobarea tarifului minim pentru serviciile de pază prestate de către Direcția generală Poliția locală a municipiului Alba Iulia începând cu luna februarie 2025",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/189313",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/64391/ANEXA.pdf",
+     "sha256": "c2f2e2a2ac78002d95a870e4d3aaa04dca3869128b9d7fc0e71a909a0f8257d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-210-2025",
+   "path": "local/alba/alba-iulia/2025/210",
+   "short": "HCL Alba Iulia nr. 210/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 210/2025 privind actualizarea bunurilor care aparțin domeniului public al Municipiului Alba Iulia",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/214674",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/74303/Anexa.pdf",
+     "sha256": "e18d265fd1cce34d0eaefecc10c56d9d4b134c25df3a7c6b5c771b71af9d9371"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-223-2025",
+   "path": "local/alba/alba-iulia/2025/223",
+   "short": "HCL Alba Iulia nr. 223/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 223/2025 privind aprobarea încheierii unui act adițional la contractul de administrare nr.11.826/2023 încheiat între Municipiul Alba Iulia și Centrul Cultural Palatul Principilor",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/214687",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/74320/Act%20adi%C8%9Bional%20cadru.doc",
+     "sha256": "8569470c9372ea5f1484af48491dbccd7f3e1988681061e7b99c824b19a00d0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-239-2025",
+   "path": "local/alba/alba-iulia/2025/239",
+   "short": "HCL Alba Iulia nr. 239/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 239/2025 privind acceptarea donaţiei către Municipiul Alba Iulia- domeniul public, a unor imobile înscrise în CF nr. 124892 și CF nr.124849",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/217036",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/75583/Anexa.pdf",
+     "sha256": "f1d06f7e04c7dbbeb412731911e4ec0434fca837d57ba22f87b21b6f415210c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-240-2025",
+   "path": "local/alba/alba-iulia/2025/240",
+   "short": "HCL Alba Iulia nr. 240/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 240/2025 privind acceptarea donaţiei către Municipiul Alba Iulia- domeniul public, a unui imobil înscris în CF nr. 72071",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/217037",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/75584/Anexa.pdf",
+     "sha256": "ea5ee84392288b4f751f253128cb5cfc38f6ec5b0db62d7d670f6dc4f1c1aadb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-277-2025",
+   "path": "local/alba/alba-iulia/2025/277",
+   "short": "HCL Alba Iulia nr. 277/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 277/2025 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru obiectivul: ”EXTINDERE REȚEA CANALIZARE MENAJERĂ DIN STR. APUSENI, DN250MM, L=352M CU 19 RACORDURI MENAJERE ȘI UN BRANȘAMENT APA POTABILĂ''",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/222681",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/78376/DG%20pentru%20Padis%20si%20Gilau.pdf",
+     "sha256": "2a1452ec7a289bea5591681d0cc82f475c8d04a05cc5cae47ef618a7f56a8291"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-281-2025",
+   "path": "local/alba/alba-iulia/2025/281",
+   "short": "HCL Alba Iulia nr. 281/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 281/2025 privind acceptarea donației către Municipiul Alba Iulia-domeniul public, a unui imobil înscris în CF nr.125288",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/222685",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/78381/plan.pdf",
+     "sha256": "a4cdd9a9ae4a068b513211ccd25f5bc59a8dcbdeba720835b9f79fb941d8ada3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-282-2025",
+   "path": "local/alba/alba-iulia/2025/282",
+   "short": "HCL Alba Iulia nr. 282/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 282/2025 privind înscrierea dreptului de proprietate al municipiului Alba Iulia – domeniul public asupra unui imobil (drum)",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/222686",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/78382/Anexa%20HCL.pdf",
+     "sha256": "efa9010e8ff2dfee212e5f3df4857dc6b91ecb90748c3bd3c6605f36d4e5af56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-285-2025",
+   "path": "local/alba/alba-iulia/2025/285",
+   "short": "HCL Alba Iulia nr. 285/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 285/2025 privind aprobarea transmiterii în administrarea Centrului Cultural Palatul Principilor a unor bunuri aflate în domeniul public al municipiului Alba Iulia",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/222689",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/78383/Contract%20cadru%20administrare%20Palatul%20Principilor%20Poarta%20IV.doc",
+     "sha256": "f2261bd89c54ea14d77a74905d29879b4aa56cbab56ea2dc7e6dd401bb29d859"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-302-2025",
+   "path": "local/alba/alba-iulia/2025/302",
+   "short": "HCL Alba Iulia nr. 302/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 302/2025 privind transferul cu titlu gratuit de obiecte de inventar către CLUBUL SPORTIV MUNICIPAL UNIREA ALBA IULIA",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/222706",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/78423/Anexa%20Lista%20ob%20inventar.pdf",
+     "sha256": "fe28a1708689667d5a710f80a1dfbaa408285654a7d8a0330a496b8bfde4345b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-306-2025",
+   "path": "local/alba/alba-iulia/2025/306",
+   "short": "HCL Alba Iulia nr. 306/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 306/2025 privind modificarea Hotărârii nr. 411/27.11.2024 a Consiliului Local al municipiului Alba Iulia privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de stat și particular de pe raza municipiului Alba Iulia pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/225034",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/79425/anexa%20RETEA%20SCOLARA%20reorg.pdf",
+     "sha256": "3dd1c51c0eb7433d3e364f437343968269ece951a81fdef426b2451a1f146af8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-312-2025",
+   "path": "local/alba/alba-iulia/2025/312",
+   "short": "HCL Alba Iulia nr. 312/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 312/2025 privind decizia de expropriere pentru cauză de utilitate publică a unor imobile (terenuri) situate în Alba Iulia, pentru realizarea obiectivului de investiții: „DESCONGESTIONARE TRAFIC INTRARE N-V MUNICIPIUL ALBA IULIA DN74 - CONSTRUIRE PASAJ SUBTERAN ZONA STADION UNIREA LA INTERSECȚIA B-DULUI REPUBLICll CU B-DUL REVOLUȚIEI 1989”",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/225040",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/79435/Anexa%20la%20HCL.xlsx",
+     "sha256": "485612dac887fda4bda247defe6d4ffc0f193e0f4ba17841b89256ba77611852"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-320-2025",
+   "path": "local/alba/alba-iulia/2025/320",
+   "short": "HCL Alba Iulia nr. 320/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 320/2025",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/227589",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/albaiulia-ab/registru-hcl/227589",
+     "sha256": "3e708c75787c8acdfabfbaeddc2b979d685f704787cf0bbce5adeca499be5c29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-325-2025",
+   "path": "local/alba/alba-iulia/2025/325",
+   "short": "HCL Alba Iulia nr. 325/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 325/2025 privind acceptarea donaţiei către Municipiul Alba Iulia- domeniul public, a unor imobile situate în Alba Iulia",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/227594",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/80422/Anexa.pdf",
+     "sha256": "b39f0ae836d2f823cee65b8ed68040f567c27363ff829ee7b79d39481d0ce3cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-339-2025",
+   "path": "local/alba/alba-iulia/2025/339",
+   "short": "HCL Alba Iulia nr. 339/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 339/2025 cu privire la actualizarea programului de transport public local de persoane pentru zona tarifară „zona 1 municipiul Alba Iulia”",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/231124",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/81893/ANEXA.pdf",
+     "sha256": "93b14e770db3696b4194b83aff9c15b7bed33b28599c46feb0330c81774719f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-352-2025",
+   "path": "local/alba/alba-iulia/2025/352",
+   "short": "HCL Alba Iulia nr. 352/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 352/2025 privind aprobarea încheierii unei convenţii de constituire a drepturilor de uz, servitute și acces la utilitățile publice în favoarea SC DISTRIBUȚIE ENERGIE ELECTRICĂ ROMÂNIA SA",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/232533",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/82497/Anexa%20HCL%20conven%C8%9Bie%20Electrica.doc",
+     "sha256": "645de55dc9db5e3cd082351d6ea2be8dacfcc0e0d9f37e19d209dbacfaf906af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-383-2025",
+   "path": "local/alba/alba-iulia/2025/383",
+   "short": "HCL Alba Iulia nr. 383/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 383/2025 privind acceptarea donaţiei către Municipiul Alba Iulia- domeniul public",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/237046",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/84096/Anexa.pdf",
+     "sha256": "a9daf5420a537bab17dabb2fffe45bef3b0e5ec22f7d73e55c98e0a397c925c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-384-2025",
+   "path": "local/alba/alba-iulia/2025/384",
+   "short": "HCL Alba Iulia nr. 384/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 384/2025 privind acceptarea donaţiei către Municipiul Alba Iulia- domeniul public",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/237047",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/84097/Anexa.pdf",
+     "sha256": "a9daf5420a537bab17dabb2fffe45bef3b0e5ec22f7d73e55c98e0a397c925c9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--alba-iulia-414-2025",
    "path": "local/alba/alba-iulia/2025/414",
    "short": "HCL Alba Iulia nr. 414/2025",
@@ -48,6 +513,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--alba-iulia-44-2025",
+   "path": "local/alba/alba-iulia/2025/44",
+   "short": "HCL Alba Iulia nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 44/2025 privind retragerea dreptului de administrare a Centrului Cultural Palatul Principilor asupra imobilului teren înscris în CF nr.85896 Alba Iulia",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/191383",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/65117/Act%20adi%C8%9Bional%20cadru.doc",
+     "sha256": "dc045a2a702ff6e3a22d1f16c5f09bf73f922d68af7d124c68730d434a2cc614"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--alba-iulia-445-2025",
    "path": "local/alba/alba-iulia/2025/445",
    "short": "HCL Alba Iulia nr. 445/2025",
@@ -59,6 +539,81 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/87545/Anexa%20Regulament%20parcare%20etajat%C4%83%20Arnsberg.doc",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-55-2025",
+   "path": "local/alba/alba-iulia/2025/55",
+   "short": "HCL Alba Iulia nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 55/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local al municipiului Alba Iulia, pentru anul 2025",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/193579",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/65798/ANEXA%20PLAN%20ANUAL.PDF",
+     "sha256": "ff1a31f16b3e87ad6abd715b9e42669df6fabd45a22fea1537f5cb7c7f5fc863"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-59-2025",
+   "path": "local/alba/alba-iulia/2025/59",
+   "short": "HCL Alba Iulia nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 59/2025 privind acceptarea donaţiei către Municipiul Alba Iulia- domeniul public, a unui imobil înscris în CF nr. 107763 în suprafață de 76 mp aferent străzii Bradului",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/193583",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/65802/Anexa.pdf",
+     "sha256": "5e77ed9dad63b0a2850a713febeb611fd2569ba21bca3b33cc094b1ad4cbf701"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-64-2025",
+   "path": "local/alba/alba-iulia/2025/64",
+   "short": "HCL Alba Iulia nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 64/2025 privind înscrierea dreptului de proprietate al municipiului Alba Iulia - domeniul public asupra unui imobil (teren) situat în Alba Iulia, parcare Stadion (zona OMW)",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/193588",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/65803/Anexa.pdf",
+     "sha256": "aff66ba65e7a4f83f86ee0330efff948c3369485c565c812a2c4fd464960ead9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-80-2025",
+   "path": "local/alba/alba-iulia/2025/80",
+   "short": "HCL Alba Iulia nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 80/2025 privind înscrierea dreptului de proprietate al municipiului Alba Iulia - domeniul public asupra unui imobil situat în Alba Iulia, str. Grigore Vieru, nr. 28A",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/193604",
+   "versions": [
+    {
+     "from": "2025-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/65820/Anexa.pdf",
+     "sha256": "9703620aeac54a98c933d4f2468fd513631dc9b5b1e6e6c9bbbae960309607d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--alba-iulia-81-2025",
+   "path": "local/alba/alba-iulia/2025/81",
+   "short": "HCL Alba Iulia nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alba Iulia nr. 81/2025 privind aprobarea participării la licitație publică pentru achiziția de bunuri culturale pentru Muzeul Palatul Principilor Transilvaniei din cadrul Centrului Cultural Palatul Principilor",
+   "url": "https://emol.ro/albaiulia-ab/registru-hcl/195841",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/66816/Extras_Catalog.pdf",
+     "sha256": "f6d1d1c093723146209b0c2e4201f658d6f4c4f40a428bc8bb1de9edfad34ba6"
     }
    ]
   }

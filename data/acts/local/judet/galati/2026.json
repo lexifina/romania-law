@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcj-galati-277-2026",
+"path": "local/judet/galati/2026/277",
+"kind": "local",
+"year": "2026",
+"number": "277",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Galați nr. 277/2026",
+"short": "HCJ Galați nr. 277/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://cjgalati.ro/hotararea-nr-277-2/",
+"council": "judet/galati",
+"council_name": "Consiliul Județean Galați",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcj-galati-313-2026",
 "path": "local/judet/galati/2026/313",
 "kind": "local",

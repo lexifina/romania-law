@@ -3,6 +3,36 @@
  "shard": "local/suceava/campulung-moldovenesc/2026",
  "acts": [
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-111-2026",
+   "path": "local/suceava/campulung-moldovenesc/2026/111",
+   "short": "HCL Câmpulung Moldovenesc nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 111/2026 pentru aprobarea Regulamentului privind repartizarea și închirierea locuințelor nZEB plus pentru tineri, proprietate publică a municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 30 iulie 2026; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 25189 din 17.07.20",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_111_2026.docx",
+     "sha256": "e771f838b3a343eac39936713a82024e709faa909ce0a6792f42fbd5fc4eb9be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-123-2026",
+   "path": "local/suceava/campulung-moldovenesc/2026/123",
+   "short": "HCL Câmpulung Moldovenesc nr. 123/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 123/2026",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_123_2026.docx",
+     "sha256": "cc1a7804d4c29da0f7655182836bbca761764626d949b97aa8c7f9bffaca2de7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-154-2026",
    "path": "local/suceava/campulung-moldovenesc/2026/154",
    "short": "HCL Câmpulung Moldovenesc nr. 154/2026",
@@ -29,6 +59,66 @@
      "units": 1,
      "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_162.docx",
      "sha256": "36dda1e7ecf6fd1c337084bc864494ebf80b6ab017233c39db527fb31e3a5481"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-44-2026",
+   "path": "local/suceava/campulung-moldovenesc/2026/44",
+   "short": "HCL Câmpulung Moldovenesc nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 44/2026",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_044_2026.docx",
+     "sha256": "d89f014170d92b4ce1a4311af5d37ca836c8f13174fdc8cd7989690f12543fd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-45-2026",
+   "path": "local/suceava/campulung-moldovenesc/2026/45",
+   "short": "HCL Câmpulung Moldovenesc nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 45/2026 privind aprobarea regulamentului de organizare și desfășurare a evaluării anuale a managementului la Muzeul“Arta Lemnului” Câmpulung Moldovenesc, pentru perioada 03.01.2025 – 31.12.2025 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 martie 2026 ; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_045_2026.docx",
+     "sha256": "5284748cd5efcbfcd5bb0402180267e325de9308edf599e05cd11a3f6ae6061c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-46-2026",
+   "path": "local/suceava/campulung-moldovenesc/2026/46",
+   "short": "HCL Câmpulung Moldovenesc nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 46/2026 pentru aprobarea Regulamentului Serviciului de salubrizare al județului Suceava Consiliul local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinarǎ din data de 26 martie 2026; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 8490 din 10.03.2026; -Raportul de specialitate al Direcției Poliția locală - Compartiment protecția",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8",
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_046_2026.docx",
+     "sha256": "46cd208eaa7967c5a1f35fa41c0e355b295fbd3f611e143a04edf4912960b9a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-77-2026",
+   "path": "local/suceava/campulung-moldovenesc/2026/77",
+   "short": "HCL Câmpulung Moldovenesc nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 77/2026",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_077_2026.docx",
+     "sha256": "eed36654e0e6599b5f8cefc7db0e730be0c85415b70938178ee79a34e97f8cda"
     }
    ]
   }

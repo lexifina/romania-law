@@ -3,6 +3,75 @@
 "shard": "local/prahova/campina/2016",
 "acts": [
 {
+"slug": "hcl-prahova--campina-28-2016",
+"path": "local/prahova/campina/2016/28",
+"kind": "local",
+"year": "2016",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 28/2016",
+"short": "HCL Câmpina nr. 28/2016",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2016-02-25",
+"latest": "2016-02-25",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-47-2016",
+"path": "local/prahova/campina/2016/47",
+"kind": "local",
+"year": "2016",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 47/2016",
+"short": "HCL Câmpina nr. 47/2016",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2016-03-31",
+"latest": "2016-03-31",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-64-2016",
+"path": "local/prahova/campina/2016/64",
+"kind": "local",
+"year": "2016",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 64/2016",
+"short": "HCL Câmpina nr. 64/2016",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2016-05-26",
+"latest": "2016-05-26",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-prahova--campina-72-2016",
 "path": "local/prahova/campina/2016/72",
 "kind": "local",
@@ -26,6 +95,28 @@
 }
 },
 {
+"slug": "hcl-prahova--campina-112-2016",
+"path": "local/prahova/campina/2016/112",
+"kind": "local",
+"year": "2016",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 112/2016 privind aprobarea reorganizarii Comisiei tehnice de urbanism si amen teritoriului din cadrul Primariei municipiului Campina Avand in vedere: - expunerea de motive nr.69.022/12 august 2016 a membrilor Comisiei amenajarea teritoriului, urbanism, ecologie si protectia mediului, prin care propun aprobarea reorganizarii Comisiei tehnice de urbanism $i amenajarea teritoriului din cadrul Primariei munici",
+"short": "HCL Câmpina nr. 112/2016",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2016-08-25",
+"latest": "2016-08-25",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2016/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-prahova--campina-116-2016",
 "path": "local/prahova/campina/2016/116",
 "kind": "local",
@@ -45,6 +136,52 @@
 "council_name": "Consiliul Local al Municipiului Câmpina",
 "flags": {
 "text_pending": "ocr",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-117-2016",
+"path": "local/prahova/campina/2016/117",
+"kind": "local",
+"year": "2016",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 117/2016",
+"short": "HCL Câmpina nr. 117/2016",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2016-08-25",
+"latest": "2016-08-25",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-118-2016",
+"path": "local/prahova/campina/2016/118",
+"kind": "local",
+"year": "2016",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 118/2016",
+"short": "HCL Câmpina nr. 118/2016",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2016-08-25",
+"latest": "2016-08-25",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
 "title_withheld": "personal_data"
 }
 },

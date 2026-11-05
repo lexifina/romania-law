@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcj-olt-166-2019",
+   "path": "local/judet/olt/2019/166",
+   "short": "HCJ Olt nr. 166/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 166/2019 pentru modificarea Regulamentului de acordare a premiilor elevilor olimpici și cadrelor didactice, care au obținut rezultate excepționale la olimpiadele școlare de specialitate, aprobat prin Hotărârea Consiliului Județean Olt nr.182/25.10.2018 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-10-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10481.pdf",
+     "sha256": "ef5fdccb4b4513bb15f1de5b2478194b9911b2c13b1c0281d167bf81bbf0d241"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-202-2019",
    "path": "local/judet/olt/2019/202",
    "short": "HCJ Olt nr. 202/2019",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcj-olt-208-2019",
+   "path": "local/judet/olt/2019/208",
+   "short": "HCJ Olt nr. 208/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 208/2019 pentru modificarea Regulamentului de acordare a premiilor elevilor olimpici și cadrelor didactice, care au obținut rezultate excepționale la olimpiadele școlare de specialitate, aprobat prin Hotărârea Consiliului Județean Olt nr. 182/25.10.2018 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/10620.pdf",
+     "sha256": "48c018bcec750d3be632ab889d9150344696c60f35546f0e1370f8fa658d65c1"
+    }
+   ]
+  },
+  {
    "slug": "hcj-olt-213-2019",
    "path": "local/judet/olt/2019/213",
    "short": "HCJ Olt nr. 213/2019",
@@ -44,6 +74,21 @@
      "units": 1,
      "source_url": "https://cjolt.ro/cjoltfiles/documente/10625.pdf",
      "sha256": "0225b24926f148a1240ef682bf57ed7b8c82eba89dbf9d486dd42501f4a9f474"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-olt-51-2019",
+   "path": "local/judet/olt/2019/51",
+   "short": "HCJ Olt nr. 51/2019",
+   "title": "Hotărârea Consiliului Județean Olt nr. 51/2019 pentru modificarea anexei la Hotărârea Consiliului Județean Olt nr. 211/20.12.2018 cu privire la: – aprobarea taxelor şcolare pentru activităţile prestate de Şcoala Populară de Arte şi Meserii în anul şcolar 2018-2019; – aprobarea unor taxe şi tarife pentru activităţile prestate de unele instituţii de cultură de interes județean, pentru anul 2019 Vizualizare",
+   "url": "https://cjolt.ro/mol/hotararile-consiliului-judetean-olt/hotararile-consiliului-judetean/hotararile-consiliului-judetean-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://cjolt.ro/cjoltfiles/documente/9755.pdf",
+     "sha256": "4d36ee8381d0f2eb66bbf9f11f148fa3b42b5f60393a10f42b6918112a73d860"
     }
    ]
   },

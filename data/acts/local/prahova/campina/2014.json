@@ -1,0 +1,52 @@
+{
+"country": "RO",
+"shard": "local/prahova/campina/2014",
+"acts": [
+{
+"slug": "hcl-prahova--campina-88-2014",
+"path": "local/prahova/campina/2014/88",
+"kind": "local",
+"year": "2014",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 88/2014",
+"short": "HCL Câmpina nr. 88/2014",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2014-06-26",
+"latest": "2014-06-26",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-154-2014",
+"path": "local/prahova/campina/2014/154",
+"kind": "local",
+"year": "2014",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 154/2014",
+"short": "HCL Câmpina nr. 154/2014",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2014-12-18",
+"latest": "2014-12-18",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+}
+]
+}

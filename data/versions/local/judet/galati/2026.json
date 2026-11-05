@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcj-galati-277-2026",
+   "path": "local/judet/galati/2026/277",
+   "short": "HCJ Galați nr. 277/2026",
+   "title": "Hotărârea Consiliului Județean Galați nr. 277/2026",
+   "url": "https://cjgalati.ro/hotararea-nr-277-2/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://cjgalati.ro/wp-content/uploads/2026/09/hot277-290926.pdf",
+     "sha256": "59abf7b874ba416709a83778fef985a66077191e962b18efabab883ba4b489e2"
+    }
+   ]
+  },
+  {
    "slug": "hcj-galati-313-2026",
    "path": "local/judet/galati/2026/313",
    "short": "HCJ Galați nr. 313/2026",

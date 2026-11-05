@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/judet/prahova/2010",
+"acts": [
+{
+"slug": "hcj-prahova-76-2010",
+"path": "local/judet/prahova/2010/76",
+"kind": "local",
+"year": "2010",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 76/2010 pentru modificarea anexei la Hotărârea Consiliului Judeţean Prahova nr. 32/2010 privind aprobarea structurii serviciilor specifice prin care se constituie veniturile proprii ale Camerei Agricole Judeţene Prahova, cuantumul tarifelor, precum şi modalităţile de în",
+"short": "HCJ Prahova nr. 76/2010",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2010-05-28",
+"latest": "2010-05-28",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2010/?dpage=6",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-prahova-83-2010",
+"path": "local/judet/prahova/2010/83",
+"kind": "local",
+"year": "2010",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 83/2010 privind actualizarea caietului de sarcini al serviciului de transport public judeţean de persoane prin curse regulate",
+"short": "HCJ Prahova nr. 83/2010",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2010-05-28",
+"latest": "2010-05-28",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2010/?dpage=5",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-prahova-172-2010",
+"path": "local/judet/prahova/2010/172",
+"kind": "local",
+"year": "2010",
+"number": "172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 172/2010 privind aprobarea Regulamentului de organizare şi funcţionare a Serviciului Public Judeţean Salvamont Prahova",
+"short": "HCJ Prahova nr. 172/2010",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2010-09-28",
+"latest": "2010-09-28",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2010/?dpage=3",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-prahova-240-2010",
+"path": "local/judet/prahova/2010/240",
+"kind": "local",
+"year": "2010",
+"number": "240",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 240/2010 privind completarea şi modificarea Regulamentului pentru efectuarea serviciului de transport public judeţean de persoane prin curse regulate",
+"short": "HCJ Prahova nr. 240/2010",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2010-12-22",
+"latest": "2010-12-22",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2010/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

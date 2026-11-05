@@ -1,0 +1,118 @@
+{
+"country": "RO",
+"shard": "local/prahova/campina/2018",
+"acts": [
+{
+"slug": "hcl-prahova--campina-46-2018",
+"path": "local/prahova/campina/2018/46",
+"kind": "local",
+"year": "2018",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 46/2018 privind aprobarea ajustarii tarifului practicat de S.C",
+"short": "HCL Câmpina nr. 46/2018",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2018-03-22",
+"latest": "2018-03-22",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-prahova--campina-59-2018",
+"path": "local/prahova/campina/2018/59",
+"kind": "local",
+"year": "2018",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 59/2018",
+"short": "HCL Câmpina nr. 59/2018",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2018-04-26",
+"latest": "2018-04-26",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-126-2018",
+"path": "local/prahova/campina/2018/126",
+"kind": "local",
+"year": "2018",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 126/2018",
+"short": "HCL Câmpina nr. 126/2018",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2018-08-30",
+"latest": "2018-08-30",
+"portal": null,
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-prahova--campina-158-2018",
+"path": "local/prahova/campina/2018/158",
+"kind": "local",
+"year": "2018",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 158/2018 privind aprobarea Regulamentului referitor la mchirierea prin licitatie publica a punuri or imobile, apartinand domeniului public si privat al Mun cipiuIui Campina Avand in vedere expunerea de motive nr.69.436/14 roiembrie 2018 a membrilor Comisiei buget, fmante, programe fmantare europeana, administrarea iomeniului public si privat si agricultura, prin care propun aprobarea Regulamentului privind",
+"short": "HCL Câmpina nr. 158/2018",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2018-11-21",
+"latest": "2018-11-21",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcl-prahova--campina-177-2018",
+"path": "local/prahova/campina/2018/177",
+"kind": "local",
+"year": "2018",
+"number": "177",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 177/2018 privind stabiIirea impozitelor $i taxelor locale in Municipiul Campina, pentru anul fiscal 2019 Avand in vedere expunerea de motive nr.69.394/05 noiembrie 2018 a Primarului Municipiului Campina - dl. ing",
+"short": "HCL Câmpina nr. 177/2018",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2018-12-18",
+"latest": "2018-12-18",
+"portal": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+"council": "prahova/campina",
+"council_name": "Consiliul Local al Municipiului Câmpina",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

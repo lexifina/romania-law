@@ -3,6 +3,21 @@
  "shard": "local/prahova/campina/2013",
  "acts": [
   {
+   "slug": "hcl-prahova--campina-158-2013",
+   "path": "local/prahova/campina/2013/158",
+   "short": "HCL Câmpina nr. 158/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 158/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-158-stabilire-impozite-si-taxe-locale-2014.pdf",
+     "sha256": "94cce79c7444aa9bd65ff5179bdb24753290392a8dc6e340beae88750d1d2ce1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-40-2013",
    "path": "local/prahova/campina/2013/40",
    "short": "HCL Câmpina nr. 40/2013",

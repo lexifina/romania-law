@@ -3,6 +3,21 @@
  "shard": "local/judet/prahova/2024",
  "acts": [
   {
+   "slug": "hcj-prahova-152-2024",
+   "path": "local/judet/prahova/2024/152",
+   "short": "HCJ Prahova nr. 152/2024",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 152/2024 privind încheierea cu Agenția pentru Dezvoltare Regională Sud-Muntenia a Acordului privind implementarea art. 29/ REGULAMENTUL (UE) 2021/1060 în contextul Strategiei Integrate de Dezvoltare Teritorială Sud-Muntenia 2021 – 2027",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/?dpage=5",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2024/07/Hotararea-nr.-152-din-data-18-07-2024.pdf",
+     "sha256": "9fc4637b4b9ea620a12e1eff559563d51e33de2cb9c924d039eedc697e49c0e3"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-256-2024",
    "path": "local/judet/prahova/2024/256",
    "short": "HCJ Prahova nr. 256/2024",

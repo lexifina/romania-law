@@ -3,6 +3,50 @@
 "shard": "local/judet/prahova/2017",
 "acts": [
 {
+"slug": "hcj-prahova-32-2017",
+"path": "local/judet/prahova/2017/32",
+"kind": "local",
+"year": "2017",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 32/2017 privind stabilirea preturilor medii ale produselor agricole si a pretului mediu al ierbii obtinuta de pe pajisti, pentru anul fiscal 2017",
+"short": "HCJ Prahova nr. 32/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-03-17",
+"latest": "2017-03-17",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/?dpage=7",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-prahova-42-2017",
+"path": "local/judet/prahova/2017/42",
+"kind": "local",
+"year": "2017",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 42/2017 privind aprobarea modificarii tarifului aplicat pentru activitatea de sortare a deseurilor municipale in judetul Prahova in cadrul Statiei de Sortare Boldesti Scaeni",
+"short": "HCJ Prahova nr. 42/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-03-30",
+"latest": "2017-03-30",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/?dpage=7",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-prahova-82-2017",
 "path": "local/judet/prahova/2017/82",
 "kind": "local",
@@ -47,6 +91,50 @@
 }
 },
 {
+"slug": "hcj-prahova-151-2017",
+"path": "local/judet/prahova/2017/151",
+"kind": "local",
+"year": "2017",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 151/2017 privind modificarea Hotărârii nr. 124/25.07.2017 a Consiliului Județean Prahova, pentru aprobarea Regulamentului de stabilire a unor forme de sprijin financiar de la bugetul Județului Prahova pentru unitățile de cult din Județul Prahova, aparținând cultelor religioase recunoscute din România, constituirea comisiei de selecție a solicitărilor de sprijin financiar, precum și a comisiei de soluționarea contestațiilor",
+"short": "HCJ Prahova nr. 151/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-08-22",
+"latest": "2017-08-22",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/?dpage=3",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-prahova-163-2017",
+"path": "local/judet/prahova/2017/163",
+"kind": "local",
+"year": "2017",
+"number": "163",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 163/2017 privind aprobarea tarifului de sortare a deşeurilor reciclabile în Depozitul Ecologic din Vălenii de Munte",
+"short": "HCJ Prahova nr. 163/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-09-29",
+"latest": "2017-09-29",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/?dpage=3",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-prahova-190-2017",
 "path": "local/judet/prahova/2017/190",
 "kind": "local",
@@ -69,6 +157,28 @@
 }
 },
 {
+"slug": "hcj-prahova-206-2017",
+"path": "local/judet/prahova/2017/206",
+"kind": "local",
+"year": "2017",
+"number": "206",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 206/2017 privind modificarea Hotărârii Consiliului Județean Prahova nr.71/2015 referitoare la actualizarea caietului de sarcini al serviciului de transport public județean de persoane prin curse regulate",
+"short": "HCJ Prahova nr. 206/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-11-24",
+"latest": "2017-11-24",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-prahova-212-2017",
 "path": "local/judet/prahova/2017/212",
 "kind": "local",
@@ -88,6 +198,50 @@
 "council_name": "Consiliul Județean Prahova",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-prahova-213-2017",
+"path": "local/judet/prahova/2017/213",
+"kind": "local",
+"year": "2017",
+"number": "213",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 213/2017 privind stabilirea taxelor speciale aplicabile în anul fiscal 2018 în vederea eliberării unor documente din domeniul construcţiilor",
+"short": "HCJ Prahova nr. 213/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-12-18",
+"latest": "2017-12-18",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-prahova-214-2017",
+"path": "local/judet/prahova/2017/214",
+"kind": "local",
+"year": "2017",
+"number": "214",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 214/2017 privind stabilirea prețurilor medii ale produselor agricole și a prețului mediu al ierbii obținută de pe pajiști, pentru anul fiscal 2018",
+"short": "HCJ Prahova nr. 214/2017",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2017-12-18",
+"latest": "2017-12-18",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2017/",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
 }
 }
 ]

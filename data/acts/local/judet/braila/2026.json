@@ -202,6 +202,72 @@
 }
 },
 {
+"slug": "hcj-braila-142-2026",
+"path": "local/judet/braila/2026/142",
+"kind": "local",
+"year": "2026",
+"number": "142",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 142/2026 privind aprobarea Regulamentului pentru amplasarea construcțiilor, instalațiilor și panourilor publicitare în zona drumurilor județene",
+"short": "HCJ Brăila nr. 142/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-23",
+"latest": "2026-07-23",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-braila-176-2026",
+"path": "local/judet/braila/2026/176",
+"kind": "local",
+"year": "2026",
+"number": "176",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 176/2026 privind stabilirea taxelor și tarifelor reprezentând venituri proprii ale Consiliului Județean Brăila și ale instituțiilor publice subordonate acestuia, pentru anul fiscal 2026",
+"short": "HCJ Brăila nr. 176/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-0003F8AE?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"text_pending": "review"
+}
+},
+{
+"slug": "hcj-braila-221-2026",
+"path": "local/judet/braila/2026/221",
+"kind": "local",
+"year": "2026",
+"number": "221",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Brăila nr. 221/2026 privind aprobarea tarifului mediu modificat lei/km/loc, fără TVA și a tarifelor de călătorie modificate, recalculate în funcție de tariful mediu modificat lei/km/loc, fără TVA, pentru serviciul public de transport județean de persoane prin curse regulate, pe traseele : nr. 020 Brăila – Oprișenești – C.Gabrielescu și nr. 027 Brăila – Silistraru – Urleasca, respectiv a încheierii unor Acte Adițional",
+"short": "HCJ Brăila nr. 221/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-20",
+"latest": "2026-10-20",
+"portal": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2026-II-00042866?OpenDocument",
+"council": "judet/braila",
+"council_name": "Consiliul Județean Brăila",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-braila-225-2026",
 "path": "local/judet/braila/2026/225",
 "kind": "local",

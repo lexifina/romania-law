@@ -3,6 +3,72 @@
 "shard": "local/mehedinti/drobeta-turnu-severin/2026",
 "acts": [
 {
+"slug": "hcl-mehedinti--drobeta-turnu-severin-2-2026",
+"path": "local/mehedinti/drobeta-turnu-severin/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 2/2026 privind înființarea Serviciilor de Asistență Comunitară și aprobarea Regulamentul de organizare şi funcţionare al Serviciilor de Asistenţă Comunitară acordat de Serviciul Protecția Persoanelor Vârstnice din cadrul Direcției de Asistență Socială",
+"short": "HCL Drobeta-Turnu Severin nr. 2/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/249562",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-17-2026",
+"path": "local/mehedinti/drobeta-turnu-severin/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 17/2026 privind atestarea inventarului bunurilor care aparțin domeniului public al Municipiului Drobeta-Turnu Severin, județul Mehedinți",
+"short": "HCL Drobeta-Turnu Severin nr. 17/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-02",
+"latest": "2026-03-02",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/255608",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-18-2026",
+"path": "local/mehedinti/drobeta-turnu-severin/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 18/2026 privind atestarea inventarului bunurilor care aparțin domeniului public al Municipiului Drobeta Turnu Severin",
+"short": "HCL Drobeta-Turnu Severin nr. 18/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-03-02",
+"latest": "2026-03-02",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/255609",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-mehedinti--drobeta-turnu-severin-43-2026",
 "path": "local/mehedinti/drobeta-turnu-severin/2026/43",
 "kind": "local",
@@ -22,6 +88,28 @@
 "council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-55-2026",
+"path": "local/mehedinti/drobeta-turnu-severin/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 55/2026 privind aprobarea documentației de urbanism în fază PUZ pentru :Amenajare zonă de locuințe P+1E și funcțiuni complementare",
+"short": "HCL Drobeta-Turnu Severin nr. 55/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-03",
+"latest": "2026-04-03",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/260634",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -70,6 +158,72 @@
 }
 },
 {
+"slug": "hcl-mehedinti--drobeta-turnu-severin-145-2026",
+"path": "local/mehedinti/drobeta-turnu-severin/2026/145",
+"kind": "local",
+"year": "2026",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 145/2026 privind aprobarea Regulamentului de organizare şi funcţionare al Serviciului Social de Îngrijire la Domiciliu a Persoanelor Vârstnice",
+"short": "HCL Drobeta-Turnu Severin nr. 145/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-28",
+"latest": "2026-08-28",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/281872",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-150-2026",
+"path": "local/mehedinti/drobeta-turnu-severin/2026/150",
+"kind": "local",
+"year": "2026",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 150/2026 privind atestarea inventarului bunurilor care aparțin domeniului public al Municipiului Drobeta Turnu Severin",
+"short": "HCL Drobeta-Turnu Severin nr. 150/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-28",
+"latest": "2026-08-28",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/281877",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-169-2026",
+"path": "local/mehedinti/drobeta-turnu-severin/2026/169",
+"kind": "local",
+"year": "2026",
+"number": "169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 169/2026 privind aprobarea Regulamentului de organizare şi funcţionare al Serviciilor de Asistenţă Comunitară acordat de Serviciul Protecția Persoanelor Vârstnice din cadrul Direcției de Asistență Socială",
+"short": "HCL Drobeta-Turnu Severin nr. 169/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-28",
+"latest": "2026-08-28",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/284796",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-mehedinti--drobeta-turnu-severin-171-2026",
 "path": "local/mehedinti/drobeta-turnu-severin/2026/171",
 "kind": "local",
@@ -90,6 +244,28 @@
 "flags": {
 "text_pending": "ocr",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-179-2026",
+"path": "local/mehedinti/drobeta-turnu-severin/2026/179",
+"kind": "local",
+"year": "2026",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 179/2026 privind atestarea inventarului bunurilor care aparțin domeniului public al Municipiului Drobeta Turnu Severin",
+"short": "HCL Drobeta-Turnu Severin nr. 179/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-28",
+"latest": "2026-08-28",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/284806",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"text_pending": "source"
 }
 }
 ]

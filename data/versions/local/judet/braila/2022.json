@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcj-braila-173-2022",
+   "path": "local/judet/braila/2022/173",
+   "short": "HCJ Brăila nr. 173/2022",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 173/2022 privind aprobarea Regulamentului privind conditiile, criteriile si procedura de finantare a programelor sportive, în baza prevederilor Legii educatiei fizice si sportului nr. 69/2000, cu modificarile si completarile ulterioare, pentru anul 2022",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2022-II-0001FE2E?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/2EBEC0BC67F9442BC22588A3003027CD/$FILE/HOTARAREA%20NR.%20173%20DIN%2026.07.2022.pdf",
+     "sha256": "5527558ed06fbbeb89b98a2ba241f9519abe7c65d9fd3b18951e3b687fb34b41"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-197-2022",
    "path": "local/judet/braila/2022/197",
    "short": "HCJ Brăila nr. 197/2022",
@@ -228,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcj-braila-327-2022",
+   "path": "local/judet/braila/2022/327",
+   "short": "HCJ Brăila nr. 327/2022",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 327/2022 cu privire la stabilirea preturilor medii ale produselor agricole, pentru evaluarea in lei a venitului brut, in cazul in care arenda se exprima in natura, valabile pentru anul fiscal 2023 la nivelul judetului Braila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2022-III-0003112E?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/B97C0ADD36EFF620C225893300269D44/$FILE/Hotararea%20nr.%20327%20din%2028%20decembrie%202022.pdf",
+     "sha256": "c37cd9e4ebce7dc3977521acf217e4213177fa3ca43b9815d6ad3f326f2f5077"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-36-2022",
    "path": "local/judet/braila/2022/36",
    "short": "HCJ Brăila nr. 36/2022",
@@ -254,6 +284,21 @@
      "units": 6,
      "source_url": "https://cjbraila.ro/dm/portal.nsf/0555D9339E1A3382C22588930040883F/$FILE/HOTARAREA%20NR.%2075%20DIN%2031.03.2022.pdf",
      "sha256": "1fbefb7f07ab00367f3c81bf3dd8dfb83fb58e37615d3db4d098a80bc5ebc01f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-78-2022",
+   "path": "local/judet/braila/2022/78",
+   "short": "HCJ Brăila nr. 78/2022",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 78/2022 pentru modificarea unor acte administrative în domeniul Autorității Teritoriale de Ordine Publică Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2022-I-0001FEBA?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/C4481D880E2F3C26C225889300408843/$FILE/HOTARAREA%20NR.%2078%20DIN%2028.04.2022.pdf",
+     "sha256": "adcbdab4c3f9f2f0070c6d7f8a5225ce6fe635cddacac297ef0b8fecadcb29a5"
     }
    ]
   },

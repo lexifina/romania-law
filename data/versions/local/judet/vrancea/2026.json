@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-114-2026",
+   "path": "local/judet/vrancea/2026/114",
+   "short": "HCJ Vrancea nr. 114/2026",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 114/2026",
+   "url": "https://cjvrancea.ro/hotarari/page/6/",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2026/05/Hotarare-114-SNEP.doc",
+     "sha256": "6e320e79c3ee56f9a8a8dbe6008667d09c37b1bceb52af3a704e6e5c3e014959"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-115-2026",
    "path": "local/judet/vrancea/2026/115",
    "short": "HCJ Vrancea nr. 115/2026",
@@ -1034,6 +1049,21 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2026/02/HCJ-actualizare-elem-Salvamont-si-Alaci.docx",
      "sha256": "97f3d25cdfbfcdbde504d69daf81e0b42a92dd5cf6b05c4b5acb76e1c80dbc1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-34-2026",
+   "path": "local/judet/vrancea/2026/34",
+   "short": "HCJ Vrancea nr. 34/2026",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 34/2026 privind aprobarea regulamentului de utilizare, funcționare și exploatare a 6 stații de reîncărcare a vehiculelor electrice și hibrid plug-in; - potrivit prevederilor: - art.3 alin.(l), lit.i) și art.5, pct.2, lit.j) din O.G nr.71/2002 privind organizarea și funcționarea serviciilor publice de administrare a domeniului public și privat de interes local, cu modificările și completările ulterioare;",
+   "url": "https://cjvrancea.ro/hotarari/page/9/",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2026/03/HCJ.docx",
+     "sha256": "1f0d967f64771983f270114e0b445d82e20298aa7373f4907c5e14a75078ec42"
     }
    ]
   },

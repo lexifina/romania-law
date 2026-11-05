@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/judet/prahova/2012",
+ "acts": [
+  {
+   "slug": "hcj-prahova-117-2012",
+   "path": "local/judet/prahova/2012/117",
+   "short": "HCJ Prahova nr. 117/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 117/2012 privind stabilirea preţurilor medii ale produselor agricole pentru anul fiscal 2012",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=4",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-117-din-data-2012-08-30.doc",
+     "sha256": "6f8f18ae9a83eea1a524cfa3f17557591e866eccc7e177d0b3cb55cdef97daa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-135-2012",
+   "path": "local/judet/prahova/2012/135",
+   "short": "HCJ Prahova nr. 135/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 135/2012 privind instituirea restricţiei de circulaţie pe drumurile judeţene a vehiculelor cu masa totală maximă autorizată mai mare de 7,5 tone pentru perioadele de avertizare caniculă-cod portocaliu sau roşu anunţate de Administraţia Naţională de Meteorologie",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=3",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-135-din-data-2012-08-30.doc",
+     "sha256": "c738980e883c6c1ddef7541ef561158f59c1ce4e9b2558df75ef0d1e24e84432"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-49-2012",
+   "path": "local/judet/prahova/2012/49",
+   "short": "HCJ Prahova nr. 49/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 49/2012 privind actualizarea caietului de sarcini al serviciului de transport public judeţean de persoane prin curse regulate",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=6",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-049-din-data-2012-03-28.doc",
+     "sha256": "2dfedf10716d5ba255efedbd09937d28b5cab6fa1c6b690f38c70c96a4911f6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-69-2012",
+   "path": "local/judet/prahova/2012/69",
+   "short": "HCJ Prahova nr. 69/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 69/2012 privind completarea şi modificarea Regulamentului pentru efectuarea serviciului de transport public judeţean de persoane prin curse regulate",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-069-din-data-2012-05-09.doc",
+     "sha256": "9e3deddf2903c32b9d1a1175e7f0373273bc648a6497f412b2ada93c6c926392"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-70-2012",
+   "path": "local/judet/prahova/2012/70",
+   "short": "HCJ Prahova nr. 70/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 70/2012 privind completarea şi modificarea Regulamentului pentru efectuarea serviciului de transport public judeţean de persoane prin curse regulate speciale",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-070-din-data-2012-05-09.doc",
+     "sha256": "281418b93fbddcc773161bf16e7144349b4393f82cce31dc9290f270b75b313e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-74-2012",
+   "path": "local/judet/prahova/2012/74",
+   "short": "HCJ Prahova nr. 74/2012",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 74/2012 privind aprobarea tarifului de depozitare a deşeurilor menajere provenite de la populaţie, agenţi economici şi instituţii publice şi aprobarea tarifului de depozitare a deşeurilor provenite din construcţii în depozitul ecologic din Vălenii de Munte",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2012/?dpage=5",
+   "versions": [
+    {
+     "from": "2012-05-09",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2021/12/Hotararea-nr.-074-din-data-2012-05-09.doc",
+     "sha256": "3b3187644f508047ffd81488b4cb8995a249c4b35337b6c8b4c622e7a9f53bc4"
+    }
+   ]
+  }
+ ]
+}

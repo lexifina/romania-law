@@ -3,6 +3,21 @@
  "shard": "local/judet/vrancea/2025",
  "acts": [
   {
+   "slug": "hcj-vrancea-101-2025",
+   "path": "local/judet/vrancea/2025/101",
+   "short": "HCJ Vrancea nr. 101/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 101/2025 pentru aprobarea regulamentelor-cadru de organizare și funcționare ale serviciilor publice de asistență socială și a structurii orientative de personal, cu modificările și completările ulterioare; - art.3 alin.(4) și art.31 alin.(4) din Legea-cadru nr.153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare; - în baza prevederilor art. 173 al",
+   "url": "https://cjvrancea.ro/hotarari/page/8/?an=2025",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/06/101.-Hot.-CJ-nr.-transformare-posturi-contractuale-Dgaspc-Vrancea-modif.doc",
+     "sha256": "b6bb103a77d9ddd652fd9a1c340db3918bcc5cf5ba57bcd51d93e1bbcdee4e32"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-129-2025",
    "path": "local/judet/vrancea/2025/129",
    "short": "HCJ Vrancea nr. 129/2025",
@@ -108,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-138-2025",
+   "path": "local/judet/vrancea/2025/138",
+   "short": "HCJ Vrancea nr. 138/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 138/2025 privind aprobarea Regulamentului de acordare a premiilor pentru elevii și profesorii din unitățile de învățământ preuniversitar din județul Vrancea ; -având in vedere prevederile art. 144 din Legea nr.198/2023 a învățământului preuniversitar, cu modificările și completările ulterioare; -luând act de raportul compartimentului de resort din cadrul Consiliului Județean Vrancea și de avizul comisiei d",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2025",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/07/hot-138-STIMULENT-PANA.doc",
+     "sha256": "ff07ec15ffaca5417081f33de715197706cc5532ab46df33b3012afa7432098d"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-139-2025",
    "path": "local/judet/vrancea/2025/139",
    "short": "HCJ Vrancea nr. 139/2025",
@@ -119,6 +149,21 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/07/139.-Hot-aprobare-executie-bugetara-30.06.2025.docx",
      "sha256": "6c8c1048448bd0e0fcce22cf8dfb287799ef76d62d285b0b703c328db0b09bad"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-140-2025",
+   "path": "local/judet/vrancea/2025/140",
+   "short": "HCJ Vrancea nr. 140/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 140/2025 pentru aprobarea modelului orientativ al statutului unității administrativ – teritoriale, precum și a modelului orientativ al regulamentului de organizare și funcționare a consiliului local; - având în vedere Hotărârea Consiliului Județean Vrancea nr. 125/2022 privind „Aprobarea Statutului Județului Vrancea” ; - ținând cont de răspunsurile primite la adresele Consiliului Județean Vrancea nr. 4842/",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2025",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/07/HCJ-140-aprobare-statut-1.doc",
+     "sha256": "5035ae40e8fe6780d0c57d188d9ee585f85122a18247fe9ac32f8dd41a2c52c3"
     }
    ]
   },
@@ -318,6 +363,51 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-175-2025",
+   "path": "local/judet/vrancea/2025/175",
+   "short": "HCJ Vrancea nr. 175/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 175/2025 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al Consiliului Județean Vrancea",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2025",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/09/175.-HCJ_Modif.171.doc",
+     "sha256": "9cca0c42a008d8f1c78d0d2598b1aef55882a5aa900f0a9a4feec1617f4db448"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-176-2025",
+   "path": "local/judet/vrancea/2025/176",
+   "short": "HCJ Vrancea nr. 176/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 176/2025",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2025",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/09/hot-176-inchiriere.doc",
+     "sha256": "4b31e1a7fde9db710334824a10feab4cc0ebf8e9ad78d419523ed541f2e60aea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-179-2025",
+   "path": "local/judet/vrancea/2025/179",
+   "short": "HCJ Vrancea nr. 179/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 179/2025",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2025",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/4/?an=2025",
+     "sha256": "e898ee2e2dc0bb9faf0957baf103e724492efee72cfce5f26855fd56b29c00dc"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-180-2025",
    "path": "local/judet/vrancea/2025/180",
    "short": "HCJ Vrancea nr. 180/2025",
@@ -393,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-192-2025",
+   "path": "local/judet/vrancea/2025/192",
+   "short": "HCJ Vrancea nr. 192/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 192/2025",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2025",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/4/?an=2025",
+     "sha256": "cca1bb4e3d33a08f6060302a70e32e22028633a70be91a9822de003ec4f84ff7"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-193-2025",
    "path": "local/judet/vrancea/2025/193",
    "short": "HCJ Vrancea nr. 193/2025",
@@ -419,6 +524,21 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/10/197.-Hot-NC-TP-foisor-si-magazie-Praslea.docx",
      "sha256": "d4f1bf8ce00d988cf1f80480e466863d5cd644e5ad3c7ddf075f286ab17e6921"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-199-2025",
+   "path": "local/judet/vrancea/2025/199",
+   "short": "HCJ Vrancea nr. 199/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 199/2025 privind stabilirea perioadei în care se va efectua activitatea de inventariere anuală a bunurilor aflate în domeniul public și privat al județului Vrancea; - luând act de dispozițiile art. 3 din Anexa la Hotărârea Guvernului nr. 392/2020 privind aprobarea Normelor tehnice pentru întocmirea inventarului bunurilor care alcătuiesc domeniul public și privat al comunelor, al orașelor, al municipiilor ș",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2025",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/10/199.-Hot.-perioda-inventar.doc",
+     "sha256": "e10934e8952b9fba28b9f976e6b55be6084fa616e4fd2af7cbf51a32e47b57dc"
     }
    ]
   },
@@ -839,6 +959,21 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/12/264.-Hot.-cetatean-de-onoare.docx",
      "sha256": "6cb106a9d50110ee4f69e88ca509cca7ded188edc10113ce229a4d6a2cc12f26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-265-2025",
+   "path": "local/judet/vrancea/2025/265",
+   "short": "HCJ Vrancea nr. 265/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 265/2025 pentru persoanele cu dizabilități cărora li se acordă o locuință incluzivă, aprobarea procedurii proprii de acordare a locuinței incluzive și a procedurii de închiriere de pe piața liberă a unei locuințe incluzive",
+   "url": "https://cjvrancea.ro/hotarari/?an=2025",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/12/Hot-infiintare-locuinte.doc",
+     "sha256": "79b7e7b92f2026fb2cbed5ce3f986a9a8e7d70778be34b8047ee3ccce6bf837c"
     }
    ]
   },

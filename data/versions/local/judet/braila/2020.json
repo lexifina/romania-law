@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcj-braila-118-2020",
+   "path": "local/judet/braila/2020/118",
+   "short": "HCJ Brăila nr. 118/2020",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 118/2020 privind aprobarea Regulamentului pentru finanțarea asocierilor Județului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2020-I-000199FA?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/554AFBBA301A7A9BC22585E500285962/$FILE/HOTARAREA%20NR.%20118%20DIN%2028.05.2020.pdf",
+     "sha256": "b71e19ff09b92234a08edb350602ce332e10ac002c6f003144e69b755b1440cd"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-16-2020",
    "path": "local/judet/braila/2020/16",
    "short": "HCJ Brăila nr. 16/2020",
@@ -213,6 +228,36 @@
    ]
   },
   {
+   "slug": "hcj-braila-290-2020",
+   "path": "local/judet/braila/2020/290",
+   "short": "HCJ Brăila nr. 290/2020",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 290/2020 privind aprobarea Regulamentului privind condițiile, criteriile și procedura de finanțare a programelor sportive, în baza prevederilor Legii educației fizice și sportului nr. 69/2000, cu modificarile și completările ulterioare, pentru anul 2020",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2020-III-0001AA16?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/8AEFE250071B2235C22586540042C66B/$FILE/HOTARAREA%20NR.%20290%20DIN%2018.11.2020.pdf",
+     "sha256": "16da93ff5bdb6819394e5c53dd73375fd8c70948dc1d4348a145c6612f0ba114"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-291-2020",
+   "path": "local/judet/braila/2020/291",
+   "short": "HCJ Brăila nr. 291/2020",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 291/2020 privind aprobarea Regulamentului pentru finanțarea asocierilor Județului Brăila",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2020-III-0001AA16?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/347882F6F7C66E8AC22586540042D39D/$FILE/HOTARAREA%20NR.%20291%20DIN%2027.11.2020.pdf",
+     "sha256": "2c04182decbb0edde01c210ae90e8f4010ec4ea858e9791cf3216b242dc77189"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-296-2020",
    "path": "local/judet/braila/2020/296",
    "short": "HCJ Brăila nr. 296/2020",
@@ -378,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcj-braila-50-2020",
+   "path": "local/judet/braila/2020/50",
+   "short": "HCJ Brăila nr. 50/2020",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 50/2020 pentru administrație publică locală, juridică, relații publice și relații internaționale; In conformitate cu prevederile art.173 alin.(1) lit. c, art.357 alin.(1), alin.(3) si alin.(4) din Ordonanta de Urgenta a Guvernului nr.57/2019, privind Codul administrativ, Ordinului Ministerului Finantelor Publice nr.2861/2009 pentru aprobarea Normelor privind organizarea si efectuarea inventarierii element",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2020-I-000199FA?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/5BE9027AAFE8EAD8C2258574003272A6/$FILE/HOTARAREA%20NR.%20050%20DIN%2027.02.2020%20.docx",
+     "sha256": "72f6f5477cddf280c6d442d192ae935f279a73396effdb14b93d85017335017a"
+    }
+   ]
+  },
+  {
    "slug": "hcj-braila-74-2020",
    "path": "local/judet/braila/2020/74",
    "short": "HCJ Brăila nr. 74/2020",
@@ -419,6 +479,21 @@
      "units": 6,
      "source_url": "https://cjbraila.ro/dm/portal.nsf/1D9073BCBD06442AC22585060040F539/$FILE/HOTARAREA%20NR.%20008%20DIN%2021.01.2020.pdf",
      "sha256": "59d0099881a939922de4a09289a598f758a757dd860489614033a026c9f58925"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-braila-81-2020",
+   "path": "local/judet/braila/2020/81",
+   "short": "HCJ Brăila nr. 81/2020",
+   "title": "Hotărârea Consiliului Județean Brăila nr. 81/2020 privind stabilirea taxelor si tarifelor reprezentand venituri proprii ale Consiliului Judetean Braila si ale institutiilor publice subordonate acestuia, pentru anul fiscal 2020",
+   "url": "https://cjbraila.ro/dm_cj/portal.nsf/AllByUNID/2020-I-000199FA?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-03-31",
+     "units": 1,
+     "source_url": "https://cjbraila.ro/dm/portal.nsf/2666D1D8F25634B1C22585880029AF62/$FILE/HOTARAREA%20NR.%20081%20DIN%2031.03.2020.pdf",
+     "sha256": "0c6f372532f32832c6cba32ecbe7955f0bfb9f06d06139794958cf75687b8e9c"
     }
    ]
   },

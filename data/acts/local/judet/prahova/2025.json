@@ -3,6 +3,28 @@
 "shard": "local/judet/prahova/2025",
 "acts": [
 {
+"slug": "hcj-prahova-273-2025",
+"path": "local/judet/prahova/2025/273",
+"kind": "local",
+"year": "2025",
+"number": "273",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Prahova nr. 273/2025 privind modificarea tarifelor pentru efectuarea serviciului public de transport județean de persoane prin curse regulate în aria teritorială de competență a UAT Județul Prahova pentru Loturile nr. 6 și 10",
+"short": "HCJ Prahova nr. 273/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2025/?dpage=9",
+"council": "judet/prahova",
+"council_name": "Consiliul Județean Prahova",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcj-prahova-349-2025",
 "path": "local/judet/prahova/2025/349",
 "kind": "local",

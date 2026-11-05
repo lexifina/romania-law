@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/prahova/campina/2018",
+ "acts": [
+  {
+   "slug": "hcl-prahova--campina-126-2018",
+   "path": "local/prahova/campina/2018/126",
+   "short": "HCL Câmpina nr. 126/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 126/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "baf0258ad7211a91b69b98eff8cf6ebfb759cf6759ac531c611b5cd059054f56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-158-2018",
+   "path": "local/prahova/campina/2018/158",
+   "short": "HCL Câmpina nr. 158/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 158/2018 privind aprobarea Regulamentului referitor la mchirierea prin licitatie publica a punuri or imobile, apartinand domeniului public si privat al Mun cipiuIui Campina Avand in vedere expunerea de motive nr.69.436/14 roiembrie 2018 a membrilor Comisiei buget, fmante, programe fmantare europeana, administrarea iomeniului public si privat si agricultura, prin care propun aprobarea Regulamentului privind",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-11-21",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2019/01/Hotararea-nr.-158-Regulament-inchiriere-licit-publica.pdf",
+     "sha256": "fab958a332e581f5899de875117e8615dbdfdb345b12201c968d4f86f76db61d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-177-2018",
+   "path": "local/prahova/campina/2018/177",
+   "short": "HCL Câmpina nr. 177/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 177/2018 privind stabiIirea impozitelor $i taxelor locale in Municipiul Campina, pentru anul fiscal 2019 Avand in vedere expunerea de motive nr.69.394/05 noiembrie 2018 a Primarului Municipiului Campina - dl. ing",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2019/01/Hotararea-nr.-177-impo-ite-si-taxe-locale-2019.pdf",
+     "sha256": "c21f936b7ff7d0985c12772568834d4bba2424489a4684cb9207e368ccdf2f18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-46-2018",
+   "path": "local/prahova/campina/2018/46",
+   "short": "HCL Câmpina nr. 46/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 46/2018 privind aprobarea ajustarii tarifului practicat de S.C",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2018/",
+   "versions": [
+    {
+     "from": "2018-03-22",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-46-ajustare-tarife-salubritate-Floricon-Salub-SRL.pdf",
+     "sha256": "0081c019e4c503399dc64c15245a16142a8dcbcba0bed95759bf2d477d51dc19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-59-2018",
+   "path": "local/prahova/campina/2018/59",
+   "short": "HCL Câmpina nr. 59/2018",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 59/2018",
+   "url": null,
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-59-mod-si-complet-HCL-105-din-2016-Regulament-pasunat.pdf",
+     "sha256": "63b7e290f77813dbed107099dc5cef98c2d52dbe3d895948fbd5645287331436"
+    }
+   ]
+  }
+ ]
+}

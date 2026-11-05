@@ -3,6 +3,51 @@
  "shard": "local/judet/prahova/2022",
  "acts": [
   {
+   "slug": "hcj-prahova-15-2022",
+   "path": "local/judet/prahova/2022/15",
+   "short": "HCJ Prahova nr. 15/2022",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 15/2022 privind aprobarea Regulamentului pentru acordarea sumelor destinate acoperirii cheltuielilor de transport si cazare ale adoptatorului /familiei adoptatoare, în vederea participării la procedura potrivirii practice cu un copil având domiciliul în alt județ",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2022/?dpage=15",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/02/Hotararea-nr.-15-din-data-31-01-2022.pdf",
+     "sha256": "e6e1cb29d9058d0e11bcd69f4683a424ac58548a4fa9ecf2630796d899c4c479"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-215-2022",
+   "path": "local/judet/prahova/2022/215",
+   "short": "HCJ Prahova nr. 215/2022",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 215/2022 privind modificarea prețurilor medii ale produselor agricole și a prețului mediu al ierbii obținută de pe pajiști, pentru anul fiscal 2022",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2022/?dpage=9",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/09/Hotararea-nr.-215-din-data-31-08-2022.pdf",
+     "sha256": "a3e4f5c16a26516abeddb9b032dad75697bbb0c8befb79fe0898537744287431"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-prahova-3-2022",
+   "path": "local/judet/prahova/2022/3",
+   "short": "HCJ Prahova nr. 3/2022",
+   "title": "Hotărârea Consiliului Județean Prahova nr. 3/2022 privind stabilirea prețurilor medii ale produselor agricole și a prețului mediu al ierbii obținută de pe pajiști, pentru anul fiscal 2022",
+   "url": "https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2022/?dpage=16",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://cjph.ro/wp-content/uploads/2022/02/Hotararea-nr.-3-din-data-31-01-2022.pdf",
+     "sha256": "321e816ce53e8eb5b97f389a00953a962a4546c6db64c17a455274c0fb29ec67"
+    }
+   ]
+  },
+  {
    "slug": "hcj-prahova-397-2022",
    "path": "local/judet/prahova/2022/397",
    "short": "HCJ Prahova nr. 397/2022",

@@ -76,6 +76,36 @@
      "sha256": "49f28e4b71a787f2066706a90eaf1f1921fa8b9f7411e7c329127c2aba9708b1"
     }
    ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-32-2022",
+   "path": "local/suceava/campulung-moldovenesc/2022/32",
+   "short": "HCL Câmpulung Moldovenesc nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 32/2022 privind aprobarea regulamentului de organizare și desfășurare a evaluării anuale a managementului la Muzeul“Arta Lemnului” Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 31 martie 2022; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 8241 din 10.03.2022; -Raportul de speciali",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2022",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_032_2022.docx",
+     "sha256": "50ebb7429e8c22aa0dcc5691f3a3140c36203210bae1dfd9168200b53ae61ce9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-48-2022",
+   "path": "local/suceava/campulung-moldovenesc/2022/48",
+   "short": "HCL Câmpulung Moldovenesc nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 48/2022 privind aprobarea proiectului ELABORAREA ȘI ACTUALIZAREA ÎN FORMAT GIS A PLANULUI URBANISTIC GENERAL IN MUNICIPIUL CAMPULUNG MOLDOVENESC, JUDEȚUL SUCEAVA și a cheltuielilor legate de proiect, în vederea finanțării în cadrul Planului Național de Redresare și Reziliență (PNRR), Componenta 10 Fondul Local, I.4 Elaborarea/actualizarea în format GIS a documentelor de amenajare a teritoriului și de plan",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2022",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_048_2022.docx",
+     "sha256": "7aad9eae21ba3793cca2d91bd0f86cdd354bf08847643e52f0a24a44f227e27b"
+    }
+   ]
   }
  ]
 }

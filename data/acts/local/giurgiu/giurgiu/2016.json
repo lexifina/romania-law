@@ -23,6 +23,28 @@
 "flags": {
 "text_pending": "ocr"
 }
+},
+{
+"slug": "hcl-giurgiu--giurgiu-254-2016",
+"path": "local/giurgiu/giurgiu/2016/254",
+"kind": "local",
+"year": "2016",
+"number": "254",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Giurgiu nr. 254/2016 privind modificarea Hotărârii Consiliului Local nr.14 din data de 27 ianuarie 2011 privind organizarea și funcționarea Comisiei Locale de Ordine Publică a Municipiului Giurgiu",
+"short": "HCL Giurgiu nr. 254/2016",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2016-07-28",
+"latest": "2016-07-28",
+"portal": "https://primariagiurgiu.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/2016-registrul-pentru-evidenta-hcl/",
+"council": "giurgiu/giurgiu",
+"council_name": "Consiliul Local al Municipiului Giurgiu",
+"flags": {
+"text_pending": "review"
+}
 }
 ]
 }
