@@ -1332,6 +1332,36 @@
    ]
   },
   {
+   "slug": "hg-308-1999",
+   "path": "hg/1999/308",
+   "short": "HG nr. 308/1999",
+   "title": "Hotărârea Guvernului nr. 308/1999 privind transmiterea unor imobile, situate în comuna Costeşti, judeţul Valcea, din administrarea Ministerului Educaţiei Naţionale în administrarea Secretariatului de Stat pentru Culte, pentru Episcopia Ramnicului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17945",
+   "versions": [
+    {
+     "from": "1999-04-20",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17945",
+     "sha256": "dc7bca6ab63b3d08d7a9dd1c377f164079a872c2c8b2e3f0736f7516c3becb21"
+    }
+   ]
+  },
+  {
+   "slug": "hg-309-1999",
+   "path": "hg/1999/309",
+   "short": "HG nr. 309/1999",
+   "title": "Hotărârea Guvernului nr. 309/1999 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Bulgaria cu privire la colaborarea în domeniul turismului, semnat la Bucureşti la 10 noiembrie 1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18105",
+   "versions": [
+    {
+     "from": "1999-05-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18105",
+     "sha256": "0071742efd7605d0b8c60a987e51cc93368a9fa47e8b7198ccc6e52230bc6d60"
+    }
+   ]
+  },
+  {
    "slug": "hg-311-1999",
    "path": "hg/1999/311",
    "short": "HG nr. 311/1999",
@@ -1343,6 +1373,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17982",
      "sha256": "62be8002a69773e6bc7aa7ff4e5cad75afc290e7352bbd28ec98ffa1be5f6d51"
+    }
+   ]
+  },
+  {
+   "slug": "hg-313-1999",
+   "path": "hg/1999/313",
+   "short": "HG nr. 313/1999",
+   "title": "Hotărârea Guvernului nr. 313/1999 privind acordarea de la bugetul de stat a unor ajutoare financiare pentru construirea unor noi lăcaşuri de cult, întreţinerea şi funcţionarea unor unităţi de cult cu venituri reduse",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17967",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17967",
+     "sha256": "f459ccb61cfeadc79c502440fe2cf547fa2bb996633b92d66783a49ee0fc326b"
     }
    ]
   },
@@ -1362,6 +1407,111 @@
    ]
   },
   {
+   "slug": "hg-315-1999",
+   "path": "hg/1999/315",
+   "short": "HG nr. 315/1999",
+   "title": "Hotărârea Guvernului nr. 315/1999 privind extinderea competentelor Punctului de control pentru trecerea frontierei Bucureşti-Otopeni la terminalul de aviaţie generală de pe platforma Aeroportului Internaţional Bucureşti-Otopeni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17968",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17968",
+     "sha256": "bad22190bceded9c7a13f50c5fe5ffbd5270956914a1940e87ed5864a00b96e7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-316-1999",
+   "path": "hg/1999/316",
+   "short": "HG nr. 316/1999",
+   "title": "Hotărârea Guvernului nr. 316/1999 privind aprobarea Metodologiei pentru stabilirea normelor de evaluare a performantelor profesionale individuale şi de aplicare a criteriilor de stabilire a salariilor de baza între limite pentru personalul cu funcţii de specialitate din activitatea de cercetare ştiinţifică şi dezvoltare tehnologică din subordinea Academiei Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18083",
+   "versions": [
+    {
+     "from": "1999-05-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18083",
+     "sha256": "f03fd6eb8af52fa2dc646590e5bb20a95d8643835081630a8bf534afa359761e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-317-1999",
+   "path": "hg/1999/317",
+   "short": "HG nr. 317/1999",
+   "title": "Hotărârea Guvernului nr. 317/1999 privind stabilirea parcului normat de autovehicule şi a consumului de carburanţi la Institutul Român de Studii Internaţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17969",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17969",
+     "sha256": "2a54287fd55125b0ce7cca79033db889d1923db6b1b5033871eecc99a1df2639"
+    }
+   ]
+  },
+  {
+   "slug": "hg-318-1999",
+   "path": "hg/1999/318",
+   "short": "HG nr. 318/1999",
+   "title": "Hotărârea Guvernului nr. 318/1999 privind alocarea unei sume din Fondul de rezerva bugetară la dispoziţia Guvernului pentru sprijinirea realizării \"Monumentului infanteriei\" în municipiul Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17970",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17970",
+     "sha256": "d2e4b72728087b4e48ca654c0b824fbe521a95ba625ad553074c2eac785a44a8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-319-1999",
+   "path": "hg/1999/319",
+   "short": "HG nr. 319/1999",
+   "title": "Hotărârea Guvernului nr. 319/1999 privind organizarea Universităţii de Vara \"Castelul Corvineştilor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17971",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17971",
+     "sha256": "1d338a931c881484952308810b64c7f093f31703f3c54a3edd9765065df80452"
+    }
+   ]
+  },
+  {
+   "slug": "hg-320-1999",
+   "path": "hg/1999/320",
+   "short": "HG nr. 320/1999",
+   "title": "Hotărârea Guvernului nr. 320/1999 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18120",
+   "versions": [
+    {
+     "from": "1999-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18120",
+     "sha256": "bebc13c7c0feb362a5ede128f4aa6ce60cb6f20e7ad76071925e16d3fc0c755a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-321-1999",
+   "path": "hg/1999/321",
+   "short": "HG nr. 321/1999",
+   "title": "Hotărârea Guvernului nr. 321/1999 pentru aprobarea bugetului de venituri şi cheltuieli pe anul 1999 al Regiei Autonome \"Monitorul Oficial\", regie autonomă de interes naţional aflată sub autoritatea Camerei Deputaţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17972",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17972",
+     "sha256": "b77e16acafc6024d18aecf5cbe49ba09dc898dca82292c7791da6c430e37f5ff"
+    }
+   ]
+  },
+  {
    "slug": "hg-322-1999",
    "path": "hg/1999/322",
    "short": "HG nr. 322/1999",
@@ -1373,6 +1523,141 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18075",
      "sha256": "d75adc400d00d09a822fcbed8d0754871989a6719cd6361e198043bfbee000af"
+    }
+   ]
+  },
+  {
+   "slug": "hg-323-1999",
+   "path": "hg/1999/323",
+   "short": "HG nr. 323/1999",
+   "title": "Hotărârea Guvernului nr. 323/1999 privind transmiterea unui activ din proprietatea Societăţii Comerciale \"Întreprinderea pentru Întreţinerea şi Repararea Utilajelor de Calcul\" - I.I.R.U.C. - S.A. în proprietatea Regiei Autonome \"Inspectoratul General al Comunicaţiilor\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18084",
+   "versions": [
+    {
+     "from": "1999-05-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18084",
+     "sha256": "0668a08c2d358d32a848ec9cd12315ee2648d0ab1e6f98df1062e7b1beb03814"
+    }
+   ]
+  },
+  {
+   "slug": "hg-324-1999",
+   "path": "hg/1999/324",
+   "short": "HG nr. 324/1999",
+   "title": "Hotărârea Guvernului nr. 324/1999 pentru aprobarea modului de repartizare şi de utilizare a sumelor destinate acţiunilor prevăzute la art. 16 alin. (8) din Legea bugetului de stat pe anul 1999 nr. 36/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18196",
+   "versions": [
+    {
+     "from": "1999-05-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18196",
+     "sha256": "5cfba789b3089a2a7c9ec5d98821ee805bcdaa765b0eb1c278481fd78e69e9f7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-325-1999",
+   "path": "hg/1999/325",
+   "short": "HG nr. 325/1999",
+   "title": "Hotărârea Guvernului nr. 325/1999 privind trecerea Complexului \"Pacea\", situat în localitatea Snagov, judeţul Ilfov, aflat în administrarea Regiei Autonome \"Administraţia Patrimoniului Protocolului de Stat\", din domeniul public al statului în domeniul privat al statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18085",
+   "versions": [
+    {
+     "from": "1999-05-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18085",
+     "sha256": "6c4b3d86e74d7f1f849cba5faa6f9e4e4068f3e94fca409b4100d25c71ab355a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-327-1999",
+   "path": "hg/1999/327",
+   "short": "HG nr. 327/1999",
+   "title": "Hotărârea Guvernului nr. 327/1999 pentru autorizarea efectuării unei operaţiuni refuzate la viza de controlul preventiv al Curţii de Conturi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18068",
+   "versions": [
+    {
+     "from": "1999-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18068",
+     "sha256": "0d76db12df6001ac57c79afb25a8cc131bfc5cc5a8ca4b00ec811b2eb044454d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-328-1999",
+   "path": "hg/1999/328",
+   "short": "HG nr. 328/1999",
+   "title": "Hotărârea Guvernului nr. 328/1999 pentru aprobarea cheltuielilor de organizare şi funcţionare ale Agenţiei Naţionale pentru Dezvoltare Regionala pe anul 1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18069",
+   "versions": [
+    {
+     "from": "1999-04-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18069",
+     "sha256": "ce3d5285834ad5095ac37cc269d6b59f0e47fe17121315629f375b068bb28889"
+    }
+   ]
+  },
+  {
+   "slug": "hg-329-1999",
+   "path": "hg/1999/329",
+   "short": "HG nr. 329/1999",
+   "title": "Hotărârea Guvernului nr. 329/1999 privind alocarea unui ajutor financiar din partea statului pentru Episcopia Alexandriei şi Teleormanului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18061",
+   "versions": [
+    {
+     "from": "1999-04-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18061",
+     "sha256": "e088d5fb6182bb54a006a247302b71598266d3f2bb6aabac61ba77dc976fb66c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-330-1999",
+   "path": "hg/1999/330",
+   "short": "HG nr. 330/1999",
+   "title": "Hotărârea Guvernului nr. 330/1999 privind suplimentarea bugetelor unor instituţii publice, din Fondul de rezerva bugetară la dispoziţia Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18076",
+   "versions": [
+    {
+     "from": "1999-04-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18076",
+     "sha256": "2ba6144a09c2ac7447b21e6cb739cb35e2060a1594e071e55b6577ba035c55c6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-333-1999",
+   "path": "hg/1999/333",
+   "short": "HG nr. 333/1999",
+   "title": "Hotărârea Guvernului nr. 333/1999 privind aprobarea Protocolului-cadru şi a acţiunilor de predare-preluare a exercitării de către consiliile judeţene, consiliile locale şi Consiliul General al Municipiului Bucureşti a atribuţiilor prevăzute de Legea nr. 189/1998 privind finanţele publice locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18080",
+   "versions": [
+    {
+     "from": "1999-04-30",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18080",
+     "sha256": "35326fc9cbc4ae48042006eab5942daae3fbce5d67226e85032bcb4dc2d5e029"
+    }
+   ]
+  },
+  {
+   "slug": "hg-334-1999",
+   "path": "hg/1999/334",
+   "short": "HG nr. 334/1999",
+   "title": "Hotărârea Guvernului nr. 334/1999 privind exceptarea temporară de la plata taxelor vamale a unor produse din import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18081",
+   "versions": [
+    {
+     "from": "1999-05-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18081",
+     "sha256": "b0de72954d1cebeffc718ccb245271e4777a4ae256668dfab3cec1336ba7a204"
     }
    ]
   },
