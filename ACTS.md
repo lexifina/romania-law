@@ -1,6 +1,6 @@
 # Every act in this repository
 
-12409 acts, 23,923 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+12412 acts, 23,926 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (8329, of which 3126 amending acts)
+## Laws (legi) (8331, of which 3128 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -700,10 +700,12 @@
 | Legea nr. 193/1999 pentru aprobarea Ordonanţei Guvernului nr. 105/1998 privind acordarea de credite bancare pentru studenţii din învăţământul de stat | [`lege/1999/193/`](lege/1999/193/) | amended, not consolidated | 1 | 1999-12-15 | 1999-12-15 |
 | Legea nr. 194/1999 pentru completarea Legii nr. 68/1994 privind înfiinţarea medaliei "Crucea comemorativa a celui de-al doilea război mondial, 1941-1945" | [`lege/1999/194/`](lege/1999/194/) | amended, not consolidated | 1 | 1999-12-23 | 1999-12-23 |
 | Legea nr. 195/1999 pentru modificarea art. 5 din Legea nr. 128/1997 privind Statutul personalului didactic | [`lege/1999/195/`](lege/1999/195/) | amended, not consolidated | 1 | 1999-12-23 | 1999-12-23 |
+| Legea nr. 197/1999 privind aprobarea Ordonanţei Guvernului nr. 45/1999 pentru ratificarea Addendei la memorandumurile de finanţare PHARE privind Programul de combatere a efectelor dezastrelor cauzate de inundaţii, încheiată la Bucureşti la 24 decembrie 1998 între Comisia Europeană şi Guvernul României | [`lege/1999/197/`](lege/1999/197/) | amending act | 1 | 1999-12-23 | 1999-12-23 |
 | Legea nr. 201/1999 privind ratificarea Acordului dintre România şi Republica Finlanda pentru evitarea dublei impuneri cu privire la impozitele pe venit, semnat la Helsinki la 27 octombrie 1998 | [`lege/1999/201/`](lege/1999/201/) | amended, not consolidated | 1 | 1999-12-29 | 1999-12-29 |
 | Legea nr. 202/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 12/1999 privind schimbul terenului în suprafaţa de 5.000 m&#178;, situat în şoseaua Kiseleff, zona Piaţa Presei Libere, sectorul 1, Bucureşti - România, cu construcţia şi terenul aferent, situate în Dorotheenstrasse 62-66, Berlin - Republica Federala Germania | [`lege/1999/202/`](lege/1999/202/) | amended, not consolidated | 1 | 1999-12-30 | 1999-12-30 |
 | Legea nr. 203/1999 privind permisele de muncă | [`lege/1999/203/`](lege/1999/203/) | repealed 2007-06-26 | 2 | 2000-02-28 | 2007-06-26 |
 | Legea nr. 204/1999 pentru modificarea şi completarea Legii nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi | [`lege/1999/204/`](lege/1999/204/) | amended, not consolidated | 1 | 1999-12-30 | 1999-12-30 |
+| Legea nr. 205/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 99/1999 privind aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Federale Germania cu privire la colaborarea în domeniul şcolar, semnat la Bucureşti la 15 martie 1996 | [`lege/1999/205/`](lege/1999/205/) | amending act | 1 | 1999-12-30 | 1999-12-30 |
 | Legea nr. 206/1999 privind abilitarea Guvernului de a emite ordonanţe | [`lege/1999/206/`](lege/1999/206/) | amended, not consolidated | 1 | 1999-12-31 | 1999-12-31 |
 | Legea nr. 207/1999 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 58/1998 pentru prelungirea termenului prevăzut la art. 25 alin. (1) din Ordonanţa Guvernului nr. 25/1995 privind reglementarea organizării şi finanţării activităţii de cercetare-dezvoltare | [`lege/1999/207/`](lege/1999/207/) | amending act | 1 | 1999-12-31 | 1999-12-31 |
 | Legea nr. 208/1999 privind ratificarea Acordului de cooperare pentru prevenirea şi combaterea infracţionalităţii transfrontaliere, semnat la Bucureşti la 26 mai 1999 | [`lege/1999/208/`](lege/1999/208/) | in force | 1 | 1999-12-31 | 1999-12-31 |
@@ -8367,7 +8369,7 @@
 | Legea nr. 204/2026 privind aprobarea Ordonanţei Guvernului nr. 22/2025 pentru modificarea şi completarea Legii nr. 227/2015 privind Codul fiscal şi pentru completarea articolului 342 din Legea nr. 227/2015 privind Codul fiscal | [`lege/2026/204/`](lege/2026/204/) | amending act | 1 | 2026-10-25 | 2026-10-25 |
 | Legea nr. 205/2026 pentru completarea Ordonanţei Guvernului nr. 22/2002 privind executarea obligaţiilor de plată ale instituţiilor publice, stabilite prin titluri executorii | [`lege/2026/205/`](lege/2026/205/) | amending act | 1 | 2026-11-02 | 2026-11-02 |
 
-## Emergency ordinances (OUG) (2911, of which 670 amending acts)
+## Emergency ordinances (OUG) (2912, of which 670 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8511,6 +8513,7 @@
 | Ordonanța de urgență a Guvernului nr. 195/1999 pentru completarea Ordonanţei Guvernului nr. 39/1999 privind finalizarea procesului de restructurare a Băncii Române de Comerţ Exterior - Bancorex - S.A. şi fuziunea prin absorbire a acestei bănci cu Banca Comercială Română - S.A | [`oug/1999/195/`](oug/1999/195/) | amended, not consolidated | 1 | 1999-12-15 | 1999-12-15 |
 | Ordonanța de urgență a Guvernului nr. 198/1999 privind privatizarea societăţilor comerciale ce deţin în administrare terenuri agricole sau terenuri aflate permanent sub luciu de apa | [`oug/1999/198/`](oug/1999/198/) | amended, not consolidated | 1 | 1999-12-13 | 1999-12-13 |
 | Ordonanța de urgență a Guvernului nr. 202/1999 pentru modificarea Ordonanţei Guvernului nr. 118/1999 privind achiziţiile publice | [`oug/1999/202/`](oug/1999/202/) | amended, not consolidated | 1 | 1999-12-30 | 1999-12-30 |
+| Ordonanța de urgență a Guvernului nr. 209/1999 privind scutirea temporară de la plata taxelor vamale, a suprataxei vamale şi a taxei pe valoarea adăugată a unor cantităţi de gaze naturale provenite din import | [`oug/1999/209/`](oug/1999/209/) | in force | 1 | 1999-12-30 | 1999-12-30 |
 | Ordonanța de urgență a Guvernului nr. 211/1999 pentru modificarea şi completarea Ordonanţei Guvernului nr. 11/1996 privind executarea creanţelor bugetare | [`oug/1999/211/`](oug/1999/211/) | amended, not consolidated | 1 | 1999-12-30 | 1999-12-30 |
 | Ordonanța de urgență a Guvernului nr. 212/1999 privind modificarea Legii nr. 83/1997 pentru privatizarea societăţilor comerciale bancare la care statul este acţionar | [`oug/1999/212/`](oug/1999/212/) | amended, not consolidated | 1 | 1999-12-30 | 1999-12-30 |
 | Ordonanța de urgență a Guvernului nr. 213/1999 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr. 9/1998 pentru constituirea fondurilor de restructurare | [`oug/1999/213/`](oug/1999/213/) | amended, not consolidated | 1 | 1999-12-30 | 1999-12-30 |
@@ -12475,7 +12478,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 27939 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 27961 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 26489 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 727 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 554 | [`data/acts/regulament/`](data/acts/regulament/) |
@@ -12491,4 +12494,4 @@
 | Anti-discrimination council decisions (CNCD) | 2315 | [`data/acts/cncd/`](data/acts/cncd/) |
 | Data protection authority decisions and sanction notices (ANSPDCP) | 375 | [`data/acts/anspdcp/`](data/acts/anspdcp/) |
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |
-| Local acts (decisions of local and county councils) | 19553 | [`data/acts/local/`](data/acts/local/) |
+| Local acts (decisions of local and county councils) | 21053 | [`data/acts/local/`](data/acts/local/) |

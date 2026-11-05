@@ -116183,6 +116183,21 @@
    ]
   },
   {
+   "slug": "legea-197-1999",
+   "path": "lege/1999/197",
+   "short": "Legea nr. 197/1999",
+   "title": "Legea nr. 197/1999 privind aprobarea Ordonanţei Guvernului nr. 45/1999 pentru ratificarea Addendei la memorandumurile de finanţare PHARE privind Programul de combatere a efectelor dezastrelor cauzate de inundaţii, încheiată la Bucureşti la 24 decembrie 1998 între Comisia Europeană şi Guvernul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20314",
+   "versions": [
+    {
+     "from": "1999-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20314",
+     "sha256": "6800c712b2debb8480d84e6474e683f46e2e49d1705a539d85429ed7287ab413"
+    }
+   ]
+  },
+  {
    "slug": "legea-197-2000",
    "path": "lege/2000/197",
    "short": "Legea nr. 197/2000",
@@ -119134,6 +119149,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/12056",
      "sha256": "2a18b790aeb32ca77d9b7b71f49f07e38adf1501f0fd5dc0775972b575527af0"
+    }
+   ]
+  },
+  {
+   "slug": "legea-205-1999",
+   "path": "lege/1999/205",
+   "short": "Legea nr. 205/1999",
+   "title": "Legea nr. 205/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 99/1999 privind aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Federale Germania cu privire la colaborarea în domeniul şcolar, semnat la Bucureşti la 15 martie 1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20419",
+   "versions": [
+    {
+     "from": "1999-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20419",
+     "sha256": "6dee5dd307eb6fc3cd499397bafefd93e812c2adf61ae760efa12981a2e3ee28"
     }
    ]
   },
@@ -229081,6 +229111,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/234083",
      "sha256": "c175e43ae6a6f5769c1f6890d2863b24eb1c80e9b73bd210ab13898f0148a8e8"
+    }
+   ]
+  },
+  {
+   "slug": "oug-209-1999",
+   "path": "oug/1999/209",
+   "short": "OUG nr. 209/1999",
+   "title": "Ordonanța de urgență a Guvernului nr. 209/1999 privind scutirea temporară de la plata taxelor vamale, a suprataxei vamale şi a taxei pe valoarea adăugată a unor cantităţi de gaze naturale provenite din import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20437",
+   "versions": [
+    {
+     "from": "1999-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20437",
+     "sha256": "cd681950204cec7bbf6d5265940cf9d427b15d32b22a8df5cfc888295eec86ec"
     }
    ]
   },

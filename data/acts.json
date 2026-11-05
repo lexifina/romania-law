@@ -11290,6 +11290,23 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/20312"
 },
 {
+"slug": "legea-197-1999",
+"path": "lege/1999/197",
+"kind": "lege",
+"year": "1999",
+"number": "197",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 197/1999 privind aprobarea Ordonanţei Guvernului nr. 45/1999 pentru ratificarea Addendei la memorandumurile de finanţare PHARE privind Programul de combatere a efectelor dezastrelor cauzate de inundaţii, încheiată la Bucureşti la 24 decembrie 1998 între Comisia Europeană şi Guvernul României",
+"short": "Legea nr. 197/1999",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1999-12-23",
+"latest": "1999-12-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/20314"
+},
+{
 "slug": "legea-201-1999",
 "path": "lege/1999/201",
 "kind": "lege",
@@ -11356,6 +11373,23 @@
 "from": "1999-12-30",
 "latest": "1999-12-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/20417"
+},
+{
+"slug": "legea-205-1999",
+"path": "lege/1999/205",
+"kind": "lege",
+"year": "1999",
+"number": "205",
+"withdrawn_by": null,
+"reason": null,
+"title": "Legea nr. 205/1999 pentru aprobarea Ordonanţei de urgenţă a Guvernului nr. 99/1999 privind aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Federale Germania cu privire la colaborarea în domeniul şcolar, semnat la Bucureşti la 15 martie 1996",
+"short": "Legea nr. 205/1999",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1999-12-30",
+"latest": "1999-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/20419"
 },
 {
 "slug": "legea-206-1999",
@@ -143990,6 +144024,23 @@
 "from": "1999-12-30",
 "latest": "1999-12-30",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/20400"
+},
+{
+"slug": "oug-209-1999",
+"path": "oug/1999/209",
+"kind": "oug",
+"year": "1999",
+"number": "209",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordonanța de urgență a Guvernului nr. 209/1999 privind scutirea temporară de la plata taxelor vamale, a suprataxei vamale şi a taxei pe valoarea adăugată a unor cantităţi de gaze naturale provenite din import",
+"short": "OUG nr. 209/1999",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1999-12-30",
+"latest": "1999-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/20437"
 },
 {
 "slug": "oug-211-1999",
