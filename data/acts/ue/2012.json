@@ -20,6 +20,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012L0004"
 },
 {
+"slug": "ue-regulament-5-2012",
+"path": "ue/regulament/2012/5",
+"kind": "ue",
+"year": "2012",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) nr. 5/2012 al Consiliului din 19 decembrie 2011 de stabilire, pentru 2012, a posibilităților de pescuit pentru anumite stocuri de pește și grupe de stocuri de pește aplicabile în Marea Neagră",
+"short": "Regulamentul (UE) nr. 5/2012",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2012-01-01",
+"latest": "2012-01-01",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32012R0005"
+},
+{
 "slug": "ue-directiva-7-2012",
 "path": "ue/directiva/2012/7",
 "kind": "ue",
