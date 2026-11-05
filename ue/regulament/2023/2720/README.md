@@ -1,0 +1,16 @@
+# Regulamentul (UE) 2023/2720 al Consiliului din 27 noiembrie 2023 privind deschiderea și modul de gestionare a contingentelor tarifare autonome ale Uniunii pentru anumite produse pescărești pentru perioada 2024-2026
+
+Regulamentul (UE) 2023/2720 · 1 versions, from 2023-12-26 (latest in force: 2023-12-26) · <https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32023R2720>
+
+**Status:** Published as it appeared in the Official Journal of the European Union; later amendments, if any, are not yet applied (the Romanian consolidated versions will be added as later versions).
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `ue-regulament-2720-2023` (tags `ue-regulament-2720-2023/<day>`; `python tools/on.py <day> ue-regulament-2720-2023`).
+
+## Decisions made by hand
+
+- Regulamentul (UE) 2023/2720: added by Lexifina's eu-law source lane from its Romanian text in the Publications Office's CELLAR (http://publications.europa.eu/resource/cellar/a88d85cc-93d8-11ee-b164-01aa75ed71a1.0021.03/DOC_1), as published in the Official Journal of the European Union (JO L, 2023/2720, 6.12.2023); in force from 2023-12-26. Published as it appeared in the Official Journal of the European Union; later amendments, if any, are not yet applied (the Romanian consolidated versions will be added as later versions).
+- Regulamentul (UE) 2023/2720: the Publications Office records the end of its validity on 2027-12-31; that end is not yet recorded as a version here.

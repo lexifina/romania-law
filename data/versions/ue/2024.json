@@ -708,6 +708,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1002-2024",
+   "path": "ue/regulament/2024/1002",
+   "short": "Regulamentul (UE) 2024/1002",
+   "title": "Regulamentul (UE) 2024/1002 al Comisiei din 4 aprilie 2024 de modificare a Regulamentului (UE) 2023/915 în ceea ce privește nivelurile maxime de perclorați în fasolea (Phaseolus vulgaris) cu păstăi",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1002",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/f7fdbaaf-f2e4-11ee-8e14-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "f570c9d74cfab41ad95ffb8bd36da1076800ba248ad20c1de1ce494c886b35ad"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1003-2024",
    "path": "ue/regulament/2024/1003",
    "short": "Regulamentul (UE) 2024/1003",
@@ -944,6 +959,36 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/459993a1-068e-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "9bab06a636ea53b83e4c1b0991bb0d73f67111b04592aea021966e05ddccafed"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1205-2024",
+   "path": "ue/regulament/2024/1205",
+   "short": "Regulamentul (UE) 2024/1205",
+   "title": "Regulamentul (UE) 2024/1205 din 22 aprilie 2024",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1205",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/d2e6490f-010b-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "194bd3f33c238b549d430923441777f939d35290d7762938e4dc4953b404534f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1230-2024",
+   "path": "ue/regulament/2024/1230",
+   "short": "Regulamentul (UE) 2024/1230",
+   "title": "Regulamentul (UE) 2024/1230 al Parlamentului European și al Consiliului din 24 aprilie 2024 de modificare a Regulamentelor (CE) nr. 80/2009, (UE) nr. 996/2010 și (UE) nr. 165/2014 în ceea ce privește anumite cerințe de raportare în domeniul transportului rutier și al aviației (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1230",
+   "versions": [
+    {
+     "from": "2024-05-19",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b3f3333c-05c9-11ef-a251-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "00b65fed2098d86df7e61aebf4843ea4551801f055506ccf412f7b5e5f5384f3"
     }
    ]
   },
@@ -1443,6 +1488,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-1610-2024",
+   "path": "ue/regulament/2024/1610",
+   "short": "Regulamentul (UE) 2024/1610",
+   "title": "Regulamentul (UE) 2024/1610 al Parlamentului European și al Consiliului din 14 mai 2024 de modificare a Regulamentului (UE) 2019/1242 în ceea ce privește consolidarea standardelor de performanță privind emisiile de CO2 pentru vehiculele grele noi și integrarea obligațiilor de raportare, de modificare a Regulamentului (UE) 2018/858 și de abrogare a Regulamentului (UE) 2018/956 (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1610",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/567c1b95-23c8-11ef-a195-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "eb4f38273ca2df7cbdc2949c8a0534b6f0b769b8aeb1ae022b6a772bb39531f3"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-1620-2024",
    "path": "ue/regulament/2024/1620",
    "short": "Regulamentul (UE) 2024/1620",
@@ -1574,6 +1634,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/c30fee5a-2f68-11ef-a61b-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "89e87b7c228a0e2e0f9a73268130aaf688453f9daebd8ab567a4e5c796e0a106"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1732-2024",
+   "path": "ue/regulament/2024/1732",
+   "short": "Regulamentul (UE) 2024/1732",
+   "title": "Regulamentul (UE) 2024/1732 al Consiliului din 17 iunie 2024 de modificare a Regulamentului (UE) 2021/1173 în ceea ce privește o inițiativă EuroHPC vizând start-upurile pentru a consolida poziția de lider a Europei în domeniul inteligenței artificiale de încredere",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1732",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/da58b321-2dd3-11ef-a61b-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "45714c875cf0ecc9eea6d1806b26d5ecd73612c564f9bde742210c7bb10840ba"
     }
    ]
   },
@@ -1724,6 +1799,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/75b04b82-328d-11ef-a61b-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "6d07655ff3a92859b88ace241a159fc4949d7adedffdc8dfc9d8f08bd9e066f8"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-1808-2024",
+   "path": "ue/regulament/2024/1808",
+   "short": "Regulamentul (UE) 2024/1808",
+   "title": "Regulamentul (UE) 2024/1808 al Comisiei din 1 iulie 2024 de modificare a Regulamentului (UE) 2023/915 în ceea ce privește data aplicării nivelurilor maxime mai mici pentru scleroții ergotului și alcaloizii ergotului în produsele alimentare",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R1808",
+   "versions": [
+    {
+     "from": "2024-07-22",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b33d95e5-3833-11ef-b441-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "21c42c869590d7cc16147767cdc1f5fe10246ce15b274204f886f0095a0c9d88"
     }
    ]
   },
@@ -1949,6 +2039,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/dc574c7f-4e0b-11ef-acbc-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "92a8bb1519b2f7d121bb21266d2317c2e6bbaac61b8637dc2059822390b87d24"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-2054-2024",
+   "path": "ue/regulament/2024/2054",
+   "short": "Regulamentul (UE) 2024/2054",
+   "title": "Regulamentul (UE) 2024/2054 al Consiliului din 22 iulie 2024 de modificare a Regulamentului (UE) 2021/2061 privind repartizarea posibilităților de pescuit prevăzute de Protocolul de punere în aplicare a Acordului de parteneriat în domeniul pescuitului durabil dintre Uniunea Europeană și Republica Islamică Mauritania (2021-2026)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R2054",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0b147988-4a1e-11ef-acbc-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "bb575302cbbbca0da22e3e1716db98b5f3d7ea30c5303454df64e2f6275a4cf5"
     }
    ]
   },
@@ -2643,6 +2748,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-3018-2024",
+   "path": "ue/regulament/2024/3018",
+   "short": "Regulamentul (UE) 2024/3018",
+   "title": "Regulamentul (UE) 2024/3018 al Parlamentului European și al Consiliului din 27 noiembrie 2024 de modificare a Regulamentului (CE) nr. 223/2009 privind statisticile europene (Text cu relevanță pentru SEE)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3018",
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/05628be8-b373-11ef-acb1-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "df41cd9f94f3f88be7b0b2950d8393ec54858ee8672868b5cec754facc25089f"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-3024-2024",
    "path": "ue/regulament/2024/3024",
    "short": "Regulamentul (UE) 2024/3024",
@@ -2733,6 +2853,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-3190-2024",
+   "path": "ue/regulament/2024/3190",
+   "short": "Regulamentul (UE) 2024/3190",
+   "title": "Regulamentul (UE) 2024/3190 al Comisiei din 19 decembrie 2024 privind utilizarea bisfenolului A (BPA) și a altor bisfenoli și derivați ai bisfenolului cu clasificare armonizată pentru proprietăți periculoase specifice în anumite materiale și articole destinate să vină în contact cu alimentele, de modificare a Regulamentului (UE) nr. 10/2011 și de abrogare a Regulamentului (UE) 2018/213",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3190",
+   "versions": [
+    {
+     "from": "2025-01-20",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/df99fa2c-c717-11ef-91ed-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "39c1236542c675caf2460683af72a2bcc2049987af77ff0b8b3000922185296d"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-3192-2024",
    "path": "ue/regulament/2024/3192",
    "short": "Regulamentul (UE) 2024/3192",
@@ -2759,6 +2894,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/a5c8ba11-bdaa-11ef-91ed-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "b2564e89f2236778b739aa283eac4d2a80a6ef2fd826f1dfbbd07550eb27cc4f"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-3211-2024",
+   "path": "ue/regulament/2024/3211",
+   "short": "Regulamentul (UE) 2024/3211",
+   "title": "Regulamentul (UE) 2024/3211 al Consiliului din 16 decembrie 2024 de modificare a Regulamentului (UE) 2021/2278 de suspendare a taxelor din Tariful vamal comun menționate la articolul 56 alineatul (2) litera (c) din Regulamentul (UE) nr. 952/2013 al Parlamentului European și al Consiliului pentru anumite produse agricole și industriale",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R3211",
+   "versions": [
+    {
+     "from": "2024-12-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/de27b1e8-c3f2-11ef-91ed-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "939b56521bda0ff0057139e6fc34a1cfbc84d7a28d6ead1279cd6e30990174aa"
     }
    ]
   },
@@ -2898,6 +3048,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-344-2024",
+   "path": "ue/regulament/2024/344",
+   "short": "Regulamentul (UE) 2024/344",
+   "title": "Regulamentul (UE) 2024/344 al Comisiei din 22 ianuarie 2024 de modificare și rectificare a anexei II la Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului în ceea ce privește limitele maxime pentru reziduurile de mandipropamid din sau de pe anumite produse",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0344",
+   "versions": [
+    {
+     "from": "2024-02-12",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/0ae561c3-b993-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "84ea2918f35177b663cbeae503d4c3f07239aed40a3e5b517bee02f1c290729d"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-345-2024",
    "path": "ue/regulament/2024/345",
    "short": "Regulamentul (UE) 2024/345",
@@ -2954,6 +3119,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/44ba11cc-b993-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "734877095d2590890af31ddafb5d67a10cce3cc51924b920455c3fef66aae70a"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-374-2024",
+   "path": "ue/regulament/2024/374",
+   "short": "Regulamentul (UE) 2024/374",
+   "title": "Regulamentul (UE) 2024/374 al Comisiei din 24 ianuarie 2024 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește titlurile categoriilor de produse alimentare reprezentate de băuturi alcoolice și utilizarea câtorva aditivi în anumite băuturi alcoolice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0374",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b9be1f2f-bb26-11ee-b164-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "7426ca8da0cfc69fec67efe8e9a073d3a871bcb804977817067c703e2ac25eea"
     }
    ]
   },
@@ -3123,6 +3303,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-765-2024",
+   "path": "ue/regulament/2024/765",
+   "short": "Regulamentul (UE, Euratom) 2024/765",
+   "title": "Regulamentul (UE, Euratom) 2024/765 al Consiliului din 29 februarie 2024 de modificare a Regulamentului (UE, Euratom) 2020/2093 de stabilire a cadrului financiar multianual pentru perioada 2021-2027",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0765",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/b46b6621-d6eb-11ee-b9d9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "288570cd5d585c04075452f766a0c3babe8fa996ecc8726c4297650900ff5431"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-791-2024",
    "path": "ue/regulament/2024/791",
    "short": "Regulamentul (UE) 2024/791",
@@ -3164,6 +3359,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/f6746034-d6e9-11ee-b9d9-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "6aa899691b52b2150bd50948679bd5f7acd3adb8f9a61842a4ed63339732f796"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-823-2024",
+   "path": "ue/regulament/2024/823",
+   "short": "Regulamentul (UE) 2024/823",
+   "title": "Regulamentul (UE) 2024/823 al Parlamentului European și al Consiliului din 28 februarie 2024 privind unele măsuri comerciale excepționale în favoarea țărilor și teritoriilor participante sau legate de procesul de stabilizare și de asociere (codificare)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0823",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/09e93eec-db63-11ee-b9d9-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "3aa9f5eaa801bda74c52b24d9b3c2997833a16b7d0744f3a25a7280e98d28289"
     }
    ]
   },
@@ -3344,6 +3554,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/fcf7d696-f2e4-11ee-8e14-01aa75ed71a1.0021.03/DOC_1",
      "sha256": "9d5497c99cd321539940ccf3f8ae3b63cc3aae4f156803c4182b9330cc53326d"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-996-2024",
+   "path": "ue/regulament/2024/996",
+   "short": "Regulamentul (UE) 2024/996",
+   "title": "Regulamentul (UE) 2024/996 al Comisiei din 3 aprilie 2024 de modificare a Regulamentului (CE) nr. 1223/2009 al Parlamentului European și al Consiliului în ceea ce privește utilizarea vitaminei A, a alfa-arbutinei și a beta-arbutinei, precum și a anumitor substanțe cu potențial de perturbare a sistemului endocrin în produsele cosmetice",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32024R0996",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/74fb29af-f21b-11ee-8e14-01aa75ed71a1.0021.03/DOC_1",
+     "sha256": "689acef0ee65976ba9fadaf7d0e273f5e6c795404d46d9c5c311c6bbe80299c5"
     }
    ]
   }

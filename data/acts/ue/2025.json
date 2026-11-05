@@ -74,6 +74,23 @@
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0012"
 },
 {
+"slug": "ue-regulament-13-2025",
+"path": "ue/regulament/2025/13",
+"kind": "ue",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2025/13 al Parlamentului European și al Consiliului din 19 decembrie 2024 privind colectarea și transferul de informații prealabile referitoare la pasageri în scopul prevenirii, depistării, investigării și urmăririi penale a infracțiunilor de terorism și a infracțiunilor grave și de modificare a Regulamentului (UE) 2019/818",
+"short": "Regulamentul (UE) 2025/13",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2025-01-28",
+"latest": "2025-01-28",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0013"
+},
+{
 "slug": "ue-regulament-14-2025",
 "path": "ue/regulament/2025/14",
 "kind": "ue",
@@ -157,6 +174,26 @@
 "from": "2025-02-11",
 "latest": "2025-02-11",
 "portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0040"
+},
+{
+"slug": "ue-regulament-41-2025",
+"path": "ue/regulament/2025/41",
+"kind": "ue",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul (UE) 2025/41 al Parlamentului European și al Consiliului din 19 decembrie 2024 privind măsurile referitoare la importul, exportul și tranzitul de arme de foc, de componente esențiale și de muniții și de punere în aplicare a articolului 10 din Protocolul Organizației Națiunilor Unite împotriva fabricării și traficului ilegale de arme de foc, piese și componente ale acestora, precum și de muniții, adițional la Convenția Organizației Națiunilor Unite împotriva criminalității transnaționale organizate (Protocolul ONU privind armele de foc) (reformare)",
+"short": "Regulamentul (UE) 2025/41",
+"code": null,
+"status": "as published, amendments not yet applied",
+"versions": 1,
+"from": "2025-02-11",
+"latest": "2025-02-11",
+"portal": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0041",
+"flags": {
+"figures_missing": 13
+}
 },
 {
 "slug": "ue-directiva-50-2025",

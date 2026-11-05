@@ -663,6 +663,21 @@
    ]
   },
   {
+   "slug": "ue-regulament-13-2025",
+   "path": "ue/regulament/2025/13",
+   "short": "Regulamentul (UE) 2025/13",
+   "title": "Regulamentul (UE) 2025/13 al Parlamentului European și al Consiliului din 19 decembrie 2024 privind colectarea și transferul de informații prealabile referitoare la pasageri în scopul prevenirii, depistării, investigării și urmăririi penale a infracțiunilor de terorism și a infracțiunilor grave și de modificare a Regulamentului (UE) 2019/818",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0013",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/ffe92a5f-cd60-11ef-be2a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "b1eed0a5da0b82c36ea572dd6bd888e0321330a69d2331a6abf29afd677fa16d"
+    }
+   ]
+  },
+  {
    "slug": "ue-regulament-130-2025",
    "path": "ue/regulament/2025/130",
    "short": "Regulamentul (UE) 2025/130",
@@ -2174,6 +2189,21 @@
      "units": 1,
      "source_url": "http://publications.europa.eu/resource/cellar/2e8ab935-f319-11ef-b7db-01aa75ed71a1.0020.03/DOC_1",
      "sha256": "7edee8af2375c4b263ebac6516ee1af7f8284bb16761550197f5225acf0b05dd"
+    }
+   ]
+  },
+  {
+   "slug": "ue-regulament-41-2025",
+   "path": "ue/regulament/2025/41",
+   "short": "Regulamentul (UE) 2025/41",
+   "title": "Regulamentul (UE) 2025/41 al Parlamentului European și al Consiliului din 19 decembrie 2024 privind măsurile referitoare la importul, exportul și tranzitul de arme de foc, de componente esențiale și de muniții și de punere în aplicare a articolului 10 din Protocolul Organizației Națiunilor Unite împotriva fabricării și traficului ilegale de arme de foc, piese și componente ale acestora, precum și de muniții, adițional la Convenția Organizației Națiunilor Unite împotriva criminalității transnaționale organizate (Protocolul ONU privind armele de foc) (reformare)",
+   "url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:32025R0041",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 1,
+     "source_url": "http://publications.europa.eu/resource/cellar/776aa5c0-d891-11ef-be2a-01aa75ed71a1.0020.03/DOC_1",
+     "sha256": "a646a5403f54062e01856cce587789f1c5e4202b68e986eb91866bd05c00da32"
     }
    ]
   },

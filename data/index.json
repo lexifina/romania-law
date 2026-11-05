@@ -8757,34 +8757,34 @@
   {
    "shard": "ue/2023",
    "kind": "ue",
-   "count": 23,
+   "count": 160,
    "acts": "data/acts/ue/2023.json",
    "list": "data/acts/ue/2023.md",
    "versions": "data/versions/ue/2023.json",
    "laws": "data/laws/ue/2023.csv",
-   "laws_count": 23,
+   "laws_count": 160,
    "sources": "data/sources/ue/2023.csv"
   },
   {
    "shard": "ue/2024",
    "kind": "ue",
-   "count": 223,
+   "count": 238,
    "acts": "data/acts/ue/2024.json",
    "list": "data/acts/ue/2024.md",
    "versions": "data/versions/ue/2024.json",
    "laws": "data/laws/ue/2024.csv",
-   "laws_count": 223,
+   "laws_count": 238,
    "sources": "data/sources/ue/2024.csv"
   },
   {
    "shard": "ue/2025",
    "kind": "ue",
-   "count": 166,
+   "count": 168,
    "acts": "data/acts/ue/2025.json",
    "list": "data/acts/ue/2025.md",
    "versions": "data/versions/ue/2025.json",
    "laws": "data/laws/ue/2025.csv",
-   "laws_count": 166,
+   "laws_count": 168,
    "sources": "data/sources/ue/2025.csv"
   },
   {
