@@ -68,6 +68,19 @@ Read dates with the tools, not `git rev-list --before`: they pick each version b
 | `data/mo-issues.csv` | an index of Monitorul Oficial issues |
 | `data/local-taxes.csv` | local councils' decisions on local taxes, by locality and year |
 
+Practical tables, each row citing the provision it comes from (information, not legal advice):
+
+| File | What |
+| --- | --- |
+| `data/court-jurisdiction.csv`, `data/court-localities.csv` | the judecătorie, tribunal, court of appeal and prosecutor's offices for every municipiu, oraș, comună, Bucharest sector and village (SIRUTA code); HG nr. 1.217/2023, Legea nr. 304/2022 |
+| `data/courts.csv` | every court: seat, county, parent courts |
+| `data/court-fees.csv` | taxa judiciară de timbru, one row per provision (OUG nr. 80/2013) |
+| `data/monetary-thresholds.csv` | competence limit, small-claims ceiling, bail brackets, fines, legal-interest formulas |
+| `data/minimum-wage.csv`, `data/legal-interest.csv` | the minimum gross wage since 1991; legal interest by period since 2011 (BNR rate, OG nr. 13/2011) |
+| `data/procedural-deadlines.csv` | appeal, recurs, prescription, administrative, contravention, labour and criminal deadlines |
+| `data/legal-aid-rules.csv`, `data/legal-aid-services.csv` | who qualifies for ajutor public judiciar (OUG nr. 51/2008) and the bar service beside each judecătorie |
+| `data/forms-index.csv` | official forms (small claims, EU procedures, tax forms) and the acts approving them |
+
 ## Case law
 
 All 23,743 decisions are here, as published in the Monitorul Oficial, Part I: 21,561 of the Constitutional Court (from 1992), 1,863 binding decisions of the High Court of Cassation and Justice (RIL and HP, from 1998) and 319 European Court of Human Rights judgments against Romania. Each folder holds the text and `meta.json`. Each decision is one commit of kind `ruling`, tagged `ruling/<id>`; a ruling changes no act file, and a Constitutional Court decision that changed a text is a separate commit of kind `court` in that act's history. Parties' names are as the Monitorul Oficial prints them. The portal holds about 85% of the Constitutional Court's yearly totals in recent years.
@@ -93,6 +106,7 @@ Every version names the page it was read from and that page's sha256. Every vers
 | [legalize-ro](https://github.com/legalize-dev/legalize-ro) | a check of the Codul fiscal's text |
 | [Camera Deputaților](https://www.cdep.ro), legislation database | `data/act-links.csv` |
 | [EU Publications Office](https://op.europa.eu) (CELLAR) | `data/eu-transposition.csv` (CC0) |
+| [INS SIRUTA](https://data.gov.ro) and the [BNR](https://www.bnr.ro) rate table | locality codes in the court tables; `data/legal-interest.csv` |
 
 ## Licence
 
