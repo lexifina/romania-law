@@ -3,6 +3,231 @@
  "shard": "local/bucuresti/sector-4/2009",
  "acts": [
   {
+   "slug": "hcls4-1-2009",
+   "path": "local/bucuresti/sector-4/2009/1",
+   "short": "HCLS4 nr. 1/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 1/2009 privind încetarea de drept a unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1005-1523-8373.pdf",
+     "sha256": "60af715a755d114de3c5a16ab79ff16b6e8f5da73fb285d76372de180fc4552e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-10-2009",
+   "path": "local/bucuresti/sector-4/2009/10",
+   "short": "HCLS4 nr. 10/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 10/2009 privind alegerea preşedintelui de şedinţă al Consiliului Local al sectorului 4, pe perioada 01.03.2009-31.05.2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9852-5311-6734.pdf",
+     "sha256": "e17d29f6cb0345f18855e8181f5ccbe6a7961b587a451dc9bf0fc007fd5800ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-100-2009",
+   "path": "local/bucuresti/sector-4/2009/100",
+   "short": "HCLS4 nr. 100/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 100/2009 ÃRÂRE Privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6362-7079-2356.pdf",
+     "sha256": "6ee8fb21bfe5f0146698984991fe5b2dea29c5da28974207f8d55fc9c3098096"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-101-2009",
+   "path": "local/bucuresti/sector-4/2009/101",
+   "short": "HCLS4 nr. 101/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 101/2009 Privind aprobarea documentaţiilor tehnico-economice şi a indicatorilor tehnico-economici aferente obiectivelor de investiţii propuse a se realiza în anul 2009 de către Primăria Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4727-3247-252.pdf",
+     "sha256": "a2c162eeab3b27d8e1ce7838ba1eb175a713be7a7ad8085b9b2c590294fb9cdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-102-2009",
+   "path": "local/bucuresti/sector-4/2009/102",
+   "short": "HCLS4 nr. 102/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 102/2009 Privind aprobarea indicatorilor tehnico-economici şi a Studiului de Fezabilitate ai investiţiei",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-589-9153-3332.pdf",
+     "sha256": "04692948eff88d92701b6fd2dd7f79b77fa8abb025f2d4d9ecaca227e6b6df27"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-103-2009",
+   "path": "local/bucuresti/sector-4/2009/103",
+   "short": "HCLS4 nr. 103/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 103/2009 privind modificarea Art. 8 alin 2 din contractele de asociere în participaţiune cu societăţile care administrează pieţele agroalimentare şi remăsurarea topo-cadastrală a acestora",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6057-9960-5829.pdf",
+     "sha256": "81c1c795cb43089ea09c252bd34badaa7c9c5259f1dccf6ff201901496f8c1f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-104-2009",
+   "path": "local/bucuresti/sector-4/2009/104",
+   "short": "HCLS4 nr. 104/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 104/2009 pentru modificarea art. 1 din H.C.L.S 4 nr. 62/25.09.2008 pentru reglementarea raporturilor contractuale privind spatiile cu alta destinatie decat aceea de locuinta aflate in administrarea Directiei de Administrare a Pietelor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4270-2578-7181.pdf",
+     "sha256": "4769eef71f8733e828e819de6cefe8e4cd6f29be1259526932f7f2a84cd75301"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-105-2009",
+   "path": "local/bucuresti/sector-4/2009/105",
+   "short": "HCLS4 nr. 105/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 105/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5727-6131-6422.pdf",
+     "sha256": "af3cad793b9faf6ad49b8ba5bd86e29268b6555f763549fa98377eded254a4d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-106-2009",
+   "path": "local/bucuresti/sector-4/2009/106",
+   "short": "HCLS4 nr. 106/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 106/2009 privind desemnarea unui reprezentant al Consiliului Local Sector 4 şi doi reprezentanţi ai Primăriei Sectorului 4 în Comisia socio-economică de examinare şi avizare a implementării structurilor de vânzare cu amănuntul cu suprafaţa mare,",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9422-450-3739.pdf",
+     "sha256": "fe909ee02edbeb0dd38dd9293fca18a94567d6a3cf3d5151403344a3e25e2490"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-107-2009",
+   "path": "local/bucuresti/sector-4/2009/107",
+   "short": "HCLS4 nr. 107/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 107/2009 pentru aprobarea PROIECTULUI „Copaci sănătoşi un Climat de Viaţă Sănătos”, privind evidenţa spaţiilor verzi Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6608-5652-7771.pdf",
+     "sha256": "b31bebe0e62d98422c52fbe25fc5ea5889b45f424c0836669c3a9915c025ad23"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-108-2009",
+   "path": "local/bucuresti/sector-4/2009/108",
+   "short": "HCLS4 nr. 108/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 108/2009 privind majorarea sumelor baneşti aferente baremelor de dotare cu echipament şi cazarmament pentru copiii încredinţaţi sau daţi în plasament la asistenţii maternali profesionişti",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5635-1596-4887.pdf",
+     "sha256": "7c7772481ad33722faf1e4cec3129075bb05e9d2835ff97b365a526eb569e25a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-109-2009",
+   "path": "local/bucuresti/sector-4/2009/109",
+   "short": "HCLS4 nr. 109/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 109/2009 privind majorarea alocaţiei de hrană pentru copiii/tinerii din sistemul de protecţie al Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 4, care beneficiază de măsuri de protecţie specială",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5924-7813-5441.pdf",
+     "sha256": "8af8d005ce84b6a379f6bb423b5ae7caeef966541187d874b2423fba36822488"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-11-2009",
+   "path": "local/bucuresti/sector-4/2009/11",
+   "short": "HCLS4 nr. 11/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 11/2009 PRIVIND DEBLOCAREA SI UTILIZAREA FONDULUI DE RULMENT",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3581-6269-7251.pdf",
+     "sha256": "97947a6026cb1ed6bb97e14ea9d1d7c8e3fed4563262f3373815a578a113b02b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-110-2009",
+   "path": "local/bucuresti/sector-4/2009/110",
+   "short": "HCLS4 nr. 110/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 110/2009 Privind aprobarea decontării cheltuielilor aferente întreţinerii persoanelor cu handicap aflate în unităţile de îngrijire specializate din alte localităţi sau sectoare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3833-2104-8078.pdf",
+     "sha256": "dbe9cfb52415fc799d9994a69bacf77f23ca9029864343f1c6aa1a5cfdd32365"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-111-2009",
+   "path": "local/bucuresti/sector-4/2009/111",
+   "short": "HCLS4 nr. 111/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 111/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1640-7602-676.pdf",
+     "sha256": "4d74b8774e6b60c22f9096ee5934740f1772c1739373082aecc2bb4c5c3c5b53"
+    }
+   ]
+  },
+  {
    "slug": "hcls4-112-2009",
    "path": "local/bucuresti/sector-4/2009/112",
    "short": "HCLS4 nr. 112/2009",
@@ -14,6 +239,36 @@
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5956-8566-4644.pdf",
      "sha256": "f82a8e289b2282e0cdc614d97ac77b1efdeb279db3143c737c9c4b5deb3e76ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-113-2009",
+   "path": "local/bucuresti/sector-4/2009/113",
+   "short": "HCLS4 nr. 113/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 113/2009 privind aprobarea cofinanţării proiectului “Spre o institutie publica de rang european – program de formare profesionala a personalului din Primaria Sectorului 4 Bucuresti”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9423-2861-3337.pdf",
+     "sha256": "7790681f8789602f07ccd14b358fa270fdf58c74d371775db6e6a064a550c41d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-114-2009",
+   "path": "local/bucuresti/sector-4/2009/114",
+   "short": "HCLS4 nr. 114/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 114/2009 privind aprobarea cofinanţării proiectului “Cresterea performantelor angajatilor prin asigurarea formarii profesionale la standarde europene ” a Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 4, Bucureşti",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2850-2985-2618.pdf",
+     "sha256": "1cb66a977a59658898269c3aa6d5bdb6634dd365d5a03239b0723f4261e53b2a"
     }
    ]
   },
@@ -33,6 +288,51 @@
    ]
   },
   {
+   "slug": "hcls4-116-2009",
+   "path": "local/bucuresti/sector-4/2009/116",
+   "short": "HCLS4 nr. 116/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 116/2009 privind aprobarea cofinanţării proiectului “Investitie durabila si eficienta in capitalul uman institutional ” a Direcţiei Generale de Administrare a Unitatilor de Invatamant, Sanitare si Creselor Sector 4, Bucureşti",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-990-4014-7562.pdf",
+     "sha256": "c7371a298b77642a7899fea27b139a6a9a2ab27e80c9f3314dd49422d2962f16"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-117-2009",
+   "path": "local/bucuresti/sector-4/2009/117",
+   "short": "HCLS4 nr. 117/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 117/2009 privind aprobarea modificării şi completării Hotărârii Consiliului Local Sector 4 nr.87/13.11.2008 privind „Dezvoltarea Centrului de zi şi recuperare copil cu handicap Harap Alb”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3574-1478-2896.pdf",
+     "sha256": "82ea1c0c08e011cf8b93ff62732f822ef2756b38ee9e1d758f3e77d860d7cd5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-118-2009",
+   "path": "local/bucuresti/sector-4/2009/118",
+   "short": "HCLS4 nr. 118/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 118/2009 ÃRÂRE Privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1811-6712-7651.pdf",
+     "sha256": "286d28886f0c5bac059c6aaa5a159de9547f80bd63de3ed4a04aeca4c1b8bd0b"
+    }
+   ]
+  },
+  {
    "slug": "hcls4-12-2009",
    "path": "local/bucuresti/sector-4/2009/12",
    "short": "HCLS4 nr. 12/2009",
@@ -44,6 +344,246 @@
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8834-5599-7613.pdf",
      "sha256": "e8e2fdc64bb1d33453d0da5ace3bb3e3398e0b9103120ae6c63e4c5ccb655c71"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-120-2009",
+   "path": "local/bucuresti/sector-4/2009/120",
+   "short": "HCLS4 nr. 120/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 120/2009 privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1643-6833-9013.pdf",
+     "sha256": "cc0365f32d1accbea7b03d0ff555c1e3183ad2803a300c9327ed0734daaae6ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-121-2009",
+   "path": "local/bucuresti/sector-4/2009/121",
+   "short": "HCLS4 nr. 121/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 121/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9288-2394-6010.pdf",
+     "sha256": "7414213236192b9644828bdaf8b638f7a3aa7274cad68f85332529213d2e05b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-122-2009",
+   "path": "local/bucuresti/sector-4/2009/122",
+   "short": "HCLS4 nr. 122/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 122/2009 privind modificarea si completarea art.1 din Hotararea Consiliului Local Sector 4 Nr.103/ 26.11.2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9037-6033-8931.pdf",
+     "sha256": "9449d5d291bb74f7117a10ecf26e1b9cb5c1e352b9245392da3600f6995e3dcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-123-2009",
+   "path": "local/bucuresti/sector-4/2009/123",
+   "short": "HCLS4 nr. 123/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 123/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5705-1307-5685.pdf",
+     "sha256": "107abd829bace78ce465a4790204451e94dfa9e731d68025aa56fdd6a577004e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-124-2009",
+   "path": "local/bucuresti/sector-4/2009/124",
+   "short": "HCLS4 nr. 124/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 124/2009 privind apobarea continuarii derulării proiectului „SI EU MERIT O SANSA!” în anul 2010 si alocarea de fonduri conform bugetului anexat acestui proiect",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9877-719-6533.pdf",
+     "sha256": "a36ee675fba3bab520ba355dc60f7078ddebc3bb87b710aa275a63ca429d8719"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-13-2009",
+   "path": "local/bucuresti/sector-4/2009/13",
+   "short": "HCLS4 nr. 13/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 13/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-882-3829-8980.pdf",
+     "sha256": "30b4fda9a50d20be627d6b5df15c4ae9b6bf83bd2070c10f2019d7f10f3c9424"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-14-2009",
+   "path": "local/bucuresti/sector-4/2009/14",
+   "short": "HCLS4 nr. 14/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 14/2009 privind aprobarea planului de ocupare a funcţiilor publice din cadrul Primăriei Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5051-4298-2584.pdf",
+     "sha256": "a0796d6c04fc2d650b4566e8156fa5db7e040ad4abe1e76d8e0e3452337cfac2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-15-2009",
+   "path": "local/bucuresti/sector-4/2009/15",
+   "short": "HCLS4 nr. 15/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 15/2009 Privind modalitatea de acordare a gratuităţilor de transport RATB pentru persoanele cu handicap care au acest drept conform Legii 448/2006, republicată privind protecţia şi promovarea persoanelor cu handicap",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3686-6630-7734.pdf",
+     "sha256": "67759c6086fa9c5991784c8e0439222d82d2994a8ac4168486d3fa8d0776ee0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-16-2009",
+   "path": "local/bucuresti/sector-4/2009/16",
+   "short": "HCLS4 nr. 16/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 16/2009 privind stabilirea situaţiilor deosebite pentru care se acordă ajutoare de urgenţă şi aprobarea metodologiei de întocmire a dosarelor şi de acordare a ajutorului (ca măsură de prevenire şi combatere a marginalizării sociale)",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2253-6058-8387.pdf",
+     "sha256": "f62439dfe8c1bff75b78cd4359e4da8b8f6a25087b651d2f5ff6c298cb3c0abc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-17-2009",
+   "path": "local/bucuresti/sector-4/2009/17",
+   "short": "HCLS4 nr. 17/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 17/2009 privind aprobarea costului mediu lunar al cheltuielilor de întretinere şi a contribuţiei de intretinere din Centrul de Îngrijire şi Asistenţă nr. 1",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-403-2021-3912.pdf",
+     "sha256": "c47f2a4238412a1d5bcd64c3afcffd23f7534c0c4b4e9dc19949dda2ef46c6f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-18-2009",
+   "path": "local/bucuresti/sector-4/2009/18",
+   "short": "HCLS4 nr. 18/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 18/2009 privind modificarea numărului de membrii supleanţi în comisia pentru aplicarea prevederilor Legii Nr.550/2002 – privind vânzarea spaţiilor comerciale proprietate privată a statului şi a celor de prestări de servicii",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1835-8990-7091.pdf",
+     "sha256": "d67d28fce4abd73922b88c8ce5aeded9fb48e1961c07921a244b6fa6a038ecbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-19-2009",
+   "path": "local/bucuresti/sector-4/2009/19",
+   "short": "HCLS4 nr. 19/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 19/2009 Privind modificarea Organigramei şi Statului de Funcţiuni ale Direţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 4 aprobate prin HCL S4 nr. 93/11.12.2008 precum şi a Regulamentului de Organizare şi Funcţionare al DGASPC Sector",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1150-7132-6487.pdf",
+     "sha256": "7270bb53e4eec3efcd42b40b2b32c021e160c4ca1a469ff512aaf47de5b39cdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-2-2009",
+   "path": "local/bucuresti/sector-4/2009/2",
+   "short": "HCLS4 nr. 2/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 2/2009 privind validarea unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2239-6797-8900.pdf",
+     "sha256": "106b170c42e660b6e0eb14f66088d65216353f1cbf344d36b183f18ffc2fd778"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-20-2009",
+   "path": "local/bucuresti/sector-4/2009/20",
+   "short": "HCLS4 nr. 20/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 20/2009 privind imputernicirea Directorului General al Directiei Generale de Impozite si Taxe Locale Sector 4 sa negocieze si sa semneze cu Sindicatul Salariatilor din Directia Generala de Impozite si Taxe Locale Sector 4 Acordul colectiv de munca si Co",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9043-9483-2675.pdf",
+     "sha256": "14f6a828aa1d99896cafe03970c2b94e35e9d70449aaaf2359f0001114df3be4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-21-2009",
+   "path": "local/bucuresti/sector-4/2009/21",
+   "short": "HCLS4 nr. 21/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 21/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8209-6755-4540.pdf",
+     "sha256": "369f2e52d5d79d022307cd68b071ae07f8ef0a0fe59c53eea14180b5d5a9ae3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-22-2009",
+   "path": "local/bucuresti/sector-4/2009/22",
+   "short": "HCLS4 nr. 22/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 22/2009 pentru modificarea Anexei la HCLS4 nr. 65/2008 privind numirea reprezentanţilor în Consiliile de Administraţie ale unităţilor de învăţământ preuniversitar şi special de stat din sectorul 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6924-1444-1558.pdf",
+     "sha256": "1c61d6d5ba9313adb6c7883d354b69b93effd693fc16dafdff4eb44894fb7e17"
     }
    ]
   },
@@ -63,6 +603,36 @@
    ]
   },
   {
+   "slug": "hcls4-24-2009",
+   "path": "local/bucuresti/sector-4/2009/24",
+   "short": "HCLS4 nr. 24/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 24/2009 privind acordarea scutirii de la plata impozitului pe cladiri pentru Asociaţia Ateliere Protejate",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9379-5027-1589.pdf",
+     "sha256": "4229a2669a182d6e2fbf52ecc5d0e996daab13864696b8303966fbff4f50a20b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-25-2009",
+   "path": "local/bucuresti/sector-4/2009/25",
+   "short": "HCLS4 nr. 25/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 25/2009 privind acordarea scutirii de la plata impozitului pe cladiri a Casei de Ajutor Reciproc a Pensionarilor sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1818-8892-1903.pdf",
+     "sha256": "25bdd503c39826348ce714945b6b97b1388708e1217bab48d0e6d3062e661ec3"
+    }
+   ]
+  },
+  {
    "slug": "hcls4-26-2009",
    "path": "local/bucuresti/sector-4/2009/26",
    "short": "HCLS4 nr. 26/2009",
@@ -74,6 +644,66 @@
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-887-491-7268.pdf",
      "sha256": "21cb9f5225e94f411f393ecbace899504f1bb756d586305e3115528d1c78d93e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-27-2009",
+   "path": "local/bucuresti/sector-4/2009/27",
+   "short": "HCLS4 nr. 27/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 27/2009 privind aprobarea modificării Organigramei şi Statului de funcţii şi completării Regulamentului de Organizare şi Funcţionare ale aparatului de specialitate al Primarului Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6013-476-6317.pdf",
+     "sha256": "cd5c5ee9ef96cd95c26f41e05abddb9385fa100e78d79b88396dfe2960d765c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-28-2009",
+   "path": "local/bucuresti/sector-4/2009/28",
+   "short": "HCLS4 nr. 28/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 28/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3159-4372-7620.pdf",
+     "sha256": "5c93d9fe0f2b9a4dc5c995abd037ef6984867135eabb1d03905ced6e26091ae7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-29-2009",
+   "path": "local/bucuresti/sector-4/2009/29",
+   "short": "HCLS4 nr. 29/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 29/2009 privind aprobarea modificarii Organigramei, Statului de functii si Regulamentului de Organizare si Functionare ale Directiei de Administrare a Pietelor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9294-5360-9325.pdf",
+     "sha256": "ed9dcb084e80e2582b643c2ba724731d26eac27581f5de953edc47ec8fa04491"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-3-2009",
+   "path": "local/bucuresti/sector-4/2009/3",
+   "short": "HCLS4 nr. 3/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 3/2009 H O T Ã R Â R E Privind rectificarea bugetului local al Sectorului 4 pe anul 2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1545-2121-2239.pdf",
+     "sha256": "51edd182250df36825d46e236c74efbade82eb9849f3e8dd033907093f0935ea"
     }
    ]
   },
@@ -93,6 +723,366 @@
    ]
   },
   {
+   "slug": "hcls4-31-2009",
+   "path": "local/bucuresti/sector-4/2009/31",
+   "short": "HCLS4 nr. 31/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 31/2009 privind modificarea punctului nr. 15 din Anexa la H.C.L.S 4 nr. 71 din 30.10.2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5311-2983-7554.pdf",
+     "sha256": "89f894d3823bb321c364d1e80eb2f8aa7beae8a3b8db57bda102fa7eab99740a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-32-2009",
+   "path": "local/bucuresti/sector-4/2009/32",
+   "short": "HCLS4 nr. 32/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 32/2009 Privind repartizarea a 3 garsoniere din blocul F3, situat în Al. Nehoiu nr. 2-12, sector 4 către Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7698-9402-1285.pdf",
+     "sha256": "084f550bd6d6825d76b40c2cf0db9426cecd3898ab41015668fb39042ad0ca6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-33-2009",
+   "path": "local/bucuresti/sector-4/2009/33",
+   "short": "HCLS4 nr. 33/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 33/2009 privind aprobarea costului mediu lunar al cheltuielilor de întretinere şi a contribuţiei de intretinere din Centrul Medico-Social „Sf. Luca”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8719-568-5687.pdf",
+     "sha256": "ef79e47c5c7b4cb37701c344a50ea06cf72fbe7aa3854516937b5535111d72cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-34-2009",
+   "path": "local/bucuresti/sector-4/2009/34",
+   "short": "HCLS4 nr. 34/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 34/2009 H O T Ã R Â R E Privind aprobarea bugetului local al Sectorului 4 pe anul 2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6135-9687-1859.pdf",
+     "sha256": "48dd98c20644169ca1ca3bfd8e7a897a2aee3b3304ee8bf48274100245166de8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-35-2009",
+   "path": "local/bucuresti/sector-4/2009/35",
+   "short": "HCLS4 nr. 35/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 35/2009 privind aprobarea listei cu locaţiile de pe domeniul public al sectorului 4 unde se pot instala amenajări provizorii în scopul distribuirii de materiale de propagandă electorală",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8402-4636-7561.pdf",
+     "sha256": "311c5aaf539de7332af0f56ca602c19487f7c65ef485daa6737c395128a0915f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-36-2009",
+   "path": "local/bucuresti/sector-4/2009/36",
+   "short": "HCLS4 nr. 36/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 36/2009 Privind inchirierea spatiilor şi terenurilor de sport disponibile, aflate in administrarea Directiei Generale de Administrare a Unitatilor de Invatamant, Sanitare si Creselor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5685-6020-68.pdf",
+     "sha256": "8cc8bf333bb9325f47039a88854502c215e30e0cc1afcb2878e12f8b52bf3bad"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-37-2009",
+   "path": "local/bucuresti/sector-4/2009/37",
+   "short": "HCLS4 nr. 37/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 37/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8106-4135-1402.pdf",
+     "sha256": "41417bfc61fb3e3002f6452c8af3199366b46f8fe6ddbedba4809bb659229dfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-38-2009",
+   "path": "local/bucuresti/sector-4/2009/38",
+   "short": "HCLS4 nr. 38/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 38/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1001-8566-3623.pdf",
+     "sha256": "68315591b47bc1bc85a0494d902c76d174ee4f6e160c87361095a65b2c0ce20e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-39-2009",
+   "path": "local/bucuresti/sector-4/2009/39",
+   "short": "HCLS4 nr. 39/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 39/2009 privind aprobarea planului de ocupare a funcţiilor publice din cadrul Poliţiei Comunitare Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8269-617-1856.pdf",
+     "sha256": "da96d518cdf1f16f7c806e18cbd314926e968c0355455b8efc87ec7820ed4fcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-4-2009",
+   "path": "local/bucuresti/sector-4/2009/4",
+   "short": "HCLS4 nr. 4/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 4/2009 Privind completarea Comisiei de analiza a cererilor de acordare a subventiilor de la bugetul stat pentru construirea de locuinte conform OUG nr. 51/2006, pentru aprobarea Programului national privind sprijinirea construirii de locuinte proprieta",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5504-4466-1863.pdf",
+     "sha256": "1625db38b214993aa2ffa077901de3f3c00275d0b4049030ad64002d25b97e70"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-40-2009",
+   "path": "local/bucuresti/sector-4/2009/40",
+   "short": "HCLS4 nr. 40/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 40/2009 privind modificarea Organigramei Directiei Generale de Administrare a Unitatilor de Invatamant, Sanitare si Creselor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-896-1992-3247.pdf",
+     "sha256": "5175d96fec7e562e789c6f4c0490173616be8a720b967b205409c34644ebb26f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-41-2009",
+   "path": "local/bucuresti/sector-4/2009/41",
+   "short": "HCLS4 nr. 41/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 41/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6357-6231-3932.pdf",
+     "sha256": "f7e7a60e2dc8c96feda986540823dc4eac7b16d311d53a949b8313833a81f143"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-42-2009",
+   "path": "local/bucuresti/sector-4/2009/42",
+   "short": "HCLS4 nr. 42/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 42/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4799-8023-7178.pdf",
+     "sha256": "5ad5accdccf334c8c7a19e47211be9a074abda107424564e72d92f3625736b9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-43-2009",
+   "path": "local/bucuresti/sector-4/2009/43",
+   "short": "HCLS4 nr. 43/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 43/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2643-1099-5735.pdf",
+     "sha256": "647a8d32f86077b9b8316a32361e504795efdeb84331fe5ea4bdf9c884dbef07"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-44-2009",
+   "path": "local/bucuresti/sector-4/2009/44",
+   "short": "HCLS4 nr. 44/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 44/2009 Privind aprobarea documentatiilor de avizare si indicatorilor tehnico-economici pentru obiectivul de investiţii reabilitare termica pentru 11 blocuri cuprinse in programul anual de reabilitare termica a cladirilor de locuinte aprobate prin Ordin",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1055-9863-1989.pdf",
+     "sha256": "8536b0b706b81577da3612d09df974efdead4b3e02bba26b1578cb3ea57fc3db"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-45-2009",
+   "path": "local/bucuresti/sector-4/2009/45",
+   "short": "HCLS4 nr. 45/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 45/2009 ÃRÂRE Privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9153-484-6962.pdf",
+     "sha256": "8475da6ea9f56dbe264181b4f8d1288968589fab1f94a730428f528eeadaa7cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-46-2009",
+   "path": "local/bucuresti/sector-4/2009/46",
+   "short": "HCLS4 nr. 46/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 46/2009 Privind eşalonarea pe o perioadă de 5 ani a impozitelor şi taxelor locale restante datorate bugetului local al sectorului 4 în suma de 2050729,29 lei şi scutirea de la plată a majorărilor în suma de 806.850,43 lei, pentru SC VULCAN SA",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=141",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1886-8666-8070.pdf",
+     "sha256": "5626e3bb382f440929a4ac7088e2d727213b9478c02a6da86b2350794cb4ba5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-47-2009",
+   "path": "local/bucuresti/sector-4/2009/47",
+   "short": "HCLS4 nr. 47/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 47/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5569-7780-7580.pdf",
+     "sha256": "4dc81cafe1ba1f0f1f0251c5841e7be5dbba64f4eec1696cbb933ce5fa7afd05"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-48-2009",
+   "path": "local/bucuresti/sector-4/2009/48",
+   "short": "HCLS4 nr. 48/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 48/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7950-1768-7105.pdf",
+     "sha256": "c73dc628d49a4518c31158ef75f46ac4c75e56c8e509f0374c242279e1738b3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-49-2009",
+   "path": "local/bucuresti/sector-4/2009/49",
+   "short": "HCLS4 nr. 49/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 49/2009 privind alegerea preşedintelui de şedinţă al Consiliului Local al sectorului 4, pe perioada 01.06.2009-31.08.2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8626-8609-2733.pdf",
+     "sha256": "2bdc3d405d6a542d6c2118024c2cc9e6a366bd200c59cbc13fdda39128f8ed2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-5-2009",
+   "path": "local/bucuresti/sector-4/2009/5",
+   "short": "HCLS4 nr. 5/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 5/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4872-9934-7097.pdf",
+     "sha256": "63deb834668a18b9a32f13f8907db4611ed8d6447430325232c1561c324ae75a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-50-2009",
+   "path": "local/bucuresti/sector-4/2009/50",
+   "short": "HCLS4 nr. 50/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 50/2009 privind trecerea blocului ZI1, Cartier Tonitza , din Şoseaua Olteniţei nr.219 din domeniul public al Consiliului Local al Sectorului 4 in domeniul public al statului",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5762-9315-7374.pdf",
+     "sha256": "78f6b41be2283c07e666937439f5777ebcd87f81eaff84ce322e487803ee4091"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-51-2009",
+   "path": "local/bucuresti/sector-4/2009/51",
+   "short": "HCLS4 nr. 51/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 51/2009 Privind modificarea Organigramei, a Statului de functii si a Regulamentului de Organizare si Functionare ale Directiei Generale de Administrare a Unitatilor de Invatamant, Sanitare si Creselor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1749-5209-1055.pdf",
+     "sha256": "96bec5f850520e831a05575397861b97ed08be66ad13e2d33e5e6b598304d152"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-52-2009",
+   "path": "local/bucuresti/sector-4/2009/52",
+   "short": "HCLS4 nr. 52/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 52/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2216-9593-1030.pdf",
+     "sha256": "81c664e453beff815df0331b8d51fcb2465729c718412a02ec1e7a22f3b75954"
+    }
+   ]
+  },
+  {
    "slug": "hcls4-53-2009",
    "path": "local/bucuresti/sector-4/2009/53",
    "short": "HCLS4 nr. 53/2009",
@@ -104,6 +1094,126 @@
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-704-1155-7362.pdf",
      "sha256": "a5d760d974d8c784a5706ce34d424a45f90b581c53fdbee291f0553b7a17f493"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-54-2009",
+   "path": "local/bucuresti/sector-4/2009/54",
+   "short": "HCLS4 nr. 54/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 54/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-291-8451-8492.pdf",
+     "sha256": "5c0b54d0e4dd8ddf131bd5960706c1ac94e6b2934f84d9fcb8016cdddd67c705"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-55-2009",
+   "path": "local/bucuresti/sector-4/2009/55",
+   "short": "HCLS4 nr. 55/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 55/2009 privind aprobarea documentaţiilor tehnico-economice si a indicatorilor tehnico-economici aferente obiectivelor de investiţii propuse a se realiza în anul 2009 de către Primaria Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9740-7735-2265.pdf",
+     "sha256": "0f3af43babd3fe840682716c39503764091f273138f4e797bd09e6196fa41603"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-56-2009",
+   "path": "local/bucuresti/sector-4/2009/56",
+   "short": "HCLS4 nr. 56/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 56/2009 privind aprobarea contului de incheiere a exercitiului bugetar pe anul 2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9673-3980-7093.pdf",
+     "sha256": "af7661b6f44ea97ad80c41b0986d1e10af6725fa61ea8d1a76733b485ae7d91c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-57-2009",
+   "path": "local/bucuresti/sector-4/2009/57",
+   "short": "HCLS4 nr. 57/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 57/2009 ÃRÂRE Privind rectificarea bugetului local al Sectorului 4 pe anul 2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-06-11",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8271-8296-1073.pdf",
+     "sha256": "ddce9f66caedeeb02cd2ec41c492b81bf4600ac26185c2c1be691b00a82190dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-58-2009",
+   "path": "local/bucuresti/sector-4/2009/58",
+   "short": "HCLS4 nr. 58/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 58/2009 ÃRÂRE Privind rectificarea bugetului local al Sectorului 4 pe anul 2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4649-190-6939.pdf",
+     "sha256": "efac8df007be730df6a4be53f13a79e2a1d846fe9df241129db63997f96a2a16"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-59-2009",
+   "path": "local/bucuresti/sector-4/2009/59",
+   "short": "HCLS4 nr. 59/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 59/2009 privind aprobarea planului de ocupare a funcţiilor publice din cadrul Primăriei Sector 4 pentru semestrul al II-lea al anului 2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2794-9189-8373.pdf",
+     "sha256": "e29e4bea1921e2c08cb76e01c6d85d384042a9a71a115ef1e91f8900f9330488"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-6-2009",
+   "path": "local/bucuresti/sector-4/2009/6",
+   "short": "HCLS4 nr. 6/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 6/2009 privind modificarea punctelor 3, 4 si 5 din Anexa la H.C.L.S 4 nr. 71 din 30.10.2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-16-951-932.pdf",
+     "sha256": "c280269ad6c70b2e69689ccf7f5ae172eae7ae1362f7a244c678132a1ccb0b1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-60-2009",
+   "path": "local/bucuresti/sector-4/2009/60",
+   "short": "HCLS4 nr. 60/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 60/2009 pentru revocarea H.C.L.S.4 nr. 50/28.05.2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9548-921-7756.pdf",
+     "sha256": "7fd91612d2c7c3be9f1a6ac8f15ecff1f8a92f92d2c9bd969a52c41c624cc15b"
     }
    ]
   },
@@ -123,6 +1233,276 @@
    ]
   },
   {
+   "slug": "hcls4-62-2009",
+   "path": "local/bucuresti/sector-4/2009/62",
+   "short": "HCLS4 nr. 62/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 62/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8439-3669-9534.pdf",
+     "sha256": "fec742cada7d6e6a029efd55cf32a94cb94b5cdeca9d137f39ffd9071495e1a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-63-2009",
+   "path": "local/bucuresti/sector-4/2009/63",
+   "short": "HCLS4 nr. 63/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 63/2009 privind modificarea punctului 9 din Anexa la H.C.L.S 4 nr. 71 din 30.10.2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2705-8870-1512.pdf",
+     "sha256": "f7fae6f4c8ad6818dac6cce32515700d1b41ae4658255f9884d3a666b8cadf28"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-64-2009",
+   "path": "local/bucuresti/sector-4/2009/64",
+   "short": "HCLS4 nr. 64/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 64/2009 privind încetarea de drept a unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-07-23",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-716-6227-413.pdf",
+     "sha256": "34b137e2fa831c9c4d947b0843a4d9c3cd1d5eef765fb9301d9fb1bf70b145fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-65-2009",
+   "path": "local/bucuresti/sector-4/2009/65",
+   "short": "HCLS4 nr. 65/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 65/2009 privind delegarea unui reprezentant al Consiliului Local Sector 4, in Consiliul de Administratie al Asocierii cu S.C.Global Network System SRL (Asociat A) si Primaria Sector 4 Bucuresti (Asociat B) prin contractul nr. 010302/4438/03.02.2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-07-23",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3755-5173-551.pdf",
+     "sha256": "900ac7a062e78cafe116302ee6bcb76ae942fcda6cfca889480415b62fb7a7fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-66-2009",
+   "path": "local/bucuresti/sector-4/2009/66",
+   "short": "HCLS4 nr. 66/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 66/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-07-23",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3086-3493-884.pdf",
+     "sha256": "715f5aac836f46a163f5a1a3ba3236653d931422d53a2a130119e5cd95c4eac7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-67-2009",
+   "path": "local/bucuresti/sector-4/2009/67",
+   "short": "HCLS4 nr. 67/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 67/2009 privind aprobarea documentaţiilor tehnico-economice şi a indicatorilor tehnico-economici aferente obiectivelor de investiţii propuse a se realiza în anul 2009 de către Primăria Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-07-23",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3438-1841-742.pdf",
+     "sha256": "4ae0a41c8b3e1d3f87b418520b5ef92c212ddba03c9172404ffd66c3f3d5cae6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-68-2009",
+   "path": "local/bucuresti/sector-4/2009/68",
+   "short": "HCLS4 nr. 68/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 68/2009 privind aprobarea consumului maxim lunar de carburanţi pentru autoturismul B–28- ZWY aflat în dotarea Primăriei Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-07-23",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2084-1262-273.pdf",
+     "sha256": "69568ee6c82c1fa61903fc70b72795c3487bbbbce19c0f4ab245e316f713de12"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-69-2009",
+   "path": "local/bucuresti/sector-4/2009/69",
+   "short": "HCLS4 nr. 69/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 69/2009 privind schimbarea denumirii Centrului Cultural „Nicolae Bălcescu” în Centru Cultural pentru UNESCO „Nicolae Bălcescu”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-07-23",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-921-7621-8075.pdf",
+     "sha256": "0c0b1753732d2d675962a7a641eb2e86adfcc28b4eeff062197d35581376f7d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-7-2009",
+   "path": "local/bucuresti/sector-4/2009/7",
+   "short": "HCLS4 nr. 7/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 7/2009 privind împuternicirea Primarului Sectorului 4 să negocieze şi să semneze cu Sindicatul salariaţilor din Primăria Sectorului 4 Acordul colectiv de muncă şi Contractul colectiv de muncă",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6104-8698-4875.pdf",
+     "sha256": "96218ebb9ef8e338746937914ca60298c94e2437c5bec8f1acaa4c4d0b951802"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-70-2009",
+   "path": "local/bucuresti/sector-4/2009/70",
+   "short": "HCLS4 nr. 70/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 70/2009 Privind acordarea de ajutoare de urgenţă persoanelor afectate de inundaţiile din noaptea de 11 spre 12 iulie 2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-07-23",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8946-2352-525.pdf",
+     "sha256": "97f227ac792c2b9ddcb5c3cc5d0b51217f544cd52c3227a96161c39877e96c21"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-71-2009",
+   "path": "local/bucuresti/sector-4/2009/71",
+   "short": "HCLS4 nr. 71/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 71/2009 privind aprobarea contractarii unei linii de finantare rambursabile in valoare de 100.000,00 mii lei",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-07-23",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7891-4839-5769.pdf",
+     "sha256": "4340d329d5c7c62e7cd7d83a141a25bf97a44e223ba79f1ba9b8377d409d0ce7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-72-2009",
+   "path": "local/bucuresti/sector-4/2009/72",
+   "short": "HCLS4 nr. 72/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 72/2009 privind demisia directorului Direcţiei de Administrare a Pieţelor Sector 4 si numire unui nou director",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-07-23",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6862-3090-560.pdf",
+     "sha256": "0cee8fcb6bc6f784287b0d84979b67a14632ca673592f4c4f4eb5f59f4754b03"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-73-2009",
+   "path": "local/bucuresti/sector-4/2009/73",
+   "short": "HCLS4 nr. 73/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 73/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-07-23",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9501-875-968.pdf",
+     "sha256": "d660968756c13ba777b9d0759a1377e51b033d2f9c01f4881054ffd6f1eed2fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-74-2009",
+   "path": "local/bucuresti/sector-4/2009/74",
+   "short": "HCLS4 nr. 74/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 74/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-07-23",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1009-172-9813.pdf",
+     "sha256": "d6a5f2bb0ffe3ca8b4662d76fa60207e7c00726b7574d948ec1f6ecdf931dd4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-75-2009",
+   "path": "local/bucuresti/sector-4/2009/75",
+   "short": "HCLS4 nr. 75/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 75/2009 ÃRÂRE Privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-07-23",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8744-9882-1363.pdf",
+     "sha256": "6edfd15507de8b968c9007041e588944ad685f9ef7f6f1d05b9caffaa4abbea4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-76-2009",
+   "path": "local/bucuresti/sector-4/2009/76",
+   "short": "HCLS4 nr. 76/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 76/2009 ÃRÂRE Privind aprobarea rectificării bugetului local al Sectorului 4 pe anul 2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-08-18",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1652-142-3629.pdf",
+     "sha256": "354fd1d405bd9b4fc28298907ae16d7fe0571c5e4c54d45009bc86f185d3dddd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-77-2009",
+   "path": "local/bucuresti/sector-4/2009/77",
+   "short": "HCLS4 nr. 77/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 77/2009 privind validarea unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-580-470-9649.pdf",
+     "sha256": "1ebc0713abf20a43fdf603e0d4f2d739600c4b5f7251d23afc6cf6a65d2eb219"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-78-2009",
+   "path": "local/bucuresti/sector-4/2009/78",
+   "short": "HCLS4 nr. 78/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 78/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3642-2199-1354.pdf",
+     "sha256": "d7db36ca87c426dd75fe091bf2b34ba06216133a4b144b200e91343ea2e5e615"
+    }
+   ]
+  },
+  {
    "slug": "hcls4-79-2009",
    "path": "local/bucuresti/sector-4/2009/79",
    "short": "HCLS4 nr. 79/2009",
@@ -138,6 +1518,186 @@
    ]
   },
   {
+   "slug": "hcls4-8-2009",
+   "path": "local/bucuresti/sector-4/2009/8",
+   "short": "HCLS4 nr. 8/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 8/2009 privind aprobarea consumului maxim lunar de carburanti pentru autoutilitara B-089559 precum şi pentru autoturismele B-51-WYZ şi B-17-YXX aflate in dotarea Primăriei Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9013-8296-2854.pdf",
+     "sha256": "abc78a3b860e17bf5fb3cee7cfc2ba74d575cdc4d629edb2a7e47a2e01b11e9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-80-2009",
+   "path": "local/bucuresti/sector-4/2009/80",
+   "short": "HCLS4 nr. 80/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 80/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7514-4757-1975.pdf",
+     "sha256": "e72e824845564d525bc041ee5422c8a1663284440f6f48b4720079d1e2b423d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-81-2009",
+   "path": "local/bucuresti/sector-4/2009/81",
+   "short": "HCLS4 nr. 81/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 81/2009 Privind modificarea componenţei Comisiei pentru Protecţia Copilului Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=140",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4094-6920-1636.pdf",
+     "sha256": "ac52b93024900caad08177243e2e7b7f3dd89833d212ff6724663a319f8b74c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-82-2009",
+   "path": "local/bucuresti/sector-4/2009/82",
+   "short": "HCLS4 nr. 82/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 82/2009 Privind aprobarea modificarii Organigramei, Statului de functii si Regulamentului de Organizare si Functionare ale Directiei de Administrare a Pietelor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9194-7504-4139.pdf",
+     "sha256": "316b6c27975ab10df634d6ed0c1e16df0bf7856dd170aa6cdac54b3d9c6c7d0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-83-2009",
+   "path": "local/bucuresti/sector-4/2009/83",
+   "short": "HCLS4 nr. 83/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 83/2009 privind aprobarea iniţierii de către Direcţia de Administrare a Pieţelor Sector 4 a procedurilor în vederea realizării unei construcţii cu destinaţia de complex comercial",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7383-8648-4532.pdf",
+     "sha256": "500221e5e0d4ca69799733759406324b3741e8d1d9513faab1500fc9d734ef2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-84-2009",
+   "path": "local/bucuresti/sector-4/2009/84",
+   "short": "HCLS4 nr. 84/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 84/2009 Pentru implementarea procedurii de inchiriere privind spatiile cu alta destinatie decat aceea de locuinta aflate in administrarea directa a Directiei de Administrare a Pietelor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6447-759-1788.pdf",
+     "sha256": "b8cbbe6a627537f7733f750e6d787300abc5197a2454b0ff95768c8387c68a5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-85-2009",
+   "path": "local/bucuresti/sector-4/2009/85",
+   "short": "HCLS4 nr. 85/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 85/2009 ÃRÂRE Privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5682-2683-8543.pdf",
+     "sha256": "0d21b06dcc4d83765d39caf4d999cf8464ca5bdef5a44b52ea9750bd55ae30cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-86-2009",
+   "path": "local/bucuresti/sector-4/2009/86",
+   "short": "HCLS4 nr. 86/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 86/2009 privind încetarea de drept a unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4798-5969-6306.pdf",
+     "sha256": "5b0f9ae65f11a122321bcc53c06a7bfeeb1d9677c50682fb05c20858ec24b387"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-87-2009",
+   "path": "local/bucuresti/sector-4/2009/87",
+   "short": "HCLS4 nr. 87/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 87/2009 privind aprobarea planului de ocupare a funcţiilor publice din cadrul Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 4 aferente anului 2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4056-2884-2814.pdf",
+     "sha256": "99bb5a9c7bd2e5136ad500ddd6eafd3df1f8d328b200b815d05d4ca3795f4c96"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-88-2009",
+   "path": "local/bucuresti/sector-4/2009/88",
+   "short": "HCLS4 nr. 88/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 88/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3784-9447-973.pdf",
+     "sha256": "816e5cc510bef297f714ecb1e25462055690921766023bd35f73974f04b439e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-89-2009",
+   "path": "local/bucuresti/sector-4/2009/89",
+   "short": "HCLS4 nr. 89/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 89/2009 privind aprobarea “Listei cu ordinea de prioritate pe anul 2009, cuprinzând solicitanţii care se încadrează pentru atribuirea unei locuinţe sociale “, întocmită în baza cererilor depuse/actualizate în anul 2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5709-7363-9712.pdf",
+     "sha256": "a2711b4ecd86b5fe50ab08ae92bb99ce6b6b8fe8f53d0ec687fc2fb455a15005"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-9-2009",
+   "path": "local/bucuresti/sector-4/2009/9",
+   "short": "HCLS4 nr. 9/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 9/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2526-6461-3865.pdf",
+     "sha256": "97bfb7b848fd55c23e8e07981a63fba54fab437e5065f391d2248f8f6bdc6280"
+    }
+   ]
+  },
+  {
    "slug": "hcls4-90-2009",
    "path": "local/bucuresti/sector-4/2009/90",
    "short": "HCLS4 nr. 90/2009",
@@ -149,6 +1709,126 @@
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5185-6443-2091.pdf",
      "sha256": "4ea8c717a96dcdc7d211ccc2d9f5e7312f053aeb12560d19ccd1ddf3216b5a6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-91-2009",
+   "path": "local/bucuresti/sector-4/2009/91",
+   "short": "HCLS4 nr. 91/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 91/2009 Privind aprobarea documentaţiilor tehnico-economice şi a indicatorilor tehnico-economici aferente obiectivelor de investiţii propuse a se realiza în anul 2009 de către Primăria Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9416-7498-9740.pdf",
+     "sha256": "22095e4253d908994d626c3667bcabb9668ac13637902768982ff6f4b6c9197c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-92-2009",
+   "path": "local/bucuresti/sector-4/2009/92",
+   "short": "HCLS4 nr. 92/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 92/2009 ÃRÂRE Privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8856-9607-4901.pdf",
+     "sha256": "cc4d4c8ad02697e0f9dab774ea23517f8d304adf4d0051787b1977b051cddbfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-93-2009",
+   "path": "local/bucuresti/sector-4/2009/93",
+   "short": "HCLS4 nr. 93/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 93/2009 privind aprobarea Regulamentului de organizare şi funcţionare a activităţii de voluntariat în cadrul Primăriei Sectorului 4 Bucureşti şi al direcţiilor (serviciilor) descentralizate aflate sub autoritatea Consiliului Local al Sectorului 4 Bucur",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7889-2745-1811.pdf",
+     "sha256": "2e5f4de84d9ae04291d2cf27b7fee8a5b839e38d88e9a228ef7f1f9a18b67596"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-94-2009",
+   "path": "local/bucuresti/sector-4/2009/94",
+   "short": "HCLS4 nr. 94/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 94/2009 privind modificarea si completarea anexei aprobata prin H.C.L.S4 nr.71/23.07.2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-10-09",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8077-3245-937.pdf",
+     "sha256": "b5425e18b7c40e4ca48950d19935c9575dd872bced807a65f2785a84176c071f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-95-2009",
+   "path": "local/bucuresti/sector-4/2009/95",
+   "short": "HCLS4 nr. 95/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 95/2009 privind validarea unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6714-2237-765.pdf",
+     "sha256": "cd6aad36143948eb2519fb5baa81e6a63503849c1285df0fa95e1d10e9757338"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-96-2009",
+   "path": "local/bucuresti/sector-4/2009/96",
+   "short": "HCLS4 nr. 96/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 96/2009 privind desemnarea consilierilor Consiliului Local Sector 4 şi ai Comunităţii Locale a Sectorului 4 pentru Comisia Locală de Ordine Publică a Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2536-4667-7865.pdf",
+     "sha256": "596c005b91567c7f8f5f45f929053b133491bec700e7449cc59178ed2d0c0227"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-97-2009",
+   "path": "local/bucuresti/sector-4/2009/97",
+   "short": "HCLS4 nr. 97/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 97/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4766-5246-7416.pdf",
+     "sha256": "0e6101c6a05feb571448be88328bb4ce948dfccc15a7828b62e10bc27467305a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-98-2009",
+   "path": "local/bucuresti/sector-4/2009/98",
+   "short": "HCLS4 nr. 98/2009",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 98/2009 Privind modificarea Organigramei şi Statului de Funcţii ale Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 4 aprobate prin HCL S4 nr. 19/26.02.2009 precum şi a Regulamentului de Organizare şi Funcţionare al DGASPC Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=139",
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9880-8638-1764.pdf",
+     "sha256": "16d11459cef6794f626adf527b5c226ec79ee96ea7070dfea2f55fea6bbf78c0"
     }
    ]
   },

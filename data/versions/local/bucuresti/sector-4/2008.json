@@ -3,6 +3,126 @@
  "shard": "local/bucuresti/sector-4/2008",
  "acts": [
   {
+   "slug": "hcls4-1-2008",
+   "path": "local/bucuresti/sector-4/2008/1",
+   "short": "HCLS4 nr. 1/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 1/2008 privind alegerea Comisiei de validare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=145",
+   "versions": [
+    {
+     "from": "2008-06-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3226-1036-7158.pdf",
+     "sha256": "311ab05d587c2719dd7b0c20934593bfabeaa4dc1999c95234f740b31fadfb0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-10-2008",
+   "path": "local/bucuresti/sector-4/2008/10",
+   "short": "HCLS4 nr. 10/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 10/2008 Privind rectificarea bugetului local al Sectorului 4 pe anul 2008 (IV)",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=145",
+   "versions": [
+    {
+     "from": "2008-07-07",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9804-2272-146.pdf",
+     "sha256": "560e0a9280b1340ce524881b4f33ee50fc40ee6049a601431cede643e6d107ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-11-2008",
+   "path": "local/bucuresti/sector-4/2008/11",
+   "short": "HCLS4 nr. 11/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 11/2008 privind constituirea comisiilor de specialitate ale Consiliului Local al sectorului 4 (modificată prin HCLS4 nr. 40/31.07.2008)",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=145",
+   "versions": [
+    {
+     "from": "2008-07-07",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3279-2269-7496.pdf",
+     "sha256": "950359e0893176014c7c37f61d38507bca26ad832482520c527979b4c8957545"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-12-2008",
+   "path": "local/bucuresti/sector-4/2008/12",
+   "short": "HCLS4 nr. 12/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 12/2008 privind încetarea de drept a unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5833-1121-8071.pdf",
+     "sha256": "cb76b9a52fdbced63806323eaf814afc61942b46c522527a167db8119620f8c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-13-2008",
+   "path": "local/bucuresti/sector-4/2008/13",
+   "short": "HCLS4 nr. 13/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 13/2008 privind validarea unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7797-9321-7612.pdf",
+     "sha256": "18bd967f945526454ead6816d02f14a80644303c21c7637e52767f716b352378"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-14-2008",
+   "path": "local/bucuresti/sector-4/2008/14",
+   "short": "HCLS4 nr. 14/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 14/2008 Privind rectificarea bugetului local al Sectorului 4 pe anul 2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4875-204-1952.pdf",
+     "sha256": "e47a6aef082336b3bed1fc6be54be434fd361c39a3508d2fe3da8c13b5d15f88"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-15-2008",
+   "path": "local/bucuresti/sector-4/2008/15",
+   "short": "HCLS4 nr. 15/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 15/2008 privind aprobarea listelor beneficiarilor de abonamente lunare şi cartele magnetice, acordate în baza Legii nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6182-6860-5047.pdf",
+     "sha256": "804f3b8dc1eb4d0d0cbfd3e53ef39012243965de8b971addafffb686948c0eb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-16-2008",
+   "path": "local/bucuresti/sector-4/2008/16",
+   "short": "HCLS4 nr. 16/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 16/2008 privind numirea consilierilor locali ca membri in Colegiul Director al Directiei Generale de Asistenta Sociala si Protectia Copilului Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2713-9684-6964.pdf",
+     "sha256": "330f4e8f24369d6e61b083f0c51fdd56db736d0baeda2da50911f2db4c8def18"
+    }
+   ]
+  },
+  {
    "slug": "hcls4-17-2008",
    "path": "local/bucuresti/sector-4/2008/17",
    "short": "HCLS4 nr. 17/2008",
@@ -14,6 +134,276 @@
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3948-3449-1689.pdf",
      "sha256": "1edd3a68d8080ab9de4b22e6d794717843896f773b49aab5015ecb27c70657ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-18-2008",
+   "path": "local/bucuresti/sector-4/2008/18",
+   "short": "HCLS4 nr. 18/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 18/2008 privind acordarea scutirii de la plata impozitului pe clădiri pentru Misiunea Centrul Crestin Emanuel",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-100-4669-8931.pdf",
+     "sha256": "369fa5a98973fe04b7b770c050a139bf7f262dde24528e4d6514f0d30638bd9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-19-2008",
+   "path": "local/bucuresti/sector-4/2008/19",
+   "short": "HCLS4 nr. 19/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 19/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7161-6306-2020.pdf",
+     "sha256": "e2ead4697c5ce2c60643d1c56386353393f96d91aaf238fd7e632198c0a2a809"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-2-2008",
+   "path": "local/bucuresti/sector-4/2008/2",
+   "short": "HCLS4 nr. 2/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 2/2008 privind validarea mandatelor consilierilor locali aleşi în Consiliul Local Sector 4 la 01.06.2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=145",
+   "versions": [
+    {
+     "from": "2008-06-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8966-9079-8855.pdf",
+     "sha256": "8ed2f090203d71b9c500c8efee1849aabbb88465c1d19fbb4eaa993e55c331f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-20-2008",
+   "path": "local/bucuresti/sector-4/2008/20",
+   "short": "HCLS4 nr. 20/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 20/2008 privind acordarea indemnizaţiei de dispozitiv funcţionarilor publici şi personalului contractual din cadrul Poliţiei Comunitare Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4-2651-7561.pdf",
+     "sha256": "12c6d5c11e06d35bf66552ab1cac796aaacc34cd2a1af38eb5f956102c22117d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-21-2008",
+   "path": "local/bucuresti/sector-4/2008/21",
+   "short": "HCLS4 nr. 21/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 21/2008 privind desemnarea unui reprezentant al Consiliului Local al sectorului 4 în Consiliul pentru Dezvoltare Regională Bucureşti-Ilfov",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1149-9425-6525.pdf",
+     "sha256": "e111436ad110df9eda2fe6e69bbf3d136ff69ca7e7386f8f8403a2a7f1d9704b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-22-2008",
+   "path": "local/bucuresti/sector-4/2008/22",
+   "short": "HCLS4 nr. 22/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 22/2008 privind desemnarea unor consilieri ce vor face parte din comisia pentru vânzarea spaţiilor comerciale conform Legii Nr.550/2002",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1801-460-7447.pdf",
+     "sha256": "4a9e3bd57a841f997ae4309bca51735e36f23f80d2bd6800f9bf1d5a7c342a9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-23-2008",
+   "path": "local/bucuresti/sector-4/2008/23",
+   "short": "HCLS4 nr. 23/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 23/2008 pentru desemnarea unor consilieri ce vor face parte din comisiile de vânzare şi contestaţii privind vânzarea spaţiilor proprietate privată a statului sau a unităţilor administrativ-teritoriale cu destinaţia de cabinete medicale conform O.U.G.nr",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9118-5660-8036.pdf",
+     "sha256": "c369f9970101d8daa17b2f11e687d08dcc4f92aa9f89597e995bfe9641cc338e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-24-2008",
+   "path": "local/bucuresti/sector-4/2008/24",
+   "short": "HCLS4 nr. 24/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 24/2008 Privind aprobarea cuantumului acordat unui cuplu de vârstnici pentru evenimentul „Venerabilii Sectorului 4” etapa a doua",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=145",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4785-8007-4557.pdf",
+     "sha256": "6683f6f912aa0929a6e696fca3aa9e3b8c29f69ddb81af51e8ef01e88934df64"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-25-2008",
+   "path": "local/bucuresti/sector-4/2008/25",
+   "short": "HCLS4 nr. 25/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 25/2008 privind aprobarea consumului maxim lunar de carburanţi pentru autovehicolele Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=145",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3674-5994-7309.pdf",
+     "sha256": "385674ffac618838895a80751f191887257334f490b562935098d5411ed16c28"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-26-2008",
+   "path": "local/bucuresti/sector-4/2008/26",
+   "short": "HCLS4 nr. 26/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 26/2008 privind majorarea sumelor baneşti aferente baremelor de dotare cu echipament şi cazarmament pentru copii şi tinerii protejaţi, mamele protejate în centre maternale, precum şi copiii încredinţaţi sau daţi în plasament la asistenţii maternali prof",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=145",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9423-9027-4934.pdf",
+     "sha256": "8eee903549bc98141895e9b87aa1ed564884b06444e176ea533a47716e21a176"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-27-2008",
+   "path": "local/bucuresti/sector-4/2008/27",
+   "short": "HCLS4 nr. 27/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 27/2008 Privind modificarea Organigramei, a Statului de functii si a Regulamentului de Organizare si Functionare ale Directiei Generale de Administrare a Unitatilor de Invatamant, Sanitare si Creselor Sector 4. (abrogata Anexa 2 prin HCLS4 nr. 51/28.08",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=145",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4856-9025-8742.pdf",
+     "sha256": "82fdb439719f8e04b27636ec442d0c12618098f887a18b552edb3fbe87b0f8d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-28-2008",
+   "path": "local/bucuresti/sector-4/2008/28",
+   "short": "HCLS4 nr. 28/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 28/2008 privind aprobarea achiziţionării lunare de abonamente pentru transportul în comun necesare salariaţilor Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 4 necesare deplasării în cadrul localităţii pentru inters de serviciu p",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=145",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3737-710-5262.pdf",
+     "sha256": "f7e5d075fe3e87efd9e2377baffebd3f55ddbd3e38e87b2c97bb14d4d7bf30fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-29-2008",
+   "path": "local/bucuresti/sector-4/2008/29",
+   "short": "HCLS4 nr. 29/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 29/2008 privind împuternicirea Directorului General al Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 4 să aprobe listele beneficiarilor de abonamente lunare şi cartele magnetice, acordate în baza Legii nr.448/2006, privind protec",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=145",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7287-1326-5729.pdf",
+     "sha256": "c2b445c11bf96784cd094c298a7b5ff12259ae7159e397b610c939fd127d54d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-3-2008",
+   "path": "local/bucuresti/sector-4/2008/3",
+   "short": "HCLS4 nr. 3/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 3/2008 privind constituirea Consiliului Local al sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=145",
+   "versions": [
+    {
+     "from": "2008-06-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4800-9411-9348.pdf",
+     "sha256": "008075ac48d09ddd0be796c897b091961743695eabef538dab51e68c39028e1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-30-2008",
+   "path": "local/bucuresti/sector-4/2008/30",
+   "short": "HCLS4 nr. 30/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 30/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7142-3961-6296.pdf",
+     "sha256": "f1cb63f8e5c24b66fe368228298b948edb4825303c4dc68a961e7d25bad83f80"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-31-2008",
+   "path": "local/bucuresti/sector-4/2008/31",
+   "short": "HCLS4 nr. 31/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 31/2008 privind aprobarea Organigramei, Statului de functii şi Regulamentului de Organizare şi Funcţionare ale Directiei de Administrare a Pietelor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9647-4157-4025.pdf",
+     "sha256": "95728463b42bdac936f8c47feda64c042a01c3beb5029df4a22809ddbe1f0b0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-32-2008",
+   "path": "local/bucuresti/sector-4/2008/32",
+   "short": "HCLS4 nr. 32/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 32/2008 H O T Ă R Â R E privind modificarea organigramei, a statului de funcţii si a Regulamentului de Organizare şi Funcţionare a Poliţiei Comunitare Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1576-878-1756.pdf",
+     "sha256": "dfe59d5e2378a3b78eb5b99e2c1f6209e3fe06498d0b141e51cec627d5428268"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-33-2008",
+   "path": "local/bucuresti/sector-4/2008/33",
+   "short": "HCLS4 nr. 33/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 33/2008 Privind aprobarea strategiei Directiei Generale de Asistenta Sociala si Protectia Copilului Sector 4 pe perioada 2008 - 2013, în materia de asistenţă socială şi protecţia copilului",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3965-5045-635.pdf",
+     "sha256": "cfcd8808353f7949a742892fa7cdeb9258e705c1852bb29be8708ba0ac8c5eac"
     }
    ]
   },
@@ -33,6 +423,36 @@
    ]
   },
   {
+   "slug": "hcls4-35-2008",
+   "path": "local/bucuresti/sector-4/2008/35",
+   "short": "HCLS4 nr. 35/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 35/2008 privind trecerea terenului în suprafaţă totală de 27230,45 mp aferent Liceului de Metrologie ,,Traian Vuia' din administrarea Direcţiei Generale de Administrare a Unităţilor de Învăţământ, Sanitare şi Creşelor Sector 4 în administrarea Consiliul",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6967-2375-1112.pdf",
+     "sha256": "7788745b34754199a90bb74f35405347ffe75db5d2dde251d39f23c3ded0880a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-36-2008",
+   "path": "local/bucuresti/sector-4/2008/36",
+   "short": "HCLS4 nr. 36/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 36/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3-6193-4252.pdf",
+     "sha256": "df36c6370bf06320b68c04d42ec5598cc29f4050ae46760088de1cb40fdc113b"
+    }
+   ]
+  },
+  {
    "slug": "hcls4-37-2008",
    "path": "local/bucuresti/sector-4/2008/37",
    "short": "HCLS4 nr. 37/2008",
@@ -44,6 +464,291 @@
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8315-3481-4568.pdf",
      "sha256": "d8e4150bb90fa7dfa171089298491d3dffa274dc6cdb513b669c84d584654c8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-38-2008",
+   "path": "local/bucuresti/sector-4/2008/38",
+   "short": "HCLS4 nr. 38/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 38/2008 privind aprobarea Organigramei, a Statului de funcţii şi a Regulamentului de Organizare şi Funcţionare ale aparatului de specialitate al Primarului Sectorului 4. (PS4; modificată de HCL nr. 58/25.09.2008)",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9385-9533-1119.pdf",
+     "sha256": "179ab259c28f75d6ea173b8a220a03c58c8252016e6b6378dac386f7950e79c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-39-2008",
+   "path": "local/bucuresti/sector-4/2008/39",
+   "short": "HCLS4 nr. 39/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 39/2008 privind demisia directorului Directiei de Administrare a Pietelor Sector 4 si numire unui nou director",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=145",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8651-6736-9350.pdf",
+     "sha256": "fa273b5c11ce7fdfbc10902b869529217f846a296c2d1cb81084e380a77886fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-4-2008",
+   "path": "local/bucuresti/sector-4/2008/4",
+   "short": "HCLS4 nr. 4/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 4/2008 privind alegerea preşedintelui de şedinţă al Consiliului Local al sectorului 4, pe perioada iunie - august 2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=145",
+   "versions": [
+    {
+     "from": "2008-06-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8755-5114-2684.pdf",
+     "sha256": "0889c0326229d03965df288cdc87c026a3081c7378e7eb68063f515c0c853e80"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-40-2008",
+   "path": "local/bucuresti/sector-4/2008/40",
+   "short": "HCLS4 nr. 40/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 40/2008 pentru modificarea componenţei Comisiilor de specialitate ale Consiliului Local Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=145",
+   "versions": [
+    {
+     "from": "2008-07-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-55-7927-1729.pdf",
+     "sha256": "53c6d5aebeba7ea86f28cae7b6741ba0ddec5c974d2c063fbcfac76a4d9e98ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-41-2008",
+   "path": "local/bucuresti/sector-4/2008/41",
+   "short": "HCLS4 nr. 41/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 41/2008 Privind aprobarea suplimentării ajutorului acordat unor cupluri de vârstnici în cadrul evenimentului „Venerabilii Sectorului 4” etapa a doua",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5419-5415-1394.pdf",
+     "sha256": "077ea06b9a31d32fe53cc0cc8bafae19dfacb6bb98351871c39f0184dadc5289"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-42-2008",
+   "path": "local/bucuresti/sector-4/2008/42",
+   "short": "HCLS4 nr. 42/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 42/2008 Privind deblocarea si utilizarea fondului de rezerva bugetara la dispozitia Consiliului Local al Sectorului 4 pentru finantarea unor cheltuieli impuse de dezastrele provocate de inundatiile din luna iulie 2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4940-6926-8200.pdf",
+     "sha256": "a87d226d0f8568fec5326e98337d255fe6be55300f5a1c8ab9ac3bd2124db9e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-43-2008",
+   "path": "local/bucuresti/sector-4/2008/43",
+   "short": "HCLS4 nr. 43/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 43/2008 privind alegerea preşedintelui de şedinţă al Consiliului Local al sectorului 4, pe perioada 01.09.2008-30.11.2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5339-193-4653.pdf",
+     "sha256": "602dd3f94b7096c5d2cb5af1eb670a2c3a84962205540a5dfb72efaeb82001d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-44-2008",
+   "path": "local/bucuresti/sector-4/2008/44",
+   "short": "HCLS4 nr. 44/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 44/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-782-4094-2682.pdf",
+     "sha256": "0e418e10a48e23857cd369d7fbf4c35aa735e9e777350fe2c3b2144044ca5e48"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-45-2008",
+   "path": "local/bucuresti/sector-4/2008/45",
+   "short": "HCLS4 nr. 45/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 45/2008 Privind aprobarea documentaţiilor tehnico-economice şi a indicatorilor tehnico-economici ai obiectivelor de investiţii propuse a se realiza de către Primăria Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3474-9309-4675.pdf",
+     "sha256": "d2faf9ebb286f0c11413759095022c626cd54871a3582aaf5bf05edb3683c83e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-46-2008",
+   "path": "local/bucuresti/sector-4/2008/46",
+   "short": "HCLS4 nr. 46/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 46/2008 Privind rectificarea bugetului local al Sectorului 4 pe anul 2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8540-5636-8682.pdf",
+     "sha256": "abac18999d262c68d53ff8669a74a50c3a7128f18081ac21dd3d1dc70301e287"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-47-2008",
+   "path": "local/bucuresti/sector-4/2008/47",
+   "short": "HCLS4 nr. 47/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 47/2008 privind aprobarea contractarii unei linii de finantare rambursabile in valoare de 150.000,00 mii lei (modificată prin HCL nr. 68/14.10.2008 şi HCL nr. 75/30.10.2008)",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9799-6214-9655.pdf",
+     "sha256": "d4dd3d5813afe42fa721b0f1d914dcf717190115203fab71bef7f0e9752344fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-48-2008",
+   "path": "local/bucuresti/sector-4/2008/48",
+   "short": "HCLS4 nr. 48/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 48/2008 privind numirea unui reprezentant al Consiliului Local al Sectorului 4 în Comitetul Director al Centrului de Îngrijire şi Asistenţă Nr.1",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4538-1359-631.pdf",
+     "sha256": "6ac6a1d120b50d10fff400f25c35cd9aa74a1449de386680fee8e510d2b6a432"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-49-2008",
+   "path": "local/bucuresti/sector-4/2008/49",
+   "short": "HCLS4 nr. 49/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 49/2008 privind modificarea Organigramei şi Statului de Funcţiuni ale Direţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 4 aprobate prin HCL S4 nr. 102/03.12.2007 precum şi a Regulamentului de Organizare şi Funcţionare al DGASPC Sector",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8809-7622-9922.pdf",
+     "sha256": "e2080796736537e128a78c5b00c5d8225d2540b2c1f4aa135efde826c69e9066"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-5-2008",
+   "path": "local/bucuresti/sector-4/2008/5",
+   "short": "HCLS4 nr. 5/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 5/2008 Privind rectificarea bugetului local al Sectorului 4 pe anul 2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=145",
+   "versions": [
+    {
+     "from": "2008-06-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2807-5223-6168.pdf",
+     "sha256": "f6675c27110801b9b1df5fe591c9927463dd184c8e5283cc628b91f76bf5f158"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-50-2008",
+   "path": "local/bucuresti/sector-4/2008/50",
+   "short": "HCLS4 nr. 50/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 50/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2513-335-8596.pdf",
+     "sha256": "c93238d5a9e3f9b8946edb69711ff6024b5d480f7f5cedb22c9c188dbf412935"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-51-2008",
+   "path": "local/bucuresti/sector-4/2008/51",
+   "short": "HCLS4 nr. 51/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 51/2008 privind modificarea Statului de functii al Directiei Generale de Administrare a Unitatilor de Invatamant, Sanitare si Creselor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8489-3194-4636.pdf",
+     "sha256": "387d6d504789e60c58ba0795b7e595bcd81b4fa445450d2deb6b3440d04e6b2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-52-2008",
+   "path": "local/bucuresti/sector-4/2008/52",
+   "short": "HCLS4 nr. 52/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 52/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6734-3547-480.pdf",
+     "sha256": "ed6730397de7348043adcd974d8b8add151e3c9648b8da645f551ce356320d02"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-53-2008",
+   "path": "local/bucuresti/sector-4/2008/53",
+   "short": "HCLS4 nr. 53/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 53/2008 privind aprobarea cuantumului maxim a prestaţiilor financiare excepţionale prevăzute de Legea nr. 272/2004 şi a condiţiilor de acordare a acestora",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6099-1972-9602.pdf",
+     "sha256": "4e21f63e26b53259dae9ee5f61372b8127831b5242898f22e3e3df0bf03a5c36"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-54-2008",
+   "path": "local/bucuresti/sector-4/2008/54",
+   "short": "HCLS4 nr. 54/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 54/2008 Privind stabilirea situaţiilor deosebite pentru care se acordă ajutoare de urgenţă şi aprobarea metodologiei de întocmire a dosarelor şi de acordare a ajutorului",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=144",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2813-76-155.pdf",
+     "sha256": "e91bf80184b47d148e8c4818b5377c924bd2386616f54adecbe5e01ebe2c5dda"
     }
    ]
   },
@@ -63,6 +768,261 @@
    ]
   },
   {
+   "slug": "hcls4-56-2008",
+   "path": "local/bucuresti/sector-4/2008/56",
+   "short": "HCLS4 nr. 56/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 56/2008 privind încetarea de drept a unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5610-4653-7021.pdf",
+     "sha256": "f54a736f52d27cef6a6f2b1d57542d55f70c5120a64a24a7b7d2a2a4dbe2d52c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-57-2008",
+   "path": "local/bucuresti/sector-4/2008/57",
+   "short": "HCLS4 nr. 57/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 57/2008 privind validarea unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4205-5409-3124.pdf",
+     "sha256": "91fd7ef01da03bf0dfafe850580cd9b77bafeb579fc5ac3e7baa54eaf717f7ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-58-2008",
+   "path": "local/bucuresti/sector-4/2008/58",
+   "short": "HCLS4 nr. 58/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 58/2008 privind aprobarea modificării Organigramei şi Statului de funcţii şi completării Regulamentului de Organizare şi Funcţionare ale aparatului de specialitate al Primarului Sectorului 4 (PS4) – modificata prin HCLS4 nr. 85/13.11.2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5035-3415-4183.pdf",
+     "sha256": "cdd73cbac5e48e4ece717fa2eae4aafa5d3690dcfcbfd9dcb4c21fc591ecf130"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-59-2008",
+   "path": "local/bucuresti/sector-4/2008/59",
+   "short": "HCLS4 nr. 59/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 59/2008 privind modificarea Regulamentului de Organizare si Functionare al Directiei Generale de Administrare a Unitatilor de Invatamant, Sanitare si Creselor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5693-5782-4049.pdf",
+     "sha256": "7c888fad9af611cae565bb310e70dcef1cb5e4f0f6ae63c168e84ab47b755ee3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-6-2008",
+   "path": "local/bucuresti/sector-4/2008/6",
+   "short": "HCLS4 nr. 6/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 6/2008 privind alegerea Viceprimarului Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=145",
+   "versions": [
+    {
+     "from": "2008-07-07",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2519-4706-941.pdf",
+     "sha256": "e44f09da32b009940041df87258f30d17d8c771f0aac7c700859ecdff3fd8000"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-60-2008",
+   "path": "local/bucuresti/sector-4/2008/60",
+   "short": "HCLS4 nr. 60/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 60/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2873-2012-903.pdf",
+     "sha256": "1e16e5f795f188affa7b34fab8ec6c3565914d253359af7e4aa9db1d4cfe2a1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-61-2008",
+   "path": "local/bucuresti/sector-4/2008/61",
+   "short": "HCLS4 nr. 61/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 61/2008 Privind preluarea Centrului de Îngrijire şi Asistenţă nr.1 şi a Centrului Medico-Social „Sf. Luca” de către Direcţia Generală de Asistenţă Socială şi Protecţia Copilului sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-555-43-6095.pdf",
+     "sha256": "43ab6f9118e0dfa1a57f93be112ce406efcc99f478bedc8f16cb3604ab199c1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-62-2008",
+   "path": "local/bucuresti/sector-4/2008/62",
+   "short": "HCLS4 nr. 62/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 62/2008 Pentru reglementarea raporturilor contractuale privind spatiile cu alta destinatie decat aceea de locuinta aflate in administrarea Directiei de Administrare a Pietelor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7446-6856-4461.pdf",
+     "sha256": "34a497fce7b3c53ab01e0c4bdea4828607999d58c5a230ea5316774ff7cb1e09"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-63-2008",
+   "path": "local/bucuresti/sector-4/2008/63",
+   "short": "HCLS4 nr. 63/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 63/2008 Privind aprobarea documentaţiilor tehnico-economice si a indicatorilor tehnico-economici ai obiectivelor de investiţii propuse a se realiza de catre Primaria Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8887-2374-584.pdf",
+     "sha256": "8bcc46feef53a15cd50046207b9a4eed8527e6a6c8e3f8c3315110aa54fa0357"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-64-2008",
+   "path": "local/bucuresti/sector-4/2008/64",
+   "short": "HCLS4 nr. 64/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 64/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2003-104-1449.pdf",
+     "sha256": "c2bef6fbd08f9dd75959e9713352cb5465661c9e5dac08473be661e35082b7be"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-65-2008",
+   "path": "local/bucuresti/sector-4/2008/65",
+   "short": "HCLS4 nr. 65/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 65/2008 privind numirea reprezentanţilor în Consiliile de Administraţie ale unităţilor de învăţământ preuniversitar şi special de stat din sectorul 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3421-3031-6528.pdf",
+     "sha256": "67e064b43f747b618b77a04026ec9bdb406d4845e6bd80c74a9a8c88922e6d1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-66-2008",
+   "path": "local/bucuresti/sector-4/2008/66",
+   "short": "HCLS4 nr. 66/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 66/2008 Privind rectificarea bugetului local al Sectorului 4 pe anul 2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9244-3898-676.pdf",
+     "sha256": "f9b86f66af7be5153ae842214d01f3ac8daaf1cd860d1dc08e5f2cb905be557a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-67-2008",
+   "path": "local/bucuresti/sector-4/2008/67",
+   "short": "HCLS4 nr. 67/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 67/2008 Privind rectificarea bugetului local al Sectorului 4 pe anul 2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-10-14",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1995-8941-1405.pdf",
+     "sha256": "4efc0ea4e5043247e16f89b74d0397d6015166121ca22cce29ecb8d9eff37a29"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-68-2008",
+   "path": "local/bucuresti/sector-4/2008/68",
+   "short": "HCLS4 nr. 68/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 68/2008 modificarea şi completarea anexei ”Hotărârii Consiliului Local al Sectorului 4 nr.47/28.08.2008 privind ”Lista obiectivelor de investiţii propuse pentru linia de finanţare”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-10-14",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7633-134-9171.pdf",
+     "sha256": "fc17cfc95890b605f4141134e42327ba717f0a526d87b7d9c1ef7870b35806cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-69-2008",
+   "path": "local/bucuresti/sector-4/2008/69",
+   "short": "HCLS4 nr. 69/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 69/2008 Privind rectificarea bugetului local al Sectorului 4 pe anul 2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7654-9584-6535.pdf",
+     "sha256": "e401fa44aa6d4f71fa0c6fec7a236446dab808d18487acbdc682656cfd2ef1f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-7-2008",
+   "path": "local/bucuresti/sector-4/2008/7",
+   "short": "HCLS4 nr. 7/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 7/2008 H O T Ă R Â R E privind numirea a trei consilieri locali care vor face parte din Comisia de analiză a solicitărilor de locuinţe din fondul locativ de stat, în vederea repartizării",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=145",
+   "versions": [
+    {
+     "from": "2008-07-07",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5846-4917-7455.pdf",
+     "sha256": "48c88955c844ee7c4329c8c01f2d1516fc329148b5d503a9717313fbf999d2c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-70-2008",
+   "path": "local/bucuresti/sector-4/2008/70",
+   "short": "HCLS4 nr. 70/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 70/2008 privind modificarea Organigramei, Statului de Funcţii şi a Regulamentului de Organizare şi Funcţionare ale Centrului Cultural „Nicolae Bălcescu”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6218-3282-1007.pdf",
+     "sha256": "e401fa44aa6d4f71fa0c6fec7a236446dab808d18487acbdc682656cfd2ef1f6"
+    }
+   ]
+  },
+  {
    "slug": "hcls4-71-2008",
    "path": "local/bucuresti/sector-4/2008/71",
    "short": "HCLS4 nr. 71/2008",
@@ -78,6 +1038,66 @@
    ]
   },
   {
+   "slug": "hcls4-72-2008",
+   "path": "local/bucuresti/sector-4/2008/72",
+   "short": "HCLS4 nr. 72/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 72/2008 privind aprobarea documentatiilor tehnice si planurilor TOPO-cadastrale pentru delimitarea terenurilor pe care se afla amplasate pietele si complexele agroalimentare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7409-8579-4211.pdf",
+     "sha256": "c78f514b837e4c8fc0c96b177c3f1a51b1e2cb73a68e4e3ec9935b8dbc06e47c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-73-2008",
+   "path": "local/bucuresti/sector-4/2008/73",
+   "short": "HCLS4 nr. 73/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 73/2008 Privind aprobarea documentaţiilor şi a indicatorilor tehnico-economici ai obiectivelor de investiţii prevăzute în anexă",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4882-3735-7803.pdf",
+     "sha256": "62acff2bd44a03758a2d44e892d70b835604b97d9db0cd49f804a2569fc34c37"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-74-2008",
+   "path": "local/bucuresti/sector-4/2008/74",
+   "short": "HCLS4 nr. 74/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 74/2008 privind elaborarea şi implementarea proiectului de investiţii ,, Dezvoltarea economiei sociale în Regiunea Bucureşti-Ilfov\u0003",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4727-9474-8842.pdf",
+     "sha256": "8ce0b7a5a3e8a8a6c393ca6c0f3cf46c60d3b060ed4a6f8a9f243c35801961f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-75-2008",
+   "path": "local/bucuresti/sector-4/2008/75",
+   "short": "HCLS4 nr. 75/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 75/2008 pentru modificarea anexei ”Hotărârii Consiliului Local al Sectorului 4 nr.47/28.08.2008 privind ”Lista obiectivelor de investiţii propuse pentru linia de finanţare”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4676-6661-8766.pdf",
+     "sha256": "760f210f1eee157fc026936d1f85e6e3ec4bca600f7fd1f4003415180f972727"
+    }
+   ]
+  },
+  {
    "slug": "hcls4-76-2008",
    "path": "local/bucuresti/sector-4/2008/76",
    "short": "HCLS4 nr. 76/2008",
@@ -89,6 +1109,291 @@
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7656-377-694.pdf",
      "sha256": "357b4f1bd32f6d3d41dffeca0b0dc27a68749a633be8c3c5bab02d388a949c95"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-77-2008",
+   "path": "local/bucuresti/sector-4/2008/77",
+   "short": "HCLS4 nr. 77/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 77/2008 privind acordarea de ajutoare constând în material lemnos pentru încălzirea locuinţei familiilor cu venituri mici",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=143",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4533-4767-6041.pdf",
+     "sha256": "0d5c9becec7be212d6ef8e2b542d974869debd09409204b6f262cf595aacdcdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-78-2008",
+   "path": "local/bucuresti/sector-4/2008/78",
+   "short": "HCLS4 nr. 78/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 78/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-350-562-633.pdf",
+     "sha256": "ee5c12a6de7172be3a9261d80c6b136f525ab9ae7236263c78101af1018e2db3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-79-2008",
+   "path": "local/bucuresti/sector-4/2008/79",
+   "short": "HCLS4 nr. 79/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 79/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6302-5528-7219.pdf",
+     "sha256": "e3e92cff742921c3379bbdbe574b4dba9b8dada01fd74556af3ec5ba2ced7ea5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-8-2008",
+   "path": "local/bucuresti/sector-4/2008/8",
+   "short": "HCLS4 nr. 8/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 8/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-07-07",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2453-910-418.pdf",
+     "sha256": "cf3ebc0aaa48a12f872195247627693bd0c57a4d6cde0803615fbbf2d1475847"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-80-2008",
+   "path": "local/bucuresti/sector-4/2008/80",
+   "short": "HCLS4 nr. 80/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 80/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5400-9835-1437.pdf",
+     "sha256": "1face9c2804d21cbf693a237716ed9dca73b4f5011274357ff8db0d17200a84f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-81-2008",
+   "path": "local/bucuresti/sector-4/2008/81",
+   "short": "HCLS4 nr. 81/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 81/2008 privind alegerea preşedintelui de şedinţă al Consiliului Local al sectorului 4, pe perioada 01.12.2008-28.02.2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2008-11-13",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9305-6963-9426.pdf",
+     "sha256": "731bce8a288166abd5fe652ef284879d17708e56813c8b040c6471da15bdb467"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-82-2008",
+   "path": "local/bucuresti/sector-4/2008/82",
+   "short": "HCLS4 nr. 82/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 82/2008 H O T A R A R E Privind rectificarea bugetului local al Sectorului 4 pe anul 2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2008-11-13",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4845-6408-9384.pdf",
+     "sha256": "fad5c74b6967e02712f2efec20c39c63acbb645775369c3665ed7d543c9f7693"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-83-2008",
+   "path": "local/bucuresti/sector-4/2008/83",
+   "short": "HCLS4 nr. 83/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 83/2008 Privind numirea a 2 reprezentanţi ai Consiliului Local al sectorului 4 în cadrul Consiliului Consultativ al Spitalului Clinic de Urgenţă „Sfântul Ioan”, sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2008-11-13",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4261-8962-2528.pdf",
+     "sha256": "075fa806b9330aa4354b0c1e4bf8551e4c5051bc379d506eb1fb68a5251fed79"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-84-2008",
+   "path": "local/bucuresti/sector-4/2008/84",
+   "short": "HCLS4 nr. 84/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 84/2008 Privind apobarea proiectului „SI EU MERIT O SANSA!” si alocarea de fonduri conform bugetului anexat acestui proiect",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2008-11-13",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-670-9638-6271.pdf",
+     "sha256": "8f9905bd7db94367bf9af418604246b4502027d9984428971d9f60b3ac0de21a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-85-2008",
+   "path": "local/bucuresti/sector-4/2008/85",
+   "short": "HCLS4 nr. 85/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 85/2008 privind aprobarea modificării Organigramei şi Statului de funcţii şi completării Regulamentului de Organizare şi Funcţionare ale aparatului de specialitate al Primarului Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2008-11-13",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1770-8634-4748.pdf",
+     "sha256": "044cbb724bb6a531f1cf9417b482649497bb0b16d8b78636c84cd0612490e835"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-86-2008",
+   "path": "local/bucuresti/sector-4/2008/86",
+   "short": "HCLS4 nr. 86/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 86/2008 privind aprobarea întabulării construcţiilor cu destinaţie de spaţii comerciale şi de prestări de servicii - proprietatea Municipiului Bucureşti - propuse spre vânzare în condiţiile Legii Nr.550/2002",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2008-11-13",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9532-6396-7952.pdf",
+     "sha256": "28e9133f0ce34fd32db67d3c152dc869472246bbfb7876141a09ced8bdae8d26"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-87-2008",
+   "path": "local/bucuresti/sector-4/2008/87",
+   "short": "HCLS4 nr. 87/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 87/2008 ĂRĂRE privind ,,Dezvoltarea Centrului de zi şi recuperare copil cu handicap Harap - Alb\u0003",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2008-11-13",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7669-4851-5831.pdf",
+     "sha256": "fa12c1aef69c932e30c051db23a82d9fb3d489a9a10cd260f57ad621a4421814"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-88-2008",
+   "path": "local/bucuresti/sector-4/2008/88",
+   "short": "HCLS4 nr. 88/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 88/2008 ĂRĂRE privind Implementarea unui Sistem Informatic Integrat în vederea furnizării de servicii publice on-line şi a eficientizării activităţilor interne ale Primăriei Sectorului 4 Bucureşti",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2008-11-13",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-572-9347-1366.pdf",
+     "sha256": "2856a39d8a71a2a9deecac027b4d07129dd9f59cb68a57659aa136af9dba5674"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-89-2008",
+   "path": "local/bucuresti/sector-4/2008/89",
+   "short": "HCLS4 nr. 89/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 89/2008 privind rectificarea bugetului local al sectorului 4 pe anul 2008. (XI)",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4038-4475-1433.pdf",
+     "sha256": "75acab57b3b376c9d068e4f725e235ad04201547021483242574edafb6fb1563"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-9-2008",
+   "path": "local/bucuresti/sector-4/2008/9",
+   "short": "HCLS4 nr. 9/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 9/2008 Privind deblocarea si utilizarea fondului de rezerva bugetara la dispozitia Consiliului Local al Sectorului 4 pentru finantarea unor cheltuieli impuse de situatia de urgenta datorita fenomenelor meteorologice cu risc major",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=145",
+   "versions": [
+    {
+     "from": "2008-07-07",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7365-9433-6451.pdf",
+     "sha256": "90e82edc4d7830bca3a30d94aa6328d26abe7a961c0a3983ef9c5f28acf0a15c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-90-2008",
+   "path": "local/bucuresti/sector-4/2008/90",
+   "short": "HCLS4 nr. 90/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 90/2008 privind modificarea Anexei nr.2 de la Hotarârea Consiliului Local Sector 4 Nr.88/13.11.2008 privind Implementarea unui Sistem Informatic Integrat în vederea furnizării de servicii publice on-line şi a eficientizării activităţilor interne ale Pri",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3031-6822-1850.pdf",
+     "sha256": "3d08cb6bab6f5951bf701b933e861d769ff45c94f6b38024bd4cc5391a4c7860"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-91-2008",
+   "path": "local/bucuresti/sector-4/2008/91",
+   "short": "HCLS4 nr. 91/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 91/2008 H O T Ã R Â R E Privind rectificarea bugetului local al Sectorului 4 pe anul 2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2008-12-11",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1859-604-8568.pdf",
+     "sha256": "efa5b4a0425823b14c69efb4065a25eeed7168694d273d1e1d3afec1e8fca5c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-92-2008",
+   "path": "local/bucuresti/sector-4/2008/92",
+   "short": "HCLS4 nr. 92/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 92/2008 privind împuternicirea Directorului General al Poliţiei Comunitare Sector 4 şi a reprezentanţilor funcţionarilor publici/reprezentanţii salariaţilor din cadrul Poliţiei Comunitare Sector 4 de a semna Acordul Colectiv de Muncă/Contractul Colectiv",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2008-12-11",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7649-3813-686.pdf",
+     "sha256": "47c9b199a376ddae1b95e83ed0bdd326fabba2725216321fbaf7e1039ba51242"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-93-2008",
+   "path": "local/bucuresti/sector-4/2008/93",
+   "short": "HCLS4 nr. 93/2008",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 93/2008 privind modificarea Organigramei şi Statului de Funcţiuni ale Direţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 4 aprobate prin HCL S4 nr. 49/28.08.2008 precum şi a Regulamentului de Organizare şi Funcţionare al DGASPC Sector",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=142",
+   "versions": [
+    {
+     "from": "2008-12-11",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9846-6404-2107.pdf",
+     "sha256": "5fdc53252bcd6e67c3a9eb53d15ea58721484594a7affcd5588230ef41805d75"
     }
    ]
   }

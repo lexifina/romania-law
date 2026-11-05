@@ -3,6 +3,471 @@
  "shard": "local/bucuresti/sector-4/2012",
  "acts": [
   {
+   "slug": "hcls4-1-2012",
+   "path": "local/bucuresti/sector-4/2012/1",
+   "short": "HCLS4 nr. 1/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 1/2012 privind alegerea Comisiei de validare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-06-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-24-1070-1411.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-10-2012",
+   "path": "local/bucuresti/sector-4/2012/10",
+   "short": "HCLS4 nr. 10/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 10/2012 privind validarea unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-07-06",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6099-9914-4198.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-11-2012",
+   "path": "local/bucuresti/sector-4/2012/11",
+   "short": "HCLS4 nr. 11/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 11/2012 privind rectificarea bugetului local al Sectorului 4 pe anul 2012",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-07-06",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4729-6277-837.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-12-2012",
+   "path": "local/bucuresti/sector-4/2012/12",
+   "short": "HCLS4 nr. 12/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 12/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-06",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3571-5384-1341.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-13-2012",
+   "path": "local/bucuresti/sector-4/2012/13",
+   "short": "HCLS4 nr. 13/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 13/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-06",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3482-5901-1595.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-14-2012",
+   "path": "local/bucuresti/sector-4/2012/14",
+   "short": "HCLS4 nr. 14/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 14/2012 privind actualizarea indicatorilor tehnico-economici pentru obiectivele de investitii cuprinse in programul multianual de reabilitare termica a blocurilor de locuinte din sectorul 4 al Municipiului Bucuresti",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-07-06",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4712-1437-1872.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-15-2012",
+   "path": "local/bucuresti/sector-4/2012/15",
+   "short": "HCLS4 nr. 15/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 15/2012 privind solicitarea către Consiliul General al Municipiului București a acordului expres privind cooperarea și asocierea Consiliului Local al Sectorului 4 al Municipiului București – România și Districtul Shizhong – orașul Jinan, Provincia Shand",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2862-6230-4692.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-16-2012",
+   "path": "local/bucuresti/sector-4/2012/16",
+   "short": "HCLS4 nr. 16/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 16/2012 privind rectificarea bugetului local al Sectorului 4 pe anul 2012",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8692-6503-6871.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-17-2012",
+   "path": "local/bucuresti/sector-4/2012/17",
+   "short": "HCLS4 nr. 17/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 17/2012 privind actualizarea indicatorilor tehnico-economici pentru unele obiective de investitii cuprinse in programul multianual de reabilitare termica a blocurilor de locuinte in Sectorul 4 al Municipiului Bucuresti",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3131-1910-6440.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-18-2012",
+   "path": "local/bucuresti/sector-4/2012/18",
+   "short": "HCLS4 nr. 18/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 18/2012 privind desemnarea consilierilor locali ai sectorului 4 ce vor face parte din Colegiului Director al Directiei Generale de Asistenta Sociala si Protectia Copilului Sector 4, ca membri titulari si membri supleanti",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-226-3279-5811.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-19-2012",
+   "path": "local/bucuresti/sector-4/2012/19",
+   "short": "HCLS4 nr. 19/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 19/2012 privind stabilirea indemnizatiei de sedinta pentru membri Comisiei de Protectie a Copilului sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5741-2859-6480.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-2-2012",
+   "path": "local/bucuresti/sector-4/2012/2",
+   "short": "HCLS4 nr. 2/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 2/2012 privind validarea mandatelor consilierilor locali alesi in Consiliul Local Sector 4 la 10.06.2012",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-06-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2543-1319-5019.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-20-2012",
+   "path": "local/bucuresti/sector-4/2012/20",
+   "short": "HCLS4 nr. 20/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 20/2012 privind desemnarea reprezentanţilor Consiliului Local al sectorului 4 în Consiliul pentru Dezvoltare Regională Bucureşti-Ilfov",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3360-4080-1006.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-21-2012",
+   "path": "local/bucuresti/sector-4/2012/21",
+   "short": "HCLS4 nr. 21/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 21/2012 privind constituirea Comisiei de analiză a solicitărilor de locuinţe din fondul locativ de stat",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-894-9497-8033.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-22-2012",
+   "path": "local/bucuresti/sector-4/2012/22",
+   "short": "HCLS4 nr. 22/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 22/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9483-9746-1159.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-23-2012",
+   "path": "local/bucuresti/sector-4/2012/23",
+   "short": "HCLS4 nr. 23/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 23/2012 privind aprobarea contractarii unei finantari rambursabile interne sau externe in valoare de pana la 100.000,00 mii lei (echivalent euro) pentru finantarea unor obiective de investitii de interes public local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4465-9723-89.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-24-2012",
+   "path": "local/bucuresti/sector-4/2012/24",
+   "short": "HCLS4 nr. 24/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 24/2012 privind aprobarea contractarii unei finantari rambursabile interne sau externe in valoare de 100.000.000 lei (echivalent euro) pentru refinantarea imprumutului intern contractat de la Banca Comerciala Romana (DM nr. 86/14.12.2009)",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5207-7181-8771.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-25-2012",
+   "path": "local/bucuresti/sector-4/2012/25",
+   "short": "HCLS4 nr. 25/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 25/2012 privind aprobarea Planului de Ocupare a Funcţiilor Publice pentru anul 2012 al Aparatului de Specialitate al Primarului Sector 4 Bucureşti",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9727-7821-1850.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-26-2012",
+   "path": "local/bucuresti/sector-4/2012/26",
+   "short": "HCLS4 nr. 26/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 26/2012 privind modificarea organigramei, a structurii de funcţii şi a Regulamentului de Organizare si Funcţionare ale Direcţiei de Evidenţă a Persoanelor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6410-2111-1466.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-27-2012",
+   "path": "local/bucuresti/sector-4/2012/27",
+   "short": "HCLS4 nr. 27/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 27/2012 privind numirea reprezentanţilor Consiliului Local al Sectorului 4 în Consiliile de Administraţie ale unităţilor de învăţământ preuniversitar şi special de stat din sectorul 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3447-9614-4042.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-28-2012",
+   "path": "local/bucuresti/sector-4/2012/28",
+   "short": "HCLS4 nr. 28/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 28/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2394-3556-5309.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-29-2012",
+   "path": "local/bucuresti/sector-4/2012/29",
+   "short": "HCLS4 nr. 29/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 29/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4619-3308-9706.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-292-2012",
+   "path": "local/bucuresti/sector-4/2012/292",
+   "short": "HCLS4 nr. 292/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 292/2012 privind aprobarea cererii de finantare “Cresterea Performantei Energetice pentru blocurile de locuințe din Sectorul 4 al Municipiului București 8 – CPE 8 ” si a cheltuielilor aferente acesteia, in vederea depunerii spre finantare si rambursarii ulterioare a cheltuielilor eligibile prin Programul Operational Regional 2014-2020",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=86",
+   "versions": [
+    {
+     "from": "2012-10-24",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/H_292.pdf",
+     "sha256": "ea6c5dd37f281a3c18369c2a014b786ed6885e8c2bc7dda022c11005968cb77e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-3-2012",
+   "path": "local/bucuresti/sector-4/2012/3",
+   "short": "HCLS4 nr. 3/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 3/2012 privind constituirea Consiliului Local Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-06-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9360-6921-9258.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-30-2012",
+   "path": "local/bucuresti/sector-4/2012/30",
+   "short": "HCLS4 nr. 30/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 30/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9703-9541-4330.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-31-2012",
+   "path": "local/bucuresti/sector-4/2012/31",
+   "short": "HCLS4 nr. 31/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 31/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8866-6779-4693.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-32-2012",
+   "path": "local/bucuresti/sector-4/2012/32",
+   "short": "HCLS4 nr. 32/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 32/2012 privind aprobarea Planului Urbanistic de Detaliu pentru construcţie definitivă cu funcţiunea imobil Sp+ P+5 E+6 E retras-SERVICII MEDICALE SI LOCUINTA DE SERVICIU, pe un teren proprietatea SC TIMPURI NOI SERVICII, în suprafaţă de 1445,03 mp",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7526-2050-8416.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-33-2012",
+   "path": "local/bucuresti/sector-4/2012/33",
+   "short": "HCLS4 nr. 33/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 33/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5931-8480-3033.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-34-2012",
+   "path": "local/bucuresti/sector-4/2012/34",
+   "short": "HCLS4 nr. 34/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 34/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4059-4998-7132.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-35-2012",
+   "path": "local/bucuresti/sector-4/2012/35",
+   "short": "HCLS4 nr. 35/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 35/2012 privind rectificarea bugetului local al Sectorului 4 pe anul 2012 PS4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9368-287-5696.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-36-2012",
+   "path": "local/bucuresti/sector-4/2012/36",
+   "short": "HCLS4 nr. 36/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 36/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2498-7425-9467.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls4-37-2012",
    "path": "local/bucuresti/sector-4/2012/37",
    "short": "HCLS4 nr. 37/2012",
@@ -18,6 +483,186 @@
    ]
   },
   {
+   "slug": "hcls4-38-2012",
+   "path": "local/bucuresti/sector-4/2012/38",
+   "short": "HCLS4 nr. 38/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 38/2012 privind modalitatea de acordare a ajutoarelor lunare pentru încălzirea locuinţelor de la bugetul local în compensarea celor oferite de la bugetul de stat",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-248-5603-1054.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-39-2012",
+   "path": "local/bucuresti/sector-4/2012/39",
+   "short": "HCLS4 nr. 39/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 39/2012 privind alegerea preşedintelui de şedinţă al Consiliului Local al sectorului 4, pe perioada 31.10.2012 – 30.01.2013",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3768-5377-7775.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-4-2012",
+   "path": "local/bucuresti/sector-4/2012/4",
+   "short": "HCLS4 nr. 4/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 4/2012 privind alegerea presedintelui de sedinta al Consiliului Local al sector 4 pe perioada iunie-august 2012",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-06-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7390-7680-5480.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-40-2012",
+   "path": "local/bucuresti/sector-4/2012/40",
+   "short": "HCLS4 nr. 40/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 40/2012 privind aprobarea contului de execuţie al bugetului local al Sectorului 4, la data de 30 septembrie 2012",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2762-9637-4917.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-41-2012",
+   "path": "local/bucuresti/sector-4/2012/41",
+   "short": "HCLS4 nr. 41/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 41/2012 privind numirea persoanei care va tine Registrul de evidenta a datoriei publice locale si Registrul de evidenta a garantiilor locale",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-705-2468-7519.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-42-2012",
+   "path": "local/bucuresti/sector-4/2012/42",
+   "short": "HCLS4 nr. 42/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 42/2012 privind modificarea Organigramei, a Statului de Funcţii şi a Regulamentului de Organizare şi Funcţionare ale Aparatului de Specialitate al Primarului Sector 4 Bucureşti",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3427-2316-9661.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-43-2012",
+   "path": "local/bucuresti/sector-4/2012/43",
+   "short": "HCLS4 nr. 43/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 43/2012 privind alegerea consilierilor locali în cadrul Grupului de Lucru Local de la nivelul Sectorului 4 pentru persoanele aparţinând etniei rome, înfiinţat în temeiul Hotărârii Guvernului României nr. 1221/2011",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8198-580-668.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-44-2012",
+   "path": "local/bucuresti/sector-4/2012/44",
+   "short": "HCLS4 nr. 44/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 44/2012 privind aprobarea achiziţionării de către autorităţile locale de la nivelul Sectorului 4 de servicii de consultanta, de asistenta si/sau de reprezentare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1448-1876-9200.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-45-2012",
+   "path": "local/bucuresti/sector-4/2012/45",
+   "short": "HCLS4 nr. 45/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 45/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9696-305-3663.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-46-2012",
+   "path": "local/bucuresti/sector-4/2012/46",
+   "short": "HCLS4 nr. 46/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 46/2012 privind schimbarea denumirii Centrului Medico-Social ,,Sfantul Luca’’ in Centrul Socio-Medical al Sectorului 4 „Sfântul Spiridon’’",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8230-4429-2185.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-47-2012",
+   "path": "local/bucuresti/sector-4/2012/47",
+   "short": "HCLS4 nr. 47/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 47/2012 privind modificarea Organigramei, a Statului de functii precum si a Regulamentului de Organizare si Functionare ale Directiei Generale de Asistenta Sociala si Protectia Copilului Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4188-8019-74.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-48-2012",
+   "path": "local/bucuresti/sector-4/2012/48",
+   "short": "HCLS4 nr. 48/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 48/2012 privind delimitarea suprafetelor imobilelor( constructii si teren) proprietatea privata a Municipiului Bucuresti aflate in administrarea Directiei Generale de Asistenta Sociala si Protectia Copilului Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8880-4572-461.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls4-49-2012",
    "path": "local/bucuresti/sector-4/2012/49",
    "short": "HCLS4 nr. 49/2012",
@@ -28,6 +673,21 @@
      "from": "2012-10-31",
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9174-2179-6906.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-5-2012",
+   "path": "local/bucuresti/sector-4/2012/5",
+   "short": "HCLS4 nr. 5/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 5/2012 privind alegerea viceprimarului sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-06-20",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9803-8610-5134.zip",
      "sha256": null
     }
    ]
@@ -78,6 +738,291 @@
    ]
   },
   {
+   "slug": "hcls4-53-2012",
+   "path": "local/bucuresti/sector-4/2012/53",
+   "short": "HCLS4 nr. 53/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 53/2012 privind aprobarea indicatorilor tehnico-economici pentru extinderea si modernizarea gradinitei din cadrul Scolii gimnaziale nr.308 ( fosta Gradinita nr.28)",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8704-1468-5230.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-54-2012",
+   "path": "local/bucuresti/sector-4/2012/54",
+   "short": "HCLS4 nr. 54/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 54/2012 privind aprobarea Planului Urbanistic de Detaliu pentru construcţie definitiva cu functiunea de LOCUINTA P+1 E+ M , pe un teren proprietatea SC VOLTART SRL in suprafata de 225,76mp",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1572-5538-6750.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-55-2012",
+   "path": "local/bucuresti/sector-4/2012/55",
+   "short": "HCLS4 nr. 55/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 55/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5876-1479-1753.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-56-2012",
+   "path": "local/bucuresti/sector-4/2012/56",
+   "short": "HCLS4 nr. 56/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 56/2012 privind rectificarea bugetului local al Sectorului 4 pe anul 2012",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2708-1162-8318.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-57-2012",
+   "path": "local/bucuresti/sector-4/2012/57",
+   "short": "HCLS4 nr. 57/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 57/2012 privind modificarea şi completarea HCL nr. 75 / 26.05.2011 privind aprobarea de către Consiliul Local al Sectorului 4 al Municipiului Bucuresti, a unui imprumut extern de la Banca Europeană de Investiţii în vederea reabilitarii termice a blocuri",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2860-5363-535.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-58-2012",
+   "path": "local/bucuresti/sector-4/2012/58",
+   "short": "HCLS4 nr. 58/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 58/2012 privind rectificarea bugetului local al Sectorului 4 pe anul 2012",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=125",
+   "versions": [
+    {
+     "from": "2012-10-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1030-9638-982.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-59-2012",
+   "path": "local/bucuresti/sector-4/2012/59",
+   "short": "HCLS4 nr. 59/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 59/2012 privind desemnarea unor consilieri ce vor face parte din comisia pentru vânzarea spaţiilor comerciale conform Legii nr. 550/2002",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3773-4374-5617.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-6-2012",
+   "path": "local/bucuresti/sector-4/2012/6",
+   "short": "HCLS4 nr. 6/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 6/2012 privind constituirea comisiilor de specialitate ale Consiliului Local al sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-06-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1299-2656-5963.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-60-2012",
+   "path": "local/bucuresti/sector-4/2012/60",
+   "short": "HCLS4 nr. 60/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 60/2012 privind aprobarea burselor şcolare şi cuantumul acestora în anul şcolar 2012/2013 semestrul I",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8694-6015-9131.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-61-2012",
+   "path": "local/bucuresti/sector-4/2012/61",
+   "short": "HCLS4 nr. 61/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 61/2012 privind aprobarea burselor şcolare şi cuantumul acestora în anul şcolar 2012/2013 semestrul I",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1175-1253-1819.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-62-2012",
+   "path": "local/bucuresti/sector-4/2012/62",
+   "short": "HCLS4 nr. 62/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 62/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1514-549-9351.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-63-2012",
+   "path": "local/bucuresti/sector-4/2012/63",
+   "short": "HCLS4 nr. 63/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 63/2012 privind aprobarea Regulamentului de Organizare şi Funcţionare al Grupului de Lucru Local pentru persoanele aparţinând etniei rome de la nivelul Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-846-7123-7036.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-64-2012",
+   "path": "local/bucuresti/sector-4/2012/64",
+   "short": "HCLS4 nr. 64/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 64/2012 privind modificarea Hotărârii Consiliului Local Sector 4 Nr. 46/31.10.2012 prin care s-a schimbat denumirea „Centrului Medico-Social Sfântul Luca”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1646-8925-6456.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-65-2012",
+   "path": "local/bucuresti/sector-4/2012/65",
+   "short": "HCLS4 nr. 65/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 65/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7984-7478-4581.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-66-2012",
+   "path": "local/bucuresti/sector-4/2012/66",
+   "short": "HCLS4 nr. 66/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 66/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5799-7783-4277.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-67-2012",
+   "path": "local/bucuresti/sector-4/2012/67",
+   "short": "HCLS4 nr. 67/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 67/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5725-9554-9848.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-68-2012",
+   "path": "local/bucuresti/sector-4/2012/68",
+   "short": "HCLS4 nr. 68/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 68/2012 privind respingerea Planului Urbanistic de Detaliu pentru construcţie definitivă cu funcţiunea COMPLEX MULTIFUNCTIONAL S+ P+5 E + 6 retras , pentru teren proprietatea SC CONCURENT REAL INVESTMENTS , în suprafaţă de 778,30mp",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5265-5366-1830.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-69-2012",
+   "path": "local/bucuresti/sector-4/2012/69",
+   "short": "HCLS4 nr. 69/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 69/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8360-6486-7258.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-7-2012",
+   "path": "local/bucuresti/sector-4/2012/7",
+   "short": "HCLS4 nr. 7/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 7/2012 privind aprobarea Indicatorilor tehnico-economici pentru unele obiective de investitii derulate de Administratia Scolilor, Liceelor si Gradinitelor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=128",
+   "versions": [
+    {
+     "from": "2012-01-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4780-7823-9503.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls4-70-2012",
    "path": "local/bucuresti/sector-4/2012/70",
    "short": "HCLS4 nr. 70/2012",
@@ -88,6 +1033,261 @@
      "from": "2012-11-26",
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4762-7313-5080.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-71-2012",
+   "path": "local/bucuresti/sector-4/2012/71",
+   "short": "HCLS4 nr. 71/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 71/2012 privind încetarea de drept a unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-11-26",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9983-4665-2411.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-72-2012",
+   "path": "local/bucuresti/sector-4/2012/72",
+   "short": "HCLS4 nr. 72/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 72/2012 privind rectificarea bugetului local al Sectorului 4 pe anul 2012",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2861-8553-978.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-73-2012",
+   "path": "local/bucuresti/sector-4/2012/73",
+   "short": "HCLS4 nr. 73/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 73/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7299-2250-100.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-74-2012",
+   "path": "local/bucuresti/sector-4/2012/74",
+   "short": "HCLS4 nr. 74/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 74/2012 privind modificarea Actului Adiţional nr. 2/2011 la Contractul FN/10.01.1997, pentru cele 261 artere de pe raza sectorului 4 şi împuternicirea Primarului sectorului 4 de a semna Actul Adiţional în consecinţă",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9459-1471-3809.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-75-2012",
+   "path": "local/bucuresti/sector-4/2012/75",
+   "short": "HCLS4 nr. 75/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 75/2012 privind stabilirea termenului de valabilitate al contractelor de inchirierelocatiune pentru spatiile comerciale aflate in administrarea Directiei de Administrare a Pietelor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2697-8961-1340.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-76-2012",
+   "path": "local/bucuresti/sector-4/2012/76",
+   "short": "HCLS4 nr. 76/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 76/2012 privind aprobarea Indicatorilor tehnico-economici pentru Extindere si Consolidare corp B Gradinita “Panselelor” (fosta Gradinita nr. 166) derulati de Administratia Scolilor, Liceelor si Gradinitelor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8247-1041-2045.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-77-2012",
+   "path": "local/bucuresti/sector-4/2012/77",
+   "short": "HCLS4 nr. 77/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 77/2012 privind completarea reţelei unităţilor de învăţământ din sistemul naţional de învăţământ preuniversitar, de la nivelul Sectorului 4, în anul şcolar 2012-2013",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8869-8849-4872.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-78-2012",
+   "path": "local/bucuresti/sector-4/2012/78",
+   "short": "HCLS4 nr. 78/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 78/2012 privind modificarea componenţei Comisiei pentru Protecţia Copilului Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-348-8052-5824.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-79-2012",
+   "path": "local/bucuresti/sector-4/2012/79",
+   "short": "HCLS4 nr. 79/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 79/2012 privind aprobarea servirii mesei de catre copii scolarizati la Scoala Speciala ,,Sfantul Nicolae’’ din Sectorul 4 la Centrul de Zi ,,Harap Alb’’al Directiei Generale de Asistenta Sociala si Protectia Copilului Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3792-5120-3973.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-8-2012",
+   "path": "local/bucuresti/sector-4/2012/8",
+   "short": "HCLS4 nr. 8/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 8/2012 privind aprobarea Organigramei, Statului de funcţii şi Regulamentului de Organizare şi Funcţionare ale Direcţiei de Administrare a Pieţelor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-06-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3857-8421-8211.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-80-2012",
+   "path": "local/bucuresti/sector-4/2012/80",
+   "short": "HCLS4 nr. 80/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 80/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5749-5503-4623.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-81-2012",
+   "path": "local/bucuresti/sector-4/2012/81",
+   "short": "HCLS4 nr. 81/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 81/2012 pentru modificarea şi completarea Anexei nr. 3 din HCLS4 NR.134/29.09.2011, privind modificarea Organigramei, a Statului de Funcţii şi a Regulamentului de Organizare şi Funcţionare ale Administraţiei Domeniului Public Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6112-1434-9698.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-82-2012",
+   "path": "local/bucuresti/sector-4/2012/82",
+   "short": "HCLS4 nr. 82/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 82/2012 privind modificarea Art.1 si Art.2(1) din HCLS4 NR.11/31.01.2011 si Art. 1 din Anexa la HCLS 4 NR. 11/31.01.2011",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=124",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6304-878-7122.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-83-2012",
+   "path": "local/bucuresti/sector-4/2012/83",
+   "short": "HCLS4 nr. 83/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 83/2012 privind modificarea planului anual de actiuni si lucrari de interes local pentru repartizarea orelor de munca, pe anul 2012, efectuate de beneficiarii Legii nr. 416/2001 privind venitul minim garantat, aprobat prin HCL nr. 42/9.03.2012",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-05-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8780-5474-4486.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-84-2012",
+   "path": "local/bucuresti/sector-4/2012/84",
+   "short": "HCLS4 nr. 84/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 84/2012 privind aprobarea documentatiei tehnico-economice si a indicatorilor tehnico-economici a unui bloc din programul multianual de reabilitate termica a blocurilor de locuinte in sectorul 4 al Municipiului Bucuresti in perioada 2012-2015",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-05-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4583-2973-2381.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-85-2012",
+   "path": "local/bucuresti/sector-4/2012/85",
+   "short": "HCLS4 nr. 85/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 85/2012 privind rectificarea erorii materiale cuprinse in Decizia nr. 341/1986, emisa de fostul Sfat Popular al Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-05-17",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9751-6875-2467.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-9-2012",
+   "path": "local/bucuresti/sector-4/2012/9",
+   "short": "HCLS4 nr. 9/2012",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 9/2012 privind încetarea de drept a unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=126",
+   "versions": [
+    {
+     "from": "2012-07-06",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2501-2105-1641.zip",
      "sha256": null
     }
    ]

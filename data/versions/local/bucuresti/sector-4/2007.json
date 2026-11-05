@@ -3,6 +3,216 @@
  "shard": "local/bucuresti/sector-4/2007",
  "acts": [
   {
+   "slug": "hcls4-1-2007",
+   "path": "local/bucuresti/sector-4/2007/1",
+   "short": "HCLS4 nr. 1/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 1/2007 privind respingerea de la plata obligaţiilor bugetare datorate de RA Imprimeria Băncii Naţionale a Romaniei",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=147",
+   "versions": [
+    {
+     "from": "2007-11-06",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8176-9006-1506.pdf",
+     "sha256": "e982612d7e7765c14cdb09bce0410e060e690225649841514ee37bd686ffc812"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-100-2007",
+   "path": "local/bucuresti/sector-4/2007/100",
+   "short": "HCLS4 nr. 100/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 100/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9471-5885-2920.pdf",
+     "sha256": "12951c9843fc5b040d5b318270298fa40a24b8e7f33a876a60e798369fbf9a28"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-101-2007",
+   "path": "local/bucuresti/sector-4/2007/101",
+   "short": "HCLS4 nr. 101/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 101/2007 privind aprobarea modificarii Organigramei,Statului de functii si Regulementului de Organizare si Functionare ale Directiei de Administrare a Pietelor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=147",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1454-5048-9937.pdf",
+     "sha256": "90035f8be4c66c86b21598fd0369dc3b71053d94830bbfad919e6eb019b768ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-102-2007",
+   "path": "local/bucuresti/sector-4/2007/102",
+   "short": "HCLS4 nr. 102/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 102/2007 privind modificarea Organigramei şi Statului de Funcţiuni ale Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 4, precum şi a Regulamentului de Organizare şi Funcţionare al DGASPC Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=147",
+   "versions": [
+    {
+     "from": "2007-12-03",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3959-1570-4640.pdf",
+     "sha256": "198d4dbb2465f63783dbf50997e0d174d3fb77d08dbe57995605729ff01c7e8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-103-2007",
+   "path": "local/bucuresti/sector-4/2007/103",
+   "short": "HCLS4 nr. 103/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 103/2007 ÃRÂRE Privind rectificarea bugetului local al Sectorului 4 pe anul 2007",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=147",
+   "versions": [
+    {
+     "from": "2007-12-03",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9688-6819-4545.pdf",
+     "sha256": "1daeba449ca7062e4f45155670ef4360a492a76e857dc7fc7bcb9faace31a14b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-104-2007",
+   "path": "local/bucuresti/sector-4/2007/104",
+   "short": "HCLS4 nr. 104/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 104/2007 ÃRÂRE Privind rectificarea bugetului local al Sectorului 4 pe anul 2007",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=147",
+   "versions": [
+    {
+     "from": "2007-12-06",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9163-7017-6722.pdf",
+     "sha256": "fb8c8d05e6566f26abbdc03dc012ed5266375d6179fe16d9035e47a03b7f139f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-105-2007",
+   "path": "local/bucuresti/sector-4/2007/105",
+   "short": "HCLS4 nr. 105/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 105/2007 ÃRÂRE Privind rectificarea bugetului local al Sectorului 4 pe anul 2007",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=147",
+   "versions": [
+    {
+     "from": "2007-12-13",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7951-811-1984.pdf",
+     "sha256": "f776338544e1e3c4209a9a6beb0508dd44feb0c261a5dc2c7396c17e8621df2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-106-2007",
+   "path": "local/bucuresti/sector-4/2007/106",
+   "short": "HCLS4 nr. 106/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 106/2007 privind validarea unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=146",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6065-1005-3458.pdf",
+     "sha256": "d2a29e321782ed063796e878c6f18fb95bb2ad138f412e4484b075d9c630fb62"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-107-2007",
+   "path": "local/bucuresti/sector-4/2007/107",
+   "short": "HCLS4 nr. 107/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 107/2007 privind aprobarea intocmirii Proiectului tehnic, detalii executie si caiet sarcini prin programul Guvernamental propus de Compania nationala de Investitii",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=146",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2273-5031-3239.pdf",
+     "sha256": "c5f8acc54b8ad638f9b7786427c4a5b68f09e4de0560a1d6803ace4445df1864"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-108-2007",
+   "path": "local/bucuresti/sector-4/2007/108",
+   "short": "HCLS4 nr. 108/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 108/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7386-164-4659.pdf",
+     "sha256": "ff5b9d7d9a1cb341188e515c7bfc4c2a0f0e26852f6c9737c57d9b3d6f65db1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-109-2007",
+   "path": "local/bucuresti/sector-4/2007/109",
+   "short": "HCLS4 nr. 109/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 109/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7274-5024-4910.pdf",
+     "sha256": "b4084b3d83fbe84654206c802e981c65158573fcad817198d7c2666625c31e97"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-110-2007",
+   "path": "local/bucuresti/sector-4/2007/110",
+   "short": "HCLS4 nr. 110/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 110/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1294-5464-2567.pdf",
+     "sha256": "aeb0df36f3c39ee4cd6a5edd7321028b2a4fdde80d6a2d4f0f9734a0cb2a2ad7"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-111-2007",
+   "path": "local/bucuresti/sector-4/2007/111",
+   "short": "HCLS4 nr. 111/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 111/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1169-6979-3925.pdf",
+     "sha256": "e79c8fc32b931984c1888db64a75b6532d233d9abfa3ab42a3d0936a6a8e18f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-112-2007",
+   "path": "local/bucuresti/sector-4/2007/112",
+   "short": "HCLS4 nr. 112/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 112/2007 privind aprobarea listelor beneficiarilor de abonamente lunare şi cartele magnetice, acordate în baza Legii nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=146",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1489-8679-1360.pdf",
+     "sha256": "37876909131d76028aa753e1c5899df63c694ca8928ad2bc720409d2f8a4e0bc"
+    }
+   ]
+  },
+  {
    "slug": "hcls4-22-2007",
    "path": "local/bucuresti/sector-4/2007/22",
    "short": "HCLS4 nr. 22/2007",
@@ -14,6 +224,126 @@
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2127-8207-2469.pdf",
      "sha256": "f7f4cf8533396e0d63d914e73bd22fa6359549bef956f4c41156b0ae43a19869"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-92-2007",
+   "path": "local/bucuresti/sector-4/2007/92",
+   "short": "HCLS4 nr. 92/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 92/2007 ÃRÂRE Privind rectificarea bugetului local al Sectorului 4 pe anul 2007",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=147",
+   "versions": [
+    {
+     "from": "2007-11-05",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8313-7409-6982.pdf",
+     "sha256": "9a451bd22d456efc72aeacef80e78f9440b9ea8bbfab49d92ef6b12352885590"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-93-2007",
+   "path": "local/bucuresti/sector-4/2007/93",
+   "short": "HCLS4 nr. 93/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 93/2007 privind alocarea unor fonduri de premiere pentru elevii si profesorii coordonatori, din Sectorul 4 care au obţinut rezultate deosebite la olimpiadele şcolare în anul de învăţământ 2006-2007",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=147",
+   "versions": [
+    {
+     "from": "2007-11-05",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4886-7075-9896.pdf",
+     "sha256": "d65466dd8720601714bc99f5246bc1389c138524957b24424648645e224fe9c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-94-2007",
+   "path": "local/bucuresti/sector-4/2007/94",
+   "short": "HCLS4 nr. 94/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 94/2007 privind alegerea preşedintelui de şedinţă al Consiliului Local al sectorului 4, pe perioada 01.12.2007-29.02.2008",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=147",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-525-9954-3762.pdf",
+     "sha256": "9e83a5a66110f81324e37f9591a4958079df25d60411ebc1b45cd5505def1cde"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-95-2007",
+   "path": "local/bucuresti/sector-4/2007/95",
+   "short": "HCLS4 nr. 95/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 95/2007 privind aprobarea consumului maxim lunar de carburanti pentru autoutilitarele B-47-PMB, B-53-PMB, B-34-MPB, B-33-MPB aflate in dotarea Primăriei Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=147",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4842-8267-1171.pdf",
+     "sha256": "f1bdd31c6d8cc27ddac3922e0f56f40e2e5a96e0201b626228abb02f2d82d1fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-96-2007",
+   "path": "local/bucuresti/sector-4/2007/96",
+   "short": "HCLS4 nr. 96/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 96/2007 privind aprobarea documentaţiei tehnico-economice a obiectivelor de investiţii",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=147",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1824-3152-8246.pdf",
+     "sha256": "ee764391e34803631192547564019f6ea1caf6afaf6b28fa8e78b843e7c0f639"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-97-2007",
+   "path": "local/bucuresti/sector-4/2007/97",
+   "short": "HCLS4 nr. 97/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 97/2007 privind repartizarea apartamentului nr.2 situat în Blocul Z.I.1, Şos.Olteniţei nr.219, Cartier N.Tonitza, sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=147",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1719-5278-6452.pdf",
+     "sha256": "d8fdb1b013bdc4a8e8e2b0836aff35119f3bbe4833d2b8a2d6760fd896856d6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-98-2007",
+   "path": "local/bucuresti/sector-4/2007/98",
+   "short": "HCLS4 nr. 98/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 98/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4187-6446-3431.pdf",
+     "sha256": "ddf2f97e4822b84a6ae24ac96b61bb67b640041133838ddc38a6b4d6758becd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-99-2007",
+   "path": "local/bucuresti/sector-4/2007/99",
+   "short": "HCLS4 nr. 99/2007",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 99/2007 privind aprobarea listelor beneficiarilor de abonamente lunare şi cartele magnetice, acordate în baza Legii nr. 448/2006 privind protecţia şi promovarea drepturilor persoanelor cu handicap",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=147",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8112-7934-2109.pdf",
+     "sha256": "65b274c59178f69b196ad339f1c4f86cd0e449d45ff9b3683ef032792373e2f4"
     }
    ]
   }

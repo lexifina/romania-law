@@ -3,6 +3,516 @@
  "shard": "local/bucuresti/sector-4/2010",
  "acts": [
   {
+   "slug": "hcls4-1-2010",
+   "path": "local/bucuresti/sector-4/2010/1",
+   "short": "HCLS4 nr. 1/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 1/2010 privind aprobarea planului de ocupare a funcţiilor publice din cadrul Poliţiei Comunitare Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2697-4663-6573.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-10-2010",
+   "path": "local/bucuresti/sector-4/2010/10",
+   "short": "HCLS4 nr. 10/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 10/2010 privind finalizarea proiectelor de amenajare a Parcului Lumea Copiilor aflat în administrarea Consiliului Local sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4273-6032-8240.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-100-2010",
+   "path": "local/bucuresti/sector-4/2010/100",
+   "short": "HCLS4 nr. 100/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 100/2010 privind modificarea organigramei, statelor de funcţii şi completarea regulamentului de organizare şi funcţionare ale aparatului propriu de specialitate al Primarului Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3733-313-2349.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-101-2010",
+   "path": "local/bucuresti/sector-4/2010/101",
+   "short": "HCLS4 nr. 101/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 101/2010 pentru modificarea şi completarea HCL S4 nr.93/2009 privind aprobarea Regulamentului de Organizare şi Funcţionare a activităţii de voluntariat în cadrul Primăriei sectorului 4 Bucureşti şi al direcţiilor (serviciilor) descentralizate aflate sub",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7005-4815-4225.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-102-2010",
+   "path": "local/bucuresti/sector-4/2010/102",
+   "short": "HCLS4 nr. 102/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 102/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9795-5105-3.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-103-2010",
+   "path": "local/bucuresti/sector-4/2010/103",
+   "short": "HCLS4 nr. 103/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 103/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1666-3556-2297.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-104-2010",
+   "path": "local/bucuresti/sector-4/2010/104",
+   "short": "HCLS4 nr. 104/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 104/2010 pentru modificarea HCLS4 nr.16/2008, privind numirea consilierilor locali ca membri in Colegiul Director al Direcţiei Generale de Asistenta Sociala si Protecţia Copilului Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=134",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9993-8925-429.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-105-2010",
+   "path": "local/bucuresti/sector-4/2010/105",
+   "short": "HCLS4 nr. 105/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 105/2010 pentru modificarea Anexei nr. 1 la HCL Sector 4 nr.20/25.02.2010 privind aprobarea derulării proiectului „Îngrijiri socio-medicale complexe pentru persoane vârstnice cu nevoi speciale din Sectorul 4”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6603-3602-2464.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-106-2010",
+   "path": "local/bucuresti/sector-4/2010/106",
+   "short": "HCLS4 nr. 106/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 106/2010 privind aprobarea, ,,Listei cu ordinea de prioritate pe anul 2010 pentru locuinţele construite prin programul ANL-locuinţe pentru tineri, destinate închirierii,, pentru CAZURILE SOCIALE",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7535-3658-8105.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-107-2010",
+   "path": "local/bucuresti/sector-4/2010/107",
+   "short": "HCLS4 nr. 107/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 107/2010 privind aprobarea ,,Repartizării locuinţelor din Şoseaua Olteniţei nr. 219, bloc Z1.2, sector4,,",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3837-1308-6711.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-108-2010",
+   "path": "local/bucuresti/sector-4/2010/108",
+   "short": "HCLS4 nr. 108/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 108/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3960-5267-2588.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-109-2010",
+   "path": "local/bucuresti/sector-4/2010/109",
+   "short": "HCLS4 nr. 109/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 109/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2267-917-5805.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-11-2010",
+   "path": "local/bucuresti/sector-4/2010/11",
+   "short": "HCLS4 nr. 11/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 11/2010 privind aprobarea bugetului local al Sectorului 4 pe anul 2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2010-02-11",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1656-6609-5379.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-110-2010",
+   "path": "local/bucuresti/sector-4/2010/110",
+   "short": "HCLS4 nr. 110/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 110/2010 privind autorizarea Primarului Autorităţii Publice Locale – Primăria Sectorului 4 Bucureşti să semneze Pactul Primarilor” de la Bruxelles, în deplină cunoştinţă cu toate angajamentele rezultate din „Convenţia Primarilor”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9852-5879-3661.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-111-2010",
+   "path": "local/bucuresti/sector-4/2010/111",
+   "short": "HCLS4 nr. 111/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 111/2010 privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7750-3189-6331.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-112-2010",
+   "path": "local/bucuresti/sector-4/2010/112",
+   "short": "HCLS4 nr. 112/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 112/2010 privind încetarea de drept a unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=134",
+   "versions": [
+    {
+     "from": "2010-10-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-461-4724-2734.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-113-2010",
+   "path": "local/bucuresti/sector-4/2010/113",
+   "short": "HCLS4 nr. 113/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 113/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-10-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8277-6262-6141.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-114-2010",
+   "path": "local/bucuresti/sector-4/2010/114",
+   "short": "HCLS4 nr. 114/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 114/2010 privind aprobarea indicatorilor tehnico-economici actualizaţi aferenţi obiectivelor de investiţii prevăzute în Anexa 1 care face parte integrantă din prezenta hotărâre",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=134",
+   "versions": [
+    {
+     "from": "2010-10-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9649-97-9342.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-115-2010",
+   "path": "local/bucuresti/sector-4/2010/115",
+   "short": "HCLS4 nr. 115/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 115/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-10-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9945-4359-4209.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-116-2010",
+   "path": "local/bucuresti/sector-4/2010/116",
+   "short": "HCLS4 nr. 116/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 116/2010 pentru revocarea Hotărârilor Consiliului Local al Sectorului 4 nr. 92/31.08.2010 şi 103/30.09.2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=134",
+   "versions": [
+    {
+     "from": "2010-10-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2351-1395-9068.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-117-2010",
+   "path": "local/bucuresti/sector-4/2010/117",
+   "short": "HCLS4 nr. 117/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 117/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-10-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6041-4123-3699.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-118-2010",
+   "path": "local/bucuresti/sector-4/2010/118",
+   "short": "HCLS4 nr. 118/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 118/2010 privind modificarea şi completarea Hotãrârii Consiliului Local Sector 4 Nr.78/15.07.2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=134",
+   "versions": [
+    {
+     "from": "2010-10-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4351-6783-9877.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-119-2010",
+   "path": "local/bucuresti/sector-4/2010/119",
+   "short": "HCLS4 nr. 119/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 119/2010 privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=134",
+   "versions": [
+    {
+     "from": "2010-10-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5038-2144-1694.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-12-2010",
+   "path": "local/bucuresti/sector-4/2010/12",
+   "short": "HCLS4 nr. 12/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 12/2010 privind modificarea Comisiei de Evaluare a Persoanelor cu Handicap pentru Adulţi Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3700-3759-2394.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-120-2010",
+   "path": "local/bucuresti/sector-4/2010/120",
+   "short": "HCLS4 nr. 120/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 120/2010 privind stabilirea procedurii pentru atribuirea contractului/act adiţional de prestări servicii de salubrizare şi de deszăpezire – pentru cele 261 artere stradale de pe teritoriul Sectorului 4 rămase descoperite",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=134",
+   "versions": [
+    {
+     "from": "2010-11-02",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6348-5427-3452.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-121-2010",
+   "path": "local/bucuresti/sector-4/2010/121",
+   "short": "HCLS4 nr. 121/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 121/2010 privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=134",
+   "versions": [
+    {
+     "from": "2010-11-02",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9615-70-3864.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-122-2010",
+   "path": "local/bucuresti/sector-4/2010/122",
+   "short": "HCLS4 nr. 122/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 122/2010 privind încetarea de drept a unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=134",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6070-1044-4127.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-123-2010",
+   "path": "local/bucuresti/sector-4/2010/123",
+   "short": "HCLS4 nr. 123/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 123/2010 privind validarea unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=134",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7248-4752-2140.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-124-2010",
+   "path": "local/bucuresti/sector-4/2010/124",
+   "short": "HCLS4 nr. 124/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 124/2010 pentru modificarea HCLS4 nr. 65/25.09.2008, privind numirea reprezentanţilor în Consiliile de Administratie ale unităţilor de învăţământ: Şcoala nr. 98 şi Grădiniţa nr. 207",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=134",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4689-4599-613.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-125-2010",
+   "path": "local/bucuresti/sector-4/2010/125",
+   "short": "HCLS4 nr. 125/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 125/2010 privind modificarea componenţei Comisiei pentru Protecţia Copilului Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=134",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2226-3788-7363.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-126-2010",
+   "path": "local/bucuresti/sector-4/2010/126",
+   "short": "HCLS4 nr. 126/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 126/2010 privind aprobarea consumului maxim lunar de carburanţi pentru autoturismul B–65- GGO",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=134",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4121-7186-3761.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-127-2010",
+   "path": "local/bucuresti/sector-4/2010/127",
+   "short": "HCLS4 nr. 127/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 127/2010 privind aprobarea consumului maxim lunar de carburanţi pentru autoturismul B–65- GGJHotarare privind aprobarea consumului maxim lunar de carburanţi pentru autoturismul B–65- GGJ",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=134",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7411-9651-103.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-128-2010",
+   "path": "local/bucuresti/sector-4/2010/128",
+   "short": "HCLS4 nr. 128/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 128/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4823-5815-8796.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-129-2010",
+   "path": "local/bucuresti/sector-4/2010/129",
+   "short": "HCLS4 nr. 129/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 129/2010 privind aprobarea Indicatorilor tehnico-economici pentru unele obiective de investitii derulate de Administratia Scolilor, Liceelor si Gradinitelor Sector conform Anexelor I, II si III",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=134",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9018-1855-3529.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls4-13-2010",
    "path": "local/bucuresti/sector-4/2010/13",
    "short": "HCLS4 nr. 13/2010",
@@ -13,6 +523,726 @@
      "from": "2010-02-25",
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6138-4905-2106.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-130-2010",
+   "path": "local/bucuresti/sector-4/2010/130",
+   "short": "HCLS4 nr. 130/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 130/2010 privind aprobarea documentaţiilor tehnico-economice şi a indicatorilor tehnico-economici privind obiectivele de investiţii prevăzute în Anexa care face parte integrantă din prezenta hotărâre",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=133",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5357-9589-2613.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-131-2010",
+   "path": "local/bucuresti/sector-4/2010/131",
+   "short": "HCLS4 nr. 131/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 131/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9027-9737-6734.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-132-2010",
+   "path": "local/bucuresti/sector-4/2010/132",
+   "short": "HCLS4 nr. 132/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 132/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6293-1988-3546.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-133-2010",
+   "path": "local/bucuresti/sector-4/2010/133",
+   "short": "HCLS4 nr. 133/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 133/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-153-1527-8822.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-134-2010",
+   "path": "local/bucuresti/sector-4/2010/134",
+   "short": "HCLS4 nr. 134/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 134/2010 privind respingerea Planului Urbanistic de Detaliu pentru construcţie definitivă cu funcţiunea imobil P+1 E –spatiu comercial-alimentatie publica pe un teren situat în b-dul Alexandru Obregia nr. 19C",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=133",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-811-3250-2560.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-135-2010",
+   "path": "local/bucuresti/sector-4/2010/135",
+   "short": "HCLS4 nr. 135/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 135/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1858-6255-1844.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-136-2010",
+   "path": "local/bucuresti/sector-4/2010/136",
+   "short": "HCLS4 nr. 136/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 136/2010 privind respingerea Planului Urbanistic de Detaliu pentru construcţie definitivă cu funcţiuneaHotarare privind respingerea Planului Urbanistic de Detaliu pentru construcţie definitivă cu funcţiunea acces din exterior pe un teren cota indiviza a",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=134",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3901-1109-8821.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-137-2010",
+   "path": "local/bucuresti/sector-4/2010/137",
+   "short": "HCLS4 nr. 137/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 137/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3129-9722-8023.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-138-2010",
+   "path": "local/bucuresti/sector-4/2010/138",
+   "short": "HCLS4 nr. 138/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 138/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2008-8439-1346.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-139-2010",
+   "path": "local/bucuresti/sector-4/2010/139",
+   "short": "HCLS4 nr. 139/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 139/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6702-5951-2079.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-14-2010",
+   "path": "local/bucuresti/sector-4/2010/14",
+   "short": "HCLS4 nr. 14/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 14/2010 privind acordarea scutirii de la plata impozitului pe cladiri pentru Asociatia Ateliere Protejate",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3243-3916-8093.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-140-2010",
+   "path": "local/bucuresti/sector-4/2010/140",
+   "short": "HCLS4 nr. 140/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 140/2010 privind respingerea Planului Urbanistic de Detaliu pentru construcţie definitivă cu funcţiunea hale depozitare si extindere hala pe un teren situat în B-dul. Metalurgiei nr. 152",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=134",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3250-6991-7635.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-141-2010",
+   "path": "local/bucuresti/sector-4/2010/141",
+   "short": "HCLS4 nr. 141/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 141/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9387-643-2208.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-142-2010",
+   "path": "local/bucuresti/sector-4/2010/142",
+   "short": "HCLS4 nr. 142/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 142/2010 privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=134",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5261-1029-2138.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-143-2010",
+   "path": "local/bucuresti/sector-4/2010/143",
+   "short": "HCLS4 nr. 143/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 143/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3122-4960-1095.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-144-2010",
+   "path": "local/bucuresti/sector-4/2010/144",
+   "short": "HCLS4 nr. 144/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 144/2010 privind încetarea de drept a unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=133",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2509-7712-6344.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-145-2010",
+   "path": "local/bucuresti/sector-4/2010/145",
+   "short": "HCLS4 nr. 145/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 145/2010 privind validarea unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=133",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5147-3023-1745.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-146-2010",
+   "path": "local/bucuresti/sector-4/2010/146",
+   "short": "HCLS4 nr. 146/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 146/2010 privind modificarea şi completarea HCL sector 4 nr. 2/28.01.2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=133",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1387-798-7958.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-147-2010",
+   "path": "local/bucuresti/sector-4/2010/147",
+   "short": "HCLS4 nr. 147/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 147/2010 privind acordarea dreptului la transport gratuit pe mijloacele de transport în comun de suprafaţă",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=133",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1284-6678-772.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-148-2010",
+   "path": "local/bucuresti/sector-4/2010/148",
+   "short": "HCLS4 nr. 148/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 148/2010 privind aprobarea documentaţiilor tehnico-economice şi a indicatorilor tehnico-economici conform Anexei care face parte integrantă din prezenta hotărâre",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=133",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2489-9267-1121.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-149-2010",
+   "path": "local/bucuresti/sector-4/2010/149",
+   "short": "HCLS4 nr. 149/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 149/2010 privind aprobarea documentaţiilor tehnico-economice şi a indicatorilor tehnico-economici conform Anexei care face parte integrantă din prezenta hotărâre",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=133",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8960-4445-5307.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-15-2010",
+   "path": "local/bucuresti/sector-4/2010/15",
+   "short": "HCLS4 nr. 15/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 15/2010 privind acordarea scutirii de la plata impozitului pe cladiri a Casei de Ajutor Reciproc a Pensionarilor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5593-342-6615.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-150-2010",
+   "path": "local/bucuresti/sector-4/2010/150",
+   "short": "HCLS4 nr. 150/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 150/2010 privind aprobarea modificării şi completării Hotărârii Consiliului Local Sector 4 nr. 23/25.02.2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=133",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-923-526-8756.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-151-2010",
+   "path": "local/bucuresti/sector-4/2010/151",
+   "short": "HCLS4 nr. 151/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 151/2010 privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=133",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4739-5141-8974.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-152-2010",
+   "path": "local/bucuresti/sector-4/2010/152",
+   "short": "HCLS4 nr. 152/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 152/2010 pentru modificarea HCLS4 nr. 65/25.09.2008, privind numirea reprezentanţilor în Consiliile de administraţie la unităţile de învăţământ preuniversitar şi special de stat din sectorul 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=133",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9197-1963-2442.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-153-2010",
+   "path": "local/bucuresti/sector-4/2010/153",
+   "short": "HCLS4 nr. 153/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 153/2010 privind aprobarea majorarii intr-un cuantum de pana la 50% a tuturor sumelor necesare acordării drepturilor prevăzute de Legea nr. 326/2003, cu modificările si completările ulterioare, în cazul copiilor cu handicap, infectaţi cu HIV sau bolnavi",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=133",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4684-924-5297.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-154-2010",
+   "path": "local/bucuresti/sector-4/2010/154",
+   "short": "HCLS4 nr. 154/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 154/2010 privind aprobarea continuării proiectului „SI EU MERIT O SANSA!”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=133",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5130-979-3412.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-155-2010",
+   "path": "local/bucuresti/sector-4/2010/155",
+   "short": "HCLS4 nr. 155/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 155/2010 privind înfiinţarea Poliţiei Locale Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=133",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3287-7377-4648.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-156-2010",
+   "path": "local/bucuresti/sector-4/2010/156",
+   "short": "HCLS4 nr. 156/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 156/2010 privind aprobarea continuării derulării proiectului „Îngrijiri socio-medicale complexe pentru persoane vârstnice cu nevoi speciale din Sectorul 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=133",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4466-5520-8394.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-157-2010",
+   "path": "local/bucuresti/sector-4/2010/157",
+   "short": "HCLS4 nr. 157/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 157/2010 privind aprobarea schimbarii destinatiei Piatei agroalimentare Covasna in Microcentru de cartier",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=133",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6444-1619-7285.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-158-2010",
+   "path": "local/bucuresti/sector-4/2010/158",
+   "short": "HCLS4 nr. 158/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 158/2010 privind aprobarea unei reglementări specifice în domeniul salarizării funcţionarilor publici",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=133",
+   "versions": [
+    {
+     "from": "2010-12-14",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5098-8491-7564.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-16-2010",
+   "path": "local/bucuresti/sector-4/2010/16",
+   "short": "HCLS4 nr. 16/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 16/2010 privind desfiintarea Directiei Generale de Administrare a Unitatilor de Invatamant, Sanitare si Creselor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6580-8532-9903.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-17-2010",
+   "path": "local/bucuresti/sector-4/2010/17",
+   "short": "HCLS4 nr. 17/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 17/2010 privind preluarea în administrare a creşelor de pe raza sectorului 4 de către Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-571-6890-3070.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-18-2010",
+   "path": "local/bucuresti/sector-4/2010/18",
+   "short": "HCLS4 nr. 18/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 18/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9159-5745-1849.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-19-2010",
+   "path": "local/bucuresti/sector-4/2010/19",
+   "short": "HCLS4 nr. 19/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 19/2010 privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1786-216-6611.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-2-2010",
+   "path": "local/bucuresti/sector-4/2010/2",
+   "short": "HCLS4 nr. 2/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 2/2010 privind acordarea unui supliment salarial personalului încadrat în funcţii publice locale în aparatul de specialitate al Primarului Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6275-394-3996.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-21-2010",
+   "path": "local/bucuresti/sector-4/2010/21",
+   "short": "HCLS4 nr. 21/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 21/2010 privind aprobarea costului mediu lunar al cheltuielilor de întretinere şi a contribuţiei de intretinere",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7045-1007-8250.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-22-2010",
+   "path": "local/bucuresti/sector-4/2010/22",
+   "short": "HCLS4 nr. 22/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 22/2010 privind aprobarea indicatorilor tehnico-economici ai obiectivelor de investiţii pentru construcţie",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4298-5901-7147.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-23-2010",
+   "path": "local/bucuresti/sector-4/2010/23",
+   "short": "HCLS4 nr. 23/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 23/2010 privind aprobarea contractarii/garantarii unei linii de finantare rambursabile",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-02-25",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5310-3188-7699.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-24-2010",
+   "path": "local/bucuresti/sector-4/2010/24",
+   "short": "HCLS4 nr. 24/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 24/2010 privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-03-09",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1226-2581-1951.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-25-2010",
+   "path": "local/bucuresti/sector-4/2010/25",
+   "short": "HCLS4 nr. 25/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 25/2010 privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1058-66-2340.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-26-2010",
+   "path": "local/bucuresti/sector-4/2010/26",
+   "short": "HCLS4 nr. 26/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 26/2010 privind aprobarea documentatiilor tehnico – economice si a indicatorilor tehnico-economici pentru obiectivului de Investitii ,, Lucrari de amenajare terenuri / zone verzi adiacente unor imobile din sectorul 4”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1231-4165-5972.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-27-2010",
+   "path": "local/bucuresti/sector-4/2010/27",
+   "short": "HCLS4 nr. 27/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 27/2010 privind aprobarea documentatiilor tehnico – economice si a indicatorilor tehnico-economici pentru obiectivului de Investitii ,,Lucrari de constructii, de fundatii si de imbracare a drumurilor din sectorul 4”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9936-8167-5196.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-28-2010",
+   "path": "local/bucuresti/sector-4/2010/28",
+   "short": "HCLS4 nr. 28/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 28/2010 privind aprobarea documentatiilor tehnico – economice si a indicatorilor tehnico-economici pentru obiectivului de investitii ,,Amenajari alei, platforme, terenuri de sport, imprejmuire curti scoli si gradinite din sectorul 4”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5529-5238-999.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-29-2010",
+   "path": "local/bucuresti/sector-4/2010/29",
+   "short": "HCLS4 nr. 29/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 29/2010 privind aprobarea planului de ocupare a funcţiilor publice din cadrul Primăriei Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8725-2986-7373.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-3-2010",
+   "path": "local/bucuresti/sector-4/2010/3",
+   "short": "HCLS4 nr. 3/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 3/2010 privind deblocarea si utilizarea fondului de rulment",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-608-5749-8989.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-30-2010",
+   "path": "local/bucuresti/sector-4/2010/30",
+   "short": "HCLS4 nr. 30/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 30/2010 privind modificarea organigramei",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-485-5376-5387.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-31-2010",
+   "path": "local/bucuresti/sector-4/2010/31",
+   "short": "HCLS4 nr. 31/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 31/2010 privind Organigrama, Statul de Funcţii şi Regulamentul de Organizare şi Funcţionare ale Centrului Cultural Penru UNESCO ”Nicolae Balcescu” nr.163/ 26.03.2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5107-1103-9356.zip",
      "sha256": null
     }
    ]
@@ -33,6 +1263,516 @@
    ]
   },
   {
+   "slug": "hcls4-33-2010",
+   "path": "local/bucuresti/sector-4/2010/33",
+   "short": "HCLS4 nr. 33/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 33/2010 privind inchirierea spatiilor disponibile aflate in administrarea Administratiei Scolilor, Liceelor si Gradinitelor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/11/H33-31.03.2016.pdf",
+     "sha256": "35dabe611fa79ed6c323ee8d5871b2732f66435f4b0a9b4110748a2c8c3b6bf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-34-2010",
+   "path": "local/bucuresti/sector-4/2010/34",
+   "short": "HCLS4 nr. 34/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 34/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7647-6581-3663.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-35-2010",
+   "path": "local/bucuresti/sector-4/2010/35",
+   "short": "HCLS4 nr. 35/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 35/2010 privind modificarea si completarea anexei aprobata prin H.C.L.S4 nr.99/29.10.2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1071-197-4250.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-36-2010",
+   "path": "local/bucuresti/sector-4/2010/36",
+   "short": "HCLS4 nr. 36/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 36/2010 privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3606-2068-4861.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-37-2010",
+   "path": "local/bucuresti/sector-4/2010/37",
+   "short": "HCLS4 nr. 37/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 37/2010 privind aprobarea costului mediu lunar al cheltuielilor de intretinere si a contributiei de intretinere al unui asistat",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7915-5780-7282.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-38-2010",
+   "path": "local/bucuresti/sector-4/2010/38",
+   "short": "HCLS4 nr. 38/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 38/2010 privind aprobarea costului mediu lunar /copil beneficiar al serviciilor oferite de Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7849-3234-7900.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-39-2010",
+   "path": "local/bucuresti/sector-4/2010/39",
+   "short": "HCLS4 nr. 39/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 39/2010 privind aprobarea delegării exercitării drepturilor şi îndeplinirii obligaţiilor părinteşti conferite Consiliului Local al sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4669-5770-9961.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-4-2010",
+   "path": "local/bucuresti/sector-4/2010/4",
+   "short": "HCLS4 nr. 4/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 4/2010 privind aprobarea documentaţiilor tehnico-economice şi a indicatorilor tehnico-economici aferente",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2516-9611-4084.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-40-2010",
+   "path": "local/bucuresti/sector-4/2010/40",
+   "short": "HCLS4 nr. 40/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 40/2010 privind reactualizarea valorii normei de hrană pentru salariaţii Poliţiei Comunitare Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3469-8721-4792.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-41-2010",
+   "path": "local/bucuresti/sector-4/2010/41",
+   "short": "HCLS4 nr. 41/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 41/2010 privind modificarea şi completarea Anexei nr.1 la Hotărârea Consiliului Local Sector 4 nr.22/25.02.2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-293-514-8723.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-42-2010",
+   "path": "local/bucuresti/sector-4/2010/42",
+   "short": "HCLS4 nr. 42/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 42/2010 privind aprobarea unor Planuri urbanistice de detaliu pe terenuri proprietate privata persoane izice si/sau juridice si domeniul privat al municipiului Bucuresti",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-04-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5029-2793-4546.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-43-2010",
+   "path": "local/bucuresti/sector-4/2010/43",
+   "short": "HCLS4 nr. 43/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 43/2010 privind încetarea de drept a unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8580-5080-3223.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-44-2010",
+   "path": "local/bucuresti/sector-4/2010/44",
+   "short": "HCLS4 nr. 44/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 44/2010 privind validarea unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6384-9413-3208.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-45-2010",
+   "path": "local/bucuresti/sector-4/2010/45",
+   "short": "HCLS4 nr. 45/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 45/2010 privind aprobarea unui contract de sponsorizare intre ENEL si PS4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8129-9390-6576.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-46-2010",
+   "path": "local/bucuresti/sector-4/2010/46",
+   "short": "HCLS4 nr. 46/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 46/2010 privind aprobarea contului de incheiere a exercitiului bugetar pe anul 2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6289-7579-7466.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-47-2010",
+   "path": "local/bucuresti/sector-4/2010/47",
+   "short": "HCLS4 nr. 47/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 47/2010 privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2546-9383-5691.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-48-2010",
+   "path": "local/bucuresti/sector-4/2010/48",
+   "short": "HCLS4 nr. 48/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 48/2010 privind aprobarea documentatiilor de avizare si indicatorilor tehnico-economici pentru obiectivul de investitii",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9682-1831-9257.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-49-2010",
+   "path": "local/bucuresti/sector-4/2010/49",
+   "short": "HCLS4 nr. 49/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 49/2010 privind aprobarea documentaţiilor de avizare şi indicatorilor tehnico-economici",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3144-9735-2791.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-5-2010",
+   "path": "local/bucuresti/sector-4/2010/5",
+   "short": "HCLS4 nr. 5/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 5/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5901-6369-169.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-51-2010",
+   "path": "local/bucuresti/sector-4/2010/51",
+   "short": "HCLS4 nr. 51/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 51/2010 privind aprobarea propunerii ca instituţia Primăriei Sectorului 4 să devină membru cu drepturi depline în cadrul Asociaţiei „Oraşe Energie România”-OER",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=137",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-327-255-224.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-55-2010",
+   "path": "local/bucuresti/sector-4/2010/55",
+   "short": "HCLS4 nr. 55/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 55/2010 privind eşalonarea pe o perioadă de 5 ani a impozitelor şi taxelor locale restante datorate bugetului local al sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2138-9057-7816.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-56-2010",
+   "path": "local/bucuresti/sector-4/2010/56",
+   "short": "HCLS4 nr. 56/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 56/2010 privind modificarea Organigramei, a Statului de Funcţii si a Regulamentului de Organizare si Functionare al Direcţiei Generale de Asistenţă Socială şi Protecţia Copilului Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7278-7987-7619.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-57-2010",
+   "path": "local/bucuresti/sector-4/2010/57",
+   "short": "HCLS4 nr. 57/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 57/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9996-4381-5552.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-58-2010",
+   "path": "local/bucuresti/sector-4/2010/58",
+   "short": "HCLS4 nr. 58/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 58/2010 privind aprobarea documentaţiilor tehnico-economice şi a indicatorilor tehnico-economici",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2097-6467-9772.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-59-2010",
+   "path": "local/bucuresti/sector-4/2010/59",
+   "short": "HCLS4 nr. 59/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 59/2010 privind aprobarea documentaţiilor tehnico-economice şi a indicatorilor tehnico-economici",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2136-8618-6539.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-6-2010",
+   "path": "local/bucuresti/sector-4/2010/6",
+   "short": "HCLS4 nr. 6/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 6/2010 privind aprobarea implementarii Programului SOS Parinti la nivelul unitatilor de invatamant preuniversitar de stat din Sectorul 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5999-777-9827.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-60-2010",
+   "path": "local/bucuresti/sector-4/2010/60",
+   "short": "HCLS4 nr. 60/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 60/2010 privind modificarea şi completarea anexei aprobată prin HCLS4 nr.94/09.10.2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7344-3949-769.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-61-2010",
+   "path": "local/bucuresti/sector-4/2010/61",
+   "short": "HCLS4 nr. 61/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 61/2010 privind aprobarea de despagubiri materiale",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8622-481-2049.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-62-2010",
+   "path": "local/bucuresti/sector-4/2010/62",
+   "short": "HCLS4 nr. 62/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 62/2010 privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4077-189-1535.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-63-2010",
+   "path": "local/bucuresti/sector-4/2010/63",
+   "short": "HCLS4 nr. 63/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 63/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-3901-4354-3468.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-64-2010",
+   "path": "local/bucuresti/sector-4/2010/64",
+   "short": "HCLS4 nr. 64/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 64/2010 privind modificarea HCLS4 nr. 22/31.03.2009",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6518-9519-5789.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-65-2010",
+   "path": "local/bucuresti/sector-4/2010/65",
+   "short": "HCLS4 nr. 65/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 65/2010 pentru modificarea HCLS4 nr. 65/25.09.2008, privind numirea reprezentanţilor în Consiliile de Administraţie ale unităţilor de învăţământ Şcoala nr. Colegiul Naţional Ion Creangă şi Grădiniţa nr. 175",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5837-9080-8161.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-66-2010",
+   "path": "local/bucuresti/sector-4/2010/66",
+   "short": "HCLS4 nr. 66/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 66/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4214-6457-6919.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-67-2010",
+   "path": "local/bucuresti/sector-4/2010/67",
+   "short": "HCLS4 nr. 67/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 67/2010 privind aprobarea strategiei Directiei Generale de Asistenta Sociala si Protectia Copilului Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-576-1452-7816.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcls4-68-2010",
    "path": "local/bucuresti/sector-4/2010/68",
    "short": "HCLS4 nr. 68/2010",
@@ -43,6 +1783,486 @@
      "from": "2010-06-30",
      "units": 1,
      "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8529-2316-4160.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-7-2010",
+   "path": "local/bucuresti/sector-4/2010/7",
+   "short": "HCLS4 nr. 7/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 7/2010 privind aprobarea implementarii Programului After-school la nivelul unitatilor de invatamant preuniversitar de stat din Sectorul 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2929-4197-1296.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-71-2010",
+   "path": "local/bucuresti/sector-4/2010/71",
+   "short": "HCLS4 nr. 71/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 71/2010 privind înfiinţarea Direcţiei de Administrare a Domeniului Public Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4133-6798-6828.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-72-2010",
+   "path": "local/bucuresti/sector-4/2010/72",
+   "short": "HCLS4 nr. 72/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 72/2010 privind alegerea preşedintelui de şedinţă al Consiliului Local al sectorului 4, pe perioada 01.07.2010 - 30.09.2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4835-7679-4941.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-73-2010",
+   "path": "local/bucuresti/sector-4/2010/73",
+   "short": "HCLS4 nr. 73/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 73/2010 privind încetarea de drept a unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-06-30",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-440-7629-7384.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-74-2010",
+   "path": "local/bucuresti/sector-4/2010/74",
+   "short": "HCLS4 nr. 74/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 74/2010 privind validarea unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-07-15",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9454-1826-3638.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-75-2010",
+   "path": "local/bucuresti/sector-4/2010/75",
+   "short": "HCLS4 nr. 75/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 75/2010 privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-07-15",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9771-2110-2773.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-76-2010",
+   "path": "local/bucuresti/sector-4/2010/76",
+   "short": "HCLS4 nr. 76/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 76/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-15",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8905-2378-2701.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-77-2010",
+   "path": "local/bucuresti/sector-4/2010/77",
+   "short": "HCLS4 nr. 77/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 77/2010 privind aprobarea cofinanţării proiectului “Investitie durabila si eficienta in capitalul uman institutional",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-07-15",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5640-4619-9933.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-78-2010",
+   "path": "local/bucuresti/sector-4/2010/78",
+   "short": "HCLS4 nr. 78/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 78/2010 privind modificarea şi completarea Hotãrârii Consiliului Local al sectorului 4 nr.71/30.06.2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=136",
+   "versions": [
+    {
+     "from": "2010-07-15",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1548-1285-5693.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-79-2010",
+   "path": "local/bucuresti/sector-4/2010/79",
+   "short": "HCLS4 nr. 79/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 79/2010 privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-826-7080-222.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-8-2010",
+   "path": "local/bucuresti/sector-4/2010/8",
+   "short": "HCLS4 nr. 8/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 8/2010 privind stabilirea salariului de bază al personalului contractual din cadrul aparatului de specialitate al Primarului Sectorului 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2253-3627-4407.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-80-2010",
+   "path": "local/bucuresti/sector-4/2010/80",
+   "short": "HCLS4 nr. 80/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 80/2010 privind aprobarea implementării dispoziţiilor cuprinse în Ordonanţa de Urgenţă a Guvernului României nr. 63/2010 pentru modificarea şi completarea Legii nr. 273/2006",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8967-6965-9825.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-81-2010",
+   "path": "local/bucuresti/sector-4/2010/81",
+   "short": "HCLS4 nr. 81/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 81/2010 privind aprobarea implementării dispoziţiilor cuprinse în Ordonanţa de Urgenţă a Guvernului României nr. 63/2010 pentru modificarea şi completarea Legii nr. 273/2006",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5499-8124-1082.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-82-2010",
+   "path": "local/bucuresti/sector-4/2010/82",
+   "short": "HCLS4 nr. 82/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 82/2010 privind aprobarea implementării dispoziţiilor cuprinse în Ordonanţa de Urgenţă a Guvernului României nr. 63/2010 pentru modificarea şi completarea Legii nr. 273/2006",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-9710-4223-6729.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-83-2010",
+   "path": "local/bucuresti/sector-4/2010/83",
+   "short": "HCLS4 nr. 83/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 83/2010 privind aprobarea implementării dispoziţiilor cuprinse în Ordonanţa de Urgenţă a Guvernului României nr. 63/2010 pentru modificarea şi completarea Legii nr. 273/2006, privind finanţele publice locale",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-1550-7706-7210.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-84-2010",
+   "path": "local/bucuresti/sector-4/2010/84",
+   "short": "HCLS4 nr. 84/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 84/2010 privind aprobarea implementării dispoziţiilor cuprinse în Ordonanţa de Urgenţă a Guvernului României privind înfiinţarea, organizarea si funcţionarea Poliţiei Comunitare Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4631-1869-8130.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-85-2010",
+   "path": "local/bucuresti/sector-4/2010/85",
+   "short": "HCLS4 nr. 85/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 85/2010 privind aprobarea implementării dispoziţiilor cuprinse în Ordonanţa de Urgenţă a Guvernului României nr. 63/2010 pentru modificarea si completarea Legii nr. 273/2006 privind finantele publice locale",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-12",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6815-7656-1674.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-86-2010",
+   "path": "local/bucuresti/sector-4/2010/86",
+   "short": "HCLS4 nr. 86/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 86/2010 privind aprobarea implementării dispoziţiilor cuprinse în Ordonanţa de Urgenţă a Guvernului României nr. 63/2010 pentru modificarea şi completarea Legii nr. 273/2006",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-13",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6666-5761-8224.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-87-2010",
+   "path": "local/bucuresti/sector-4/2010/87",
+   "short": "HCLS4 nr. 87/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 87/2010 privind încetarea de drept a unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2241-7232-5908.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-88-2010",
+   "path": "local/bucuresti/sector-4/2010/88",
+   "short": "HCLS4 nr. 88/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 88/2010 privind validarea unui mandat de consilier local",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5414-2876-6736.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-89-2010",
+   "path": "local/bucuresti/sector-4/2010/89",
+   "short": "HCLS4 nr. 89/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 89/2010 pentru modificarea HCLS4 nr. 1/20.06.2008, privind alegerea Comisiei de validare",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8841-8744-9939.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-9-2010",
+   "path": "local/bucuresti/sector-4/2010/9",
+   "short": "HCLS4 nr. 9/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 9/2010 privind finalizarea proiectelor de amenajare a Parcului Lumea Copiilor aflat în administrarea Consiliului Local sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=138",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7610-1987-6805.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-90-2010",
+   "path": "local/bucuresti/sector-4/2010/90",
+   "short": "HCLS4 nr. 90/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 90/2010 privind aprobarea rectificarii bugetului local al Sectorului 4 pe anul 2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2690-7330-2415.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-91-2010",
+   "path": "local/bucuresti/sector-4/2010/91",
+   "short": "HCLS4 nr. 91/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 91/2010 pentru modificarea HCLS4 nr. 65/25.09.2008, privind numirea reprezentanţilor în Consiliile de Administraţie ale unităţilor de învăţământ: Liceul de Coregrafie Floria Capsali şi Grădiniţa nr. 60",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8465-3598-2103.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-92-2010",
+   "path": "local/bucuresti/sector-4/2010/92",
+   "short": "HCLS4 nr. 92/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 92/2010 privind numirea a 2 reprezentanţi ai Consiliului Local al sectorului 4 în cadrul Consiliului de administraţie",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-8463-6594-7289.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-93-2010",
+   "path": "local/bucuresti/sector-4/2010/93",
+   "short": "HCLS4 nr. 93/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 93/2010 pentru modificarea Anexei 2 la HCLS4 nr.11/2008, modificată prin HCLS4 nr.40/2008 privind componenţa nominală a Comisiilor de specialitate ale Consiliului Local Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-6166-6799-2184.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-94-2010",
+   "path": "local/bucuresti/sector-4/2010/94",
+   "short": "HCLS4 nr. 94/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 94/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-5738-5134-8629.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-95-2010",
+   "path": "local/bucuresti/sector-4/2010/95",
+   "short": "HCLS4 nr. 95/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 95/2010 privind aprobarea „Programului de aprovizionare a populaţiei sectorului 4”",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-2965-5141-9704.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-96-2010",
+   "path": "local/bucuresti/sector-4/2010/96",
+   "short": "HCLS4 nr. 96/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 96/2010 privind aprobarea modificarii Regulamentului de Organizare si Functionare al Directiei de Administrare a Pietelor Sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7272-5370-7594.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-97-2010",
+   "path": "local/bucuresti/sector-4/2010/97",
+   "short": "HCLS4 nr. 97/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 97/2010 privind modificarea Regulamentului de Organizare si Funcţionare al Primăriei sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-7340-3823-6310.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-98-2010",
+   "path": "local/bucuresti/sector-4/2010/98",
+   "short": "HCLS4 nr. 98/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 98/2010 privind modificarea art. 2 din HCLS4 nr. 82/12.08.2010",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4640-8183-1691.zip",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls4-99-2010",
+   "path": "local/bucuresti/sector-4/2010/99",
+   "short": "HCLS4 nr. 99/2010",
+   "title": "Hotărârea Consiliului Local al Sectorului 4 nr. 99/2010 privind modificarea Regulamentului de Organizare si Funcţionare al Primăriei sector 4",
+   "url": "https://ps4.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari/?page_n=135",
+   "versions": [
+    {
+     "from": "2010-08-31",
+     "units": 1,
+     "source_url": "https://ps4.ro/wp-content/uploads/2016/03/pdf-4815-9279-9313.zip",
      "sha256": null
     }
    ]

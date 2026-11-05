@@ -3,6 +3,111 @@
  "shard": "local/bucuresti/sector-5/2025",
  "acts": [
   {
+   "slug": "hcls5-1-2025",
+   "path": "local/bucuresti/sector-5/2025/1",
+   "short": "HCLS5 nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 1/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/01/HCL-01-29.01.2025.pdf",
+     "sha256": "dd8acd6af4c9dc967dd2138f6037dea0cab1fb4708be98b9ae9f62ef32cc0d93"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-10-2025",
+   "path": "local/bucuresti/sector-5/2025/10",
+   "short": "HCLS5 nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 10/2025 privindmodificarea Actului Constitutiv al societățiiINFRASTRUCTURĂ S5 S.A",
+   "url": "https://sector5.ro/hotararea-nr-10-29-01-2025-privindmodificarea-actului-constitutiv-al-societatiiinfrastructura-s5-s-a/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/01/HCL-10-29.01.2025.pdf",
+     "sha256": "5985499c71bdb4e44f0568630b3dfc04229eff2c7fa57c6bcf99b92a41731859"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-100-2025",
+   "path": "local/bucuresti/sector-5/2025/100",
+   "short": "HCLS5 nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 100/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/07/HCL-100-16.07.2025.pdf",
+     "sha256": "7e9c77e7425dca3c691675e2ee45c180915663f2494ffe7a970ae00431ea49cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-101-2025",
+   "path": "local/bucuresti/sector-5/2025/101",
+   "short": "HCLS5 nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 101/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/07/HCL-101-16.07.2025.pdf",
+     "sha256": "da975ff75a61f6e66afd6ca8422f6bd7872d136fe38e80afa358af910dbad0e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-102-2025",
+   "path": "local/bucuresti/sector-5/2025/102",
+   "short": "HCLS5 nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 102/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/07/HCL-102-16.07.2025.pdf",
+     "sha256": "53f7729c26d8dc20ab0a97e535698d00409c91f0de6d2b2095c22119ad27e713"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-103-2025",
+   "path": "local/bucuresti/sector-5/2025/103",
+   "short": "HCLS5 nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 103/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-103-01.08.2025.pdf",
+     "sha256": "ca9cdbb76453b2e49ba19addf3d394015ae59d0a948cd9e9d882bc95d24b8583"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-104-2025",
+   "path": "local/bucuresti/sector-5/2025/104",
+   "short": "HCLS5 nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 104/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-104-22.08.2025.pdf",
+     "sha256": "a5fd053dcff51bade6aff93b5f41bb9c82ba98e1355bc47f9e0eac36414f52a5"
+    }
+   ]
+  },
+  {
    "slug": "hcls5-105-2025",
    "path": "local/bucuresti/sector-5/2025/105",
    "short": "HCLS5 nr. 105/2025",
@@ -14,6 +119,636 @@
      "units": 1,
      "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-105-22.08.2025.pdf",
      "sha256": "bdfa3c23dc66a850979e761f8e548233250dc6231e75cbf753dafc3b7638ebcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-106-2025",
+   "path": "local/bucuresti/sector-5/2025/106",
+   "short": "HCLS5 nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 106/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-106-22.08.2025.pdf",
+     "sha256": "44ad7e6d37fc759c5ddad536911a246853285b44580375eb25456e8f8169e627"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-107-2025",
+   "path": "local/bucuresti/sector-5/2025/107",
+   "short": "HCLS5 nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 107/2025 privind aprobarea Raportului final încheiat în baza Hotărârii Consiliului Local al Sectorului 5 nr. 88/30.06.2025și aprobarea funcționării formațiunilor de studiu de nivel antepreșcolar ale Școlii Gimnaziale Nr. 144 în sediul acesteia din Str. Floare de Gheață, nr. 1B, Sector 5, București",
+   "url": "https://sector5.ro/hotararea-nr-107-22-08-2025-privind-aprobarea-raportului-final-incheiat-in-baza-hotararii-consiliului-local-al-sectorului-5-nr-88-30-06-2025si-aprobarea-functionarii-formatiunilor-de-studiu-de-nivel/",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-107-22.08.2025.pdf",
+     "sha256": "19560907297ba4e7a5880a09b05ec5de529d868ad29de9268bb9d48388149c25"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-108-2025",
+   "path": "local/bucuresti/sector-5/2025/108",
+   "short": "HCLS5 nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 108/2025 pentru modificarea Hotărârii Consiliului Local al Sectorului 5 nr. 47/31.03.2025 privind aprobarea tipului de suport alimentar acordat elevilor Școlii Gimnaziale ”Petrache Poenaru”, Școlii Gimnaziale nr. 124 și Școlii Gimnaziale nr. 131 în cadrul Programului Național „Masă Sănătoasă”, precum și a valorii zilnice a acestuia cu modificările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-108-22-08-2025-pentru-modificarea-hotararii-consiliului-local-al-sectorului-5-nr-47-31-03-2025-privind-aprobarea-tipului-de-suport-alimentar-acordat-elevilor-scolii-gimnaziale/",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-108-22.08.2025.pdf",
+     "sha256": "16a4c4d444659b4a720ae17359fca652d5d61059357da5698c828c6aa588ac2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-109-2025",
+   "path": "local/bucuresti/sector-5/2025/109",
+   "short": "HCLS5 nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 109/2025 privind darea în folosință gratuită a spațiului situat la etajul cădirii din Str. Fabrica de Chibrituri, nr. 7-9, sector 5, București, către Grădinița Nr. 269, în anul școlar 2025-2026, până la finalizarea lucrărilor de reabilitare și consolidare a sediului din Str. Constantin Miculescu al unității",
+   "url": "https://sector5.ro/hotararea-nr-109-22-08-2025-privind-darea-in-folosinta-gratuita-a-spatiului-situat-la-etajul-cadirii-din-str-fabrica-de-chibrituri-nr-7-9-sector-5-bucuresti-catre-gradinita-nr-269-in-anul-sco/",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-109-22.08.2025.pdf",
+     "sha256": "c0759cef8e17be3b4c470865303bc857a1a77869292f4049d9f878a679925d18"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-11-2025",
+   "path": "local/bucuresti/sector-5/2025/11",
+   "short": "HCLS5 nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 11/2025 privindmodificarea Actului Constitutiv al societățiiAMENAJARE EDILITARĂ S5 S.A",
+   "url": "https://sector5.ro/hotararea-nr-11-29-01-2025-privindmodificarea-actului-constitutiv-al-societatiiamenajare-edilitara-s5-s-a/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/01/HCL-11-29.01.2025.pdf",
+     "sha256": "6e635e99a7a273e2b24081d066f10309e4d30127662ec98652522ee2576cf8d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-110-2025",
+   "path": "local/bucuresti/sector-5/2025/110",
+   "short": "HCLS5 nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 110/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-110-22.08.2025.pdf",
+     "sha256": "a17e9eb18931fbe91e587ac27f99ced5eeea3750204f03afb86aa285e36f376b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-111-2025",
+   "path": "local/bucuresti/sector-5/2025/111",
+   "short": "HCLS5 nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 111/2025 privind realizarea, în cadrul Școlii Gimnaziale Nr. 126, în anul școlar 2025 – 2026, a proiectului educațional Abilități de viață independentă (AVI)",
+   "url": "https://sector5.ro/hotararea-nr-111-22-08-2025-privind-realizarea-in-cadrul-scolii-gimnaziale-nr-126-in-anul-scolar-2025-2026-a-proiectului-educational-abilitati-de-viata-independenta-avi/",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-111-22.08.2025.pdf",
+     "sha256": "4ac0924175383bffa2cea8ad86f350f6c7de220e2286acc1dbb43c29ab1421b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-112-2025",
+   "path": "local/bucuresti/sector-5/2025/112",
+   "short": "HCLS5 nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 112/2025 pentru modificarea Hotărârii Consiliului Local al Sectorului 5 nr. 81/28.05.2025 privind aprobarea derulării și finanțării, din bugetul local al Sectorului 5, a proiectului Școala de vară în Sectorul 5, în perioada iulie – august 2025, cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-112-22-08-2025-pentru-modificarea-hotararii-consiliului-local-al-sectorului-5-nr-81-28-05-2025-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-5-a-proiectulu/",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-112-22.08.2025.pdf",
+     "sha256": "14106f8d03e438dc680210481a8c72d396c39fd051d2ad6cb3414082ef8e8d79"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-113-2025",
+   "path": "local/bucuresti/sector-5/2025/113",
+   "short": "HCLS5 nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 113/2025 privind realizarea, în cadrulȘcolii Gimnaziale Nr. 131, a proiectului Sunt special, dar vreau la școală!, în anul școlar 2025 – 2026",
+   "url": "https://sector5.ro/hotararea-nr-113-22-08-2025-privind-realizarea-in-cadrulscolii-gimnaziale-nr-131-a-proiectului-sunt-special-dar-vreau-la-scoala-in-anul-scolar-2025-2026/",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-113-22.08.2025.pdf",
+     "sha256": "e79a171366b3abb2bf1dda2d43d319c98b4ed4b257661144018bcbf705cedd65"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-114-2025",
+   "path": "local/bucuresti/sector-5/2025/114",
+   "short": "HCLS5 nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 114/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-114-22.08.2025.pdf",
+     "sha256": "3b8099761f6a10849151ae4b8318cef55b3377bb7fe13ba7933a0201e3ca3d23"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-115-2025",
+   "path": "local/bucuresti/sector-5/2025/115",
+   "short": "HCLS5 nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 115/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-115-22.08.2025.pdf",
+     "sha256": "50789a69a0ef919a5f2502a4ea8b1d4c85f81f990a7ecef89594331263a27f4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-116-2025",
+   "path": "local/bucuresti/sector-5/2025/116",
+   "short": "HCLS5 nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 116/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-116-22.08.2025.pdf",
+     "sha256": "16841b38cb23772911e74482fff9242680e0fc7cf508115c975bf674f1b4069c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-117-2025",
+   "path": "local/bucuresti/sector-5/2025/117",
+   "short": "HCLS5 nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 117/2025 privind solicitarea acordului Consiliului General al Municipiului București pentru împuternicirea expresă a Sectorului 5 al Municipiului București în vederea achiziţionării de locuinţe/ imobile de locuinţe de pe piaţa liberă, susceptibile rezolvării cererilor de atribuire depuse în baza Legii locuintei nr. 114/1996 şi a celorlalte acte normative în domeniul locativ",
+   "url": "https://sector5.ro/hotararea-nr-117-22-08-2025-privind-solicitarea-acordului-consiliului-general-al-municipiului-bucuresti-pentru-imputernicirea-expresa-a-sectorului-5-al-municipiului-bucuresti-in-vederea-achizit/",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-117-22.08.2025.pdf",
+     "sha256": "2da4740a9e352e765dfc5f79c180aa8d0ee56da9c87741377660e1e6f25ae36f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-118-2025",
+   "path": "local/bucuresti/sector-5/2025/118",
+   "short": "HCLS5 nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 118/2025 privind aprobarea depunerii spre finanțare de către Direcția Generală de Asistență Socială și Protecția Copilului Sector 5 a unui proiect în cadrul Programului Incluziune și Demnitate Socială 2021 – 2027 Prioritate: P07. Sprijin pentru persoanele cu dizabilități, Apelul de proiecte „Servicii de îngrijire de zi – terapii psihologice pentru copiii cu dizabilități”/ Titlul proiectului: ,,SMART KIDS – Servicii Multisenzoriale pentru Abilitare și Reabilitare a Copiilor cu Dizabilități”",
+   "url": "https://sector5.ro/hotararea-nr-118-22-08-2025-privind-aprobarea-depunerii-spre-finantare-de-catre-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-5-a-unui-proiect-in-cadrul-programului-inclu/",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-118-22.08.2025.pdf",
+     "sha256": "46d64ec87f86040e7ce0314a806f2f60de0568fec940050acaa6df996712dac5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-119-2025",
+   "path": "local/bucuresti/sector-5/2025/119",
+   "short": "HCLS5 nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 119/2025 privind aprobarea depunerii spre finanțare de către Direcția Generală de Asistență Socială și Protecția Copilului Sector 5 a unui proiect în cadrul Programului Incluziune și Demnitate Socială 2021 – 2027 Prioritate: P07. Sprijin pentru persoanele cu dizabilități, Apelul de proiecte „Servicii de îngrijire de zi – terapii psihologice pentru copiii cu dizabilități”/ Titlul proiectului: ,,CRESC – Servicii Inovative de Reabilitare, Educație și Suport pentru Copiii cu Dizabilități din Sectorul 5”",
+   "url": "https://sector5.ro/hotararea-nr-119-22-08-2025-privind-aprobarea-depunerii-spre-finantare-de-catre-directia-generala-de-asistenta-sociala-si-protectia-copilului-sector-5-a-unui-proiect-in-cadrul-programului-incluziune/",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-119-22.08.2025.pdf",
+     "sha256": "59fd3aa41e82d3dcc8ad8db3e89093d9f9409ae26286436183a82476e001e9e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-12-2025",
+   "path": "local/bucuresti/sector-5/2025/12",
+   "short": "HCLS5 nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 12/2025 privind modificarea componenței Comisiei de Evaluare a Persoanelor Adulte cu Handicap Sector 5",
+   "url": "https://sector5.ro/hotararea-nr-12-29-01-2025-privind-modificarea-componentei-comisiei-de-evaluare-a-persoanelor-adulte-cu-handicap-sector-5/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/01/HCL-12-29.01.2025.pdf",
+     "sha256": "b8bc891437c121b6ef81692009e279a33ec755240d51c1d98de65650844fad16"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-120-2025",
+   "path": "local/bucuresti/sector-5/2025/120",
+   "short": "HCLS5 nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 120/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-120-22.08.2025.pdf",
+     "sha256": "9326884d0162f0341375f91be7175388f587ed3581af550b5bfc521595ee1ede"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-121-2025",
+   "path": "local/bucuresti/sector-5/2025/121",
+   "short": "HCLS5 nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 121/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-121-22.08.2025.pdf",
+     "sha256": "5567f7504f2cd3d6c159e7f3dcb2f0ed2dbbdc8935483d0360bcff4404c256ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-122-2025",
+   "path": "local/bucuresti/sector-5/2025/122",
+   "short": "HCLS5 nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 122/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-122-22.08.2025.pdf",
+     "sha256": "98ddc3b6d159f07ec6cb0c4b879f22762729184f7d0a26262415f31c5472c315"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-123-2025",
+   "path": "local/bucuresti/sector-5/2025/123",
+   "short": "HCLS5 nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 123/2025 privind solicitarea Consiliului General al Municipiului București de transmitere din administrarea Administrației Lacuri, Parcuri și Agrement București în administrarea Consiliului Local al Sectorului 5 al Municipiului București a Parcului Izvor, în totalitate, având CF 217600, imobil aflat în proprietatea publică a Municipiului București, în vederea reabilitării și modernizării",
+   "url": "https://sector5.ro/hotararea-nr-123-22-08-2025-privind-solicitarea-consiliului-general-al-municipiului-bucuresti-de-transmitere-din-administrarea-administratiei-lacuri-parcuri-si-agrement-bucuresti-in-administrarea-co/",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/08/HCL-nr.-123-22.08.2025.pdf",
+     "sha256": "82bcf55d2b57455ae6e404146e77c8a6bc1fe1307f359989a8bcd24dcaf8c3bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-124-2025",
+   "path": "local/bucuresti/sector-5/2025/124",
+   "short": "HCLS5 nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 124/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/09/HCL-nr.-124-08.09.2025.pdf",
+     "sha256": "22795e28087e778c0a42bb6948529ffff6b5b59b32f5d3def8dfe25741f03f08"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-125-2025",
+   "path": "local/bucuresti/sector-5/2025/125",
+   "short": "HCLS5 nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 125/2025 privind aprobarea finanțării, din bugetul local, a programului Școală după școală organizat de unitățile de învățământ preuniversitar de stat din Sectorul 5 în anul școlar 2025-2026",
+   "url": "https://sector5.ro/hotararea-nr-125-08-09-2025-privind-aprobarea-finantarii-din-bugetul-local-a-programului-scoala-dupa-scoala-organizat-de-unitatile-de-invatamant-preuniversitar-de-stat-din-sectorul-5-in-anul-scolar/",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/09/HCL-nr.-125-08.09.2025.pdf",
+     "sha256": "0c785cdc711b7166a61a9f37d7d3e0662ae479258f0021d950469ff498071a20"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-126-2025",
+   "path": "local/bucuresti/sector-5/2025/126",
+   "short": "HCLS5 nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 126/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/09/HCL-nr.-126-08.09.2025.pdf",
+     "sha256": "01790b4366b9a37304f43afc2c45fb48b0dbf85fa5fd75cf40cffe858476e4f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-127-2025",
+   "path": "local/bucuresti/sector-5/2025/127",
+   "short": "HCLS5 nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 127/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-127-30.09.2025.pdf",
+     "sha256": "5c3fd9d3e2d92332af7ca59bae66eeb45a1cd98203e7aebc4c66e283cc88d90f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-128-2025",
+   "path": "local/bucuresti/sector-5/2025/128",
+   "short": "HCLS5 nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 128/2025 privind preluarea execuțiilor bugetare ale unităților de învățământ preuniversitar de stat reorganizate conform Ordinului Ministrului Educației și Cercetării nr. 5599 / 25.08.2025 privind reorganizarea unităților de învățământ preuniversitar de stat din Sectorul 5, Municipiul București",
+   "url": "https://sector5.ro/hotararea-nr-128-30-09-2025-privind-preluarea-executiilor-bugetare-ale-unitatilor-de-invatamant-preuniversitar-de-stat-reorganizate-conform-ordinului-ministrului-educatiei-si-cercetarii-nr-5599-25/",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-128-30.09.2025.pdf",
+     "sha256": "49a23e459654b03411d7b278eb5cce058152eb2f1521caec3aa9850b9996f4df"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-129-2025",
+   "path": "local/bucuresti/sector-5/2025/129",
+   "short": "HCLS5 nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 129/2025 pentru modificarea Hotărârii Consiliului Local al Sectorului 5 nr. 125/08.09.2025 privind aprobarea finanțării, din bugetul local, a programului Școală după școală organizat de unitățile de învățământ preuniversitar de stat din Sectorul 5 în anul școlar 2025-2026",
+   "url": "https://sector5.ro/hotararea-nr-129-30-09-2025-pentru-modificarea-hotararii-consiliului-local-al-sectorului-5-nr-125-08-09-2025-privind-aprobarea-finantarii-din-bugetul-local-a-programului-scoala-dupa-scoala-organiz/",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-129-30.09.2025.pdf",
+     "sha256": "7a0977a2dfc00f320f9e03346764415c8a35929f723ba1b7cf11f379a90e6375"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-13-2025",
+   "path": "local/bucuresti/sector-5/2025/13",
+   "short": "HCLS5 nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 13/2025 privind realizarea proiectului educațional Acces la educație pentru copiii din grupurile vulnerabile, în cadrul Școlii Gimnaziale Nr.127, în perioada februarie-august 2025",
+   "url": "https://sector5.ro/hotararea-nr-13-29-01-2025-privind-realizarea-proiectului-educational-acces-la-educatie-pentru-copiii-din-grupurile-vulnerabile-in-cadrul-scolii-gimnaziale-nr-127-in-perioada-februarie-august-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/01/HCL-13-29.01.2025.pdf",
+     "sha256": "be4c17ca81c3394d01c5e9ed0447fe8b380030ac87db593bbeed49dfa8b7f33e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-130-2025",
+   "path": "local/bucuresti/sector-5/2025/130",
+   "short": "HCLS5 nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 130/2025 pentru completarea art. 1 al Hotărârii Consiliului Local al Sectorului 5 nr. 47/31.03.2025 privind aprobarea tipului de suport alimentar acordat elevilor Şcolii Gimnaziale „Petrache Poenaru”, Școlii Gimnaziale Nr. 124 și Școlii Gimnaziale Nr. 131 în cadrul Programului național „Masă Sănătoasă”, precum și a valorii zilnice a acestuia, cu modificările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-130-30-09-2025-pentru-completarea-art-1-al-hotararii-consiliului-local-al-sectorului-5-nr-47-31-03-2025-privind-aprobarea-tipului-de-suport-alimentar-acordat-elevilor-scolii-gimnaziale/",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-130-30.09.2025.pdf",
+     "sha256": "eaa41593dfac788e4780705ed3e888c7fc55f3009666874885733612dba6c5e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-131-2025",
+   "path": "local/bucuresti/sector-5/2025/131",
+   "short": "HCLS5 nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 131/2025 pentru modificarea Hotărârii Consiliului Local al Sectorului 5 nr. 140/26.09.2024 privind aprobarea derulării și finanțării, din bugetul local al Sectorului 5, a proiectului Elevi și profesori de nota 10 în Sectorul 5, ediția 2024",
+   "url": "https://sector5.ro/hotararea-nr-131-30-09-2025-pentru-modificarea-hotararii-consiliului-local-al-sectorului-5-nr-140-26-09-2024-privind-aprobarea-derularii-si-finantarii-din-bugetul-local-al-sectorului-5-a-proiectul/",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-131-30.09.2025.pdf",
+     "sha256": "7017568aea5517ac03aeadc1de22de28aa7bcb7b56ebc9a293c5499cf12faf0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-132-2025",
+   "path": "local/bucuresti/sector-5/2025/132",
+   "short": "HCLS5 nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 132/2025 privind aprobarea derulării și finanțării, din bugetul propriu al Direcției de Administrare a Unităților de Învățământ Sector 5, a proiectului Elevi și profesori de nota 10 în Sectorul 5, ediția 2025",
+   "url": "https://sector5.ro/hotararea-nr-132-30-09-2025-privind-aprobarea-derularii-si-finantarii-din-bugetul-propriu-al-directiei-de-administrare-a-unitatilor-de-invatamant-sector-5-a-proiectului-elevi-si-profesori-de-nota-1/",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-132-30.09.2025.pdf",
+     "sha256": "8146bd63520b57965f52553d8e9445637381f4f990a645925a1e54416c3e1e73"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-133-2025",
+   "path": "local/bucuresti/sector-5/2025/133",
+   "short": "HCLS5 nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 133/2025 privind susținerea Liceului Teoretic Dimitrie Bolintineanu, în vederea participării reprezentanților acestuia la Festivalul Internațional Zilele teatrale ale orașului Piano di Sorrento, ediția 2026",
+   "url": "https://sector5.ro/hotararea-nr-133-30-09-2025-privind-sustinerea-liceului-teoretic-dimitrie-bolintineanu-in-vederea-participarii-reprezentantilor-acestuia-la-festivalul-international-zilele-teatrale-ale-orasului-pian/",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-133-30.09.2025.pdf",
+     "sha256": "3d835f68e5c09f6fbc52576299dd729571566704fb51fab3219c71916f0b62ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-134-2025",
+   "path": "local/bucuresti/sector-5/2025/134",
+   "short": "HCLS5 nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 134/2025 privind numirea consilierilor locali din cadrul Consiliului Local al Sectorului 5 în calitate de membri în consiliile de administrație ale unităților de învățământ preuniversitar de stat și particular și ale unităților de educație extrașcolară din Sectorul 5, în anul școlar 2025 – 2026",
+   "url": "https://sector5.ro/hotararea-nr-134-30-09-2025-privind-numirea-consilierilor-locali-din-cadrul-consiliului-local-al-sectorului-5-in-calitate-de-membri-in-consiliile-de-administratie-ale-unitatilor-de-invatamant-preuniv/",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-134-30.09.2025.pdf",
+     "sha256": "e0aaea1f59cf4f7c38d4d466faeaadd0bbd9601f07c0fd3eec2488098c3f60b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-135-2025",
+   "path": "local/bucuresti/sector-5/2025/135",
+   "short": "HCLS5 nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 135/2025 privind numirea consilierilor locali din cadrul Consiliului Local al Sectorului 5 în calitate de membri în comisiile pentru evaluarea şi asigurarea calităţii educaţiei din unitățile de învățământ preuniversitar de stat și particular și din unitățile de educație extrașcolară din Sectorul 5, în anul școlar 2025 – 2026",
+   "url": "https://sector5.ro/hotararea-nr-135-30-09-2025-privind-numirea-consilierilor-locali-din-cadrul-consiliului-local-al-sectorului-5-in-calitate-de-membri-in-comisiile-pentru-evaluarea-si-asigurarea-calitatii-educatiei-din/",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-135-30.09.2025.pdf",
+     "sha256": "2007f34da60e526d85f16263c1fc7895f36eafe321cc00a4310cd710f52458e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-136-2025",
+   "path": "local/bucuresti/sector-5/2025/136",
+   "short": "HCLS5 nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 136/2025 privind modificarea Actului Constitutiv al societății INFRASTRUCTURA S5 S.A",
+   "url": "https://sector5.ro/hotararea-nr-136-30-09-2025-privind-modificarea-actului-constitutiv-al-societatii-infrastructura-s5-s-a/",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-136-30.09.2025.pdf",
+     "sha256": "4cef7a3584766a9e7b5d57a81f85a4cdbe716a4a3e34b842c3ef84a986118d4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-137-2025",
+   "path": "local/bucuresti/sector-5/2025/137",
+   "short": "HCLS5 nr. 137/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 137/2025 privind aprobarea achiziționării prin leasing operațional a 3 (trei) autovehicule utilitare de către Administrația Dezvoltare Urbană Sector 5, instituție publică aflată în subordinea Consiliului Local al Sectorului",
+   "url": "https://sector5.ro/hotararea-nr-137-30-09-2025-privind-aprobarea-achizitionarii-prin-leasing-operational-a-3-trei-autovehicule-utilitare-de-catre-administratia-dezvoltare-urbana-sector-5-institutie-publica-afl/",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-137-30.09.2025.pdf",
+     "sha256": "525758c65a8dfe3a4201b71cf5b24a0cfe009d0f802b93bd28e6712c31fdafeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-138-2025",
+   "path": "local/bucuresti/sector-5/2025/138",
+   "short": "HCLS5 nr. 138/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 138/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-138-30.09.2025.pdf",
+     "sha256": "335c3ff1c2db09015770f6fca14092e27297fea62bc2ed712a58c17bd7020ef5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-139-2025",
+   "path": "local/bucuresti/sector-5/2025/139",
+   "short": "HCLS5 nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 139/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-139-30.09.2025.pdf",
+     "sha256": "bbdfdb8b1f94f2125fcbf67738a240cc5d5c078704098e0d6aef84210c6a017f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-14-2025",
+   "path": "local/bucuresti/sector-5/2025/14",
+   "short": "HCLS5 nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 14/2025 pentru abrogarea Hotărârii Consiliului Local al Sectorului 5 nr. 59/07.04.2022 privind susținerea copiilor refugiaților de război, inclusiv a familiilor acestora, ce sunt încadrați în unitățile de învățământ preșcolar, gimnazial și preuniversitar de pe raza Sectorului 5 al municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-14-29-01-2025-pentru-abrogarea-hotararii-consiliului-local-al-sectorului-5-nr-59-07-04-2022-privind-sustinerea-copiilor-refugiatilor-de-razboi-inclusiv-a-familiilor-acestora-ce-sunt-i/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/01/HCL-14-29.01.2025.pdf",
+     "sha256": "2c02c3de4b815a65ebe10dead28e9154a341b0fb3562d7981bb4558cc1c5578b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-140-2025",
+   "path": "local/bucuresti/sector-5/2025/140",
+   "short": "HCLS5 nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 140/2025 privind aprobarea Planului de Analiză și Acoperire a Riscurilor la nivelul Sectorului 5 al Municipiului București pentru anul 2025",
+   "url": "https://sector5.ro/hotararea-nr-140-30-09-2025-privind-aprobarea-planului-de-analiza-si-acoperire-a-riscurilor-la-nivelul-sectorului-5-al-municipiului-bucuresti-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-140-30.09.2025.pdf",
+     "sha256": "16cec8329f183b9fcd21d67dff9ae30d9f1c6b167b4ce8cbb69b53137d98aa1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-141-2025",
+   "path": "local/bucuresti/sector-5/2025/141",
+   "short": "HCLS5 nr. 141/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 141/2025 privind aprobarea Planului de asigurare cu resurse umane, materiale și financiare necesare gestionării situațiilor de urgență pentru anul 2025",
+   "url": "https://sector5.ro/hotararea-nr-141-30-09-2025-privind-aprobarea-planului-de-asigurare-cu-resurse-umane-materiale-si-financiare-necesare-gestionarii-situatiilor-de-urgenta-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-141-30.09.2025.pdf",
+     "sha256": "c3ad2f4897f7fd21a6e468c669b9513147fcf88a31899a7285178268399f84b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-142-2025",
+   "path": "local/bucuresti/sector-5/2025/142",
+   "short": "HCLS5 nr. 142/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 142/2025 privind rectificarea Bugetului de Venituri și Cheltuieli pe anul 2025 al Sectorului 5 al Municipiului București aprobat prin H.C.L Sector 5 nr. 38/31.03.2025, cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-142-17-10-2025-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2025-al-sectorului-5-al-municipiului-bucuresti-aprobat-prin-h-c-l-sector-5-nr-38-31-03-2025-cu-modificar/",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-142-17.10.2025.pdf",
+     "sha256": "cf164a733bc38202a1aff35f6df0c8ba177fd5c07b5d80cc9edb09719195d549"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-143-2025",
+   "path": "local/bucuresti/sector-5/2025/143",
+   "short": "HCLS5 nr. 143/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 143/2025 pentru modificarea Hotărârii Consiliului Local al Sectorului 5 nr. 125/08.09.2025 privind aprobarea finanțării, din bugetul local, a programului Școală după școală organizat de unitățile de învățământ preuniversitar de stat din Sectorul 5 în anul școlar 2025-2026, cu modificările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-143-23-10-2025-pentru-modificarea-hotararii-consiliului-local-al-sectorului-5-nr-125-08-09-2025-privind-aprobarea-finantarii-din-bugetul-local-a-programului-scoala-dupa-scoala-organiz/",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-nr.-143-din-23.10.2025.pdf",
+     "sha256": "45091b5913bfe8cdac8430edc326e6c5cc06ed45e9ecf707e271b25599fe1a42"
     }
    ]
   },
@@ -33,6 +768,336 @@
    ]
   },
   {
+   "slug": "hcls5-145-2025",
+   "path": "local/bucuresti/sector-5/2025/145",
+   "short": "HCLS5 nr. 145/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 145/2025 privind solicitarea către Consiliul General al Municipiului București pentru împuternicirea Sectorului 5 al Municipiului București în vederea emiterii documentelor prevăzute în Anexele 26 și 27 din Ordinul nr. 600/2023 emis de Agenția Națională de Cadastru și Publicitate Imobiliară, privind aprobarea Regulamentului de recepție și înscriere în evidențele de cadastru și carte funciară",
+   "url": "https://sector5.ro/hotararea-nr-145-23-10-2025-privind-solicitarea-catre-consiliul-general-al-municipiului-bucuresti-pentru-imputernicirea-sectorului-5-al-municipiului-bucuresti-in-vederea-emiterii-documentelor-prevazu/",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-nr.-145-din-23.10.2025.pdf",
+     "sha256": "02a0cd4f1ed935892743a503194bb518257b7c4797d6d1431912096bde2b71e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-146-2025",
+   "path": "local/bucuresti/sector-5/2025/146",
+   "short": "HCLS5 nr. 146/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 146/2025 privind desemnarea consilierilor locali care vor face parte din Comisia pentru vânzarea spațiilor comerciale sau de prestări servicii, constituită în baza Legii nr. 550/2002, cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-146-23-10-2025-privind-desemnarea-consilierilor-locali-care-vor-face-parte-din-comisia-pentru-vanzarea-spatiilor-comerciale-sau-de-prestari-servicii-constituita-in-baza-legii-nr-550-20/",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-nr.-146-din-23.10.2025.pdf",
+     "sha256": "6d7f02b026995002f61a9bd02ec946e1dce5b6059c675e75a12bd87bfe923114"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-147-2025",
+   "path": "local/bucuresti/sector-5/2025/147",
+   "short": "HCLS5 nr. 147/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 147/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-nr.-147-din-23.10.2025.pdf",
+     "sha256": "8d422a1cef7976c74683ac15f9fddf3348ea68fbc765aafcb0653e35a5fb5270"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-148-2025",
+   "path": "local/bucuresti/sector-5/2025/148",
+   "short": "HCLS5 nr. 148/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 148/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-nr.-148-din-23.10.2025.pdf",
+     "sha256": "75e05df9d0d45b1a7184aa84dca8de5e3c1942319a7633f854849abb7fec31c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-149-2025",
+   "path": "local/bucuresti/sector-5/2025/149",
+   "short": "HCLS5 nr. 149/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 149/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-nr.-149-din-23.10.2025.pdf",
+     "sha256": "f80bc542875885d00c1e2e56f602ffefe9ba174feecc9d5c5c4fbf515a6a4db4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-15-2025",
+   "path": "local/bucuresti/sector-5/2025/15",
+   "short": "HCLS5 nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 15/2025 pentru completarea Hotărârii Consiliului Local al Sectorului 5 nr. 97/30.08.2024 privind aprobarea înființării Direcției de Administrare a Unităților de Învățământ Sector 5 ca serviciu public de interes local cu personalitate juridică în subordinea Consiliului Local al Sectorului 5, cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-15-29-01-2025-pentru-completarea-hotararii-consiliului-local-al-sectorului-5-nr-97-30-08-2024-privind-aprobarea-infiintarii-directiei-de-administrare-a-unitatilor-de-invatamant-sector-5/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/01/HCL-15-29.01.2025.pdf",
+     "sha256": "a42e90da1e36d6364b2f17289f4a664320bef573cb8f4b178c8eb6953696f73e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-150-2025",
+   "path": "local/bucuresti/sector-5/2025/150",
+   "short": "HCLS5 nr. 150/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 150/2025 privind acordarea unui beneficiu social, de la bugetul local al Sectorului 5, cu titlul de sprijin financiar pentru persoanele vulnerabile în vederea acoperirii unei părți din costul facturilor la energia electrică",
+   "url": "https://sector5.ro/hotararea-nr-150-23-10-2025-privind-acordarea-unui-beneficiu-social-de-la-bugetul-local-al-sectorului-5-cu-titlul-de-sprijin-financiar-pentru-persoanele-vulnerabile-in-vederea-acoperirii-unei-parti/",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-nr.-150-din-23.10.2025.pdf",
+     "sha256": "2e214b4cac9b9ac4030a10cd570d00d3ddf7faa65214fbc7734d76165864198a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-151-2025",
+   "path": "local/bucuresti/sector-5/2025/151",
+   "short": "HCLS5 nr. 151/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 151/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-nr.-151-din-23.10.2025.pdf",
+     "sha256": "c2ba0d3388a1bdd97837a81a8bfdae1f6733c67f3e577c978e58883a8e3fd4f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-152-2025",
+   "path": "local/bucuresti/sector-5/2025/152",
+   "short": "HCLS5 nr. 152/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 152/2025 privind rectificarea Bugetului de Venituri și Cheltuieli pe anul 2025 al Sectorului 5 al Municipiului București aprobat prin H.C.L Sector 5 nr. 38 / 31.03.2025 cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-152-23-10-2025-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2025-al-sectorului-5-al-municipiului-bucuresti-aprobat-prin-h-c-l-sector-5-nr-38-31-03-2025-cu-modifica/",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-nr.-152-din-23.10.2025.pdf",
+     "sha256": "b0af68a5326b373a880a8a2f0de50dd8f14365367eb714341613bace2a317eb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-153-2025",
+   "path": "local/bucuresti/sector-5/2025/153",
+   "short": "HCLS5 nr. 153/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 153/2025 privind solicitarea către Consiliul General al Municipiului București în vederea aprobării încheierii unui protocol de colaborare între Sectorul 5 al Municipiului București cu Administrația Lacuri, Parcuri și Agrement București, privind amenajarea / reamenajarea, întreținerea și modernizarea spațiilor verzi, aflate pe raza administrativ teritorială a Sectorului 5, administrate de către A.L.P.A.B, conform H.C.G.M.B nr.124/2010 privind trasmiterea unor terenuri cu destinația de spații verzi din administrarea Consiliului Local al Sectorului 5 în administrarea A.L.P.A.B",
+   "url": "https://sector5.ro/hotararea-nr-153-23-10-2025-privind-solicitarea-catre-consiliul-general-al-municipiului-bucuresti-in-vederea-aprobarii-incheierii-unui-protocol-de-colaborare-intre-sectorul-5-al-municipiului-bucurest/",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/10/HCL-nr.-153-din-23.10.2025.pdf",
+     "sha256": "8c5fbfb1bfe4342746edc4d44dcce3924934c66d190bb3e90900ed750d377398"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-154-2025",
+   "path": "local/bucuresti/sector-5/2025/154",
+   "short": "HCLS5 nr. 154/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 154/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-154-din-26.11.2025.pdf",
+     "sha256": "5205dbaef3c5b89c46f05fb21a9b1a300f2f0a9b9fde2c68ed3c381417444f4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-155-2025",
+   "path": "local/bucuresti/sector-5/2025/155",
+   "short": "HCLS5 nr. 155/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 155/2025 privind rectificarea Bugetului de Venituri și Cheltuieli pe anul 2025 al Sectorului 5 al Municipiului București aprobat prin H.C.L Sector 5 nr. 38 / 31.03.2025 cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-155-26-11-2025-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2025-al-sectorului-5-al-municipiului-bucuresti-aprobat-prin-h-c-l-sector-5-nr-38-31-03-2025-cu-modifica/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-155-din-26.11.-2025.pdf",
+     "sha256": "d6470a8f689e84c39bb5ac63ba52ec2f2c40b198b63fb4199962428664118051"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-156-2025",
+   "path": "local/bucuresti/sector-5/2025/156",
+   "short": "HCLS5 nr. 156/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 156/2025 privind actualizarea indicatorilor tehnico-economici la faza Proiect Tehnic și Detalii de Execuție, ai proiectului ”Locuințe nZeb pentru tineri în Sectorul 5, al Municipiului București”, finanțat prin Planul Național de Redresare și Reziliență (PNRR), Componenta C10 – Fondul Local",
+   "url": "https://sector5.ro/hotararea-nr-156-26-11-2025-privind-actualizarea-indicatorilor-tehnico-economici-la-faza-proiect-tehnic-si-detalii-de-executie-ai-proiectului-locuinte-nzeb-pentru-tineri-in-sectorul-5-al-m/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-156-din-26.11.2025.pdf",
+     "sha256": "62292436857779b06d0a165f1e7fda3a0d6a6ac6420d4897701fe1207c45c386"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-157-2025",
+   "path": "local/bucuresti/sector-5/2025/157",
+   "short": "HCLS5 nr. 157/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 157/2025 privind aprobarea preluării de către Consiliul Local al Sectorului 5 a competențelor Consiliului General al Municipiului București în vederea organizării unor activități componente ale serviciului de salubrizare a deșeurilor municipale și a deșeurilor similare pe raza administrativ-teritorială a Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-157-26-11-2025-privind-aprobarea-preluarii-de-catre-consiliul-local-al-sectorului-5-a-competentelor-consiliului-general-al-municipiului-bucuresti-in-vederea-organizarii-unor-activitati-c/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-157-din-26.11.2025.pdf",
+     "sha256": "2e18173be5e30960aded32a5835d1714a8356bdcf2d614ba7d2d9b2b743e9a56"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-158-2025",
+   "path": "local/bucuresti/sector-5/2025/158",
+   "short": "HCLS5 nr. 158/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 158/2025 privind acordarea unor mandate către Asociația de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor Municipale din Municipiul București (ADIGIDMB), în vederea organizării unor activități componente ale serviciului de salubrizare a deșeurilor municipale și a deșeurilor similare pe raza administrativ-teritorială a Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-158-26-11-2025-privind-acordarea-unor-mandate-catre-asociatia-de-dezvoltare-intercomunitara-pentru-gestionarea-integrata-a-deseurilor-municipale-din-municipiul-bucuresti-adigidmb-in-v/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-158-din-26.11.2025.pdf",
+     "sha256": "7ab9c2efec17a0301a3689b8c9beb4efb03d6565df21512b55c2120361329278"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-159-2025",
+   "path": "local/bucuresti/sector-5/2025/159",
+   "short": "HCLS5 nr. 159/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 159/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-159-din-26.11.2025.pdf",
+     "sha256": "e26a833b02616a528e640282c85e2fa0cc66524b02bfa54a5b651f4265ab3bd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-16-2025",
+   "path": "local/bucuresti/sector-5/2025/16",
+   "short": "HCLS5 nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 16/2025 privind aprobarea folosirii 100% a veniturilor proprii rezultate din prestări servicii medicale de către Complexul Multifuncțional ”Sf. Andrei”",
+   "url": "https://sector5.ro/hotararea-nr-16-29-01-2025-privind-aprobarea-folosirii-100-a-veniturilor-proprii-rezultate-din-prestari-servicii-medicale-de-catre-complexul-multifunctional-sf-andrei/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/01/HCL-16-29.01.2025.pdf",
+     "sha256": "afda1f2bbaa0e1374d18211cda855f5f6e0307a20bc96ea413b87974d71de5e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-160-2025",
+   "path": "local/bucuresti/sector-5/2025/160",
+   "short": "HCLS5 nr. 160/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 160/2025 privind solicitarea către Consiliul General al Municipiului București pentru transmiterea în administrarea Consiliului Local al Sectorului 5 al Municipiului București, a imobilului delimitat de strada Progresului (arteră principală), strada Năsăud, strada Zaharia Carcalechi și strada Surugilor, având Cărțile Funciare: nr. 206263, nr. 205083, nr. 206221, nr. 205403, nr. 205404, nr. 205815,pentru amenajare loc de recreere",
+   "url": "https://sector5.ro/hotararea-nr-160-26-11-2025-privind-solicitarea-catre-consiliul-general-al-municipiului-bucuresti-pentru-transmiterea-in-administrarea-consiliului-local-al-sectorului-5-al-municipiului-bucurest/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-160-din-26.11.2025.pdf",
+     "sha256": "95fcc7f72204a72db6472b99ff097559d0415bf0bb63982ccc830025edf9342e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-161-2025",
+   "path": "local/bucuresti/sector-5/2025/161",
+   "short": "HCLS5 nr. 161/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 161/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-161-din-26.11.2025.pdf",
+     "sha256": "74cc72810a9f7ec3fd32067e0a08e3f7f8be226a0f3752938158e0c18fb8afd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-162-2025",
+   "path": "local/bucuresti/sector-5/2025/162",
+   "short": "HCLS5 nr. 162/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 162/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-162-din-26.11.2025.pdf",
+     "sha256": "d10fac2a51cd97668c5cdadf47160d5356175b319d373ebc763cd474934d7e42"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-163-2025",
+   "path": "local/bucuresti/sector-5/2025/163",
+   "short": "HCLS5 nr. 163/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 163/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-163-din-26.11.2025.pdf",
+     "sha256": "cf379def7b4c9cc45644e8dc691f2bc899b2fd77b2e193ad5805f49fdfab15b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-164-2025",
+   "path": "local/bucuresti/sector-5/2025/164",
+   "short": "HCLS5 nr. 164/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 164/2025 pentru modificarea și completarea Hotărârii Consiliului Local Sector 5 nr. 153/23.10.2025 privind solicitarea către Consiliul General al Municipiului București în vederea aprobării încheierii unui protocol de colaborare între Sectorul 5 al Municipiului București cu Administrația Lacuri, Parcuri și Agrement București, privind amenajarea / reamenajarea, întreținerea și modernizarea spațiilor verzi, aflate pe raza administrativ teritorială a Sectorului 5, administrate de către A.L.P.A.B, conform H.C.G.M.B nr. 124/2010 privind trasmiterea unor terenuri cu destinația de spații verzi din administrarea Consiliului Local al Sectorului 5 în administrarea A.L.P.A.B",
+   "url": "https://sector5.ro/hotararea-nr-164-26-11-2025-pentru-modificarea-si-completarea-hotararii-consiliului-local-sector-5-nr-153-23-10-2025-privind-solicitarea-catre-consiliul-general-al-municipiului-bucuresti-in-vederea/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-164-din-26.11.2025.pdf",
+     "sha256": "cf56fe66c6ed89f3057ce7545e1f9a7c31613a71ac9922e953ae2c4a0ceaa239"
+    }
+   ]
+  },
+  {
    "slug": "hcls5-165-2025",
    "path": "local/bucuresti/sector-5/2025/165",
    "short": "HCLS5 nr. 165/2025",
@@ -44,6 +1109,471 @@
      "units": 1,
      "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-165-din-26.11.2025.pdf",
      "sha256": "fa4a0cd5bfadb4f1e835d612e3483e7e3d9ba287bd47e5ad53167e8a7cc62f2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-166-2025",
+   "path": "local/bucuresti/sector-5/2025/166",
+   "short": "HCLS5 nr. 166/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 166/2025 privind solicitarea către Consiliul General al Municipiului București de a stabili cota-parte cuvenită bugetului local al Municipiului București, respectiv bugetului local al Sectorului 5, provenind din închirierea spațiilor excedentare din unitățile de învățământ preuniversitar de stat din Sectorul 5",
+   "url": "https://sector5.ro/hotararea-nr-166-26-11-2025-privind-solicitarea-catre-consiliul-general-al-municipiului-bucuresti-de-a-stabili-cota-parte-cuvenita-bugetului-local-al-municipiului-bucuresti-respectiv-bugetului-local/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-166-din-26.11.2025.pdf",
+     "sha256": "f4ee3d95531f6f11481fb2c18594aa1fef4c0d8e7ed29af92b96a8e056f49622"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-167-2025",
+   "path": "local/bucuresti/sector-5/2025/167",
+   "short": "HCLS5 nr. 167/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 167/2025 privind schimbarea destinației unei părți a bazei materiale a Colegiului Național ,,Gheorghe Lazăr”, situat în Bd. Regina Elisabeta, nr. 48, Sector 5, București",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-167-din-26.11.2025.pdf",
+     "sha256": "d2cd36d1c795b4bf1affb3269f7774f37edd5ccbe3783d66ae08684dea55e72b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-168-2025",
+   "path": "local/bucuresti/sector-5/2025/168",
+   "short": "HCLS5 nr. 168/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 168/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-168-din-26.11.2025.pdf",
+     "sha256": "788ee2b3e14d00b7523125ec8b571445f3ff8ba5675c5df38df1f353c17fee14"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-169-2025",
+   "path": "local/bucuresti/sector-5/2025/169",
+   "short": "HCLS5 nr. 169/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 169/2025 privind schimbarea destinației unei părți a bazei materiale a Liceului Tehnologic „Dimitrie Gusti”, situată în Str. Samuil Vulcan, nr. 8, Sector 5, București",
+   "url": "https://sector5.ro/hotararea-nr-169-26-11-2025-privind-schimbarea-destinatiei-unei-parti-a-bazei-materiale-a-liceului-tehnologic-dimitrie-gusti-situata-in-str-samuil-vulcan-nr-8-sector-5-bucures/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-169-din-26.11.2025.pdf",
+     "sha256": "0169f9a5fc2facee9a3f813f1c8ba61cff703e25002ecc41b3bae142e22fd1b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-17-2025",
+   "path": "local/bucuresti/sector-5/2025/17",
+   "short": "HCLS5 nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 17/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/01/HCL-17-29.01.2025.pdf",
+     "sha256": "81af5ec2c1a62de708fb410aeacd7aa6b4e199345a73ffda388b8521220454d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-170-2025",
+   "path": "local/bucuresti/sector-5/2025/170",
+   "short": "HCLS5 nr. 170/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 170/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-170-din-26.11.2025.pdf",
+     "sha256": "1c51dfbf1906ffe5d807d34fa45877d5a89cba1026c76424556849b933915cd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-171-2025",
+   "path": "local/bucuresti/sector-5/2025/171",
+   "short": "HCLS5 nr. 171/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 171/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-171-din-26.11.2025.pdf",
+     "sha256": "e6cbddaaf569d200d07dc3db736bde65561c1d44656fcdf44cf1e3548c58b199"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-172-2025",
+   "path": "local/bucuresti/sector-5/2025/172",
+   "short": "HCLS5 nr. 172/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 172/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-172-din-26.11.2025.pdf",
+     "sha256": "5f5345e6a986d2f71a2b618d4821ddff96452298070e1dfe260b71ec4af2fb32"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-173-2025",
+   "path": "local/bucuresti/sector-5/2025/173",
+   "short": "HCLS5 nr. 173/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 173/2025 privind schimbarea destinației unei părți a bazei materiale a Școlii Gimnaziale ,,Luceafărul”, situate în Str. Doina, nr. 1, Sector 5, București",
+   "url": "https://sector5.ro/hotararea-nr-173-26-11-2025-privind-schimbarea-destinatiei-unei-parti-a-bazei-materiale-a-scolii-gimnaziale-luceafarul-situate-in-str-doina-nr-1-sector-5-bucuresti/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-173-din-26.11.2025.pdf",
+     "sha256": "03703281cb646a9f428176e6d0f3a8c1a775bd5f82bb922f2c2ee4b9781eab34"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-174-2025",
+   "path": "local/bucuresti/sector-5/2025/174",
+   "short": "HCLS5 nr. 174/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 174/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-174-din-26.11.2025.pdf",
+     "sha256": "49e07750f44cbe24e475e39560f1cb7aa127171266cb32d5e2daf037b0fef86b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-175-2025",
+   "path": "local/bucuresti/sector-5/2025/175",
+   "short": "HCLS5 nr. 175/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 175/2025 privind schimbarea destinației unei părți a bazei materiale a Școlii Gimnaziale Nr. 124, situate în Str. Mărgeanului, nr. 25A, Sector 5, București",
+   "url": "https://sector5.ro/hotararea-nr-175-26-11-2025-privind-schimbarea-destinatiei-unei-parti-a-bazei-materiale-a-scolii-gimnaziale-nr-124-situate-in-str-margeanului-nr-25a-sector-5-bucuresti/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-175-din-26.11.2025.pdf",
+     "sha256": "03e09725e865b487208e1ab8d8dc43342c681882499b1c9c4fec8235bf24d319"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-176-2025",
+   "path": "local/bucuresti/sector-5/2025/176",
+   "short": "HCLS5 nr. 176/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 176/2025 privind schimbarea destinației unei părți a bazei materiale a Școlii Gimnaziale Nr. 128, situate în Str. Ion Creangă, nr. 6, Sector 5, București",
+   "url": "https://sector5.ro/hotararea-nr-176-26-11-2025-privind-schimbarea-destinatiei-unei-parti-a-bazei-materiale-a-scolii-gimnaziale-nr-128-situate-in-str-ion-creanga-nr-6-sector-5-bucuresti/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-176-din-26.11.2025.pdf",
+     "sha256": "ab8e3c0c37b4c6bb550b0f57f8ab31ee7212dfeb5ce90ba52d80008a930129e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-177-2025",
+   "path": "local/bucuresti/sector-5/2025/177",
+   "short": "HCLS5 nr. 177/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 177/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-177-din-26.11.2026.pdf",
+     "sha256": "ca98baea81001cbdc0d3bb25f56296173aacf1718adda7d88008a406f1339989"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-178-2025",
+   "path": "local/bucuresti/sector-5/2025/178",
+   "short": "HCLS5 nr. 178/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 178/2025 privind schimbarea destinației unei părți a bazei materiale a Școlii Gimnaziale Nr. 143, situate în Str. Banu Mărăcine, nr. 16, Sector 5, București",
+   "url": "https://sector5.ro/hotararea-nr-178-26-11-2025-privind-schimbarea-destinatiei-unei-parti-a-bazei-materiale-a-scolii-gimnaziale-nr-143-situate-in-str-banu-maracine-nr-16-sector-5-bucuresti/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-178-din-26.11.2025.pdf",
+     "sha256": "3e522228630100e50a7a573db56847e48caf6672ca71f266da7cf7f87f9505da"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-179-2025",
+   "path": "local/bucuresti/sector-5/2025/179",
+   "short": "HCLS5 nr. 179/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 179/2025 privind schimbarea destinației unei părți a bazei materiale a Școlii Gimnaziale Nr. 150, situate în Bd. Eroii Sanitari, nr. 29-31, Sector 5, București",
+   "url": "https://sector5.ro/hotararea-nr-179-26-11-2025-privind-schimbarea-destinatiei-unei-parti-a-bazei-materiale-a-scolii-gimnaziale-nr-150-situate-in-bd-eroii-sanitari-nr-29-31-sector-5-bucuresti/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-179-din-26.11.2025.pdf",
+     "sha256": "23fe61b1059e44d178b2289081b86fa6b25221c1a0901e9f4f737f566f1f426b"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-18-2025",
+   "path": "local/bucuresti/sector-5/2025/18",
+   "short": "HCLS5 nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 18/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/01/HCL-18-29.01.2025.pdf",
+     "sha256": "faf70e132a5270173121911dce097adfae79034ebefe8bb817378898ea0e6ec8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-180-2025",
+   "path": "local/bucuresti/sector-5/2025/180",
+   "short": "HCLS5 nr. 180/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 180/2025 privind schimbarea destinației unei părți a bazei materiale a Școlii Gimnaziale Nr. 280, situate în Str. Gheorghe Donici, nr. 4A, Sector 5, București",
+   "url": "https://sector5.ro/hotararea-nr-180-26-11-2025-privind-schimbarea-destinatiei-unei-parti-a-bazei-materiale-a-scolii-gimnaziale-nr-280-situate-in-str-gheorghe-donici-nr-4a-sector-5-bucuresti/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-180-din-26.11.2025.pdf",
+     "sha256": "fd56df868976d777cce5bade717f94c2bcd11cc0242b4191a6da6f03496162eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-181-2025",
+   "path": "local/bucuresti/sector-5/2025/181",
+   "short": "HCLS5 nr. 181/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 181/2025 privind asigurarea accesului gratuit al elevilor şi tinerilor care urmează cursurile învăţământului preuniversitar la un proiect de educație prin sport, susținut de reprezentanții Clubului Sportiv Municipal București în sala de sport a Liceului Teoretic „Ion Barbu”",
+   "url": "https://sector5.ro/hotararea-nr-181-26-11-2025-privind-asigurarea-accesului-gratuit-al-elevilor-si-tinerilor-care-urmeaza-cursurile-invatamantului-preuniversitar-la-un-proiect-de-educatie-prin-sport-sustinut-de-reprez/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-181-din-26.11.2025.pdf",
+     "sha256": "0c869d1cbbb06e4c47aa21f2ec90361023007f1ec49a174b111c38d193f269e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-182-2025",
+   "path": "local/bucuresti/sector-5/2025/182",
+   "short": "HCLS5 nr. 182/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 182/2025 privind asigurarea accesului gratuit al elevilor şi tinerilor care urmează cursurile învăţământului preuniversitar la un proiect de educație prin sport, susținut de reprezentanții Clubului Sportiv Municipal București în sala de sport a Școlii Gimnaziale Nr. 2",
+   "url": "https://sector5.ro/hotararea-nr-182-26-11-2025-privind-asigurarea-accesului-gratuit-al-elevilor-si-tinerilor-care-urmeaza-cursurile-invatamantului-preuniversitar-la-un-proiect-de-educatie-prin-sport-sustinut-de-reprez/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-182-din-26.11.2025.pdf",
+     "sha256": "dbea062d938163938da518160d4dc89772a305d4873bff9eb20732540d0695de"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-183-2025",
+   "path": "local/bucuresti/sector-5/2025/183",
+   "short": "HCLS5 nr. 183/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 183/2025 privind asigurarea accesului gratuit al elevilor şi tinerilor care urmează cursurile învăţământului preuniversitar la un proiect de educație prin sport, susținut de reprezentanții Clubului Sportiv Școlar Steaua în sala de sport a Școlii Gimnaziale Nr. 143",
+   "url": "https://sector5.ro/hotararea-nr-183-26-11-2025-privind-asigurarea-accesului-gratuit-al-elevilor-si-tinerilor-care-urmeaza-cursurile-invatamantului-preuniversitar-la-un-proiect-de-educatie-prin-sport-sustinut-de-reprez/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-183-din-26.11.2025.pdf",
+     "sha256": "005a3e30ea879c73c36ec9a163705dd4dd28ab499096bda7cec76566c3f15f7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-184-2025",
+   "path": "local/bucuresti/sector-5/2025/184",
+   "short": "HCLS5 nr. 184/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 184/2025 privind asigurarea accesului gratuit al elevilor şi tinerilor care urmează cursurile învăţământului preuniversitar la un proiect de educație prin sport, susținut de reprezentanții Asociației Clubului Sportiv ”Creativ” în sala de sport a Școlii Gimnaziale Nr. 188",
+   "url": "https://sector5.ro/hotararea-nr-184-26-11-2025-privind-asigurarea-accesului-gratuit-al-elevilor-si-tinerilor-care-urmeaza-cursurile-invatamantului-preuniversitar-la-un-proiect-de-educatie-prin-sport-sustinut-de-reprez/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-184-din-26.11.2025-1.pdf",
+     "sha256": "c74dd99f52e162e3fa4b17e71d528b85ce4b9eba2c53ca9b4d9860c1922015fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-185-2025",
+   "path": "local/bucuresti/sector-5/2025/185",
+   "short": "HCLS5 nr. 185/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 185/2025 privind asigurarea accesului gratuit al elevilor şi tinerilor care urmează cursurile învăţământului preuniversitar la un proiect de educație prin sport, susținut de reprezentanții Clubului Sportiv Școlar nr. 5 în sala de sport a Școlii Gimnaziale ,,Luceafărul”",
+   "url": "https://sector5.ro/hotararea-nr-185-26-11-2025-privind-asigurarea-accesului-gratuit-al-elevilor-si-tinerilor-care-urmeaza-cursurile-invatamantului-preuniversitar-la-un-proiect-de-educatie-prin-sport-sustinut-de-reprez/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-185-din-26.11.2025.pdf",
+     "sha256": "ab54fa05346b06131fb82839e1622d4a8230cb58aa5492e52b0b2b5215ac5561"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-186-2025",
+   "path": "local/bucuresti/sector-5/2025/186",
+   "short": "HCLS5 nr. 186/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 186/2025 privind asigurarea accesului gratuit al elevilor şi tinerilor care urmează cursurile învăţământului preuniversitar la o serie de proiecte de educație prin sport, susținute de reprezentanții Clubului Sportiv Școlar Nr. 4, ai Clubului Sportiv Școlar Dinamo București, ai Clubului Sportiv Superfly București și ai Asociației Partida Romilor Pro-Europa în sala de sport și pe terenul de sport ale Școlii Gimnaziale Nr. 125, incluzând structura arondată, fără personalitate juridică Școala Gimnazială Petrache Poenaru",
+   "url": "https://sector5.ro/hotararea-nr-186-26-11-2025-privind-asigurarea-accesului-gratuit-al-elevilor-si-tinerilor-care-urmeaza-cursurile-invatamantului-preuniversitar-la-o-serie-de-proiecte-de-educatie-prin-sport-sustinute/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-186-din-26.11.2025.pdf",
+     "sha256": "316c0872c7c9a7e13ce27dc601e2318e9df913039f7d309e1dfb7ec4e481ad45"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-187-2025",
+   "path": "local/bucuresti/sector-5/2025/187",
+   "short": "HCLS5 nr. 187/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 187/2025 privind achiziționarea unor servicii juridice de specialitate constând în asistență și reprezentare în fața instanțelor de judecată a intereselor Direcției de Administrare a Unităților de Învățământ Sector 5",
+   "url": "https://sector5.ro/hotararea-nr-187-26-11-2025-privind-achizitionarea-unor-servicii-juridice-de-specialitate-constand-in-asistenta-si-reprezentare-in-fata-instantelor-de-judecata-a-intereselor-directiei-de-administrare/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-187-din-26.11.2025.pdf",
+     "sha256": "2454532843eec40114f93c69b329e184f54a912d42b21b157a283d0ccc96cf06"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-188-2025",
+   "path": "local/bucuresti/sector-5/2025/188",
+   "short": "HCLS5 nr. 188/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 188/2025 privind schimbarea destinației unei părți a bazei materiale a Colegiului Tehnic Energetic, situat în Aleea Podul Giurgiului, nr. 5, Sector 5, București, compusă din teren în suprafață totală de 2.559 mp, și construcții, respectiv imobil C1 – corp internat, în suprafață construită la sol de 569 mp, imobil C2 – corp cantină, în suprafață construită la sol de 586 mp, și imobil C11 – corp ghenă, în suprafață construită la sol de 18 mp, în vederea dării acestora în folosință, cu titlu gratuit, către Direcția Generală de Asistență Socială și Protecția Copilului Sector 5",
+   "url": "https://sector5.ro/hotararea-nr-188-26-11-2025-privind-schimbarea-destinatiei-unei-parti-a-bazei-materiale-a-colegiului-tehnic-energetic-situat-in-aleea-podul-giurgiului-nr-5-sector-5-bucuresti-compusa-din-teren/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/11/HCL-nr.-188-din-26.11.2025.pdf",
+     "sha256": "c0fcb10a15bf923ca6e124af6f6933accc043f0b034b5785600de6f842a66b39"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-189-2025",
+   "path": "local/bucuresti/sector-5/2025/189",
+   "short": "HCLS5 nr. 189/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 189/2025 privind rectificarea Bugetului de Venituri și Cheltuieli pe anul 2025 al Sectorului 5 al Municipiului București aprobat prin H.C.L Sector 5 nr. 38/31.03.2025 cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-189-23-12-2025-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2025-al-sectorului-5-al-municipiului-bucuresti-aprobat-prin-h-c-l-sector-5-nr-38-31-03-2025-cu-modificari/",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/12/HCL-S5-nr.-189-23.12.2025.pdf",
+     "sha256": "0f20adca6552edee1323a19054c41c3fbaac9cadea0de571498710c1608accd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-19-2025",
+   "path": "local/bucuresti/sector-5/2025/19",
+   "short": "HCLS5 nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 19/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/01/HCL-19-29.01.2025.pdf",
+     "sha256": "2c734df0016f90a9dafa1bfa2975061633b8ceed2559aaad8774cb370d8f50ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-190-2025",
+   "path": "local/bucuresti/sector-5/2025/190",
+   "short": "HCLS5 nr. 190/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 190/2025 privind asigurarea accesului gratuit al elevilor din unitățile de învăţământ preuniversitar de stat de nivel liceal din Sectorul 5 la proiectul Mr. SportESCu",
+   "url": "https://sector5.ro/hotararea-nr-190-23-12-2025-privind-asigurarea-accesului-gratuit-al-elevilor-din-unitatile-de-invatamant-preuniversitar-de-stat-de-nivel-liceal-din-sectorul-5-la-proiectul-mr-sportescu/",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/12/HCL-S5-nr.-190-23.12.2025.pdf",
+     "sha256": "252a17f6c86457a43cf63ee55640dd2ee32dd080f4a84b69bf08a5fb84ed36cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-191-2025",
+   "path": "local/bucuresti/sector-5/2025/191",
+   "short": "HCLS5 nr. 191/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 191/2025 pentru modificarea Hotărârii Consiliului Local al Sectorului 5 nr. 97/30.08.2024 privind aprobarea înființării Direcției de Administrare a Unităților de Învățământ Sector 5 ca serviciu public de interes local cu personalitate juridică în subordinea Consiliului Local al Sectorului 5, cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-191-23-12-2025-pentru-modificarea-hotararii-consiliului-local-al-sectorului-5-nr-97-30-08-2024-privind-aprobarea-infiintarii-directiei-de-administrare-a-unitatilor-de-invatamant-sector/",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/12/HCL-S5-nr.-191-23.12.2025.pdf",
+     "sha256": "3258892dc8968ca80077836c7219413f4fce865e8ecd063df21d15edfcf8b8a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-192-2025",
+   "path": "local/bucuresti/sector-5/2025/192",
+   "short": "HCLS5 nr. 192/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 192/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/12/HCL-S5-nr.-192-23.12.2025.pdf",
+     "sha256": "ef859dff1df6fa2e0e3c1118f40b60db7c64b7b436a4f65d5225351d4d774838"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-193-2025",
+   "path": "local/bucuresti/sector-5/2025/193",
+   "short": "HCLS5 nr. 193/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 193/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/12/HCL-S5-nr.-193-23.12.2025.pdf",
+     "sha256": "63388dc887183327d0ccafcdb6d5da3a29732e4d78b45e2aadfc97942695f7fc"
     }
    ]
   },
@@ -63,6 +1593,201 @@
    ]
   },
   {
+   "slug": "hcls5-195-2025",
+   "path": "local/bucuresti/sector-5/2025/195",
+   "short": "HCLS5 nr. 195/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 195/2025 privind aprobarea listelor cu ordinea de prioritate pe anul 2025 în soluționarea cererilor de locuință depuse în baza Legii locuinței nr. 114/1996 și a OUG nr. 74/2007",
+   "url": "https://sector5.ro/hotararea-nr-195-23-12-2025-privind-aprobarea-listelor-cu-ordinea-de-prioritate-pe-anul-2025-in-solutionarea-cererilor-de-locuinta-depuse-in-baza-legii-locuintei-nr-114-1996-si-a-oug-nr-74-20/",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/12/HCL-S5-nr.-195-23.12.2025.pdf",
+     "sha256": "46c1732d06322292ec12ec1fcb901bd93e913451b8114c18c9a20560874e0133"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-196-2025",
+   "path": "local/bucuresti/sector-5/2025/196",
+   "short": "HCLS5 nr. 196/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 196/2025 privind aprobarea Strategiei Locale de Dezvoltare a Serviciilor Sociale pentru perioada 2025-2030 a Direcției Generale de Asistență Socială și Protecția Copilului Sector 5 și a Planului de implementare a Strategiei Locale de Dezvoltare a Serviciilor Sociale pentru perioada 2025-2030",
+   "url": "https://sector5.ro/hotararea-nr-196-23-12-2025-privind-aprobarea-strategiei-locale-de-dezvoltare-a-serviciilor-sociale-pentru-perioada-2025-2030-a-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-5/",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/12/HCL-S5-nr.-196-23.12.2025.pdf",
+     "sha256": "84626b654601305abd8cb18a738ff1522f3bc27856663e5fbb38d2862cb3411d"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-197-2025",
+   "path": "local/bucuresti/sector-5/2025/197",
+   "short": "HCLS5 nr. 197/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 197/2025 privind aprobarea Planului de acțiuni/lucrări de interes local pentru anul 2026 al Direcției Generale de Asistență Socială și Protecția Copilului Sector 5",
+   "url": "https://sector5.ro/hotararea-nr-197-23-12-2025-privind-aprobarea-planului-de-actiuni-lucrari-de-interes-local-pentru-anul-2026-al-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-5/",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/12/HCL-S5-nr.-197-23.12.2025.pdf",
+     "sha256": "dca8f9d2a5cb6fef0ac6b986a43db163dff611fd9fae97cb05d14aa7b7a910a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-198-2025",
+   "path": "local/bucuresti/sector-5/2025/198",
+   "short": "HCLS5 nr. 198/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 198/2025 privind aprobarea Programului de acțiune comunitară la nivelul Sectorului 5, aferent anului 2026",
+   "url": "https://sector5.ro/hotararea-nr-198-23-12-2025-privind-aprobarea-programului-de-actiune-comunitara-la-nivelul-sectorului-5-aferent-anului-2026/",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/12/HCL-S5-nr.-198-23.12.2025.pdf",
+     "sha256": "48fbdc1859362051df4404bc2272b86cbea7490e5d23d7e94ff0c17b933764aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-199-2025",
+   "path": "local/bucuresti/sector-5/2025/199",
+   "short": "HCLS5 nr. 199/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 199/2025 privind anularea creanțelor fiscale mai mici de 40 de lei, aflate în sold la data de 31.12.2025",
+   "url": "https://sector5.ro/hotararea-nr-199-23-12-2025-privind-anularea-creantelor-fiscale-mai-mici-de-40-de-lei-aflate-in-sold-la-data-de-31-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/12/HCL-S5-nr.-199-23.12.2025.pdf",
+     "sha256": "d6c42d0ead71d05107172d7aca120e4fbe18616220276e371219660432853691"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-2-2025",
+   "path": "local/bucuresti/sector-5/2025/2",
+   "short": "HCLS5 nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 2/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/01/HCL-02-29.01.2025.pdf",
+     "sha256": "5a7490518d3b3c5cad8031e04e42c9fdf824c4a3623b06dee24efdbd4e57741e"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-20-2025",
+   "path": "local/bucuresti/sector-5/2025/20",
+   "short": "HCLS5 nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 20/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/02/HCL-20-05.02.2025.pdf",
+     "sha256": "941b293597d1e480848185040840bf1750ede2569ecfa758d61d3716a8cb097a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-200-2025",
+   "path": "local/bucuresti/sector-5/2025/200",
+   "short": "HCLS5 nr. 200/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 200/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/12/HCL-S5-nr.-200-23.12.2025.pdf",
+     "sha256": "941361d34405ac6342283fae76a038110f06d17df3d9ef136a1856ea95576972"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-21-2025",
+   "path": "local/bucuresti/sector-5/2025/21",
+   "short": "HCLS5 nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 21/2025 pentru modificarea Hotărârii Consiliului Local Sector 5 nr. 27/29.02.2024 privind aprobarea participării la Programul de finanțare „Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile pentru autoconsum pentru entități publice” din cadrul „Programului-cheie 1: Surse regenerabile de energie și stocarea energiei”, finanțat din fondurile europene alocate României prin Fondul pentru Modernizare (FM), a documentației și a indicatorilor tehnico-economici pentru obiectivul de investiții: „Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile pentru autoconsum – construire centrale fotovoltaice Sectorul 5”",
+   "url": "https://sector5.ro/hotararea-nr-21-05-02-2025-pentru-modificarea-hotararii-consiliului-local-sector-5-nr-27-29-02-2024-privind-aprobarea-participarii-la-programul-de-finantare-sprijinirea-investitiilor-in-noi/",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://sector5.ro/hotararea-nr-21-05-02-2025-pentru-modificarea-hotararii-consiliului-local-sector-5-nr-27-29-02-2024-privind-aprobarea-participarii-la-programul-de-finantare-sprijinirea-investitiilor-in-noi/",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-22-2025",
+   "path": "local/bucuresti/sector-5/2025/22",
+   "short": "HCLS5 nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 22/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/02/HCL-22-din-27.02.2025.pdf",
+     "sha256": "6876b3b4ef10c8c586c5ca2d7569b86e58096e62b717a6eb044fd0403b72b3d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-23-2025",
+   "path": "local/bucuresti/sector-5/2025/23",
+   "short": "HCLS5 nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 23/2025 privind aprobarea contractării unei/unor finanțări rambursabile interne în valoare de până la 984.848.426 lei",
+   "url": "https://sector5.ro/hotararea-nr-23-27-02-2025-privind-aprobarea-contractarii-unei-unor-finantari-rambursabile-interne-in-valoare-de-pana-la-984-848-426-lei/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/02/HCL-23-din-27.02.2025.pdf",
+     "sha256": "bfb812f4a2a37a15504d65d67228484bd5cd333dbe8cb6b1a022696d3762bab6"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-24-2025",
+   "path": "local/bucuresti/sector-5/2025/24",
+   "short": "HCLS5 nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 24/2025 privind aprobarea indicatorilor tehnico-economici la faza documentație de avizare a lucrărilor de intervenție în vederea creșterii performanței energetice pentru 100 blocuri de locuințe de pe raza Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-24-27-02-2025-privind-aprobarea-indicatorilor-tehnico-economici-la-faza-documentatie-de-avizare-a-lucrarilor-de-interventie-in-vederea-cresterii-performantei-energetice-pentru-100-blocur/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/02/HCL-24-din-27.02.2025.pdf",
+     "sha256": "da36f0ac1b0f33062094924b906d34d1550623aeec5321a73285ecd062a63f94"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-25-2025",
+   "path": "local/bucuresti/sector-5/2025/25",
+   "short": "HCLS5 nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 25/2025 privind aprobarea contractării unei/unor finanțări rambursabile interne în valoare de până la 150.000.000 lei",
+   "url": "https://sector5.ro/hotararea-nr-25-27-02-2025-privind-aprobarea-contractarii-unei-unor-finantari-rambursabile-interne-in-valoare-de-pana-la-150-000-000-lei/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/02/HCL-25-din-27.02.2025.pdf",
+     "sha256": "0a0111d769b84ef6bdb7afe714f72f11c661a49c4729fe18ae7b313c91585990"
+    }
+   ]
+  },
+  {
    "slug": "hcls5-26-2025",
    "path": "local/bucuresti/sector-5/2025/26",
    "short": "HCLS5 nr. 26/2025",
@@ -78,6 +1803,246 @@
    ]
   },
   {
+   "slug": "hcls5-27-2025",
+   "path": "local/bucuresti/sector-5/2025/27",
+   "short": "HCLS5 nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 27/2025 privind aprobarea regulamentului Comisei de analiză a cererilor și de repartizare a locuințelor",
+   "url": "https://sector5.ro/hotararea-nr-27-27-02-2025-privind-aprobarea-regulamentului-comisei-de-analiza-a-cererilor-si-de-repartizare-a-locuintelor/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/02/HCL-27-din-27.02.2025.pdf",
+     "sha256": "296679c732d2364316061d015fc394cbb765900d50b710eafc8763aad3306715"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-28-2025",
+   "path": "local/bucuresti/sector-5/2025/28",
+   "short": "HCLS5 nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 28/2025 privind aprobarea Criteriilor aplicabile la stabilirea ordinii de prioritate în soluționarea cererilor de locuință din fondul locativ de stat, depuse de categoriile de solicitanți prevăzute de Legea locuinței nr.114/1996, cu modificările și completările ulterioare și OUG nr.74/2007, a criteriilor aplicabile la aprobarea extinderilor pentru spații disponibilizate în cadrul aceleiași unități locative, respectiv repartizarea spațiilor libere cu dependințe la comun, repartizarea garajelor și a anexelor gospodărești",
+   "url": "https://sector5.ro/hotararea-nr-28-27-02-2025-privind-aprobarea-criteriilor-aplicabile-la-stabilirea-ordinii-de-prioritate-in-solutionarea-cererilor-de-locuinta-din-fondul-locativ-de-stat-depuse-de-categoriile-de-soli/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/02/HCL-28-din-27.02.2025.pdf",
+     "sha256": "f4c7915e9907d4504d438a6a361afe462efbcd8437f98bb50565a2d1ee9f568f"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-29-2025",
+   "path": "local/bucuresti/sector-5/2025/29",
+   "short": "HCLS5 nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 29/2025 privind desemnarea membrilor “Comisiei de analiză a cererilor și de repartizare a locuințelor”",
+   "url": "https://sector5.ro/hotararea-nr-29-27-02-2025-privind-desemnarea-membrilor-comisiei-de-analiza-a-cererilor-si-de-repartizare-a-locuintelor/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/02/HCL-29-din-27.02.2025.pdf",
+     "sha256": "94be2bdf947199820d37748ddd36129c80d1fdc0d3cc0a581e7b5251e1b9e9e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-3-2025",
+   "path": "local/bucuresti/sector-5/2025/3",
+   "short": "HCLS5 nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 3/2025 privind utilizarea excedentului bugetar aferent anului 2024 pentru finanțarea cheltuielilor Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-3-29-01-2025-privind-utilizarea-excedentului-bugetar-aferent-anului-2024-pentru-finantarea-cheltuielilor-sectorului-5-al-municipiului-bucuresti/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/01/HCL-03-29.01.2025.pdf",
+     "sha256": "4142aa519e5f075098c7d2b0083c49e6cfdaf8f37665af4d74e4e89029ee75dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-30-2025",
+   "path": "local/bucuresti/sector-5/2025/30",
+   "short": "HCLS5 nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 30/2025 privind modificarea componenței Comisiei Locale de Ordine Publică a Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-30-27-02-2025-privind-modificarea-componentei-comisiei-locale-de-ordine-publica-a-sectorului-5-al-municipiului-bucuresti/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/02/HCL-30-din-27.02.2025.pdf",
+     "sha256": "c873bbecb317c4c65c35e04e27814ad15bb6d10e9f5912a4059aacd2c21325b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-31-2025",
+   "path": "local/bucuresti/sector-5/2025/31",
+   "short": "HCLS5 nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 31/2025 pentru completarea Hotărârii Consiliului Local al Sectorului 5 nr. 97/30.08.2024 privind aprobarea înființării Direcției de Administrare a Unităților de Învățământ Sector 5 ca serviciu public de interes local cu personalitate juridică în subordinea Consiliului Local al Sectorului 5, cu modificările și completările ulterioare",
+   "url": "https://sector5.ro/hotararea-nr-31-27-02-2025-pentru-completarea-hotararii-consiliului-local-al-sectorului-5-nr-97-30-08-2024-privind-aprobarea-infiintarii-directiei-de-administrare-a-unitatilor-de-invatamant-sector-5/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/02/HCL-31-din-27.02.2025.pdf",
+     "sha256": "b78f4db39f43991a50c39f5ad55623dc1ce5adaa25f9fbef2e71ea25f0d6f2ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-32-2025",
+   "path": "local/bucuresti/sector-5/2025/32",
+   "short": "HCLS5 nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 32/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/02/HCL-32-din-27.02.2025.pdf",
+     "sha256": "02e72878b4f2eeabffc3793e1bcf99965120ca58c47a0af60726e18d52ea8220"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-33-2025",
+   "path": "local/bucuresti/sector-5/2025/33",
+   "short": "HCLS5 nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 33/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/02/HCL-33-din-27.02.2025.pdf",
+     "sha256": "7e2ef95cbb776bd21606e9b327aa8e103166e83b69818d7b83177b2965a7e962"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-34-2025",
+   "path": "local/bucuresti/sector-5/2025/34",
+   "short": "HCLS5 nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 34/2025 privind transmiterea fără plată a unui autoturism marca Dacia DOKKER M1 din patrimoniul Sectorului 5 al Municipiului București în patrimoniul Direcției Generale de Asistență Socială și Protecția Copilului Sector 5",
+   "url": "https://sector5.ro/hotararea-nr-34-27-02-2025-privind-transmiterea-fara-plata-a-unui-autoturism-marca-dacia-dokker-m1-din-patrimoniul-sectorului-5-al-municipiului-bucuresti-in-patrimoniul-directiei-generale-de-asistent/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/02/HCL-34-din-27.02.2025.pdf",
+     "sha256": "21ab4e610d332a4ba2c76c881e9bf334d06865fa00e88d02cec5aa18f213e09a"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-35-2025",
+   "path": "local/bucuresti/sector-5/2025/35",
+   "short": "HCLS5 nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 35/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/02/HCL-35-din-27.02.2025.pdf",
+     "sha256": "5e78c8f843559918154036a7156d5ad48ce51a9eee185590686e2fa0f5a35d85"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-36-2025",
+   "path": "local/bucuresti/sector-5/2025/36",
+   "short": "HCLS5 nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 36/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/02/HCL-36-din-27.02.pdf",
+     "sha256": "906ba087fb0e8482df3efdd4f35ac93dd826f3a7e60aaf5aa99379d68fc41c9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-37-2025",
+   "path": "local/bucuresti/sector-5/2025/37",
+   "short": "HCLS5 nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 37/2025 privind aprobarea componenței Colegiului Director al Direcției Generale de Asistență Socială și Protecția Copilului Sector 5",
+   "url": "https://sector5.ro/hotararea-nr-37-27-02-2025-privind-aprobarea-componentei-colegiului-director-al-directiei-generale-de-asistenta-sociala-si-protectia-copilului-sector-5/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/02/HCL-37-din-27.02.2025.pdf",
+     "sha256": "259f6b54d1db73f5b52b3325463fcdbfdf7694f921af2267ef03c7abeca87ae8"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-38-2025",
+   "path": "local/bucuresti/sector-5/2025/38",
+   "short": "HCLS5 nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 38/2025 privind aprobarea bugetului de venituri și cheltuieli pe anul 2025 al Sectorului 5 al Municipiului București",
+   "url": "https://sector5.ro/hotararea-nr-38-31-03-2025-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2025-al-sectorului-5-al-municipiului-bucuresti/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/03/HCL-38-31.03.2025.pdf",
+     "sha256": "3d7c8bc5aee3e679723b477d4faa83e3610047a37871f0ffcebdfbad9c7e9aaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-39-2025",
+   "path": "local/bucuresti/sector-5/2025/39",
+   "short": "HCLS5 nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 39/2025 privind aprobarea bugetului de venituri și cheltuieli pentru anul financiar 2025 al Societății Amenajare Edilitară S5 S.A, Societății Salubrizare Sector 5 S.A, Societății Infrastructură S5 S.A și al S.C Economat Sector 5 S.R.L",
+   "url": "https://sector5.ro/hotararea-nr-39-31-03-2025-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-pentru-anul-financiar-2025-al-societatii-amenajare-edilitara-s5-s-a-societatii-salubrizare-sector-5-s-a-societatii-i/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/03/HCL-39-31.03.2025.pdf",
+     "sha256": "7f2a8759678b01c4947d3b569a90f0a3348f3147d04c3234f194b5181a72eec1"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-4-2025",
+   "path": "local/bucuresti/sector-5/2025/4",
+   "short": "HCLS5 nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 4/2025 pentru completarea Hotărârii Consiliului Local al Sectorului 5 nr. 134/26.09.2024 privind aprobarea Organigramei, Statului de funcții, Regulamentul de Organizare și Funcționare ale Direcției de Impozite și Taxe Locale Sector 5, prin reorganizare",
+   "url": "https://sector5.ro/hotararea-nr-4-29-01-2025-pentru-completarea-hotararii-consiliului-local-al-sectorului-5-nr-134-26-09-2024-privind-aprobarea-organigramei-statului-de-functii-regulamentul-de-organizare-si-function/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/01/HCL-04-29.01.2025.pdf",
+     "sha256": "f142ea29533a28d03009515489e9930683c203b162267d89057c6a7f7e991dbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-40-2025",
+   "path": "local/bucuresti/sector-5/2025/40",
+   "short": "HCLS5 nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 40/2025 pentru aprobarea “Studiului de oportunitate privind modalitatea de gestiune a serviciului public de salubrizare incluzând colectarea separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenite din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separat, de pe raza administrativ teritorială a Sectorului 5 al Municipiului Bucureşti”",
+   "url": "https://sector5.ro/hotararea-nr-40-31-03-2025-pentru-aprobarea-studiului-de-oportunitate-privind-modalitatea-de-gestiune-a-serviciului-public-de-salubrizare-incluzand-colectarea-separata-si-transportul-separat-al-des/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/03/HCL-40-31.03.2025.pdf",
+     "sha256": "b747605c26b29fbe4e9e6919f65cd057c95bd504ddbd3c50298f2372d1186d1d"
+    }
+   ]
+  },
+  {
    "slug": "hcls5-41-2025",
    "path": "local/bucuresti/sector-5/2025/41",
    "short": "HCLS5 nr. 41/2025",
@@ -89,6 +2054,21 @@
      "units": 1,
      "source_url": "https://sector5.ro/media/2025/03/HCL-41-31.03.2025.pdf",
      "sha256": "42f23793500fb6df226a970b44aabb0b82ab9c001a99694255bfece29cc8cb17"
+    }
+   ]
+  },
+  {
+   "slug": "hcls5-42-2025",
+   "path": "local/bucuresti/sector-5/2025/42",
+   "short": "HCLS5 nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Sectorului 5 nr. 42/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://sector5.ro/media/2025/04/HCL-42-31.03.2025.pdf",
+     "sha256": "e5eeaa974435479df0813cad4f5a121bdfe02f9ea4f790135b4e341c69a5af82"
     }
    ]
   },

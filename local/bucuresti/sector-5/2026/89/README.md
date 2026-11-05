@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Sectorului 5 nr. 89/2026 privind rectificarea bugetului de venituri și cheltuieli pe anul 2026 al Sectorului 5 al Municipiului București aprobat prin H.C.L Sector 5 nr. 35/12.05.2026 cu modificările și completările ulterioare
+
+HCLS5 nr. 89/2026 · 1 versions, from 2026-08-05 (latest in force: 2026-08-05) · <https://sector5.ro/hotararea-nr-89-04-08-2026-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2026-al-sectorului-5-al-municipiului-bucuresti-aprobat-prin-h-c-l-sector-5-nr-35-12-05-2026-cu-modificaril/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcls5-89-2026` (tags `hcls5-89-2026/<day>`; `python tools/on.py <day> hcls5-89-2026`).
+
+## Decisions made by hand
+
+- HCLS5 nr. 89/2026: listed from Consiliul Local al Sectorului 5 (sector5.ro); an individual decision: metadata only.
+- HCLS5 nr. 89/2026: dated from 5 August 2026, the day the council's register gives it as published (adopted 4 August 2026).
+- HCLS5 nr. 89/2026: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.
